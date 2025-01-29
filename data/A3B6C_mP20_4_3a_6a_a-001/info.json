@@ -80,5 +80,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B6C_mP20_4_3a_6a_a"
+    "alias": "A3B6C_mP20_4_3a_6a_a",
+    "number_of_species": 3,
+    "pearson_symbol": "mP20",
+    "space_group_number": 4
 }

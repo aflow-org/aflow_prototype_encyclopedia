@@ -99,5 +99,8 @@
     "legacy": false,
     "strukturbericht_tex": "$J1_{8}$",
     "compounds": {},
-    "alias": "A3B15C5D_oP96_62_cd_3c6d_3cd_c"
+    "alias": "A3B15C5D_oP96_62_cd_3c6d_3cd_c",
+    "number_of_species": 4,
+    "pearson_symbol": "oP96",
+    "space_group_number": 62
 }

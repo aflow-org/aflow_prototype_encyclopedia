@@ -96,5 +96,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A_aP24_2_12i-001"
+    "alias": "A_aP24_2_12i-001",
+    "number_of_species": 1,
+    "pearson_symbol": "aP24",
+    "space_group_number": 2
 }

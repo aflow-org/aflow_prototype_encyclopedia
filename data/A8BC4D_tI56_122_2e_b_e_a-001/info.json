@@ -34,5 +34,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A8BC4D_tI56_122_2e_b_e_a"
+    "alias": "A8BC4D_tI56_122_2e_b_e_a",
+    "number_of_species": 4,
+    "pearson_symbol": "tI56",
+    "space_group_number": 122
 }

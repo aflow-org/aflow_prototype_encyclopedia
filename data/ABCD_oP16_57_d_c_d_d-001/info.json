@@ -33,5 +33,8 @@
     "legacy": false,
     "strukturbericht_tex": "$F5_{9}$",
     "compounds": {},
-    "alias": "ABCD_oP16_57_d_c_d_d"
+    "alias": "ABCD_oP16_57_d_c_d_d",
+    "number_of_species": 4,
+    "pearson_symbol": "oP16",
+    "space_group_number": 57
 }

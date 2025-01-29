@@ -21,5 +21,8 @@
     "legacy": false,
     "strukturbericht_tex": "$C14$",
     "compounds": {},
-    "alias": "AB2_hP12_194_f_ah"
+    "alias": "AB2_hP12_194_f_ah",
+    "number_of_species": 2,
+    "pearson_symbol": "hP12",
+    "space_group_number": 194
 }

@@ -76,5 +76,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B7_tP40_76_3a_7a"
+    "alias": "A3B7_tP40_76_3a_7a",
+    "number_of_species": 2,
+    "pearson_symbol": "tP40",
+    "space_group_number": 76
 }

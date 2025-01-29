@@ -18,5 +18,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B4_hP7_191_f_de-001"
+    "alias": "A3B4_hP7_191_f_de-001",
+    "number_of_species": 2,
+    "pearson_symbol": "hP7",
+    "space_group_number": 191
 }

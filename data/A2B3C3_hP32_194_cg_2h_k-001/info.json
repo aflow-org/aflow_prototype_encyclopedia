@@ -24,5 +24,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B3C3_hP32_194_cg_2h_k-001"
+    "alias": "A2B3C3_hP32_194_cg_2h_k-001",
+    "number_of_species": 3,
+    "pearson_symbol": "hP32",
+    "space_group_number": 194
 }

@@ -42,5 +42,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC2_oP16_33_a_a_2a"
+    "alias": "ABC2_oP16_33_a_a_2a",
+    "number_of_species": 3,
+    "pearson_symbol": "oP16",
+    "space_group_number": 33
 }

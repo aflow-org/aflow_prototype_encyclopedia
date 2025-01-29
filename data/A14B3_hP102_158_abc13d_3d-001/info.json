@@ -118,5 +118,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A14B3_hP102_158_abc13d_3d-001"
+    "alias": "A14B3_hP102_158_abc13d_3d-001",
+    "number_of_species": 2,
+    "pearson_symbol": "hP102",
+    "space_group_number": 158
 }

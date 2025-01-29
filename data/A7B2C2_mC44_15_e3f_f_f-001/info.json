@@ -52,5 +52,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A7B2C2_mC44_15_e3f_f_f"
+    "alias": "A7B2C2_mC44_15_e3f_f_f",
+    "number_of_species": 3,
+    "pearson_symbol": "mC44",
+    "space_group_number": 15
 }

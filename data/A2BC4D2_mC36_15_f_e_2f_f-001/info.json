@@ -46,5 +46,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A2BC4D2_mC36_15_f_e_2f_f"
+    "alias": "A2BC4D2_mC36_15_f_e_2f_f",
+    "number_of_species": 4,
+    "pearson_symbol": "mC36",
+    "space_group_number": 15
 }

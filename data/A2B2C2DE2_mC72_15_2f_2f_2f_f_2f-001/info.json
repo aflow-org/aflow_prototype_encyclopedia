@@ -74,5 +74,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B2C2DE2_mC72_15_2f_2f_2f_f_2f-001"
+    "alias": "A2B2C2DE2_mC72_15_2f_2f_2f_f_2f-001",
+    "number_of_species": 5,
+    "pearson_symbol": "mC72",
+    "space_group_number": 15
 }

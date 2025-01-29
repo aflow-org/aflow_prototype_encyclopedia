@@ -36,5 +36,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A2BC4_hR42_167_f_ac_2f"
+    "alias": "A2BC4_hR42_167_f_ac_2f",
+    "number_of_species": 3,
+    "pearson_symbol": "hR42",
+    "space_group_number": 167
 }

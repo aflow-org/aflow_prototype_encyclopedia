@@ -46,5 +46,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A9B5_oC56_63_c4f_c2f-001"
+    "alias": "A9B5_oC56_63_c4f_c2f-001",
+    "number_of_species": 2,
+    "pearson_symbol": "oC56",
+    "space_group_number": 63
 }

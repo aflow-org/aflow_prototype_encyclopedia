@@ -152,5 +152,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A17BC4D_tP184_89_17p_p_4p_io"
+    "alias": "A17BC4D_tP184_89_17p_p_4p_io",
+    "number_of_species": 4,
+    "pearson_symbol": "tP184",
+    "space_group_number": 89
 }

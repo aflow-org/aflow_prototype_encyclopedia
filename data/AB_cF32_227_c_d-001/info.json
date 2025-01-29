@@ -15,5 +15,8 @@
     "legacy": false,
     "strukturbericht_tex": "$L1_{3}(I)$",
     "compounds": {},
-    "alias": "AB_cF32_227_c_d"
+    "alias": "AB_cF32_227_c_d",
+    "number_of_species": 2,
+    "pearson_symbol": "cF32",
+    "space_group_number": 227
 }

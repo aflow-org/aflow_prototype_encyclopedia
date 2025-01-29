@@ -48,5 +48,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B24C_hR28_160_b_2b3c_a"
+    "alias": "A3B24C_hR28_160_b_2b3c_a",
+    "number_of_species": 3,
+    "pearson_symbol": "hR28",
+    "space_group_number": 160
 }

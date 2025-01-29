@@ -30,5 +30,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A4B3_hP14_173_bc_c"
+    "alias": "A4B3_hP14_173_bc_c",
+    "number_of_species": 2,
+    "pearson_symbol": "hP14",
+    "space_group_number": 173
 }

@@ -19,5 +19,8 @@
     "legacy": false,
     "strukturbericht_tex": "$B37$",
     "compounds": {},
-    "alias": "AB_tI16_140_ab_h"
+    "alias": "AB_tI16_140_ab_h",
+    "number_of_species": 2,
+    "pearson_symbol": "tI16",
+    "space_group_number": 140
 }

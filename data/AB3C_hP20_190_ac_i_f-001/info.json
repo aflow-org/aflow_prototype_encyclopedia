@@ -25,5 +25,8 @@
     "legacy": false,
     "strukturbericht_tex": "$K1_{2}$",
     "compounds": {},
-    "alias": "AB3C_hP20_190_ac_i_f"
+    "alias": "AB3C_hP20_190_ac_i_f",
+    "number_of_species": 3,
+    "pearson_symbol": "hP20",
+    "space_group_number": 190
 }

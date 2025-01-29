@@ -116,5 +116,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B4C10_mP68_14_ab2e_4e_10e-001"
+    "alias": "A3B4C10_mP68_14_ab2e_4e_10e-001",
+    "number_of_species": 3,
+    "pearson_symbol": "mP68",
+    "space_group_number": 14
 }

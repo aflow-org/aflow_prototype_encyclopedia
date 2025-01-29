@@ -22,5 +22,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "AB_hR8_166_2c_abc-001"
+    "alias": "AB_hR8_166_2c_abc-001",
+    "number_of_species": 2,
+    "pearson_symbol": "hR8",
+    "space_group_number": 166
 }

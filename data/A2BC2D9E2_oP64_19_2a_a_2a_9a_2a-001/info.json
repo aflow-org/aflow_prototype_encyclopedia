@@ -114,5 +114,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A2BC2D9E2_oP64_19_2a_a_2a_9a_2a-001"
+    "alias": "A2BC2D9E2_oP64_19_2a_a_2a_9a_2a-001",
+    "number_of_species": 5,
+    "pearson_symbol": "oP64",
+    "space_group_number": 19
 }

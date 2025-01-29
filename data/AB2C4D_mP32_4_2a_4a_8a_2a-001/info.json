@@ -116,5 +116,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB2C4D_mP32_4_2a_4a_8a_2a-001"
+    "alias": "AB2C4D_mP32_4_2a_4a_8a_2a-001",
+    "number_of_species": 4,
+    "pearson_symbol": "mP32",
+    "space_group_number": 4
 }

@@ -99,5 +99,8 @@
     "legacy": false,
     "strukturbericht_tex": "$S5_{5}$",
     "compounds": {},
-    "alias": "A3B5C4D2_mC112_15_a3ef_5f_4f_2f"
+    "alias": "A3B5C4D2_mC112_15_a3ef_5f_4f_2f",
+    "number_of_species": 4,
+    "pearson_symbol": "mC112",
+    "space_group_number": 15
 }

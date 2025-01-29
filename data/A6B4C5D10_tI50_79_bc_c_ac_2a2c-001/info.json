@@ -54,5 +54,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A6B4C5D10_tI50_79_bc_c_ac_2a2c-001"
+    "alias": "A6B4C5D10_tI50_79_bc_c_ac_2a2c-001",
+    "number_of_species": 4,
+    "pearson_symbol": "tI50",
+    "space_group_number": 79
 }

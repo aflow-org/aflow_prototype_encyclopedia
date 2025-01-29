@@ -26,5 +26,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B7C2D_oF48_69_g_agl_g_b-001"
+    "alias": "A2B7C2D_oF48_69_g_agl_g_b-001",
+    "number_of_species": 4,
+    "pearson_symbol": "oF48",
+    "space_group_number": 69
 }

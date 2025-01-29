@@ -61,5 +61,8 @@
     "legacy": false,
     "strukturbericht_tex": "$D2_{2}$",
     "compounds": {},
-    "alias": "AB5_mC48_12_2i_ac5i2j"
+    "alias": "AB5_mC48_12_2i_ac5i2j",
+    "number_of_species": 2,
+    "pearson_symbol": "mC48",
+    "space_group_number": 12
 }

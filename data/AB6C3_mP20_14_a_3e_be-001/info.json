@@ -45,5 +45,8 @@
     "legacy": false,
     "strukturbericht_tex": "$J2_{6}$",
     "compounds": {},
-    "alias": "AB6C3_mP20_14_a_3e_de"
+    "alias": "AB6C3_mP20_14_a_3e_de",
+    "number_of_species": 3,
+    "pearson_symbol": "mP20",
+    "space_group_number": 14
 }

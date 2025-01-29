@@ -22,5 +22,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "AB3C4_hP16_194_c_af_ef"
+    "alias": "AB3C4_hP16_194_c_af_ef",
+    "number_of_species": 3,
+    "pearson_symbol": "hP16",
+    "space_group_number": 194
 }

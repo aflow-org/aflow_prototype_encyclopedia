@@ -72,5 +72,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "AB3C9D_hP28_143_2a_2d_6d_bc"
+    "alias": "AB3C9D_hP28_143_2a_2d_6d_bc",
+    "number_of_species": 4,
+    "pearson_symbol": "hP28",
+    "space_group_number": 143
 }

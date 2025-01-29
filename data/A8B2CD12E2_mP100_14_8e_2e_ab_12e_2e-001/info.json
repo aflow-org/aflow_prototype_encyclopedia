@@ -164,5 +164,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A8B2CD12E2_mP100_14_8e_2e_ad_12e_2e"
+    "alias": "A8B2CD12E2_mP100_14_8e_2e_ad_12e_2e",
+    "number_of_species": 5,
+    "pearson_symbol": "mP100",
+    "space_group_number": 14
 }

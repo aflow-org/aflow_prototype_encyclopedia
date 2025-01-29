@@ -23,5 +23,8 @@
     "legacy": false,
     "strukturbericht_tex": "$A17$",
     "compounds": {},
-    "alias": "A_oC8_64_f.P"
+    "alias": "A_oC8_64_f.P",
+    "number_of_species": 1,
+    "pearson_symbol": "oC8",
+    "space_group_number": 64
 }

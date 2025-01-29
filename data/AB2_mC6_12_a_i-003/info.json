@@ -24,5 +24,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB2_mC6_12_a_i-003"
+    "alias": "AB2_mC6_12_a_i-003",
+    "number_of_species": 2,
+    "pearson_symbol": "mC6",
+    "space_group_number": 12
 }

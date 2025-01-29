@@ -30,5 +30,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "A_aP4_2_aci"
+    "alias": "A_aP4_2_aci",
+    "number_of_species": 1,
+    "pearson_symbol": "aP4",
+    "space_group_number": 2
 }

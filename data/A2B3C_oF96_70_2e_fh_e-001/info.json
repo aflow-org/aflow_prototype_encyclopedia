@@ -32,5 +32,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B3C_oF96_70_2e_fh_e-001"
+    "alias": "A2B3C_oF96_70_2e_fh_e-001",
+    "number_of_species": 3,
+    "pearson_symbol": "oF96",
+    "space_group_number": 70
 }

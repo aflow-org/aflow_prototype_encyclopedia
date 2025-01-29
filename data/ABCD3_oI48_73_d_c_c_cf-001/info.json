@@ -32,5 +32,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "ABCD3_oI48_73_d_e_e_ef"
+    "alias": "ABCD3_oI48_73_d_e_e_ef",
+    "number_of_species": 4,
+    "pearson_symbol": "oI48",
+    "space_group_number": 73
 }

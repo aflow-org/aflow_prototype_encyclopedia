@@ -26,5 +26,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "AB3C_cP60_201_be_fh_g"
+    "alias": "AB3C_cP60_201_be_fh_g",
+    "number_of_species": 3,
+    "pearson_symbol": "cP60",
+    "space_group_number": 201
 }

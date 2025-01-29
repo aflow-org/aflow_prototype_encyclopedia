@@ -20,5 +20,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A12B2C_cF60_196_h_bc_a"
+    "alias": "A12B2C_cF60_196_h_bc_a",
+    "number_of_species": 3,
+    "pearson_symbol": "cF60",
+    "space_group_number": 196
 }

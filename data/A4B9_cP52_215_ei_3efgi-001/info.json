@@ -35,5 +35,8 @@
     "legacy": false,
     "strukturbericht_tex": "$D8_{3}$",
     "compounds": {},
-    "alias": "A4B9_cP52_215_ei_3efgi"
+    "alias": "A4B9_cP52_215_ei_3efgi",
+    "number_of_species": 2,
+    "pearson_symbol": "cP52",
+    "space_group_number": 215
 }

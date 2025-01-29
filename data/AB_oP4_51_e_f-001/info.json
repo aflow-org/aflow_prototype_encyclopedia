@@ -23,5 +23,8 @@
     "legacy": false,
     "strukturbericht_tex": "$B19$",
     "compounds": {},
-    "alias": "AB_oP4_51_e_f"
+    "alias": "AB_oP4_51_e_f",
+    "number_of_species": 2,
+    "pearson_symbol": "oP4",
+    "space_group_number": 51
 }

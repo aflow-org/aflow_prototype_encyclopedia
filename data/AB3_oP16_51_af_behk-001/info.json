@@ -28,5 +28,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB3_oP16_51_af_behk-001"
+    "alias": "AB3_oP16_51_af_behk-001",
+    "number_of_species": 2,
+    "pearson_symbol": "oP16",
+    "space_group_number": 51
 }

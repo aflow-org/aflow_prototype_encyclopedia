@@ -22,5 +22,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "AB_oI8_71_g_i"
+    "alias": "AB_oI8_71_g_i",
+    "number_of_species": 2,
+    "pearson_symbol": "oI8",
+    "space_group_number": 71
 }

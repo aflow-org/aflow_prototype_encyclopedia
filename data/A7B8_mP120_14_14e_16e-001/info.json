@@ -200,5 +200,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A7B8_mP120_14_14e_16e"
+    "alias": "A7B8_mP120_14_14e_16e",
+    "number_of_species": 2,
+    "pearson_symbol": "mP120",
+    "space_group_number": 14
 }

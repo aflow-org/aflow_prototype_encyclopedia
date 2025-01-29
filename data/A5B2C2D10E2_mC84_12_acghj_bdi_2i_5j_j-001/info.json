@@ -78,5 +78,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A5B2C10D2E2_mC84_12_acghj_bdi_5j_2i_j"
+    "alias": "A5B2C10D2E2_mC84_12_acghj_bdi_5j_2i_j",
+    "number_of_species": 5,
+    "pearson_symbol": "mC84",
+    "space_group_number": 12
 }

@@ -74,5 +74,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A8B9C24D19E3_hR63_148_cf_df_4f_a3f_bc-001"
+    "alias": "A8B9C24D19E3_hR63_148_cf_df_4f_a3f_bc-001",
+    "number_of_species": 5,
+    "pearson_symbol": "hR63",
+    "space_group_number": 148
 }

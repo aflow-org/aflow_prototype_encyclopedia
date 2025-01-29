@@ -17,5 +17,8 @@
     "legacy": false,
     "strukturbericht_tex": "$L1_{1}$",
     "compounds": {},
-    "alias": "AB_hR2_166_a_b"
+    "alias": "AB_hR2_166_a_b",
+    "number_of_species": 2,
+    "pearson_symbol": "hR2",
+    "space_group_number": 166
 }

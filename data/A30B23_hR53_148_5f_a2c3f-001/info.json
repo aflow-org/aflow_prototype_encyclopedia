@@ -68,5 +68,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A30B23_hR53_148_5f_a2c3f-001"
+    "alias": "A30B23_hR53_148_5f_a2c3f-001",
+    "number_of_species": 2,
+    "pearson_symbol": "hR53",
+    "space_group_number": 148
 }

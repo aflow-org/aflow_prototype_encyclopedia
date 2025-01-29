@@ -35,5 +35,8 @@
     "legacy": false,
     "strukturbericht_tex": "$E1_{b}$",
     "compounds": {},
-    "alias": "ABC4_mP12_13_e_a_2g"
+    "alias": "ABC4_mP12_13_e_a_2g",
+    "number_of_species": 3,
+    "pearson_symbol": "mP12",
+    "space_group_number": 13
 }

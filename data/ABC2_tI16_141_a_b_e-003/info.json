@@ -18,5 +18,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC2_tI16_141_a_b_e-003"
+    "alias": "ABC2_tI16_141_a_b_e-003",
+    "number_of_species": 3,
+    "pearson_symbol": "tI16",
+    "space_group_number": 141
 }

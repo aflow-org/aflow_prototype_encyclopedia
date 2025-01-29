@@ -176,5 +176,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A6B4C16D_oP108_27_abcd4e_4e_16e_e"
+    "alias": "A6B4C16D_oP108_27_abcd4e_4e_16e_e",
+    "number_of_species": 4,
+    "pearson_symbol": "oP108",
+    "space_group_number": 27
 }

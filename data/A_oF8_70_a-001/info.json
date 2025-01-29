@@ -18,5 +18,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "A_oF8_70_a"
+    "alias": "A_oF8_70_a",
+    "number_of_species": 1,
+    "pearson_symbol": "oF8",
+    "space_group_number": 70
 }

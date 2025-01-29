@@ -28,5 +28,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B3C7D_oP13_47_t_aq_eqrs_h"
+    "alias": "A2B3C7D_oP13_47_t_aq_eqrs_h",
+    "number_of_species": 4,
+    "pearson_symbol": "oP13",
+    "space_group_number": 47
 }

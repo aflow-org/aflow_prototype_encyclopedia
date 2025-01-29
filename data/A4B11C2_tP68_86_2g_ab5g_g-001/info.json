@@ -64,5 +64,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A4B11C2_tP68_86_2g_ab5g_g"
+    "alias": "A4B11C2_tP68_86_2g_ab5g_g",
+    "number_of_species": 3,
+    "pearson_symbol": "tP68",
+    "space_group_number": 86
 }

@@ -68,5 +68,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB_mP16_4_4a_4a-001"
+    "alias": "AB_mP16_4_4a_4a-001",
+    "number_of_species": 2,
+    "pearson_symbol": "mP16",
+    "space_group_number": 4
 }

@@ -29,5 +29,8 @@
     "legacy": false,
     "strukturbericht_tex": "$S6_{5}$",
     "compounds": {},
-    "alias": "ABC4D_cP28_198_a_a_ab_a"
+    "alias": "ABC4D_cP28_198_a_a_ab_a",
+    "number_of_species": 4,
+    "pearson_symbol": "cP28",
+    "space_group_number": 198
 }

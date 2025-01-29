@@ -15,5 +15,8 @@
     "legacy": false,
     "strukturbericht_tex": "$B3$",
     "compounds": {},
-    "alias": "AB_cF8_216_c_a"
+    "alias": "AB_cF8_216_c_a",
+    "number_of_species": 2,
+    "pearson_symbol": "cF8",
+    "space_group_number": 216
 }

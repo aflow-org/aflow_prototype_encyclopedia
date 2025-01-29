@@ -30,5 +30,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC_tI48_120_abe_i_i-001"
+    "alias": "ABC_tI48_120_abe_i_i-001",
+    "number_of_species": 3,
+    "pearson_symbol": "tI48",
+    "space_group_number": 120
 }

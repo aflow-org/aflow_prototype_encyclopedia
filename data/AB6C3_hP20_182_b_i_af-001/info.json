@@ -24,5 +24,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "AB6C3_hP20_182_b_i_af-001"
+    "alias": "AB6C3_hP20_182_b_i_af-001",
+    "number_of_species": 3,
+    "pearson_symbol": "hP20",
+    "space_group_number": 182
 }

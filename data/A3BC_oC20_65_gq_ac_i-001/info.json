@@ -26,5 +26,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A3BC_oC20_65_gq_ac_i-001"
+    "alias": "A3BC_oC20_65_gq_ac_i-001",
+    "number_of_species": 3,
+    "pearson_symbol": "oC20",
+    "space_group_number": 65
 }

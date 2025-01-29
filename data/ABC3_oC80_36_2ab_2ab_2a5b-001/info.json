@@ -84,5 +84,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC3_oC80_36_2ab_2ab_2a5b"
+    "alias": "ABC3_oC80_36_2ab_2ab_2a5b",
+    "number_of_species": 3,
+    "pearson_symbol": "oC80",
+    "space_group_number": 36
 }

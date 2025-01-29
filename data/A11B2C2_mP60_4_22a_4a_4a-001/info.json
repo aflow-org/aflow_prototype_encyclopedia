@@ -200,5 +200,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A11B2C2_mP60_4_22a_4a_4a"
+    "alias": "A11B2C2_mP60_4_22a_4a_4a",
+    "number_of_species": 3,
+    "pearson_symbol": "mP60",
+    "space_group_number": 4
 }

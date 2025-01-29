@@ -22,5 +22,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A2BC4_tI28_140_h_a_k"
+    "alias": "A2BC4_tI28_140_h_a_k",
+    "number_of_species": 3,
+    "pearson_symbol": "tI28",
+    "space_group_number": 140
 }

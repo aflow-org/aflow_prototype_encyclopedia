@@ -22,5 +22,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A6BC4_hP11_187_jk_a_ck-001"
+    "alias": "A6BC4_hP11_187_jk_a_ck-001",
+    "number_of_species": 3,
+    "pearson_symbol": "hP11",
+    "space_group_number": 187
 }

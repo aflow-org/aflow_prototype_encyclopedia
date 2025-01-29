@@ -208,5 +208,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A17B47_oP128_32_a8c_a23c"
+    "alias": "A17B47_oP128_32_a8c_a23c",
+    "number_of_species": 2,
+    "pearson_symbol": "oP128",
+    "space_group_number": 32
 }

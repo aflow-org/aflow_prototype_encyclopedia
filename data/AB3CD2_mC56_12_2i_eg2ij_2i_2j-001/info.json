@@ -64,5 +64,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB3CD2_mC56_12_2i_eg2ij_2i_2j-001"
+    "alias": "AB3CD2_mC56_12_2i_eg2ij_2i_2j-001",
+    "number_of_species": 4,
+    "pearson_symbol": "mC56",
+    "space_group_number": 12
 }

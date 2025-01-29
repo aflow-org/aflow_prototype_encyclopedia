@@ -49,5 +49,8 @@
     "legacy": false,
     "strukturbericht_tex": "$S4_{1}$",
     "compounds": {},
-    "alias": "ABC6D2_mC40_15_e_e_3f_f.S4_1"
+    "alias": "ABC6D2_mC40_15_e_e_3f_f.S4_1",
+    "number_of_species": 4,
+    "pearson_symbol": "mC40",
+    "space_group_number": 15
 }

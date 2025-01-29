@@ -19,5 +19,8 @@
     "legacy": false,
     "strukturbericht_tex": "$B20$",
     "compounds": {},
-    "alias": "AB_cP8_198_a_a.FeSi"
+    "alias": "AB_cP8_198_a_a.FeSi",
+    "number_of_species": 2,
+    "pearson_symbol": "cP8",
+    "space_group_number": 198
 }

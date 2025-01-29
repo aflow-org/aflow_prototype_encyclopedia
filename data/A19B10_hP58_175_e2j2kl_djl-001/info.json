@@ -50,5 +50,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A19B10_hP58_175_e2j2kl_djl-001"
+    "alias": "A19B10_hP58_175_e2j2kl_djl-001",
+    "number_of_species": 2,
+    "pearson_symbol": "hP58",
+    "space_group_number": 175
 }

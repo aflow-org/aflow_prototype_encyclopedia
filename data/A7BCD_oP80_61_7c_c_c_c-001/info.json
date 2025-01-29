@@ -78,5 +78,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A7BCD_oP80_61_7c_c_c_c"
+    "alias": "A7BCD_oP80_61_7c_c_c_c",
+    "number_of_species": 4,
+    "pearson_symbol": "oP80",
+    "space_group_number": 61
 }

@@ -32,5 +32,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A4BC3_oF64_69_gho_g_gl-001"
+    "alias": "A4BC3_oF64_69_gho_g_gl-001",
+    "number_of_species": 3,
+    "pearson_symbol": "oF64",
+    "space_group_number": 69
 }

@@ -74,5 +74,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B2C3D10E2_oC76_37_d_d_cd_5d_d-001"
+    "alias": "A2B2C3D10E2_oC76_37_d_d_cd_5d_d-001",
+    "number_of_species": 5,
+    "pearson_symbol": "oC76",
+    "space_group_number": 37
 }

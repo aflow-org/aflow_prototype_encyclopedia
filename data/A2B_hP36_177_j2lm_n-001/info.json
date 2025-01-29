@@ -30,5 +30,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B_hP36_177_j2lm_n"
+    "alias": "A2B_hP36_177_j2lm_n",
+    "number_of_species": 2,
+    "pearson_symbol": "hP36",
+    "space_group_number": 177
 }

@@ -81,5 +81,8 @@
     "legacy": false,
     "strukturbericht_tex": "$S4_{2}$",
     "compounds": {},
-    "alias": "A2B2C5D24E8_mC82_12_h_i_agh_2i5j_2j"
+    "alias": "A2B2C5D24E8_mC82_12_h_i_agh_2i5j_2j",
+    "number_of_species": 5,
+    "pearson_symbol": "mC82",
+    "space_group_number": 12
 }

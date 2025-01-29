@@ -58,5 +58,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "AB4C2D6_mC52_15_e_2f_f_3f-001"
+    "alias": "AB4C2D6_mC52_15_e_2f_f_3f-001",
+    "number_of_species": 4,
+    "pearson_symbol": "mC52",
+    "space_group_number": 15
 }

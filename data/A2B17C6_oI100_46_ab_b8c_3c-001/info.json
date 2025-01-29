@@ -94,5 +94,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B17C6_oI100_46_ab_b8c_3c"
+    "alias": "A2B17C6_oI100_46_ab_b8c_3c",
+    "number_of_species": 3,
+    "pearson_symbol": "oI100",
+    "space_group_number": 46
 }

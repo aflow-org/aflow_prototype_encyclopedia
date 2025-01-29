@@ -27,5 +27,8 @@
     "legacy": false,
     "strukturbericht_tex": "$D8_{c}$",
     "compounds": {},
-    "alias": "A2B11_cP39_200_f_aghij"
+    "alias": "A2B11_cP39_200_f_aghij",
+    "number_of_species": 2,
+    "pearson_symbol": "cP39",
+    "space_group_number": 200
 }

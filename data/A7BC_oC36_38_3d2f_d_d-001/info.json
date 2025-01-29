@@ -50,5 +50,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A7BC_oC36_38_3d2f_d_d-001"
+    "alias": "A7BC_oC36_38_3d2f_d_d-001",
+    "number_of_species": 3,
+    "pearson_symbol": "oC36",
+    "space_group_number": 38
 }

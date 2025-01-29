@@ -22,5 +22,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "AB6C_tP16_132_d_io_a"
+    "alias": "AB6C_tP16_132_d_io_a",
+    "number_of_species": 3,
+    "pearson_symbol": "tP16",
+    "space_group_number": 132
 }

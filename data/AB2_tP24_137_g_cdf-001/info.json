@@ -26,5 +26,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB2_tP24_137_g_cdf-001"
+    "alias": "AB2_tP24_137_g_cdf-001",
+    "number_of_species": 2,
+    "pearson_symbol": "tP24",
+    "space_group_number": 137
 }

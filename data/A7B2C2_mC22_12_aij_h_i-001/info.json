@@ -37,5 +37,8 @@
     "legacy": false,
     "strukturbericht_tex": "$S2_{1}$",
     "compounds": {},
-    "alias": "A7B2C2_mC22_12_aij_h_i"
+    "alias": "A7B2C2_mC22_12_aij_h_i",
+    "number_of_species": 3,
+    "pearson_symbol": "mC22",
+    "space_group_number": 12
 }

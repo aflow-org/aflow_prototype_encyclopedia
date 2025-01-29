@@ -26,5 +26,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB3C_hR20_167_c_f_c-001"
+    "alias": "AB3C_hR20_167_c_f_c-001",
+    "number_of_species": 3,
+    "pearson_symbol": "hR20",
+    "space_group_number": 167
 }

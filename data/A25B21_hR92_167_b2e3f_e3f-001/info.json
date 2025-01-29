@@ -58,5 +58,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A25B21_hR92_167_b2e3f_e3f"
+    "alias": "A25B21_hR92_167_b2e3f_e3f",
+    "number_of_species": 2,
+    "pearson_symbol": "hR92",
+    "space_group_number": 167
 }

@@ -145,5 +145,8 @@
     "legacy": false,
     "strukturbericht_tex": "$H4_{10}$",
     "compounds": {},
-    "alias": "AB10C9D_aP42_2_ae_10i_9i_i"
+    "alias": "AB10C9D_aP42_2_ae_10i_9i_i",
+    "number_of_species": 4,
+    "pearson_symbol": "aP42",
+    "space_group_number": 2
 }

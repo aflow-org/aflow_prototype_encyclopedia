@@ -14,5 +14,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B4_cP7_221_d_ac-001"
+    "alias": "A3B4_cP7_221_d_ac-001",
+    "number_of_species": 2,
+    "pearson_symbol": "cP7",
+    "space_group_number": 221
 }

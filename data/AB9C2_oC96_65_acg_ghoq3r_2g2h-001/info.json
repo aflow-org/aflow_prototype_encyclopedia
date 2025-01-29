@@ -58,5 +58,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "AB9C2_oC96_65_acg_ghoq3r_2g2h-001"
+    "alias": "AB9C2_oC96_65_acg_ghoq3r_2g2h-001",
+    "number_of_species": 3,
+    "pearson_symbol": "oC96",
+    "space_group_number": 65
 }

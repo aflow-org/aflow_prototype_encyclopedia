@@ -28,5 +28,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC4D_tP14_129_c_c_2cf_c-001"
+    "alias": "ABC4D_tP14_129_c_c_2cf_c-001",
+    "number_of_species": 4,
+    "pearson_symbol": "tP14",
+    "space_group_number": 129
 }

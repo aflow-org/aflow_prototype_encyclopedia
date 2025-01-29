@@ -42,5 +42,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B_oP24_55_2g2h_gh"
+    "alias": "A2B_oP24_55_2g2h_gh",
+    "number_of_species": 2,
+    "pearson_symbol": "oP24",
+    "space_group_number": 55
 }

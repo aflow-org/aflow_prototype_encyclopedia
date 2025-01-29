@@ -20,5 +20,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB6C_tP8_123_a_hi_b-001"
+    "alias": "AB6C_tP8_123_a_hi_b-001",
+    "number_of_species": 3,
+    "pearson_symbol": "tP8",
+    "space_group_number": 123
 }

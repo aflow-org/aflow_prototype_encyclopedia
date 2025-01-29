@@ -74,5 +74,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B3_tP80_92_4b_2a5b-001"
+    "alias": "A2B3_tP80_92_4b_2a5b-001",
+    "number_of_species": 2,
+    "pearson_symbol": "tP80",
+    "space_group_number": 92
 }

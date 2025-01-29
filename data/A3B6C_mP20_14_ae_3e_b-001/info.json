@@ -44,5 +44,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B6C_mP20_14_ae_3e_b-001"
+    "alias": "A3B6C_mP20_14_ae_3e_b-001",
+    "number_of_species": 3,
+    "pearson_symbol": "mP20",
+    "space_group_number": 14
 }

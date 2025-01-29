@@ -182,5 +182,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A6B2C15D4_mP54_7_6a_2a_15a_4a"
+    "alias": "A6B2C15D4_mP54_7_6a_2a_15a_4a",
+    "number_of_species": 4,
+    "pearson_symbol": "mP54",
+    "space_group_number": 7
 }

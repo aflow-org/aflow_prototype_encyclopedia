@@ -44,5 +44,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A18B15C10D2_hP45_164_ij_abcdei_2di_d-001"
+    "alias": "A18B15C10D2_hP45_164_ij_abcdei_2di_d-001",
+    "number_of_species": 4,
+    "pearson_symbol": "hP45",
+    "space_group_number": 164
 }

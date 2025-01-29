@@ -138,5 +138,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "AB2C_oP80_19_5a_10a_5a"
+    "alias": "AB2C_oP80_19_5a_10a_5a",
+    "number_of_species": 3,
+    "pearson_symbol": "oP80",
+    "space_group_number": 19
 }

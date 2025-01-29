@@ -19,5 +19,8 @@
     "legacy": false,
     "strukturbericht_tex": "$D0_{c}$",
     "compounds": {},
-    "alias": "AB3_tI16_140_b_ah"
+    "alias": "AB3_tI16_140_b_ah",
+    "number_of_species": 2,
+    "pearson_symbol": "tI16",
+    "space_group_number": 140
 }

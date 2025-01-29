@@ -78,5 +78,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B6C13_hP66_152_ac_3c_a2b5c-001"
+    "alias": "A3B6C13_hP66_152_ac_3c_a2b5c-001",
+    "number_of_species": 3,
+    "pearson_symbol": "hP66",
+    "space_group_number": 152
 }

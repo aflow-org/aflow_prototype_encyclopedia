@@ -20,5 +20,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A17B3_cF160_227_aeg_bc-001"
+    "alias": "A17B3_cF160_227_aeg_bc-001",
+    "number_of_species": 2,
+    "pearson_symbol": "cF160",
+    "space_group_number": 227
 }

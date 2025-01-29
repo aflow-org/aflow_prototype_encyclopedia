@@ -19,5 +19,8 @@
     "legacy": false,
     "strukturbericht_tex": "$B_{a}$",
     "compounds": {},
-    "alias": "AB_cI16_199_a_a"
+    "alias": "AB_cI16_199_a_a",
+    "number_of_species": 2,
+    "pearson_symbol": "cI16",
+    "space_group_number": 199
 }

@@ -18,5 +18,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B_hP12_191_gl_f"
+    "alias": "A3B_hP12_191_gl_f",
+    "number_of_species": 2,
+    "pearson_symbol": "hP12",
+    "space_group_number": 191
 }

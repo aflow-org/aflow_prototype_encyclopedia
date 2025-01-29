@@ -31,5 +31,8 @@
     "legacy": false,
     "strukturbericht_tex": "$C53$",
     "compounds": {},
-    "alias": "A2B_oP12_62_2c_c.SrBr2"
+    "alias": "A2B_oP12_62_2c_c.SrBr2",
+    "number_of_species": 2,
+    "pearson_symbol": "oP12",
+    "space_group_number": 62
 }

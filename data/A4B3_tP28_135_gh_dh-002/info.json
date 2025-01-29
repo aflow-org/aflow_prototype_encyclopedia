@@ -26,5 +26,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A4B3_tP28_135_gh_dh-002"
+    "alias": "A4B3_tP28_135_gh_dh-002",
+    "number_of_species": 2,
+    "pearson_symbol": "tP28",
+    "space_group_number": 135
 }

@@ -17,5 +17,8 @@
     "legacy": false,
     "strukturbericht_tex": "$C32$",
     "compounds": {},
-    "alias": "AB2_hP3_191_a_d"
+    "alias": "AB2_hP3_191_a_d",
+    "number_of_species": 2,
+    "pearson_symbol": "hP3",
+    "space_group_number": 191
 }

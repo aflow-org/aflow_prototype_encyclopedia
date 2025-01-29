@@ -67,5 +67,8 @@
     "legacy": false,
     "strukturbericht_tex": "$G7_{2}$",
     "compounds": {},
-    "alias": "AB2CD4_oP64_61_c_2c_c_4c"
+    "alias": "AB2CD4_oP64_61_c_2c_c_4c",
+    "number_of_species": 4,
+    "pearson_symbol": "oP64",
+    "space_group_number": 61
 }

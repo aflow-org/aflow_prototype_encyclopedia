@@ -63,5 +63,8 @@
     "legacy": false,
     "strukturbericht_tex": "$G7_{4}$",
     "compounds": {},
-    "alias": "A2B3C2D8_mP30_14_e_ce_e_4e"
+    "alias": "A2B3C2D8_mP30_14_e_ce_e_4e",
+    "number_of_species": 4,
+    "pearson_symbol": "mP30",
+    "space_group_number": 14
 }

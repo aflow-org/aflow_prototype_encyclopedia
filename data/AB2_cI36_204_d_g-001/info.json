@@ -21,5 +21,8 @@
     "legacy": false,
     "strukturbericht_tex": "$C26$",
     "compounds": {},
-    "alias": "AB2_cI36_204_d_g"
+    "alias": "AB2_cI36_204_d_g",
+    "number_of_species": 2,
+    "pearson_symbol": "cI36",
+    "space_group_number": 204
 }

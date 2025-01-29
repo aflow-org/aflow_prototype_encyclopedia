@@ -37,5 +37,8 @@
     "legacy": false,
     "strukturbericht_tex": "$G0_{11}$",
     "compounds": {},
-    "alias": "A4B2C3_oP18_59_ef_ab_af"
+    "alias": "A4B2C3_oP18_59_ef_ab_af",
+    "number_of_species": 3,
+    "pearson_symbol": "oP18",
+    "space_group_number": 59
 }

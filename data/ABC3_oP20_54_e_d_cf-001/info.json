@@ -30,5 +30,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC3_oP20_54_e_d_cf"
+    "alias": "ABC3_oP20_54_e_d_cf",
+    "number_of_species": 3,
+    "pearson_symbol": "oP20",
+    "space_group_number": 54
 }

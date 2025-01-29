@@ -180,5 +180,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A5B11CD8E_aP26_1_5a_11a_a_8a_a"
+    "alias": "A5B11CD8E_aP26_1_5a_11a_a_8a_a",
+    "number_of_species": 5,
+    "pearson_symbol": "aP26",
+    "space_group_number": 1
 }

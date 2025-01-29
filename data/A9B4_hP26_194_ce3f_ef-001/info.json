@@ -28,5 +28,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A9B4_hP26_194_ce3f_ef-001"
+    "alias": "A9B4_hP26_194_ce3f_ef-001",
+    "number_of_species": 2,
+    "pearson_symbol": "hP26",
+    "space_group_number": 194
 }

@@ -87,5 +87,8 @@
     "legacy": false,
     "strukturbericht_tex": "$S6_{10}$",
     "compounds": {},
-    "alias": "A2B4C2D12E3_oF184_43_b_2b_b_6b_ab"
+    "alias": "A2B4C2D12E3_oF184_43_b_2b_b_6b_ab",
+    "number_of_species": 5,
+    "pearson_symbol": "oF184",
+    "space_group_number": 43
 }

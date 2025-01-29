@@ -95,5 +95,8 @@
     "legacy": false,
     "strukturbericht_tex": "$K3_{5}$",
     "compounds": {},
-    "alias": "A5B8CD12_oC104_41_a2b_4b_a_6b"
+    "alias": "A5B8CD12_oC104_41_a2b_4b_a_6b",
+    "number_of_species": 4,
+    "pearson_symbol": "oC104",
+    "space_group_number": 41
 }

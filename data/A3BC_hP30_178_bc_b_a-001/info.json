@@ -28,5 +28,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A3BC_hP30_178_bc_b_a-001"
+    "alias": "A3BC_hP30_178_bc_b_a-001",
+    "number_of_species": 3,
+    "pearson_symbol": "hP30",
+    "space_group_number": 178
 }

@@ -22,5 +22,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A10B_hP22_194_bhj_c"
+    "alias": "A10B_hP22_194_bhj_c",
+    "number_of_species": 2,
+    "pearson_symbol": "hP22",
+    "space_group_number": 194
 }

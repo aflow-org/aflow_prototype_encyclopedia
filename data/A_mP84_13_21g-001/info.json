@@ -146,5 +146,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "A_mP84_13_21g"
+    "alias": "A_mP84_13_21g",
+    "number_of_species": 1,
+    "pearson_symbol": "mP84",
+    "space_group_number": 13
 }

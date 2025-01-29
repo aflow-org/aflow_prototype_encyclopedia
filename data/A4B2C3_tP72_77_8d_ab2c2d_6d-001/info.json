@@ -120,5 +120,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A4B2C3_tP72_77_8d_ab2c2d_6d"
+    "alias": "A4B2C3_tP72_77_8d_ab2c2d_6d",
+    "number_of_species": 3,
+    "pearson_symbol": "tP72",
+    "space_group_number": 77
 }

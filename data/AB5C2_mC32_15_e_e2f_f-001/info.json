@@ -42,5 +42,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "AB5C2_mC32_15_e_e2f_f"
+    "alias": "AB5C2_mC32_15_e_e2f_f",
+    "number_of_species": 3,
+    "pearson_symbol": "mC32",
+    "space_group_number": 15
 }

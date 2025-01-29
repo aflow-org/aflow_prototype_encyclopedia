@@ -18,5 +18,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B2C_tI10_139_d_e_a.TlCo2S2"
+    "alias": "A2B2C_tI10_139_d_e_a.TlCo2S2",
+    "number_of_species": 3,
+    "pearson_symbol": "tI10",
+    "space_group_number": 139
 }

@@ -37,5 +37,8 @@
     "legacy": false,
     "strukturbericht_tex": "$E9_{2}$",
     "compounds": {},
-    "alias": "A4BC7D_hP26_186_ac_b_a2c_b"
+    "alias": "A4BC7D_hP26_186_ac_b_a2c_b",
+    "number_of_species": 4,
+    "pearson_symbol": "hP26",
+    "space_group_number": 186
 }

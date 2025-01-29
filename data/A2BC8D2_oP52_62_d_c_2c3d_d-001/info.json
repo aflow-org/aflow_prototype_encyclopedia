@@ -61,5 +61,8 @@
     "legacy": false,
     "strukturbericht_tex": "$S6_{3}$",
     "compounds": {},
-    "alias": "A2BC8D2_oP52_62_d_c_2c3d_d"
+    "alias": "A2BC8D2_oP52_62_d_c_2c3d_d",
+    "number_of_species": 4,
+    "pearson_symbol": "oP52",
+    "space_group_number": 62
 }

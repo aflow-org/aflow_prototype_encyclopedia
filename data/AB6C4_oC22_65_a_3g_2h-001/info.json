@@ -28,5 +28,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB6C4_oC22_65_a_3g_2h-001"
+    "alias": "AB6C4_oC22_65_a_3g_2h-001",
+    "number_of_species": 3,
+    "pearson_symbol": "oC22",
+    "space_group_number": 65
 }

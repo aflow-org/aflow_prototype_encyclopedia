@@ -110,5 +110,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A8B23_mP62_13_4g_c11g"
+    "alias": "A8B23_mP62_13_4g_c11g",
+    "number_of_species": 2,
+    "pearson_symbol": "mP62",
+    "space_group_number": 13
 }

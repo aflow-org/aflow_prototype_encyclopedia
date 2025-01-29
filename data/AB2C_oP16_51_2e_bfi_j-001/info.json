@@ -32,5 +32,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB2C_oP16_51_2e_bfi_j-001"
+    "alias": "AB2C_oP16_51_2e_bfi_j-001",
+    "number_of_species": 3,
+    "pearson_symbol": "oP16",
+    "space_group_number": 51
 }

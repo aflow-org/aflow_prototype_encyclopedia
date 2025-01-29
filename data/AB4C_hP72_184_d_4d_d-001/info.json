@@ -52,5 +52,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "AB4C_hP72_184_d_4d_d"
+    "alias": "AB4C_hP72_184_d_4d_d",
+    "number_of_species": 3,
+    "pearson_symbol": "hP72",
+    "space_group_number": 184
 }

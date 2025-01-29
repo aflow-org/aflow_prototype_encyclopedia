@@ -18,5 +18,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A_hP6_178_a"
+    "alias": "A_hP6_178_a",
+    "number_of_species": 1,
+    "pearson_symbol": "hP6",
+    "space_group_number": 178
 }

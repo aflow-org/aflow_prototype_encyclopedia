@@ -23,5 +23,8 @@
     "legacy": false,
     "strukturbericht_tex": "$H0_{4}$",
     "compounds": {},
-    "alias": "AB4C_tI24_88_b_f_a"
+    "alias": "AB4C_tI24_88_b_f_a",
+    "number_of_species": 3,
+    "pearson_symbol": "tI24",
+    "space_group_number": 88
 }

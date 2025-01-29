@@ -90,5 +90,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A4BCD6_oP48_33_4a_a_a_6a"
+    "alias": "A4BCD6_oP48_33_4a_a_a_6a",
+    "number_of_species": 4,
+    "pearson_symbol": "oP48",
+    "space_group_number": 33
 }

@@ -24,5 +24,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "AB_tP8_111_n_n"
+    "alias": "AB_tP8_111_n_n",
+    "number_of_species": 2,
+    "pearson_symbol": "tP8",
+    "space_group_number": 111
 }

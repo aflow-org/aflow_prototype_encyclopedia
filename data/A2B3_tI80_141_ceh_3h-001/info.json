@@ -34,5 +34,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B3_tI80_141_ceh_3h"
+    "alias": "A2B3_tI80_141_ceh_3h",
+    "number_of_species": 2,
+    "pearson_symbol": "tI80",
+    "space_group_number": 141
 }

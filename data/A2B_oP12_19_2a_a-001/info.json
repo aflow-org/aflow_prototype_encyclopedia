@@ -36,5 +36,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B_oP12_19_2a_a"
+    "alias": "A2B_oP12_19_2a_a",
+    "number_of_species": 2,
+    "pearson_symbol": "oP12",
+    "space_group_number": 19
 }

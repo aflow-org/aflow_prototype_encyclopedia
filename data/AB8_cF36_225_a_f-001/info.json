@@ -16,5 +16,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB8_cF36_225_a_f-001"
+    "alias": "AB8_cF36_225_a_f-001",
+    "number_of_species": 2,
+    "pearson_symbol": "cF36",
+    "space_group_number": 225
 }

@@ -38,5 +38,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC2_cP96_218_i_i_2i-001"
+    "alias": "ABC2_cP96_218_i_i_2i-001",
+    "number_of_species": 3,
+    "pearson_symbol": "cP96",
+    "space_group_number": 218
 }

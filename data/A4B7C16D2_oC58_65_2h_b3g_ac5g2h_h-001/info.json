@@ -44,5 +44,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A4B7C16D2_oC58_65_2h_b3g_ac5g2h_h-001"
+    "alias": "A4B7C16D2_oC58_65_2h_b3g_ac5g2h_h-001",
+    "number_of_species": 4,
+    "pearson_symbol": "oC58",
+    "space_group_number": 65
 }

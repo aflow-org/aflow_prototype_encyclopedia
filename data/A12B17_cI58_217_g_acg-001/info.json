@@ -24,5 +24,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A12B17_cI58_217_g_acg-001"
+    "alias": "A12B17_cI58_217_g_acg-001",
+    "number_of_species": 2,
+    "pearson_symbol": "cI58",
+    "space_group_number": 217
 }

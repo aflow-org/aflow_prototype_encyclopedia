@@ -114,5 +114,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "AB3C_aP30_2_3i_9i_3i"
+    "alias": "AB3C_aP30_2_3i_9i_3i",
+    "number_of_species": 3,
+    "pearson_symbol": "aP30",
+    "space_group_number": 2
 }

@@ -108,5 +108,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A7B8_oP120_60_7d_8d"
+    "alias": "A7B8_oP120_60_7d_8d",
+    "number_of_species": 2,
+    "pearson_symbol": "oP120",
+    "space_group_number": 60
 }

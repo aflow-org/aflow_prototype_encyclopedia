@@ -19,5 +19,8 @@
     "legacy": false,
     "strukturbericht_tex": "$E1_{1}$",
     "compounds": {},
-    "alias": "ABC2_tI16_122_a_b_d"
+    "alias": "ABC2_tI16_122_a_b_d",
+    "number_of_species": 3,
+    "pearson_symbol": "tI16",
+    "space_group_number": 122
 }

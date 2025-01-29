@@ -123,5 +123,8 @@
     "legacy": false,
     "strukturbericht_tex": "$S5_{4}$",
     "compounds": {},
-    "alias": "A2B4C9D2_mC68_9_2a_4a_9a_2a"
+    "alias": "A2B4C9D2_mC68_9_2a_4a_9a_2a",
+    "number_of_species": 4,
+    "pearson_symbol": "mC68",
+    "space_group_number": 9
 }

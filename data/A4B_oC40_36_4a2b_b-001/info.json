@@ -52,5 +52,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A4B_oC40_36_4a2b_b-001"
+    "alias": "A4B_oC40_36_4a2b_b-001",
+    "number_of_species": 2,
+    "pearson_symbol": "oC40",
+    "space_group_number": 36
 }

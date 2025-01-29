@@ -19,5 +19,8 @@
     "legacy": false,
     "strukturbericht_tex": "$C40$",
     "compounds": {},
-    "alias": "AB2_hP9_180_d_j"
+    "alias": "AB2_hP9_180_d_j",
+    "number_of_species": 2,
+    "pearson_symbol": "hP9",
+    "space_group_number": 180
 }

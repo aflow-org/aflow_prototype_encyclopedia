@@ -112,5 +112,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A6BC18DEF21_hR96_161_2b_a_6b_a_a_7b-001"
+    "alias": "A6BC18DEF21_hR96_161_2b_a_6b_a_a_7b-001",
+    "number_of_species": 6,
+    "pearson_symbol": "hR96",
+    "space_group_number": 161
 }

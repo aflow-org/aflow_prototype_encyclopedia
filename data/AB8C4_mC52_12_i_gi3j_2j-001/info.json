@@ -61,5 +61,8 @@
     "legacy": false,
     "strukturbericht_tex": "$S6_{7}$",
     "compounds": {},
-    "alias": "AB8C4_mC52_12_i_gi3j_2j"
+    "alias": "AB8C4_mC52_12_i_gi3j_2j",
+    "number_of_species": 3,
+    "pearson_symbol": "mC52",
+    "space_group_number": 12
 }

@@ -40,5 +40,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B3_mC20_12_2i_3i-003"
+    "alias": "A2B3_mC20_12_2i_3i-003",
+    "number_of_species": 2,
+    "pearson_symbol": "mC20",
+    "space_group_number": 12
 }

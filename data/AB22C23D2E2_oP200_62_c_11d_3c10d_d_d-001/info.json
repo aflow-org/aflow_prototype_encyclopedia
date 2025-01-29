@@ -172,5 +172,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "AB22C23D2E2_oP200_62_c_11d_3c10d_d_d"
+    "alias": "AB22C23D2E2_oP200_62_c_11d_3c10d_d_d",
+    "number_of_species": 5,
+    "pearson_symbol": "oP200",
+    "space_group_number": 62
 }

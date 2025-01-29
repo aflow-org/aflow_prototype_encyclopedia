@@ -21,5 +21,8 @@
     "legacy": false,
     "strukturbericht_tex": "$D1_{d}$",
     "compounds": {},
-    "alias": "A4B_tP10_125_m_a"
+    "alias": "A4B_tP10_125_m_a",
+    "number_of_species": 2,
+    "pearson_symbol": "tP10",
+    "space_group_number": 125
 }

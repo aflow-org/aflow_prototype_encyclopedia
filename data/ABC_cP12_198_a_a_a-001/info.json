@@ -21,5 +21,8 @@
     "legacy": false,
     "strukturbericht_tex": "$F0_{1}$",
     "compounds": {},
-    "alias": "ABC_cP12_198_a_a_a"
+    "alias": "ABC_cP12_198_a_a_a",
+    "number_of_species": 3,
+    "pearson_symbol": "cP12",
+    "space_group_number": 198
 }

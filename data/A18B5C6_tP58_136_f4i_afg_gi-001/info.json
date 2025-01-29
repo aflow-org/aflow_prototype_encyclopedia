@@ -44,5 +44,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A18B5C6_tP58_136_f4i_afg_gi-001"
+    "alias": "A18B5C6_tP58_136_f4i_afg_gi-001",
+    "number_of_species": 3,
+    "pearson_symbol": "tP58",
+    "space_group_number": 136
 }

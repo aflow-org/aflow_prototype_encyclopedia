@@ -82,5 +82,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A12B7_hP57_174_2j2k4l_ghi3j2k-001"
+    "alias": "A12B7_hP57_174_2j2k4l_ghi3j2k-001",
+    "number_of_species": 2,
+    "pearson_symbol": "hP57",
+    "space_group_number": 174
 }

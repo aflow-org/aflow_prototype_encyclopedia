@@ -48,5 +48,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B13_oC32_38_ac_a2bcdef"
+    "alias": "A3B13_oC32_38_ac_a2bcdef",
+    "number_of_species": 2,
+    "pearson_symbol": "oC32",
+    "space_group_number": 38
 }

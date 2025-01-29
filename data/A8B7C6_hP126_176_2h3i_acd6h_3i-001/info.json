@@ -84,5 +84,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A8B7C6_hP126_176_2h3i_acd6h_3i-001"
+    "alias": "A8B7C6_hP126_176_2h3i_acd6h_3i-001",
+    "number_of_species": 3,
+    "pearson_symbol": "hP126",
+    "space_group_number": 176
 }

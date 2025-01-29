@@ -52,5 +52,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B5C8D2E2_oC80_63_cg_c2f_2h_e_g-001"
+    "alias": "A3B5C8D2E2_oC80_63_cg_c2f_2h_e_g-001",
+    "number_of_species": 5,
+    "pearson_symbol": "oC80",
+    "space_group_number": 63
 }

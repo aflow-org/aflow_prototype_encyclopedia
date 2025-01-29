@@ -54,5 +54,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A108B24C11D24_cP334_222_h4i_i_bf_i-001"
+    "alias": "A108B24C11D24_cP334_222_h4i_i_bf_i-001",
+    "number_of_species": 4,
+    "pearson_symbol": "cP334",
+    "space_group_number": 222
 }

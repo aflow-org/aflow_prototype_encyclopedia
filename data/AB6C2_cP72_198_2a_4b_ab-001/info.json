@@ -50,5 +50,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB6C2_cP72_198_2a_4b_ab-001"
+    "alias": "AB6C2_cP72_198_2a_4b_ab-001",
+    "number_of_species": 3,
+    "pearson_symbol": "cP72",
+    "space_group_number": 198
 }

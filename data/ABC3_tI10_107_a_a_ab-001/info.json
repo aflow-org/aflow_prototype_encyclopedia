@@ -24,5 +24,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC3_tI10_107_a_a_ab"
+    "alias": "ABC3_tI10_107_a_a_ab",
+    "number_of_species": 3,
+    "pearson_symbol": "tI10",
+    "space_group_number": 107
 }

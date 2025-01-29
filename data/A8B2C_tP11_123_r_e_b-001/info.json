@@ -21,5 +21,8 @@
     "legacy": false,
     "strukturbericht_tex": "$E6_{1}$",
     "compounds": {},
-    "alias": "A8B2C_tP11_123_r_f_a"
+    "alias": "A8B2C_tP11_123_r_f_a",
+    "number_of_species": 3,
+    "pearson_symbol": "tP11",
+    "space_group_number": 123
 }

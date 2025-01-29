@@ -51,5 +51,8 @@
     "legacy": false,
     "strukturbericht_tex": "$S6_{4}$",
     "compounds": {},
-    "alias": "AB4C24D12_tI82_87_a_h_2h2i_hi"
+    "alias": "AB4C24D12_tI82_87_a_h_2h2i_hi",
+    "number_of_species": 4,
+    "pearson_symbol": "tI82",
+    "space_group_number": 87
 }

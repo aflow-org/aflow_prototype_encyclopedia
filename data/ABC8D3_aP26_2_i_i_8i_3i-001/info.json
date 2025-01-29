@@ -103,5 +103,8 @@
     "legacy": false,
     "strukturbericht_tex": "$S6_{8}$",
     "compounds": {},
-    "alias": "ABC8D3_aP26_2_i_i_8i_3i"
+    "alias": "ABC8D3_aP26_2_i_i_8i_3i",
+    "number_of_species": 4,
+    "pearson_symbol": "aP26",
+    "space_group_number": 2
 }

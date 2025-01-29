@@ -20,5 +20,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "AB_tI8_109_a_a"
+    "alias": "AB_tI8_109_a_a",
+    "number_of_species": 2,
+    "pearson_symbol": "tI8",
+    "space_group_number": 109
 }

@@ -98,5 +98,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B4_tP84_115_acef3g3j3k_6j6k-001"
+    "alias": "A3B4_tP84_115_acef3g3j3k_6j6k-001",
+    "number_of_species": 2,
+    "pearson_symbol": "tP84",
+    "space_group_number": 115
 }

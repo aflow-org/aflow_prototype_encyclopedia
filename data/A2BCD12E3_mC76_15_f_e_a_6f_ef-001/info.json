@@ -72,5 +72,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A2BCD12E3_mC76_15_f_e_b_6f_ef"
+    "alias": "A2BCD12E3_mC76_15_f_e_b_6f_ef",
+    "number_of_species": 5,
+    "pearson_symbol": "mC76",
+    "space_group_number": 15
 }

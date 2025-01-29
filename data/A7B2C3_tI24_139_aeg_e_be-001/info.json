@@ -24,5 +24,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A7B2C3_tI24_139_aeg_e_be-001"
+    "alias": "A7B2C3_tI24_139_aeg_e_be-001",
+    "number_of_species": 3,
+    "pearson_symbol": "tI24",
+    "space_group_number": 139
 }

@@ -40,5 +40,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "AB3C7D_hP24_173_a_c_b2c_b"
+    "alias": "AB3C7D_hP24_173_a_c_b2c_b",
+    "number_of_species": 4,
+    "pearson_symbol": "hP24",
+    "space_group_number": 173
 }

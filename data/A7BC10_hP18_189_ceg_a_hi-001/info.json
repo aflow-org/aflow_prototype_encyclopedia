@@ -26,5 +26,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A7BC10_hP18_189_ceg_a_hi-001"
+    "alias": "A7BC10_hP18_189_ceg_a_hi-001",
+    "number_of_species": 3,
+    "pearson_symbol": "hP18",
+    "space_group_number": 189
 }

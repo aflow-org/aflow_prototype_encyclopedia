@@ -94,5 +94,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A2BC10_oI104_24_2d_2a_10d-001"
+    "alias": "A2BC10_oI104_24_2d_2a_10d-001",
+    "number_of_species": 3,
+    "pearson_symbol": "oI104",
+    "space_group_number": 24
 }

@@ -48,5 +48,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B2C3D10E_mP18_10_m_ac_en_3m2n_g-001"
+    "alias": "A2B2C3D10E_mP18_10_m_ac_en_3m2n_g-001",
+    "number_of_species": 5,
+    "pearson_symbol": "mP18",
+    "space_group_number": 10
 }

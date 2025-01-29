@@ -20,5 +20,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B4_tI28_141_ad_h"
+    "alias": "A3B4_tI28_141_ad_h",
+    "number_of_species": 2,
+    "pearson_symbol": "tI28",
+    "space_group_number": 141
 }

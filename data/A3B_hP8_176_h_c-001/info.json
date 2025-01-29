@@ -20,5 +20,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B_hP8_176_h_c"
+    "alias": "A3B_hP8_176_h_c",
+    "number_of_species": 2,
+    "pearson_symbol": "hP8",
+    "space_group_number": 176
 }

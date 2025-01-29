@@ -32,5 +32,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A2BC2_oP10_34_c_a_c"
+    "alias": "A2BC2_oP10_34_c_a_c",
+    "number_of_species": 3,
+    "pearson_symbol": "oP10",
+    "space_group_number": 34
 }

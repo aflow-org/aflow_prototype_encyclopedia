@@ -60,5 +60,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A18B10C_tP116_130_2c4g_2c2g_a"
+    "alias": "A18B10C_tP116_130_2c4g_2c2g_a",
+    "number_of_species": 3,
+    "pearson_symbol": "tP116",
+    "space_group_number": 130
 }

@@ -22,5 +22,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A5B2_oP14_49_dehq_ab"
+    "alias": "A5B2_oP14_49_dehq_ab",
+    "number_of_species": 2,
+    "pearson_symbol": "oP14",
+    "space_group_number": 49
 }

@@ -31,5 +31,8 @@
     "legacy": false,
     "strukturbericht_tex": "$D10_{2}$",
     "compounds": {},
-    "alias": "A3B7_hP20_186_c_b2c"
+    "alias": "A3B7_hP20_186_c_b2c",
+    "number_of_species": 2,
+    "pearson_symbol": "hP20",
+    "space_group_number": 186
 }

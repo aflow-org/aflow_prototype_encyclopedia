@@ -72,5 +72,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "AB_aP16_2_4i_4i"
+    "alias": "AB_aP16_2_4i_4i",
+    "number_of_species": 2,
+    "pearson_symbol": "aP16",
+    "space_group_number": 2
 }

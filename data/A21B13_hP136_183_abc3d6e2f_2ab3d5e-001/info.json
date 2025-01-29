@@ -108,5 +108,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A21B13_hP136_183_abc3d6e2f_2ab3d5e-001"
+    "alias": "A21B13_hP136_183_abc3d6e2f_2ab3d5e-001",
+    "number_of_species": 2,
+    "pearson_symbol": "hP136",
+    "space_group_number": 183
 }

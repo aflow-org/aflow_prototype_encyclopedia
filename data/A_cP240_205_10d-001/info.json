@@ -74,5 +74,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A_cP240_205_10d"
+    "alias": "A_cP240_205_10d",
+    "number_of_species": 1,
+    "pearson_symbol": "cP240",
+    "space_group_number": 205
 }

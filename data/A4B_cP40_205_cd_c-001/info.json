@@ -24,5 +24,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A4B_cP40_205_cd_c"
+    "alias": "A4B_cP40_205_cd_c",
+    "number_of_species": 2,
+    "pearson_symbol": "cP40",
+    "space_group_number": 205
 }

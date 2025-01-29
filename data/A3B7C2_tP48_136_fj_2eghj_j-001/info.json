@@ -38,5 +38,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B7C2_tP48_136_fj_2eghj_j-001"
+    "alias": "A3B7C2_tP48_136_fj_2eghj_j-001",
+    "number_of_species": 3,
+    "pearson_symbol": "tP48",
+    "space_group_number": 136
 }

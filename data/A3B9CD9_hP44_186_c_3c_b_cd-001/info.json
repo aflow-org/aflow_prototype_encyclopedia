@@ -45,5 +45,8 @@
     "legacy": false,
     "strukturbericht_tex": "$G2_{2}$",
     "compounds": {},
-    "alias": "A3B9CD9_hP44_186_c_3c_b_cd"
+    "alias": "A3B9CD9_hP44_186_c_3c_b_cd",
+    "number_of_species": 4,
+    "pearson_symbol": "hP44",
+    "space_group_number": 186
 }

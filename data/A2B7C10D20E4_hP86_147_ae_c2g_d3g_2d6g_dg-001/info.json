@@ -98,5 +98,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B7C10D20E4_hP86_147_ae_c2g_d3g_2d6g_dg-001"
+    "alias": "A2B7C10D20E4_hP86_147_ae_c2g_d3g_2d6g_dg-001",
+    "number_of_species": 5,
+    "pearson_symbol": "hP86",
+    "space_group_number": 147
 }

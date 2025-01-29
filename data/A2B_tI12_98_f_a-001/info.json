@@ -18,5 +18,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B_tI12_98_f_a"
+    "alias": "A2B_tI12_98_f_a",
+    "number_of_species": 2,
+    "pearson_symbol": "tI12",
+    "space_group_number": 98
 }

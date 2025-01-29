@@ -20,5 +20,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "AB_oC8_67_a_g.PbO"
+    "alias": "AB_oC8_67_a_g.PbO",
+    "number_of_species": 2,
+    "pearson_symbol": "oC8",
+    "space_group_number": 67
 }

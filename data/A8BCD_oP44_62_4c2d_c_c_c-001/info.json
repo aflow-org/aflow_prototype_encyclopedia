@@ -58,5 +58,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A8BCD_oP44_62_4c2d_c_c_c"
+    "alias": "A8BCD_oP44_62_4c2d_c_c_c",
+    "number_of_species": 4,
+    "pearson_symbol": "oP44",
+    "space_group_number": 62
 }

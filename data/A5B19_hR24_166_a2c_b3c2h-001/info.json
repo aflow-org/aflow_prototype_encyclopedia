@@ -34,5 +34,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A5B19_hR24_166_a2c_b3c2h-001"
+    "alias": "A5B19_hR24_166_a2c_b3c2h-001",
+    "number_of_species": 2,
+    "pearson_symbol": "hR24",
+    "space_group_number": 166
 }

@@ -78,5 +78,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B3C6_cP264_205_2d_ab2c2d_6d"
+    "alias": "A2B3C6_cP264_205_2d_ab2c2d_6d",
+    "number_of_species": 3,
+    "pearson_symbol": "cP264",
+    "space_group_number": 205
 }

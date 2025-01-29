@@ -22,5 +22,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A11B16C5_cP64_208_bfh_adm_ce-001"
+    "alias": "A11B16C5_cP64_208_bfh_adm_ce-001",
+    "number_of_species": 3,
+    "pearson_symbol": "cP64",
+    "space_group_number": 208
 }

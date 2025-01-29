@@ -22,5 +22,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "AB4C_tP12_112_b_n_e"
+    "alias": "AB4C_tP12_112_b_n_e",
+    "number_of_species": 3,
+    "pearson_symbol": "tP12",
+    "space_group_number": 112
 }

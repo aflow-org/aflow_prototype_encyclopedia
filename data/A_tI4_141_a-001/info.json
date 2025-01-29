@@ -17,5 +17,8 @@
     "legacy": false,
     "strukturbericht_tex": "$A5$",
     "compounds": {},
-    "alias": "A_tI4_141_a"
+    "alias": "A_tI4_141_a",
+    "number_of_species": 1,
+    "pearson_symbol": "tI4",
+    "space_group_number": 141
 }

@@ -54,5 +54,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A9BC_oC44_39_3c3d_a_c"
+    "alias": "A9BC_oC44_39_3c3d_a_c",
+    "number_of_species": 3,
+    "pearson_symbol": "oC44",
+    "space_group_number": 39
 }

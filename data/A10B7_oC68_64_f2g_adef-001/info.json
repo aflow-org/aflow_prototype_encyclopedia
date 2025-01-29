@@ -42,5 +42,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A10B7_oC68_64_f2g_adef-001"
+    "alias": "A10B7_oC68_64_f2g_adef-001",
+    "number_of_species": 2,
+    "pearson_symbol": "oC68",
+    "space_group_number": 64
 }

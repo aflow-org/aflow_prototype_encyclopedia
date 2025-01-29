@@ -27,5 +27,8 @@
     "legacy": false,
     "strukturbericht_tex": "$E9_{b}$",
     "compounds": {},
-    "alias": "A8BC3D6_hP18_189_bfh_a_g_i"
+    "alias": "A8BC3D6_hP18_189_bfh_a_g_i",
+    "number_of_species": 4,
+    "pearson_symbol": "hP18",
+    "space_group_number": 189
 }

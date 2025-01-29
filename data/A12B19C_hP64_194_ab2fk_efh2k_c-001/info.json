@@ -38,5 +38,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A12B19C_hP64_194_ab2fk_efh2k_d"
+    "alias": "A12B19C_hP64_194_ab2fk_efh2k_d",
+    "number_of_species": 3,
+    "pearson_symbol": "hP64",
+    "space_group_number": 194
 }

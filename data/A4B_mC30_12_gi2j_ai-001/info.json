@@ -42,5 +42,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A4B_mC30_12_gi2j_ai-001"
+    "alias": "A4B_mC30_12_gi2j_ai-001",
+    "number_of_species": 2,
+    "pearson_symbol": "mC30",
+    "space_group_number": 12
 }

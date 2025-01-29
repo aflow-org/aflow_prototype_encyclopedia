@@ -84,5 +84,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A5B3C15_oP46_30_a2c_bc_a7c"
+    "alias": "A5B3C15_oP46_30_a2c_bc_a7c",
+    "number_of_species": 3,
+    "pearson_symbol": "oP46",
+    "space_group_number": 30
 }

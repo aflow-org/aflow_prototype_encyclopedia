@@ -20,5 +20,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B2_hP10_176_h_bc"
+    "alias": "A3B2_hP10_176_h_bc",
+    "number_of_species": 2,
+    "pearson_symbol": "hP10",
+    "space_group_number": 176
 }

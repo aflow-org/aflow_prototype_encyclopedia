@@ -30,5 +30,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A11B3_oC28_65_c4gh_ah-001"
+    "alias": "A11B3_oC28_65_c4gh_ah-001",
+    "number_of_species": 2,
+    "pearson_symbol": "oC28",
+    "space_group_number": 65
 }

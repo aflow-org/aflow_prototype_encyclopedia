@@ -23,5 +23,8 @@
     "legacy": false,
     "strukturbericht_tex": "$K6_{1}$",
     "compounds": {},
-    "alias": "A7B2C_cP40_205_bd_c_a"
+    "alias": "A7B2C_cP40_205_bd_c_a",
+    "number_of_species": 3,
+    "pearson_symbol": "cP40",
+    "space_group_number": 205
 }

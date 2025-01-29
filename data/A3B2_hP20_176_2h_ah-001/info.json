@@ -29,5 +29,8 @@
     "legacy": false,
     "strukturbericht_tex": "$D8_{k}$",
     "compounds": {},
-    "alias": "A3B2_hP20_176_2h_ah"
+    "alias": "A3B2_hP20_176_2h_ah",
+    "number_of_species": 2,
+    "pearson_symbol": "hP20",
+    "space_group_number": 176
 }

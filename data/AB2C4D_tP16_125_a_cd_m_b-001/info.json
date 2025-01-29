@@ -20,5 +20,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB2C4D_tP16_125_a_cd_m_b-001"
+    "alias": "AB2C4D_tP16_125_a_cd_m_b-001",
+    "number_of_species": 4,
+    "pearson_symbol": "tP16",
+    "space_group_number": 125
 }

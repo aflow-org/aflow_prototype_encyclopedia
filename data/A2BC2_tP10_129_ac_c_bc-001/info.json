@@ -22,5 +22,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A2BC2_tP10_129_ac_c_bc"
+    "alias": "A2BC2_tP10_129_ac_c_bc",
+    "number_of_species": 3,
+    "pearson_symbol": "tP10",
+    "space_group_number": 129
 }

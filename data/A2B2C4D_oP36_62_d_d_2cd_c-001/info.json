@@ -49,5 +49,8 @@
     "legacy": false,
     "strukturbericht_tex": "$S0_{5}$",
     "compounds": {},
-    "alias": "A2B2C4D_oP36_62_d_d_2cd_c"
+    "alias": "A2B2C4D_oP36_62_d_d_2cd_c",
+    "number_of_species": 4,
+    "pearson_symbol": "oP36",
+    "space_group_number": 62
 }

@@ -17,5 +17,8 @@
     "legacy": false,
     "strukturbericht_tex": "$A3'$",
     "compounds": {},
-    "alias": "A_hP4_194_ac"
+    "alias": "A_hP4_194_ac",
+    "number_of_species": 1,
+    "pearson_symbol": "hP4",
+    "space_group_number": 194
 }

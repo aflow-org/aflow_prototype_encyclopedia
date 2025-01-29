@@ -36,5 +36,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "AB6C2_mC18_12_a_3i_i"
+    "alias": "AB6C2_mC18_12_a_3i_i",
+    "number_of_species": 3,
+    "pearson_symbol": "mC18",
+    "space_group_number": 12
 }

@@ -110,5 +110,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B6CD7_tP64_77_2d_6d_d_ab6d"
+    "alias": "A2B6CD7_tP64_77_2d_6d_d_ab6d",
+    "number_of_species": 4,
+    "pearson_symbol": "tP64",
+    "space_group_number": 77
 }

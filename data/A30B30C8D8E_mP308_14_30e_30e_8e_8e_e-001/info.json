@@ -482,5 +482,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A30B30C8D8E_mP308_14_30e_30e_8e_8e_e-001"
+    "alias": "A30B30C8D8E_mP308_14_30e_30e_8e_8e_e-001",
+    "number_of_species": 5,
+    "pearson_symbol": "mP308",
+    "space_group_number": 14
 }

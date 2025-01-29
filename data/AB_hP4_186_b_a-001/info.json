@@ -21,5 +21,8 @@
     "legacy": false,
     "strukturbericht_tex": "$B12$",
     "compounds": {},
-    "alias": "AB_hP4_186_b_a"
+    "alias": "AB_hP4_186_b_a",
+    "number_of_species": 2,
+    "pearson_symbol": "hP4",
+    "space_group_number": 186
 }

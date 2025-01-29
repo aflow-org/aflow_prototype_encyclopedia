@@ -27,5 +27,8 @@
     "legacy": false,
     "strukturbericht_tex": "$D1_{g}$",
     "compounds": {},
-    "alias": "A13B2_hR15_166_b2h_c"
+    "alias": "A13B2_hR15_166_b2h_c",
+    "number_of_species": 2,
+    "pearson_symbol": "hR15",
+    "space_group_number": 166
 }

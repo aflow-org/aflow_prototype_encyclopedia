@@ -18,5 +18,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "AB_oF8_22_a_c"
+    "alias": "AB_oF8_22_a_c",
+    "number_of_species": 2,
+    "pearson_symbol": "oF8",
+    "space_group_number": 22
 }

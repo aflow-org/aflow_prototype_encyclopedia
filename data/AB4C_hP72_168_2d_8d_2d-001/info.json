@@ -88,5 +88,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "AB4C_hP72_168_2d_8d_2d"
+    "alias": "AB4C_hP72_168_2d_8d_2d",
+    "number_of_species": 3,
+    "pearson_symbol": "hP72",
+    "space_group_number": 168
 }

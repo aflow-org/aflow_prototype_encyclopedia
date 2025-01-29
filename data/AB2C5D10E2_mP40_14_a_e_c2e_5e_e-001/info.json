@@ -74,5 +74,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "AB2C5D10E2_mP40_14_a_e_c2e_5e_e-001"
+    "alias": "AB2C5D10E2_mP40_14_a_e_c2e_5e_e-001",
+    "number_of_species": 5,
+    "pearson_symbol": "mP40",
+    "space_group_number": 14
 }

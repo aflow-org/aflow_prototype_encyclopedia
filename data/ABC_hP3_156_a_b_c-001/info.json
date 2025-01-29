@@ -22,5 +22,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC_hP3_156_a_b_c-001"
+    "alias": "ABC_hP3_156_a_b_c-001",
+    "number_of_species": 3,
+    "pearson_symbol": "hP3",
+    "space_group_number": 156
 }

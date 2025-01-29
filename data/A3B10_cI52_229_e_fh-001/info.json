@@ -21,5 +21,8 @@
     "legacy": false,
     "strukturbericht_tex": "$D8_{1}$",
     "compounds": {},
-    "alias": "A3B10_cI52_229_e_fh"
+    "alias": "A3B10_cI52_229_e_fh",
+    "number_of_species": 2,
+    "pearson_symbol": "cI52",
+    "space_group_number": 229
 }

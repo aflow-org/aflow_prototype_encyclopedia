@@ -16,5 +16,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "A_cP8_205_c"
+    "alias": "A_cP8_205_c",
+    "number_of_species": 1,
+    "pearson_symbol": "cP8",
+    "space_group_number": 205
 }

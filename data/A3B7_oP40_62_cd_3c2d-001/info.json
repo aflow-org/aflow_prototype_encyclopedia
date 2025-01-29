@@ -53,5 +53,8 @@
     "legacy": false,
     "strukturbericht_tex": "$D10_{1}$",
     "compounds": {},
-    "alias": "A3B7_oP40_62_cd_3c2d"
+    "alias": "A3B7_oP40_62_cd_3c2d",
+    "number_of_species": 2,
+    "pearson_symbol": "oP40",
+    "space_group_number": 62
 }

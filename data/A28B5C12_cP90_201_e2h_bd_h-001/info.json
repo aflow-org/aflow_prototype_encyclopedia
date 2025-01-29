@@ -34,5 +34,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A28B5C12_cP90_201_e2h_bd_h-001"
+    "alias": "A28B5C12_cP90_201_e2h_bd_h-001",
+    "number_of_species": 3,
+    "pearson_symbol": "cP90",
+    "space_group_number": 201
 }

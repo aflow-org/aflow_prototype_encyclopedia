@@ -36,5 +36,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B5_hP48_178_ac_a2bc-001"
+    "alias": "A3B5_hP48_178_ac_a2bc-001",
+    "number_of_species": 2,
+    "pearson_symbol": "hP48",
+    "space_group_number": 178
 }

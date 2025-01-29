@@ -18,5 +18,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "AB_cI16_217_c_c"
+    "alias": "AB_cI16_217_c_c",
+    "number_of_species": 2,
+    "pearson_symbol": "cI16",
+    "space_group_number": 217
 }

@@ -18,5 +18,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC2_hR4_166_a_b_c.CuFeO2"
+    "alias": "ABC2_hR4_166_a_b_c.CuFeO2",
+    "number_of_species": 3,
+    "pearson_symbol": "hR4",
+    "space_group_number": 166
 }

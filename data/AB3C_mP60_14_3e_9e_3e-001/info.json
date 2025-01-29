@@ -111,5 +111,8 @@
     "legacy": false,
     "strukturbericht_tex": "$S3_{3}$(II)",
     "compounds": {},
-    "alias": "AB3C_mP60_14_3e_9e_3e"
+    "alias": "AB3C_mP60_14_3e_9e_3e",
+    "number_of_species": 3,
+    "pearson_symbol": "mP60",
+    "space_group_number": 14
 }

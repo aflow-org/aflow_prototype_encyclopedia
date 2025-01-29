@@ -42,5 +42,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A12B36CD12_cF488_210_h_3h_a_fg"
+    "alias": "A12B36CD12_cF488_210_h_3h_a_fg",
+    "number_of_species": 4,
+    "pearson_symbol": "cF488",
+    "space_group_number": 210
 }

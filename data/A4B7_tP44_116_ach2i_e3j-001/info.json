@@ -42,5 +42,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A4B7_tP44_116_ach2i_e3j-001"
+    "alias": "A4B7_tP44_116_ach2i_e3j-001",
+    "number_of_species": 2,
+    "pearson_symbol": "tP44",
+    "space_group_number": 116
 }

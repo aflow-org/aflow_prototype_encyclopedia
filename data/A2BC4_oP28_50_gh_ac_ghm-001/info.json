@@ -32,5 +32,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A2BC4_oP28_50_ij_ac_ijm"
+    "alias": "A2BC4_oP28_50_ij_ac_ijm",
+    "number_of_species": 3,
+    "pearson_symbol": "oP28",
+    "space_group_number": 50
 }

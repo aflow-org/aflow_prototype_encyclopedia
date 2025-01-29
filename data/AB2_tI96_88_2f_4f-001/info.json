@@ -52,5 +52,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "AB2_tI96_88_2f_4f"
+    "alias": "AB2_tI96_88_2f_4f",
+    "number_of_species": 2,
+    "pearson_symbol": "tI96",
+    "space_group_number": 88
 }

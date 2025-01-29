@@ -148,5 +148,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B7C2_tP88_76_4a_14a_4a-001"
+    "alias": "A2B7C2_tP88_76_4a_14a_4a-001",
+    "number_of_species": 3,
+    "pearson_symbol": "tP88",
+    "space_group_number": 76
 }

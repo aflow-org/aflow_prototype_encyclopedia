@@ -27,5 +27,8 @@
     "legacy": false,
     "strukturbericht_tex": "$F5_{8}$",
     "compounds": {},
-    "alias": "A2BC_oP16_53_eh_ab_g"
+    "alias": "A2BC_oP16_53_eh_ab_g",
+    "number_of_species": 3,
+    "pearson_symbol": "oP16",
+    "space_group_number": 53
 }

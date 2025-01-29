@@ -31,5 +31,8 @@
     "legacy": false,
     "strukturbericht_tex": "$C37$",
     "compounds": {},
-    "alias": "A2B_oP12_62_2c_c.Co2Si"
+    "alias": "A2B_oP12_62_2c_c.Co2Si",
+    "number_of_species": 2,
+    "pearson_symbol": "oP12",
+    "space_group_number": 62
 }

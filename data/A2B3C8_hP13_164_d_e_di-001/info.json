@@ -24,5 +24,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B3C8_hP13_164_d_e_di-001"
+    "alias": "A2B3C8_hP13_164_d_e_di-001",
+    "number_of_species": 3,
+    "pearson_symbol": "hP13",
+    "space_group_number": 164
 }

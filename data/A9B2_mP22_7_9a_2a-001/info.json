@@ -86,5 +86,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A9B2_mP22_7_9a_2a"
+    "alias": "A9B2_mP22_7_9a_2a",
+    "number_of_species": 2,
+    "pearson_symbol": "mP22",
+    "space_group_number": 7
 }

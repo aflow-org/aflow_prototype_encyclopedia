@@ -33,5 +33,8 @@
     "legacy": false,
     "strukturbericht_tex": "$H5_{10}$",
     "compounds": {},
-    "alias": "AB4C6DE_tP26_129_c_j_2ci_a_c"
+    "alias": "AB4C6DE_tP26_129_c_j_2ci_a_c",
+    "number_of_species": 5,
+    "pearson_symbol": "tP26",
+    "space_group_number": 129
 }

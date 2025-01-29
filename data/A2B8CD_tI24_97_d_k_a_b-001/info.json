@@ -22,5 +22,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B8CD_tI24_97_d_k_a_b"
+    "alias": "A2B8CD_tI24_97_d_k_a_b",
+    "number_of_species": 4,
+    "pearson_symbol": "tI24",
+    "space_group_number": 97
 }

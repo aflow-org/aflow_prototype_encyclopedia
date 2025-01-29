@@ -84,5 +84,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B4C2D12_aP21_2_ai_2i_i_6i-001"
+    "alias": "A3B4C2D12_aP21_2_ai_2i_i_6i-001",
+    "number_of_species": 4,
+    "pearson_symbol": "aP21",
+    "space_group_number": 2
 }

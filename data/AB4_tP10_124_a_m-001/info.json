@@ -20,5 +20,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "AB4_tP10_124_a_m"
+    "alias": "AB4_tP10_124_a_m",
+    "number_of_species": 2,
+    "pearson_symbol": "tP10",
+    "space_group_number": 124
 }

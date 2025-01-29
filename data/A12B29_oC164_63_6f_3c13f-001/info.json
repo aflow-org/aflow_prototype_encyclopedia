@@ -100,5 +100,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A12B29_oC164_63_6f_3c13f-001"
+    "alias": "A12B29_oC164_63_6f_3c13f-001",
+    "number_of_species": 2,
+    "pearson_symbol": "oC164",
+    "space_group_number": 63
 }

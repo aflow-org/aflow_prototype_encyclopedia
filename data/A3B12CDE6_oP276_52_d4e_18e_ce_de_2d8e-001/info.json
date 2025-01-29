@@ -220,5 +220,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B12CDE6_oP276_52_d4e_18e_ce_de_2d8e"
+    "alias": "A3B12CDE6_oP276_52_d4e_18e_ce_de_2d8e",
+    "number_of_species": 5,
+    "pearson_symbol": "oP276",
+    "space_group_number": 52
 }

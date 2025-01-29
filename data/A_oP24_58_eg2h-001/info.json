@@ -36,5 +36,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A_oP24_58_eg2h-001"
+    "alias": "A_oP24_58_eg2h-001",
+    "number_of_species": 1,
+    "pearson_symbol": "oP24",
+    "space_group_number": 58
 }

@@ -31,5 +31,8 @@
     "legacy": false,
     "strukturbericht_tex": "$F5_{a}$",
     "compounds": {},
-    "alias": "ABC2_mC16_15_e_e_f"
+    "alias": "ABC2_mC16_15_e_e_f",
+    "number_of_species": 3,
+    "pearson_symbol": "mC16",
+    "space_group_number": 15
 }

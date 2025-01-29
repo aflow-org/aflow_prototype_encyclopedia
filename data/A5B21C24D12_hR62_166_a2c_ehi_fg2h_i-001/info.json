@@ -49,5 +49,8 @@
     "legacy": false,
     "strukturbericht_tex": "$S3_{4}$(I)",
     "compounds": {},
-    "alias": "A5B21C24D12_hR62_166_a2c_ehi_fg2h_i"
+    "alias": "A5B21C24D12_hR62_166_a2c_ehi_fg2h_i",
+    "number_of_species": 4,
+    "pearson_symbol": "hR62",
+    "space_group_number": 166
 }

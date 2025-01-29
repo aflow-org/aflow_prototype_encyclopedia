@@ -38,5 +38,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A4B6C_hP11_143_bd_2d_a"
+    "alias": "A4B6C_hP11_143_bd_2d_a",
+    "number_of_species": 3,
+    "pearson_symbol": "hP11",
+    "space_group_number": 143
 }

@@ -34,5 +34,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A6B28CD8_cI86_197_e_c2f_a_2c-001"
+    "alias": "A6B28CD8_cI86_197_e_c2f_a_2c-001",
+    "number_of_species": 4,
+    "pearson_symbol": "cI86",
+    "space_group_number": 197
 }

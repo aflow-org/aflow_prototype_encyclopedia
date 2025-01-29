@@ -15,5 +15,8 @@
     "legacy": false,
     "strukturbericht_tex": "$G0_{8}$",
     "compounds": {},
-    "alias": "AB_cP2_221_a_b.NH4.NO3"
+    "alias": "AB_cP2_221_a_b.NH4.NO3",
+    "number_of_species": 2,
+    "pearson_symbol": "cP2",
+    "space_group_number": 221
 }

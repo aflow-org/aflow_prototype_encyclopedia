@@ -18,5 +18,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "A6B_hR7_166_g_a"
+    "alias": "A6B_hR7_166_g_a",
+    "number_of_species": 2,
+    "pearson_symbol": "hR7",
+    "space_group_number": 166
 }

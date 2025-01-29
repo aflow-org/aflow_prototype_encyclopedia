@@ -17,5 +17,8 @@
     "legacy": false,
     "strukturbericht_tex": "$D2_{1}$",
     "compounds": {},
-    "alias": "A6B_cP7_221_f_a"
+    "alias": "A6B_cP7_221_f_a",
+    "number_of_species": 2,
+    "pearson_symbol": "cP7",
+    "space_group_number": 221
 }

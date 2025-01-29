@@ -26,5 +26,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B_tP16_118_ei_f"
+    "alias": "A3B_tP16_118_ei_f",
+    "number_of_species": 2,
+    "pearson_symbol": "tP16",
+    "space_group_number": 118
 }

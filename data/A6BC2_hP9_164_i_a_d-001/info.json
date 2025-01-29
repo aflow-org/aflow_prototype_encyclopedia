@@ -23,5 +23,8 @@
     "legacy": false,
     "strukturbericht_tex": "$J1_{13}$",
     "compounds": {},
-    "alias": "A6BC2_hP9_164_i_a_d"
+    "alias": "A6BC2_hP9_164_i_a_d",
+    "number_of_species": 3,
+    "pearson_symbol": "hP9",
+    "space_group_number": 164
 }

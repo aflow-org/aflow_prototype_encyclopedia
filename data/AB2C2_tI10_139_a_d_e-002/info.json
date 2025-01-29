@@ -18,5 +18,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "AB2C2_tI10_139_a_d_e.Li2CN2"
+    "alias": "AB2C2_tI10_139_a_d_e.Li2CN2",
+    "number_of_species": 3,
+    "pearson_symbol": "tI10",
+    "space_group_number": 139
 }

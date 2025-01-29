@@ -56,5 +56,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "AB2_mP12_7_2a_4a"
+    "alias": "AB2_mP12_7_2a_4a",
+    "number_of_species": 2,
+    "pearson_symbol": "mP12",
+    "space_group_number": 7
 }

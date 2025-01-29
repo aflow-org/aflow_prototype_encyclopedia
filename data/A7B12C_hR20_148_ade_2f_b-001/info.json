@@ -28,5 +28,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A7B12C_hR20_148_ade_2f_b-001"
+    "alias": "A7B12C_hR20_148_ade_2f_b-001",
+    "number_of_species": 3,
+    "pearson_symbol": "hR20",
+    "space_group_number": 148
 }

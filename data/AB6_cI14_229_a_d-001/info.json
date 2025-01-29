@@ -14,5 +14,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB6_cI14_229_a_d-001"
+    "alias": "AB6_cI14_229_a_d-001",
+    "number_of_species": 2,
+    "pearson_symbol": "cI14",
+    "space_group_number": 229
 }

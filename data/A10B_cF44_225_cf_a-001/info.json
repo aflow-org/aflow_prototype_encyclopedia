@@ -16,5 +16,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A10B_cF44_225_cf_b"
+    "alias": "A10B_cF44_225_cf_b",
+    "number_of_species": 2,
+    "pearson_symbol": "cF44",
+    "space_group_number": 225
 }

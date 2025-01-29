@@ -236,5 +236,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B_mC144_9_24a_12a"
+    "alias": "A2B_mC144_9_24a_12a",
+    "number_of_species": 2,
+    "pearson_symbol": "mC144",
+    "space_group_number": 9
 }

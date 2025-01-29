@@ -19,5 +19,8 @@
     "legacy": false,
     "strukturbericht_tex": "$D0_{2}$",
     "compounds": {},
-    "alias": "A3B_cI32_204_g_c"
+    "alias": "A3B_cI32_204_g_c",
+    "number_of_species": 2,
+    "pearson_symbol": "cI32",
+    "space_group_number": 204
 }

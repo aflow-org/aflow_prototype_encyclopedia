@@ -78,5 +78,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B2C5_aP18_2_2i_2i_5i"
+    "alias": "A2B2C5_aP18_2_2i_2i_5i",
+    "number_of_species": 3,
+    "pearson_symbol": "aP18",
+    "space_group_number": 2
 }

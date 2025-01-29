@@ -17,5 +17,8 @@
     "legacy": false,
     "strukturbericht_tex": "$C15_{b}$",
     "compounds": {},
-    "alias": "AB5_cF24_216_a_ce"
+    "alias": "AB5_cF24_216_a_ce",
+    "number_of_species": 2,
+    "pearson_symbol": "cF24",
+    "space_group_number": 216
 }

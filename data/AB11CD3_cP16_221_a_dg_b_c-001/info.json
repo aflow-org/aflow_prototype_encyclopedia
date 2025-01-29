@@ -16,5 +16,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "AB11CD3_cP16_221_a_dg_b_c"
+    "alias": "AB11CD3_cP16_221_a_dg_b_c",
+    "number_of_species": 4,
+    "pearson_symbol": "cP16",
+    "space_group_number": 221
 }

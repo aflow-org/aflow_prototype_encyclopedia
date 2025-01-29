@@ -81,5 +81,8 @@
     "legacy": false,
     "strukturbericht_tex": "$K6_{2}$",
     "compounds": {},
-    "alias": "A7B2C_mP40_14_7e_2e_e"
+    "alias": "A7B2C_mP40_14_7e_2e_e",
+    "number_of_species": 3,
+    "pearson_symbol": "mP40",
+    "space_group_number": 14
 }

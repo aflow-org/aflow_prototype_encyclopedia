@@ -254,5 +254,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A17BC17D4E_tP320_89_17p_p_17p_4p_il-001"
+    "alias": "A17BC17D4E_tP320_89_17p_p_17p_4p_il-001",
+    "number_of_species": 5,
+    "pearson_symbol": "tP320",
+    "space_group_number": 89
 }

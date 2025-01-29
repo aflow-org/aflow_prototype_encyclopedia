@@ -51,5 +51,8 @@
     "legacy": false,
     "strukturbericht_tex": "$D8_{10}$",
     "compounds": {},
-    "alias": "A8B5_hR26_160_a3bc_a3b"
+    "alias": "A8B5_hR26_160_a3bc_a3b",
+    "number_of_species": 2,
+    "pearson_symbol": "hR26",
+    "space_group_number": 160
 }

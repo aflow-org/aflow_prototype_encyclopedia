@@ -41,5 +41,8 @@
     "legacy": false,
     "strukturbericht_tex": "$E1_{4}$",
     "compounds": {},
-    "alias": "A2BC_tP32_86_2g_g_g"
+    "alias": "A2BC_tP32_86_2g_g_g",
+    "number_of_species": 3,
+    "pearson_symbol": "tP32",
+    "space_group_number": 86
 }

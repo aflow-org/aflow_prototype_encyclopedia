@@ -54,5 +54,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A3BC2_oP48_50_3m_m_2m"
+    "alias": "A3BC2_oP48_50_3m_m_2m",
+    "number_of_species": 3,
+    "pearson_symbol": "oP48",
+    "space_group_number": 50
 }

@@ -23,5 +23,8 @@
     "legacy": false,
     "strukturbericht_tex": "$D0_{1}$",
     "compounds": {},
-    "alias": "A3B_cP16_198_b_a"
+    "alias": "A3B_cP16_198_b_a",
+    "number_of_species": 2,
+    "pearson_symbol": "cP16",
+    "space_group_number": 198
 }

@@ -54,5 +54,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A8B11_oP38_55_g3h_a3g2h"
+    "alias": "A8B11_oP38_55_g3h_a3g2h",
+    "number_of_species": 2,
+    "pearson_symbol": "oP38",
+    "space_group_number": 55
 }

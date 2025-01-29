@@ -63,5 +63,8 @@
     "legacy": false,
     "strukturbericht_tex": "$H0_{10}$",
     "compounds": {},
-    "alias": "A4BCD_mP28_14_4e_e_e_e"
+    "alias": "A4BCD_mP28_14_4e_e_e_e",
+    "number_of_species": 4,
+    "pearson_symbol": "mP28",
+    "space_group_number": 14
 }

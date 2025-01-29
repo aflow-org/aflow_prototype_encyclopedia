@@ -32,5 +32,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A2BC2_tI20_79_c_2a_c"
+    "alias": "A2BC2_tI20_79_c_2a_c",
+    "number_of_species": 3,
+    "pearson_symbol": "tI20",
+    "space_group_number": 79
 }

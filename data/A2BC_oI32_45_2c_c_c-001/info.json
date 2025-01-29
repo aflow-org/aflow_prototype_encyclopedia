@@ -42,5 +42,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A2BC_oI32_45_2c_c_c-001"
+    "alias": "A2BC_oI32_45_2c_c_c-001",
+    "number_of_species": 3,
+    "pearson_symbol": "oI32",
+    "space_group_number": 45
 }

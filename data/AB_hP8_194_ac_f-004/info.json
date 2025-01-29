@@ -19,5 +19,8 @@
     "legacy": false,
     "strukturbericht_tex": "$B_{i}$",
     "compounds": {},
-    "alias": "AB_hP8_194_ad_f"
+    "alias": "AB_hP8_194_ad_f",
+    "number_of_species": 2,
+    "pearson_symbol": "hP8",
+    "space_group_number": 194
 }

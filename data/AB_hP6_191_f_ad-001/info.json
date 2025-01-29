@@ -17,5 +17,8 @@
     "legacy": false,
     "strukturbericht_tex": "$B35$",
     "compounds": {},
-    "alias": "AB_hP6_191_f_ad"
+    "alias": "AB_hP6_191_f_ad",
+    "number_of_species": 2,
+    "pearson_symbol": "hP6",
+    "space_group_number": 191
 }

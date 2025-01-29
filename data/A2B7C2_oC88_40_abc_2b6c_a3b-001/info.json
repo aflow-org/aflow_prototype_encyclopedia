@@ -88,5 +88,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B7C2_oC88_40_abc_2b6c_a3b"
+    "alias": "A2B7C2_oC88_40_abc_2b6c_a3b",
+    "number_of_species": 3,
+    "pearson_symbol": "oC88",
+    "space_group_number": 40
 }

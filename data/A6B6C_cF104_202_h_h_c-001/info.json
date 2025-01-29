@@ -22,5 +22,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A6B6C_cF104_202_h_h_c"
+    "alias": "A6B6C_cF104_202_h_h_c",
+    "number_of_species": 3,
+    "pearson_symbol": "cF104",
+    "space_group_number": 202
 }

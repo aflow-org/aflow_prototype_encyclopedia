@@ -22,5 +22,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B5_oC16_65_ah_bej"
+    "alias": "A3B5_oC16_65_ah_bej",
+    "number_of_species": 2,
+    "pearson_symbol": "oC16",
+    "space_group_number": 65
 }

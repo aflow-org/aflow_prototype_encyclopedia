@@ -22,5 +22,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC_tI12_109_a_a_a"
+    "alias": "ABC_tI12_109_a_a_a",
+    "number_of_species": 3,
+    "pearson_symbol": "tI12",
+    "space_group_number": 109
 }

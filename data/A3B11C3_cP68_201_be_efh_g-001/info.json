@@ -28,5 +28,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B11C3_cP68_201_be_efh_g"
+    "alias": "A3B11C3_cP68_201_be_efh_g",
+    "number_of_species": 3,
+    "pearson_symbol": "cP68",
+    "space_group_number": 201
 }

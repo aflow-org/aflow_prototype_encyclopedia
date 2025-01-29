@@ -68,5 +68,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A6B36C11_hR106_167_3c_6f_cef-001"
+    "alias": "A6B36C11_hR106_167_3c_6f_cef-001",
+    "number_of_species": 3,
+    "pearson_symbol": "hR106",
+    "space_group_number": 167
 }

@@ -82,5 +82,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A2BC8_tI176_110_2b_b_8b"
+    "alias": "A2BC8_tI176_110_2b_b_8b",
+    "number_of_species": 3,
+    "pearson_symbol": "tI176",
+    "space_group_number": 110
 }

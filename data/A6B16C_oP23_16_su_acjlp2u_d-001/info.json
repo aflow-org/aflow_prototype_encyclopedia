@@ -44,5 +44,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A6B16C_oP23_16_su_acjlp2u_d-001"
+    "alias": "A6B16C_oP23_16_su_acjlp2u_d-001",
+    "number_of_species": 3,
+    "pearson_symbol": "oP23",
+    "space_group_number": 16
 }

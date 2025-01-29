@@ -15,5 +15,8 @@
     "legacy": false,
     "strukturbericht_tex": "$L2_{1}$",
     "compounds": {},
-    "alias": "AB2C_cF16_225_a_c_b"
+    "alias": "AB2C_cF16_225_a_c_b",
+    "number_of_species": 3,
+    "pearson_symbol": "cF16",
+    "space_group_number": 225
 }

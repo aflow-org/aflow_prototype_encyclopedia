@@ -28,5 +28,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "AB_hP12_164_c2d_c2d"
+    "alias": "AB_hP12_164_c2d_c2d",
+    "number_of_species": 2,
+    "pearson_symbol": "hP12",
+    "space_group_number": 164
 }

@@ -60,5 +60,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB12C_aP14_2_b_6i_c-001"
+    "alias": "AB12C_aP14_2_b_6i_c-001",
+    "number_of_species": 3,
+    "pearson_symbol": "aP14",
+    "space_group_number": 2
 }

@@ -20,5 +20,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "A_cF136_227_aeg"
+    "alias": "A_cF136_227_aeg",
+    "number_of_species": 1,
+    "pearson_symbol": "cF136",
+    "space_group_number": 227
 }

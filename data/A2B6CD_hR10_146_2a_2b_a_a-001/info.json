@@ -36,5 +36,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B6CD_hR10_146_2a_2b_a_a-001"
+    "alias": "A2B6CD_hR10_146_2a_2b_a_a-001",
+    "number_of_species": 4,
+    "pearson_symbol": "hR10",
+    "space_group_number": 146
 }

@@ -58,5 +58,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC4D_hP42_173_a2b_c_4c_c-001"
+    "alias": "ABC4D_hP42_173_a2b_c_4c_c-001",
+    "number_of_species": 4,
+    "pearson_symbol": "hP42",
+    "space_group_number": 173
 }

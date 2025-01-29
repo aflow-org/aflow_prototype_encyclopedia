@@ -68,5 +68,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A5B2C3_oP80_48_abgij3m_2m_cdh2m-001"
+    "alias": "A5B2C3_oP80_48_abgij3m_2m_cdh2m-001",
+    "number_of_species": 3,
+    "pearson_symbol": "oP80",
+    "space_group_number": 48
 }

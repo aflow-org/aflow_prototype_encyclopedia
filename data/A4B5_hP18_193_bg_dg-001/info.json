@@ -20,5 +20,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A4B5_hP18_193_bg_dg"
+    "alias": "A4B5_hP18_193_bg_dg",
+    "number_of_species": 2,
+    "pearson_symbol": "hP18",
+    "space_group_number": 193
 }

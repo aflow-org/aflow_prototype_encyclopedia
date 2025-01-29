@@ -24,5 +24,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B2_tP10_83_adk_j"
+    "alias": "A3B2_tP10_83_adk_j",
+    "number_of_species": 2,
+    "pearson_symbol": "tP10",
+    "space_group_number": 83
 }

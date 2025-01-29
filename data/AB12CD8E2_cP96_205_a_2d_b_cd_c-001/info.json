@@ -36,5 +36,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "AB12CD8E2_cP96_205_a_2d_b_cd_c"
+    "alias": "AB12CD8E2_cP96_205_a_2d_b_cd_c",
+    "number_of_species": 5,
+    "pearson_symbol": "cP96",
+    "space_group_number": 205
 }

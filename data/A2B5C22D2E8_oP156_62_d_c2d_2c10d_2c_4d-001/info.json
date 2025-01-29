@@ -141,5 +141,8 @@
     "legacy": false,
     "strukturbericht_tex": "$S4_{4}$",
     "compounds": {},
-    "alias": "A2B5C22D2E8_oP156_62_d_c2d_2c10d_2c_4d"
+    "alias": "A2B5C22D2E8_oP156_62_d_c2d_2c10d_2c_4d",
+    "number_of_species": 5,
+    "pearson_symbol": "oP156",
+    "space_group_number": 62
 }

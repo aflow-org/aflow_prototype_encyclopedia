@@ -68,5 +68,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A_mP32_13_8g-001"
+    "alias": "A_mP32_13_8g-001",
+    "number_of_species": 1,
+    "pearson_symbol": "mP32",
+    "space_group_number": 13
 }

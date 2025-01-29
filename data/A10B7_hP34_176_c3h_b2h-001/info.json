@@ -36,5 +36,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A10B7_hP34_176_c3h_b2h"
+    "alias": "A10B7_hP34_176_c3h_b2h",
+    "number_of_species": 2,
+    "pearson_symbol": "hP34",
+    "space_group_number": 176
 }

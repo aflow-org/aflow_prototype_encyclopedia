@@ -120,5 +120,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B_aP32_2_12i_4i"
+    "alias": "A3B_aP32_2_12i_4i",
+    "number_of_species": 2,
+    "pearson_symbol": "aP32",
+    "space_group_number": 2
 }

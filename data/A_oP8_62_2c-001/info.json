@@ -27,5 +27,8 @@
     "legacy": false,
     "strukturbericht_tex": "$A_{c}$",
     "compounds": {},
-    "alias": "A_oP8_62_2c"
+    "alias": "A_oP8_62_2c",
+    "number_of_species": 1,
+    "pearson_symbol": "oP8",
+    "space_group_number": 62
 }

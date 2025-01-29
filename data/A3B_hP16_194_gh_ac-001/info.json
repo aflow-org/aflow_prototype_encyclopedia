@@ -19,5 +19,8 @@
     "legacy": false,
     "strukturbericht_tex": "$D0_{24}$",
     "compounds": {},
-    "alias": "A3B_hP16_194_gh_ac"
+    "alias": "A3B_hP16_194_gh_ac",
+    "number_of_species": 2,
+    "pearson_symbol": "hP16",
+    "space_group_number": 194
 }

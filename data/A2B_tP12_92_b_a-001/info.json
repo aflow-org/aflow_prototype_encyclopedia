@@ -25,5 +25,8 @@
     "legacy": false,
     "strukturbericht_tex": "$C30$",
     "compounds": {},
-    "alias": "A2B_tP12_92_b_a"
+    "alias": "A2B_tP12_92_b_a",
+    "number_of_species": 2,
+    "pearson_symbol": "tP12",
+    "space_group_number": 92
 }

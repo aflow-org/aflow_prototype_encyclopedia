@@ -48,5 +48,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC6D2_mC40_15_e_e_3f_f"
+    "alias": "ABC6D2_mC40_15_e_e_3f_f",
+    "number_of_species": 4,
+    "pearson_symbol": "mC40",
+    "space_group_number": 15
 }

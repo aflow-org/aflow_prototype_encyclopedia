@@ -30,5 +30,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A_cF240_202_h2i"
+    "alias": "A_cF240_202_h2i",
+    "number_of_species": 1,
+    "pearson_symbol": "cF240",
+    "space_group_number": 202
 }

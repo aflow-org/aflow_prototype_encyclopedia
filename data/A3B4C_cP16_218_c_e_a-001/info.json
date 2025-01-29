@@ -17,5 +17,8 @@
     "legacy": false,
     "strukturbericht_tex": "$H2_{1}$",
     "compounds": {},
-    "alias": "A3B4C_cP16_218_c_e_a"
+    "alias": "A3B4C_cP16_218_c_e_a",
+    "number_of_species": 3,
+    "pearson_symbol": "cP16",
+    "space_group_number": 218
 }

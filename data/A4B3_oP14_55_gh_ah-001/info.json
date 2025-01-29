@@ -30,5 +30,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A4B3_oP14_55_gh_ah-001"
+    "alias": "A4B3_oP14_55_gh_ah-001",
+    "number_of_species": 2,
+    "pearson_symbol": "oP14",
+    "space_group_number": 55
 }

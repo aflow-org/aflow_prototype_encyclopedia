@@ -24,5 +24,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC_oC12_63_c_c_c-004"
+    "alias": "ABC_oC12_63_c_c_c-004",
+    "number_of_species": 3,
+    "pearson_symbol": "oC12",
+    "space_group_number": 63
 }

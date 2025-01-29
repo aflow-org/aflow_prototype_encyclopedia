@@ -23,5 +23,8 @@
     "legacy": false,
     "strukturbericht_tex": "$K3_{4}$",
     "compounds": {},
-    "alias": "A5BC2_tI32_140_cl_a_h-001"
+    "alias": "A5BC2_tI32_140_cl_a_h-001",
+    "number_of_species": 3,
+    "pearson_symbol": "tI32",
+    "space_group_number": 140
 }

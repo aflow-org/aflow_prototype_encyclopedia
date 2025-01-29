@@ -64,5 +64,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A7B8_mC60_15_e3f_4f-001"
+    "alias": "A7B8_mC60_15_e3f_4f-001",
+    "number_of_species": 2,
+    "pearson_symbol": "mC60",
+    "space_group_number": 15
 }

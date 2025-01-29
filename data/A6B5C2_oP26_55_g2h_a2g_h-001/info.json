@@ -42,5 +42,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A6B5C2_oP26_55_g2h_a2g_h-001"
+    "alias": "A6B5C2_oP26_55_g2h_a2g_h-001",
+    "number_of_species": 3,
+    "pearson_symbol": "oP26",
+    "space_group_number": 55
 }

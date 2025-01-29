@@ -35,5 +35,8 @@
     "legacy": false,
     "strukturbericht_tex": "$F5_{11}$",
     "compounds": {},
-    "alias": "ABC2_mC8_8_a_a_b"
+    "alias": "ABC2_mC8_8_a_a_b",
+    "number_of_species": 3,
+    "pearson_symbol": "mC8",
+    "space_group_number": 8
 }

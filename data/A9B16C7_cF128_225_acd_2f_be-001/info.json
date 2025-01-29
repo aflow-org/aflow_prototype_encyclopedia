@@ -20,5 +20,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "A9B16C7_cF128_225_acd_2f_be"
+    "alias": "A9B16C7_cF128_225_acd_2f_be",
+    "number_of_species": 3,
+    "pearson_symbol": "cF128",
+    "space_group_number": 225
 }

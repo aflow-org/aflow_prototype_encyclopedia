@@ -32,5 +32,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "A_mP4_4_2a"
+    "alias": "A_mP4_4_2a",
+    "number_of_species": 1,
+    "pearson_symbol": "mP4",
+    "space_group_number": 4
 }

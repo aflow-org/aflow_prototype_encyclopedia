@@ -126,5 +126,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B_oP72_19_12a_6a-001"
+    "alias": "A2B_oP72_19_12a_6a-001",
+    "number_of_species": 2,
+    "pearson_symbol": "oP72",
+    "space_group_number": 19
 }

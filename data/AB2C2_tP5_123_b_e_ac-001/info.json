@@ -16,5 +16,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB2C2_tP5_123_b_e_ac-001"
+    "alias": "AB2C2_tP5_123_b_e_ac-001",
+    "number_of_species": 3,
+    "pearson_symbol": "tP5",
+    "space_group_number": 123
 }

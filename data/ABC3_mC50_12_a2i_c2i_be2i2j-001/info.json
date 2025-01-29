@@ -56,5 +56,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC3_mC50_12_a2i_c2i_be2i2j-001"
+    "alias": "ABC3_mC50_12_a2i_c2i_be2i2j-001",
+    "number_of_species": 3,
+    "pearson_symbol": "mC50",
+    "space_group_number": 12
 }

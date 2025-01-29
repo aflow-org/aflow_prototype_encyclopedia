@@ -53,5 +53,8 @@
     "legacy": false,
     "strukturbericht_tex": "$S0_{4}$",
     "compounds": {},
-    "alias": "A4BC12D2_oC76_63_eg_c_f3gh_g"
+    "alias": "A4BC12D2_oC76_63_eg_c_f3gh_g",
+    "number_of_species": 4,
+    "pearson_symbol": "oC76",
+    "space_group_number": 63
 }

@@ -18,5 +18,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "A12B_cI26_204_g_a"
+    "alias": "A12B_cI26_204_g_a",
+    "number_of_species": 2,
+    "pearson_symbol": "cI26",
+    "space_group_number": 204
 }

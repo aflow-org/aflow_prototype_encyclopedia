@@ -24,5 +24,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A7B2_hP9_164_ac2d_d-001"
+    "alias": "A7B2_hP9_164_ac2d_d-001",
+    "number_of_species": 2,
+    "pearson_symbol": "hP9",
+    "space_group_number": 164
 }

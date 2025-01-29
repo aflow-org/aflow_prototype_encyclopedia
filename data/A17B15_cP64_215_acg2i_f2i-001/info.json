@@ -34,5 +34,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A17B15_cP64_215_acg2i_f2i-001"
+    "alias": "A17B15_cP64_215_acg2i_f2i-001",
+    "number_of_species": 2,
+    "pearson_symbol": "cP64",
+    "space_group_number": 215
 }

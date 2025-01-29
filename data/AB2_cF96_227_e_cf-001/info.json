@@ -18,5 +18,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "AB2_cF96_227_e_cf"
+    "alias": "AB2_cF96_227_e_cf",
+    "number_of_species": 2,
+    "pearson_symbol": "cF96",
+    "space_group_number": 227
 }

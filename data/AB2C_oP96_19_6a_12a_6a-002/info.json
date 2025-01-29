@@ -162,5 +162,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "AB2C_oP96_19_6a_12a_6a-002"
+    "alias": "AB2C_oP96_19_6a_12a_6a-002",
+    "number_of_species": 3,
+    "pearson_symbol": "oP96",
+    "space_group_number": 19
 }

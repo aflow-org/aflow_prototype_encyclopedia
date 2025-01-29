@@ -21,5 +21,8 @@
     "legacy": false,
     "strukturbericht_tex": "$E9_{1}$",
     "compounds": {},
-    "alias": "A2B3C6_cP33_221_cd_ag_fh"
+    "alias": "A2B3C6_cP33_221_cd_ag_fh",
+    "number_of_species": 3,
+    "pearson_symbol": "cP33",
+    "space_group_number": 221
 }

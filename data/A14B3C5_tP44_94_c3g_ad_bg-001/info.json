@@ -44,5 +44,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A14B3C5_tP44_94_c3g_ad_bg"
+    "alias": "A14B3C5_tP44_94_c3g_ad_bg",
+    "number_of_species": 3,
+    "pearson_symbol": "tP44",
+    "space_group_number": 94
 }

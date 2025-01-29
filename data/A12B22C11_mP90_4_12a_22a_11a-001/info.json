@@ -290,5 +290,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A12B22C11_mP90_4_12a_22a_11a-001"
+    "alias": "A12B22C11_mP90_4_12a_22a_11a-001",
+    "number_of_species": 3,
+    "pearson_symbol": "mP90",
+    "space_group_number": 4
 }

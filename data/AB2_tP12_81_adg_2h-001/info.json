@@ -30,5 +30,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "AB2_tP12_81_adg_2h"
+    "alias": "AB2_tP12_81_adg_2h",
+    "number_of_species": 2,
+    "pearson_symbol": "tP12",
+    "space_group_number": 81
 }

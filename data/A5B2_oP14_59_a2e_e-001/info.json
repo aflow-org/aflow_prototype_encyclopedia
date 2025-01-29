@@ -32,5 +32,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A5B2_oP14_59_a2f_f"
+    "alias": "A5B2_oP14_59_a2f_f",
+    "number_of_species": 2,
+    "pearson_symbol": "oP14",
+    "space_group_number": 59
 }

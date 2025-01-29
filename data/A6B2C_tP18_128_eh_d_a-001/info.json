@@ -22,5 +22,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A6B2C_tP18_128_eh_d_a"
+    "alias": "A6B2C_tP18_128_eh_d_a",
+    "number_of_species": 3,
+    "pearson_symbol": "tP18",
+    "space_group_number": 128
 }

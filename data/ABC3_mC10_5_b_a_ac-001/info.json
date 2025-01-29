@@ -32,5 +32,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC3_mC10_5_b_a_ac"
+    "alias": "ABC3_mC10_5_b_a_ac",
+    "number_of_species": 3,
+    "pearson_symbol": "mC10",
+    "space_group_number": 5
 }

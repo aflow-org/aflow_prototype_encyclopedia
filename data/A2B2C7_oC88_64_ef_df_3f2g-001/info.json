@@ -54,5 +54,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B2C7_oC88_64_ef_df_3f2g"
+    "alias": "A2B2C7_oC88_64_ef_df_3f2g",
+    "number_of_species": 3,
+    "pearson_symbol": "oC88",
+    "space_group_number": 64
 }

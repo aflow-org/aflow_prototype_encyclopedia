@@ -48,5 +48,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A8B2C12D2E_oI50_23_bcfk_i_3k_j_a"
+    "alias": "A8B2C12D2E_oI50_23_bcfk_i_3k_j_a",
+    "number_of_species": 5,
+    "pearson_symbol": "oI50",
+    "space_group_number": 23
 }

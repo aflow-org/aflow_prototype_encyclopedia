@@ -111,5 +111,8 @@
     "legacy": false,
     "strukturbericht_tex": "$F2_{1}$",
     "compounds": {},
-    "alias": "A8B4C4DE8F2_oP108_62_4c2d_2d_2cd_c_4c2d_d"
+    "alias": "A8B4C4DE8F2_oP108_62_4c2d_2d_2cd_c_4c2d_d",
+    "number_of_species": 6,
+    "pearson_symbol": "oP108",
+    "space_group_number": 62
 }

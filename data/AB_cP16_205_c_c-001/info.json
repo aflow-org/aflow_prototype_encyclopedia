@@ -18,5 +18,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "AB_cP16_205_c_c"
+    "alias": "AB_cP16_205_c_c",
+    "number_of_species": 2,
+    "pearson_symbol": "cP16",
+    "space_group_number": 205
 }

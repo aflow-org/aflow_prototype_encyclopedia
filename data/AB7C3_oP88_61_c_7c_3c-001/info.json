@@ -84,5 +84,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB7C3_oP88_61_c_7c_3c-001"
+    "alias": "AB7C3_oP88_61_c_7c_3c-001",
+    "number_of_species": 3,
+    "pearson_symbol": "oP88",
+    "space_group_number": 61
 }

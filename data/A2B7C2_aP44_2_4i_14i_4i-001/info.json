@@ -156,5 +156,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B7C2_aP44_2_4i_14i_4i"
+    "alias": "A2B7C2_aP44_2_4i_14i_4i",
+    "number_of_species": 3,
+    "pearson_symbol": "aP44",
+    "space_group_number": 2
 }

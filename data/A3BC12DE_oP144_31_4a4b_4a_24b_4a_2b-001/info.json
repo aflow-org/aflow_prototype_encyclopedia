@@ -246,5 +246,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A3BC12DE_oP144_31_4a4b_4a_24b_4a_2b-001"
+    "alias": "A3BC12DE_oP144_31_4a4b_4a_24b_4a_2b-001",
+    "number_of_species": 5,
+    "pearson_symbol": "oP144",
+    "space_group_number": 31
 }

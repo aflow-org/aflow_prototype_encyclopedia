@@ -120,5 +120,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC2_aP16_1_4a_4a_8a"
+    "alias": "ABC2_aP16_1_4a_4a_8a",
+    "number_of_species": 3,
+    "pearson_symbol": "aP16",
+    "space_group_number": 1
 }

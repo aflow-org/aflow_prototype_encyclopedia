@@ -38,5 +38,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "AB3_hP24_149_acgi_3l"
+    "alias": "AB3_hP24_149_acgi_3l",
+    "number_of_species": 2,
+    "pearson_symbol": "hP24",
+    "space_group_number": 149
 }

@@ -46,5 +46,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B12C_cP128_205_d_4d_c-001"
+    "alias": "A3B12C_cP128_205_d_4d_c-001",
+    "number_of_species": 3,
+    "pearson_symbol": "cP128",
+    "space_group_number": 205
 }

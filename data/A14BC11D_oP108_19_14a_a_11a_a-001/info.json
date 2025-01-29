@@ -181,5 +181,8 @@
     "legacy": false,
     "strukturbericht_tex": "$H4_{12}$",
     "compounds": {},
-    "alias": "A14BC11D_oP108_19_14a_a_11a_a"
+    "alias": "A14BC11D_oP108_19_14a_a_11a_a",
+    "number_of_species": 4,
+    "pearson_symbol": "oP108",
+    "space_group_number": 19
 }

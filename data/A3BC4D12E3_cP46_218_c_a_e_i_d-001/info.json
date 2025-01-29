@@ -23,5 +23,8 @@
     "legacy": false,
     "strukturbericht_tex": "$S6_{2}$",
     "compounds": {},
-    "alias": "A3BC4D12E3_cP46_218_d_a_e_i_c"
+    "alias": "A3BC4D12E3_cP46_218_d_a_e_i_c",
+    "number_of_species": 5,
+    "pearson_symbol": "cP46",
+    "space_group_number": 218
 }

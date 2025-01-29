@@ -164,5 +164,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A8B2CD12E2_mC200_15_8f_2f_ce_2e11f_2f"
+    "alias": "A8B2CD12E2_mC200_15_8f_2f_ce_2e11f_2f",
+    "number_of_species": 5,
+    "pearson_symbol": "mC200",
+    "space_group_number": 15
 }

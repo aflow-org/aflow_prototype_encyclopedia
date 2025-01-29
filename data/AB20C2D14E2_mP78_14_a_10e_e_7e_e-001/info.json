@@ -135,5 +135,8 @@
     "legacy": false,
     "strukturbericht_tex": "$H4_{4}$",
     "compounds": {},
-    "alias": "AB20C2D14E2_mP78_14_a_10e_e_7e_e"
+    "alias": "AB20C2D14E2_mP78_14_a_10e_e_7e_e",
+    "number_of_species": 5,
+    "pearson_symbol": "mP78",
+    "space_group_number": 14
 }

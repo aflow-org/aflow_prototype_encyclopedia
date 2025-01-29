@@ -39,5 +39,8 @@
     "legacy": false,
     "strukturbericht_tex": "$E3_{2}$",
     "compounds": {},
-    "alias": "A2BC4_oP28_60_d_c_2d"
+    "alias": "A2BC4_oP28_60_d_c_2d",
+    "number_of_species": 3,
+    "pearson_symbol": "oP28",
+    "space_group_number": 60
 }

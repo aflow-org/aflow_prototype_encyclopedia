@@ -36,5 +36,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A_mP8_10_2m2n"
+    "alias": "A_mP8_10_2m2n",
+    "number_of_species": 1,
+    "pearson_symbol": "mP8",
+    "space_group_number": 10
 }

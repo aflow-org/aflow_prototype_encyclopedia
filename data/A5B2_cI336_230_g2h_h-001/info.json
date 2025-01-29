@@ -34,5 +34,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A5B2_cI336_230_g2h_h-001"
+    "alias": "A5B2_cI336_230_g2h_h-001",
+    "number_of_species": 2,
+    "pearson_symbol": "cI336",
+    "space_group_number": 230
 }

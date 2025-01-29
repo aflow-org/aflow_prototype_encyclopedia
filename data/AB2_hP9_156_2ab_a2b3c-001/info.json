@@ -34,5 +34,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "AB2_hP9_156_b2c_3a2bc"
+    "alias": "AB2_hP9_156_b2c_3a2bc",
+    "number_of_species": 2,
+    "pearson_symbol": "hP9",
+    "space_group_number": 156
 }

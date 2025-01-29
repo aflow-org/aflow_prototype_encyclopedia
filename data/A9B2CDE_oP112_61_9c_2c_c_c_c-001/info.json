@@ -102,5 +102,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A9B2CDE_oP112_61_9c_2c_c_c_c-001"
+    "alias": "A9B2CDE_oP112_61_9c_2c_c_c_c-001",
+    "number_of_species": 5,
+    "pearson_symbol": "oP112",
+    "space_group_number": 61
 }

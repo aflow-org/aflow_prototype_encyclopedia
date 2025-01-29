@@ -70,5 +70,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC3_mC60_12_3i_ac2i_3i3j-001"
+    "alias": "ABC3_mC60_12_3i_ac2i_3i3j-001",
+    "number_of_species": 3,
+    "pearson_symbol": "mC60",
+    "space_group_number": 12
 }

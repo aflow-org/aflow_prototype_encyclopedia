@@ -19,5 +19,8 @@
     "legacy": false,
     "strukturbericht_tex": "$C_{c}$",
     "compounds": {},
-    "alias": "A2B_tI12_141_e_a.ThSi2"
+    "alias": "A2B_tI12_141_e_a.ThSi2",
+    "number_of_species": 2,
+    "pearson_symbol": "tI12",
+    "space_group_number": 141
 }

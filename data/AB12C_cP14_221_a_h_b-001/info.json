@@ -16,5 +16,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "AB12C_cP14_221_a_h_b"
+    "alias": "AB12C_cP14_221_a_h_b",
+    "number_of_species": 3,
+    "pearson_symbol": "cP14",
+    "space_group_number": 221
 }

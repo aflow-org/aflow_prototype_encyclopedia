@@ -150,5 +150,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "AB32CD4E8_tP184_93_i_16p_af_2p_4p"
+    "alias": "AB32CD4E8_tP184_93_i_16p_af_2p_4p",
+    "number_of_species": 5,
+    "pearson_symbol": "tP184",
+    "space_group_number": 93
 }

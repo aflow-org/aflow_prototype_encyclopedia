@@ -22,5 +22,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "AB_oP2_25_b_a"
+    "alias": "AB_oP2_25_b_a",
+    "number_of_species": 2,
+    "pearson_symbol": "oP2",
+    "space_group_number": 25
 }

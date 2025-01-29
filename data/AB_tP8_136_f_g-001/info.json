@@ -20,5 +20,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "AB_tP8_136_g_f"
+    "alias": "AB_tP8_136_g_f",
+    "number_of_species": 2,
+    "pearson_symbol": "tP8",
+    "space_group_number": 136
 }

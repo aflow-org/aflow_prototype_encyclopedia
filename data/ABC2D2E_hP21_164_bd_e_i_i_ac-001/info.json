@@ -28,5 +28,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC2D2E_hP21_164_bd_e_i_i_ac-001"
+    "alias": "ABC2D2E_hP21_164_bd_e_i_i_ac-001",
+    "number_of_species": 5,
+    "pearson_symbol": "hP21",
+    "space_group_number": 164
 }

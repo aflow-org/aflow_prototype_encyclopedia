@@ -29,5 +29,8 @@
     "legacy": false,
     "strukturbericht_tex": "$E1_{3}$",
     "compounds": {},
-    "alias": "A2B8CD2_oC26_65_h_r_a_i"
+    "alias": "A2B8CD2_oC26_65_h_r_a_i",
+    "number_of_species": 4,
+    "pearson_symbol": "oC26",
+    "space_group_number": 65
 }

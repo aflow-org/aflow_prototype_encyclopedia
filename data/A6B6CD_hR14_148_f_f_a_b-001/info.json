@@ -29,5 +29,8 @@
     "legacy": false,
     "strukturbericht_tex": "$I6_{1}$",
     "compounds": {},
-    "alias": "A6B6CD_hR14_148_f_f_b_a"
+    "alias": "A6B6CD_hR14_148_f_f_b_a",
+    "number_of_species": 4,
+    "pearson_symbol": "hR14",
+    "space_group_number": 148
 }

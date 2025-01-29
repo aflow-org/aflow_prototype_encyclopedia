@@ -134,5 +134,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A4B12C3_mP38_7_4a_12a_3a-001"
+    "alias": "A4B12C3_mP38_7_4a_12a_3a-001",
+    "number_of_species": 3,
+    "pearson_symbol": "mP38",
+    "space_group_number": 7
 }

@@ -18,5 +18,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A2BC2_hP5_187_ac_b_i-001"
+    "alias": "A2BC2_hP5_187_ac_b_i-001",
+    "number_of_species": 3,
+    "pearson_symbol": "hP5",
+    "space_group_number": 187
 }

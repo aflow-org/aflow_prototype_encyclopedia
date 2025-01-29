@@ -32,5 +32,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "AB2C3D2_tP32_127_g_eh_gk_k"
+    "alias": "AB2C3D2_tP32_127_g_eh_gk_k",
+    "number_of_species": 4,
+    "pearson_symbol": "tP32",
+    "space_group_number": 127
 }

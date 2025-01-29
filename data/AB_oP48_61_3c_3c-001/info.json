@@ -54,5 +54,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "AB_oP48_61_3c_3c"
+    "alias": "AB_oP48_61_3c_3c",
+    "number_of_species": 2,
+    "pearson_symbol": "oP48",
+    "space_group_number": 61
 }

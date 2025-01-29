@@ -78,5 +78,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "A_hR105_166_bc9h4i"
+    "alias": "A_hR105_166_bc9h4i",
+    "number_of_species": 1,
+    "pearson_symbol": "hR105",
+    "space_group_number": 166
 }

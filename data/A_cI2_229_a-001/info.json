@@ -15,5 +15,8 @@
     "legacy": false,
     "strukturbericht_tex": "$A2$",
     "compounds": {},
-    "alias": "A_cI2_229_a"
+    "alias": "A_cI2_229_a",
+    "number_of_species": 1,
+    "pearson_symbol": "cI2",
+    "space_group_number": 229
 }

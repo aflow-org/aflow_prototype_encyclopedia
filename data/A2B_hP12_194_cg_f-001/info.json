@@ -19,5 +19,8 @@
     "legacy": false,
     "strukturbericht_tex": "$C10$",
     "compounds": {},
-    "alias": "A2B_hP12_194_cg_f"
+    "alias": "A2B_hP12_194_cg_f",
+    "number_of_species": 2,
+    "pearson_symbol": "hP12",
+    "space_group_number": 194
 }

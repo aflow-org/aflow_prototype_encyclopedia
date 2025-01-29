@@ -18,5 +18,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC2_hP4_164_a_b_d"
+    "alias": "ABC2_hP4_164_a_b_d",
+    "number_of_species": 3,
+    "pearson_symbol": "hP4",
+    "space_group_number": 164
 }

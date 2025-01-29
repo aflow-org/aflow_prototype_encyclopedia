@@ -96,5 +96,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "AB2_aP12_1_4a_8a"
+    "alias": "AB2_aP12_1_4a_8a",
+    "number_of_species": 2,
+    "pearson_symbol": "aP12",
+    "space_group_number": 1
 }

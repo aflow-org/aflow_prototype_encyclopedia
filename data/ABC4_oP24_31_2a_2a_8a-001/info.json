@@ -66,5 +66,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC4_oP24_31_2a_2a_8a-001"
+    "alias": "ABC4_oP24_31_2a_2a_8a-001",
+    "number_of_species": 3,
+    "pearson_symbol": "oP24",
+    "space_group_number": 31
 }

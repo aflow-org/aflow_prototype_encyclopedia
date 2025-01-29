@@ -272,5 +272,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A13B2C6_mP168_14_26e_4e_12e-001"
+    "alias": "A13B2C6_mP168_14_26e_4e_12e-001",
+    "number_of_species": 3,
+    "pearson_symbol": "mP168",
+    "space_group_number": 14
 }

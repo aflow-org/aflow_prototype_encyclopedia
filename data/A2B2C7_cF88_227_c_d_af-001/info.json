@@ -17,5 +17,8 @@
     "legacy": false,
     "strukturbericht_tex": "$E8_{1}$",
     "compounds": {},
-    "alias": "A2B2C7_cF88_227_c_d_af"
+    "alias": "A2B2C7_cF88_227_c_d_af",
+    "number_of_species": 3,
+    "pearson_symbol": "cF88",
+    "space_group_number": 227
 }

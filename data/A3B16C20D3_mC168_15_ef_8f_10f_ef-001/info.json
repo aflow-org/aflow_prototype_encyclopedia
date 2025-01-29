@@ -145,5 +145,8 @@
     "legacy": false,
     "strukturbericht_tex": "$H4_{20}$",
     "compounds": {},
-    "alias": "A3B16C20D3_mC168_15_ef_8f_10f_ef"
+    "alias": "A3B16C20D3_mC168_15_ef_8f_10f_ef",
+    "number_of_species": 4,
+    "pearson_symbol": "mC168",
+    "space_group_number": 15
 }

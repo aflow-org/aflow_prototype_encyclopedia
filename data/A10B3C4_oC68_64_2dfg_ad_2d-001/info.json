@@ -38,5 +38,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A10B3C4_oC68_64_2dfg_ad_2d"
+    "alias": "A10B3C4_oC68_64_2dfg_ad_2d",
+    "number_of_species": 3,
+    "pearson_symbol": "oC68",
+    "space_group_number": 64
 }

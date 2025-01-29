@@ -30,5 +30,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC4_oP12_16_ag_cd_2u"
+    "alias": "ABC4_oP12_16_ag_cd_2u",
+    "number_of_species": 3,
+    "pearson_symbol": "oP12",
+    "space_group_number": 16
 }

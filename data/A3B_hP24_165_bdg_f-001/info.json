@@ -27,5 +27,8 @@
     "legacy": false,
     "strukturbericht_tex": "$D0_{21}$",
     "compounds": {},
-    "alias": "A3B_hP24_165_bdg_f"
+    "alias": "A3B_hP24_165_bdg_f",
+    "number_of_species": 2,
+    "pearson_symbol": "hP24",
+    "space_group_number": 165
 }

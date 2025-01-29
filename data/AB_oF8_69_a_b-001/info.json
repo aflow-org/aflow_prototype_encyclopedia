@@ -19,5 +19,8 @@
     "legacy": false,
     "strukturbericht_tex": "$B24$",
     "compounds": {},
-    "alias": "AB_oF8_69_a_b"
+    "alias": "AB_oF8_69_a_b",
+    "number_of_species": 2,
+    "pearson_symbol": "oF8",
+    "space_group_number": 69
 }

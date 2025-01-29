@@ -41,5 +41,8 @@
     "legacy": false,
     "strukturbericht_tex": "$E3_{5}$",
     "compounds": {},
-    "alias": "A4BC2D_oP32_62_2cd_b_2c_a"
+    "alias": "A4BC2D_oP32_62_2cd_b_2c_a",
+    "number_of_species": 4,
+    "pearson_symbol": "oP32",
+    "space_group_number": 62
 }

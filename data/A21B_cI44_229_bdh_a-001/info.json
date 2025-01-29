@@ -17,5 +17,8 @@
     "legacy": false,
     "strukturbericht_tex": "$B23$",
     "compounds": {},
-    "alias": "A21B_cI44_229_bdh_a"
+    "alias": "A21B_cI44_229_bdh_a",
+    "number_of_species": 2,
+    "pearson_symbol": "cI44",
+    "space_group_number": 229
 }

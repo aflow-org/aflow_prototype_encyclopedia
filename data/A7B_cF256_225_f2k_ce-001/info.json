@@ -26,5 +26,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A7B_cF256_225_f2k_ce-001"
+    "alias": "A7B_cF256_225_f2k_ce-001",
+    "number_of_species": 2,
+    "pearson_symbol": "cF256",
+    "space_group_number": 225
 }

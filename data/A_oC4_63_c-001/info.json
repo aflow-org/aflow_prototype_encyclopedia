@@ -21,5 +21,8 @@
     "legacy": false,
     "strukturbericht_tex": "$A20$",
     "compounds": {},
-    "alias": "A_oC4_63_c"
+    "alias": "A_oC4_63_c",
+    "number_of_species": 1,
+    "pearson_symbol": "oC4",
+    "space_group_number": 63
 }

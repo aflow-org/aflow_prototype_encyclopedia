@@ -22,5 +22,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "AB_oC8_65_j_g"
+    "alias": "AB_oC8_65_j_g",
+    "number_of_species": 2,
+    "pearson_symbol": "oC8",
+    "space_group_number": 65
 }

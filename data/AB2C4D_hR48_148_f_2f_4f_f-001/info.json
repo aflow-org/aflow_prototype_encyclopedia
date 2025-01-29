@@ -64,5 +64,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB2C4D_hR48_148_f_2f_4f_f-001"
+    "alias": "AB2C4D_hR48_148_f_2f_4f_f-001",
+    "number_of_species": 4,
+    "pearson_symbol": "hR48",
+    "space_group_number": 148
 }

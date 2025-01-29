@@ -16,5 +16,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB_tI4_139_a_b-003"
+    "alias": "AB_tI4_139_a_b-003",
+    "number_of_species": 2,
+    "pearson_symbol": "tI4",
+    "space_group_number": 139
 }

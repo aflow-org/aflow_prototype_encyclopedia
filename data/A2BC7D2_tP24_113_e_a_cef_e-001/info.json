@@ -37,5 +37,8 @@
     "legacy": false,
     "strukturbericht_tex": "$S5_{3}$",
     "compounds": {},
-    "alias": "A2BC7D2_tP24_113_e_a_cef_e"
+    "alias": "A2BC7D2_tP24_113_e_a_cef_e",
+    "number_of_species": 4,
+    "pearson_symbol": "tP24",
+    "space_group_number": 113
 }

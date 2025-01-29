@@ -18,5 +18,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A2BC3_cP24_213_c_a_d"
+    "alias": "A2BC3_cP24_213_c_a_d",
+    "number_of_species": 3,
+    "pearson_symbol": "cP24",
+    "space_group_number": 213
 }

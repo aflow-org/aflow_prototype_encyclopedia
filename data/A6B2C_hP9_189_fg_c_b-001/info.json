@@ -20,5 +20,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A6B2C_hP9_189_fg_c_b-001"
+    "alias": "A6B2C_hP9_189_fg_c_b-001",
+    "number_of_species": 3,
+    "pearson_symbol": "hP9",
+    "space_group_number": 189
 }

@@ -52,5 +52,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A12B6C_cF608_210_4h_2h_e"
+    "alias": "A12B6C_cF608_210_4h_2h_e",
+    "number_of_species": 3,
+    "pearson_symbol": "cF608",
+    "space_group_number": 210
 }

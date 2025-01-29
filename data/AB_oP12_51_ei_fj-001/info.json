@@ -30,5 +30,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB_oP12_51_ei_fj-001"
+    "alias": "AB_oP12_51_ei_fj-001",
+    "number_of_species": 2,
+    "pearson_symbol": "oP12",
+    "space_group_number": 51
 }

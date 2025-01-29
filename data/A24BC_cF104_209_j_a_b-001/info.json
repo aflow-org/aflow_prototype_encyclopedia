@@ -20,5 +20,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A24BC_cF104_209_j_a_b"
+    "alias": "A24BC_cF104_209_j_a_b",
+    "number_of_species": 3,
+    "pearson_symbol": "cF104",
+    "space_group_number": 209
 }

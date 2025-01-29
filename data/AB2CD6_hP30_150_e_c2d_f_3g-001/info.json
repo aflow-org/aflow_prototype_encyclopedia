@@ -44,5 +44,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "AB2CD6_hP30_150_e_c2d_f_3g"
+    "alias": "AB2CD6_hP30_150_e_c2d_f_3g",
+    "number_of_species": 4,
+    "pearson_symbol": "hP30",
+    "space_group_number": 150
 }

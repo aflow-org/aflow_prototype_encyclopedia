@@ -78,5 +78,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "AB5C2D10E2_mC80_15_e_e2f_f_5f_f-001"
+    "alias": "AB5C2D10E2_mC80_15_e_e2f_f_5f_f-001",
+    "number_of_species": 5,
+    "pearson_symbol": "mC80",
+    "space_group_number": 15
 }

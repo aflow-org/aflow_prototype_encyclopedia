@@ -42,5 +42,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B4C_cP56_198_ab_2a2b_2a"
+    "alias": "A2B4C_cP56_198_ab_2a2b_2a",
+    "number_of_species": 3,
+    "pearson_symbol": "cP56",
+    "space_group_number": 198
 }

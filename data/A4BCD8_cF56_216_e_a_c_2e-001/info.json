@@ -20,5 +20,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A4BCD8_cF56_216_e_a_c_2e-001"
+    "alias": "A4BCD8_cF56_216_e_a_c_2e-001",
+    "number_of_species": 4,
+    "pearson_symbol": "cF56",
+    "space_group_number": 216
 }

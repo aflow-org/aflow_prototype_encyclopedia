@@ -18,5 +18,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "A_cP8_198_2a"
+    "alias": "A_cP8_198_2a",
+    "number_of_species": 1,
+    "pearson_symbol": "cP8",
+    "space_group_number": 198
 }

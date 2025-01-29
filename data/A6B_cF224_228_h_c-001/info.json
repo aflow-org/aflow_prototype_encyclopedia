@@ -20,5 +20,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A6B_cF224_228_h_c"
+    "alias": "A6B_cF224_228_h_c",
+    "number_of_species": 2,
+    "pearson_symbol": "cF224",
+    "space_group_number": 228
 }

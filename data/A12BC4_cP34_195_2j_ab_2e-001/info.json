@@ -30,5 +30,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A12BC4_cP34_195_2j_ab_2e"
+    "alias": "A12BC4_cP34_195_2j_ab_2e",
+    "number_of_species": 3,
+    "pearson_symbol": "cP34",
+    "space_group_number": 195
 }

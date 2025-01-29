@@ -20,5 +20,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B3_tI10_139_e_ae"
+    "alias": "A2B3_tI10_139_e_ae",
+    "number_of_species": 2,
+    "pearson_symbol": "tI10",
+    "space_group_number": 139
 }

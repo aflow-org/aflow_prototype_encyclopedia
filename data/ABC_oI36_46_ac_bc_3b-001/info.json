@@ -48,5 +48,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC_oI36_46_ac_bc_3b"
+    "alias": "ABC_oI36_46_ac_bc_3b",
+    "number_of_species": 3,
+    "pearson_symbol": "oI36",
+    "space_group_number": 46
 }

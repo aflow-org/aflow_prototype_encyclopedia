@@ -32,5 +32,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B_cF192_216_2e2h_ab2eg-001"
+    "alias": "A2B_cF192_216_2e2h_ab2eg-001",
+    "number_of_species": 2,
+    "pearson_symbol": "cF192",
+    "space_group_number": 216
 }

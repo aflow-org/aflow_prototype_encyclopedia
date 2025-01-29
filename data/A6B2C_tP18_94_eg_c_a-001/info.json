@@ -26,5 +26,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A6B2C_tP18_94_eg_c_a"
+    "alias": "A6B2C_tP18_94_eg_c_a",
+    "number_of_species": 3,
+    "pearson_symbol": "tP18",
+    "space_group_number": 94
 }

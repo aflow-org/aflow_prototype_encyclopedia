@@ -92,5 +92,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC2_mP48_14_3e_3e_6e-001"
+    "alias": "ABC2_mP48_14_3e_3e_6e-001",
+    "number_of_species": 3,
+    "pearson_symbol": "mP48",
+    "space_group_number": 14
 }

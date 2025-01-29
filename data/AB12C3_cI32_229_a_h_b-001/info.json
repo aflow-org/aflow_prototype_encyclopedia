@@ -16,5 +16,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "AB12C3_cI32_229_a_h_b"
+    "alias": "AB12C3_cI32_229_a_h_b",
+    "number_of_species": 3,
+    "pearson_symbol": "cI32",
+    "space_group_number": 229
 }

@@ -42,5 +42,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A4B3_oP28_55_ghi_egh-001"
+    "alias": "A4B3_oP28_55_ghi_egh-001",
+    "number_of_species": 2,
+    "pearson_symbol": "oP28",
+    "space_group_number": 55
 }

@@ -21,5 +21,8 @@
     "legacy": false,
     "strukturbericht_tex": "$E0_{1}$",
     "compounds": {},
-    "alias": "ABC_tP6_129_c_a_c"
+    "alias": "ABC_tP6_129_c_a_c",
+    "number_of_species": 3,
+    "pearson_symbol": "tP6",
+    "space_group_number": 129
 }

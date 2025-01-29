@@ -32,5 +32,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B_mC12_12_2i_i-007"
+    "alias": "A2B_mC12_12_2i_i-007",
+    "number_of_species": 2,
+    "pearson_symbol": "mC12",
+    "space_group_number": 12
 }

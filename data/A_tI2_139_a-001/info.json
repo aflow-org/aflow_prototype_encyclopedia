@@ -17,5 +17,8 @@
     "legacy": false,
     "strukturbericht_tex": "$A6$",
     "compounds": {},
-    "alias": "A_tI2_139_a.In"
+    "alias": "A_tI2_139_a.In",
+    "number_of_species": 1,
+    "pearson_symbol": "tI2",
+    "space_group_number": 139
 }

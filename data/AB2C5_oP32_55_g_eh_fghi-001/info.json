@@ -44,5 +44,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "AB2C5_oP32_55_g_fh_eghi"
+    "alias": "AB2C5_oP32_55_g_fh_eghi",
+    "number_of_species": 3,
+    "pearson_symbol": "oP32",
+    "space_group_number": 55
 }

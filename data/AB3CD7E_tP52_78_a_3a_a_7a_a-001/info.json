@@ -94,5 +94,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "AB3CD7E_tP52_78_a_3a_a_7a_a-001"
+    "alias": "AB3CD7E_tP52_78_a_3a_a_7a_a-001",
+    "number_of_species": 5,
+    "pearson_symbol": "tP52",
+    "space_group_number": 78
 }

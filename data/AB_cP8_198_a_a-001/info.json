@@ -19,5 +19,8 @@
     "legacy": false,
     "strukturbericht_tex": "$B21$",
     "compounds": {},
-    "alias": "AB_cP8_198_a_a.alpha-CO"
+    "alias": "AB_cP8_198_a_a.alpha-CO",
+    "number_of_species": 2,
+    "pearson_symbol": "cP8",
+    "space_group_number": 198
 }

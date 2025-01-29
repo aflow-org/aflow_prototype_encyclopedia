@@ -26,5 +26,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B_oP4_25_abc_d-001"
+    "alias": "A3B_oP4_25_abc_d-001",
+    "number_of_species": 2,
+    "pearson_symbol": "oP4",
+    "space_group_number": 25
 }

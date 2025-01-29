@@ -50,5 +50,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B4C8D2E2_tP76_136_fj_2i_2jk_de_j-001"
+    "alias": "A3B4C8D2E2_tP76_136_fj_2i_2jk_de_j-001",
+    "number_of_species": 5,
+    "pearson_symbol": "tP76",
+    "space_group_number": 136
 }

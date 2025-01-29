@@ -20,5 +20,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC4_tP12_125_a_b_m"
+    "alias": "ABC4_tP12_125_a_b_m",
+    "number_of_species": 3,
+    "pearson_symbol": "tP12",
+    "space_group_number": 125
 }

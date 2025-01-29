@@ -42,5 +42,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A16B40C12D6E5_cF316_216_eh_e2g2h_h_f_be"
+    "alias": "A16B40C12D6E5_cF316_216_eh_e2g2h_h_f_be",
+    "number_of_species": 5,
+    "pearson_symbol": "cF316",
+    "space_group_number": 216
 }

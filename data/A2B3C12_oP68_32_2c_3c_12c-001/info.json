@@ -120,5 +120,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B3C12_oP68_32_2c_3c_12c-001"
+    "alias": "A2B3C12_oP68_32_2c_3c_12c-001",
+    "number_of_species": 3,
+    "pearson_symbol": "oP68",
+    "space_group_number": 32
 }

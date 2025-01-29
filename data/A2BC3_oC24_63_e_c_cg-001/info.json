@@ -28,5 +28,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A2BC3_oC24_63_e_c_cg"
+    "alias": "A2BC3_oC24_63_e_c_cg",
+    "number_of_species": 3,
+    "pearson_symbol": "oC24",
+    "space_group_number": 63
 }

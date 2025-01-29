@@ -20,5 +20,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "A8B_tI18_139_hi_a"
+    "alias": "A8B_tI18_139_hi_a",
+    "number_of_species": 2,
+    "pearson_symbol": "tI18",
+    "space_group_number": 139
 }

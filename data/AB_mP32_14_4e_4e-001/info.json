@@ -68,5 +68,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "AB_mP32_14_4e_4e.pararealgar"
+    "alias": "AB_mP32_14_4e_4e.pararealgar",
+    "number_of_species": 2,
+    "pearson_symbol": "mP32",
+    "space_group_number": 14
 }

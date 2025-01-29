@@ -28,5 +28,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB3C_oC10_38_a_ae_b-002"
+    "alias": "AB3C_oC10_38_a_ae_b-002",
+    "number_of_species": 3,
+    "pearson_symbol": "oC10",
+    "space_group_number": 38
 }

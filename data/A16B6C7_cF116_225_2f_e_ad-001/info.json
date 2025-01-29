@@ -20,5 +20,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A16B6C7_cF116_225_2f_e_ad-001"
+    "alias": "A16B6C7_cF116_225_2f_e_ad-001",
+    "number_of_species": 3,
+    "pearson_symbol": "cF116",
+    "space_group_number": 225
 }

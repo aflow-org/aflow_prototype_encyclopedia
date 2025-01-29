@@ -35,5 +35,8 @@
     "legacy": false,
     "strukturbericht_tex": "$E4_{1}$",
     "compounds": {},
-    "alias": "A2B5C_oC32_63_f_c2f_c"
+    "alias": "A2B5C_oC32_63_f_c2f_c",
+    "number_of_species": 3,
+    "pearson_symbol": "oC32",
+    "space_group_number": 63
 }

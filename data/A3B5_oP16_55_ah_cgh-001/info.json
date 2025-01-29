@@ -30,5 +30,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B5_oP16_55_ch_agh"
+    "alias": "A3B5_oP16_55_ch_agh",
+    "number_of_species": 2,
+    "pearson_symbol": "oP16",
+    "space_group_number": 55
 }

@@ -36,5 +36,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC3_oP20_62_c_c_cd.K.N.O3"
+    "alias": "ABC3_oP20_62_c_c_cd.K.N.O3",
+    "number_of_species": 3,
+    "pearson_symbol": "oP20",
+    "space_group_number": 62
 }

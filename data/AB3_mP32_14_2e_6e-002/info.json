@@ -68,5 +68,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "AB3_mP32_14_2e_6e-002"
+    "alias": "AB3_mP32_14_2e_6e-002",
+    "number_of_species": 2,
+    "pearson_symbol": "mP32",
+    "space_group_number": 14
 }

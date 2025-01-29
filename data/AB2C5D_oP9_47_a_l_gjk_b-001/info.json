@@ -24,5 +24,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "AB2C5D_oP9_47_a_l_gjk_b-001"
+    "alias": "AB2C5D_oP9_47_a_l_gjk_b-001",
+    "number_of_species": 4,
+    "pearson_symbol": "oP9",
+    "space_group_number": 47
 }

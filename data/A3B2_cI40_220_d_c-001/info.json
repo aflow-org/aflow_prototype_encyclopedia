@@ -19,5 +19,8 @@
     "legacy": false,
     "strukturbericht_tex": "$D5_{c}$",
     "compounds": {},
-    "alias": "A3B2_cI40_220_d_c"
+    "alias": "A3B2_cI40_220_d_c",
+    "number_of_species": 2,
+    "pearson_symbol": "cI40",
+    "space_group_number": 220
 }

@@ -184,5 +184,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B9C2_mC112_5_6c_2a2b16c_4c-001"
+    "alias": "A3B9C2_mC112_5_6c_2a2b16c_4c-001",
+    "number_of_species": 3,
+    "pearson_symbol": "mC112",
+    "space_group_number": 5
 }

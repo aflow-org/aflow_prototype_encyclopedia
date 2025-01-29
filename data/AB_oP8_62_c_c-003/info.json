@@ -27,5 +27,8 @@
     "legacy": false,
     "strukturbericht_tex": "$B27$",
     "compounds": {},
-    "alias": "AB_oP8_62_c_c.FeB"
+    "alias": "AB_oP8_62_c_c.FeB",
+    "number_of_species": 2,
+    "pearson_symbol": "oP8",
+    "space_group_number": 62
 }

@@ -18,5 +18,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC3_hR10_167_a_b_e.LiNbO3"
+    "alias": "ABC3_hR10_167_a_b_e.LiNbO3",
+    "number_of_species": 3,
+    "pearson_symbol": "hR10",
+    "space_group_number": 167
 }

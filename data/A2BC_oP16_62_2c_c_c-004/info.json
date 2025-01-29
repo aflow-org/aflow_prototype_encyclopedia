@@ -34,5 +34,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A2BC_oP16_62_2c_c_c-004"
+    "alias": "A2BC_oP16_62_2c_c_c-004",
+    "number_of_species": 3,
+    "pearson_symbol": "oP16",
+    "space_group_number": 62
 }

@@ -16,5 +16,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "A_cI16_220_c"
+    "alias": "A_cI16_220_c",
+    "number_of_species": 1,
+    "pearson_symbol": "cI16",
+    "space_group_number": 220
 }

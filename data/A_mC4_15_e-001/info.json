@@ -22,5 +22,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A_mC4_15_e"
+    "alias": "A_mC4_15_e",
+    "number_of_species": 1,
+    "pearson_symbol": "mC4",
+    "space_group_number": 15
 }

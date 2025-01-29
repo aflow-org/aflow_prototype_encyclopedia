@@ -20,5 +20,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB3C2_tP6_115_a_bg_g-001"
+    "alias": "AB3C2_tP6_115_a_bg_g-001",
+    "number_of_species": 3,
+    "pearson_symbol": "tP6",
+    "space_group_number": 115
 }

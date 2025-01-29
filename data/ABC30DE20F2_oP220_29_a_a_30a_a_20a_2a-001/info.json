@@ -348,5 +348,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC30DE20F2_oP220_29_a_a_30a_a_20a_2a"
+    "alias": "ABC30DE20F2_oP220_29_a_a_30a_a_20a_2a",
+    "number_of_species": 6,
+    "pearson_symbol": "oP220",
+    "space_group_number": 29
 }

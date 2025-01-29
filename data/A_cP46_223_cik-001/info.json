@@ -20,5 +20,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "A_cP46_223_dik"
+    "alias": "A_cP46_223_dik",
+    "number_of_species": 1,
+    "pearson_symbol": "cP46",
+    "space_group_number": 223
 }

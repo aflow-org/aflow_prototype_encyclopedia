@@ -32,5 +32,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A5B3_oC32_63_cfg_ce"
+    "alias": "A5B3_oC32_63_cfg_ce",
+    "number_of_species": 2,
+    "pearson_symbol": "oC32",
+    "space_group_number": 63
 }

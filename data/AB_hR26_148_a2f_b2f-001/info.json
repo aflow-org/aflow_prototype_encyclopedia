@@ -40,5 +40,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "AB_hR26_148_b2f_a2f"
+    "alias": "AB_hR26_148_b2f_a2f",
+    "number_of_species": 2,
+    "pearson_symbol": "hR26",
+    "space_group_number": 148
 }

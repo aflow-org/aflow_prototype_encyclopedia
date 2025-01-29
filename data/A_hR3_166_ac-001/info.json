@@ -19,5 +19,8 @@
     "legacy": false,
     "strukturbericht_tex": "$C19$",
     "compounds": {},
-    "alias": "A_hR3_166_ac"
+    "alias": "A_hR3_166_ac",
+    "number_of_species": 1,
+    "pearson_symbol": "hR3",
+    "space_group_number": 166
 }

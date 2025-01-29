@@ -236,5 +236,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A7BCD15EF12_hP444_177_7n_n_jl_15n_n_12n-001"
+    "alias": "A7BCD15EF12_hP444_177_7n_n_jl_15n_n_12n-001",
+    "number_of_species": 6,
+    "pearson_symbol": "hP444",
+    "space_group_number": 177
 }

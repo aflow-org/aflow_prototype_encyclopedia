@@ -20,5 +20,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A_tP12_138_bi"
+    "alias": "A_tP12_138_bi",
+    "number_of_species": 1,
+    "pearson_symbol": "tP12",
+    "space_group_number": 138
 }

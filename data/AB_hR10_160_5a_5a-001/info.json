@@ -37,5 +37,8 @@
     "legacy": false,
     "strukturbericht_tex": "$B7$",
     "compounds": {},
-    "alias": "AB_hR10_160_5a_5a"
+    "alias": "AB_hR10_160_5a_5a",
+    "number_of_species": 2,
+    "pearson_symbol": "hR10",
+    "space_group_number": 160
 }

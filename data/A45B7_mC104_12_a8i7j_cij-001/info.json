@@ -104,5 +104,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A45B7_mC104_12_a8i7j_cij-001"
+    "alias": "A45B7_mC104_12_a8i7j_cij-001",
+    "number_of_species": 2,
+    "pearson_symbol": "mC104",
+    "space_group_number": 12
 }

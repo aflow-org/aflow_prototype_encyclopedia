@@ -27,5 +27,8 @@
     "legacy": false,
     "strukturbericht_tex": "$H4_{1}$",
     "compounds": {},
-    "alias": "A4BC4D2E2_tP26_136_fg_a_j_d_e"
+    "alias": "A4BC4D2E2_tP26_136_fg_a_j_d_e",
+    "number_of_species": 5,
+    "pearson_symbol": "tP26",
+    "space_group_number": 136
 }

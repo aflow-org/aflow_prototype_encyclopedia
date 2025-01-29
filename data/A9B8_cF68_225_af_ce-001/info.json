@@ -19,5 +19,8 @@
     "legacy": false,
     "strukturbericht_tex": "$D8_{9}$",
     "compounds": {},
-    "alias": "A9B8_cF68_225_af_ce"
+    "alias": "A9B8_cF68_225_af_ce",
+    "number_of_species": 2,
+    "pearson_symbol": "cF68",
+    "space_group_number": 225
 }

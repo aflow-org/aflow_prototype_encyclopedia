@@ -45,5 +45,8 @@
     "legacy": false,
     "strukturbericht_tex": "$E5_{1}$",
     "compounds": {},
-    "alias": "AB2C6_oP36_60_c_d_3d"
+    "alias": "AB2C6_oP36_60_c_d_3d",
+    "number_of_species": 3,
+    "pearson_symbol": "oP36",
+    "space_group_number": 60
 }

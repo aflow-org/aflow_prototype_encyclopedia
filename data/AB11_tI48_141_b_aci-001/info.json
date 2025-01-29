@@ -22,5 +22,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "AB11_tI48_141_a_bdi"
+    "alias": "AB11_tI48_141_a_bdi",
+    "number_of_species": 2,
+    "pearson_symbol": "tI48",
+    "space_group_number": 141
 }

@@ -54,5 +54,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A45B11_cF448_216_bd4efg5h_ac2eh"
+    "alias": "A45B11_cF448_216_bd4efg5h_ac2eh",
+    "number_of_species": 2,
+    "pearson_symbol": "cF448",
+    "space_group_number": 216
 }

@@ -26,5 +26,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "AB2_tP12_115_j_egi"
+    "alias": "AB2_tP12_115_j_egi",
+    "number_of_species": 2,
+    "pearson_symbol": "tP12",
+    "space_group_number": 115
 }

@@ -196,5 +196,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A13B4_oP102_31_17a11b_8a2b"
+    "alias": "A13B4_oP102_31_17a11b_8a2b",
+    "number_of_species": 2,
+    "pearson_symbol": "oP102",
+    "space_group_number": 31
 }

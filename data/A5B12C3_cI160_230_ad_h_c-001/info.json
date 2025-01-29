@@ -20,5 +20,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A5B12C3_cI160_230_ad_h_c-001"
+    "alias": "A5B12C3_cI160_230_ad_h_c-001",
+    "number_of_species": 3,
+    "pearson_symbol": "cI160",
+    "space_group_number": 230
 }

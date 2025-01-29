@@ -130,5 +130,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B3C12D2_mC152_15_2f_3f_12f_aef-001"
+    "alias": "A2B3C12D2_mC152_15_2f_3f_12f_aef-001",
+    "number_of_species": 4,
+    "pearson_symbol": "mC152",
+    "space_group_number": 15
 }

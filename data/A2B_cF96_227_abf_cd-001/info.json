@@ -17,5 +17,8 @@
     "legacy": false,
     "strukturbericht_tex": "$D6_{2}$",
     "compounds": {},
-    "alias": "A2B_cF96_227_abf_cd"
+    "alias": "A2B_cF96_227_abf_cd",
+    "number_of_species": 2,
+    "pearson_symbol": "cF96",
+    "space_group_number": 227
 }

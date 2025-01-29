@@ -22,5 +22,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "AB3_tI32_88_d_cf"
+    "alias": "AB3_tI32_88_d_cf",
+    "number_of_species": 2,
+    "pearson_symbol": "tI32",
+    "space_group_number": 88
 }

@@ -30,5 +30,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A6BC_oC32_67_no_c_g-001"
+    "alias": "A6BC_oC32_67_no_c_g-001",
+    "number_of_species": 3,
+    "pearson_symbol": "oC32",
+    "space_group_number": 67
 }

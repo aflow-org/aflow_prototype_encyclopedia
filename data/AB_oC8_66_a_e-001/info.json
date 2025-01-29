@@ -18,5 +18,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB_oC8_66_a_e-001"
+    "alias": "AB_oC8_66_a_e-001",
+    "number_of_species": 2,
+    "pearson_symbol": "oC8",
+    "space_group_number": 66
 }

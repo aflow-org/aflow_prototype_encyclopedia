@@ -34,5 +34,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A5B3_tP32_118_g2i_aceh"
+    "alias": "A5B3_tP32_118_g2i_aceh",
+    "number_of_species": 2,
+    "pearson_symbol": "tP32",
+    "space_group_number": 118
 }

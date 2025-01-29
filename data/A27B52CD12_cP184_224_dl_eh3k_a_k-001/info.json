@@ -40,5 +40,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A27B52CD12_cP184_224_dl_eh3k_a_k"
+    "alias": "A27B52CD12_cP184_224_dl_eh3k_a_k",
+    "number_of_species": 4,
+    "pearson_symbol": "cP184",
+    "space_group_number": 224
 }

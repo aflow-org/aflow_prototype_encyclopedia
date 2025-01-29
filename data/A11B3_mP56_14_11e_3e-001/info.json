@@ -104,5 +104,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A11B3_mP56_14_11e_3e"
+    "alias": "A11B3_mP56_14_11e_3e",
+    "number_of_species": 2,
+    "pearson_symbol": "mP56",
+    "space_group_number": 14
 }

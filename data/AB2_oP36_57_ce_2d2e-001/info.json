@@ -46,5 +46,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB2_oP36_57_ce_2d2e-001"
+    "alias": "AB2_oP36_57_ce_2d2e-001",
+    "number_of_species": 2,
+    "pearson_symbol": "oP36",
+    "space_group_number": 57
 }

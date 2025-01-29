@@ -20,5 +20,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB4C_tP12_127_a_eg_c-001"
+    "alias": "AB4C_tP12_127_a_eg_c-001",
+    "number_of_species": 3,
+    "pearson_symbol": "tP12",
+    "space_group_number": 127
 }

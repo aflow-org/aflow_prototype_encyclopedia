@@ -26,5 +26,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A9B2C3_hP28_194_hk_f_bf"
+    "alias": "A9B2C3_hP28_194_hk_f_bf",
+    "number_of_species": 3,
+    "pearson_symbol": "hP28",
+    "space_group_number": 194
 }

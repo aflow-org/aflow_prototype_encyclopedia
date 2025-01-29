@@ -21,5 +21,8 @@
     "legacy": false,
     "strukturbericht_tex": "$D8_{a}$",
     "compounds": {},
-    "alias": "A23B6_cF116_225_bd2f_e"
+    "alias": "A23B6_cF116_225_bd2f_e",
+    "number_of_species": 2,
+    "pearson_symbol": "cF116",
+    "space_group_number": 225
 }

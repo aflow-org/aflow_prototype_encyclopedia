@@ -109,5 +109,8 @@
     "legacy": false,
     "strukturbericht_tex": "$G5_{1}$",
     "compounds": {},
-    "alias": "AB3C3_aP28_2_2i_6i_6i"
+    "alias": "AB3C3_aP28_2_2i_6i_6i",
+    "number_of_species": 3,
+    "pearson_symbol": "aP28",
+    "space_group_number": 2
 }

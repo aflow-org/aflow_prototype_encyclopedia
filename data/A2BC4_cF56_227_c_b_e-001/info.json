@@ -17,5 +17,8 @@
     "legacy": false,
     "strukturbericht_tex": "$H1_{1}$",
     "compounds": {},
-    "alias": "A2BC4_cF56_227_d_a_e"
+    "alias": "A2BC4_cF56_227_d_a_e",
+    "number_of_species": 3,
+    "pearson_symbol": "cF56",
+    "space_group_number": 227
 }

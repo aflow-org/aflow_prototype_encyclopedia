@@ -42,5 +42,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A20B3_cI184_204_def3gh_g-001"
+    "alias": "A20B3_cI184_204_def3gh_g-001",
+    "number_of_species": 2,
+    "pearson_symbol": "cI184",
+    "space_group_number": 204
 }

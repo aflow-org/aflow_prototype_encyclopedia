@@ -26,5 +26,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B3_tP20_116_bci_fj"
+    "alias": "A2B3_tP20_116_bci_fj",
+    "number_of_species": 2,
+    "pearson_symbol": "tP20",
+    "space_group_number": 116
 }

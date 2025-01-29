@@ -30,5 +30,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B4_hR7_160_3a_4a-001"
+    "alias": "A3B4_hR7_160_3a_4a-001",
+    "number_of_species": 2,
+    "pearson_symbol": "hR7",
+    "space_group_number": 160
 }

@@ -22,5 +22,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A2BCD4_tI16_82_ac_b_d_g"
+    "alias": "A2BCD4_tI16_82_ac_b_d_g",
+    "number_of_species": 4,
+    "pearson_symbol": "tI16",
+    "space_group_number": 82
 }

@@ -69,5 +69,8 @@
     "legacy": false,
     "strukturbericht_tex": "$H4_{13}$",
     "compounds": {},
-    "alias": "AB24CD28E2_cP224_205_a_4d_b_2c4d_c"
+    "alias": "AB24CD28E2_cP224_205_a_4d_b_2c4d_c",
+    "number_of_species": 5,
+    "pearson_symbol": "cP224",
+    "space_group_number": 205
 }

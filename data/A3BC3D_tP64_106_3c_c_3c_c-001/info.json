@@ -64,5 +64,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A3BC3D_tP64_106_3c_c_3c_c"
+    "alias": "A3BC3D_tP64_106_3c_c_3c_c",
+    "number_of_species": 4,
+    "pearson_symbol": "tP64",
+    "space_group_number": 106
 }

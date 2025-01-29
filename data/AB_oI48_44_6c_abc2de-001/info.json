@@ -65,5 +65,8 @@
     "legacy": false,
     "strukturbericht_tex": "$B30$",
     "compounds": {},
-    "alias": "AB_oI48_44_6d_ab2cde"
+    "alias": "AB_oI48_44_6d_ab2cde",
+    "number_of_species": 2,
+    "pearson_symbol": "oI48",
+    "space_group_number": 44
 }

@@ -49,5 +49,8 @@
     "legacy": false,
     "strukturbericht_tex": "$H4_{17}$",
     "compounds": {},
-    "alias": "A2B12C4D4E_tP46_114_d_3e_e_e_a"
+    "alias": "A2B12C4D4E_tP46_114_d_3e_e_e_a",
+    "number_of_species": 5,
+    "pearson_symbol": "tP46",
+    "space_group_number": 114
 }

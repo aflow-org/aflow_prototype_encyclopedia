@@ -26,5 +26,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC3_hP10_173_b_a_c"
+    "alias": "ABC3_hP10_173_b_a_c",
+    "number_of_species": 3,
+    "pearson_symbol": "hP10",
+    "space_group_number": 173
 }

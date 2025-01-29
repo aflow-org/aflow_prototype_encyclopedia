@@ -116,5 +116,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A_mP64_14_16e-002"
+    "alias": "A_mP64_14_16e-002",
+    "number_of_species": 1,
+    "pearson_symbol": "mP64",
+    "space_group_number": 14
 }

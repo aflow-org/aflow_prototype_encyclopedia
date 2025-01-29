@@ -34,5 +34,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "AB5C_oP28_54_c_cdef_d-001"
+    "alias": "AB5C_oP28_54_c_cdef_d-001",
+    "number_of_species": 3,
+    "pearson_symbol": "oP28",
+    "space_group_number": 54
 }

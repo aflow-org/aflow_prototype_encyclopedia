@@ -40,5 +40,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "AB3_oP16_18_ab_3c"
+    "alias": "AB3_oP16_18_ab_3c",
+    "number_of_species": 2,
+    "pearson_symbol": "oP16",
+    "space_group_number": 18
 }

@@ -18,5 +18,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B3C_cI56_214_g_h_a"
+    "alias": "A3B3C_cI56_214_g_h_a",
+    "number_of_species": 3,
+    "pearson_symbol": "cI56",
+    "space_group_number": 214
 }

@@ -50,5 +50,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "AB4C_mP24_14_ab_4e_e"
+    "alias": "AB4C_mP24_14_ab_4e_e",
+    "number_of_species": 3,
+    "pearson_symbol": "mP24",
+    "space_group_number": 14
 }

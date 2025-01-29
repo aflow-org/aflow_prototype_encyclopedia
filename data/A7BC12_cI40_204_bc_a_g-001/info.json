@@ -18,5 +18,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A7BC12_cI40_204_bc_a_g"
+    "alias": "A7BC12_cI40_204_bc_a_g",
+    "number_of_species": 3,
+    "pearson_symbol": "cI40",
+    "space_group_number": 204
 }

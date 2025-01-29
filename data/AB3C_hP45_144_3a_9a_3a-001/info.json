@@ -106,5 +106,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "AB3C_hP45_144_3a_9a_3a"
+    "alias": "AB3C_hP45_144_3a_9a_3a",
+    "number_of_species": 3,
+    "pearson_symbol": "hP45",
+    "space_group_number": 144
 }

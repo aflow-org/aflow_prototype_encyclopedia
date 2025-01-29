@@ -55,5 +55,8 @@
     "legacy": false,
     "strukturbericht_tex": "$J3_{1}$",
     "compounds": {},
-    "alias": "A6B2C3D_tI168_139_egikl2m_ejn_bh2n_acf"
+    "alias": "A6B2C3D_tI168_139_egikl2m_ejn_bh2n_acf",
+    "number_of_species": 4,
+    "pearson_symbol": "tI168",
+    "space_group_number": 139
 }

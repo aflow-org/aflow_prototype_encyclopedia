@@ -78,5 +78,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B7C24D8_oP82_58_g_ae2f_2g5h_2h"
+    "alias": "A2B7C24D8_oP82_58_g_ae2f_2g5h_2h",
+    "number_of_species": 4,
+    "pearson_symbol": "oP82",
+    "space_group_number": 58
 }

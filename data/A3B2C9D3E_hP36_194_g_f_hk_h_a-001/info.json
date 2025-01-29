@@ -27,5 +27,8 @@
     "legacy": false,
     "strukturbericht_tex": "$S3_{4}$(II)",
     "compounds": {},
-    "alias": "A3B2C9D3E_hP36_194_g_f_hk_h_a"
+    "alias": "A3B2C9D3E_hP36_194_g_f_hk_h_a",
+    "number_of_species": 5,
+    "pearson_symbol": "hP36",
+    "space_group_number": 194
 }

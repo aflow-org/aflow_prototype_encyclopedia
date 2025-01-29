@@ -22,5 +22,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "AB_oI4_44_a_b"
+    "alias": "AB_oI4_44_a_b",
+    "number_of_species": 2,
+    "pearson_symbol": "oI4",
+    "space_group_number": 44
 }

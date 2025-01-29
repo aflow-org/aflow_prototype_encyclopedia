@@ -26,5 +26,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B6C7_cI90_204_e_dg_ac2f-001"
+    "alias": "A2B6C7_cI90_204_e_dg_ac2f-001",
+    "number_of_species": 3,
+    "pearson_symbol": "cI90",
+    "space_group_number": 204
 }

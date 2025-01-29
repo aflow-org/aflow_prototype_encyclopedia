@@ -18,5 +18,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B_cP32_223_k_ac-001"
+    "alias": "A3B_cP32_223_k_ac-001",
+    "number_of_species": 2,
+    "pearson_symbol": "cP32",
+    "space_group_number": 223
 }

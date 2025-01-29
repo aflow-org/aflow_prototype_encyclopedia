@@ -34,5 +34,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B_hR18_148_2f_f"
+    "alias": "A2B_hR18_148_2f_f",
+    "number_of_species": 2,
+    "pearson_symbol": "hR18",
+    "space_group_number": 148
 }

@@ -28,5 +28,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC4D_oI28_74_a_d_hi_e"
+    "alias": "ABC4D_oI28_74_a_d_hi_e",
+    "number_of_species": 4,
+    "pearson_symbol": "oI28",
+    "space_group_number": 74
 }

@@ -32,5 +32,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB4C15D4_tI48_139_a_2e_bd2e2g_2e-001"
+    "alias": "AB4C15D4_tI48_139_a_2e_bd2e2g_2e-001",
+    "number_of_species": 4,
+    "pearson_symbol": "tI48",
+    "space_group_number": 139
 }

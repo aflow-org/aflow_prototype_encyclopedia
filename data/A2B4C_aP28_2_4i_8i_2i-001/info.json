@@ -108,5 +108,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B4C_aP28_2_4i_8i_2i-001"
+    "alias": "A2B4C_aP28_2_4i_8i_2i-001",
+    "number_of_species": 3,
+    "pearson_symbol": "aP28",
+    "space_group_number": 2
 }

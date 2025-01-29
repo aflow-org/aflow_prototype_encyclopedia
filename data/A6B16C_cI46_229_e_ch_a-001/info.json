@@ -18,5 +18,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A6B16C_cI46_229_e_ch_a-001"
+    "alias": "A6B16C_cI46_229_e_ch_a-001",
+    "number_of_species": 3,
+    "pearson_symbol": "cI46",
+    "space_group_number": 229
 }

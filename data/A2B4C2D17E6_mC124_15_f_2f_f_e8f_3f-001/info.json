@@ -112,5 +112,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B4C2D17E6_mC124_15_f_2f_f_e8f_3f"
+    "alias": "A2B4C2D17E6_mC124_15_f_2f_f_e8f_3f",
+    "number_of_species": 5,
+    "pearson_symbol": "mC124",
+    "space_group_number": 15
 }

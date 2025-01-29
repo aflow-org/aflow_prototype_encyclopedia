@@ -22,5 +22,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "AB2C2_oI10_71_a_e_f-002"
+    "alias": "AB2C2_oI10_71_a_e_f-002",
+    "number_of_species": 3,
+    "pearson_symbol": "oI10",
+    "space_group_number": 71
 }

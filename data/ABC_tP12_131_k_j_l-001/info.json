@@ -22,5 +22,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC_tP12_131_k_j_l-001"
+    "alias": "ABC_tP12_131_k_j_l-001",
+    "number_of_species": 3,
+    "pearson_symbol": "tP12",
+    "space_group_number": 131
 }

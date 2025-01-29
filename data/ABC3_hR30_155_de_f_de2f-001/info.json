@@ -42,5 +42,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC3_hR30_155_de_f_de2f-001"
+    "alias": "ABC3_hR30_155_de_f_de2f-001",
+    "number_of_species": 3,
+    "pearson_symbol": "hR30",
+    "space_group_number": 155
 }

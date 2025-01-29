@@ -20,5 +20,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A22B_cF184_227_cdfg_a"
+    "alias": "A22B_cF184_227_cdfg_a",
+    "number_of_species": 2,
+    "pearson_symbol": "cF184",
+    "space_group_number": 227
 }

@@ -36,5 +36,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A_mC16_12_4i"
+    "alias": "A_mC16_12_4i",
+    "number_of_species": 1,
+    "pearson_symbol": "mC16",
+    "space_group_number": 12
 }

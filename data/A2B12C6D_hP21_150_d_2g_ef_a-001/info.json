@@ -34,5 +34,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B12C6D_hP21_150_d_2g_ef_a"
+    "alias": "A2B12C6D_hP21_150_d_2g_ef_a",
+    "number_of_species": 4,
+    "pearson_symbol": "hP21",
+    "space_group_number": 150
 }

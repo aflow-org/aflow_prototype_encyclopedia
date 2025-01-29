@@ -33,5 +33,8 @@
     "legacy": false,
     "strukturbericht_tex": "$D7_{a}$",
     "compounds": {},
-    "alias": "A3B4_mC14_12_ai_2i"
+    "alias": "A3B4_mC14_12_ai_2i",
+    "number_of_species": 2,
+    "pearson_symbol": "mC14",
+    "space_group_number": 12
 }

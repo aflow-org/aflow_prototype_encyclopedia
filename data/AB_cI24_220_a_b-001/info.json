@@ -14,5 +14,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "AB_cI24_220_a_b"
+    "alias": "AB_cI24_220_a_b",
+    "number_of_species": 2,
+    "pearson_symbol": "cI24",
+    "space_group_number": 220
 }

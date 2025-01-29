@@ -30,5 +30,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A13B20_cI66_197_af_2cf-001"
+    "alias": "A13B20_cI66_197_af_2cf-001",
+    "number_of_species": 2,
+    "pearson_symbol": "cI66",
+    "space_group_number": 197
 }

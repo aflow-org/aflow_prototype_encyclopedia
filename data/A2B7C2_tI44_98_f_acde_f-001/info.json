@@ -26,5 +26,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B7C2_tI44_98_f_bcde_f"
+    "alias": "A2B7C2_tI44_98_f_bcde_f",
+    "number_of_species": 3,
+    "pearson_symbol": "tI44",
+    "space_group_number": 98
 }

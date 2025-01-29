@@ -36,5 +36,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B15C5_tP46_127_bh_cg2ij_di-001"
+    "alias": "A3B15C5_tP46_127_bh_cg2ij_di-001",
+    "number_of_species": 3,
+    "pearson_symbol": "tP46",
+    "space_group_number": 127
 }

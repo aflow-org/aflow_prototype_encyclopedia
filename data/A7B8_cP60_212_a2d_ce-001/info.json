@@ -26,5 +26,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A7B8_cP60_212_a2d_ce-001"
+    "alias": "A7B8_cP60_212_a2d_ce-001",
+    "number_of_species": 2,
+    "pearson_symbol": "cP60",
+    "space_group_number": 212
 }

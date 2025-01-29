@@ -22,5 +22,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A4B_tI20_88_f_a"
+    "alias": "A4B_tI20_88_f_a",
+    "number_of_species": 2,
+    "pearson_symbol": "tI20",
+    "space_group_number": 88
 }

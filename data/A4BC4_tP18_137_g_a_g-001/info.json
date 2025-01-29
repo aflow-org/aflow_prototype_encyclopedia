@@ -24,5 +24,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A4BC4_tP18_137_g_b_g"
+    "alias": "A4BC4_tP18_137_g_b_g",
+    "number_of_species": 3,
+    "pearson_symbol": "tP18",
+    "space_group_number": 137
 }

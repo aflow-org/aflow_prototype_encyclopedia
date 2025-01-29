@@ -50,5 +50,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A4B2C4D_mP22_14_2e_e_2e_a"
+    "alias": "A4B2C4D_mP22_14_2e_e_2e_a",
+    "number_of_species": 4,
+    "pearson_symbol": "mP22",
+    "space_group_number": 14
 }

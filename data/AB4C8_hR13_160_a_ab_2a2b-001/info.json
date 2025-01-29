@@ -36,5 +36,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "AB4C8_hR13_160_a_ab_2a2b"
+    "alias": "AB4C8_hR13_160_a_ab_2a2b",
+    "number_of_species": 3,
+    "pearson_symbol": "hR13",
+    "space_group_number": 160
 }

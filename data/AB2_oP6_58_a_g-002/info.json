@@ -22,5 +22,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "AB2_oP6_58_a_g.eta-Fe2C"
+    "alias": "AB2_oP6_58_a_g.eta-Fe2C",
+    "number_of_species": 2,
+    "pearson_symbol": "oP6",
+    "space_group_number": 58
 }

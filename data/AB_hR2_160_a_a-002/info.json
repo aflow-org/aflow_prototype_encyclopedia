@@ -20,5 +20,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB_hR2_160_a_a-002"
+    "alias": "AB_hR2_160_a_a-002",
+    "number_of_species": 2,
+    "pearson_symbol": "hR2",
+    "space_group_number": 160
 }

@@ -20,5 +20,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A5B6_hP22_194_ach_gh-001"
+    "alias": "A5B6_hP22_194_ach_gh-001",
+    "number_of_species": 2,
+    "pearson_symbol": "hP22",
+    "space_group_number": 194
 }

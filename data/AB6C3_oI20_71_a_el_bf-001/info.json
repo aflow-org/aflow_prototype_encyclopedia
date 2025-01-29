@@ -26,5 +26,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "AB6C3_oI20_71_a_in_cj"
+    "alias": "AB6C3_oI20_71_a_in_cj",
+    "number_of_species": 3,
+    "pearson_symbol": "oI20",
+    "space_group_number": 71
 }

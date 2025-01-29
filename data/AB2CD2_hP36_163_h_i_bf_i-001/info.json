@@ -33,5 +33,8 @@
     "legacy": false,
     "strukturbericht_tex": "$F5_{10}$",
     "compounds": {},
-    "alias": "AB2CD2_hP36_163_h_i_bf_i"
+    "alias": "AB2CD2_hP36_163_h_i_bf_i",
+    "number_of_species": 4,
+    "pearson_symbol": "hP36",
+    "space_group_number": 163
 }

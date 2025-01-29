@@ -18,5 +18,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "A_hR2_166_c.beta-O"
+    "alias": "A_hR2_166_c.beta-O",
+    "number_of_species": 1,
+    "pearson_symbol": "hR2",
+    "space_group_number": 166
 }

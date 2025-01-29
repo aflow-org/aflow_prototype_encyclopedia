@@ -152,5 +152,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B2CD10E22F8_tP90_75_d_d_ab_5d_11d_4d-001"
+    "alias": "A2B2CD10E22F8_tP90_75_d_d_ab_5d_11d_4d-001",
+    "number_of_species": 6,
+    "pearson_symbol": "tP90",
+    "space_group_number": 75
 }

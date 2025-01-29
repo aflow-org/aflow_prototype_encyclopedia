@@ -18,5 +18,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "A4B3_cI112_230_af_g"
+    "alias": "A4B3_cI112_230_af_g",
+    "number_of_species": 2,
+    "pearson_symbol": "cI112",
+    "space_group_number": 230
 }

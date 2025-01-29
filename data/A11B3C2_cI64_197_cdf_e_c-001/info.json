@@ -28,5 +28,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A11B3C2_cI64_197_cdf_e_c-001"
+    "alias": "A11B3C2_cI64_197_cdf_e_c-001",
+    "number_of_species": 3,
+    "pearson_symbol": "cI64",
+    "space_group_number": 197
 }

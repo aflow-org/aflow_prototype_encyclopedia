@@ -69,5 +69,8 @@
     "legacy": false,
     "strukturbericht_tex": "$B_{l}$",
     "compounds": {},
-    "alias": "AB_mP32_14_4e_4e.realgar"
+    "alias": "AB_mP32_14_4e_4e.realgar",
+    "number_of_species": 2,
+    "pearson_symbol": "mP32",
+    "space_group_number": 14
 }

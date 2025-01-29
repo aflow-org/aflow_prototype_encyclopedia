@@ -34,5 +34,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A2BC4_cP84_205_d_ac_2d"
+    "alias": "A2BC4_cP84_205_d_ac_2d",
+    "number_of_species": 3,
+    "pearson_symbol": "cP84",
+    "space_group_number": 205
 }

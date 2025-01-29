@@ -54,5 +54,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A4B4C5D14_tP108_135_i_i_dfh_egh2i-001"
+    "alias": "A4B4C5D14_tP108_135_i_i_dfh_egh2i-001",
+    "number_of_species": 4,
+    "pearson_symbol": "tP108",
+    "space_group_number": 135
 }

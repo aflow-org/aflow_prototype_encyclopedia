@@ -27,5 +27,8 @@
     "legacy": false,
     "strukturbericht_tex": "$G3_{2}$",
     "compounds": {},
-    "alias": "A2B3C_hP12_147_abd_g_d"
+    "alias": "A2B3C_hP12_147_abd_g_d",
+    "number_of_species": 3,
+    "pearson_symbol": "hP12",
+    "space_group_number": 147
 }

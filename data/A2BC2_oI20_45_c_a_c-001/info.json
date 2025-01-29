@@ -32,5 +32,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A2BC2_oI20_45_c_b_c"
+    "alias": "A2BC2_oI20_45_c_b_c",
+    "number_of_species": 3,
+    "pearson_symbol": "oI20",
+    "space_group_number": 45
 }

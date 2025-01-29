@@ -26,5 +26,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A7B5C6_hP36_193_bj_dg_k-001"
+    "alias": "A7B5C6_hP36_193_bj_dg_k-001",
+    "number_of_species": 3,
+    "pearson_symbol": "hP36",
+    "space_group_number": 193
 }

@@ -30,5 +30,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB3_oC32_64_d_fg-001"
+    "alias": "AB3_oC32_64_d_fg-001",
+    "number_of_species": 2,
+    "pearson_symbol": "oC32",
+    "space_group_number": 64
 }

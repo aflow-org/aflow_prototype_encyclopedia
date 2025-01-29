@@ -34,5 +34,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A3BC7_oC44_63_ag_b_cgh-001"
+    "alias": "A3BC7_oC44_63_ag_b_cgh-001",
+    "number_of_species": 3,
+    "pearson_symbol": "oC44",
+    "space_group_number": 63
 }

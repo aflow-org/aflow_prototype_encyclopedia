@@ -50,5 +50,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC4D_hP84_181_gi_bcf_4k_hj-001"
+    "alias": "ABC4D_hP84_181_gi_bcf_4k_hj-001",
+    "number_of_species": 4,
+    "pearson_symbol": "hP84",
+    "space_group_number": 181
 }

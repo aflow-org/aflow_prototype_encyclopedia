@@ -24,5 +24,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "AB_hP4_156_ab_ab"
+    "alias": "AB_hP4_156_ab_ab",
+    "number_of_species": 2,
+    "pearson_symbol": "hP4",
+    "space_group_number": 156
 }

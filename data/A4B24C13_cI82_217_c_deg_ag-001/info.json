@@ -26,5 +26,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A4B24C13_cI82_217_c_deg_ag"
+    "alias": "A4B24C13_cI82_217_c_deg_ag",
+    "number_of_species": 3,
+    "pearson_symbol": "cI82",
+    "space_group_number": 217
 }

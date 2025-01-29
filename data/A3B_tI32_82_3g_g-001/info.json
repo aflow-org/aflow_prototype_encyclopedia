@@ -41,5 +41,8 @@
     "legacy": false,
     "strukturbericht_tex": "$D0_{3}$",
     "compounds": {},
-    "alias": "A3B_tI32_82_3g_g"
+    "alias": "A3B_tI32_82_3g_g",
+    "number_of_species": 2,
+    "pearson_symbol": "tI32",
+    "space_group_number": 82
 }

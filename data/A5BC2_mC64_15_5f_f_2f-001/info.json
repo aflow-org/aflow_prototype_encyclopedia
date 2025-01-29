@@ -68,5 +68,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A5BC2_mC64_15_5f_f_2f"
+    "alias": "A5BC2_mC64_15_5f_f_2f",
+    "number_of_species": 3,
+    "pearson_symbol": "mC64",
+    "space_group_number": 15
 }

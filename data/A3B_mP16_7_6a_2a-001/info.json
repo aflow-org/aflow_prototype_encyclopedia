@@ -68,5 +68,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B_mP16_7_6a_2a"
+    "alias": "A3B_mP16_7_6a_2a",
+    "number_of_species": 2,
+    "pearson_symbol": "mP16",
+    "space_group_number": 7
 }

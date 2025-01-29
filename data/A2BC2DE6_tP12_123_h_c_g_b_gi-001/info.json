@@ -24,5 +24,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A2BC2DE6_tP12_123_h_c_g_b_gi-001"
+    "alias": "A2BC2DE6_tP12_123_h_c_g_b_gi-001",
+    "number_of_species": 5,
+    "pearson_symbol": "tP12",
+    "space_group_number": 123
 }

@@ -42,5 +42,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B_aP6_2_2i_i"
+    "alias": "A2B_aP6_2_2i_i",
+    "number_of_species": 2,
+    "pearson_symbol": "aP6",
+    "space_group_number": 2
 }

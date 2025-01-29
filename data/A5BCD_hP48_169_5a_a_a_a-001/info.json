@@ -64,5 +64,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A5BCD_hP48_169_5a_a_a_a-001"
+    "alias": "A5BCD_hP48_169_5a_a_a_a-001",
+    "number_of_species": 4,
+    "pearson_symbol": "hP48",
+    "space_group_number": 169
 }

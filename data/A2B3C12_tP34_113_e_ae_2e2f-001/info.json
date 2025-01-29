@@ -44,5 +44,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B3C12_tP34_113_e_ae_2e2f-001"
+    "alias": "A2B3C12_tP34_113_e_ae_2e2f-001",
+    "number_of_species": 3,
+    "pearson_symbol": "tP34",
+    "space_group_number": 113
 }

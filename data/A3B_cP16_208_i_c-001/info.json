@@ -16,5 +16,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B_cP16_208_j_b"
+    "alias": "A3B_cP16_208_j_b",
+    "number_of_species": 2,
+    "pearson_symbol": "cP16",
+    "space_group_number": 208
 }

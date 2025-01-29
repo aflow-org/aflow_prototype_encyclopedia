@@ -62,5 +62,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B4C_mP28_14_2e_4e_e-001"
+    "alias": "A2B4C_mP28_14_2e_4e_e-001",
+    "number_of_species": 3,
+    "pearson_symbol": "mP28",
+    "space_group_number": 14
 }

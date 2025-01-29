@@ -27,5 +27,8 @@
     "legacy": false,
     "strukturbericht_tex": "$D1_{e}$",
     "compounds": {},
-    "alias": "A4B_tP20_127_ehj_g"
+    "alias": "A4B_tP20_127_ehj_g",
+    "number_of_species": 2,
+    "pearson_symbol": "tP20",
+    "space_group_number": 127
 }

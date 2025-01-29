@@ -31,5 +31,8 @@
     "legacy": false,
     "strukturbericht_tex": "$S6_{6}$",
     "compounds": {},
-    "alias": "AB2C4D_cP32_198_a_2a_ab_a"
+    "alias": "AB2C4D_cP32_198_a_2a_ab_a",
+    "number_of_species": 4,
+    "pearson_symbol": "cP32",
+    "space_group_number": 198
 }

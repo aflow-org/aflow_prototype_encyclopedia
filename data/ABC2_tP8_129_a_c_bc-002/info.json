@@ -20,5 +20,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC2_tP8_129_a_c_bc-002"
+    "alias": "ABC2_tP8_129_a_c_bc-002",
+    "number_of_species": 3,
+    "pearson_symbol": "tP8",
+    "space_group_number": 129
 }

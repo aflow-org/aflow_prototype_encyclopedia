@@ -34,5 +34,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B_tP24_92_2b_b-001"
+    "alias": "A2B_tP24_92_2b_b-001",
+    "number_of_species": 2,
+    "pearson_symbol": "tP24",
+    "space_group_number": 92
 }

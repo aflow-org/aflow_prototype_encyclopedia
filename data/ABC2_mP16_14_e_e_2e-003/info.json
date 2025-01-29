@@ -44,5 +44,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC2_mP16_14_e_e_2e.KNO2"
+    "alias": "ABC2_mP16_14_e_e_2e.KNO2",
+    "number_of_species": 3,
+    "pearson_symbol": "mP16",
+    "space_group_number": 14
 }

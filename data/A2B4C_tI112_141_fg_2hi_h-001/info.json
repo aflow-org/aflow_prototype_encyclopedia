@@ -38,5 +38,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B4C_tI112_141_fg_2hi_h-001"
+    "alias": "A2B4C_tI112_141_fg_2hi_h-001",
+    "number_of_species": 3,
+    "pearson_symbol": "tI112",
+    "space_group_number": 141
 }

@@ -70,5 +70,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A8B11_tP76_92_2a3b_a5b-001"
+    "alias": "A8B11_tP76_92_2a3b_a5b-001",
+    "number_of_species": 2,
+    "pearson_symbol": "tP76",
+    "space_group_number": 92
 }

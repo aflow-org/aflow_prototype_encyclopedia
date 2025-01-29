@@ -70,5 +70,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC3_oP40_17_abcd_2e_abcd4e"
+    "alias": "ABC3_oP40_17_abcd_2e_abcd4e",
+    "number_of_species": 3,
+    "pearson_symbol": "oP40",
+    "space_group_number": 17
 }

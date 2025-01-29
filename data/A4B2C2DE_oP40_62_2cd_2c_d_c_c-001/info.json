@@ -54,5 +54,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A4B2C2DE_oP40_62_2cd_2c_d_c_c-001"
+    "alias": "A4B2C2DE_oP40_62_2cd_2c_d_c_c-001",
+    "number_of_species": 5,
+    "pearson_symbol": "oP40",
+    "space_group_number": 62
 }

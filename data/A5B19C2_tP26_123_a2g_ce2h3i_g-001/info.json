@@ -32,5 +32,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A5B19C2_tP26_123_a2g_ce2h3i_g-001"
+    "alias": "A5B19C2_tP26_123_a2g_ce2h3i_g-001",
+    "number_of_species": 3,
+    "pearson_symbol": "tP26",
+    "space_group_number": 123
 }

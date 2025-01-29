@@ -70,5 +70,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A15B_oI128_71_lmn6o_eg-001"
+    "alias": "A15B_oI128_71_lmn6o_eg-001",
+    "number_of_species": 2,
+    "pearson_symbol": "oI128",
+    "space_group_number": 71
 }

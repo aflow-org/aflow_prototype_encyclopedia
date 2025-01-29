@@ -44,5 +44,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A5B4_mP18_14_a2e_2e-001"
+    "alias": "A5B4_mP18_14_a2e_2e-001",
+    "number_of_species": 2,
+    "pearson_symbol": "mP18",
+    "space_group_number": 14
 }

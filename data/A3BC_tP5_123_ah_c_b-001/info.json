@@ -19,5 +19,8 @@
     "legacy": false,
     "strukturbericht_tex": "$E2_{5}$",
     "compounds": {},
-    "alias": "A3BC_tP5_123_cg_a_d"
+    "alias": "A3BC_tP5_123_cg_a_d",
+    "number_of_species": 3,
+    "pearson_symbol": "tP5",
+    "space_group_number": 123
 }

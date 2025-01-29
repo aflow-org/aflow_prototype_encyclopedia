@@ -20,5 +20,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B_cI72_211_hi_i"
+    "alias": "A2B_cI72_211_hi_i",
+    "number_of_species": 2,
+    "pearson_symbol": "cI72",
+    "space_group_number": 211
 }

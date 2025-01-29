@@ -52,5 +52,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B4_mC42_12_ahij_2i2j-001"
+    "alias": "A3B4_mC42_12_ahij_2i2j-001",
+    "number_of_species": 2,
+    "pearson_symbol": "mC42",
+    "space_group_number": 12
 }

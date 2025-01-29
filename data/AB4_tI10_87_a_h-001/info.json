@@ -21,5 +21,8 @@
     "legacy": false,
     "strukturbericht_tex": "$D1_{a}$",
     "compounds": {},
-    "alias": "AB4_tI10_87_a_h"
+    "alias": "AB4_tI10_87_a_h",
+    "number_of_species": 2,
+    "pearson_symbol": "tI10",
+    "space_group_number": 87
 }

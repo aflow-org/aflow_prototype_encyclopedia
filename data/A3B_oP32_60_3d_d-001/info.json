@@ -42,5 +42,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B_oP32_60_3d_d"
+    "alias": "A3B_oP32_60_3d_d",
+    "number_of_species": 2,
+    "pearson_symbol": "oP32",
+    "space_group_number": 60
 }

@@ -26,5 +26,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A4B2C6D16E_cF232_203_e_d_f_eg_a"
+    "alias": "A4B2C6D16E_cF232_203_e_d_f_eg_a",
+    "number_of_species": 5,
+    "pearson_symbol": "cF232",
+    "space_group_number": 203
 }

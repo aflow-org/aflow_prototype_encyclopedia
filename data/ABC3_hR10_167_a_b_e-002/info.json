@@ -19,5 +19,8 @@
     "legacy": false,
     "strukturbericht_tex": "$G0_{1}$",
     "compounds": {},
-    "alias": "ABC3_hR10_167_a_b_e.CaCO3"
+    "alias": "ABC3_hR10_167_a_b_e.CaCO3",
+    "number_of_species": 3,
+    "pearson_symbol": "hR10",
+    "space_group_number": 167
 }

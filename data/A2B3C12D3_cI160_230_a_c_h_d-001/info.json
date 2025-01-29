@@ -21,5 +21,8 @@
     "legacy": false,
     "strukturbericht_tex": "$S1_{4}$",
     "compounds": {},
-    "alias": "A2B3C12D3_cI160_230_a_c_h_d"
+    "alias": "A2B3C12D3_cI160_230_a_c_h_d",
+    "number_of_species": 4,
+    "pearson_symbol": "cI160",
+    "space_group_number": 230
 }

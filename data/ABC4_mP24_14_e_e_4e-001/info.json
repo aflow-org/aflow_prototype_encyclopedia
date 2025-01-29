@@ -57,5 +57,8 @@
     "legacy": false,
     "strukturbericht_tex": "$H0_{9}$",
     "compounds": {},
-    "alias": "ABC4_mP24_14_e_e_4e"
+    "alias": "ABC4_mP24_14_e_e_4e",
+    "number_of_species": 3,
+    "pearson_symbol": "mP24",
+    "space_group_number": 14
 }

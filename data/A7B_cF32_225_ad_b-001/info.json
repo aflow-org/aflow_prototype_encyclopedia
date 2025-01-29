@@ -14,5 +14,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "A7B_cF32_225_bd_a"
+    "alias": "A7B_cF32_225_bd_a",
+    "number_of_species": 2,
+    "pearson_symbol": "cF32",
+    "space_group_number": 225
 }

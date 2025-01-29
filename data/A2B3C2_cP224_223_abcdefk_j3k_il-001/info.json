@@ -42,5 +42,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B3C2_cP224_223_abcdefk_j3k_il-001"
+    "alias": "A2B3C2_cP224_223_abcdefk_j3k_il-001",
+    "number_of_species": 3,
+    "pearson_symbol": "cP224",
+    "space_group_number": 223
 }

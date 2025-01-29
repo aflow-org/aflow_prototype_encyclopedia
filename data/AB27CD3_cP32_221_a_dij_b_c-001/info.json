@@ -18,5 +18,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "AB27CD3_cP32_221_a_dij_b_c"
+    "alias": "AB27CD3_cP32_221_a_dij_b_c",
+    "number_of_species": 4,
+    "pearson_symbol": "cP32",
+    "space_group_number": 221
 }

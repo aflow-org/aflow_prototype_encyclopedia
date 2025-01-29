@@ -29,5 +29,8 @@
     "legacy": false,
     "strukturbericht_tex": "$D8_{g}$",
     "compounds": {},
-    "alias": "A2B5_oI28_72_j_bfj"
+    "alias": "A2B5_oI28_72_j_bfj",
+    "number_of_species": 2,
+    "pearson_symbol": "oI28",
+    "space_group_number": 72
 }

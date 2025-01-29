@@ -69,5 +69,8 @@
     "legacy": false,
     "strukturbericht_tex": "$A_{l}$",
     "compounds": {},
-    "alias": "A_mP32_14_8e"
+    "alias": "A_mP32_14_8e",
+    "number_of_species": 1,
+    "pearson_symbol": "mP32",
+    "space_group_number": 14
 }

@@ -100,5 +100,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A12B29_mC82_12_6i_a14i-001"
+    "alias": "A12B29_mC82_12_6i_a14i-001",
+    "number_of_species": 2,
+    "pearson_symbol": "mC82",
+    "space_group_number": 12
 }

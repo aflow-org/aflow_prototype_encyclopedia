@@ -20,5 +20,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A2BC2_tP10_127_g_a_h-002"
+    "alias": "A2BC2_tP10_127_g_a_h-002",
+    "number_of_species": 3,
+    "pearson_symbol": "tP10",
+    "space_group_number": 127
 }

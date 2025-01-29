@@ -28,5 +28,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "AB_mC8_12_i_i-002"
+    "alias": "AB_mC8_12_i_i-002",
+    "number_of_species": 2,
+    "pearson_symbol": "mC8",
+    "space_group_number": 12
 }

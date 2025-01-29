@@ -87,5 +87,8 @@
     "legacy": false,
     "strukturbericht_tex": "$H4_{5}$",
     "compounds": {},
-    "alias": "A12BC10D_tP96_92_6b_a_5b_a"
+    "alias": "A12BC10D_tP96_92_6b_a_5b_a",
+    "number_of_species": 4,
+    "pearson_symbol": "tP96",
+    "space_group_number": 92
 }

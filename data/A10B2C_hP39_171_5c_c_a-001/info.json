@@ -54,5 +54,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A10B2C_hP39_171_5c_c_a"
+    "alias": "A10B2C_hP39_171_5c_c_a",
+    "number_of_species": 3,
+    "pearson_symbol": "hP39",
+    "space_group_number": 171
 }

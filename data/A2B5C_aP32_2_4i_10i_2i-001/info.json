@@ -121,5 +121,8 @@
     "legacy": false,
     "strukturbericht_tex": "$S0_{1}$",
     "compounds": {},
-    "alias": "A2B5C_aP32_2_4i_10i_2i"
+    "alias": "A2B5C_aP32_2_4i_10i_2i",
+    "number_of_species": 3,
+    "pearson_symbol": "aP32",
+    "space_group_number": 2
 }

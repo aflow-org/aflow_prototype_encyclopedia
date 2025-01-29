@@ -224,5 +224,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A5B2C8D2_mP68_4_10a_4a_16a_4a-001"
+    "alias": "A5B2C8D2_mP68_4_10a_4a_16a_4a-001",
+    "number_of_species": 4,
+    "pearson_symbol": "mP68",
+    "space_group_number": 4
 }

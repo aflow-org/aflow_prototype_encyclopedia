@@ -21,5 +21,8 @@
     "legacy": false,
     "strukturbericht_tex": "$D5_{2}$",
     "compounds": {},
-    "alias": "A2B3_hP5_164_d_ad"
+    "alias": "A2B3_hP5_164_d_ad",
+    "number_of_species": 2,
+    "pearson_symbol": "hP5",
+    "space_group_number": 164
 }

@@ -27,5 +27,8 @@
     "legacy": false,
     "strukturbericht_tex": "$H1_{7}$",
     "compounds": {},
-    "alias": "A2B4C_oF56_70_g_h_a"
+    "alias": "A2B4C_oF56_70_g_h_a",
+    "number_of_species": 3,
+    "pearson_symbol": "oF56",
+    "space_group_number": 70
 }

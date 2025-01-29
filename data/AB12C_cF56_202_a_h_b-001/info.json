@@ -18,5 +18,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB12C_cF56_202_a_h_b-001"
+    "alias": "AB12C_cF56_202_a_h_b-001",
+    "number_of_species": 3,
+    "pearson_symbol": "cF56",
+    "space_group_number": 202
 }

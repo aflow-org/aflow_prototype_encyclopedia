@@ -77,5 +77,8 @@
     "legacy": false,
     "strukturbericht_tex": "$S5_{1}$",
     "compounds": {},
-    "alias": "A2BC10D2E4_mC76_15_f_e_5f_f_2f"
+    "alias": "A2BC10D2E4_mC76_15_f_e_5f_f_2f",
+    "number_of_species": 5,
+    "pearson_symbol": "mC76",
+    "space_group_number": 15
 }

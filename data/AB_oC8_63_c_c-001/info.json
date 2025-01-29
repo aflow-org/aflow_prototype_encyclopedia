@@ -23,5 +23,8 @@
     "legacy": false,
     "strukturbericht_tex": "$B33$",
     "compounds": {},
-    "alias": "AB_oC8_63_c_c"
+    "alias": "AB_oC8_63_c_c",
+    "number_of_species": 2,
+    "pearson_symbol": "oC8",
+    "space_group_number": 63
 }

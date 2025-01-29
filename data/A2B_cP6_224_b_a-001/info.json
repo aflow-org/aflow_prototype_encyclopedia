@@ -15,5 +15,8 @@
     "legacy": false,
     "strukturbericht_tex": "$C3$",
     "compounds": {},
-    "alias": "A2B_cP6_224_b_a"
+    "alias": "A2B_cP6_224_b_a",
+    "number_of_species": 2,
+    "pearson_symbol": "cP6",
+    "space_group_number": 224
 }

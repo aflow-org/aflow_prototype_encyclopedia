@@ -20,5 +20,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A2BC3_hP12_194_f_a_h-001"
+    "alias": "A2BC3_hP12_194_f_a_h-001",
+    "number_of_species": 3,
+    "pearson_symbol": "hP12",
+    "space_group_number": 194
 }

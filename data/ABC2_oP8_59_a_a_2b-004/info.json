@@ -26,5 +26,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC2_oP8_59_a_a_2b-004"
+    "alias": "ABC2_oP8_59_a_a_2b-004",
+    "number_of_species": 3,
+    "pearson_symbol": "oP8",
+    "space_group_number": 59
 }

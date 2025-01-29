@@ -38,5 +38,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A6B4C11_tI84_139_hm_dei_eh2n-001"
+    "alias": "A6B4C11_tI84_139_hm_dei_eh2n-001",
+    "number_of_species": 3,
+    "pearson_symbol": "tI84",
+    "space_group_number": 139
 }

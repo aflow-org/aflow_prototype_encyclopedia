@@ -62,5 +62,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A22B5_cF432_196_abcd6efg4h_2efg-001"
+    "alias": "A22B5_cF432_196_abcd6efg4h_2efg-001",
+    "number_of_species": 2,
+    "pearson_symbol": "cF432",
+    "space_group_number": 196
 }

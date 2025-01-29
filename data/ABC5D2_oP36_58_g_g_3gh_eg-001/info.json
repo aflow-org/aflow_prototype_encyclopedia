@@ -51,5 +51,8 @@
     "legacy": false,
     "strukturbericht_tex": "$H2_7$",
     "compounds": {},
-    "alias": "ABC5D2_oP36_58_g_g_3gh_eg"
+    "alias": "ABC5D2_oP36_58_g_g_3gh_eg",
+    "number_of_species": 4,
+    "pearson_symbol": "oP36",
+    "space_group_number": 58
 }

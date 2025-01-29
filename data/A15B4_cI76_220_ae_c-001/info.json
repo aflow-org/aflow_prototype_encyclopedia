@@ -23,5 +23,8 @@
     "legacy": false,
     "strukturbericht_tex": "$D8_{6}$",
     "compounds": {},
-    "alias": "A15B4_cI76_220_ae_c"
+    "alias": "A15B4_cI76_220_ae_c",
+    "number_of_species": 2,
+    "pearson_symbol": "cI76",
+    "space_group_number": 220
 }

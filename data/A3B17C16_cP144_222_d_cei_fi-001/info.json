@@ -30,5 +30,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B17C16_cP144_222_d_cei_fi-001"
+    "alias": "A3B17C16_cP144_222_d_cei_fi-001",
+    "number_of_species": 3,
+    "pearson_symbol": "cP144",
+    "space_group_number": 222
 }

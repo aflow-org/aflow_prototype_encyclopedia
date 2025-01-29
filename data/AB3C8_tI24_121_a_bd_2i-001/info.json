@@ -24,5 +24,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "AB3C8_tI24_121_a_bd_2i"
+    "alias": "AB3C8_tI24_121_a_bd_2i",
+    "number_of_species": 3,
+    "pearson_symbol": "tI24",
+    "space_group_number": 121
 }

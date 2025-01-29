@@ -42,5 +42,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB6CD2_cP120_213_d_3e_ac_e-001"
+    "alias": "AB6CD2_cP120_213_d_3e_ac_e-001",
+    "number_of_species": 4,
+    "pearson_symbol": "cP120",
+    "space_group_number": 213
 }

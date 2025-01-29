@@ -76,5 +76,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "AB12C5D2_oP40_18_a_6c_b2c_c"
+    "alias": "AB12C5D2_oP40_18_a_6c_b2c_c",
+    "number_of_species": 4,
+    "pearson_symbol": "oP40",
+    "space_group_number": 18
 }

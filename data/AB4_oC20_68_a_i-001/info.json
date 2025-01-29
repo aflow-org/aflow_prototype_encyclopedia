@@ -24,5 +24,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "AB4_oC20_68_a_i"
+    "alias": "AB4_oC20_68_a_i",
+    "number_of_species": 2,
+    "pearson_symbol": "oC20",
+    "space_group_number": 68
 }

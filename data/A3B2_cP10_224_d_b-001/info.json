@@ -15,5 +15,8 @@
     "legacy": false,
     "strukturbericht_tex": "$D5_{5}$",
     "compounds": {},
-    "alias": "A3B2_cP10_224_d_b"
+    "alias": "A3B2_cP10_224_d_b",
+    "number_of_species": 2,
+    "pearson_symbol": "cP10",
+    "space_group_number": 224
 }

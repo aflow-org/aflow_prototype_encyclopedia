@@ -144,5 +144,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A2BC4_oP84_33_6a_3a_12a"
+    "alias": "A2BC4_oP84_33_6a_3a_12a",
+    "number_of_species": 3,
+    "pearson_symbol": "oP84",
+    "space_group_number": 33
 }

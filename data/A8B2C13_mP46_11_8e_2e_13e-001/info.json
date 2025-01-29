@@ -112,5 +112,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A8B2C13_mP46_11_8e_2e_13e-001"
+    "alias": "A8B2C13_mP46_11_8e_2e_13e-001",
+    "number_of_species": 3,
+    "pearson_symbol": "mP46",
+    "space_group_number": 11
 }

@@ -18,5 +18,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "AB3_hP4_187_e_fh"
+    "alias": "AB3_hP4_187_e_fh",
+    "number_of_species": 2,
+    "pearson_symbol": "hP4",
+    "space_group_number": 187
 }

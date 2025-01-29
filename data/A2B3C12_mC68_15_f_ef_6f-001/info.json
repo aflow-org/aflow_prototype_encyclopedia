@@ -70,5 +70,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B3C12_mC68_15_f_ef_6f-001"
+    "alias": "A2B3C12_mC68_15_f_ef_6f-001",
+    "number_of_species": 3,
+    "pearson_symbol": "mC68",
+    "space_group_number": 15
 }

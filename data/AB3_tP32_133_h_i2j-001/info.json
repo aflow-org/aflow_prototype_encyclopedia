@@ -24,5 +24,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "AB3_tP32_133_h_i2j"
+    "alias": "AB3_tP32_133_h_i2j",
+    "number_of_species": 2,
+    "pearson_symbol": "tP32",
+    "space_group_number": 133
 }

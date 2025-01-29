@@ -32,5 +32,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "AB2_hP72_192_m_j2kl"
+    "alias": "AB2_hP72_192_m_j2kl",
+    "number_of_species": 2,
+    "pearson_symbol": "hP72",
+    "space_group_number": 192
 }

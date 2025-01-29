@@ -72,5 +72,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B13C4_hP57_168_d_c6d_2d"
+    "alias": "A2B13C4_hP57_168_d_c6d_2d",
+    "number_of_species": 3,
+    "pearson_symbol": "hP57",
+    "space_group_number": 168
 }

@@ -20,5 +20,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B3C2_cI28_199_a_b_a-002"
+    "alias": "A2B3C2_cI28_199_a_b_a-002",
+    "number_of_species": 3,
+    "pearson_symbol": "cI28",
+    "space_group_number": 199
 }

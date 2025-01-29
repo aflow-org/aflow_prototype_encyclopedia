@@ -84,5 +84,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "AB3_mC32_8_4a_12a"
+    "alias": "AB3_mC32_8_4a_12a",
+    "number_of_species": 2,
+    "pearson_symbol": "mC32",
+    "space_group_number": 8
 }

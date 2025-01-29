@@ -38,5 +38,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A9B9C16_tP34_111_ajn_bcdek_2no-001"
+    "alias": "A9B9C16_tP34_111_ajn_bcdek_2no-001",
+    "number_of_species": 3,
+    "pearson_symbol": "tP34",
+    "space_group_number": 111
 }

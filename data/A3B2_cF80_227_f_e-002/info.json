@@ -19,5 +19,8 @@
     "legacy": false,
     "strukturbericht_tex": "$D6_{1}$",
     "compounds": {},
-    "alias": "A3B2_cF80_227_f_e"
+    "alias": "A3B2_cF80_227_f_e",
+    "number_of_species": 2,
+    "pearson_symbol": "cF80",
+    "space_group_number": 227
 }

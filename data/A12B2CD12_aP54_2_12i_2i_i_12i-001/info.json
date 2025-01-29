@@ -186,5 +186,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A12B2CD12_aP54_2_12i_2i_i_12i"
+    "alias": "A12B2CD12_aP54_2_12i_2i_i_12i",
+    "number_of_species": 4,
+    "pearson_symbol": "aP54",
+    "space_group_number": 2
 }

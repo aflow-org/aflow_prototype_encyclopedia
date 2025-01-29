@@ -46,5 +46,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC3_tP40_86_g_g_3g"
+    "alias": "ABC3_tP40_86_g_g_3g",
+    "number_of_species": 3,
+    "pearson_symbol": "tP40",
+    "space_group_number": 86
 }

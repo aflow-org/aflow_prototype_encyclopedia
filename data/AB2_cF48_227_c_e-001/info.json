@@ -16,5 +16,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "AB2_cF48_227_c_e"
+    "alias": "AB2_cF48_227_c_e",
+    "number_of_species": 2,
+    "pearson_symbol": "cF48",
+    "space_group_number": 227
 }

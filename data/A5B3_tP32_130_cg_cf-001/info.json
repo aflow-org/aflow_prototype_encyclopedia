@@ -28,5 +28,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A5B3_tP32_130_cg_cf"
+    "alias": "A5B3_tP32_130_cg_cf",
+    "number_of_species": 2,
+    "pearson_symbol": "tP32",
+    "space_group_number": 130
 }

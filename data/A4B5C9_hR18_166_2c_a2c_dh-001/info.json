@@ -28,5 +28,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A4B5C9_hR18_166_2c_a2c_dh-001"
+    "alias": "A4B5C9_hR18_166_2c_a2c_dh-001",
+    "number_of_species": 3,
+    "pearson_symbol": "hR18",
+    "space_group_number": 166
 }

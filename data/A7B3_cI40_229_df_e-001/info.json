@@ -19,5 +19,8 @@
     "legacy": false,
     "strukturbericht_tex": "$D8_{f}$",
     "compounds": {},
-    "alias": "A7B3_cI40_229_df_e"
+    "alias": "A7B3_cI40_229_df_e",
+    "number_of_species": 2,
+    "pearson_symbol": "cI40",
+    "space_group_number": 229
 }

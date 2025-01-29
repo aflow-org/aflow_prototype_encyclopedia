@@ -46,5 +46,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A7BC3_oC44_20_3a2c_b_bc-001"
+    "alias": "A7BC3_oC44_20_3a2c_b_bc-001",
+    "number_of_species": 3,
+    "pearson_symbol": "oC44",
+    "space_group_number": 20
 }

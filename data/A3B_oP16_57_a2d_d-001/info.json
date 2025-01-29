@@ -31,5 +31,8 @@
     "legacy": false,
     "strukturbericht_tex": "$D0_{10}$",
     "compounds": {},
-    "alias": "A3B_oP16_57_a2d_d"
+    "alias": "A3B_oP16_57_a2d_d",
+    "number_of_species": 2,
+    "pearson_symbol": "oP16",
+    "space_group_number": 57
 }

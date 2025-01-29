@@ -24,5 +24,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC4_oI12_23_a_b_k"
+    "alias": "ABC4_oI12_23_a_b_k",
+    "number_of_species": 3,
+    "pearson_symbol": "oI12",
+    "space_group_number": 23
 }

@@ -28,5 +28,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC3DE2_tP16_129_a_c_cf_c_2c-001"
+    "alias": "ABC3DE2_tP16_129_a_c_cf_c_2c-001",
+    "number_of_species": 5,
+    "pearson_symbol": "tP16",
+    "space_group_number": 129
 }

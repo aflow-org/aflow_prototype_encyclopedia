@@ -24,5 +24,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "A_hR12_166_2h"
+    "alias": "A_hR12_166_2h",
+    "number_of_species": 1,
+    "pearson_symbol": "hR12",
+    "space_group_number": 166
 }

@@ -62,5 +62,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B2CD8_oC104_64_ef_2f_d_4f2g-001"
+    "alias": "A2B2CD8_oC104_64_ef_2f_d_4f2g-001",
+    "number_of_species": 4,
+    "pearson_symbol": "oC104",
+    "space_group_number": 64
 }

@@ -20,5 +20,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A6BC_cP32_205_d_b_a"
+    "alias": "A6BC_cP32_205_d_b_a",
+    "number_of_species": 3,
+    "pearson_symbol": "cP32",
+    "space_group_number": 205
 }

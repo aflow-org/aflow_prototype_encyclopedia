@@ -23,5 +23,8 @@
     "legacy": false,
     "strukturbericht_tex": "$C35$",
     "compounds": {},
-    "alias": "AB2_oP6_58_a_g.CaCl2"
+    "alias": "AB2_oP6_58_a_g.CaCl2",
+    "number_of_species": 2,
+    "pearson_symbol": "oP6",
+    "space_group_number": 58
 }

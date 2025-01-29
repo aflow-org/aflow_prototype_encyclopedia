@@ -18,5 +18,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "AB_cF40_216_de_ce"
+    "alias": "AB_cF40_216_de_ce",
+    "number_of_species": 2,
+    "pearson_symbol": "cF40",
+    "space_group_number": 216
 }

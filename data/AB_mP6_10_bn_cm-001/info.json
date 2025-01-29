@@ -28,5 +28,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "AB_mP6_10_en_am"
+    "alias": "AB_mP6_10_en_am",
+    "number_of_species": 2,
+    "pearson_symbol": "mP6",
+    "space_group_number": 10
 }

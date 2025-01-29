@@ -79,5 +79,8 @@
     "legacy": false,
     "strukturbericht_tex": "$H4_{11}$",
     "compounds": {},
-    "alias": "A2B6CD8_oP34_31_2a_2a2b_a_4a2b"
+    "alias": "A2B6CD8_oP34_31_2a_2a2b_a_4a2b",
+    "number_of_species": 4,
+    "pearson_symbol": "oP34",
+    "space_group_number": 31
 }

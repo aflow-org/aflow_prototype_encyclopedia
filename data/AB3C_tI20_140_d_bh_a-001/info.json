@@ -18,5 +18,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "AB3C_tI20_140_d_bh_a-001"
+    "alias": "AB3C_tI20_140_d_bh_a-001",
+    "number_of_species": 3,
+    "pearson_symbol": "tI20",
+    "space_group_number": 140
 }

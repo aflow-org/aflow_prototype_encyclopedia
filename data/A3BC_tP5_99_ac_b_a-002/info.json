@@ -24,5 +24,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "A3BC_tP5_99_bc_a_b"
+    "alias": "A3BC_tP5_99_bc_a_b",
+    "number_of_species": 3,
+    "pearson_symbol": "tP5",
+    "space_group_number": 99
 }

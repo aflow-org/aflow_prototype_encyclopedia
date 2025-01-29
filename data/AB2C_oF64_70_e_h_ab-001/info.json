@@ -26,5 +26,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB2C_oF64_70_e_h_ab-001"
+    "alias": "AB2C_oF64_70_e_h_ab-001",
+    "number_of_species": 3,
+    "pearson_symbol": "oF64",
+    "space_group_number": 70
 }

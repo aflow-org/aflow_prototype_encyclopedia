@@ -98,5 +98,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A7B2C4_mP52_14_7e_2e_4e-001"
+    "alias": "A7B2C4_mP52_14_7e_2e_4e-001",
+    "number_of_species": 3,
+    "pearson_symbol": "mP52",
+    "space_group_number": 14
 }

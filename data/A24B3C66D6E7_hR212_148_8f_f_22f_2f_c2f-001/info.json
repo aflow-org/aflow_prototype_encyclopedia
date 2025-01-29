@@ -228,5 +228,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A24B3C66D6E7_hR212_148_8f_f_22f_2f_c2f-001"
+    "alias": "A24B3C66D6E7_hR212_148_8f_f_22f_2f_c2f-001",
+    "number_of_species": 5,
+    "pearson_symbol": "hR212",
+    "space_group_number": 148
 }

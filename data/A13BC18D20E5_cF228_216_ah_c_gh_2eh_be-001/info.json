@@ -35,5 +35,8 @@
     "legacy": false,
     "strukturbericht_tex": "$S0_{8}$",
     "compounds": {},
-    "alias": "A13BC18D20E5_cF228_216_dh_b_fh_2eh_ce"
+    "alias": "A13BC18D20E5_cF228_216_dh_b_fh_2eh_ce",
+    "number_of_species": 5,
+    "pearson_symbol": "cF228",
+    "space_group_number": 216
 }

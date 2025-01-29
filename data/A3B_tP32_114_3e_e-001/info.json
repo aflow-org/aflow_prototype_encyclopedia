@@ -40,5 +40,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B_tP32_114_3e_e"
+    "alias": "A3B_tP32_114_3e_e",
+    "number_of_species": 2,
+    "pearson_symbol": "tP32",
+    "space_group_number": 114
 }

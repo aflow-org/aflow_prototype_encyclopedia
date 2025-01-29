@@ -27,5 +27,8 @@
     "legacy": false,
     "strukturbericht_tex": "$J2_{3}$",
     "compounds": {},
-    "alias": "A2B3C12D12_cI232_230_a_c_h_h"
+    "alias": "A2B3C12D12_cI232_230_a_c_h_h",
+    "number_of_species": 4,
+    "pearson_symbol": "cI232",
+    "space_group_number": 230
 }

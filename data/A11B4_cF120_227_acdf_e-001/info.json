@@ -18,5 +18,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A11B4_cF120_227_acdf_e"
+    "alias": "A11B4_cF120_227_acdf_e",
+    "number_of_species": 2,
+    "pearson_symbol": "cF120",
+    "space_group_number": 227
 }

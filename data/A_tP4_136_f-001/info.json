@@ -18,5 +18,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "A_tP4_136_f"
+    "alias": "A_tP4_136_f",
+    "number_of_species": 1,
+    "pearson_symbol": "tP4",
+    "space_group_number": 136
 }

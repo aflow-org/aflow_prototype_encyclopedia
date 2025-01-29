@@ -34,5 +34,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A5B6C2_hP13_157_2ac_2c_b"
+    "alias": "A5B6C2_hP13_157_2ac_2c_b",
+    "number_of_species": 3,
+    "pearson_symbol": "hP13",
+    "space_group_number": 157
 }

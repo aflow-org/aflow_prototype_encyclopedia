@@ -40,5 +40,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B_oP12_26_abc_ab.H2S"
+    "alias": "A2B_oP12_26_abc_ab.H2S",
+    "number_of_species": 2,
+    "pearson_symbol": "oP12",
+    "space_group_number": 26
 }

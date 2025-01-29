@@ -56,5 +56,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B3C_hP48_147_2d2g_4g_abef-001"
+    "alias": "A2B3C_hP48_147_2d2g_4g_abef-001",
+    "number_of_species": 3,
+    "pearson_symbol": "hP48",
+    "space_group_number": 147
 }

@@ -40,5 +40,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B5_mC28_15_f_e2f"
+    "alias": "A2B5_mC28_15_f_e2f",
+    "number_of_species": 2,
+    "pearson_symbol": "mC28",
+    "space_group_number": 15
 }

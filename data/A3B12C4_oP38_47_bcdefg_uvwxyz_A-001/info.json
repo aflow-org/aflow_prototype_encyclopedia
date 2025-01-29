@@ -48,5 +48,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B12C4_oP38_47_bcdefg_uvwxyz_A-001"
+    "alias": "A3B12C4_oP38_47_bcdefg_uvwxyz_A-001",
+    "number_of_species": 3,
+    "pearson_symbol": "oP38",
+    "space_group_number": 47
 }

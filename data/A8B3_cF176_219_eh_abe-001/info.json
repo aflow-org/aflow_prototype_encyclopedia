@@ -24,5 +24,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A8B3_cF176_219_eh_abe-001"
+    "alias": "A8B3_cF176_219_eh_abe-001",
+    "number_of_species": 2,
+    "pearson_symbol": "cF176",
+    "space_group_number": 219
 }

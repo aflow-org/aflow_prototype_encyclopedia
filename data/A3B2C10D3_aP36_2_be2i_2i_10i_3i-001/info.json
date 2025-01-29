@@ -126,5 +126,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B2C10D3_aP36_2_ah2i_2i_10i_3i"
+    "alias": "A3B2C10D3_aP36_2_ah2i_2i_10i_3i",
+    "number_of_species": 4,
+    "pearson_symbol": "aP36",
+    "space_group_number": 2
 }

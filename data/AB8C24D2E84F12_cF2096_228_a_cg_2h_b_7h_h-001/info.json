@@ -76,5 +76,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB8C24D2E84F12_cF2096_228_a_cg_2h_b_7h_h-001"
+    "alias": "AB8C24D2E84F12_cF2096_228_a_cg_2h_b_7h_h-001",
+    "number_of_species": 6,
+    "pearson_symbol": "cF2096",
+    "space_group_number": 228
 }

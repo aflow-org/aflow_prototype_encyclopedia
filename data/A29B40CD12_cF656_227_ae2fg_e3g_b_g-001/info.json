@@ -43,5 +43,8 @@
     "legacy": false,
     "strukturbericht_tex": "$H4_{21}$",
     "compounds": {},
-    "alias": "A29B40CD12_cF656_227_ae2fg_e3g_b_g"
+    "alias": "A29B40CD12_cF656_227_ae2fg_e3g_b_g",
+    "number_of_species": 4,
+    "pearson_symbol": "cF656",
+    "space_group_number": 227
 }

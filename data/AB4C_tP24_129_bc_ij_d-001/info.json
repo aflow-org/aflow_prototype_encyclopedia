@@ -26,5 +26,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB4C_tP24_129_bc_ij_d-001"
+    "alias": "AB4C_tP24_129_bc_ij_d-001",
+    "number_of_species": 3,
+    "pearson_symbol": "tP24",
+    "space_group_number": 129
 }

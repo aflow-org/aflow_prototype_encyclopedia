@@ -40,5 +40,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B_oI32_23_ij2k_k"
+    "alias": "A3B_oI32_23_ij2k_k",
+    "number_of_species": 2,
+    "pearson_symbol": "oI32",
+    "space_group_number": 23
 }

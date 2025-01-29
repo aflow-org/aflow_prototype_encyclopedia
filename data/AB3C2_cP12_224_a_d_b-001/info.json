@@ -14,5 +14,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "AB3C2_cP12_224_a_d_b-001"
+    "alias": "AB3C2_cP12_224_a_d_b-001",
+    "number_of_species": 3,
+    "pearson_symbol": "cP12",
+    "space_group_number": 224
 }

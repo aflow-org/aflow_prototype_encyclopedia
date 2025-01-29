@@ -42,5 +42,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A4B5_tP36_92_2b_a2b-001"
+    "alias": "A4B5_tP36_92_2b_a2b-001",
+    "number_of_species": 2,
+    "pearson_symbol": "tP36",
+    "space_group_number": 92
 }

@@ -17,5 +17,8 @@
     "legacy": false,
     "strukturbericht_tex": "$L1_{0}$",
     "compounds": {},
-    "alias": "AB_tP2_123_a_d"
+    "alias": "AB_tP2_123_a_d",
+    "number_of_species": 2,
+    "pearson_symbol": "tP2",
+    "space_group_number": 123
 }

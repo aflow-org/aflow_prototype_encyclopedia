@@ -37,5 +37,8 @@
     "legacy": false,
     "strukturbericht_tex": "$A_{g}$",
     "compounds": {},
-    "alias": "A_tP50_134_b2m2n"
+    "alias": "A_tP50_134_b2m2n",
+    "number_of_species": 1,
+    "pearson_symbol": "tP50",
+    "space_group_number": 134
 }

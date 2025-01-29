@@ -88,5 +88,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B_tP48_77_8d_4d"
+    "alias": "A2B_tP48_77_8d_4d",
+    "number_of_species": 2,
+    "pearson_symbol": "tP48",
+    "space_group_number": 77
 }

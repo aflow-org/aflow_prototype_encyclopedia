@@ -66,5 +66,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A24B11_hP70_186_2ab7c_ab3c-001"
+    "alias": "A24B11_hP70_186_2ab7c_ab3c-001",
+    "number_of_species": 2,
+    "pearson_symbol": "hP70",
+    "space_group_number": 186
 }

@@ -18,5 +18,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A4B13C3_cP40_223_e_ak_c-001"
+    "alias": "A4B13C3_cP40_223_e_ak_c-001",
+    "number_of_species": 3,
+    "pearson_symbol": "cP40",
+    "space_group_number": 223
 }

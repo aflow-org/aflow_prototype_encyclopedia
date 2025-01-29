@@ -32,5 +32,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B_cP72_205_2d_d-001"
+    "alias": "A2B_cP72_205_2d_d-001",
+    "number_of_species": 2,
+    "pearson_symbol": "cP72",
+    "space_group_number": 205
 }

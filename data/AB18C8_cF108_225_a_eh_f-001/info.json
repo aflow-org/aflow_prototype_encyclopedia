@@ -20,5 +20,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "AB18C8_cF108_225_a_eh_f"
+    "alias": "AB18C8_cF108_225_a_eh_f",
+    "number_of_species": 3,
+    "pearson_symbol": "cF108",
+    "space_group_number": 225
 }

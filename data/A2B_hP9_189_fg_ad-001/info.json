@@ -21,5 +21,8 @@
     "legacy": false,
     "strukturbericht_tex": "$C22$",
     "compounds": {},
-    "alias": "A2B_hP9_189_fg_bc"
+    "alias": "A2B_hP9_189_fg_bc",
+    "number_of_species": 2,
+    "pearson_symbol": "hP9",
+    "space_group_number": 189
 }

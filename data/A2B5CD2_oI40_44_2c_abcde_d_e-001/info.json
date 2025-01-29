@@ -55,5 +55,8 @@
     "legacy": false,
     "strukturbericht_tex": "$S2_{2}$",
     "compounds": {},
-    "alias": "A2B5CD2_oI40_44_2c_abcde_d_e"
+    "alias": "A2B5CD2_oI40_44_2c_abcde_d_e",
+    "number_of_species": 4,
+    "pearson_symbol": "oI40",
+    "space_group_number": 44
 }

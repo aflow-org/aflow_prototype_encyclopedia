@@ -68,5 +68,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A5B12_oP68_60_c2d_6d"
+    "alias": "A5B12_oP68_60_c2d_6d",
+    "number_of_species": 2,
+    "pearson_symbol": "oP68",
+    "space_group_number": 60
 }

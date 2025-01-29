@@ -41,5 +41,8 @@
     "legacy": false,
     "strukturbericht_tex": "$H5_{7}$",
     "compounds": {},
-    "alias": "A5BC12D3_hP42_176_fh_a_2hi_h"
+    "alias": "A5BC12D3_hP42_176_fh_a_2hi_h",
+    "number_of_species": 4,
+    "pearson_symbol": "hP42",
+    "space_group_number": 176
 }

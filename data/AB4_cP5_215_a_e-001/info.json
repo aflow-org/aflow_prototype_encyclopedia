@@ -16,5 +16,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "AB4_cP5_215_a_e"
+    "alias": "AB4_cP5_215_a_e",
+    "number_of_species": 2,
+    "pearson_symbol": "cP5",
+    "space_group_number": 215
 }

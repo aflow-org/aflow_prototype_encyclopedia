@@ -24,5 +24,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A2BCD3E6_cF208_203_e_c_d_f_g"
+    "alias": "A2BCD3E6_cF208_203_e_c_d_f_g",
+    "number_of_species": 5,
+    "pearson_symbol": "cF208",
+    "space_group_number": 203
 }

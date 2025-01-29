@@ -28,5 +28,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB2C2_hP15_154_a_ab_c-001"
+    "alias": "AB2C2_hP15_154_a_ab_c-001",
+    "number_of_species": 3,
+    "pearson_symbol": "hP15",
+    "space_group_number": 154
 }

@@ -30,5 +30,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB20_cP126_223_c_k2l-001"
+    "alias": "AB20_cP126_223_c_k2l-001",
+    "number_of_species": 2,
+    "pearson_symbol": "cP126",
+    "space_group_number": 223
 }

@@ -26,5 +26,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B_oF24_43_b_a"
+    "alias": "A2B_oF24_43_b_a",
+    "number_of_species": 2,
+    "pearson_symbol": "oF24",
+    "space_group_number": 43
 }

@@ -74,5 +74,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B_mP18_7_6a_3a"
+    "alias": "A2B_mP18_7_6a_3a",
+    "number_of_species": 2,
+    "pearson_symbol": "mP18",
+    "space_group_number": 7
 }

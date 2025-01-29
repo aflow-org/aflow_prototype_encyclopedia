@@ -32,5 +32,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B5_tI32_108_ac_a2c"
+    "alias": "A3B5_tI32_108_ac_a2c",
+    "number_of_species": 2,
+    "pearson_symbol": "tI32",
+    "space_group_number": 108
 }

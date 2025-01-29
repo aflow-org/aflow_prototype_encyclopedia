@@ -16,5 +16,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB6C_cF32_225_a_e_b-001"
+    "alias": "AB6C_cF32_225_a_e_b-001",
+    "number_of_species": 3,
+    "pearson_symbol": "cF32",
+    "space_group_number": 225
 }

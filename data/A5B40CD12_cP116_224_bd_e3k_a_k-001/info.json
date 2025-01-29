@@ -33,5 +33,8 @@
     "legacy": false,
     "strukturbericht_tex": "$H4_{16}$",
     "compounds": {},
-    "alias": "A5B40CD12_cP116_224_cd_e3k_a_k"
+    "alias": "A5B40CD12_cP116_224_cd_e3k_a_k",
+    "number_of_species": 4,
+    "pearson_symbol": "cP116",
+    "space_group_number": 224
 }

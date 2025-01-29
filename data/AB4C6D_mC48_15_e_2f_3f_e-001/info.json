@@ -55,5 +55,8 @@
     "legacy": false,
     "strukturbericht_tex": "$H4_{6}$",
     "compounds": {},
-    "alias": "AB4C6D_mC48_15_e_2f_3f_e"
+    "alias": "AB4C6D_mC48_15_e_2f_3f_e",
+    "number_of_species": 4,
+    "pearson_symbol": "mC48",
+    "space_group_number": 15
 }

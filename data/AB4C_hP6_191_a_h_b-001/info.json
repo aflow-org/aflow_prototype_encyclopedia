@@ -18,5 +18,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "AB4C_hP6_191_a_h_b"
+    "alias": "AB4C_hP6_191_a_h_b",
+    "number_of_species": 3,
+    "pearson_symbol": "hP6",
+    "space_group_number": 191
 }

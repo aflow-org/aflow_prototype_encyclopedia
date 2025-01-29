@@ -34,5 +34,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A2BC2_tP20_105_f_ac_2e"
+    "alias": "A2BC2_tP20_105_f_ac_2e",
+    "number_of_species": 3,
+    "pearson_symbol": "tP20",
+    "space_group_number": 105
 }

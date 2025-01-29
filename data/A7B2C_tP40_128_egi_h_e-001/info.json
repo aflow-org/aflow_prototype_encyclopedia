@@ -33,5 +33,8 @@
     "legacy": false,
     "strukturbericht_tex": "$E9_{a}$",
     "compounds": {},
-    "alias": "A7B2C_tP40_128_egi_h_e"
+    "alias": "A7B2C_tP40_128_egi_h_e",
+    "number_of_species": 3,
+    "pearson_symbol": "tP40",
+    "space_group_number": 128
 }

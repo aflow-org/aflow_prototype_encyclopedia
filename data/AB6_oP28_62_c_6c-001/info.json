@@ -46,5 +46,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "AB6_oP28_62_c_6c"
+    "alias": "AB6_oP28_62_c_6c",
+    "number_of_species": 2,
+    "pearson_symbol": "oP28",
+    "space_group_number": 62
 }

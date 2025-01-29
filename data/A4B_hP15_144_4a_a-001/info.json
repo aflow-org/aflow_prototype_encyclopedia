@@ -46,5 +46,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A4B_hP15_144_4a_a"
+    "alias": "A4B_hP15_144_4a_a",
+    "number_of_species": 2,
+    "pearson_symbol": "hP15",
+    "space_group_number": 144
 }

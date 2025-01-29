@@ -26,5 +26,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB_tI64_142_ef_g-001"
+    "alias": "AB_tI64_142_ef_g-001",
+    "number_of_species": 2,
+    "pearson_symbol": "tI64",
+    "space_group_number": 142
 }

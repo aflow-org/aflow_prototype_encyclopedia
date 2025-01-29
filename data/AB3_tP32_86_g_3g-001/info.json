@@ -40,5 +40,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "AB3_tP32_86_g_3g"
+    "alias": "AB3_tP32_86_g_3g",
+    "number_of_species": 2,
+    "pearson_symbol": "tP32",
+    "space_group_number": 86
 }

@@ -114,5 +114,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B3C9D3E_mC144_15_2f_bcdef_9f_3f_ae"
+    "alias": "A2B3C9D3E_mC144_15_2f_bcdef_9f_3f_ae",
+    "number_of_species": 5,
+    "pearson_symbol": "mC144",
+    "space_group_number": 15
 }

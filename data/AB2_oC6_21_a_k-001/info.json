@@ -20,5 +20,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "AB2_oC6_21_a_k"
+    "alias": "AB2_oC6_21_a_k",
+    "number_of_species": 2,
+    "pearson_symbol": "oC6",
+    "space_group_number": 21
 }

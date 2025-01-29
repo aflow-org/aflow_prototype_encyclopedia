@@ -32,5 +32,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC4_hP18_152_a_b_2c-001"
+    "alias": "ABC4_hP18_152_a_b_2c-001",
+    "number_of_species": 3,
+    "pearson_symbol": "hP18",
+    "space_group_number": 152
 }

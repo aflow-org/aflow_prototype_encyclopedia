@@ -38,5 +38,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC_mC24_15_f_f_f-001"
+    "alias": "ABC_mC24_15_f_f_f-001",
+    "number_of_species": 3,
+    "pearson_symbol": "mC24",
+    "space_group_number": 15
 }

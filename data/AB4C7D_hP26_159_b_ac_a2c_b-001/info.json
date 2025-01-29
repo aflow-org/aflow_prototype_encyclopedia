@@ -42,5 +42,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "AB4C7D_hP26_159_b_ac_a2c_b"
+    "alias": "AB4C7D_hP26_159_b_ac_a2c_b",
+    "number_of_species": 4,
+    "pearson_symbol": "hP26",
+    "space_group_number": 159
 }

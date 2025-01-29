@@ -90,5 +90,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC2_mC96_15_2e2f_3f_6f-001"
+    "alias": "ABC2_mC96_15_2e2f_3f_6f-001",
+    "number_of_species": 3,
+    "pearson_symbol": "mC96",
+    "space_group_number": 15
 }

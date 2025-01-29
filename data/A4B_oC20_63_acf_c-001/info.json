@@ -26,5 +26,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A4B_oC20_63_acf_c-001"
+    "alias": "A4B_oC20_63_acf_c-001",
+    "number_of_species": 2,
+    "pearson_symbol": "oC20",
+    "space_group_number": 63
 }

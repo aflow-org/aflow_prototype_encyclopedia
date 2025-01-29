@@ -40,5 +40,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B4C_oC28_40_c_abc_b-001"
+    "alias": "A2B4C_oC28_40_c_abc_b-001",
+    "number_of_species": 3,
+    "pearson_symbol": "oC28",
+    "space_group_number": 40
 }

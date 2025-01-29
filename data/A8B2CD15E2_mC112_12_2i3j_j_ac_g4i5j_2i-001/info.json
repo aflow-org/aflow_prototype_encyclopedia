@@ -109,5 +109,8 @@
     "legacy": false,
     "strukturbericht_tex": "$H4_{23}$",
     "compounds": {},
-    "alias": "A8B2CD15E2_mC112_12_2i3j_j_ad_g4i5j_2i"
+    "alias": "A8B2CD15E2_mC112_12_2i3j_j_ad_g4i5j_2i",
+    "number_of_species": 5,
+    "pearson_symbol": "mC112",
+    "space_group_number": 12
 }

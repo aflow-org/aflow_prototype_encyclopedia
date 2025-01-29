@@ -80,5 +80,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC_mP42_13_e3g_e3g_f3g-001"
+    "alias": "ABC_mP42_13_e3g_e3g_f3g-001",
+    "number_of_species": 3,
+    "pearson_symbol": "mP42",
+    "space_group_number": 13
 }

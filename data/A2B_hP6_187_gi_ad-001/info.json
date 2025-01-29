@@ -20,5 +20,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B_hP6_187_gi_ad-001"
+    "alias": "A2B_hP6_187_gi_ad-001",
+    "number_of_species": 2,
+    "pearson_symbol": "hP6",
+    "space_group_number": 187
 }

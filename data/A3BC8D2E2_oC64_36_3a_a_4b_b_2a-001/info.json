@@ -72,5 +72,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A3BC8D2E2_oC64_36_3a_a_4b_b_2a-001"
+    "alias": "A3BC8D2E2_oC64_36_3a_a_4b_b_2a-001",
+    "number_of_species": 5,
+    "pearson_symbol": "oC64",
+    "space_group_number": 36
 }

@@ -30,5 +30,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB_cP64_218_ei_ei-001"
+    "alias": "AB_cP64_218_ei_ei-001",
+    "number_of_species": 2,
+    "pearson_symbol": "cP64",
+    "space_group_number": 218
 }

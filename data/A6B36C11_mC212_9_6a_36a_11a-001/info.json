@@ -338,5 +338,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A6B36C11_mC212_9_6a_36a_11a"
+    "alias": "A6B36C11_mC212_9_6a_36a_11a",
+    "number_of_species": 3,
+    "pearson_symbol": "mC212",
+    "space_group_number": 9
 }

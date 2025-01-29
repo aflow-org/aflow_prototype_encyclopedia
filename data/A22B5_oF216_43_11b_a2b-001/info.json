@@ -98,5 +98,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A22B5_oF216_43_11b_a2b-001"
+    "alias": "A22B5_oF216_43_11b_a2b-001",
+    "number_of_species": 2,
+    "pearson_symbol": "oF216",
+    "space_group_number": 43
 }

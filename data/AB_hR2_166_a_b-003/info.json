@@ -17,5 +17,8 @@
     "legacy": false,
     "strukturbericht_tex": "$B22$",
     "compounds": {},
-    "alias": "AB_hR2_166_a_b.KSH"
+    "alias": "AB_hR2_166_a_b.KSH",
+    "number_of_species": 2,
+    "pearson_symbol": "hR2",
+    "space_group_number": 166
 }

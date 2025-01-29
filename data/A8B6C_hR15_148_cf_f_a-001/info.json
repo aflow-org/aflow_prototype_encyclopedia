@@ -30,5 +30,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A8B6C_hR15_148_cf_f_a"
+    "alias": "A8B6C_hR15_148_cf_f_a",
+    "number_of_species": 3,
+    "pearson_symbol": "hR15",
+    "space_group_number": 148
 }

@@ -40,5 +40,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "AB13_mC28_12_a_c2i2j-001"
+    "alias": "AB13_mC28_12_a_c2i2j-001",
+    "number_of_species": 2,
+    "pearson_symbol": "mC28",
+    "space_group_number": 12
 }

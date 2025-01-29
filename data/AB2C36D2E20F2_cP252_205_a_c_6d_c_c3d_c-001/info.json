@@ -77,5 +77,8 @@
     "legacy": false,
     "strukturbericht_tex": "$H4_{14}$",
     "compounds": {},
-    "alias": "AB2C36D2E20F2_cP252_205_a_c_6d_c_c3d_c"
+    "alias": "AB2C36D2E20F2_cP252_205_a_c_6d_c_c3d_c",
+    "number_of_species": 6,
+    "pearson_symbol": "cP252",
+    "space_group_number": 205
 }

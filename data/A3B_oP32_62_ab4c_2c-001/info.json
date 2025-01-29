@@ -42,5 +42,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B_oP32_62_ab4c_2c"
+    "alias": "A3B_oP32_62_ab4c_2c",
+    "number_of_species": 2,
+    "pearson_symbol": "oP32",
+    "space_group_number": 62
 }

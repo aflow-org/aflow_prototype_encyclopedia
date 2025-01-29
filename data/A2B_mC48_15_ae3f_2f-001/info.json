@@ -52,5 +52,8 @@
     "part": 1,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B_mC48_15_ae3f_2f"
+    "alias": "A2B_mC48_15_ae3f_2f",
+    "number_of_species": 2,
+    "pearson_symbol": "mC48",
+    "space_group_number": 15
 }

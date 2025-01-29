@@ -20,5 +20,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "AB3C_tP10_123_g_abi_cd-001"
+    "alias": "AB3C_tP10_123_g_abi_cd-001",
+    "number_of_species": 3,
+    "pearson_symbol": "tP10",
+    "space_group_number": 123
 }

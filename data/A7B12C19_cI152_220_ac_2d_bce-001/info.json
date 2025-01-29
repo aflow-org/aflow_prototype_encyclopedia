@@ -29,5 +29,8 @@
     "legacy": false,
     "strukturbericht_tex": "$K7_{4}$",
     "compounds": {},
-    "alias": "A7B12C19_cI152_220_bc_2d_ace"
+    "alias": "A7B12C19_cI152_220_bc_2d_ace",
+    "number_of_species": 3,
+    "pearson_symbol": "cI152",
+    "space_group_number": 220
 }

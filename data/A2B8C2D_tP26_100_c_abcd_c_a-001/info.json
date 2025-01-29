@@ -40,5 +40,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B8C2D_tP26_100_c_abcd_c_a"
+    "alias": "A2B8C2D_tP26_100_c_abcd_c_a",
+    "number_of_species": 4,
+    "pearson_symbol": "tP26",
+    "space_group_number": 100
 }

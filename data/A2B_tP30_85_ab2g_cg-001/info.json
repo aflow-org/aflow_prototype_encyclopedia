@@ -36,5 +36,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B_tP30_85_ab2g_cg"
+    "alias": "A2B_tP30_85_ab2g_cg",
+    "number_of_species": 2,
+    "pearson_symbol": "tP30",
+    "space_group_number": 85
 }

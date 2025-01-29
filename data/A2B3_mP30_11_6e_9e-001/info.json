@@ -80,5 +80,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A2B3_mP30_11_6e_9e-001"
+    "alias": "A2B3_mP30_11_6e_9e-001",
+    "number_of_species": 2,
+    "pearson_symbol": "mP30",
+    "space_group_number": 11
 }

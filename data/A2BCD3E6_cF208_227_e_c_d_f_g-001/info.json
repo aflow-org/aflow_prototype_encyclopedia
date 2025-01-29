@@ -23,5 +23,8 @@
     "legacy": false,
     "strukturbericht_tex": "$G7_{3}$",
     "compounds": {},
-    "alias": "A2BCD3E6_cF208_227_e_c_d_f_g"
+    "alias": "A2BCD3E6_cF208_227_e_c_d_f_g",
+    "number_of_species": 5,
+    "pearson_symbol": "cF208",
+    "space_group_number": 227
 }

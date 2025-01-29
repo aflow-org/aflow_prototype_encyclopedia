@@ -22,5 +22,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "A6B3C3D2_cI56_204_g_d_e_c-001"
+    "alias": "A6B3C3D2_cI56_204_g_d_e_c-001",
+    "number_of_species": 4,
+    "pearson_symbol": "cI56",
+    "space_group_number": 204
 }

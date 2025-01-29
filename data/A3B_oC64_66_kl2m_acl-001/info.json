@@ -40,5 +40,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "A3B_oC64_66_kl2m_bdl"
+    "alias": "A3B_oC64_66_kl2m_bdl",
+    "number_of_species": 2,
+    "pearson_symbol": "oC64",
+    "space_group_number": 66
 }

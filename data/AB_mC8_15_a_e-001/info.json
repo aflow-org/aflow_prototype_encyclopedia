@@ -23,5 +23,8 @@
     "legacy": false,
     "strukturbericht_tex": "$B26$",
     "compounds": {},
-    "alias": "AB_mC8_15_c_e"
+    "alias": "AB_mC8_15_c_e",
+    "number_of_species": 2,
+    "pearson_symbol": "mC8",
+    "space_group_number": 15
 }

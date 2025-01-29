@@ -20,5 +20,8 @@
     "part": 3,
     "legacy": false,
     "compounds": {},
-    "alias": "A16B2C_cF152_227_eg_d_a"
+    "alias": "A16B2C_cF152_227_eg_d_a",
+    "number_of_species": 3,
+    "pearson_symbol": "cF152",
+    "space_group_number": 227
 }

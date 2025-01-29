@@ -22,5 +22,8 @@
     "part": 2,
     "legacy": false,
     "compounds": {},
-    "alias": "AB3C16_cF160_203_a_bc_eg"
+    "alias": "AB3C16_cF160_203_a_bc_eg",
+    "number_of_species": 3,
+    "pearson_symbol": "cF160",
+    "space_group_number": 203
 }

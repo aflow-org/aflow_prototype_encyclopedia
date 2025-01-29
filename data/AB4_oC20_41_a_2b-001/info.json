@@ -33,5 +33,8 @@
     "legacy": false,
     "strukturbericht_tex": "$D1_{c}$",
     "compounds": {},
-    "alias": "AB4_oC20_41_a_2b"
+    "alias": "AB4_oC20_41_a_2b",
+    "number_of_species": 2,
+    "pearson_symbol": "oC20",
+    "space_group_number": 41
 }

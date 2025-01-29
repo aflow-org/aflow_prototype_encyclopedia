@@ -21,5 +21,8 @@
     "legacy": false,
     "strukturbericht_tex": "$D8_{h}$",
     "compounds": {},
-    "alias": "A5B2_hP14_194_abdf_f"
+    "alias": "A5B2_hP14_194_abdf_f",
+    "number_of_species": 2,
+    "pearson_symbol": "hP14",
+    "space_group_number": 194
 }

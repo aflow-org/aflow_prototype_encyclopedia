@@ -52,5 +52,8 @@
     "part": 4,
     "legacy": false,
     "compounds": {},
-    "alias": "A31B9_tP40_83_ae3j4k_cjk-001"
+    "alias": "A31B9_tP40_83_ae3j4k_cjk-001",
+    "number_of_species": 2,
+    "pearson_symbol": "tP40",
+    "space_group_number": 83
 }

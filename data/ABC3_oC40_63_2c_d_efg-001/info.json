@@ -32,5 +32,8 @@
     "part": 5,
     "legacy": false,
     "compounds": {},
-    "alias": "ABC3_oC40_63_2c_d_efg-001"
+    "alias": "ABC3_oC40_63_2c_d_efg-001",
+    "number_of_species": 3,
+    "pearson_symbol": "oC40",
+    "space_group_number": 63
 }
