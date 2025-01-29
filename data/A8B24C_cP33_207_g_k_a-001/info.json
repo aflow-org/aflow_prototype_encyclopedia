@@ -1,0 +1,26 @@
+{
+    "uid": "2SP7",
+    "prototype": "NO3Rb",
+    "prototype_tex": "NO$_{3}$Rb",
+    "label": "A8B24C_cP33_207_g_k_a-001",
+    "parameter_symbol": [
+        "a",
+        "x2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        4.4,
+        0.444,
+        0.533,
+        0.575,
+        0.231
+    ],
+    "strukturbericht": null,
+    "title": "RbNO$_{3}$ (III) Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A8B24C_cP33_207_g_k_a-001"
+}

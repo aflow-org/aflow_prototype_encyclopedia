@@ -1,0 +1,28 @@
+{
+    "uid": "FZKW",
+    "prototype": "Ca3Cl2Cu2O4",
+    "prototype_tex": "Ca$_{3}$Cl$_{2}$Cu$_{2}$O$_{4}$",
+    "label": "A3B2C2D4_tI22_139_ae_e_e_g-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "z3",
+        "z4",
+        "z5"
+    ],
+    "parameter_values": [
+        3.861,
+        5.529397,
+        0.1504,
+        0.2943,
+        0.4215,
+        0.4215
+    ],
+    "strukturbericht": null,
+    "title": "Ca$_{3}$Cu$_{2}$O$_{4}$Cl$_{2}$",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B2C2D4_tI22_139_ae_e_e_g-001"
+}

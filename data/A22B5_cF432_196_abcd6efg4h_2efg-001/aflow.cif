@@ -1,0 +1,106 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Li22Si5
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A22B5_cF432_196_abcd6efg4h_2efg-001
+
+# Last updated on 2024/08/01
+
+data_Li352Si80
+_pd_phase_name Li352Si80
+_cell_length_a  18.7500000000
+_cell_length_b  18.7500000000
+_cell_length_c  18.7500000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'F23'
+_symmetry_Int_Tables_Number  196
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  -x,y,-z
+  4  x,-y,-z
+  5  z,x,y
+  6  z,-x,-y
+  7  -z,-x,y
+  8  -z,x,-y
+  9  y,z,x
+  10  -y,z,-x
+  11  y,-z,-x
+  12  -y,-z,x
+  13  x,y+1/2,z+1/2
+  14  -x,-y+1/2,z+1/2
+  15  -x,y+1/2,-z+1/2
+  16  x,-y+1/2,-z+1/2
+  17  z,x+1/2,y+1/2
+  18  z,-x+1/2,-y+1/2
+  19  -z,-x+1/2,y+1/2
+  20  -z,x+1/2,-y+1/2
+  21  y,z+1/2,x+1/2
+  22  -y,z+1/2,-x+1/2
+  23  y,-z+1/2,-x+1/2
+  24  -y,-z+1/2,x+1/2
+  25  x+1/2,y,z+1/2
+  26  -x+1/2,-y,z+1/2
+  27  -x+1/2,y,-z+1/2
+  28  x+1/2,-y,-z+1/2
+  29  z+1/2,x,y+1/2
+  30  z+1/2,-x,-y+1/2
+  31  -z+1/2,-x,y+1/2
+  32  -z+1/2,x,-y+1/2
+  33  y+1/2,z,x+1/2
+  34  -y+1/2,z,-x+1/2
+  35  y+1/2,-z,-x+1/2
+  36  -y+1/2,-z,x+1/2
+  37  x+1/2,y+1/2,z
+  38  -x+1/2,-y+1/2,z
+  39  -x+1/2,y+1/2,-z
+  40  x+1/2,-y+1/2,-z
+  41  z+1/2,x+1/2,y
+  42  z+1/2,-x+1/2,-y
+  43  -z+1/2,-x+1/2,y
+  44  -z+1/2,x+1/2,-y
+  45  y+1/2,z+1/2,x
+  46  -y+1/2,z+1/2,-x
+  47  y+1/2,-z+1/2,-x
+  48  -y+1/2,-z+1/2,x
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Li3 1.0000000000 -0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Li 4 a
+Li4 1.0000000000 0.5000000000 0.5000000000 0.5000000000  Biso 1.0 Li 4 b
+Li2 1.0000000000 0.2500000000 0.2500000000 0.2500000000  Biso 1.0 Li 4 c
+Li1 1.0000000000 0.7500000000 0.7500000000 0.7500000000  Biso 1.0 Li 4 d
+Li10 1.0000000000 0.5830000000 0.5830000000 0.5830000000  Biso 1.0 Li 16 e
+Li5 1.0000000000 0.8300000000 0.8300000000 0.8300000000  Biso 1.0 Li 16 e
+Li6 1.0000000000 0.9170000000 0.9170000000 0.9170000000  Biso 1.0 Li 16 e
+Li7 1.0000000000 0.0800000000 0.0800000000 0.0800000000  Biso 1.0 Li 16 e
+Li8 1.0000000000 0.1700000000 0.1700000000 0.1700000000  Biso 1.0 Li 16 e
+Li9 1.0000000000 0.3330000000 0.3330000000 0.3330000000  Biso 1.0 Li 16 e
+Si17 1.0000000000 0.6610000000 0.6610000000 0.6610000000  Biso 1.0 Si 16 e
+Si18 1.0000000000 0.4150000000 0.4150000000 0.4150000000  Biso 1.0 Si 16 e
+Li12 1.0000000000 0.3330000000 -0.0000000000 0.0000000000  Biso 1.0 Li 24 f
+Si20 1.0000000000 0.8220000000 0.0000000000 0.0000000000  Biso 1.0 Si 24 f
+Li11 1.0000000000 0.9170000000 0.2500000000 0.2500000000  Biso 1.0 Li 24 g
+Si19 1.0000000000 0.0720000000 0.2500000000 0.2500000000  Biso 1.0 Si 24 g
+Li13 1.0000000000 0.0890000000 0.4170000000 0.7450000000  Biso 1.0 Li 48 h
+Li14 1.0000000000 0.4080000000 0.9170000000 0.7470000000  Biso 1.0 Li 48 h
+Li15 1.0000000000 0.0000000000 0.8370000000 0.8370000000  Biso 1.0 Li 48 h
+Li16 1.0000000000 0.5000000000 0.8330000000 0.8330000000  Biso 1.0 Li 48 h

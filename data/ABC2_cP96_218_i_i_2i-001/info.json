@@ -1,0 +1,42 @@
+{
+    "uid": "W9M1",
+    "prototype": "BHO2",
+    "prototype_tex": "BHO$_{2}$",
+    "label": "ABC2_cP96_218_i_i_2i-001",
+    "parameter_symbol": [
+        "a",
+        "x1",
+        "y1",
+        "z1",
+        "x2",
+        "y2",
+        "z2",
+        "x3",
+        "y3",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        8.886,
+        0.2172,
+        0.0816,
+        0.3094,
+        0.937,
+        0.103,
+        0.337,
+        0.0804,
+        0.1671,
+        0.3004,
+        0.3223,
+        0.1447,
+        0.4262
+    ],
+    "strukturbericht": null,
+    "title": "$\\gamma$-HBO$_{2}$ (cubic) Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC2_cP96_218_i_i_2i-001"
+}

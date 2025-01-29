@@ -1,0 +1,55 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Ta2P
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/AB2_oP36_58_3g_6g-001
+
+# Last updated on 2024/07/29
+
+data_AB2_oP36_58_3g_6g-001
+_pd_phase_name AB2_oP36_58_3g_6g-001
+_cell_length_a  11.5430000000
+_cell_length_b  14.4070000000
+_cell_length_c  3.3960000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pnnm'
+_symmetry_Int_Tables_Number  58
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  -x+1/2,y+1/2,-z+1/2
+  4  x+1/2,-y+1/2,-z+1/2
+  5  -x,-y,-z
+  6  x,y,-z
+  7  x+1/2,-y+1/2,z+1/2
+  8  -x+1/2,y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+P1  1.0000000000 0.4218000000 0.2058900000 0.0000000000  Biso 1.0 P  4 g
+P2  1.0000000000 0.2434000000 0.4159900000 0.0000000000  Biso 1.0 P  4 g
+P3  1.0000000000 0.6839600000 0.3475100000 0.0000000000  Biso 1.0 P  4 g
+Ta4 1.0000000000 0.1529000000 0.0226300000 0.0000000000  Biso 1.0 Ta 4 g
+Ta5 1.0000000000 0.0786000000 0.2549600000 0.0000000000  Biso 1.0 Ta 4 g
+Ta6 1.0000000000 0.5863800000 0.0797000000 0.0000000000  Biso 1.0 Ta 4 g
+Ta7 1.0000000000 0.4700100000 0.3910000000 0.0000000000  Biso 1.0 Ta 4 g
+Ta8 1.0000000000 0.8032500000 0.2047500000 0.0000000000  Biso 1.0 Ta 4 g
+Ta9 1.0000000000 0.8774600000 0.4220100000 0.0000000000  Biso 1.0 Ta 4 g

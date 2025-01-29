@@ -1,0 +1,22 @@
+{
+    "uid": "7K0D",
+    "prototype": "Cu2Se",
+    "prototype_tex": "Cu$_{2}$Se",
+    "label": "A18B_cF76_225_c2f_a-001",
+    "parameter_symbol": [
+        "a",
+        "x3",
+        "x4"
+    ],
+    "parameter_values": [
+        5.859,
+        0.309,
+        0.384
+    ],
+    "strukturbericht": null,
+    "title": "High Temperature Cu$_{2}$Se Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A18B_cF76_225_c2f_a-001"
+}

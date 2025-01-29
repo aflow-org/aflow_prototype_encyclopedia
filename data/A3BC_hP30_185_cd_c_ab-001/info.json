@@ -1,0 +1,38 @@
+{
+    "uid": "PKFR",
+    "prototype": "Cl3KNi",
+    "prototype_tex": "Cl$_{3}$KNi",
+    "label": "A3BC_hP30_185_cd_c_ab-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        11.795,
+        0.502416,
+        0.0,
+        0.377,
+        0.1598,
+        0.2396,
+        0.6647,
+        0.1706,
+        0.1732,
+        0.5056,
+        0.1148
+    ],
+    "strukturbericht": null,
+    "title": "KNiCl$_{3}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3BC_hP30_185_cd_c_ab"
+}

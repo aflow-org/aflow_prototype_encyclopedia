@@ -1,0 +1,28 @@
+{
+    "uid": "B529",
+    "prototype": "NbPS",
+    "prototype_tex": "NbPS",
+    "label": "ABC_oI12_71_e_h_f-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "x2",
+        "y3"
+    ],
+    "parameter_values": [
+        11.88,
+        0.397727,
+        0.289394,
+        0.8768,
+        0.788,
+        0.735
+    ],
+    "strukturbericht": null,
+    "title": "NbPS Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC_oI12_71_h_j_g"
+}

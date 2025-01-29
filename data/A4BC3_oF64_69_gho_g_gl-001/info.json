@@ -1,0 +1,36 @@
+{
+    "uid": "TN6Q",
+    "prototype": "Bi4LaTi3",
+    "prototype_tex": "Bi$_{4}$LaTi$_{3}$",
+    "label": "A4BC3_oF64_69_gho_g_gl-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3",
+        "y4",
+        "x5",
+        "x6",
+        "y6"
+    ],
+    "parameter_values": [
+        25.1105,
+        0.412357,
+        0.236762,
+        0.56737,
+        0.69507,
+        0.9152,
+        0.169,
+        -0.09379,
+        0.68592,
+        0.33813
+    ],
+    "strukturbericht": null,
+    "title": "LaTi$_{3}$Bi$_{4}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4BC3_oF64_69_gho_g_gl-001"
+}

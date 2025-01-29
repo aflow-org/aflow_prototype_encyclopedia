@@ -1,0 +1,24 @@
+{
+    "uid": "DY16",
+    "prototype": "As2Rh2Sr",
+    "prototype_tex": "As$_{2}$Rh$_{2}$Sr",
+    "label": "A2B2C_oF20_69_g_f_a-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x3"
+    ],
+    "parameter_values": [
+        11.144,
+        0.515434,
+        0.548726,
+        0.641
+    ],
+    "strukturbericht": null,
+    "title": "$\\beta$-SrRh$_{2}$As$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B2C_oF20_69_g_f_a-001"
+}

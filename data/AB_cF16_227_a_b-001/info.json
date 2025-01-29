@@ -1,0 +1,19 @@
+{
+    "uid": "CHL9",
+    "prototype": "NaTl",
+    "prototype_tex": "NaTl",
+    "label": "AB_cF16_227_a_b-001",
+    "parameter_symbol": [
+        "a"
+    ],
+    "parameter_values": [
+        7.483
+    ],
+    "strukturbericht": "B32",
+    "title": "NaTl ($B32$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$B32$",
+    "compounds": {},
+    "alias": "AB_cF16_227_a_b"
+}

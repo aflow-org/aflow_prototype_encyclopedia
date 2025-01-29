@@ -1,0 +1,26 @@
+{
+    "uid": "AD9M",
+    "prototype": "Cl6K2Sn",
+    "prototype_tex": "Cl$_{6}$K$_{2}$Sn",
+    "label": "A6B2C_tP18_128_eh_d_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "x4",
+        "y4"
+    ],
+    "parameter_values": [
+        7.0577,
+        1.41383,
+        0.2523,
+        0.2217,
+        0.2511
+    ],
+    "strukturbericht": null,
+    "title": "Phase II K$_{2}$SnCl$_{6}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A6B2C_tP18_128_eh_d_a"
+}

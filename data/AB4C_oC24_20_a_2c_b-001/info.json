@@ -1,0 +1,38 @@
+{
+    "uid": "HRBV",
+    "prototype": "AlO4P",
+    "prototype_tex": "AlO$_{4}$P",
+    "label": "AB4C_oC24_20_a_2c_b-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "y2",
+        "x3",
+        "y3",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        7.009,
+        1.0,
+        0.999572,
+        0.802,
+        0.694,
+        0.558,
+        0.321,
+        0.422,
+        0.67,
+        0.067,
+        0.191
+    ],
+    "strukturbericht": null,
+    "title": "AlPO$_{4}$ ``low cristobalite type'' Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB4C_oC24_20_b_2c_a"
+}

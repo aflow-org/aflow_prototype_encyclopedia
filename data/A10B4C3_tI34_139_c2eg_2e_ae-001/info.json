@@ -1,0 +1,32 @@
+{
+    "uid": "TJ17",
+    "prototype": "O10Sr4Ti3",
+    "prototype_tex": "O$_{10}$Sr$_{4}$Ti$_{3}$",
+    "label": "A10B4C3_tI34_139_c2eg_2e_ae-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4",
+        "z5",
+        "z6",
+        "z7",
+        "z8"
+    ],
+    "parameter_values": [
+        3.9,
+        7.20513,
+        0.068,
+        0.204,
+        0.432,
+        0.296,
+        0.136,
+        0.136
+    ],
+    "strukturbericht": null,
+    "title": "Sr$_{4}$Ti$_{3}$O$_{10}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A10B4C3_tI34_139_c2eg_2e_ae"
+}

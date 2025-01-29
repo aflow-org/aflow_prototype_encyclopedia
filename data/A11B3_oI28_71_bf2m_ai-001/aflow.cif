@@ -1,0 +1,60 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Al11La3
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A11B3_oI28_71_bf2m_ai-001
+
+# Last updated on 2024/08/01
+
+data_Al22La6
+_pd_phase_name Al22La6
+_cell_length_a  10.1320000000
+_cell_length_b  4.4310000000
+_cell_length_c  13.1420000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Immm'
+_symmetry_Int_Tables_Number  71
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  -x,y,-z
+  4  x,-y,-z
+  5  -x,-y,-z
+  6  x,y,-z
+  7  x,-y,z
+  8  -x,y,z
+  9  x+1/2,y+1/2,z+1/2
+  10  -x+1/2,-y+1/2,z+1/2
+  11  -x+1/2,y+1/2,-z+1/2
+  12  x+1/2,-y+1/2,-z+1/2
+  13  -x+1/2,-y+1/2,-z+1/2
+  14  x+1/2,y+1/2,-z+1/2
+  15  x+1/2,-y+1/2,z+1/2
+  16  -x+1/2,y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+La5 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 La 2 a
+Al1 1.0000000000 0.0000000000 0.5000000000 0.5000000000  Biso 1.0 Al 2 b
+Al2 1.0000000000 0.2819000000 0.5000000000 0.0000000000  Biso 1.0 Al 4 f
+La6 1.0000000000 0.0000000000 0.0000000000 0.3168800000  Biso 1.0 La 4 i
+Al3 1.0000000000 0.3683000000 0.0000000000 0.3338000000  Biso 1.0 Al 8 m
+Al4 1.0000000000 0.2729000000 0.0000000000 0.1378000000  Biso 1.0 Al 8 m

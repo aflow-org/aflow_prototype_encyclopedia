@@ -1,0 +1,54 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  BBe2HO4 hambergite G72
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/AB2CD4_oP64_61_c_2c_c_4c-001
+
+# Last updated on 2024/08/01
+
+data_B8Be16H8O32
+_pd_phase_name B8Be16H8O32
+_cell_length_a  9.7620000000
+_cell_length_b  12.2010000000
+_cell_length_c  4.4300000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pbca'
+_symmetry_Int_Tables_Number  61
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z+1/2
+  3  -x,y+1/2,-z+1/2
+  4  x+1/2,-y+1/2,-z
+  5  -x,-y,-z
+  6  x+1/2,y,-z+1/2
+  7  x,-y+1/2,z+1/2
+  8  -x+1/2,y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+B1 1.0000000000 0.1061700000 0.6070400000 0.7729800000  Biso 1.0 B 8 c
+Be2 1.0000000000 0.0026100000 0.6887100000 0.2601800000  Biso 1.0 Be 8 c
+Be3 1.0000000000 0.2372400000 0.5675700000 0.2771700000  Biso 1.0 Be 8 c
+H4 1.0000000000 0.3138000000 0.7228000000 0.4574000000  Biso 1.0 H 8 c
+O5 1.0000000000 0.0376000000 0.6876600000 0.6191400000  Biso 1.0 O 8 c
+O6 1.0000000000 0.1012000000 0.6030200000 0.0820400000  Biso 1.0 O 8 c
+O7 1.0000000000 0.1869100000 0.5345000000 0.6170100000  Biso 1.0 O 8 c
+O8 1.0000000000 0.3397600000 0.6730200000 0.2960000000  Biso 1.0 O 8 c

@@ -1,0 +1,21 @@
+{
+    "uid": "M44S",
+    "prototype": "FeS2",
+    "prototype_tex": "FeS$_{2}$",
+    "label": "AB2_cP12_205_a_c-001",
+    "parameter_symbol": [
+        "a",
+        "x2"
+    ],
+    "parameter_values": [
+        5.4179,
+        0.384
+    ],
+    "strukturbericht": "C2",
+    "title": "Pyrite (FeS$_{2}$, $C2$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$C2$",
+    "compounds": {},
+    "alias": "AB2_cP12_205_a_c"
+}

@@ -1,0 +1,34 @@
+{
+    "uid": "LLDQ",
+    "prototype": "H16Li2Mg",
+    "prototype_tex": "H$_{16}$Li$_{2}$Mg",
+    "label": "A16B2C_hP19_164_2d2i_d_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "z3",
+        "z4",
+        "x5",
+        "z5",
+        "x6",
+        "z6"
+    ],
+    "parameter_values": [
+        2.796,
+        1.90036,
+        0.07451,
+        0.89139,
+        0.33626,
+        0.17157,
+        0.5797,
+        0.1644,
+        0.73653
+    ],
+    "strukturbericht": null,
+    "title": "Predicted Li$_{2}$MgH$_{16}$ 300 GPa Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A16B2C_hP19_164_2d2i_d_b"
+}

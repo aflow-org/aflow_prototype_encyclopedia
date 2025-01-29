@@ -1,0 +1,30 @@
+{
+    "uid": "UBNE",
+    "prototype": "AuF3",
+    "prototype_tex": "AuF$_{3}$",
+    "label": "AB3_hP24_178_b_ac-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        5.1508,
+        3.15751,
+        0.1639,
+        0.2399,
+        0.3099,
+        0.7761,
+        0.328033
+    ],
+    "strukturbericht": null,
+    "title": "AuF$_{3}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3_hP24_178_b_ac"
+}

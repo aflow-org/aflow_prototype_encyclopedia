@@ -1,0 +1,27 @@
+{
+    "uid": "2HX1",
+    "prototype": "F6GeK2",
+    "prototype_tex": "F$_{6}$GeK$_{2}$",
+    "label": "A6BC2_hP9_164_i_a_d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "x3",
+        "z3"
+    ],
+    "parameter_values": [
+        5.62,
+        0.827402,
+        0.7,
+        0.148,
+        0.22
+    ],
+    "strukturbericht": "J1_13",
+    "title": " K$_{2}$GeF$_{6}$ (J1$_{13}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$J1_{13}$",
+    "compounds": {},
+    "alias": "A6BC2_hP9_164_i_a_d"
+}

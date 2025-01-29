@@ -1,0 +1,53 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  BFe1.315Mg0.56O5Sn0.1 hulsite
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A2B2C3D10E_mP18_10_m_ac_en_3m2n_g-001
+
+# Last updated on 2024/08/01
+
+data_B2Fe2Mg3O10Sn1
+_pd_phase_name B2Fe2Mg3O10Sn1
+_cell_length_a  11.6340000000
+_cell_length_b  3.1020000000
+_cell_length_c  5.4310000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  113.5370000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P2/m'
+_symmetry_Int_Tables_Number  10
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y,-z
+  3  -x,-y,-z
+  4  x,-y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Fe2 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Fe 1 a
+Fe3 1.0000000000 0.0000000000 0.0000000000 0.5000000000  Biso 1.0 Fe 1 c
+Mg4 1.0000000000 0.5000000000 0.5000000000 0.0000000000  Biso 1.0 Mg 1 e
+Sn11 1.0000000000 0.5000000000 0.0000000000 0.5000000000  Biso 1.0 Sn 1 g
+B1 1.0000000000 0.2590000000 0.0000000000 0.9700000000  Biso 1.0 B 2 m
+O6 1.0000000000 0.3880000000 0.0000000000 0.0850000000  Biso 1.0 O 2 m
+O7 1.0000000000 0.1950000000 0.0000000000 0.6970000000  Biso 1.0 O 2 m
+O8 1.0000000000 0.1950000000 0.0000000000 0.1380000000  Biso 1.0 O 2 m
+Mg5 1.0000000000 0.2253000000 0.5000000000 0.4440000000  Biso 1.0 Mg 2 n
+O10 1.0000000000 0.0310000000 0.5000000000 0.2770000000  Biso 1.0 O 2 n
+O9 1.0000000000 0.4089000000 0.5000000000 0.5959000000  Biso 1.0 O 2 n

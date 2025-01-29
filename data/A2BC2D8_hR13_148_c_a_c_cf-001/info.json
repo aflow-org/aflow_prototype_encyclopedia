@@ -1,0 +1,32 @@
+{
+    "uid": "VJPX",
+    "prototype": "As2BaNi2O8",
+    "prototype_tex": "As$_{2}$BaNi$_{2}$O$_{8}$",
+    "label": "A2BC2D8_hR13_148_c_a_c_cf-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3",
+        "x4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        4.9362,
+        4.78296,
+        0.427,
+        0.167,
+        0.355,
+        0.113,
+        0.441,
+        0.785
+    ],
+    "strukturbericht": null,
+    "title": "BaNi$_{2}$As$_{2}$O$_{8}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BC2D8_hR13_148_c_a_c_cf-001"
+}

@@ -1,0 +1,30 @@
+{
+    "uid": "FSA1",
+    "prototype": "Bi3Nb2O9",
+    "prototype_tex": "Bi$_{3}$Nb$_{2}$O$_{9}$",
+    "label": "A3B2C9_oF56_69_ag_g_bfgl-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x4",
+        "x5",
+        "x6",
+        "x7"
+    ],
+    "parameter_values": [
+        25.11,
+        0.215253,
+        0.216726,
+        0.2,
+        0.412,
+        0.324,
+        0.588
+    ],
+    "strukturbericht": null,
+    "title": "Orthorhombic Bi$_{3}$NbTiO$_{9}$ $m = 2$ Aurivillius Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B2C9_oF56_69_ag_g_bfgl-001"
+}

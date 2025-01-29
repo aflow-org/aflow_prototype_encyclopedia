@@ -1,0 +1,28 @@
+{
+    "uid": "JSHF",
+    "prototype": "C4Co3W9",
+    "prototype_tex": "C$_{4}$Co$_{3}$W$_{9}$",
+    "label": "A2B3C3_hP32_194_cg_2h_k-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "x4",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        7.826,
+        1.0,
+        0.890003,
+        0.555003,
+        0.205003,
+        0.075
+    ],
+    "strukturbericht": null,
+    "title": "Co$_{3}$W$_{9}$C$_{4}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B3C3_hP32_194_cg_2h_k-001"
+}

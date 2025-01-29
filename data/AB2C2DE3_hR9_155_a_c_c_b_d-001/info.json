@@ -1,0 +1,26 @@
+{
+    "uid": "Q3TB",
+    "prototype": "BBe2F2KO3",
+    "prototype_tex": "BBe$_{2}$F$_{2}$KO$_{3}$",
+    "label": "AB2C2DE3_hR9_155_a_c_c_b_d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "x4",
+        "y5"
+    ],
+    "parameter_values": [
+        4.42702,
+        4.23402,
+        0.69743,
+        0.77848,
+        0.69063
+    ],
+    "strukturbericht": null,
+    "title": "KBe$_{2}$BO$_{3}$F$_{2}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2C2DE3_hR9_155_b_c_c_a_e"
+}

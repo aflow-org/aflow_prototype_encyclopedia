@@ -1,0 +1,22 @@
+{
+    "uid": "D1PM",
+    "prototype": "MoNiP2",
+    "prototype_tex": "MoNiP$_{2}$",
+    "label": "ABC2_hP8_194_b_a_f-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3"
+    ],
+    "parameter_values": [
+        3.329,
+        3.37038,
+        0.1132
+    ],
+    "strukturbericht": null,
+    "title": "NiMoP$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC2_hP8_194_b_a_f-001"
+}

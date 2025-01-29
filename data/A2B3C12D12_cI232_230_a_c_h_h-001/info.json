@@ -1,0 +1,31 @@
+{
+    "uid": "LL0W",
+    "prototype": "Al2Ca3H12O12",
+    "prototype_tex": "Al$_{2}$Ca$_{3}$H$_{12}$O$_{12}$",
+    "label": "A2B3C12D12_cI232_230_a_c_h_h-001",
+    "parameter_symbol": [
+        "a",
+        "x3",
+        "y3",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        12.575,
+        0.909,
+        0.054,
+        0.163,
+        0.9718,
+        0.0531,
+        0.1396
+    ],
+    "strukturbericht": "J2_3",
+    "title": "Ca$_{3}$Al$_{2}$(OH)$_{12}$ ($J2_{3}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$J2_{3}$",
+    "compounds": {},
+    "alias": "A2B3C12D12_cI232_230_a_c_h_h"
+}

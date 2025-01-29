@@ -1,0 +1,60 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Ag5-xTe3 st
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A12B7_hP57_174_2j2k4l_ghi3j2k-001
+
+# Last updated on 2024/08/02
+
+data_Ag36Te21
+_pd_phase_name Ag36Te21
+_cell_length_a  13.4540000000
+_cell_length_b  13.4540000000
+_cell_length_c  8.4590000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  120.0000000000
+_symmetry_space_group_name_H-M  'P-6'
+_symmetry_Int_Tables_Number  174
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -y,x-y,z
+  3  -x+y,-x,z
+  4  x,y,-z
+  5  -y,x-y,-z
+  6  -x+y,-x,-z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Te9 1.0000000000 0.0000000000 0.0000000000 0.2765000000  Biso 1.0 Te 2 g
+Te10 1.0000000000 0.3333300000 0.6666700000 0.2757000000  Biso 1.0 Te 2 h
+Te11 1.0000000000 0.6666700000 0.3333300000 0.2925000000  Biso 1.0 Te 2 i
+Ag1 1.0000000000 0.2049000000 0.5281000000 -0.0000000000  Biso 1.0 Ag 3 j
+Ag2 1.0000000000 0.0108000000 0.1368000000 -0.0000000000  Biso 1.0 Ag 3 j
+Te12 1.0000000000 0.9657000000 0.4550000000 -0.0000000000  Biso 1.0 Te 3 j
+Te13 1.0000000000 0.8429000000 0.2103000000 -0.0000000000  Biso 1.0 Te 3 j
+Te14 1.0000000000 0.2357000000 0.3320000000 -0.0000000000  Biso 1.0 Te 3 j
+Ag3 1.0000000000 0.2409000000 0.7680000000 0.5000000000  Biso 1.0 Ag 3 k
+Ag4 1.0000000000 0.0994000000 0.9021000000 0.5000000000  Biso 1.0 Ag 3 k
+Te15 1.0000000000 0.3509000000 0.0177000000 0.5000000000  Biso 1.0 Te 3 k
+Te16 1.0000000000 0.0009000000 0.6661000000 0.5000000000  Biso 1.0 Te 3 k
+Ag5 1.0000000000 0.2260000000 0.8780000000 0.2410000000  Biso 1.0 Ag 6 l
+Ag6 1.0000000000 0.8634000000 0.5306000000 0.2512000000  Biso 1.0 Ag 6 l
+Ag7 1.0000000000 0.4790000000 0.9180000000 0.2830000000  Biso 1.0 Ag 6 l
+Ag8 1.0000000000 0.2410000000 0.1420000000 0.2760000000  Biso 1.0 Ag 6 l

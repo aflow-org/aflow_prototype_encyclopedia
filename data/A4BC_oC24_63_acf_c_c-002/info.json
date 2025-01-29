@@ -1,0 +1,32 @@
+{
+    "uid": "ULYP",
+    "prototype": "Al4NiY",
+    "prototype_tex": "Al$_{4}$NiY",
+    "label": "A4BC_oC24_63_acf_c_c-002",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y2",
+        "y3",
+        "y4",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        4.08,
+        3.78431,
+        1.62255,
+        0.557,
+        0.729,
+        0.379,
+        0.186,
+        0.054
+    ],
+    "strukturbericht": null,
+    "title": "YNiAl$_{4}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4BC_oC24_63_acf_c_c-002"
+}

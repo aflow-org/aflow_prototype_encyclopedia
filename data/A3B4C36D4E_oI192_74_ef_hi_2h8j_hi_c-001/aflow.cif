@@ -1,0 +1,71 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Br3CH6NPb
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A3B4C36D4E_oI192_74_ef_hi_2h8j_hi_c-001
+
+# Last updated on 2024/08/02
+
+data_Br12C16H144N16Pb4
+_pd_phase_name Br12C16H144N16Pb4
+_cell_length_a  11.6920000000
+_cell_length_b  8.4450000000
+_cell_length_c  8.2230000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Imma'
+_symmetry_Int_Tables_Number  74
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y+1/2,z
+  3  -x,y+1/2,-z
+  4  x,-y,-z
+  5  -x,-y,-z
+  6  x,y+1/2,-z
+  7  x,-y+1/2,z
+  8  -x,y,z
+  9  x+1/2,y+1/2,z+1/2
+  10  -x+1/2,-y,z+1/2
+  11  -x+1/2,y,-z+1/2
+  12  x+1/2,-y+1/2,-z+1/2
+  13  -x+1/2,-y+1/2,-z+1/2
+  14  x+1/2,y,-z+1/2
+  15  x+1/2,-y,z+1/2
+  16  -x+1/2,y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Pb17 1.0000000000 0.2500000000 0.2500000000 0.2500000000  Biso 1.0 Pb 4 c
+Br1 1.0000000000 0.0000000000 0.2500000000 0.2050000000  Biso 1.0 Br 4 e
+Br2 1.0000000000 0.7252000000 0.0000000000 0.0000000000  Biso 1.0 Br 8 f
+C3 1.0000000000 0.0000000000 0.1359000000 0.7194900000  Biso 1.0 C 8 h
+H5 1.0000000000 0.0000000000 0.3252000000 0.8664800000  Biso 1.0 H 8 h
+H6 1.0000000000 0.0000000000 0.1169000000 0.6030200000  Biso 1.0 H 8 h
+N15 1.0000000000 0.0000000000 0.3062000000 0.7500000000  Biso 1.0 N 8 h
+C4 1.0000000000 0.0687300000 0.2500000000 0.7500000000  Biso 1.0 C 8 i
+N16 1.0000000000 0.9438600000 0.2500000000 0.7500000000  Biso 1.0 N 8 i
+H10 1.0000000000 0.4163100000 0.8546500000 0.2211700000  Biso 1.0 H 16 j
+H11 1.0000000000 0.5962900000 0.6453500000 0.2788300000  Biso 1.0 H 16 j
+H12 1.0000000000 0.5962900000 0.7780400000 0.1424000000  Biso 1.0 H 16 j
+H13 1.0000000000 0.5677700000 0.8531000000 0.2018600000  Biso 1.0 H 16 j
+H14 1.0000000000 0.4322300000 0.5890100000 0.2676300000  Biso 1.0 H 16 j
+H7 1.0000000000 0.4163100000 0.6733900000 0.1712300000  Biso 1.0 H 16 j
+H8 1.0000000000 0.5962900000 0.8266000000 0.3287700000  Biso 1.0 H 16 j
+H9 1.0000000000 0.4163100000 0.7219600000 0.3576000000  Biso 1.0 H 16 j

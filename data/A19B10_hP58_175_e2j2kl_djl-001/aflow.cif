@@ -1,0 +1,59 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Ge13Na4
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A19B10_hP58_175_e2j2kl_djl-001
+
+# Last updated on 2024/08/02
+
+data_Ge38Na20
+_pd_phase_name Ge38Na20
+_cell_length_a  15.0275000000
+_cell_length_b  15.0275000000
+_cell_length_c  3.9602000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  120.0000000000
+_symmetry_space_group_name_H-M  'P6/m'
+_symmetry_Int_Tables_Number  175
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -y,x-y,z
+  3  -x+y,-x,z
+  4  -x,-y,z
+  5  y,-x+y,z
+  6  x-y,x,z
+  7  -x,-y,-z
+  8  y,-x+y,-z
+  9  x-y,x,-z
+  10  x,y,-z
+  11  -y,x-y,-z
+  12  -x+y,-x,-z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Na7 1.0000000000 0.3333333333 0.6666666667 0.5000000000  Biso 1.0 Na 2 d
+Ge1 1.0000000000 0.0000033333 0.9999966667 0.0757000000  Biso 1.0 Ge 2 e
+Ge2 1.0000000000 0.1524033333 0.5185966667 0.0000000000  Biso 1.0 Ge 6 j
+Ge3 1.0000000000 0.4831033333 0.1840966667 0.0000000000  Biso 1.0 Ge 6 j
+Na8 1.0000000000 0.0696033333 0.2738966667 0.0000000000  Biso 1.0 Na 6 j
+Ge4 1.0000000000 0.0417033333 0.4472966667 0.5000000000  Biso 1.0 Ge 6 k
+Ge5 1.0000000000 0.3695033333 0.1032966667 0.5000000000  Biso 1.0 Ge 6 k
+Ge6 1.0000000000 0.0271033333 0.1087966667 0.4074000000  Biso 1.0 Ge 12 l
+Na9 1.0000000000 0.0636033333 0.2426966667 0.0626000000  Biso 1.0 Na 12 l

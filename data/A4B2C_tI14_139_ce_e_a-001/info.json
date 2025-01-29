@@ -1,0 +1,24 @@
+{
+    "uid": "SENW",
+    "prototype": "F4K2Ni",
+    "prototype_tex": "F$_{4}$K$_{2}$Ni",
+    "label": "A4B2C_tI14_139_ce_e_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4"
+    ],
+    "parameter_values": [
+        4.0,
+        3.2675,
+        0.151,
+        0.352
+    ],
+    "strukturbericht": null,
+    "title": "K$_{2}$NiF$_{4}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4B2C_tI14_139_ce_e_a"
+}

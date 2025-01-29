@@ -1,0 +1,24 @@
+{
+    "uid": "DD5U",
+    "prototype": "HoSb2",
+    "prototype_tex": "HoSb$_{2}$",
+    "label": "AB2_oC6_21_a_k-002",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z2"
+    ],
+    "parameter_values": [
+        5.79,
+        0.577375,
+        1.35406,
+        0.66
+    ],
+    "strukturbericht": null,
+    "title": "HoSb$_{2}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2_oC6_21_a_k.HoSb2"
+}

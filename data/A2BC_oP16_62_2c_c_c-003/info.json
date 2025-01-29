@@ -1,0 +1,38 @@
+{
+    "uid": "69FA",
+    "prototype": "C2MoU",
+    "prototype_tex": "C$_{2}$MoU",
+    "label": "A2BC_oP16_62_2c_c_c-003",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        5.625,
+        0.5776,
+        1.952,
+        0.153,
+        0.752,
+        0.751,
+        0.005,
+        0.4191,
+        0.8986,
+        0.0819,
+        0.1421
+    ],
+    "strukturbericht": null,
+    "title": "UMoC$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BC_oP16_62_2c_c_c-003"
+}

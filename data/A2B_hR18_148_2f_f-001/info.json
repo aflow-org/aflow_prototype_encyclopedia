@@ -1,0 +1,38 @@
+{
+    "uid": "8GMP",
+    "prototype": "Cl2Pd",
+    "prototype_tex": "Cl$_{2}$Pd",
+    "label": "A2B_hR18_148_2f_f-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "y1",
+        "z1",
+        "x2",
+        "y2",
+        "z2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        13.0471,
+        0.65928,
+        0.7407,
+        0.0238,
+        0.23685,
+        0.14609,
+        0.40783,
+        0.38403,
+        0.08714,
+        0.3263,
+        0.06386
+    ],
+    "strukturbericht": null,
+    "title": "$\\beta$-PdCl$_{2}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_hR18_148_2f_f"
+}

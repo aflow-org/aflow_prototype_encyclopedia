@@ -1,0 +1,25 @@
+{
+    "uid": "CSTH",
+    "prototype": "Al3Zr",
+    "prototype_tex": "Al$_{3}$Zr",
+    "label": "A3B_tI16_139_cde_e-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4"
+    ],
+    "parameter_values": [
+        3.9993,
+        4.32151,
+        0.37498,
+        0.11886
+    ],
+    "strukturbericht": "D0_23",
+    "title": "Al$_{3}$Zr ($D0_{23}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$D0_{23}$",
+    "compounds": {},
+    "alias": "A3B_tI16_139_cde_e"
+}

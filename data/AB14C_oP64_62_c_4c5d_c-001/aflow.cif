@@ -1,0 +1,57 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  CdP14Sn
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/AB14C_oP64_62_c_4c5d_c-001
+
+# Last updated on 2024/08/01
+
+data_Cd4P56Sn4
+_pd_phase_name Cd4P56Sn4
+_cell_length_a  12.8170000000
+_cell_length_b  9.8260000000
+_cell_length_c  10.7750000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pnma'
+_symmetry_Int_Tables_Number  62
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z+1/2
+  3  -x,y+1/2,-z
+  4  x+1/2,-y+1/2,-z+1/2
+  5  -x,-y,-z
+  6  x+1/2,y,-z+1/2
+  7  x,-y+1/2,z
+  8  -x+1/2,y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Cd1 1.0000000000 0.1832000000 0.2500000000 0.0048000000  Biso 1.0 Cd 4 c
+P2 1.0000000000 0.0305000000 0.2500000000 0.8372000000  Biso 1.0 P 4 c
+P3 1.0000000000 0.4442000000 0.2500000000 0.2206000000  Biso 1.0 P 4 c
+P4 1.0000000000 0.0857000000 0.2500000000 0.4007000000  Biso 1.0 P 4 c
+P5 1.0000000000 0.3314000000 0.2500000000 0.8477000000  Biso 1.0 P 4 c
+Sn11 1.0000000000 0.3294000000 0.2500000000 0.5989000000  Biso 1.0 Sn 4 c
+P10 1.0000000000 0.1395000000 0.0433000000 0.1393000000  Biso 1.0 P 8 d
+P6 1.0000000000 0.4700000000 0.0752000000 0.3479000000  Biso 1.0 P 8 d
+P7 1.0000000000 0.0685000000 0.0824000000 0.7099000000  Biso 1.0 P 8 d
+P8 1.0000000000 0.4256000000 0.0804000000 0.9176000000  Biso 1.0 P 8 d
+P9 1.0000000000 0.1789000000 0.0756000000 0.3341000000  Biso 1.0 P 8 d

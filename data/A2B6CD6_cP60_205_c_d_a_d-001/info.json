@@ -1,0 +1,33 @@
+{
+    "uid": "GED2",
+    "prototype": "N2(NH3)6NiO6",
+    "prototype_tex": "N$_{2}$(NH$_{3}$)$_{6}$NiO$_{6}$",
+    "label": "A2B6CD6_cP60_205_c_d_a_d-001",
+    "parameter_symbol": [
+        "a",
+        "x2",
+        "x3",
+        "y3",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        10.96,
+        0.25,
+        0.24,
+        0.0,
+        0.0,
+        0.25,
+        0.25,
+        0.01
+    ],
+    "strukturbericht": "H6_4",
+    "title": "$H6_{4}$ [Ni(NO$_{3}$)$_{2}$(NH$_{3}$)$_{6}$] Structure ({\\em Obsolete})",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$H6_{4}$",
+    "compounds": {},
+    "alias": "A2B6CD6_cP60_205_c_d_a_d"
+}

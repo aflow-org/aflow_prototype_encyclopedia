@@ -1,0 +1,51 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Ca2O5U
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A2B5C_mP32_14_2e_5e_ab-001
+
+# Last updated on 2024/08/01
+
+data_Ca8O20U4
+_pd_phase_name Ca8O20U4
+_cell_length_a  7.9137000000
+_cell_length_b  5.4409000000
+_cell_length_c  11.4482000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  108.8030000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P2_{1}/c'
+_symmetry_Int_Tables_Number  14
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y+1/2,-z+1/2
+  3  -x,-y,-z
+  4  x,-y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+U8 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 U 2 a
+U9 1.0000000000 0.5000000000 0.0000000000 0.0000000000  Biso 1.0 U 2 b
+Ca1 1.0000000000 0.8408000000 0.0621000000 0.6800000000  Biso 1.0 Ca 4 e
+Ca2 1.0000000000 0.6538000000 0.9985000000 0.3586000000  Biso 1.0 Ca 4 e
+O3 1.0000000000 0.5553000000 0.3202000000 0.6733000000  Biso 1.0 O 4 e
+O4 1.0000000000 0.1198000000 0.2831000000 0.6468000000  Biso 1.0 O 4 e
+O5 1.0000000000 0.3803000000 0.3043000000 0.9280000000  Biso 1.0 O 4 e
+O6 1.0000000000 0.9837000000 0.2610000000 0.8705000000  Biso 1.0 O 4 e
+O7 1.0000000000 0.7493000000 0.1873000000 0.0047000000  Biso 1.0 O 4 e

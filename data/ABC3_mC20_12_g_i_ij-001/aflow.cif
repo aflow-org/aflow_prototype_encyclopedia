@@ -1,0 +1,50 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  MnPS3
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/ABC3_mC20_12_g_i_ij-001
+
+# Last updated on 2024/08/01
+
+data_Mn4P4S12
+_pd_phase_name Mn4P4S12
+_cell_length_a  6.0770000000
+_cell_length_b  10.5240000000
+_cell_length_c  10.3801300154
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  141.3234192804
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'C2/m'
+_symmetry_Int_Tables_Number  12
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y,-z
+  3  -x,-y,-z
+  4  x,-y,z
+  5  x+1/2,y+1/2,z
+  6  -x+1/2,y+1/2,-z
+  7  -x+1/2,-y+1/2,-z
+  8  x+1/2,-y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Mn1 1.0000000000 -0.0000000000 0.3325800000 0.0000000000  Biso 1.0 Mn 4 g
+P2 1.0000000000 0.2242000000 -0.0000000000 0.1686000000  Biso 1.0 P 4 i
+S3 1.0000000000 0.0090000000 -0.0000000000 0.2497000000  Biso 1.0 S 4 i
+S4 1.0000000000 0.4954000000 0.1612000000 0.2516000000  Biso 1.0 S 8 j

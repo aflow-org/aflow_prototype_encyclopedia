@@ -1,0 +1,27 @@
+{
+    "uid": "ZBJR",
+    "prototype": "Cl",
+    "prototype_tex": "Cl",
+    "label": "A_tP16_138_j-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "y1",
+        "z1"
+    ],
+    "parameter_values": [
+        8.56,
+        0.714953,
+        0.375,
+        0.917,
+        0.857
+    ],
+    "strukturbericht": "A18",
+    "title": "Cl ($A18$) Structure ({\\em Obsolete})",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$A18$",
+    "compounds": {},
+    "alias": "A_tP16_138_j"
+}

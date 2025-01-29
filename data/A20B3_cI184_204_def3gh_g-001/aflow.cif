@@ -1,0 +1,94 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Cd6Y
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A20B3_cI184_204_def3gh_g-001
+
+# Last updated on 2024/08/02
+
+data_Cd160Y24
+_pd_phase_name Cd160Y24
+_cell_length_a  15.4820000000
+_cell_length_b  15.4820000000
+_cell_length_c  15.4820000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Im-3'
+_symmetry_Int_Tables_Number  204
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  -x,y,-z
+  4  x,-y,-z
+  5  z,x,y
+  6  z,-x,-y
+  7  -z,-x,y
+  8  -z,x,-y
+  9  y,z,x
+  10  -y,z,-x
+  11  y,-z,-x
+  12  -y,-z,x
+  13  -x,-y,-z
+  14  x,y,-z
+  15  x,-y,z
+  16  -x,y,z
+  17  -z,-x,-y
+  18  -z,x,y
+  19  z,x,-y
+  20  z,-x,y
+  21  -y,-z,-x
+  22  y,-z,x
+  23  -y,z,x
+  24  y,z,-x
+  25  x+1/2,y+1/2,z+1/2
+  26  -x+1/2,-y+1/2,z+1/2
+  27  -x+1/2,y+1/2,-z+1/2
+  28  x+1/2,-y+1/2,-z+1/2
+  29  z+1/2,x+1/2,y+1/2
+  30  z+1/2,-x+1/2,-y+1/2
+  31  -z+1/2,-x+1/2,y+1/2
+  32  -z+1/2,x+1/2,-y+1/2
+  33  y+1/2,z+1/2,x+1/2
+  34  -y+1/2,z+1/2,-x+1/2
+  35  y+1/2,-z+1/2,-x+1/2
+  36  -y+1/2,-z+1/2,x+1/2
+  37  -x+1/2,-y+1/2,-z+1/2
+  38  x+1/2,y+1/2,-z+1/2
+  39  x+1/2,-y+1/2,z+1/2
+  40  -x+1/2,y+1/2,z+1/2
+  41  -z+1/2,-x+1/2,-y+1/2
+  42  -z+1/2,x+1/2,y+1/2
+  43  z+1/2,x+1/2,-y+1/2
+  44  z+1/2,-x+1/2,y+1/2
+  45  -y+1/2,-z+1/2,-x+1/2
+  46  y+1/2,-z+1/2,x+1/2
+  47  -y+1/2,z+1/2,x+1/2
+  48  y+1/2,z+1/2,-x+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Cd1 1.0000000000 0.4055100000 0.0000000000 -0.0000000000  Biso 1.0 Cd 12 d
+Cd2 1.0000000000 0.6901800000 -0.0000000000 0.5000000000  Biso 1.0 Cd 12 e
+Cd3 1.0000000000 0.6608100000 0.6608100000 0.6608100000  Biso 1.0 Cd 16 f
+Cd4 1.0000000000 0.0000000000 0.0922700000 0.2406900000  Biso 1.0 Cd 24 g
+Cd5 1.0000000000 0.0000000000 0.3460300000 0.4043800000  Biso 1.0 Cd 24 g
+Cd6 1.0000000000 0.0000000000 0.0832000000 0.0741000000  Biso 1.0 Cd 24 g
+Y8 1.0000000000 0.0000000000 0.2996600000 0.1898500000  Biso 1.0 Y 24 g
+Cd7 1.0000000000 0.6183500000 0.7003100000 0.8404900000  Biso 1.0 Cd 48 h

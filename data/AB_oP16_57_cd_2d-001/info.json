@@ -1,0 +1,36 @@
+{
+    "uid": "GHY9",
+    "prototype": "AlDy",
+    "prototype_tex": "AlDy",
+    "label": "AB_oP16_57_cd_2d-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "x2",
+        "y2",
+        "x3",
+        "y3",
+        "x4",
+        "y4"
+    ],
+    "parameter_values": [
+        5.822,
+        1.95277,
+        0.962556,
+        0.9309,
+        0.668,
+        0.1022,
+        0.1604,
+        0.0148,
+        0.4015,
+        0.3392
+    ],
+    "strukturbericht": null,
+    "title": "DyAl Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_oP16_57_cd_2d-001"
+}

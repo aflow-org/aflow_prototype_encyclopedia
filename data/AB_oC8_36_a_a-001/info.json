@@ -1,0 +1,30 @@
+{
+    "uid": "SAL5",
+    "prototype": "ClH",
+    "prototype_tex": "ClH",
+    "label": "AB_oC8_36_a_a-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y1",
+        "z1",
+        "y2",
+        "z2"
+    ],
+    "parameter_values": [
+        5.825,
+        0.945116,
+        0.922403,
+        0.25,
+        0.0,
+        0.081,
+        0.83
+    ],
+    "strukturbericht": null,
+    "title": "Low Temperature HCl Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_oC8_36_a_a"
+}

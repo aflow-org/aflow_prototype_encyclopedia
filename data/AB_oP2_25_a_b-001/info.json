@@ -1,0 +1,26 @@
+{
+    "uid": "CPSQ",
+    "prototype": "CdTe",
+    "prototype_tex": "CdTe",
+    "label": "AB_oP2_25_a_b-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z1",
+        "z2"
+    ],
+    "parameter_values": [
+        2.8102,
+        1.87104,
+        1.07697,
+        0.25,
+        0.0
+    ],
+    "strukturbericht": null,
+    "title": "High-pressure CdTe Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_oP2_25_b_a"
+}

@@ -1,0 +1,36 @@
+{
+    "uid": "2SQ0",
+    "prototype": "AlCl3",
+    "prototype_tex": "AlCl$_{3}$",
+    "label": "AB3_mC16_12_g_ij-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "y1",
+        "x2",
+        "z2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        5.914,
+        1.73047,
+        1.65282,
+        143.321,
+        0.1662,
+        0.441,
+        0.2263,
+        0.0234,
+        0.17869,
+        0.7752
+    ],
+    "strukturbericht": null,
+    "title": "AlCl$_{3}$ Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3_mC16_12_g_ij"
+}

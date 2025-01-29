@@ -1,0 +1,52 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Al8Mo3
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A8B3_mC22_12_4i_ai-001
+
+# Last updated on 2024/08/01
+
+data_Al16Mo6
+_pd_phase_name Al16Mo6
+_cell_length_a  9.2182000000
+_cell_length_b  3.6418000000
+_cell_length_c  14.8709324906
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  138.2904189662
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'C2/m'
+_symmetry_Int_Tables_Number  12
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y,-z
+  3  -x,-y,-z
+  4  x,-y,z
+  5  x+1/2,y+1/2,z
+  6  -x+1/2,y+1/2,-z
+  7  -x+1/2,-y+1/2,-z
+  8  x+1/2,-y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Mo5 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Mo 2 a
+Al1 1.0000000000 0.4629000000 0.0000000000 0.2749000000  Biso 1.0 Al 4 i
+Al2 1.0000000000 0.1834000000 0.0000000000 0.9114000000  Biso 1.0 Al 4 i
+Al3 1.0000000000 0.9068000000 0.0000000000 0.5398000000  Biso 1.0 Al 4 i
+Al4 1.0000000000 0.6400000000 0.0000000000 0.1790000000  Biso 1.0 Al 4 i
+Mo6 1.0000000000 0.7552000000 0.0000000000 0.6601000000  Biso 1.0 Mo 4 i

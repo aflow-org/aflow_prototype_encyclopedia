@@ -1,0 +1,25 @@
+{
+    "uid": "34W5",
+    "prototype": "Ag2HgI4",
+    "prototype_tex": "Ag$_{2}$HgI$_{4}$",
+    "label": "A2BC4_tP7_111_e_b_n-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "z3"
+    ],
+    "parameter_values": [
+        6.34,
+        1.0,
+        0.23,
+        0.275
+    ],
+    "strukturbericht": "E3_1",
+    "title": "$E3_{1}$ ($\\beta$-Ag$_{2}$HgI$_{4}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$E3_{1}$",
+    "compounds": {},
+    "alias": "A2BC4_tP7_111_f_a_n"
+}

@@ -1,0 +1,58 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL 
+# doi: 10.1016/j.commatsci.2017.01.017 (part 1)
+# doi: 10.1016/j.commatsci.2018.10.043 (part 2)
+# doi: 10.1016/j.commatsci.2021.110450 (part 3)
+# doi: 10.1016/j.commatsci.2024.112988 (part 4)
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/Cu5V2O10 (Stoiberite)
+
+# Last updated on 2024/11/12
+
+data_Cu5V2O10
+_pd_phase_name Cu5V2O10
+_cell_length_a   8.3930000000
+_cell_length_b   6.0520000000
+_cell_length_c  16.156000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  108.0900000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P2_{1}/c'
+_symmetry_Int_Tables_Number  14
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y+1/2,-z+1/2
+  3  -x,-y,-z
+  4  x,-y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Cu1 1.0000000000 0.0605200000 0.9469500000 0.1016600000   Biso 1.0 Cu 4 e
+Cu2 1.0000000000 0.2639100000 0.2438000000 0.4844800000   Biso 1.0 Cu 4 e
+Cu3 1.0000000000 0.1605100000 0.1831700000 0.2888700000   Biso 1.0 Cu 4 e
+Cu4 1.0000000000 0.0406900000 0.4534800000 0.0918600000   Biso 1.0 Cu 4 e
+Cu5 1.0000000000 0.3708100000 0.2237900000 0.1795400000   Biso 1.0 Cu 4 e
+O6  1.0000000000 0.4026000000 0.1961000000 0.3048000000   Biso 1.0 O  4 e
+O7  1.0000000000 0.4910000000 0.2546000000 0.4820000000   Biso 1.0 O  4 e
+O8  1.0000000000 0.2930000000 0.9213000000 0.0983000000   Biso 1.0 O  4 e
+O9  1.0000000000 0.3208000000 0.4582000000 0.0849000000   Biso 1.0 O  4 e
+O10 1.0000000000 0.4033000000 0.6853000000 0.3161000000   Biso 1.0 O  4 e
+O11 1.0000000000 0.1752000000 0.4610000000 0.3867000000   Biso 1.0 O  4 e
+O12 1.0000000000 0.1878000000 0.9371000000 0.3778000000   Biso 1.0 O  4 e
+O13 1.0000000000 0.0760000000 0.6854000000 0.2236000000   Biso 1.0 O  4 e
+O14 1.0000000000 0.1345000000 0.2131000000 0.1668000000   Biso 1.0 O  4 e
+O15 1.0000000000 0.0315000000 0.2116000000 0.4764000000   Biso 1.0 O  4 e
+V16 1.0000000000 0.4303600000 0.7105300000 0.0988700000   Biso 1.0 V  4 e
+V17 1.0000000000 0.2158500000 0.6931300000 0.3288900000   Biso 1.0 V  4 e

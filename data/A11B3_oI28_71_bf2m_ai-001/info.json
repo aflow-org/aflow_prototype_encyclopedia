@@ -1,0 +1,34 @@
+{
+    "uid": "TNYL",
+    "prototype": "Al11La3",
+    "prototype_tex": "Al$_{11}$La$_{3}$",
+    "label": "A11B3_oI28_71_bf2m_ai-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x3",
+        "z4",
+        "x5",
+        "z5",
+        "x6",
+        "z6"
+    ],
+    "parameter_values": [
+        10.132,
+        0.437327,
+        1.29708,
+        0.2819,
+        0.31688,
+        0.3683,
+        0.3338,
+        0.2729,
+        0.1378
+    ],
+    "strukturbericht": null,
+    "title": "La$_{3}$Al$_{11}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A11B3_oI28_71_bf2m_ai-001"
+}

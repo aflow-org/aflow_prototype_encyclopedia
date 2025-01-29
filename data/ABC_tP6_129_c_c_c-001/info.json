@@ -1,0 +1,26 @@
+{
+    "uid": "QTMD",
+    "prototype": "CaGaN",
+    "prototype_tex": "CaGaN",
+    "label": "ABC_tP6_129_c_c_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3"
+    ],
+    "parameter_values": [
+        3.57,
+        2.11709,
+        0.6503,
+        0.0839,
+        0.33
+    ],
+    "strukturbericht": null,
+    "title": "CaGaN Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC_tP6_129_c_c_c-001"
+}

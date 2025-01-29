@@ -1,0 +1,28 @@
+{
+    "uid": "KR8A",
+    "prototype": "C4CoSc3",
+    "prototype_tex": "C$_{4}$CoSc$_{3}$",
+    "label": "A4BC3_oI16_71_m_a_bf-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        11.9971,
+        0.282968,
+        0.364655,
+        0.18801,
+        0.87513,
+        0.66614
+    ],
+    "strukturbericht": null,
+    "title": "Sc$_{3}$CoC$_{4}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4BC3_oI16_71_m_a_bf-001"
+}

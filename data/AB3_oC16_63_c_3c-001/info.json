@@ -1,0 +1,30 @@
+{
+    "uid": "DPFG",
+    "prototype": "AsMn3",
+    "prototype_tex": "AsMn$_{3}$",
+    "label": "AB3_oC16_63_c_3c-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y1",
+        "y2",
+        "y3",
+        "y4"
+    ],
+    "parameter_values": [
+        3.7878,
+        4.28998,
+        1.0,
+        0.159,
+        0.9435,
+        0.5565,
+        0.3155
+    ],
+    "strukturbericht": null,
+    "title": "Mn$_{3}$As (D0$_{d}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3_oC16_63_c_3c"
+}

@@ -1,0 +1,28 @@
+{
+    "uid": "JQ93",
+    "prototype": "HgO2",
+    "prototype_tex": "HgO$_{2}$",
+    "label": "AB2_oP12_61_a_c-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x2",
+        "y2",
+        "z2"
+    ],
+    "parameter_values": [
+        6.08,
+        0.988487,
+        0.789474,
+        0.075,
+        0.062,
+        0.405
+    ],
+    "strukturbericht": null,
+    "title": "$\\beta$-HgO$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2_oP12_61_a_c-001"
+}

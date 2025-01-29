@@ -1,0 +1,24 @@
+{
+    "uid": "K8CX",
+    "prototype": "Pd5Th3",
+    "prototype_tex": "Pd$_{5}$Th$_{3}$",
+    "label": "A5B3_hP8_189_cf_g-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3"
+    ],
+    "parameter_values": [
+        7.162,
+        0.545658,
+        0.75,
+        0.33
+    ],
+    "strukturbericht": null,
+    "title": "Th$_{3}$Pd$_{5}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A5B3_hP8_189_cf_g-001"
+}

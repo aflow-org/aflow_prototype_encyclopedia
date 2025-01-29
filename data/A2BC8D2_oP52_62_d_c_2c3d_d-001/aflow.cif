@@ -1,0 +1,54 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  B2CaO8Si2 danburite S63
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A2BC8D2_oP52_62_d_c_2c3d_d-001
+
+# Last updated on 2024/08/01
+
+data_B8Ca4O32Si8
+_pd_phase_name B8Ca4O32Si8
+_cell_length_a  8.0370000000
+_cell_length_b  7.7218000000
+_cell_length_c  8.7570000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pnma'
+_symmetry_Int_Tables_Number  62
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z+1/2
+  3  -x,y+1/2,-z
+  4  x+1/2,-y+1/2,-z+1/2
+  5  -x,-y,-z
+  6  x+1/2,y,-z+1/2
+  7  x,-y+1/2,z
+  8  -x+1/2,y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Ca2 1.0000000000 0.8855500000 0.2500000000 0.4235200000  Biso 1.0 Ca 4 c
+O3 1.0000000000 0.0137000000 0.2500000000 0.8360000000  Biso 1.0 O 4 c
+O4 1.0000000000 0.6838000000 0.2500000000 0.0718000000  Biso 1.0 O 4 c
+B1 1.0000000000 0.2411000000 0.9206000000 0.9192000000  Biso 1.0 B 8 d
+O5 1.0000000000 0.3070900000 0.4967600000 0.5679700000  Biso 1.0 O 8 d
+O6 1.0000000000 0.3736800000 0.4576700000 0.8649600000  Biso 1.0 O 8 d
+O7 1.0000000000 0.1003500000 0.5782000000 0.8135100000  Biso 1.0 O 8 d
+Si8 1.0000000000 0.4466700000 0.4442600000 0.6925000000  Biso 1.0 Si 8 d

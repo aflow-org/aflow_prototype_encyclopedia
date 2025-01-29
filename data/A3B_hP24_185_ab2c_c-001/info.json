@@ -1,0 +1,36 @@
+{
+    "uid": "L8U5",
+    "prototype": "Cu3P",
+    "prototype_tex": "Cu$_{3}$P",
+    "label": "A3B_hP24_185_ab2c_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        6.9593,
+        1.0264,
+        0.3213,
+        0.1998,
+        0.2806,
+        0.0765,
+        0.3761,
+        0.4246,
+        0.3322,
+        0.75
+    ],
+    "strukturbericht": null,
+    "title": "Cu$_{3}$P Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B_hP24_185_ab2c_c"
+}

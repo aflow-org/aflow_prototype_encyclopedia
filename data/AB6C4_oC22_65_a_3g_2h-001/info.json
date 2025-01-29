@@ -1,0 +1,32 @@
+{
+    "uid": "6ZPS",
+    "prototype": "AlB6Cr4",
+    "prototype_tex": "AlB$_{6}$Cr$_{4}$",
+    "label": "AB6C4_oC22_65_a_3g_2h-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x2",
+        "x3",
+        "x4",
+        "x5",
+        "x6"
+    ],
+    "parameter_values": [
+        21.28,
+        0.138708,
+        0.141588,
+        0.105,
+        0.6481,
+        0.7298,
+        0.57634,
+        0.18843
+    ],
+    "strukturbericht": null,
+    "title": "Cr$_{4}$AlB$_{6}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB6C4_oC22_65_a_3g_2h-001"
+}

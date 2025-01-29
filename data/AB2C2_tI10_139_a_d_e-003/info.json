@@ -1,0 +1,23 @@
+{
+    "uid": "SC3Z",
+    "prototype": "Ca(H2O)10.5(PO4)2(UO2)2",
+    "prototype_tex": "Ca(H$_{2}$O)$_{10.5}$(PO$_{4}$)$_{2}$(UO$_{2}$)$_{2}$",
+    "label": "AB2C2_tI10_139_a_d_e-003",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3"
+    ],
+    "parameter_values": [
+        6.98,
+        2.95559,
+        0.208
+    ],
+    "strukturbericht": "H5_9",
+    "title": "$H5_{9}$ [Autunite Ca(UO$_{2}$)$_{2}$(PO$_{4}$)$_{2}\\cdot 10 \\frac{1}{2}$H$_{2}$O] Structure ({\\em Obsolete})",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$H5_{9}$",
+    "compounds": {},
+    "alias": "AB2C2_tI10_139_a_d_e"
+}

@@ -1,0 +1,28 @@
+{
+    "uid": "FCSA",
+    "prototype": "Li7Pb2",
+    "prototype_tex": "Li$_{7}$Pb$_{2}$",
+    "label": "A7B2_hP9_164_ac2d_d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "z3",
+        "z4",
+        "z5"
+    ],
+    "parameter_values": [
+        4.71,
+        1.82357,
+        0.33333,
+        0.91667,
+        0.58333,
+        0.25
+    ],
+    "strukturbericht": null,
+    "title": "Li$_{7}$Pb$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A7B2_hP9_164_ac2d_d-001"
+}

@@ -1,0 +1,24 @@
+{
+    "uid": "80KE",
+    "prototype": "O6PbSb2",
+    "prototype_tex": "O$_{6}$PbSb$_{2}$",
+    "label": "A6BC2_hP9_162_k_a_d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "z3"
+    ],
+    "parameter_values": [
+        5.295,
+        1.01454,
+        0.377,
+        0.2965
+    ],
+    "strukturbericht": null,
+    "title": "Rosiaite (PbSb$_{2}$O$_{6}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A6BC2_hP9_162_k_a_d"
+}

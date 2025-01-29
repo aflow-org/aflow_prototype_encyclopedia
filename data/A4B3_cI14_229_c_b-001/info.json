@@ -1,0 +1,18 @@
+{
+    "uid": "BYND",
+    "prototype": "O4Pt3",
+    "prototype_tex": "O$_{4}$Pt$_{3}$",
+    "label": "A4B3_cI14_229_c_b-001",
+    "parameter_symbol": [
+        "a"
+    ],
+    "parameter_values": [
+        6.226
+    ],
+    "strukturbericht": null,
+    "title": "Pt$_{3}$O$_{4}$ Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4B3_cI14_229_c_b"
+}

@@ -1,0 +1,38 @@
+{
+    "uid": "8VJC",
+    "prototype": "Cl5Zr2",
+    "prototype_tex": "Cl$_{5}$Zr$_{2}$",
+    "label": "A5B2_cI336_230_g2h_h-001",
+    "parameter_symbol": [
+        "a",
+        "y1",
+        "x2",
+        "y2",
+        "z2",
+        "x3",
+        "y3",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        21.141,
+        0.5712,
+        0.1568,
+        0.0296,
+        0.0508,
+        0.1094,
+        0.8762,
+        0.0191,
+        0.0614,
+        -0.0345,
+        0.0809
+    ],
+    "strukturbericht": null,
+    "title": "Zr$_{6}$Cl$_{15}$ (Zr$_{2}$Cl$_{5}$) Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A5B2_cI336_230_g2h_h-001"
+}

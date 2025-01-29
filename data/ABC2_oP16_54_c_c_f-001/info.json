@@ -1,0 +1,32 @@
+{
+    "uid": "RAQG",
+    "prototype": "AgClO2",
+    "prototype_tex": "AgClO$_{2}$",
+    "label": "ABC2_oP16_54_c_c_f-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y1",
+        "y2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        6.0754,
+        1.09945,
+        1.00777,
+        0.11313,
+        0.6324,
+        0.3509,
+        0.2274,
+        0.1056
+    ],
+    "strukturbericht": null,
+    "title": "AgClO$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC2_oP16_54_c_c_f-001"
+}

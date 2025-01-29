@@ -1,0 +1,30 @@
+{
+    "uid": "PZ2T",
+    "prototype": "Th2Zn17",
+    "prototype_tex": "Th$_{2}$Zn$_{17}$",
+    "label": "A2B17_hR19_166_c_cdfh-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x4",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        9.02994,
+        1.46179,
+        0.33333,
+        0.097,
+        0.33333,
+        0.66667,
+        0.16667
+    ],
+    "strukturbericht": null,
+    "title": "Th$_{2}$Zn$_{17}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B17_hR19_166_c_cdfh-001"
+}

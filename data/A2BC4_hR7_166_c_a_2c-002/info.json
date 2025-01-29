@@ -1,0 +1,26 @@
+{
+    "uid": "MU2V",
+    "prototype": "Bi2MnTe4",
+    "prototype_tex": "Bi$_{2}$MnTe$_{4}$",
+    "label": "A2BC4_hR7_166_c_a_2c-002",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3",
+        "x4"
+    ],
+    "parameter_values": [
+        4.309,
+        9.44046,
+        0.4247,
+        0.1332,
+        0.294
+    ],
+    "strukturbericht": null,
+    "title": "MnBi$_{2}$Te$_{4}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BC4_hR7_166_c_a_2c"
+}

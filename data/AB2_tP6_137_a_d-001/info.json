@@ -1,0 +1,23 @@
+{
+    "uid": "2F93",
+    "prototype": "HgI2",
+    "prototype_tex": "HgI$_{2}$",
+    "label": "AB2_tP6_137_a_d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2"
+    ],
+    "parameter_values": [
+        4.3675,
+        2.85518,
+        0.389
+    ],
+    "strukturbericht": "C13",
+    "title": "Coccinite (Red HgI$_{2}$, $C13$) Structure",
+    "part": 2,
+    "legacy": false,
+    "strukturbericht_tex": "$C13$",
+    "compounds": {},
+    "alias": "AB2_tP6_137_a_d"
+}

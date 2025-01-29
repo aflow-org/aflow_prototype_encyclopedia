@@ -1,0 +1,24 @@
+{
+    "uid": "VFUP",
+    "prototype": "BaMnO3",
+    "prototype_tex": "BaMnO$_{3}$",
+    "label": "ABC3_hP20_194_ac_f_gh-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "x5"
+    ],
+    "parameter_values": [
+        5.63723,
+        1.6361848,
+        0.6131,
+        0.8091
+    ],
+    "strukturbericht": null,
+    "title": "4H BaMnO$_{3}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC3_hP20_194_ac_f_gh-001"
+}

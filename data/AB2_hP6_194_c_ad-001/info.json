@@ -1,0 +1,21 @@
+{
+    "uid": "X5ZH",
+    "prototype": "InNi2",
+    "prototype_tex": "InNi$_{2}$",
+    "label": "AB2_hP6_194_c_ad-001",
+    "parameter_symbol": [
+        "a",
+        "c/a"
+    ],
+    "parameter_values": [
+        4.186,
+        1.22527
+    ],
+    "strukturbericht": "B8_2",
+    "title": "InNi$_{2}$ ($B8_{2}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$B8_{2}$",
+    "compounds": {},
+    "alias": "AB2_hP6_194_c_ad"
+}

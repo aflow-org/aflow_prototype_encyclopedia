@@ -1,0 +1,30 @@
+{
+    "uid": "KFCF",
+    "prototype": "Ag3Sb",
+    "prototype_tex": "Ag$_{3}$Sb",
+    "label": "A3B_oP4_25_abc_d-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3",
+        "z4"
+    ],
+    "parameter_values": [
+        3.008,
+        1.60505,
+        1.73338,
+        0.0,
+        0.33984,
+        0.48792,
+        0.81496
+    ],
+    "strukturbericht": null,
+    "title": "Dyscrasite (Ag$_{3.15}$Sb$_{0.85}$) Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B_oP4_25_abc_d-001"
+}

@@ -1,0 +1,43 @@
+{
+    "uid": "9AQF",
+    "prototype": "AlMg32Zn48",
+    "prototype_tex": "AlMg$_{32}$Zn$_{48}$",
+    "label": "AB32C48_cI162_204_a_2efg_2gh-001",
+    "parameter_symbol": [
+        "a",
+        "x2",
+        "x3",
+        "x4",
+        "y5",
+        "z5",
+        "y6",
+        "z6",
+        "y7",
+        "z7",
+        "x8",
+        "y8",
+        "z8"
+    ],
+    "parameter_values": [
+        14.16,
+        0.8203,
+        0.5998,
+        0.1836,
+        0.2942,
+        0.8806,
+        0.0908,
+        0.8499,
+        0.1748,
+        0.6993,
+        0.186,
+        0.5969,
+        0.832
+    ],
+    "strukturbericht": "D8_e",
+    "title": "Bergman [Mg$_{32}$(Al,Zn)$_{49}$] Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$D8_{e}$",
+    "compounds": {},
+    "alias": "AB32C48_cI162_204_a_2efg_2gh"
+}

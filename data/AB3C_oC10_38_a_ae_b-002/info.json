@@ -1,0 +1,32 @@
+{
+    "uid": "8STH",
+    "prototype": "BaO3Ti",
+    "prototype_tex": "BaO$_{3}$Ti",
+    "label": "AB3C_oC10_38_a_ae_b-002",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        3.99,
+        1.4208,
+        1.42406,
+        0.0,
+        0.49,
+        0.51,
+        0.253,
+        0.237
+    ],
+    "strukturbericht": null,
+    "title": "Orthorhombic BaTiO$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3C_oC10_38_a_ae_b-002"
+}

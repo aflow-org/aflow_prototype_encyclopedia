@@ -1,0 +1,24 @@
+{
+    "uid": "EXDQ",
+    "prototype": "P2Rh3",
+    "prototype_tex": "P$_{2}$Rh$_{3}$",
+    "label": "A2B3_tP5_115_g_ag-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "z3"
+    ],
+    "parameter_values": [
+        3.327,
+        1.84881,
+        0.253,
+        0.6308
+    ],
+    "strukturbericht": null,
+    "title": "Rh$_{3}$P$_{2}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B3_tP5_115_g_ag"
+}

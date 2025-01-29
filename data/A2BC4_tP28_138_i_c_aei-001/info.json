@@ -1,0 +1,30 @@
+{
+    "uid": "J1M9",
+    "prototype": "La2NiO4",
+    "prototype_tex": "La$_{2}$NiO$_{4}$",
+    "label": "A2BC4_tP28_138_i_c_aei-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "x4",
+        "z4",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        5.502,
+        2.27263,
+        0.4858,
+        0.0076,
+        0.1359,
+        0.0296,
+        0.6769
+    ],
+    "strukturbericht": null,
+    "title": "Tetragonal La$_{2}$NiO$_{4}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BC4_tP28_138_i_c_aei-001"
+}

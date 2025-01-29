@@ -1,0 +1,26 @@
+{
+    "uid": "YFFG",
+    "prototype": "In3Ir",
+    "prototype_tex": "In$_{3}$Ir",
+    "label": "A3B_tP16_136_cj_f-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3",
+        "z3"
+    ],
+    "parameter_values": [
+        6.9933,
+        1.02824,
+        0.3452,
+        0.15178,
+        0.25556
+    ],
+    "strukturbericht": null,
+    "title": "IrIn$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B_tP16_136_cj_f-001"
+}

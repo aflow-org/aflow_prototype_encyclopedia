@@ -1,0 +1,32 @@
+{
+    "uid": "SQXH",
+    "prototype": "Ba3Ge16Ir4",
+    "prototype_tex": "Ba$_{3}$Ge$_{16}$Ir$_{4}$",
+    "label": "A3B16C4_tI46_139_ad_2ejm_g2-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4",
+        "z5",
+        "x6",
+        "x7",
+        "z7"
+    ],
+    "parameter_values": [
+        6.5442,
+        3.40505,
+        0.1973,
+        0.3098,
+        0.0897,
+        0.23,
+        0.24239,
+        0.1291
+    ],
+    "strukturbericht": null,
+    "title": "Ba$_{3}$Ir$_{4}$Ge$_{16}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B16C4_tI46_139_ad_2ejm_g2-001"
+}

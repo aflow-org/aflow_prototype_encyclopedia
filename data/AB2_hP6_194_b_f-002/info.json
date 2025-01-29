@@ -1,0 +1,22 @@
+{
+    "uid": "Z5TL",
+    "prototype": "NbS2",
+    "prototype_tex": "NbS$_{2}$",
+    "label": "AB2_hP6_194_b_f-002",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2"
+    ],
+    "parameter_values": [
+        3.33,
+        3.57057,
+        0.125
+    ],
+    "strukturbericht": null,
+    "title": "Hexagonal High-Temperature NbS$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2_hP6_194_b_f-002"
+}

@@ -1,0 +1,18 @@
+{
+    "uid": "MH9E",
+    "prototype": "AlN",
+    "prototype_tex": "AlN",
+    "label": "AB_cI24_220_a_b-001",
+    "parameter_symbol": [
+        "a"
+    ],
+    "parameter_values": [
+        6.2951
+    ],
+    "strukturbericht": null,
+    "title": "Theoretical cI24 AlN Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_cI24_220_a_b"
+}

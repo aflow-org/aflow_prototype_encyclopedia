@@ -1,0 +1,26 @@
+{
+    "uid": "5J2E",
+    "prototype": "GeSb2Te4",
+    "prototype_tex": "GeSb$_{2}$Te$_{4}$",
+    "label": "AB2C4_hR7_166_a_c_2c-002",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3",
+        "x4"
+    ],
+    "parameter_values": [
+        4.21,
+        9.64373,
+        0.144,
+        0.29,
+        0.432
+    ],
+    "strukturbericht": null,
+    "title": "GeSb$_{2}$Te$_{4}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2C4_hR7_166_a_c_2c-002"
+}

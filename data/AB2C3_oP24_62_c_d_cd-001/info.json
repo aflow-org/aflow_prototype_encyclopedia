@@ -1,0 +1,43 @@
+{
+    "uid": "7QNH",
+    "prototype": "CuFe2S3",
+    "prototype_tex": "CuFe$_{2}$S$_{3}$",
+    "label": "AB2C3_oP24_62_c_d_cd-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "y3",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        6.231,
+        1.78414,
+        1.03788,
+        0.123,
+        0.0823,
+        0.2579,
+        0.4127,
+        0.1366,
+        0.087,
+        0.5853,
+        0.267,
+        0.0846,
+        0.912
+    ],
+    "strukturbericht": "E9_e",
+    "title": "Cubanite (CuFe$_{2}$S$_{3}$, $E9_{e}$) Structure",
+    "part": 2,
+    "legacy": false,
+    "strukturbericht_tex": "$E9_{e}$",
+    "compounds": {},
+    "alias": "AB2C3_oP24_62_c_d_cd"
+}

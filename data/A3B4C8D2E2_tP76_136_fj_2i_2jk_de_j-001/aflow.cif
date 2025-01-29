@@ -1,0 +1,65 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+
+# Chemical Composition:  Na3V2P2F3 (NVPF-F)
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/ A3B4C8D2E2_tP76_136_fj_2i_2jk_de_j-001 
+
+# Last updated on 2024/11/06
+
+data_Na3V2P2F3
+_pd_phase_name Na3V2P2F3
+_cell_length_a  9.0507100000
+_cell_length_b  9.0507100000
+_cell_length_c  10.6783670000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P4_{2}/mnm'
+_symmetry_Int_Tables_Number  136
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  -y+1/2,x+1/2,z+1/2
+  4  y+1/2,-x+1/2,z+1/2
+  5  -x+1/2,y+1/2,-z+1/2
+  6  x+1/2,-y+1/2,-z+1/2
+  7  y,x,-z
+  8  -y,-x,-z
+  9  -x,-y,-z
+  10  x,y,-z
+  11  y+1/2,-x+1/2,-z+1/2
+  12  -y+1/2,x+1/2,-z+1/2
+  13  x+1/2,-y+1/2,z+1/2
+  14  -x+1/2,y+1/2,z+1/2
+  15  -y,-x,z
+  16  y,x,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+P1  1.0000000000 0.0000000000 0.5000000000 0.2500000000  Biso 1.0 P  4 d
+P2  1.0000000000 0.0000000000 0.0000000000 0.2501856400  Biso 1.0 P  4 e
+F3  1.0000000000 0.2321357300 0.2321357300 0.0000000000  Biso 1.0 F  4 f
+Na4 1.0000000000 0.5179937500 0.2542586600 0.0000000000  Biso 1.0 Na 8 i
+Na5 0.5000000000 0.7953440500 0.0626498400 0.0000000000  Biso 1.0 Na 8 i
+F6  1.0000000000 0.2489493300 0.2489493300 0.3567410000  Biso 1.0 F  8 j
+O7  1.0000000000 0.0964641100 0.0964641100 0.1711796000  Biso 1.0 O  8 j
+O8  1.0000000000 0.4279403000 0.4279403000 0.1578461000  Biso 1.0 O  8 j
+V9  1.0000000000 0.2575014500 0.2575014500 0.1864763500  Biso 1.0 V  8 j
+O10 1.0000000000 0.0930767400 0.3897538200 0.1557903900  Biso 1.0 O 16 k

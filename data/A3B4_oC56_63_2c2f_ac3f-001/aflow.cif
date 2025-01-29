@@ -1,0 +1,63 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  As3Nb4
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A3B4_oC56_63_2c2f_ac3f-001
+
+# Last updated on 2024/08/01
+
+data_As24Nb32
+_pd_phase_name As24Nb32
+_cell_length_a  3.5160000000
+_cell_length_b  14.6600000000
+_cell_length_c  18.8300000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Cmcm'
+_symmetry_Int_Tables_Number  63
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z+1/2
+  3  -x,y,-z+1/2
+  4  x,-y,-z
+  5  -x,-y,-z
+  6  x,y,-z+1/2
+  7  x,-y,z+1/2
+  8  -x,y,z
+  9  x+1/2,y+1/2,z
+  10  -x+1/2,-y+1/2,z+1/2
+  11  -x+1/2,y+1/2,-z+1/2
+  12  x+1/2,-y+1/2,-z
+  13  -x+1/2,-y+1/2,-z
+  14  x+1/2,y+1/2,-z+1/2
+  15  x+1/2,-y+1/2,z+1/2
+  16  -x+1/2,y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Nb5 1.0000000000 -0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Nb 4 a
+As1 1.0000000000 0.0000000000 0.3075800000 0.2500000000  Biso 1.0 As 4 c
+As2 1.0000000000 -0.0000000000 0.5879000000 0.2500000000  Biso 1.0 As 4 c
+Nb6 1.0000000000 -0.0000000000 0.9467600000 0.2500000000  Biso 1.0 Nb 4 c
+As3 1.0000000000 -0.0000000000 0.0981800000 0.8821500000  Biso 1.0 As 8 f
+As4 1.0000000000 -0.0000000000 0.1577400000 0.0772500000  Biso 1.0 As 8 f
+Nb7 1.0000000000 -0.0000000000 0.2624100000 0.8382100000  Biso 1.0 Nb 8 f
+Nb8 1.0000000000 0.0000000000 0.4661600000 0.8800200000  Biso 1.0 Nb 8 f
+Nb9 1.0000000000 -0.0000000000 0.3317700000 0.0284800000  Biso 1.0 Nb 8 f

@@ -1,0 +1,30 @@
+{
+    "uid": "45S0",
+    "prototype": "AuF3",
+    "prototype_tex": "AuF$_{3}$",
+    "label": "AB3_hP24_179_b_ac-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        5.149,
+        3.15788,
+        0.8361,
+        0.7601,
+        0.3099,
+        0.5338,
+        0.661367
+    ],
+    "strukturbericht": null,
+    "title": "AuF$_{3}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3_hP24_179_b_ac"
+}

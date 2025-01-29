@@ -1,0 +1,32 @@
+{
+    "uid": "VGKE",
+    "prototype": "Co7Er2",
+    "prototype_tex": "Co$_{7}$Er$_{2}$",
+    "label": "A7B2_hR18_166_a2cdh_2c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3",
+        "x4",
+        "x5",
+        "x7",
+        "z7"
+    ],
+    "parameter_values": [
+        4.97301,
+        7.26122,
+        0.778,
+        0.888,
+        0.552,
+        0.646,
+        0.111,
+        0.611
+    ],
+    "strukturbericht": null,
+    "title": "Er$_{2}$Co$_{7}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A7B2_hR18_166_a2cdh_2c-001"
+}

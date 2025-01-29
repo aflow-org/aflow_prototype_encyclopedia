@@ -1,0 +1,30 @@
+{
+    "uid": "SPWJ",
+    "prototype": "Bi4MnTe7",
+    "prototype_tex": "Bi$_{4}$MnTe$_{7}$",
+    "label": "A4BC7_hP12_164_2d_a_bc2d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4",
+        "z5",
+        "z6",
+        "z7"
+    ],
+    "parameter_values": [
+        4.355,
+        5.46843,
+        0.7645,
+        0.8446,
+        0.5842,
+        0.3443,
+        0.0645
+    ],
+    "strukturbericht": null,
+    "title": "MnBi$_{4}$Te$_{7}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4BC7_hP12_164_2d_a_bc2d-001"
+}

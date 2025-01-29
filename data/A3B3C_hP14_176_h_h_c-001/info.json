@@ -1,0 +1,28 @@
+{
+    "uid": "BQR4",
+    "prototype": "Fe3Te3Tl",
+    "prototype_tex": "Fe$_{3}$Te$_{3}$Tl",
+    "label": "A3B3C_hP14_176_h_h_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "y2",
+        "x3",
+        "y3"
+    ],
+    "parameter_values": [
+        9.35,
+        0.451658,
+        0.830003,
+        0.850997,
+        0.954003,
+        0.642997
+    ],
+    "strukturbericht": null,
+    "title": "TlFe$_{3}$Te$_{3}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B3C_hP14_176_h_h_c"
+}

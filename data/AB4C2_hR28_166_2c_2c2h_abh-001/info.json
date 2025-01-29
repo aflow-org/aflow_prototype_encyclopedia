@@ -1,0 +1,40 @@
+{
+    "uid": "8BYU",
+    "prototype": "CuS4Ti2",
+    "prototype_tex": "CuS$_{4}$Ti$_{2}$",
+    "label": "AB4C2_hR28_166_2c_2c2h_abh-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "x4",
+        "x5",
+        "x6",
+        "x7",
+        "z7",
+        "x8",
+        "z8",
+        "x9",
+        "z9"
+    ],
+    "parameter_values": [
+        7.02423,
+        4.95914,
+        0.81241,
+        0.64551,
+        0.71108,
+        0.8768,
+        0.80064,
+        0.2717,
+        0.38543,
+        0.86602,
+        0.91456,
+        0.42793
+    ],
+    "strukturbericht": null,
+    "title": "Rhombohedral CuTi$_{2}$S$_{4}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB4C2_hR28_166_2c_2c2h_abh"
+}

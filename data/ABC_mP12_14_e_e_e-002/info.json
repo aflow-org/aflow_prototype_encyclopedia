@@ -1,0 +1,43 @@
+{
+    "uid": "RH3X",
+    "prototype": "AsFeS",
+    "prototype_tex": "AsFeS",
+    "label": "ABC_mP12_14_e_e_e-002",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x1",
+        "y1",
+        "z1",
+        "x2",
+        "y2",
+        "z2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        5.7612,
+        0.986617,
+        1.00108,
+        111.721,
+        0.85254,
+        0.13055,
+        0.13063,
+        0.71647,
+        0.99357,
+        0.70571,
+        0.3449,
+        0.1311,
+        0.6789
+    ],
+    "strukturbericht": "E0_7",
+    "title": "Arsenopyrite (FeAsS, $E0_{7}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$E0_{7}$",
+    "compounds": {},
+    "alias": "ABC_mP12_14_e_e_e"
+}

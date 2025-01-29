@@ -1,0 +1,22 @@
+{
+    "uid": "SRH0",
+    "prototype": "Al2CMo3",
+    "prototype_tex": "Al$_{2}$CMo$_{3}$",
+    "label": "A2BC3_cP24_213_c_a_d-001",
+    "parameter_symbol": [
+        "a",
+        "x2",
+        "y3"
+    ],
+    "parameter_values": [
+        6.84,
+        0.061,
+        0.206
+    ],
+    "strukturbericht": null,
+    "title": "Al$_{2}$Mo$_{3}$C Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BC3_cP24_213_c_a_d"
+}

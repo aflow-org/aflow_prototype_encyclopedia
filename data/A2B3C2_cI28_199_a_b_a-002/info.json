@@ -1,0 +1,24 @@
+{
+    "uid": "VYHG",
+    "prototype": "Cl2Hg3S2",
+    "prototype_tex": "Cl$_{2}$Hg$_{3}$S$_{2}$",
+    "label": "A2B3C2_cI28_199_a_b_a-002",
+    "parameter_symbol": [
+        "a",
+        "x1",
+        "x2",
+        "x3"
+    ],
+    "parameter_values": [
+        8.94,
+        0.26,
+        0.02,
+        0.4
+    ],
+    "strukturbericht": null,
+    "title": "Corderoite ($\\alpha$-Hg$_{3}$S$_{2}$Cl$_{2}$) Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B3C2_cI28_199_a_b_a-002"
+}

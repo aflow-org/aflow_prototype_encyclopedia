@@ -1,0 +1,34 @@
+{
+    "uid": "A0TL",
+    "prototype": "Ce2Ni7",
+    "prototype_tex": "Ce$_{2}$Ni$_{7}$",
+    "label": "A2B7_hP36_194_2f_aefhk-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "z3",
+        "z4",
+        "z5",
+        "x6",
+        "x7",
+        "z7"
+    ],
+    "parameter_values": [
+        4.98,
+        4.92369,
+        0.167,
+        0.0302,
+        0.1747,
+        0.6666,
+        0.835103,
+        0.833803,
+        0.4146
+    ],
+    "strukturbericht": null,
+    "title": "Ce$_{2}$Ni$_{7}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B7_hP36_194_2f_aefhk-001"
+}

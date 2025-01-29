@@ -1,0 +1,34 @@
+{
+    "uid": "KTF5",
+    "prototype": "AlF6K2Li",
+    "prototype_tex": "AlF$_{6}$K$_{2}$Li",
+    "label": "AB6C2D_hR20_166_ab_2h_2c_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "x4",
+        "x5",
+        "x6",
+        "z6",
+        "x7",
+        "z7"
+    ],
+    "parameter_values": [
+        5.62,
+        4.91459,
+        0.1278,
+        0.2803,
+        0.4033,
+        0.6082,
+        0.166,
+        0.8099,
+        0.2669
+    ],
+    "strukturbericht": null,
+    "title": "High Temperature K$_{2}$LiAlF$_{6}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB6C2D_hR20_166_ab_2h_2c_c-001"
+}

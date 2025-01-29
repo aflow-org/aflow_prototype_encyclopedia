@@ -1,0 +1,27 @@
+{
+    "uid": "C601",
+    "prototype": "BO4P",
+    "prototype_tex": "BO$_{4}$P",
+    "label": "AB4C_tI12_82_c_g_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        4.3404,
+        1.53216,
+        0.1405,
+        0.2579,
+        0.1271
+    ],
+    "strukturbericht": "H0_7",
+    "title": "BPO$_{4}$ ($H0_{7}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$H0_{7}$",
+    "compounds": {},
+    "alias": "AB4C_tI12_82_c_g_a"
+}

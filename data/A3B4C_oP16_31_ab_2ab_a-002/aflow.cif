@@ -1,0 +1,48 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Li3O4P
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A3B4C_oP16_31_ab_2ab_a-002
+
+# Last updated on 2024/08/01
+
+data_Li6O8P2
+_pd_phase_name Li6O8P2
+_cell_length_a  6.1295000000
+_cell_length_b  5.2546000000
+_cell_length_c  4.8705000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pmn2_{1}'
+_symmetry_Int_Tables_Number  31
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z+1/2
+  3  x+1/2,-y,z+1/2
+  4  -x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Li1 1.0000000000 0.0000000000 0.1760000000 0.4861000000  Biso 1.0 Li 2 a
+O3 1.0000000000 0.0000000000 0.1104000000 0.8959000000  Biso 1.0 O 2 a
+O4 1.0000000000 0.0000000000 0.8148000000 0.3131000000  Biso 1.0 O 2 a
+P6 1.0000000000 0.0000000000 0.8262000000 0.9904000000  Biso 1.0 P 2 a
+Li2 1.0000000000 0.2473000000 0.3270000000 0.0128000000  Biso 1.0 Li 4 b
+O5 1.0000000000 0.2069000000 0.6849000000 0.9027000000  Biso 1.0 O 4 b

@@ -1,0 +1,27 @@
+{
+    "uid": "WZKM",
+    "prototype": "B5Mo2",
+    "prototype_tex": "B$_{5}$Mo$_{2}$",
+    "label": "A5B2_hR7_166_a2c_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3",
+        "x4"
+    ],
+    "parameter_values": [
+        3.011,
+        6.95119,
+        0.314,
+        0.16667,
+        0.425
+    ],
+    "strukturbericht": "D8_i",
+    "title": "Mo$_{2}$B$_{5}$ ($D8_{i}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$D8_{i}$",
+    "compounds": {},
+    "alias": "A5B2_hR7_166_a2c_c"
+}

@@ -1,0 +1,28 @@
+{
+    "uid": "VZUF",
+    "prototype": "P2Pd3S8",
+    "prototype_tex": "P$_{2}$Pd$_{3}$S$_{8}$",
+    "label": "A2B3C8_hP13_164_d_e_di-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        6.842,
+        1.05913,
+        0.6684,
+        0.4052,
+        0.178623,
+        0.8127
+    ],
+    "strukturbericht": null,
+    "title": "Pd$_{3}$P$_{2}$S$_{8}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B3C8_hP13_164_d_e_di-001"
+}

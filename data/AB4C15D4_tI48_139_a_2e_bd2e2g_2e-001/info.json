@@ -1,0 +1,36 @@
+{
+    "uid": "Y186",
+    "prototype": "BaBi4O15Ti4",
+    "prototype_tex": "BaBi$_{4}$O$_{15}$Ti$_{4}$",
+    "label": "AB4C15D4_tI48_139_a_2e_bd2e2g_2e-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z4",
+        "z5",
+        "z6",
+        "z7",
+        "z8",
+        "z9",
+        "z10",
+        "z11"
+    ],
+    "parameter_values": [
+        3.8936,
+        10.8618,
+        0.10646,
+        0.22076,
+        0.4053,
+        0.30467,
+        0.4494,
+        0.3465,
+        0.0495,
+        0.1437
+    ],
+    "strukturbericht": null,
+    "title": "High Temperature BaBi$_{4}$Ti$_{4}$O$_{15}$ $m = 4$ Aurivillius Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB4C15D4_tI48_139_a_2e_bd2e2g_2e-001"
+}

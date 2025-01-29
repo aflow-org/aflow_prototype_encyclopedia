@@ -1,0 +1,28 @@
+{
+    "uid": "LY1V",
+    "prototype": "Bi2Ni3S2",
+    "prototype_tex": "Bi$_{2}$Ni$_{3}$S$_{2}$",
+    "label": "AB2C_oP8_51_e_be_f-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z2",
+        "z3",
+        "z4"
+    ],
+    "parameter_values": [
+        5.545,
+        0.730748,
+        1.03354,
+        0.7423,
+        0.204,
+        0.256
+    ],
+    "strukturbericht": null,
+    "title": "Parkerite (Ni$_{3}$Bi$_{2}$S$_{4}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2C_oP8_51_e_be_f"
+}

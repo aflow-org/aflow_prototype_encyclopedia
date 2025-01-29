@@ -1,0 +1,34 @@
+{
+    "uid": "14M3",
+    "prototype": "Bi2O3",
+    "prototype_tex": "Bi$_{2}$O$_{3}$",
+    "label": "A2B3_hP20_186_bc_2c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        7.605,
+        0.780671,
+        0.0,
+        0.174003,
+        0.549,
+        0.460003,
+        0.248,
+        0.873003,
+        0.434
+    ],
+    "strukturbericht": null,
+    "title": "HPC-Bi$_{2}$O$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B3_hP20_186_bc_2c-001"
+}

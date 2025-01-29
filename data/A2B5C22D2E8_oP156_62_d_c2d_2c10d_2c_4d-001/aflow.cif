@@ -1,0 +1,68 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Fe2Mg5O22(OH)2Si8 anthophyllite S44
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A2B5C22D2E8_oP156_62_d_c2d_2c10d_2c_4d-001
+
+# Last updated on 2024/08/01
+
+data_Fe8Mg20O88Oh8Si32
+_pd_phase_name Fe8Mg20O88Oh8Si32
+_cell_length_a  18.5440000000
+_cell_length_b  18.0260000000
+_cell_length_c  5.2820000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pnma'
+_symmetry_Int_Tables_Number  62
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z+1/2
+  3  -x,y+1/2,-z
+  4  x+1/2,-y+1/2,-z+1/2
+  5  -x,-y,-z
+  6  x+1/2,y,-z+1/2
+  7  x,-y+1/2,z
+  8  -x+1/2,y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Mg2 1.0000000000 0.1255000000 0.2500000000 0.8930000000  Biso 1.0 Mg 4 c
+O5 1.0000000000 0.7975000000 0.2500000000 0.4595000000  Biso 1.0 O 4 c
+O6 1.0000000000 0.9536000000 0.2500000000 0.7780000000  Biso 1.0 O 4 c
+OH17 1.0000000000 0.1831000000 0.2500000000 0.5573000000  Biso 1.0 OH 4 c
+OH18 1.0000000000 0.0697000000 0.2500000000 0.2270000000  Biso 1.0 OH 4 c
+Fe1 1.0000000000 0.1239000000 0.9906000000 0.3897000000  Biso 1.0 Fe 8 d
+Mg3 1.0000000000 0.1251000000 0.1634000000 0.3930000000  Biso 1.0 Mg 8 d
+Mg4 1.0000000000 0.1250000000 0.0731000000 0.8916000000  Biso 1.0 Mg 8 d
+O10 1.0000000000 0.0631000000 0.0772000000 0.2209000000  Biso 1.0 O 8 d
+O11 1.0000000000 0.1868000000 0.9988000000 0.0743000000  Biso 1.0 O 8 d
+O12 1.0000000000 0.0668000000 0.9932000000 0.7092000000  Biso 1.0 O 8 d
+O13 1.0000000000 0.1973000000 0.8822000000 0.3321000000  Biso 1.0 O 8 d
+O14 1.0000000000 0.0504000000 0.8882000000 0.0565000000  Biso 1.0 O 8 d
+O15 1.0000000000 0.2003000000 0.8690000000 0.8288000000  Biso 1.0 O 8 d
+O16 1.0000000000 0.0486000000 0.8596000000 0.5504000000  Biso 1.0 O 8 d
+O7 1.0000000000 0.1825000000 0.1635000000 0.0599000000  Biso 1.0 O 8 d
+O8 1.0000000000 0.0682000000 0.1636000000 0.7275000000  Biso 1.0 O 8 d
+O9 1.0000000000 0.1857000000 0.0773000000 0.5630000000  Biso 1.0 O 8 d
+Si19 1.0000000000 0.2305000000 0.8345000000 0.5670000000  Biso 1.0 Si 8 d
+Si20 1.0000000000 0.0186000000 0.8336000000 0.2743000000  Biso 1.0 Si 8 d
+Si21 1.0000000000 0.2271000000 0.9202000000 0.0637000000  Biso 1.0 Si 8 d
+Si22 1.0000000000 0.0245000000 0.9183000000 0.7754000000  Biso 1.0 Si 8 d

@@ -1,0 +1,40 @@
+{
+    "uid": "6RE9",
+    "prototype": "BiI",
+    "prototype_tex": "BiI",
+    "label": "AB_mC16_12_2i_2i-003",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        14.444,
+        0.308502,
+        0.729576,
+        107.64,
+        0.14,
+        0.952,
+        0.792,
+        0.69,
+        0.5,
+        0.832,
+        0.153,
+        0.59
+    ],
+    "strukturbericht": null,
+    "title": "$\\gamma$-BiI Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_mC16_12_2i_2i-003"
+}

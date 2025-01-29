@@ -1,0 +1,24 @@
+{
+    "uid": "XLRT",
+    "prototype": "B2C2La",
+    "prototype_tex": "B$_{2}$C$_{2}$La",
+    "label": "A2B2C_tP10_131_j_l_f-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3"
+    ],
+    "parameter_values": [
+        3.8218,
+        2.07329,
+        0.274,
+        0.673
+    ],
+    "strukturbericht": null,
+    "title": "LaB$_{2}$C$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B2C_tP10_131_j_l_f-001"
+}

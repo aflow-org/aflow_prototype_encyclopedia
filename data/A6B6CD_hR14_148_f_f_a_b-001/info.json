@@ -1,0 +1,33 @@
+{
+    "uid": "5954",
+    "prototype": "Cl6(H2O)6NiSn",
+    "prototype_tex": "Cl$_{6}$(H$_{2}$O)$_{6}$NiSn",
+    "label": "A6B6CD_hR14_148_f_f_a_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "y3",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        10.5997,
+        1.01327,
+        0.81,
+        0.44,
+        0.64,
+        0.31,
+        0.94,
+        0.14001
+    ],
+    "strukturbericht": "I6_1",
+    "title": "Ni(H$_{2}$O)$_{6}$SnCl$_{6}$ ($I6_{1}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$I6_{1}$",
+    "compounds": {},
+    "alias": "A6B6CD_hR14_148_f_f_b_a"
+}

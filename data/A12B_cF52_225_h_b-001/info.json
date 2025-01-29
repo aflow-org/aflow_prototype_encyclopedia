@@ -1,0 +1,21 @@
+{
+    "uid": "JTKK",
+    "prototype": "B12U",
+    "prototype_tex": "B$_{12}$U",
+    "label": "A12B_cF52_225_h_b-001",
+    "parameter_symbol": [
+        "a",
+        "y2"
+    ],
+    "parameter_values": [
+        7.468,
+        0.166
+    ],
+    "strukturbericht": "D2_f",
+    "title": "UB$_{12}$ ($D2_{f}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$D2_{f}$",
+    "compounds": {},
+    "alias": "A12B_cF52_225_i_a"
+}

@@ -1,0 +1,26 @@
+{
+    "uid": "MK58",
+    "prototype": "H10Hf",
+    "prototype_tex": "H$_{10}$Hf",
+    "label": "A10B_hP22_194_bhj_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "x4",
+        "y4"
+    ],
+    "parameter_values": [
+        4.633,
+        0.562702,
+        0.115003,
+        0.375003,
+        0.0769967
+    ],
+    "strukturbericht": null,
+    "title": "Proposed 300 GPa HfH$_{10}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A10B_hP22_194_bhj_c"
+}

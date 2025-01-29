@@ -1,0 +1,40 @@
+{
+    "uid": "X3MC",
+    "prototype": "FeNi",
+    "prototype_tex": "FeNi",
+    "label": "AB_mP4_6_2a_2b-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        3.581,
+        1.00028,
+        1.00168,
+        90.04,
+        0.492,
+        0.006,
+        0.989,
+        0.48,
+        0.0,
+        0.0,
+        0.518,
+        0.507
+    ],
+    "strukturbericht": null,
+    "title": "Tetrataenite (FeNi) Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_mP4_6_2b_2a"
+}

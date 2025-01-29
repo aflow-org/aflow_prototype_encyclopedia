@@ -1,0 +1,22 @@
+{
+    "uid": "T0MK",
+    "prototype": "B3H12Y",
+    "prototype_tex": "B$_{3}$H$_{12}$Y",
+    "label": "A3B12C_cF128_226_c_i_b-001",
+    "parameter_symbol": [
+        "a",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        11.0086,
+        0.4075,
+        0.3104
+    ],
+    "strukturbericht": null,
+    "title": "High-Temperature Y(BH$_{4}$)$_{3}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B12C_cF128_226_c_i_b-001"
+}

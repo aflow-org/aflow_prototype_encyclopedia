@@ -1,0 +1,31 @@
+{
+    "uid": "6TN8",
+    "prototype": "H2Na2O9Si2Zr",
+    "prototype_tex": "H$_{2}$Na$_{2}$O$_{9}$Si$_{2}$Zr",
+    "label": "A3B2C9D3E_hP36_194_g_f_hk_h_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "x4",
+        "x5",
+        "x6",
+        "z6"
+    ],
+    "parameter_values": [
+        7.39,
+        1.35995,
+        0.08,
+        0.47,
+        0.2,
+        0.136,
+        0.125
+    ],
+    "strukturbericht": "S3_4(II)",
+    "title": "$S3_{4}$(II) (Catapleiite, Na$_{2}$Zr(SiO$_{3}$)$_{3} \\cdot$H$_{2}$O) Structure ({\\em Obsolete})",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$S3_{4}$(II)",
+    "compounds": {},
+    "alias": "A3B2C9D3E_hP36_194_g_f_hk_h_a"
+}

@@ -1,0 +1,20 @@
+{
+    "uid": "BTF5",
+    "prototype": "Li",
+    "prototype_tex": "Li",
+    "label": "A_cI16_220_c-001",
+    "parameter_symbol": [
+        "a",
+        "x1"
+    ],
+    "parameter_values": [
+        5.2716,
+        0.049
+    ],
+    "strukturbericht": null,
+    "title": "High-pressure cI16 Li Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A_cI16_220_c"
+}

@@ -1,0 +1,36 @@
+{
+    "uid": "T892",
+    "prototype": "Sb2TlZn2",
+    "prototype_tex": "Sb$_{2}$TlZn$_{2}$",
+    "label": "A2BC2_tI20_79_c_2a_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "x3",
+        "y3",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        8.649,
+        0.842525,
+        0.0,
+        0.5104,
+        0.163,
+        0.663,
+        0.7804,
+        0.133,
+        0.365,
+        0.9144
+    ],
+    "strukturbericht": null,
+    "title": "TlZn$_{2}$Sb$_{2}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BC2_tI20_79_c_2a_c"
+}

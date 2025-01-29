@@ -1,0 +1,21 @@
+{
+    "uid": "C9G2",
+    "prototype": "CuTi",
+    "prototype_tex": "CuTi",
+    "label": "AB_tP2_123_a_d-002",
+    "parameter_symbol": [
+        "a",
+        "c/a"
+    ],
+    "parameter_values": [
+        4.44,
+        0.643243
+    ],
+    "strukturbericht": "L2_a",
+    "title": "$\\delta$-CuTi ($L2_{a}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$L2_{a}$",
+    "compounds": {},
+    "alias": "AB_tP2_123_a_d.CuTi"
+}

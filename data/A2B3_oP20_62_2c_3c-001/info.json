@@ -1,0 +1,43 @@
+{
+    "uid": "KS86",
+    "prototype": "C2Cr3",
+    "prototype_tex": "C$_{2}$Cr$_{3}$",
+    "label": "A2B3_oP20_62_2c_3c-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        5.5329,
+        0.511305,
+        2.0734,
+        0.1008,
+        0.2055,
+        0.2432,
+        0.9536,
+        0.0157,
+        0.4015,
+        0.1808,
+        0.7737,
+        0.8691,
+        0.9312
+    ],
+    "strukturbericht": "D5_10",
+    "title": "Tongbaite (Cr$_{3}$C$_{2}$, $D5_{10}$) Structure",
+    "part": 2,
+    "legacy": false,
+    "strukturbericht_tex": "$D5_{10}$",
+    "compounds": {},
+    "alias": "A2B3_oP20_62_2c_3c"
+}

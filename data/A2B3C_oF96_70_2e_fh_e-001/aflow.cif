@@ -1,0 +1,75 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Na2O3Pt
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A2B3C_oF96_70_2e_fh_e-001
+
+# Last updated on 2024/08/01
+
+data_Na32O48Pt16
+_pd_phase_name Na32O48Pt16
+_cell_length_a  18.8300000000
+_cell_length_b  6.2800000000
+_cell_length_c  9.0600000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Fddd'
+_symmetry_Int_Tables_Number  70
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+3/4,-y+3/4,z
+  3  -x+3/4,y,-z+3/4
+  4  x,-y+3/4,-z+3/4
+  5  -x,-y,-z
+  6  x+1/4,y+1/4,-z
+  7  x+1/4,-y,z+1/4
+  8  -x,y+1/4,z+1/4
+  9  x,y+1/2,z+1/2
+  10  -x+3/4,-y+1/4,z+1/2
+  11  -x+3/4,y+1/2,-z+1/4
+  12  x,-y+1/4,-z+1/4
+  13  -x,-y+1/2,-z+1/2
+  14  x+1/4,y+3/4,-z+1/2
+  15  x+1/4,-y+1/2,z+3/4
+  16  -x,y+3/4,z+3/4
+  17  x+1/2,y,z+1/2
+  18  -x+1/4,-y+3/4,z+1/2
+  19  -x+1/4,y,-z+1/4
+  20  x+1/2,-y+3/4,-z+1/4
+  21  -x+1/2,-y,-z+1/2
+  22  x+3/4,y+1/4,-z+1/2
+  23  x+3/4,-y,z+3/4
+  24  -x+1/2,y+1/4,z+3/4
+  25  x+1/2,y+1/2,z
+  26  -x+1/4,-y+1/4,z
+  27  -x+1/4,y+1/2,-z+3/4
+  28  x+1/2,-y+1/4,-z+3/4
+  29  -x+1/2,-y+1/2,-z
+  30  x+3/4,y+3/4,-z
+  31  x+3/4,-y+1/2,z+1/4
+  32  -x+1/2,y+3/4,z+1/4
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Na1 1.0000000000 0.3830000000 0.1250000000 0.1250000000  Biso 1.0 Na 16 e
+Na2 1.0000000000 0.7040000000 0.1250000000 0.1250000000  Biso 1.0 Na 16 e
+Pt5 1.0000000000 0.2088000000 0.1250000000 0.1250000000  Biso 1.0 Pt 16 e
+O3 1.0000000000 0.1250000000 0.9140000000 0.1250000000  Biso 1.0 O 16 f
+O4 1.0000000000 0.7830000000 0.4090000000 0.1480000000  Biso 1.0 O 32 h

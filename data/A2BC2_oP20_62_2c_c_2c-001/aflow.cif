@@ -1,0 +1,51 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Ni2TaTe2
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A2BC2_oP20_62_2c_c_2c-001
+
+# Last updated on 2024/08/01
+
+data_Ni8Ta4Te8
+_pd_phase_name Ni8Ta4Te8
+_cell_length_a  6.4880000000
+_cell_length_b  3.5660000000
+_cell_length_c  17.0140000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pnma'
+_symmetry_Int_Tables_Number  62
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z+1/2
+  3  -x,y+1/2,-z
+  4  x+1/2,-y+1/2,-z+1/2
+  5  -x,-y,-z
+  6  x+1/2,y,-z+1/2
+  7  x,-y+1/2,z
+  8  -x+1/2,y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Ni1 1.0000000000 0.3994000000 0.2500000000 0.6835600000  Biso 1.0 Ni 4 c
+Ni2 1.0000000000 0.2883000000 0.2500000000 0.8185300000  Biso 1.0 Ni 4 c
+Ta3 1.0000000000 0.9048400000 0.2500000000 0.2768100000  Biso 1.0 Ta 4 c
+Te4 1.0000000000 0.9087400000 0.2500000000 0.1046900000  Biso 1.0 Te 4 c
+Te5 1.0000000000 0.0958700000 0.2500000000 0.5914200000  Biso 1.0 Te 4 c

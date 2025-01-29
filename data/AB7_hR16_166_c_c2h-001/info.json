@@ -1,0 +1,32 @@
+{
+    "uid": "56NK",
+    "prototype": "TaTi7",
+    "prototype_tex": "TaTi$_{7}$",
+    "label": "AB7_hR16_166_c_c2h-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3",
+        "z3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        9.25193,
+        1.22474,
+        0.375,
+        0.125,
+        0.125,
+        0.625,
+        0.625,
+        0.125
+    ],
+    "strukturbericht": null,
+    "title": "TaTi$_{7}$ (BCC SQS-16) Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB7_hR16_166_c_c2h"
+}

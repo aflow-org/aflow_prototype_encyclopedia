@@ -1,0 +1,30 @@
+{
+    "uid": "J362",
+    "prototype": "FeNaS2",
+    "prototype_tex": "FeNaS$_{2}$",
+    "label": "ABC2_oI16_23_ac_e_k-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        10.83,
+        0.577101,
+        0.498615,
+        0.72,
+        0.885,
+        0.2,
+        0.25
+    ],
+    "strukturbericht": null,
+    "title": "NaFeS$_{2}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC2_oI16_23_ab_i_k"
+}

@@ -1,0 +1,60 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Mn3Si5U2
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A3B5C2_tP40_128_dh_egh_h-001
+
+# Last updated on 2024/08/01
+
+data_Mn12Si20U8
+_pd_phase_name Mn12Si20U8
+_cell_length_a  10.5700000000
+_cell_length_b  10.5700000000
+_cell_length_c  5.4350000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P4/mnc'
+_symmetry_Int_Tables_Number  128
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  -y,x,z
+  4  y,-x,z
+  5  -x+1/2,y+1/2,-z+1/2
+  6  x+1/2,-y+1/2,-z+1/2
+  7  y+1/2,x+1/2,-z+1/2
+  8  -y+1/2,-x+1/2,-z+1/2
+  9  -x,-y,-z
+  10  x,y,-z
+  11  y,-x,-z
+  12  -y,x,-z
+  13  x+1/2,-y+1/2,z+1/2
+  14  -x+1/2,y+1/2,z+1/2
+  15  -y+1/2,-x+1/2,z+1/2
+  16  y+1/2,x+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Mn1 1.0000000000 0.0000000000 0.5000000000 0.2500000000  Biso 1.0 Mn 4 d
+Si3 1.0000000000 0.0000000000 0.0000000000 0.2434000000  Biso 1.0 Si 4 e
+Si4 1.0000000000 0.1839000000 0.6839000000 0.2500000000  Biso 1.0 Si 8 g
+Mn2 1.0000000000 0.3779000000 0.3401000000 0.0000000000  Biso 1.0 Mn 8 h
+Si5 1.0000000000 0.1909000000 0.4852000000 0.0000000000  Biso 1.0 Si 8 h
+U6 1.0000000000 0.0704000000 0.2394000000 0.0000000000  Biso 1.0 U 8 h

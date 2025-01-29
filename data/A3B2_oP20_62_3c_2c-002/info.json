@@ -1,0 +1,42 @@
+{
+    "uid": "GDA9",
+    "prototype": "Ge3Pt2",
+    "prototype_tex": "Ge$_{3}$Pt$_{2}$",
+    "label": "A3B2_oP20_62_3c_2c-002",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        16.4411,
+        0.205406,
+        0.377207,
+        0.4299,
+        0.94399,
+        0.23028,
+        0.66151,
+        0.11383,
+        0.91432,
+        0.49445,
+        0.30549,
+        0.16973,
+        0.29162
+    ],
+    "strukturbericht": null,
+    "title": "Pt$_{2}$Ge$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B2_oP20_62_3c_2c-002"
+}

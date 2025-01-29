@@ -1,0 +1,22 @@
+{
+    "uid": "GUVX",
+    "prototype": "InNbS2",
+    "prototype_tex": "InNbS$_{2}$",
+    "label": "ABC2_hP4_187_a_b_h-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3"
+    ],
+    "parameter_values": [
+        3.0771,
+        2.572942,
+        0.32
+    ],
+    "strukturbericht": null,
+    "title": "InNbS$_{2}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC2_hP4_187_a_b_h-001"
+}

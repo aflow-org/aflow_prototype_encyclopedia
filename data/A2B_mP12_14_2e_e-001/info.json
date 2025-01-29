@@ -1,0 +1,43 @@
+{
+    "uid": "5CSN",
+    "prototype": "O2Zr",
+    "prototype_tex": "O$_{2}$Zr",
+    "label": "A2B_mP12_14_2e_e-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x1",
+        "y1",
+        "z1",
+        "x2",
+        "y2",
+        "z2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        5.1505,
+        1.01186,
+        1.03239,
+        99.23,
+        0.93,
+        0.3317,
+        0.6553,
+        0.5504,
+        0.7569,
+        0.5208,
+        0.7246,
+        0.0395,
+        0.7917
+    ],
+    "strukturbericht": "C43",
+    "title": "Baddeleyite (ZrO$_{2}$, $C43$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$C43$",
+    "compounds": {},
+    "alias": "A2B_mP12_14_2e_e"
+}

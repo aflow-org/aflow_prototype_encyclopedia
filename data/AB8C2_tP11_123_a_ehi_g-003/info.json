@@ -1,0 +1,26 @@
+{
+    "uid": "G7WP",
+    "prototype": "CoGa8Ho2",
+    "prototype_tex": "CoGa$_{8}$Ho$_{2}$",
+    "label": "AB8C2_tP11_123_a_ehi_g-003",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4",
+        "z5"
+    ],
+    "parameter_values": [
+        4.217,
+        2.60138,
+        0.3093,
+        0.2933,
+        0.1189
+    ],
+    "strukturbericht": null,
+    "title": "Ho$_{2}$CoGa$_{8}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB8C2_tP11_123_a_ehi_g-003"
+}

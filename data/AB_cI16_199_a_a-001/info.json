@@ -1,0 +1,23 @@
+{
+    "uid": "TFMD",
+    "prototype": "CoU",
+    "prototype_tex": "CoU",
+    "label": "AB_cI16_199_a_a-001",
+    "parameter_symbol": [
+        "a",
+        "x1",
+        "x2"
+    ],
+    "parameter_values": [
+        6.3557,
+        0.294,
+        0.0347
+    ],
+    "strukturbericht": "B_a",
+    "title": "CoU ($B_{a}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$B_{a}$",
+    "compounds": {},
+    "alias": "AB_cI16_199_a_a"
+}

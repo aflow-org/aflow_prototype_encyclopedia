@@ -1,0 +1,28 @@
+{
+    "uid": "4LGS",
+    "prototype": "Ba3O9SrTa2",
+    "prototype_tex": "Ba$_{3}$O$_{9}$SrTa$_{2}$",
+    "label": "A3B9CD2_hP15_164_ad_ei_b_d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4",
+        "x6",
+        "z6"
+    ],
+    "parameter_values": [
+        5.95,
+        1.25546,
+        0.66667,
+        0.16667,
+        0.16667,
+        0.33333
+    ],
+    "strukturbericht": null,
+    "title": "Ba$_{3}$SrTa$_{2}$O$_{9}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B9CD2_hP15_164_ad_ei_b_d-001"
+}

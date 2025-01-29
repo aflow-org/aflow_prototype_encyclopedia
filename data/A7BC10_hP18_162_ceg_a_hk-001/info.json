@@ -1,0 +1,28 @@
+{
+    "uid": "RQ68",
+    "prototype": "Au7IP10",
+    "prototype_tex": "Au$_{7}$IP$_{10}$",
+    "label": "A7BC10_hP18_162_ceg_a_hk-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z5",
+        "x6",
+        "z6"
+    ],
+    "parameter_values": [
+        6.18,
+        1.79968,
+        0.276,
+        0.2087,
+        0.3756,
+        0.6982
+    ],
+    "strukturbericht": null,
+    "title": "Trigonal Au$_{7}$P$_{10}$I Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A7BC10_hP18_162_ceg_a_hk-001"
+}

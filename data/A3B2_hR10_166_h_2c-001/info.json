@@ -1,0 +1,28 @@
+{
+    "uid": "KQQW",
+    "prototype": "Fe3Sn2",
+    "prototype_tex": "Fe$_{3}$Sn$_{2}$",
+    "label": "A3B2_hR10_166_h_2c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3",
+        "z3"
+    ],
+    "parameter_values": [
+        5.37872,
+        3.6929,
+        0.8961,
+        0.6682,
+        0.3928,
+        0.8748
+    ],
+    "strukturbericht": null,
+    "title": "Fe$_{3}$Sn$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B2_hR10_166_h_2c-001"
+}

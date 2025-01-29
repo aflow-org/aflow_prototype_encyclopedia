@@ -1,0 +1,94 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  (H2O)5O40PW12 12-phosphotungstic acid H416
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A5B40CD12_cP116_224_bd_e3k_a_k-001
+
+# Last updated on 2024/08/01
+
+data_H10O80P2W24
+_pd_phase_name H10O80P2W24
+_cell_length_a  12.1410000000
+_cell_length_b  12.1410000000
+_cell_length_c  12.1410000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pn-3m'
+_symmetry_Int_Tables_Number  224
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y+1/2,z
+  3  -x+1/2,y,-z+1/2
+  4  x,-y+1/2,-z+1/2
+  5  z,x,y
+  6  z,-x+1/2,-y+1/2
+  7  -z+1/2,-x+1/2,y
+  8  -z+1/2,x,-y+1/2
+  9  y,z,x
+  10  -y+1/2,z,-x+1/2
+  11  y,-z+1/2,-x+1/2
+  12  -y+1/2,-z+1/2,x
+  13  y+1/2,x+1/2,-z
+  14  -y,-x,-z
+  15  y+1/2,-x,z+1/2
+  16  -y,x+1/2,z+1/2
+  17  x+1/2,z+1/2,-y
+  18  -x,z+1/2,y+1/2
+  19  -x,-z,-y
+  20  x+1/2,-z,y+1/2
+  21  z+1/2,y+1/2,-x
+  22  z+1/2,-y,x+1/2
+  23  -z,y+1/2,x+1/2
+  24  -z,-y,-x
+  25  -x,-y,-z
+  26  x+1/2,y+1/2,-z
+  27  x+1/2,-y,z+1/2
+  28  -x,y+1/2,z+1/2
+  29  -z,-x,-y
+  30  -z,x+1/2,y+1/2
+  31  z+1/2,x+1/2,-y
+  32  z+1/2,-x,y+1/2
+  33  -y,-z,-x
+  34  y+1/2,-z,x+1/2
+  35  -y,z+1/2,x+1/2
+  36  y+1/2,z+1/2,-x
+  37  -y+1/2,-x+1/2,z
+  38  y,x,z
+  39  -y+1/2,x,-z+1/2
+  40  y,-x+1/2,-z+1/2
+  41  -x+1/2,-z+1/2,y
+  42  x,-z+1/2,-y+1/2
+  43  x,z,y
+  44  -x+1/2,z,-y+1/2
+  45  -z+1/2,-y+1/2,x
+  46  -z+1/2,y,-x+1/2
+  47  z,-y+1/2,-x+1/2
+  48  z,y,x
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+P7 1.0000000000 0.2500000000 0.2500000000 0.2500000000  Biso 1.0 P 2 a
+H1 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 H 4 b
+H2 1.0000000000 0.2500000000 0.7500000000 0.7500000000  Biso 1.0 H 6 d
+O3 1.0000000000 0.3315400000 0.3315400000 0.3315400000  Biso 1.0 O 8 e
+O4 1.0000000000 0.1701100000 0.1701100000 0.0160800000  Biso 1.0 O 24 k
+O5 1.0000000000 0.3727200000 0.3727200000 0.5415700000  Biso 1.0 O 24 k
+O6 1.0000000000 0.9378300000 0.9378300000 0.2417600000  Biso 1.0 O 24 k
+W8 1.0000000000 0.4555000000 0.4555000000 0.2557700000  Biso 1.0 W 24 k

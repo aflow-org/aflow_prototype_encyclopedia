@@ -1,0 +1,21 @@
+{
+    "uid": "RUSN",
+    "prototype": "Po",
+    "prototype_tex": "Po",
+    "label": "A_hR1_166_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a"
+    ],
+    "parameter_values": [
+        5.07846,
+        0.968139
+    ],
+    "strukturbericht": "A_i",
+    "title": "$\\beta$-Po ($A_i$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$A_{i}$",
+    "compounds": {},
+    "alias": "A_hR1_166_a.beta-Po"
+}

@@ -1,0 +1,22 @@
+{
+    "uid": "XMCY",
+    "prototype": "NiO3Pr",
+    "prototype_tex": "NiO$_{3}$Pr",
+    "label": "AB3C_hR10_167_b_e_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3"
+    ],
+    "parameter_values": [
+        5.45768,
+        2.40134,
+        0.6946
+    ],
+    "strukturbericht": null,
+    "title": "PrNiO$_{3}$ Rhombohedral Perovskite Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3C_hR10_167_b_e_a"
+}

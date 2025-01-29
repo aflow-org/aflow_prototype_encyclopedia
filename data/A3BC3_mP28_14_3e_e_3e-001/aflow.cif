@@ -1,0 +1,49 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  K3SnTe3
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/ A3BC3_mP28_14_3e_e_3e-001
+
+# Last updated on 2024/08/06
+
+data_K3SnTe3
+_pd_phase_name K3SnTe3
+_cell_length_a  9.5900000000
+_cell_length_b  13.6540000000
+_cell_length_c  9.6059999982
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  116.8400000300
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P2_{1}/c'
+_symmetry_Int_Tables_Number  14
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y+1/2,-z+1/2
+  3  -x,-y,-z
+  4  x,-y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+K1  1.0000000000 0.9452000000 0.2819000000 0.7967000000  Biso 1.0 K  4 e
+K2  1.0000000000 0.7238000000 0.9346000000 0.2071000000  Biso 1.0 K  4 e
+K3  1.0000000000 0.4982000000 0.3431000000 0.0109000000  Biso 1.0 K  4 e
+Sn4 1.0000000000 0.1526000000 0.0080000000 0.1222000000  Biso 1.0 Sn 4 e
+Te5 1.0000000000 0.1447000000 0.9752000000 0.3988000000  Biso 1.0 Te 4 e
+Te6 1.0000000000 0.2603000000 0.1921000000 0.1177000000  Biso 1.0 Te 4 e
+Te7 1.0000000000 0.3283000000 0.8671000000 0.0748000000  Biso 1.0 Te 4 e

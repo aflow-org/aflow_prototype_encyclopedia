@@ -1,0 +1,26 @@
+{
+    "uid": "DCW7",
+    "prototype": "HgPt2Se3",
+    "prototype_tex": "HgPt$_{2}$Se$_{3}$",
+    "label": "AB2C3_hP12_164_d_ae_i-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        7.3477,
+        0.720702,
+        0.3507,
+        0.819603,
+        0.2492
+    ],
+    "strukturbericht": null,
+    "title": "Jacutingaite (Pt$_{2}$HgSe$_{3}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2C3_hP12_164_d_ae_i"
+}

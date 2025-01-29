@@ -1,0 +1,20 @@
+{
+    "uid": "4JP4",
+    "prototype": "CsHgN3O6",
+    "prototype_tex": "CsHgN$_{3}$O$_{6}$",
+    "label": "ABC3D6_cP11_200_a_b_c_f-001",
+    "parameter_symbol": [
+        "a",
+        "x4"
+    ],
+    "parameter_values": [
+        5.475,
+        0.24
+    ],
+    "strukturbericht": null,
+    "title": "CsHgN$_{3}$O$_{6}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC3D6_cP11_200_a_b_c_f-001"
+}

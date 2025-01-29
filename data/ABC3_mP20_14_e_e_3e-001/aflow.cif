@@ -1,0 +1,48 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+
+# Chemical Composition:  HgMnO3
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/ ABC3_mP20_14_e_e_3e-001 
+
+# Last updated on 2024/10/07
+
+data_HgMnO3
+_pd_phase_name HgMnO3
+_cell_length_a  6.7214900000
+_cell_length_b  4.9767300000
+_cell_length_c  6.8871000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  106.2745000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P2_{1}/c'
+_symmetry_Int_Tables_Number  14
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y+1/2,-z+1/2
+  3  -x,-y,-z
+  4  x,-y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Hg1 1.0000000000 0.6053700000 0.2311000000 0.1114500000  Biso 1.0 Hg 4 e
+Mn2 1.0000000000 0.0756000000 0.2560000000 0.0983000000  Biso 1.0 Mn 4 e
+O3  1.0000000000 0.3470000000 0.1460000000 0.2330000000  Biso 1.0 O 4 e
+O4  1.0000000000 0.1900000000 0.6000000000 0.0440000000  Biso 1.0 O 4 e
+O5  1.0000000000 0.0980000000 0.4670000000 0.3580000000  Biso 1.0 O 4 e

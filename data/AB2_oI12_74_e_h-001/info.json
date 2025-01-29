@@ -1,0 +1,28 @@
+{
+    "uid": "237T",
+    "prototype": "CeCu2",
+    "prototype_tex": "CeCu$_{2}$",
+    "label": "AB2_oI12_74_e_h-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z1",
+        "y2",
+        "z2"
+    ],
+    "parameter_values": [
+        4.43,
+        1.59142,
+        1.68172,
+        0.5377,
+        0.051,
+        0.1648
+    ],
+    "strukturbericht": null,
+    "title": "CeCu$_{2}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2_oI12_74_e_h"
+}

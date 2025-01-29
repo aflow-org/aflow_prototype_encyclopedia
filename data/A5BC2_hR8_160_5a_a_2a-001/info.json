@@ -1,0 +1,36 @@
+{
+    "uid": "6V4S",
+    "prototype": "Fe5GeTe2",
+    "prototype_tex": "Fe$_{5}$GeTe$_{2}$",
+    "label": "A5BC2_hR8_160_5a_a_2a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3",
+        "x4",
+        "x5",
+        "x6",
+        "x7",
+        "x8"
+    ],
+    "parameter_values": [
+        4.03759,
+        7.23052,
+        0.8969,
+        0.8105,
+        0.42897,
+        0.19183,
+        0.10393,
+        0.50422,
+        0.7205,
+        0.28243
+    ],
+    "strukturbericht": null,
+    "title": "Fe$_{5-\\delta}$GeTe$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A5BC2_hR8_160_5a_a_2a-001"
+}

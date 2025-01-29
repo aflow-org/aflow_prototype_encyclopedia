@@ -1,0 +1,34 @@
+{
+    "uid": "UM9K",
+    "prototype": "ClCsCu5O2(PO4)2",
+    "prototype_tex": "ClCsCu$_{5}$O$_{2}$(PO$_{4}$)$_{2}$",
+    "label": "AB3C5D10E2_hP21_164_a_bc_de_2di_d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4",
+        "z5",
+        "z6",
+        "z7",
+        "x9",
+        "z9"
+    ],
+    "parameter_values": [
+        6.1842,
+        1.331434,
+        0.448,
+        0.71267,
+        0.4892,
+        0.939,
+        0.30639,
+        0.53145,
+        0.7575
+    ],
+    "strukturbericht": null,
+    "title": "Averievite [(CsCl)Cu$_{5}$O$_{2}$(PO$_{4}$)$_{2}$] Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3C5D10E2_hP21_164_a_bc_de_2di_d-001"
+}

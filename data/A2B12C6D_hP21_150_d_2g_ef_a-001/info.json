@@ -1,0 +1,38 @@
+{
+    "uid": "FX47",
+    "prototype": "Cl2H12O6Sr",
+    "prototype_tex": "Cl$_{2}$H$_{12}$O$_{6}$Sr",
+    "label": "A2B12C6D_hP21_150_d_2g_ef_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "x3",
+        "x4",
+        "x5",
+        "y5",
+        "z5",
+        "x6",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        7.9596,
+        0.518154,
+        0.429,
+        0.3114,
+        0.7868,
+        0.4326,
+        0.0988,
+        0.9074,
+        0.767,
+        0.1113,
+        0.4835
+    ],
+    "strukturbericht": null,
+    "title": "SrCl$_{2}\\cdot$(H$_{2}$O)$_{6}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B12C6D_hP21_150_d_2g_ef_a"
+}

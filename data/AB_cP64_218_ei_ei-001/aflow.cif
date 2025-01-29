@@ -1,0 +1,66 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  GeK
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/AB_cP64_218_ei_ei-001
+
+# Last updated on 2024/08/01
+
+data_Ge32K32
+_pd_phase_name Ge32K32
+_cell_length_a  12.7800000000
+_cell_length_b  12.7800000000
+_cell_length_c  12.7800000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P-43n'
+_symmetry_Int_Tables_Number  218
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  -x,y,-z
+  4  x,-y,-z
+  5  z,x,y
+  6  z,-x,-y
+  7  -z,-x,y
+  8  -z,x,-y
+  9  y,z,x
+  10  -y,z,-x
+  11  y,-z,-x
+  12  -y,-z,x
+  13  y+1/2,x+1/2,z+1/2
+  14  -y+1/2,-x+1/2,z+1/2
+  15  y+1/2,-x+1/2,-z+1/2
+  16  -y+1/2,x+1/2,-z+1/2
+  17  x+1/2,z+1/2,y+1/2
+  18  -x+1/2,z+1/2,-y+1/2
+  19  -x+1/2,-z+1/2,y+1/2
+  20  x+1/2,-z+1/2,-y+1/2
+  21  z+1/2,y+1/2,x+1/2
+  22  z+1/2,-y+1/2,-x+1/2
+  23  -z+1/2,y+1/2,-x+1/2
+  24  -z+1/2,-y+1/2,x+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Ge1 1.0000000000 0.0710000000 0.0710000000 0.0710000000  Biso 1.0 Ge 8 e
+K3 1.0000000000 0.3320000000 0.3320000000 0.3320000000  Biso 1.0 K 8 e
+Ge2 1.0000000000 0.0640000000 0.3200000000 0.4220000000  Biso 1.0 Ge 24 i
+K4 1.0000000000 0.3360000000 0.1420000000 0.0640000000  Biso 1.0 K 24 i

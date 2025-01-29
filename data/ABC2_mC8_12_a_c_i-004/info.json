@@ -1,0 +1,28 @@
+{
+    "uid": "9GYS",
+    "prototype": "NaNiO2",
+    "prototype_tex": "NaNiO$_{2}$",
+    "label": "ABC2_mC8_12_a_c_i-004",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x3",
+        "z3"
+    ],
+    "parameter_values": [
+        5.3226,
+        0.534532,
+        1.68384,
+        144.293,
+        0.9117,
+        0.1963
+    ],
+    "strukturbericht": null,
+    "title": "Monoclinic NaNiO$_{2}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC2_mC8_12_a_c_i-004"
+}

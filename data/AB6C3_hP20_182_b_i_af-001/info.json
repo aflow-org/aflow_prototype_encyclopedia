@@ -1,0 +1,28 @@
+{
+    "uid": "W0Z9",
+    "prototype": "PbTa2S6",
+    "prototype_tex": "PbTa$_{2}$S$_{6}$",
+    "label": "AB6C3_hP20_182_b_i_af-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        5.759,
+        2.57215,
+        -0.002,
+        0.336,
+        0.337,
+        0.1052
+    ],
+    "strukturbericht": null,
+    "title": "PbTa$_{2}$S$_{6}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB6C3_hP20_182_b_i_af-001"
+}

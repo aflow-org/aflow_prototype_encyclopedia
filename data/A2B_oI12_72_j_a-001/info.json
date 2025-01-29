@@ -1,0 +1,27 @@
+{
+    "uid": "PYBC",
+    "prototype": "S2Si",
+    "prototype_tex": "S$_{2}$Si",
+    "label": "A2B_oI12_72_j_a-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x2",
+        "y2"
+    ],
+    "parameter_values": [
+        9.583,
+        0.585829,
+        0.578838,
+        0.1182,
+        0.2088
+    ],
+    "strukturbericht": "C42",
+    "title": "SiS$_{2}$ ($C42$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$C42$",
+    "compounds": {},
+    "alias": "A2B_oI12_72_j_a"
+}

@@ -1,0 +1,22 @@
+{
+    "uid": "G65V",
+    "prototype": "CuF6Zr",
+    "prototype_tex": "CuF$_{6}$Zr",
+    "label": "AB12C_cF56_202_a_h_b-001",
+    "parameter_symbol": [
+        "a",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        7.939,
+        0.013,
+        0.2493
+    ],
+    "strukturbericht": null,
+    "title": "$\\alpha$-CuZrF$_{6}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB12C_cF56_202_a_h_b-001"
+}

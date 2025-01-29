@@ -1,0 +1,26 @@
+{
+    "uid": "FUUU",
+    "prototype": "PdSn2",
+    "prototype_tex": "PdSn$_{2}$",
+    "label": "AB2_tI48_142_d_ef-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "x2",
+        "x3"
+    ],
+    "parameter_values": [
+        6.49,
+        3.74838,
+        0.3167,
+        0.2473,
+        0.15839
+    ],
+    "strukturbericht": null,
+    "title": "$\\alpha$-PdSn$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2_tI48_142_d_ef-001"
+}

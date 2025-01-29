@@ -1,0 +1,38 @@
+{
+    "uid": "YM7H",
+    "prototype": "O2Sb",
+    "prototype_tex": "O$_{2}$Sb",
+    "label": "A2B_mC24_15_2f_ae-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "y2",
+        "x3",
+        "y3",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        14.2276,
+        0.339903,
+        0.846264,
+        158.34,
+        0.4649,
+        0.7328,
+        0.8017,
+        0.791,
+        0.121,
+        0.1622,
+        0.2771
+    ],
+    "strukturbericht": null,
+    "title": "Clinocervantite ($\\beta$-Sb$_{2}$O$_{4}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_mC24_15_2f_ce"
+}

@@ -1,0 +1,25 @@
+{
+    "uid": "AQ0J",
+    "prototype": "Mn5Si3",
+    "prototype_tex": "Mn$_{5}$Si$_{3}$",
+    "label": "A5B3_hP16_193_dg_g-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3"
+    ],
+    "parameter_values": [
+        6.91,
+        0.696671,
+        0.7642,
+        0.4008
+    ],
+    "strukturbericht": "D8_8",
+    "title": "Mavlyanovite (Mn$_{5}$Si$_{3}$, $D8_{8}$) Structure",
+    "part": 2,
+    "legacy": false,
+    "strukturbericht_tex": "$D8_{8}$",
+    "compounds": {},
+    "alias": "A5B3_hP16_193_dg_g"
+}

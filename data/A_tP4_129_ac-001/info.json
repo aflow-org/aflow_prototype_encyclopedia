@@ -1,0 +1,23 @@
+{
+    "uid": "UNPK",
+    "prototype": "Np",
+    "prototype_tex": "Np",
+    "label": "A_tP4_129_ac-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2"
+    ],
+    "parameter_values": [
+        4.897,
+        0.691852,
+        0.375
+    ],
+    "strukturbericht": "A_d",
+    "title": "$\\beta$-Np ($A_{d}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$A_{d}$",
+    "compounds": {},
+    "alias": "A_tP4_129_ac"
+}

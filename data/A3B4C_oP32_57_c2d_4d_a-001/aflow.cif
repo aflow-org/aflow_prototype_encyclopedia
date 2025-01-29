@@ -1,0 +1,54 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Al3Ca4Mg
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A3B4C_oP32_57_c2d_4d_a-001
+
+# Last updated on 2024/08/01
+
+data_Al12Ca16Mg4
+_pd_phase_name Al12Ca16Mg4
+_cell_length_a  6.1792000000
+_cell_length_b  24.2113000000
+_cell_length_c  5.8864000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pbcm'
+_symmetry_Int_Tables_Number  57
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z+1/2
+  3  -x,y+1/2,-z+1/2
+  4  x,-y+1/2,-z
+  5  -x,-y,-z
+  6  x,y,-z+1/2
+  7  x,-y+1/2,z+1/2
+  8  -x,y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Mg8 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Mg 4 a
+Al1 1.0000000000 0.1776000000 0.2500000000 0.0000000000  Biso 1.0 Al 4 c
+Al2 1.0000000000 0.4274000000 0.3246000000 0.2500000000  Biso 1.0 Al 4 d
+Al3 1.0000000000 0.7518000000 0.0762000000 0.2500000000  Biso 1.0 Al 4 d
+Ca4 1.0000000000 0.2517000000 0.1209000000 0.2500000000  Biso 1.0 Ca 4 d
+Ca5 1.0000000000 0.6973000000 0.2101000000 0.2500000000  Biso 1.0 Ca 4 d
+Ca6 1.0000000000 0.0756000000 0.8601000000 0.2500000000  Biso 1.0 Ca 4 d
+Ca7 1.0000000000 0.4999000000 0.9553000000 0.2500000000  Biso 1.0 Ca 4 d

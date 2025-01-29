@@ -1,0 +1,24 @@
+{
+    "uid": "V35A",
+    "prototype": "Ba2CuO4",
+    "prototype_tex": "Ba$_{2}$CuO$_{4}$",
+    "label": "AB2C4_tI14_139_a_e_ce-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4"
+    ],
+    "parameter_values": [
+        3.7817,
+        3.50337,
+        0.36075,
+        0.1824
+    ],
+    "strukturbericht": null,
+    "title": "0201 [(La,Ba)$_{2}$CuO$_{4}$] High-$T_{c}$ Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2C4_tI14_139_a_e_ce"
+}

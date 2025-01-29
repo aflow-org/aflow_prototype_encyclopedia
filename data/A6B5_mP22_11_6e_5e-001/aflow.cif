@@ -1,0 +1,53 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Pt6Si5
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A6B5_mP22_11_6e_5e-001
+
+# Last updated on 2024/08/01
+
+data_Pt12Si10
+_pd_phase_name Pt12Si10
+_cell_length_a  6.1200000000
+_cell_length_b  3.4800000000
+_cell_length_c  15.3080000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  93.4000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P2_{1}/m'
+_symmetry_Int_Tables_Number  11
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y+1/2,-z
+  3  -x,-y,-z
+  4  x,-y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Pt1 1.0000000000 0.8060000000 0.2500000000 0.0020000000  Biso 1.0 Pt 2 e
+Pt2 1.0000000000 0.7130000000 0.2500000000 0.1780000000  Biso 1.0 Pt 2 e
+Pt3 1.0000000000 0.6600000000 0.2500000000 0.8260000000  Biso 1.0 Pt 2 e
+Pt4 1.0000000000 0.9950000000 0.2500000000 0.7190000000  Biso 1.0 Pt 2 e
+Pt5 1.0000000000 0.1480000000 0.2500000000 0.5510000000  Biso 1.0 Pt 2 e
+Pt6 1.0000000000 0.4730000000 0.2500000000 0.4240000000  Biso 1.0 Pt 2 e
+Si10 1.0000000000 0.3180000000 0.2500000000 0.2870000000  Biso 1.0 Si 2 e
+Si11 1.0000000000 0.7480000000 0.2500000000 0.5740000000  Biso 1.0 Si 2 e
+Si7 1.0000000000 0.0420000000 0.2500000000 0.8880000000  Biso 1.0 Si 2 e
+Si8 1.0000000000 0.4580000000 0.2500000000 0.0570000000  Biso 1.0 Si 2 e
+Si9 1.0000000000 0.7490000000 0.2500000000 0.3370000000  Biso 1.0 Si 2 e

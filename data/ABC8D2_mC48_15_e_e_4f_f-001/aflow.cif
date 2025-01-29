@@ -1,0 +1,53 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  FeLiO8W2 wodginite
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/ABC8D2_mC48_15_e_e_4f_f-001
+
+# Last updated on 2024/08/01
+
+data_Fe4Li4O32W8
+_pd_phase_name Fe4Li4O32W8
+_cell_length_a  9.2648000000
+_cell_length_b  11.3858000000
+_cell_length_c  4.8918000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.4000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'C2/c'
+_symmetry_Int_Tables_Number  15
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y,-z+1/2
+  3  -x,-y,-z
+  4  x,-y,z+1/2
+  5  x+1/2,y+1/2,z
+  6  -x+1/2,y+1/2,-z+1/2
+  7  -x+1/2,-y+1/2,-z
+  8  x+1/2,-y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Fe1 1.0000000000 -0.0000000000 0.6652600000 0.2500000000  Biso 1.0 Fe 4 e
+Li2 1.0000000000 0.0000000000 0.1540000000 0.2500000000  Biso 1.0 Li 4 e
+O3 1.0000000000 0.6362000000 0.0598000000 0.0755000000  Biso 1.0 O 8 f
+O4 1.0000000000 0.6199000000 0.1822000000 0.5885000000  Biso 1.0 O 8 f
+O5 1.0000000000 0.1438000000 0.0497000000 0.0563000000  Biso 1.0 O 8 f
+O6 1.0000000000 0.6225000000 0.6951000000 0.6067000000  Biso 1.0 O 8 f
+W7 1.0000000000 0.7529700000 0.0913700000 0.7532500000  Biso 1.0 W 8 f

@@ -1,0 +1,32 @@
+{
+    "uid": "AGLP",
+    "prototype": "Cu2O11Ta4",
+    "prototype_tex": "Cu$_{2}$O$_{11}$Ta$_{4}$",
+    "label": "A3B11C4_hR36_167_d_cef_be-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x4",
+        "x5",
+        "x6",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        6.219,
+        5.966715,
+        -0.09307,
+        0.24567,
+        0.63743,
+        0.24,
+        0.277,
+        0.5311
+    ],
+    "strukturbericht": null,
+    "title": "Cu$_{2}$Ta$_{4}$O$_{11}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B11C4_hR36_167_d_cef_be-001"
+}

@@ -1,0 +1,23 @@
+{
+    "uid": "UHQ6",
+    "prototype": "O3Sb2",
+    "prototype_tex": "O$_{3}$Sb$_{2}$",
+    "label": "A3B2_cF80_227_f_e-002",
+    "parameter_symbol": [
+        "a",
+        "x1",
+        "x2"
+    ],
+    "parameter_values": [
+        11.1519,
+        0.76027,
+        0.93875
+    ],
+    "strukturbericht": "D6_1",
+    "title": "Senarmontite (D6$_{1}$, Sb$_{2}$O$_{3}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$D6_{1}$",
+    "compounds": {},
+    "alias": "A3B2_cF80_227_f_e"
+}

@@ -1,0 +1,31 @@
+{
+    "uid": "EW36",
+    "prototype": "AgCoN4(NH3)2O8",
+    "prototype_tex": "AgCoN$_{4}$(NH$_{3}$)$_{2}$O$_{8}$",
+    "label": "ABC4D2E8_tP32_126_a_b_h_e_k-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "x4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        6.67,
+        1.56372,
+        0.53,
+        0.945,
+        0.06,
+        0.97,
+        0.34
+    ],
+    "strukturbericht": "J1_9",
+    "title": "Ag[Co(NH$_{3}$)$_{2}$(NO$_{2}$)$_{4}$] ($J1_{9}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$J1_{9}$",
+    "compounds": {},
+    "alias": "ABC4D2E8_tP32_126_a_b_h_e_k"
+}

@@ -1,0 +1,28 @@
+{
+    "uid": "T3N4",
+    "prototype": "Hg2Na3",
+    "prototype_tex": "Hg$_{2}$Na$_{3}$",
+    "label": "A2B3_tP20_136_j_cfg-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        8.52,
+        0.915493,
+        0.368,
+        0.21,
+        0.125,
+        0.19
+    ],
+    "strukturbericht": null,
+    "title": "Na$_{3}$Hg$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B3_tP20_136_j_cfg-001"
+}

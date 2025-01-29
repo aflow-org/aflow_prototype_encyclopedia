@@ -1,0 +1,22 @@
+{
+    "uid": "R6VB",
+    "prototype": "BGdO3",
+    "prototype_tex": "BGdO$_{3}$",
+    "label": "ABC3_hP10_194_c_a_h-002",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3"
+    ],
+    "parameter_values": [
+        4.1154,
+        2.08777,
+        0.148003
+    ],
+    "strukturbericht": null,
+    "title": "High Temperature GdBO$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC3_hP10_194_c_a_h-002"
+}

@@ -1,0 +1,21 @@
+{
+    "uid": "SHYT",
+    "prototype": "BN",
+    "prototype_tex": "BN",
+    "label": "AB_hP4_194_c_d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a"
+    ],
+    "parameter_values": [
+        2.504,
+        2.66022
+    ],
+    "strukturbericht": "B_k",
+    "title": "BN ($B_{k}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$B_{k}$",
+    "compounds": {},
+    "alias": "AB_hP4_194_c_d"
+}

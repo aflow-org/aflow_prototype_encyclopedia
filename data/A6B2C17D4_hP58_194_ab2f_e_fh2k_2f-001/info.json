@@ -1,0 +1,42 @@
+{
+    "uid": "X8HZ",
+    "prototype": "Ba6Nd2O17Ti4",
+    "prototype_tex": "Ba$_{6}$Nd$_{2}$O$_{17}$Ti$_{4}$",
+    "label": "A6B2C17D4_hP58_194_ab2f_e_fh2k_2f-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4",
+        "z5",
+        "z6",
+        "z7",
+        "z8",
+        "x9",
+        "x10",
+        "z10",
+        "x11",
+        "z11"
+    ],
+    "parameter_values": [
+        5.9928,
+        4.99414,
+        0.12641,
+        0.91225,
+        0.18529,
+        0.9961,
+        0.0527,
+        0.7949,
+        0.522,
+        0.1705,
+        0.0754,
+        0.1782,
+        0.66999
+    ],
+    "strukturbericht": null,
+    "title": "Ba$_{6}$Nd$_{2}$Ti$_{4}$O$_{17}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A6B2C17D4_hP58_194_ab2f_e_fh2k_2f-001"
+}

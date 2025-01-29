@@ -1,0 +1,25 @@
+{
+    "uid": "1BSH",
+    "prototype": "BFe2",
+    "prototype_tex": "BFe$_{2}$",
+    "label": "AB2_tI12_121_ab_i-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "z3"
+    ],
+    "parameter_values": [
+        5.078,
+        0.831627,
+        0.16667,
+        0.2
+    ],
+    "strukturbericht": "C17",
+    "title": "C17 (Fe$_{2}$B) Structure ({\\em Obsolete})",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$C17$",
+    "compounds": {},
+    "alias": "AB2_tI12_121_ab_i"
+}

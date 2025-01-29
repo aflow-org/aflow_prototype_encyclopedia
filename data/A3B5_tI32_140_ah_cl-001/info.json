@@ -1,0 +1,27 @@
+{
+    "uid": "AK18",
+    "prototype": "B3Cr5",
+    "prototype_tex": "B$_{3}$Cr$_{5}$",
+    "label": "A3B5_tI32_140_ah_cl-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        5.46,
+        1.91575,
+        0.625,
+        0.166,
+        0.15
+    ],
+    "strukturbericht": "D8_l",
+    "title": "Cr$_{5}$B$_{3}$ ($D8_{l}$) Structure",
+    "part": 2,
+    "legacy": false,
+    "strukturbericht_tex": "$D8_{l}$",
+    "compounds": {},
+    "alias": "A3B5_tI32_140_ah_cl"
+}

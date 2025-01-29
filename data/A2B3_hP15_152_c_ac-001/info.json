@@ -1,0 +1,34 @@
+{
+    "uid": "MKFS",
+    "prototype": "B2O3",
+    "prototype_tex": "B$_{2}$O$_{3}$",
+    "label": "A2B3_hP15_152_c_ac-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "y2",
+        "z2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        4.3358,
+        1.92345,
+        0.1607,
+        0.3954,
+        0.2299,
+        0.2244,
+        0.6009,
+        0.1477,
+        0.1282
+    ],
+    "strukturbericht": null,
+    "title": "Trigonal B$_{2}$O$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B3_hP15_152_c_ac-001"
+}

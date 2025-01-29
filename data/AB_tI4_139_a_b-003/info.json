@@ -1,0 +1,20 @@
+{
+    "uid": "G0K3",
+    "prototype": "FeLiO2",
+    "prototype_tex": "FeLiO$_{2}$",
+    "label": "AB_tI4_139_a_b-003",
+    "parameter_symbol": [
+        "a",
+        "c/a"
+    ],
+    "parameter_values": [
+        2.89,
+        1.48097
+    ],
+    "strukturbericht": null,
+    "title": "$\\beta$-LiFeO$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_tI4_139_a_b-003"
+}

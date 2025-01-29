@@ -1,0 +1,22 @@
+{
+    "uid": "4XVN",
+    "prototype": "Ca3I3P",
+    "prototype_tex": "Ca$_{3}$I$_{3}$P",
+    "label": "A3B3C_cI56_214_g_h_a-001",
+    "parameter_symbol": [
+        "a",
+        "y2",
+        "y3"
+    ],
+    "parameter_values": [
+        12.315,
+        0.108,
+        0.384
+    ],
+    "strukturbericht": null,
+    "title": "Ca$_{3}$PI$_{3}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B3C_cI56_214_g_h_a"
+}

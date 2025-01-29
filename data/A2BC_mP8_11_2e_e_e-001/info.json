@@ -1,0 +1,40 @@
+{
+    "uid": "C60C",
+    "prototype": "As2EuFe",
+    "prototype_tex": "As$_{2}$EuFe",
+    "label": "A2BC_mP8_11_2e_e_e-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        3.982,
+        0.979056,
+        2.67855,
+        90.24,
+        0.7496,
+        0.3666,
+        0.2498,
+        0.0035,
+        0.754,
+        0.7716,
+        0.25,
+        0.5
+    ],
+    "strukturbericht": null,
+    "title": "EuFeAs$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BC_mP8_11_2e_e_e-001"
+}

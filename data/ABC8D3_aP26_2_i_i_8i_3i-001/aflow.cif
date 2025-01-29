@@ -1,0 +1,53 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  AlNaO8Si3 albite S68
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/ABC8D3_aP26_2_i_i_8i_3i-001
+
+# Last updated on 2024/08/01
+
+data_Al2Na2O16Si6
+_pd_phase_name Al2Na2O16Si6
+_cell_length_a  7.1576000000
+_cell_length_b  7.4235900000
+_cell_length_c  7.6976200000
+_cell_angle_alpha  115.1151100000
+_cell_angle_beta  107.3772400000
+_cell_angle_gamma  100.5586400000
+_symmetry_space_group_name_H-M  'P-1'
+_symmetry_Int_Tables_Number  2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Al1 1.0000000000 0.2077300000 0.8412200000 0.1767000000  Biso 1.0 Al 2 i
+Na2 1.0000000000 0.1444100000 0.2751800000 0.2542200000  Biso 1.0 Na 2 i
+O10 1.0000000000 0.4370800000 0.3168200000 0.0532400000  Biso 1.0 O 2 i
+O3 1.0000000000 0.9664400000 0.8765800000 0.1347200000  Biso 1.0 O 2 i
+O4 1.0000000000 0.7211100000 0.4089100000 0.4138100000  Biso 1.0 O 2 i
+O5 1.0000000000 0.8098100000 0.2953000000 0.0794200000  Biso 1.0 O 2 i
+O6 1.0000000000 0.7407600000 0.0321000000 0.3292800000  Biso 1.0 O 2 i
+O7 1.0000000000 0.2681400000 0.7082800000 0.3121200000  Biso 1.0 O 2 i
+O8 1.0000000000 0.2259200000 0.3285700000 0.7173100000  Biso 1.0 O 2 i
+O9 1.0000000000 0.3894200000 0.1011200000 0.3191400000  Biso 1.0 O 2 i
+Si11 1.0000000000 0.2370100000 0.1822800000 0.8249000000  Biso 1.0 Si 2 i
+Si12 1.0000000000 0.6867700000 0.4195500000 0.1996300000  Biso 1.0 Si 2 i
+Si13 1.0000000000 0.6404000000 0.2030000000 0.4392000000  Biso 1.0 Si 2 i

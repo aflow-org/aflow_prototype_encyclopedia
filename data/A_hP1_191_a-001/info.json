@@ -1,0 +1,21 @@
+{
+    "uid": "3V7H",
+    "prototype": "HgSn6-10",
+    "prototype_tex": "HgSn$_{6-10}$",
+    "label": "A_hP1_191_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a"
+    ],
+    "parameter_values": [
+        3.2062,
+        0.931196
+    ],
+    "strukturbericht": "A_f",
+    "title": "Simple Hexagonal (HgSn$_{6-10}$ $A_{f}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$A_{f}$",
+    "compounds": {},
+    "alias": "A_hP1_191_a"
+}

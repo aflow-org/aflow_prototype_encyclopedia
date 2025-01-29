@@ -1,0 +1,24 @@
+{
+    "uid": "U115",
+    "prototype": "Si",
+    "prototype_tex": "Si",
+    "label": "A_cF136_227_aeg-001",
+    "parameter_symbol": [
+        "a",
+        "x2",
+        "x3",
+        "z3"
+    ],
+    "parameter_values": [
+        14.864,
+        0.2624,
+        0.1824,
+        0.3701
+    ],
+    "strukturbericht": null,
+    "title": "Si$_{34}$ Clathrate Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A_cF136_227_aeg"
+}

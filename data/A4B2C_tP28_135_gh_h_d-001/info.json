@@ -1,0 +1,30 @@
+{
+    "uid": "20MM",
+    "prototype": "O4Sb2Zn",
+    "prototype_tex": "O$_{4}$Sb$_{2}$Zn",
+    "label": "A4B2C_tP28_135_gh_h_d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3",
+        "y3",
+        "x4",
+        "y4"
+    ],
+    "parameter_values": [
+        8.4909,
+        0.697205,
+        0.169,
+        0.114,
+        0.386,
+        0.167,
+        0.175
+    ],
+    "strukturbericht": null,
+    "title": "ZnSb$_{2}$O$_{4}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4B2C_tP28_135_gh_h_d"
+}

@@ -1,0 +1,18 @@
+{
+    "uid": "4CEX",
+    "prototype": "AuLiMgSn",
+    "prototype_tex": "AuLiMgSn",
+    "label": "ABCD_cF16_216_a_b_c_d-001",
+    "parameter_symbol": [
+        "a"
+    ],
+    "parameter_values": [
+        6.465
+    ],
+    "strukturbericht": null,
+    "title": "Quaternary Heusler (LiMgAuSn) Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABCD_cF16_216_c_d_b_a"
+}

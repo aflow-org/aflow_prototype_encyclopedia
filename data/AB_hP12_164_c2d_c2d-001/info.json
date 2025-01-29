@@ -1,0 +1,32 @@
+{
+    "uid": "UEMM",
+    "prototype": "BiSe",
+    "prototype_tex": "BiSe",
+    "label": "AB_hP12_164_c2d_c2d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3",
+        "z4",
+        "z5",
+        "z6"
+    ],
+    "parameter_values": [
+        4.212,
+        5.44682,
+        0.3727,
+        0.1279,
+        0.0419,
+        0.7959,
+        0.2797,
+        0.5596
+    ],
+    "strukturbericht": null,
+    "title": "Nevskite (BiSe) Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_hP12_164_c2d_c2d"
+}

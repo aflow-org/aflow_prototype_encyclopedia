@@ -1,0 +1,36 @@
+{
+    "uid": "RGRE",
+    "prototype": "CCaO3",
+    "prototype_tex": "CCaO$_{3}$",
+    "label": "ABC3_oP20_62_c_a_cd-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x2",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        7.1534,
+        1.18545,
+        0.577348,
+        0.16667,
+        0.343,
+        0.16667,
+        0.029,
+        0.16667,
+        0.118,
+        0.5
+    ],
+    "strukturbericht": null,
+    "title": "Monoclinic Vaterite (CaCO$_{3}$) Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC3_oP20_62_c_a_cd-001"
+}

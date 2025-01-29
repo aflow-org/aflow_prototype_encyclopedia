@@ -1,0 +1,34 @@
+{
+    "uid": "XNAH",
+    "prototype": "O2Si",
+    "prototype_tex": "O$_{2}$Si",
+    "label": "A2B_hP36_177_j2lm_n-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3",
+        "x4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        12.7835,
+        0.291063,
+        0.61855,
+        0.39242,
+        0.79257,
+        0.44445,
+        0.52169,
+        0.86952,
+        0.16458
+    ],
+    "strukturbericht": null,
+    "title": "Hypothetical Hexagonal SiO$_{2}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_hP36_177_j2lm_n"
+}

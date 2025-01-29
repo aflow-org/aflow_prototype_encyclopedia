@@ -1,0 +1,30 @@
+{
+    "uid": "KRB7",
+    "prototype": "La3Ni2O7",
+    "prototype_tex": "La$_{3}$Ni$_{2}$O$_{7}$",
+    "label": "A3B2C7_oF48_69_ag_g_bgl-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x3",
+        "x4",
+        "x5",
+        "x6"
+    ],
+    "parameter_values": [
+        20.516,
+        0.262888,
+        0.264983,
+        0.8191,
+        0.5975,
+        0.699,
+        0.4005
+    ],
+    "strukturbericht": null,
+    "title": "Orthorhombic La$_{3}$Ni$_{2}$O$_{7}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B2C7_oF48_69_ag_g_bgl-001"
+}

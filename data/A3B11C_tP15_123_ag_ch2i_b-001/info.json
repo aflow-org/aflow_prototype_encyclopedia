@@ -1,0 +1,28 @@
+{
+    "uid": "7DQQ",
+    "prototype": "Ce3In11Pd",
+    "prototype_tex": "Ce$_{3}$In$_{11}$Pd",
+    "label": "A3B11C_tP15_123_ag_ch2i_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z4",
+        "z5",
+        "z6",
+        "z7"
+    ],
+    "parameter_values": [
+        4.6896,
+        3.6018,
+        0.72317,
+        0.27797,
+        0.4118,
+        0.13805
+    ],
+    "strukturbericht": null,
+    "title": "Ce$_{3}$PdIn$_{11}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B11C_tP15_123_ag_ch2i_b-001"
+}

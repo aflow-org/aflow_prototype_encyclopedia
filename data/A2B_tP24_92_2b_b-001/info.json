@@ -1,0 +1,38 @@
+{
+    "uid": "WWPP",
+    "prototype": "P2Zn",
+    "prototype_tex": "P$_{2}$Zn",
+    "label": "A2B_tP24_92_2b_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "y1",
+        "z1",
+        "x2",
+        "y2",
+        "z2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        5.08,
+        3.65945,
+        0.815,
+        0.298,
+        0.0597,
+        0.99,
+        0.98,
+        0.1261,
+        0.154,
+        0.634,
+        0.0503
+    ],
+    "strukturbericht": null,
+    "title": "Tetragonal (red) ZnP$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_tP24_92_2b_b-001"
+}

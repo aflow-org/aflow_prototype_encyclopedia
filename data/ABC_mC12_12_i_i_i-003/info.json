@@ -1,0 +1,36 @@
+{
+    "uid": "69PJ",
+    "prototype": "BrCGd",
+    "prototype_tex": "BrCGd",
+    "label": "ABC_mC12_12_i_i_i-003",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "z3"
+    ],
+    "parameter_values": [
+        7.0225,
+        0.546258,
+        1.78707,
+        128.379,
+        0.8347,
+        0.6597,
+        0.461,
+        0.034,
+        0.2937,
+        0.1501
+    ],
+    "strukturbericht": null,
+    "title": "GdCBr Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC_mC12_12_i_i_i-003"
+}

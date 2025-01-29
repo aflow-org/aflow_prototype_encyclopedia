@@ -1,0 +1,30 @@
+{
+    "uid": "BCSA",
+    "prototype": "MgO3Si",
+    "prototype_tex": "MgO$_{3}$Si",
+    "label": "AB3C_oC20_63_c_cf_a-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y2",
+        "y3",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        2.456,
+        3.27443,
+        2.48086,
+        0.253,
+        0.923,
+        0.631,
+        0.436
+    ],
+    "strukturbericht": null,
+    "title": "Post-perovskite (MgSiO$_{3}$) Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3C_oC20_63_c_cf_a"
+}

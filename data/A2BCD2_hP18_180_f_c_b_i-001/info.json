@@ -1,0 +1,24 @@
+{
+    "uid": "TQ0B",
+    "prototype": "Hg2INaO2",
+    "prototype_tex": "Hg$_{2}$INaO$_{2}$",
+    "label": "A2BCD2_hP18_180_f_c_b_i-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "x4"
+    ],
+    "parameter_values": [
+        6.667,
+        1.50802,
+        0.3333,
+        0.1521
+    ],
+    "strukturbericht": null,
+    "title": "Hg$_{2}$O$_{2}$NaI Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BCD2_hP18_180_f_c_b_i"
+}

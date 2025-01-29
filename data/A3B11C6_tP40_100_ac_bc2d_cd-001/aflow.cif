@@ -1,0 +1,54 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Ce3N11Si6
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A3B11C6_tP40_100_ac_bc2d_cd-001
+
+# Last updated on 2024/08/01
+
+data_Ce6N22Si12
+_pd_phase_name Ce6N22Si12
+_cell_length_a  10.1310000000
+_cell_length_b  10.1310000000
+_cell_length_c  4.8470000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P4bm'
+_symmetry_Int_Tables_Number  100
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  -y,x,z
+  4  y,-x,z
+  5  x+1/2,-y+1/2,z
+  6  -x+1/2,y+1/2,z
+  7  -y+1/2,-x+1/2,z
+  8  y+1/2,x+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Ce1 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Ce 2 a
+N3 1.0000000000 0.5000000000 0.0000000000 0.0672000000  Biso 1.0 N 2 b
+Ce2 1.0000000000 0.1811100000 0.6811100000 0.0154000000  Biso 1.0 Ce 4 c
+N4 1.0000000000 0.6536000000 0.1536000000 0.6912000000  Biso 1.0 N 4 c
+Si7 1.0000000000 0.6174000000 0.1174000000 0.0432000000  Biso 1.0 Si 4 c
+N5 1.0000000000 0.5814000000 0.6780000000 0.6402000000  Biso 1.0 N 8 d
+N6 1.0000000000 0.7288000000 0.5740000000 0.1742000000  Biso 1.0 N 8 d
+Si8 1.0000000000 0.7098000000 0.5782000000 0.5334000000  Biso 1.0 Si 8 d

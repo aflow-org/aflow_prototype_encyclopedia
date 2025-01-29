@@ -1,0 +1,40 @@
+{
+    "uid": "S4ZE",
+    "prototype": "Cl2O5Pb3W",
+    "prototype_tex": "Cl$_{2}$O$_{5}$Pb$_{3}$W",
+    "label": "A2B5C3D_oC44_63_ac_ch_cf_c-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y2",
+        "y3",
+        "y4",
+        "y5",
+        "y6",
+        "z6",
+        "x7",
+        "y7",
+        "z7"
+    ],
+    "parameter_values": [
+        5.617,
+        2.32633,
+        1.97134,
+        0.525,
+        0.895,
+        0.0998,
+        0.765,
+        0.3489,
+        0.0322,
+        0.732,
+        0.77,
+        0.868
+    ],
+    "strukturbericht": null,
+    "title": "Pinalite (Pb$_{3}$WO$_{5}$Cl$_{2}$) Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B5C3D_oC44_63_ac_ch_cf_c-001"
+}

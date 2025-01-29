@@ -1,0 +1,32 @@
+{
+    "uid": "1PRT",
+    "prototype": "Cl3Cu3H6O6Y",
+    "prototype_tex": "Cl$_{3}$Cu$_{3}$H$_{6}$O$_{6}$Y",
+    "label": "ABC2D2E_hP21_164_bd_e_i_i_ac-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4",
+        "x6",
+        "z6",
+        "x7",
+        "z7"
+    ],
+    "parameter_values": [
+        6.7474,
+        0.828541,
+        0.878,
+        0.3668,
+        0.2058,
+        0.692,
+        0.1899,
+        0.8624
+    ],
+    "strukturbericht": null,
+    "title": "YCu$_{3}$(OH)$_{6}$Cl$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC2D2E_hP21_164_bd_e_i_i_ac-001"
+}

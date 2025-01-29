@@ -1,0 +1,22 @@
+{
+    "uid": "JV7G",
+    "prototype": "LiO",
+    "prototype_tex": "LiO",
+    "label": "AB_hP8_194_ac_f-003",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3"
+    ],
+    "parameter_values": [
+        3.142,
+        2.43475,
+        0.648
+    ],
+    "strukturbericht": null,
+    "title": "LiO Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_hP8_194_ac_f-003"
+}

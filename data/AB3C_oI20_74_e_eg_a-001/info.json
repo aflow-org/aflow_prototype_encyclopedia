@@ -1,0 +1,28 @@
+{
+    "uid": "Z961",
+    "prototype": "BaO3Pb",
+    "prototype_tex": "BaO$_{3}$Pb",
+    "label": "AB3C_oI20_74_e_eg_a-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z2",
+        "z3",
+        "y4"
+    ],
+    "parameter_values": [
+        6.0296,
+        1.411105,
+        1.005655,
+        0.5,
+        0.0489,
+        -0.0267
+    ],
+    "strukturbericht": null,
+    "title": "$\\beta$-BaPbO$_{3}$ Perovskite Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3C_oI20_74_e_eg_a-001"
+}

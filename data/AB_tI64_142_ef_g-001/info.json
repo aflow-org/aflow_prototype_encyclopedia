@@ -1,0 +1,30 @@
+{
+    "uid": "X6RS",
+    "prototype": "NaPb",
+    "prototype_tex": "NaPb",
+    "label": "AB_tI64_142_ef_g-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        10.58,
+        1.67732,
+        0.125,
+        0.875,
+        0.8686,
+        0.3196,
+        0.8117
+    ],
+    "strukturbericht": null,
+    "title": "NaPb Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_tI64_142_ef_g-001"
+}

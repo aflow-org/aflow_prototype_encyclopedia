@@ -1,0 +1,22 @@
+{
+    "uid": "4AMD",
+    "prototype": "C",
+    "prototype_tex": "C",
+    "label": "A_hP4_194_f-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1"
+    ],
+    "parameter_values": [
+        2.508,
+        1.66786,
+        0.05995
+    ],
+    "strukturbericht": null,
+    "title": "Lonsdaleite (Hexagonal Diamond) Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A_hP4_194_f"
+}

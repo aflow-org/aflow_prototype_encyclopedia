@@ -1,0 +1,19 @@
+{
+    "uid": "7MHE",
+    "prototype": "Cr3Si",
+    "prototype_tex": "Cr$_{3}$Si",
+    "label": "A3B_cP8_223_c_a-001",
+    "parameter_symbol": [
+        "a"
+    ],
+    "parameter_values": [
+        4.556
+    ],
+    "strukturbericht": "A15",
+    "title": "Cr$_{3}$Si ($A15$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$A15$",
+    "compounds": {},
+    "alias": "A3B_cP8_223_c_a"
+}

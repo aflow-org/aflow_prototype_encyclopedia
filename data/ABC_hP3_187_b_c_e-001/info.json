@@ -1,0 +1,20 @@
+{
+    "uid": "NKMF",
+    "prototype": "BaPtSb",
+    "prototype_tex": "BaPtSb",
+    "label": "ABC_hP3_187_b_c_e-001",
+    "parameter_symbol": [
+        "a",
+        "c/a"
+    ],
+    "parameter_values": [
+        4.535,
+        1.07696
+    ],
+    "strukturbericht": null,
+    "title": "BaPtSb Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC_hP3_187_a_d_f"
+}

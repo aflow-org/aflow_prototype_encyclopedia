@@ -1,0 +1,55 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+
+# Chemical Composition:  SnIP
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/ ABC_mP42_13_e3g_e3g_f3g-001
+
+# Last updated on 2024/08/19
+
+data_SnIP
+_pd_phase_name SnIP
+_cell_length_a  7.9340000000
+_cell_length_b  9.8020000000
+_cell_length_c  18.4390000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  110.0600000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P2/c'
+_symmetry_Int_Tables_Number  13
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y,-z+1/2
+  3  -x,-y,-z
+  4  x,-y,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+I1   1.0000000000 0.0000000000 0.6816000000 0.2500000000  Biso 1.0 I  2 e
+P2   1.0000000000 0.0000000000 0.1665000000 0.2500000000  Biso 1.0 P  2 e
+Sn3  1.0000000000 0.5000000000 0.6106900000 0.2500000000  Biso 1.0 Sn 2 f
+I4   1.0000000000 0.0195600000 0.1952200000 0.4672200000  Biso 1.0 I  4 g
+I5   1.0000000000 0.4145900000 0.5459900000 0.0787600000  Biso 1.0 I  4 g
+I6   1.0000000000 0.6132100000 0.0577700000 0.6427200000  Biso 1.0 I  4 g
+P7   1.0000000000 0.1978000000 0.3164000000 0.3197100000  Biso 1.0 P  4 g
+P8   1.0000000000 0.2607000000 0.4030000000 0.2221100000  Biso 1.0 P  4 g
+P9   1.0000000000 0.3836000000 0.2179000000 0.1960400000  Biso 1.0 P  4 g
+Sn10 1.0000000000 0.0367600000 0.4835500000 0.3905700000  Biso 1.0 Sn 4 g
+Sn11 1.0000000000 0.1600100000 0.0070600000 0.1747700000  Biso 1.0 Sn 4 g
+Sn12 1.0000000000 0.4933800000 0.2250800000 0.0737700000  Biso 1.0 Sn 4 g

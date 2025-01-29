@@ -1,0 +1,28 @@
+{
+    "uid": "GUN1",
+    "prototype": "NV",
+    "prototype_tex": "NV",
+    "label": "AB_tP8_111_n_n-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "z1",
+        "x2",
+        "z2"
+    ],
+    "parameter_values": [
+        4.1312,
+        0.998959,
+        0.2522,
+        0.7473,
+        0.24415,
+        0.24404
+    ],
+    "strukturbericht": null,
+    "title": "VN (Low-temperature) Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_tP8_111_n_n"
+}

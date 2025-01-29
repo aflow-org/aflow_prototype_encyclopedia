@@ -1,0 +1,63 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+
+# Chemical Composition:  P hittorf's phosphorus
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A_mP84_13_21g-001
+
+# Last updated on 2024/08/01
+data_P84
+_pd_phase_name P84
+_cell_length_a  21.9121023261
+_cell_length_b  9.1500000000
+_cell_length_c  24.8830998209
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  158.4829637439
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P2/c'
+_symmetry_Int_Tables_Number  13
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y,-z+1/2
+  3  -x,-y,-z
+  4  x,-y,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+P10 1.0000000000 0.9091400000 0.1588100000 0.9541100000  Biso 1.0 P 4 g
+P1 1.0000000000 0.9379500000 0.2012700000 0.1194200000  Biso 1.0 P 4 g
+P11 1.0000000000 0.6415500000 0.1387800000 0.7150100000  Biso 1.0 P 4 g
+P12 1.0000000000 0.6593200000 0.9091900000 0.7039600000  Biso 1.0 P 4 g
+P13 1.0000000000 0.3989000000 0.8726400000 0.4673200000  Biso 1.0 P 4 g
+P14 1.0000000000 0.4422500000 0.6371500000 0.4752900000  Biso 1.0 P 4 g
+P15 1.0000000000 0.1728100000 0.6371500000 0.2389800000  Biso 1.0 P 4 g
+P16 1.0000000000 0.1620100000 0.4055500000 0.2062100000  Biso 1.0 P 4 g
+P17 1.0000000000 0.8016200000 0.3890500000 0.9738100000  Biso 1.0 P 4 g
+P18 1.0000000000 0.5132400000 0.1005500000 0.6868100000  Biso 1.0 P 4 g
+P19 1.0000000000 0.2572600000 0.8238400000 0.4266600000  Biso 1.0 P 4 g
+P20 1.0000000000 0.0839200000 0.6458100000 0.2512400000  Biso 1.0 P 4 g
+P2 1.0000000000 0.9399700000 0.0326200000 0.0569200000  Biso 1.0 P 4 g
+P21 1.0000000000 0.5446200000 0.3229600000 0.7452200000  Biso 1.0 P 4 g
+P3 1.0000000000 0.6894400000 0.9476900000 0.8697900000  Biso 1.0 P 4 g
+P4 1.0000000000 0.6914300000 0.7809900000 0.8077700000  Biso 1.0 P 4 g
+P5 1.0000000000 0.4470300000 0.6787200000 0.6208300000  Biso 1.0 P 4 g
+P6 1.0000000000 0.4765900000 0.5153200000 0.5806100000  Biso 1.0 P 4 g
+P7 1.0000000000 0.2215300000 0.4493200000 0.3937700000  Biso 1.0 P 4 g
+P8 1.0000000000 0.1908000000 0.2774100000 0.3075200000  Biso 1.0 P 4 g
+P9 1.0000000000 0.8963000000 0.3906700000 0.9687500000  Biso 1.0 P 4 g

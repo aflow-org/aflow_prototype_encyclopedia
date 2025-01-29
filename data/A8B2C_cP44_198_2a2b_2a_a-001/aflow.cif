@@ -1,0 +1,57 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  O8W2Zr
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A8B2C_cP44_198_2a2b_2a_a-001
+
+# Last updated on 2024/08/01
+
+data_O32W8Zr4
+_pd_phase_name O32W8Zr4
+_cell_length_a  9.1568000000
+_cell_length_b  9.1568000000
+_cell_length_c  9.1568000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P2_{1}3'
+_symmetry_Int_Tables_Number  198
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z+1/2
+  3  -x,y+1/2,-z+1/2
+  4  x+1/2,-y+1/2,-z
+  5  z,x,y
+  6  z+1/2,-x+1/2,-y
+  7  -z+1/2,-x,y+1/2
+  8  -z,x+1/2,-y+1/2
+  9  y,z,x
+  10  -y,z+1/2,-x+1/2
+  11  y+1/2,-z+1/2,-x
+  12  -y+1/2,-z,x+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+O1 1.0000000000 0.4941000000 0.4941000000 0.4941000000  Biso 1.0 O 4 a
+O2 1.0000000000 0.2322000000 0.2322000000 0.2322000000  Biso 1.0 O 4 a
+W5 1.0000000000 0.3409000000 0.3409000000 0.3409000000  Biso 1.0 W 4 a
+W6 1.0000000000 0.6009000000 0.6009000000 0.6009000000  Biso 1.0 W 4 a
+Zr7 1.0000000000 0.0004000000 0.0004000000 0.0004000000  Biso 1.0 Zr 4 a
+O3 1.0000000000 0.0529000000 0.7931000000 0.9381000000  Biso 1.0 O 12 b
+O4 1.0000000000 0.0697000000 0.9425000000 0.2132000000  Biso 1.0 O 12 b

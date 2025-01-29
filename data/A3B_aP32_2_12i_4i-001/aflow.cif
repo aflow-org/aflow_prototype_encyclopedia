@@ -1,0 +1,56 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  O3W
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A3B_aP32_2_12i_4i-001
+
+# Last updated on 2024/08/01
+
+data_O24W8
+_pd_phase_name O24W8
+_cell_length_a  7.3090000000
+_cell_length_b  7.5220000000
+_cell_length_c  7.6780000000
+_cell_angle_alpha  88.8100000000
+_cell_angle_beta  89.0800000000
+_cell_angle_gamma  89.0700000000
+_symmetry_space_group_name_H-M  'P-1'
+_symmetry_Int_Tables_Number  2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+O10 1.0000000000 0.2971000000 0.5446000000 0.4982000000  Biso 1.0 O 2 i
+O1 1.0000000000 0.0007000000 0.0386000000 0.2100000000  Biso 1.0 O 2 i
+O11 1.0000000000 0.2096000000 0.4820000000 0.9928000000  Biso 1.0 O 2 i
+O12 1.0000000000 0.2088000000 0.9830000000 0.5051000000  Biso 1.0 O 2 i
+O2 1.0000000000 0.5038000000 0.5361000000 0.2181000000  Biso 1.0 O 2 i
+O3 1.0000000000 0.0076000000 0.4660000000 0.2884000000  Biso 1.0 O 2 i
+O4 1.0000000000 0.4972000000 0.9638000000 0.2878000000  Biso 1.0 O 2 i
+O5 1.0000000000 0.2851000000 0.2574000000 0.2870000000  Biso 1.0 O 2 i
+O6 1.0000000000 0.2204000000 0.7630000000 0.2232000000  Biso 1.0 O 2 i
+O7 1.0000000000 0.2186000000 0.2627000000 0.7258000000  Biso 1.0 O 2 i
+O8 1.0000000000 0.2840000000 0.7583000000 0.7679000000  Biso 1.0 O 2 i
+O9 1.0000000000 0.2943000000 0.0422000000 0.9998000000  Biso 1.0 O 2 i
+W13 1.0000000000 0.2566000000 0.0259000000 0.2850000000  Biso 1.0 W 2 i
+W14 1.0000000000 0.2502000000 0.5280000000 0.2158000000  Biso 1.0 W 2 i
+W15 1.0000000000 0.2438000000 0.0313000000 0.7817000000  Biso 1.0 W 2 i
+W16 1.0000000000 0.2499000000 0.5338000000 0.7190000000  Biso 1.0 W 2 i

@@ -1,0 +1,24 @@
+{
+    "uid": "DV64",
+    "prototype": "Fe2S4Sr",
+    "prototype_tex": "Fe$_{2}$S$_{4}$Sr",
+    "label": "AB2C4D_tP16_125_a_cd_m_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        7.91,
+        0.695322,
+        0.409,
+        0.75
+    ],
+    "strukturbericht": null,
+    "title": "SrFe$_{2}$S$_{4}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2C4D_tP16_125_a_cd_m_b-001"
+}

@@ -1,0 +1,37 @@
+{
+    "uid": "YX16",
+    "prototype": "Al7Cu2Fe",
+    "prototype_tex": "Al$_{7}$Cu$_{2}$Fe",
+    "label": "A7B2C_tP40_128_egi_h_e-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "x3",
+        "x4",
+        "y4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        6.336,
+        2.34691,
+        0.134,
+        0.2992,
+        0.165,
+        0.278,
+        0.088,
+        0.198,
+        0.42,
+        0.1
+    ],
+    "strukturbericht": "E9_a",
+    "title": "FeCu$_{2}$Al$_{7}$ ($E9_{a}$) Structure",
+    "part": 2,
+    "legacy": false,
+    "strukturbericht_tex": "$E9_{a}$",
+    "compounds": {},
+    "alias": "A7B2C_tP40_128_egi_h_e"
+}

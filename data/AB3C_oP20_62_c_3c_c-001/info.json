@@ -1,0 +1,43 @@
+{
+    "uid": "Z6H8",
+    "prototype": "CdCl3(NH4)",
+    "prototype_tex": "CdCl$_{3}$(NH$_{4}$)",
+    "label": "AB3C_oP20_62_c_3c_c-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        8.96,
+        0.44308,
+        1.6596,
+        0.665,
+        0.946,
+        0.784,
+        0.785,
+        0.667,
+        0.504,
+        0.526,
+        0.102,
+        0.93,
+        0.18
+    ],
+    "strukturbericht": "E2_4",
+    "title": "(NH$_{4}$)CdCl$_{3}$ ($E2_{4}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$E2_{4}$",
+    "compounds": {},
+    "alias": "AB3C_oP20_62_c_3c_c"
+}

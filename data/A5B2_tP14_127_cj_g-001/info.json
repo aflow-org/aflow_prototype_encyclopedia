@@ -1,0 +1,26 @@
+{
+    "uid": "BAHM",
+    "prototype": "Hg5Mn2",
+    "prototype_tex": "Hg$_{5}$Mn$_{2}$",
+    "label": "A5B2_tP14_127_cj_g-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3",
+        "y3"
+    ],
+    "parameter_values": [
+        9.758,
+        0.307235,
+        0.18,
+        0.063,
+        0.204
+    ],
+    "strukturbericht": null,
+    "title": "Mn$_{2}$Hg$_{5}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A5B2_tP14_127_cj_g-001"
+}

@@ -1,0 +1,20 @@
+{
+    "uid": "ACQJ",
+    "prototype": "CaCuO2",
+    "prototype_tex": "CaCuO$_{2}$",
+    "label": "ABC2_tP4_123_a_d_e-001",
+    "parameter_symbol": [
+        "a",
+        "c/a"
+    ],
+    "parameter_values": [
+        3.8611,
+        0.82865
+    ],
+    "strukturbericht": null,
+    "title": "CaCuO$_{2}$ Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC2_tP4_123_d_a_f"
+}

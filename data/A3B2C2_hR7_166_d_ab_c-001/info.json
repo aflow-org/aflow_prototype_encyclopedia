@@ -1,0 +1,22 @@
+{
+    "uid": "SD1B",
+    "prototype": "Ni3Pb2S2",
+    "prototype_tex": "Ni$_{3}$Pb$_{2}$S$_{2}$",
+    "label": "A3B2C2_hR7_166_d_ab_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3"
+    ],
+    "parameter_values": [
+        5.59495,
+        2.43539,
+        0.725
+    ],
+    "strukturbericht": null,
+    "title": "Shandite (Ni$_{3}$Pb$_{2}$S$_{2}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B2C2_hR7_166_d_ab_c"
+}

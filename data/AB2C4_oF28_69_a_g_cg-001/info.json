@@ -1,0 +1,26 @@
+{
+    "uid": "LB5P",
+    "prototype": "CuLa2O4",
+    "prototype_tex": "CuLa$_{2}$O$_{4}$",
+    "label": "AB2C4_oF28_69_a_g_cg-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x3",
+        "x4"
+    ],
+    "parameter_values": [
+        13.17,
+        0.407213,
+        0.410706,
+        0.362,
+        0.182
+    ],
+    "strukturbericht": null,
+    "title": "Face-Centered Orthorhombic La$_{2}$CuO$_{4}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2C4_oF28_69_a_g_cg-001"
+}

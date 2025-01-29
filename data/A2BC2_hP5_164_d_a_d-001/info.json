@@ -1,0 +1,24 @@
+{
+    "uid": "N2MR",
+    "prototype": "H2MgO2",
+    "prototype_tex": "H$_{2}$MgO$_{2}$",
+    "label": "A2BC2_hP5_164_d_a_d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "z3"
+    ],
+    "parameter_values": [
+        3.1498,
+        1.51445,
+        0.413,
+        0.2203
+    ],
+    "strukturbericht": null,
+    "title": "Brucite [Mg(OH)$_{2}$] Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BC2_hP5_164_d_a_d"
+}

@@ -1,0 +1,32 @@
+{
+    "uid": "Y6BX",
+    "prototype": "CuLa2O4",
+    "prototype_tex": "CuLa$_{2}$O$_{4}$",
+    "label": "AB2C4_oC28_64_a_f_ef-003",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y2",
+        "y3",
+        "z3",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        5.3568,
+        2.45355,
+        1.00915,
+        0.00719,
+        0.63855,
+        0.99328,
+        0.81633,
+        0.03406
+    ],
+    "strukturbericht": null,
+    "title": "Base-Centered Orthorhombic La$_{2}$CuO$_{4}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2C4_oC28_64_a_f_ef-003"
+}

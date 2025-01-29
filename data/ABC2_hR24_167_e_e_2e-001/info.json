@@ -1,0 +1,29 @@
+{
+    "uid": "L33F",
+    "prototype": "BKO2",
+    "prototype_tex": "BKO$_{2}$",
+    "label": "ABC2_hR24_167_e_e_2e-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3",
+        "x4"
+    ],
+    "parameter_values": [
+        12.7599,
+        0.575234,
+        0.3611,
+        0.6887,
+        0.4657,
+        0.1416
+    ],
+    "strukturbericht": "F5_13",
+    "title": "KBO$_{2}$ ($F5_{13}$) Structure",
+    "part": 2,
+    "legacy": false,
+    "strukturbericht_tex": "$F5_{13}$",
+    "compounds": {},
+    "alias": "ABC2_hR24_167_e_e_2e"
+}

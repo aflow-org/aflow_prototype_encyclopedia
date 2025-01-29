@@ -1,0 +1,23 @@
+{
+    "uid": "J6ND",
+    "prototype": "CrNaS2",
+    "prototype_tex": "CrNaS$_{2}$",
+    "label": "ABC2_hR4_166_a_b_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3"
+    ],
+    "parameter_values": [
+        3.55607,
+        5.44558,
+        0.2667
+    ],
+    "strukturbericht": "F5_1",
+    "title": "Caswellsilverite (CrNaS$_{2}$, $F5_{1}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$F5_{1}$",
+    "compounds": {},
+    "alias": "ABC2_hR4_166_a_b_c"
+}

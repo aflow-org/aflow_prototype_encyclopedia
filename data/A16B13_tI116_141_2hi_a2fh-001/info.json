@@ -1,0 +1,42 @@
+{
+    "uid": "NCQA",
+    "prototype": "O16V13",
+    "prototype_tex": "O$_{16}$V$_{13}$",
+    "label": "A16B13_tI116_141_2hi_a2fh-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3",
+        "y4",
+        "z4",
+        "y5",
+        "z5",
+        "y6",
+        "z6",
+        "x7",
+        "y7",
+        "z7"
+    ],
+    "parameter_values": [
+        11.72,
+        0.7035,
+        0.875,
+        0.375,
+        0.875,
+        0.25,
+        0.875,
+        0.75,
+        0.875,
+        0.5,
+        0.125,
+        0.0,
+        0.25
+    ],
+    "strukturbericht": null,
+    "title": "V$_{13}$O$_{16}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A16B13_tI116_141_2hi_a2fh-001"
+}

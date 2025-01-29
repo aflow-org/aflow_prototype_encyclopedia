@@ -1,0 +1,38 @@
+{
+    "uid": "QPSD",
+    "prototype": "C",
+    "prototype_tex": "C",
+    "label": "A_oP16_55_2g2h-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "y1",
+        "x2",
+        "y2",
+        "x3",
+        "y3",
+        "x4",
+        "y4"
+    ],
+    "parameter_values": [
+        7.7886,
+        0.613101,
+        0.320443,
+        0.6731,
+        0.963,
+        0.8435,
+        0.8087,
+        0.9546,
+        0.8613,
+        0.5704,
+        0.8926
+    ],
+    "strukturbericht": null,
+    "title": "R-carbon Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A_oP16_55_2g2h"
+}

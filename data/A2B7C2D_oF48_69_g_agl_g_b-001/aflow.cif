@@ -1,0 +1,76 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  SrLa2Sc2O7
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/ A2B7C2D_oF48_69_g_agl_g_b-001
+
+# Last updated on 2024/08/13
+
+data_SrLa2Sc2O7
+_pd_phase_name SrLa2Sc2O7
+_cell_length_a  20.5340000000
+_cell_length_b  5.7367000000
+_cell_length_c  5.7818000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Fmmm'
+_symmetry_Int_Tables_Number  69
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  -x,y,-z
+  4  x,-y,-z
+  5  -x,-y,-z
+  6  x,y,-z
+  7  x,-y,z
+  8  -x,y,z
+  9  x,y+1/2,z+1/2
+  10  -x,-y+1/2,z+1/2
+  11  -x,y+1/2,-z+1/2
+  12  x,-y+1/2,-z+1/2
+  13  -x,-y+1/2,-z+1/2
+  14  x,y+1/2,-z+1/2
+  15  x,-y+1/2,z+1/2
+  16  -x,y+1/2,z+1/2
+  17  x+1/2,y,z+1/2
+  18  -x+1/2,-y,z+1/2
+  19  -x+1/2,y,-z+1/2
+  20  x+1/2,-y,-z+1/2
+  21  -x+1/2,-y,-z+1/2
+  22  x+1/2,y,-z+1/2
+  23  x+1/2,-y,z+1/2
+  24  -x+1/2,y,z+1/2
+  25  x+1/2,y+1/2,z
+  26  -x+1/2,-y+1/2,z
+  27  -x+1/2,y+1/2,-z
+  28  x+1/2,-y+1/2,-z
+  29  -x+1/2,-y+1/2,-z
+  30  x+1/2,y+1/2,-z
+  31  x+1/2,-y+1/2,z
+  32  -x+1/2,y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+O2  1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 O 4 a
+Sr6 1.0000000000 0.0000000000 0.0000000000 0.5000000000  Biso 1.0 Sr 4 b
+La1 1.0000000000 0.3154000000 0.0000000000 0.0000000000  Biso 1.0 La 8 g
+O3  1.0000000000 0.2074000000 0.0000000000 0.0000000000  Biso 1.0 O 8 g
+Sc5 1.0000000000 0.0967000000 0.0000000000 0.0000000000  Biso 1.0 Sc 8 g
+O4  1.0000000000 0.1003000000 0.2500000000 0.2500000000  Biso 1.0 O 16 l

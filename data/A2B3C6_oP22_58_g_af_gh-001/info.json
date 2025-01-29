@@ -1,0 +1,38 @@
+{
+    "uid": "59YW",
+    "prototype": "B2Mg3O6",
+    "prototype_tex": "B$_{2}$Mg$_{3}$O$_{6}$",
+    "label": "A2B3C6_oP22_58_g_af_gh-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z2",
+        "x3",
+        "y3",
+        "x4",
+        "y4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        4.497,
+        1.20036,
+        1.87147,
+        0.179,
+        0.56,
+        0.25,
+        0.258,
+        0.316,
+        0.705,
+        0.218,
+        0.139
+    ],
+    "strukturbericht": null,
+    "title": "Kotoite (Mg$_{3}$(BO$_{3}$)$_{2}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B3C6_oP22_58_g_af_gh"
+}

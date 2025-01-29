@@ -1,0 +1,22 @@
+{
+    "uid": "72PY",
+    "prototype": "B3Re",
+    "prototype_tex": "B$_{3}$Re",
+    "label": "A3B_hP8_194_af_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3"
+    ],
+    "parameter_values": [
+        2.9,
+        2.57759,
+        0.55
+    ],
+    "strukturbericht": null,
+    "title": "ReB$_{3}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B_hP8_194_af_c"
+}

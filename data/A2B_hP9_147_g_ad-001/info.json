@@ -1,0 +1,29 @@
+{
+    "uid": "RQCB",
+    "prototype": "AgZn",
+    "prototype_tex": "AgZn",
+    "label": "A2B_hP9_147_g_ad-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        7.636,
+        0.369264,
+        0.25,
+        0.33333,
+        -3.9061e-17,
+        0.25
+    ],
+    "strukturbericht": "B_b",
+    "title": "$\\gamma$-AgZn ($B_{b}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$B_{b}$",
+    "compounds": {},
+    "alias": "A2B_hP9_147_g_ad"
+}

@@ -1,0 +1,22 @@
+{
+    "uid": "AFN9",
+    "prototype": "O3SrZr",
+    "prototype_tex": "O$_{3}$SrZr",
+    "label": "A3BC_tI20_140_ah_b_c-002",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x4"
+    ],
+    "parameter_values": [
+        5.8456,
+        1.416587,
+        0.2864
+    ],
+    "strukturbericht": null,
+    "title": "$\\gamma$-SrZrO$_{3}$ Tetragonal Perovskite Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3BC_tI20_140_ah_b_c-002"
+}

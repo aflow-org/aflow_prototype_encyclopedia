@@ -1,0 +1,21 @@
+{
+    "uid": "9631",
+    "prototype": "La",
+    "prototype_tex": "La",
+    "label": "A_hP4_194_ac-001",
+    "parameter_symbol": [
+        "a",
+        "c/a"
+    ],
+    "parameter_values": [
+        3.77,
+        3.21751
+    ],
+    "strukturbericht": "A3'",
+    "title": "$\\alpha$-La ($A3'$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$A3'$",
+    "compounds": {},
+    "alias": "A_hP4_194_ac"
+}

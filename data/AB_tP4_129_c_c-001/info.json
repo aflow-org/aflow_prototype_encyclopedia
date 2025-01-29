@@ -1,0 +1,25 @@
+{
+    "uid": "EKF2",
+    "prototype": "CuTi",
+    "prototype_tex": "CuTi",
+    "label": "AB_tP4_129_c_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2"
+    ],
+    "parameter_values": [
+        3.107,
+        1.90505,
+        0.1,
+        0.65
+    ],
+    "strukturbericht": "B11",
+    "title": "$\\gamma$-CuTi ($B11$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$B11$",
+    "compounds": {},
+    "alias": "AB_tP4_129_c_c"
+}

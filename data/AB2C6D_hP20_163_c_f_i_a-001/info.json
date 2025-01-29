@@ -1,0 +1,28 @@
+{
+    "uid": "UZBW",
+    "prototype": "GeNa2O6Te",
+    "prototype_tex": "GeNa$_{2}$O$_{6}$Te",
+    "label": "AB2C6D_hP20_163_c_f_i_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        5.0958,
+        2.08652,
+        0.5466,
+        0.0589033,
+        0.706897,
+        0.1455
+    ],
+    "strukturbericht": null,
+    "title": "$\\beta$-Na$_{2}$GeTeO$_{6}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2C6D_hP20_163_c_f_i_a-001"
+}

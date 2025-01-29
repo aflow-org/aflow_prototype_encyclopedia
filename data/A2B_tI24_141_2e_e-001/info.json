@@ -1,0 +1,26 @@
+{
+    "uid": "DBUS",
+    "prototype": "Ga2Hf",
+    "prototype_tex": "Ga$_{2}$Hf",
+    "label": "A2B_tI24_141_2e_e-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3"
+    ],
+    "parameter_values": [
+        4.046,
+        6.28917,
+        0.125,
+        0.289,
+        0.949
+    ],
+    "strukturbericht": null,
+    "title": "Ga$_{2}$Hf Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_tI24_141_2e_e"
+}

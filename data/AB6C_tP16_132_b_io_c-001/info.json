@@ -1,0 +1,26 @@
+{
+    "uid": "U3ZM",
+    "prototype": "AgF6U",
+    "prototype_tex": "AgF$_{6}$U",
+    "label": "AB6C_tP16_132_b_io_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        5.423,
+        1.46598,
+        0.8,
+        0.7,
+        0.333
+    ],
+    "strukturbericht": null,
+    "title": "AgUF$_{6}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB6C_tP16_132_d_io_a"
+}

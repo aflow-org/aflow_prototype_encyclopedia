@@ -1,0 +1,34 @@
+{
+    "uid": "13WH",
+    "prototype": "Ni12P5",
+    "prototype_tex": "Ni$_{12}$P$_{5}$",
+    "label": "A12B5_tI34_87_hi_ah-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "y2",
+        "x3",
+        "y3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        8.646,
+        0.586398,
+        0.368,
+        0.06,
+        0.195,
+        0.415,
+        0.616,
+        0.682,
+        0.748
+    ],
+    "strukturbericht": null,
+    "title": "Ni$_{12}$P$_{5}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A12B5_tI34_87_hi_ah-001"
+}

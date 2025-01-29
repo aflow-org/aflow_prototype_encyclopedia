@@ -1,0 +1,22 @@
+{
+    "uid": "TH7D",
+    "prototype": "B2Re",
+    "prototype_tex": "B$_{2}$Re",
+    "label": "A2B_hP6_194_f_c-003",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2"
+    ],
+    "parameter_values": [
+        2.9006,
+        2.57791,
+        0.54783
+    ],
+    "strukturbericht": null,
+    "title": "ReB$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_hP6_194_f_c-003"
+}

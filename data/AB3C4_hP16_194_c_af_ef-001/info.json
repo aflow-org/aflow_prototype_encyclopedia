@@ -1,0 +1,26 @@
+{
+    "uid": "53FU",
+    "prototype": "AlN3Ti4",
+    "prototype_tex": "AlN$_{3}$Ti$_{4}$",
+    "label": "AB3C4_hP16_194_c_af_ef-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4",
+        "z5"
+    ],
+    "parameter_values": [
+        2.9905,
+        7.81809,
+        0.3457,
+        0.605,
+        0.0539
+    ],
+    "strukturbericht": null,
+    "title": "AlN$_{3}$Ti$_{4}$ Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3C4_hP16_194_c_af_ef"
+}

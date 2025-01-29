@@ -1,0 +1,22 @@
+{
+    "uid": "KTH0",
+    "prototype": "O",
+    "prototype_tex": "O",
+    "label": "A_hR2_166_c-003",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1"
+    ],
+    "parameter_values": [
+        3.289,
+        3.42992,
+        0.0543
+    ],
+    "strukturbericht": null,
+    "title": "$\\beta$-O$_{2}$ Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A_hR2_166_c.beta-O"
+}

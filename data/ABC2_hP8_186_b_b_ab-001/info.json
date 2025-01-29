@@ -1,0 +1,28 @@
+{
+    "uid": "5BYD",
+    "prototype": "CoLiO2",
+    "prototype_tex": "CoLiO$_{2}$",
+    "label": "ABC2_hP8_186_b_b_ab-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3",
+        "z4"
+    ],
+    "parameter_values": [
+        2.806,
+        3.39273,
+        0.11,
+        0.0,
+        0.75,
+        0.39
+    ],
+    "strukturbericht": null,
+    "title": "O2-LiCoO$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC2_hP8_186_b_b_ab-001"
+}

@@ -1,0 +1,22 @@
+{
+    "uid": "1D6N",
+    "prototype": "As2BaOTi2",
+    "prototype_tex": "As$_{2}$BaOTi$_{2}$",
+    "label": "A2BCD2_tP6_123_h_a_b_e-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z4"
+    ],
+    "parameter_values": [
+        4.047,
+        1.797628,
+        0.256
+    ],
+    "strukturbericht": null,
+    "title": "BaTi$_{2}$As$_{2}$O Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BCD2_tP6_123_h_a_b_e-001"
+}

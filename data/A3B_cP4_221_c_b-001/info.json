@@ -1,0 +1,19 @@
+{
+    "uid": "3DRV",
+    "prototype": "O3Re",
+    "prototype_tex": "O$_{3}$Re",
+    "label": "A3B_cP4_221_c_b-001",
+    "parameter_symbol": [
+        "a"
+    ],
+    "parameter_values": [
+        3.734
+    ],
+    "strukturbericht": "D0_9",
+    "title": "$\\alpha$-ReO$_{3}$ ($D0_{9}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$D0_{9}$",
+    "compounds": {},
+    "alias": "A3B_cP4_221_d_a"
+}

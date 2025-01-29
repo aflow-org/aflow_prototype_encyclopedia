@@ -1,0 +1,30 @@
+{
+    "uid": "CEQR",
+    "prototype": "Ca2O4Si",
+    "prototype_tex": "Ca$_{2}$O$_{4}$Si",
+    "label": "A3B12C_hP32_194_af_2k_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "x4",
+        "z4",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        5.532,
+        1.32448,
+        0.7373,
+        0.272103,
+        0.4595,
+        0.174103,
+        0.2018
+    ],
+    "strukturbericht": null,
+    "title": "Hexagonal $\\alpha$-Ca$_{2}$SiO$_{4}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B12C_hP32_194_af_2k_c-001"
+}

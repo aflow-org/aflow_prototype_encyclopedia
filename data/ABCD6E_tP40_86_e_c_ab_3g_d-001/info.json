@@ -1,0 +1,40 @@
+{
+    "uid": "UT10",
+    "prototype": "CaCrMnO6Sb",
+    "prototype_tex": "CaCrMnO$_{6}$Sb",
+    "label": "ABCD6E_tP40_86_e_c_ab_3g_d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z5",
+        "x6",
+        "y6",
+        "z6",
+        "x7",
+        "y7",
+        "z7",
+        "x8",
+        "y8",
+        "z8"
+    ],
+    "parameter_values": [
+        7.632,
+        1.00388,
+        0.2201,
+        0.959,
+        0.552,
+        0.2396,
+        0.748,
+        0.9498,
+        0.5643,
+        0.748,
+        0.0573,
+        0.9655
+    ],
+    "strukturbericht": null,
+    "title": "``Double-Double'' Perovskite CaMnCrSbO$_{6}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABCD6E_tP40_86_e_c_ab_3g_d-001"
+}

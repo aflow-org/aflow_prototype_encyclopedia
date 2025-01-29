@@ -1,0 +1,40 @@
+{
+    "uid": "WUSJ",
+    "prototype": "AlH3",
+    "prototype_tex": "AlH$_{3}$",
+    "label": "AB3_oP24_58_ag_c2gh-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x3",
+        "y3",
+        "x4",
+        "y4",
+        "x5",
+        "y5",
+        "x6",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        5.3806,
+        1.36704,
+        1.07332,
+        0.7125,
+        0.5849,
+        0.874,
+        0.778,
+        0.406,
+        0.63,
+        0.738,
+        0.578,
+        0.691
+    ],
+    "strukturbericht": null,
+    "title": "$\\gamma$-Alane (AlH$_{3}$) Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3_oP24_58_ag_c2gh-001"
+}

@@ -1,0 +1,24 @@
+{
+    "uid": "8379",
+    "prototype": "GeTe",
+    "prototype_tex": "GeTe",
+    "label": "AB_hR2_160_a_a-002",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2"
+    ],
+    "parameter_values": [
+        4.17431,
+        2.54282,
+        0.0,
+        0.521
+    ],
+    "strukturbericht": null,
+    "title": "GeTe Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_hR2_160_a_a-002"
+}

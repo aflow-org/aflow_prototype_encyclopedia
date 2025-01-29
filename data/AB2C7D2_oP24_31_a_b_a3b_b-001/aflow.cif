@@ -1,0 +1,49 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  BaBe2O7Si2 clinobarylite
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/AB2C7D2_oP24_31_a_b_a3b_b-001
+
+# Last updated on 2024/08/01
+
+data_Ba2Be4O14Si4
+_pd_phase_name Ba2Be4O14Si4
+_cell_length_a  11.6491000000
+_cell_length_b  4.9175000000
+_cell_length_c  4.6746000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pmn2_{1}'
+_symmetry_Int_Tables_Number  31
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z+1/2
+  3  x+1/2,-y,z+1/2
+  4  -x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Ba1 1.0000000000 0.0000000000 0.7968400000 0.0905000000  Biso 1.0 Ba 2 a
+O3 1.0000000000 0.0000000000 0.2236000000 0.6793000000  Biso 1.0 O 2 a
+Be2 1.0000000000 0.7510800000 0.1693000000 0.0849000000  Biso 1.0 Be 4 b
+O4 1.0000000000 0.6389500000 0.3560000000 0.1367000000  Biso 1.0 O 4 b
+O5 1.0000000000 0.7769000000 0.1340000000 0.7298000000  Biso 1.0 O 4 b
+O6 1.0000000000 0.6327200000 0.7295000000 0.7284000000  Biso 1.0 O 4 b
+Si7 1.0000000000 0.6282600000 0.6752800000 0.0692000000  Biso 1.0 Si 4 b

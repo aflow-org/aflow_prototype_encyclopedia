@@ -1,0 +1,34 @@
+{
+    "uid": "DUB2",
+    "prototype": "AsCuS",
+    "prototype_tex": "AsCuS",
+    "label": "ABC_oP12_62_c_c_c-017",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "z3"
+    ],
+    "parameter_values": [
+        11.347,
+        0.330775,
+        0.480568,
+        0.01373,
+        0.35177,
+        0.17454,
+        0.06264,
+        0.83424,
+        0.1804
+    ],
+    "strukturbericht": null,
+    "title": "Lautite (CuAsS) Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC_oP12_62_c_c_c-017"
+}

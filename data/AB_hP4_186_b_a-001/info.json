@@ -1,0 +1,25 @@
+{
+    "uid": "QUDC",
+    "prototype": "BN",
+    "prototype_tex": "BN",
+    "label": "AB_hP4_186_b_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2"
+    ],
+    "parameter_values": [
+        2.51,
+        2.66932,
+        0.0,
+        0.05
+    ],
+    "strukturbericht": "B12",
+    "title": "Original BN ($B12$) Structure ({\\em Obsolete})",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$B12$",
+    "compounds": {},
+    "alias": "AB_hP4_186_b_a"
+}

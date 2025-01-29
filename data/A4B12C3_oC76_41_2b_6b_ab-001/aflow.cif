@@ -1,0 +1,56 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Bi4O12Ti3
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A4B12C3_oC76_41_2b_6b_ab-001
+
+# Last updated on 2024/08/01
+
+data_Bi16O48Ti12
+_pd_phase_name Bi16O48Ti12
+_cell_length_a  5.4110000000
+_cell_length_b  32.8300000000
+_cell_length_c  5.4480000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Aea2'
+_symmetry_Int_Tables_Number  41
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  x+1/2,-y+1/2,z
+  4  -x+1/2,y+1/2,z
+  5  x,y+1/2,z+1/2
+  6  -x,-y+1/2,z+1/2
+  7  x+1/2,-y,z+1/2
+  8  -x+1/2,y,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Ti9 1.0000000000 0.0000000000 0.0000000000 0.9548000000  Biso 1.0 Ti 4 a
+Bi1 1.0000000000 0.9978000000 0.4332000000 0.0000000000  Biso 1.0 Bi 8 b
+Bi2 1.0000000000 0.0199000000 0.2886500000 0.0009000000  Biso 1.0 Bi 8 b
+O3 1.0000000000 0.2220000000 0.0033000000 0.2930000000  Biso 1.0 O 8 b
+O4 1.0000000000 0.2520000000 0.2499000000 0.7360000000  Biso 1.0 O 8 b
+O5 1.0000000000 0.9750000000 0.0596000000 0.9270000000  Biso 1.0 O 8 b
+O6 1.0000000000 0.9260000000 0.1815000000 0.0400000000  Biso 1.0 O 8 b
+O7 1.0000000000 0.2850000000 0.3785000000 0.7060000000  Biso 1.0 O 8 b
+O8 1.0000000000 0.2000000000 0.1310000000 0.3410000000  Biso 1.0 O 8 b
+Ti10 1.0000000000 0.9990000000 0.1286000000 0.9467000000  Biso 1.0 Ti 8 b

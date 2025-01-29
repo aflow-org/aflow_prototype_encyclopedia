@@ -1,0 +1,36 @@
+{
+    "uid": "7YK7",
+    "prototype": "Mo2O8PrRb",
+    "prototype_tex": "Mo$_{2}$O$_{8}$PrRb",
+    "label": "A2B8CD_oP24_48_h_2m_a_b-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x3",
+        "x4",
+        "y4",
+        "z4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        9.5404,
+        0.663515,
+        0.663515,
+        0.5022,
+        0.114,
+        0.129,
+        0.94,
+        0.601,
+        0.058,
+        0.858
+    ],
+    "strukturbericht": null,
+    "title": "$\\alpha$-RbPr[MoO$_{4}$]$_{2}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B8CD_oP24_48_k_2m_d_b"
+}

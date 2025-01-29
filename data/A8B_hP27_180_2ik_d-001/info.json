@@ -1,0 +1,30 @@
+{
+    "uid": "T338",
+    "prototype": "C8Cs",
+    "prototype_tex": "C$_{8}$Cs",
+    "label": "A8B_hP27_180_2ik_d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        4.9601,
+        3.59811,
+        0.66667,
+        0.83333,
+        0.16667,
+        0.33333,
+        0.33333
+    ],
+    "strukturbericht": null,
+    "title": "CsC$_{8}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A8B_hP27_180_2ik_d-001"
+}

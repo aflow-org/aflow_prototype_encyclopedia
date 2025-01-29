@@ -1,0 +1,32 @@
+{
+    "uid": "CQMQ",
+    "prototype": "CuGaO3SSr2",
+    "prototype_tex": "CuGaO$_{3}$SSr$_{2}$",
+    "label": "ABC3DE2_tP16_129_a_c_cf_c_2c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "z3",
+        "z4",
+        "z5",
+        "z6",
+        "z7"
+    ],
+    "parameter_values": [
+        3.8606,
+        4.0745,
+        0.3144,
+        0.427,
+        0.094,
+        0.8158,
+        0.586,
+        0.7101
+    ],
+    "strukturbericht": null,
+    "title": "Sr$_{2}$CuGaSO$_{3}$",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC3DE2_tP16_129_a_c_cf_c_2c-001"
+}

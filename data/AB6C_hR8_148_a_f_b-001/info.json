@@ -1,0 +1,26 @@
+{
+    "uid": "7RW9",
+    "prototype": "CuF6Zr",
+    "prototype_tex": "CuF$_{6}$Zr",
+    "label": "AB6C_hR8_148_a_f_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        5.53477,
+        2.50981,
+        0.2493,
+        0.6973,
+        0.8039
+    ],
+    "strukturbericht": null,
+    "title": "$\\beta$-CuZrF$_{6}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB6C_hR8_148_a_f_b-001"
+}

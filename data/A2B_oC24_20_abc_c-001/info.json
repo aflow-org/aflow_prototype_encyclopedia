@@ -1,0 +1,38 @@
+{
+    "uid": "NDBQ",
+    "prototype": "O2Si",
+    "prototype_tex": "O$_{2}$Si",
+    "label": "A2B_oC24_20_abc_c-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "y2",
+        "x3",
+        "y3",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        8.74,
+        0.576659,
+        0.942792,
+        0.6664,
+        0.4403,
+        0.7547,
+        0.1971,
+        0.2713,
+        0.66846,
+        0.96411,
+        0.18857
+    ],
+    "strukturbericht": null,
+    "title": "Orthorhombic (High) Tridymite (SiO$_{2}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_oC24_20_abc_c"
+}

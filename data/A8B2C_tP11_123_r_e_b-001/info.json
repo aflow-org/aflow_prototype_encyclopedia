@@ -1,0 +1,25 @@
+{
+    "uid": "QEVQ",
+    "prototype": "(H2O)8(OH)2Sr",
+    "prototype_tex": "(H$_{2}$O)$_{8}$(OH)$_{2}$Sr",
+    "label": "A8B2C_tP11_123_r_e_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "z3"
+    ],
+    "parameter_values": [
+        6.41,
+        0.905928,
+        0.29,
+        0.75
+    ],
+    "strukturbericht": "E6_1",
+    "title": "$E6_{1}$ [Sr(OH)$_{2}$(H$_{2}$O)$_{8}$] Structure ({\\em Obsolete})",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$E6_{1}$",
+    "compounds": {},
+    "alias": "A8B2C_tP11_123_r_f_a"
+}

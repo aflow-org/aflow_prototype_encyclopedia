@@ -1,0 +1,28 @@
+{
+    "uid": "CG4B",
+    "prototype": "Cu1-xFexS4",
+    "prototype_tex": "Cu$_{1-x}$Fe$_{x}$S$_{4}$",
+    "label": "ABC2_hP8_164_d_d_cd-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3",
+        "z4"
+    ],
+    "parameter_values": [
+        3.783,
+        2.95929,
+        0.0921,
+        0.8453,
+        0.421,
+        0.6391
+    ],
+    "strukturbericht": null,
+    "title": "Nukundamite [(Cu$_{1-x}$Fe$_{x}$)$_{4}$S$_{4}$] Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC2_hP8_164_d_d_cd-001"
+}

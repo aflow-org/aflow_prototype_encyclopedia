@@ -1,0 +1,57 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Si24 clathrate
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A_oC24_63_3f-001
+
+# Last updated on 2024/08/01
+
+data_Si24
+_pd_phase_name Si24
+_cell_length_a  3.8223600000
+_cell_length_b  10.7007000000
+_cell_length_c  12.6258000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Cmcm'
+_symmetry_Int_Tables_Number  63
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z+1/2
+  3  -x,y,-z+1/2
+  4  x,-y,-z
+  5  -x,-y,-z
+  6  x,y,-z+1/2
+  7  x,-y,z+1/2
+  8  -x,y,z
+  9  x+1/2,y+1/2,z
+  10  -x+1/2,-y+1/2,z+1/2
+  11  -x+1/2,y+1/2,-z+1/2
+  12  x+1/2,-y+1/2,-z
+  13  -x+1/2,-y+1/2,-z
+  14  x+1/2,y+1/2,-z+1/2
+  15  x+1/2,-y+1/2,z+1/2
+  16  -x+1/2,y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Si1 1.0000000000 0.0000000000 0.0284000000 0.5903000000  Biso 1.0 Si 8 f
+Si2 1.0000000000 0.0000000000 0.2435000000 0.5551000000  Biso 1.0 Si 8 f
+Si3 1.0000000000 -0.0000000000 0.5705000000 0.3412000000  Biso 1.0 Si 8 f

@@ -1,0 +1,20 @@
+{
+    "uid": "4BRY",
+    "prototype": "Mn2RhSn",
+    "prototype_tex": "Mn$_{2}$RhSn",
+    "label": "A2BC_tI8_119_ac_b_d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a"
+    ],
+    "parameter_values": [
+        4.292,
+        1.54217
+    ],
+    "strukturbericht": null,
+    "title": "Mn$_{2}$RhSn Tetragonal Heusler Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BC_tI8_119_ac_b_d-001"
+}

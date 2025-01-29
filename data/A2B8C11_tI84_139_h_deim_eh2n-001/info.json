@@ -1,0 +1,42 @@
+{
+    "uid": "DVM5",
+    "prototype": "Al2Ge8Sc11",
+    "prototype_tex": "Al$_{2}$Ge$_{8}$Sc$_{11}$",
+    "label": "A2B8C11_tI84_139_h_deim_eh2n-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "z3",
+        "x4",
+        "x5",
+        "x6",
+        "x7",
+        "z7",
+        "y8",
+        "z8",
+        "y9",
+        "z9"
+    ],
+    "parameter_values": [
+        10.419,
+        1.43718,
+        0.8815,
+        0.6688,
+        0.627,
+        0.8272,
+        0.647,
+        0.7047,
+        0.1711,
+        0.2507,
+        0.8102,
+        0.3356,
+        0.6024
+    ],
+    "strukturbericht": null,
+    "title": "Sc$_{11}$Al$_{2}$Ge$_{8}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B8C11_tI84_139_h_deim_eh2n-001"
+}

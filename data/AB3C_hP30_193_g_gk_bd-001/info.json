@@ -1,0 +1,28 @@
+{
+    "uid": "AE3Q",
+    "prototype": "BO3Tm",
+    "prototype_tex": "BO$_{3}$Tm",
+    "label": "AB3C_hP30_193_g_gk_bd-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "x4",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        6.54,
+        1.34709,
+        0.436267,
+        0.643267,
+        0.333267,
+        0.383
+    ],
+    "strukturbericht": null,
+    "title": "Ordered TmBO$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3C_hP30_193_g_gk_bd-001"
+}

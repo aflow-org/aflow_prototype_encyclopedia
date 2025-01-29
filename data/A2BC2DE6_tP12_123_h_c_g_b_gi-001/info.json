@@ -1,0 +1,28 @@
+{
+    "uid": "SY4M",
+    "prototype": "Ba2CaCu2HgO4",
+    "prototype_tex": "Ba$_{2}$CaCu$_{2}$HgO$_{4}$",
+    "label": "A2BC2DE6_tP12_123_h_c_g_b_gi-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4",
+        "z5",
+        "z6"
+    ],
+    "parameter_values": [
+        3.8493,
+        3.2853,
+        0.1226,
+        0.343,
+        0.2783,
+        0.1227
+    ],
+    "strukturbericht": null,
+    "title": "HgBa$_{2}$CaCu$_{2}$O$_{6}$ (Hg-1212) Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BC2DE6_tP12_123_h_c_g_b_gi-001"
+}

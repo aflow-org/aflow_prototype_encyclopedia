@@ -1,0 +1,56 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Cl7OPTi
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A7BCD_oP80_61_7c_c_c_c-001
+
+# Last updated on 2024/08/01
+
+data_Cl56O8P8Ti8
+_pd_phase_name Cl56O8P8Ti8
+_cell_length_a  12.4200000000
+_cell_length_b  12.7600000000
+_cell_length_c  13.5100000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pbca'
+_symmetry_Int_Tables_Number  61
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z+1/2
+  3  -x,y+1/2,-z+1/2
+  4  x+1/2,-y+1/2,-z
+  5  -x,-y,-z
+  6  x+1/2,y,-z+1/2
+  7  x,-y+1/2,z+1/2
+  8  -x+1/2,y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Cl1 1.0000000000 0.1062000000 0.5507000000 0.5424000000  Biso 1.0 Cl 8 c
+Cl2 1.0000000000 0.2364000000 0.3205000000 0.5231000000  Biso 1.0 Cl 8 c
+Cl3 1.0000000000 0.0098000000 0.2107000000 0.4306000000  Biso 1.0 Cl 8 c
+Cl4 1.0000000000 0.0092000000 0.3285000000 0.6506000000  Biso 1.0 Cl 8 c
+Cl5 1.0000000000 0.2852000000 0.5483000000 0.3103000000  Biso 1.0 Cl 8 c
+Cl6 1.0000000000 0.2769000000 0.3103000000 0.2522000000  Biso 1.0 Cl 8 c
+Cl7 1.0000000000 0.1207000000 0.4706000000 0.1548000000  Biso 1.0 Cl 8 c
+O8 1.0000000000 0.1075000000 0.4124000000 0.3564000000  Biso 1.0 O 8 c
+P9 1.0000000000 0.1875000000 0.4353000000 0.2819000000  Biso 1.0 P 8 c
+Ti10 1.0000000000 0.0629000000 0.3616000000 0.4986000000  Biso 1.0 Ti 8 c

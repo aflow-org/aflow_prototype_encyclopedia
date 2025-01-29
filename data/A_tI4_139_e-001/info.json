@@ -1,0 +1,22 @@
+{
+    "uid": "ZSDQ",
+    "prototype": "Si",
+    "prototype_tex": "Si",
+    "label": "A_tI4_139_e-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1"
+    ],
+    "parameter_values": [
+        3.3492,
+        1.94214,
+        0.819
+    ],
+    "strukturbericht": null,
+    "title": "Hypothetical BCT5 Si Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A_tI4_139_e"
+}

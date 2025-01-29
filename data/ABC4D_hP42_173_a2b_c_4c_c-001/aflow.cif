@@ -1,0 +1,53 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical composition: BaMgSiO4
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/ABC4D_hP42_173_a2b_c_4c_c-001
+
+# Last updated on 2024/07/04
+
+data_ABC4D_hP42_173_a2b_c_4c_c-001
+_pd_phase_name ABC4D_hP42_173_a2b_c_4c_c-001
+_cell_length_a  9.1118000000
+_cell_length_b  9.1118000000
+_cell_length_c  8.7371000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  120.0000000000
+_symmetry_space_group_name_H-M  'P6_{3}'
+_symmetry_Int_Tables_Number  173
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -y,x-y,z
+  3  -x+y,-x,z
+  4  -x,-y,z+1/2
+  5  y,-x+y,z+1/2
+  6  x-y,x,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Ba1 1.0000000000 0.0000000000 0.0000000000 0.2500000000  Biso 1.0 Ba 2 a
+Ba2 1.0000000000 0.3333333333 0.6666666667 0.2360000000  Biso 1.0 Ba 2 b
+Ba3 1.0000000000 0.3333333333 0.6666666667 0.7690000000  Biso 1.0 Ba 2 b
+Mg4 1.0000000000 0.6738000000 0.6680000000 0.5390000000  Biso 1.0 Mg 6 c
+O5 1.0000000000 0.7620000000 0.9025000000 0.5160000000  Biso 1.0 O 6 c
+O6 1.0000000000 0.4681000000 0.8980000000 0.4980000000  Biso 1.0 O 6 c
+O7 1.0000000000 0.7670000000 0.1918000000 0.4560000000  Biso 1.0 O 6 c
+O8 1.0000000000 0.7090000000 0.6581000000 0.7510000000  Biso 1.0 O 6 c
+Si9 1.0000000000 0.6530000000 0.9830000000 0.4350000000  Biso 1.0 Si 6 c

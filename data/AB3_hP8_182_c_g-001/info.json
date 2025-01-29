@@ -1,0 +1,22 @@
+{
+    "uid": "JRHU",
+    "prototype": "Fe3C",
+    "prototype_tex": "Fe$_{3}$C",
+    "label": "AB3_hP8_182_c_g-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2"
+    ],
+    "parameter_values": [
+        4.8507,
+        0.866968,
+        0.324903
+    ],
+    "strukturbericht": null,
+    "title": "Bainite (Fe$_{3}$C) Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3_hP8_182_c_g"
+}

@@ -1,0 +1,22 @@
+{
+    "uid": "BQ6N",
+    "prototype": "Al5W",
+    "prototype_tex": "Al$_{5}$W",
+    "label": "A5B_hP12_182_bcg_d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x4"
+    ],
+    "parameter_values": [
+        4.902,
+        1.80681,
+        0.666673
+    ],
+    "strukturbericht": null,
+    "title": "WAl$_{5}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A5B_hP12_182_bcg_d-001"
+}

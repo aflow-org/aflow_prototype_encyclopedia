@@ -1,0 +1,63 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Al4FeO10(OH)2Si staurolite S04
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A4BC12D2_oC76_63_eg_c_f3gh_g-001
+
+# Last updated on 2024/08/01
+
+data_Al16Fe4O48Si8
+_pd_phase_name Al16Fe4O48Si8
+_cell_length_a  16.5200000000
+_cell_length_b  7.8200000000
+_cell_length_c  5.6300000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Cmcm'
+_symmetry_Int_Tables_Number  63
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z+1/2
+  3  -x,y,-z+1/2
+  4  x,-y,-z
+  5  -x,-y,-z
+  6  x,y,-z+1/2
+  7  x,-y,z+1/2
+  8  -x,y,z
+  9  x+1/2,y+1/2,z
+  10  -x+1/2,-y+1/2,z+1/2
+  11  -x+1/2,y+1/2,-z+1/2
+  12  x+1/2,-y+1/2,-z
+  13  -x+1/2,-y+1/2,-z
+  14  x+1/2,y+1/2,-z+1/2
+  15  x+1/2,-y+1/2,z+1/2
+  16  -x+1/2,y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Fe3 1.0000000000 0.0000000000 0.6110000000 0.2500000000  Biso 1.0 Fe 4 c
+Al1 1.0000000000 0.3280000000 -0.0000000000 0.0000000000  Biso 1.0 Al 8 e
+O4 1.0000000000 0.0000000000 0.7780000000 0.0000000000  Biso 1.0 O 8 f
+Al2 1.0000000000 0.4080000000 0.7500000000 0.2500000000  Biso 1.0 Al 8 g
+O5 1.0000000000 0.0940000000 -0.0000000000 0.2500000000  Biso 1.0 O 8 g
+O6 1.0000000000 0.2500000000 -0.0000000000 0.2500000000  Biso 1.0 O 8 g
+O7 1.0000000000 0.4060000000 -0.0000000000 0.2500000000  Biso 1.0 O 8 g
+Si9 1.0000000000 0.1670000000 0.8750000000 0.2500000000  Biso 1.0 Si 8 g
+O8 1.0000000000 0.1580000000 0.6730000000 0.0000000000  Biso 1.0 O 16 h

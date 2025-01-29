@@ -1,0 +1,24 @@
+{
+    "uid": "BDG1",
+    "prototype": "GaSe",
+    "prototype_tex": "GaSe",
+    "label": "AB_hP8_194_f_f-003",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2"
+    ],
+    "parameter_values": [
+        3.752,
+        4.25107,
+        0.18,
+        0.59
+    ],
+    "strukturbericht": null,
+    "title": "$\\beta$-GaSe Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_hP8_194_f_f-003"
+}

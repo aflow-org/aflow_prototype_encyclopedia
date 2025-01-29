@@ -1,0 +1,62 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  CuH20N2O14S tutton salt H44
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/AB20C2D14E2_mP78_14_a_10e_e_7e_e-001
+
+# Last updated on 2024/08/01
+
+data_Cu2H40N4O28S4
+_pd_phase_name Cu2H40N4O28S4
+_cell_length_a  6.3016000000
+_cell_length_b  12.3795000000
+_cell_length_c  9.2105000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  106.1120000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P2_{1}/c'
+_symmetry_Int_Tables_Number  14
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y+1/2,-z+1/2
+  3  -x,-y,-z
+  4  x,-y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Cu1 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Cu 2 a
+H10 1.0000000000 0.6843700000 0.0587700000 0.1027100000  Biso 1.0 H 4 e
+H11 1.0000000000 0.6905000000 0.1408200000 0.9754300000  Biso 1.0 H 4 e
+H2 1.0000000000 0.7903400000 0.6667900000 0.9344600000  Biso 1.0 H 4 e
+H3 1.0000000000 0.5983800000 0.7008400000 0.7748500000  Biso 1.0 H 4 e
+H4 1.0000000000 0.5312100000 0.6657300000 0.9238300000  Biso 1.0 H 4 e
+H5 1.0000000000 0.6381600000 0.5753300000 0.8313900000  Biso 1.0 H 4 e
+H6 1.0000000000 0.6710100000 0.9038000000 0.7789700000  Biso 1.0 H 4 e
+H7 1.0000000000 0.8932000000 0.8713200000 0.7444500000  Biso 1.0 H 4 e
+H8 1.0000000000 0.0597000000 0.9046500000 0.2671800000  Biso 1.0 H 4 e
+H9 1.0000000000 0.9978300000 0.8159500000 0.1420200000  Biso 1.0 H 4 e
+N12 1.0000000000 0.6404700000 0.6521400000 0.8654200000  Biso 1.0 N 4 e
+O13 1.0000000000 0.3994300000 0.7682700000 0.5842400000  Biso 1.0 O 4 e
+O14 1.0000000000 0.2188200000 0.9242000000 0.4511200000  Biso 1.0 O 4 e
+O15 1.0000000000 0.3665100000 0.9296800000 0.7194300000  Biso 1.0 O 4 e
+O16 1.0000000000 0.0431400000 0.8213800000 0.6085300000  Biso 1.0 O 4 e
+O17 1.0000000000 0.8227400000 0.8832700000 0.8234200000  Biso 1.0 O 4 e
+O18 1.0000000000 0.9695700000 0.8910800000 0.1639200000  Biso 1.0 O 4 e
+O19 1.0000000000 0.7179000000 0.0653400000 0.0053100000  Biso 1.0 O 4 e
+S20 1.0000000000 0.2548300000 0.8610200000 0.5893100000  Biso 1.0 S 4 e

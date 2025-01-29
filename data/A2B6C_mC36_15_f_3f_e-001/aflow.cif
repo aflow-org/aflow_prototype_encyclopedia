@@ -1,0 +1,51 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Nb2O6Sn foordite
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A2B6C_mC36_15_f_3f_e-001
+
+# Last updated on 2024/08/01
+
+data_N8O24Sn4
+_pd_phase_name N8O24Sn4
+_cell_length_a  17.0930000000
+_cell_length_b  4.8770000000
+_cell_length_c  18.0521661363
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  162.0701939253
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'C2/c'
+_symmetry_Int_Tables_Number  15
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y,-z+1/2
+  3  -x,-y,-z
+  4  x,-y,z+1/2
+  5  x+1/2,y+1/2,z
+  6  -x+1/2,y+1/2,-z+1/2
+  7  -x+1/2,-y+1/2,-z
+  8  x+1/2,-y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Sn5 1.0000000000 0.0000000000 0.5095400000 0.2500000000  Biso 1.0 Sn 4 e
+N1 1.0000000000 0.5922300000 0.5080700000 0.6723000000  Biso 1.0 N 8 f
+O2 1.0000000000 0.4218000000 0.6701000000 0.5987000000  Biso 1.0 O 8 f
+O3 1.0000000000 0.8234000000 0.2919000000 0.9308000000  Biso 1.0 O 8 f
+O4 1.0000000000 0.6781000000 0.3132000000 0.6473000000  Biso 1.0 O 8 f

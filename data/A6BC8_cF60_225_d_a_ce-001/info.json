@@ -1,0 +1,20 @@
+{
+    "uid": "4YGB",
+    "prototype": "Mg6MnO8",
+    "prototype_tex": "Mg$_{6}$MnO$_{8}$",
+    "label": "A6BC8_cF60_225_d_a_ce-001",
+    "parameter_symbol": [
+        "a",
+        "x4"
+    ],
+    "parameter_values": [
+        8.381,
+        0.23
+    ],
+    "strukturbericht": null,
+    "title": "Mg$_{6}$MnO$_{8}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A6BC8_cF60_225_d_a_ce-001"
+}

@@ -1,0 +1,55 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  K5Fe4Ag6Te10
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A6B4C5D10_tI50_79_bc_c_ac_2a2c-001
+
+# Last updated on 2024/07/24
+
+data_A6B4C5D10_tI50_79_bc_c_ac_2a2c-001
+_pd_phase_name A6B4C5D10_tI50_79_bc_c_ac_2a2c-001
+_cell_length_a  9.7857000000
+_cell_length_b  9.7857000000
+_cell_length_c  14.9330000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'I4'
+_symmetry_Int_Tables_Number  79
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  -y,x,z
+  4  y,-x,z
+  5  x+1/2,y+1/2,z+1/2
+  6  -x+1/2,-y+1/2,z+1/2
+  7  -y+1/2,x+1/2,z+1/2
+  8  y+1/2,-x+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+K4  1.0000000000 0.0000000000 0.0000000000 0.1472000000  Biso 1.0 K  2 a
+Te6 1.0000000000 0.0000000000 0.0000000000 0.7851000000  Biso 1.0 Te 2 a
+Te7 1.0000000000 0.0000000000 0.0000000000 0.5183800000  Biso 1.0 Te 2 a
+Ag1 1.0000000000 0.0000000000 0.5000000000 0.4170500000  Biso 1.0 Ag 4 b
+Ag2 1.0000000000 0.5874000000 0.2987700000 0.4103200000  Biso 1.0 Ag 8 c
+Fe3 1.0000000000 0.5978000000 0.8044000000 0.1680000000  Biso 1.0 Fe 8 c
+K5  1.0000000000 0.3992500000 0.6946100000 0.9123000000  Biso 1.0 K  8 c
+Te8 1.0000000000 0.3030400000 0.8768600000 0.0273600000  Biso 1.0 Te 8 c
+Te9 1.0000000000 0.5914800000 0.7886500000 0.7999700000  Biso 1.0 Te 8 c

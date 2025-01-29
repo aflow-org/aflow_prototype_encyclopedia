@@ -1,0 +1,38 @@
+{
+    "uid": "AY9W",
+    "prototype": "Al2Gd3",
+    "prototype_tex": "Al$_{2}$Gd$_{3}$",
+    "label": "A2B3_tP20_102_2c_b2c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        8.344,
+        0.917546,
+        0.5,
+        0.377,
+        0.031,
+        0.396,
+        0.439,
+        0.152,
+        0.251,
+        0.205,
+        0.725
+    ],
+    "strukturbericht": null,
+    "title": "Gd$_{3}$Al$_{2}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B3_tP20_102_2c_b2c"
+}

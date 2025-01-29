@@ -1,0 +1,22 @@
+{
+    "uid": "AVWT",
+    "prototype": "NiTi2",
+    "prototype_tex": "NiTi$_{2}$",
+    "label": "AB2_cF96_227_e_cf-001",
+    "parameter_symbol": [
+        "a",
+        "x2",
+        "x3"
+    ],
+    "parameter_values": [
+        11.278,
+        0.215,
+        0.81
+    ],
+    "strukturbericht": null,
+    "title": "NiTi$_{2}$ Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2_cF96_227_e_cf"
+}

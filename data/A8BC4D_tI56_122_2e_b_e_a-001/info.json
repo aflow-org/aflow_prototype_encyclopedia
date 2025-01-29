@@ -1,0 +1,38 @@
+{
+    "uid": "PGWH",
+    "prototype": "H6NO4P",
+    "prototype_tex": "H$_{6}$NO$_{4}$P",
+    "label": "A8BC4D_tI56_122_2e_b_e_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "y3",
+        "z3",
+        "x4",
+        "y4",
+        "z4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        7.4997,
+        1.00663,
+        0.998,
+        0.089,
+        0.563,
+        0.25,
+        0.15,
+        0.125,
+        0.5843,
+        0.6466,
+        0.6151
+    ],
+    "strukturbericht": null,
+    "title": "NH$_{4}$H$_{2}$PO$_{4}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A8BC4D_tI56_122_2e_b_e_a"
+}

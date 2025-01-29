@@ -1,0 +1,33 @@
+{
+    "uid": "Q0QA",
+    "prototype": "Br2(H2O)6O6Zn",
+    "prototype_tex": "Br$_{2}$(H$_{2}$O)$_{6}$O$_{6}$Zn",
+    "label": "A2B6C6D_cP60_205_c_d_d_a-001",
+    "parameter_symbol": [
+        "a",
+        "x2",
+        "x3",
+        "y3",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        10.316,
+        0.259,
+        0.195,
+        0.05,
+        0.965,
+        0.19,
+        0.145,
+        0.33
+    ],
+    "strukturbericht": "J1_10",
+    "title": "Zn(BrO$_{3}$)$_{2}$ $\\cdot$ 6H$_{2}$O ($J1_{10}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$J1_{10}$",
+    "compounds": {},
+    "alias": "A2B6C6D_cP60_205_c_d_d_a"
+}

@@ -1,0 +1,28 @@
+{
+    "uid": "LH7J",
+    "prototype": "C2ClCoNa3O6",
+    "prototype_tex": "C$_{2}$ClCoNa$_{3}$O$_{6}$",
+    "label": "A2BCD3E6_cF208_203_e_c_d_f_g-001",
+    "parameter_symbol": [
+        "a",
+        "x3",
+        "x4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        13.9898,
+        0.2826,
+        0.901,
+        0.2257,
+        0.7665,
+        0.8531
+    ],
+    "strukturbericht": null,
+    "title": "Pyrochlore (Na$_{3}$Co(CO$_{3}$)$_{2}$Cl) Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BCD3E6_cF208_203_e_c_d_f_g"
+}

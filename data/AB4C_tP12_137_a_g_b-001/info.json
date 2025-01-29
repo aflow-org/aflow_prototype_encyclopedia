@@ -1,0 +1,24 @@
+{
+    "uid": "Q06Z",
+    "prototype": "BD4K",
+    "prototype_tex": "BD$_{4}$K",
+    "label": "AB4C_tP12_137_a_g_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        4.636,
+        1.41732,
+        0.54,
+        0.144
+    ],
+    "strukturbericht": null,
+    "title": "Low Temperature KBD$_{4}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB4C_tP12_137_a_g_b-001"
+}

@@ -1,0 +1,28 @@
+{
+    "uid": "2PY4",
+    "prototype": "SV3",
+    "prototype_tex": "SV$_{3}$",
+    "label": "AB3_tP32_133_h_i2j-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3",
+        "x4"
+    ],
+    "parameter_values": [
+        9.381,
+        0.497069,
+        0.9671,
+        0.8986,
+        0.658,
+        0.0472
+    ],
+    "strukturbericht": null,
+    "title": "$\\beta$-V$_{3}$S Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3_tP32_133_h_i2j"
+}

@@ -1,0 +1,30 @@
+{
+    "uid": "6BL9",
+    "prototype": "AlF6Na3",
+    "prototype_tex": "AlF$_{6}$Na$_{3}$",
+    "label": "AB6C3_oI20_71_a_el_bf-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x3",
+        "x4",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        7.9619,
+        0.706779,
+        0.707532,
+        0.2192,
+        0.7485,
+        0.2166,
+        0.7665
+    ],
+    "strukturbericht": null,
+    "title": "High-Temperature Cryolite (Na$_{3}$AlF$_{6}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB6C3_oI20_71_a_in_cj"
+}

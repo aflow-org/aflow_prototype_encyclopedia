@@ -1,0 +1,36 @@
+{
+    "uid": "Z055",
+    "prototype": "P2Pd15",
+    "prototype_tex": "P$_{2}$Pd$_{15}$",
+    "label": "A2B15_hR17_148_c_ac2f-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3",
+        "x4",
+        "y4",
+        "z4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        7.10672,
+        2.40431,
+        0.21448,
+        0.42059,
+        0.72457,
+        0.44656,
+        0.94276,
+        0.65273,
+        0.13612,
+        0.82098
+    ],
+    "strukturbericht": null,
+    "title": "Pd$_{15}$P$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B15_hR17_148_c_ac2f-001"
+}

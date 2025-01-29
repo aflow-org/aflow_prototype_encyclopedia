@@ -1,0 +1,46 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Cl3H
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/AB3_oP16_19_a_3a-001
+
+# Last updated on 2024/08/01
+
+data_Cl4H12
+_pd_phase_name Cl4H12
+_cell_length_a  5.6680000000
+_cell_length_b  4.3020000000
+_cell_length_c  2.9970000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P2_{1}2_{1}2_{1}'
+_symmetry_Int_Tables_Number  19
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z+1/2
+  3  -x,y+1/2,-z+1/2
+  4  x+1/2,-y+1/2,-z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Cl1 1.0000000000 0.5840000000 0.6230000000 0.5270000000  Biso 1.0 Cl 4 a
+H2 1.0000000000 0.3100000000 0.6590000000 0.9170000000  Biso 1.0 H 4 a
+H3 1.0000000000 0.2570000000 0.5730000000 0.1030000000  Biso 1.0 H 4 a
+H4 1.0000000000 0.9830000000 0.6240000000 0.7270000000  Biso 1.0 H 4 a

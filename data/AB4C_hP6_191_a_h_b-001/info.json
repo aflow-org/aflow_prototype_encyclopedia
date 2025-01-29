@@ -1,0 +1,22 @@
+{
+    "uid": "PDN7",
+    "prototype": "AlB4Mg",
+    "prototype_tex": "AlB$_{4}$Mg",
+    "label": "AB4C_hP6_191_a_h_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3"
+    ],
+    "parameter_values": [
+        3.0444,
+        2.20487,
+        0.2413
+    ],
+    "strukturbericht": null,
+    "title": "AlB$_{4}$Mg Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB4C_hP6_191_a_h_b"
+}

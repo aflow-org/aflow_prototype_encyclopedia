@@ -1,0 +1,32 @@
+{
+    "uid": "8791",
+    "prototype": "Cl3CsCu",
+    "prototype_tex": "Cl$_{3}$CsCu",
+    "label": "A3BC_hP30_178_bc_b_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        7.218,
+        2.51912,
+        0.0644,
+        0.8896,
+        0.355,
+        0.3576,
+        0.2119,
+        0.2424
+    ],
+    "strukturbericht": null,
+    "title": "CsCuCl$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3BC_hP30_178_bc_b_a-001"
+}

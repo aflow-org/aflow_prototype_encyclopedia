@@ -1,0 +1,32 @@
+{
+    "uid": "T96Y",
+    "prototype": "ClH3",
+    "prototype_tex": "ClH$_{3}$",
+    "label": "AB3_mC16_15_e_af-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "y2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        3.282,
+        2.64138,
+        1.41658,
+        136.773,
+        0.61,
+        0.004,
+        0.318,
+        0.331
+    ],
+    "strukturbericht": null,
+    "title": "H$_{3}$Cl (50 GPa) Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3_mC16_15_e_cf"
+}

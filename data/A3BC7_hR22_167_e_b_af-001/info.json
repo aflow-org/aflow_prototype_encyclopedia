@@ -1,0 +1,28 @@
+{
+    "uid": "NS5K",
+    "prototype": "Rh3ScSi7",
+    "prototype_tex": "Rh$_{3}$ScSi$_{7}$",
+    "label": "A3BC7_hR22_167_e_b_af-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        7.50561,
+        2.6235,
+        0.9277,
+        0.3516,
+        0.1708,
+        0.5682
+    ],
+    "strukturbericht": null,
+    "title": "ScRh$_{3}$Si$_{7}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3BC7_hR22_167_e_b_af-001"
+}

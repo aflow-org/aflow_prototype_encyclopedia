@@ -1,0 +1,32 @@
+{
+    "uid": "FNXT",
+    "prototype": "MgO4S",
+    "prototype_tex": "MgO$_{4}$S",
+    "label": "ABC4_oC24_63_c_a_fg-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y2",
+        "y3",
+        "z3",
+        "x4",
+        "y4"
+    ],
+    "parameter_values": [
+        5.182,
+        1.52316,
+        1.2555,
+        0.63,
+        0.25,
+        0.56,
+        0.75,
+        0.03
+    ],
+    "strukturbericht": null,
+    "title": "MgSO$_{4}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB4C_oC24_63_a_fg_c"
+}

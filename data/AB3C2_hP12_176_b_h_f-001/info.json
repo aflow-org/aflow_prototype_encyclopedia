@@ -1,0 +1,26 @@
+{
+    "uid": "JSY8",
+    "prototype": "LaRu3Si2",
+    "prototype_tex": "LaRu$_{3}$Si$_{2}$",
+    "label": "AB3C2_hP12_176_b_h_f-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "x3",
+        "y3"
+    ],
+    "parameter_values": [
+        5.676,
+        1.2544,
+        0.5,
+        0.48,
+        0.01
+    ],
+    "strukturbericht": null,
+    "title": "LaRu$_{3}$Si$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3C2_hP12_176_b_h_f-001"
+}

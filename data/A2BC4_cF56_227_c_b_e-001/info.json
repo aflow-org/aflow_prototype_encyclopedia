@@ -1,0 +1,21 @@
+{
+    "uid": "MZYE",
+    "prototype": "Al2MgO4",
+    "prototype_tex": "Al$_{2}$MgO$_{4}$",
+    "label": "A2BC4_cF56_227_c_b_e-001",
+    "parameter_symbol": [
+        "a",
+        "x3"
+    ],
+    "parameter_values": [
+        8.0832,
+        0.2376
+    ],
+    "strukturbericht": "H1_1",
+    "title": "Spinel (Al$_{2}$MgO$_{4}$, $H1_{1}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$H1_{1}$",
+    "compounds": {},
+    "alias": "A2BC4_cF56_227_d_a_e"
+}

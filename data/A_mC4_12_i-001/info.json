@@ -1,0 +1,28 @@
+{
+    "uid": "M3W6",
+    "prototype": "O",
+    "prototype_tex": "O",
+    "label": "A_mC4_12_i-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x1",
+        "z1"
+    ],
+    "parameter_values": [
+        7.6468,
+        0.448946,
+        0.664199,
+        148.505,
+        0.894,
+        0.961
+    ],
+    "strukturbericht": null,
+    "title": "$\\alpha$-O$_{2}$ Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A_mC4_12_i"
+}

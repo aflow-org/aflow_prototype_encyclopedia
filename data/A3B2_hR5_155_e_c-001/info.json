@@ -1,0 +1,25 @@
+{
+    "uid": "WQGS",
+    "prototype": "Ni3S2",
+    "prototype_tex": "Ni$_{3}$S$_{2}$",
+    "label": "A3B2_hR5_155_e_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "y2"
+    ],
+    "parameter_values": [
+        5.73296,
+        1.24097,
+        0.2521,
+        0.2449
+    ],
+    "strukturbericht": "D5_3",
+    "title": "Hazelwoodite (Ni$_{3}$S$_{2}$, $D5_{e}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$D5_{3}$",
+    "compounds": {},
+    "alias": "A3B2_hR5_155_e_c"
+}

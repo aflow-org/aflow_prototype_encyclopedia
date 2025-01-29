@@ -1,0 +1,31 @@
+{
+    "uid": "Y0CA",
+    "prototype": "GeS",
+    "prototype_tex": "GeS",
+    "label": "AB_oP8_62_c_c-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "z1",
+        "x2",
+        "z2"
+    ],
+    "parameter_values": [
+        10.42,
+        0.349328,
+        0.411708,
+        0.125,
+        0.167,
+        0.361,
+        0.111
+    ],
+    "strukturbericht": "B16",
+    "title": "GeS ($B16$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$B16$",
+    "compounds": {},
+    "alias": "AB_oP8_62_c_c.GeS"
+}

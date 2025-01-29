@@ -1,0 +1,28 @@
+{
+    "uid": "EQ3C",
+    "prototype": "GdSi2",
+    "prototype_tex": "GdSi$_{2}$",
+    "label": "AB2_oI12_74_e_2e-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3"
+    ],
+    "parameter_values": [
+        4.009,
+        1.02003,
+        3.35288,
+        0.625,
+        0.0488,
+        0.2142
+    ],
+    "strukturbericht": null,
+    "title": "GdSi$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2_oI12_74_e_2e-001"
+}

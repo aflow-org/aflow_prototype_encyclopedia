@@ -1,0 +1,83 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  CuS4Ti2
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/AB4C2_hR28_166_2c_2c2h_abh-001
+
+# Last updated on 2024/08/01
+
+data_Cu12S48Ti24
+_pd_phase_name Cu12S48Ti24
+_cell_length_a  7.0242000000
+_cell_length_b  7.0242000000
+_cell_length_c  34.8340000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  120.0000000000
+_symmetry_space_group_name_H-M  'R-3m'
+_symmetry_Int_Tables_Number  166
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -y,x-y,z
+  3  -x+y,-x,z
+  4  y,x,-z
+  5  x-y,-y,-z
+  6  -x,-x+y,-z
+  7  -x,-y,-z
+  8  y,-x+y,-z
+  9  x-y,x,-z
+  10  -y,-x,z
+  11  -x+y,y,z
+  12  x,x-y,z
+  13  x+2/3,y+1/3,z+1/3
+  14  -y+2/3,x-y+1/3,z+1/3
+  15  -x+y+2/3,-x+1/3,z+1/3
+  16  y+2/3,x+1/3,-z+1/3
+  17  x-y+2/3,-y+1/3,-z+1/3
+  18  -x+2/3,-x+y+1/3,-z+1/3
+  19  -x+2/3,-y+1/3,-z+1/3
+  20  y+2/3,-x+y+1/3,-z+1/3
+  21  x-y+2/3,x+1/3,-z+1/3
+  22  -y+2/3,-x+1/3,z+1/3
+  23  -x+y+2/3,y+1/3,z+1/3
+  24  x+2/3,x-y+1/3,z+1/3
+  25  x+1/3,y+2/3,z+2/3
+  26  -y+1/3,x-y+2/3,z+2/3
+  27  -x+y+1/3,-x+2/3,z+2/3
+  28  y+1/3,x+2/3,-z+2/3
+  29  x-y+1/3,-y+2/3,-z+2/3
+  30  -x+1/3,-x+y+2/3,-z+2/3
+  31  -x+1/3,-y+2/3,-z+2/3
+  32  y+1/3,-x+y+2/3,-z+2/3
+  33  x-y+1/3,x+2/3,-z+2/3
+  34  -y+1/3,-x+2/3,z+2/3
+  35  -x+y+1/3,y+2/3,z+2/3
+  36  x+1/3,x-y+2/3,z+2/3
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Ti7 1.0000000000 0.0000000000 0.0000000000 -0.0000000000  Biso 1.0 Ti 3 a
+Ti8 1.0000000000 -0.0000000000 -0.0000000000 0.5000000000  Biso 1.0 Ti 3 b
+Cu1 1.0000000000 0.0000000000 0.0000000000 0.1875900000  Biso 1.0 Cu 6 c
+Cu2 1.0000000000 -0.0000000000 -0.0000000000 0.3544900000  Biso 1.0 Cu 6 c
+S3 1.0000000000 0.0000000000 0.0000000000 0.1232000000  Biso 1.0 S 6 c
+S4 1.0000000000 0.0000000000 0.0000000000 0.2889200000  Biso 1.0 S 6 c
+S5 1.0000000000 0.8236866667 0.1763133333 0.3756733333  Biso 1.0 S 18 h
+S6 1.0000000000 0.1601966667 0.8398033333 0.4543733333  Biso 1.0 S 18 h
+Ti9 1.0000000000 0.5044566667 0.4955433333 0.5809833333  Biso 1.0 Ti 18 h

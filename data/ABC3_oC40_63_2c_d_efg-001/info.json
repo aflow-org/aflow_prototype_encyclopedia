@@ -1,0 +1,36 @@
+{
+    "uid": "GWNF",
+    "prototype": "NaNbO3",
+    "prototype_tex": "NaNbO$_{3}$",
+    "label": "ABC3_oC40_63_2c_d_efg-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y1",
+        "y2",
+        "x4",
+        "y5",
+        "z5",
+        "x6",
+        "y6"
+    ],
+    "parameter_values": [
+        7.8679,
+        0.999301,
+        1.000432,
+        0.0105,
+        0.4836,
+        0.2809,
+        0.2338,
+        0.0092,
+        0.2771,
+        0.2579
+    ],
+    "strukturbericht": null,
+    "title": "NaNbO$_{3}$ $Cmcm$ Lueshite Perovskite Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC3_oC40_63_2c_d_efg-001"
+}

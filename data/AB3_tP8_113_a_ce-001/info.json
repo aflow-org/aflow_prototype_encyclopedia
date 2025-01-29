@@ -1,0 +1,27 @@
+{
+    "uid": "0A77",
+    "prototype": "BaS3",
+    "prototype_tex": "BaS$_{3}$",
+    "label": "AB3_tP8_113_a_ce-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "x3",
+        "z3"
+    ],
+    "parameter_values": [
+        6.871,
+        0.606622,
+        0.206,
+        0.1797,
+        0.476
+    ],
+    "strukturbericht": "D0_17",
+    "title": "BaS$_{3}$ ($D0_{17}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$D0_{17}$",
+    "compounds": {},
+    "alias": "AB3_tP8_113_a_ce"
+}

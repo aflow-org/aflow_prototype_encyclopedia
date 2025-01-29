@@ -1,0 +1,21 @@
+{
+    "uid": "GKJM",
+    "prototype": "B6Ca",
+    "prototype_tex": "B$_{6}$Ca",
+    "label": "A6B_cP7_221_e_b-001",
+    "parameter_symbol": [
+        "a",
+        "x2"
+    ],
+    "parameter_values": [
+        4.145,
+        0.7117
+    ],
+    "strukturbericht": "D2_1",
+    "title": "CaB$_{6}$ ($D2_{1}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$D2_{1}$",
+    "compounds": {},
+    "alias": "A6B_cP7_221_f_a"
+}

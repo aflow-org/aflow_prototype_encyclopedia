@@ -1,0 +1,56 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  As3Cr3K2
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A3B3C2_hP16_187_jk_jk_ak-001
+
+# Last updated on 2024/08/01
+
+data_As6Cr6K4
+_pd_phase_name As6Cr6K4
+_cell_length_a  9.9832000000
+_cell_length_b  9.9832000000
+_cell_length_c  4.2304000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  120.0000000000
+_symmetry_space_group_name_H-M  'P-6m2'
+_symmetry_Int_Tables_Number  187
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -y,x-y,z
+  3  -x+y,-x,z
+  4  x,y,-z
+  5  -y,x-y,-z
+  6  -x+y,-x,-z
+  7  -y,-x,z
+  8  -x+y,y,z
+  9  x,x-y,z
+  10  -y,-x,-z
+  11  -x+y,y,-z
+  12  x,x-y,-z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+K5 1.0000000000 -0.0000000000 0.0000000000 0.0000000000  Biso 1.0 K 1 a
+As1 1.0000000000 0.5005700000 0.4994300000 0.0000000000  Biso 1.0 As 3 j
+Cr3 1.0000000000 0.7564700000 0.2435300000 0.0000000000  Biso 1.0 Cr 3 j
+As2 1.0000000000 0.8342700000 0.1657300000 0.5000000000  Biso 1.0 As 3 k
+Cr4 1.0000000000 0.5793700000 0.4206300000 0.5000000000  Biso 1.0 Cr 3 k
+K6 1.0000000000 0.2053700000 0.7946300000 0.5000000000  Biso 1.0 K 3 k

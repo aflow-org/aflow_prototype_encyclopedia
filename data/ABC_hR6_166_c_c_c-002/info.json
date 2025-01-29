@@ -1,0 +1,26 @@
+{
+    "uid": "DGDK",
+    "prototype": "FOY",
+    "prototype_tex": "FOY",
+    "label": "ABC_hR6_166_c_c_c-002",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3"
+    ],
+    "parameter_values": [
+        3.81908,
+        4.95656,
+        0.878,
+        0.63,
+        0.758
+    ],
+    "strukturbericht": null,
+    "title": "YOF Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC_hR6_166_c_c_c-002"
+}

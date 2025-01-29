@@ -1,0 +1,38 @@
+{
+    "uid": "JHY5",
+    "prototype": "CaMnSb2",
+    "prototype_tex": "CaMnSb$_{2}$",
+    "label": "ABC2_oP16_62_c_c_2c-003",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        22.11,
+        0.194934,
+        0.196291,
+        0.1126,
+        0.7326,
+        0.2502,
+        0.2324,
+        0.0008,
+        0.2254,
+        0.328,
+        0.7343
+    ],
+    "strukturbericht": null,
+    "title": "CaMnSb$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC2_oP16_62_c_c_2c-003"
+}

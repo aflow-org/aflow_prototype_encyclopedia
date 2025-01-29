@@ -1,0 +1,25 @@
+{
+    "uid": "RBZR",
+    "prototype": "NV2",
+    "prototype_tex": "NV$_{2}$",
+    "label": "AB2_hP9_162_ad_k-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "z3"
+    ],
+    "parameter_values": [
+        4.917,
+        0.929022,
+        0.325,
+        0.272
+    ],
+    "strukturbericht": "L'3_2",
+    "title": "$\\beta$-V$_{2}$N ($L'3_{2}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$L'3_{2}$",
+    "compounds": {},
+    "alias": "AB2_hP9_162_ad_k"
+}

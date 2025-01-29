@@ -1,0 +1,26 @@
+{
+    "uid": "YTD1",
+    "prototype": "ISSm",
+    "prototype_tex": "ISSm",
+    "label": "ABC_hR6_166_c_c_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3"
+    ],
+    "parameter_values": [
+        4.547,
+        7.17616,
+        0.1159,
+        0.3017,
+        0.3815
+    ],
+    "strukturbericht": null,
+    "title": "SmSI Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC_hR6_166_c_c_c"
+}

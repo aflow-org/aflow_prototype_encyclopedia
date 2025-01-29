@@ -1,0 +1,40 @@
+{
+    "uid": "VYK4",
+    "prototype": "H2S",
+    "prototype_tex": "H$_{2}$S",
+    "label": "A2B_mP12_13_2g_ef-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "y1",
+        "y2",
+        "x3",
+        "y3",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        5.7014,
+        0.603834,
+        1.56698,
+        142.367,
+        0.996,
+        0.8192,
+        0.705,
+        0.346,
+        0.93,
+        0.199,
+        0.273,
+        0.772
+    ],
+    "strukturbericht": null,
+    "title": "H$_{2}$S (15 GPa) Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_mP12_13_2g_ef"
+}

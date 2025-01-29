@@ -1,0 +1,64 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+
+# Chemical Composition:  (CsCl)Cu5O2(VO4)2 (averievite)
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/ A2B7C10D20E4_hP86_147_ae_c2g_d3g_2d6g_dg-001 
+
+# Last updated on 2024/11/21
+
+data_(CsCl)Cu5O2(VO4)2
+_pd_phase_name (CsCl)Cu5O2(VO4)2
+_cell_length_a  12.7249000000
+_cell_length_b  12.7249000000
+_cell_length_c  8.3767000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  120.0000000000
+_symmetry_space_group_name_H-M  'P-3'
+_symmetry_Int_Tables_Number  147
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -y,x-y,z
+  3  -x+y,-x,z
+  4  -x,-y,-z
+  5  y,-x+y,-z
+  6  x-y,x,-z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Cl1  1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Cl 1 a
+Cs2  0.5000000000 0.0000000000 0.0000000000 0.5496400000  Biso 1.0 Cs 2 c
+Cu3  1.0000000000 0.3333333333 0.6666666667 0.7289300000  Biso 1.0 Cu 2 d
+O4   1.0000000000 0.3333333333 0.6666666667 0.5053000000  Biso 1.0 O  2 d
+O5   1.0000000000 0.3333333333 0.6666666667 0.9571000000  Biso 1.0 O  2 d
+V6   1.0000000000 0.3333333333 0.6666666667 0.3061800000  Biso 1.0 V  2 d
+Cl7  1.0000000000 0.5000000000 0.0000000000 0.0000000000  Biso 1.0 Cl 3 e
+Cs8  0.2800000000 0.0058000000 0.5136000000 0.5000000000  Biso 1.0 Cs 6 g
+Cs9  0.2200000000 0.0008000000 0.5031000000 0.5675000000  Biso 1.0 Cs 6 g
+Cu10 1.0000000000 0.8387700000 0.6666600000 0.7289000000  Biso 1.0 Cu 6 g
+Cu11 1.0000000000 0.7530100000 0.7470300000 0.0001100000  Biso 1.0 Cu 6 g
+Cu12 1.0000000000 0.7595900000 0.4999000000 0.9998400000  Biso 1.0 Cu 6 g
+O13  1.0000000000 0.7626000000 0.7378000000 0.2381000000  Biso 1.0 O  6 g
+O14  1.0000000000 0.7432000000 0.7563000000 0.7625000000  Biso 1.0 O  6 g
+O15  1.0000000000 0.7679000000 0.5188000000 0.2379000000  Biso 1.0 O  6 g
+O16  1.0000000000 0.8393000000 0.6669000000 0.5049000000  Biso 1.0 O  6 g
+O17  1.0000000000 0.7484000000 0.4809000000 0.7620000000  Biso 1.0 O  6 g
+O18  1.0000000000 0.8392000000 0.6667000000 0.9564000000  Biso 1.0 O  6 g
+V19  1.0000000000 0.8386700000 0.6666300000 0.3059100000  Biso 1.0 V  6 g

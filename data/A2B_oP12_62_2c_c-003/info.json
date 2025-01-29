@@ -1,0 +1,35 @@
+{
+    "uid": "GSD1",
+    "prototype": "Cl2Pb",
+    "prototype_tex": "Cl$_{2}$Pb",
+    "label": "A2B_oP12_62_2c_c-003",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "z3"
+    ],
+    "parameter_values": [
+        7.6204,
+        0.595008,
+        1.18697,
+        0.125,
+        0.4217,
+        0.0202,
+        0.837,
+        0.2377,
+        0.0959
+    ],
+    "strukturbericht": "C23",
+    "title": "Cotunnite (PbCl$_{2}$, $C23$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$C23$",
+    "compounds": {},
+    "alias": "A2B_oP12_62_2c_c.PbCl2"
+}

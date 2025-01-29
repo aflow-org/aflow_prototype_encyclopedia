@@ -1,0 +1,38 @@
+{
+    "uid": "TZRB",
+    "prototype": "B2CaO4",
+    "prototype_tex": "B$_{2}$CaO$_{4}$",
+    "label": "A2BC4_cP84_205_d_ac_2d-001",
+    "parameter_symbol": [
+        "a",
+        "x2",
+        "x3",
+        "y3",
+        "z3",
+        "x4",
+        "y4",
+        "z4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        9.008,
+        0.37305,
+        0.1189,
+        0.1901,
+        0.3457,
+        0.3336,
+        0.2692,
+        0.1208,
+        0.0906,
+        0.2823,
+        0.0064
+    ],
+    "strukturbericht": null,
+    "title": "CaB$_{2}$O$_{4}$ (IV) Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BC4_cP84_205_d_ac_2d"
+}

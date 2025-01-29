@@ -1,0 +1,19 @@
+{
+    "uid": "QM6B",
+    "prototype": "ClCs",
+    "prototype_tex": "ClCs",
+    "label": "AB_cP2_221_a_b-002",
+    "parameter_symbol": [
+        "a"
+    ],
+    "parameter_values": [
+        4.0793
+    ],
+    "strukturbericht": "B2",
+    "title": "CsCl ($B2$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$B2$",
+    "compounds": {},
+    "alias": "AB_cP2_221_b_a"
+}

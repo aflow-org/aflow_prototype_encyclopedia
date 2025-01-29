@@ -1,0 +1,49 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  InNaO8W2
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/ABC8D2_mP24_13_e_f_4g_g-001
+
+# Last updated on 2024/08/01
+
+data_In2Na2O16W4
+_pd_phase_name In2Na2O16W4
+_cell_length_a  10.0800000000
+_cell_length_b  5.8100000000
+_cell_length_c  5.0300000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P2/c'
+_symmetry_Int_Tables_Number  13
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y,-z+1/2
+  3  -x,-y,-z
+  4  x,-y,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+In1 1.0000000000 0.0000000000 0.3144000000 0.2500000000  Biso 1.0 In 2 e
+Na2 1.0000000000 0.5000000000 0.3450000000 0.2500000000  Biso 1.0 Na 2 f
+O3 1.0000000000 0.8800000000 0.3740000000 0.5980000000  Biso 1.0 O 4 g
+O4 1.0000000000 0.6430000000 0.6260000000 0.3650000000  Biso 1.0 O 4 g
+O5 1.0000000000 0.6630000000 0.9050000000 0.9390000000  Biso 1.0 O 4 g
+O6 1.0000000000 0.8690000000 0.8990000000 0.5360000000  Biso 1.0 O 4 g
+W7 1.0000000000 0.7568000000 0.8215000000 0.2468000000  Biso 1.0 W 4 g

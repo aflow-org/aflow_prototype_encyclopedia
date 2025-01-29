@@ -1,0 +1,30 @@
+{
+    "uid": "WL5U",
+    "prototype": "CuO2Sr",
+    "prototype_tex": "CuO$_{2}$Sr",
+    "label": "AB2C_oC16_63_c_2c_c-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y1",
+        "y2",
+        "y3",
+        "y4"
+    ],
+    "parameter_values": [
+        3.577,
+        4.56863,
+        1.09539,
+        0.06109,
+        0.9442,
+        0.1792,
+        0.33096
+    ],
+    "strukturbericht": null,
+    "title": "SrCuO$_{2}$ Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2C_oC16_63_c_2c_c"
+}

@@ -1,0 +1,40 @@
+{
+    "uid": "54KB",
+    "prototype": "Se3Zr",
+    "prototype_tex": "Se$_{3}$Zr",
+    "label": "A3B_mP8_11_3e_e-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        5.4109,
+        0.692824,
+        1.74537,
+        97.48,
+        0.238,
+        0.446,
+        0.544,
+        0.826,
+        0.112,
+        0.831,
+        0.715,
+        0.344
+    ],
+    "strukturbericht": null,
+    "title": "ZrSe$_{3}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B_mP8_11_3e_e"
+}

@@ -1,0 +1,30 @@
+{
+    "uid": "1ZGT",
+    "prototype": "F6Li2Mo",
+    "prototype_tex": "F$_{6}$Li$_{2}$Mo",
+    "label": "A6B2C_tP18_94_eg_c_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "x3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        4.6863,
+        1.96125,
+        0.6623,
+        0.7093,
+        0.684,
+        0.707,
+        0.6579
+    ],
+    "strukturbericht": null,
+    "title": "Li$_{2}$MoF$_{6}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A6B2C_tP18_94_eg_c_a"
+}

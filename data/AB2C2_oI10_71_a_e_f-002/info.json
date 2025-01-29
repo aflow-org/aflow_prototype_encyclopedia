@@ -1,0 +1,26 @@
+{
+    "uid": "7P5Q",
+    "prototype": "CuLi2O2",
+    "prototype_tex": "CuLi$_{2}$O$_{2}$",
+    "label": "AB2C2_oI10_71_a_e_f-002",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x2",
+        "x3"
+    ],
+    "parameter_values": [
+        9.3774,
+        0.305012,
+        0.38971,
+        0.2869,
+        0.8577
+    ],
+    "strukturbericht": null,
+    "title": "Li$_{2}$CuO$_{2}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2C2_oI10_71_a_e_f-002"
+}

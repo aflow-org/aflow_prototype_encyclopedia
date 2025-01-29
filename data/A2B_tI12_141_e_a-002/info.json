@@ -1,0 +1,23 @@
+{
+    "uid": "NF8F",
+    "prototype": "ThSi2",
+    "prototype_tex": "ThSi$_{2}$",
+    "label": "A2B_tI12_141_e_a-002",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2"
+    ],
+    "parameter_values": [
+        4.126,
+        3.47698,
+        0.2915
+    ],
+    "strukturbericht": "C_c",
+    "title": "$\\alpha$-ThSi$_{2}$ ($C_{c}$) Structure",
+    "part": 2,
+    "legacy": false,
+    "strukturbericht_tex": "$C_{c}$",
+    "compounds": {},
+    "alias": "A2B_tI12_141_e_a.ThSi2"
+}

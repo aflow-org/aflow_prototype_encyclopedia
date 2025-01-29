@@ -1,0 +1,20 @@
+{
+    "uid": "WPN9",
+    "prototype": "C",
+    "prototype_tex": "C",
+    "label": "A_cF32_227_e-001",
+    "parameter_symbol": [
+        "a",
+        "x1"
+    ],
+    "parameter_values": [
+        7.52,
+        0.4456
+    ],
+    "strukturbericht": null,
+    "title": "T-Carbon Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A_cF32_227_e-001"
+}

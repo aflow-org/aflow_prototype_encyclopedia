@@ -1,0 +1,23 @@
+{
+    "uid": "XT4M",
+    "prototype": "FTl",
+    "prototype_tex": "FTl",
+    "label": "AB_oF8_69_a_b-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a"
+    ],
+    "parameter_values": [
+        6.08,
+        0.851974,
+        0.903783
+    ],
+    "strukturbericht": "B24",
+    "title": "TlF ($B24$) Structure ({\\em Obsolete})",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$B24$",
+    "compounds": {},
+    "alias": "AB_oF8_69_a_b"
+}

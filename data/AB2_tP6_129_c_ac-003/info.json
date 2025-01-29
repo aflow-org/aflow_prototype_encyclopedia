@@ -1,0 +1,24 @@
+{
+    "uid": "2YWB",
+    "prototype": "LaSe2",
+    "prototype_tex": "LaSe$_{2}$",
+    "label": "AB2_tP6_129_c_ac-003",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "z3"
+    ],
+    "parameter_values": [
+        4.207,
+        4.04635,
+        0.137,
+        0.31808
+    ],
+    "strukturbericht": null,
+    "title": "La Se$_{1.85}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2_tP6_129_c_ac-003"
+}

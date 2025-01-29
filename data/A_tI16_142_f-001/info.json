@@ -1,0 +1,22 @@
+{
+    "uid": "GC8R",
+    "prototype": "S",
+    "prototype_tex": "S",
+    "label": "A_tI16_142_f-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1"
+    ],
+    "parameter_values": [
+        8.5939,
+        0.420985,
+        0.1405
+    ],
+    "strukturbericht": null,
+    "title": "S-III Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A_tI16_142_f"
+}

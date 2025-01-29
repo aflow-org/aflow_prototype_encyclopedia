@@ -1,0 +1,140 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  B7ClMg3O13 boracite
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A7BC3D13_cF192_219_ce_a_d_bh-001
+
+# Last updated on 2024/08/01
+
+data_B56Cl8Mg24O104
+_pd_phase_name B56Cl8Mg24O104
+_cell_length_a  12.0986000000
+_cell_length_b  12.0986000000
+_cell_length_c  12.0986000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'F-43c'
+_symmetry_Int_Tables_Number  219
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  -x,y,-z
+  4  x,-y,-z
+  5  z,x,y
+  6  z,-x,-y
+  7  -z,-x,y
+  8  -z,x,-y
+  9  y,z,x
+  10  -y,z,-x
+  11  y,-z,-x
+  12  -y,-z,x
+  13  y+1/2,x+1/2,z+1/2
+  14  -y+1/2,-x+1/2,z+1/2
+  15  y+1/2,-x+1/2,-z+1/2
+  16  -y+1/2,x+1/2,-z+1/2
+  17  x+1/2,z+1/2,y+1/2
+  18  -x+1/2,z+1/2,-y+1/2
+  19  -x+1/2,-z+1/2,y+1/2
+  20  x+1/2,-z+1/2,-y+1/2
+  21  z+1/2,y+1/2,x+1/2
+  22  z+1/2,-y+1/2,-x+1/2
+  23  -z+1/2,y+1/2,-x+1/2
+  24  -z+1/2,-y+1/2,x+1/2
+  25  x,y+1/2,z+1/2
+  26  -x,-y+1/2,z+1/2
+  27  -x,y+1/2,-z+1/2
+  28  x,-y+1/2,-z+1/2
+  29  z,x+1/2,y+1/2
+  30  z,-x+1/2,-y+1/2
+  31  -z,-x+1/2,y+1/2
+  32  -z,x+1/2,-y+1/2
+  33  y,z+1/2,x+1/2
+  34  -y,z+1/2,-x+1/2
+  35  y,-z+1/2,-x+1/2
+  36  -y,-z+1/2,x+1/2
+  37  y+1/2,x,z
+  38  -y+1/2,-x,z
+  39  y+1/2,-x,-z
+  40  -y+1/2,x,-z
+  41  x+1/2,z,y
+  42  -x+1/2,z,-y
+  43  -x+1/2,-z,y
+  44  x+1/2,-z,-y
+  45  z+1/2,y,x
+  46  z+1/2,-y,-x
+  47  -z+1/2,y,-x
+  48  -z+1/2,-y,x
+  49  x+1/2,y,z+1/2
+  50  -x+1/2,-y,z+1/2
+  51  -x+1/2,y,-z+1/2
+  52  x+1/2,-y,-z+1/2
+  53  z+1/2,x,y+1/2
+  54  z+1/2,-x,-y+1/2
+  55  -z+1/2,-x,y+1/2
+  56  -z+1/2,x,-y+1/2
+  57  y+1/2,z,x+1/2
+  58  -y+1/2,z,-x+1/2
+  59  y+1/2,-z,-x+1/2
+  60  -y+1/2,-z,x+1/2
+  61  y,x+1/2,z
+  62  -y,-x+1/2,z
+  63  y,-x+1/2,-z
+  64  -y,x+1/2,-z
+  65  x,z+1/2,y
+  66  -x,z+1/2,-y
+  67  -x,-z+1/2,y
+  68  x,-z+1/2,-y
+  69  z,y+1/2,x
+  70  z,-y+1/2,-x
+  71  -z,y+1/2,-x
+  72  -z,-y+1/2,x
+  73  x+1/2,y+1/2,z
+  74  -x+1/2,-y+1/2,z
+  75  -x+1/2,y+1/2,-z
+  76  x+1/2,-y+1/2,-z
+  77  z+1/2,x+1/2,y
+  78  z+1/2,-x+1/2,-y
+  79  -z+1/2,-x+1/2,y
+  80  -z+1/2,x+1/2,-y
+  81  y+1/2,z+1/2,x
+  82  -y+1/2,z+1/2,-x
+  83  y+1/2,-z+1/2,-x
+  84  -y+1/2,-z+1/2,x
+  85  y,x,z+1/2
+  86  -y,-x,z+1/2
+  87  y,-x,-z+1/2
+  88  -y,x,-z+1/2
+  89  x,z,y+1/2
+  90  -x,z,-y+1/2
+  91  -x,-z,y+1/2
+  92  x,-z,-y+1/2
+  93  z,y,x+1/2
+  94  z,-y,-x+1/2
+  95  -z,y,-x+1/2
+  96  -z,-y,x+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Cl3 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Cl 8 a
+O5 1.0000000000 0.2500000000 0.2500000000 0.2500000000  Biso 1.0 O 8 b
+B1 1.0000000000 0.0000000000 0.2500000000 0.2500000000  Biso 1.0 B 24 c
+Mg4 1.0000000000 0.2500000000 0.0000000000 0.0000000000  Biso 1.0 Mg 24 d
+B2 1.0000000000 0.8308000000 0.8308000000 0.8308000000  Biso 1.0 B 32 e
+O6 1.0000000000 0.3487000000 0.7714000000 0.4321000000  Biso 1.0 O 96 h

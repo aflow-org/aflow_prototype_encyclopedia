@@ -1,0 +1,56 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  BFeMg2O5 ludwigite
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/ABC2D5_oP36_55_g_g_adh_3g2h-001
+
+# Last updated on 2024/08/01
+
+data_B4Fe4Mg8O20
+_pd_phase_name B4Fe4Mg8O20
+_cell_length_a  9.2411000000
+_cell_length_b  12.2948000000
+_cell_length_c  3.0213000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pbam'
+_symmetry_Int_Tables_Number  55
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  -x+1/2,y+1/2,-z
+  4  x+1/2,-y+1/2,-z
+  5  -x,-y,-z
+  6  x,y,-z
+  7  x+1/2,-y+1/2,z
+  8  -x+1/2,y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Mg3 1.0000000000 -0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Mg 2 a
+Mg4 1.0000000000 -0.0000000000 0.5000000000 0.5000000000  Biso 1.0 Mg 2 d
+B1 1.0000000000 0.2743000000 0.8600000000 0.0000000000  Biso 1.0 B 4 g
+Fe2 1.0000000000 0.2399000000 0.6145000000 0.0000000000  Biso 1.0 Fe 4 g
+O6 1.0000000000 0.8502000000 0.5434000000 0.0000000000  Biso 1.0 O 4 g
+O7 1.0000000000 0.6253000000 0.6424000000 0.0000000000  Biso 1.0 O 4 g
+O8 1.0000000000 0.8508000000 0.7373000000 0.0000000000  Biso 1.0 O 4 g
+Mg5 1.0000000000 0.0023000000 0.7798000000 0.5000000000  Biso 1.0 Mg 4 h
+O10 1.0000000000 0.1092000000 0.6424000000 0.5000000000  Biso 1.0 O 4 h
+O9 1.0000000000 0.3841000000 0.5772000000 0.5000000000  Biso 1.0 O 4 h

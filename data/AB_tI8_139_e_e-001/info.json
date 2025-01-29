@@ -1,0 +1,25 @@
+{
+    "uid": "T1KN",
+    "prototype": "ClHg",
+    "prototype_tex": "ClHg",
+    "label": "AB_tI8_139_e_e-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2"
+    ],
+    "parameter_values": [
+        4.4795,
+        2.43451,
+        0.3356,
+        0.119
+    ],
+    "strukturbericht": "D3_1",
+    "title": "Calomel (Hg$_{2}$Cl$_{2}$, $D3_{1}$) Structure",
+    "part": 2,
+    "legacy": false,
+    "strukturbericht_tex": "$D3_{1}$",
+    "compounds": {},
+    "alias": "AB_tI8_139_e_e"
+}

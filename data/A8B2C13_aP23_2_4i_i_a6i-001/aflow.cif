@@ -1,0 +1,50 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A8B2C13_aP23_2_4i_i_a6i-001
+
+# Last updated on 2024/07/03
+
+data_A8B2C13_aP23_2_4i_i_a6i-001
+_pd_phase_name A8B2C13_aP23_2_4i_i_a6i-001
+_cell_length_a  13.7880000000
+_cell_length_b  12.0960000000
+_cell_length_c  4.1658000000
+_cell_angle_alpha  89.9800000000
+_cell_angle_beta  98.6400000000
+_cell_angle_gamma  87.9600000000
+_symmetry_space_group_name_H-M  'P-1'
+_symmetry_Int_Tables_Number  2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Se1 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Se 1 a
+Bi2 1.0000000000 0.8809000000 0.8803000000 0.4408000000  Biso 1.0 Bi 2 i
+Bi3 1.0000000000 0.3787000000 0.0464000000 0.1887000000  Biso 1.0 Bi 2 i
+Bi4 1.0000000000 0.1510000000 0.7940000000 0.0758000000  Biso 1.0 Bi 2 i
+Bi5 1.0000000000 0.5628000000 0.3671000000 0.2822000000  Biso 1.0 Bi 2 i
+K6 1.0000000000 0.8310000000 0.5510000000 0.4150000000  Biso 1.0 K 2 i
+Se7 1.0000000000 0.2625000000 0.9267000000 0.6320000000  Biso 1.0 Se 2 i
+Se8 1.0000000000 0.0370000000 0.6977000000 0.5160000000  Biso 1.0 Se 2 i
+Se9 1.0000000000 0.7788000000 0.7707000000 0.8870000000  Biso 1.0 Se 2 i
+Se10 1.0000000000 0.5094000000 0.8536000000 0.2540000000  Biso 1.0 Se 2 i
+Se11 1.0000000000 0.2811000000 0.6169000000 0.1400000000  Biso 1.0 Se 2 i
+Se12 1.0000000000 0.5837000000 0.5886000000 0.2930000000  Biso 1.0 Se 2 i

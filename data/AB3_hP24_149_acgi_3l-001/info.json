@@ -1,0 +1,42 @@
+{
+    "uid": "9DMX",
+    "prototype": "OTi3",
+    "prototype_tex": "OTi$_{3}$",
+    "label": "AB3_hP24_149_acgi_3l-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4",
+        "x5",
+        "y5",
+        "z5",
+        "x6",
+        "y6",
+        "z6",
+        "x7",
+        "y7",
+        "z7"
+    ],
+    "parameter_values": [
+        5.1418,
+        2.78268,
+        0.33333,
+        0.33333,
+        0.0,
+        0.33333,
+        0.421,
+        0.33333,
+        0.33333,
+        0.246,
+        0.0,
+        0.33333,
+        0.088
+    ],
+    "strukturbericht": null,
+    "title": "Ti$_{3}$O (Room-Temperature) Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3_hP24_149_acgi_3l"
+}

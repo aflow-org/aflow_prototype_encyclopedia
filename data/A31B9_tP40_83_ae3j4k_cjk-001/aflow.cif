@@ -1,0 +1,58 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Au31Mn9
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A31B9_tP40_83_ae3j4k_cjk-001
+
+# Last updated on 2024/08/01
+
+data_Au31Mn9
+_pd_phase_name Au31Mn9
+_cell_length_a  12.6000000000
+_cell_length_b  12.6000000000
+_cell_length_c  4.0000000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P4/m'
+_symmetry_Int_Tables_Number  83
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  -y,x,z
+  4  y,-x,z
+  5  -x,-y,-z
+  6  x,y,-z
+  7  y,-x,-z
+  8  -y,x,-z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Au1 1.0000000000 -0.0000000000 -0.0000000000 0.0000000000  Biso 1.0 Au 1 a
+Mn10 1.0000000000 0.5000000000 0.5000000000 0.0000000000  Biso 1.0 Mn 1 c
+Au2 1.0000000000 -0.0000000000 0.5000000000 0.0000000000  Biso 1.0 Au 2 e
+Au3 1.0000000000 0.6000000000 0.7000000000 0.0000000000  Biso 1.0 Au 4 j
+Au4 1.0000000000 0.7000000000 0.9000000000 0.0000000000  Biso 1.0 Au 4 j
+Au5 1.0000000000 0.8000000000 0.6000000000 0.0000000000  Biso 1.0 Au 4 j
+Mn11 1.0000000000 0.9000000000 0.8000000000 0.0000000000  Biso 1.0 Mn 4 j
+Au6 1.0000000000 0.6500000000 0.5500000000 0.5000000000  Biso 1.0 Au 4 k
+Au7 1.0000000000 0.7500000000 0.7500000000 0.5000000000  Biso 1.0 Au 4 k
+Au8 1.0000000000 0.8500000000 0.9500000000 0.5000000000  Biso 1.0 Au 4 k
+Au9 1.0000000000 0.9500000000 0.6500000000 0.5000000000  Biso 1.0 Au 4 k
+Mn12 1.0000000000 0.5500000000 0.8500000000 0.5000000000  Biso 1.0 Mn 4 k

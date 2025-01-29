@@ -1,0 +1,61 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  AlB14Mg
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/AB14C2_oI68_74_a_3i2j_h-001
+
+# Last updated on 2024/08/02
+
+data_Al4B56Mg8
+_pd_phase_name Al4B56Mg8
+_cell_length_a  10.3120000000
+_cell_length_b  5.8480000000
+_cell_length_c  8.1120000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Imma'
+_symmetry_Int_Tables_Number  74
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y+1/2,z
+  3  -x,y+1/2,-z
+  4  x,-y,-z
+  5  -x,-y,-z
+  6  x,y+1/2,-z
+  7  x,-y+1/2,z
+  8  -x,y,z
+  9  x+1/2,y+1/2,z+1/2
+  10  -x+1/2,-y,z+1/2
+  11  -x+1/2,y,-z+1/2
+  12  x+1/2,-y+1/2,-z+1/2
+  13  -x+1/2,-y+1/2,-z+1/2
+  14  x+1/2,y,-z+1/2
+  15  x+1/2,-y,z+1/2
+  16  -x+1/2,y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Al1 1.0000000000 0.0000000000 -0.0000000000 0.0000000000  Biso 1.0 Al 4 a
+Mg7 1.0000000000 0.0000000000 0.7831000000 0.6070500000  Biso 1.0 Mg 8 h
+B2 1.0000000000 0.1638700000 0.2500000000 0.9229400000  Biso 1.0 B 8 i
+B3 1.0000000000 0.0833800000 0.2500000000 0.7215400000  Biso 1.0 B 8 i
+B4 1.0000000000 0.0987700000 0.2500000000 0.1289800000  Biso 1.0 B 8 i
+B5 1.0000000000 0.6698800000 0.0007300000 0.2951000000  Biso 1.0 B 16 j
+B6 1.0000000000 0.6874000000 0.9086500000 0.0865600000  Biso 1.0 B 16 j

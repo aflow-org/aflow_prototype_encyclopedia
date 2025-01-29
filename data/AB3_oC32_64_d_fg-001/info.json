@@ -1,0 +1,34 @@
+{
+    "uid": "J38S",
+    "prototype": "PdSn3",
+    "prototype_tex": "PdSn$_{3}$",
+    "label": "AB3_oC32_64_d_fg-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "y2",
+        "z2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        17.147,
+        0.376626,
+        0.378375,
+        0.08535,
+        0.16013,
+        0.3391,
+        0.66857,
+        0.82956,
+        0.1693
+    ],
+    "strukturbericht": null,
+    "title": "PdSn$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3_oC32_64_d_fg-001"
+}

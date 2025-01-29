@@ -1,0 +1,55 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Gd2Mo3O12
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A2B3C12_mC68_15_f_ef_6f-001
+
+# Last updated on 2024/08/01
+
+data_Gd8Mo12O48
+_pd_phase_name Gd8Mo12O48
+_cell_length_a  7.5487300000
+_cell_length_b  11.4389700000
+_cell_length_c  11.4680000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  109.3176000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'C2/c'
+_symmetry_Int_Tables_Number  15
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y,-z+1/2
+  3  -x,-y,-z
+  4  x,-y,z+1/2
+  5  x+1/2,y+1/2,z
+  6  -x+1/2,y+1/2,-z+1/2
+  7  -x+1/2,-y+1/2,-z
+  8  x+1/2,-y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Mo2 1.0000000000 -0.0000000000 0.1276000000 0.2500000000  Biso 1.0 Mo 4 e
+Gd1 1.0000000000 0.8320200000 0.8766800000 0.4092400000  Biso 1.0 Gd 8 f
+Mo3 1.0000000000 0.6494000000 0.8884100000 0.0599400000  Biso 1.0 Mo 8 f
+O4 1.0000000000 0.1675000000 0.0413000000 0.2187000000  Biso 1.0 O 8 f
+O5 1.0000000000 0.1367000000 0.2071000000 0.3917000000  Biso 1.0 O 8 f
+O6 1.0000000000 0.7448000000 0.8140000000 0.2017000000  Biso 1.0 O 8 f
+O7 1.0000000000 0.8607000000 0.9563000000 0.0396000000  Biso 1.0 O 8 f
+O8 1.0000000000 0.5455000000 0.9605000000 0.4044000000  Biso 1.0 O 8 f
+O9 1.0000000000 0.4555000000 0.2157000000 0.0586000000  Biso 1.0 O 8 f

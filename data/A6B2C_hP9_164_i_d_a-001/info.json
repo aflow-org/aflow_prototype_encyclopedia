@@ -1,0 +1,27 @@
+{
+    "uid": "4BR9",
+    "prototype": "Fe6(NH4)2Si",
+    "prototype_tex": "Fe$_{6}$(NH$_{4}$)$_{2}$Si",
+    "label": "A6B2C_hP9_164_i_d_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "x3",
+        "z3"
+    ],
+    "parameter_values": [
+        5.784,
+        0.829184,
+        0.33,
+        0.139,
+        0.799
+    ],
+    "strukturbericht": "J1_6",
+    "title": "Bararite [Trigonal (NH$_{4}$)$_{2}$SiF$_{6}$, $J1_{6}$] Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$J1_{6}$",
+    "compounds": {},
+    "alias": "A6B2C_hP9_164_i_d_a"
+}

@@ -1,0 +1,28 @@
+{
+    "uid": "P53L",
+    "prototype": "O2Si",
+    "prototype_tex": "O$_{2}$Si",
+    "label": "A2B_hP9_152_c_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "y2",
+        "z2"
+    ],
+    "parameter_values": [
+        4.914,
+        1.10012,
+        0.5301,
+        0.1462,
+        0.413,
+        0.88067
+    ],
+    "strukturbericht": null,
+    "title": "$\\alpha$-Quartz (low Quartz) Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_hP9_152_c_a"
+}

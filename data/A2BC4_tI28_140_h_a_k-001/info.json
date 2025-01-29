@@ -1,0 +1,26 @@
+{
+    "uid": "VENL",
+    "prototype": "Sb2SiV4",
+    "prototype_tex": "Sb$_{2}$SiV$_{4}$",
+    "label": "A2BC4_tI28_140_h_a_k-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3",
+        "y3"
+    ],
+    "parameter_values": [
+        9.872,
+        0.476803,
+        0.14094,
+        0.0852,
+        0.20674
+    ],
+    "strukturbericht": null,
+    "title": "V$_{4}$SiSb$_{2}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BC4_tI28_140_h_a_k"
+}

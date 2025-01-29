@@ -1,0 +1,36 @@
+{
+    "uid": "3ERL",
+    "prototype": "AsNa3",
+    "prototype_tex": "AsNa$_{3}$",
+    "label": "AB3_hP24_185_c_ab2c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        8.7838,
+        1.0245,
+        0.2684,
+        0.2311,
+        0.3321,
+        0.25,
+        0.3153,
+        0.5863,
+        0.3518,
+        0.9231
+    ],
+    "strukturbericht": null,
+    "title": "Na$_{3}$As Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3_hP24_185_c_ab2c"
+}

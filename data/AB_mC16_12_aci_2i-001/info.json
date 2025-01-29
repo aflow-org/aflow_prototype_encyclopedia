@@ -1,0 +1,36 @@
+{
+    "uid": "7BKU",
+    "prototype": "CoGe",
+    "prototype_tex": "CoGe",
+    "label": "AB_mC16_12_aci_2i-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x3",
+        "z3",
+        "x4",
+        "z4",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        11.648,
+        0.326837,
+        0.424536,
+        101.1,
+        0.2,
+        0.32,
+        0.18,
+        0.84,
+        0.433,
+        0.74
+    ],
+    "strukturbericht": null,
+    "title": "CoGe Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_mC16_12_aci_2i-001"
+}

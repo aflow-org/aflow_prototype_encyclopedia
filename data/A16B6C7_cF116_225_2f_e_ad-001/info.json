@@ -1,0 +1,24 @@
+{
+    "uid": "NHP2",
+    "prototype": "Cu16Mg6Si7",
+    "prototype_tex": "Cu$_{16}$Mg$_{6}$Si$_{7}$",
+    "label": "A16B6C7_cF116_225_2f_e_ad-001",
+    "parameter_symbol": [
+        "a",
+        "x3",
+        "x4",
+        "x5"
+    ],
+    "parameter_values": [
+        11.67,
+        0.3176,
+        0.3316,
+        0.123
+    ],
+    "strukturbericht": null,
+    "title": "Mg$_{6}$Si$_{7}$Cu$_{16}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A16B6C7_cF116_225_2f_e_ad-001"
+}

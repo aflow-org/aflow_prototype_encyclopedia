@@ -1,0 +1,68 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  NaP3S12Ti2
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A13B6C24D4_hP188_184_2a4d_2d_8d_bd-001
+
+# Last updated on 2024/08/02
+
+data_Na52P24S96Ti16
+_pd_phase_name Na52P24S96Ti16
+_cell_length_a  19.9060000000
+_cell_length_b  19.9060000000
+_cell_length_c  11.5520000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  120.0000000000
+_symmetry_space_group_name_H-M  'P6cc'
+_symmetry_Int_Tables_Number  184
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -y,x-y,z
+  3  -x+y,-x,z
+  4  -x,-y,z
+  5  y,-x+y,z
+  6  x-y,x,z
+  7  -y,-x,z+1/2
+  8  -x+y,y,z+1/2
+  9  x,x-y,z+1/2
+  10  y,x,z+1/2
+  11  x-y,-y,z+1/2
+  12  -x,-x+y,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Na1 1.0000000000 0.0000033333 0.9999966667 0.4100000000  Biso 1.0 Na 2 a
+Na2 1.0000000000 0.0000033333 0.9999966667 0.9570000000  Biso 1.0 Na 2 a
+Ti17 1.0000000000 0.3333333333 0.6666666667 0.0000000000  Biso 1.0 Ti 4 b
+Na3 1.0000000000 0.5500033333 0.0599966667 0.2440000000  Biso 1.0 Na 12 d
+Na4 1.0000000000 0.5130033333 0.0209966667 0.2050000000  Biso 1.0 Na 12 d
+Na5 1.0000000000 0.0830033333 0.0189966667 0.9160000000  Biso 1.0 Na 12 d
+Na6 1.0000000000 0.0880033333 0.0379966667 0.3140000000  Biso 1.0 Na 12 d
+P7 1.0000000000 0.6704033333 0.1834966667 0.0098000000  Biso 1.0 P 12 d
+P8 1.0000000000 0.7094033333 0.0111966667 0.7562000000  Biso 1.0 P 12 d
+S10 1.0000000000 0.5977033333 0.0751966667 0.9498000000  Biso 1.0 S 12 d
+S11 1.0000000000 0.7100033333 0.2633966667 0.8797000000  Biso 1.0 S 12 d
+S12 1.0000000000 0.7560033333 0.1726966667 0.0898000000  Biso 1.0 S 12 d
+S13 1.0000000000 0.7892033333 0.1003966667 0.8499000000  Biso 1.0 S 12 d
+S14 1.0000000000 0.6051033333 0.9576966667 0.1514000000  Biso 1.0 S 12 d
+S15 1.0000000000 0.6400033333 0.9340966667 0.8787000000  Biso 1.0 S 12 d
+S16 1.0000000000 0.7877033333 0.0335966667 0.1395000000  Biso 1.0 S 12 d
+S9 1.0000000000 0.6185033333 0.2200966667 0.1237000000  Biso 1.0 S 12 d
+Ti18 1.0000000000 0.6993033333 0.0452966667 0.0094000000  Biso 1.0 Ti 12 d

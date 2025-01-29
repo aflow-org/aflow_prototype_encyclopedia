@@ -1,0 +1,22 @@
+{
+    "uid": "3F7M",
+    "prototype": "CrFe27MoNi3",
+    "prototype_tex": "CrFe$_{27}$MoNi$_{3}$",
+    "label": "AB27CD3_cP32_221_a_dij_b_c-001",
+    "parameter_symbol": [
+        "a",
+        "y5",
+        "y6"
+    ],
+    "parameter_values": [
+        7.04,
+        0.245,
+        0.26
+    ],
+    "strukturbericht": null,
+    "title": "Model of Austenite Structure (cP32)",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB27CD3_cP32_221_a_dij_b_c"
+}

@@ -1,0 +1,76 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  LaTi3Bi4
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A4BC3_oF64_69_gho_g_gl-001
+
+# Last updated on 2024/07/30
+
+data_A4BC3_oF64_69_gho_g_gl-001
+_pd_phase_name A4BC3_oF64_69_gho_g_gl-001
+_cell_length_a  25.1105000000
+_cell_length_b  10.3545000000
+_cell_length_c  5.9452000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Fmmm'
+_symmetry_Int_Tables_Number  69
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  -x,y,-z
+  4  x,-y,-z
+  5  -x,-y,-z
+  6  x,y,-z
+  7  x,-y,z
+  8  -x,y,z
+  9  x,y+1/2,z+1/2
+  10  -x,-y+1/2,z+1/2
+  11  -x,y+1/2,-z+1/2
+  12  x,-y+1/2,-z+1/2
+  13  -x,-y+1/2,-z+1/2
+  14  x,y+1/2,-z+1/2
+  15  x,-y+1/2,z+1/2
+  16  -x,y+1/2,z+1/2
+  17  x+1/2,y,z+1/2
+  18  -x+1/2,-y,z+1/2
+  19  -x+1/2,y,-z+1/2
+  20  x+1/2,-y,-z+1/2
+  21  -x+1/2,-y,-z+1/2
+  22  x+1/2,y,-z+1/2
+  23  x+1/2,-y,z+1/2
+  24  -x+1/2,y,z+1/2
+  25  x+1/2,y+1/2,z
+  26  -x+1/2,-y+1/2,z
+  27  -x+1/2,y+1/2,-z
+  28  x+1/2,-y+1/2,-z
+  29  -x+1/2,-y+1/2,-z
+  30  x+1/2,y+1/2,-z
+  31  x+1/2,-y+1/2,z
+  32  -x+1/2,y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Bi1 1.0000000000 0.5673700000 0.0000000000 0.0000000000  Biso 1.0 Bi  8 g
+La4 1.0000000000 0.6958700000 0.0000000000 0.0000000000  Biso 1.0 La  8 g
+Ti5 1.0000000000 0.0915200000 0.0000000000 0.0000000000  Biso 1.0 Ti  8 g
+Bi2 1.0000000000 0.0000000000 0.1690000000 0.0000000000  Biso 1.0 Bi  8 h
+Ti6 1.0000000000 0.9062100000 0.2500000000 0.2500000000  Biso 1.0 Ti 16 l
+Bi3 1.0000000000 0.1859200000 0.8381300000 0.0000000000  Biso 1.0 Bi 16 o

@@ -1,0 +1,32 @@
+{
+    "uid": "8GWY",
+    "prototype": "Ag2O2Pb",
+    "prototype_tex": "Ag$_{2}$O$_{2}$Pb",
+    "label": "A2B2C_mC20_15_ac_f_e-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "y3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        9.2251,
+        0.944705,
+        0.710594,
+        138.859,
+        0.375,
+        0.311,
+        0.695,
+        0.257
+    ],
+    "strukturbericht": null,
+    "title": "Ag$_{2}$PbO$_{2}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B2C_mC20_15_ad_f_e"
+}

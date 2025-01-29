@@ -1,0 +1,27 @@
+{
+    "uid": "6VW9",
+    "prototype": "Al2BaO4",
+    "prototype_tex": "Al$_{2}$BaO$_{4}$",
+    "label": "A2BC6_hP18_182_f_b_gh-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "x3",
+        "x4"
+    ],
+    "parameter_values": [
+        5.218,
+        1.68283,
+        0.054,
+        0.36,
+        0.371
+    ],
+    "strukturbericht": "H2_8",
+    "title": "BaAl$_{2}$O$_{4}$ ($H2_{8}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$H2_{8}$",
+    "compounds": {},
+    "alias": "A2BC6_hP18_182_f_b_gh"
+}

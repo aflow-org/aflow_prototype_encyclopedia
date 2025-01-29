@@ -1,0 +1,24 @@
+{
+    "uid": "C7FB",
+    "prototype": "BrZr",
+    "prototype_tex": "BrZr",
+    "label": "AB_hR4_166_c_c-006",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2"
+    ],
+    "parameter_values": [
+        3.5031,
+        8.013188,
+        0.3917,
+        0.2092
+    ],
+    "strukturbericht": null,
+    "title": "ZrBr Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_hR4_166_c_c-006"
+}

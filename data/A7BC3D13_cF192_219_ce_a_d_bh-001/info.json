@@ -1,0 +1,26 @@
+{
+    "uid": "0WNV",
+    "prototype": "B7ClMg3O13",
+    "prototype_tex": "B$_{7}$ClMg$_{3}$O$_{13}$",
+    "label": "A7BC3D13_cF192_219_ce_a_d_bh-001",
+    "parameter_symbol": [
+        "a",
+        "x5",
+        "x6",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        12.0986,
+        0.8308,
+        0.3487,
+        0.9321,
+        0.7714
+    ],
+    "strukturbericht": null,
+    "title": "Boracite (Mg$_{3}$B$_{7}$ClO$_{13}$) Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A7BC3D13_cF192_219_de_b_c_ah"
+}

@@ -1,0 +1,40 @@
+{
+    "uid": "G10N",
+    "prototype": "ClO2",
+    "prototype_tex": "ClO$_{2}$",
+    "label": "AB2_oP24_61_c_2c-002",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "y1",
+        "z1",
+        "x2",
+        "y2",
+        "z2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        10.767,
+        0.618,
+        0.51249,
+        0.61516,
+        0.48478,
+        0.19322,
+        0.71201,
+        0.3478,
+        0.10331,
+        0.49113,
+        0.39451,
+        0.22705
+    ],
+    "strukturbericht": null,
+    "title": "ClO$_{2}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2_oP24_61_c_2c-002"
+}

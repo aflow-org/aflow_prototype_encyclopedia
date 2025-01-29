@@ -1,0 +1,90 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Mn7NaO12
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A7BC12_cI40_204_bc_a_g-001
+
+# Last updated on 2024/08/01
+
+data_Mn14Na2O24
+_pd_phase_name Mn14Na2O24
+_cell_length_a  7.3120000000
+_cell_length_b  7.3120000000
+_cell_length_c  7.3120000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Im-3'
+_symmetry_Int_Tables_Number  204
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  -x,y,-z
+  4  x,-y,-z
+  5  z,x,y
+  6  z,-x,-y
+  7  -z,-x,y
+  8  -z,x,-y
+  9  y,z,x
+  10  -y,z,-x
+  11  y,-z,-x
+  12  -y,-z,x
+  13  -x,-y,-z
+  14  x,y,-z
+  15  x,-y,z
+  16  -x,y,z
+  17  -z,-x,-y
+  18  -z,x,y
+  19  z,x,-y
+  20  z,-x,y
+  21  -y,-z,-x
+  22  y,-z,x
+  23  -y,z,x
+  24  y,z,-x
+  25  x+1/2,y+1/2,z+1/2
+  26  -x+1/2,-y+1/2,z+1/2
+  27  -x+1/2,y+1/2,-z+1/2
+  28  x+1/2,-y+1/2,-z+1/2
+  29  z+1/2,x+1/2,y+1/2
+  30  z+1/2,-x+1/2,-y+1/2
+  31  -z+1/2,-x+1/2,y+1/2
+  32  -z+1/2,x+1/2,-y+1/2
+  33  y+1/2,z+1/2,x+1/2
+  34  -y+1/2,z+1/2,-x+1/2
+  35  y+1/2,-z+1/2,-x+1/2
+  36  -y+1/2,-z+1/2,x+1/2
+  37  -x+1/2,-y+1/2,-z+1/2
+  38  x+1/2,y+1/2,-z+1/2
+  39  x+1/2,-y+1/2,z+1/2
+  40  -x+1/2,y+1/2,z+1/2
+  41  -z+1/2,-x+1/2,-y+1/2
+  42  -z+1/2,x+1/2,y+1/2
+  43  z+1/2,x+1/2,-y+1/2
+  44  z+1/2,-x+1/2,y+1/2
+  45  -y+1/2,-z+1/2,-x+1/2
+  46  y+1/2,-z+1/2,x+1/2
+  47  -y+1/2,z+1/2,x+1/2
+  48  y+1/2,z+1/2,-x+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Na3 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Na 2 a
+Mn1 1.0000000000 0.0000000000 0.5000000000 0.5000000000  Biso 1.0 Mn 6 b
+Mn2 1.0000000000 0.2500000000 0.2500000000 0.2500000000  Biso 1.0 Mn 8 c
+O4 1.0000000000 0.0000000000 0.3128000000 0.1829000000  Biso 1.0 O 24 g

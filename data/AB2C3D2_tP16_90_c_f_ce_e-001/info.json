@@ -1,0 +1,31 @@
+{
+    "uid": "ZUNT",
+    "prototype": "CCl2O3Pb2",
+    "prototype_tex": "CCl$_{2}$O$_{3}$Pb$_{2}$",
+    "label": "AB2C3D2_tP16_90_c_f_ce_e-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "x3",
+        "x4",
+        "x5"
+    ],
+    "parameter_values": [
+        8.12,
+        0.541872,
+        0.55,
+        0.84,
+        0.11,
+        0.34,
+        0.24
+    ],
+    "strukturbericht": "G7_5",
+    "title": "$G7_{5}$ (PbCO$_{3}\\cdot$PbCl$_{2}$, Phosgenite) ({\\em Obsolete}) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$G7_{5}$",
+    "compounds": {},
+    "alias": "AB2C3D2_tP16_90_c_f_ce_e"
+}

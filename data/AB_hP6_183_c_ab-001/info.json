@@ -1,0 +1,26 @@
+{
+    "uid": "C57U",
+    "prototype": "CrFe3NiSn5",
+    "prototype_tex": "CrFe$_{3}$NiSn$_{5}$",
+    "label": "AB_hP6_183_c_ab-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3"
+    ],
+    "parameter_values": [
+        5.3168,
+        0.832474,
+        0.0,
+        0.513,
+        0.01
+    ],
+    "strukturbericht": null,
+    "title": "CrFe$_{3}$NiSn$_{5}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_hP6_183_c_ab"
+}

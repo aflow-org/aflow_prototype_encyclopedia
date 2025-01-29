@@ -1,0 +1,30 @@
+{
+    "uid": "QQE1",
+    "prototype": "AgO3Ru",
+    "prototype_tex": "AgO$_{3}$Ru",
+    "label": "AB3C_hR20_167_c_f_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        5.22611,
+        6.19162,
+        0.93039,
+        0.66836,
+        0.58753,
+        0.35142,
+        0.96213
+    ],
+    "strukturbericht": null,
+    "title": "AgRuO$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3C_hR20_167_c_f_c-001"
+}

@@ -1,0 +1,34 @@
+{
+    "uid": "FVBJ",
+    "prototype": "O4Pb3",
+    "prototype_tex": "O$_{4}$Pb$_{3}$",
+    "label": "A4B3_oP14_55_gh_ah-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x2",
+        "y2",
+        "x3",
+        "y3",
+        "x4",
+        "y4"
+    ],
+    "parameter_values": [
+        9.3812,
+        0.688718,
+        0.353558,
+        0.3132,
+        0.8014,
+        0.5841,
+        0.8108,
+        0.67564,
+        0.4497
+    ],
+    "strukturbericht": null,
+    "title": "Possible Phase III Pb$_{3}$O$_{4}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4B3_oP14_55_gh_ah-001"
+}

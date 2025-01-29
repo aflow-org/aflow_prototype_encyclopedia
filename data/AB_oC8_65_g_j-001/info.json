@@ -1,0 +1,26 @@
+{
+    "uid": "S2CY",
+    "prototype": "IrV",
+    "prototype_tex": "IrV",
+    "label": "AB_oC8_65_g_j-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "y2"
+    ],
+    "parameter_values": [
+        6.756,
+        0.883807,
+        0.413854,
+        0.22,
+        0.72
+    ],
+    "strukturbericht": null,
+    "title": "$\\alpha$-IrV Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_oC8_65_j_g"
+}

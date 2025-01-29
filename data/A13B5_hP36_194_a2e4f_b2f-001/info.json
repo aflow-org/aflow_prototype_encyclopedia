@@ -1,0 +1,36 @@
+{
+    "uid": "G1KV",
+    "prototype": "Na13Pb5",
+    "prototype_tex": "Na$_{13}$Pb$_{5}$",
+    "label": "A13B5_hP36_194_a2e4f_b2f-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4",
+        "z5",
+        "z6",
+        "z7",
+        "z8",
+        "z9",
+        "z10"
+    ],
+    "parameter_values": [
+        5.51,
+        7.33031,
+        0.083,
+        0.167,
+        0.211,
+        0.531,
+        0.617,
+        0.71,
+        0.05,
+        0.13
+    ],
+    "strukturbericht": null,
+    "title": "Na$_{13}$Pb$_{5}$ ($\\gamma$-NaPb) Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A13B5_hP36_194_a2e4f_b2f-001"
+}

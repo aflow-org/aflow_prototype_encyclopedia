@@ -1,0 +1,32 @@
+{
+    "uid": "QHX2",
+    "prototype": "SV3",
+    "prototype_tex": "SV$_{3}$",
+    "label": "AB3_tI32_121_f_g2i-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3",
+        "z3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        9.47,
+        0.48458,
+        0.2851,
+        0.335,
+        0.0932,
+        0.25,
+        0.2,
+        0.25
+    ],
+    "strukturbericht": null,
+    "title": "$\\alpha$-V$_{3}$S Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3_tI32_121_g_f2i"
+}

@@ -1,0 +1,28 @@
+{
+    "uid": "39CF",
+    "prototype": "Gd4InRh",
+    "prototype_tex": "Gd$_{4}$InRh",
+    "label": "A4BC_cF96_216_efg_e_e-001",
+    "parameter_symbol": [
+        "a",
+        "x1",
+        "x2",
+        "x3",
+        "x4",
+        "x5"
+    ],
+    "parameter_values": [
+        13.707,
+        0.34948,
+        0.5818,
+        0.14246,
+        0.19002,
+        0.56266
+    ],
+    "strukturbericht": null,
+    "title": "Gd$_{4}$RhIn Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4BC_cF96_216_efg_e_e-001"
+}

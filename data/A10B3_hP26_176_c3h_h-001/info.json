@@ -1,0 +1,36 @@
+{
+    "uid": "4QXQ",
+    "prototype": "Cu10Sb3",
+    "prototype_tex": "Cu$_{10}$Sb$_{3}$",
+    "label": "A10B3_hP26_176_c3h_h-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "y2",
+        "x3",
+        "y3",
+        "x4",
+        "y4",
+        "x5",
+        "y5"
+    ],
+    "parameter_values": [
+        9.9,
+        0.435354,
+        0.169,
+        0.056,
+        0.415,
+        0.971,
+        0.505,
+        0.294,
+        0.104,
+        0.741
+    ],
+    "strukturbericht": null,
+    "title": "Cu$_{10}$Sb$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A10B3_hP26_176_c3h_h-001"
+}

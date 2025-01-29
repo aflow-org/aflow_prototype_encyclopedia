@@ -1,0 +1,28 @@
+{
+    "uid": "RMCX",
+    "prototype": "HgO2",
+    "prototype_tex": "HgO$_{2}$",
+    "label": "AB2_mC6_12_a_i-004",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x2",
+        "z2"
+    ],
+    "parameter_values": [
+        4.47,
+        1.22125,
+        0.787248,
+        108.45,
+        0.524,
+        0.72
+    ],
+    "strukturbericht": null,
+    "title": "$\\alpha$-HgO$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2_mC6_12_a_i-004"
+}

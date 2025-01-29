@@ -1,0 +1,40 @@
+{
+    "uid": "RYPV",
+    "prototype": "B2BaO4",
+    "prototype_tex": "B$_{2}$BaO$_{4}$",
+    "label": "A2BC4_hR42_167_f_ac_2f-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3",
+        "y3",
+        "z3",
+        "x4",
+        "y4",
+        "z4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        7.23503,
+        5.417,
+        0.84983,
+        0.35996,
+        0.50497,
+        0.74896,
+        0.335,
+        0.71401,
+        0.571,
+        0.4775,
+        0.94151,
+        0.1905
+    ],
+    "strukturbericht": null,
+    "title": "$\\beta$-BaB$_{2}$O$_{4}$ (High Temperature) Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BC4_hR42_167_f_ac_2f"
+}

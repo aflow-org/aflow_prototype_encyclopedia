@@ -1,0 +1,22 @@
+{
+    "uid": "Z993",
+    "prototype": "Sc",
+    "prototype_tex": "Sc",
+    "label": "A_hP6_178_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1"
+    ],
+    "parameter_values": [
+        2.355,
+        4.43567,
+        0.461
+    ],
+    "strukturbericht": null,
+    "title": "Sc-V (High-Pressure) Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A_hP6_178_a"
+}

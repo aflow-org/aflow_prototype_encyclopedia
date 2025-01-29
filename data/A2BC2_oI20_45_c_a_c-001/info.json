@@ -1,0 +1,36 @@
+{
+    "uid": "LNLG",
+    "prototype": "Ga2MnSb2",
+    "prototype_tex": "Ga$_{2}$MnSb$_{2}$",
+    "label": "A2BC2_oI20_45_c_a_c-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z1",
+        "x2",
+        "y2",
+        "z2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        11.7997,
+        0.505759,
+        0.496436,
+        0.75,
+        0.629,
+        0.2271,
+        0.493,
+        0.8629,
+        0.2704,
+        0.474
+    ],
+    "strukturbericht": null,
+    "title": "MnGa$_{2}$Sb$_{2}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BC2_oI20_45_c_b_c"
+}

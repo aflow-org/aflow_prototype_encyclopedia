@@ -1,0 +1,30 @@
+{
+    "uid": "T7XE",
+    "prototype": "Cu3Ti2",
+    "prototype_tex": "Cu$_{3}$Ti$_{2}$",
+    "label": "A3B2_tP10_129_3c_2c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3",
+        "z4",
+        "z5"
+    ],
+    "parameter_values": [
+        3.13,
+        4.45687,
+        0.95,
+        0.75,
+        0.35,
+        0.14,
+        0.56
+    ],
+    "strukturbericht": null,
+    "title": "Ti$_{2}$Cu$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B2_tP10_129_3c_2c-001"
+}

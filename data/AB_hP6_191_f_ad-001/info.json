@@ -1,0 +1,21 @@
+{
+    "uid": "Z7YH",
+    "prototype": "CoSn",
+    "prototype_tex": "CoSn",
+    "label": "AB_hP6_191_f_ad-001",
+    "parameter_symbol": [
+        "a",
+        "c/a"
+    ],
+    "parameter_values": [
+        5.279,
+        0.806914
+    ],
+    "strukturbericht": "B35",
+    "title": "CoSn ($B35$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$B35$",
+    "compounds": {},
+    "alias": "AB_hP6_191_f_ad"
+}

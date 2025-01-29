@@ -1,0 +1,61 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  I3Th
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A3B_oC64_66_kl2m_acl-001
+
+# Last updated on 2024/08/01
+
+data_I48Th16
+_pd_phase_name I48Th16
+_cell_length_a  20.2970000000
+_cell_length_b  8.7350000000
+_cell_length_c  14.6610000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Cccm'
+_symmetry_Int_Tables_Number  66
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  -x,y,-z+1/2
+  4  x,-y,-z+1/2
+  5  -x,-y,-z
+  6  x,y,-z
+  7  x,-y,z+1/2
+  8  -x,y,z+1/2
+  9  x+1/2,y+1/2,z
+  10  -x+1/2,-y+1/2,z
+  11  -x+1/2,y+1/2,-z+1/2
+  12  x+1/2,-y+1/2,-z+1/2
+  13  -x+1/2,-y+1/2,-z
+  14  x+1/2,y+1/2,-z
+  15  x+1/2,-y+1/2,z+1/2
+  16  -x+1/2,y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Th5 1.0000000000 0.0000000000 0.0000000000 0.2500000000  Biso 1.0 Th 4 a
+Th6 1.0000000000 -0.0000000000 0.0000000000 -0.0000000000  Biso 1.0 Th 4 c
+I1 1.0000000000 0.2500000000 0.2500000000 0.1826000000  Biso 1.0 I 8 k
+I2 1.0000000000 0.6994000000 0.0318000000 -0.0000000000  Biso 1.0 I 8 l
+Th7 1.0000000000 0.6716000000 0.6730000000 -0.0000000000  Biso 1.0 Th 8 l
+I3 1.0000000000 0.9510000000 0.7106000000 0.1302000000  Biso 1.0 I 16 m
+I4 1.0000000000 0.8773000000 0.8867000000 0.3708000000  Biso 1.0 I 16 m

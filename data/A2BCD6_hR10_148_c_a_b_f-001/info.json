@@ -1,0 +1,29 @@
+{
+    "uid": "WCJU",
+    "prototype": "C2CaMgO6",
+    "prototype_tex": "C$_{2}$CaMgO$_{6}$",
+    "label": "A2BCD6_hR10_148_c_a_b_f-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        4.80691,
+        3.32897,
+        0.75711,
+        0.72067,
+        0.03947,
+        0.50807
+    ],
+    "strukturbericht": "G1_1",
+    "title": "Dolomite [MgCa(CO$_{3}$)$_{2}$, $G1_{1}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$G1_{1}$",
+    "compounds": {},
+    "alias": "A2BCD6_hR10_148_c_a_b_f"
+}

@@ -1,0 +1,59 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Co3H2O10Se3
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A3B2C10D3_aP36_2_be2i_2i_10i_3i-001
+
+# Last updated on 2024/08/01
+
+data_Co6H4O20Se6
+_pd_phase_name Co6H4O20Se6
+_cell_length_a  8.1020000000
+_cell_length_b  8.2190000000
+_cell_length_c  8.5720000000
+_cell_angle_alpha  69.1500000000
+_cell_angle_beta  62.8800000000
+_cell_angle_gamma  67.2300000000
+_symmetry_space_group_name_H-M  'P-1'
+_symmetry_Int_Tables_Number  2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Co2 1.0000000000 0.0000000000 -0.0000000000 0.5000000000  Biso 1.0 Co 1 b
+Co1 1.0000000000 0.5000000000 0.5000000000 -0.0000000000  Biso 1.0 Co 1 e
+Co3 1.0000000000 0.1538800000 0.5372600000 0.7989500000  Biso 1.0 Co 2 i
+Co4 1.0000000000 0.2166400000 0.3563600000 0.3900500000  Biso 1.0 Co 2 i
+H5 1.0000000000 0.5040000000 0.3670000000 0.7040000000  Biso 1.0 H 2 i
+H6 1.0000000000 0.4350000000 0.3230000000 0.6240000000  Biso 1.0 H 2 i
+O10 1.0000000000 0.0375000000 0.4447000000 0.6739000000  Biso 1.0 O 2 i
+O11 1.0000000000 0.4496000000 0.2241000000 0.4515000000  Biso 1.0 O 2 i
+O12 1.0000000000 0.2083000000 0.0180000000 0.2467000000  Biso 1.0 O 2 i
+O13 1.0000000000 0.0988000000 0.3268000000 0.0273000000  Biso 1.0 O 2 i
+O14 1.0000000000 0.3667000000 0.2852000000 0.1424000000  Biso 1.0 O 2 i
+O15 1.0000000000 0.6894000000 0.3592000000 0.1263000000  Biso 1.0 O 2 i
+O16 1.0000000000 0.4179000000 0.3725000000 0.6893000000  Biso 1.0 O 2 i
+O7 1.0000000000 0.8023000000 0.2124000000 0.3858000000  Biso 1.0 O 2 i
+O8 1.0000000000 0.0468000000 0.1953000000 0.5643000000  Biso 1.0 O 2 i
+O9 1.0000000000 0.7128000000 0.3964000000 0.7589000000  Biso 1.0 O 2 i
+Se17 1.0000000000 0.0645700000 0.7336500000 0.2387700000  Biso 1.0 Se 2 i
+Se18 1.0000000000 0.2966200000 0.1673700000 0.0649200000  Biso 1.0 Se 2 i
+Se19 1.0000000000 0.6762400000 0.1696600000 0.2981100000  Biso 1.0 Se 2 i

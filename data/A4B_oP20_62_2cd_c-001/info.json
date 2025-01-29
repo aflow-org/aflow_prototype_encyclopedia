@@ -1,0 +1,40 @@
+{
+    "uid": "8U8B",
+    "prototype": "B4Mg",
+    "prototype_tex": "B$_{4}$Mg",
+    "label": "A4B_oP20_62_2cd_c-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        5.464,
+        0.810395,
+        1.3675,
+        0.22451,
+        0.65626,
+        0.55801,
+        0.6466,
+        0.05131,
+        0.36362,
+        0.13079,
+        0.0579,
+        0.06543
+    ],
+    "strukturbericht": null,
+    "title": "MgB$_{4}$ Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4B_oP20_62_2cd_c"
+}

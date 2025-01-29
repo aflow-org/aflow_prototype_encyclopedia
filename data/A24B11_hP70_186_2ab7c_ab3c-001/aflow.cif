@@ -1,0 +1,65 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Ce24Co11
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A24B11_hP70_186_2ab7c_ab3c-001
+
+# Last updated on 2024/08/01
+
+data_Ce48Co22
+_pd_phase_name Ce48Co22
+_cell_length_a  9.5870000000
+_cell_length_b  9.5870000000
+_cell_length_c  21.8250000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  120.0000000000
+_symmetry_space_group_name_H-M  'P6_{3}mc'
+_symmetry_Int_Tables_Number  186
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -y,x-y,z
+  3  -x+y,-x,z
+  4  -x,-y,z+1/2
+  5  y,-x+y,z+1/2
+  6  x-y,x,z+1/2
+  7  -y,-x,z
+  8  -x+y,y,z
+  9  x,x-y,z
+  10  y,x,z+1/2
+  11  x-y,-y,z+1/2
+  12  -x,-x+y,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Ce1 1.0000000000 0.0000000000 0.0000000000 0.2074000000  Biso 1.0 Ce 2 a
+Ce2 1.0000000000 0.0000000000 0.0000000000 0.0526000000  Biso 1.0 Ce 2 a
+Co11 1.0000000000 0.0000000000 0.0000000000 0.4326000000  Biso 1.0 Co 2 a
+Ce3 1.0000000000 0.3333300000 0.6666700000 0.8647000000  Biso 1.0 Ce 2 b
+Co12 1.0000000000 0.3333300000 0.6666700000 0.0845000000  Biso 1.0 Co 2 b
+Ce10 1.0000000000 0.1245000000 0.8755000000 0.8542000000  Biso 1.0 Ce 6 c
+Ce4 1.0000000000 0.2011000000 0.7989000000 0.0000000000  Biso 1.0 Ce 6 c
+Ce5 1.0000000000 0.2016000000 0.7984000000 0.1628000000  Biso 1.0 Ce 6 c
+Ce6 1.0000000000 0.2029000000 0.7971000000 0.4414000000  Biso 1.0 Ce 6 c
+Ce7 1.0000000000 0.2065000000 0.7935000000 0.7091000000  Biso 1.0 Ce 6 c
+Ce8 1.0000000000 0.4580000000 0.5420000000 0.3057000000  Biso 1.0 Ce 6 c
+Ce9 1.0000000000 0.4586000000 0.5414000000 0.5748000000  Biso 1.0 Ce 6 c
+Co13 1.0000000000 0.1456000000 0.8544000000 0.2762000000  Biso 1.0 Co 6 c
+Co14 1.0000000000 0.1503000000 0.8497000000 0.5881000000  Biso 1.0 Co 6 c
+Co15 1.0000000000 0.4819000000 0.5181000000 0.9290000000  Biso 1.0 Co 6 c

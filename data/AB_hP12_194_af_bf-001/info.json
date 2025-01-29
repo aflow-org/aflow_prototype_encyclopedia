@@ -1,0 +1,24 @@
+{
+    "uid": "Q5G8",
+    "prototype": "CMo",
+    "prototype_tex": "CMo",
+    "label": "AB_hP12_194_af_bf-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4"
+    ],
+    "parameter_values": [
+        3.01,
+        4.85382,
+        0.166,
+        0.583
+    ],
+    "strukturbericht": null,
+    "title": "CMo Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_hP12_194_af_bf"
+}

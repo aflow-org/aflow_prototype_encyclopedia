@@ -1,0 +1,26 @@
+{
+    "uid": "P2LA",
+    "prototype": "H3S",
+    "prototype_tex": "H$_{3}$S",
+    "label": "A3B_hR4_160_b_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "z2"
+    ],
+    "parameter_values": [
+        4.40507,
+        0.610443,
+        0.0,
+        0.47927,
+        0.02217
+    ],
+    "strukturbericht": null,
+    "title": "H$_{3}$S (130 GPa) Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B_hR4_160_b_a"
+}

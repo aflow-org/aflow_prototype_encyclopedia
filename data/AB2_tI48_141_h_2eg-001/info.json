@@ -1,0 +1,30 @@
+{
+    "uid": "Q9V3",
+    "prototype": "HgI2",
+    "prototype_tex": "HgI$_{2}$",
+    "label": "AB2_tI48_141_h_2eg-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "x3",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        8.7863,
+        2.80744,
+        0.75752,
+        0.24242,
+        0.23584,
+        0.49792,
+        0.31232
+    ],
+    "strukturbericht": null,
+    "title": "Orange (I) HgI$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2_tI48_141_h_2eg-001"
+}

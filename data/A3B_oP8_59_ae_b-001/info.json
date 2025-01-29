@@ -1,0 +1,31 @@
+{
+    "uid": "CJHD",
+    "prototype": "Cu3Ti",
+    "prototype_tex": "Cu$_{3}$Ti",
+    "label": "A3B_oP8_59_ae_b-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z1",
+        "z2",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        4.347,
+        1.18749,
+        1.04233,
+        0.329,
+        0.32875,
+        0.495,
+        0.826
+    ],
+    "strukturbericht": "D0_a",
+    "title": "$\\beta$-TiCu$_{3}$ ($D0_{a}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$D0_{a}$",
+    "compounds": {},
+    "alias": "A3B_oP8_59_bf_a"
+}

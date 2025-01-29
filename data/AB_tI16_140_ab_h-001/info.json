@@ -1,0 +1,23 @@
+{
+    "uid": "BFE0",
+    "prototype": "SeTl",
+    "prototype_tex": "SeTl",
+    "label": "AB_tI16_140_ab_h-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3"
+    ],
+    "parameter_values": [
+        8.03,
+        0.872976,
+        0.179
+    ],
+    "strukturbericht": "B37",
+    "title": "$\\beta$-SeTl ($B37$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$B37$",
+    "compounds": {},
+    "alias": "AB_tI16_140_ab_h"
+}

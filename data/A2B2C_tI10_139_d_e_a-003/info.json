@@ -1,0 +1,22 @@
+{
+    "uid": "LS62",
+    "prototype": "Cr2Si2Th",
+    "prototype_tex": "Cr$_{2}$Si$_{2}$Th",
+    "label": "A2B2C_tI10_139_d_e_a-003",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3"
+    ],
+    "parameter_values": [
+        4.043,
+        2.61613,
+        0.374
+    ],
+    "strukturbericht": null,
+    "title": "ThCr$_{2}$Si$_{2}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B2C_tI10_139_d_e_a"
+}

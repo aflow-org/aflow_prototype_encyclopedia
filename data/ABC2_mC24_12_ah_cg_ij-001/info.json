@@ -1,0 +1,38 @@
+{
+    "uid": "JWKX",
+    "prototype": "AlLiO2",
+    "prototype_tex": "AlLiO$_{2}$",
+    "label": "ABC2_mC24_12_ah_cg_ij-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "y3",
+        "y4",
+        "x5",
+        "z5",
+        "x6",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        4.581,
+        1.70312,
+        1.63724,
+        145.386,
+        0.3409,
+        0.6591,
+        0.0211,
+        0.2514,
+        0.5027,
+        0.8329,
+        0.7436
+    ],
+    "strukturbericht": null,
+    "title": "Predicted $\\zeta$-LiAlO$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC2_mC24_12_ah_cg_ij-001"
+}

@@ -1,0 +1,35 @@
+{
+    "uid": "05M4",
+    "prototype": "C2HgN2",
+    "prototype_tex": "C$_{2}$HgN$_{2}$",
+    "label": "A2BC2_tI40_122_e_d_e-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "y2",
+        "z2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        9.6922,
+        0.918419,
+        0.21203,
+        0.7035,
+        0.4271,
+        0.6785,
+        0.705,
+        0.5464,
+        0.6639
+    ],
+    "strukturbericht": "F1_1",
+    "title": "Mercury Cyanide [Hg(CN)$_{2}$, $F1_{1}$] Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$F1_{1}$",
+    "compounds": {},
+    "alias": "A2BC2_tI40_122_e_d_e"
+}

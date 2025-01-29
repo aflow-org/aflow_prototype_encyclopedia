@@ -1,0 +1,43 @@
+{
+    "uid": "EDTK",
+    "prototype": "CaO5SiTi",
+    "prototype_tex": "CaO$_{5}$SiTi",
+    "label": "AB5CD_mC32_15_e_e2f_e_a-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "y2",
+        "y3",
+        "y4",
+        "x5",
+        "y5",
+        "z5",
+        "x6",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        6.549,
+        1.32768,
+        1.07803,
+        113.87,
+        0.3323,
+        0.0714,
+        0.6828,
+        0.3145,
+        0.0663,
+        0.0898,
+        0.8975,
+        0.7893,
+        0.3815
+    ],
+    "strukturbericht": "S0_6",
+    "title": "Titanite (CaTiSiO$_{5}$, $S0_{6}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$S0_{6}$",
+    "compounds": {},
+    "alias": "AB5CD_mC32_15_e_e2f_e_b"
+}

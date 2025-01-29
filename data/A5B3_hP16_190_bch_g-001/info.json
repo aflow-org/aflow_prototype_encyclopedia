@@ -1,0 +1,26 @@
+{
+    "uid": "PJF4",
+    "prototype": "Ge5Sm3",
+    "prototype_tex": "Ge$_{5}$Sm$_{3}$",
+    "label": "A5B3_hP16_190_bch_g-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "x4",
+        "y4"
+    ],
+    "parameter_values": [
+        6.9238,
+        1.22635,
+        0.3313,
+        0.6682,
+        0.0628
+    ],
+    "strukturbericht": null,
+    "title": "$\\alpha$-Sm$_{3}$Ge$_{5}$ (High-temperature) Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A5B3_hP16_190_bdh_g"
+}

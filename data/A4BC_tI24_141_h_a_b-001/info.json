@@ -1,0 +1,25 @@
+{
+    "uid": "0FQT",
+    "prototype": "O4SiZr",
+    "prototype_tex": "O$_{4}$SiZr",
+    "label": "A4BC_tI24_141_h_a_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        6.6042,
+        0.905424,
+        0.066,
+        0.6951
+    ],
+    "strukturbericht": "S1_1",
+    "title": "Zircon (ZrSiO$_{4}$, $S1_{1}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$S1_{1}$",
+    "compounds": {},
+    "alias": "A4BC_tI24_141_h_b_a"
+}

@@ -1,0 +1,59 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  AgAsS2 smithite
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/ABC2_mC96_15_2e2f_3f_6f-001
+
+# Last updated on 2024/08/01
+
+data_Ag24As24S48
+_pd_phase_name Ag24As24S48
+_cell_length_a  15.1900000000
+_cell_length_b  7.7800000000
+_cell_length_c  25.0854632434
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  137.6412171460
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'C2/c'
+_symmetry_Int_Tables_Number  15
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y,-z+1/2
+  3  -x,-y,-z
+  4  x,-y,z+1/2
+  5  x+1/2,y+1/2,z
+  6  -x+1/2,y+1/2,-z+1/2
+  7  -x+1/2,-y+1/2,-z
+  8  x+1/2,-y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Ag1 1.0000000000 0.0000000000 0.8623000000 0.2500000000  Biso 1.0 Ag 4 e
+Ag2 1.0000000000 0.0000000000 0.3760000000 0.2500000000  Biso 1.0 Ag 4 e
+Ag3 1.0000000000 0.1969000000 0.6305000000 0.0908000000  Biso 1.0 Ag 8 f
+Ag4 1.0000000000 0.6014000000 0.1299000000 0.4189000000  Biso 1.0 Ag 8 f
+As5 1.0000000000 0.2691000000 0.3864000000 0.2661000000  Biso 1.0 As 8 f
+As6 1.0000000000 0.3444000000 0.6269000000 0.4216000000  Biso 1.0 As 8 f
+As7 1.0000000000 0.5722000000 0.6257000000 0.4143000000  Biso 1.0 As 8 f
+S10 1.0000000000 0.0975000000 0.0764000000 0.2208000000  Biso 1.0 S 8 f
+S11 1.0000000000 0.1787000000 0.5855000000 0.2860000000  Biso 1.0 S 8 f
+S12 1.0000000000 0.4208000000 0.2816000000 0.3875000000  Biso 1.0 S 8 f
+S13 1.0000000000 0.0297000000 0.3050000000 0.0725000000  Biso 1.0 S 8 f
+S8 1.0000000000 0.3498000000 0.8385000000 0.1013000000  Biso 1.0 S 8 f
+S9 1.0000000000 0.2662000000 0.3359000000 0.0863000000  Biso 1.0 S 8 f

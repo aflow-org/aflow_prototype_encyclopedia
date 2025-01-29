@@ -1,0 +1,60 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Ba3CoIr2O9
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A3BC2D9_mP60_13_ef2g_ab_2g_ef8g-001
+
+# Last updated on 2024/08/01
+
+data_Ba12Co4Ir8O36
+_pd_phase_name Ba12Co4Ir8O36
+_cell_length_a  5.7550000000
+_cell_length_b  9.9452000000
+_cell_length_c  14.2634000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.2291000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P2/c'
+_symmetry_Int_Tables_Number  13
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y,-z+1/2
+  3  -x,-y,-z
+  4  x,-y,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Co5 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Co 2 a
+Co6 1.0000000000 0.5000000000 0.5000000000 0.0000000000  Biso 1.0 Co 2 b
+Ba1 1.0000000000 0.0000000000 0.9830000000 0.2500000000  Biso 1.0 Ba 2 e
+O9 1.0000000000 0.0000000000 0.5210000000 0.2500000000  Biso 1.0 O 2 e
+Ba2 1.0000000000 0.5000000000 0.5014000000 0.2500000000  Biso 1.0 Ba 2 f
+O10 1.0000000000 0.5000000000 0.9920000000 0.2500000000  Biso 1.0 O 2 f
+Ba3 1.0000000000 0.4951000000 0.1660000000 0.0844000000  Biso 1.0 Ba 4 g
+Ba4 1.0000000000 0.0018000000 0.6676000000 0.0908000000  Biso 1.0 Ba 4 g
+Ir7 1.0000000000 0.5011000000 0.1671000000 0.8446000000  Biso 1.0 Ir 4 g
+Ir8 1.0000000000 0.0015000000 0.6654000000 0.8468000000  Biso 1.0 Ir 4 g
+O11 1.0000000000 0.2710000000 0.2410000000 0.7370000000  Biso 1.0 O 4 g
+O12 1.0000000000 0.8200000000 0.7480000000 0.7530000000  Biso 1.0 O 4 g
+O13 1.0000000000 0.7230000000 0.0890000000 0.5858000000  Biso 1.0 O 4 g
+O14 1.0000000000 0.2010000000 0.5636000000 0.5791000000  Biso 1.0 O 4 g
+O15 1.0000000000 0.9810000000 0.1650000000 0.0838000000  Biso 1.0 O 4 g
+O16 1.0000000000 0.5180000000 0.6740000000 0.0810000000  Biso 1.0 O 4 g
+O17 1.0000000000 0.2720000000 0.0710000000 0.5382000000  Biso 1.0 O 4 g
+O18 1.0000000000 0.7330000000 0.5620000000 0.5923000000  Biso 1.0 O 4 g

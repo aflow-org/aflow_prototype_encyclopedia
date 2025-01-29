@@ -1,0 +1,52 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+
+# Chemical Composition:  CuBiSeCl2
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/ AB2CD_oP20_62_c_2c_c_c-001 
+
+# Last updated on 2024/12/10
+
+data_CuBiSeCl2
+_pd_phase_name CuBiSeCl2
+_cell_length_a  8.7841500000
+_cell_length_b  3.9980300000
+_cell_length_c  13.1399800000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pnma'
+_symmetry_Int_Tables_Number  62
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z+1/2
+  3  -x,y+1/2,-z
+  4  x+1/2,-y+1/2,-z+1/2
+  5  -x,-y,-z
+  6  x+1/2,y,-z+1/2
+  7  x,-y+1/2,z
+  8  -x+1/2,y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Bi1 1.0000000000 0.2714500000 0.2500000000 0.9478400000  Biso 1.0 Bi 4 c
+Cl2 1.0000000000 0.4340300000 0.2500000000 0.5954600000  Biso 1.0 Cl 4 c
+Cl3 1.0000000000 0.5593500000 0.2500000000 0.8983700000  Biso 1.0 Cl 4 c
+Cu4 1.0000000000 0.5403500000 0.2500000000 0.3004300000  Biso 1.0 Cu 4 c
+Se5 1.0000000000 0.7605900000 0.2500000000 0.1942500000  Biso 1.0 Se 4 c

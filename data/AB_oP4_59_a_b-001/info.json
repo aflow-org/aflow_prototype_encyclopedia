@@ -1,0 +1,26 @@
+{
+    "uid": "9JE2",
+    "prototype": "CuTe",
+    "prototype_tex": "CuTe",
+    "label": "AB_oP4_59_a_b-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z1",
+        "z2"
+    ],
+    "parameter_values": [
+        3.15,
+        1.29841,
+        2.20635,
+        0.051,
+        0.277
+    ],
+    "strukturbericht": null,
+    "title": "Vulcanite (CuTe) Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_oP4_59_a_b"
+}

@@ -1,0 +1,35 @@
+{
+    "uid": "52T5",
+    "prototype": "Al2Be3O18Si6",
+    "prototype_tex": "Al$_{2}$Be$_{3}$O$_{18}$Si$_{6}$",
+    "label": "A2B3C18D6_hP58_192_c_f_lm_l-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "y3",
+        "x4",
+        "y4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        9.214,
+        0.997829,
+        0.310303,
+        0.236897,
+        0.387603,
+        0.115897,
+        0.498503,
+        0.145597,
+        0.1453
+    ],
+    "strukturbericht": "S3_1",
+    "title": "Beryl (Be$_{3}$Al$_{2}$Si$_{6}$O$_{18}$, $S3_{1}$) Structure",
+    "part": 2,
+    "legacy": false,
+    "strukturbericht_tex": "$S3_{1}$",
+    "compounds": {},
+    "alias": "A2B3C18D6_hP58_192_c_f_lm_l"
+}

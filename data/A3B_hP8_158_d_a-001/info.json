@@ -1,0 +1,28 @@
+{
+    "uid": "KC70",
+    "prototype": "Cl3Ru",
+    "prototype_tex": "Cl$_{3}$Ru",
+    "label": "A3B_hP8_158_d_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "x2",
+        "y2",
+        "z2"
+    ],
+    "parameter_values": [
+        6.12,
+        0.92451,
+        0.0,
+        0.318,
+        0.027,
+        0.237
+    ],
+    "strukturbericht": null,
+    "title": "$\\beta$-RuCl$_{3}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B_hP8_158_d_a"
+}

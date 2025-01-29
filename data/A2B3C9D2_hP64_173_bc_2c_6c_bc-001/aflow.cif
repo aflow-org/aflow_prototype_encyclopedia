@@ -1,0 +1,56 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Al8-xNa8-xO32Si8+x nepheline
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A2B3C9D2_hP64_173_bc_2c_6c_bc-001
+
+# Last updated on 2024/08/01
+
+data_Al8Na12O36Si8
+_pd_phase_name Al8Na12O36Si8
+_cell_length_a  9.9580000000
+_cell_length_b  9.9580000000
+_cell_length_c  8.3410000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  120.0000000000
+_symmetry_space_group_name_H-M  'P6_{3}'
+_symmetry_Int_Tables_Number  173
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -y,x-y,z
+  3  -x+y,-x,z
+  4  -x,-y,z+1/2
+  5  y,-x+y,z+1/2
+  6  x-y,x,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Al1 1.0000000000 0.3333333333 0.6666666667 0.6829000000  Biso 1.0 Al 2 b
+Si11 1.0000000000 0.3333333333 0.6666666667 0.2916000000  Biso 1.0 Si 2 b
+Al2 1.0000000000 0.3301033333 0.0932966667 0.6756000000  Biso 1.0 Al 6 c
+Na3 1.0000000000 0.4431033333 0.9977966667 0.9882000000  Biso 1.0 Na 6 c
+Na4 1.0000000000 0.0286033333 0.0379966667 0.4810000000  Biso 1.0 Na 6 c
+O10 1.0000000000 0.2668033333 0.2238966667 0.6794000000  Biso 1.0 O 6 c
+O5 1.0000000000 0.7080033333 0.3429966667 0.9829000000  Biso 1.0 O 6 c
+O6 1.0000000000 0.3134033333 0.0241966667 0.4806000000  Biso 1.0 O 6 c
+O7 1.0000000000 0.5222033333 0.1736966667 0.7255000000  Biso 1.0 O 6 c
+O8 1.0000000000 0.5090033333 0.1634966667 0.2424000000  Biso 1.0 O 6 c
+O9 1.0000000000 0.2855033333 0.2281966667 0.3055000000  Biso 1.0 O 6 c
+Si12 1.0000000000 0.3321033333 0.0934966667 0.3034000000  Biso 1.0 Si 6 c

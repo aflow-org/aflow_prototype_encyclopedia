@@ -1,0 +1,24 @@
+{
+    "uid": "RPTR",
+    "prototype": "Cu4KS3",
+    "prototype_tex": "Cu$_{4}$KS$_{3}$",
+    "label": "A4BC3_tP8_123_i_a_bh-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4"
+    ],
+    "parameter_values": [
+        3.899,
+        2.37548,
+        0.7944,
+        0.6603
+    ],
+    "strukturbericht": null,
+    "title": "KCu$_{4}$S$_{3}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4BC3_tP8_123_i_a_bh-001"
+}

@@ -1,0 +1,24 @@
+{
+    "uid": "84H6",
+    "prototype": "V4Zn5",
+    "prototype_tex": "V$_{4}$Zn$_{5}$",
+    "label": "A4B5_tI18_139_i_ah-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3"
+    ],
+    "parameter_values": [
+        8.91,
+        0.361392,
+        0.328,
+        0.348
+    ],
+    "strukturbericht": null,
+    "title": "V$_{4}$Zn$_{5}$ Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4B5_tI18_139_i_ah"
+}

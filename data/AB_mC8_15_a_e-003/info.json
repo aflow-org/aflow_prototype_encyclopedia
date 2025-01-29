@@ -1,0 +1,26 @@
+{
+    "uid": "H6Z8",
+    "prototype": "CrS",
+    "prototype_tex": "CrS",
+    "label": "AB_mC8_15_a_e-003",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "y2"
+    ],
+    "parameter_values": [
+        3.826,
+        1.54548,
+        1.59148,
+        101.6,
+        0.68
+    ],
+    "strukturbericht": null,
+    "title": "CrS Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_mC8_15_a_e-003"
+}

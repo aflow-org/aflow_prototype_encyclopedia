@@ -1,0 +1,29 @@
+{
+    "uid": "SV19",
+    "prototype": "Mn",
+    "prototype_tex": "Mn",
+    "label": "A_cI58_217_ac2g-001",
+    "parameter_symbol": [
+        "a",
+        "x2",
+        "x3",
+        "z3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        8.911,
+        0.31787,
+        0.08958,
+        0.28194,
+        0.35706,
+        0.03457
+    ],
+    "strukturbericht": "A12",
+    "title": "$\\alpha$-Mn ($A12$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$A12$",
+    "compounds": {},
+    "alias": "A_cI58_217_ac2g"
+}

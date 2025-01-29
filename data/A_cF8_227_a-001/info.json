@@ -1,0 +1,19 @@
+{
+    "uid": "X5M8",
+    "prototype": "C",
+    "prototype_tex": "C",
+    "label": "A_cF8_227_a-001",
+    "parameter_symbol": [
+        "a"
+    ],
+    "parameter_values": [
+        3.55
+    ],
+    "strukturbericht": "A4",
+    "title": "Diamond ($A4$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$A4$",
+    "compounds": {},
+    "alias": "A_cF8_227_a"
+}

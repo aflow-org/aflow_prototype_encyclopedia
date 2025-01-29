@@ -1,0 +1,65 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  K2Mo2NiO8
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A2B2CD8_oC104_64_ef_2f_d_4f2g-001
+
+# Last updated on 2024/08/01
+
+data_K16Mo16Ni8O64
+_pd_phase_name K16Mo16Ni8O64
+_cell_length_a  8.4512500000
+_cell_length_b  18.9620000000
+_cell_length_c  10.8408000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Cmce'
+_symmetry_Int_Tables_Number  64
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y+1/2,z+1/2
+  3  -x,y+1/2,-z+1/2
+  4  x,-y,-z
+  5  -x,-y,-z
+  6  x,y+1/2,-z+1/2
+  7  x,-y+1/2,z+1/2
+  8  -x,y,z
+  9  x+1/2,y+1/2,z
+  10  -x+1/2,-y,z+1/2
+  11  -x+1/2,y,-z+1/2
+  12  x+1/2,-y+1/2,-z
+  13  -x+1/2,-y+1/2,-z
+  14  x+1/2,y,-z+1/2
+  15  x+1/2,-y,z+1/2
+  16  -x+1/2,y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Ni5 1.0000000000 0.1773000000 0.0000000000 0.0000000000  Biso 1.0 Ni 8 d
+K1 1.0000000000 0.2500000000 0.2152000000 0.2500000000  Biso 1.0 K 8 e
+K2 1.0000000000 0.0000000000 0.3704000000 0.0698000000  Biso 1.0 K 8 f
+Mo3 1.0000000000 -0.0000000000 0.0318000000 0.2840000000  Biso 1.0 Mo 8 f
+Mo4 1.0000000000 0.0000000000 0.3426000000 0.4670000000  Biso 1.0 Mo 8 f
+O6 1.0000000000 0.0000000000 0.9984000000 0.1266000000  Biso 1.0 O 8 f
+O7 1.0000000000 0.0000000000 0.1235000000 0.2919000000  Biso 1.0 O 8 f
+O8 1.0000000000 -0.0000000000 0.2668000000 0.5595000000  Biso 1.0 O 8 f
+O9 1.0000000000 0.0000000000 0.3141000000 0.3135000000  Biso 1.0 O 8 f
+O10 1.0000000000 0.8371000000 0.9984000000 0.3647000000  Biso 1.0 O 16 g
+O11 1.0000000000 0.6769000000 0.8914000000 0.5021000000  Biso 1.0 O 16 g

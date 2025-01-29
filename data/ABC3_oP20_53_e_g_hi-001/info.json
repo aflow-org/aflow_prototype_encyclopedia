@@ -1,0 +1,36 @@
+{
+    "uid": "SET9",
+    "prototype": "BrCuSe3",
+    "prototype_tex": "BrCuSe$_{3}$",
+    "label": "ABC3_oP20_53_e_g_hi-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "y2",
+        "y3",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        14.3631,
+        0.312467,
+        0.535817,
+        0.6826,
+        0.2856,
+        0.3458,
+        0.2708,
+        0.6247,
+        0.6057,
+        0.3575
+    ],
+    "strukturbericht": null,
+    "title": "$Pmna$ CuBrSe$_{3}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC3_oP20_53_e_g_hi"
+}

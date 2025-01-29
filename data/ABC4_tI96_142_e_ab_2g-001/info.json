@@ -1,0 +1,34 @@
+{
+    "uid": "B2Y6",
+    "prototype": "PPrS4",
+    "prototype_tex": "PPrS$_{4}$",
+    "label": "ABC4_tI96_142_e_ab_2g-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "x4",
+        "y4",
+        "z4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        10.914,
+        1.77396,
+        0.0375,
+        0.7482,
+        0.8197,
+        0.4133,
+        0.0923,
+        0.1117,
+        0.0025
+    ],
+    "strukturbericht": null,
+    "title": "PPrS$_{4}$ Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC4_tI96_142_e_ab_2g"
+}

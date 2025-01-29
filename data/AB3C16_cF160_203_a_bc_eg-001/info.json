@@ -1,0 +1,26 @@
+{
+    "uid": "HAGZ",
+    "prototype": "AsRb3Se16",
+    "prototype_tex": "AsRb$_{3}$Se$_{16}$",
+    "label": "AB3C16_cF160_203_a_bc_eg-001",
+    "parameter_symbol": [
+        "a",
+        "x4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        16.66,
+        0.20516,
+        0.51201,
+        0.111,
+        0.92978
+    ],
+    "strukturbericht": null,
+    "title": "Rb$_{3}$AsSe$_{16}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3C16_cF160_203_a_bc_eg"
+}

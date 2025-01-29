@@ -1,0 +1,38 @@
+{
+    "uid": "1YM0",
+    "prototype": "Ag5O6Pb2",
+    "prototype_tex": "Ag$_{5}$O$_{6}$Pb$_{2}$",
+    "label": "A5B6C2_hP13_157_2ac_2c_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3",
+        "x4",
+        "z4",
+        "x5",
+        "z5",
+        "x6",
+        "z6"
+    ],
+    "parameter_values": [
+        5.939,
+        1.08234,
+        0.264,
+        0.736,
+        0.022,
+        0.500003,
+        0.522,
+        0.603003,
+        0.215,
+        0.397003,
+        0.829
+    ],
+    "strukturbericht": null,
+    "title": "Ag$_{5}$Pb$_{2}$O$_{6}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A5B6C2_hP13_157_2ac_2c_b"
+}

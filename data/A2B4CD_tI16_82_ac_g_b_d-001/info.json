@@ -1,0 +1,26 @@
+{
+    "uid": "92JU",
+    "prototype": "Cu2S4SnZn",
+    "prototype_tex": "Cu$_{2}$S$_{4}$SnZn",
+    "label": "A2B4CD_tI16_82_ac_g_b_d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        5.427,
+        2.00313,
+        0.756,
+        0.7566,
+        0.8722
+    ],
+    "strukturbericht": null,
+    "title": "Kesterite [Cu$_{2}$(Zn,Fe)SnS$_{4}$] Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BCD4_tI16_82_ac_b_d_g"
+}

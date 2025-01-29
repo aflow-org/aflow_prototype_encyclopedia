@@ -1,0 +1,28 @@
+{
+    "uid": "XEL5",
+    "prototype": "Co3V",
+    "prototype_tex": "Co$_{3}$V",
+    "label": "A3B_hP24_194_hk_bf-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "x3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        5.032,
+        2.43839,
+        0.58333,
+        0.5,
+        0.16667,
+        0.41667
+    ],
+    "strukturbericht": null,
+    "title": "VCo$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B_hP24_194_hk_bf-001"
+}

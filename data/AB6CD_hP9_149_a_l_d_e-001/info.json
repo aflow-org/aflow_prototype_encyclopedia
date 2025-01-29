@@ -1,0 +1,26 @@
+{
+    "uid": "63FP",
+    "prototype": "MnO6PbTe",
+    "prototype_tex": "MnO$_{6}$PbTe",
+    "label": "AB6CD_hP9_149_a_l_d_e-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        5.101,
+        1.05766,
+        0.71483,
+        0.66857,
+        0.80184
+    ],
+    "strukturbericht": null,
+    "title": "PbMnTeO$_{6}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB6CD_hP9_149_a_l_d_e-001"
+}

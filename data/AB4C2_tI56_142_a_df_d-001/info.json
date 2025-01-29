@@ -1,0 +1,26 @@
+{
+    "uid": "EHYC",
+    "prototype": "IrO4Sr2",
+    "prototype_tex": "IrO$_{4}$Sr$_{2}$",
+    "label": "AB4C2_tI56_142_a_df_d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "z3",
+        "x4"
+    ],
+    "parameter_values": [
+        5.4979,
+        4.69234,
+        0.45475,
+        0.55056,
+        0.2012
+    ],
+    "strukturbericht": null,
+    "title": "Sr$_{2}$IrO$_{4}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB4C2_tI56_142_a_df_d-001"
+}

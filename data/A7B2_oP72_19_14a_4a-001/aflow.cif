@@ -1,0 +1,60 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Re2O7
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A7B2_oP72_19_14a_4a-001
+
+# Last updated on 2024/07/29
+
+data_A7B2_oP72_19_14a_4a-001
+_pd_phase_name A7B2_oP72_19_14a_4a-001
+_cell_length_a  12.5080000000
+_cell_length_b  15.1960000000
+_cell_length_c  5.4480000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P2_{1}2_{1}2_{1}'
+_symmetry_Int_Tables_Number  19
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z+1/2
+  3  -x,y+1/2,-z+1/2
+  4  x+1/2,-y+1/2,-z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+O1 1.0000000000 0.3753000000 0.3372000000 0.2550000000  Biso 1.0 O 4 a
+O2 1.0000000000 0.5837000000 0.3687000000 0.2830000000  Biso 1.0 O 4 a
+O3 1.0000000000 0.5006000000 0.2349000000 0.5130000000  Biso 1.0 O 4 a
+O4 1.0000000000 0.5809000000 0.3822000000 0.7660000000  Biso 1.0 O 4 a
+O5 1.0000000000 0.4482000000 0.4747000000 0.5190000000  Biso 1.0 O 4 a
+O6 1.0000000000 0.4853000000 0.0496000000 0.4630000000  Biso 1.0 O 4 a
+O7 1.0000000000 0.4480000000 0.1579000000 0.0790000000  Biso 1.0 O 4 a
+O8 1.0000000000 0.3739000000 0.3375000000 0.7620000000  Biso 1.0 O 4 a
+O9 1.0000000000 0.6614000000 0.1378000000 0.2310000000  Biso 1.0 O 4 a
+O10 1.0000000000 0.2478000000 0.2275000000 0.0110000000  Biso 1.0 O 4 a
+O11 1.0000000000 0.1606000000 0.3641000000 0.2500000000  Biso 1.0 O 4 a
+O12 1.0000000000 0.2843000000 0.4727000000 0.0170000000  Biso 1.0 O 4 a
+O13 1.0000000000 0.2628000000 0.0437000000 0.9670000000  Biso 1.0 O 4 a
+O14 1.0000000000 0.2904000000 0.1500000000 0.5420000000  Biso 1.0 O 4 a
+Re15 1.0000000000 0.4748800000 0.3697000000 0.5656000000  Biso 1.0 Re 4 a
+Re16 1.0000000000 0.2674100000 0.3636700000 0.0629000000  Biso 1.0 Re 4 a
+Re17 1.0000000000 0.5262100000 0.1426700000 0.3255000000  Biso 1.0 Re 4 a
+Re18 1.0000000000 0.2196700000 0.1364600000 0.8080000000  Biso 1.0 Re 4 a

@@ -1,0 +1,25 @@
+{
+    "uid": "6VR8",
+    "prototype": "Fe8N",
+    "prototype_tex": "Fe$_{8}$N",
+    "label": "A8B_tI18_139_deh_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "x4"
+    ],
+    "parameter_values": [
+        5.7136,
+        1.10055,
+        0.2922,
+        0.24433
+    ],
+    "strukturbericht": "D2_g",
+    "title": "Fe$_{8}$N ($D2_{g}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$D2_{g}$",
+    "compounds": {},
+    "alias": "A8B_tI18_139_deh_a"
+}

@@ -1,0 +1,25 @@
+{
+    "uid": "EUFT",
+    "prototype": "Al3Ni2",
+    "prototype_tex": "Al$_{3}$Ni$_{2}$",
+    "label": "A3B2_hP5_164_ad_d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "z3"
+    ],
+    "parameter_values": [
+        4.0282,
+        1.21409,
+        0.648,
+        0.149
+    ],
+    "strukturbericht": "D5_13",
+    "title": "Al$_{3}$Ni$_{2}$ ($D5_{13}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$D5_{13}$",
+    "compounds": {},
+    "alias": "A3B2_hP5_164_ad_d"
+}

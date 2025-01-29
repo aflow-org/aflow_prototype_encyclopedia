@@ -1,0 +1,50 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  S rosick'yite
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A_mP32_13_8g-001
+
+# Last updated on 2024/08/01
+
+data_S32
+_pd_phase_name S32
+_cell_length_a  8.4550000000
+_cell_length_b  13.0520000000
+_cell_length_c  9.2670000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  124.8900000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P2/c'
+_symmetry_Int_Tables_Number  13
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y,-z+1/2
+  3  -x,-y,-z
+  4  x,-y,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+S1 1.0000000000 0.6485000000 0.3457000000 0.3247000000  Biso 1.0 S 4 g
+S2 1.0000000000 0.8110000000 0.5792000000 0.4708000000  Biso 1.0 S 4 g
+S3 1.0000000000 0.7446000000 0.4430000000 0.5319000000  Biso 1.0 S 4 g
+S4 1.0000000000 0.5836000000 0.6768000000 0.3840000000  Biso 1.0 S 4 g
+S5 1.0000000000 0.0799000000 0.7979000000 0.1993000000  Biso 1.0 S 4 g
+S6 1.0000000000 0.2427000000 0.0310000000 0.2201000000  Biso 1.0 S 4 g
+S7 1.0000000000 0.3074000000 0.8938000000 0.3501000000  Biso 1.0 S 4 g
+S8 1.0000000000 0.1483000000 0.1271000000 0.3294000000  Biso 1.0 S 4 g

@@ -1,0 +1,26 @@
+{
+    "uid": "08UR",
+    "prototype": "Al2CuIr",
+    "prototype_tex": "Al$_{2}$CuIr",
+    "label": "A2BC_oC16_67_ag_b_g-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z3",
+        "z4"
+    ],
+    "parameter_values": [
+        5.0646,
+        1.60321,
+        1.02379,
+        0.3305,
+        0.8198
+    ],
+    "strukturbericht": null,
+    "title": "Al$_{2}$CuIr Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BC_oC16_67_ag_b_g"
+}

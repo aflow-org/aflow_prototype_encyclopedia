@@ -1,0 +1,32 @@
+{
+    "uid": "6ZXP",
+    "prototype": "FeS",
+    "prototype_tex": "FeS",
+    "label": "AB_hP24_190_i_afh-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "x3",
+        "y3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        5.97,
+        1.96985,
+        0.52,
+        0.6683,
+        0.6653,
+        0.3786,
+        0.3233,
+        0.623
+    ],
+    "strukturbericht": null,
+    "title": "Troilite (FeS) Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_hP24_190_i_afh"
+}

@@ -1,0 +1,23 @@
+{
+    "uid": "6B26",
+    "prototype": "ILiO3",
+    "prototype_tex": "ILiO$_{3}$",
+    "label": "ABC3_hP10_182_c_b_g-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3"
+    ],
+    "parameter_values": [
+        5.469,
+        0.942585,
+        0.333333
+    ],
+    "strukturbericht": "E2_3",
+    "title": "$E2_{3}$ (LiIO$_{3}$) Structure ({\\em Obsolete})",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$E2_{3}$",
+    "compounds": {},
+    "alias": "ABC3_hP10_182_c_b_g"
+}

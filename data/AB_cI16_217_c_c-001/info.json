@@ -1,0 +1,22 @@
+{
+    "uid": "6RJH",
+    "prototype": "AlN",
+    "prototype_tex": "AlN",
+    "label": "AB_cI16_217_c_c-001",
+    "parameter_symbol": [
+        "a",
+        "x1",
+        "x2"
+    ],
+    "parameter_values": [
+        5.9487,
+        0.3409,
+        0.1657
+    ],
+    "strukturbericht": null,
+    "title": "Theoretical cI16 AlN Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_cI16_217_c_c"
+}

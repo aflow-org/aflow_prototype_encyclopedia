@@ -1,0 +1,40 @@
+{
+    "uid": "K32G",
+    "prototype": "Bi2CdO4",
+    "prototype_tex": "Bi$_{2}$CdO$_{4}$",
+    "label": "A2BC4_tI112_141_gh_f_ghi-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3",
+        "y4",
+        "z4",
+        "y5",
+        "z5",
+        "x6",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        14.4948,
+        0.642803,
+        0.39,
+        0.15748,
+        0.6079,
+        0.1113,
+        0.2225,
+        0.9772,
+        0.3017,
+        0.1526,
+        0.02528,
+        0.1252
+    ],
+    "strukturbericht": null,
+    "title": "Bi$_{2}$CdO$_{4}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BC4_tI112_141_gh_f_ghi-001"
+}

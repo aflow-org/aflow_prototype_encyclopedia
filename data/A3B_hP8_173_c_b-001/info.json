@@ -1,0 +1,28 @@
+{
+    "uid": "RB2M",
+    "prototype": "I3P",
+    "prototype_tex": "I$_{3}$P",
+    "label": "A3B_hP8_173_c_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "x2",
+        "y2",
+        "z2"
+    ],
+    "parameter_values": [
+        7.133,
+        1.03939,
+        0.0,
+        0.0337033,
+        0.347497,
+        0.146
+    ],
+    "strukturbericht": null,
+    "title": "PI$_{3}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B_hP8_173_c_b"
+}

@@ -1,0 +1,22 @@
+{
+    "uid": "VHKA",
+    "prototype": "N",
+    "prototype_tex": "N",
+    "label": "A_cP8_198_2a-001",
+    "parameter_symbol": [
+        "a",
+        "x1",
+        "x2"
+    ],
+    "parameter_values": [
+        5.65,
+        0.0699,
+        0.9622
+    ],
+    "strukturbericht": null,
+    "title": "$\\alpha$-N ($P2_{1}3$) Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A_cP8_198_2a"
+}

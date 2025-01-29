@@ -1,0 +1,57 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Ga3Ge6Ni13
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A3B6C13_hP66_152_ac_3c_a2b5c-001
+
+# Last updated on 2024/08/01
+
+data_Ga9Ge18Ni39
+_pd_phase_name Ga9Ge18Ni39
+_cell_length_a  7.8487000000
+_cell_length_b  7.8487000000
+_cell_length_c  15.0360000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  120.0000000000
+_symmetry_space_group_name_H-M  'P3_{1}21'
+_symmetry_Int_Tables_Number  152
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -y,x-y,z+1/3
+  3  -x+y,-x,z+2/3
+  4  y,x,-z
+  5  x-y,-y,-z+2/3
+  6  -x,-x+y,-z+1/3
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Ga1 1.0000000000 0.4961000000 -0.0000000000 0.3333333333  Biso 1.0 Ga 3 a
+Ni6 1.0000000000 0.9990000000 -0.0000000000 0.3333333333  Biso 1.0 Ni 3 a
+Ni7 1.0000000000 0.0043000000 -0.0000000000 0.8333333333  Biso 1.0 Ni 3 b
+Ni8 1.0000000000 0.4941000000 -0.0000000000 0.8333333333  Biso 1.0 Ni 3 b
+Ga2 1.0000000000 0.3093000000 0.1926000000 0.4206033333  Biso 1.0 Ga 6 c
+Ge3 1.0000000000 0.6162000000 0.3069000000 0.5782033333  Biso 1.0 Ge 6 c
+Ge4 1.0000000000 0.3390000000 0.1703000000 0.7514033333  Biso 1.0 Ge 6 c
+Ge5 1.0000000000 0.3111000000 0.1178000000 0.0894033333  Biso 1.0 Ge 6 c
+Ni10 1.0000000000 0.5010000000 0.0011000000 0.6659033333  Biso 1.0 Ni 6 c
+Ni11 1.0000000000 0.6783000000 0.3390000000 0.7456033333  Biso 1.0 Ni 6 c
+Ni12 1.0000000000 0.3382000000 0.1775000000 0.9259033333  Biso 1.0 Ni 6 c
+Ni13 1.0000000000 0.3381000000 0.1615000000 0.2526033333  Biso 1.0 Ni 6 c
+Ni9 1.0000000000 0.5034000000 0.9977000000 0.4970033333  Biso 1.0 Ni 6 c

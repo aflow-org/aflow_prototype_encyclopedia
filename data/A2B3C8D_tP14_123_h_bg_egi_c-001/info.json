@@ -1,0 +1,28 @@
+{
+    "uid": "PXE7",
+    "prototype": "Ba2Cu3O7Y",
+    "prototype_tex": "Ba$_{2}$Cu$_{3}$O$_{7}$Y",
+    "label": "A2B3C8D_tP14_123_h_bg_egi_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z4",
+        "z5",
+        "z6",
+        "z7"
+    ],
+    "parameter_values": [
+        3.864,
+        3.04218,
+        0.1392,
+        0.3462,
+        0.3073,
+        0.1211
+    ],
+    "strukturbericht": null,
+    "title": "Tetragonal Ba$_{2}$YCu$_{3-x}$O$_{7-y}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B3C8D_tP14_123_h_bg_egi_c-001"
+}

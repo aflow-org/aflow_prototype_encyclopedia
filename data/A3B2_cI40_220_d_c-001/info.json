@@ -1,0 +1,23 @@
+{
+    "uid": "M1ZX",
+    "prototype": "C3Pu2",
+    "prototype_tex": "C$_{3}$Pu$_{2}$",
+    "label": "A3B2_cI40_220_d_c-001",
+    "parameter_symbol": [
+        "a",
+        "x1",
+        "x2"
+    ],
+    "parameter_values": [
+        8.135,
+        0.5492,
+        0.2896
+    ],
+    "strukturbericht": "D5_c",
+    "title": "Pu$_{2}$C$_{3}$ ($D5_{c}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$D5_{c}$",
+    "compounds": {},
+    "alias": "A3B2_cI40_220_d_c"
+}

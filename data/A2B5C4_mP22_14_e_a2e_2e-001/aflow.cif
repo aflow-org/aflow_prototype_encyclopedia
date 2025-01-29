@@ -1,0 +1,48 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Cl2O5Sb4
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A2B5C4_mP22_14_e_a2e_2e-001
+
+# Last updated on 2024/08/01
+
+data_Cl4O10Sb8
+_pd_phase_name Cl4O10Sb8
+_cell_length_a  6.2380000000
+_cell_length_b  5.1112000000
+_cell_length_c  13.5380000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  97.2170000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P2_{1}/c'
+_symmetry_Int_Tables_Number  14
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y+1/2,-z+1/2
+  3  -x,-y,-z
+  4  x,-y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+O2 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 O 2 a
+Cl1 1.0000000000 0.4892000000 0.7040000000 0.3841000000  Biso 1.0 Cl 4 e
+O3 1.0000000000 0.9257000000 0.3380000000 0.2889000000  Biso 1.0 O 4 e
+O4 1.0000000000 0.9293000000 0.0052000000 0.5819000000  Biso 1.0 O 4 e
+Sb5 1.0000000000 0.8129700000 0.2234100000 0.4510700000  Biso 1.0 Sb 4 e
+Sb6 1.0000000000 0.2034000000 0.1169500000 0.2984300000  Biso 1.0 Sb 4 e

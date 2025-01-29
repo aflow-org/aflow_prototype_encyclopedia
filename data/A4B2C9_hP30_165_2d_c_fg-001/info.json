@@ -1,0 +1,34 @@
+{
+    "uid": "GPQH",
+    "prototype": "Mn4Nb2O9",
+    "prototype_tex": "Mn$_{4}$Nb$_{2}$O$_{9}$",
+    "label": "A4B2C9_hP30_165_2d_c_fg-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3",
+        "x4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        5.335,
+        2.68416,
+        0.3575,
+        0.0181,
+        0.297,
+        0.3,
+        0.334,
+        0.295,
+        0.088
+    ],
+    "strukturbericht": null,
+    "title": "Nb$_{2}$Mn$_{4}$O$_{9}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4B2C9_hP30_165_2d_c_fg-001"
+}

@@ -1,0 +1,25 @@
+{
+    "uid": "2EDD",
+    "prototype": "BaHg11",
+    "prototype_tex": "BaHg$_{11}$",
+    "label": "AB11_cP36_221_c_agij-001",
+    "parameter_symbol": [
+        "a",
+        "x3",
+        "y4",
+        "y5"
+    ],
+    "parameter_values": [
+        9.6,
+        0.345,
+        0.225,
+        0.115
+    ],
+    "strukturbericht": "D2_e",
+    "title": "BaHg$_{11}$ ($D2_{e}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$D2_{e}$",
+    "compounds": {},
+    "alias": "AB11_cP36_221_c_agij"
+}

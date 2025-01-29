@@ -1,0 +1,26 @@
+{
+    "uid": "3718",
+    "prototype": "BO3Y",
+    "prototype_tex": "BO$_{3}$Y",
+    "label": "A3B5C_hP18_194_h_fh_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "x3",
+        "x4"
+    ],
+    "parameter_values": [
+        3.77,
+        2.33687,
+        0.117,
+        0.23,
+        0.024
+    ],
+    "strukturbericht": null,
+    "title": "Disordered YBO$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B5C_hP18_194_h_fh_a-001"
+}

@@ -1,0 +1,27 @@
+{
+    "uid": "G4EJ",
+    "prototype": "CdI2",
+    "prototype_tex": "CdI$_{2}$",
+    "label": "AB2_hP6_186_b_ab-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3"
+    ],
+    "parameter_values": [
+        4.24,
+        3.22406,
+        0.375,
+        0.0,
+        0.625
+    ],
+    "strukturbericht": "C27",
+    "title": "C27 (CdI$_{2}$) Structure ({\\em Questionable})",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$C27$",
+    "compounds": {},
+    "alias": "AB2_hP6_186_b_ab"
+}

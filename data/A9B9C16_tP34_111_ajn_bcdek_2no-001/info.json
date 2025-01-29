@@ -1,0 +1,42 @@
+{
+    "uid": "2KD6",
+    "prototype": "Cu9Fe9S16",
+    "prototype_tex": "Cu$_{9}$Fe$_{9}$S$_{16}$",
+    "label": "A9B9C16_tP34_111_ajn_bcdek_2no-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x6",
+        "x7",
+        "x8",
+        "z8",
+        "x9",
+        "z9",
+        "x10",
+        "z10",
+        "x11",
+        "y11",
+        "z11"
+    ],
+    "parameter_values": [
+        10.585,
+        0.50855,
+        0.2417,
+        0.7423,
+        0.2493,
+        0.9881,
+        0.3763,
+        0.2497,
+        0.1267,
+        0.2645,
+        0.3764,
+        0.1228,
+        0.7566
+    ],
+    "strukturbericht": null,
+    "title": "Mooihoekite (Cu$_{9}$Fe$_{9}$S$_{16}$) Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A9B9C16_tP34_111_ajn_bcdek_2no-001"
+}

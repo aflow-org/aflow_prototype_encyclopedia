@@ -1,0 +1,48 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Al9Co2
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A9B2_mP22_14_a4e_e-001
+
+# Last updated on 2024/08/01
+
+data_Al18Co4
+_pd_phase_name Al18Co4
+_cell_length_a  6.2130000000
+_cell_length_b  6.2900000000
+_cell_length_c  8.5565000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  94.7600000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P2_{1}/c'
+_symmetry_Int_Tables_Number  14
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y+1/2,-z+1/2
+  3  -x,-y,-z
+  4  x,-y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Al1 1.0000000000 0.0000000000 -0.0000000000 0.0000000000  Biso 1.0 Al 2 a
+Al2 1.0000000000 0.5956000000 0.5381000000 0.2318000000  Biso 1.0 Al 4 e
+Al3 1.0000000000 0.9111000000 0.2101000000 0.2691000000  Biso 1.0 Al 4 e
+Al4 1.0000000000 0.6109000000 0.3069000000 0.5014000000  Biso 1.0 Al 4 e
+Al5 1.0000000000 0.7841000000 0.8852000000 0.4583000000  Biso 1.0 Al 4 e
+Co6 1.0000000000 0.7354000000 0.8851000000 0.1665000000  Biso 1.0 Co 4 e

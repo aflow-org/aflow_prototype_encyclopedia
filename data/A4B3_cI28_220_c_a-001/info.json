@@ -1,0 +1,21 @@
+{
+    "uid": "JM9C",
+    "prototype": "P4Th3",
+    "prototype_tex": "P$_{4}$Th$_{3}$",
+    "label": "A4B3_cI28_220_c_a-001",
+    "parameter_symbol": [
+        "a",
+        "x2"
+    ],
+    "parameter_values": [
+        8.6,
+        0.08333
+    ],
+    "strukturbericht": "D7_3",
+    "title": "Th$_{3}$P$_{4}$ ($D7_{3}$) Structure",
+    "part": 2,
+    "legacy": false,
+    "strukturbericht_tex": "$D7_{3}$",
+    "compounds": {},
+    "alias": "A4B3_cI28_220_c_a"
+}

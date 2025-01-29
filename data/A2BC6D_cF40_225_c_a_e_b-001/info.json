@@ -1,0 +1,20 @@
+{
+    "uid": "83J5",
+    "prototype": "Ba2MnO6W",
+    "prototype_tex": "Ba$_{2}$MnO$_{6}$W",
+    "label": "A2BC6D_cF40_225_c_a_e_b-001",
+    "parameter_symbol": [
+        "a",
+        "x4"
+    ],
+    "parameter_values": [
+        8.1985,
+        0.2654
+    ],
+    "strukturbericht": null,
+    "title": "Double Perovskite (Ba$_{2}$MnWO$_{6}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BC6D_cF40_225_c_a_e_b"
+}

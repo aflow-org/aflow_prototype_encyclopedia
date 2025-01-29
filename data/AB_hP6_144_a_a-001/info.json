@@ -1,0 +1,32 @@
+{
+    "uid": "LX4R",
+    "prototype": "TeZn",
+    "prototype_tex": "TeZn",
+    "label": "AB_hP6_144_a_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "y1",
+        "z1",
+        "x2",
+        "y2",
+        "z2"
+    ],
+    "parameter_values": [
+        4.045,
+        2.30952,
+        0.33,
+        0.16,
+        0.197,
+        0.13,
+        0.32,
+        0.0
+    ],
+    "strukturbericht": null,
+    "title": "ZnTe (high-pressure) Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_hP6_144_a_a"
+}

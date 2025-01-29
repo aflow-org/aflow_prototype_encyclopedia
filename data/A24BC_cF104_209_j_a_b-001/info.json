@@ -1,0 +1,24 @@
+{
+    "uid": "XBGM",
+    "prototype": "F6KP",
+    "prototype_tex": "F$_{6}$KP",
+    "label": "A24BC_cF104_209_j_a_b-001",
+    "parameter_symbol": [
+        "a",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        7.71,
+        0.543,
+        0.609,
+        0.165
+    ],
+    "strukturbericht": null,
+    "title": "KPF$_{6}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A24BC_cF104_209_j_a_b"
+}

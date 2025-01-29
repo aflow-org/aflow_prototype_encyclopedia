@@ -1,0 +1,38 @@
+{
+    "uid": "U2R2",
+    "prototype": "La3NbO7",
+    "prototype_tex": "La$_3$NbO$_{7}$",
+    "label": "A3BC7_oC44_63_ag_b_cgh-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y3",
+        "x4",
+        "y4",
+        "x5",
+        "y5",
+        "x6",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        11.167,
+        0.68317,
+        0.69428,
+        0.449,
+        0.2253,
+        0.3025,
+        0.139,
+        0.028,
+        0.129,
+        0.32,
+        0.036
+    ],
+    "strukturbericht": null,
+    "title": "La$_3$NbO$_{7}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3BC7_oC44_63_ag_b_cgh-001"
+}

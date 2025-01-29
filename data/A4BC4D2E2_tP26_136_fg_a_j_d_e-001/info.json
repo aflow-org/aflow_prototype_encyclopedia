@@ -1,0 +1,31 @@
+{
+    "uid": "40BA",
+    "prototype": "Cl4CuH4K2O2",
+    "prototype_tex": "Cl$_{4}$CuH$_{4}$K$_{2}$O$_{2}$",
+    "label": "A4BC4D2E2_tP26_136_fg_a_j_d_e-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "x4",
+        "x5",
+        "x6",
+        "z6"
+    ],
+    "parameter_values": [
+        7.477,
+        1.06125,
+        0.2484,
+        0.2161,
+        0.7262,
+        0.0739,
+        0.3178
+    ],
+    "strukturbericht": "H4_1",
+    "title": "K$_{2}$CuCl$_{4}$ $\\cdot$ 2H$_{2}$O ($H4_{1}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$H4_{1}$",
+    "compounds": {},
+    "alias": "A4BC4D2E2_tP26_136_fg_a_j_d_e"
+}

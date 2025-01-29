@@ -1,0 +1,37 @@
+{
+    "uid": "E8XB",
+    "prototype": "(H2O)5O40PW12",
+    "prototype_tex": "(H$_{2}$O)$_{5}$O$_{40}$PW$_{12}$",
+    "label": "A5B40CD12_cP116_224_bd_e3k_a_k-001",
+    "parameter_symbol": [
+        "a",
+        "x4",
+        "x5",
+        "z5",
+        "x6",
+        "z6",
+        "x7",
+        "z7",
+        "x8",
+        "z8"
+    ],
+    "parameter_values": [
+        12.141,
+        0.33154,
+        0.17011,
+        0.01608,
+        0.37272,
+        0.54157,
+        0.93783,
+        0.24176,
+        0.4555,
+        0.25577
+    ],
+    "strukturbericht": "H4_16",
+    "title": "12-phosphotungstic acid [H$_{3}$PW$_{12}$O$_{40}\\cdot$5H$_{2}$O] ($H4_{16}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$H4_{16}$",
+    "compounds": {},
+    "alias": "A5B40CD12_cP116_224_cd_e3k_a_k"
+}

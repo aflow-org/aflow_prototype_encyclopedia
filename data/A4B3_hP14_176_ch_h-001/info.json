@@ -1,0 +1,28 @@
+{
+    "uid": "YEJK",
+    "prototype": "N4Si3",
+    "prototype_tex": "N$_{4}$Si$_{3}$",
+    "label": "A4B3_hP14_176_ch_h-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "y2",
+        "x3",
+        "y3"
+    ],
+    "parameter_values": [
+        7.6093,
+        0.382151,
+        0.329,
+        0.039,
+        0.1742,
+        0.7678
+    ],
+    "strukturbericht": null,
+    "title": "$\\beta$-Si$_{3}$N$_{4}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4B3_hP14_176_ch_h"
+}

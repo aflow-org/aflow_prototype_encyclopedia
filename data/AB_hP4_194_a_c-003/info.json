@@ -1,0 +1,21 @@
+{
+    "uid": "CY59",
+    "prototype": "LiZn2",
+    "prototype_tex": "LiZn$_{2}$",
+    "label": "AB_hP4_194_a_c-003",
+    "parameter_symbol": [
+        "a",
+        "c/a"
+    ],
+    "parameter_values": [
+        4.362,
+        0.575424
+    ],
+    "strukturbericht": "C_k",
+    "title": "LiZn$_{2}$ ($C_{k}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$C_{k}$",
+    "compounds": {},
+    "alias": "AB_hP4_194_a_c"
+}

@@ -1,0 +1,18 @@
+{
+    "uid": "R1MG",
+    "prototype": "NaO4Pt3",
+    "prototype_tex": "NaO$_{4}$Pt$_{3}$",
+    "label": "AB4C3_cP16_223_a_e_c-001",
+    "parameter_symbol": [
+        "a"
+    ],
+    "parameter_values": [
+        5.69
+    ],
+    "strukturbericht": null,
+    "title": "NaPt$_{3}$O$_{4}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB4C3_cP16_223_a_e_c-001"
+}

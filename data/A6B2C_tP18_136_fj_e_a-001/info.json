@@ -1,0 +1,28 @@
+{
+    "uid": "8DHD",
+    "prototype": "O6Sb2Zn",
+    "prototype_tex": "O$_{6}$Sb$_{2}$Zn",
+    "label": "A6B2C_tP18_136_fj_e_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "x3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        4.6638,
+        1.98615,
+        0.3322,
+        0.315,
+        0.304,
+        0.325
+    ],
+    "strukturbericht": null,
+    "title": "Ordo\\~{n}ezite (ZnSb$_{2}$O$_{6}$) Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A6B2C_tP18_136_fj_e_a-001"
+}

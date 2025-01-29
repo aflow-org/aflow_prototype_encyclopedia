@@ -1,0 +1,28 @@
+{
+    "uid": "F3J5",
+    "prototype": "AgF2",
+    "prototype_tex": "AgF$_{2}$",
+    "label": "AB2_oP12_61_a_c-002",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x2",
+        "y2",
+        "z2"
+    ],
+    "parameter_values": [
+        5.073,
+        1.08989,
+        1.14587,
+        0.1847,
+        0.1941,
+        0.3708
+    ],
+    "strukturbericht": null,
+    "title": "AgF$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2_oP12_61_a_c-002"
+}

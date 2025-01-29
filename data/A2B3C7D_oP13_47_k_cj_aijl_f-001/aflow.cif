@@ -1,0 +1,56 @@
+
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+
+# Chemical Composition:  YBa2Cu3O7 (1212C)
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/ A2B3C7D_oP13_47_k_cj_aijl_f-001 
+
+# Last updated on 2024/10/17
+
+data_YBa2Cu3O7
+_pd_phase_name YBa2Cu3O7
+_cell_length_a  11.6687000000
+_cell_length_b  3.8187000000
+_cell_length_c  3.8833000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pmmm'
+_symmetry_Int_Tables_Number  47
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  -x,y,-z
+  4  x,-y,-z
+  5  -x,-y,-z
+  6  x,y,-z
+  7  x,-y,z
+  8  -x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+O1  1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 O  1 a
+Cu2 1.0000000000 0.0000000000 0.0000000000 0.5000000000  Biso 1.0 Cu 1 c
+Y3  1.0000000000 0.5000000000 0.5000000000 0.0000000000  Biso 1.0 Y  1 f
+O4  1.0000000000 0.3771000000 0.0000000000 0.0000000000  Biso 1.0 O  2 i
+Cu5 1.0000000000 0.3554000000 0.0000000000 0.5000000000  Biso 1.0 Cu 2 j
+O6  1.0000000000 0.1579000000 0.0000000000 0.5000000000  Biso 1.0 O  2 j
+Ba7 0.8000000000 0.1844000000 0.5000000000 0.0000000000  Biso 1.0 Ba 2 k
+O8  0.9200000000 0.3788000000 0.5000000000 0.5000000000  Biso 1.0 O  2 l

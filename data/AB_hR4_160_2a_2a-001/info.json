@@ -1,0 +1,28 @@
+{
+    "uid": "M3V5",
+    "prototype": "GaSe",
+    "prototype_tex": "GaSe",
+    "label": "AB_hR4_160_2a_2a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3",
+        "x4"
+    ],
+    "parameter_values": [
+        3.73898,
+        6.38193,
+        0.05,
+        0.95,
+        0.43333,
+        0.23333
+    ],
+    "strukturbericht": null,
+    "title": "$\\gamma$-GaSe Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_hR4_160_2a_2a-001"
+}

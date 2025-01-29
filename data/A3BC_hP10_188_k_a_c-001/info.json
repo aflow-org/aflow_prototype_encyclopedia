@@ -1,0 +1,24 @@
+{
+    "uid": "BL96",
+    "prototype": "I3LiSc",
+    "prototype_tex": "I$_{3}$LiSc",
+    "label": "A3BC_hP10_188_k_a_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "y3"
+    ],
+    "parameter_values": [
+        7.2861,
+        0.928892,
+        0.32923,
+        0.33982
+    ],
+    "strukturbericht": null,
+    "title": "LiScI$_{3}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3BC_hP10_188_k_c_a"
+}

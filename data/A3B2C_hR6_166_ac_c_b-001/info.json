@@ -1,0 +1,24 @@
+{
+    "uid": "FC27",
+    "prototype": "C2TaV",
+    "prototype_tex": "C$_{2}$TaV",
+    "label": "A3B2C_hR6_166_ac_c_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4"
+    ],
+    "parameter_values": [
+        3.0405,
+        7.17527,
+        0.388889,
+        0.222222
+    ],
+    "strukturbericht": null,
+    "title": "Ta$_{2}$VC$_{2}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B2C_hR6_166_ac_c_b-001"
+}

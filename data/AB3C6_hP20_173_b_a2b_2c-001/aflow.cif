@@ -1,0 +1,43 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+data_AB3C6_hP20_173_b_a2b_2c-001
+_pd_phase_name AB3C6_hP20_173_b_a2b_2c-001
+_cell_length_a  5.9120000000
+_cell_length_b  5.9120000000
+_cell_length_c  12.6750000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  120.0000000000
+_symmetry_space_group_name_H-M  'P6_{3}'
+_symmetry_Int_Tables_Number  173
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -y,x-y,z
+  3  -x+y,-x,z
+  4  -x,-y,z+1/2
+  5  y,-x+y,z+1/2
+  6  x-y,x,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Nb1 1.0000000000 0.0000000000 0.0000000000 0.0018000000  Biso 1.0 Nb 2 a
+Fe2 1.0000000000 0.3333333333 0.6666666667 0.7397000000  Biso 1.0 Fe 2 b
+Nb3 1.0000000000 0.3333333333 0.6666666667 0.5030000000  Biso 1.0 Nb 2 b
+Nb4 1.0000000000 0.3333333333 0.6666666667 0.9766000000  Biso 1.0 Nb 2 b
+S5 1.0000000000 0.0163000000 0.6967000000 0.3693000000  Biso 1.0 S 6 c
+S6 1.0000000000 0.3262000000 0.3249000000 0.6301000000  Biso 1.0 S 6 c

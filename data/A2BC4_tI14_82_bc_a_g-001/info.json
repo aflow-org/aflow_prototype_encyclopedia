@@ -1,0 +1,27 @@
+{
+    "uid": "S1AD",
+    "prototype": "Al2CdS4",
+    "prototype_tex": "Al$_{2}$CdS$_{4}$",
+    "label": "A2BC4_tI14_82_bc_a_g-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        5.55,
+        1.85586,
+        0.76,
+        0.75,
+        0.63
+    ],
+    "strukturbericht": "E3",
+    "title": "CdAl$_{2}$S$_{4}$ ($E3$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$E3$",
+    "compounds": {},
+    "alias": "A2BC4_tI14_82_bc_a_g"
+}

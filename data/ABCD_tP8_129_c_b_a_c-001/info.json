@@ -1,0 +1,24 @@
+{
+    "uid": "1T51",
+    "prototype": "AsCuSiZr",
+    "prototype_tex": "AsCuSiZr",
+    "label": "ABCD_tP8_129_c_b_a_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4"
+    ],
+    "parameter_values": [
+        3.6736,
+        2.6054,
+        0.6793,
+        0.2246
+    ],
+    "strukturbericht": null,
+    "title": "AsCuSiZr Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABCD_tP8_129_c_b_a_c"
+}

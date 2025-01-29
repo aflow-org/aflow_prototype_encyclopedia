@@ -1,0 +1,35 @@
+{
+    "uid": "6EYJ",
+    "prototype": "Co2Si",
+    "prototype_tex": "Co$_{2}$Si",
+    "label": "A2B_oP12_62_2c_c-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "z3"
+    ],
+    "parameter_values": [
+        4.918,
+        0.760065,
+        1.44551,
+        0.038,
+        0.282,
+        0.674,
+        0.562,
+        0.202,
+        0.611
+    ],
+    "strukturbericht": "C37",
+    "title": "Co$_{2}$Si ($C37$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$C37$",
+    "compounds": {},
+    "alias": "A2B_oP12_62_2c_c.Co2Si"
+}

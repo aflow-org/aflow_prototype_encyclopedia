@@ -1,0 +1,36 @@
+{
+    "uid": "URTV",
+    "prototype": "CCl2O3Pb2",
+    "prototype_tex": "CCl$_{2}$O$_{3}$Pb$_{2}$",
+    "label": "AB2C3D2_tP32_127_g_eh_gk_k-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "x2",
+        "x3",
+        "x4",
+        "x5",
+        "z5",
+        "x6",
+        "z6"
+    ],
+    "parameter_values": [
+        8.16,
+        1.0886,
+        0.7572,
+        0.3257,
+        0.211,
+        0.3521,
+        0.3726,
+        0.1269,
+        0.1659,
+        0.2594
+    ],
+    "strukturbericht": null,
+    "title": "Phosgenite [Pb$_{2}$Cl$_{2}$(CO$_{3}$)] Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2C3D2_tP32_127_g_eh_gk_k"
+}

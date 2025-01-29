@@ -1,0 +1,22 @@
+{
+    "uid": "5K3T",
+    "prototype": "CLi2N2",
+    "prototype_tex": "CLi$_{2}$N$_{2}$",
+    "label": "AB2C2_tI10_139_a_d_e-002",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3"
+    ],
+    "parameter_values": [
+        3.687,
+        2.35096,
+        0.1419
+    ],
+    "strukturbericht": null,
+    "title": "Li$_{2}$CN$_{2}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2C2_tI10_139_a_d_e.Li2CN2"
+}

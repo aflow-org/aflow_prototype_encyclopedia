@@ -1,0 +1,20 @@
+{
+    "uid": "31D9",
+    "prototype": "AsCu3S4",
+    "prototype_tex": "AsCu$_{3}$S$_{4}$",
+    "label": "AB3C4_cP8_215_a_c_e-001",
+    "parameter_symbol": [
+        "a",
+        "x3"
+    ],
+    "parameter_values": [
+        5.28,
+        0.25
+    ],
+    "strukturbericht": null,
+    "title": "Cubic Lazarevi\\'{c}ite (AsCu$_{3}$S$_{4}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3C4_cP8_215_a_c_e"
+}

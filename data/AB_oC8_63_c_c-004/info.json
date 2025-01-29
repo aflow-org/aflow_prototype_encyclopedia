@@ -1,0 +1,26 @@
+{
+    "uid": "8MTK",
+    "prototype": "SSn",
+    "prototype_tex": "SSn",
+    "label": "AB_oC8_63_c_c-004",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y1",
+        "y2"
+    ],
+    "parameter_values": [
+        4.136,
+        2.77756,
+        1.0087,
+        0.35,
+        0.1251
+    ],
+    "strukturbericht": null,
+    "title": "$\\beta$-SnS Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_oC8_63_c_c-004"
+}

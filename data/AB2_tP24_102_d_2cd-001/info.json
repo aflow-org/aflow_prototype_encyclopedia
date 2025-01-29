@@ -1,0 +1,40 @@
+{
+    "uid": "AFNT",
+    "prototype": "NS2",
+    "prototype_tex": "NS$_{2}$",
+    "label": "AB2_tP24_102_d_2cd-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "y3",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        11.25,
+        0.34098,
+        0.1115,
+        0.0,
+        0.32,
+        0.0525,
+        0.2425,
+        0.0707,
+        0.0616,
+        0.353,
+        0.1505,
+        0.2278
+    ],
+    "strukturbericht": null,
+    "title": "S$_{2}$ (S$_{4}$N$_{2}$) Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2_tP24_102_d_2cd-001"
+}

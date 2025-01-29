@@ -1,0 +1,38 @@
+{
+    "uid": "FETU",
+    "prototype": "NiS5Ta2",
+    "prototype_tex": "NiS$_{5}$Ta$_{2}$",
+    "label": "AB5C2_oC32_63_c_c2f_f-004",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y1",
+        "y2",
+        "y3",
+        "z3",
+        "y4",
+        "z4",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        3.415,
+        3.55666,
+        4.42079,
+        0.69692,
+        0.31968,
+        0.58282,
+        0.13527,
+        0.1485,
+        0.94974,
+        0.22082,
+        0.10879
+    ],
+    "strukturbericht": null,
+    "title": "Ta$_{2}$NiS$_{5}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB5C2_oC32_63_c_c2f_f"
+}

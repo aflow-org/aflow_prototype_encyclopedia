@@ -1,0 +1,22 @@
+{
+    "uid": "D85X",
+    "prototype": "Co2S2Tl",
+    "prototype_tex": "Co$_{2}$S$_{2}$Tl",
+    "label": "A2B2C_tI10_139_d_e_a-002",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3"
+    ],
+    "parameter_values": [
+        3.741,
+        3.46325,
+        0.3474
+    ],
+    "strukturbericht": null,
+    "title": "TlCo$_{2}$S$_{2}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B2C_tI10_139_d_e_a.TlCo2S2"
+}

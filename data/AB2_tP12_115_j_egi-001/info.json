@@ -1,0 +1,30 @@
+{
+    "uid": "RJ86",
+    "prototype": "HgI2",
+    "prototype_tex": "HgI$_{2}$",
+    "label": "AB2_tP12_115_j_egi-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "x3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        8.7863,
+        0.701865,
+        0.5288,
+        0.5315,
+        0.26398,
+        0.24918,
+        0.74945
+    ],
+    "strukturbericht": null,
+    "title": "Orange (averaged) HgI$_{2}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2_tP12_115_j_egi"
+}

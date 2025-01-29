@@ -1,0 +1,24 @@
+{
+    "uid": "443S",
+    "prototype": "Ga4Ti5",
+    "prototype_tex": "Ga$_{4}$Ti$_{5}$",
+    "label": "A4B5_hP18_193_bg_dg-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "x4"
+    ],
+    "parameter_values": [
+        7.861,
+        0.69355,
+        0.62,
+        0.29
+    ],
+    "strukturbericht": null,
+    "title": "Ti$_{5}$Ga$_{4}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4B5_hP18_193_bg_dg"
+}

@@ -1,0 +1,24 @@
+{
+    "uid": "N7XD",
+    "prototype": "F6NaSb",
+    "prototype_tex": "F$_{6}$NaSb",
+    "label": "A6BC_cP32_205_d_a_b-001",
+    "parameter_symbol": [
+        "a",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        8.18,
+        0.45,
+        0.55,
+        0.725
+    ],
+    "strukturbericht": null,
+    "title": "NaSbF$_{6}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A6BC_cP32_205_d_b_a"
+}

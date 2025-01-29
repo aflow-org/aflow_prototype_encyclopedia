@@ -1,0 +1,21 @@
+{
+    "uid": "LZW5",
+    "prototype": "Mg",
+    "prototype_tex": "Mg",
+    "label": "A_hP2_194_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a"
+    ],
+    "parameter_values": [
+        3.2093,
+        1.62359
+    ],
+    "strukturbericht": "A3",
+    "title": "Hexagonal Close Packed (Mg, $A3$, hcp) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$A3$",
+    "compounds": {},
+    "alias": "A_hP2_194_c"
+}

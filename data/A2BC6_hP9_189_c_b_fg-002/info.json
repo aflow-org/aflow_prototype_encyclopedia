@@ -1,0 +1,24 @@
+{
+    "uid": "6CW0",
+    "prototype": "As2CoZr3",
+    "prototype_tex": "As$_{2}$CoZr$_{3}$",
+    "label": "A2BC6_hP9_189_c_b_fg-002",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "x4"
+    ],
+    "parameter_values": [
+        7.461,
+        0.4870661,
+        0.2473,
+        0.5863
+    ],
+    "strukturbericht": null,
+    "title": "Zr$_{6}$CoAs$_{2}$",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BC6_hP9_189_c_b_fg-002"
+}

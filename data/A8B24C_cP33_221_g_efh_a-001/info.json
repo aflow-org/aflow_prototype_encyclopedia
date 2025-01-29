@@ -1,0 +1,26 @@
+{
+    "uid": "CLMU",
+    "prototype": "Ce8Pd24Sb",
+    "prototype_tex": "Ce$_{8}$Pd$_{24}$Sb",
+    "label": "A8B24C_cP33_221_g_efh_a-001",
+    "parameter_symbol": [
+        "a",
+        "x2",
+        "x3",
+        "x4",
+        "x5"
+    ],
+    "parameter_values": [
+        8.461,
+        0.31118,
+        0.25552,
+        0.2514,
+        0.26675
+    ],
+    "strukturbericht": null,
+    "title": "Ce$_{8}$Pd$_{24}$Sb Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A8B24C_cP33_221_g_efh_a-001"
+}

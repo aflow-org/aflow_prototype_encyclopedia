@@ -1,0 +1,26 @@
+{
+    "uid": "2CAN",
+    "prototype": "Br3(CH3)(NH3)Pb",
+    "prototype_tex": "Br$_{3}$(CH$_{3}$)(NH$_{3}$)Pb",
+    "label": "A6B3C3D2_cI56_204_g_d_e_c-001",
+    "parameter_symbol": [
+        "a",
+        "x2",
+        "x3",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        11.5,
+        0.085,
+        0.44,
+        0.2791,
+        0.7838
+    ],
+    "strukturbericht": null,
+    "title": "High Pressure Phase II (CH$_{3}$)(NH$_{3})$PbBr$_{3}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A6B3C3D2_cI56_204_g_d_e_c-001"
+}

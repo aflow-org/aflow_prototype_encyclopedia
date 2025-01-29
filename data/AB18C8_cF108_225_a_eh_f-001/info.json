@@ -1,0 +1,24 @@
+{
+    "uid": "VR5Q",
+    "prototype": "CrFe18MoNi8",
+    "prototype_tex": "CrFe$_{18}$MoNi$_{8}$",
+    "label": "AB18C8_cF108_225_a_eh_f-001",
+    "parameter_symbol": [
+        "a",
+        "x2",
+        "x3",
+        "y4"
+    ],
+    "parameter_values": [
+        10.56,
+        0.325,
+        0.65833,
+        0.66
+    ],
+    "strukturbericht": null,
+    "title": "Model of Austenite Structure (cF108)",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB18C8_cF108_225_a_eh_f"
+}

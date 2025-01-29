@@ -1,0 +1,34 @@
+{
+    "uid": "1L9R",
+    "prototype": "GeSe2",
+    "prototype_tex": "GeSe$_{2}$",
+    "label": "AB2_tP12_81_adg_2h-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "x4",
+        "y4",
+        "z4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        5.3389,
+        1.87981,
+        0.25,
+        0.2739,
+        0.234,
+        0.128,
+        0.2289,
+        0.23,
+        0.6273
+    ],
+    "strukturbericht": null,
+    "title": "GeSe$_{2}$ (High Pressure) Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2_tP12_81_adg_2h"
+}

@@ -1,0 +1,28 @@
+{
+    "uid": "E7DL",
+    "prototype": "Te4Ti5",
+    "prototype_tex": "Te$_{4}$Ti$_{5}$",
+    "label": "A4B5_tI18_87_h_ah-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "y2",
+        "x3",
+        "y3"
+    ],
+    "parameter_values": [
+        10.164,
+        0.371114,
+        0.2797,
+        0.9411,
+        0.3752,
+        0.6856
+    ],
+    "strukturbericht": null,
+    "title": "Ti$_{5}$Te$_{4}$ Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4B5_tI18_87_h_ah"
+}

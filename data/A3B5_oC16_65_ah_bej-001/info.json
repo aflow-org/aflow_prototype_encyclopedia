@@ -1,0 +1,26 @@
+{
+    "uid": "36DL",
+    "prototype": "Ga3Pt5",
+    "prototype_tex": "Ga$_{3}$Pt$_{5}$",
+    "label": "A3B5_oC16_65_ah_bej-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x4",
+        "y5"
+    ],
+    "parameter_values": [
+        8.031,
+        0.92641,
+        0.491595,
+        0.25,
+        0.225
+    ],
+    "strukturbericht": null,
+    "title": "Ga$_{3}$Pt$_{5}$ Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B5_oC16_65_ah_bej"
+}

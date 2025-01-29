@@ -1,0 +1,20 @@
+{
+    "uid": "K2V9",
+    "prototype": "GaSb",
+    "prototype_tex": "GaSb",
+    "label": "AB_tI4_119_c_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a"
+    ],
+    "parameter_values": [
+        5.479,
+        0.558496
+    ],
+    "strukturbericht": null,
+    "title": "GaSb (II) Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_tI4_119_c_a"
+}

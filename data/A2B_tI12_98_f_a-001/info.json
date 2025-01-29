@@ -1,0 +1,22 @@
+{
+    "uid": "G4QQ",
+    "prototype": "As2Cd",
+    "prototype_tex": "As$_{2}$Cd",
+    "label": "A2B_tI12_98_f_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2"
+    ],
+    "parameter_values": [
+        7.9534,
+        0.58795,
+        0.44
+    ],
+    "strukturbericht": null,
+    "title": "CdAs$_{2}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_tI12_98_f_a"
+}

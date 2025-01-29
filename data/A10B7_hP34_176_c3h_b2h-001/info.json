@@ -1,0 +1,40 @@
+{
+    "uid": "L6DT",
+    "prototype": "Rh20Si13",
+    "prototype_tex": "Rh$_{20}$Si$_{13}$",
+    "label": "A10B7_hP34_176_c3h_b2h-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "y3",
+        "x4",
+        "y4",
+        "x5",
+        "y5",
+        "x6",
+        "y6",
+        "x7",
+        "y7"
+    ],
+    "parameter_values": [
+        11.851,
+        0.3057126,
+        0.8124,
+        0.8157,
+        0.5992,
+        0.8717,
+        0.39,
+        -0.0713,
+        0.7667,
+        0.1058,
+        0.5497,
+        0.1678
+    ],
+    "strukturbericht": null,
+    "title": "Rh$_{20}$Si$_{13}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A10B7_hP34_176_c3h_b2h"
+}

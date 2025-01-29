@@ -1,0 +1,30 @@
+{
+    "uid": "L615",
+    "prototype": "NbTe3",
+    "prototype_tex": "NbTe$_{3}$",
+    "label": "AB3_oC16_63_c_3c-002",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y1",
+        "y2",
+        "y3",
+        "y4"
+    ],
+    "parameter_values": [
+        4.35,
+        5.931034,
+        1.0,
+        0.8306,
+        0.0705,
+        0.4294,
+        0.7047
+    ],
+    "strukturbericht": null,
+    "title": "NbTe$_{3}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3_oC16_63_c_3c-002"
+}

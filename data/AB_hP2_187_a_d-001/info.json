@@ -1,0 +1,21 @@
+{
+    "uid": "X4K0",
+    "prototype": "CW",
+    "prototype_tex": "CW",
+    "label": "AB_hP2_187_a_d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a"
+    ],
+    "parameter_values": [
+        2.9065,
+        0.97595
+    ],
+    "strukturbericht": "B_h",
+    "title": "Tungsten Carbide (WC, $B_{h}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$B_{h}$",
+    "compounds": {},
+    "alias": "AB_hP2_187_d_a"
+}

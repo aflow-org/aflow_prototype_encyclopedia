@@ -1,0 +1,43 @@
+{
+    "uid": "1WMN",
+    "prototype": "S3Sb5",
+    "prototype_tex": "S$_{3}$Sb$_{5}$",
+    "label": "A3B2_oP20_62_3c_2c-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        11.282,
+        0.339443,
+        0.994948,
+        0.2922,
+        0.19181,
+        0.4504,
+        0.877,
+        0.6246,
+        0.5611,
+        0.97063,
+        0.17398,
+        0.64939,
+        0.96397
+    ],
+    "strukturbericht": "D5_8",
+    "title": "Stibnite (Sb$_{2}$S$_{3}$, $D5_{8}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$D5_{8}$",
+    "compounds": {},
+    "alias": "A3B2_oP20_62_3c_2c"
+}

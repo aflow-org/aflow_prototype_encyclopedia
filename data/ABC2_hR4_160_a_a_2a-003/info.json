@@ -1,0 +1,28 @@
+{
+    "uid": "BC9T",
+    "prototype": "CrCuS2",
+    "prototype_tex": "CrCuS$_{2}$",
+    "label": "ABC2_hR4_160_a_a_2a-003",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3",
+        "x4"
+    ],
+    "parameter_values": [
+        3.48001,
+        5.4023,
+        0.14,
+        1.11022e-16,
+        0.87,
+        0.74
+    ],
+    "strukturbericht": null,
+    "title": "CrCuS$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC2_hR4_160_a_a_2a-003"
+}

@@ -1,0 +1,32 @@
+{
+    "uid": "J5ST",
+    "prototype": "Na9Pb4",
+    "prototype_tex": "Na$_{9}$Pb$_{4}$",
+    "label": "A9B4_hP26_194_ce3f_ef-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "z3",
+        "z4",
+        "z5",
+        "z6",
+        "z7"
+    ],
+    "parameter_values": [
+        5.47,
+        5.55941,
+        0.683,
+        0.55,
+        0.591,
+        0.019,
+        0.135,
+        0.7
+    ],
+    "strukturbericht": null,
+    "title": "Na$_{9}$Pb$_{4}$ ($\\delta$'-NaPb) Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A9B4_hP26_194_ce3f_ef-001"
+}

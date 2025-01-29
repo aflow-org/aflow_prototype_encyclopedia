@@ -1,0 +1,22 @@
+{
+    "uid": "GYST",
+    "prototype": "Rh4Sn13Yb3",
+    "prototype_tex": "Rh$_{4}$Sn$_{13}$Yb$_{3}$",
+    "label": "A4B13C3_cP40_223_e_ak_c-001",
+    "parameter_symbol": [
+        "a",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        9.676,
+        0.84667,
+        0.3057
+    ],
+    "strukturbericht": null,
+    "title": "Yb$_{3}$Rh$_{4}$Sn$_{13}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4B13C3_cP40_223_e_ak_c-001"
+}

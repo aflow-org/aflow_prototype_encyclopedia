@@ -1,0 +1,28 @@
+{
+    "uid": "1Y2H",
+    "prototype": "B",
+    "prototype_tex": "B",
+    "label": "A_hR12_166_2h-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "z1",
+        "x2",
+        "z2"
+    ],
+    "parameter_values": [
+        4.908,
+        2.56023,
+        0.9896,
+        0.34271,
+        0.7794,
+        0.3677
+    ],
+    "strukturbericht": null,
+    "title": "$\\alpha$-B (R-12) Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A_hR12_166_2h"
+}

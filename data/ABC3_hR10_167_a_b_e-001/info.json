@@ -1,0 +1,22 @@
+{
+    "uid": "TXPE",
+    "prototype": "LiONbO3",
+    "prototype_tex": "LiONbO$_{3}$",
+    "label": "ABC3_hR10_167_a_b_e-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3"
+    ],
+    "parameter_values": [
+        5.28504,
+        2.6204,
+        0.85757
+    ],
+    "strukturbericht": null,
+    "title": "Paraelectric LiNbO$_{3}$ Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC3_hR10_167_a_b_e.LiNbO3"
+}

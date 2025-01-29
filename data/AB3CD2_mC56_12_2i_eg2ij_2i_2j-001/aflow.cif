@@ -1,0 +1,57 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  ClHg3IS2 radtkeite
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/AB3CD2_mC56_12_2i_eg2ij_2i_2j-001
+
+# Last updated on 2024/08/01
+
+data_Cl8Hg24I8S16
+_pd_phase_name Cl8Hg24I8S16
+_cell_length_a  16.8270000000
+_cell_length_b  9.1170000000
+_cell_length_c  13.1650000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  130.1700000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'C2/m'
+_symmetry_Int_Tables_Number  12
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y,-z
+  3  -x,-y,-z
+  4  x,-y,z
+  5  x+1/2,y+1/2,z
+  6  -x+1/2,y+1/2,-z
+  7  -x+1/2,-y+1/2,-z
+  8  x+1/2,-y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Hg3 1.0000000000 0.2500000000 0.2500000000 0.0000000000  Biso 1.0 Hg 4 e
+Hg4 1.0000000000 0.0000000000 0.2270000000 0.0000000000  Biso 1.0 Hg 4 g
+Cl1 1.0000000000 0.1126000000 0.0000000000 0.4899000000  Biso 1.0 Cl 4 i
+Cl2 1.0000000000 0.1299000000 0.0000000000 0.9838000000  Biso 1.0 Cl 4 i
+Hg5 1.0000000000 0.6510000000 0.0000000000 0.2465000000  Biso 1.0 Hg 4 i
+Hg6 1.0000000000 0.3595000000 0.0000000000 0.2658000000  Biso 1.0 Hg 4 i
+I8 1.0000000000 0.3755000000 -0.0000000000 0.5126000000  Biso 1.0 I 4 i
+I9 1.0000000000 0.6064000000 -0.0000000000 0.9731000000  Biso 1.0 I 4 i
+Hg7 1.0000000000 0.0248000000 0.2160000000 0.2952000000  Biso 1.0 Hg 8 j
+S10 1.0000000000 0.8525000000 0.2331000000 0.2312000000  Biso 1.0 S 8 j
+S11 1.0000000000 0.6234000000 0.7315000000 0.2218000000  Biso 1.0 S 8 j

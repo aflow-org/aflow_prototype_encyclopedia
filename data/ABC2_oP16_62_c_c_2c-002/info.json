@@ -1,0 +1,39 @@
+{
+    "uid": "XPSY",
+    "prototype": "AlHO2",
+    "prototype_tex": "AlHO$_{2}$",
+    "label": "ABC2_oP16_62_c_c_2c-002",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        9.4253,
+        0.301868,
+        0.466903,
+        0.6445,
+        0.95528,
+        0.9124,
+        0.9095,
+        0.94662,
+        0.69714,
+        0.80108,
+        0.21234
+    ],
+    "strukturbericht": "E0_2",
+    "title": "Diaspore (AlOOH, $E0_{2}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$E0_{2}$",
+    "compounds": {},
+    "alias": "ABC2_oP16_62_c_c_2c"
+}

@@ -1,0 +1,76 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Bi2CdO4
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A2BC4_tI112_141_gh_f_ghi-001
+
+# Last updated on 2024/07/30
+
+data_A2BC4_tI112_141_gh_f_ghi-001
+_pd_phase_name A2BC4_tI112_141_gh_f_ghi-001
+_cell_length_a  14.4948000000
+_cell_length_b  14.4948000000
+_cell_length_c  9.3173000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'I4_{1}/amd'
+_symmetry_Int_Tables_Number  141
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z+1/2
+  3  -y+1/4,x+3/4,z+1/4
+  4  y+1/4,-x+1/4,z+3/4
+  5  -x+1/2,y,-z+1/2
+  6  x,-y,-z
+  7  y+1/4,x+3/4,-z+1/4
+  8  -y+1/4,-x+1/4,-z+3/4
+  9  -x,-y,-z
+  10  x+1/2,y,-z+1/2
+  11  y+3/4,-x+1/4,-z+3/4
+  12  -y+3/4,x+3/4,-z+1/4
+  13  x+1/2,-y,z+1/2
+  14  -x,y,z
+  15  -y+3/4,-x+1/4,z+3/4
+  16  y+3/4,x+3/4,z+1/4
+  17  x+1/2,y+1/2,z+1/2
+  18  -x,-y+1/2,z
+  19  -y+3/4,x+1/4,z+3/4
+  20  y+3/4,-x+3/4,z+1/4
+  21  -x,y+1/2,-z
+  22  x+1/2,-y+1/2,-z+1/2
+  23  y+3/4,x+1/4,-z+3/4
+  24  -y+3/4,-x+3/4,-z+1/4
+  25  -x+1/2,-y+1/2,-z+1/2
+  26  x,y+1/2,-z
+  27  y+1/4,-x+3/4,-z+1/4
+  28  -y+1/4,x+1/4,-z+3/4
+  29  x,-y+1/2,z
+  30  -x+1/2,y+1/2,z+1/2
+  31  -y+1/4,-x+3/4,z+1/4
+  32  y+1/4,x+1/4,z+3/4
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Cd3 1.0000000000 0.3900000000 -0.0000000000 0.0000000000  Biso 1.0 Cd 16 f
+Bi1 1.0000000000 0.1574800000 0.4074800000 0.8750000000  Biso 1.0 Bi 16 g
+O4 1.0000000000 0.6079000000 0.8579000000 0.8750000000  Biso 1.0 O 16 g
+Bi2 1.0000000000 0.0000000000 0.1113000000 0.2225000000  Biso 1.0 Bi 16 h
+O5 1.0000000000 0.0000000000 0.9772000000 0.3017000000  Biso 1.0 O 16 h
+O6 1.0000000000 0.1526000000 0.0252800000 0.1252000000  Biso 1.0 O 32 i

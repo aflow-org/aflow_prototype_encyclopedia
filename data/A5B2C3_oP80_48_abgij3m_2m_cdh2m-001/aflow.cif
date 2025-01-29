@@ -1,0 +1,61 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Gd2Ni3Ga5
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A5B2C3_oP80_48_abgij3m_2m_cdh2m-001
+
+# Last updated on 2024/07/30
+
+data_A5B2C3_oP80_48_abgij3m_2m_cdh2m-001
+_pd_phase_name A5B2C3_oP80_48_abgij3m_2m_cdh2m-001
+_cell_length_a  12.2606300000
+_cell_length_b  11.1368000000
+_cell_length_c  9.8540000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pnnn'
+_symmetry_Int_Tables_Number  48
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  -x,y,-z
+  4  x,-y,-z
+  5  -x+1/2,-y+1/2,-z+1/2
+  6  x+1/2,y+1/2,-z+1/2
+  7  x+1/2,-y+1/2,z+1/2
+  8  -x+1/2,y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Ga1  1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Ga 2 a
+Ga2  1.0000000000 0.5000000000 0.0000000000 0.0000000000  Biso 1.0 Ga 2 b
+Ni3  1.0000000000 0.0000000000 0.0000000000 0.5000000000  Biso 1.0 Ni 2 c
+Ni4  1.0000000000 0.0000000000 0.5000000000 0.0000000000  Biso 1.0 Ni 2 d
+Ga5  1.0000000000 0.7871000000 0.0000000000 0.0000000000  Biso 1.0 Ga 4 g
+Ni6  1.0000000000 0.2950000000 0.0000000000 0.5000000000  Biso 1.0 Ni 4 h
+Ga7  1.0000000000 0.0000000000 0.7242000000 0.0000000000  Biso 1.0 Ga 4 i
+Ga8  1.0000000000 0.5000000000 0.7488000000 0.0000000000  Biso 1.0 Ga 4 j
+Ga9  1.0000000000 0.2035000000 0.7487000000 0.0064000000  Biso 1.0 Ga 8 m
+Ga10 1.0000000000 0.1520000000 0.8811000000 0.3902000000  Biso 1.0 Ga 8 m
+Ga11 1.0000000000 0.6189000000 0.8877000000 0.3254000000  Biso 1.0 Ga 8 m
+Gd12 1.0000000000 0.8816000000 0.3630000000 0.2777000000  Biso 1.0 Gd 8 m
+Gd13 1.0000000000 0.8809000000 0.8702000000 0.2722000000  Biso 1.0 Gd 8 m
+Ni14 1.0000000000 0.0932000000 0.8776000000 0.1598000000  Biso 1.0 Ni 8 m
+Ni15 1.0000000000 0.6468000000 0.8744000000 0.0872000000  Biso 1.0 Ni 8 m

@@ -1,0 +1,23 @@
+{
+    "uid": "CWTN",
+    "prototype": "OPb",
+    "prototype_tex": "OPb",
+    "label": "AB_tP4_129_a_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2"
+    ],
+    "parameter_values": [
+        3.9645,
+        1.26008,
+        0.2368
+    ],
+    "strukturbericht": "B10",
+    "title": "Litharge (tetragonal PbO, $B10$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$B10$",
+    "compounds": {},
+    "alias": "AB_tP4_129_a_c"
+}

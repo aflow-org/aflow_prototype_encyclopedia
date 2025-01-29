@@ -1,0 +1,20 @@
+{
+    "uid": "SQ16",
+    "prototype": "CaH12Y",
+    "prototype_tex": "CaH$_{12}$Y",
+    "label": "AB12C_cP14_221_a_h_b-001",
+    "parameter_symbol": [
+        "a",
+        "x3"
+    ],
+    "parameter_values": [
+        3.4708,
+        0.24126
+    ],
+    "strukturbericht": null,
+    "title": "Predicted High-Pressure YCaH$_{12}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB12C_cP14_221_a_h_b"
+}

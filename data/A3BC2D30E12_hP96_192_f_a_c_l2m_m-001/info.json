@@ -1,0 +1,42 @@
+{
+    "uid": "FPN8",
+    "prototype": "Al3KMg2O15Si12",
+    "prototype_tex": "Al$_{3}$KMg$_{2}$O$_{15}$Si$_{12}$",
+    "label": "A3BC2D30E12_hP96_192_f_a_c_l2m_m-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x4",
+        "y4",
+        "x5",
+        "y5",
+        "z5",
+        "x6",
+        "y6",
+        "z6",
+        "x7",
+        "y7",
+        "z7"
+    ],
+    "parameter_values": [
+        10.086,
+        1.42029,
+        0.1229,
+        0.4079,
+        0.2166,
+        0.2847,
+        0.132,
+        0.1398,
+        0.4934,
+        0.179,
+        0.24821,
+        0.35359,
+        0.39206
+    ],
+    "strukturbericht": null,
+    "title": "Osumilite (KMg$_{2}$Al$_{3}$Si$_{12}$O$_{30}$) Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3BC2D30E12_hP96_192_f_a_c_l2m_m-001"
+}

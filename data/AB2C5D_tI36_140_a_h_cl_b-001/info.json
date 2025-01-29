@@ -1,0 +1,26 @@
+{
+    "uid": "4VUW",
+    "prototype": "BaLa2O5Zn",
+    "prototype_tex": "BaLa$_{2}$O$_{5}$Zn",
+    "label": "AB2C5D_tI36_140_a_h_cl_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x4",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        6.9099,
+        1.67843,
+        0.1737,
+        0.1452,
+        0.3643
+    ],
+    "strukturbericht": null,
+    "title": "BaLa$_{2}$ZnO$_{5}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2C5D_tI36_140_a_h_cl_b-001"
+}

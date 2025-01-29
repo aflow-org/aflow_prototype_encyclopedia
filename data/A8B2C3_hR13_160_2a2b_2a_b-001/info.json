@@ -1,0 +1,40 @@
+{
+    "uid": "L333",
+    "prototype": "Cl8Na2Ti3",
+    "prototype_tex": "Cl$_{8}$Na$_{2}$Ti$_{3}$",
+    "label": "A8B2C3_hR13_160_2a2b_2a_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3",
+        "x4",
+        "x5",
+        "z5",
+        "x6",
+        "z6",
+        "x7",
+        "z7"
+    ],
+    "parameter_values": [
+        6.97391,
+        2.89438,
+        0.5824,
+        0.3959,
+        0.84,
+        0.1703,
+        0.9035,
+        0.4122,
+        0.0973,
+        0.5881,
+        0.5199,
+        0.9602
+    ],
+    "strukturbericht": null,
+    "title": "$\\gamma$-Na$_{2}$Ti$_{3}$Cl$_{8}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A8B2C3_hR13_160_2a2b_2a_b-001"
+}

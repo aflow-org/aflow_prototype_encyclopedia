@@ -1,0 +1,25 @@
+{
+    "uid": "FEUM",
+    "prototype": "Be12Ti",
+    "prototype_tex": "Be$_{12}$Ti",
+    "label": "A12B_hP13_191_cdei_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z4",
+        "z5"
+    ],
+    "parameter_values": [
+        4.23,
+        1.73286,
+        0.29,
+        0.25
+    ],
+    "strukturbericht": "D2_a",
+    "title": "$D2_{a}$ (approximate TiBe$_{12}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$D2_{a}$",
+    "compounds": {},
+    "alias": "A12B_hP13_191_cdei_a"
+}

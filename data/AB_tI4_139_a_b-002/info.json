@@ -1,0 +1,21 @@
+{
+    "uid": "ZN4Y",
+    "prototype": "CxFe",
+    "prototype_tex": "C$_{x}$Fe",
+    "label": "AB_tI4_139_a_b-002",
+    "parameter_symbol": [
+        "a",
+        "c/a"
+    ],
+    "parameter_values": [
+        2.84,
+        1.04577
+    ],
+    "strukturbericht": "L'2_0",
+    "title": "``Martensite Type'' FeC$_{x}$ ($x < 0.06$) ($L'2_{0}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$L'2_{0}$",
+    "compounds": {},
+    "alias": "AB_tI4_139_b_a"
+}

@@ -1,0 +1,42 @@
+{
+    "uid": "XC67",
+    "prototype": "O10Ru3Sr4",
+    "prototype_tex": "O$_{10}$Ru$_{3}$Sr$_{4}$",
+    "label": "A10B3C4_oC68_64_2dfg_ad_2d-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x2",
+        "x3",
+        "x4",
+        "x5",
+        "x6",
+        "y7",
+        "z7",
+        "x8",
+        "y8",
+        "z8"
+    ],
+    "parameter_values": [
+        28.573,
+        0.136496,
+        0.136496,
+        0.213,
+        0.0695,
+        0.1402,
+        0.2961,
+        0.4301,
+        0.2971,
+        0.7972,
+        0.6392,
+        0.7271,
+        0.7279
+    ],
+    "strukturbericht": null,
+    "title": "Base-centered Orthorhombic Sr$_{4}$Ru$_{3}$O$_{10}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A10B3C4_oC68_64_2dfg_ad_2d"
+}

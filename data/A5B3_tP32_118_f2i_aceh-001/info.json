@@ -1,0 +1,38 @@
+{
+    "uid": "DCPJ",
+    "prototype": "Ga5Ir3",
+    "prototype_tex": "Ga$_{5}$Ir$_{3}$",
+    "label": "A5B3_tP32_118_f2i_aceh-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "x4",
+        "z5",
+        "x6",
+        "y6",
+        "z6",
+        "x7",
+        "y7",
+        "z7"
+    ],
+    "parameter_values": [
+        5.823,
+        2.42487,
+        0.3291,
+        0.675,
+        0.9139,
+        0.23,
+        0.35,
+        0.0515,
+        0.34,
+        0.3,
+        0.65
+    ],
+    "strukturbericht": null,
+    "title": "Ir$_{3}$Ga$_{5}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A5B3_tP32_118_g2i_aceh"
+}

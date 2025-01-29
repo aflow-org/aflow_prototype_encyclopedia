@@ -1,0 +1,30 @@
+{
+    "uid": "A7M6",
+    "prototype": "InS",
+    "prototype_tex": "InS",
+    "label": "AB_oP8_58_g_g-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "y1",
+        "x2",
+        "y2"
+    ],
+    "parameter_values": [
+        4.443,
+        2.39523,
+        0.886788,
+        0.125,
+        0.121,
+        0.995,
+        0.355
+    ],
+    "strukturbericht": null,
+    "title": "InS Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_oP8_58_g_g"
+}

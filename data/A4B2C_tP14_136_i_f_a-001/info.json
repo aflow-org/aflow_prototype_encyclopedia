@@ -1,0 +1,26 @@
+{
+    "uid": "U6YK",
+    "prototype": "Fe4Si2Zr",
+    "prototype_tex": "Fe$_{4}$Si$_{2}$Zr",
+    "label": "A4B2C_tP14_136_i_f_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3",
+        "y3"
+    ],
+    "parameter_values": [
+        7.004,
+        0.536122,
+        0.7201,
+        0.1532,
+        0.592
+    ],
+    "strukturbericht": null,
+    "title": "ZrFe$_{4}$Si$_{2}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4B2C_tP14_136_i_g_b"
+}

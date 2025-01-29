@@ -1,0 +1,26 @@
+{
+    "uid": "MURN",
+    "prototype": "MoNTa",
+    "prototype_tex": "MoNTa",
+    "label": "ABC_tP6_129_c_c_c-002",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3"
+    ],
+    "parameter_values": [
+        3.081,
+        2.53165,
+        0.9,
+        0.617,
+        0.335
+    ],
+    "strukturbericht": null,
+    "title": "TaMoN Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC_tP6_129_c_c_c-002"
+}

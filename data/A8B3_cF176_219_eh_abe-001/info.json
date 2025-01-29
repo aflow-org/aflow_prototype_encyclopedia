@@ -1,0 +1,28 @@
+{
+    "uid": "ZRK3",
+    "prototype": "Cl8Si3",
+    "prototype_tex": "Cl$_{8}$Si$_{3}$",
+    "label": "A8B3_cF176_219_eh_abe-001",
+    "parameter_symbol": [
+        "a",
+        "x3",
+        "x4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        17.344,
+        0.18491,
+        0.42237,
+        0.98228,
+        0.88447,
+        0.33188
+    ],
+    "strukturbericht": null,
+    "title": "Si$_{3}$Cl$_{8}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A8B3_cF176_219_eh_abe-001"
+}

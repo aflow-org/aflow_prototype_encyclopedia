@@ -1,0 +1,18 @@
+{
+    "uid": "SDL9",
+    "prototype": "(Ag1.48Cu1.44Fe0.32)Te2",
+    "prototype_tex": "(Ag$_{1.48}$Cu$_{1.44}$Fe$_{0.32}$)Te$_{2}$",
+    "label": "AB3C2_cP12_224_a_d_b-001",
+    "parameter_symbol": [
+        "a"
+    ],
+    "parameter_values": [
+        6.09935
+    ],
+    "strukturbericht": null,
+    "title": "Henryite [(Ag$_{1.48}$Cu$_{1.44}$Fe$_{0.32}$)Te$_{2}$] Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3C2_cP12_224_a_d_b-001"
+}

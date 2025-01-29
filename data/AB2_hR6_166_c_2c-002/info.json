@@ -1,0 +1,27 @@
+{
+    "uid": "85MW",
+    "prototype": "CaSi2",
+    "prototype_tex": "CaSi$_{2}$",
+    "label": "AB2_hR6_166_c_2c-002",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3"
+    ],
+    "parameter_values": [
+        3.85479,
+        7.95396,
+        0.083,
+        0.183,
+        0.35
+    ],
+    "strukturbericht": "C12",
+    "title": "CaSi$_{2}$ ($C12$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$C12$",
+    "compounds": {},
+    "alias": "AB2_hR6_166_c_2c"
+}

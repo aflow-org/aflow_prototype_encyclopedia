@@ -1,0 +1,23 @@
+{
+    "uid": "RDQF",
+    "prototype": "C2Ca",
+    "prototype_tex": "C$_{2}$Ca",
+    "label": "A2B_tI6_139_e_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2"
+    ],
+    "parameter_values": [
+        3.87,
+        1.64599,
+        0.38
+    ],
+    "strukturbericht": "C11_a",
+    "title": "CaC$_{2}$-I ($C11_{a}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$C11_{a}$",
+    "compounds": {},
+    "alias": "A2B_tI6_139_e_a"
+}

@@ -1,0 +1,23 @@
+{
+    "uid": "B7FR",
+    "prototype": "F2HK",
+    "prototype_tex": "F$_{2}$HK",
+    "label": "A2BC_tI16_140_h_d_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3"
+    ],
+    "parameter_values": [
+        5.67,
+        1.20106,
+        0.142
+    ],
+    "strukturbericht": "F5_2",
+    "title": "KHF$_{2}$ ($F5_{2}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$F5_{2}$",
+    "compounds": {},
+    "alias": "A2BC_tI16_140_h_d_a"
+}

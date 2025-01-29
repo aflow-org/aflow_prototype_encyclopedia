@@ -1,0 +1,28 @@
+{
+    "uid": "WVZU",
+    "prototype": "OV8",
+    "prototype_tex": "OV$_{8}$",
+    "label": "AB8_tP18_136_a_2fi-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3",
+        "x4",
+        "y4"
+    ],
+    "parameter_values": [
+        8.754,
+        0.342244,
+        0.125,
+        0.375,
+        0.625,
+        0.125
+    ],
+    "strukturbericht": null,
+    "title": "$\\alpha$'-V$_{8}$O Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB8_tP18_136_a_2fi-001"
+}

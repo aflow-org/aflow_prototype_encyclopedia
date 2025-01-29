@@ -1,0 +1,18 @@
+{
+    "uid": "CAN8",
+    "prototype": "Ca7Ge",
+    "prototype_tex": "Ca$_{7}$Ge",
+    "label": "A7B_cF32_225_ad_b-001",
+    "parameter_symbol": [
+        "a"
+    ],
+    "parameter_values": [
+        9.45
+    ],
+    "strukturbericht": null,
+    "title": "Ca$_{7}$Ge Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A7B_cF32_225_bd_a"
+}

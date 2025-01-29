@@ -1,0 +1,30 @@
+{
+    "uid": "L566",
+    "prototype": "HgI2",
+    "prototype_tex": "HgI$_{2}$",
+    "label": "AB2_tP24_137_g_cdf-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "x3",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        8.7863,
+        1.40378,
+        0.4864,
+        0.5165,
+        0.98619,
+        0.49957,
+        0.37519
+    ],
+    "strukturbericht": null,
+    "title": "Orange (II) HgI$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2_tP24_137_g_cdf-001"
+}

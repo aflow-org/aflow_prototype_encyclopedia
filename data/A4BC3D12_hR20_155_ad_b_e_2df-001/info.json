@@ -1,0 +1,34 @@
+{
+    "uid": "1B5F",
+    "prototype": "C3CaMg3O12",
+    "prototype_tex": "C$_{3}$CaMg$_{3}$O$_{12}$",
+    "label": "A4BC3D12_hR20_155_ad_b_e_2df-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "y3",
+        "y4",
+        "y5",
+        "y6",
+        "x7",
+        "y7",
+        "z7"
+    ],
+    "parameter_values": [
+        9.50269,
+        0.823049,
+        0.4535,
+        0.8663,
+        0.5895,
+        0.0443,
+        0.8806,
+        0.473,
+        0.6947
+    ],
+    "strukturbericht": null,
+    "title": "Huntite [CaMg$_{3}$(CO$_{3}$)$_{4}$] Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4BC3D12_hR20_155_ad_b_e_2df-001"
+}

@@ -1,0 +1,40 @@
+{
+    "uid": "G8GD",
+    "prototype": "Br2Sr",
+    "prototype_tex": "Br$_{2}$Sr",
+    "label": "A2B_tP30_85_ab2g_cg-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "x4",
+        "y4",
+        "z4",
+        "x5",
+        "y5",
+        "z5",
+        "x6",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        11.6042,
+        0.614484,
+        0.1471,
+        0.6531,
+        0.9589,
+        0.6229,
+        0.8389,
+        0.958,
+        0.0996,
+        0.6057,
+        0.0885,
+        0.2491
+    ],
+    "strukturbericht": null,
+    "title": "$\\alpha$-SrBr$_{2}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_tP30_85_ab2g_cg"
+}

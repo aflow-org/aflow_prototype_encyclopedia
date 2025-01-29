@@ -1,0 +1,22 @@
+{
+    "uid": "SBCX",
+    "prototype": "CoGa5Ho",
+    "prototype_tex": "CoGa$_{5}$Ho",
+    "label": "AB5C_tP7_123_b_ci_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z4"
+    ],
+    "parameter_values": [
+        4.207,
+        1.61517,
+        0.312
+    ],
+    "strukturbericht": null,
+    "title": "HoCoGa$_{5}$ Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB5C_tP7_123_b_ci_a"
+}

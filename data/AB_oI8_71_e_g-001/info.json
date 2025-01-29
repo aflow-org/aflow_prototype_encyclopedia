@@ -1,0 +1,26 @@
+{
+    "uid": "2UZJ",
+    "prototype": "CsO",
+    "prototype_tex": "CsO",
+    "label": "AB_oI8_71_e_g-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "y2"
+    ],
+    "parameter_values": [
+        7.517,
+        0.855394,
+        0.574963,
+        0.75,
+        0.38
+    ],
+    "strukturbericht": null,
+    "title": "CsO Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_oI8_71_g_i"
+}

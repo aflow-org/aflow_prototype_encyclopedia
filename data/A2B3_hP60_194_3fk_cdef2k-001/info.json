@@ -1,0 +1,43 @@
+{
+    "uid": "T15Z",
+    "prototype": "Al2O3",
+    "prototype_tex": "Al$_{2}$O$_{3}$",
+    "label": "A2B3_hP60_194_3fk_cdef2k-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4",
+        "z5",
+        "z6",
+        "z7",
+        "x8",
+        "z8",
+        "x9",
+        "z9",
+        "x10",
+        "z10"
+    ],
+    "parameter_values": [
+        5.56,
+        4.05576,
+        0.14,
+        0.02,
+        0.17,
+        0.83,
+        0.95,
+        0.833333,
+        0.1,
+        0.166673,
+        0.05,
+        0.500003,
+        0.14
+    ],
+    "strukturbericht": "D5_6",
+    "title": "$\\beta$-Alumina ($D5_{6}$, Al$_{2}$O$_{3}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$D5_{6}$",
+    "compounds": {},
+    "alias": "A2B3_hP60_194_3fk_cdef2k"
+}

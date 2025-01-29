@@ -1,0 +1,54 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+
+# Chemical Composition:  AgEuTiO4
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/ ABC4D_oP28_57_d_d_2c2d_d-001 
+
+# Last updated on 2024/12/16
+
+data_AgEuTiO4
+_pd_phase_name AgEuTiO4
+_cell_length_a  12.8284000000
+_cell_length_b  5.2815000000
+_cell_length_c  5.2820000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pbcm'
+_symmetry_Int_Tables_Number  57
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z+1/2
+  3  -x,y+1/2,-z+1/2
+  4  x,-y+1/2,-z
+  5  -x,-y,-z
+  6  x,y,-z+1/2
+  7  x,-y+1/2,z+1/2
+  8  -x,y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+O1  1.0000000000 0.2345000000 0.2500000000 0.0000000000  Biso 1.0 O  4 c
+O2  1.0000000000 0.7717000000 0.2500000000 0.0000000000  Biso 1.0 O  4 c
+Ag3 1.0000000000 0.5809000000 0.0254000000 0.2500000000  Biso 1.0 Ag 4 d
+Eu4 1.0000000000 0.8940000000 0.0094000000 0.2500000000  Biso 1.0 Eu 4 d
+O5  1.0000000000 0.0750000000 0.0266000000 0.2500000000  Biso 1.0 O  4 d
+O6  1.0000000000 0.3986000000 0.0070000000 0.2500000000  Biso 1.0 O  4 d
+Ti7 1.0000000000 0.2662000000 0.0104000000 0.2500000000  Biso 1.0 Ti 4 d

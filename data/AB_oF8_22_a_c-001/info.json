@@ -1,0 +1,22 @@
+{
+    "uid": "H691",
+    "prototype": "FeS",
+    "prototype_tex": "FeS",
+    "label": "AB_oF8_22_a_c-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a"
+    ],
+    "parameter_values": [
+        5.54,
+        0.990433,
+        0.937726
+    ],
+    "strukturbericht": null,
+    "title": "Low temperature FeS Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_oF8_22_a_c"
+}

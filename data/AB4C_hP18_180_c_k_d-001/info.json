@@ -1,0 +1,26 @@
+{
+    "uid": "QL18",
+    "prototype": "CeO4P",
+    "prototype_tex": "CeO$_{4}$P",
+    "label": "AB4C_hP18_180_c_k_d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        7.055,
+        0.912686,
+        0.446,
+        0.147,
+        0.36
+    ],
+    "strukturbericht": null,
+    "title": "Rhadophane (CePO$_{4}$) Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB4C_hP18_180_c_k_d-001"
+}

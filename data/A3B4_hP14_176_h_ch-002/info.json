@@ -1,0 +1,28 @@
+{
+    "uid": "FUM3",
+    "prototype": "Nb3Te4",
+    "prototype_tex": "Nb$_{3}$Te$_{4}$",
+    "label": "A3B4_hP14_176_h_ch-002",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "y2",
+        "x3",
+        "y3"
+    ],
+    "parameter_values": [
+        10.671,
+        0.341749,
+        0.4886,
+        0.1039,
+        0.3389,
+        0.2731
+    ],
+    "strukturbericht": null,
+    "title": "Nb$_{3}$Te$_{4}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B4_hP14_176_h_ch-002"
+}

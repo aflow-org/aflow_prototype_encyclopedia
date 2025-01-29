@@ -1,0 +1,26 @@
+{
+    "uid": "L0WX",
+    "prototype": "CuN3",
+    "prototype_tex": "CuN$_{3}$",
+    "label": "AB3_tI32_88_c_df-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        8.65,
+        0.646243,
+        0.173,
+        0.173,
+        0.875
+    ],
+    "strukturbericht": null,
+    "title": "Copper (I) Azide (CuN$_{3}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3_tI32_88_d_cf"
+}

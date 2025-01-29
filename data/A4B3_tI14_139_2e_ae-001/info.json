@@ -1,0 +1,26 @@
+{
+    "uid": "N44F",
+    "prototype": "Cu4Ti3",
+    "prototype_tex": "Cu$_{4}$Ti$_{3}$",
+    "label": "A4B3_tI14_139_2e_ae-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "z3",
+        "z4"
+    ],
+    "parameter_values": [
+        3.12,
+        6.39103,
+        0.43,
+        0.13,
+        0.29
+    ],
+    "strukturbericht": null,
+    "title": "Ti$_{3}$Cu$_{4}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4B3_tI14_139_2e_ae-001"
+}

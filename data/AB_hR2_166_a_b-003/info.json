@@ -1,0 +1,21 @@
+{
+    "uid": "HA1H",
+    "prototype": "HKS",
+    "prototype_tex": "HKS",
+    "label": "AB_hR2_166_a_b-003",
+    "parameter_symbol": [
+        "a",
+        "c/a"
+    ],
+    "parameter_values": [
+        4.95566,
+        2.01002
+    ],
+    "strukturbericht": "B22",
+    "title": "KSH ($B22$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$B22$",
+    "compounds": {},
+    "alias": "AB_hR2_166_a_b.KSH"
+}

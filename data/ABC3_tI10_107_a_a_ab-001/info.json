@@ -1,0 +1,28 @@
+{
+    "uid": "N3SR",
+    "prototype": "BaNiSn3",
+    "prototype_tex": "BaNiSn$_{3}$",
+    "label": "ABC3_tI10_107_a_a_ab-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3",
+        "z4"
+    ],
+    "parameter_values": [
+        4.82,
+        2.26763,
+        0.0,
+        0.6554,
+        0.4241,
+        0.2516
+    ],
+    "strukturbericht": null,
+    "title": "BaNiSn$_{3}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC3_tI10_107_a_a_ab"
+}

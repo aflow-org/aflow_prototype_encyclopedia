@@ -1,0 +1,32 @@
+{
+    "uid": "MHEM",
+    "prototype": "O2V",
+    "prototype_tex": "O$_{2}$V",
+    "label": "A2B_tI24_87_2h_h-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "y1",
+        "x2",
+        "y2",
+        "x3",
+        "y3"
+    ],
+    "parameter_values": [
+        8.476,
+        0.451156,
+        0.4995,
+        0.1528,
+        0.1601,
+        0.1601,
+        0.30024,
+        0.02453
+    ],
+    "strukturbericht": null,
+    "title": "High Temperature Metastable VO$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_tI24_87_2h_h-001"
+}

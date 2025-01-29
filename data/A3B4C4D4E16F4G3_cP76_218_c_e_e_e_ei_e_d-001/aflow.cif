@@ -1,0 +1,70 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Al6Ca2.4K1.6Na4O30S1.5Si6 hauyne S69
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A3B4C4D4E16F4G3_cP76_218_c_e_e_e_ei_e_d-001
+
+# Last updated on 2024/08/02
+
+data_Al6Ca8K8Na8O32S8Si6
+_pd_phase_name Al6Ca8K8Na8O32S8Si6
+_cell_length_a  9.1097000000
+_cell_length_b  9.1097000000
+_cell_length_c  9.1097000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P-43n'
+_symmetry_Int_Tables_Number  218
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  -x,y,-z
+  4  x,-y,-z
+  5  z,x,y
+  6  z,-x,-y
+  7  -z,-x,y
+  8  -z,x,-y
+  9  y,z,x
+  10  -y,z,-x
+  11  y,-z,-x
+  12  -y,-z,x
+  13  y+1/2,x+1/2,z+1/2
+  14  -y+1/2,-x+1/2,z+1/2
+  15  y+1/2,-x+1/2,-z+1/2
+  16  -y+1/2,x+1/2,-z+1/2
+  17  x+1/2,z+1/2,y+1/2
+  18  -x+1/2,z+1/2,-y+1/2
+  19  -x+1/2,-z+1/2,y+1/2
+  20  x+1/2,-z+1/2,-y+1/2
+  21  z+1/2,y+1/2,x+1/2
+  22  z+1/2,-y+1/2,-x+1/2
+  23  -z+1/2,y+1/2,-x+1/2
+  24  -z+1/2,-y+1/2,x+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Al1 1.0000000000 0.2500000000 0.5000000000 0.0000000000  Biso 1.0 Al 6 c
+Si8 1.0000000000 0.2500000000 0.0000000000 0.5000000000  Biso 1.0 Si 6 d
+Ca2 1.0000000000 0.2009000000 0.2009000000 0.2009000000  Biso 1.0 Ca 8 e
+K3 1.0000000000 0.1640000000 0.1640000000 0.1640000000  Biso 1.0 K 8 e
+Na4 1.0000000000 0.2392000000 0.2392000000 0.2392000000  Biso 1.0 Na 8 e
+O5 1.0000000000 0.0995000000 0.0995000000 0.0995000000  Biso 1.0 O 8 e
+S7 1.0000000000 0.9669000000 0.9669000000 0.9669000000  Biso 1.0 S 8 e
+O6 1.0000000000 0.6443000000 0.6558000000 0.9669000000  Biso 1.0 O 24 i

@@ -1,0 +1,22 @@
+{
+    "uid": "DG69",
+    "prototype": "S2SnTa",
+    "prototype_tex": "S$_{2}$SnTa",
+    "label": "A2BC_hP8_194_e_a_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3"
+    ],
+    "parameter_values": [
+        3.307,
+        5.27427,
+        0.16
+    ],
+    "strukturbericht": null,
+    "title": "SnTaS$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BC_hP8_194_e_a_c-001"
+}

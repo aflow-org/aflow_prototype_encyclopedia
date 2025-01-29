@@ -1,0 +1,28 @@
+{
+    "uid": "3BZX",
+    "prototype": "BaO3Ti",
+    "prototype_tex": "BaO$_{3}$Ti",
+    "label": "AB3C_tP5_99_b_ac_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3",
+        "z4"
+    ],
+    "parameter_values": [
+        3.986,
+        1.01004,
+        0.977,
+        0.515,
+        0.0,
+        0.486
+    ],
+    "strukturbericht": null,
+    "title": "Room Temperature Tetragonal BaTiO$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3C_tP5_99_b_ac_a-001"
+}

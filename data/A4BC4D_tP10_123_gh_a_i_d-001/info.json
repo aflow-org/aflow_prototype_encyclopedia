@@ -1,0 +1,26 @@
+{
+    "uid": "X7PG",
+    "prototype": "As4CaFe4Rb",
+    "prototype_tex": "As$_{4}$CaFe$_{4}$Rb",
+    "label": "A4BC4D_tP10_123_gh_a_i_d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4",
+        "z5"
+    ],
+    "parameter_values": [
+        3.8757,
+        3.38107,
+        0.3336,
+        0.1193,
+        0.2246
+    ],
+    "strukturbericht": null,
+    "title": "CaRbFe$_{4}$As$_{4}$ (Superconducting) Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4BC4D_tP10_123_gh_a_i_d"
+}

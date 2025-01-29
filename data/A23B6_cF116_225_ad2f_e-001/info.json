@@ -1,0 +1,25 @@
+{
+    "uid": "W8MF",
+    "prototype": "Mn23Th6",
+    "prototype_tex": "Mn$_{23}$Th$_{6}$",
+    "label": "A23B6_cF116_225_ad2f_e-001",
+    "parameter_symbol": [
+        "a",
+        "x3",
+        "x4",
+        "x5"
+    ],
+    "parameter_values": [
+        12.523,
+        0.703,
+        0.678,
+        0.878
+    ],
+    "strukturbericht": "D8_a",
+    "title": "Th$_{6}$Mn$_{23}$ ($D8_{a}$) Structure",
+    "part": 2,
+    "legacy": false,
+    "strukturbericht_tex": "$D8_{a}$",
+    "compounds": {},
+    "alias": "A23B6_cF116_225_bd2f_e"
+}

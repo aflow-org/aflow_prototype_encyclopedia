@@ -1,0 +1,34 @@
+{
+    "uid": "NEGW",
+    "prototype": "CN",
+    "prototype_tex": "CN",
+    "label": "AB_oP16_61_c_c-002",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "y1",
+        "z1",
+        "x2",
+        "y2",
+        "z2"
+    ],
+    "parameter_values": [
+        6.19,
+        1.14378,
+        1.01939,
+        0.09,
+        0.0483,
+        0.4673,
+        0.2386,
+        0.1271,
+        0.4143
+    ],
+    "strukturbericht": null,
+    "title": "Cyanogen [(CN)$_{2}$] Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_oP16_61_c_c-002"
+}

@@ -1,0 +1,25 @@
+{
+    "uid": "VHP8",
+    "prototype": "NiSSb",
+    "prototype_tex": "NiSSb",
+    "label": "ABC_cP12_198_a_a_a-001",
+    "parameter_symbol": [
+        "a",
+        "x1",
+        "x2",
+        "x3"
+    ],
+    "parameter_values": [
+        5.881,
+        0.976,
+        0.39,
+        0.625
+    ],
+    "strukturbericht": "F0_1",
+    "title": "Ullmanite (NiSSb, $F0_{1}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$F0_{1}$",
+    "compounds": {},
+    "alias": "ABC_cP12_198_a_a_a"
+}

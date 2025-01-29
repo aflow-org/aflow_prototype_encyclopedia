@@ -1,0 +1,38 @@
+{
+    "uid": "G353",
+    "prototype": "Ag2Se",
+    "prototype_tex": "Ag$_{2}$Se",
+    "label": "A2B_oP12_17_abe_e-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3",
+        "y3",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        7.05,
+        1.11348,
+        0.614184,
+        0.107,
+        0.122,
+        0.379,
+        0.225,
+        0.022,
+        0.202,
+        0.275,
+        0.522
+    ],
+    "strukturbericht": null,
+    "title": "$\\alpha$-Naumannite (Ag$_{2}$Se) Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_oP12_17_abe_e"
+}

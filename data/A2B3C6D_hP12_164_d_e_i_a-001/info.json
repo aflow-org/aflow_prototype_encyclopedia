@@ -1,0 +1,26 @@
+{
+    "uid": "K216",
+    "prototype": "Cl2Cu3(OH)6Zn",
+    "prototype_tex": "Cl$_{2}$Cu$_{3}$(OH)$_{6}$Zn",
+    "label": "A2B3C6D_hP12_164_d_e_i_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        6.3,
+        0.91,
+        0.6373,
+        0.1772,
+        0.1546
+    ],
+    "strukturbericht": null,
+    "title": "Kapellasite (Cu$_{3}$Zn(OH)$_{6}$Cl$_{2}$) Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B3C6D_hP12_164_d_e_i_a-001"
+}

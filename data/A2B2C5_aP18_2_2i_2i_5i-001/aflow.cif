@@ -1,0 +1,49 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  B2Co2O5
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A2B2C5_aP18_2_2i_2i_5i-001
+
+# Last updated on 2024/08/01
+
+data_B4Co4O10
+_pd_phase_name B4Co4O10
+_cell_length_a  3.1600000000
+_cell_length_b  5.9400000000
+_cell_length_c  8.9500000000
+_cell_angle_alpha  103.9000000000
+_cell_angle_beta  91.0000000000
+_cell_angle_gamma  92.0000000000
+_symmetry_space_group_name_H-M  'P-1'
+_symmetry_Int_Tables_Number  2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+B1 1.0000000000 0.6700000000 0.6700000000 0.3400000000  Biso 1.0 B 2 i
+B2 1.0000000000 0.3600000000 0.8800000000 0.1700000000  Biso 1.0 B 2 i
+Co3 1.0000000000 0.7430000000 0.2130000000 0.3600000000  Biso 1.0 Co 2 i
+Co4 1.0000000000 0.2450000000 0.3740000000 0.1000000000  Biso 1.0 Co 2 i
+O5 1.0000000000 0.2440000000 0.7090000000 0.0540000000  Biso 1.0 O 2 i
+O6 1.0000000000 0.2080000000 0.0920000000 0.1900000000  Biso 1.0 O 2 i
+O7 1.0000000000 0.7350000000 0.4760000000 0.2490000000  Biso 1.0 O 2 i
+O8 1.0000000000 0.5620000000 0.8420000000 0.2880000000  Biso 1.0 O 2 i
+O9 1.0000000000 0.7700000000 0.6980000000 0.4890000000  Biso 1.0 O 2 i

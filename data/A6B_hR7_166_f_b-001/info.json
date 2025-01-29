@@ -1,0 +1,22 @@
+{
+    "uid": "N45M",
+    "prototype": "CaC6",
+    "prototype_tex": "CaC$_{6}$",
+    "label": "A6B_hR7_166_f_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2"
+    ],
+    "parameter_values": [
+        4.33304,
+        3.13251,
+        0.66667
+    ],
+    "strukturbericht": null,
+    "title": "CaC$_{6}$ Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A6B_hR7_166_g_a"
+}

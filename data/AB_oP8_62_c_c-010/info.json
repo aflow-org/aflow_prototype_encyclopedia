@@ -1,0 +1,31 @@
+{
+    "uid": "4N6D",
+    "prototype": "NiSi",
+    "prototype_tex": "NiSi",
+    "label": "AB_oP8_62_c_c-010",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "z1",
+        "x2",
+        "z2"
+    ],
+    "parameter_values": [
+        5.18,
+        0.644788,
+        1.08494,
+        0.006,
+        0.184,
+        0.67,
+        0.92
+    ],
+    "strukturbericht": "B_d",
+    "title": "$\\eta$-NiSi ($B_{d}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$B_{d}$",
+    "compounds": {},
+    "alias": "AB_oP8_62_c_c.NiSi"
+}

@@ -1,0 +1,24 @@
+{
+    "uid": "AFH9",
+    "prototype": "BCTh2",
+    "prototype_tex": "BCTh$_{2}$",
+    "label": "A2BC_hR12_166_g_d_ac-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x4"
+    ],
+    "parameter_values": [
+        6.67606,
+        1.70399,
+        0.3142,
+        0.7767
+    ],
+    "strukturbericht": null,
+    "title": "ThB$_{2}$C Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BC_hR12_166_g_d_ac-001"
+}

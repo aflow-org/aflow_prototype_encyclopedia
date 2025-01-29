@@ -1,0 +1,24 @@
+{
+    "uid": "P6JF",
+    "prototype": "CeIn7Pt2",
+    "prototype_tex": "CeIn$_{7}$Pt$_{2}$",
+    "label": "AB7C2_tI20_139_a_bdg_e-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z4",
+        "z5"
+    ],
+    "parameter_values": [
+        4.6093,
+        4.69204,
+        0.3258,
+        0.1082
+    ],
+    "strukturbericht": null,
+    "title": "CePt$_{2}$In$_{7}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB7C2_tI20_139_a_bdg_e-001"
+}

@@ -1,0 +1,25 @@
+{
+    "uid": "TZEN",
+    "prototype": "Al2Ca3O6",
+    "prototype_tex": "Al$_{2}$Ca$_{3}$O$_{6}$",
+    "label": "A2B3C6_cP33_221_cd_ag_fh-001",
+    "parameter_symbol": [
+        "a",
+        "x4",
+        "x5",
+        "x6"
+    ],
+    "parameter_values": [
+        7.624,
+        0.3,
+        0.2,
+        0.2
+    ],
+    "strukturbericht": "E9_1",
+    "title": "Ca$_{3}$Al$_{2}$O$_{6}$ ($E9_{1}$) Structure",
+    "part": 2,
+    "legacy": false,
+    "strukturbericht_tex": "$E9_{1}$",
+    "compounds": {},
+    "alias": "A2B3C6_cP33_221_cd_ag_fh"
+}

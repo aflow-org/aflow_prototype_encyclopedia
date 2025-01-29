@@ -1,0 +1,34 @@
+{
+    "uid": "KA1Q",
+    "prototype": "AlF5Tl2",
+    "prototype_tex": "AlF$_{5}$Tl$_{2}$",
+    "label": "AB5C2_oC32_63_a_cef_g-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y2",
+        "x3",
+        "y4",
+        "z4",
+        "x5",
+        "y5"
+    ],
+    "parameter_values": [
+        10.06,
+        0.819085,
+        0.741551,
+        0.05,
+        0.82,
+        0.23,
+        0.97,
+        0.21,
+        0.3
+    ],
+    "strukturbericht": null,
+    "title": "Refined Tl$_{2}$AlF$_{5}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB5C2_oC32_63_a_cef_g"
+}

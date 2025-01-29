@@ -1,0 +1,36 @@
+{
+    "uid": "8E60",
+    "prototype": "CrO3",
+    "prototype_tex": "CrO$_{3}$",
+    "label": "AB3_oC16_40_b_a2b-002",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z1",
+        "y2",
+        "z2",
+        "y3",
+        "z3",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        5.743,
+        1.542,
+        0.833885,
+        0.444,
+        0.097,
+        0.306,
+        0.278,
+        0.5,
+        0.222,
+        0.0
+    ],
+    "strukturbericht": null,
+    "title": "Orthorhombic CrO$_{3}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3_oC16_40_b_a2b"
+}

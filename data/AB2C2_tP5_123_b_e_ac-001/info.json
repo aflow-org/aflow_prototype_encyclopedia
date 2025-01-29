@@ -1,0 +1,20 @@
+{
+    "uid": "8ZWP",
+    "prototype": "CCo2Mn2",
+    "prototype_tex": "CCo$_{2}$Mn$_{2}$",
+    "label": "AB2C2_tP5_123_b_e_ac-001",
+    "parameter_symbol": [
+        "a",
+        "c/a"
+    ],
+    "parameter_values": [
+        3.786,
+        1.0
+    ],
+    "strukturbericht": null,
+    "title": "Mn$_{2}$Co$_{2}$C Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2C2_tP5_123_b_e_ac-001"
+}

@@ -1,0 +1,54 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  B4CsFO6
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A4BCD6_oP48_33_4a_a_a_6a-001
+
+# Last updated on 2024/08/01
+
+data_B16Cs4F4O24
+_pd_phase_name B16Cs4F4O24
+_cell_length_a  7.9241000000
+_cell_length_b  11.3996000000
+_cell_length_c  6.6638000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pna2_{1}'
+_symmetry_Int_Tables_Number  33
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z+1/2
+  3  x+1/2,-y+1/2,z
+  4  -x+1/2,y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+B1 1.0000000000 0.2971000000 0.5446000000 0.6555000000  Biso 1.0 B 4 a
+B2 1.0000000000 0.2977000000 0.5006000000 0.0044000000  Biso 1.0 B 4 a
+B3 1.0000000000 0.2304000000 0.2003000000 0.3942000000  Biso 1.0 B 4 a
+B4 1.0000000000 0.2327000000 0.4189000000 0.3480000000  Biso 1.0 B 4 a
+Cs5 1.0000000000 0.4958400000 0.2211700000 0.8520000000  Biso 1.0 Cs 4 a
+F6 1.0000000000 0.0566000000 0.4371000000 0.3269000000  Biso 1.0 F 4 a
+O10 1.0000000000 0.2626000000 0.3109000000 0.4526000000  Biso 1.0 O 4 a
+O11 1.0000000000 0.3038000000 0.4165000000 0.1445000000  Biso 1.0 O 4 a
+O12 1.0000000000 0.2784000000 0.6167000000 0.0497000000  Biso 1.0 O 4 a
+O7 1.0000000000 0.3060000000 0.4658000000 0.8049000000  Biso 1.0 O 4 a
+O8 1.0000000000 0.2888000000 0.6655000000 0.7010000000  Biso 1.0 O 4 a
+O9 1.0000000000 0.3000000000 0.5194000000 0.4588000000  Biso 1.0 O 4 a

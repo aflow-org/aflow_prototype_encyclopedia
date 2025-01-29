@@ -1,0 +1,27 @@
+{
+    "uid": "Y9T0",
+    "prototype": "CaO4W",
+    "prototype_tex": "CaO$_{4}$W",
+    "label": "AB4C_tI24_88_a_f_b-003",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        5.2429,
+        2.16935,
+        0.6488,
+        0.5038,
+        0.2159
+    ],
+    "strukturbericht": "H0_4",
+    "title": "Scheelite (CaWO$_{4}$, $H0_{4}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$H0_{4}$",
+    "compounds": {},
+    "alias": "AB4C_tI24_88_b_f_a"
+}

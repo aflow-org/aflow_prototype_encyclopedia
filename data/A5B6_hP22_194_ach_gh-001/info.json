@@ -1,0 +1,24 @@
+{
+    "uid": "09JW",
+    "prototype": "Sn5Ti6",
+    "prototype_tex": "Sn$_{5}$Ti$_{6}$",
+    "label": "A5B6_hP22_194_ach_gh-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x4",
+        "x5"
+    ],
+    "parameter_values": [
+        9.22,
+        0.617137,
+        0.795,
+        0.165
+    ],
+    "strukturbericht": null,
+    "title": "Hexagonal Ti$_{6}$Sn$_{5}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A5B6_hP22_194_ach_gh-001"
+}

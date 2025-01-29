@@ -1,0 +1,27 @@
+{
+    "uid": "1Q6T",
+    "prototype": "MnU6",
+    "prototype_tex": "MnU$_{6}$",
+    "label": "AB6_tI28_140_a_hk-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3",
+        "y3"
+    ],
+    "parameter_values": [
+        10.29,
+        0.509232,
+        0.4068,
+        0.2141,
+        0.1021
+    ],
+    "strukturbericht": "D2_c",
+    "title": "U$_{6}$Mn ($D2_{c}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$D2_{c}$",
+    "compounds": {},
+    "alias": "AB6_tI28_140_a_hk"
+}

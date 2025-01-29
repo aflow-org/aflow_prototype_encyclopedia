@@ -1,0 +1,32 @@
+{
+    "uid": "MZYC",
+    "prototype": "Ba2Cu3O7-xY",
+    "prototype_tex": "Ba$_{2}$Cu$_{3}$O$_{7-x}$Y",
+    "label": "A2B3C7D_oP13_47_k_cj_aijl_f-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x4",
+        "x5",
+        "x6",
+        "x7",
+        "x8"
+    ],
+    "parameter_values": [
+        11.6687,
+        0.32726,
+        0.332796,
+        0.3771,
+        0.3554,
+        0.1579,
+        0.1844,
+        0.3788
+    ],
+    "strukturbericht": null,
+    "title": "1212C [YBa$_{2}$Cu$_{3}$O$_{7-x}$] High-$T_{c}$ Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B3C7D_oP13_47_t_aq_eqrs_h"
+}

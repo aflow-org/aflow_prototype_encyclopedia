@@ -1,0 +1,24 @@
+{
+    "uid": "4RP0",
+    "prototype": "Ga2Te5",
+    "prototype_tex": "Ga$_{2}$Te$_{5}$",
+    "label": "A2B5_tI14_87_d_ah-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "y3"
+    ],
+    "parameter_values": [
+        7.913,
+        0.865411,
+        0.1904,
+        0.3318
+    ],
+    "strukturbericht": null,
+    "title": "Ga$_{2}$Te$_{5}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B5_tI14_87_d_ah-001"
+}

@@ -1,0 +1,40 @@
+{
+    "uid": "4QQ6",
+    "prototype": "O2Te",
+    "prototype_tex": "O$_{2}$Te",
+    "label": "A2B_oP12_18_2c_c-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "y1",
+        "z1",
+        "x2",
+        "y2",
+        "z2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        4.898,
+        1.75092,
+        0.888322,
+        0.759,
+        0.281,
+        0.173,
+        0.855,
+        0.036,
+        0.727,
+        0.9696,
+        0.1016,
+        0.1358
+    ],
+    "strukturbericht": null,
+    "title": "$\\gamma$-TeO$_{2}$ Structure ({\\em Erroneous})",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_oP12_18_2c_c"
+}

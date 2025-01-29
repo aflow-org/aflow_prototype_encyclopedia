@@ -1,0 +1,76 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Al2Ca3O6
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A2B3C6_cP264_205_2d_ab2c2d_6d-001
+
+# Last updated on 2024/08/01
+
+data_Al48Ca72O144
+_pd_phase_name Al48Ca72O144
+_cell_length_a  15.2630000000
+_cell_length_b  15.2630000000
+_cell_length_c  15.2630000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pa-3'
+_symmetry_Int_Tables_Number  205
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z+1/2
+  3  -x,y+1/2,-z+1/2
+  4  x+1/2,-y+1/2,-z
+  5  z,x,y
+  6  z+1/2,-x+1/2,-y
+  7  -z+1/2,-x,y+1/2
+  8  -z,x+1/2,-y+1/2
+  9  y,z,x
+  10  -y,z+1/2,-x+1/2
+  11  y+1/2,-z+1/2,-x
+  12  -y+1/2,-z,x+1/2
+  13  -x,-y,-z
+  14  x+1/2,y,-z+1/2
+  15  x,-y+1/2,z+1/2
+  16  -x+1/2,y+1/2,z
+  17  -z,-x,-y
+  18  -z+1/2,x+1/2,y
+  19  z+1/2,x,-y+1/2
+  20  z,-x+1/2,y+1/2
+  21  -y,-z,-x
+  22  y,-z+1/2,x+1/2
+  23  -y+1/2,z+1/2,x
+  24  y+1/2,z,-x+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Ca3 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Ca 4 a
+Ca4 1.0000000000 0.5000000000 0.5000000000 0.5000000000  Biso 1.0 Ca 4 b
+Ca5 1.0000000000 0.2561000000 0.2561000000 0.2561000000  Biso 1.0 Ca 8 c
+Ca6 1.0000000000 0.3750000000 0.3750000000 0.3750000000  Biso 1.0 Ca 8 c
+Al1 1.0000000000 0.2526000000 0.0133000000 0.0197000000  Biso 1.0 Al 24 d
+Al2 1.0000000000 0.2444000000 0.2335000000 0.0046000000  Biso 1.0 Al 24 d
+Ca7 1.0000000000 0.1386000000 0.3763000000 0.1272000000  Biso 1.0 Ca 24 d
+Ca8 1.0000000000 0.3800000000 0.3838000000 0.1209000000  Biso 1.0 Ca 24 d
+O10 1.0000000000 0.4835000000 0.1315000000 0.2536000000  Biso 1.0 O 24 d
+O11 1.0000000000 0.2664000000 0.2841000000 0.1049000000  Biso 1.0 O 24 d
+O12 1.0000000000 0.2350000000 0.4047000000 0.2921000000  Biso 1.0 O 24 d
+O13 1.0000000000 0.3491000000 0.9615000000 0.8926000000  Biso 1.0 O 24 d
+O14 1.0000000000 0.1509000000 0.9896000000 0.9758000000  Biso 1.0 O 24 d
+O9 1.0000000000 0.2777000000 0.1241000000 0.0103000000  Biso 1.0 O 24 d

@@ -1,0 +1,40 @@
+{
+    "uid": "ASFW",
+    "prototype": "NSr",
+    "prototype_tex": "NSr",
+    "label": "AB_mC16_12_2i_2i-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        13.472,
+        0.282965,
+        1.15396,
+        154.448,
+        0.0071,
+        0.2513,
+        0.8947,
+        0.917,
+        0.4533,
+        0.6074,
+        0.5517,
+        0.9078
+    ],
+    "strukturbericht": null,
+    "title": "SrN Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_mC16_12_2i_2i-001"
+}

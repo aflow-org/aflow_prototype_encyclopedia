@@ -1,0 +1,36 @@
+{
+    "uid": "LNCX",
+    "prototype": "HO2Y",
+    "prototype_tex": "HO$_{2}$Y",
+    "label": "ABC_mP6_11_e_e_e-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "z3"
+    ],
+    "parameter_values": [
+        4.28,
+        0.848131,
+        1.38428,
+        70.6328,
+        0.229,
+        0.552,
+        0.252,
+        0.058,
+        0.669,
+        0.688
+    ],
+    "strukturbericht": null,
+    "title": "YO(OH) Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC_mP6_11_e_e_e"
+}

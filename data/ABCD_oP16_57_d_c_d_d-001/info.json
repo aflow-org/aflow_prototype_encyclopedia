@@ -1,0 +1,37 @@
+{
+    "uid": "K4A8",
+    "prototype": "CKNS",
+    "prototype_tex": "CKNS",
+    "label": "ABCD_oP16_57_d_c_d_d-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "x2",
+        "y2",
+        "x3",
+        "y3",
+        "x4",
+        "y4"
+    ],
+    "parameter_values": [
+        6.707,
+        0.997614,
+        1.13628,
+        0.208,
+        0.7704,
+        0.2871,
+        0.889,
+        0.4154,
+        0.605,
+        0.1087
+    ],
+    "strukturbericht": "F5_9",
+    "title": "KNCS ($F5_{9}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$F5_{9}$",
+    "compounds": {},
+    "alias": "ABCD_oP16_57_d_c_d_d"
+}

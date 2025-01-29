@@ -1,0 +1,30 @@
+{
+    "uid": "3BFR",
+    "prototype": "Na",
+    "prototype_tex": "Na",
+    "label": "A_oP8_62_2c-002",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "z1",
+        "x2",
+        "z2"
+    ],
+    "parameter_values": [
+        4.765,
+        0.633788,
+        1.10199,
+        0.015,
+        0.18,
+        0.164,
+        0.586
+    ],
+    "strukturbericht": null,
+    "title": "High-Pressure oP8 Sodium Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A_oP8_62_2c-002"
+}

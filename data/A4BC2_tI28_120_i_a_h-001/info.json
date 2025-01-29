@@ -1,0 +1,28 @@
+{
+    "uid": "KAKD",
+    "prototype": "Au4KSn4",
+    "prototype_tex": "Au$_{4}$KSn$_{4}$",
+    "label": "A4BC2_tI28_120_i_a_h-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        8.84,
+        0.924208,
+        0.856,
+        0.1452,
+        0.6575,
+        0.3351
+    ],
+    "strukturbericht": null,
+    "title": "KAu$_{4}$Sn$_{2}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4BC2_tI28_120_i_d_e"
+}

@@ -1,0 +1,28 @@
+{
+    "uid": "3HHF",
+    "prototype": "O8Te3Zr",
+    "prototype_tex": "O$_{8}$Te$_{3}$Zr",
+    "label": "A8B3C_cI96_206_ce_d_a-001",
+    "parameter_symbol": [
+        "a",
+        "x2",
+        "x3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        11.308,
+        0.1707,
+        0.20642,
+        0.1035,
+        0.0621,
+        0.362
+    ],
+    "strukturbericht": null,
+    "title": "ZrTe$_{3}$O$_{8}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A8B3C_cI96_206_ce_d_a-001"
+}

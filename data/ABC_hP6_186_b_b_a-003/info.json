@@ -1,0 +1,26 @@
+{
+    "uid": "ZZ7U",
+    "prototype": "GaGeLi",
+    "prototype_tex": "GaGeLi",
+    "label": "ABC_hP6_186_b_b_a-003",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3"
+    ],
+    "parameter_values": [
+        4.17,
+        1.6259,
+        0.24,
+        0.05,
+        0.44
+    ],
+    "strukturbericht": null,
+    "title": "LiGaGe Crystal Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC_hP6_186_b_b_a-003"
+}

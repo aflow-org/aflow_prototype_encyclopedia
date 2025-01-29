@@ -1,0 +1,28 @@
+{
+    "uid": "A0VJ",
+    "prototype": "CoNb3S6",
+    "prototype_tex": "CoNb$_{3}$S$_{6}$",
+    "label": "AB3C6_hP20_182_c_af_i-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        5.768,
+        2.06068,
+        0.5013,
+        0.332583,
+        0.000746667,
+        0.3678
+    ],
+    "strukturbericht": null,
+    "title": "CoNb$_{3}$S$_{6}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3C6_hP20_182_c_af_i-001"
+}

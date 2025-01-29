@@ -1,0 +1,25 @@
+{
+    "uid": "A3TK",
+    "prototype": "HgS",
+    "prototype_tex": "HgS",
+    "label": "AB_hP6_154_a_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2"
+    ],
+    "parameter_values": [
+        4.145,
+        2.29095,
+        0.7198,
+        0.4889
+    ],
+    "strukturbericht": "B9",
+    "title": "Cinnabar (HgS, $B9$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$B9$",
+    "compounds": {},
+    "alias": "AB_hP6_154_a_b"
+}

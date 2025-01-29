@@ -1,0 +1,26 @@
+{
+    "uid": "L1EN",
+    "prototype": "Al20Ni3Ru5",
+    "prototype_tex": "Al$_{20}$Ni$_{3}$Ru$_{5}$",
+    "label": "A23B2C6_cP31_200_cij_ab_f-001",
+    "parameter_symbol": [
+        "a",
+        "x4",
+        "x5",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        7.7088,
+        0.7966,
+        0.684,
+        0.825,
+        0.7035
+    ],
+    "strukturbericht": null,
+    "title": "C-AlRuNi (Al$_{20}$Ni$_{3}$Ru$_{5}$) Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A23B2C6_cP31_200_cij_ab_f-001"
+}

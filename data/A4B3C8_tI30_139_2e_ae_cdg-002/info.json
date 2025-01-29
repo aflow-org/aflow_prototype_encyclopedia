@@ -1,0 +1,28 @@
+{
+    "uid": "W8GW",
+    "prototype": "Nd4Ni3O8",
+    "prototype_tex": "Nd$_{4}$Ni$_{3}$O$_{8}$",
+    "label": "A4B3C8_tI30_139_2e_ae_cdg-002",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z4",
+        "z5",
+        "z6",
+        "z7"
+    ],
+    "parameter_values": [
+        3.9146,
+        6.46163,
+        0.4343,
+        0.2982,
+        0.1244,
+        0.1262
+    ],
+    "strukturbericht": null,
+    "title": "Nd$_{4}$Ni$_{3}$O$_{8}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4B3C8_tI30_139_2e_ae_cdg-002"
+}

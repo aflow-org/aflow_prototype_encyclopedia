@@ -1,0 +1,20 @@
+{
+    "uid": "X2Q7",
+    "prototype": "Bi2O3",
+    "prototype_tex": "Bi$_{2}$O$_{3}$",
+    "label": "AB8_cF36_225_a_f-001",
+    "parameter_symbol": [
+        "a",
+        "x2"
+    ],
+    "parameter_values": [
+        5.6595,
+        0.316
+    ],
+    "strukturbericht": null,
+    "title": "$\\delta$-Bi$_{2}$O$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB8_cF36_225_a_f-001"
+}

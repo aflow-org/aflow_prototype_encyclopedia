@@ -1,0 +1,28 @@
+{
+    "uid": "6BKE",
+    "prototype": "O2Te",
+    "prototype_tex": "O$_{2}$Te",
+    "label": "A2B_tP12_92_b_a-002",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "y2",
+        "z2"
+    ],
+    "parameter_values": [
+        4.8082,
+        1.60393,
+        0.0268,
+        0.1386,
+        0.2576,
+        0.1862
+    ],
+    "strukturbericht": null,
+    "title": "Paratellurite ($\\alpha$TeO$_{2}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_tP12_92_b_a.TeO2"
+}

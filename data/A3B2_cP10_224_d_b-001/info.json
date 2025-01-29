@@ -1,0 +1,19 @@
+{
+    "uid": "LQ7A",
+    "prototype": "Mg3P2",
+    "prototype_tex": "Mg$_{3}$P$_{2}$",
+    "label": "A3B2_cP10_224_d_b-001",
+    "parameter_symbol": [
+        "a"
+    ],
+    "parameter_values": [
+        5.9121
+    ],
+    "strukturbericht": "D5_5",
+    "title": "Mg$_{3}$P$_{2}$ ($D5_{5}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$D5_{5}$",
+    "compounds": {},
+    "alias": "A3B2_cP10_224_d_b"
+}

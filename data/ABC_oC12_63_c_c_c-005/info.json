@@ -1,0 +1,28 @@
+{
+    "uid": "XSM0",
+    "prototype": "AlBMo",
+    "prototype_tex": "AlBMo",
+    "label": "ABC_oC12_63_c_c_c-005",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y1",
+        "y2",
+        "y3"
+    ],
+    "parameter_values": [
+        3.1987,
+        4.35233,
+        0.967174,
+        0.19849,
+        0.0338,
+        0.41052
+    ],
+    "strukturbericht": null,
+    "title": "MoAlB Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC_oC12_63_c_c_c-005"
+}

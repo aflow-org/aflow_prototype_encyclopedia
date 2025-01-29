@@ -1,0 +1,26 @@
+{
+    "uid": "V3JJ",
+    "prototype": "Ga2Zr",
+    "prototype_tex": "Ga$_{2}$Zr",
+    "label": "A2B_oC12_65_acg_h-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x3",
+        "x4"
+    ],
+    "parameter_values": [
+        12.894,
+        0.309756,
+        0.319761,
+        0.676,
+        0.851
+    ],
+    "strukturbericht": null,
+    "title": "Ga$_{2}$Zr Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_oC12_65_acg_h-001"
+}

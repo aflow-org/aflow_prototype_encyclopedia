@@ -1,0 +1,32 @@
+{
+    "uid": "YGNT",
+    "prototype": "Cu10Sn3",
+    "prototype_tex": "Cu$_{10}$Sn$_{3}$",
+    "label": "A10B3_hP26_176_bcfi_h-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "x4",
+        "y4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        7.33,
+        1.07367,
+        0.593,
+        0.987,
+        0.682,
+        0.666,
+        0.031,
+        0.58
+    ],
+    "strukturbericht": null,
+    "title": "$\\zeta$-Cu$_{10}$Sn$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A10B3_hP26_176_bcfi_h-001"
+}

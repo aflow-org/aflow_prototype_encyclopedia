@@ -1,0 +1,27 @@
+{
+    "uid": "V77F",
+    "prototype": "COS",
+    "prototype_tex": "COS",
+    "label": "ABC_hR3_160_a_a_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3"
+    ],
+    "parameter_values": [
+        6.1703,
+        0.949909,
+        0.0,
+        0.20644,
+        0.74237
+    ],
+    "strukturbericht": "F0_2",
+    "title": "Carbonyl Sulphide (COS, F0$_{2}$) Structure",
+    "part": 2,
+    "legacy": false,
+    "strukturbericht_tex": "$F0_{2}$",
+    "compounds": {},
+    "alias": "ABC_hR3_160_a_a_a"
+}

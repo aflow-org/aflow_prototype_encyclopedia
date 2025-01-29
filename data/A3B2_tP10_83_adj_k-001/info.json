@@ -1,0 +1,28 @@
+{
+    "uid": "FCWX",
+    "prototype": "Ga3Ti2",
+    "prototype_tex": "Ga$_{3}$Ti$_{2}$",
+    "label": "A3B2_tP10_83_adj_k-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "y3",
+        "x4",
+        "y4"
+    ],
+    "parameter_values": [
+        6.284,
+        0.638129,
+        0.686,
+        0.891,
+        0.809,
+        0.625
+    ],
+    "strukturbericht": null,
+    "title": "Ti$_{2}$Ga$_{3}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B2_tP10_83_adk_j"
+}

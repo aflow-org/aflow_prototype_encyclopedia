@@ -1,0 +1,34 @@
+{
+    "uid": "Y4EE",
+    "prototype": "N4Si3",
+    "prototype_tex": "N$_{4}$Si$_{3}$",
+    "label": "A4B3_hP14_173_bc_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "x2",
+        "y2",
+        "z2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        7.603,
+        0.382612,
+        0.0,
+        0.3284,
+        0.0313,
+        0.05,
+        0.2314,
+        0.4063,
+        0.013
+    ],
+    "strukturbericht": null,
+    "title": "$\\beta$-Si$_{3}$N$_{4}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4B3_hP14_173_bc_c"
+}

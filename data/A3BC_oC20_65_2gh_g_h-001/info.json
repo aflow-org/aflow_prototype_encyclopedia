@@ -1,0 +1,32 @@
+{
+    "uid": "Q3JB",
+    "prototype": "Ge3NiSm",
+    "prototype_tex": "Ge$_{3}$NiSm",
+    "label": "A3BC_oC20_65_2gh_g_h-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3",
+        "x4",
+        "x5"
+    ],
+    "parameter_values": [
+        21.645,
+        0.188605,
+        0.185516,
+        0.7163,
+        -0.0568,
+        0.6095,
+        0.5568,
+        0.8317
+    ],
+    "strukturbericht": null,
+    "title": "SmNiGe$_{3}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3BC_oC20_65_2gh_g_h-001"
+}

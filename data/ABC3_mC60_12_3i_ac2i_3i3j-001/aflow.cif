@@ -1,0 +1,59 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition: , BaIrO3 (ground state)
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/ABC3_mC60_12_3i_ac2i_3i3j-001
+
+# Last updated on 2024/07/16
+
+data_ABC3_mC60_12_3i_ac2i_3i3j-001
+_pd_phase_name ABC3_mC60_12_3i_ac2i_3i3j-001
+_cell_length_a  10.0052000000
+_cell_length_b  5.7514000000
+_cell_length_c  20.0019746980
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  132.4075254996
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'C2/m'
+_symmetry_Int_Tables_Number  12
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y,-z
+  3  -x,-y,-z
+  4  x,-y,z
+  5  x+1/2,y+1/2,z
+  6  -x+1/2,y+1/2,-z
+  7  -x+1/2,-y+1/2,-z
+  8  x+1/2,-y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Ir1 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Ir 2 a
+Ir2 1.0000000000 0.0000000000 0.0000000000 0.5000000000  Biso 1.0 Ir 2 c
+Ba3 1.0000000000 0.9730700000 0.0000000000 0.7510200000  Biso 1.0 Ba 4 i
+Ba4 1.0000000000 0.5577200000 0.0000000000 0.9265700000  Biso 1.0 Ba 4 i
+Ba5 1.0000000000 0.4274900000 0.0000000000 0.5771900000  Biso 1.0 Ba 4 i
+Ir6 1.0000000000 0.7384800000 0.0000000000 0.8235900000  Biso 1.0 Ir 4 i
+Ir7 1.0000000000 0.2096900000 0.0000000000 0.6772400000  Biso 1.0 Ir 4 i
+O8  1.0000000000 0.4857000000 0.0000000000 0.7705000000  Biso 1.0 O  4 i
+O9  1.0000000000 0.0091000000 0.0000000000 0.9010000000  Biso 1.0 O  4 i
+O10 1.0000000000 0.9359000000 0.0000000000 0.5766000000  Biso 1.0 O  4 i
+O11 1.0000000000 0.1854000000 0.7460000000 0.7381000000  Biso 1.0 O  8 j
+O12 1.0000000000 0.8025000000 0.2350000000 0.9176000000  Biso 1.0 O  8 j
+O13 1.0000000000 0.1913000000 0.2314000000 0.5953000000  Biso 1.0 O  8 j

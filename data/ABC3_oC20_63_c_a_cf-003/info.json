@@ -1,0 +1,30 @@
+{
+    "uid": "2T8B",
+    "prototype": "AsCV3",
+    "prototype_tex": "AsCV$_{3}$",
+    "label": "ABC3_oC20_63_c_a_cf-003",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y2",
+        "y3",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        3.128,
+        3.24169,
+        2.46132,
+        0.256,
+        0.952,
+        0.6283,
+        0.052
+    ],
+    "strukturbericht": null,
+    "title": "V$_{3}$AsC Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC3_oC20_63_c_b_cf"
+}

@@ -1,0 +1,38 @@
+{
+    "uid": "K70X",
+    "prototype": "Mg3O6Te",
+    "prototype_tex": "Mg$_{3}$O$_{6}$Te",
+    "label": "A3B6C_hR20_148_f_2f_ab-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "y3",
+        "z3",
+        "x4",
+        "y4",
+        "z4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        8.61498,
+        1.19733,
+        0.9366,
+        0.4461,
+        0.7517,
+        0.9261,
+        0.2998,
+        0.0684,
+        0.4564,
+        0.8013,
+        0.5909
+    ],
+    "strukturbericht": null,
+    "title": "Mg$_{3}$TeO$_{6}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B6C_hR20_148_f_2f_ab-001"
+}

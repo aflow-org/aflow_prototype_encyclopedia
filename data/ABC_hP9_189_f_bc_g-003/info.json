@@ -1,0 +1,24 @@
+{
+    "uid": "0T4U",
+    "prototype": "AlNiZr",
+    "prototype_tex": "AlNiZr",
+    "label": "ABC_hP9_189_f_bc_g-003",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "x4"
+    ],
+    "parameter_values": [
+        6.9156,
+        0.501793,
+        0.59354,
+        0.2491
+    ],
+    "strukturbericht": null,
+    "title": "ZrNiAl Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC_hP9_189_g_ad_f"
+}

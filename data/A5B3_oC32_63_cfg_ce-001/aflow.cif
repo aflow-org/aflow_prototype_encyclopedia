@@ -1,0 +1,59 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Pd5Pu3
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A5B3_oC32_63_cfg_ce-001
+
+# Last updated on 2024/08/01
+
+data_Pd20Pu12
+_pd_phase_name Pd20Pu12
+_cell_length_a  9.2010100000
+_cell_length_b  7.1950000000
+_cell_length_c  9.7710000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Cmcm'
+_symmetry_Int_Tables_Number  63
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z+1/2
+  3  -x,y,-z+1/2
+  4  x,-y,-z
+  5  -x,-y,-z
+  6  x,y,-z+1/2
+  7  x,-y,z+1/2
+  8  -x,y,z
+  9  x+1/2,y+1/2,z
+  10  -x+1/2,-y+1/2,z+1/2
+  11  -x+1/2,y+1/2,-z+1/2
+  12  x+1/2,-y+1/2,-z
+  13  -x+1/2,-y+1/2,-z
+  14  x+1/2,y+1/2,-z+1/2
+  15  x+1/2,-y+1/2,z+1/2
+  16  -x+1/2,y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Pd1 1.0000000000 -0.0000000000 0.0254000000 0.2500000000  Biso 1.0 Pd 4 c
+Pu4 1.0000000000 -0.0000000000 0.6251000000 0.2500000000  Biso 1.0 Pu 4 c
+Pu5 1.0000000000 0.2018000000 0.0000000000 0.0000000000  Biso 1.0 Pu 8 e
+Pd2 1.0000000000 -0.0000000000 0.3147000000 0.4510000000  Biso 1.0 Pd 8 f
+Pd3 1.0000000000 0.2219000000 0.2863000000 0.2500000000  Biso 1.0 Pd 8 g

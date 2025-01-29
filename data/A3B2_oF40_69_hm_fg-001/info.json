@@ -1,0 +1,30 @@
+{
+    "uid": "QBNS",
+    "prototype": "P3Rb2",
+    "prototype_tex": "P$_{3}$Rb$_{2}$",
+    "label": "A3B2_oF40_69_hm_fg-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x2",
+        "y3",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        9.641,
+        1.51737,
+        0.93455,
+        0.282,
+        0.1481,
+        0.0735,
+        0.2068
+    ],
+    "strukturbericht": null,
+    "title": "Rb$_{2}$P$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B2_oF40_69_hm_fg-001"
+}

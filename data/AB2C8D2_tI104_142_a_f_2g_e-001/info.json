@@ -1,0 +1,36 @@
+{
+    "uid": "BMKB",
+    "prototype": "BaCo2O8V2",
+    "prototype_tex": "BaCo$_{2}$O$_{8}$V$_{2}$",
+    "label": "AB2C8D2_tI104_142_a_f_2g_e-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3",
+        "x4",
+        "y4",
+        "z4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        12.4189,
+        0.681679,
+        0.08,
+        0.1689,
+        0.157,
+        0.074,
+        0.383,
+        0.498,
+        0.087,
+        0.347
+    ],
+    "strukturbericht": null,
+    "title": "BaCo$_{2}$V$_{2}$O$_{8}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2C8D2_tI104_142_a_f_2g_e-001"
+}

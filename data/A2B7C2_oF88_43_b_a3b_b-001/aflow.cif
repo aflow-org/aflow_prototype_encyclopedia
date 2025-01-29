@@ -1,0 +1,60 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Cu2O7V2 blossite
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A2B7C2_oF88_43_b_a3b_b-001
+
+# Last updated on 2024/08/01
+
+data_Cu16O56V16
+_pd_phase_name Cu16O56V16
+_cell_length_a  20.6450000000
+_cell_length_b  8.3830000000
+_cell_length_c  6.4420000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Fdd2'
+_symmetry_Int_Tables_Number  43
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  x+1/4,-y+1/4,z+1/4
+  4  -x+1/4,y+1/4,z+1/4
+  5  x,y+1/2,z+1/2
+  6  -x,-y+1/2,z+1/2
+  7  x+1/4,-y+3/4,z+3/4
+  8  -x+1/4,y+3/4,z+3/4
+  9  x+1/2,y,z+1/2
+  10  -x+1/2,-y,z+1/2
+  11  x+3/4,-y+1/4,z+3/4
+  12  -x+3/4,y+1/4,z+3/4
+  13  x+1/2,y+1/2,z
+  14  -x+1/2,-y+1/2,z
+  15  x+3/4,-y+3/4,z+1/4
+  16  -x+3/4,y+3/4,z+1/4
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+O2 1.0000000000 -0.0000000000 0.0000000000 0.9092000000  Biso 1.0 O 8 a
+Cu1 1.0000000000 0.6658000000 0.8646000000 0.7500000000  Biso 1.0 Cu 16 b
+O3 1.0000000000 0.7453000000 0.5622000000 0.7774000000  Biso 1.0 O 16 b
+O4 1.0000000000 0.6446000000 0.9368000000 0.0332000000  Biso 1.0 O 16 b
+O5 1.0000000000 0.6619000000 0.3477000000 0.9592000000  Biso 1.0 O 16 b
+V6 1.0000000000 0.6990600000 0.4054000000 0.7343000000  Biso 1.0 V 16 b

@@ -1,0 +1,30 @@
+{
+    "uid": "LJXD",
+    "prototype": "C4Mg2Na6O16S",
+    "prototype_tex": "C$_{4}$Mg$_{2}$Na$_{6}$O$_{16}$S",
+    "label": "A4B2C6D16E_cF232_203_e_c_f_eg_b-001",
+    "parameter_symbol": [
+        "a",
+        "x3",
+        "x4",
+        "x5",
+        "x6",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        13.9038,
+        0.78207,
+        0.56362,
+        0.84379,
+        0.76626,
+        0.72529,
+        0.85333
+    ],
+    "strukturbericht": null,
+    "title": "Tychite  (Na$_{6}$Mg$_{2}$SO$_{4}$(CO$_{3}$)$_{4}$) Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4B2C6D16E_cF232_203_e_d_f_eg_a"
+}

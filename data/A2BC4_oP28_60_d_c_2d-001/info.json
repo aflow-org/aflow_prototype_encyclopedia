@@ -1,0 +1,43 @@
+{
+    "uid": "44A7",
+    "prototype": "B2CaO4",
+    "prototype_tex": "B$_{2}$CaO$_{4}$",
+    "label": "A2BC4_oP28_60_d_c_2d-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y1",
+        "x2",
+        "y2",
+        "z2",
+        "x3",
+        "y3",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        11.604,
+        0.369269,
+        0.535505,
+        0.2726,
+        0.1924,
+        0.8296,
+        0.1258,
+        0.0862,
+        0.7268,
+        0.0917,
+        0.2078,
+        0.1485,
+        0.1478
+    ],
+    "strukturbericht": "E3_2",
+    "title": "$E3_{2}$ (CaB$_{2}$O$_{4}$ I) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$E3_{2}$",
+    "compounds": {},
+    "alias": "A2BC4_oP28_60_d_c_2d"
+}

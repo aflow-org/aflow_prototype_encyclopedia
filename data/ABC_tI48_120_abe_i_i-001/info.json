@@ -1,0 +1,34 @@
+{
+    "uid": "ZUB8",
+    "prototype": "AgMgSb",
+    "prototype_tex": "AgMgSb",
+    "label": "ABC_tI48_120_abe_i_i-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "x4",
+        "y4",
+        "z4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        9.1761,
+        1.383594,
+        0.2247,
+        -0.036,
+        0.296,
+        0.096,
+        0.2363,
+        0.4749,
+        0.1203
+    ],
+    "strukturbericht": null,
+    "title": "$\\alpha$-MgAgSb Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC_tI48_120_abe_i_i-001"
+}

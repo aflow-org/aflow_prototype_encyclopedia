@@ -1,0 +1,21 @@
+{
+    "uid": "Q425",
+    "prototype": "Fe2N",
+    "prototype_tex": "Fe$_{2}$N",
+    "label": "AB_hP4_194_c_a-003",
+    "parameter_symbol": [
+        "a",
+        "c/a"
+    ],
+    "parameter_values": [
+        2.767,
+        1.59523
+    ],
+    "strukturbericht": "L'3_0",
+    "title": "$L'3_{0}$ (approximate Fe$_{2}$N) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$L'3_{0}$",
+    "compounds": {},
+    "alias": "AB_hP4_194_c_a.Fe2N"
+}

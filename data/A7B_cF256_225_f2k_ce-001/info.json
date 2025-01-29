@@ -1,0 +1,30 @@
+{
+    "uid": "EMLR",
+    "prototype": "Cu5FeS4",
+    "prototype_tex": "Cu$_{5}$FeS$_{4}$",
+    "label": "A7B_cF256_225_f2k_ce-001",
+    "parameter_symbol": [
+        "a",
+        "x2",
+        "x3",
+        "x4",
+        "z4",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        10.981,
+        0.7535,
+        0.5909,
+        0.8614,
+        0.1133,
+        0.6295,
+        0.6069
+    ],
+    "strukturbericht": null,
+    "title": "Intermediate Temperature Bornite (Cu$_{5/6}$Fe$_{1/6}$)$_{3}$S$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A7B_cF256_225_f2k_ce-001"
+}

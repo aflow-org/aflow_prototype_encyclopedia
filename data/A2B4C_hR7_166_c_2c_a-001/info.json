@@ -1,0 +1,26 @@
+{
+    "uid": "EVRK",
+    "prototype": "Fe2O4Yb",
+    "prototype_tex": "Fe$_{2}$O$_{4}$Yb",
+    "label": "A2B4C_hR7_166_c_2c_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3",
+        "x4"
+    ],
+    "parameter_values": [
+        3.45501,
+        7.25153,
+        0.215,
+        0.1292,
+        0.2925
+    ],
+    "strukturbericht": null,
+    "title": "YbFe$_{2}$O$_{4}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B4C_hR7_166_c_2c_a-001"
+}

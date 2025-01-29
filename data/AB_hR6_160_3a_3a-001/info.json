@@ -1,0 +1,32 @@
+{
+    "uid": "T8Y7",
+    "prototype": "CSi",
+    "prototype_tex": "CSi",
+    "label": "AB_hR6_160_3a_3a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3",
+        "x4",
+        "x5",
+        "x6"
+    ],
+    "parameter_values": [
+        3.0179,
+        7.34848,
+        0.0,
+        0.22222,
+        0.77778,
+        0.08333,
+        0.30556,
+        0.86111
+    ],
+    "strukturbericht": null,
+    "title": "Moissanite 9R (CSi) Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_hR6_160_3a_3a"
+}

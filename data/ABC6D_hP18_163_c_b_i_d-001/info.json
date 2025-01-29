@@ -1,0 +1,26 @@
+{
+    "uid": "8D1V",
+    "prototype": "AlCaF6Li",
+    "prototype_tex": "AlCaF$_{6}$Li",
+    "label": "ABC6D_hP18_163_c_b_i_d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        5.0081,
+        1.92554,
+        0.376697,
+        0.0310033,
+        0.64336
+    ],
+    "strukturbericht": null,
+    "title": "Colquiriite (LiCaAlF$_{6}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC6D_hP18_163_d_b_i_c"
+}

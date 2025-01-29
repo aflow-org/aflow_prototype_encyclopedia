@@ -1,0 +1,31 @@
+{
+    "uid": "36ZK",
+    "prototype": "MnP",
+    "prototype_tex": "MnP",
+    "label": "AB_oP8_62_c_c-002",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "z1",
+        "x2",
+        "z2"
+    ],
+    "parameter_values": [
+        5.2416,
+        0.606723,
+        1.12622,
+        0.0056,
+        0.1952,
+        0.1879,
+        0.5696
+    ],
+    "strukturbericht": "B31",
+    "title": "MnP ($B31$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$B31$",
+    "compounds": {},
+    "alias": "AB_oP8_62_c_c.MnP"
+}

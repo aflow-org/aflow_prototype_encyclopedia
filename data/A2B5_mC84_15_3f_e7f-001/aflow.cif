@@ -1,0 +1,57 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  In2Te5
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A2B5_mC84_15_3f_e7f-001
+
+# Last updated on 2024/08/01
+
+data_In24Te60
+_pd_phase_name In24Te60
+_cell_length_a  16.6500000000
+_cell_length_b  4.3600000000
+_cell_length_c  47.1977943680
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  120.4224978467
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'C2/c'
+_symmetry_Int_Tables_Number  15
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y,-z+1/2
+  3  -x,-y,-z
+  4  x,-y,z+1/2
+  5  x+1/2,y+1/2,z
+  6  -x+1/2,y+1/2,-z+1/2
+  7  -x+1/2,-y+1/2,-z
+  8  x+1/2,-y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Te4 1.0000000000 -0.0000000000 0.9044000000 0.2500000000  Biso 1.0 Te 4 e
+In1 1.0000000000 0.2994000000 0.3093000000 0.0557000000  Biso 1.0 In 8 f
+In2 1.0000000000 0.9974000000 0.3084000000 0.1119000000  Biso 1.0 In 8 f
+In3 1.0000000000 0.2667000000 0.8756000000 0.2202000000  Biso 1.0 In 8 f
+Te10 1.0000000000 0.1429000000 0.3713000000 0.2082000000  Biso 1.0 Te 8 f
+Te11 1.0000000000 0.3899000000 0.8136000000 0.1974000000  Biso 1.0 Te 8 f
+Te5 1.0000000000 0.4134000000 0.3088000000 0.1267000000  Biso 1.0 Te 8 f
+Te6 1.0000000000 0.8829000000 0.3065000000 0.0406000000  Biso 1.0 Te 8 f
+Te7 1.0000000000 0.1859000000 0.2600000000 0.1331000000  Biso 1.0 Te 8 f
+Te8 1.0000000000 0.1452000000 0.8413000000 0.0807000000  Biso 1.0 Te 8 f
+Te9 1.0000000000 0.1093000000 0.2607000000 0.0289000000  Biso 1.0 Te 8 f

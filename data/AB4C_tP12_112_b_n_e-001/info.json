@@ -1,0 +1,26 @@
+{
+    "uid": "FV74",
+    "prototype": "AlCl4Cu",
+    "prototype_tex": "AlCl$_{4}$Cu",
+    "label": "AB4C_tP12_112_b_n_e-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        5.4411,
+        1.85863,
+        0.2334,
+        0.2761,
+        0.6295
+    ],
+    "strukturbericht": null,
+    "title": "$\\alpha$-CuAlCl$_{4}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB4C_tP12_112_b_n_e"
+}

@@ -1,0 +1,24 @@
+{
+    "uid": "WWX6",
+    "prototype": "Al10V",
+    "prototype_tex": "Al$_{10}$V",
+    "label": "A10B_cF176_227_cfg_d-001",
+    "parameter_symbol": [
+        "a",
+        "x3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        14.586,
+        0.4843,
+        0.4404,
+        0.6759
+    ],
+    "strukturbericht": null,
+    "title": "Al$_{10}$V Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A10B_cF176_227_cfg_d-001"
+}

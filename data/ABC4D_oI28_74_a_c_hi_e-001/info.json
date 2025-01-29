@@ -1,0 +1,32 @@
+{
+    "uid": "50N0",
+    "prototype": "CuLiO4V",
+    "prototype_tex": "CuLiO$_{4}$V",
+    "label": "ABC4D_oI28_74_a_c_hi_e-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z3",
+        "y4",
+        "z4",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        5.662,
+        1.02596,
+        1.5468,
+        0.614,
+        0.5164,
+        0.2748,
+        0.7352,
+        0.4993
+    ],
+    "strukturbericht": null,
+    "title": "LiCuVO$_{4}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC4D_oI28_74_a_d_hi_e"
+}

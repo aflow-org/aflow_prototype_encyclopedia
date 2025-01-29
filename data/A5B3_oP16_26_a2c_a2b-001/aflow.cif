@@ -1,0 +1,48 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Au5Zn3
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A5B3_oP16_26_a2c_a2b-001
+
+# Last updated on 2024/08/01
+
+data_Au10Zn6
+_pd_phase_name Au10Zn6
+_cell_length_a  6.3447900000
+_cell_length_b  8.9710900000
+_cell_length_c  4.4860400000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pmc2_{1}'
+_symmetry_Int_Tables_Number  26
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z+1/2
+  3  x,-y,z+1/2
+  4  -x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Au1 1.0000000000 0.0000000000 0.3760000000 0.7160000000  Biso 1.0 Au 2 a
+Zn4 1.0000000000 0.0000000000 0.1420000000 0.2890000000  Biso 1.0 Zn 2 a
+Zn5 1.0000000000 0.5000000000 0.3580000000 0.7290000000  Biso 1.0 Zn 2 b
+Zn6 1.0000000000 0.5000000000 0.1220000000 0.2840000000  Biso 1.0 Zn 2 b
+Au2 1.0000000000 0.7270000000 0.3760000000 0.2020000000  Biso 1.0 Au 4 c
+Au3 1.0000000000 0.7540000000 0.1160000000 0.8020000000  Biso 1.0 Au 4 c

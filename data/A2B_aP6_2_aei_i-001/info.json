@@ -1,0 +1,40 @@
+{
+    "uid": "Q769",
+    "prototype": "H2S",
+    "prototype_tex": "H$_{2}$S",
+    "label": "A2B_aP6_2_aei_i-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "alpha",
+        "beta",
+        "gamma",
+        "x3",
+        "y3",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        2.7804,
+        1.00439,
+        1.531,
+        78.28,
+        76.53,
+        70.42,
+        0.259,
+        0.415,
+        0.663,
+        0.192,
+        0.183,
+        0.255
+    ],
+    "strukturbericht": null,
+    "title": "H$_{2}$S (90 GPa) Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_aP6_2_aei_i"
+}

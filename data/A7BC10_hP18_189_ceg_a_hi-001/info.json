@@ -1,0 +1,30 @@
+{
+    "uid": "16HD",
+    "prototype": "Au7IP10",
+    "prototype_tex": "Au$_{7}$IP$_{10}$",
+    "label": "A7BC10_hP18_189_ceg_a_hi-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "x4",
+        "z5",
+        "x6",
+        "z6"
+    ],
+    "parameter_values": [
+        6.173,
+        1.79929,
+        0.2761,
+        0.494,
+        0.794,
+        0.373,
+        0.698
+    ],
+    "strukturbericht": null,
+    "title": "Hexagonal Au$_{7}$P$_{10}$I Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A7BC10_hP18_189_ceg_a_hi-001"
+}

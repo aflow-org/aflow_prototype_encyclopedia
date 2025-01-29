@@ -1,0 +1,22 @@
+{
+    "uid": "GXVQ",
+    "prototype": "LaFe4P12",
+    "prototype_tex": "LaFe$_{4}$P$_{12}$",
+    "label": "A4BC12_cI34_204_c_a_g-001",
+    "parameter_symbol": [
+        "a",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        7.832,
+        0.3539,
+        0.1504
+    ],
+    "strukturbericht": null,
+    "title": "LaFe$_{4}$P$_{12}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4BC12_cI34_204_c_a_g"
+}

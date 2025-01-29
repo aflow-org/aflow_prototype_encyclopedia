@@ -1,0 +1,26 @@
+{
+    "uid": "DJRQ",
+    "prototype": "In3Te4",
+    "prototype_tex": "In$_{3}$Te$_{4}$",
+    "label": "A3B4_hR7_166_ac_2c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3",
+        "x4"
+    ],
+    "parameter_values": [
+        4.27,
+        9.57844,
+        0.5727,
+        0.8716,
+        0.7092
+    ],
+    "strukturbericht": null,
+    "title": "In$_{3}$Se$_{4}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B4_hR7_166_ac_2c-001"
+}

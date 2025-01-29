@@ -1,0 +1,21 @@
+{
+    "uid": "3454",
+    "prototype": "AuBe5",
+    "prototype_tex": "AuBe$_{5}$",
+    "label": "AB5_cF24_216_a_ce-001",
+    "parameter_symbol": [
+        "a",
+        "x3"
+    ],
+    "parameter_values": [
+        6.1,
+        0.625
+    ],
+    "strukturbericht": "C15_b",
+    "title": "AuBe$_{5}$ ($C15_{b}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$C15_{b}$",
+    "compounds": {},
+    "alias": "AB5_cF24_216_a_ce"
+}

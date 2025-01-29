@@ -1,0 +1,32 @@
+{
+    "uid": "5YFD",
+    "prototype": "Mn7O12Sr",
+    "prototype_tex": "Mn$_{7}$O$_{12}$Sr",
+    "label": "A7B12C_hR20_148_ade_2f_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x5",
+        "y5",
+        "z5",
+        "x6",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        10.4996,
+        0.607737,
+        0.8233,
+        0.6146,
+        0.306,
+        0.1844,
+        0.0211,
+        0.322
+    ],
+    "strukturbericht": null,
+    "title": "SrMn$_{7}$O$_{12}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A7B12C_hR20_148_ade_2f_b-001"
+}

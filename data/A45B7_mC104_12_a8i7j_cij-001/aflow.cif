@@ -1,0 +1,65 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Al45V7
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A45B7_mC104_12_a8i7j_cij-001
+
+# Last updated on 2024/08/01
+
+data_Al90V14
+_pd_phase_name Al90V14
+_cell_length_a  20.8279800000
+_cell_length_b  7.6213000000
+_cell_length_c  20.5401100000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  148.9356400000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'C2/m'
+_symmetry_Int_Tables_Number  12
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y,-z
+  3  -x,-y,-z
+  4  x,-y,z
+  5  x+1/2,y+1/2,z
+  6  -x+1/2,y+1/2,-z
+  7  -x+1/2,-y+1/2,-z
+  8  x+1/2,-y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Al1 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Al 2 a
+V17 1.0000000000 -0.0000000000 -0.0000000000 0.5000000000  Biso 1.0 V 2 c
+Al2 1.0000000000 0.3866000000 0.0000000000 0.2702000000  Biso 1.0 Al 4 i
+Al3 1.0000000000 0.7825000000 0.0000000000 0.9890000000  Biso 1.0 Al 4 i
+Al4 1.0000000000 0.0115000000 0.0000000000 0.1360000000  Biso 1.0 Al 4 i
+Al5 1.0000000000 0.7635000000 -0.0000000000 0.7430000000  Biso 1.0 Al 4 i
+Al6 1.0000000000 0.6385000000 0.0000000000 0.0570000000  Biso 1.0 Al 4 i
+Al7 1.0000000000 0.0148000000 0.0000000000 0.3861000000  Biso 1.0 Al 4 i
+Al8 1.0000000000 0.2465000000 0.0000000000 0.6560000000  Biso 1.0 Al 4 i
+Al9 1.0000000000 0.2345000000 0.0000000000 0.5090000000  Biso 1.0 Al 4 i
+V18 1.0000000000 0.0114000000 0.0000000000 0.2600000000  Biso 1.0 V 4 i
+Al10 1.0000000000 0.8280000000 0.1830000000 0.1470000000  Biso 1.0 Al 8 j
+Al11 1.0000000000 0.0795000000 0.3180000000 0.5115000000  Biso 1.0 Al 8 j
+Al12 1.0000000000 0.6721000000 0.6800000000 0.7077000000  Biso 1.0 Al 8 j
+Al13 1.0000000000 0.9317000000 0.3180000000 0.1219000000  Biso 1.0 Al 8 j
+Al14 1.0000000000 0.4218000000 0.1940000000 0.8766000000  Biso 1.0 Al 8 j
+Al15 1.0000000000 0.3102000000 0.3070000000 0.6454000000  Biso 1.0 Al 8 j
+Al16 1.0000000000 0.0722000000 0.3140000000 0.3664000000  Biso 1.0 Al 8 j
+V19 1.0000000000 0.6673000000 0.3270000000 0.0816000000  Biso 1.0 V 8 j

@@ -1,0 +1,34 @@
+{
+    "uid": "8PL6",
+    "prototype": "AlPS4",
+    "prototype_tex": "AlPS$_{4}$",
+    "label": "ABC4_oP12_16_ae_bd_2u-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x5",
+        "y5",
+        "z5",
+        "x6",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        9.05,
+        0.61989,
+        0.626519,
+        0.125,
+        0.2,
+        0.26,
+        0.63,
+        0.74,
+        0.8
+    ],
+    "strukturbericht": null,
+    "title": "AlPS$_{4}$ Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC4_oP12_16_ag_cd_2u"
+}

@@ -1,0 +1,24 @@
+{
+    "uid": "TSNN",
+    "prototype": "OPb",
+    "prototype_tex": "OPb",
+    "label": "AB_oC8_67_a_g-002",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z2"
+    ],
+    "parameter_values": [
+        5.6089,
+        1.00062,
+        0.890085,
+        0.7642
+    ],
+    "strukturbericht": null,
+    "title": "$\\alpha$-PbO Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_oC8_67_a_g.PbO"
+}

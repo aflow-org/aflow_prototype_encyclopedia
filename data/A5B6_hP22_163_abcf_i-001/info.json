@@ -1,0 +1,28 @@
+{
+    "uid": "Z6CB",
+    "prototype": "Cr5S6",
+    "prototype_tex": "Cr$_{5}$S$_{6}$",
+    "label": "A5B6_hP22_163_abcf_i-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        5.982,
+        1.92394,
+        0.0,
+        0.33333,
+        0.0,
+        0.375
+    ],
+    "strukturbericht": null,
+    "title": "Trigonal Cr$_{5}$S$_{6}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A5B6_hP22_163_abcf_i-001"
+}

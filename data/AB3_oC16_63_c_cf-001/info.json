@@ -1,0 +1,30 @@
+{
+    "uid": "EW0Y",
+    "prototype": "BRe3",
+    "prototype_tex": "BRe$_{3}$",
+    "label": "AB3_oC16_63_c_cf-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y1",
+        "y2",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        2.89,
+        3.22249,
+        2.51142,
+        0.744,
+        0.4262,
+        0.1345,
+        0.062
+    ],
+    "strukturbericht": null,
+    "title": "Re$_{3}$B Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3_oC16_63_c_cf"
+}

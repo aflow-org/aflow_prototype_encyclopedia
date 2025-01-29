@@ -1,0 +1,38 @@
+{
+    "uid": "TZ29",
+    "prototype": "Ce5Ga7Rh12",
+    "prototype_tex": "Ce$_{5}$Ga$_{7}$Rh$_{12}$",
+    "label": "A5B7C12_hR24_166_a2c_b3c_2h-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "x4",
+        "x5",
+        "x6",
+        "x7",
+        "x8",
+        "z8",
+        "x9",
+        "z9"
+    ],
+    "parameter_values": [
+        5.5837,
+        8.3862,
+        0.150367,
+        0.075738,
+        0.25015,
+        0.33312,
+        0.41723,
+        0.540991,
+        0.042821,
+        0.628151,
+        0.119571
+    ],
+    "strukturbericht": null,
+    "title": "Ce$_{5}$Ga$_{7}$Rh$_{12}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A5B7C12_hR24_166_a2c_b3c_2h-001"
+}

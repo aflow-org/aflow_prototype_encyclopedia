@@ -1,0 +1,24 @@
+{
+    "uid": "MX6R",
+    "prototype": "Zn22Zr",
+    "prototype_tex": "Zn$_{22}$Zr",
+    "label": "A22B_cF184_227_cdfg_a-001",
+    "parameter_symbol": [
+        "a",
+        "x4",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        14.101,
+        0.765,
+        0.562,
+        0.3195
+    ],
+    "strukturbericht": null,
+    "title": "Zn$_{22}$Zr Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A22B_cF184_227_cdfg_a"
+}

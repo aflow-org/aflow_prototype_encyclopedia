@@ -1,0 +1,28 @@
+{
+    "uid": "1M22",
+    "prototype": "CuI",
+    "prototype_tex": "CuI",
+    "label": "AB_hP4_156_ab_ab-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3",
+        "z4"
+    ],
+    "parameter_values": [
+        4.279,
+        1.67516,
+        0.636,
+        0.0,
+        0.896,
+        0.5
+    ],
+    "strukturbericht": null,
+    "title": "$\\beta$-CuI (Sakuma) Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_hP4_156_ab_ab"
+}

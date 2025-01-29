@@ -1,0 +1,22 @@
+{
+    "uid": "6BD5",
+    "prototype": "NRe3",
+    "prototype_tex": "NRe$_{3}$",
+    "label": "AB3_hP4_187_a_bh-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3"
+    ],
+    "parameter_values": [
+        2.8065,
+        2.53412,
+        0.198
+    ],
+    "strukturbericht": null,
+    "title": "Re$_{3}$N Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3_hP4_187_e_fh"
+}

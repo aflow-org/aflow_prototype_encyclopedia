@@ -1,0 +1,29 @@
+{
+    "uid": "1QX2",
+    "prototype": "AuTe2",
+    "prototype_tex": "AuTe$_{2}$",
+    "label": "AB2_mC6_12_a_i-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x2",
+        "z2"
+    ],
+    "parameter_values": [
+        7.189,
+        0.61302,
+        1.22399,
+        144.825,
+        0.399,
+        0.7111
+    ],
+    "strukturbericht": "C34",
+    "title": "Calaverite (AuTe$_{2}$, $C34$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$C34$",
+    "compounds": {},
+    "alias": "AB2_mC6_12_a_i"
+}

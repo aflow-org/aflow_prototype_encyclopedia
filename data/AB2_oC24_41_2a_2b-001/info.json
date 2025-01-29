@@ -1,0 +1,39 @@
+{
+    "uid": "BVS7",
+    "prototype": "PdSn2",
+    "prototype_tex": "PdSn$_{2}$",
+    "label": "AB2_oC24_41_2a_2b-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z1",
+        "z2",
+        "x3",
+        "y3",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        6.478,
+        1.0,
+        1.87635,
+        0.01,
+        0.238,
+        0.342,
+        0.158,
+        0.125,
+        0.25,
+        0.75,
+        0.375
+    ],
+    "strukturbericht": "C_e",
+    "title": "PdSn$_{2}$ ($C_{e}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$C_{e}$",
+    "compounds": {},
+    "alias": "AB2_oC24_41_2a_2b"
+}

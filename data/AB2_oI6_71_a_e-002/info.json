@@ -1,0 +1,24 @@
+{
+    "uid": "9FBX",
+    "prototype": "ReSi2",
+    "prototype_tex": "ReSi$_{2}$",
+    "label": "AB2_oI6_71_a_e-002",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x2"
+    ],
+    "parameter_values": [
+        7.677,
+        0.407451,
+        0.409535,
+        0.339
+    ],
+    "strukturbericht": null,
+    "title": "ReSi$_{2}$ Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2_oI6_71_a_i"
+}

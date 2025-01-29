@@ -1,0 +1,25 @@
+{
+    "uid": "LL0C",
+    "prototype": "MgZn2",
+    "prototype_tex": "MgZn$_{2}$",
+    "label": "AB2_hP12_194_f_ah-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "x3"
+    ],
+    "parameter_values": [
+        5.223,
+        1.64005,
+        0.06286,
+        0.830483
+    ],
+    "strukturbericht": "C14",
+    "title": "MgZn$_{2}$ Hexagonal Laves ($C14$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$C14$",
+    "compounds": {},
+    "alias": "AB2_hP12_194_f_ah"
+}

@@ -1,0 +1,28 @@
+{
+    "uid": "PNDR",
+    "prototype": "Cl2Cu",
+    "prototype_tex": "Cl$_{2}$Cu",
+    "label": "A2B_mC6_12_i_a-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x2",
+        "z2"
+    ],
+    "parameter_values": [
+        11.5551,
+        0.285545,
+        0.574214,
+        148.669,
+        0.7246,
+        0.2198
+    ],
+    "strukturbericht": null,
+    "title": "Tolbachite (CuCl$_{2}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_mC6_12_i_a"
+}

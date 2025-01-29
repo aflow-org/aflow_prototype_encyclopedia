@@ -1,0 +1,30 @@
+{
+    "uid": "V86P",
+    "prototype": "H3Ho",
+    "prototype_tex": "H$_{3}$Ho",
+    "label": "A3B_hP24_165_adg_f-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "x3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        6.308,
+        1.03995,
+        0.167,
+        0.666,
+        0.356,
+        0.028,
+        0.096
+    ],
+    "strukturbericht": null,
+    "title": "H$_{3}$Ho Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B_hP24_165_adg_f"
+}

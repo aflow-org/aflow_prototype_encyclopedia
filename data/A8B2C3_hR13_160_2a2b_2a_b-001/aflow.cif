@@ -1,0 +1,63 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Cl8Na2Ti3
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A8B2C3_hR13_160_2a2b_2a_b-001
+
+# Last updated on 2024/08/01
+
+data_Cl24Na6Ti9
+_pd_phase_name Cl24Na6Ti9
+_cell_length_a  6.9739000000
+_cell_length_b  6.9739000000
+_cell_length_c  20.1851000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  120.0000000000
+_symmetry_space_group_name_H-M  'R3m'
+_symmetry_Int_Tables_Number  160
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -y,x-y,z
+  3  -x+y,-x,z
+  4  -y,-x,z
+  5  -x+y,y,z
+  6  x,x-y,z
+  7  x+2/3,y+1/3,z+1/3
+  8  -y+2/3,x-y+1/3,z+1/3
+  9  -x+y+2/3,-x+1/3,z+1/3
+  10  -y+2/3,-x+1/3,z+1/3
+  11  -x+y+2/3,y+1/3,z+1/3
+  12  x+2/3,x-y+1/3,z+1/3
+  13  x+1/3,y+2/3,z+2/3
+  14  -y+1/3,x-y+2/3,z+2/3
+  15  -x+y+1/3,-x+2/3,z+2/3
+  16  -y+1/3,-x+2/3,z+2/3
+  17  -x+y+1/3,y+2/3,z+2/3
+  18  x+1/3,x-y+2/3,z+2/3
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Cl1 1.0000000000 -0.0000000000 0.0000000000 0.5824000000  Biso 1.0 Cl 3 a
+Cl2 1.0000000000 -0.0000000000 -0.0000000000 0.3959000000  Biso 1.0 Cl 3 a
+Na5 1.0000000000 -0.0000000000 -0.0000000000 0.8400000000  Biso 1.0 Na 3 a
+Na6 1.0000000000 -0.0000000000 -0.0000000000 0.1703000000  Biso 1.0 Na 3 a
+Cl3 1.0000000000 0.8304333333 0.1695666667 0.0730666667  Biso 1.0 Cl 9 b
+Cl4 1.0000000000 0.8364000000 0.1636000000 0.2609000000  Biso 1.0 Cl 9 b
+Ti7 1.0000000000 0.5199000000 0.4801000000 -0.0000000000  Biso 1.0 Ti 9 b

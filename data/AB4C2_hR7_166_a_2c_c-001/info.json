@@ -1,0 +1,26 @@
+{
+    "uid": "SFS1",
+    "prototype": "CaCu4P2",
+    "prototype_tex": "CaCu$_{4}$P$_{2}$",
+    "label": "AB4C2_hR7_166_a_2c_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3",
+        "x4"
+    ],
+    "parameter_values": [
+        4.036,
+        5.51833,
+        0.8547,
+        0.5689,
+        0.7497
+    ],
+    "strukturbericht": null,
+    "title": "CaCu$_{4}$P$_{2}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB4C2_hR7_166_a_2c_c"
+}

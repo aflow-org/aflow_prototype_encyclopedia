@@ -1,0 +1,30 @@
+{
+    "uid": "R5TH",
+    "prototype": "CsFeS2",
+    "prototype_tex": "CsFeS$_{2}$",
+    "label": "ABC2_oI16_71_e_g_fi-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "x2",
+        "y3",
+        "z4"
+    ],
+    "parameter_values": [
+        11.85,
+        0.457384,
+        0.598312,
+        0.67,
+        0.852,
+        0.249,
+        0.744
+    ],
+    "strukturbericht": null,
+    "title": "CsFeS$_{2}$ (100K) Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC2_oI16_71_g_i_eh"
+}

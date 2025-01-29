@@ -1,0 +1,40 @@
+{
+    "uid": "FY6X",
+    "prototype": "NbTe2",
+    "prototype_tex": "NbTe$_{2}$",
+    "label": "AB2_mC18_12_ai_3i-002",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x2",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        19.39,
+        0.187829,
+        0.744977,
+        152.468,
+        0.65155,
+        0.0118,
+        0.3599,
+        0.7102,
+        0.0822,
+        0.7852,
+        0.6941,
+        0.698
+    ],
+    "strukturbericht": null,
+    "title": "NbTe$_{2}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2_mC18_12_ai_3i"
+}

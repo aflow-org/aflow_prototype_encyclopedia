@@ -1,0 +1,29 @@
+{
+    "uid": "0ZSQ",
+    "prototype": "BrKO3",
+    "prototype_tex": "BrKO$_{3}$",
+    "label": "ABC3_hR5_160_a_a_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3",
+        "z3"
+    ],
+    "parameter_values": [
+        6.01098,
+        1.35618,
+        0.5173,
+        0.0,
+        0.45524,
+        0.88892
+    ],
+    "strukturbericht": "G0_7",
+    "title": "KBrO$_{3}$ ($G0_{7}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$G0_{7}$",
+    "compounds": {},
+    "alias": "ABC3_hR5_160_a_a_b.KBrO3"
+}

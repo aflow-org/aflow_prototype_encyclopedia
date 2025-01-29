@@ -1,0 +1,28 @@
+{
+    "uid": "19XK",
+    "prototype": "Cl5CrCuH18N6",
+    "prototype_tex": "Cl$_{5}$CrCuH$_{18}$N$_{6}$",
+    "label": "A5BCD6_cF416_228_eg_c_b_h-001",
+    "parameter_symbol": [
+        "a",
+        "x3",
+        "y4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        22.265,
+        0.19,
+        0.425,
+        0.55,
+        0.68,
+        0.28
+    ],
+    "strukturbericht": null,
+    "title": "CuCrCl$_{5}$[NH$_{3}$]$_{6}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A5BCD6_cF416_228_eg_c_b_h"
+}

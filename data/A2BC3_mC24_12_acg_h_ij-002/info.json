@@ -1,0 +1,38 @@
+{
+    "uid": "R3L4",
+    "prototype": "Li2MnO3",
+    "prototype_tex": "Li$_{2}$MnO$_{3}$",
+    "label": "A2BC3_mC24_12_acg_h_ij-002",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "y3",
+        "y4",
+        "x5",
+        "z5",
+        "x6",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        4.937,
+        1.72818,
+        1.64829,
+        144.352,
+        0.6606,
+        0.66708,
+        0.9462,
+        0.7273,
+        0.4773,
+        0.82119,
+        0.7233
+    ],
+    "strukturbericht": null,
+    "title": "Li$_{2}$MnO$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BC3_mC24_12_acg_h_ij-002"
+}

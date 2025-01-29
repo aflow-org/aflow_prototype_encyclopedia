@@ -1,0 +1,26 @@
+{
+    "uid": "5RVU",
+    "prototype": "Cl3Ru",
+    "prototype_tex": "Cl$_{3}$Ru",
+    "label": "A3B_hP8_185_c_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "x2",
+        "z2"
+    ],
+    "parameter_values": [
+        6.12,
+        0.92451,
+        0.0,
+        0.305,
+        0.245
+    ],
+    "strukturbericht": null,
+    "title": "$\\beta$-RuCl$_{3}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B_hP8_185_c_a"
+}

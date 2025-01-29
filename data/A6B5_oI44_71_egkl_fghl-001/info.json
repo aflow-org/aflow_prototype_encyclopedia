@@ -1,0 +1,40 @@
+{
+    "uid": "Q45R",
+    "prototype": "Nb6Sn5",
+    "prototype_tex": "Nb$_{6}$Sn$_{5}$",
+    "label": "A6B5_oI44_71_egkl_fghl-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "x2",
+        "y3",
+        "y4",
+        "y5",
+        "y7",
+        "z7",
+        "y8",
+        "z8"
+    ],
+    "parameter_values": [
+        5.656,
+        2.9779,
+        1.62641,
+        0.236,
+        0.244,
+        0.3469,
+        0.1682,
+        0.2061,
+        0.0853,
+        0.273,
+        0.3957,
+        0.3073
+    ],
+    "strukturbericht": null,
+    "title": "Nb$_{6}$Sn$_{5}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A6B5_oI44_71_egkl_fghl-001"
+}

@@ -1,0 +1,38 @@
+{
+    "uid": "46QF",
+    "prototype": "AlF3",
+    "prototype_tex": "AlF$_{3}$",
+    "label": "AB3_tP40_127_di_cg2ij-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "x4",
+        "y4",
+        "x5",
+        "y5",
+        "x6",
+        "y6",
+        "x7",
+        "y7"
+    ],
+    "parameter_values": [
+        11.4033,
+        0.310752,
+        0.2162,
+        0.4205,
+        0.2928,
+        0.6568,
+        0.0049,
+        0.3585,
+        0.4333,
+        0.4264,
+        0.295
+    ],
+    "strukturbericht": null,
+    "title": "$\\kappa$-AlF$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3_tP40_127_di_cg2ij-001"
+}

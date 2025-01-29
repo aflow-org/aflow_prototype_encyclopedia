@@ -1,0 +1,26 @@
+{
+    "uid": "RTEY",
+    "prototype": "LaPtSi",
+    "prototype_tex": "LaPtSi",
+    "label": "ABC_tI12_109_a_a_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3"
+    ],
+    "parameter_values": [
+        4.249,
+        3.42175,
+        0.081,
+        0.666,
+        0.5
+    ],
+    "strukturbericht": null,
+    "title": "LaPtSi Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC_tI12_109_a_a_a"
+}

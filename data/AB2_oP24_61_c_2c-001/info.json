@@ -1,0 +1,40 @@
+{
+    "uid": "FZA4",
+    "prototype": "AuSn2",
+    "prototype_tex": "AuSn$_{2}$",
+    "label": "AB2_oP24_61_c_2c-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "y1",
+        "z1",
+        "x2",
+        "y2",
+        "z2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        6.898,
+        1.01638,
+        1.70673,
+        0.01177,
+        0.89185,
+        0.1165,
+        0.85258,
+        0.25116,
+        0.08937,
+        0.12914,
+        0.52783,
+        0.17234
+    ],
+    "strukturbericht": null,
+    "title": "AuSn$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2_oP24_61_c_2c-001"
+}

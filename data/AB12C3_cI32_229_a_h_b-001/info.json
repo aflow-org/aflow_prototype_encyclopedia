@@ -1,0 +1,20 @@
+{
+    "uid": "L6PB",
+    "prototype": "CrFe12Ni3",
+    "prototype_tex": "CrFe$_{12}$Ni$_{3}$",
+    "label": "AB12C3_cI32_229_a_h_b-001",
+    "parameter_symbol": [
+        "a",
+        "y3"
+    ],
+    "parameter_values": [
+        7.04,
+        0.7625
+    ],
+    "strukturbericht": null,
+    "title": "Model of Austenite Structure (cI32)",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB12C3_cI32_229_a_h_b"
+}

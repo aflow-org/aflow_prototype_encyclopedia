@@ -1,0 +1,19 @@
+{
+    "uid": "QDSV",
+    "prototype": "O2Si",
+    "prototype_tex": "O$_{2}$Si",
+    "label": "A2B_cF24_227_c_a-001",
+    "parameter_symbol": [
+        "a"
+    ],
+    "parameter_values": [
+        7.166
+    ],
+    "strukturbericht": "C9",
+    "title": "Ideal $\\beta$-Cristobalite (SiO$_{2}$, $C9$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$C9$",
+    "compounds": {},
+    "alias": "A2B_cF24_227_c_a"
+}

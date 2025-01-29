@@ -1,0 +1,56 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Ba3O9SrTa2
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A3B9CD2_hP15_164_ad_ei_b_d-001
+
+# Last updated on 2024/08/01
+
+data_Ba3O9Sr1Ta2
+_pd_phase_name Ba3O9Sr1Ta2
+_cell_length_a  5.9500000000
+_cell_length_b  5.9500000000
+_cell_length_c  7.4700000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  120.0000000000
+_symmetry_space_group_name_H-M  'P-3m1'
+_symmetry_Int_Tables_Number  164
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -y,x-y,z
+  3  -x+y,-x,z
+  4  y,x,-z
+  5  x-y,-y,-z
+  6  -x,-x+y,-z
+  7  -x,-y,-z
+  8  y,-x+y,-z
+  9  x-y,x,-z
+  10  -y,-x,z
+  11  -x+y,y,z
+  12  x,x-y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Ba1 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Ba 1 a
+Sr5 1.0000000000 0.0000000000 0.0000000000 0.5000000000  Biso 1.0 Sr 1 b
+Ba2 1.0000000000 0.3333300000 0.6666700000 0.6666700000  Biso 1.0 Ba 2 d
+Ta6 1.0000000000 0.3333300000 0.6666700000 0.1666700000  Biso 1.0 Ta 2 d
+O3 1.0000000000 0.5000000000 0.0000000000 0.0000000000  Biso 1.0 O 3 e
+O4 1.0000000000 0.1666700000 0.8333300000 0.3333300000  Biso 1.0 O 6 i

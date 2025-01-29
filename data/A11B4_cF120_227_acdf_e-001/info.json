@@ -1,0 +1,22 @@
+{
+    "uid": "VTDR",
+    "prototype": "Ga2O3",
+    "prototype_tex": "Ga$_{2}$O$_{3}$",
+    "label": "A11B4_cF120_227_acdf_e-001",
+    "parameter_symbol": [
+        "a",
+        "x4",
+        "x5"
+    ],
+    "parameter_values": [
+        8.2376,
+        0.2552,
+        0.368
+    ],
+    "strukturbericht": null,
+    "title": "$\\gamma$-Ga$_{2}$O$_{3}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A11B4_cF120_227_acdf_e"
+}

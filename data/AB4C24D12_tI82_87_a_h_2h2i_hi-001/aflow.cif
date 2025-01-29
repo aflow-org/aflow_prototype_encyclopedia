@@ -1,0 +1,62 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Al3ClNa4O24Si9 marialite scapolite S64
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/AB4C24D12_tI82_87_a_h_2h2i_hi-001
+
+# Last updated on 2024/08/01
+
+data_Cl2Na8O48Si24
+_pd_phase_name Cl2Na8O48Si24
+_cell_length_a  12.0600000000
+_cell_length_b  12.0600000000
+_cell_length_c  7.5720000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'I4/m'
+_symmetry_Int_Tables_Number  87
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  -y,x,z
+  4  y,-x,z
+  5  -x,-y,-z
+  6  x,y,-z
+  7  y,-x,-z
+  8  -y,x,-z
+  9  x+1/2,y+1/2,z+1/2
+  10  -x+1/2,-y+1/2,z+1/2
+  11  -y+1/2,x+1/2,z+1/2
+  12  y+1/2,-x+1/2,z+1/2
+  13  -x+1/2,-y+1/2,-z+1/2
+  14  x+1/2,y+1/2,-z+1/2
+  15  y+1/2,-x+1/2,-z+1/2
+  16  -y+1/2,x+1/2,-z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Cl1 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Cl 2 a
+Na2 1.0000000000 0.1340000000 0.2113000000 0.0000000000  Biso 1.0 Na 8 h
+O3 1.0000000000 0.4587000000 0.3483000000 -0.0000000000  Biso 1.0 O 8 h
+O4 1.0000000000 0.3066000000 0.1206000000 0.0000000000  Biso 1.0 O 8 h
+Si7 1.0000000000 0.3388000000 0.4104000000 0.0000000000  Biso 1.0 Si 8 h
+O5 1.0000000000 0.0517000000 0.3500000000 0.2148000000  Biso 1.0 O 16 i
+O6 1.0000000000 0.7293000000 0.6289000000 0.8281000000  Biso 1.0 O 16 i
+Si8 1.0000000000 0.8374000000 0.5851000000 0.7060000000  Biso 1.0 Si 16 i

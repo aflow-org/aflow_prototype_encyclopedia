@@ -1,0 +1,24 @@
+{
+    "uid": "QJN8",
+    "prototype": "AlF4Rb",
+    "prototype_tex": "AlF$_{4}$Rb",
+    "label": "AB4C_tP12_127_a_eg_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "x4"
+    ],
+    "parameter_values": [
+        5.1227,
+        1.22621,
+        0.2224,
+        0.2159
+    ],
+    "strukturbericht": null,
+    "title": "RbAlF$_{4}$ II Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB4C_tP12_127_a_eg_c-001"
+}

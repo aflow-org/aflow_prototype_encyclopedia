@@ -1,0 +1,24 @@
+{
+    "uid": "XD6C",
+    "prototype": "KNO3",
+    "prototype_tex": "KNO$_{3}$",
+    "label": "ABC6_hR8_166_a_b_h-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "z3"
+    ],
+    "parameter_values": [
+        5.425,
+        1.81309,
+        0.395,
+        0.785
+    ],
+    "strukturbericht": null,
+    "title": "$\\beta$-Potassium Nitrate (KNO$_{3}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC6_hR8_166_a_b_h"
+}

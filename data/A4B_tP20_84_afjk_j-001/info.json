@@ -1,0 +1,34 @@
+{
+    "uid": "L3AR",
+    "prototype": "Cu4Pd",
+    "prototype_tex": "Cu$_{4}$Pd",
+    "label": "A4B_tP20_84_afjk_j-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "y3",
+        "x4",
+        "y4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        5.826,
+        1.25781,
+        0.2,
+        0.6,
+        0.4,
+        0.2,
+        0.1,
+        0.3,
+        0.25
+    ],
+    "strukturbericht": null,
+    "title": "Cu$_{4}$Pd Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4B_tP20_84_afjk_j-001"
+}

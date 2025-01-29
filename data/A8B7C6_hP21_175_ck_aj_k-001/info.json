@@ -1,0 +1,32 @@
+{
+    "uid": "F86A",
+    "prototype": "B8Nb7Ru6",
+    "prototype_tex": "B$_{8}$Nb$_{7}$Ru$_{6}$",
+    "label": "A8B7C6_hP21_175_ck_aj_k-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "y3",
+        "x4",
+        "y4",
+        "x5",
+        "y5"
+    ],
+    "parameter_values": [
+        9.506,
+        0.334778,
+        0.08627,
+        0.72292,
+        0.0661,
+        0.221,
+        0.15405,
+        0.51373
+    ],
+    "strukturbericht": null,
+    "title": "Nb$_{7}$Ru$_{6}$B$_{8}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A8B7C6_hP21_175_ck_aj_k"
+}

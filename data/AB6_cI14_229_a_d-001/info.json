@@ -1,0 +1,18 @@
+{
+    "uid": "N2LT",
+    "prototype": "CaH6",
+    "prototype_tex": "CaH$_{6}$",
+    "label": "AB6_cI14_229_a_d-001",
+    "parameter_symbol": [
+        "a"
+    ],
+    "parameter_values": [
+        3.501
+    ],
+    "strukturbericht": null,
+    "title": "High Pressure Cubic CaH$_{6}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB6_cI14_229_a_d-001"
+}

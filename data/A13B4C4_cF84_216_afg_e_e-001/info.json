@@ -1,0 +1,26 @@
+{
+    "uid": "5ADG",
+    "prototype": "Al13Cr4Si4",
+    "prototype_tex": "Al$_{13}$Cr$_{4}$Si$_{4}$",
+    "label": "A13B4C4_cF84_216_afg_e_e-001",
+    "parameter_symbol": [
+        "a",
+        "x2",
+        "x3",
+        "x4",
+        "x5"
+    ],
+    "parameter_values": [
+        10.917,
+        0.3421,
+        0.126,
+        0.3103,
+        0.56
+    ],
+    "strukturbericht": null,
+    "title": "Al$_{13}$Cr$_{4}$Si$_{4}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A13B4C4_cF84_216_afg_e_e-001"
+}

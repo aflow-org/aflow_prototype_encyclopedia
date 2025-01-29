@@ -1,0 +1,30 @@
+{
+    "uid": "5PAV",
+    "prototype": "AsCu12S13",
+    "prototype_tex": "AsCu$_{12}$S$_{13}$",
+    "label": "A4B24C13_cI82_217_c_deg_ag-001",
+    "parameter_symbol": [
+        "a",
+        "x2",
+        "x4",
+        "x5",
+        "z5",
+        "x6",
+        "z6"
+    ],
+    "parameter_values": [
+        10.1439,
+        0.24271,
+        0.2173,
+        0.0777,
+        0.2123,
+        0.11822,
+        0.64266
+    ],
+    "strukturbericht": null,
+    "title": "Tennantite (Cu$_{12}$As$_{4}$S$_{13}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4B24C13_cI82_217_c_deg_ag"
+}

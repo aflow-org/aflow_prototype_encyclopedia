@@ -1,0 +1,30 @@
+{
+    "uid": "0HGH",
+    "prototype": "C6Cs2FeN6Zn",
+    "prototype_tex": "C$_{6}$Cs$_{2}$FeN$_{6}$Zn",
+    "label": "A6B2CD6E_cP64_208_m_ad_b_m_c-001",
+    "parameter_symbol": [
+        "a",
+        "x5",
+        "y5",
+        "z5",
+        "x6",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        10.3701,
+        0.057,
+        0.25,
+        0.23,
+        0.235,
+        0.25,
+        0.548
+    ],
+    "strukturbericht": null,
+    "title": "Cs$_{2}$ZnFe[CN]$_{6}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A6B2CD6E_cP64_208_m_ad_b_m_c"
+}

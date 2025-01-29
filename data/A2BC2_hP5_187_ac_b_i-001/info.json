@@ -1,0 +1,22 @@
+{
+    "uid": "AJFU",
+    "prototype": "B2InTi2",
+    "prototype_tex": "B$_{2}$InTi$_{2}$",
+    "label": "A2BC2_hP5_187_ac_b_i-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z4"
+    ],
+    "parameter_values": [
+        3.0771,
+        2.57294,
+        0.1982
+    ],
+    "strukturbericht": null,
+    "title": "Ti$_{2}$InB$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BC2_hP5_187_ac_b_i-001"
+}

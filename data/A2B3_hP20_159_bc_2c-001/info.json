@@ -1,0 +1,40 @@
+{
+    "uid": "XT2J",
+    "prototype": "Bi2O3",
+    "prototype_tex": "Bi$_{2}$O$_{3}$",
+    "label": "A2B3_hP20_159_bc_2c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "x2",
+        "y2",
+        "z2",
+        "x3",
+        "y3",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        7.749,
+        0.813266,
+        0.0,
+        0.337003,
+        0.153997,
+        0.021,
+        0.451003,
+        0.0609967,
+        0.287,
+        0.149003,
+        0.281997,
+        0.083
+    ],
+    "strukturbericht": null,
+    "title": "HP-Bi$_{2}$O$_{3}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B3_hP20_159_bc_2c"
+}

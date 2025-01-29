@@ -1,0 +1,36 @@
+{
+    "uid": "K8N1",
+    "prototype": "CdK2Pb",
+    "prototype_tex": "CdK$_{2}$Pb",
+    "label": "AB2C_oC16_40_a_2b_b-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z1",
+        "y2",
+        "z2",
+        "y3",
+        "z3",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        6.458,
+        1.33199,
+        1.69635,
+        0.0,
+        0.3467,
+        0.1773,
+        0.3661,
+        0.8301,
+        0.7281,
+        0.0093
+    ],
+    "strukturbericht": null,
+    "title": "K$_{2}$CdPb Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2C_oC16_40_a_2b_b"
+}

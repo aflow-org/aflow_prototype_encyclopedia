@@ -1,0 +1,56 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  HgI2 coccinite C13
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/AB2_tP6_137_a_d-001
+
+# Last updated on 2024/08/01
+
+data_Hg2I4
+_pd_phase_name Hg2I4
+_cell_length_a  4.3675000000
+_cell_length_b  4.3675000000
+_cell_length_c  12.4700000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P4_{2}/nmc'
+_symmetry_Int_Tables_Number  137
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y+1/2,z
+  3  -y+1/2,x,z+1/2
+  4  y,-x+1/2,z+1/2
+  5  -x,y+1/2,-z
+  6  x+1/2,-y,-z
+  7  y+1/2,x+1/2,-z+1/2
+  8  -y,-x,-z+1/2
+  9  -x,-y,-z
+  10  x+1/2,y+1/2,-z
+  11  y+1/2,-x,-z+1/2
+  12  -y,x+1/2,-z+1/2
+  13  x,-y+1/2,z
+  14  -x+1/2,y,z
+  15  -y+1/2,-x+1/2,z+1/2
+  16  y,x,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Hg1 1.0000000000 0.7500000000 0.2500000000 0.7500000000  Biso 1.0 Hg 2 a
+I2 1.0000000000 0.2500000000 0.2500000000 0.3890000000  Biso 1.0 I 4 d

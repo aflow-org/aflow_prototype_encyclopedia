@@ -1,0 +1,24 @@
+{
+    "uid": "MSL9",
+    "prototype": "H6O6Te",
+    "prototype_tex": "H$_{6}$O$_{6}$Te",
+    "label": "A6B_cF224_228_h_c-001",
+    "parameter_symbol": [
+        "a",
+        "x2",
+        "y2",
+        "z2"
+    ],
+    "parameter_values": [
+        15.48,
+        0.543,
+        0.638,
+        0.278
+    ],
+    "strukturbericht": null,
+    "title": "Te[OH]$_{6}$ Structure ({\\em Obsolete})",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A6B_cF224_228_h_c"
+}

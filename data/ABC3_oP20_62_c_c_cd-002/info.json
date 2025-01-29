@@ -1,0 +1,41 @@
+{
+    "uid": "8RDG",
+    "prototype": "N(NH4)O3",
+    "prototype_tex": "N(NH$_{4}$)O$_{3}$",
+    "label": "ABC3_oP20_62_c_c_cd-002",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        7.65,
+        0.762092,
+        0.933333,
+        0.145,
+        0.14,
+        0.02,
+        0.68,
+        0.085,
+        0.3,
+        0.175,
+        0.06,
+        0.06
+    ],
+    "strukturbericht": "G0_10",
+    "title": "NH$_{4}$NO$_{3}$ III ($G0_{10}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$G0_{10}$",
+    "compounds": {},
+    "alias": "ABC3_oP20_62_c_c_cd.N.NH4.O"
+}

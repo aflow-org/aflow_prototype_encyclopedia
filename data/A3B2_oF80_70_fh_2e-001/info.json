@@ -1,0 +1,34 @@
+{
+    "uid": "HQ18",
+    "prototype": "S3Sc2",
+    "prototype_tex": "S$_{3}$Sc$_{2}$",
+    "label": "A3B2_oF80_70_fh_2e-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "x2",
+        "y3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        22.05,
+        0.33469,
+        0.47111,
+        0.0408,
+        0.3761,
+        0.3697,
+        0.0439,
+        0.1217,
+        0.8769
+    ],
+    "strukturbericht": null,
+    "title": "Sc$_{2}$S$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B2_oF80_70_fh_2e-001"
+}

@@ -1,0 +1,59 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Al2O5(OH)4Si2 (nacrite, S5_4)
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A2B4C9D2_mC68_9_2a_4a_9a_2a-001
+
+# Last updated on 2024/07/30
+
+data_A2B4C9D2_mC68_9_2a_4a_9a_2a-001
+_pd_phase_name A2B4C9D2_mC68_9_2a_4a_9a_2a-001
+_cell_length_a  8.9100000000
+_cell_length_b  5.1440000000
+_cell_length_c  18.4318636635
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  128.8793667925
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Cc'
+_symmetry_Int_Tables_Number  9
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  x,-y,z+1/2
+  3  x+1/2,y+1/2,z
+  4  x+1/2,-y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Al1  1.0000000000 0.3273000000 0.6797000000 0.9998000000  Biso 1.0 Al 4 a
+Al2  1.0000000000 0.1632000000 0.1745000000 0.0004000000  Biso 1.0 Al 4 a
+H3   1.0000000000 0.5220000000 0.0680000000 0.0960000000  Biso 1.0 H  4 a
+H4   1.0000000000 0.4770000000 0.6600000000 0.3780000000  Biso 1.0 H  4 a
+H5   1.0000000000 0.6800000000 0.0960000000 0.3800000000  Biso 1.0 H  4 a
+H6   1.0000000000 0.8790000000 0.6360000000 0.3800000000  Biso 1.0 H  4 a
+O7   1.0000000000 0.3564000000 0.7511000000 0.2215000000  Biso 1.0 O  4 a
+O8   1.0000000000 0.4171000000 0.2527000000 0.2362000000  Biso 1.0 O  4 a
+O9   1.0000000000 0.6490000000 0.5575000000 0.2371000000  Biso 1.0 O  4 a
+O10  1.0000000000 0.1002000000 0.0611000000 0.0788000000  Biso 1.0 O  4 a
+O11  1.0000000000 0.2937000000 0.4880000000 0.0794000000  Biso 1.0 O  4 a
+O12  1.0000000000 0.4019000000 0.9879000000 0.0748000000  Biso 1.0 O  4 a
+O13  1.0000000000 0.0980000000 0.8653000000 0.9340000000  Biso 1.0 O  4 a
+O14  1.0000000000 0.2203000000 0.3707000000 0.9350000000  Biso 1.0 O  4 a
+O15  1.0000000000 0.4121000000 0.7932000000 0.9349000000  Biso 1.0 O  4 a
+Si16 1.0000000000 0.2529000000 0.0296000000 0.1897000000  Biso 1.0 Si 4 a
+Si17 1.0000000000 0.4249000000 0.5156000000 0.1907000000  Biso 1.0 Si 4 a

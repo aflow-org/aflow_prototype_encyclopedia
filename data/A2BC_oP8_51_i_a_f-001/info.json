@@ -1,0 +1,28 @@
+{
+    "uid": "DRSV",
+    "prototype": "BCU2",
+    "prototype_tex": "BCU$_{2}$",
+    "label": "A2BC_oP8_51_i_a_f-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z2",
+        "x3",
+        "z3"
+    ],
+    "parameter_values": [
+        6.0338,
+        0.582999,
+        0.680616,
+        0.7981,
+        0.9018,
+        0.6602
+    ],
+    "strukturbericht": null,
+    "title": "$\\alpha$-UB$_{2}$C Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BC_oP8_51_i_a_f-001"
+}

@@ -1,0 +1,20 @@
+{
+    "uid": "CCPW",
+    "prototype": "H3P",
+    "prototype_tex": "H$_{3}$P",
+    "label": "A3B_cP16_208_i_c-001",
+    "parameter_symbol": [
+        "a",
+        "x2"
+    ],
+    "parameter_values": [
+        6.31,
+        0.684
+    ],
+    "strukturbericht": null,
+    "title": "H$_{3}$P Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B_cP16_208_j_b"
+}

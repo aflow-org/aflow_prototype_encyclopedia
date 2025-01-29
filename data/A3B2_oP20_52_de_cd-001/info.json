@@ -1,0 +1,34 @@
+{
+    "uid": "12L3",
+    "prototype": "Bi3Sr2",
+    "prototype_tex": "Bi$_{3}$Sr$_{2}$",
+    "label": "A3B2_oP20_52_de_cd-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z1",
+        "x2",
+        "x3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        15.5832,
+        0.434583,
+        0.426068,
+        0.443,
+        0.4294,
+        0.0001,
+        0.6539,
+        0.064,
+        0.0788
+    ],
+    "strukturbericht": null,
+    "title": "Sr$_{2}$Bi$_{3}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B2_oP20_52_de_cd"
+}

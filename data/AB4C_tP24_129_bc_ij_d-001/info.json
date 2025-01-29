@@ -1,0 +1,30 @@
+{
+    "uid": "K69U",
+    "prototype": "CsF4Fe",
+    "prototype_tex": "CsF$_{4}$Fe",
+    "label": "AB4C_tP24_129_bc_ij_d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "y4",
+        "z4",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        7.7874,
+        0.839844,
+        0.5416,
+        0.0,
+        0.9671,
+        0.0202,
+        0.286
+    ],
+    "strukturbericht": null,
+    "title": "CsFeF$_{4}$ II Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB4C_tP24_129_bc_ij_d-001"
+}

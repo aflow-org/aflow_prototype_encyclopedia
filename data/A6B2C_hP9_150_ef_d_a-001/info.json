@@ -1,0 +1,26 @@
+{
+    "uid": "R3Z7",
+    "prototype": "F6Na2Th",
+    "prototype_tex": "F$_{6}$Na$_{2}$Th",
+    "label": "A6B2C_hP9_150_ef_d_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "x3",
+        "x4"
+    ],
+    "parameter_values": [
+        5.939,
+        0.642027,
+        0.558,
+        0.618,
+        0.251
+    ],
+    "strukturbericht": null,
+    "title": "$\\beta$-Na$_{2}$ThF$_{6}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A6B2C_hP9_150_ef_d_a-001"
+}

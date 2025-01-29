@@ -1,0 +1,34 @@
+{
+    "uid": "Y7TL",
+    "prototype": "Co5Ge7",
+    "prototype_tex": "Co$_{5}$Ge$_{7}$",
+    "label": "A5B7_tI24_107_ac_abd-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3",
+        "x4",
+        "z4",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        7.64,
+        0.760471,
+        0.0,
+        0.44,
+        0.46,
+        0.28,
+        0.5,
+        0.24,
+        0.71
+    ],
+    "strukturbericht": null,
+    "title": "Co$_{5}$Ge$_{7}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A5B7_tI24_107_ac_abd"
+}

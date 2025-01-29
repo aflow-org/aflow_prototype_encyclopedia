@@ -1,0 +1,24 @@
+{
+    "uid": "584Z",
+    "prototype": "Al5Mo",
+    "prototype_tex": "Al$_{5}$Mo",
+    "label": "A5B_hR12_167_ce_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3"
+    ],
+    "parameter_values": [
+        4.95098,
+        5.29792,
+        0.16667,
+        0.58333
+    ],
+    "strukturbericht": null,
+    "title": "Rhombohedral Al$_{5}$Mo Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A5B_hR12_167_ce_b-001"
+}

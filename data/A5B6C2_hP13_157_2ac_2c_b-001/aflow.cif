@@ -1,0 +1,50 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Ag5O6Pb2
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A5B6C2_hP13_157_2ac_2c_b-001
+
+# Last updated on 2024/08/01
+
+data_Ag5O6Pb2
+_pd_phase_name Ag5O6Pb2
+_cell_length_a  5.9390000000
+_cell_length_b  5.9390000000
+_cell_length_c  6.4280000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  120.0000000000
+_symmetry_space_group_name_H-M  'P31m'
+_symmetry_Int_Tables_Number  157
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -y,x-y,z
+  3  -x+y,-x,z
+  4  y,x,z
+  5  x-y,-y,z
+  6  -x,-x+y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Ag1 1.0000000000 0.0000033333 0.9999966667 0.2640000000  Biso 1.0 Ag 1 a
+Ag2 1.0000000000 0.0000033333 0.9999966667 0.7360000000  Biso 1.0 Ag 1 a
+Pb6 1.0000000000 0.3333333333 0.6666666667 0.0220000000  Biso 1.0 Pb 2 b
+Ag3 1.0000000000 0.5000033333 0.9999966667 0.5220000000  Biso 1.0 Ag 3 c
+O4 1.0000000000 0.6030033333 0.9999966667 0.2150000000  Biso 1.0 O 3 c
+O5 1.0000000000 0.3970033333 0.9999966667 0.8290000000  Biso 1.0 O 3 c

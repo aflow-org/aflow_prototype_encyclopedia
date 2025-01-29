@@ -1,0 +1,24 @@
+{
+    "uid": "CWHU",
+    "prototype": "IOPr",
+    "prototype_tex": "IOPr",
+    "label": "ABC_tP6_129_c_a_c-003",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "z3"
+    ],
+    "parameter_values": [
+        4.086,
+        2.24229,
+        0.672,
+        0.131
+    ],
+    "strukturbericht": null,
+    "title": "PrOI Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC_tP6_129_c_a_c-003"
+}

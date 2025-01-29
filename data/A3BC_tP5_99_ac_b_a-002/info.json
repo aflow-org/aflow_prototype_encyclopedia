@@ -1,0 +1,28 @@
+{
+    "uid": "Z2SB",
+    "prototype": "O3PbZr",
+    "prototype_tex": "O$_{3}$PbZr",
+    "label": "A3BC_tP5_99_ac_b_a-002",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3",
+        "z4"
+    ],
+    "parameter_values": [
+        4.046,
+        1.02308,
+        0.8973,
+        0.4517,
+        0.0,
+        0.3785
+    ],
+    "strukturbericht": null,
+    "title": "Tetragonal PZT [Pb(Zr$_{x}$Ti$_{1-x}$)O$_{3}$] Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3BC_tP5_99_bc_a_b"
+}

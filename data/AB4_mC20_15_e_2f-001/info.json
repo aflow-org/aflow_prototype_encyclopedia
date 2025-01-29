@@ -1,0 +1,38 @@
+{
+    "uid": "2S3X",
+    "prototype": "CrP4",
+    "prototype_tex": "CrP$_{4}$",
+    "label": "AB4_mC20_15_e_2f-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "y1",
+        "x2",
+        "y2",
+        "z2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        5.1914,
+        2.07266,
+        1.73778,
+        143.228,
+        0.81241,
+        0.70174,
+        0.83859,
+        0.67797,
+        0.21384,
+        0.97115,
+        0.18996
+    ],
+    "strukturbericht": null,
+    "title": "CrP$_{4}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB4_mC20_15_e_2f-001"
+}

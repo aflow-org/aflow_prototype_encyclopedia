@@ -1,0 +1,62 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Cd2Re2O7 (Phase IV)
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/ A2B7C2_oF88_22_k_bdefghij_k-001
+
+# Last updated on 2024/08/09
+
+data_Cd2Re2O7
+_pd_phase_name Cd2Re2O7
+_cell_length_a  7.3418897104
+_cell_length_b  7.3418897104
+_cell_length_c  10.4101000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  89.9977927081
+_symmetry_space_group_name_H-M  'I-4m2'
+_symmetry_Int_Tables_Number  119
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  y,-x,-z
+  4  -y,x,-z
+  5  x,-y,z
+  6  -x,y,z
+  7  y,x,-z
+  8  -y,-x,-z
+  9  x+1/2,y+1/2,z+1/2
+  10  -x+1/2,-y+1/2,z+1/2
+  11  y+1/2,-x+1/2,-z+1/2
+  12  -y+1/2,x+1/2,-z+1/2
+  13  x+1/2,-y+1/2,z+1/2
+  14  -x+1/2,y+1/2,z+1/2
+  15  y+1/2,x+1/2,-z+1/2
+  16  -y+1/2,-x+1/2,-z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+O2  1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 O  2 a
+O3  1.0000000000 0.0000000000 0.5000000000 0.2500000000  Biso 1.0 O  2 c
+O5  1.0000000000 0.0000000000 0.0000000000 0.6689000000  Biso 1.0 O  4 e
+O6  1.0000000000 0.0000000000 0.5000000000 0.5447000000  Biso 1.0 O  4 f
+O4  1.0000000000 0.7000000000 0.7000000000 0.0000000000  Biso 1.0 O  8 g
+O7  1.0000000000 0.6795800000 0.1795000000 0.2500000000  Biso 1.0 O  8 h
+Cd1 1.0000000000 0.2627800000 0.0000400000 0.8886000000  Biso 1.0 Cd 8 i
+Re8 1.0000000000 0.2490020000 0.9999980000 0.3740000000  Biso 1.0 Re 8 i

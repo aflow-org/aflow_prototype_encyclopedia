@@ -1,0 +1,38 @@
+{
+    "uid": "1XST",
+    "prototype": "Co2Na2O6Te",
+    "prototype_tex": "Co$_{2}$Na$_{2}$O$_{6}$Te",
+    "label": "A2B13C6D_hP44_182_bc_a2i_i_d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x5",
+        "y5",
+        "z5",
+        "x6",
+        "y6",
+        "z6",
+        "x7",
+        "y7",
+        "z7"
+    ],
+    "parameter_values": [
+        5.2889,
+        2.12046,
+        0.0660033,
+        0.701997,
+        0.506,
+        0.240003,
+        0.649997,
+        0.474,
+        0.643203,
+        0.974797,
+        0.8452
+    ],
+    "strukturbericht": null,
+    "title": "Na$_{2}$Co$_{2}$TeO$_{6}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B13C6D_hP44_182_bc_a2i_i_d-001"
+}

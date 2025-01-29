@@ -1,0 +1,30 @@
+{
+    "uid": "QB3A",
+    "prototype": "CoGe2",
+    "prototype_tex": "CoGe$_{2}$",
+    "label": "AB2_oC24_64_d_ef-002",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "y2",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        10.818,
+        0.525143,
+        0.525143,
+        0.613,
+        0.25,
+        0.158,
+        0.158
+    ],
+    "strukturbericht": null,
+    "title": "CoGe$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2_oC24_64_d_ef-002"
+}

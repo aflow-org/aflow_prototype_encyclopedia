@@ -1,0 +1,38 @@
+{
+    "uid": "3D07",
+    "prototype": "Ce5Co19",
+    "prototype_tex": "Ce$_{5}$Co$_{19}$",
+    "label": "A5B19_hR24_166_a2c_b3c2h-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "x4",
+        "x5",
+        "x6",
+        "x7",
+        "x8",
+        "z8",
+        "x9",
+        "z9"
+    ],
+    "parameter_values": [
+        4.939,
+        9.86232,
+        0.083,
+        0.154,
+        0.25,
+        0.333,
+        0.417,
+        0.625,
+        0.125,
+        0.542,
+        0.042
+    ],
+    "strukturbericht": null,
+    "title": "Ce$_{5}$Co$_{19}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A5B19_hR24_166_a2c_b3c2h-001"
+}

@@ -1,0 +1,72 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Ba19Li44
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A19B44_tI252_122_ac4e_2d10e-001
+
+# Last updated on 2024/08/01
+
+data_Ba76Li176
+_pd_phase_name Ba76Li176
+_cell_length_a  16.3911000000
+_cell_length_b  16.3911000000
+_cell_length_c  32.7120000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'I-42d'
+_symmetry_Int_Tables_Number  122
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  y,-x,-z
+  4  -y,x,-z
+  5  -x+1/2,y,-z+3/4
+  6  x+1/2,-y,-z+3/4
+  7  -y+1/2,-x,z+3/4
+  8  y+1/2,x,z+3/4
+  9  x+1/2,y+1/2,z+1/2
+  10  -x+1/2,-y+1/2,z+1/2
+  11  y+1/2,-x+1/2,-z+1/2
+  12  -y+1/2,x+1/2,-z+1/2
+  13  -x,y+1/2,-z+1/4
+  14  x,-y+1/2,-z+1/4
+  15  -y,-x+1/2,z+1/4
+  16  y,x+1/2,z+1/4
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Ba1 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Ba 4 a
+Ba2 1.0000000000 -0.0000000000 -0.0000000000 0.5952500000  Biso 1.0 Ba 8 c
+Li7 1.0000000000 0.4903000000 0.2500000000 0.1250000000  Biso 1.0 Li 8 d
+Li8 1.0000000000 0.9607000000 0.2500000000 0.1250000000  Biso 1.0 Li 8 d
+Ba3 1.0000000000 0.6119500000 0.5959300000 0.2020400000  Biso 1.0 Ba 16 e
+Ba4 1.0000000000 0.9152200000 0.6000300000 0.0502100000  Biso 1.0 Ba 16 e
+Ba5 1.0000000000 0.5043100000 0.8088100000 0.2510000000  Biso 1.0 Ba 16 e
+Ba6 1.0000000000 0.8570500000 0.8493300000 0.0748800000  Biso 1.0 Ba 16 e
+Li10 1.0000000000 0.7815000000 0.0619000000 0.0321000000  Biso 1.0 Li 16 e
+Li11 1.0000000000 0.7340000000 0.0191000000 0.1307000000  Biso 1.0 Li 16 e
+Li12 1.0000000000 0.6346000000 0.6622000000 0.3152000000  Biso 1.0 Li 16 e
+Li13 1.0000000000 0.0727000000 0.5626000000 0.1434000000  Biso 1.0 Li 16 e
+Li14 1.0000000000 0.7435000000 0.7705000000 0.2586000000  Biso 1.0 Li 16 e
+Li15 1.0000000000 0.6158000000 0.1376000000 0.0683000000  Biso 1.0 Li 16 e
+Li16 1.0000000000 0.6511000000 0.1765000000 0.1609000000  Biso 1.0 Li 16 e
+Li17 1.0000000000 0.7874000000 0.5752000000 0.2830000000  Biso 1.0 Li 16 e
+Li18 1.0000000000 0.7850000000 0.1873000000 0.0945000000  Biso 1.0 Li 16 e
+Li9 1.0000000000 0.6723000000 0.6708000000 0.0844000000  Biso 1.0 Li 16 e

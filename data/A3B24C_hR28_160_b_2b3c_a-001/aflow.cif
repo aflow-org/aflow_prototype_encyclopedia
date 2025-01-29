@@ -1,0 +1,63 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  I3S24Sb
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A3B24C_hR28_160_b_2b3c_a-001
+
+# Last updated on 2024/08/01
+
+data_I9S72Sb3
+_pd_phase_name I9S72Sb3
+_cell_length_a  24.8170000000
+_cell_length_b  24.8170000000
+_cell_length_c  4.4279000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  120.0000000000
+_symmetry_space_group_name_H-M  'R3m'
+_symmetry_Int_Tables_Number  160
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -y,x-y,z
+  3  -x+y,-x,z
+  4  -y,-x,z
+  5  -x+y,y,z
+  6  x,x-y,z
+  7  x+2/3,y+1/3,z+1/3
+  8  -y+2/3,x-y+1/3,z+1/3
+  9  -x+y+2/3,-x+1/3,z+1/3
+  10  -y+2/3,-x+1/3,z+1/3
+  11  -x+y+2/3,y+1/3,z+1/3
+  12  x+2/3,x-y+1/3,z+1/3
+  13  x+1/3,y+2/3,z+2/3
+  14  -y+1/3,x-y+2/3,z+2/3
+  15  -x+y+1/3,-x+2/3,z+2/3
+  16  -y+1/3,-x+2/3,z+2/3
+  17  -x+y+1/3,y+2/3,z+2/3
+  18  x+1/3,x-y+2/3,z+2/3
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Sb7 1.0000000000 0.0000000000 0.0000000000 0.3146000000  Biso 1.0 Sb 3 a
+I1 1.0000000000 0.9449000000 0.0551000000 -0.0000000000  Biso 1.0 I 9 b
+S2 1.0000000000 0.8661033333 0.1338966667 0.7229966667  Biso 1.0 S 9 b
+S3 1.0000000000 0.7580033333 0.2419966667 0.6934966667  Biso 1.0 S 9 b
+S4 1.0000000000 0.4501700000 0.4169300000 0.2810300000  Biso 1.0 S 18 c
+S5 1.0000000000 0.3841700000 0.4259300000 0.0457300000  Biso 1.0 S 18 c
+S6 1.0000000000 0.3729700000 0.4928300000 0.2537300000  Biso 1.0 S 18 c

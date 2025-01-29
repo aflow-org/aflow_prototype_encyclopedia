@@ -1,0 +1,28 @@
+{
+    "uid": "EUHG",
+    "prototype": "B4CeCo4",
+    "prototype_tex": "B$_{4}$CeCo$_{4}$",
+    "label": "A4BC4_tP18_137_g_a_g-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "y2",
+        "z2",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        5.0593,
+        1.39612,
+        0.08,
+        0.6,
+        0.503,
+        0.884
+    ],
+    "strukturbericht": null,
+    "title": "CeCo$_{4}$B$_{4}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4BC4_tP18_137_g_b_g"
+}

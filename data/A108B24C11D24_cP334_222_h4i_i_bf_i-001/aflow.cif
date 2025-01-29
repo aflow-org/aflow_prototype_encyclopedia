@@ -1,0 +1,95 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  [Ti6F27(H3O)3]2O3
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A108B24C11D24_cP334_222_h4i_i_bf_i-001
+
+# Last updated on 2024/07/30
+
+data_A108B24C11D24_cP334_222_h4i_i_bf_i-001
+_pd_phase_name A108B24C11D24_cP334_222_h4i_i_bf_i-001
+_cell_length_a  17.2014000000
+_cell_length_b  17.2014000000
+_cell_length_c  17.2014000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pn-3n'
+_symmetry_Int_Tables_Number  222
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y+1/2,z
+  3  -x+1/2,y,-z+1/2
+  4  x,-y+1/2,-z+1/2
+  5  z,x,y
+  6  z,-x+1/2,-y+1/2
+  7  -z+1/2,-x+1/2,y
+  8  -z+1/2,x,-y+1/2
+  9  y,z,x
+  10  -y+1/2,z,-x+1/2
+  11  y,-z+1/2,-x+1/2
+  12  -y+1/2,-z+1/2,x
+  13  y,x,-z+1/2
+  14  -y+1/2,-x+1/2,-z+1/2
+  15  y,-x+1/2,z
+  16  -y+1/2,x,z
+  17  x,z,-y+1/2
+  18  -x+1/2,z,y
+  19  -x+1/2,-z+1/2,-y+1/2
+  20  x,-z+1/2,y
+  21  z,y,-x+1/2
+  22  z,-y+1/2,x
+  23  -z+1/2,y,x
+  24  -z+1/2,-y+1/2,-x+1/2
+  25  -x,-y,-z
+  26  x+1/2,y+1/2,-z
+  27  x+1/2,-y,z+1/2
+  28  -x,y+1/2,z+1/2
+  29  -z,-x,-y
+  30  -z,x+1/2,y+1/2
+  31  z+1/2,x+1/2,-y
+  32  z+1/2,-x,y+1/2
+  33  -y,-z,-x
+  34  y+1/2,-z,x+1/2
+  35  -y,z+1/2,x+1/2
+  36  y+1/2,z+1/2,-x
+  37  -y,-x,z+1/2
+  38  y+1/2,x+1/2,z+1/2
+  39  -y,x+1/2,-z
+  40  y+1/2,-x,-z
+  41  -x,-z,y+1/2
+  42  x+1/2,-z,-y
+  43  x+1/2,z+1/2,y+1/2
+  44  -x,z+1/2,-y
+  45  -z,-y,x+1/2
+  46  -z,y+1/2,-x
+  47  z+1/2,-y,-x
+  48  z+1/2,y+1/2,x+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+O1  1.0000000000 0.7500000000 0.2500000000 0.2500000000  Biso 1.0 O   6 b
+O2  1.0000000000 0.0800000000 0.0800000000 0.0800000000  Biso 1.0 O  16 f
+F3  1.0000000000 0.2500000000 0.9426300000 0.9426300000  Biso 1.0 F  24 h
+F4  1.0000000000 0.0201200000 0.1829200000 0.6710700000  Biso 1.0 F  48 i
+F5  1.0000000000 0.1277100000 0.2917900000 0.6629800000  Biso 1.0 F  48 i
+F6  1.0000000000 0.0890500000 0.2130000000 0.5356600000  Biso 1.0 F  48 i
+F7  1.0000000000 0.0479000000 0.3605200000 0.5503600000  Biso 1.0 F  48 i
+H8  1.0000000000 0.0723000000 0.3999000000 0.4686000000  Biso 1.0 H  48 i
+Ti9 1.0000000000 0.0443200000 0.2713500000 0.6062000000  Biso 1.0 Ti 48 i

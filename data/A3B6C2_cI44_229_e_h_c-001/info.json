@@ -1,0 +1,22 @@
+{
+    "uid": "BC5E",
+    "prototype": "Ce3Ni6Si2",
+    "prototype_tex": "Ce$_{3}$Ni$_{6}$Si$_{2}$",
+    "label": "A3B6C2_cI44_229_e_h_c-001",
+    "parameter_symbol": [
+        "a",
+        "x2",
+        "y3"
+    ],
+    "parameter_values": [
+        8.9822,
+        0.28,
+        0.33
+    ],
+    "strukturbericht": null,
+    "title": "Ce$_{3}$Ni$_{6}$Si$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B6C2_cI44_229_e_h_c-001"
+}

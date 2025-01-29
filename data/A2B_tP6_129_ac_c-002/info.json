@@ -1,0 +1,24 @@
+{
+    "uid": "1R27",
+    "prototype": "P2U",
+    "prototype_tex": "P$_{2}$U",
+    "label": "A2B_tP6_129_ac_c-002",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "z3"
+    ],
+    "parameter_values": [
+        3.808,
+        2.04044,
+        0.635,
+        0.288
+    ],
+    "strukturbericht": null,
+    "title": "High-Temperature UP$_{2}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_tP6_129_ac_c-002"
+}

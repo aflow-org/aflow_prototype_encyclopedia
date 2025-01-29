@@ -1,0 +1,40 @@
+{
+    "uid": "QVKJ",
+    "prototype": "CuO4S",
+    "prototype_tex": "CuO$_{4}$S",
+    "label": "AB4C_oP24_62_a_2cd_c-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x2",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        8.409,
+        0.797836,
+        0.574741,
+        0.1293,
+        0.7353,
+        0.3646,
+        0.4385,
+        0.18363,
+        0.44979,
+        0.1328,
+        0.0674,
+        0.3083
+    ],
+    "strukturbericht": null,
+    "title": "Chalcocyanite (CuSO$_{4}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB4C_oP24_62_a_2cd_c"
+}

@@ -1,0 +1,30 @@
+{
+    "uid": "GN34",
+    "prototype": "BrCu4FH6O6",
+    "prototype_tex": "BrCu$_{4}$FH$_{6}$O$_{6}$",
+    "label": "AB6CD6E6_hP40_194_c_gh_b_k_k-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x4",
+        "x5",
+        "z5",
+        "x6",
+        "z6"
+    ],
+    "parameter_values": [
+        6.6713,
+        1.39177,
+        0.629493,
+        0.863203,
+        0.373,
+        0.797933,
+        0.40803
+    ],
+    "strukturbericht": null,
+    "title": "Barlowite [Cu$_{4}$FBr(OH)$_{6}$] Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB6CD6E6_hP40_194_c_gh_b_k_k-001"
+}

@@ -1,0 +1,51 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  FeNb2O6 (columbite, E5_1)
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/AB2C6_oP36_60_c_d_3d-001
+
+# Last updated on 2024/07/30
+
+data_AB2C6_oP36_60_c_d_3d-001
+_pd_phase_name AB2C6_oP36_60_c_d_3d-001
+_cell_length_a  14.2661000000
+_cell_length_b  5.7334000000
+_cell_length_c  5.0495000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pbcn'
+_symmetry_Int_Tables_Number  60
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y+1/2,z+1/2
+  3  -x,y,-z+1/2
+  4  x+1/2,-y+1/2,-z
+  5  -x,-y,-z
+  6  x+1/2,y+1/2,-z+1/2
+  7  x,-y,z+1/2
+  8  -x+1/2,y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Fe1 1.0000000000 0.0000000000 0.3311000000 0.2500000000  Biso 1.0 Fe 4 c
+Nb2 1.0000000000 0.3389000000 0.3191000000 0.2506000000  Biso 1.0 Nb 8 d
+O3  1.0000000000 0.0963000000 0.1041000000 0.0727000000  Biso 1.0 O  8 d
+O4  1.0000000000 0.4189000000 0.1163000000 0.0990000000  Biso 1.0 O  8 d
+O5  1.0000000000 0.7560000000 0.1236000000 0.0793000000  Biso 1.0 O  8 d

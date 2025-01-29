@@ -1,0 +1,24 @@
+{
+    "uid": "6XPU",
+    "prototype": "HTa2",
+    "prototype_tex": "HTa$_{2}$",
+    "label": "AB2_oC6_21_a_k-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z2"
+    ],
+    "parameter_values": [
+        3.398,
+        1.39432,
+        1.40165,
+        0.262
+    ],
+    "strukturbericht": null,
+    "title": "Ta$_{2}$H Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2_oC6_21_a_k"
+}

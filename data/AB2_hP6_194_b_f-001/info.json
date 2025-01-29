@@ -1,0 +1,22 @@
+{
+    "uid": "21YK",
+    "prototype": "CaIn2",
+    "prototype_tex": "CaIn$_{2}$",
+    "label": "AB2_hP6_194_b_f-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2"
+    ],
+    "parameter_values": [
+        4.895,
+        1.58325,
+        0.045
+    ],
+    "strukturbericht": null,
+    "title": "CaIn$_{2}$ Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2_hP6_194_b_f"
+}

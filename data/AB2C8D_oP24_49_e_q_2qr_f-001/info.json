@@ -1,0 +1,40 @@
+{
+    "uid": "M8U7",
+    "prototype": "CsMo2O8Pr",
+    "prototype_tex": "CsMo$_{2}$O$_{8}$Pr",
+    "label": "AB2C8D_oP24_49_e_q_2qr_f-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x3",
+        "y3",
+        "x4",
+        "y4",
+        "x5",
+        "y5",
+        "x6",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        9.56,
+        0.537657,
+        0.864017,
+        0.7004,
+        0.5184,
+        0.5697,
+        0.258,
+        0.8693,
+        0.3652,
+        0.6943,
+        0.7383,
+        0.1714
+    ],
+    "strukturbericht": null,
+    "title": "CsPr(MoO$_{4}$)$_{2}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2C8D_oP24_49_g_q_2qr_e"
+}

@@ -1,0 +1,24 @@
+{
+    "uid": "575A",
+    "prototype": "CdKSe4",
+    "prototype_tex": "CdKSe$_{4}$",
+    "label": "ABC4_tP12_125_a_b_m-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "z3"
+    ],
+    "parameter_values": [
+        6.376,
+        1.3063,
+        0.3822,
+        0.2163
+    ],
+    "strukturbericht": null,
+    "title": "KCeSe$_{4}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC4_tP12_125_a_b_m"
+}

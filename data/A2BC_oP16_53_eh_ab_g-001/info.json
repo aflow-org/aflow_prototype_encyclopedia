@@ -1,0 +1,31 @@
+{
+    "uid": "DCYY",
+    "prototype": "F2H5N",
+    "prototype_tex": "F$_{2}$H$_{5}$N",
+    "label": "A2BC_oP16_53_eh_ab_g-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x3",
+        "y4",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        8.426,
+        0.43793,
+        0.970805,
+        0.137,
+        0.46,
+        0.131,
+        0.629
+    ],
+    "strukturbericht": "F5_8",
+    "title": "NH$_{4}$HF$_{2}$ ($F5_{8}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$F5_{8}$",
+    "compounds": {},
+    "alias": "A2BC_oP16_53_eh_ab_g"
+}

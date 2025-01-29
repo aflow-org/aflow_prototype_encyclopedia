@@ -1,0 +1,40 @@
+{
+    "uid": "Q57Q",
+    "prototype": "AlF4Rb",
+    "prototype_tex": "AlF$_{4}$Rb",
+    "label": "AB4C_oP24_59_c_efg_ab-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z1",
+        "z2",
+        "y4",
+        "z4",
+        "x5",
+        "z5",
+        "x6",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        7.2124,
+        0.999293,
+        0.865121,
+        0.487,
+        0.533,
+        0.9644,
+        0.979,
+        0.0396,
+        0.035,
+        0.9902,
+        0.9768,
+        0.2786
+    ],
+    "strukturbericht": null,
+    "title": "RbAlF$_{4}$ III Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB4C_oP24_59_c_efg_ab-001"
+}

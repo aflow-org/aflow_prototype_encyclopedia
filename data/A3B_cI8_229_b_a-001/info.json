@@ -1,0 +1,18 @@
+{
+    "uid": "VV0Z",
+    "prototype": "H3S",
+    "prototype_tex": "H$_{3}$S",
+    "label": "A3B_cI8_229_b_a-001",
+    "parameter_symbol": [
+        "a"
+    ],
+    "parameter_values": [
+        2.984
+    ],
+    "strukturbericht": null,
+    "title": "High-pressure (200GPa) H$_{3}$S Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B_cI8_229_b_a"
+}

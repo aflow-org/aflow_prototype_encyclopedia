@@ -1,0 +1,54 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  NbSe3
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/AB3_mP24_11_3e_9e-001
+
+# Last updated on 2024/08/01
+
+data_Nb6Se18
+_pd_phase_name Nb6Se18
+_cell_length_a  9.9840000000
+_cell_length_b  3.4831000000
+_cell_length_c  15.4593691373
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  71.9606154982
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P2_{1}/m'
+_symmetry_Int_Tables_Number  11
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y+1/2,-z
+  3  -x,-y,-z
+  4  x,-y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Nb1 1.0000000000 0.4657000000 0.2500000000 0.8823000000  Biso 1.0 Nb 2 e
+Nb2 1.0000000000 0.1076000000 0.2500000000 0.2054000000  Biso 1.0 Nb 2 e
+Nb3 1.0000000000 0.1651000000 0.2500000000 0.5389000000  Biso 1.0 Nb 2 e
+Se10 1.0000000000 0.6598000000 0.2500000000 0.4252000000  Biso 1.0 Se 2 e
+Se11 1.0000000000 0.0369000000 0.2500000000 0.4061000000  Biso 1.0 Se 2 e
+Se12 1.0000000000 0.6684000000 0.2500000000 0.5766000000  Biso 1.0 Se 2 e
+Se4 1.0000000000 0.3776000000 0.2500000000 0.0664000000  Biso 1.0 Se 2 e
+Se5 1.0000000000 0.7424000000 0.2500000000 0.0876000000  Biso 1.0 Se 2 e
+Se6 1.0000000000 0.5647000000 0.2500000000 0.2383000000  Biso 1.0 Se 2 e
+Se7 1.0000000000 0.9241000000 0.2500000000 0.9139000000  Biso 1.0 Se 2 e
+Se8 1.0000000000 0.0990000000 0.2500000000 0.7230000000  Biso 1.0 Se 2 e
+Se9 1.0000000000 0.7207000000 0.2500000000 0.7493000000  Biso 1.0 Se 2 e

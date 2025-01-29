@@ -1,0 +1,28 @@
+{
+    "uid": "ES6H",
+    "prototype": "BaO3Ru",
+    "prototype_tex": "BaO$_{3}$Ru",
+    "label": "AB3C_hR15_166_bc_dh_ac-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4",
+        "x6",
+        "z6"
+    ],
+    "parameter_values": [
+        5.75002,
+        3.75652,
+        0.7181,
+        0.8819,
+        0.786,
+        0.254
+    ],
+    "strukturbericht": null,
+    "title": "9R BaRuO$_{3}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3C_hR15_166_bc_dh_ac-001"
+}

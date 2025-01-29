@@ -1,0 +1,22 @@
+{
+    "uid": "JM3Q",
+    "prototype": "AuMn",
+    "prototype_tex": "AuMn",
+    "label": "AB_oP2_47_a_h-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a"
+    ],
+    "parameter_values": [
+        3.14,
+        1.00955,
+        1.04459
+    ],
+    "strukturbericht": null,
+    "title": "AuMn Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_oP2_47_a_h-001"
+}

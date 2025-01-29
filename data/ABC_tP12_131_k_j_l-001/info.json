@@ -1,0 +1,26 @@
+{
+    "uid": "ALQL",
+    "prototype": "IPdTe",
+    "prototype_tex": "IPdTe",
+    "label": "ABC_tP12_131_k_j_l-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3"
+    ],
+    "parameter_values": [
+        7.821,
+        0.723565,
+        0.2525,
+        0.2435,
+        0.2164
+    ],
+    "strukturbericht": null,
+    "title": "PdTeI Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC_tP12_131_k_j_l-001"
+}

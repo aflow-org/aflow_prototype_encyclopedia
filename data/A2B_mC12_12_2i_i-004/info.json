@@ -1,0 +1,36 @@
+{
+    "uid": "2JVM",
+    "prototype": "C2Ca",
+    "prototype_tex": "C$_{2}$Ca",
+    "label": "A2B_mC12_12_2i_i-004",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "z3"
+    ],
+    "parameter_values": [
+        7.2286,
+        0.532939,
+        1.62773,
+        143.243,
+        0.496,
+        0.935,
+        0.628,
+        0.553,
+        0.5428,
+        0.7514
+    ],
+    "strukturbericht": null,
+    "title": "CaC$_{2}$-III Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_mC12_12_2i_i"
+}

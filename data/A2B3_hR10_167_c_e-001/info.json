@@ -1,0 +1,25 @@
+{
+    "uid": "CBQY",
+    "prototype": "Al2O3",
+    "prototype_tex": "Al$_{2}$O$_{3}$",
+    "label": "A2B3_hR10_167_c_e-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2"
+    ],
+    "parameter_values": [
+        4.76067,
+        2.72958,
+        0.64784,
+        0.9439
+    ],
+    "strukturbericht": "D5_1",
+    "title": "Corundum ($\\alpha$-alumina, Al$_{2}$O$_{3}$, $D5_{1}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$D5_{1}$",
+    "compounds": {},
+    "alias": "A2B3_hR10_167_c_e"
+}

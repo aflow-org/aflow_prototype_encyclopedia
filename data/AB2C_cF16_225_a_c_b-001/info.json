@@ -1,0 +1,19 @@
+{
+    "uid": "02WQ",
+    "prototype": "AlCu2Mn",
+    "prototype_tex": "AlCu$_{2}$Mn",
+    "label": "AB2C_cF16_225_a_c_b-001",
+    "parameter_symbol": [
+        "a"
+    ],
+    "parameter_values": [
+        5.95
+    ],
+    "strukturbericht": "L2_1",
+    "title": "Heusler (Cu$_{2}$AlMn, $L2_{1}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$L2_{1}$",
+    "compounds": {},
+    "alias": "AB2C_cF16_225_a_c_b"
+}

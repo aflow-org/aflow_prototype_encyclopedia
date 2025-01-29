@@ -1,0 +1,36 @@
+{
+    "uid": "KZMB",
+    "prototype": "O5V2",
+    "prototype_tex": "O$_{5}$V$_{2}$",
+    "label": "A5B2_oP14_59_a2e_e-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z1",
+        "y2",
+        "z2",
+        "y3",
+        "z3",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        3.564,
+        3.23008,
+        1.22559,
+        0.999,
+        0.3957,
+        0.469,
+        0.5689,
+        0.997,
+        0.39882,
+        0.109
+    ],
+    "strukturbericht": null,
+    "title": "Shcherbinaite (V$_{2}$O$_{5}$) Structure ({\\em Revised})",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A5B2_oP14_59_a2f_f"
+}

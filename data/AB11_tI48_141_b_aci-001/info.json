@@ -1,0 +1,26 @@
+{
+    "uid": "EV03",
+    "prototype": "BaCd11",
+    "prototype_tex": "BaCd$_{11}$",
+    "label": "AB11_tI48_141_b_aci-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        12.02,
+        0.643927,
+        0.623,
+        0.955,
+        0.183
+    ],
+    "strukturbericht": null,
+    "title": "BaCd$_{11}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB11_tI48_141_a_bdi"
+}

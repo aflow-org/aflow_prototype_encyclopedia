@@ -1,0 +1,30 @@
+{
+    "uid": "BHER",
+    "prototype": "Ba3CoIr2O9",
+    "prototype_tex": "Ba$_{3}$CoIr$_{2}$O$_{9}$",
+    "label": "A3BC2D9_hP30_194_bf_a_f_hk-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4",
+        "x5",
+        "x6",
+        "z6"
+    ],
+    "parameter_values": [
+        5.7639,
+        2.48007,
+        0.912,
+        0.154,
+        0.5004,
+        0.1619,
+        0.4196
+    ],
+    "strukturbericht": null,
+    "title": "Hexagonal Ba$_{3}$CoIr$_{2}$O$_{9}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3BC2D9_hP30_194_bf_a_f_hk-001"
+}

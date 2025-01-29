@@ -1,0 +1,24 @@
+{
+    "uid": "M2PT",
+    "prototype": "AsNb",
+    "prototype_tex": "AsNb",
+    "label": "AB_tI8_109_a_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2"
+    ],
+    "parameter_values": [
+        3.4517,
+        3.38384,
+        0.416,
+        0.0
+    ],
+    "strukturbericht": null,
+    "title": "NbAs Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_tI8_109_a_a"
+}

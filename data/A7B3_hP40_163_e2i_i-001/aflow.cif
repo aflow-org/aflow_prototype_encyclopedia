@@ -1,0 +1,54 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Si2Te3
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A7B3_hP40_163_e2i_i-001
+
+# Last updated on 2024/08/02
+
+data_Si28Te12
+_pd_phase_name Si28Te12
+_cell_length_a  7.4300000000
+_cell_length_b  7.4300000000
+_cell_length_c  13.4820000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  120.0000000000
+_symmetry_space_group_name_H-M  'P-31c'
+_symmetry_Int_Tables_Number  163
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -y,x-y,z
+  3  -x+y,-x,z
+  4  -y,-x,-z+1/2
+  5  -x+y,y,-z+1/2
+  6  x,x-y,-z+1/2
+  7  -x,-y,-z
+  8  y,-x+y,-z
+  9  x-y,x,-z
+  10  y,x,z+1/2
+  11  x-y,-y,z+1/2
+  12  -x,-x+y,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Si1 1.0000000000 0.0000000000 0.0000000000 0.1659000000  Biso 1.0 Si 4 e
+Si2 1.0000000000 0.0114000000 0.1532000000 0.2794000000  Biso 1.0 Si 12 i
+Si3 1.0000000000 0.1916000000 0.6831000000 0.2230000000  Biso 1.0 Si 12 i
+Te4 1.0000000000 0.3263000000 0.0067000000 0.1180000000  Biso 1.0 Te 12 i

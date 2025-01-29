@@ -1,0 +1,32 @@
+{
+    "uid": "88NB",
+    "prototype": "Fe2KS3",
+    "prototype_tex": "Fe$_{2}$KS$_{3}$",
+    "label": "A2BC3_oC24_63_e_c_cg-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y1",
+        "y2",
+        "x3",
+        "x4",
+        "y4"
+    ],
+    "parameter_values": [
+        9.049,
+        1.2177,
+        0.600177,
+        0.6699,
+        0.1191,
+        0.8502,
+        0.7174,
+        0.8859
+    ],
+    "strukturbericht": null,
+    "title": "Rasvumite (KFe$_{2}$S$_{3}$) Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BC3_oC24_63_e_c_cg"
+}

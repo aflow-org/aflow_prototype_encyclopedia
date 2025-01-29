@@ -1,0 +1,30 @@
+{
+    "uid": "N4MV",
+    "prototype": "Bi2CuO4",
+    "prototype_tex": "Bi$_{2}$CuO$_{4}$",
+    "label": "A2BC4_tP28_130_f_c_g-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "x2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        8.51,
+        0.683196,
+        0.58,
+        0.5815,
+        0.045,
+        0.136,
+        0.597
+    ],
+    "strukturbericht": null,
+    "title": "CuBi$_{2}$O$_{4}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BC4_tP28_130_f_c_g"
+}

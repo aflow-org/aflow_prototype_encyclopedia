@@ -1,0 +1,32 @@
+{
+    "uid": "VW80",
+    "prototype": "NbS",
+    "prototype_tex": "NbS",
+    "label": "AB_hP16_186_ac_bc-002",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        6.702,
+        0.955685,
+        0.0,
+        0.25,
+        0.4785,
+        0.0,
+        0.8364,
+        0.25
+    ],
+    "strukturbericht": null,
+    "title": "Low Temperature Nb$_{1-x}$S Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_hP16_186_ac_bc-002"
+}

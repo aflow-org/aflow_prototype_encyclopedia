@@ -1,0 +1,24 @@
+{
+    "uid": "MMVG",
+    "prototype": "CaO4U",
+    "prototype_tex": "CaO$_{4}$U",
+    "label": "AB4C_hR6_166_a_2c_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "x4"
+    ],
+    "parameter_values": [
+        3.87818,
+        4.52899,
+        0.6118,
+        0.8627
+    ],
+    "strukturbericht": null,
+    "title": "CaUO$_{4}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB4C_hR6_166_b_2c_a"
+}

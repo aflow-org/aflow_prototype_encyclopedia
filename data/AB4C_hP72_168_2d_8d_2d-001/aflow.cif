@@ -1,0 +1,56 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  AlO4P
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/AB4C_hP72_168_2d_8d_2d-001
+
+# Last updated on 2024/08/01
+
+data_Al12O48P12
+_pd_phase_name Al12O48P12
+_cell_length_a  13.7600000000
+_cell_length_b  13.7600000000
+_cell_length_c  8.3900000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  120.0000000000
+_symmetry_space_group_name_H-M  'P6'
+_symmetry_Int_Tables_Number  168
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -y,x-y,z
+  3  -x+y,-x,z
+  4  -x,-y,z
+  5  y,-x+y,z
+  6  x-y,x,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Al1 1.0000000000 0.4498000000 0.1130000000 0.6253000000  Biso 1.0 Al 6 d
+Al2 1.0000000000 0.1278000000 0.4660000000 0.1246000000  Biso 1.0 Al 6 d
+O10 1.0000000000 0.1505000000 0.5625000000 0.5943000000  Biso 1.0 O 6 d
+O3 1.0000000000 0.4154000000 0.2053000000 0.0456000000  Biso 1.0 O 6 d
+O4 1.0000000000 0.2066000000 0.4189000000 0.5576000000  Biso 1.0 O 6 d
+O5 1.0000000000 0.4218000000 0.0894000000 0.8248000000  Biso 1.0 O 6 d
+O6 1.0000000000 0.1514000000 0.4907000000 0.3249000000  Biso 1.0 O 6 d
+O7 1.0000000000 0.3746000000 0.0106000000 0.0948000000  Biso 1.0 O 6 d
+O8 1.0000000000 0.0083000000 0.3667000000 0.4879000000  Biso 1.0 O 6 d
+O9 1.0000000000 0.5693000000 0.1616000000 0.0357000000  Biso 1.0 O 6 d
+P11 1.0000000000 0.4451000000 0.1173000000 0.0000000000  Biso 1.0 P 6 d
+P12 1.0000000000 0.1291000000 0.4589000000 0.4993000000  Biso 1.0 P 6 d

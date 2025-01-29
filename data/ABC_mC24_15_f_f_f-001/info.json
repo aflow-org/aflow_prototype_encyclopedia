@@ -1,0 +1,42 @@
+{
+    "uid": "SL80",
+    "prototype": "AuSbTe",
+    "prototype_tex": "AuSbTe",
+    "label": "ABC_mC24_15_f_f_f-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x1",
+        "y1",
+        "z1",
+        "x2",
+        "y2",
+        "z2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        11.947,
+        0.375073,
+        1.032477,
+        105.83,
+        0.37033,
+        0.2678,
+        0.37232,
+        0.47155,
+        0.2838,
+        0.59591,
+        0.30151,
+        0.3407,
+        0.14532
+    ],
+    "strukturbericht": null,
+    "title": "Pampaloite (AuSbTe) Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC_mC24_15_f_f_f-001"
+}

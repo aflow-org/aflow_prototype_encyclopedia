@@ -1,0 +1,36 @@
+{
+    "uid": "AZN3",
+    "prototype": "ClF3",
+    "prototype_tex": "ClF$_{3}$",
+    "label": "AB3_oP16_62_c_cd-005",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        8.82,
+        0.690476,
+        0.512472,
+        0.1582,
+        0.379,
+        0.0422,
+        0.101,
+        0.1517,
+        0.5315,
+        0.3634
+    ],
+    "strukturbericht": null,
+    "title": "Orthorhombic ClF$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3_oP16_62_c_cd-005"
+}

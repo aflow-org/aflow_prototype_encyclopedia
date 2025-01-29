@@ -1,0 +1,56 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+
+# Chemical Composition:  AsKSe2
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/ ABC2_aP16_1_4a_4a_8a-001
+
+# Last updated on 2024/08/01
+
+data_AsKSe2
+_pd_phase_name AsKSe2
+_cell_length_a  6.5540000000
+_cell_length_b  6.5580000000
+_cell_length_c  12.6270976516
+_cell_angle_alpha  100.4347534077
+_cell_angle_beta  100.4607406506
+_cell_angle_gamma  107.5300000000
+_symmetry_space_group_name_H-M  'P1'
+_symmetry_Int_Tables_Number  1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+As1  1.0000000000 0.3267000000 0.5820000000 0.1770000000  Biso 1.0 As 1 a
+As2  1.0000000000 0.5650000000 0.9868000000 0.4424000000  Biso 1.0 As 1 a
+As3  1.0000000000 0.5217000000 0.3883000000 0.6767000000  Biso 1.0 As 1 a
+As4  1.0000000000 0.9256000000 0.6254000000 0.9426000000  Biso 1.0 As 1 a
+K5   1.0000000000 0.0338000000 0.0476000000 0.2599000000  Biso 1.0 K  1 a
+K6   1.0000000000 0.0831000000 0.6072000000 0.4974000000  Biso 1.0 K  1 a
+K7   1.0000000000 0.9869000000 0.0949000000 0.7583000000  Biso 1.0 K  1 a
+K8   1.0000000000 0.5449000000 0.1443000000 0.9978000000  Biso 1.0 K  1 a
+Se9  1.0000000000 0.9789000000 0.5213000000 0.2073000000  Biso 1.0 Se 1 a
+Se10 1.0000000000 0.2903000000 0.5952000000 0.9813000000  Biso 1.0 Se 1 a
+Se11 1.0000000000 0.9384000000 0.0602000000 0.4998000000  Biso 1.0 Se 1 a
+Se12 1.0000000000 0.5068000000 0.9825000000 0.2448000000  Biso 1.0 Se 1 a
+Se13 1.0000000000 0.4596000000 0.0397000000 0.7080000000  Biso 1.0 Se 1 a
+Se14 1.0000000000 0.5326000000 0.3520000000 0.4818000000  Biso 1.0 Se 1 a
+Se15 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Se 1 a
+Se16 1.0000000000 0.9220000000 0.5690000000 0.7448000000  Biso 1.0 Se 1 a

@@ -1,0 +1,28 @@
+{
+    "uid": "FR9M",
+    "prototype": "CrK3O8",
+    "prototype_tex": "CrK$_{3}$O$_{8}$",
+    "label": "AB3C8_tI24_121_a_bd_2i-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x4",
+        "z4",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        6.703,
+        1.13859,
+        0.1355,
+        0.1788,
+        0.7079,
+        0.5082
+    ],
+    "strukturbericht": null,
+    "title": "K$_{3}$CrO$_{8}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3C8_tI24_121_a_bd_2i"
+}

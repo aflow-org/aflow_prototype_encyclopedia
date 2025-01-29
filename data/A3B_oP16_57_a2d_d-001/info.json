@@ -1,0 +1,35 @@
+{
+    "uid": "5B3E",
+    "prototype": "O3W",
+    "prototype_tex": "O$_{3}$W",
+    "label": "A3B_oP16_57_a2d_d-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x2",
+        "y2",
+        "x3",
+        "y3",
+        "x4",
+        "y4"
+    ],
+    "parameter_values": [
+        3.8,
+        1.94737,
+        1.89474,
+        -2.22045e-16,
+        0.78125,
+        0.5625,
+        0.96875,
+        0.0625,
+        0.96875
+    ],
+    "strukturbericht": "D0_10",
+    "title": "$D0_{10}$ (WO$_{3}$) Structure ({\\em Obsolete})",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$D0_{10}$",
+    "compounds": {},
+    "alias": "A3B_oP16_57_a2d_d"
+}

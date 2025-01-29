@@ -1,0 +1,29 @@
+{
+    "uid": "DN69",
+    "prototype": "ClFeO",
+    "prototype_tex": "ClFeO",
+    "label": "ABC_oP6_59_a_b_a-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3"
+    ],
+    "parameter_values": [
+        3.301,
+        1.14299,
+        2.39612,
+        0.32961,
+        0.95205,
+        0.89243
+    ],
+    "strukturbericht": "E0_5",
+    "title": "FeOCl ($E0_{5}$) Structure",
+    "part": 2,
+    "legacy": false,
+    "strukturbericht_tex": "$E0_{5}$",
+    "compounds": {},
+    "alias": "ABC_oP6_59_a_b_a"
+}

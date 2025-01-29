@@ -1,0 +1,30 @@
+{
+    "uid": "1EJ0",
+    "prototype": "IrSrO3",
+    "prototype_tex": "IrSrO$_{3}$",
+    "label": "A2B6C7_cI90_204_e_dg_ac2f-001",
+    "parameter_symbol": [
+        "a",
+        "x3",
+        "x4",
+        "x5",
+        "x6",
+        "y7",
+        "y8"
+    ],
+    "parameter_values": [
+        9.34,
+        0.3574,
+        0.15671,
+        0.3573,
+        0.2972,
+        0.3353,
+        0.2902
+    ],
+    "strukturbericht": null,
+    "title": "$\\beta$-SrIrO$_{3}$ Perovskite Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B6C7_cI90_204_e_dg_ac2f-001"
+}

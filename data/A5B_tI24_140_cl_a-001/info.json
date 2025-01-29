@@ -1,0 +1,24 @@
+{
+    "uid": "528Z",
+    "prototype": "Ga5Pd",
+    "prototype_tex": "Ga$_{5}$Pd",
+    "label": "A5B_tI24_140_cl_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "z3"
+    ],
+    "parameter_values": [
+        6.436,
+        1.55221,
+        0.6467,
+        0.6395
+    ],
+    "strukturbericht": null,
+    "title": "PdGa$_{5}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A5B_tI24_140_cl_a-001"
+}

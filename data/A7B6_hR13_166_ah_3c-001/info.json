@@ -1,0 +1,31 @@
+{
+    "uid": "MXB3",
+    "prototype": "Fe7W6",
+    "prototype_tex": "Fe$_{7}$W$_{6}$",
+    "label": "A7B6_hR13_166_ah_3c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3",
+        "x4",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        4.757,
+        5.43199,
+        0.833,
+        0.654,
+        0.552,
+        0.91,
+        0.40999
+    ],
+    "strukturbericht": "D8_5",
+    "title": "Fe$_{7}$W$_{6}$ ($D8_{5}$) $\\mu$-phase Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$D8_{5}$",
+    "compounds": {},
+    "alias": "A7B6_hR13_166_ah_3c"
+}

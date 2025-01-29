@@ -1,0 +1,32 @@
+{
+    "uid": "3CT8",
+    "prototype": "EuIr2P2",
+    "prototype_tex": "EuIr$_{2}$P$_{2}$",
+    "label": "AB2C2_hP15_154_a_ab_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        6.671,
+        1.05756,
+        0.6007,
+        0.1297,
+        0.5183,
+        0.2224,
+        0.8833,
+        0.959097
+    ],
+    "strukturbericht": null,
+    "title": "EuIr$_{2}$P$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2C2_hP15_154_a_ab_c-001"
+}

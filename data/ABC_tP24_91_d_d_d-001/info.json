@@ -1,0 +1,38 @@
+{
+    "uid": "S6UF",
+    "prototype": "BCTh",
+    "prototype_tex": "BCTh",
+    "label": "ABC_tP24_91_d_d_d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "y1",
+        "z1",
+        "x2",
+        "y2",
+        "z2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        3.762,
+        6.71079,
+        0.303,
+        0.202,
+        0.019,
+        0.296,
+        0.189,
+        0.08,
+        0.2975,
+        0.1983,
+        0.1795
+    ],
+    "strukturbericht": null,
+    "title": "ThBC Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC_tP24_91_d_d_d"
+}

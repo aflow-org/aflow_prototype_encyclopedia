@@ -1,0 +1,24 @@
+{
+    "uid": "VFEB",
+    "prototype": "Si",
+    "prototype_tex": "Si",
+    "label": "A_cP46_223_cik-001",
+    "parameter_symbol": [
+        "a",
+        "x2",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        10.355,
+        0.1837,
+        0.3077,
+        0.1172
+    ],
+    "strukturbericht": null,
+    "title": "Si$_{46}$ Clathrate Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A_cP46_223_dik"
+}

@@ -1,0 +1,34 @@
+{
+    "uid": "RUTB",
+    "prototype": "GeK",
+    "prototype_tex": "GeK",
+    "label": "AB_cP64_218_ei_ei-001",
+    "parameter_symbol": [
+        "a",
+        "x1",
+        "x2",
+        "x3",
+        "y3",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        12.78,
+        0.071,
+        0.332,
+        0.064,
+        0.32,
+        0.422,
+        0.336,
+        0.142,
+        0.064
+    ],
+    "strukturbericht": null,
+    "title": "KGe Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_cP64_218_ei_ei-001"
+}

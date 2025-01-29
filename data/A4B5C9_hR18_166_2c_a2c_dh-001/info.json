@@ -1,0 +1,32 @@
+{
+    "uid": "1911",
+    "prototype": "Ce4Ga5Rh9",
+    "prototype_tex": "Ce$_{4}$Ga$_{5}$Rh$_{9}$",
+    "label": "A4B5C9_hR18_166_2c_a2c_dh-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3",
+        "x4",
+        "x5",
+        "x7",
+        "z7"
+    ],
+    "parameter_values": [
+        5.57198,
+        6.28697,
+        0.54917,
+        0.64629,
+        0.77777,
+        0.88925,
+        0.50215,
+        0.61135
+    ],
+    "strukturbericht": null,
+    "title": "Ce$_{4}$Ga$_{5}$Rh$_{9}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4B5C9_hR18_166_2c_a2c_dh-001"
+}

@@ -1,0 +1,26 @@
+{
+    "uid": "XPEY",
+    "prototype": "AlB2Mn2",
+    "prototype_tex": "AlB$_{2}$Mn$_{2}$",
+    "label": "AB2C2_oC10_65_a_g_h-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x2",
+        "x3"
+    ],
+    "parameter_values": [
+        11.08,
+        0.263538,
+        0.26083,
+        0.209,
+        0.355
+    ],
+    "strukturbericht": null,
+    "title": "Mn$_{2}$AlB$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2C2_oC10_65_a_g_h-001"
+}

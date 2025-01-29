@@ -1,0 +1,22 @@
+{
+    "uid": "UTCF",
+    "prototype": "BaNiO3",
+    "prototype_tex": "BaNiO$_{3}$",
+    "label": "ABC3_hP10_194_c_a_h-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3"
+    ],
+    "parameter_values": [
+        5.58,
+        0.86595,
+        0.166673
+    ],
+    "strukturbericht": null,
+    "title": "BaNiO$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC3_hP10_194_c_a_h-001"
+}

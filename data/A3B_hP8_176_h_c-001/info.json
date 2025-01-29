@@ -1,0 +1,24 @@
+{
+    "uid": "CZNF",
+    "prototype": "Cl3U",
+    "prototype_tex": "Cl$_{3}$U",
+    "label": "A3B_hP8_176_h_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "y2"
+    ],
+    "parameter_values": [
+        7.428,
+        0.580506,
+        0.375003,
+        0.0829967
+    ],
+    "strukturbericht": null,
+    "title": "UCl$_{3}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B_hP8_176_h_c"
+}

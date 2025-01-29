@@ -1,0 +1,54 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Cl2H12MgO6 bischofite J17
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A2B12CD6_mC42_12_i_2i2j_a_ij-001
+
+# Last updated on 2024/08/01
+
+data_Cl4H24Mg2O12
+_pd_phase_name Cl4H24Mg2O12
+_cell_length_a  9.8607000000
+_cell_length_b  7.1071000000
+_cell_length_c  11.9152857262
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  149.4264415182
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'C2/m'
+_symmetry_Int_Tables_Number  12
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y,-z
+  3  -x,-y,-z
+  4  x,-y,z
+  5  x+1/2,y+1/2,z
+  6  -x+1/2,y+1/2,-z
+  7  -x+1/2,-y+1/2,-z
+  8  x+1/2,-y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Mg6 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Mg 2 a
+Cl1 1.0000000000 0.9298000000 -0.0000000000 0.6122000000  Biso 1.0 Cl 4 i
+H2 1.0000000000 0.4955000000 0.0000000000 0.2583000000  Biso 1.0 H 4 i
+H3 1.0000000000 0.2776000000 0.0000000000 0.0083000000  Biso 1.0 H 4 i
+O7 1.0000000000 0.3114000000 0.0000000000 0.1095000000  Biso 1.0 O 4 i
+H4 1.0000000000 0.7993000000 0.7997000000 0.2784000000  Biso 1.0 H 8 j
+H5 1.0000000000 0.6990000000 0.6984000000 0.3151000000  Biso 1.0 H 8 j
+O8 1.0000000000 0.6804000000 0.7067000000 0.2233000000  Biso 1.0 O 8 j

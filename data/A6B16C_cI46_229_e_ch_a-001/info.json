@@ -1,0 +1,22 @@
+{
+    "uid": "Y3T5",
+    "prototype": "Dy6Fe16O",
+    "prototype_tex": "Dy$_{6}$Fe$_{16}$O",
+    "label": "A6B16C_cI46_229_e_ch_a-001",
+    "parameter_symbol": [
+        "a",
+        "x3",
+        "y4"
+    ],
+    "parameter_values": [
+        8.8692,
+        0.28,
+        0.3333
+    ],
+    "strukturbericht": null,
+    "title": "Dy$_{6}$Fe$_{16}$O Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A6B16C_cI46_229_e_ch_a-001"
+}

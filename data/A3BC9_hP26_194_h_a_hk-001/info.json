@@ -1,0 +1,28 @@
+{
+    "uid": "LCWU",
+    "prototype": "CCaO3",
+    "prototype_tex": "CCaO$_{3}$",
+    "label": "A3BC9_hP26_194_h_a_hk-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        4.13,
+        2.05569,
+        0.29,
+        0.12,
+        0.38,
+        0.12
+    ],
+    "strukturbericht": null,
+    "title": "Hexagonal Vaterite (CaCO$_{3}$) Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3BC9_hP26_194_h_a_hk-001"
+}

@@ -1,0 +1,59 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Cu2Ta4O12
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A3B12C4_oP38_47_bcdefg_uvwxyz_A-001
+
+# Last updated on 2024/08/02
+
+data_Cu6O24Ta8
+_pd_phase_name Cu6O24Ta8
+_cell_length_a  7.5065000000
+_cell_length_b  7.5065000000
+_cell_length_c  7.5229000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pmmm'
+_symmetry_Int_Tables_Number  47
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  -x,y,-z
+  4  x,-y,-z
+  5  -x,-y,-z
+  6  x,y,-z
+  7  x,-y,z
+  8  -x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Cu4 1.0000000000 0.5000000000 0.0000000000 0.0000000000  Biso 1.0 Cu 1 b
+Cu2 1.0000000000 -0.0000000000 0.0000000000 0.5000000000  Biso 1.0 Cu 1 c
+Cu6 1.0000000000 0.5000000000 -0.0000000000 0.5000000000  Biso 1.0 Cu 1 d
+Cu1 1.0000000000 0.0000000000 0.5000000000 0.0000000000  Biso 1.0 Cu 1 e
+Cu5 1.0000000000 0.5000000000 0.5000000000 0.0000000000  Biso 1.0 Cu 1 f
+Cu3 1.0000000000 -0.0000000000 0.5000000000 0.5000000000  Biso 1.0 Cu 1 g
+O9 1.0000000000 -0.0000000000 0.1886000000 0.3157000000  Biso 1.0 O 4 u
+O10 1.0000000000 0.5000000000 0.3068000000 0.2074000000  Biso 1.0 O 4 v
+O7 1.0000000000 0.6967000000 -0.0000000000 0.1870000000  Biso 1.0 O 4 w
+O8 1.0000000000 0.8136000000 0.5000000000 0.3141000000  Biso 1.0 O 4 x
+O11 1.0000000000 0.8158000000 0.3027000000 0.0000000000  Biso 1.0 O 4 y
+O12 1.0000000000 0.6834000000 0.1904000000 0.5000000000  Biso 1.0 O 4 z
+Ta13 1.0000000000 0.7487000000 0.2514000000 0.2462000000  Biso 1.0 Ta 8 A

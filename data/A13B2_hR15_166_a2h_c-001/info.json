@@ -1,0 +1,31 @@
+{
+    "uid": "PZDF",
+    "prototype": "B13C2",
+    "prototype_tex": "B$_{13}$C$_{2}$",
+    "label": "A13B2_hR15_166_a2h_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3",
+        "z3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        5.61697,
+        2.154,
+        0.8823,
+        0.3044,
+        0.816,
+        0.4936,
+        0.1714
+    ],
+    "strukturbericht": "D1_g",
+    "title": "B$_{13}$C$_{2}$ ``B$_{4}$C'' ($D1_{g}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$D1_{g}$",
+    "compounds": {},
+    "alias": "A13B2_hR15_166_b2h_c"
+}

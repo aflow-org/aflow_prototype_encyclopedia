@@ -1,0 +1,35 @@
+{
+    "uid": "F86C",
+    "prototype": "KLiO4S",
+    "prototype_tex": "KLiO$_{4}$S",
+    "label": "ABC4D_hP14_173_a_b_bc_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3",
+        "z4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        5.146,
+        1.6782,
+        0.0,
+        0.3146,
+        0.5358,
+        0.7045,
+        0.3446,
+        0.4031,
+        0.7583
+    ],
+    "strukturbericht": "H1_4",
+    "title": "LiKSO$_{4}$ ($H1_{4}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$H1_{4}$",
+    "compounds": {},
+    "alias": "ABC4D_hP14_173_a_b_bc_b"
+}

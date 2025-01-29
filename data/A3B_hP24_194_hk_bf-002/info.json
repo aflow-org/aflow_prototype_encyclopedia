@@ -1,0 +1,28 @@
+{
+    "uid": "E109",
+    "prototype": "Al3Pu",
+    "prototype_tex": "Al$_{3}$Pu",
+    "label": "A3B_hP24_194_hk_bf-002",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "x3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        6.1,
+        2.37213,
+        0.0892,
+        0.516,
+        0.8337,
+        0.0815
+    ],
+    "strukturbericht": null,
+    "title": "Hexagonal PuAl$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B_hP24_194_hk_bf-002"
+}

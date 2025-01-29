@@ -1,0 +1,22 @@
+{
+    "uid": "CJUB",
+    "prototype": "Be3N2",
+    "prototype_tex": "Be$_{3}$N$_{2}$",
+    "label": "A3B2_hP10_194_bf_ac-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z4"
+    ],
+    "parameter_values": [
+        2.841,
+        3.41183,
+        0.075
+    ],
+    "strukturbericht": null,
+    "title": "$\\beta$-Be$_{3}$N$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B2_hP10_194_bf_ac-001"
+}

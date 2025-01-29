@@ -1,0 +1,25 @@
+{
+    "uid": "WZ1P",
+    "prototype": "Cl2(H2O)6Sr",
+    "prototype_tex": "Cl$_{2}$(H$_{2}$O)$_{6}$Sr",
+    "label": "A2B6C_hP9_162_c_k_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "z3"
+    ],
+    "parameter_values": [
+        7.906,
+        0.514799,
+        0.613,
+        0.5162
+    ],
+    "strukturbericht": "I1_3",
+    "title": "$I1_{3}$ [SrCl$_{2}\\cdot$(H$_{2}$O)$_{6}$] ({\\em Obsolete}) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$I1_{3}$",
+    "compounds": {},
+    "alias": "A2B6C_hP9_162_d_k_a"
+}

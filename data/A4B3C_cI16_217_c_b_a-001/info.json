@@ -1,0 +1,20 @@
+{
+    "uid": "Y0MN",
+    "prototype": "S4Tl3V",
+    "prototype_tex": "S$_{4}$Tl$_{3}$V",
+    "label": "A4B3C_cI16_217_c_b_a-001",
+    "parameter_symbol": [
+        "a",
+        "x3"
+    ],
+    "parameter_values": [
+        7.51,
+        0.675
+    ],
+    "strukturbericht": null,
+    "title": "Tl$_{3}$VS$_{4}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4B3C_cI16_217_c_b_a-001"
+}

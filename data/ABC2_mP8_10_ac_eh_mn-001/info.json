@@ -1,0 +1,32 @@
+{
+    "uid": "ALSR",
+    "prototype": "AgAuTe2",
+    "prototype_tex": "AgAuTe$_{2}$",
+    "label": "ABC2_mP8_10_ac_eh_mn-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x5",
+        "z5",
+        "x6",
+        "z6"
+    ],
+    "parameter_values": [
+        5.1177,
+        0.86109,
+        1.45124,
+        89.979,
+        0.3911,
+        0.24179,
+        0.8723,
+        0.24913
+    ],
+    "strukturbericht": null,
+    "title": "Muthmannite (AuAgTe$_{2}$) Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC2_mP8_10_ac_eh_mn"
+}

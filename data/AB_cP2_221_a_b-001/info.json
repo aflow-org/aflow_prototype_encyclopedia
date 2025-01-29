@@ -1,0 +1,19 @@
+{
+    "uid": "5YKM",
+    "prototype": "(NH4)(NO3)",
+    "prototype_tex": "(NH$_{4}$)(NO$_{3}$)",
+    "label": "AB_cP2_221_a_b-001",
+    "parameter_symbol": [
+        "a"
+    ],
+    "parameter_values": [
+        4.4
+    ],
+    "strukturbericht": "G0_8",
+    "title": "NH$_{4}$NO$_{3}$ I ($G0_{8}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$G0_{8}$",
+    "compounds": {},
+    "alias": "AB_cP2_221_a_b.NH4.NO3"
+}

@@ -1,0 +1,30 @@
+{
+    "uid": "0WD7",
+    "prototype": "Al9FeMg3Si5",
+    "prototype_tex": "Al$_{9}$FeMg$_{3}$Si$_{5}$",
+    "label": "A9BC3D5_hP18_189_fi_a_g_bh-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "x4",
+        "z5",
+        "x6",
+        "z6"
+    ],
+    "parameter_values": [
+        6.64,
+        1.19277,
+        0.378,
+        0.43,
+        0.266,
+        0.755,
+        0.236
+    ],
+    "strukturbericht": null,
+    "title": "$\\pi$-FeMg$_{3}$Al$_{9}$Si$_{5}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A9BC3D5_hP18_189_fi_a_g_bh"
+}

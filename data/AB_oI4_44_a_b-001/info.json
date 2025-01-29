@@ -1,0 +1,26 @@
+{
+    "uid": "JZUV",
+    "prototype": "AsGa",
+    "prototype_tex": "AsGa",
+    "label": "AB_oI4_44_a_b-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z1",
+        "z2"
+    ],
+    "parameter_values": [
+        4.92,
+        0.973577,
+        0.535569,
+        0.0,
+        0.425
+    ],
+    "strukturbericht": null,
+    "title": "High-pressure GaAs Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_oI4_44_a_b"
+}

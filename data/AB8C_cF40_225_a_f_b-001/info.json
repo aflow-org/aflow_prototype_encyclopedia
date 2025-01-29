@@ -1,0 +1,20 @@
+{
+    "uid": "WSA1",
+    "prototype": "BH4K",
+    "prototype_tex": "BH$_{4}$K",
+    "label": "AB8C_cF40_225_a_f_b-001",
+    "parameter_symbol": [
+        "a",
+        "x3"
+    ],
+    "parameter_values": [
+        6.7074,
+        0.1029
+    ],
+    "strukturbericht": null,
+    "title": "Room Temperature KBD$_{4}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB8C_cF40_225_a_f_b-001"
+}

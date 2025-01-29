@@ -1,0 +1,25 @@
+{
+    "uid": "0VRY",
+    "prototype": "ClFPb",
+    "prototype_tex": "ClFPb",
+    "label": "ABC_tP6_129_c_a_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "z3"
+    ],
+    "parameter_values": [
+        4.11,
+        1.76302,
+        0.6497,
+        0.2058
+    ],
+    "strukturbericht": "E0_1",
+    "title": "Matlockite ($E0_{1}$, PbFCl) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$E0_{1}$",
+    "compounds": {},
+    "alias": "ABC_tP6_129_c_a_c"
+}

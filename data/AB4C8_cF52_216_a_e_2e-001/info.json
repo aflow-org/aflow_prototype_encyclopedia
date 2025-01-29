@@ -1,0 +1,24 @@
+{
+    "uid": "BEEG",
+    "prototype": "GaMo4S8",
+    "prototype_tex": "GaMo$_{4}$S$_{8}$",
+    "label": "AB4C8_cF52_216_a_e_2e-001",
+    "parameter_symbol": [
+        "a",
+        "x2",
+        "x3",
+        "x4"
+    ],
+    "parameter_values": [
+        9.7294,
+        0.3974,
+        0.6343,
+        0.135
+    ],
+    "strukturbericht": null,
+    "title": "Room Temperature GaMo$_{4}$S$_{8}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB4C8_cF52_216_a_e_2e"
+}

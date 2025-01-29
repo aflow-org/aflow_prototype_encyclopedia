@@ -1,0 +1,43 @@
+{
+    "uid": "T76D",
+    "prototype": "H3LiO2",
+    "prototype_tex": "H$_{3}$LiO$_{2}$",
+    "label": "A3BC2_mC24_12_ij_g_hi-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "y1",
+        "y2",
+        "x3",
+        "z3",
+        "x4",
+        "z4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        7.8991,
+        1.04569,
+        0.878733,
+        156.287,
+        0.8474,
+        0.2066,
+        0.394,
+        0.657,
+        0.1095,
+        0.3238,
+        0.397,
+        0.618,
+        0.29
+    ],
+    "strukturbericht": "B36",
+    "title": "LiOH$\\cdot$H$_{2}$O ($B36$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$B36$",
+    "compounds": {},
+    "alias": "A3BC2_mC24_12_ij_h_gi"
+}

@@ -1,0 +1,24 @@
+{
+    "uid": "7TJQ",
+    "prototype": "ClZr",
+    "prototype_tex": "ClZr",
+    "label": "AB_hR4_166_c_c-005",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2"
+    ],
+    "parameter_values": [
+        3.424,
+        7.75993,
+        0.3901,
+        0.12205
+    ],
+    "strukturbericht": null,
+    "title": "Rhombohedral ZrCl Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_hR4_166_c_c-005"
+}

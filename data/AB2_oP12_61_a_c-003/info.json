@@ -1,0 +1,28 @@
+{
+    "uid": "WV1J",
+    "prototype": "PdSe2",
+    "prototype_tex": "PdSe$_{2}$",
+    "label": "AB2_oP12_61_a_c-003",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x2",
+        "y2",
+        "z2"
+    ],
+    "parameter_values": [
+        5.741,
+        1.02177,
+        1.33966,
+        0.112,
+        0.117,
+        0.407
+    ],
+    "strukturbericht": null,
+    "title": "PdSe$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2_oP12_61_a_c-003"
+}

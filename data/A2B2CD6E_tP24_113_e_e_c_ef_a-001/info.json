@@ -1,0 +1,40 @@
+{
+    "uid": "LSFQ",
+    "prototype": "Ba2GeOS6Zn",
+    "prototype_tex": "Ba$_{2}$GeOS$_{6}$Zn",
+    "label": "A2B2CD6E_tP24_113_e_e_c_ef_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4",
+        "x5",
+        "z5",
+        "x6",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        9.6359,
+        0.669434,
+        0.183,
+        0.1603,
+        0.5022,
+        0.3749,
+        0.9304,
+        0.3647,
+        0.2635,
+        0.32,
+        0.4379,
+        0.2282
+    ],
+    "strukturbericht": null,
+    "title": "Ba$_{2}$ZnGe$_{2}$S$_{6}$O Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B2CD6E_tP24_113_e_e_c_ef_a-001"
+}

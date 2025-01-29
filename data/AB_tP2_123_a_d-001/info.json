@@ -1,0 +1,21 @@
+{
+    "uid": "9JUZ",
+    "prototype": "AuCu",
+    "prototype_tex": "AuCu",
+    "label": "AB_tP2_123_a_d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a"
+    ],
+    "parameter_values": [
+        2.802,
+        1.31014
+    ],
+    "strukturbericht": "L1_0",
+    "title": "CuAu(I) ($L1_{0}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$L1_{0}$",
+    "compounds": {},
+    "alias": "AB_tP2_123_a_d"
+}

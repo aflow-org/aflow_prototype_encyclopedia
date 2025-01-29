@@ -1,0 +1,22 @@
+{
+    "uid": "1BYJ",
+    "prototype": "C",
+    "prototype_tex": "C",
+    "label": "A_hP6_194_h-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1"
+    ],
+    "parameter_values": [
+        4.4044,
+        0.568908,
+        0.44799
+    ],
+    "strukturbericht": null,
+    "title": "Hypothetical Tetrahedrally Bonded Carbon with 3-Member Rings Model Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A_hP6_194_h"
+}

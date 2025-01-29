@@ -1,0 +1,36 @@
+{
+    "uid": "7D48",
+    "prototype": "Al3Zr2",
+    "prototype_tex": "Al$_{3}$Zr$_{2}$",
+    "label": "A3B2_oF40_43_ab_b-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z1",
+        "x2",
+        "y2",
+        "z2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        13.906,
+        0.690421,
+        0.400547,
+        0.875,
+        0.366,
+        0.685,
+        -1.11022e-16,
+        0.446,
+        0.682,
+        0.5
+    ],
+    "strukturbericht": null,
+    "title": "Zr$_{2}$Al$_{3}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B2_oF40_43_ab_b"
+}

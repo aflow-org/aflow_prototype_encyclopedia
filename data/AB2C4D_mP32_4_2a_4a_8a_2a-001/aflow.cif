@@ -1,0 +1,56 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  FeLi2O4Si
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/AB2C4D_mP32_4_2a_4a_8a_2a-001
+
+# Last updated on 2024/08/01
+
+data_Fe4Li8O16Si4
+_pd_phase_name Fe4Li8O16Si4
+_cell_length_a  8.2333500000
+_cell_length_b  5.0200200000
+_cell_length_c  8.2289800000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  99.2027000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P2_{1}'
+_symmetry_Int_Tables_Number  4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y+1/2,-z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Fe1 1.0000000000 0.5371000000 0.0840000000 0.2883000000  Biso 1.0 Fe 2 a
+Fe2 1.0000000000 0.0451000000 0.1860000000 0.7952000000  Biso 1.0 Fe 2 a
+Li3 1.0000000000 0.6700000000 0.0970000000 0.6700000000  Biso 1.0 Li 2 a
+Li4 1.0000000000 0.1610000000 0.1750000000 0.1730000000  Biso 1.0 Li 2 a
+Li5 1.0000000000 0.0880000000 0.6010000000 0.5820000000  Biso 1.0 Li 2 a
+Li6 1.0000000000 0.5930000000 0.6790000000 0.0830000000  Biso 1.0 Li 2 a
+O10 1.0000000000 0.3751000000 0.5680000000 0.9234000000  Biso 1.0 O 2 a
+O11 1.0000000000 0.4422000000 0.1810000000 0.6860000000  Biso 1.0 O 2 a
+O12 1.0000000000 0.9377000000 0.1100000000 0.1780000000  Biso 1.0 O 2 a
+O13 1.0000000000 0.2278000000 0.0250000000 0.9644000000  Biso 1.0 O 2 a
+O14 1.0000000000 0.7066000000 0.2600000000 0.4606000000  Biso 1.0 O 2 a
+O7 1.0000000000 0.8264000000 0.0800000000 0.8583000000  Biso 1.0 O 2 a
+O8 1.0000000000 0.3310000000 0.1650000000 0.3742000000  Biso 1.0 O 2 a
+O9 1.0000000000 0.8980000000 0.6750000000 0.4293000000  Biso 1.0 O 2 a
+Si15 1.0000000000 0.7939000000 0.1950000000 0.0438000000  Biso 1.0 Si 2 a
+Si16 1.0000000000 0.2904000000 0.0760000000 0.5389000000  Biso 1.0 Si 2 a

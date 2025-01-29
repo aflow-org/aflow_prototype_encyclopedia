@@ -1,0 +1,33 @@
+{
+    "uid": "NYRK",
+    "prototype": "SiC",
+    "prototype_tex": "SiC",
+    "label": "AB_hP12_186_a2b_a2b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3",
+        "z4",
+        "z5",
+        "z6"
+    ],
+    "parameter_values": [
+        3.0813,
+        4.90695,
+        0.1254,
+        0.0,
+        0.29215,
+        0.9585,
+        0.16675,
+        0.8335
+    ],
+    "strukturbericht": "B6",
+    "title": "Moissanite-6H SiC ($B6$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$B6$",
+    "compounds": {},
+    "alias": "AB_hP12_186_a2b_a2b"
+}

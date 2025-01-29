@@ -1,0 +1,30 @@
+{
+    "uid": "BVCU",
+    "prototype": "HgNa",
+    "prototype_tex": "HgNa",
+    "label": "AB_oC16_63_g_2c-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y1",
+        "y2",
+        "x3",
+        "y3"
+    ],
+    "parameter_values": [
+        7.19,
+        1.5007,
+        0.724618,
+        0.368,
+        0.814,
+        0.212,
+        0.088
+    ],
+    "strukturbericht": null,
+    "title": "NaHg Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_oC16_63_g_2c-001"
+}

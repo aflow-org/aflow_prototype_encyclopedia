@@ -1,0 +1,26 @@
+{
+    "uid": "HPJW",
+    "prototype": "O3W",
+    "prototype_tex": "O$_{3}$W",
+    "label": "A3B_tP16_130_cf_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "x3"
+    ],
+    "parameter_values": [
+        5.2759,
+        1.48718,
+        0.0028,
+        0.2847,
+        0.0287
+    ],
+    "strukturbericht": null,
+    "title": "$\\alpha$-WO$_{3}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B_tP16_130_cf_c"
+}

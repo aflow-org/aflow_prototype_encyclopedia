@@ -1,0 +1,59 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  BaBi4O15Ti4
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/AB4C15D4_oC96_36_a_2b_a7b_2b-001
+
+# Last updated on 2024/08/01
+
+data_Ba4Bi16O60Ti16
+_pd_phase_name Ba4Bi16O60Ti16
+_cell_length_a  41.8650100000
+_cell_length_b  5.4565000000
+_cell_length_c  5.4707000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Cmc2_{1}'
+_symmetry_Int_Tables_Number  36
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z+1/2
+  3  x,-y,z+1/2
+  4  -x,y,z
+  5  x+1/2,y+1/2,z
+  6  -x+1/2,-y+1/2,z+1/2
+  7  x+1/2,-y+1/2,z+1/2
+  8  -x+1/2,y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Ba1 1.0000000000 -0.0000000000 0.7530000000 0.2500000000  Biso 1.0 Ba 4 a
+O4 1.0000000000 0.0000000000 0.2910000000 0.3210000000  Biso 1.0 O 4 a
+Bi2 1.0000000000 0.6064600000 0.2530000000 0.2740000000  Biso 1.0 Bi 8 b
+Bi3 1.0000000000 0.7207600000 0.2510000000 0.2800000000  Biso 1.0 Bi 8 b
+O10 1.0000000000 0.5435000000 0.5200000000 0.0360000000  Biso 1.0 O 8 b
+O11 1.0000000000 0.6440000000 0.4910000000 0.0530000000  Biso 1.0 O 8 b
+O5 1.0000000000 0.5495000000 0.9630000000 0.5910000000  Biso 1.0 O 8 b
+O6 1.0000000000 0.9053000000 0.2310000000 0.3070000000  Biso 1.0 O 8 b
+O7 1.0000000000 0.6437000000 -0.0000000000 0.5450000000  Biso 1.0 O 8 b
+O8 1.0000000000 0.8046700000 0.2610000000 0.2860000000  Biso 1.0 O 8 b
+O9 1.0000000000 0.7499000000 0.0010000000 0.5370000000  Biso 1.0 O 8 b
+Ti12 1.0000000000 0.9494000000 0.2560000000 0.2770000000  Biso 1.0 Ti 8 b
+Ti13 1.0000000000 0.8465000000 0.2510000000 0.2960000000  Biso 1.0 Ti 8 b

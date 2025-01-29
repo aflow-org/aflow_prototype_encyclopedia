@@ -1,0 +1,38 @@
+{
+    "uid": "8XTL",
+    "prototype": "CaFe3O5",
+    "prototype_tex": "CaFe$_{3}$O$_{5}$",
+    "label": "AB3C5_oC36_63_c_af_c2f-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y2",
+        "y3",
+        "y4",
+        "z4",
+        "y5",
+        "z5",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        3.021,
+        3.31314,
+        4.18504,
+        0.52,
+        0.191,
+        0.2664,
+        0.1112,
+        0.6439,
+        0.4484,
+        0.9048,
+        0.135
+    ],
+    "strukturbericht": null,
+    "title": "CaFe$_{3}$O$_{5}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3C5_oC36_63_c_af_c2f-001"
+}

@@ -1,0 +1,26 @@
+{
+    "uid": "3A28",
+    "prototype": "Hf4N3",
+    "prototype_tex": "Hf$_{4}$N$_{3}$",
+    "label": "AB_hR8_166_2c_abc-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4",
+        "z5"
+    ],
+    "parameter_values": [
+        3.21282,
+        9.688207,
+        0.125,
+        0.291667,
+        0.416667
+    ],
+    "strukturbericht": null,
+    "title": "$\\zeta$-Hf$_{4}$N$_{3}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_hR8_166_2c_abc-001"
+}

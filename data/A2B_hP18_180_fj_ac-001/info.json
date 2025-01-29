@@ -1,0 +1,25 @@
+{
+    "uid": "TDY8",
+    "prototype": "Mg2Ni",
+    "prototype_tex": "Mg$_{2}$Ni",
+    "label": "A2B_hP18_180_fj_ac-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "x4"
+    ],
+    "parameter_values": [
+        5.198,
+        2.54136,
+        0.1141,
+        0.1635
+    ],
+    "strukturbericht": "C_a",
+    "title": "Mg$_{2}$Ni ($C_{a}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$C_{a}$",
+    "compounds": {},
+    "alias": "A2B_hP18_180_fi_bd"
+}

@@ -1,0 +1,24 @@
+{
+    "uid": "3FZ9",
+    "prototype": "AsCu3S4",
+    "prototype_tex": "AsCu$_{3}$S$_{4}$",
+    "label": "AB3C4_tI16_121_a_bd_i-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        5.33,
+        1.98311,
+        0.2442,
+        0.1248
+    ],
+    "strukturbericht": null,
+    "title": "Luzonite (Cu$_{3}$AsS$_{4}$) Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3C4_tI16_121_a_bd_i-001"
+}

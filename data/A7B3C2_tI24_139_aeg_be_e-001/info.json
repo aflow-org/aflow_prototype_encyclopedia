@@ -1,0 +1,28 @@
+{
+    "uid": "PDHZ",
+    "prototype": "O7Sr3Ti2",
+    "prototype_tex": "O$_{7}$Sr$_{3}$Ti$_{2}$",
+    "label": "A7B3C2_tI24_139_aeg_be_e-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4",
+        "z5",
+        "z6"
+    ],
+    "parameter_values": [
+        3.9,
+        5.22564,
+        0.188,
+        0.312,
+        0.094,
+        0.094
+    ],
+    "strukturbericht": null,
+    "title": "Sr$_{3}$Ti$_{2}$O$_{7}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A7B3C2_tI24_139_aeg_be_e"
+}

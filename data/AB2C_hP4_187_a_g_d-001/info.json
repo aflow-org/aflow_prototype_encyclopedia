@@ -1,0 +1,22 @@
+{
+    "uid": "ZZ9R",
+    "prototype": "AgC2Li",
+    "prototype_tex": "AgC$_{2}$Li",
+    "label": "AB2C_hP4_187_a_g_d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3"
+    ],
+    "parameter_values": [
+        3.7882834,
+        1.4064418,
+        0.380067568
+    ],
+    "strukturbericht": null,
+    "title": "LiAgC$_{2}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2C_hP4_187_a_g_d-001"
+}

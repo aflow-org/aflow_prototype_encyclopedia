@@ -1,0 +1,30 @@
+{
+    "uid": "PN0D",
+    "prototype": "B2CeRu2",
+    "prototype_tex": "B$_{2}$CeRu$_{2}$",
+    "label": "A2BC2_oF40_22_ej_ac_fi-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x3",
+        "y4",
+        "y5",
+        "x6"
+    ],
+    "parameter_values": [
+        9.0573,
+        1.10699,
+        0.716118,
+        0.3134,
+        0.3627,
+        0.6144,
+        0.9281
+    ],
+    "strukturbericht": null,
+    "title": "CeRu$_{2}$B$_{2}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BC2_oF40_22_fi_ad_gh"
+}

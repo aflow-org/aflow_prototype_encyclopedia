@@ -1,0 +1,64 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Ca4FH16KO28Si8 apophyllite S52
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A4BC16DE28F8_tP116_128_h_a_2i_b_g3i_i-001
+
+# Last updated on 2024/08/01
+
+data_Ca8F2H32K2O56Si16
+_pd_phase_name Ca8F2H32K2O56Si16
+_cell_length_a  8.9650000000
+_cell_length_b  8.9650000000
+_cell_length_c  15.7670000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P4/mnc'
+_symmetry_Int_Tables_Number  128
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  -y,x,z
+  4  y,-x,z
+  5  -x+1/2,y+1/2,-z+1/2
+  6  x+1/2,-y+1/2,-z+1/2
+  7  y+1/2,x+1/2,-z+1/2
+  8  -y+1/2,-x+1/2,-z+1/2
+  9  -x,-y,-z
+  10  x,y,-z
+  11  y,-x,-z
+  12  -y,x,-z
+  13  x+1/2,-y+1/2,z+1/2
+  14  -x+1/2,y+1/2,z+1/2
+  15  -y+1/2,-x+1/2,z+1/2
+  16  y+1/2,x+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+F2 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 F 2 a
+K5 1.0000000000 0.0000000000 0.0000000000 0.5000000000  Biso 1.0 K 2 b
+O6 1.0000000000 0.1369000000 0.6369000000 0.2500000000  Biso 1.0 O 8 g
+Ca1 1.0000000000 0.1094000000 0.2466000000 0.0000000000  Biso 1.0 Ca 8 h
+H3 1.0000000000 0.4515000000 0.1770000000 0.0775000000  Biso 1.0 H 16 i
+H4 1.0000000000 0.2362000000 0.4706000000 0.1198000000  Biso 1.0 H 16 i
+O7 1.0000000000 0.0846000000 0.1891000000 0.2178000000  Biso 1.0 O 16 i
+O8 1.0000000000 0.2636000000 0.1026000000 0.0923000000  Biso 1.0 O 16 i
+O9 1.0000000000 0.2131000000 0.4491000000 0.0898000000  Biso 1.0 O 16 i
+Si10 1.0000000000 0.2256000000 0.0865000000 0.1900000000  Biso 1.0 Si 16 i

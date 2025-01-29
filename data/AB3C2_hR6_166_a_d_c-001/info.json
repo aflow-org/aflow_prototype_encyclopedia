@@ -1,0 +1,22 @@
+{
+    "uid": "NAW4",
+    "prototype": "GaRh3Y2",
+    "prototype_tex": "GaRh$_{3}$Y$_{2}$",
+    "label": "AB3C2_hR6_166_a_d_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2"
+    ],
+    "parameter_values": [
+        5.571,
+        2.123676,
+        0.36984
+    ],
+    "strukturbericht": null,
+    "title": "Y$_{2}$Rh$_{3}$Ga Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3C2_hR6_166_a_d_c-001"
+}

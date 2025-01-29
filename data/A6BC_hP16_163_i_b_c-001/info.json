@@ -1,0 +1,27 @@
+{
+    "uid": "KLNT",
+    "prototype": "F6NaSb",
+    "prototype_tex": "F$_{6}$NaSb",
+    "label": "A6BC_hP16_163_i_b_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        5.227,
+        1.90932,
+        0.33,
+        0.33,
+        0.15
+    ],
+    "strukturbericht": "J1_12",
+    "title": "NaSbF$_{4}$(OH)$_{2}$ ($J1_{12}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$J1_{12}$",
+    "compounds": {},
+    "alias": "A6BC_hP16_163_i_b_c"
+}

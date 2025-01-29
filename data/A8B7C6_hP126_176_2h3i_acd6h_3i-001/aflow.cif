@@ -1,0 +1,67 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  B8Nb7Rh6
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A8B7C6_hP126_176_2h3i_acd6h_3i-001
+
+# Last updated on 2024/08/01
+
+data_B48Nb42Rh36
+_pd_phase_name B48Nb42Rh36
+_cell_length_a  16.1309000000
+_cell_length_b  16.1309000000
+_cell_length_c  6.5686000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  120.0000000000
+_symmetry_space_group_name_H-M  'P6_{3}/m'
+_symmetry_Int_Tables_Number  176
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -y,x-y,z
+  3  -x+y,-x,z
+  4  -x,-y,z+1/2
+  5  y,-x+y,z+1/2
+  6  x-y,x,z+1/2
+  7  -x,-y,-z
+  8  y,-x+y,-z
+  9  x-y,x,-z
+  10  x,y,-z+1/2
+  11  -y,x-y,-z+1/2
+  12  -x+y,-x,-z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Nb6 1.0000000000 0.0000000000 0.0000000000 0.2500000000  Biso 1.0 Nb 2 a
+Nb7 1.0000000000 0.3333300000 0.6666700000 0.2500000000  Biso 1.0 Nb 2 c
+Nb8 1.0000000000 0.6666700000 0.3333300000 0.2500000000  Biso 1.0 Nb 2 d
+B1 1.0000000000 0.3320000000 0.9980000000 0.2500000000  Biso 1.0 B 6 h
+B2 1.0000000000 0.3130000000 0.3300000000 0.2500000000  Biso 1.0 B 6 h
+Nb10 1.0000000000 0.5525000000 0.8184000000 0.2500000000  Biso 1.0 Nb 6 h
+Nb11 1.0000000000 0.2117000000 0.1529000000 0.2500000000  Biso 1.0 Nb 6 h
+Nb12 1.0000000000 0.4506000000 0.1831000000 0.2500000000  Biso 1.0 Nb 6 h
+Nb13 1.0000000000 0.6025000000 0.1234000000 0.2500000000  Biso 1.0 Nb 6 h
+Nb14 1.0000000000 0.3993000000 0.8784000000 0.2500000000  Biso 1.0 Nb 6 h
+Nb9 1.0000000000 0.0737000000 0.2184000000 0.2500000000  Biso 1.0 Nb 6 h
+B3 1.0000000000 0.5453000000 0.3063000000 0.4940000000  Biso 1.0 B 12 i
+B4 1.0000000000 0.5663000000 0.2033000000 0.5120000000  Biso 1.0 B 12 i
+B5 1.0000000000 0.0984000000 0.1274000000 0.4960000000  Biso 1.0 B 12 i
+Rh15 1.0000000000 0.4435400000 0.0417200000 0.5263000000  Biso 1.0 Rh 12 i
+Rh16 1.0000000000 0.2927300000 0.0691700000 0.4914000000  Biso 1.0 Rh 12 i
+Rh17 1.0000000000 0.3751400000 0.2645600000 0.4682000000  Biso 1.0 Rh 12 i

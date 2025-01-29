@@ -1,0 +1,51 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+
+# Chemical Composition:  PdSn2 (C_e)
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/ AB2_oC24_41_2a_2b-001
+
+# Last updated on 2024/08/01
+
+data_PdSn2
+_pd_phase_name PdSn2
+_cell_length_a  6.4780000000
+_cell_length_b  6.4780000000
+_cell_length_c  12.1550000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Aba2'
+_symmetry_Int_Tables_Number  41
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  x+1/2,-y,z+1/2
+  4  -x+1/2,y,z+1/2
+  5  x,y+1/2,z+1/2
+  6  -x,-y+1/2,z+1/2
+  7  x+1/2,-y+1/2,z
+  8  -x+1/2,y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Pd1 0.8900000000 0.0000000000 0.0000000000 0.0100000000  Biso 1.0 Pd 4 a
+Pd2 0.8900000000 0.0000000000 0.0000000000 0.2380000000  Biso 1.0 Pd 4 a
+Sn3 1.0000000000 0.3420000000 0.1580000000 0.1250000000  Biso 1.0 Sn 8 b
+Sn4 1.0000000000 0.2500000000 0.2500000000 0.8750000000  Biso 1.0 Sn 8 b

@@ -1,0 +1,23 @@
+{
+    "uid": "F2V5",
+    "prototype": "As",
+    "prototype_tex": "As",
+    "label": "A_hR2_166_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1"
+    ],
+    "parameter_values": [
+        3.75948,
+        2.78157,
+        0.22754
+    ],
+    "strukturbericht": "A7",
+    "title": "$\\alpha$-As ($A7$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$A7$",
+    "compounds": {},
+    "alias": "A_hR2_166_c.alpha-As"
+}

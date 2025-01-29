@@ -1,0 +1,40 @@
+{
+    "uid": "15N7",
+    "prototype": "Ir3Zr5",
+    "prototype_tex": "Ir$_{3}$Zr$_{5}$",
+    "label": "A3B5_hP48_178_ac_a2bc-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3",
+        "x4",
+        "x5",
+        "y5",
+        "z5",
+        "x6",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        7.9306,
+        2.14486,
+        0.6111,
+        0.284,
+        0.371,
+        0.6557,
+        0.4137,
+        0.0187,
+        0.1444,
+        0.2384,
+        0.0062,
+        0.3396
+    ],
+    "strukturbericht": null,
+    "title": "Zr$_{5}$Ir$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B5_hP48_178_ac_a2bc-001"
+}

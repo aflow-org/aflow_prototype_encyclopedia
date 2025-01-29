@@ -1,0 +1,36 @@
+{
+    "uid": "729H",
+    "prototype": "BaO3Pb",
+    "prototype_tex": "BaO$_{3}$Pb",
+    "label": "AB3C_mC20_12_i_ghi_e-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "y2",
+        "y3",
+        "x4",
+        "z4",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        8.5548,
+        0.99135,
+        0.70274,
+        134.806,
+        0.7235,
+        0.285,
+        0.2532,
+        0.5022,
+        0.1926,
+        -0.0624
+    ],
+    "strukturbericht": null,
+    "title": "$\\alpha$-BaPbO$_{3}$ Perovskite Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3C_mC20_12_i_ghi_e-001"
+}

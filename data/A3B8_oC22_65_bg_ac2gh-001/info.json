@@ -1,0 +1,30 @@
+{
+    "uid": "YUGM",
+    "prototype": "FNb3O7",
+    "prototype_tex": "FNb$_{3}$O$_{7}$",
+    "label": "A3B8_oC22_65_bg_ac2gh-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x4",
+        "x5",
+        "x6",
+        "x7"
+    ],
+    "parameter_values": [
+        20.67,
+        0.185438,
+        0.189985,
+        0.6836,
+        0.594,
+        0.21,
+        0.689
+    ],
+    "strukturbericht": null,
+    "title": "Nb$_{3}$O$_{7}$F Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B8_oC22_65_ag_bd2gh"
+}

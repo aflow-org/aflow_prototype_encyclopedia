@@ -1,0 +1,26 @@
+{
+    "uid": "QP36",
+    "prototype": "NiO6Sr2W",
+    "prototype_tex": "NiO$_{6}$Sr$_{2}$W",
+    "label": "AB6C2D_tI20_87_a_eh_d_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z4",
+        "x5",
+        "y5"
+    ],
+    "parameter_values": [
+        5.5571,
+        1.42396,
+        0.255,
+        0.289,
+        0.227
+    ],
+    "strukturbericht": null,
+    "title": "Sr$_{2}$NiWO$_{6}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB6C2D_tI20_87_a_eh_d_b"
+}

@@ -1,0 +1,23 @@
+{
+    "uid": "DCLX",
+    "prototype": "NaZn13",
+    "prototype_tex": "NaZn$_{13}$",
+    "label": "AB13_cF112_226_a_bi-001",
+    "parameter_symbol": [
+        "a",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        12.2836,
+        0.1806,
+        0.6192
+    ],
+    "strukturbericht": "D2_3",
+    "title": "NaZn$_{13}$ ($D2_{3}$) Structure",
+    "part": 2,
+    "legacy": false,
+    "strukturbericht_tex": "$D2_{3}$",
+    "compounds": {},
+    "alias": "AB13_cF112_226_a_bi"
+}

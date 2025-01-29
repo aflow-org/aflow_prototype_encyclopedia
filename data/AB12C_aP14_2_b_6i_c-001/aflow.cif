@@ -1,0 +1,48 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  CuF6Zr
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/AB12C_aP14_2_b_6i_c-001
+
+# Last updated on 2024/08/02
+
+data_Cu1F12Zr1
+_pd_phase_name Cu1F12Zr1
+_cell_length_a  5.4777800000
+_cell_length_b  5.5093200000
+_cell_length_c  5.5700000000
+_cell_angle_alpha  91.0011300000
+_cell_angle_beta  118.6111700000
+_cell_angle_gamma  119.5090600000
+_symmetry_space_group_name_H-M  'P-1'
+_symmetry_Int_Tables_Number  2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Cu1 1.0000000000 0.0000000000 0.0000000000 0.5000000000  Biso 1.0 Cu 1 b
+Zr8 1.0000000000 -0.0000000000 0.5000000000 0.0000000000  Biso 1.0 Zr 1 c
+F2 1.0000000000 0.0400000000 0.2500000000 0.2300000000  Biso 1.0 F 2 i
+F3 1.0000000000 0.0100000000 0.2200000000 0.2300000000  Biso 1.0 F 2 i
+F4 1.0000000000 0.9500000000 0.7000000000 0.2800000000  Biso 1.0 F 2 i
+F5 1.0000000000 0.9500000000 0.6800000000 0.2600000000  Biso 1.0 F 2 i
+F6 1.0000000000 0.4400000000 0.7400000000 0.3000000000  Biso 1.0 F 2 i
+F7 1.0000000000 0.4600000000 0.7900000000 0.2900000000  Biso 1.0 F 2 i

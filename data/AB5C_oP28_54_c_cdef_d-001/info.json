@@ -1,0 +1,38 @@
+{
+    "uid": "3HAW",
+    "prototype": "MoO5U",
+    "prototype_tex": "MoO$_{5}$U",
+    "label": "AB5C_oP28_54_c_cdef_d-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y1",
+        "y2",
+        "z3",
+        "z4",
+        "z5",
+        "x6",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        7.3494,
+        0.561298,
+        1.73429,
+        0.1069,
+        0.508,
+        0.2122,
+        0.02417,
+        0.5265,
+        0.9561,
+        0.002,
+        0.0994
+    ],
+    "strukturbericht": null,
+    "title": "UMoO$_{5}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB5C_oP28_54_c_cdef_d-001"
+}

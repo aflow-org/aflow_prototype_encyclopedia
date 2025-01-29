@@ -1,0 +1,33 @@
+{
+    "uid": "AB10",
+    "prototype": "Ga2Mg5",
+    "prototype_tex": "Ga$_{2}$Mg$_{5}$",
+    "label": "A2B5_oI28_72_j_afj-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x2",
+        "x3",
+        "y3",
+        "x4",
+        "y4"
+    ],
+    "parameter_values": [
+        13.7,
+        0.511679,
+        0.439416,
+        0.76,
+        0.878,
+        0.255,
+        0.77,
+        0.345
+    ],
+    "strukturbericht": "D8_g",
+    "title": "Ga$_{2}$Mg$_{5}$ ($D8_{g}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$D8_{g}$",
+    "compounds": {},
+    "alias": "A2B5_oI28_72_j_bfj"
+}

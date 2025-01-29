@@ -1,0 +1,22 @@
+{
+    "uid": "PUFU",
+    "prototype": "CuNiSb2",
+    "prototype_tex": "CuNiSb$_{2}$",
+    "label": "ABC2_hP4_164_a_b_d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3"
+    ],
+    "parameter_values": [
+        4.0482,
+        1.26777,
+        0.271
+    ],
+    "strukturbericht": null,
+    "title": "Zlatogorite (CuNiSb$_{2}$) Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC2_hP4_164_a_b_d"
+}

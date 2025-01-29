@@ -1,0 +1,32 @@
+{
+    "uid": "RKF7",
+    "prototype": "Re2U",
+    "prototype_tex": "Re$_{2}$U",
+    "label": "A2B_oC24_63_acg_f-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y2",
+        "y3",
+        "z3",
+        "x4",
+        "y4"
+    ],
+    "parameter_values": [
+        5.6,
+        1.63893,
+        1.51125,
+        0.83333,
+        0.33333,
+        0.0625,
+        0.25,
+        0.08333
+    ],
+    "strukturbericht": null,
+    "title": "URe$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_oC24_63_acg_f-001"
+}

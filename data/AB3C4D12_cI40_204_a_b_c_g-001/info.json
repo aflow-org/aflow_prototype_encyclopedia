@@ -1,0 +1,22 @@
+{
+    "uid": "RGPS",
+    "prototype": "CaCu3Mn4O12",
+    "prototype_tex": "CaCu$_{3}$Mn$_{4}$O$_{12}$",
+    "label": "AB3C4D12_cI40_204_a_b_c_g-001",
+    "parameter_symbol": [
+        "a",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        7.241,
+        0.3033,
+        0.1822
+    ],
+    "strukturbericht": null,
+    "title": "CaCu$_{3}$Mn$_{4}$O$_{12}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3C4D12_cI40_204_a_b_c_g-001"
+}

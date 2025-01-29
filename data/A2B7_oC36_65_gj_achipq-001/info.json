@@ -1,0 +1,38 @@
+{
+    "uid": "3WXK",
+    "prototype": "Ge2Li7",
+    "prototype_tex": "Ge$_{2}$Li$_{7}$",
+    "label": "A2B7_oC36_65_gj_achipq-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x3",
+        "x4",
+        "y5",
+        "y6",
+        "x7",
+        "y7",
+        "x8",
+        "y8"
+    ],
+    "parameter_values": [
+        9.24,
+        1.42965,
+        0.501082,
+        0.642,
+        0.84,
+        0.68,
+        0.814,
+        0.819,
+        0.149,
+        0.681,
+        0.159
+    ],
+    "strukturbericht": null,
+    "title": "Li$_{7}$Ge$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B7_oC36_65_gj_achipq-001"
+}

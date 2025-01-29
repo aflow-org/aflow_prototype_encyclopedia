@@ -1,0 +1,26 @@
+{
+    "uid": "BD46",
+    "prototype": "Cu2Rb2S4Ti",
+    "prototype_tex": "Cu$_{2}$Rb$_{2}$S$_{4}$Ti",
+    "label": "A2B2C4D_tP18_132_e_i_o_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        5.6046,
+        2.347,
+        0.7369,
+        0.76316,
+        0.34803
+    ],
+    "strukturbericht": null,
+    "title": "Rb$_{2}$TiCu$_{2}$S$_{4}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B2C4D_tP18_132_e_i_o_d"
+}

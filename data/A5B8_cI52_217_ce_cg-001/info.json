@@ -1,0 +1,29 @@
+{
+    "uid": "AYKC",
+    "prototype": "Cu5Zn8",
+    "prototype_tex": "Cu$_{5}$Zn$_{8}$",
+    "label": "A5B8_cI52_217_ce_cg-001",
+    "parameter_symbol": [
+        "a",
+        "x1",
+        "x2",
+        "x3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        8.8664,
+        0.32774,
+        0.10781,
+        0.64421,
+        0.18844,
+        0.53674
+    ],
+    "strukturbericht": "D8_2",
+    "title": "$\\gamma$-Brass (Cu$_{5}$Zn$_{8}$, $D8_{2}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$D8_{2}$",
+    "compounds": {},
+    "alias": "A5B8_cI52_217_ce_cg"
+}

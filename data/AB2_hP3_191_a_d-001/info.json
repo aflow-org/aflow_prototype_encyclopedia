@@ -1,0 +1,21 @@
+{
+    "uid": "75K4",
+    "prototype": "AlB2",
+    "prototype_tex": "AlB$_{2}$",
+    "label": "AB2_hP3_191_a_d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a"
+    ],
+    "parameter_values": [
+        3.005,
+        1.08276
+    ],
+    "strukturbericht": "C32",
+    "title": "Hexagonal $\\omega$ ($C32$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$C32$",
+    "compounds": {},
+    "alias": "AB2_hP3_191_a_d"
+}

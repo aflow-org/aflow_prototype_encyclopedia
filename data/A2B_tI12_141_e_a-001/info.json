@@ -1,0 +1,23 @@
+{
+    "uid": "1TUW",
+    "prototype": "O2Ti",
+    "prototype_tex": "O$_{2}$Ti",
+    "label": "A2B_tI12_141_e_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2"
+    ],
+    "parameter_values": [
+        3.785,
+        2.51361,
+        0.0836
+    ],
+    "strukturbericht": "C5",
+    "title": "Anatase (TiO$_{2}$, $C5$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$C5$",
+    "compounds": {},
+    "alias": "A2B_tI12_141_e_a"
+}

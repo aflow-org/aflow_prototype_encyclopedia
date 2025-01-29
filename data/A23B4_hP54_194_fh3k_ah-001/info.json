@@ -1,0 +1,38 @@
+{
+    "uid": "W4P8",
+    "prototype": "Al23V4",
+    "prototype_tex": "Al$_{23}$V$_{4}$",
+    "label": "A23B4_hP54_194_fh3k_ah-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "x3",
+        "x4",
+        "x5",
+        "z5",
+        "x6",
+        "z6",
+        "x7",
+        "z7"
+    ],
+    "parameter_values": [
+        7.692,
+        2.21529,
+        0.617,
+        0.126,
+        0.781,
+        0.213,
+        0.029,
+        0.124,
+        0.618,
+        0.455,
+        0.166
+    ],
+    "strukturbericht": null,
+    "title": "Al$_{23}$V$_{4}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A23B4_hP54_194_fh3k_ah-001"
+}

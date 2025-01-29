@@ -1,0 +1,28 @@
+{
+    "uid": "QCQG",
+    "prototype": "Ca(H2O)8O2",
+    "prototype_tex": "Ca(H$_{2}$O)$_{8}$O$_{2}$",
+    "label": "AB8C2_tP22_124_a_n_h-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        6.21,
+        1.77134,
+        0.19,
+        0.3,
+        0.11,
+        0.13
+    ],
+    "strukturbericht": null,
+    "title": "CaO$_{2}$(H$_{2}$O)$_{8}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB8C2_tP22_124_a_n_h"
+}

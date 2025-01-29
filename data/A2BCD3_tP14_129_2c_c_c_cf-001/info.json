@@ -1,0 +1,32 @@
+{
+    "uid": "8TD3",
+    "prototype": "Ba2FInO3",
+    "prototype_tex": "Ba$_{2}$FInO$_{3}$",
+    "label": "A2BCD3_tP14_129_2c_c_c_cf-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3",
+        "z4",
+        "z5",
+        "z6"
+    ],
+    "parameter_values": [
+        4.1633,
+        3.35056,
+        0.3817,
+        0.1026,
+        0.5795,
+        0.7652,
+        0.9113,
+        0.2521
+    ],
+    "strukturbericht": null,
+    "title": "Ba$_{2}$InO$_{3}$F Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BCD3_tP14_129_2c_c_c_cf-001"
+}

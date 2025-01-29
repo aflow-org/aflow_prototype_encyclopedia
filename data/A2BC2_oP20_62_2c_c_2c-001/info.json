@@ -1,0 +1,42 @@
+{
+    "uid": "K7UE",
+    "prototype": "Ni2TaTe2",
+    "prototype_tex": "Ni$_{2}$TaTe$_{2}$",
+    "label": "A2BC2_oP20_62_2c_c_2c-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        6.488,
+        0.54963,
+        2.62238,
+        0.3994,
+        0.68356,
+        0.2883,
+        0.81853,
+        -0.09516,
+        0.27681,
+        -0.09126,
+        0.10469,
+        0.09587,
+        0.59142
+    ],
+    "strukturbericht": null,
+    "title": "TaNi$_{2}$Te$_{2}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BC2_oP20_62_2c_c_2c-001"
+}

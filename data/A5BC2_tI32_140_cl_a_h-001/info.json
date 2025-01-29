@@ -1,0 +1,27 @@
+{
+    "uid": "REV7",
+    "prototype": "Br5(NH4)Pb2",
+    "prototype_tex": "Br$_{5}$(NH$_{4}$)Pb$_{2}$",
+    "label": "A5BC2_tI32_140_cl_a_h-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        8.39,
+        1.70918,
+        0.158,
+        0.163,
+        0.363
+    ],
+    "strukturbericht": "K3_4",
+    "title": "(NH$_{4}$)Pb$_{2}$Br$_{5}$ ($K3_{4}$) Structure ({\\em Revised})",
+    "part": 4,
+    "legacy": false,
+    "strukturbericht_tex": "$K3_{4}$",
+    "compounds": {},
+    "alias": "A5BC2_tI32_140_cl_a_h-001"
+}

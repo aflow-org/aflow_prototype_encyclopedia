@@ -1,0 +1,27 @@
+{
+    "uid": "G1GD",
+    "prototype": "BrH4N",
+    "prototype_tex": "BrH$_{4}$N",
+    "label": "AB4C_tP12_129_c_i_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        5.826,
+        0.709921,
+        0.48,
+        0.897,
+        0.147
+    ],
+    "strukturbericht": "B25",
+    "title": "NH$_{4}$Br ($B25$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$B25$",
+    "compounds": {},
+    "alias": "AB4C_tP12_129_c_i_a"
+}

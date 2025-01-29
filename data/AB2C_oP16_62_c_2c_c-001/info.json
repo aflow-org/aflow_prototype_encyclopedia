@@ -1,0 +1,39 @@
+{
+    "uid": "H6D5",
+    "prototype": "CuS2Sb",
+    "prototype_tex": "CuS$_{2}$Sb",
+    "label": "AB2C_oP16_62_c_2c_c-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        6.018,
+        0.630741,
+        2.40861,
+        0.2522,
+        0.8276,
+        0.6221,
+        0.095,
+        0.8706,
+        0.8244,
+        0.226,
+        0.06333
+    ],
+    "strukturbericht": "F5_6",
+    "title": "Chalcostibite (CuSbS$_{2}$, $F5_{6}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$F5_{6}$",
+    "compounds": {},
+    "alias": "AB2C_oP16_62_c_2c_c"
+}

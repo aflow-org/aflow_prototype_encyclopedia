@@ -1,0 +1,59 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  alpha-MgAgSb
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/ABC_tI48_120_abe_i_i-001
+
+# Last updated on 2024/07/30
+
+data_ABC_tI48_120_abe_i_i-001
+_pd_phase_name ABC_tI48_120_abe_i_i-001
+_cell_length_a  9.1761000000
+_cell_length_b  9.1761000000
+_cell_length_c 12.6960000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'I-4c2'
+_symmetry_Int_Tables_Number  120
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  y,-x,-z
+  4  -y,x,-z
+  5  x,-y,z+1/2
+  6  -x,y,z+1/2
+  7  y,x,-z+1/2
+  8  -y,-x,-z+1/2
+  9  x+1/2,y+1/2,z+1/2
+  10  -x+1/2,-y+1/2,z+1/2
+  11  y+1/2,-x+1/2,-z+1/2
+  12  -y+1/2,x+1/2,-z+1/2
+  13  x+1/2,-y+1/2,z
+  14  -x+1/2,y+1/2,z
+  15  y+1/2,x+1/2,-z
+  16  -y+1/2,-x+1/2,-z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Ag1 1.0000000000  0.0000000000 0.0000000000 0.2500000000  Biso 1.0 Ag 4 a
+Ag2 1.0000000000  0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Ag 4 b
+Ag3 1.0000000000  0.2247000000 0.2247000000 0.2500000000  Biso 1.0 Ag 8 e
+Mg4 1.0000000000 -0.0360000000 0.2960000000 0.0960000000  Biso 1.0 Mg 16 i
+Sb5 1.0000000000  0.2363000000 0.4749000000 0.1203000000  Biso 1.0 Sb 16 i

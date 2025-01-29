@@ -1,0 +1,36 @@
+{
+    "uid": "H0F1",
+    "prototype": "Te",
+    "prototype_tex": "Te",
+    "label": "A_mP4_4_2a-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x1",
+        "y1",
+        "z1",
+        "x2",
+        "y2",
+        "z2"
+    ],
+    "parameter_values": [
+        3.104,
+        2.42043,
+        1.53351,
+        92.71,
+        0.25,
+        0.23,
+        0.48,
+        0.48,
+        0.0,
+        0.02
+    ],
+    "strukturbericht": null,
+    "title": "High-pressure Te Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A_mP4_4_2a"
+}

@@ -1,0 +1,50 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL 
+# doi: 10.1016/j.commatsci.2017.01.017 (part 1)
+# doi: 10.1016/j.commatsci.2018.10.043 (part 2)
+# doi: 10.1016/j.commatsci.2021.110450 (part 3)
+# doi: 10.1016/j.commatsci.2024.112988 (part 4)
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/CaV4O9
+
+# Last updated on 2024/11/14
+
+data_CaV4O9
+_pd_phase_name CaV4O9
+_cell_length_a  8.3330000000
+_cell_length_b  8.3330000000
+_cell_length_c  5.0080000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P4/n'
+_symmetry_Int_Tables_Number  85
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  -y+1/2,x+1/2,z
+  4  y+1/2,-x+1/2,z
+  5  -x+1/2,-y+1/2,-z
+  6  x+1/2,y+1/2,-z
+  7  y,-x,-z
+  8  -y,x,-z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+O1  1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 O  2 a
+Ca2 1.0000000000 0.0000000000 0.5000000000 0.6674000000  Biso 1.0 Ca 2 c
+O3  1.0000000000 0.7940000000 0.6070000000 0.9640000000  Biso 1.0 O  8 g
+O4  1.0000000000 0.9270000000 0.7490000000 0.4390000000  Biso 1.0 O  8 g
+V5  1.0000000000 0.9084000000 0.7866000000 0.1256000000  Biso 1.0 V  8 g

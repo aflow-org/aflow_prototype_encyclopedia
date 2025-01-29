@@ -1,0 +1,36 @@
+{
+    "uid": "LQ5X",
+    "prototype": "Cl2Hg3S2",
+    "prototype_tex": "Cl$_{2}$Hg$_{3}$S$_{2}$",
+    "label": "AB2C_oP16_51_2e_bfi_j-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z2",
+        "z3",
+        "z4",
+        "x5",
+        "z5",
+        "x6",
+        "z6"
+    ],
+    "parameter_values": [
+        8.41,
+        0.539893,
+        1.10916,
+        0.0292,
+        0.4838,
+        0.3013,
+        0.4472,
+        0.7218,
+        0.4655,
+        0.7471
+    ],
+    "strukturbericht": null,
+    "title": "Kenhsuite ($\\gamma$-Hg$_{3}$S$_{2}$Cl$_{2}$) Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2C_oP16_51_2e_bfi_j-001"
+}

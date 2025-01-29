@@ -1,0 +1,30 @@
+{
+    "uid": "1RMB",
+    "prototype": "RbSe2V",
+    "prototype_tex": "RbSe$_{2}$V",
+    "label": "AB2C_oF64_70_e_h_ab-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        24.181,
+        0.234581,
+        0.56441,
+        0.30346,
+        0.56997,
+        0.87096,
+        0.02676
+    ],
+    "strukturbericht": null,
+    "title": "RbVSe$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2C_oF64_70_e_h_ab-001"
+}

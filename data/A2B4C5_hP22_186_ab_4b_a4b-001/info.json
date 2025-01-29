@@ -1,0 +1,42 @@
+{
+    "uid": "7JMK",
+    "prototype": "Al2N2Ti2",
+    "prototype_tex": "Al$_{2}$N$_{2}$Ti$_{2}$",
+    "label": "A2B4C5_hP22_186_ab_4b_a4b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3",
+        "z4",
+        "z5",
+        "z6",
+        "z7",
+        "z8",
+        "z9",
+        "z10",
+        "z11"
+    ],
+    "parameter_values": [
+        2.9875,
+        7.8159,
+        0.15,
+        0.35,
+        0.25,
+        0.6,
+        0.9,
+        0.1,
+        0.4,
+        0.05,
+        0.45,
+        0.55,
+        0.95
+    ],
+    "strukturbericht": null,
+    "title": "Ti$_{3}$Al$_{2}$N$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B4C5_hP22_186_ab_4b_a4b-001"
+}

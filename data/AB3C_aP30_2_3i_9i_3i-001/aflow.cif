@@ -1,0 +1,55 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  CaO3Si wollastonite
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/AB3C_aP30_2_3i_9i_3i-001
+
+# Last updated on 2024/08/01
+
+data_Ca6O18Si6
+_pd_phase_name Ca6O18Si6
+_cell_length_a  7.9400000000
+_cell_length_b  7.3200000000
+_cell_length_c  7.0700000000
+_cell_angle_alpha  90.0333300000
+_cell_angle_beta  95.3666700000
+_cell_angle_gamma  103.4333300000
+_symmetry_space_group_name_H-M  'P-1'
+_symmetry_Int_Tables_Number  2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,-z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Ca1 1.0000000000 0.1985000000 0.4228000000 0.7608000000  Biso 1.0 Ca 2 i
+Ca2 1.0000000000 0.2027000000 0.9293000000 0.7640000000  Biso 1.0 Ca 2 i
+Ca3 1.0000000000 0.4966000000 0.2495000000 0.4720000000  Biso 1.0 Ca 2 i
+O10 1.0000000000 0.2732000000 0.5118000000 0.0919000000  Biso 1.0 O 2 i
+O11 1.0000000000 0.2713000000 0.8717000000 0.0940000000  Biso 1.0 O 2 i
+O12 1.0000000000 0.2188000000 0.1784000000 0.2228000000  Biso 1.0 O 2 i
+O4 1.0000000000 0.4291000000 0.2314000000 0.8019000000  Biso 1.0 O 2 i
+O5 1.0000000000 0.4008000000 0.7259000000 0.8302000000  Biso 1.0 O 2 i
+O6 1.0000000000 0.3037000000 0.4635000000 0.4641000000  Biso 1.0 O 2 i
+O7 1.0000000000 0.3017000000 0.9374000000 0.4655000000  Biso 1.0 O 2 i
+O8 1.0000000000 0.0154000000 0.6254000000 0.7343000000  Biso 1.0 O 2 i
+O9 1.0000000000 0.0175000000 0.1319000000 0.7353000000  Biso 1.0 O 2 i
+Si13 1.0000000000 0.1852000000 0.3870000000 0.2687000000  Biso 1.0 Si 2 i
+Si14 1.0000000000 0.1849000000 0.9545000000 0.2692000000  Biso 1.0 Si 2 i
+Si15 1.0000000000 0.3970000000 0.7235000000 0.0560000000  Biso 1.0 Si 2 i

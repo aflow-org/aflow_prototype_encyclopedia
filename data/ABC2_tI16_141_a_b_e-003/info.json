@@ -1,0 +1,22 @@
+{
+    "uid": "XJE5",
+    "prototype": "FeLiO2",
+    "prototype_tex": "FeLiO$_{2}$",
+    "label": "ABC2_tI16_141_a_b_e-003",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3"
+    ],
+    "parameter_values": [
+        4.082,
+        2.1612,
+        0.1068
+    ],
+    "strukturbericht": null,
+    "title": "$\\gamma$-LiFeO$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC2_tI16_141_a_b_e-003"
+}

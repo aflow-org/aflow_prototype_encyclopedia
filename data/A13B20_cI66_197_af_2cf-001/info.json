@@ -1,0 +1,34 @@
+{
+    "uid": "8111",
+    "prototype": "Bi2O3",
+    "prototype_tex": "Bi$_{2}$O$_{3}$",
+    "label": "A13B20_cI66_197_af_2cf-001",
+    "parameter_symbol": [
+        "a",
+        "x2",
+        "x3",
+        "x4",
+        "y4",
+        "z4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        10.268,
+        0.716,
+        0.648,
+        0.858,
+        0.687,
+        0.972,
+        0.421,
+        0.238,
+        0.014
+    ],
+    "strukturbericht": null,
+    "title": "$\\gamma$-Bi$_{2}$O$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A13B20_cI66_197_af_2cf-001"
+}

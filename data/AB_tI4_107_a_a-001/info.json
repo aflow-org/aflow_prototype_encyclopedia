@@ -1,0 +1,24 @@
+{
+    "uid": "B4LQ",
+    "prototype": "GeP",
+    "prototype_tex": "GeP",
+    "label": "AB_tI4_107_a_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2"
+    ],
+    "parameter_values": [
+        3.544,
+        1.57477,
+        0.0,
+        0.427
+    ],
+    "strukturbericht": null,
+    "title": "GeP (High-pressure, superconducting) Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_tI4_107_a_a"
+}

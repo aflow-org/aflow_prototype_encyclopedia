@@ -1,0 +1,21 @@
+{
+    "uid": "R06D",
+    "prototype": "NbP",
+    "prototype_tex": "NbP",
+    "label": "AB_tI8_141_a_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a"
+    ],
+    "parameter_values": [
+        3.325,
+        3.42256
+    ],
+    "strukturbericht": "``40''",
+    "title": "NbP (``40'') Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "``40''",
+    "compounds": {},
+    "alias": "AB_tI8_141_a_b"
+}

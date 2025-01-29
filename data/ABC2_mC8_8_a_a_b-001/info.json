@@ -1,0 +1,39 @@
+{
+    "uid": "X9AR",
+    "prototype": "KNO2",
+    "prototype_tex": "KNO$_{2}$",
+    "label": "ABC2_mC8_8_a_a_b-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        7.31,
+        0.682627,
+        0.608755,
+        114.833,
+        0.0,
+        0.0,
+        0.514,
+        0.5,
+        0.583,
+        0.806,
+        0.556
+    ],
+    "strukturbericht": "F5_11",
+    "title": "$F5_{11}$ (KNO$_{2}$) Structure ({\\em Obsolete})",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$F5_{11}$",
+    "compounds": {},
+    "alias": "ABC2_mC8_8_a_a_b"
+}

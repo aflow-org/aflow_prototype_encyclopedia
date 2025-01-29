@@ -1,0 +1,19 @@
+{
+    "uid": "TL8Z",
+    "prototype": "SZn",
+    "prototype_tex": "SZn",
+    "label": "AB_cF8_216_a_c-001",
+    "parameter_symbol": [
+        "a"
+    ],
+    "parameter_values": [
+        5.4093
+    ],
+    "strukturbericht": "B3",
+    "title": "Zincblende (ZnAs, $B3$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$B3$",
+    "compounds": {},
+    "alias": "AB_cF8_216_c_a"
+}

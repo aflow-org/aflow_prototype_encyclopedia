@@ -1,0 +1,62 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  O10Ru3Sr4
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A10B3C4_oP68_55_2e2fgh2i_adef_2e2f-001
+
+# Last updated on 2024/08/01
+
+data_O40Ru12Sr16
+_pd_phase_name O40Ru12Sr16
+_cell_length_a  28.5730000000
+_cell_length_b  3.9001000000
+_cell_length_c  3.9001000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Cmce'
+_symmetry_Int_Tables_Number  64
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y+1/2,z+1/2
+  3  -x,y+1/2,-z+1/2
+  4  x,-y,-z
+  5  -x,-y,-z
+  6  x,y+1/2,-z+1/2
+  7  x,-y+1/2,z+1/2
+  8  -x,y,z
+  9  x+1/2,y+1/2,z
+  10  -x+1/2,-y,z+1/2
+  11  -x+1/2,y,-z+1/2
+  12  x+1/2,-y+1/2,-z
+  13  -x+1/2,-y+1/2,-z
+  14  x+1/2,y,-z+1/2
+  15  x+1/2,-y,z+1/2
+  16  -x+1/2,y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Ru5 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Ru 4 a
+O1 1.0000000000 0.9305000000 0.0000000000 0.0000000000  Biso 1.0 O 8 d
+O2 1.0000000000 0.7870000000 0.0000000000 0.0000000000  Biso 1.0 O 8 d
+Ru6 1.0000000000 0.8598000000 0.0000000000 0.0000000000  Biso 1.0 Ru 8 d
+Sr7 1.0000000000 0.7039000000 0.0000000000 0.0000000000  Biso 1.0 Sr 8 d
+Sr8 1.0000000000 0.5699000000 0.0000000000 0.0000000000  Biso 1.0 Sr 8 d
+O3 1.0000000000 0.0000000000 0.2971000000 0.2028000000  Biso 1.0 O 8 f
+O4 1.0000000000 0.8608000000 0.2271000000 0.2721000000  Biso 1.0 O 16 g

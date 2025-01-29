@@ -1,0 +1,34 @@
+{
+    "uid": "Z69R",
+    "prototype": "Ba3In2O11Zn5",
+    "prototype_tex": "Ba$_{3}$In$_{2}$O$_{11}$Zn$_{5}$",
+    "label": "A3B2C11D5_cF168_216_f_e_ab2eh_eg-001",
+    "parameter_symbol": [
+        "a",
+        "x3",
+        "x4",
+        "x5",
+        "x6",
+        "x7",
+        "x8",
+        "x9",
+        "z9"
+    ],
+    "parameter_values": [
+        13.3588,
+        0.335,
+        0.843,
+        0.17,
+        0.5829,
+        0.2052,
+        0.5803,
+        0.165,
+        0.498
+    ],
+    "strukturbericht": null,
+    "title": "Ba$_{3}$In$_{2}$Zn$_{5}$O$_{11}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B2C11D5_cF168_216_f_e_ab2eh_eg-001"
+}

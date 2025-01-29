@@ -1,0 +1,19 @@
+{
+    "uid": "Q53X",
+    "prototype": "NaCl",
+    "prototype_tex": "NaCl",
+    "label": "AB_cF8_225_a_b-001",
+    "parameter_symbol": [
+        "a"
+    ],
+    "parameter_values": [
+        5.6393
+    ],
+    "strukturbericht": "B1",
+    "title": "Rock Salt/Halite (NaCl, $B1$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$B1$",
+    "compounds": {},
+    "alias": "AB_cF8_225_a_b"
+}

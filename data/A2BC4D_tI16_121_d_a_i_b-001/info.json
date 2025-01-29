@@ -1,0 +1,25 @@
+{
+    "uid": "JRUG",
+    "prototype": "Cu2FeS4Sn",
+    "prototype_tex": "Cu$_{2}$FeS$_{4}$Sn",
+    "label": "A2BC4D_tI16_121_d_a_i_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        5.46,
+        1.96429,
+        0.745,
+        0.632
+    ],
+    "strukturbericht": "H2_6",
+    "title": "Stannite (Cu$_{2}$FeS$_{4}$Sn, $H2_{6}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$H2_{6}$",
+    "compounds": {},
+    "alias": "A2BC4D_tI16_121_d_a_i_b"
+}

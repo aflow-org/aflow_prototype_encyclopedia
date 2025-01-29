@@ -1,0 +1,36 @@
+{
+    "uid": "AZDB",
+    "prototype": "Cd2O7Re2",
+    "prototype_tex": "Cd$_{2}$O$_{7}$Re$_{2}$",
+    "label": "A2B7C2_tI44_119_i_acefgh_i-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4",
+        "x5",
+        "x6",
+        "x7",
+        "z7",
+        "x8",
+        "z8"
+    ],
+    "parameter_values": [
+        7.2312,
+        1.41411,
+        0.6974,
+        0.5683,
+        0.6889,
+        0.6941,
+        0.2471,
+        0.8741,
+        0.2471,
+        0.37294
+    ],
+    "strukturbericht": null,
+    "title": "Phase II Cd$_{2}$Re$_{2}$O$_{7}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B7C2_tI44_119_i_bdefgh_i"
+}

@@ -1,0 +1,32 @@
+{
+    "uid": "4BHM",
+    "prototype": "GdIS",
+    "prototype_tex": "GdIS",
+    "label": "ABC_hP12_174_aj_dk_ej-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x4",
+        "y4",
+        "x5",
+        "y5",
+        "x6",
+        "y6"
+    ],
+    "parameter_values": [
+        10.737,
+        0.38921,
+        0.51233,
+        0.48067,
+        0.70133,
+        0.85067,
+        0.83133,
+        0.18367
+    ],
+    "strukturbericht": null,
+    "title": "GdSI Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC_hP12_174_cj_fk_aj"
+}

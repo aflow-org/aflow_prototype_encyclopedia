@@ -1,0 +1,24 @@
+{
+    "uid": "1ALT",
+    "prototype": "CeGa6Pd",
+    "prototype_tex": "CeGa$_{6}$Pd",
+    "label": "AB6C_tP8_123_a_hi_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4"
+    ],
+    "parameter_values": [
+        4.35,
+        1.82115,
+        0.15149,
+        0.32935
+    ],
+    "strukturbericht": null,
+    "title": "CePdGa$_{6}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB6C_tP8_123_a_hi_b-001"
+}

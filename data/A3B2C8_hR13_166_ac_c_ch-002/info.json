@@ -1,0 +1,30 @@
+{
+    "uid": "7UDV",
+    "prototype": "Ba3Cr2O8",
+    "prototype_tex": "Ba$_{3}$Cr$_{2}$O$_{8}$",
+    "label": "A3B2C8_hR13_166_ac_c_ch-002",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3",
+        "x4",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        5.73908,
+        3.7246,
+        0.79391,
+        0.5921,
+        0.6664,
+        0.2678,
+        0.7646
+    ],
+    "strukturbericht": null,
+    "title": "Ba$_{3}$Cr$_{2}$O$_{8}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B2C8_hR13_166_ac_c_ch-002"
+}

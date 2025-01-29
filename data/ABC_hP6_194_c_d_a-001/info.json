@@ -1,0 +1,20 @@
+{
+    "uid": "F0CN",
+    "prototype": "BCLi",
+    "prototype_tex": "BCLi",
+    "label": "ABC_hP6_194_c_d_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a"
+    ],
+    "parameter_values": [
+        2.752,
+        2.56468
+    ],
+    "strukturbericht": null,
+    "title": "LiBC Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC_hP6_194_c_d_a"
+}

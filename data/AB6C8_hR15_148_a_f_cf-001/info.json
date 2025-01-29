@@ -1,0 +1,34 @@
+{
+    "uid": "CY1Y",
+    "prototype": "BaMo6S8",
+    "prototype_tex": "BaMo$_{6}$S$_{8}$",
+    "label": "AB6C8_hR15_148_a_f_cf-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3",
+        "y3",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        9.27753,
+        1.27116,
+        0.2512,
+        0.56589,
+        0.41741,
+        0.2348,
+        0.3907,
+        0.7365,
+        0.1233
+    ],
+    "strukturbericht": null,
+    "title": "BaMo$_{6}$S$_{8}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB6C8_hR15_148_a_f_cf-001"
+}

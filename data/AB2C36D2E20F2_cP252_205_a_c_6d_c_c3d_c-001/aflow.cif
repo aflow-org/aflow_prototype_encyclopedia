@@ -1,0 +1,76 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  AlC2H36N2O20S2 beta-alum H414
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/AB2C36D2E20F2_cP252_205_a_c_6d_c_c3d_c-001
+
+# Last updated on 2024/08/02
+
+data_Al4C8H144N8O80S8
+_pd_phase_name Al4C8H144N8O80S8
+_cell_length_a  12.3140000000
+_cell_length_b  12.3140000000
+_cell_length_c  12.3140000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pa-3'
+_symmetry_Int_Tables_Number  205
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z+1/2
+  3  -x,y+1/2,-z+1/2
+  4  x+1/2,-y+1/2,-z
+  5  z,x,y
+  6  z+1/2,-x+1/2,-y
+  7  -z+1/2,-x,y+1/2
+  8  -z,x+1/2,-y+1/2
+  9  y,z,x
+  10  -y,z+1/2,-x+1/2
+  11  y+1/2,-z+1/2,-x
+  12  -y+1/2,-z,x+1/2
+  13  -x,-y,-z
+  14  x+1/2,y,-z+1/2
+  15  x,-y+1/2,z+1/2
+  16  -x+1/2,y+1/2,z
+  17  -z,-x,-y
+  18  -z+1/2,x+1/2,y
+  19  z+1/2,x,-y+1/2
+  20  z,-x+1/2,y+1/2
+  21  -y,-z,-x
+  22  y,-z+1/2,x+1/2
+  23  -y+1/2,z+1/2,x
+  24  y+1/2,z,-x+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Al1 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Al 4 a
+C2 1.0000000000 0.4501000000 0.4501000000 0.4501000000  Biso 1.0 C 8 c
+N9 1.0000000000 0.5156000000 0.5156000000 0.5156000000  Biso 1.0 N 8 c
+O10 1.0000000000 0.2341000000 0.2341000000 0.2341000000  Biso 1.0 O 8 c
+S14 1.0000000000 0.3022000000 0.3022000000 0.3022000000  Biso 1.0 S 8 c
+H3 1.0000000000 0.3851000000 0.5072000000 0.4134000000  Biso 1.0 H 24 d
+H4 1.0000000000 0.0837000000 0.5363000000 0.0275000000  Biso 1.0 H 24 d
+H5 1.0000000000 0.5423000000 0.2018000000 0.4728000000  Biso 1.0 H 24 d
+H6 1.0000000000 0.4132000000 0.1846000000 0.4502000000  Biso 1.0 H 24 d
+H7 1.0000000000 0.2143000000 0.4941000000 0.1944000000  Biso 1.0 H 24 d
+H8 1.0000000000 0.2148000000 0.6103000000 0.1697000000  Biso 1.0 H 24 d
+O11 1.0000000000 0.6911000000 0.7530000000 0.0914000000  Biso 1.0 O 24 d
+O12 1.0000000000 0.8521000000 0.9810000000 0.0185000000  Biso 1.0 O 24 d
+O13 1.0000000000 0.0419000000 0.1373000000 0.2975000000  Biso 1.0 O 24 d

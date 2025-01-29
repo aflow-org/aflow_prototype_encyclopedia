@@ -1,0 +1,23 @@
+{
+    "uid": "GPY3",
+    "prototype": "F3Fe",
+    "prototype_tex": "F$_{3}$Fe",
+    "label": "A3B_hR8_167_e_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2"
+    ],
+    "parameter_values": [
+        5.19796,
+        2.56464,
+        0.836
+    ],
+    "strukturbericht": "D0_12",
+    "title": "FeF$_{3}$ ($D0_{12}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$D0_{12}$",
+    "compounds": {},
+    "alias": "A3B_hR8_167_e_b"
+}

@@ -1,0 +1,26 @@
+{
+    "uid": "2B54",
+    "prototype": "Li2O3Pr",
+    "prototype_tex": "Li$_{2}$O$_{3}$Pr",
+    "label": "A2B3C_oC12_65_h_ah_b-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x3",
+        "x4"
+    ],
+    "parameter_values": [
+        9.5198,
+        0.467552,
+        0.365817,
+        0.1556,
+        0.3557
+    ],
+    "strukturbericht": null,
+    "title": "Li$_{2}$PrO$_{3}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B3C_oC12_65_h_bh_a"
+}

@@ -1,0 +1,41 @@
+{
+    "uid": "QF4S",
+    "prototype": "Be4NaSbO7",
+    "prototype_tex": "Be$_{4}$NaSbO$_{7}$",
+    "label": "A4BC7D_hP26_186_ac_b_a2c_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3",
+        "z4",
+        "x5",
+        "z5",
+        "x6",
+        "z6",
+        "x7",
+        "z7"
+    ],
+    "parameter_values": [
+        5.4317,
+        1.63063,
+        0.0629,
+        0.3728,
+        0.6245,
+        0.0,
+        0.166403,
+        0.3126,
+        0.161603,
+        0.1269,
+        0.496103,
+        0.3706
+    ],
+    "strukturbericht": "E9_2",
+    "title": "Swedenborgite (NaBe$_{4}$SbO$_{7}$, $E9_{2}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$E9_{2}$",
+    "compounds": {},
+    "alias": "A4BC7D_hP26_186_ac_b_a2c_b"
+}

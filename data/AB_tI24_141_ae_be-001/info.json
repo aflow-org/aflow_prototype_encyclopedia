@@ -1,0 +1,24 @@
+{
+    "uid": "1GTY",
+    "prototype": "LiSn",
+    "prototype_tex": "LiSn",
+    "label": "AB_tI24_141_ae_be-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4"
+    ],
+    "parameter_values": [
+        4.387,
+        5.81514,
+        0.707,
+        0.5467
+    ],
+    "strukturbericht": null,
+    "title": "$\\beta$-LiSn Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_tI24_141_ae_be-001"
+}

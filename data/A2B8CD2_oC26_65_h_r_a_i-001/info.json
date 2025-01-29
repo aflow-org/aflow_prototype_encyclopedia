@@ -1,0 +1,33 @@
+{
+    "uid": "5BTF",
+    "prototype": "Cl2H6MgN2",
+    "prototype_tex": "Cl$_{2}$H$_{6}$MgN$_{2}$",
+    "label": "A2B8CD2_oC26_65_h_r_a_i-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x2",
+        "y3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        8.181,
+        1.00314,
+        0.45899,
+        0.2133,
+        0.2595,
+        0.545,
+        0.812,
+        0.158
+    ],
+    "strukturbericht": "E1_3",
+    "title": "Mg(NH$_{3}$)$_{2}$Cl$_{2}$ ($E1_{3}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$E1_{3}$",
+    "compounds": {},
+    "alias": "A2B8CD2_oC26_65_h_r_a_i"
+}

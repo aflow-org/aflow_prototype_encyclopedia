@@ -1,0 +1,22 @@
+{
+    "uid": "TE0L",
+    "prototype": "C",
+    "prototype_tex": "C",
+    "label": "A_tI8_139_h-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1"
+    ],
+    "parameter_values": [
+        4.3318,
+        0.574103,
+        0.17916
+    ],
+    "strukturbericht": null,
+    "title": "Hypothetical Tetrahedrally Bonded Carbon with 4-Member Rings Model Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A_tI8_139_h"
+}

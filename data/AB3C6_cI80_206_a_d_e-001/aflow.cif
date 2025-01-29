@@ -1,0 +1,90 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+
+# Chemical Composition:  (Mn,Fe)2O3 (bixbyite, D5_3)
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/AB3C6_cI80_206_a_d_e-001
+
+# Last updated on 2024/07/30
+
+data_AB3C6_cI80_206_a_d_e-001
+_pd_phase_name AB3C6_cI80_206_a_d_e-001
+_cell_length_a  9.4000000000
+_cell_length_b  9.4000000000
+_cell_length_c  9.4000000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Ia-3'
+_symmetry_Int_Tables_Number  206
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z+1/2
+  3  -x,y+1/2,-z+1/2
+  4  x+1/2,-y+1/2,-z
+  5  z,x,y
+  6  z+1/2,-x+1/2,-y
+  7  -z+1/2,-x,y+1/2
+  8  -z,x+1/2,-y+1/2
+  9  y,z,x
+  10  -y,z+1/2,-x+1/2
+  11  y+1/2,-z+1/2,-x
+  12  -y+1/2,-z,x+1/2
+  13  -x,-y,-z
+  14  x+1/2,y,-z+1/2
+  15  x,-y+1/2,z+1/2
+  16  -x+1/2,y+1/2,z
+  17  -z,-x,-y
+  18  -z+1/2,x+1/2,y
+  19  z+1/2,x,-y+1/2
+  20  z,-x+1/2,y+1/2
+  21  -y,-z,-x
+  22  y,-z+1/2,x+1/2
+  23  -y+1/2,z+1/2,x
+  24  y+1/2,z,-x+1/2
+  25  x+1/2,y+1/2,z+1/2
+  26  -x,-y+1/2,z
+  27  -x+1/2,y,-z
+  28  x,-y,-z+1/2
+  29  z+1/2,x+1/2,y+1/2
+  30  z,-x,-y+1/2
+  31  -z,-x+1/2,y
+  32  -z+1/2,x,-y
+  33  y+1/2,z+1/2,x+1/2
+  34  -y+1/2,z,-x
+  35  y,-z,-x+1/2
+  36  -y,-z+1/2,x
+  37  -x+1/2,-y+1/2,-z+1/2
+  38  x,y+1/2,-z
+  39  x+1/2,-y,z
+  40  -x,y,z+1/2
+  41  -z+1/2,-x+1/2,-y+1/2
+  42  -z,x,y+1/2
+  43  z,x+1/2,-y
+  44  z+1/2,-x,y
+  45  -y+1/2,-z+1/2,-x+1/2
+  46  y+1/2,-z,x
+  47  -y,z,x+1/2
+  48  y,z+1/2,-x
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Fe1 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Fe  8 a
+Mn2 1.0000000000 0.7844000000 0.0000000000 0.2500000000  Biso 1.0 Mn 24 d
+O3  1.0000000000 0.6250000000 0.3500000000 0.0880000000  Biso 1.0 O  48 e

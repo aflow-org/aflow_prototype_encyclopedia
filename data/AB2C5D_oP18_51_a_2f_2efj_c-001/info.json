@@ -1,0 +1,36 @@
+{
+    "uid": "UBPH",
+    "prototype": "BaFe2O5Y",
+    "prototype_tex": "BaFe$_{2}$O$_{5}$Y",
+    "label": "AB2C5D_oP18_51_a_2f_2efj_c-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z3",
+        "z4",
+        "z5",
+        "z6",
+        "z7",
+        "x8",
+        "z8"
+    ],
+    "parameter_values": [
+        8.0251,
+        0.478287,
+        0.938456,
+        0.3132,
+        0.6787,
+        0.2542,
+        0.7305,
+        0.003,
+        0.0098,
+        0.3119
+    ],
+    "strukturbericht": null,
+    "title": "Class-I MV YBaFe$_{2}$O$_{5}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2C5D_oP18_51_a_2f_2efj_c-001"
+}

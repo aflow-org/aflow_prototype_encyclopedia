@@ -1,0 +1,27 @@
+{
+    "uid": "7VYH",
+    "prototype": "P",
+    "prototype_tex": "P",
+    "label": "A_oC8_64_f-002",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y1",
+        "z1"
+    ],
+    "parameter_values": [
+        3.3136,
+        3.16212,
+        1.32071,
+        0.60168,
+        0.58056
+    ],
+    "strukturbericht": "A17",
+    "title": "Black Phosphorus ($A17$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$A17$",
+    "compounds": {},
+    "alias": "A_oC8_64_f.P"
+}

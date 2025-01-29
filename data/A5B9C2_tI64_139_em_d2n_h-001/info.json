@@ -1,0 +1,36 @@
+{
+    "uid": "0N6E",
+    "prototype": "Bi4O11V2",
+    "prototype_tex": "Bi$_{4}$O$_{11}$V$_{2}$",
+    "label": "A5B9C2_tI64_139_em_d2n_h-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "x3",
+        "x4",
+        "z4",
+        "y5",
+        "z5",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        3.9918,
+        3.86565,
+        0.174,
+        0.53,
+        0.055,
+        0.1629,
+        0.134,
+        0.4068,
+        0.413,
+        0.9665
+    ],
+    "strukturbericht": null,
+    "title": "$\\gamma$-Bi$_{4}$V$_{2}$O$_{11}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A5B9C2_tI64_139_em_d2n_h-001"
+}

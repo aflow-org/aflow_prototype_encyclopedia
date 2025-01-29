@@ -1,0 +1,26 @@
+{
+    "uid": "C3ND",
+    "prototype": "BCsO6Si2",
+    "prototype_tex": "BCsO$_{6}$Si$_{2}$",
+    "label": "AB6C3_cI160_230_b_h_g-001",
+    "parameter_symbol": [
+        "a",
+        "y2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        13.009,
+        0.33831,
+        0.10437,
+        0.13369,
+        0.71953
+    ],
+    "strukturbericht": null,
+    "title": "Boropollucite [Cs(Si$_{2}$B)O$_{6}$] Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB6C3_cI160_230_b_h_g-001"
+}

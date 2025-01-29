@@ -1,0 +1,57 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  CuI7Mo3
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/AB7C3_oP88_61_c_7c_3c-001
+
+# Last updated on 2024/08/01
+
+data_Cu8I56Mo24
+_pd_phase_name Cu8I56Mo24
+_cell_length_a  16.0580000000
+_cell_length_b  10.6430000000
+_cell_length_c  16.9630000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pbca'
+_symmetry_Int_Tables_Number  61
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z+1/2
+  3  -x,y+1/2,-z+1/2
+  4  x+1/2,-y+1/2,-z
+  5  -x,-y,-z
+  6  x+1/2,y,-z+1/2
+  7  x,-y+1/2,z+1/2
+  8  -x+1/2,y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Cu1 1.0000000000 0.2801700000 0.6320400000 0.2098500000  Biso 1.0 Cu 8 c
+I2 1.0000000000 0.7609700000 0.4996700000 0.1664600000  Biso 1.0 I 8 c
+I3 1.0000000000 0.0923800000 0.1233100000 0.1236100000  Biso 1.0 I 8 c
+I4 1.0000000000 0.1466500000 0.7527300000 0.1823000000  Biso 1.0 I 8 c
+I5 1.0000000000 0.1991200000 0.4475700000 0.0569900000  Biso 1.0 I 8 c
+I6 1.0000000000 0.0081800000 0.4519400000 0.1969000000  Biso 1.0 I 8 c
+I7 1.0000000000 0.9239500000 0.7574200000 0.0953400000  Biso 1.0 I 8 c
+I8 1.0000000000 0.1180500000 0.7545400000 0.9524500000  Biso 1.0 I 8 c
+Mo10 1.0000000000 0.0600200000 0.5993700000 0.0723500000  Biso 1.0 Mo 8 c
+Mo11 1.0000000000 0.9068000000 0.5011700000 0.0682600000  Biso 1.0 Mo 8 c
+Mo9 1.0000000000 0.0394900000 0.3525300000 0.0496400000  Biso 1.0 Mo 8 c

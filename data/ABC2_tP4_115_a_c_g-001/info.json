@@ -1,0 +1,23 @@
+{
+    "uid": "88N3",
+    "prototype": "CuFeS2",
+    "prototype_tex": "CuFeS$_{2}$",
+    "label": "ABC2_tP4_115_a_c_g-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3"
+    ],
+    "parameter_values": [
+        3.7265,
+        1.3938,
+        0.19
+    ],
+    "strukturbericht": "F6_1",
+    "title": "$F6_{1}$ Chalcopyrite (CuFeS$_{2}$) Structure ({\\em Obsolete})",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$F6_{1}$",
+    "compounds": {},
+    "alias": "ABC2_tP4_115_a_c_g"
+}

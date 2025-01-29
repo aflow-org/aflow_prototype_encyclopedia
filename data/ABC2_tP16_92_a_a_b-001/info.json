@@ -1,0 +1,30 @@
+{
+    "uid": "TYEK",
+    "prototype": "AlLiO2",
+    "prototype_tex": "AlLiO$_{2}$",
+    "label": "ABC2_tP16_92_a_a_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        5.1687,
+        1.21266,
+        0.1759,
+        0.8126,
+        0.3369,
+        0.2906,
+        0.7723
+    ],
+    "strukturbericht": null,
+    "title": "$\\gamma$-LiAlO$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC2_tP16_92_a_a_b-001"
+}

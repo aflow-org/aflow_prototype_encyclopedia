@@ -1,0 +1,42 @@
+{
+    "uid": "4A1E",
+    "prototype": "Be3P2",
+    "prototype_tex": "Be$_{3}$P$_{2}$",
+    "label": "A3B2_tI160_142_3g_abcef-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x4",
+        "x5",
+        "x6",
+        "y6",
+        "z6",
+        "x7",
+        "y7",
+        "z7",
+        "x8",
+        "y8",
+        "z8"
+    ],
+    "parameter_values": [
+        10.22,
+        1.99511,
+        0.998,
+        0.254,
+        0.126,
+        0.381,
+        0.063,
+        0.38,
+        0.369,
+        0.065,
+        0.133,
+        0.129,
+        0.059
+    ],
+    "strukturbericht": null,
+    "title": "Tetragonal Be$_{3}$P$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B2_tI160_142_3g_abcef-001"
+}

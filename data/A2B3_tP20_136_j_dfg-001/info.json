@@ -1,0 +1,28 @@
+{
+    "uid": "QSNP",
+    "prototype": "Al2Zr3",
+    "prototype_tex": "Al$_{2}$Zr$_{3}$",
+    "label": "A2B3_tP20_136_j_dfg-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        7.63,
+        0.917169,
+        0.34,
+        0.2,
+        0.125,
+        0.21
+    ],
+    "strukturbericht": null,
+    "title": "Zr$_{3}$Al$_{2}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B3_tP20_136_j_dfg"
+}

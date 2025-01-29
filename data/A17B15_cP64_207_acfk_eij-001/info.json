@@ -1,0 +1,32 @@
+{
+    "uid": "8LH0",
+    "prototype": "Pd17Se15",
+    "prototype_tex": "Pd$_{17}$Se$_{15}$",
+    "label": "A17B15_cP64_207_acfk_eij-001",
+    "parameter_symbol": [
+        "a",
+        "x3",
+        "x4",
+        "y5",
+        "y6",
+        "x7",
+        "y7",
+        "z7"
+    ],
+    "parameter_values": [
+        10.606,
+        0.7758,
+        0.7378,
+        0.6681,
+        0.7299,
+        0.8461,
+        0.858,
+        0.6502
+    ],
+    "strukturbericht": null,
+    "title": "Palladseite (Pd$_{17}$Se$_{15}$) Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A17B15_cP64_207_acfk_eij"
+}

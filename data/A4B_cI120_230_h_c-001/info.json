@@ -1,0 +1,24 @@
+{
+    "uid": "V61M",
+    "prototype": "Bi4Rh",
+    "prototype_tex": "Bi$_{4}$Rh",
+    "label": "A4B_cI120_230_h_c-001",
+    "parameter_symbol": [
+        "a",
+        "x2",
+        "y2",
+        "z2"
+    ],
+    "parameter_values": [
+        14.928,
+        0.024,
+        0.43,
+        0.153
+    ],
+    "strukturbericht": null,
+    "title": "RhBi$_{4}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4B_cI120_230_h_c-001"
+}

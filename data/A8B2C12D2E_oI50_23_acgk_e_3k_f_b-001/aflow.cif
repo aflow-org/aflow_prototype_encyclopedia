@@ -1,0 +1,56 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Cu8Fe2S12Sn2Zn stannoidite
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A8B2C12D2E_oI50_23_acgk_e_3k_f_b-001
+
+# Last updated on 2024/08/01
+
+data_Cu16Fe4S24Sn4Zn2
+_pd_phase_name Cu16Fe4S24Sn4Zn2
+_cell_length_a  16.1180000000
+_cell_length_b  10.7670000000
+_cell_length_c  5.4110000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'I222'
+_symmetry_Int_Tables_Number  23
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  -x,y,-z
+  4  x,-y,-z
+  5  x+1/2,y+1/2,z+1/2
+  6  -x+1/2,-y+1/2,z+1/2
+  7  -x+1/2,y+1/2,-z+1/2
+  8  x+1/2,-y+1/2,-z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Cu2 1.0000000000 -0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Cu 2 a
+Zn10 1.0000000000 0.5000000000 0.0000000000 0.0000000000  Biso 1.0 Zn 2 b
+Cu1 1.0000000000 -0.0000000000 0.0000000000 0.5000000000  Biso 1.0 Cu 2 c
+Fe5 1.0000000000 0.1702000000 0.0000000000 0.0000000000  Biso 1.0 Fe 4 e
+Sn9 1.0000000000 0.3307000000 0.0000000000 0.5000000000  Biso 1.0 Sn 4 f
+Cu3 1.0000000000 -0.0000000000 0.2511000000 0.0000000000  Biso 1.0 Cu 4 g
+Cu4 1.0000000000 0.3305000000 0.2465000000 0.9893000000  Biso 1.0 Cu 8 k
+S6 1.0000000000 0.4174000000 0.1308000000 0.7557000000  Biso 1.0 S 8 k
+S7 1.0000000000 0.4199000000 0.3792000000 0.2442000000  Biso 1.0 S 8 k
+S8 1.0000000000 0.7454000000 0.6294000000 0.7512000000  Biso 1.0 S 8 k

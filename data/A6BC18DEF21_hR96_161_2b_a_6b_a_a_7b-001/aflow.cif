@@ -1,0 +1,74 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  C2FeH6MgNaO7 stepanovite
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A6BC18DEF21_hR96_161_2b_a_6b_a_a_7b-001
+
+# Last updated on 2024/08/01
+
+data_C36Fe6H108Mg6Na6O126
+_pd_phase_name C36Fe6H108Mg6Na6O126
+_cell_length_a  9.8870000000
+_cell_length_b  9.8870000000
+_cell_length_c  37.0300000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  120.0000000000
+_symmetry_space_group_name_H-M  'R3c'
+_symmetry_Int_Tables_Number  161
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -y,x-y,z
+  3  -x+y,-x,z
+  4  -y,-x,z+1/2
+  5  -x+y,y,z+1/2
+  6  x,x-y,z+1/2
+  7  x+2/3,y+1/3,z+1/3
+  8  -y+2/3,x-y+1/3,z+1/3
+  9  -x+y+2/3,-x+1/3,z+1/3
+  10  -y+2/3,-x+1/3,z+5/6
+  11  -x+y+2/3,y+1/3,z+5/6
+  12  x+2/3,x-y+1/3,z+5/6
+  13  x+1/3,y+2/3,z+2/3
+  14  -y+1/3,x-y+2/3,z+2/3
+  15  -x+y+1/3,-x+2/3,z+2/3
+  16  -y+1/3,-x+2/3,z+1/6
+  17  -x+y+1/3,y+2/3,z+1/6
+  18  x+1/3,x-y+2/3,z+1/6
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Fe3 1.0000000000 0.0000000000 0.0000000000 0.7218800000  Biso 1.0 Fe 6 a
+Mg10 1.0000000000 0.0000000000 0.0000000000 0.8903900000  Biso 1.0 Mg 6 a
+Na11 1.0000000000 0.0000000000 0.0000000000 0.0584700000  Biso 1.0 Na 6 a
+C1 1.0000000000 0.1967666667 0.3167333333 0.7046433333  Biso 1.0 C 18 b
+C2 1.0000000000 0.2059666667 0.8901333333 0.7400133333  Biso 1.0 C 18 b
+H4 1.0000000000 0.8766666667 0.1633333333 0.7943333333  Biso 1.0 H 18 b
+H5 1.0000000000 0.8376666667 0.2293333333 0.8243333333  Biso 1.0 H 18 b
+H6 1.0000000000 0.8576666667 0.1063333333 0.9283333333  Biso 1.0 H 18 b
+H7 1.0000000000 0.9956666667 0.1873333333 0.9373333333  Biso 1.0 H 18 b
+H8 1.0000000000 0.1796666667 0.1893333333 0.8403333333  Biso 1.0 H 18 b
+H9 1.0000000000 0.1316666667 0.2753333333 0.8553333333  Biso 1.0 H 18 b
+O12 1.0000000000 0.2890666667 0.4425333333 0.6911033333  Biso 1.0 O 18 b
+O13 1.0000000000 0.1646666667 0.1811333333 0.6934033333  Biso 1.0 O 18 b
+O14 1.0000000000 0.1569666667 0.9791333333 0.7527233333  Biso 1.0 O 18 b
+O15 1.0000000000 0.9416666667 0.1353333333 0.9221033333  Biso 1.0 O 18 b
+O16 1.0000000000 0.1336666667 0.1942333333 0.8581133333  Biso 1.0 O 18 b
+O17 1.0000000000 0.3087666667 0.8718333333 0.7528433333  Biso 1.0 O 18 b
+O18 1.0000000000 0.8118666667 0.1439333333 0.8074633333  Biso 1.0 O 18 b

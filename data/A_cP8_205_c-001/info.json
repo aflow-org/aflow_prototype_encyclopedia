@@ -1,0 +1,20 @@
+{
+    "uid": "84Y3",
+    "prototype": "N",
+    "prototype_tex": "N",
+    "label": "A_cP8_205_c-001",
+    "parameter_symbol": [
+        "a",
+        "x1"
+    ],
+    "parameter_values": [
+        5.65,
+        0.05569
+    ],
+    "strukturbericht": null,
+    "title": "$\\alpha$-N ($Pa\\overline{3}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A_cP8_205_c"
+}

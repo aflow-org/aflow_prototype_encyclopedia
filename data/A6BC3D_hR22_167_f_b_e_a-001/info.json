@@ -1,0 +1,28 @@
+{
+    "uid": "PYAM",
+    "prototype": "Cl6FeK3Na",
+    "prototype_tex": "Cl$_{6}$FeK$_{3}$Na",
+    "label": "A6BC3D_hR22_167_f_b_e_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        12.0329,
+        1.15208,
+        0.87389,
+        0.45463,
+        0.58049,
+        0.78748
+    ],
+    "strukturbericht": null,
+    "title": "Rinneite (K$_{3}$NaFeCl$_{6}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A6BC3D_hR22_167_f_b_e_a"
+}

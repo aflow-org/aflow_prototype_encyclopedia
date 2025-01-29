@@ -1,0 +1,31 @@
+{
+    "uid": "J7V3",
+    "prototype": "Fe2O3",
+    "prototype_tex": "Fe$_{2}$O$_{3}$",
+    "label": "A2B3_cP60_212_acd_bce-001",
+    "parameter_symbol": [
+        "a",
+        "x3",
+        "x4",
+        "y5",
+        "x6",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        8.4,
+        0.5,
+        0.371,
+        0.625,
+        0.878,
+        0.629,
+        0.129
+    ],
+    "strukturbericht": "D5_7",
+    "title": "$\\gamma$-Fe$_{2}$O$_{3}$ ($D5_{7}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$D5_{7}$",
+    "compounds": {},
+    "alias": "A2B3_cP60_212_bcd_ace"
+}

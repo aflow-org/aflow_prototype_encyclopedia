@@ -1,0 +1,48 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  CHNaO3 nacolite G012
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/ABCD3_mP24_14_e_e_e_3e-001
+
+# Last updated on 2024/08/01
+
+data_C4H4Na4O12
+_pd_phase_name C4H4Na4O12
+_cell_length_a  7.4893559018
+_cell_length_b  9.7100000000
+_cell_length_c  8.4863775339
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  155.6299122396
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P2_{1}/c'
+_symmetry_Int_Tables_Number  14
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y+1/2,-z+1/2
+  3  -x,-y,-z
+  4  x,-y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+C1 1.0000000000 0.3634000000 0.2370000000 0.2866000000  Biso 1.0 C 4 e
+H2 1.0000000000 0.3874500000 0.2539000000 0.5647500000  Biso 1.0 H 4 e
+Na3 1.0000000000 0.9984000000 0.0047000000 0.7129000000  Biso 1.0 Na 4 e
+O4 1.0000000000 0.3314000000 0.3668000000 0.2605000000  Biso 1.0 O 4 e
+O5 1.0000000000 0.3991000000 0.1629000000 0.1937000000  Biso 1.0 O 4 e
+O6 1.0000000000 0.3758000000 0.1707000000 0.4358000000  Biso 1.0 O 4 e

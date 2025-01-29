@@ -1,0 +1,50 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  CrTe3
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/ AB3_mP32_14_2e_6e-002
+
+# Last updated on 2024/08/10
+
+data_CrTe3
+_pd_phase_name CrTe3
+_cell_length_a   7.8881200000
+_cell_length_b  11.2223300000
+_cell_length_c  11.5504300000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  118.4802000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P2_{1}/c'
+_symmetry_Int_Tables_Number  14
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y+1/2,-z+1/2
+  3  -x,-y,-z
+  4  x,-y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Cr1 1.0000000000  0.0102000000  0.0018100000  0.6723200000  Biso 1.0 Cr 4 e
+Cr2 1.0000000000 -0.0218000000  0.2764100000  0.4897200000  Biso 1.0 Cr 4 e
+Te3 1.0000000000  0.7735100000 -0.0934300000  0.4264900000  Biso 1.0 Te 4 e
+Te4 1.0000000000  0.2062100000  0.1178600000  0.8982100000  Biso 1.0 Te 4 e
+Te5 1.0000000000  0.6994900000  0.0575600000 -0.0994100000  Biso 1.0 Te 4 e
+Te6 1.0000000000  0.7293100000  0.3276600000  0.0668900000  Biso 1.0 Te 4 e
+Te7 1.0000000000  0.2728100000  0.6739700000  0.2465700000  Biso 1.0 Te 4 e
+Te8 1.0000000000  0.2047900000  0.1151600000  0.2353700000  Biso 1.0 Te 4 e

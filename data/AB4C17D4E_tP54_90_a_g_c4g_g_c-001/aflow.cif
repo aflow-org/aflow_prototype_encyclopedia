@@ -1,0 +1,55 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  BaCu4O17P4V
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/AB4C17D4E_tP54_90_a_g_c4g_g_c-001
+
+# Last updated on 2024/08/01
+
+data_Ba2Cu8O34P8V2
+_pd_phase_name Ba2Cu8O34P8V2
+_cell_length_a  9.5600000000
+_cell_length_b  9.5600000000
+_cell_length_c  7.1600000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P42_{1}2'
+_symmetry_Int_Tables_Number  90
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  -y+1/2,x+1/2,z
+  4  y+1/2,-x+1/2,z
+  5  -x+1/2,y+1/2,-z
+  6  x+1/2,-y+1/2,-z
+  7  y,x,-z
+  8  -y,-x,-z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Ba1 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Ba 2 a
+O3 1.0000000000 0.0000000000 0.5000000000 0.2035000000  Biso 1.0 O 2 c
+V9 1.0000000000 0.0000000000 0.5000000000 0.9770000000  Biso 1.0 V 2 c
+Cu2 1.0000000000 0.7639000000 0.5152000000 0.4070000000  Biso 1.0 Cu 8 g
+O4 1.0000000000 0.6525000000 0.8664000000 0.4465000000  Biso 1.0 O 8 g
+O5 1.0000000000 0.8786000000 0.8380000000 0.2708000000  Biso 1.0 O 8 g
+O6 1.0000000000 0.6666000000 0.8964000000 0.0943000000  Biso 1.0 O 8 g
+O7 1.0000000000 0.6838000000 0.6560000000 0.2468000000  Biso 1.0 O 8 g
+P8 1.0000000000 0.7207000000 0.8114000000 0.2609000000  Biso 1.0 P 8 g

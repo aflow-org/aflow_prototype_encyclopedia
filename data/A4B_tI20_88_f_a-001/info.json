@@ -1,0 +1,26 @@
+{
+    "uid": "5VT7",
+    "prototype": "Cl4Th",
+    "prototype_tex": "Cl$_{4}$Th",
+    "label": "A4B_tI20_88_f_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "y2",
+        "z2"
+    ],
+    "parameter_values": [
+        6.408,
+        2.01685,
+        0.147,
+        0.017,
+        0.298
+    ],
+    "strukturbericht": null,
+    "title": "$\\alpha$-ThCl$_{4}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4B_tI20_88_f_a"
+}

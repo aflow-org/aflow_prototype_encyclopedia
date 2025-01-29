@@ -1,0 +1,47 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  As2Rh2Sr
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A2B2C_mP20_14_2e_2e_e-001
+
+# Last updated on 2024/08/01
+
+data_As8Rh8Sr4
+_pd_phase_name As8Rh8Sr4
+_cell_length_a  4.2120000000
+_cell_length_b  11.0560000000
+_cell_length_c  8.4300000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  95.0600000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P2_{1}/c'
+_symmetry_Int_Tables_Number  14
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y+1/2,-z+1/2
+  3  -x,-y,-z
+  4  x,-y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+As1 1.0000000000 0.8132000000 0.4072000000 0.8874000000  Biso 1.0 As 4 e
+As2 1.0000000000 0.7251000000 0.1229000000 0.8892000000  Biso 1.0 As 4 e
+Rh3 1.0000000000 0.7755000000 0.5067000000 0.6193000000  Biso 1.0 Rh 4 e
+Rh4 1.0000000000 0.6884000000 0.0093000000 0.6478000000  Biso 1.0 Rh 4 e
+Sr5 1.0000000000 0.7522000000 0.7539000000 0.8659000000  Biso 1.0 Sr 4 e

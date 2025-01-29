@@ -1,0 +1,34 @@
+{
+    "uid": "EE51",
+    "prototype": "Te5Zr",
+    "prototype_tex": "Te$_{5}$Zr",
+    "label": "A5B_oC24_63_c2f_c-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y1",
+        "y2",
+        "y3",
+        "z3",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        3.9875,
+        3.64389,
+        3.44075,
+        0.316,
+        0.633,
+        0.933,
+        0.151,
+        0.209,
+        0.434
+    ],
+    "strukturbericht": null,
+    "title": "ZrTe$_{5}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A5B_oC24_63_c2f_c"
+}

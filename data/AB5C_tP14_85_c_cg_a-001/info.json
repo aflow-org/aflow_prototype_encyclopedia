@@ -1,0 +1,30 @@
+{
+    "uid": "N6T3",
+    "prototype": "MoO5P",
+    "prototype_tex": "MoO$_{5}$P",
+    "label": "AB5C_tP14_85_c_cg_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        6.1768,
+        0.695052,
+        0.6975,
+        0.3102,
+        0.3125,
+        0.9446,
+        0.7994
+    ],
+    "strukturbericht": null,
+    "title": "MoPO$_{5}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB5C_tP14_85_c_cg_b"
+}

@@ -1,0 +1,38 @@
+{
+    "uid": "ZSJ2",
+    "prototype": "Ag3Ir2LiO6",
+    "prototype_tex": "Ag$_{3}$Ir$_{2}$LiO$_{6}$",
+    "label": "A3B2CD6_mC24_12_ag_h_c_ij-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "y3",
+        "y4",
+        "x5",
+        "z5",
+        "x6",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        5.287,
+        1.73085,
+        1.78748,
+        138.614,
+        0.332,
+        0.334,
+        0.595,
+        0.689,
+        0.063,
+        0.832,
+        0.664
+    ],
+    "strukturbericht": null,
+    "title": "Ag$_{3}$LiIr$_{2}$O$_{6}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B2CD6_mC24_12_ag_h_c_ij-001"
+}

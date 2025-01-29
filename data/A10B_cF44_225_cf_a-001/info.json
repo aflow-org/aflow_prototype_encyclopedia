@@ -1,0 +1,20 @@
+{
+    "uid": "8F2Q",
+    "prototype": "H10La",
+    "prototype_tex": "H$_{10}$La",
+    "label": "A10B_cF44_225_cf_a-001",
+    "parameter_symbol": [
+        "a",
+        "x3"
+    ],
+    "parameter_values": [
+        4.78,
+        0.62
+    ],
+    "strukturbericht": null,
+    "title": "LaH$_{10}$ High-T$_{c}$ Superconductor Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A10B_cF44_225_cf_b"
+}

@@ -1,0 +1,53 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Gd2O7Si2
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A2B7C2_oP44_33_2a_7a_2a-001
+
+# Last updated on 2024/08/01
+
+data_Gd8O28Si8
+_pd_phase_name Gd8O28Si8
+_cell_length_a  13.8700000000
+_cell_length_b  5.0730000000
+_cell_length_c  8.3300000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pna2_{1}'
+_symmetry_Int_Tables_Number  33
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z+1/2
+  3  x+1/2,-y+1/2,z
+  4  -x+1/2,y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Gd1 1.0000000000 0.1255100000 0.3373000000 0.9983100000  Biso 1.0 Gd 4 a
+Gd2 1.0000000000 0.1256400000 0.3373900000 0.5140900000  Biso 1.0 Gd 4 a
+O3 1.0000000000 0.2715000000 0.4769000000 0.0876000000  Biso 1.0 O 4 a
+O4 1.0000000000 0.2658000000 0.4857000000 0.4130000000  Biso 1.0 O 4 a
+O5 1.0000000000 0.3457000000 0.0706000000 0.2465000000  Biso 1.0 O 4 a
+O6 1.0000000000 0.4211000000 0.5557000000 0.2448000000  Biso 1.0 O 4 a
+O7 1.0000000000 0.5472000000 0.7858000000 0.0866000000  Biso 1.0 O 4 a
+O8 1.0000000000 0.5456000000 0.7882000000 0.4206000000  Biso 1.0 O 4 a
+O9 1.0000000000 0.5988000000 0.3526000000 0.2560000000  Biso 1.0 O 4 a
+Si10 1.0000000000 0.3205000000 0.3744000000 0.2505000000  Biso 1.0 Si 4 a
+Si11 1.0000000000 0.5390000000 0.6253000000 0.2498000000  Biso 1.0 Si 4 a

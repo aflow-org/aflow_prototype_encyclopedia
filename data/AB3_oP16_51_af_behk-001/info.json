@@ -1,0 +1,32 @@
+{
+    "uid": "9W5L",
+    "prototype": "BiPd3",
+    "prototype_tex": "BiPd$_{3}$",
+    "label": "AB3_oP16_51_af_behk-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z3",
+        "z4",
+        "y5",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        9.39,
+        0.612354,
+        0.527157,
+        0.665,
+        0.665,
+        0.248,
+        0.252,
+        0.168
+    ],
+    "strukturbericht": null,
+    "title": "$\\alpha$-BiPd$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3_oP16_51_af_behk-001"
+}

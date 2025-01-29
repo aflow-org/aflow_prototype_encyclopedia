@@ -1,0 +1,26 @@
+{
+    "uid": "K0VP",
+    "prototype": "BaCuFeO5Y",
+    "prototype_tex": "BaCuFeO$_{5}$Y",
+    "label": "AB2C2D5E_tP11_123_a_h_h_ci_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z4",
+        "z5",
+        "z6"
+    ],
+    "parameter_values": [
+        3.875,
+        1.98168,
+        0.2854,
+        0.2525,
+        0.3156
+    ],
+    "strukturbericht": null,
+    "title": "YBaCuFeO$_{5}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2C2D5E_tP11_123_a_h_h_ci_b-001"
+}

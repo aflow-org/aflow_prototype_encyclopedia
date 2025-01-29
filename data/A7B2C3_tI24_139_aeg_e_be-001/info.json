@@ -1,0 +1,28 @@
+{
+    "uid": "7JA2",
+    "prototype": "Cl7Mn2Rb3",
+    "prototype_tex": "Cl$_{7}$Mn$_{2}$Rb$_{3}$",
+    "label": "A7B2C3_tI24_139_aeg_e_be-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4",
+        "z5",
+        "z6"
+    ],
+    "parameter_values": [
+        5.089,
+        5.137748,
+        0.295,
+        0.4,
+        0.18,
+        0.1
+    ],
+    "strukturbericht": null,
+    "title": "Rb$_{3}$Mn$_{2}$Cl$_{7}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A7B2C3_tI24_139_aeg_e_be-001"
+}

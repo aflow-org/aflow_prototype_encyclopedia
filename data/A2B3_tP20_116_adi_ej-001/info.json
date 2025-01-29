@@ -1,0 +1,30 @@
+{
+    "uid": "RJFD",
+    "prototype": "Ru2Sn3",
+    "prototype_tex": "Ru$_{2}$Sn$_{3}$",
+    "label": "A2B3_tP20_116_adi_ej-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "z4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        6.172,
+        1.60645,
+        0.677,
+        0.375,
+        0.155,
+        0.716,
+        0.082
+    ],
+    "strukturbericht": null,
+    "title": "Ru$_{2}$Sn$_{3}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B3_tP20_116_bci_fj"
+}

@@ -1,0 +1,23 @@
+{
+    "uid": "A8HJ",
+    "prototype": "MoS2",
+    "prototype_tex": "MoS$_{2}$",
+    "label": "AB2_hP6_194_c_f-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2"
+    ],
+    "parameter_values": [
+        3.161,
+        3.88959,
+        0.6275
+    ],
+    "strukturbericht": "C7",
+    "title": "Molybdenite (MoS$_{2}$, $C7$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$C7$",
+    "compounds": {},
+    "alias": "AB2_hP6_194_c_f"
+}

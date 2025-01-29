@@ -1,0 +1,41 @@
+{
+    "uid": "0J1F",
+    "prototype": "O7Sc2Si2",
+    "prototype_tex": "O$_{7}$Sc$_{2}$Si$_{2}$",
+    "label": "A7B2C2_mC22_12_aij_h_i-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "y2",
+        "x3",
+        "z3",
+        "x4",
+        "z4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        6.65,
+        1.29564,
+        0.704662,
+        102.2,
+        0.30503,
+        0.61346,
+        0.77829,
+        0.77892,
+        0.08762,
+        0.76345,
+        0.15499,
+        0.28174
+    ],
+    "strukturbericht": "S2_1",
+    "title": "Thortveitite ([Sc,Y]$_{2}$Si$_{2}$O$_{7}$, $S2_{1}$) Structure",
+    "part": 2,
+    "legacy": false,
+    "strukturbericht_tex": "$S2_{1}$",
+    "compounds": {},
+    "alias": "A7B2C2_mC22_12_aij_h_i"
+}

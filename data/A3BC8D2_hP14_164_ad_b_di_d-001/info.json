@@ -1,0 +1,30 @@
+{
+    "uid": "9RQB",
+    "prototype": "K3NaO8S2",
+    "prototype_tex": "K$_{3}$NaO$_{8}$S$_{2}$",
+    "label": "A3BC8D2_hP14_164_ad_b_di_d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4",
+        "z5",
+        "x6",
+        "z6"
+    ],
+    "parameter_values": [
+        5.6801,
+        1.28677,
+        0.3169,
+        0.9684,
+        0.7662,
+        0.8073,
+        0.3018
+    ],
+    "strukturbericht": null,
+    "title": "Aphthitalite/Glaserite [K$_{3}$Na(SO$_{4}$)$_{2}$] Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3BC8D2_hP14_164_ad_b_di_d-001"
+}

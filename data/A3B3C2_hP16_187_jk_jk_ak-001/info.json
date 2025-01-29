@@ -1,0 +1,30 @@
+{
+    "uid": "XP6Z",
+    "prototype": "As3Cr3K2",
+    "prototype_tex": "As$_{3}$Cr$_{3}$K$_{2}$",
+    "label": "A3B3C2_hP16_187_jk_jk_ak-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3",
+        "x4",
+        "x5",
+        "x6"
+    ],
+    "parameter_values": [
+        9.9832,
+        0.423752,
+        0.500567,
+        0.756467,
+        0.834267,
+        0.579367,
+        0.205367
+    ],
+    "strukturbericht": null,
+    "title": "Cr-233 Quasi-One-Dimensional Superconductor (K$_{2}$Cr$_{3}$As$_{3}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B3C2_hP16_187_jk_jk_ck"
+}

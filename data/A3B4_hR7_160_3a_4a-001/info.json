@@ -1,0 +1,34 @@
+{
+    "uid": "RN9C",
+    "prototype": "As3Sn4",
+    "prototype_tex": "As$_{3}$Sn$_{4}$",
+    "label": "A3B4_hR7_160_3a_4a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3",
+        "x4",
+        "x5",
+        "x6",
+        "x7"
+    ],
+    "parameter_values": [
+        4.08899,
+        8.81854,
+        0.5724,
+        0.0027,
+        0.4323,
+        0.2907,
+        0.7131,
+        0.1378,
+        0.866
+    ],
+    "strukturbericht": null,
+    "title": "Sn$_{4}$As$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B4_hR7_160_3a_4a-001"
+}

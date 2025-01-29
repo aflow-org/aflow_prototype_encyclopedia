@@ -1,0 +1,22 @@
+{
+    "uid": "T9FR",
+    "prototype": "O2Zr",
+    "prototype_tex": "O$_{2}$Zr",
+    "label": "A2B_tP6_137_d_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2"
+    ],
+    "parameter_values": [
+        3.64,
+        1.4478,
+        0.565
+    ],
+    "strukturbericht": null,
+    "title": "ZrO$_{2}$ (High-temperature) Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_tP6_137_d_a"
+}

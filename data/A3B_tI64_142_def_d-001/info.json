@@ -1,0 +1,28 @@
+{
+    "uid": "Q6FW",
+    "prototype": "Au3Zn",
+    "prototype_tex": "Au$_{3}$Zn",
+    "label": "A3B_tI64_142_def_d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "x3",
+        "x4"
+    ],
+    "parameter_values": [
+        5.5863,
+        5.97306,
+        0.433,
+        0.557,
+        0.75,
+        0.31
+    ],
+    "strukturbericht": null,
+    "title": "R$_{1}$ Au$_{3}$Zn Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B_tI64_142_def_d-001"
+}

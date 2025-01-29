@@ -1,0 +1,26 @@
+{
+    "uid": "MVZB",
+    "prototype": "Bi4Te3",
+    "prototype_tex": "Bi$_{4}$Te$_{3}$",
+    "label": "A4B3_hR7_166_2c_ac-002",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3",
+        "x4"
+    ],
+    "parameter_values": [
+        4.45102,
+        9.4109,
+        0.71717,
+        0.146,
+        0.42603
+    ],
+    "strukturbericht": null,
+    "title": "Bi$_{4}$Te$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4B3_hR7_166_2c_ac-002"
+}

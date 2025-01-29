@@ -1,0 +1,38 @@
+{
+    "uid": "TEMZ",
+    "prototype": "O4SnSr2",
+    "prototype_tex": "O$_{4}$SnSr$_{2}$",
+    "label": "A4BC2_oP28_56_cde_a_e-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z2",
+        "z3",
+        "x4",
+        "y4",
+        "z4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        5.7291,
+        1.00115,
+        2.18645,
+        0.0036,
+        -0.021,
+        0.0296,
+        -0.0319,
+        0.16302,
+        -0.0075,
+        0.0104,
+        0.35341
+    ],
+    "strukturbericht": null,
+    "title": "Low-temperature Sr$_{2}$SnO$_{4}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4BC2_oP28_56_cde_a_e-001"
+}

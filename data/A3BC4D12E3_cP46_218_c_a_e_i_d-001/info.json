@@ -1,0 +1,27 @@
+{
+    "uid": "NYVB",
+    "prototype": "Al3ClNa4O12Si3",
+    "prototype_tex": "Al$_{3}$ClNa$_{4}$O$_{12}$Si$_{3}$",
+    "label": "A3BC4D12E3_cP46_218_c_a_e_i_d-001",
+    "parameter_symbol": [
+        "a",
+        "x4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        8.882,
+        0.6778,
+        0.639,
+        0.6494,
+        0.9383
+    ],
+    "strukturbericht": "S6_2",
+    "title": "Sodalite [Na$_{4}$(AlSiO$_{4}$)$_{3}$Cl, $S6_{2}$] Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$S6_{2}$",
+    "compounds": {},
+    "alias": "A3BC4D12E3_cP46_218_d_a_e_i_c"
+}

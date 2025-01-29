@@ -1,0 +1,34 @@
+{
+    "uid": "TPXT",
+    "prototype": "Si24",
+    "prototype_tex": "Si$_{24}$",
+    "label": "A_oC24_63_3f-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y1",
+        "z1",
+        "y2",
+        "z2",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        3.8224,
+        2.79947,
+        3.30311,
+        0.0284,
+        0.5903,
+        0.2435,
+        0.5551,
+        0.5705,
+        0.3412
+    ],
+    "strukturbericht": null,
+    "title": "Si$_{24}$ Clathrate Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A_oC24_63_3f"
+}

@@ -1,0 +1,23 @@
+{
+    "uid": "3K6M",
+    "prototype": "CrSi2",
+    "prototype_tex": "CrSi$_{2}$",
+    "label": "AB2_hP9_180_c_i-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2"
+    ],
+    "parameter_values": [
+        4.4276,
+        1.43827,
+        0.16559
+    ],
+    "strukturbericht": "C40",
+    "title": "CrSi$_{2}$ ($C40$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$C40$",
+    "compounds": {},
+    "alias": "AB2_hP9_180_d_j"
+}

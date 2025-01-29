@@ -1,0 +1,59 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Ni3Si2
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A3B2_oC80_36_4a4b_2a3b-001
+
+# Last updated on 2024/08/01
+
+data_Ni48Si32
+_pd_phase_name Ni48Si32
+_cell_length_a  12.2290100000
+_cell_length_b  10.8050000000
+_cell_length_c  6.9240000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Cmc2_{1}'
+_symmetry_Int_Tables_Number  36
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z+1/2
+  3  x,-y,z+1/2
+  4  -x,y,z
+  5  x+1/2,y+1/2,z
+  6  -x+1/2,-y+1/2,z+1/2
+  7  x+1/2,-y+1/2,z+1/2
+  8  -x+1/2,y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Ni1 1.0000000000 -0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Ni 4 a
+Ni2 1.0000000000 -0.0000000000 0.2345000000 0.0240000000  Biso 1.0 Ni 4 a
+Ni3 1.0000000000 -0.0000000000 0.2330000000 0.4000000000  Biso 1.0 Ni 4 a
+Ni4 1.0000000000 -0.0000000000 0.3814000000 0.7140000000  Biso 1.0 Ni 4 a
+Si10 1.0000000000 -0.0000000000 0.4090000000 0.2180000000  Biso 1.0 Si 4 a
+Si9 1.0000000000 -0.0000000000 0.1570000000 0.7120000000  Biso 1.0 Si 4 a
+Ni5 1.0000000000 0.6732000000 0.6177000000 0.5180000000  Biso 1.0 Ni 8 b
+Ni6 1.0000000000 0.6723000000 0.6189000000 0.9000000000  Biso 1.0 Ni 8 b
+Ni7 1.0000000000 0.1972000000 0.2467000000 0.2170000000  Biso 1.0 Ni 8 b
+Ni8 1.0000000000 0.1824000000 0.4975000000 0.2250000000  Biso 1.0 Ni 8 b
+Si11 1.0000000000 0.6200000000 0.5590000000 0.2140000000  Biso 1.0 Si 8 b
+Si12 1.0000000000 0.1520000000 0.3440000000 0.5060000000  Biso 1.0 Si 8 b
+Si13 1.0000000000 0.1510000000 0.3430000000 0.9200000000  Biso 1.0 Si 8 b

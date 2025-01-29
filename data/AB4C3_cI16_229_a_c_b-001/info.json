@@ -1,0 +1,18 @@
+{
+    "uid": "YRPB",
+    "prototype": "CrFe4Ni3",
+    "prototype_tex": "CrFe$_{4}$Ni$_{3}$",
+    "label": "AB4C3_cI16_229_a_c_b-001",
+    "parameter_symbol": [
+        "a"
+    ],
+    "parameter_values": [
+        5.74
+    ],
+    "strukturbericht": null,
+    "title": "Model of Ferrite Structure (cI16)",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB4C3_cI16_229_a_c_b"
+}

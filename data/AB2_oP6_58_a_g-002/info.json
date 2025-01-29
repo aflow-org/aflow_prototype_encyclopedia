@@ -1,0 +1,26 @@
+{
+    "uid": "FF5Q",
+    "prototype": "Fe2C",
+    "prototype_tex": "Fe$_{2}$C",
+    "label": "AB2_oP6_58_a_g-002",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x2",
+        "y2"
+    ],
+    "parameter_values": [
+        4.704,
+        0.917942,
+        0.601616,
+        0.66667,
+        0.25
+    ],
+    "strukturbericht": null,
+    "title": "$\\eta$-Fe$_{2}$C Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2_oP6_58_a_g.eta-Fe2C"
+}

@@ -1,0 +1,31 @@
+{
+    "uid": "JZVB",
+    "prototype": "NaNO2",
+    "prototype_tex": "NaNO$_{2}$",
+    "label": "ABC2_oI8_44_a_a_c-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z1",
+        "z2",
+        "x3",
+        "z3"
+    ],
+    "parameter_values": [
+        5.384,
+        0.661218,
+        1.03325,
+        0.88,
+        0.4147,
+        0.8059,
+        -1.11022e-16
+    ],
+    "strukturbericht": "F5_5",
+    "title": "Ferroelectric NaNO$_{2}$ ($F5_{5}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$F5_{5}$",
+    "compounds": {},
+    "alias": "ABC2_oI8_44_a_a_c"
+}

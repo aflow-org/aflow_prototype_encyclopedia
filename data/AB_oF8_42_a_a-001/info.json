@@ -1,0 +1,26 @@
+{
+    "uid": "0Q2T",
+    "prototype": "BN",
+    "prototype_tex": "BN",
+    "label": "AB_oF8_42_a_a-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z1",
+        "z2"
+    ],
+    "parameter_values": [
+        2.5,
+        1.34,
+        1.736,
+        0.0,
+        0.333
+    ],
+    "strukturbericht": null,
+    "title": "BN (High-pressure, high-temperature) Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_oF8_42_a_a"
+}

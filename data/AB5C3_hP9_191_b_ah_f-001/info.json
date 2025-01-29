@@ -1,0 +1,22 @@
+{
+    "uid": "F3TR",
+    "prototype": "KSb5V3",
+    "prototype_tex": "KSb$_{5}$V$_{3}$",
+    "label": "AB5C3_hP9_191_b_ah_f-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z4"
+    ],
+    "parameter_values": [
+        5.4722,
+        1.63435,
+        0.74677
+    ],
+    "strukturbericht": null,
+    "title": "KV$_{3}$Sb$_{5}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB5C3_hP9_191_b_ah_f-001"
+}

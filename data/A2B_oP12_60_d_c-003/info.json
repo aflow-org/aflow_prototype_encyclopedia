@@ -1,0 +1,30 @@
+{
+    "uid": "9BKR",
+    "prototype": "O2Pb",
+    "prototype_tex": "O$_{2}$Pb",
+    "label": "A2B_oP12_60_d_c-003",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y1",
+        "x2",
+        "y2",
+        "z2"
+    ],
+    "parameter_values": [
+        4.9898,
+        1.19191,
+        1.09535,
+        0.1779,
+        0.7685,
+        0.099,
+        0.9752
+    ],
+    "strukturbericht": null,
+    "title": "$\\alpha$-PbO$_{2}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_oP12_60_d_c"
+}

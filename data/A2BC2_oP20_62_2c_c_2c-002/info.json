@@ -1,0 +1,42 @@
+{
+    "uid": "8B91",
+    "prototype": "Cu2NaO2",
+    "prototype_tex": "Cu$_{2}$NaO$_{2}$",
+    "label": "A2BC2_oP20_62_2c_c_2c-002",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        6.2001,
+        0.472734,
+        2.10218,
+        0.381,
+        0.2549,
+        0.8694,
+        0.6059,
+        0.358,
+        0.5806,
+        0.4189,
+        0.1155,
+        0.3489,
+        0.3979
+    ],
+    "strukturbericht": null,
+    "title": "NaCu$_{2}$O$_{2}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BC2_oP20_62_2c_c_2c-002"
+}

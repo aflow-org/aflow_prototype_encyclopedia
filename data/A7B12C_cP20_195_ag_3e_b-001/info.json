@@ -1,0 +1,26 @@
+{
+    "uid": "J7FX",
+    "prototype": "As7Cd8Cl",
+    "prototype_tex": "As$_{7}$Cd$_{8}$Cl",
+    "label": "A7B12C_cP20_195_ag_3e_b-001",
+    "parameter_symbol": [
+        "a",
+        "x3",
+        "x4",
+        "x5",
+        "x6"
+    ],
+    "parameter_values": [
+        7.266,
+        0.283,
+        0.7842,
+        0.7363,
+        0.8328
+    ],
+    "strukturbericht": null,
+    "title": "Cd$_{8}$As$_{7}$Cl Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A7B12C_cP20_195_ag_3e_b-001"
+}

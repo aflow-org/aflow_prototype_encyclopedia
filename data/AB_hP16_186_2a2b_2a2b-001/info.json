@@ -1,0 +1,36 @@
+{
+    "uid": "W6UW",
+    "prototype": "GaSe",
+    "prototype_tex": "GaSe",
+    "label": "AB_hP16_186_2a2b_2a2b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3",
+        "z4",
+        "z5",
+        "z6",
+        "z7",
+        "z8"
+    ],
+    "parameter_values": [
+        3.755,
+        8.51931,
+        0.962,
+        0.0391,
+        0.179,
+        0.328,
+        0.2116,
+        0.2875,
+        0.575,
+        0.425
+    ],
+    "strukturbericht": null,
+    "title": "$\\delta$-GaSe Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_hP16_186_2a2b_2a2b-001"
+}

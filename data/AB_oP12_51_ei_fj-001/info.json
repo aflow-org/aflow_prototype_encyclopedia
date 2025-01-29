@@ -1,0 +1,34 @@
+{
+    "uid": "1M54",
+    "prototype": "RhTa",
+    "prototype_tex": "RhTa",
+    "label": "AB_oP12_51_ei_fj-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z1",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        13.551,
+        0.20825,
+        0.349937,
+        0.45,
+        0.95,
+        0.417,
+        0.817,
+        0.417,
+        0.317
+    ],
+    "strukturbericht": null,
+    "title": "TaRh Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_oP12_51_ei_fj-001"
+}

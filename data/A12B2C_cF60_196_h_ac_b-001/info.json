@@ -1,0 +1,24 @@
+{
+    "uid": "DJ7F",
+    "prototype": "C6Cu2FeN6",
+    "prototype_tex": "C$_{6}$Cu$_{2}$FeN$_{6}$",
+    "label": "A12B2C_cF60_196_h_ac_b-001",
+    "parameter_symbol": [
+        "a",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        9.98,
+        0.25,
+        0.0625,
+        4.44089e-16
+    ],
+    "strukturbericht": null,
+    "title": "Cu$_{2}$Fe[CN]$_{6}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A12B2C_cF60_196_h_bc_a"
+}

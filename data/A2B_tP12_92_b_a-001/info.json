@@ -1,0 +1,29 @@
+{
+    "uid": "VHRN",
+    "prototype": "O2Si",
+    "prototype_tex": "O$_{2}$Si",
+    "label": "A2B_tP12_92_b_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "y2",
+        "z2"
+    ],
+    "parameter_values": [
+        4.957,
+        1.39001,
+        0.3047,
+        0.2381,
+        0.1109,
+        0.1826
+    ],
+    "strukturbericht": "C30",
+    "title": "$\\alpha$-Cristobalite (SiO$_{2}$, low, $C30$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$C30$",
+    "compounds": {},
+    "alias": "A2B_tP12_92_b_a"
+}

@@ -1,0 +1,24 @@
+{
+    "uid": "JFD1",
+    "prototype": "FeSe",
+    "prototype_tex": "FeSe",
+    "label": "AB_oC8_67_a_g-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z2"
+    ],
+    "parameter_values": [
+        5.309,
+        1.00299,
+        1.03206,
+        0.26686
+    ],
+    "strukturbericht": null,
+    "title": "$\\alpha$-FeSe Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_oC8_67_a_g.FeSe"
+}

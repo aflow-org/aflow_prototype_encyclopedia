@@ -1,0 +1,28 @@
+{
+    "uid": "CVKE",
+    "prototype": "Cr2S3",
+    "prototype_tex": "Cr$_{2}$S$_{3}$",
+    "label": "A2B3_hR10_148_abc_f-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        5.93701,
+        2.81253,
+        0.33333,
+        0.58333,
+        0.91667,
+        0.25
+    ],
+    "strukturbericht": null,
+    "title": "Rhombohedral Cr$_{2}$S$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B3_hR10_148_abc_f-001"
+}

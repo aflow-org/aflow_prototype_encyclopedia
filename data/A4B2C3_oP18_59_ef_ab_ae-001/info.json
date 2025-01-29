@@ -1,0 +1,41 @@
+{
+    "uid": "NABB",
+    "prototype": "H4N2O3",
+    "prototype_tex": "H$_{4}$N$_{2}$O$_{3}$",
+    "label": "A4B2C3_oP18_59_ef_ab_ae-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3",
+        "y4",
+        "z4",
+        "y5",
+        "z5",
+        "x6",
+        "z6"
+    ],
+    "parameter_values": [
+        5.438,
+        1.05645,
+        0.90879,
+        0.4933,
+        0.2371,
+        0.0836,
+        0.8955,
+        0.1898,
+        0.06558,
+        0.6168,
+        0.8989,
+        0.0324
+    ],
+    "strukturbericht": "G0_11",
+    "title": "NH$_{4}$NO$_{3}$ IV ($G0_{11}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$G0_{11}$",
+    "compounds": {},
+    "alias": "A4B2C3_oP18_59_ef_ab_af"
+}

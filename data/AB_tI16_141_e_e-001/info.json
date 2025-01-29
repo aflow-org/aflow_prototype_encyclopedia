@@ -1,0 +1,25 @@
+{
+    "uid": "B9A8",
+    "prototype": "BMo",
+    "prototype_tex": "BMo",
+    "label": "AB_tI16_141_e_e-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2"
+    ],
+    "parameter_values": [
+        3.105,
+        5.46538,
+        0.227,
+        0.071
+    ],
+    "strukturbericht": "B_g",
+    "title": "MoB ($B_{g}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$B_{g}$",
+    "compounds": {},
+    "alias": "AB_tI16_141_e_e"
+}

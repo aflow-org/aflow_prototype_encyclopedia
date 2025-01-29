@@ -1,0 +1,28 @@
+{
+    "uid": "M3JC",
+    "prototype": "GaSe",
+    "prototype_tex": "GaSe",
+    "label": "AB_hP8_187_gh_gh-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3",
+        "z4"
+    ],
+    "parameter_values": [
+        3.735,
+        4.25355,
+        0.075,
+        0.65,
+        0.57,
+        0.15
+    ],
+    "strukturbericht": null,
+    "title": "$\\epsilon$-GaSe Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_hP8_187_gh_gh-001"
+}

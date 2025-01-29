@@ -1,0 +1,36 @@
+{
+    "uid": "LD13",
+    "prototype": "Bi6MnTe10",
+    "prototype_tex": "Bi$_{6}$MnTe$_{10}$",
+    "label": "A6BC10_hR17_166_3c_a_5c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3",
+        "x4",
+        "x5",
+        "x6",
+        "x7",
+        "x8",
+        "x9"
+    ],
+    "parameter_values": [
+        4.37453,
+        23.3134,
+        0.76332,
+        0.70429,
+        0.5298,
+        0.94636,
+        0.88268,
+        0.82088,
+        0.65081,
+        0.58554
+    ],
+    "strukturbericht": null,
+    "title": "MnBi$_{6}$Te$_{10}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A6BC10_hR17_166_3c_a_5c-001"
+}

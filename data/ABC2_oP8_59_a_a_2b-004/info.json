@@ -1,0 +1,30 @@
+{
+    "uid": "WEQC",
+    "prototype": "FeLiO2",
+    "prototype_tex": "FeLiO$_{2}$",
+    "label": "ABC2_oP8_59_a_a_2b-004",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3",
+        "z4"
+    ],
+    "parameter_values": [
+        4.061,
+        0.729402,
+        1.48532,
+        0.644,
+        0.109,
+        0.85,
+        0.391
+    ],
+    "strukturbericht": null,
+    "title": "Orthorhombic LiFeO$_{2}$ (o-LiFeO$_{2}$) Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC2_oP8_59_a_a_2b-004"
+}

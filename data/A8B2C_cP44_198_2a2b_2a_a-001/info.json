@@ -1,0 +1,40 @@
+{
+    "uid": "XVW1",
+    "prototype": "O8W2Zr",
+    "prototype_tex": "O$_{8}$W$_{2}$Zr",
+    "label": "A8B2C_cP44_198_2a2b_2a_a-001",
+    "parameter_symbol": [
+        "a",
+        "x1",
+        "x2",
+        "x3",
+        "x4",
+        "x5",
+        "x6",
+        "y6",
+        "z6",
+        "x7",
+        "y7",
+        "z7"
+    ],
+    "parameter_values": [
+        9.1568,
+        0.4941,
+        0.2322,
+        0.3409,
+        0.6009,
+        0.0004,
+        0.0529,
+        0.7931,
+        0.9381,
+        0.0697,
+        0.9425,
+        0.2132
+    ],
+    "strukturbericht": null,
+    "title": "Low-Temperature ZrW$_{2}$O$_{8}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A8B2C_cP44_198_2a2b_2a_a-001"
+}

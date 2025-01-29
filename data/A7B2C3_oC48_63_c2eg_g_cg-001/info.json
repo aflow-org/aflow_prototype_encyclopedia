@@ -1,0 +1,42 @@
+{
+    "uid": "UPXS",
+    "prototype": "O7SnSr3",
+    "prototype_tex": "O$_{7}$SnSr$_{3}$",
+    "label": "A7B2C3_oC48_63_c2eg_g_cg-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y1",
+        "y2",
+        "x3",
+        "x4",
+        "x5",
+        "y5",
+        "x6",
+        "y6",
+        "x7",
+        "y7"
+    ],
+    "parameter_values": [
+        20.688,
+        0.277262,
+        0.276005,
+        0.695,
+        0.241,
+        0.3939,
+        0.0873,
+        0.3033,
+        0.288,
+        0.4027,
+        0.251,
+        0.3121,
+        0.739
+    ],
+    "strukturbericht": null,
+    "title": "Sr$_{3}$SnO$_{7}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A7B2C3_oC48_63_c2eg_g_cg-001"
+}

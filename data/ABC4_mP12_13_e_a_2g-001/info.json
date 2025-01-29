@@ -1,0 +1,39 @@
+{
+    "uid": "5BWB",
+    "prototype": "AgAuTe4",
+    "prototype_tex": "AgAuTe$_{4}$",
+    "label": "ABC4_mP12_13_e_a_2g-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "y2",
+        "x3",
+        "y3",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        8.95,
+        0.500335,
+        1.63361,
+        145.35,
+        0.5182,
+        0.2986,
+        0.0278,
+        0.0003,
+        0.2821,
+        0.4045,
+        0.2366
+    ],
+    "strukturbericht": "E1_b",
+    "title": "Sylvanite (AgAuTe$_{4}$, $E1_{b}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$E1_{b}$",
+    "compounds": {},
+    "alias": "ABC4_mP12_13_e_a_2g"
+}

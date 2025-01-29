@@ -1,0 +1,24 @@
+{
+    "uid": "XFHX",
+    "prototype": "NbTe4",
+    "prototype_tex": "NbTe$_{4}$",
+    "label": "AB4_tP10_124_a_m-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "y2"
+    ],
+    "parameter_values": [
+        6.499,
+        1.05201,
+        0.1425,
+        0.3361
+    ],
+    "strukturbericht": null,
+    "title": "Room Temperature NbTe$_{4}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB4_tP10_124_a_m"
+}

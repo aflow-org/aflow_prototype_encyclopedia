@@ -1,0 +1,30 @@
+{
+    "uid": "5GP6",
+    "prototype": "Fe2N",
+    "prototype_tex": "Fe$_{2}$N",
+    "label": "A2B_oP12_60_d_c-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y1",
+        "x2",
+        "y2",
+        "z2"
+    ],
+    "parameter_values": [
+        4.4373,
+        1.2488,
+        1.09141,
+        0.364,
+        0.249,
+        0.128,
+        0.0827
+    ],
+    "strukturbericht": null,
+    "title": "$\\zeta$-Fe$_{2}$N Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_oP12_60_d_c.Fe2N"
+}

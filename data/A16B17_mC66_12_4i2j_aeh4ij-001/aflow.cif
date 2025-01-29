@@ -1,0 +1,60 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  BiNi
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A16B17_mC66_12_4i2j_aeh4ij-001
+
+# Last updated on 2024/08/02
+
+data_Bi32Ni34
+_pd_phase_name Bi32Ni34
+_cell_length_a  14.1240000000
+_cell_length_b  8.1621000000
+_cell_length_c  12.8324700000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  123.3891500000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'C2/m'
+_symmetry_Int_Tables_Number  12
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y,-z
+  3  -x,-y,-z
+  4  x,-y,z
+  5  x+1/2,y+1/2,z
+  6  -x+1/2,y+1/2,-z
+  7  -x+1/2,-y+1/2,-z
+  8  x+1/2,-y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Ni7 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Ni 2 a
+Ni8 1.0000000000 0.2500000000 0.2500000000 -0.0000000000  Biso 1.0 Ni 4 e
+Ni9 1.0000000000 0.0000000000 0.7558000000 0.5000000000  Biso 1.0 Ni 4 h
+Bi1 1.0000000000 0.4128000000 -0.0000000000 0.1260200000  Biso 1.0 Bi 4 i
+Bi2 1.0000000000 0.8959700000 -0.0000000000 0.1266800000  Biso 1.0 Bi 4 i
+Bi3 1.0000000000 0.8470700000 0.0000000000 0.3763400000  Biso 1.0 Bi 4 i
+Bi4 1.0000000000 0.3544500000 0.0000000000 0.3775000000  Biso 1.0 Bi 4 i
+Ni10 1.0000000000 0.1255000000 0.0000000000 0.2472000000  Biso 1.0 Ni 4 i
+Ni11 1.0000000000 0.2454000000 0.0000000000 0.4958000000  Biso 1.0 Ni 4 i
+Ni12 1.0000000000 0.2286000000 -0.0000000000 0.1238000000  Biso 1.0 Ni 4 i
+Ni13 1.0000000000 0.0191000000 0.0000000000 0.3714000000  Biso 1.0 Ni 4 i
+Bi5 1.0000000000 0.1377800000 0.2741200000 0.1248400000  Biso 1.0 Bi 8 j
+Bi6 1.0000000000 0.1084200000 0.7401000000 0.3746200000  Biso 1.0 Bi 8 j
+Ni14 1.0000000000 0.8744000000 0.7454000000 0.2500000000  Biso 1.0 Ni 8 j

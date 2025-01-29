@@ -1,0 +1,50 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+
+# Chemical Composition:  Pu
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A_mP16_11_8e-001
+
+# Last updated on 2024/08/01
+data_Pu16
+_pd_phase_name Pu16
+_cell_length_a  6.1830000000
+_cell_length_b  4.8220000000
+_cell_length_c  10.9630000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  101.7900000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P2_{1}/m'
+_symmetry_Int_Tables_Number  11
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y+1/2,-z
+  3  -x,-y,-z
+  4  x,-y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Pu1 1.0000000000 0.6550000000 0.2500000000 0.8380000000  Biso 1.0 Pu 2 e
+Pu2 1.0000000000 0.2330000000 0.2500000000 0.8320000000  Biso 1.0 Pu 2 e
+Pu3 1.0000000000 0.8720000000 0.2500000000 0.6600000000  Biso 1.0 Pu 2 e
+Pu4 1.0000000000 0.3430000000 0.2500000000 0.5430000000  Biso 1.0 Pu 2 e
+Pu5 1.0000000000 0.9750000000 0.2500000000 0.3820000000  Biso 1.0 Pu 2 e
+Pu6 1.0000000000 0.5270000000 0.2500000000 0.3470000000  Biso 1.0 Pu 2 e
+Pu7 1.0000000000 0.6720000000 0.2500000000 0.0740000000  Biso 1.0 Pu 2 e
+Pu8 1.0000000000 0.1310000000 0.2500000000 0.1060000000  Biso 1.0 Pu 2 e

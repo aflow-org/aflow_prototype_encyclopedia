@@ -1,0 +1,24 @@
+{
+    "uid": "0APN",
+    "prototype": "Ga2Mn3SiTb3",
+    "prototype_tex": "Ga$_{2}$Mn$_{3}$SiTb$_{3}$",
+    "label": "A2B3CD3_hP9_189_c_f_b_g-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "x4"
+    ],
+    "parameter_values": [
+        6.99,
+        0.611445,
+        0.244,
+        0.564
+    ],
+    "strukturbericht": null,
+    "title": "Tb$_{3}$Mn$_{3}$Ga$_{2}$Si Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B3CD3_hP9_189_c_f_b_g-001"
+}

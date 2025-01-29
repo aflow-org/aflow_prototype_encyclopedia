@@ -1,0 +1,24 @@
+{
+    "uid": "3DEV",
+    "prototype": "Al18Cr2Mg3",
+    "prototype_tex": "Al$_{18}$Cr$_{2}$Mg$_{3}$",
+    "label": "A18B2C3_cF184_227_fg_d_ac-001",
+    "parameter_symbol": [
+        "a",
+        "x4",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        14.53,
+        0.7657,
+        0.5584,
+        0.3252
+    ],
+    "strukturbericht": null,
+    "title": "Mg$_{3}$Cr$_{2}$Al$_{18}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A18B2C3_cF184_227_fg_d_ac"
+}

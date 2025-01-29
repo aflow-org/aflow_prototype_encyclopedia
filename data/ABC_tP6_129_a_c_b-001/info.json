@@ -1,0 +1,22 @@
+{
+    "uid": "JX34",
+    "prototype": "FLaO",
+    "prototype_tex": "FLaO",
+    "label": "ABC_tP6_129_a_c_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3"
+    ],
+    "parameter_values": [
+        4.083,
+        1.42665,
+        0.778
+    ],
+    "strukturbericht": null,
+    "title": "LaOF Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC_tP6_129_a_c_b-001"
+}

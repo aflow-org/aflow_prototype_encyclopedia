@@ -1,0 +1,40 @@
+{
+    "uid": "XBGP",
+    "prototype": "H3PZr3",
+    "prototype_tex": "H$_{3}$PZr$_{3}$",
+    "label": "A4BC3_tP64_133_2k_h_i2j-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3",
+        "x4",
+        "x5",
+        "y5",
+        "z5",
+        "x6",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        11.18,
+        0.485662,
+        0.5451,
+        0.6108,
+        0.6555,
+        0.056,
+        0.9995,
+        0.105,
+        0.5823,
+        0.1813,
+        0.1749,
+        0.1338
+    ],
+    "strukturbericht": null,
+    "title": "Zr$_{3}$PD$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4BC3_tP64_133_2k_h_i2j-001"
+}

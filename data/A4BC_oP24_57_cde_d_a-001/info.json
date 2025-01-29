@@ -1,0 +1,38 @@
+{
+    "uid": "JM5X",
+    "prototype": "O4SrU",
+    "prototype_tex": "O$_{4}$SrU",
+    "label": "A4BC_oP24_57_cde_d_a-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x2",
+        "x3",
+        "y3",
+        "x4",
+        "y4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        5.4896,
+        1.45311,
+        1.48093,
+        0.1726,
+        0.8602,
+        0.03,
+        0.471,
+        0.2013,
+        0.2998,
+        0.9193,
+        0.081
+    ],
+    "strukturbericht": null,
+    "title": "SrUO$_{4}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4BC_oP24_57_cde_d_a"
+}

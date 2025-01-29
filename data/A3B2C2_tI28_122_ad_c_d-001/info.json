@@ -1,0 +1,26 @@
+{
+    "uid": "1YSS",
+    "prototype": "Mn1.4PtSn",
+    "prototype_tex": "Mn$_{1.4}$PtSn",
+    "label": "A3B2C2_tI28_122_ad_c_d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "x3",
+        "x4"
+    ],
+    "parameter_values": [
+        6.3651,
+        1.91992,
+        0.23488,
+        0.7282,
+        0.27875
+    ],
+    "strukturbericht": null,
+    "title": "Mn$_{1.4}$PtSn Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B2C2_tI28_122_ad_c_d-001"
+}

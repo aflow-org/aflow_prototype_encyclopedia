@@ -1,0 +1,29 @@
+{
+    "uid": "YFN8",
+    "prototype": "CrCl3(H2O)6",
+    "prototype_tex": "CrCl$_{3}$(H$_{2}$O)$_{6}$",
+    "label": "A3BC6_hR20_167_e_b_f-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        11.8335,
+        1.00557,
+        0.51,
+        0.12,
+        0.96,
+        0.22
+    ],
+    "strukturbericht": "J2_2",
+    "title": "CrCl$_{3}$(H$_{2}$O)$_{6}$ ($J2_{2}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$J2_{2}$",
+    "compounds": {},
+    "alias": "A3BC6_hR20_167_e_b_f"
+}

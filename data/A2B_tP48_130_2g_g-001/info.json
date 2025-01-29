@@ -1,0 +1,38 @@
+{
+    "uid": "P5YW",
+    "prototype": "O2V",
+    "prototype_tex": "O$_{2}$V",
+    "label": "A2B_tP48_130_2g_g-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "y1",
+        "z1",
+        "x2",
+        "y2",
+        "z2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        8.4403,
+        0.908262,
+        0.4039,
+        0.7481,
+        0.3776,
+        0.4099,
+        0.4108,
+        0.3732,
+        0.44818,
+        0.72455,
+        0.12939
+    ],
+    "strukturbericht": null,
+    "title": "Room Temperature Metastable VO$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_tP48_130_2g_g-001"
+}

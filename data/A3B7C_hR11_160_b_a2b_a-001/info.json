@@ -1,0 +1,36 @@
+{
+    "uid": "JN4A",
+    "prototype": "Fe3O7P",
+    "prototype_tex": "Fe$_{3}$O$_{7}$P",
+    "label": "A3B7C_hR11_160_b_a2b_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3",
+        "z3",
+        "x4",
+        "z4",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        8.006,
+        0.857232,
+        0.7711,
+        0.0,
+        0.4605,
+        0.85151,
+        0.167,
+        0.856,
+        0.6105,
+        0.23321
+    ],
+    "strukturbericht": null,
+    "title": "Fe$_{3}$PO$_{7}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B7C_hR11_160_b_a2b_a"
+}

@@ -1,0 +1,22 @@
+{
+    "uid": "K0Z6",
+    "prototype": "Ga4Ni3",
+    "prototype_tex": "Ga$_{4}$Ni$_{3}$",
+    "label": "A4B3_cI112_230_af_g-001",
+    "parameter_symbol": [
+        "a",
+        "x2",
+        "y3"
+    ],
+    "parameter_values": [
+        11.411,
+        0.0,
+        0.625
+    ],
+    "strukturbericht": null,
+    "title": "Ga$_{4}$Ni$_{3}$ Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4B3_cI112_230_af_g"
+}

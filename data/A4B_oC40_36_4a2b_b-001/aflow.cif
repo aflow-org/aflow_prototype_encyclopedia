@@ -1,0 +1,53 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  I4Nb
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A4B_oC40_36_4a2b_b-001
+
+# Last updated on 2024/08/01
+
+data_I32Nb8
+_pd_phase_name I32Nb8
+_cell_length_a  7.6700000000
+_cell_length_b  13.2300000000
+_cell_length_c  13.9300000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Cmc2_{1}'
+_symmetry_Int_Tables_Number  36
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z+1/2
+  3  x,-y,z+1/2
+  4  -x,y,z
+  5  x+1/2,y+1/2,z
+  6  -x+1/2,-y+1/2,z+1/2
+  7  x+1/2,-y+1/2,z+1/2
+  8  -x+1/2,y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+I1 1.0000000000 -0.0000000000 0.2608000000 0.0333000000  Biso 1.0 I 4 a
+I2 1.0000000000 -0.0000000000 0.7436000000 0.0440000000  Biso 1.0 I 4 a
+I3 1.0000000000 -0.0000000000 0.9887000000 0.2096000000  Biso 1.0 I 4 a
+I4 1.0000000000 -0.0000000000 0.5066000000 0.1999000000  Biso 1.0 I 4 a
+I5 1.0000000000 0.2467000000 0.0061000000 0.9677000000  Biso 1.0 I 8 b
+I6 1.0000000000 0.2458000000 0.2334000000 0.2842000000  Biso 1.0 I 8 b
+Nb7 1.0000000000 0.2171000000 0.1256000000 0.1207000000  Biso 1.0 Nb 8 b

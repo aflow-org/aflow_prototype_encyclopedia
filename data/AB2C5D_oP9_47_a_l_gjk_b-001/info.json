@@ -1,0 +1,28 @@
+{
+    "uid": "8NNT",
+    "prototype": "BaFe2O5Y",
+    "prototype_tex": "BaFe$_{2}$O$_{5}$Y",
+    "label": "AB2C5D_oP9_47_a_l_gjk_b-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x4",
+        "x5",
+        "x6"
+    ],
+    "parameter_values": [
+        7.5652,
+        0.51729,
+        0.51992,
+        0.6863,
+        0.6873,
+        0.73601
+    ],
+    "strukturbericht": null,
+    "title": "Class-II MV YBaFe$_{2}$O$_{5}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2C5D_oP9_47_a_l_gjk_b-001"
+}

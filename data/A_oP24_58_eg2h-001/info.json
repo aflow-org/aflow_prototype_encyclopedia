@@ -1,0 +1,40 @@
+{
+    "uid": "7TXG",
+    "prototype": "S",
+    "prototype_tex": "S",
+    "label": "A_oP24_58_eg2h-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z1",
+        "x2",
+        "y2",
+        "x3",
+        "y3",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        4.73,
+        1.9277,
+        3.07188,
+        0.22628,
+        0.77069,
+        0.27246,
+        0.2383,
+        0.12931,
+        0.14022,
+        0.01522,
+        0.31695,
+        0.11353
+    ],
+    "strukturbericht": null,
+    "title": "S$_{12}$ Sulfur Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A_oP24_58_eg2h-001"
+}

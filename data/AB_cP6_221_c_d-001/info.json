@@ -1,0 +1,18 @@
+{
+    "uid": "H75X",
+    "prototype": "NbO",
+    "prototype_tex": "NbO",
+    "label": "AB_cP6_221_c_d-001",
+    "parameter_symbol": [
+        "a"
+    ],
+    "parameter_values": [
+        4.2101
+    ],
+    "strukturbericht": null,
+    "title": "NbO Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_cP6_221_c_d"
+}

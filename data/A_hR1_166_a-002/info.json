@@ -1,0 +1,21 @@
+{
+    "uid": "8ZQP",
+    "prototype": "Hg",
+    "prototype_tex": "Hg",
+    "label": "A_hR1_166_a-002",
+    "parameter_symbol": [
+        "a",
+        "c/a"
+    ],
+    "parameter_values": [
+        3.45741,
+        1.92728
+    ],
+    "strukturbericht": "A10",
+    "title": "$\\alpha$-Hg (A10) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$A10$",
+    "compounds": {},
+    "alias": "A_hR1_166_a.alpha-Hg"
+}

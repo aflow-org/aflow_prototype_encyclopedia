@@ -1,0 +1,42 @@
+{
+    "uid": "M4CM",
+    "prototype": "Li2O4W",
+    "prototype_tex": "Li$_{2}$O$_{4}$W",
+    "label": "A2B4C_tI112_141_fg_2hi_h-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "y3",
+        "z3",
+        "y4",
+        "z4",
+        "y5",
+        "z5",
+        "x6",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        11.954,
+        0.70353,
+        0.374,
+        0.87,
+        0.1273,
+        0.0175,
+        0.1449,
+        0.4852,
+        0.11394,
+        0.22195,
+        0.115,
+        0.0223,
+        0.2542
+    ],
+    "strukturbericht": null,
+    "title": "Li$_{2}$WO$_{4}$ (II) Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B4C_tI112_141_fg_2hi_h-001"
+}

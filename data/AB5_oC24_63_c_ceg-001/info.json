@@ -1,0 +1,32 @@
+{
+    "uid": "BGG4",
+    "prototype": "BaZn5",
+    "prototype_tex": "BaZn$_{5}$",
+    "label": "AB5_oC24_63_c_ceg-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y1",
+        "y2",
+        "x3",
+        "x4",
+        "y4"
+    ],
+    "parameter_values": [
+        10.783,
+        0.778819,
+        0.493369,
+        0.66652,
+        0.07674,
+        0.20515,
+        0.19116,
+        0.27298
+    ],
+    "strukturbericht": null,
+    "title": "BaZn$_{5}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB5_oC24_63_c_ceg-001"
+}

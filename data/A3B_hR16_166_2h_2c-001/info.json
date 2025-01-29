@@ -1,0 +1,32 @@
+{
+    "uid": "X564",
+    "prototype": "Sn3Sr",
+    "prototype_tex": "Sn$_{3}$Sr",
+    "label": "A3B_hR16_166_2h_2c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3",
+        "z3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        6.94,
+        4.756484,
+        0.13138,
+        0.29035,
+        0.16073,
+        0.04194,
+        0.18797,
+        0.21071
+    ],
+    "strukturbericht": null,
+    "title": "SrSn$_{3}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B_hR16_166_2h_2c-001"
+}

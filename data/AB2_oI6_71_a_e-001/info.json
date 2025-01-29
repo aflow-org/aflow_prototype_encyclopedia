@@ -1,0 +1,24 @@
+{
+    "uid": "EKX0",
+    "prototype": "MoPt2",
+    "prototype_tex": "MoPt$_{2}$",
+    "label": "AB2_oI6_71_a_e-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x2"
+    ],
+    "parameter_values": [
+        8.2795,
+        0.333329,
+        0.474703,
+        0.64667
+    ],
+    "strukturbericht": null,
+    "title": "MoPt$_{2}$ Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2_oI6_71_a_g"
+}

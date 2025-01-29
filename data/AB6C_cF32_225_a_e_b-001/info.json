@@ -1,0 +1,20 @@
+{
+    "uid": "2016",
+    "prototype": "CuF6Zr",
+    "prototype_tex": "CuF$_{6}$Zr",
+    "label": "AB6C_cF32_225_a_e_b-001",
+    "parameter_symbol": [
+        "a",
+        "x3"
+    ],
+    "parameter_values": [
+        7.95,
+        0.2494
+    ],
+    "strukturbericht": null,
+    "title": "$\\alpha$'-CuZrF$_{6}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB6C_cF32_225_a_e_b-001"
+}

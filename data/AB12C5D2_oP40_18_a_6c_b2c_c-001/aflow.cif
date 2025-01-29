@@ -1,0 +1,53 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  ClH12N5Zn diamminetriamidodizinc chloride
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/AB12C5D2_oP40_18_a_6c_b2c_c-001
+
+# Last updated on 2024/08/01
+
+data_Cl2H24N10Zn4
+_pd_phase_name Cl2H24N10Zn4
+_cell_length_a  5.7715000000
+_cell_length_b  10.2359000000
+_cell_length_c  6.5456000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P2_{1}2_{1}2'
+_symmetry_Int_Tables_Number  18
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  -x+1/2,y+1/2,-z
+  4  x+1/2,-y+1/2,-z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Cl1 1.0000000000 0.0000000000 0.0000000000 0.9566000000  Biso 1.0 Cl 2 a
+N8 1.0000000000 -0.0000000000 0.5000000000 0.3950000000  Biso 1.0 N 2 b
+H2 1.0000000000 0.3500000000 0.2480000000 0.6700000000  Biso 1.0 H 4 c
+H3 1.0000000000 0.5000000000 0.3540000000 0.6700000000  Biso 1.0 H 4 c
+H4 1.0000000000 0.0000000000 0.2590000000 0.9100000000  Biso 1.0 H 4 c
+H5 1.0000000000 0.0900000000 0.3600000000 0.9600000000  Biso 1.0 H 4 c
+H6 1.0000000000 0.4100000000 0.1180000000 0.0800000000  Biso 1.0 H 4 c
+H7 1.0000000000 0.3540000000 0.0100000000 0.6500000000  Biso 1.0 H 4 c
+N10 1.0000000000 0.0070000000 0.3377000000 0.8530000000  Biso 1.0 N 4 c
+N9 1.0000000000 0.4490000000 0.3291000000 0.5530000000  Biso 1.0 N 4 c
+Zn11 1.0000000000 0.1009000000 0.3376000000 0.5374000000  Biso 1.0 Zn 4 c

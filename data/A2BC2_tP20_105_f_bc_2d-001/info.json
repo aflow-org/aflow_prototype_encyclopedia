@@ -1,0 +1,38 @@
+{
+    "uid": "W96U",
+    "prototype": "As2BaGe2",
+    "prototype_tex": "As$_{2}$BaGe$_{2}$",
+    "label": "A2BC2_tP20_105_f_bc_2d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        7.786,
+        1.11277,
+        0.0,
+        0.0241,
+        0.8351,
+        0.864,
+        0.6632,
+        0.1068,
+        0.729,
+        0.7453,
+        0.2558
+    ],
+    "strukturbericht": null,
+    "title": "BaGe$_{2}$As$_{2}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BC2_tP20_105_f_ac_2e"
+}

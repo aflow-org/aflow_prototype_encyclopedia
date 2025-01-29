@@ -1,0 +1,36 @@
+{
+    "uid": "17US",
+    "prototype": "Cr3S4",
+    "prototype_tex": "Cr$_{3}$S$_{4}$",
+    "label": "A3B4_mC14_12_ai_2i-002",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x2",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        12.6138,
+        0.271766,
+        0.472815,
+        116.707,
+        0.737,
+        0.725,
+        0.637,
+        0.992,
+        0.124,
+        0.444
+    ],
+    "strukturbericht": null,
+    "title": "Brezinaite (Cr$_{3}$S$_{4}$) Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B4_mC14_12_ai_2i-002"
+}

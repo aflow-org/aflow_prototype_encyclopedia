@@ -1,0 +1,25 @@
+{
+    "uid": "YMRU",
+    "prototype": "Al2Co3O12Si3",
+    "prototype_tex": "Al$_{2}$Co$_{3}$O$_{12}$Si$_{3}$",
+    "label": "A2B3C12D3_cI160_230_a_c_h_d-001",
+    "parameter_symbol": [
+        "a",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        11.4597,
+        0.3471,
+        0.4664,
+        0.0512
+    ],
+    "strukturbericht": "S1_4",
+    "title": "Garnet [$S1_{4}$, Co$_{3}$Al$_{2}$(SiO$_{4}$)$_{3}$] Structure",
+    "part": 2,
+    "legacy": false,
+    "strukturbericht_tex": "$S1_{4}$",
+    "compounds": {},
+    "alias": "A2B3C12D3_cI160_230_a_c_h_d"
+}

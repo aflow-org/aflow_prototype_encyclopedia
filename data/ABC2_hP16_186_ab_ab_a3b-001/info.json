@@ -1,0 +1,36 @@
+{
+    "uid": "3DYH",
+    "prototype": "CoLiO2",
+    "prototype_tex": "CoLiO$_{2}$",
+    "label": "ABC2_hP16_186_ab_ab_a3b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3",
+        "z4",
+        "z5",
+        "z6",
+        "z7",
+        "z8"
+    ],
+    "parameter_values": [
+        2.813,
+        6.70459,
+        0.0,
+        0.374,
+        0.194,
+        0.748,
+        0.124,
+        0.554,
+        0.302,
+        0.946
+    ],
+    "strukturbericht": null,
+    "title": "O4-LiCoO$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC2_hP16_186_ab_ab_a3b-001"
+}

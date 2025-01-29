@@ -1,0 +1,24 @@
+{
+    "uid": "TX22",
+    "prototype": "Al5O12Y3",
+    "prototype_tex": "Al$_{5}$O$_{12}$Y$_{3}$",
+    "label": "A5B12C3_cI160_230_ad_h_c-001",
+    "parameter_symbol": [
+        "a",
+        "x4",
+        "y4",
+        "y5"
+    ],
+    "parameter_values": [
+        12.0335,
+        0.04,
+        0.055,
+        0.64
+    ],
+    "strukturbericht": null,
+    "title": "Y$_{3}$Al$_{5}$O$_{12}$ Garnet (YAG) Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A5B12C3_cI160_230_ad_h_c-001"
+}

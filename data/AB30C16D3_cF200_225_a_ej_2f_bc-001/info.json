@@ -1,0 +1,29 @@
+{
+    "uid": "U8XN",
+    "prototype": "AlF6H12N3",
+    "prototype_tex": "AlF$_{6}$H$_{12}$N$_{3}$",
+    "label": "AB30C16D3_cF200_225_a_ej_2f_bc-001",
+    "parameter_symbol": [
+        "a",
+        "x4",
+        "x5",
+        "x6",
+        "y7",
+        "z7"
+    ],
+    "parameter_values": [
+        8.9401,
+        0.1969,
+        0.193,
+        0.557,
+        0.5536,
+        0.6923
+    ],
+    "strukturbericht": "J2_1",
+    "title": "(NH$_{4}$)$_{3}$AlF$_{6}$ ($J2_{1}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$J2_{1}$",
+    "compounds": {},
+    "alias": "AB30C16D3_cF200_225_a_ej_2f_bc"
+}

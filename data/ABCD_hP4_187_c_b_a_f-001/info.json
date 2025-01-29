@@ -1,0 +1,20 @@
+{
+    "uid": "84DL",
+    "prototype": "NOTaZr",
+    "prototype_tex": "NOTaZr",
+    "label": "ABCD_hP4_187_c_b_a_f-001",
+    "parameter_symbol": [
+        "a",
+        "c/a"
+    ],
+    "parameter_values": [
+        3.645,
+        1.06475
+    ],
+    "strukturbericht": null,
+    "title": "ZrTaNO Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABCD_hP4_187_c_b_a_f-001"
+}

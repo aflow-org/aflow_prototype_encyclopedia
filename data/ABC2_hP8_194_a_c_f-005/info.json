@@ -1,0 +1,22 @@
+{
+    "uid": "Y6AL",
+    "prototype": "CuFeO2",
+    "prototype_tex": "CuFeO$_{2}$",
+    "label": "ABC2_hP8_194_a_c_f-005",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3"
+    ],
+    "parameter_values": [
+        2.863,
+        3.9518,
+        0.0851
+    ],
+    "strukturbericht": null,
+    "title": "Hexagonal Delafossite (CuFeO$_{2}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC2_hP8_194_a_c_f"
+}

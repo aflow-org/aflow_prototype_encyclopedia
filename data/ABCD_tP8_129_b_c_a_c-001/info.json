@@ -1,0 +1,24 @@
+{
+    "uid": "VCTW",
+    "prototype": "AgLaOS",
+    "prototype_tex": "AgLaOS",
+    "label": "ABCD_tP8_129_b_c_a_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4"
+    ],
+    "parameter_values": [
+        4.05,
+        2.23185,
+        0.1356,
+        0.6929
+    ],
+    "strukturbericht": null,
+    "title": "LaOAgS Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABCD_tP8_129_b_c_a_c"
+}

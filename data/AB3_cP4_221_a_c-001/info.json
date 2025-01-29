@@ -1,0 +1,19 @@
+{
+    "uid": "NK1T",
+    "prototype": "AuCu3",
+    "prototype_tex": "AuCu$_{3}$",
+    "label": "AB3_cP4_221_a_c-001",
+    "parameter_symbol": [
+        "a"
+    ],
+    "parameter_values": [
+        3.7478
+    ],
+    "strukturbericht": "L1_2",
+    "title": "Bogdanovite (Cu$_{3}$Au, $L1_{2}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$L1_{2}$",
+    "compounds": {},
+    "alias": "AB3_cP4_221_a_c"
+}

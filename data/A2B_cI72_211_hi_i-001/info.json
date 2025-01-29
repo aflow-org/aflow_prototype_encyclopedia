@@ -1,0 +1,24 @@
+{
+    "uid": "NT1Y",
+    "prototype": "O2Si",
+    "prototype_tex": "O$_{2}$Si",
+    "label": "A2B_cI72_211_hi_i-001",
+    "parameter_symbol": [
+        "a",
+        "y1",
+        "y2",
+        "y3"
+    ],
+    "parameter_values": [
+        9.6888,
+        0.37338,
+        0.15866,
+        0.38235
+    ],
+    "strukturbericht": null,
+    "title": "Hypothetical Cubic SiO$_{2}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_cI72_211_hi_i"
+}

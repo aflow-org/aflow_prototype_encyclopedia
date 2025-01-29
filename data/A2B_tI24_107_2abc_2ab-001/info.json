@@ -1,0 +1,36 @@
+{
+    "uid": "3JHK",
+    "prototype": "P2U",
+    "prototype_tex": "P$_{2}$U",
+    "label": "A2B_tI24_107_2abc_2ab-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3",
+        "z4",
+        "z5",
+        "z6",
+        "x7",
+        "z7"
+    ],
+    "parameter_values": [
+        5.3873,
+        2.88881,
+        0.188,
+        0.696,
+        0.0,
+        0.5096,
+        0.05,
+        0.2232,
+        0.228,
+        0.369
+    ],
+    "strukturbericht": null,
+    "title": "Low Temperature UP$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_tI24_107_2abc_2ab-001"
+}

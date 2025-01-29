@@ -1,0 +1,19 @@
+{
+    "uid": "7W8F",
+    "prototype": "W",
+    "prototype_tex": "W",
+    "label": "A_cI2_229_a-001",
+    "parameter_symbol": [
+        "a"
+    ],
+    "parameter_values": [
+        3.155
+    ],
+    "strukturbericht": "A2",
+    "title": "Body-Centered Cubic (W, $A2$, bcc) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$A2$",
+    "compounds": {},
+    "alias": "A_cI2_229_a"
+}

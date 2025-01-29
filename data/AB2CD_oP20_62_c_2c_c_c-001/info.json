@@ -1,0 +1,42 @@
+{
+    "uid": "C8QD",
+    "prototype": "BiCl2CuSe",
+    "prototype_tex": "BiCl$_{2}$CuSe",
+    "label": "AB2CD_oP20_62_c_2c_c_c-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        8.7841,
+        0.455141,
+        1.495874,
+        0.27145,
+        0.94748,
+        0.43403,
+        0.59546,
+        0.55935,
+        0.89837,
+        0.54035,
+        0.30043,
+        0.76059,
+        0.19425
+    ],
+    "strukturbericht": null,
+    "title": "CuBiSeCl$_{2}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2CD_oP20_62_c_2c_c_c-001"
+}

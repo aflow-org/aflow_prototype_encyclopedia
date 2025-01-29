@@ -1,0 +1,38 @@
+{
+    "uid": "WA7J",
+    "prototype": "CeTe3",
+    "prototype_tex": "CeTe$_{3}$",
+    "label": "AB3_oC16_40_b_3b-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y1",
+        "z1",
+        "y2",
+        "z2",
+        "y3",
+        "z3",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        4.385,
+        5.92335,
+        0.997332,
+        0.83109,
+        0.0,
+        0.70417,
+        0.0021,
+        0.56971,
+        0.4966,
+        0.92998,
+        0.4978
+    ],
+    "strukturbericht": null,
+    "title": "CeTe$_{3}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3_oC16_40_b_3b"
+}

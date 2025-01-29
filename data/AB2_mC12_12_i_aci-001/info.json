@@ -1,0 +1,32 @@
+{
+    "uid": "6TPG",
+    "prototype": "RuU2",
+    "prototype_tex": "RuU$_{2}$",
+    "label": "AB2_mC12_12_i_aci-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x3",
+        "z3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        13.106,
+        0.255074,
+        1.11482,
+        159.269,
+        0.33333,
+        0.0,
+        0.66667,
+        0.5
+    ],
+    "strukturbericht": null,
+    "title": "RuU$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2_mC12_12_i_aci-001"
+}

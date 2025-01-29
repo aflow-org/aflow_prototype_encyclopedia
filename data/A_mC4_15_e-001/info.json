@@ -1,0 +1,26 @@
+{
+    "uid": "BRYB",
+    "prototype": "Ga",
+    "prototype_tex": "Ga",
+    "label": "A_mC4_15_e-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "y1"
+    ],
+    "parameter_values": [
+        2.766,
+        2.91142,
+        1.59266,
+        130.898,
+        0.881
+    ],
+    "strukturbericht": null,
+    "title": "$\\beta$-Ga Structure ({\\em Obsolete})",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A_mC4_15_e"
+}

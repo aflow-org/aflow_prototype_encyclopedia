@@ -1,0 +1,18 @@
+{
+    "uid": "4M8A",
+    "prototype": "CuHg2Ti",
+    "prototype_tex": "CuHg$_{2}$Ti",
+    "label": "AB2C_cF16_216_a_bc_d-001",
+    "parameter_symbol": [
+        "a"
+    ],
+    "parameter_values": [
+        6.1549
+    ],
+    "strukturbericht": null,
+    "title": "Hg$_{2}$TiCu Inverse Heusler Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2C_cF16_216_b_ad_c"
+}

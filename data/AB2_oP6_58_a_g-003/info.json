@@ -1,0 +1,27 @@
+{
+    "uid": "USY5",
+    "prototype": "FeS2",
+    "prototype_tex": "FeS$_{2}$",
+    "label": "AB2_oP6_58_a_g-003",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x2",
+        "y2"
+    ],
+    "parameter_values": [
+        4.4446,
+        1.22049,
+        0.761913,
+        0.2004,
+        0.3787
+    ],
+    "strukturbericht": "C18",
+    "title": "Marcasite (FeS$_{2}$, $C18$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$C18$",
+    "compounds": {},
+    "alias": "AB2_oP6_58_a_g.FeS2"
+}

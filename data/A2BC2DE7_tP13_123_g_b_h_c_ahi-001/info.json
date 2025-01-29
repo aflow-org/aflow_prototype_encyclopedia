@@ -1,0 +1,28 @@
+{
+    "uid": "BESE",
+    "prototype": "Ba2CaCu2HgO7",
+    "prototype_tex": "Ba$_{2}$CaCu$_{2}$HgO$_{7}$",
+    "label": "A2BC2DE7_tP13_123_g_b_h_c_ahi-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z4",
+        "z5",
+        "z6",
+        "z7"
+    ],
+    "parameter_values": [
+        3.8525,
+        3.28415,
+        0.2216,
+        0.3771,
+        0.1565,
+        0.3772
+    ],
+    "strukturbericht": null,
+    "title": "HgBa$_{2}$CaCu$_{2}$O$_{6+\\delta}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BC2DE7_tP13_123_g_b_h_c_ahi-001"
+}

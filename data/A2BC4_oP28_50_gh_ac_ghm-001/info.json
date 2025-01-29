@@ -1,0 +1,36 @@
+{
+    "uid": "69JP",
+    "prototype": "La2NiO4",
+    "prototype_tex": "La$_{2}$NiO$_{4}$",
+    "label": "A2BC4_oP28_50_gh_ac_ghm-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x3",
+        "x4",
+        "x5",
+        "x6",
+        "x7",
+        "y7",
+        "z7"
+    ],
+    "parameter_values": [
+        12.5466,
+        0.441139,
+        0.435799,
+        0.6274,
+        0.055,
+        0.1133,
+        0.576,
+        0.757,
+        0.5,
+        0.226
+    ],
+    "strukturbericht": null,
+    "title": "Orthorhombic La$_{2}$NiO$_{4}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BC4_oP28_50_ij_ac_ijm"
+}

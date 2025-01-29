@@ -1,0 +1,26 @@
+{
+    "uid": "C2PK",
+    "prototype": "Pd4Se",
+    "prototype_tex": "Pd$_{4}$Se",
+    "label": "A4B_tP10_114_e_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "y2",
+        "z2"
+    ],
+    "parameter_values": [
+        5.2324,
+        1.07924,
+        0.626,
+        0.768,
+        0.846
+    ],
+    "strukturbericht": null,
+    "title": "Pd$_{4}$Se Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4B_tP10_114_e_a"
+}

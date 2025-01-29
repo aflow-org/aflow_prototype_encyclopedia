@@ -1,0 +1,34 @@
+{
+    "uid": "TV0E",
+    "prototype": "C",
+    "prototype_tex": "C",
+    "label": "A_cF240_202_h2i-001",
+    "parameter_symbol": [
+        "a",
+        "y1",
+        "z1",
+        "x2",
+        "y2",
+        "z2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        14.26,
+        0.249,
+        0.052,
+        0.605,
+        0.585,
+        0.22,
+        0.685,
+        0.052,
+        0.665
+    ],
+    "strukturbericht": null,
+    "title": "FCC C$_{60}$ Buckminsterfullerene Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A_cF240_202_h2i"
+}

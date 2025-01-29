@@ -1,0 +1,31 @@
+{
+    "uid": "ECJE",
+    "prototype": "Al2CuMg",
+    "prototype_tex": "Al$_{2}$CuMg",
+    "label": "A2BC_oC16_63_f_c_c-002",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y1",
+        "y2",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        4.0119,
+        2.30938,
+        1.77572,
+        0.7801,
+        0.0651,
+        0.3558,
+        0.0556
+    ],
+    "strukturbericht": "E1_a",
+    "title": "MgCuAl$_{2}$ ($E1_{a}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$E1_{a}$",
+    "compounds": {},
+    "alias": "A2BC_oC16_63_f_c_c"
+}

@@ -1,0 +1,19 @@
+{
+    "uid": "8VXQ",
+    "prototype": "CaF2",
+    "prototype_tex": "CaF$_{2}$",
+    "label": "AB2_cF12_225_a_c-001",
+    "parameter_symbol": [
+        "a"
+    ],
+    "parameter_values": [
+        5.4631
+    ],
+    "strukturbericht": "C1",
+    "title": "Fluorite (CaF$_{2}$, $C1$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$C1$",
+    "compounds": {},
+    "alias": "AB2_cF12_225_a_c"
+}

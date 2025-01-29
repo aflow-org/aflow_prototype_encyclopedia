@@ -1,0 +1,22 @@
+{
+    "uid": "TKCJ",
+    "prototype": "CdCl2",
+    "prototype_tex": "CdCl$_{2}$",
+    "label": "AB2_hR3_166_a_c-004",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2"
+    ],
+    "parameter_values": [
+        3.99472,
+        4.44313,
+        0.25
+    ],
+    "strukturbericht": null,
+    "title": "CdCl$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2_hR3_166_a_c-004"
+}

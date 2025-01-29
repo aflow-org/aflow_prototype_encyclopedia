@@ -1,0 +1,36 @@
+{
+    "uid": "BY2X",
+    "prototype": "Si3Sr5",
+    "prototype_tex": "Si$_{3}$Sr$_{5}$",
+    "label": "A3B5_tI32_108_ac_a2c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        8.055,
+        1.94761,
+        0.007,
+        0.75,
+        0.109,
+        0.257,
+        0.676,
+        0.114,
+        0.676,
+        0.4
+    ],
+    "strukturbericht": null,
+    "title": "Sr$_{5}$Si$_{3}$ Structure ({\\em Obsolete})",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B5_tI32_108_ac_a2c"
+}

@@ -1,0 +1,29 @@
+{
+    "uid": "S336",
+    "prototype": "CuMg2",
+    "prototype_tex": "CuMg$_{2}$",
+    "label": "AB2_oF48_70_e_ef-002",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "x2",
+        "y3"
+    ],
+    "parameter_values": [
+        18.328,
+        0.493453,
+        0.287811,
+        0.49819,
+        0.0415,
+        0.7914
+    ],
+    "strukturbericht": "C_b",
+    "title": "Mg$_{2}$Cu ($C_{b}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$C_{b}$",
+    "compounds": {},
+    "alias": "AB2_oF48_70_g_fg"
+}

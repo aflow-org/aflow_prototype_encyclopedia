@@ -1,0 +1,20 @@
+{
+    "uid": "729N",
+    "prototype": "CrFe11MoNi3",
+    "prototype_tex": "CrFe$_{11}$MoNi$_{3}$",
+    "label": "AB11CD3_cP16_221_a_dg_b_c-001",
+    "parameter_symbol": [
+        "a",
+        "x5"
+    ],
+    "parameter_values": [
+        5.74,
+        0.245
+    ],
+    "strukturbericht": null,
+    "title": "Model of Ferrite Structure (cP16)",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB11CD3_cP16_221_a_dg_b_c"
+}

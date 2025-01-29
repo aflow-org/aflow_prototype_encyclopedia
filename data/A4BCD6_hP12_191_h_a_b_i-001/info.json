@@ -1,0 +1,24 @@
+{
+    "uid": "4NVE",
+    "prototype": "As4ClKO6",
+    "prototype_tex": "As$_{4}$ClKO$_{6}$",
+    "label": "A4BCD6_hP12_191_h_a_b_i-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4"
+    ],
+    "parameter_values": [
+        5.252,
+        1.69078,
+        0.20533,
+        0.3136
+    ],
+    "strukturbericht": null,
+    "title": "Lucabindiite (KAs$_{4}$O$_{6}$Cl) Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4BCD6_hP12_191_h_a_b_i-001"
+}

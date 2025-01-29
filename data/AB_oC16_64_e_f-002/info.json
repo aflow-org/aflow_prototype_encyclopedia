@@ -1,0 +1,28 @@
+{
+    "uid": "HZUD",
+    "prototype": "KO",
+    "prototype_tex": "KO",
+    "label": "AB_oC16_64_e_f-002",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y1",
+        "y2",
+        "z2"
+    ],
+    "parameter_values": [
+        6.736,
+        1.03934,
+        0.961847,
+        0.16,
+        0.088,
+        0.934
+    ],
+    "strukturbericht": null,
+    "title": "KO Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_oC16_64_e_f-002"
+}

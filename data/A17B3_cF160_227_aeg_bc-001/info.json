@@ -1,0 +1,24 @@
+{
+    "uid": "33TQ",
+    "prototype": "Ge17Na3",
+    "prototype_tex": "Ge$_{17}$Na$_{3}$",
+    "label": "A17B3_cF160_227_aeg_bc-001",
+    "parameter_symbol": [
+        "a",
+        "x4",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        15.44,
+        0.2182,
+        0.0674,
+        0.3715
+    ],
+    "strukturbericht": null,
+    "title": "Na$_{24-\\delta}$Ge$_{136}$ Clathrate Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A17B3_cF160_227_aeg_bc-001"
+}

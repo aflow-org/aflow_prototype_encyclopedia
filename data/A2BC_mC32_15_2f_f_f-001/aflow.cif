@@ -1,0 +1,50 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Phase II LiNH2
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A2BC_mC32_15_2f_f_f-001
+
+# Last updated on 2024/07/29
+
+data_A2BC_mC32_15_2f_f_f-001
+_pd_phase_name A2BC_mC32_15_2f_f_f-001
+_cell_length_a  6.5960000000
+_cell_length_b  6.5620000000
+_cell_length_c  5.8720000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  122.6300000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'C2/c'
+_symmetry_Int_Tables_Number  15
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y,-z+1/2
+  3  -x,-y,-z
+  4  x,-y,z+1/2
+  5  x+1/2,y+1/2,z
+  6  -x+1/2,y+1/2,-z+1/2
+  7  -x+1/2,-y+1/2,-z
+  8  x+1/2,-y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+H1  1.0000000000 0.3263000000 0.1865000000 0.1630000000  Biso 1.0 H  8 f
+H2  1.0000000000 0.3638000000 -0.006500000 0.3542000000  Biso 1.0 H  8 f
+Li3 1.0000000000 0.6124000000 0.6330000000 0.4921000000  Biso 1.0 Li 8 f
+N4  1.0000000000 0.2477000000 0.1154000000 0.2549000000  Biso 1.0 N  8 f

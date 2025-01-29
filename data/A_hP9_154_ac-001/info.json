@@ -1,0 +1,28 @@
+{
+    "uid": "GAZQ",
+    "prototype": "S",
+    "prototype_tex": "S",
+    "label": "A_hP9_154_ac-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "y2",
+        "z2"
+    ],
+    "parameter_values": [
+        6.9082,
+        0.616557,
+        0.876,
+        0.23,
+        0.534,
+        0.551
+    ],
+    "strukturbericht": null,
+    "title": "S-II Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A_hP9_154_bc"
+}

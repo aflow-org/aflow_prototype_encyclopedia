@@ -1,0 +1,28 @@
+{
+    "uid": "ZQRP",
+    "prototype": "CoLi6O4",
+    "prototype_tex": "CoLi$_{6}$O$_{4}$",
+    "label": "AB6C4_tP22_137_a_df_g-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "x3",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        6.536,
+        0.711444,
+        0.7015,
+        0.9659,
+        0.4857,
+        0.4649
+    ],
+    "strukturbericht": null,
+    "title": "Li$_{6}$CoO$_{4}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB6C4_tP22_137_a_df_g-001"
+}

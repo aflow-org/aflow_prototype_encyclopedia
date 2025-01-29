@@ -1,0 +1,33 @@
+{
+    "uid": "4FK1",
+    "prototype": "As2Cl9Cs3",
+    "prototype_tex": "As$_{2}$Cl$_{9}$Cs$_{3}$",
+    "label": "A2B9C3_hP14_150_d_eg_ad-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "z3",
+        "x4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        7.37,
+        1.20896,
+        0.805,
+        0.32,
+        0.480003,
+        0.365003,
+        0.199997,
+        0.325
+    ],
+    "strukturbericht": "K7_3",
+    "title": "Cs$_{3}$As$_{2}$Cl$_{9}$ ($K7_{3}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$K7_{3}$",
+    "compounds": {},
+    "alias": "A2B9C3_hP14_150_d_eg_ad"
+}

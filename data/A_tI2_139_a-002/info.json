@@ -1,0 +1,21 @@
+{
+    "uid": "YF8N",
+    "prototype": "Pa",
+    "prototype_tex": "Pa",
+    "label": "A_tI2_139_a-002",
+    "parameter_symbol": [
+        "a",
+        "c/a"
+    ],
+    "parameter_values": [
+        3.932,
+        0.823499
+    ],
+    "strukturbericht": "A_a",
+    "title": "Pa ($A_{a}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$A_{a}$",
+    "compounds": {},
+    "alias": "A_tI2_139_a.alpha-Pa"
+}

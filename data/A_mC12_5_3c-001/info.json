@@ -1,0 +1,43 @@
+{
+    "uid": "FECP",
+    "prototype": "Po",
+    "prototype_tex": "Po",
+    "label": "A_mC12_5_3c-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x1",
+        "y1",
+        "z1",
+        "x2",
+        "y2",
+        "z2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        7.42,
+        0.578167,
+        1.90027,
+        92.0,
+        0.45,
+        0.77,
+        0.755,
+        0.37,
+        0.3,
+        0.6,
+        0.255,
+        0.93,
+        0.93
+    ],
+    "strukturbericht": "A19",
+    "title": "$A19$ Po Structure ({\\em Obsolete})",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$A19$",
+    "compounds": {},
+    "alias": "A_mC12_5_3c"
+}

@@ -1,0 +1,38 @@
+{
+    "uid": "PMU3",
+    "prototype": "Ag7Ca2",
+    "prototype_tex": "Ag$_{7}$Ca$_{2}$",
+    "label": "A7B2_oC36_63_cgh_f-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y1",
+        "y2",
+        "z2",
+        "x3",
+        "y3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        9.4784,
+        0.582915,
+        1.48538,
+        0.82668,
+        0.3219,
+        0.11471,
+        0.75088,
+        0.5775,
+        0.83475,
+        0.82926,
+        0.07649
+    ],
+    "strukturbericht": null,
+    "title": "Ag$_{7}$Ca$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A7B2_oC36_63_cgh_f-001"
+}

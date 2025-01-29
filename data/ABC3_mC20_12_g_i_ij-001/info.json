@@ -1,0 +1,40 @@
+{
+    "uid": "UPGR",
+    "prototype": "MnPS3",
+    "prototype_tex": "MnPS$_{3}$",
+    "label": "ABC3_mC20_12_g_i_ij-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "y1",
+        "x2",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        6.077,
+        1.73178,
+        1.7081,
+        141.323,
+        0.33258,
+        0.2242,
+        0.1686,
+        0.009,
+        0.2497,
+        0.4954,
+        0.1612,
+        0.2516
+    ],
+    "strukturbericht": null,
+    "title": "MnPS$_{3}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC3_mC20_12_g_i_ij"
+}

@@ -1,0 +1,30 @@
+{
+    "uid": "DQFR",
+    "prototype": "Ni17Th2",
+    "prototype_tex": "Ni$_{17}$Th$_{2}$",
+    "label": "A17B2_hP38_194_fgjk_bc-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "x5",
+        "y5",
+        "x6",
+        "z6"
+    ],
+    "parameter_values": [
+        8.37,
+        0.972521,
+        0.61,
+        0.33333,
+        0.0,
+        0.16667,
+        -2.22045e-16
+    ],
+    "strukturbericht": null,
+    "title": "Th$_{2}$Ni$_{17}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A17B2_hP38_194_fgjk_bc-001"
+}

@@ -1,0 +1,24 @@
+{
+    "uid": "FJT4",
+    "prototype": "BeO",
+    "prototype_tex": "BeO",
+    "label": "AB_tP8_136_f_g-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2"
+    ],
+    "parameter_values": [
+        4.75,
+        0.576842,
+        0.836,
+        0.19
+    ],
+    "strukturbericht": null,
+    "title": "$\\beta$-BeO Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_tP8_136_g_f"
+}

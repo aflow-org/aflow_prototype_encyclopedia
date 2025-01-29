@@ -1,0 +1,23 @@
+{
+    "uid": "E9RV",
+    "prototype": "AsTi",
+    "prototype_tex": "AsTi",
+    "label": "AB_hP8_194_ac_f-004",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3"
+    ],
+    "parameter_values": [
+        3.64,
+        3.37363,
+        0.625
+    ],
+    "strukturbericht": "B_i",
+    "title": "AsTi ($B_{i}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$B_{i}$",
+    "compounds": {},
+    "alias": "AB_hP8_194_ad_f"
+}

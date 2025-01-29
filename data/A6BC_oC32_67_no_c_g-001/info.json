@@ -1,0 +1,34 @@
+{
+    "uid": "PLRV",
+    "prototype": "RbPaF6",
+    "prototype_tex": "RbPaF$_{6}$",
+    "label": "A6BC_oC32_67_no_c_g-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        12.025,
+        0.669297,
+        0.487385,
+        0.4532,
+        0.8206,
+        0.1459,
+        0.8704,
+        0.5559,
+        0.2476
+    ],
+    "strukturbericht": null,
+    "title": "RbPaF$_{6}$ (V) Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A6BC_oC32_67_no_c_g-001"
+}

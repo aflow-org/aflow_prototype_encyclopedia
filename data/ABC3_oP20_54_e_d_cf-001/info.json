@@ -1,0 +1,34 @@
+{
+    "uid": "WWU9",
+    "prototype": "BiGaO3",
+    "prototype_tex": "BiGaO$_{3}$",
+    "label": "ABC3_oP20_54_e_d_cf-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y1",
+        "z2",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        5.3467,
+        0.956627,
+        1.81712,
+        0.8667,
+        0.6417,
+        0.8902,
+        0.5945,
+        0.7314,
+        0.4497
+    ],
+    "strukturbericht": null,
+    "title": "BiGaO$_{3}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC3_oP20_54_e_d_cf"
+}

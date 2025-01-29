@@ -1,0 +1,60 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Br2Cu2O6PbSe2
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A2B2C6DE2_oC52_63_g_e_fh_c_f-001
+
+# Last updated on 2024/08/01
+
+data_Br8Cu8O24Pb4Se8
+_pd_phase_name Br8Cu8O24Pb4Se8
+_cell_length_a  8.2750000000
+_cell_length_b  9.3030000000
+_cell_length_c  11.8910000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Cmcm'
+_symmetry_Int_Tables_Number  63
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z+1/2
+  3  -x,y,-z+1/2
+  4  x,-y,-z
+  5  -x,-y,-z
+  6  x,y,-z+1/2
+  7  x,-y,z+1/2
+  8  -x,y,z
+  9  x+1/2,y+1/2,z
+  10  -x+1/2,-y+1/2,z+1/2
+  11  -x+1/2,y+1/2,-z+1/2
+  12  x+1/2,-y+1/2,-z
+  13  -x+1/2,-y+1/2,-z
+  14  x+1/2,y+1/2,-z+1/2
+  15  x+1/2,-y+1/2,z+1/2
+  16  -x+1/2,y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Pb5 1.0000000000 -0.0000000000 0.3349600000 0.2500000000  Biso 1.0 Pb 4 c
+Cu2 1.0000000000 0.1862000000 -0.0000000000 -0.0000000000  Biso 1.0 Cu 8 e
+O3 1.0000000000 -0.0000000000 0.1287000000 0.5177000000  Biso 1.0 O 8 f
+Se6 1.0000000000 -0.0000000000 0.3122100000 0.5403600000  Biso 1.0 Se 8 f
+Br1 1.0000000000 0.2277300000 0.0771700000 0.2500000000  Biso 1.0 Br 8 g
+O4 1.0000000000 0.6531000000 0.8602000000 0.4531000000  Biso 1.0 O 16 h

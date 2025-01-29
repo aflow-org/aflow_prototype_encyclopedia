@@ -1,0 +1,38 @@
+{
+    "uid": "W7TS",
+    "prototype": "AlF3",
+    "prototype_tex": "AlF$_{3}$",
+    "label": "AB3_oC48_63_ad_cfgh-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y2",
+        "y4",
+        "z4",
+        "x5",
+        "y5",
+        "x6",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        6.93,
+        1.73189,
+        1.02944,
+        0.0177,
+        0.7125,
+        0.5257,
+        0.7297,
+        0.2352,
+        0.8161,
+        0.1054,
+        0.98
+    ],
+    "strukturbericht": null,
+    "title": "$\\beta$-AlF$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3_oC48_63_ad_cfgh-001"
+}

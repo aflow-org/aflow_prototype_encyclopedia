@@ -1,0 +1,36 @@
+{
+    "uid": "HJWV",
+    "prototype": "Li7MnN4",
+    "prototype_tex": "Li$_{7}$MnN$_{4}$",
+    "label": "A7BC4_cP96_218_bcefi_ad_ei-001",
+    "parameter_symbol": [
+        "a",
+        "x5",
+        "x6",
+        "x7",
+        "x8",
+        "y8",
+        "z8",
+        "x9",
+        "y9",
+        "z9"
+    ],
+    "parameter_values": [
+        9.5548,
+        0.233,
+        0.1095,
+        0.257,
+        0.252,
+        0.236,
+        0.986,
+        0.3582,
+        0.3811,
+        0.1085
+    ],
+    "strukturbericht": null,
+    "title": "Li$_{7}$MnN$_{4}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A7BC4_cP96_218_bcefi_ad_ei-001"
+}

@@ -1,0 +1,23 @@
+{
+    "uid": "9U6F",
+    "prototype": "As3Co",
+    "prototype_tex": "As$_{3}$Co",
+    "label": "A3B_cI32_204_g_c-001",
+    "parameter_symbol": [
+        "a",
+        "y2",
+        "z2"
+    ],
+    "parameter_values": [
+        8.195,
+        0.3431,
+        0.8497
+    ],
+    "strukturbericht": "D0_2",
+    "title": "Skutterudite (CoAs$_{3}$, $D0_{2}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$D0_{2}$",
+    "compounds": {},
+    "alias": "A3B_cI32_204_g_c"
+}

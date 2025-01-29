@@ -1,0 +1,22 @@
+{
+    "uid": "ALM7",
+    "prototype": "CuF3K",
+    "prototype_tex": "CuF$_{3}$K",
+    "label": "AB3C_tI20_140_d_bh_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x4"
+    ],
+    "parameter_values": [
+        3.855,
+        1.341076,
+        0.228
+    ],
+    "strukturbericht": null,
+    "title": "Tetragonal Perovskite KCuF$_{3}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3C_tI20_140_d_bh_a-001"
+}

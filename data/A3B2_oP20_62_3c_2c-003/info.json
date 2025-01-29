@@ -1,0 +1,42 @@
+{
+    "uid": "1ZQE",
+    "prototype": "S3Sn2",
+    "prototype_tex": "S$_{3}$Sn$_{2}$",
+    "label": "A3B2_oP20_62_3c_2c-003",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        8.878,
+        0.422505,
+        1.57918,
+        0.01953,
+        0.8936,
+        0.66121,
+        0.00476,
+        0.28631,
+        0.21246,
+        0.16494,
+        0.05195,
+        0.51491,
+        0.83064
+    ],
+    "strukturbericht": null,
+    "title": "Ottemannite (Sn$_{2}$S$_{3}$) Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B2_oP20_62_3c_2c-003"
+}

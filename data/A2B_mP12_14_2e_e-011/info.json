@@ -1,0 +1,42 @@
+{
+    "uid": "0GFL",
+    "prototype": "Ag2S",
+    "prototype_tex": "Ag$_{2}$S",
+    "label": "A2B_mP12_14_2e_e-011",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x1",
+        "y1",
+        "z1",
+        "x2",
+        "y2",
+        "z2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        7.87,
+        0.878018,
+        1.21155,
+        154.059,
+        0.063,
+        0.485,
+        0.758,
+        0.72,
+        0.18,
+        0.285,
+        0.493,
+        0.261,
+        0.359
+    ],
+    "strukturbericht": null,
+    "title": "Acanthite (Ag$_{2}$S) Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_mP12_14_2e_e-011"
+}

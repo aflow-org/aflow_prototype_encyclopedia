@@ -1,0 +1,24 @@
+{
+    "uid": "6DLM",
+    "prototype": "Ba2CuHgO4",
+    "prototype_tex": "Ba$_{2}$CuHgO$_{4}$",
+    "label": "A2BCD4_tP8_123_h_b_a_eg-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z4",
+        "z5"
+    ],
+    "parameter_values": [
+        3.8791,
+        2.45312,
+        0.2069,
+        0.2982
+    ],
+    "strukturbericht": null,
+    "title": "HgBa$_{2}$CuO$_{4}$ (Hg-1201) Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BCD4_tP8_123_h_b_a_eg-001"
+}

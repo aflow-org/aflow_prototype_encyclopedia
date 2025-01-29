@@ -1,0 +1,22 @@
+{
+    "uid": "0R3A",
+    "prototype": "LiNiO2",
+    "prototype_tex": "LiNiO$_{2}$",
+    "label": "ABC2_hR4_166_a_b_c-010",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3"
+    ],
+    "parameter_values": [
+        2.878,
+        4.93051,
+        0.25
+    ],
+    "strukturbericht": null,
+    "title": "LiNiO$_{2}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC2_hR4_166_a_b_c-010"
+}

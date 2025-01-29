@@ -1,0 +1,19 @@
+{
+    "uid": "0HDN",
+    "prototype": "CuPt",
+    "prototype_tex": "CuPt",
+    "label": "AB_cF32_227_c_d-001",
+    "parameter_symbol": [
+        "a"
+    ],
+    "parameter_values": [
+        7.23
+    ],
+    "strukturbericht": "L1_3(I)",
+    "title": "Cubic CuPt [$L1_{3}(I)$, $D4$] Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$L1_{3}(I)$",
+    "compounds": {},
+    "alias": "AB_cF32_227_c_d"
+}

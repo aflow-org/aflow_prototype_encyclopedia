@@ -1,0 +1,29 @@
+{
+    "uid": "HV5V",
+    "prototype": "MgNi2",
+    "prototype_tex": "MgNi$_{2}$",
+    "label": "AB2_hP24_194_ef_fgh-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3",
+        "x5"
+    ],
+    "parameter_values": [
+        4.824,
+        3.28068,
+        0.094,
+        0.84417,
+        0.12514,
+        0.16429
+    ],
+    "strukturbericht": "C36",
+    "title": "MgNi$_{2}$ Hexagonal Laves ($C36$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$C36$",
+    "compounds": {},
+    "alias": "AB2_hP24_194_ef_fgh"
+}

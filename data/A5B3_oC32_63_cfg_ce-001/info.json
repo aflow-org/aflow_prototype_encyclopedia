@@ -1,0 +1,36 @@
+{
+    "uid": "9AGN",
+    "prototype": "Pd5Pu3",
+    "prototype_tex": "Pd$_{5}$Pu$_{3}$",
+    "label": "A5B3_oC32_63_cfg_ce-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y1",
+        "y2",
+        "x3",
+        "y4",
+        "z4",
+        "x5",
+        "y5"
+    ],
+    "parameter_values": [
+        9.201,
+        0.78198,
+        1.06195,
+        0.0254,
+        0.6251,
+        0.2018,
+        0.3147,
+        0.451,
+        0.2219,
+        0.2863
+    ],
+    "strukturbericht": null,
+    "title": "Pd$_{5}$Pu$_{3}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A5B3_oC32_63_cfg_ce"
+}

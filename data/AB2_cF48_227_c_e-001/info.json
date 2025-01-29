@@ -1,0 +1,20 @@
+{
+    "uid": "PR5K",
+    "prototype": "CTi2",
+    "prototype_tex": "CTi$_{2}$",
+    "label": "AB2_cF48_227_c_e-001",
+    "parameter_symbol": [
+        "a",
+        "x2"
+    ],
+    "parameter_values": [
+        8.6,
+        0.245
+    ],
+    "strukturbericht": null,
+    "title": "Ti$_{2}$C Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2_cF48_227_c_e"
+}

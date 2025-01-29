@@ -1,0 +1,18 @@
+{
+    "uid": "FACW",
+    "prototype": "B3C3Sr",
+    "prototype_tex": "B$_{3}$C$_{3}$Sr",
+    "label": "A3B3C_cP14_223_c_d_a-001",
+    "parameter_symbol": [
+        "a"
+    ],
+    "parameter_values": [
+        4.609
+    ],
+    "strukturbericht": null,
+    "title": "SrB$_{3}$C$_{3}$ Clathrate Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B3C_cP14_223_c_d_a-001"
+}

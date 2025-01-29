@@ -1,0 +1,61 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  FNaNb6O15
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/ABC6D15_oC46_38_b_b_2a2d_2ab4d2e-001
+
+# Last updated on 2024/08/01
+
+data_F2Na2Nb12O30
+_pd_phase_name F2Na2Nb12O30
+_cell_length_a  3.9490000000
+_cell_length_b  10.1920000000
+_cell_length_c  14.7210000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Amm2'
+_symmetry_Int_Tables_Number  38
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  x,-y,z
+  4  -x,y,z
+  5  x,y+1/2,z+1/2
+  6  -x,-y+1/2,z+1/2
+  7  x,-y+1/2,z+1/2
+  8  -x,y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Nb3 1.0000000000 -0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Nb 2 a
+Nb4 1.0000000000 -0.0000000000 -0.0000000000 0.2142000000  Biso 1.0 Nb 2 a
+O7 1.0000000000 -0.0000000000 -0.0000000000 0.8560000000  Biso 1.0 O 2 a
+O8 1.0000000000 -0.0000000000 -0.0000000000 0.5190000000  Biso 1.0 O 2 a
+F1 1.0000000000 0.5000000000 0.0000000000 0.0000000000  Biso 1.0 F 2 b
+Na2 1.0000000000 0.5000000000 -0.0000000000 0.4040000000  Biso 1.0 Na 2 b
+O9 1.0000000000 0.5000000000 -0.0000000000 0.2260000000  Biso 1.0 O 2 b
+Nb5 1.0000000000 -0.0000000000 0.3186000000 0.0620000000  Biso 1.0 Nb 4 d
+Nb6 1.0000000000 -0.0000000000 0.8153000000 0.8154000000  Biso 1.0 Nb 4 d
+O10 1.0000000000 -0.0000000000 0.1190000000 0.1050000000  Biso 1.0 O 4 d
+O11 1.0000000000 -0.0000000000 0.6330000000 0.8110000000  Biso 1.0 O 4 d
+O12 1.0000000000 -0.0000000000 0.8050000000 0.9470000000  Biso 1.0 O 4 d
+O13 1.0000000000 -0.0000000000 0.3510000000 0.1780000000  Biso 1.0 O 4 d
+O14 1.0000000000 0.5000000000 0.3240000000 0.0500000000  Biso 1.0 O 4 e
+O15 1.0000000000 0.5000000000 0.3230000000 0.3070000000  Biso 1.0 O 4 e

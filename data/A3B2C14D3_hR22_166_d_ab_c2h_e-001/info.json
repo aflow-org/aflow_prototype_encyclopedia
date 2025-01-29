@@ -1,0 +1,30 @@
+{
+    "uid": "6NJM",
+    "prototype": "La3Mn2O14Sb3",
+    "prototype_tex": "La$_{3}$Mn$_{2}$O$_{14}$Sb$_{3}$",
+    "label": "A3B2C14D3_hR22_166_d_ab_c2h_e-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "x6",
+        "z6",
+        "x7",
+        "z7"
+    ],
+    "parameter_values": [
+        7.5488,
+        2.357685,
+        0.386,
+        0.5336,
+        0.1502,
+        0.1429,
+        -0.0551
+    ],
+    "strukturbericht": null,
+    "title": "Mn$_{2}$La$_{3}$Sb$_{3}$O$_{14}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B2C14D3_hR22_166_d_ab_c2h_e-001"
+}

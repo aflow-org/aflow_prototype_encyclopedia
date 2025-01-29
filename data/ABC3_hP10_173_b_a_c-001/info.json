@@ -1,0 +1,30 @@
+{
+    "uid": "DF6Y",
+    "prototype": "ILiO3",
+    "prototype_tex": "ILiO$_{3}$",
+    "label": "ABC3_hP10_173_b_a_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        5.1815,
+        0.997954,
+        0.8907,
+        0.0,
+        0.0935833,
+        0.343957,
+        0.1698
+    ],
+    "strukturbericht": null,
+    "title": "$\\alpha$-LiIO$_{3}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC3_hP10_173_b_a_c"
+}

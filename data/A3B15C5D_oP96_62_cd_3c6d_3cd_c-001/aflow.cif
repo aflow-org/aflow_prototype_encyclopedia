@@ -1,0 +1,62 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Cl3H15N5Rh J18
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A3B15C5D_oP96_62_cd_3c6d_3cd_c-001
+
+# Last updated on 2024/08/01
+
+data_Cl12H60N20Rh4
+_pd_phase_name Cl12H60N20Rh4
+_cell_length_a  13.3600000000
+_cell_length_b  10.4600000000
+_cell_length_c  6.7410000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pnma'
+_symmetry_Int_Tables_Number  62
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z+1/2
+  3  -x,y+1/2,-z
+  4  x+1/2,-y+1/2,-z+1/2
+  5  -x,-y,-z
+  6  x+1/2,y,-z+1/2
+  7  x,-y+1/2,z
+  8  -x+1/2,y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Cl1 1.0000000000 0.4705000000 0.2500000000 0.9518000000  Biso 1.0 Cl 4 c
+H3 1.0000000000 0.7710000000 0.2500000000 0.9970000000  Biso 1.0 H 4 c
+H4 1.0000000000 0.5270000000 0.2500000000 0.5270000000  Biso 1.0 H 4 c
+H5 1.0000000000 0.7780000000 0.2500000000 0.3370000000  Biso 1.0 H 4 c
+N12 1.0000000000 0.7207000000 0.2500000000 0.3777000000  Biso 1.0 N 4 c
+N13 1.0000000000 0.7041000000 0.2500000000 0.9481000000  Biso 1.0 N 4 c
+N14 1.0000000000 0.5046000000 0.2500000000 0.4129000000  Biso 1.0 N 4 c
+Rh16 1.0000000000 0.6038000000 0.2500000000 0.1805000000  Biso 1.0 Rh 4 c
+Cl2 1.0000000000 0.1484000000 0.9982000000 0.8394000000  Biso 1.0 Cl 8 d
+H10 1.0000000000 0.5220000000 0.8070000000 0.5670000000  Biso 1.0 H 8 d
+H11 1.0000000000 0.2740000000 0.8090000000 0.5410000000  Biso 1.0 H 8 d
+H6 1.0000000000 0.3960000000 0.5090000000 0.9400000000  Biso 1.0 H 8 d
+H7 1.0000000000 0.3570000000 0.5200000000 0.7390000000  Biso 1.0 H 8 d
+H8 1.0000000000 0.4520000000 0.5280000000 0.7980000000  Biso 1.0 H 8 d
+H9 1.0000000000 0.2970000000 0.6960000000 0.1250000000  Biso 1.0 H 8 d
+N15 1.0000000000 0.3975000000 0.5534000000 0.8224000000  Biso 1.0 N 8 d

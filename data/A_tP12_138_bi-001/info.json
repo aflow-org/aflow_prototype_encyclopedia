@@ -1,0 +1,24 @@
+{
+    "uid": "HZJ9",
+    "prototype": "C",
+    "prototype_tex": "C",
+    "label": "A_tP12_138_bi-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "z2"
+    ],
+    "parameter_values": [
+        3.388,
+        1.7742,
+        0.086,
+        0.107
+    ],
+    "strukturbericht": null,
+    "title": "C (T12 Group IV) Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A_tP12_138_bi"
+}

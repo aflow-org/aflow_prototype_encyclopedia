@@ -1,0 +1,24 @@
+{
+    "uid": "XTZU",
+    "prototype": "Pt8Ti",
+    "prototype_tex": "Pt$_{8}$Ti",
+    "label": "A8B_tI18_139_hi_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3"
+    ],
+    "parameter_values": [
+        8.312,
+        0.46884,
+        0.333,
+        0.327
+    ],
+    "strukturbericht": null,
+    "title": "Pt$_{8}$Ti Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A8B_tI18_139_hi_a"
+}

@@ -1,0 +1,20 @@
+{
+    "uid": "RYZL",
+    "prototype": "Li3N",
+    "prototype_tex": "Li$_{3}$N",
+    "label": "A3B_hP4_191_bc_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a"
+    ],
+    "parameter_values": [
+        3.6576,
+        1.05903
+    ],
+    "strukturbericht": null,
+    "title": "Li$_{3}$N Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B_hP4_191_bc_a"
+}

@@ -1,0 +1,25 @@
+{
+    "uid": "6QGS",
+    "prototype": "Si2U3",
+    "prototype_tex": "Si$_{2}$U$_{3}$",
+    "label": "A2B3_tP10_127_g_ah-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3"
+    ],
+    "parameter_values": [
+        7.3364,
+        0.530233,
+        0.8841,
+        0.6821
+    ],
+    "strukturbericht": "D5_a",
+    "title": "Si$_{2}$U$_{3}$ ($D5_{a}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$D5_{a}$",
+    "compounds": {},
+    "alias": "A2B3_tP10_127_g_ah"
+}

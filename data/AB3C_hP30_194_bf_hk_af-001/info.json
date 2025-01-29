@@ -1,0 +1,30 @@
+{
+    "uid": "VHHA",
+    "prototype": "BaO3Ti",
+    "prototype_tex": "BaO$_{3}$Ti",
+    "label": "AB3C_hP30_194_bf_hk_af-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4",
+        "x5",
+        "x6",
+        "z6"
+    ],
+    "parameter_values": [
+        5.7238,
+        2.4398,
+        0.40329,
+        0.84633,
+        0.518497,
+        0.834897,
+        0.0802
+    ],
+    "strukturbericht": null,
+    "title": "Hexagonal BaTiO$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3C_hP30_194_bf_hk_af-001"
+}

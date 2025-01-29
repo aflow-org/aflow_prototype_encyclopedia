@@ -1,0 +1,26 @@
+{
+    "uid": "QCMW",
+    "prototype": "Hg7K2",
+    "prototype_tex": "Hg$_{7}$K$_{2}$",
+    "label": "A7B2_hP9_164_ai_d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "x3",
+        "z3"
+    ],
+    "parameter_values": [
+        6.7175,
+        0.954715,
+        0.851,
+        0.178903,
+        0.3318
+    ],
+    "strukturbericht": null,
+    "title": "K$_{2}$Hg$_{7}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A7B2_hP9_164_ai_d-001"
+}

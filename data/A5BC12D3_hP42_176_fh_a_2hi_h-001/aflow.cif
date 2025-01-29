@@ -1,0 +1,57 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Ca5FO12P fluorapatite H57
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A5BC12D3_hP42_176_fh_a_2hi_h-001
+
+# Last updated on 2024/08/01
+
+data_Ca10F2O24P6
+_pd_phase_name Ca10F2O24P6
+_cell_length_a  9.3970000000
+_cell_length_b  9.3970000000
+_cell_length_c  6.8780000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  120.0000000000
+_symmetry_space_group_name_H-M  'P6_{3}/m'
+_symmetry_Int_Tables_Number  176
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -y,x-y,z
+  3  -x+y,-x,z
+  4  -x,-y,z+1/2
+  5  y,-x+y,z+1/2
+  6  x-y,x,z+1/2
+  7  -x,-y,-z
+  8  y,-x+y,-z
+  9  x-y,x,-z
+  10  x,y,-z+1/2
+  11  -y,x-y,-z+1/2
+  12  -x+y,-x,-z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+F3 1.0000000000 0.0000000000 0.0000000000 0.2500000000  Biso 1.0 F 2 a
+Ca1 1.0000000000 0.3333300000 0.6666700000 0.9990000000  Biso 1.0 Ca 4 f
+Ca2 1.0000000000 0.9928800000 0.2422700000 0.2500000000  Biso 1.0 Ca 6 h
+O4 1.0000000000 0.4849000000 0.3273000000 0.2500000000  Biso 1.0 O 6 h
+O5 1.0000000000 0.4667000000 0.5875000000 0.2500000000  Biso 1.0 O 6 h
+P7 1.0000000000 0.3689500000 0.3985000000 0.2500000000  Biso 1.0 P 6 h
+O6 1.0000000000 0.2575000000 0.3421000000 0.0705000000  Biso 1.0 O 12 i

@@ -1,0 +1,38 @@
+{
+    "uid": "J16T",
+    "prototype": "Bi3Ni",
+    "prototype_tex": "Bi$_{3}$Ni",
+    "label": "A3B_oP16_62_3c_c-003",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        8.884,
+        0.461616,
+        1.29277,
+        0.298,
+        0.89,
+        0.379,
+        0.588,
+        0.412,
+        0.178,
+        0.095,
+        0.521
+    ],
+    "strukturbericht": null,
+    "title": "NiBi$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B_oP16_62_3c_c-003"
+}

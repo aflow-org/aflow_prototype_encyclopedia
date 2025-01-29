@@ -1,0 +1,24 @@
+{
+    "uid": "P31P",
+    "prototype": "CuI",
+    "prototype_tex": "CuI",
+    "label": "A2B_hP6_187_gi_ad-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4"
+    ],
+    "parameter_values": [
+        4.3,
+        1.67605,
+        0.39,
+        0.29
+    ],
+    "strukturbericht": null,
+    "title": "$\\beta$-CuI (B\\\"{u}hrer-H\\\"{a}lg) Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_hP6_187_gi_ad-001"
+}

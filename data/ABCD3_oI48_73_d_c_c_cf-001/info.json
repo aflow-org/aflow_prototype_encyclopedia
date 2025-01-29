@@ -1,0 +1,36 @@
+{
+    "uid": "H0D0",
+    "prototype": "AgCKO3",
+    "prototype_tex": "AgCKO$_{3}$",
+    "label": "ABCD3_oI48_73_d_c_c_cf-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3",
+        "y4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        20.3891,
+        0.291528,
+        0.28324,
+        0.8766,
+        0.06968,
+        0.939,
+        0.11573,
+        0.1533,
+        0.3624,
+        0.3849
+    ],
+    "strukturbericht": null,
+    "title": "KAg[CO$_{3}$] Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABCD3_oI48_73_d_e_e_ef"
+}

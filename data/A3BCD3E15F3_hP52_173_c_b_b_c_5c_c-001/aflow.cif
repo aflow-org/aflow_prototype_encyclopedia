@@ -1,0 +1,54 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Al3CCaNa3O15Si3 crancrinite S33(I)
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A3BCD3E15F3_hP52_173_c_b_b_c_5c_c-001
+
+# Last updated on 2024/08/01
+
+data_Al6C2Ca2Na6O30Si6
+_pd_phase_name Al6C2Ca2Na6O30Si6
+_cell_length_a  12.7200000000
+_cell_length_b  12.7200000000
+_cell_length_c  5.1800000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  120.0000000000
+_symmetry_space_group_name_H-M  'P6_{3}'
+_symmetry_Int_Tables_Number  173
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -y,x-y,z
+  3  -x+y,-x,z
+  4  -x,-y,z+1/2
+  5  y,-x+y,z+1/2
+  6  x-y,x,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+C2 1.0000000000 0.3333333333 0.6666666667 0.3600000000  Biso 1.0 C 2 b
+Ca3 1.0000000000 0.3333333333 0.6666666667 0.8600000000  Biso 1.0 Ca 2 b
+Al1 1.0000000000 0.2600033333 0.2299966667 0.2400000000  Biso 1.0 Al 6 c
+Na4 1.0000000000 0.5000033333 0.4999966667 0.2200000000  Biso 1.0 Na 6 c
+O5 1.0000000000 0.0500033333 0.3599966667 0.0100000000  Biso 1.0 O 6 c
+O6 1.0000000000 0.3600033333 0.3199966667 0.9700000000  Biso 1.0 O 6 c
+O7 1.0000000000 0.1700033333 0.2699966667 0.2600000000  Biso 1.0 O 6 c
+O8 1.0000000000 0.8700033333 0.1599966667 0.2400000000  Biso 1.0 O 6 c
+O9 1.0000000000 0.2000033333 0.6399966667 0.3600000000  Biso 1.0 O 6 c
+Si10 1.0000000000 0.0330033333 0.2599966667 0.2600000000  Biso 1.0 Si 6 c

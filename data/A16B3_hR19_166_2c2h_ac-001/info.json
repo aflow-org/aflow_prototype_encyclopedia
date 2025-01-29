@@ -1,0 +1,34 @@
+{
+    "uid": "17E5",
+    "prototype": "P4Sn3",
+    "prototype_tex": "P$_{4}$Sn$_{3}$",
+    "label": "A16B3_hR19_166_2c2h_ac-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3",
+        "x4",
+        "x5",
+        "z5",
+        "x6",
+        "z6"
+    ],
+    "parameter_values": [
+        4.429,
+        6.403387,
+        0.433,
+        0.3574,
+        0.79447,
+        0.2754,
+        0.6625,
+        0.5246,
+        0.1091
+    ],
+    "strukturbericht": null,
+    "title": "Sn$_{3}$P$_{4}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A16B3_hR19_166_2c2h_ac-001"
+}

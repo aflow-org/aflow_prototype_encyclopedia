@@ -1,0 +1,24 @@
+{
+    "uid": "RB89",
+    "prototype": "CdGeTe4Tl2",
+    "prototype_tex": "CdGeTe$_{4}$Tl$_{2}$",
+    "label": "ABC4D2_tI16_121_a_b_i_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        8.3825,
+        0.844319,
+        0.1749,
+        0.2748
+    ],
+    "strukturbericht": null,
+    "title": "Tl$_{2}$CdGeTe$_{4}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC4D2_tI16_121_a_b_i_c-001"
+}

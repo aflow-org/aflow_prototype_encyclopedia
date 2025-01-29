@@ -1,0 +1,20 @@
+{
+    "uid": "047D",
+    "prototype": "CoOSr",
+    "prototype_tex": "CoOSr",
+    "label": "ABC_hP6_194_a_b_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a"
+    ],
+    "parameter_values": [
+        5.486128,
+        0.7658914
+    ],
+    "strukturbericht": null,
+    "title": "SrCoO",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC_hP6_194_a_b_c-001"
+}

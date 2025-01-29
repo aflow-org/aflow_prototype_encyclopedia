@@ -1,0 +1,51 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Ga9Rh2
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A9B2_mP22_7_9a_2a-001
+
+# Last updated on 2024/08/01
+
+data_Ga18Rh4
+_pd_phase_name Ga18Rh4
+_cell_length_a  6.4165085102
+_cell_length_b  6.4120084341
+_cell_length_c  8.7848485615
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  93.3900000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pc'
+_symmetry_Int_Tables_Number  7
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  x,-y,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Ga1 1.0000000000 0.4944000000 0.2369000000 0.0135000000  Biso 1.0 Ga 2 a
+Ga2 1.0000000000 0.2965000000 0.2623000000 0.5568000000  Biso 1.0 Ga 2 a
+Ga3 1.0000000000 0.4955000000 0.4453000000 0.2912000000  Biso 1.0 Ga 2 a
+Ga4 1.0000000000 0.2817000000 0.0557000000 0.2805000000  Biso 1.0 Ga 2 a
+Ga5 1.0000000000 0.8067000000 0.5491000000 0.0506000000  Biso 1.0 Ga 2 a
+Ga6 1.0000000000 0.0000000000 0.0309000000 0.0000000000  Biso 1.0 Ga 2 a
+Ga7 1.0000000000 0.6774000000 0.1539000000 0.7442000000  Biso 1.0 Ga 2 a
+Ga8 1.0000000000 0.0960000000 0.6343000000 0.3258000000  Biso 1.0 Ga 2 a
+Ga9 1.0000000000 0.8638000000 0.2389000000 0.2526000000  Biso 1.0 Ga 2 a
+Rh10 1.0000000000 0.6359000000 0.1217000000 0.4513000000  Biso 1.0 Rh 2 a
+Rh11 1.0000000000 0.1560000000 0.3761000000 0.1137700000  Biso 1.0 Rh 2 a

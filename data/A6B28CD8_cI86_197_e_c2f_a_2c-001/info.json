@@ -1,0 +1,38 @@
+{
+    "uid": "E2PK",
+    "prototype": "Al6O16SSr4",
+    "prototype_tex": "Al$_{6}$O$_{16}$SSr$_{4}$",
+    "label": "A6B28CD8_cI86_197_e_c2f_a_2c-001",
+    "parameter_symbol": [
+        "a",
+        "x2",
+        "x3",
+        "x4",
+        "x5",
+        "x6",
+        "y6",
+        "z6",
+        "x7",
+        "y7",
+        "z7"
+    ],
+    "parameter_values": [
+        9.4256,
+        0.091,
+        0.2046,
+        0.2389,
+        0.2422,
+        0.153,
+        0.4736,
+        0.159,
+        0.368,
+        0.417,
+        0.478
+    ],
+    "strukturbericht": null,
+    "title": "High-Temperature Sr$_{4}$Al$_{6}$O$_{16}$S Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A6B28CD8_cI86_197_e_c2f_a_2c-001"
+}

@@ -1,0 +1,18 @@
+{
+    "uid": "78LF",
+    "prototype": "Hg4Pt",
+    "prototype_tex": "Hg$_{4}$Pt",
+    "label": "A4B_cI10_229_c_a-001",
+    "parameter_symbol": [
+        "a"
+    ],
+    "parameter_values": [
+        6.186
+    ],
+    "strukturbericht": null,
+    "title": "$\\beta$-Hg$_{4}$Pt Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4B_cI10_229_c_a"
+}

@@ -1,0 +1,25 @@
+{
+    "uid": "6CGK",
+    "prototype": "SZn",
+    "prototype_tex": "SZn",
+    "label": "AB_hP4_186_b_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2"
+    ],
+    "parameter_values": [
+        3.8227,
+        1.63777,
+        0.3748,
+        0.0
+    ],
+    "strukturbericht": "B4",
+    "title": "Wurtzite (ZnS, $B4$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$B4$",
+    "compounds": {},
+    "alias": "AB_hP4_186_b_b"
+}

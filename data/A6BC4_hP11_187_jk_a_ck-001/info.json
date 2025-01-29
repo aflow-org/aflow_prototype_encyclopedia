@@ -1,0 +1,26 @@
+{
+    "uid": "NFL9",
+    "prototype": "Co6LiP4",
+    "prototype_tex": "Co$_{6}$LiP$_{4}$",
+    "label": "A6BC4_hP11_187_jk_a_ck-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "x4",
+        "x5"
+    ],
+    "parameter_values": [
+        6.584,
+        0.506987,
+        0.5365,
+        0.2002,
+        0.8192
+    ],
+    "strukturbericht": null,
+    "title": "LiCo$_{6}$P$_{4}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A6BC4_hP11_187_jk_a_ck-001"
+}

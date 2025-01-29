@@ -1,0 +1,42 @@
+{
+    "uid": "5BM7",
+    "prototype": "As2Nd",
+    "prototype_tex": "As$_{2}$Nd",
+    "label": "A2B_mP12_14_2e_e-012",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x1",
+        "y1",
+        "z1",
+        "x2",
+        "y2",
+        "z2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        10.0624,
+        0.677781,
+        1.12084,
+        158.774,
+        0.1194,
+        0.6436,
+        0.2902,
+        0.3721,
+        0.3777,
+        0.8224,
+        0.632,
+        0.3126,
+        0.7722
+    ],
+    "strukturbericht": null,
+    "title": "NdAs$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_mP12_14_2e_e-012"
+}

@@ -1,0 +1,28 @@
+{
+    "uid": "TKGJ",
+    "prototype": "BiCu",
+    "prototype_tex": "BiCu",
+    "label": "AB_oP8_51_ef_af-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z2",
+        "z3",
+        "z4"
+    ],
+    "parameter_values": [
+        5.2075,
+        0.814614,
+        1.51261,
+        0.6816,
+        0.2602,
+        0.919
+    ],
+    "strukturbericht": null,
+    "title": "High-Pressure CuBi Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_oP8_51_ef_af-001"
+}

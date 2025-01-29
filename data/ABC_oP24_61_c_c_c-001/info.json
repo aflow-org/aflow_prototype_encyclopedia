@@ -1,0 +1,40 @@
+{
+    "uid": "EHTG",
+    "prototype": "CClO",
+    "prototype_tex": "CClO",
+    "label": "ABC_oP24_61_c_c_c-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "y1",
+        "z1",
+        "x2",
+        "y2",
+        "z2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        6.44,
+        0.944099,
+        1.85248,
+        0.994,
+        0.062,
+        0.053,
+        0.966,
+        0.917,
+        0.167,
+        0.118,
+        0.23,
+        0.05
+    ],
+    "strukturbericht": null,
+    "title": "COCl Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC_oP24_61_c_c_c"
+}

@@ -1,0 +1,40 @@
+{
+    "uid": "09UM",
+    "prototype": "FeS2",
+    "prototype_tex": "FeS$_{2}$",
+    "label": "AB2_oP12_29_a_2a-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "y1",
+        "z1",
+        "x2",
+        "y2",
+        "z2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        5.418,
+        1.0,
+        1.0,
+        0.5049,
+        0.2419,
+        -4.57283e-17,
+        0.615,
+        0.135,
+        0.3834,
+        0.615,
+        0.635,
+        0.1134
+    ],
+    "strukturbericht": null,
+    "title": "Low Temperature Pyrite (FeS$_{2}$) Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2_oP12_29_a_2a"
+}

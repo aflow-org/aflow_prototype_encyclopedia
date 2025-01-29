@@ -1,0 +1,24 @@
+{
+    "uid": "5SWM",
+    "prototype": "B2FeMo2",
+    "prototype_tex": "B$_{2}$FeMo$_{2}$",
+    "label": "A2BC2_tP10_127_g_a_h-002",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3"
+    ],
+    "parameter_values": [
+        5.782,
+        0.544448,
+        0.394,
+        0.183
+    ],
+    "strukturbericht": null,
+    "title": "Mo$_{2}$FeB$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BC2_tP10_127_g_a_h-002"
+}

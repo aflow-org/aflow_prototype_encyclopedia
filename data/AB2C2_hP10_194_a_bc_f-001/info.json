@@ -1,0 +1,22 @@
+{
+    "uid": "6X9E",
+    "prototype": "CoNa0.74O2",
+    "prototype_tex": "CoNa$_{0.74}$O$_{2}$",
+    "label": "AB2C2_hP10_194_a_bc_f-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z4"
+    ],
+    "parameter_values": [
+        2.84,
+        3.80669,
+        0.5913
+    ],
+    "strukturbericht": null,
+    "title": "Na$_{0.74}$CoO$_{2}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2C2_hP10_194_a_bc_f"
+}

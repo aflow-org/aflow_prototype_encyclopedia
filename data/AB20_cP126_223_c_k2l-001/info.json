@@ -1,0 +1,34 @@
+{
+    "uid": "HV0S",
+    "prototype": "Ba3C60",
+    "prototype_tex": "Ba$_{3}$C$_{60}$",
+    "label": "AB20_cP126_223_c_k2l-001",
+    "parameter_symbol": [
+        "a",
+        "y2",
+        "z2",
+        "x3",
+        "y3",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        11.343,
+        0.3138,
+        0.0646,
+        0.1292,
+        0.1046,
+        0.2738,
+        0.0646,
+        0.2091,
+        0.2338
+    ],
+    "strukturbericht": null,
+    "title": "``A15'' Fullerene (Ba$_{3}$C$_{60}$) Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB20_cP126_223_c_k2l-001"
+}

@@ -1,0 +1,21 @@
+{
+    "uid": "8GEP",
+    "prototype": "PtS",
+    "prototype_tex": "PtS",
+    "label": "AB_tP4_131_c_e-001",
+    "parameter_symbol": [
+        "a",
+        "c/a"
+    ],
+    "parameter_values": [
+        4.9073,
+        1.245
+    ],
+    "strukturbericht": "B17",
+    "title": "Cooperite (PtS, $B17$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$B17$",
+    "compounds": {},
+    "alias": "AB_tP4_131_c_e"
+}

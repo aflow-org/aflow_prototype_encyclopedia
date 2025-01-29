@@ -1,0 +1,32 @@
+{
+    "uid": "GVGD",
+    "prototype": "Au3Zn",
+    "prototype_tex": "Au$_{3}$Zn",
+    "label": "A3B_oC32_64_def_d-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "x2",
+        "y3",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        16.6496,
+        0.336002,
+        0.335462,
+        0.884,
+        0.636,
+        0.75,
+        0.19,
+        0.69
+    ],
+    "strukturbericht": null,
+    "title": "R$_{2}$ Au$_{3}$Zn Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B_oC32_64_def_d-001"
+}

@@ -1,0 +1,39 @@
+{
+    "uid": "DE18",
+    "prototype": "I3(NH4)",
+    "prototype_tex": "I$_{3}$(NH$_{4}$)",
+    "label": "A3B_oP16_62_3c_c-002",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        10.819,
+        0.613735,
+        0.893059,
+        0.84315,
+        0.15287,
+        0.6188,
+        0.95106,
+        0.42157,
+        0.76482,
+        0.16484,
+        0.02957
+    ],
+    "strukturbericht": "D0_16",
+    "title": "NH$_{4}$I$_{3}$ (D0$_{16}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$D0_{16}$",
+    "compounds": {},
+    "alias": "A3B_oP16_62_3c_c"
+}

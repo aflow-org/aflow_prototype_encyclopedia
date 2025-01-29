@@ -1,0 +1,42 @@
+{
+    "uid": "HTHS",
+    "prototype": "P4Rh6Sc",
+    "prototype_tex": "P$_{4}$Rh$_{6}$Sc",
+    "label": "A4B6C_hP11_143_ad_2d_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "x3",
+        "y3",
+        "z3",
+        "x4",
+        "y4",
+        "z4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        6.968,
+        0.526119,
+        0.9993,
+        0.0004,
+        0.515233,
+        0.475167,
+        0.4998,
+        0.785833,
+        0.186667,
+        0.0003,
+        0.147433,
+        0.867667,
+        0.5002
+    ],
+    "strukturbericht": null,
+    "title": "ScRh$_{6}$P$_{4}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4B6C_hP11_143_bd_2d_a"
+}

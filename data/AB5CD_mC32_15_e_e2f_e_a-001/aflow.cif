@@ -1,0 +1,52 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  CaO5SiTi titanite S06
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/AB5CD_mC32_15_e_e2f_e_a-001
+
+# Last updated on 2024/08/01
+
+data_Ca4O20Si4Ti4
+_pd_phase_name Ca4O20Si4Ti4
+_cell_length_a  6.5490000000
+_cell_length_b  8.6950000000
+_cell_length_c  7.0600000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  113.8700000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'C2/c'
+_symmetry_Int_Tables_Number  15
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y,-z+1/2
+  3  -x,-y,-z
+  4  x,-y,z+1/2
+  5  x+1/2,y+1/2,z
+  6  -x+1/2,y+1/2,-z+1/2
+  7  -x+1/2,-y+1/2,-z
+  8  x+1/2,-y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Ti6 1.0000000000 0.0000000000 0.0000000000 -0.0000000000  Biso 1.0 Ti 4 a
+Ca1 1.0000000000 0.0000000000 0.3323000000 0.2500000000  Biso 1.0 Ca 4 e
+O2 1.0000000000 0.0000000000 0.0714000000 0.2500000000  Biso 1.0 O 4 e
+Si5 1.0000000000 0.0000000000 0.6828000000 0.2500000000  Biso 1.0 Si 4 e
+O3 1.0000000000 0.3145000000 0.0663000000 0.0898000000  Biso 1.0 O 8 f
+O4 1.0000000000 0.8975000000 0.7893000000 0.3815000000  Biso 1.0 O 8 f

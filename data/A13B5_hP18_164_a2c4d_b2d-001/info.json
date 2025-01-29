@@ -1,0 +1,36 @@
+{
+    "uid": "G8A6",
+    "prototype": "Li13Sn5",
+    "prototype_tex": "Li$_{13}$Sn$_{5}$",
+    "label": "A13B5_hP18_164_a2c4d_b2d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4",
+        "z5",
+        "z6",
+        "z7",
+        "z8",
+        "z9",
+        "z10"
+    ],
+    "parameter_values": [
+        4.7,
+        3.64255,
+        0.664,
+        0.168,
+        0.443,
+        0.945,
+        0.784,
+        0.617,
+        0.2764,
+        0.1091
+    ],
+    "strukturbericht": null,
+    "title": "Li$_{13}$Sn$_{5}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A13B5_hP18_164_a2c4d_b2d-001"
+}

@@ -1,0 +1,29 @@
+{
+    "uid": "RZ74",
+    "prototype": "BMn2",
+    "prototype_tex": "BMn$_{2}$",
+    "label": "AB2_oF48_70_e_ef-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "x2",
+        "y3"
+    ],
+    "parameter_values": [
+        7.2914,
+        1.99406,
+        0.577146,
+        0.0005,
+        0.70663,
+        0.29445
+    ],
+    "strukturbericht": "D1_f",
+    "title": "Mn$_{2}$B ($D1_{f}$) Structure",
+    "part": 2,
+    "legacy": false,
+    "strukturbericht_tex": "$D1_{f}$",
+    "compounds": {},
+    "alias": "AB2_oF48_70_f_fg"
+}

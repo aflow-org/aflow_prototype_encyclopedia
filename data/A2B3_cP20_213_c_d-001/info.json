@@ -1,0 +1,22 @@
+{
+    "uid": "KXT1",
+    "prototype": "Co8Mn3Zn9",
+    "prototype_tex": "Co$_{8}$Mn$_{3}$Zn$_{9}$",
+    "label": "A2B3_cP20_213_c_d-001",
+    "parameter_symbol": [
+        "a",
+        "x1",
+        "y2"
+    ],
+    "parameter_values": [
+        6.3593,
+        0.06522,
+        0.20299
+    ],
+    "strukturbericht": null,
+    "title": "Co$_{8}$Zn$_{9}$Mn$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B3_cP20_213_c_d-001"
+}

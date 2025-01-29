@@ -1,0 +1,40 @@
+{
+    "uid": "8MN6",
+    "prototype": "AlCu",
+    "prototype_tex": "AlCu",
+    "label": "AB_mC20_12_a2i_c2i-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x3",
+        "z3",
+        "x4",
+        "z4",
+        "x5",
+        "z5",
+        "x6",
+        "z6"
+    ],
+    "parameter_values": [
+        12.06,
+        0.340381,
+        0.819552,
+        145.025,
+        0.698,
+        0.043,
+        0.395,
+        0.513,
+        0.016,
+        0.26,
+        0.337,
+        0.728
+    ],
+    "strukturbericht": null,
+    "title": "CuAl Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_mC20_12_a2i_c2i-001"
+}

@@ -1,0 +1,37 @@
+{
+    "uid": "VQBJ",
+    "prototype": "Ca(H2O)6O6P2U2",
+    "prototype_tex": "Ca(H$_{2}$O)$_{6}$O$_{6}$P$_{2}$U$_{2}$",
+    "label": "AB4C6DE_tP26_129_c_j_2ci_a_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "z3",
+        "z4",
+        "z5",
+        "y6",
+        "z6",
+        "x7",
+        "z7"
+    ],
+    "parameter_values": [
+        6.98,
+        1.2063,
+        0.612,
+        0.343,
+        0.893,
+        0.106,
+        0.584,
+        0.106,
+        0.486,
+        0.392
+    ],
+    "strukturbericht": "H5_10",
+    "title": "Meta-autunite (I) [Ca(UO$_{2}$)$_{2}$(PO$_{4}$)$_{2}\\cdot$6H$_{2}$O, $H5_{10}$] Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$H5_{10}$",
+    "compounds": {},
+    "alias": "AB4C6DE_tP26_129_c_j_2ci_a_c"
+}

@@ -1,0 +1,26 @@
+{
+    "uid": "YXNP",
+    "prototype": "Ba4Ga8Sn15",
+    "prototype_tex": "Ba$_{4}$Ga$_{8}$Sn$_{15}$",
+    "label": "A4B4C6D13_cI54_217_c_c_d_ag-001",
+    "parameter_symbol": [
+        "a",
+        "x2",
+        "x3",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        11.586,
+        0.6849,
+        0.86558,
+        0.91549,
+        0.64887
+    ],
+    "strukturbericht": null,
+    "title": "$\\alpha$-Ba$_{8}$Ga$_{16}$Sn$_{30}$ Clathrate Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4B4C6D13_cI54_217_c_c_d_ag-001"
+}

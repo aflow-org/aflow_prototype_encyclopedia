@@ -1,0 +1,69 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Cr(H2O)12NaO8S2 alum
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/AB12CD8E2_cP96_205_a_2d_b_cd_c-001
+
+# Last updated on 2024/08/01
+
+data_Cr4H48Na4O32S8
+_pd_phase_name Cr4H48Na4O32S8
+_cell_length_a  12.4000000000
+_cell_length_b  12.4000000000
+_cell_length_c  12.4000000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pa-3'
+_symmetry_Int_Tables_Number  205
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z+1/2
+  3  -x,y+1/2,-z+1/2
+  4  x+1/2,-y+1/2,-z
+  5  z,x,y
+  6  z+1/2,-x+1/2,-y
+  7  -z+1/2,-x,y+1/2
+  8  -z,x+1/2,-y+1/2
+  9  y,z,x
+  10  -y,z+1/2,-x+1/2
+  11  y+1/2,-z+1/2,-x
+  12  -y+1/2,-z,x+1/2
+  13  -x,-y,-z
+  14  x+1/2,y,-z+1/2
+  15  x,-y+1/2,z+1/2
+  16  -x+1/2,y+1/2,z
+  17  -z,-x,-y
+  18  -z+1/2,x+1/2,y
+  19  z+1/2,x,-y+1/2
+  20  z,-x+1/2,y+1/2
+  21  -y,-z,-x
+  22  y,-z+1/2,x+1/2
+  23  -y+1/2,z+1/2,x
+  24  y+1/2,z,-x+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Cr1 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Cr 4 a
+Na4 1.0000000000 0.5000000000 0.5000000000 0.5000000000  Biso 1.0 Na 4 b
+O5 1.0000000000 0.2390000000 0.2390000000 0.2390000000  Biso 1.0 O 8 c
+S7 1.0000000000 0.3100000000 0.3100000000 0.3100000000  Biso 1.0 S 8 c
+H2 1.0000000000 0.1580000000 0.0140000000 0.0180000000  Biso 1.0 H 24 d
+H3 1.0000000000 0.0420000000 0.1360000000 0.3020000000  Biso 1.0 H 24 d
+O6 1.0000000000 0.3070000000 0.2240000000 0.9200000000  Biso 1.0 O 24 d

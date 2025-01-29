@@ -1,0 +1,32 @@
+{
+    "uid": "S8YA",
+    "prototype": "ClZr",
+    "prototype_tex": "ClZr",
+    "label": "AB_mC8_12_i_i-002",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x1",
+        "z1",
+        "x2",
+        "z2"
+    ],
+    "parameter_values": [
+        5.943,
+        0.575299,
+        1.5290257,
+        102.5,
+        0.1098,
+        0.3296,
+        0.3779,
+        0.1341
+    ],
+    "strukturbericht": null,
+    "title": "Monoclinic ZrCl Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_mC8_12_i_i-002"
+}

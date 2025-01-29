@@ -1,0 +1,38 @@
+{
+    "uid": "WB1B",
+    "prototype": "In2P4Sr3",
+    "prototype_tex": "In$_{2}$P$_{4}$Sr$_{3}$",
+    "label": "A2B4C3_oP18_58_g_2g_ag-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x2",
+        "y2",
+        "x3",
+        "y3",
+        "x4",
+        "y4",
+        "x5",
+        "y5"
+    ],
+    "parameter_values": [
+        16.323,
+        0.418305,
+        0.262758,
+        0.585,
+        0.1335,
+        0.4325,
+        0.2395,
+        0.1654,
+        0.2454,
+        0.1986,
+        0.7146
+    ],
+    "strukturbericht": null,
+    "title": "Sr$_{3}$In$_{2}$P$_{4}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B4C3_oP18_58_g_2g_ag-001"
+}

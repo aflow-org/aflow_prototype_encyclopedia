@@ -1,0 +1,36 @@
+{
+    "uid": "RR9W",
+    "prototype": "Ce5In19Pd2",
+    "prototype_tex": "Ce$_{5}$In$_{19}$Pd$_{2}$",
+    "label": "A5B19C2_tP26_123_a2g_ce2h3i_g-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z4",
+        "z5",
+        "z6",
+        "z7",
+        "z8",
+        "z9",
+        "z10",
+        "z11"
+    ],
+    "parameter_values": [
+        4.7012,
+        6.19755,
+        0.16065,
+        0.41982,
+        0.29036,
+        0.1614,
+        0.41894,
+        0.08008,
+        0.23906,
+        0.34146
+    ],
+    "strukturbericht": null,
+    "title": "Ce$_{5}$Pd$_{2}$In$_{19}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A5B19C2_tP26_123_a2g_ce2h3i_g-001"
+}

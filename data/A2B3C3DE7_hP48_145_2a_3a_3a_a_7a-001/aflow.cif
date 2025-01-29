@@ -1,0 +1,57 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  C2Ca3F3NaO7 sheldrickite
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A2B3C3DE7_hP48_145_2a_3a_3a_a_7a-001
+
+# Last updated on 2024/08/01
+
+data_C6Ca9F9Na3O21
+_pd_phase_name C6Ca9F9Na3O21
+_cell_length_a  6.7260000000
+_cell_length_b  6.7260000000
+_cell_length_c  15.0440000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  120.0000000000
+_symmetry_space_group_name_H-M  'P3_{2}'
+_symmetry_Int_Tables_Number  145
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -y,x-y,z+2/3
+  3  -x+y,-x,z+1/3
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+C1  1.0000000000 0.5670000000 0.3170000000 0.1680000000  Biso 1.0 C  3 a
+C2  1.0000000000 0.4320000000 0.7520000000 0.1690000000  Biso 1.0 C  3 a
+Ca3 1.0000000000 0.6161000000 0.9991000000 0.0000000000  Biso 1.0 Ca 3 a
+Ca4 1.0000000000 0.9989000000 0.6284000000 0.0045000000  Biso 1.0 Ca 3 a
+Ca5 1.0000000000 0.3706000000 0.3710000000 0.9957000000  Biso 1.0 Ca 3 a
+F6  1.0000000000 0.9970000000 0.2660000000 0.0100000000  Biso 1.0 F  3 a
+F7  1.0000000000 0.2710000000 0.0020000000 0.9950000000  Biso 1.0 F  3 a
+F8  1.0000000000 0.7300000000 0.7340000000 0.9800000000  Biso 1.0 F  3 a
+Na9 1.0000000000 0.0010000000 0.2970000000 0.1650000000  Biso 1.0 Na 3 a
+O10 1.0000000000 0.6640000000 0.3480000000 0.0900000000  Biso 1.0 O  3 a
+O11 1.0000000000 0.6680000000 0.3330000000 0.2380000000  Biso 1.0 O  3 a
+O12 1.0000000000 0.3530000000 0.2730000000 0.1670000000  Biso 1.0 O  3 a
+O13 1.0000000000 0.3210000000 0.6540000000 0.9080000000  Biso 1.0 O  3 a
+O14 1.0000000000 0.3360000000 0.6660000000 0.7610000000  Biso 1.0 O  3 a
+O15 1.0000000000 0.6460000000 0.9210000000 0.1650000000  Biso 1.0 O  3 a
+O16 1.0000000000 0.2030000000 0.2020000000 0.8310000000  Biso 1.0 O  3 a

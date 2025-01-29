@@ -1,0 +1,27 @@
+{
+    "uid": "QWV1",
+    "prototype": "BCr",
+    "prototype_tex": "BCr",
+    "label": "AB_oC8_63_c_c-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y1",
+        "y2"
+    ],
+    "parameter_values": [
+        2.9782,
+        2.64254,
+        0.98536,
+        0.436,
+        0.14525
+    ],
+    "strukturbericht": "B33",
+    "title": "CrB ($B33$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$B33$",
+    "compounds": {},
+    "alias": "AB_oC8_63_c_c"
+}

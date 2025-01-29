@@ -1,0 +1,25 @@
+{
+    "uid": "D3QE",
+    "prototype": "La2O3",
+    "prototype_tex": "La$_{2}$O$_{3}$",
+    "label": "A2B3_hP5_164_d_ad-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "z3"
+    ],
+    "parameter_values": [
+        3.9381,
+        1.55814,
+        0.2467,
+        0.647
+    ],
+    "strukturbericht": "D5_2",
+    "title": "La$_{2}$O$_{3}$ ($D5_{2}$) Structure",
+    "part": 2,
+    "legacy": false,
+    "strukturbericht_tex": "$D5_{2}$",
+    "compounds": {},
+    "alias": "A2B3_hP5_164_d_ad"
+}

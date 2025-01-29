@@ -1,0 +1,22 @@
+{
+    "uid": "J41Y",
+    "prototype": "FeS2Tl",
+    "prototype_tex": "FeS$_{2}$Tl",
+    "label": "AB2C_tI8_119_c_e_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3"
+    ],
+    "parameter_values": [
+        3.753,
+        3.55502,
+        0.35126
+    ],
+    "strukturbericht": null,
+    "title": "Tetragonal TlFeS$_{2}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2C_tI8_119_c_e_a"
+}

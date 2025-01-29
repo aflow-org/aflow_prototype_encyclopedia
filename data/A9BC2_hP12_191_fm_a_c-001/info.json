@@ -1,0 +1,22 @@
+{
+    "uid": "CSJ8",
+    "prototype": "Al9BaFe2",
+    "prototype_tex": "Al$_{9}$BaFe$_{2}$",
+    "label": "A9BC2_hP12_191_fm_a_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x4"
+    ],
+    "parameter_values": [
+        8.04,
+        0.483831,
+        0.212
+    ],
+    "strukturbericht": null,
+    "title": "BaFe$_{2}$Al$_{9}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A9BC2_hP12_191_fm_a_c-001"
+}

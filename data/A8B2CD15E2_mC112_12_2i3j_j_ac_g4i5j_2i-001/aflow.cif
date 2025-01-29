@@ -1,0 +1,66 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  H8K2MnO12S2 manganese-leonite H423
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A8B2CD15E2_mC112_12_2i3j_j_ac_g4i5j_2i-001
+
+# Last updated on 2024/08/02
+
+data_H32K8Mn4O60S8
+_pd_phase_name H32K8Mn4O60S8
+_cell_length_a  12.0170000000
+_cell_length_b  9.5940000000
+_cell_length_c  16.2590218680
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  142.4430327727
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'C2/m'
+_symmetry_Int_Tables_Number  12
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y,-z
+  3  -x,-y,-z
+  4  x,-y,z
+  5  x+1/2,y+1/2,z
+  6  -x+1/2,y+1/2,-z
+  7  -x+1/2,-y+1/2,-z
+  8  x+1/2,-y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Mn7 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Mn 2 a
+Mn8 1.0000000000 0.0000000000 -0.0000000000 0.5000000000  Biso 1.0 Mn 2 c
+O9 1.0000000000 0.0000000000 0.2267000000 0.0000000000  Biso 1.0 O 4 g
+H1 1.0000000000 0.8040000000 0.0000000000 0.7430000000  Biso 1.0 H 4 i
+H2 1.0000000000 0.6870000000 -0.0000000000 0.7280000000  Biso 1.0 H 4 i
+O10 1.0000000000 0.2322000000 0.0000000000 0.0594000000  Biso 1.0 O 4 i
+O11 1.0000000000 0.7806000000 0.0000000000 0.0965000000  Biso 1.0 O 4 i
+O12 1.0000000000 0.1040000000 -0.0000000000 0.4354000000  Biso 1.0 O 4 i
+O13 1.0000000000 0.7910000000 0.0000000000 0.7806000000  Biso 1.0 O 4 i
+S19 1.0000000000 0.6627700000 -0.0000000000 0.9558200000  Biso 1.0 S 4 i
+S20 1.0000000000 0.7309800000 -0.0000000000 0.5202100000  Biso 1.0 S 4 i
+H3 1.0000000000 0.1930000000 0.7760000000 0.6210000000  Biso 1.0 H 8 j
+H4 1.0000000000 0.3050000000 0.8490000000 0.7260000000  Biso 1.0 H 8 j
+H5 1.0000000000 0.5200000000 0.7710000000 0.9730000000  Biso 1.0 H 8 j
+K6 1.0000000000 0.9195800000 0.7632600000 0.2493600000  Biso 1.0 K 8 j
+O14 1.0000000000 0.5459000000 0.8743000000 0.8871000000  Biso 1.0 O 8 j
+O15 1.0000000000 0.7506000000 0.0973000000 0.5987000000  Biso 1.0 O 8 j
+O16 1.0000000000 0.7203000000 0.1457000000 0.5480000000  Biso 1.0 O 8 j
+O17 1.0000000000 0.5672000000 0.0236000000 0.3754000000  Biso 1.0 O 8 j
+O18 1.0000000000 0.1868000000 0.8351000000 0.6481000000  Biso 1.0 O 8 j

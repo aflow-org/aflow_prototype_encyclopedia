@@ -1,0 +1,25 @@
+{
+    "uid": "AFG5",
+    "prototype": "U",
+    "prototype_tex": "U",
+    "label": "A_oC4_63_c-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y1"
+    ],
+    "parameter_values": [
+        2.8444,
+        2.06332,
+        1.73379,
+        0.10228
+    ],
+    "strukturbericht": "A20",
+    "title": "$\\alpha$-U ($A20$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$A20$",
+    "compounds": {},
+    "alias": "A_oC4_63_c"
+}

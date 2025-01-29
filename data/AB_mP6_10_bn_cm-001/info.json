@@ -1,0 +1,32 @@
+{
+    "uid": "QVV1",
+    "prototype": "LiSn",
+    "prototype_tex": "LiSn",
+    "label": "AB_mP6_10_bn_cm-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x3",
+        "z3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        8.1608,
+        0.389668,
+        0.633516,
+        113.331,
+        0.66,
+        0.926,
+        0.664,
+        0.427
+    ],
+    "strukturbericht": null,
+    "title": "$\\alpha$-LiSn Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_mP6_10_en_am"
+}

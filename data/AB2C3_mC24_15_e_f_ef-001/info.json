@@ -1,0 +1,40 @@
+{
+    "uid": "JF5W",
+    "prototype": "CLi2O3",
+    "prototype_tex": "CLi$_{2}$O$_{3}$",
+    "label": "AB2C3_mC24_15_e_f_ef-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "y1",
+        "y2",
+        "x3",
+        "y3",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        8.3593,
+        0.594846,
+        0.74139,
+        114.83,
+        0.0657,
+        0.3213,
+        0.6965,
+        0.9484,
+        0.8344,
+        0.1459,
+        0.9365,
+        0.3127
+    ],
+    "strukturbericht": null,
+    "title": "Zabuyelite (Li$_{2}$CO$_{3}$) Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2C3_mC24_15_e_f_ef-001"
+}

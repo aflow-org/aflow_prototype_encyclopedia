@@ -1,0 +1,58 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+
+# Chemical Composition:  NaV2(PO4)2F3
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/ A3BC8D2E2_oC64_36_3a_a_4b_b_2a-001 
+
+# Last updated on 2024/11/06
+
+data_NaV2(PO4)2F3
+_pd_phase_name NaV2(PO4)2F3
+_cell_length_a  8.7822000000
+_cell_length_b  8.7961000000
+_cell_length_c  11.0015000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Cmc2_{1}'
+_symmetry_Int_Tables_Number  36
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z+1/2
+  3  x,-y,z+1/2
+  4  -x,y,z
+  5  x+1/2,y+1/2,z
+  6  -x+1/2,-y+1/2,z+1/2
+  7  x+1/2,-y+1/2,z+1/2
+  8  -x+1/2,y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+F1  1.0000000000 0.0000000000 0.7470000000 0.5200000000  Biso 1.0 F  4 a
+F2  1.0000000000 0.0000000000 0.7400000000 0.8750000000  Biso 1.0 F  4 a
+F3  1.0000000000 0.0000000000 0.7320000000 0.1870000000  Biso 1.0 F  4 a
+Na4 0.8800000000 0.0000000000 0.5710000000 0.0250000000  Biso 1.0 Na 4 a
+V10 1.0000000000 0.0000000000 0.7480000000 0.3380000000  Biso 1.0 V  4 a
+V11 1.0000000000 0.0000000000 0.2510000000 0.1908000000  Biso 1.0 V  4 a
+O5  1.0000000000 0.8570000000 0.5980000000 0.3680000000  Biso 1.0 O  8 b
+O6  1.0000000000 0.3470000000 0.3970000000 0.3610000000  Biso 1.0 O  8 b
+O7  1.0000000000 0.6570000000 0.6000000000 0.1930000000  Biso 1.0 O  8 b
+O8  1.0000000000 0.1630000000 0.4230000000 0.1700000000  Biso 1.0 O  8 b
+P9  1.0000000000 0.2440000000 0.5010000000 0.2760000000  Biso 1.0 P  8 b

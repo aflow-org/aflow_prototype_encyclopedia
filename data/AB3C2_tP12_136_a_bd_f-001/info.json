@@ -1,0 +1,22 @@
+{
+    "uid": "2PDY",
+    "prototype": "BLi3N2",
+    "prototype_tex": "BLi$_{3}$N$_{2}$",
+    "label": "AB3C2_tP12_136_a_bd_f-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x4"
+    ],
+    "parameter_values": [
+        4.6435,
+        1.13259,
+        0.7962
+    ],
+    "strukturbericht": null,
+    "title": "$\\alpha$-Li$_{3}$BN$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3C2_tP12_136_a_bd_f-001"
+}

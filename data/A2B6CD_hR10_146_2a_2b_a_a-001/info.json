@@ -1,0 +1,40 @@
+{
+    "uid": "T7PA",
+    "prototype": "Li2O6TeZr",
+    "prototype_tex": "Li$_{2}$O$_{6}$TeZr",
+    "label": "A2B6CD_hR10_146_2a_2b_a_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3",
+        "x4",
+        "x5",
+        "y5",
+        "z5",
+        "x6",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        5.17204,
+        2.6773,
+        0.71,
+        0.24,
+        0.5,
+        0.007,
+        0.278,
+        0.617,
+        0.874,
+        0.386,
+        0.114,
+        0.772
+    ],
+    "strukturbericht": null,
+    "title": "Li$_{2}$ZrTeO$_{6}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B6CD_hR10_146_2a_2b_a_a-001"
+}

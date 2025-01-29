@@ -1,0 +1,30 @@
+{
+    "uid": "KTDY",
+    "prototype": "Bi3MnRh",
+    "prototype_tex": "Bi$_{3}$MnRh",
+    "label": "A3BC_oC20_65_gq_ac_i-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x3",
+        "y4",
+        "x5",
+        "y5"
+    ],
+    "parameter_values": [
+        13.696,
+        0.64873,
+        0.301621,
+        0.33689,
+        0.3016,
+        0.12399,
+        0.19449
+    ],
+    "strukturbericht": null,
+    "title": "RhMnBi$_{3}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3BC_oC20_65_gq_ac_i-001"
+}

@@ -1,0 +1,27 @@
+{
+    "uid": "MVX2",
+    "prototype": "Cu15Si4",
+    "prototype_tex": "Cu$_{15}$Si$_{4}$",
+    "label": "A15B4_cI76_220_ae_c-001",
+    "parameter_symbol": [
+        "a",
+        "x2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        9.718,
+        0.458,
+        0.12,
+        0.16,
+        0.96
+    ],
+    "strukturbericht": "D8_6",
+    "title": "Cu$_{15}$Si$_{4}$ ($D8_{6}$) Structure",
+    "part": 2,
+    "legacy": false,
+    "strukturbericht_tex": "$D8_{6}$",
+    "compounds": {},
+    "alias": "A15B4_cI76_220_ae_c"
+}

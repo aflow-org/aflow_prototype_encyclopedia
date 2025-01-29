@@ -1,0 +1,30 @@
+{
+    "uid": "9ZDH",
+    "prototype": "Sn4Sr",
+    "prototype_tex": "Sn$_{4}$Sr",
+    "label": "A4B_oC20_63_acf_c-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y2",
+        "y3",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        4.6179,
+        3.76188,
+        1.52888,
+        0.5902,
+        0.38816,
+        0.19586,
+        0.04466
+    ],
+    "strukturbericht": null,
+    "title": "SrSn$_{4}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4B_oC20_63_acf_c-001"
+}

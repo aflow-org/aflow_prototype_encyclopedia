@@ -1,0 +1,34 @@
+{
+    "uid": "7FZR",
+    "prototype": "H2S",
+    "prototype_tex": "H$_{2}$S",
+    "label": "A2B_oC24_64_2f_f-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y1",
+        "z1",
+        "y2",
+        "z2",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        2.9986,
+        1.44314,
+        2.53468,
+        0.372,
+        0.27,
+        0.6,
+        0.092,
+        0.371,
+        0.615
+    ],
+    "strukturbericht": null,
+    "title": "H$_{2}$S (170 GPa) Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_oC24_64_2f_f"
+}

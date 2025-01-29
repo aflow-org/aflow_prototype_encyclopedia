@@ -1,0 +1,29 @@
+{
+    "uid": "QEXW",
+    "prototype": "NaClO3",
+    "prototype_tex": "NaClO$_{3}$",
+    "label": "ABC3_cP20_198_a_a_b-001",
+    "parameter_symbol": [
+        "a",
+        "x1",
+        "x2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        6.57,
+        0.417,
+        0.064,
+        0.303,
+        0.592,
+        0.5
+    ],
+    "strukturbericht": "G0_3",
+    "title": "Sodium Chlorate (NaClO$_{3}$, $G0_{3}$) Structure",
+    "part": 2,
+    "legacy": false,
+    "strukturbericht_tex": "$G0_{3}$",
+    "compounds": {},
+    "alias": "ABC3_cP20_198_a_a_b"
+}

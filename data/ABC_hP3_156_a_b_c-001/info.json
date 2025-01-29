@@ -1,0 +1,26 @@
+{
+    "uid": "Z4FL",
+    "prototype": "BeITe",
+    "prototype_tex": "BeITe",
+    "label": "ABC_hP3_156_a_b_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3"
+    ],
+    "parameter_values": [
+        4.3392,
+        1.57955,
+        0.0,
+        0.251,
+        0.6928
+    ],
+    "strukturbericht": null,
+    "title": "BeTeI Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC_hP3_156_a_b_c-001"
+}

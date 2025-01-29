@@ -1,0 +1,30 @@
+{
+    "uid": "1CBK",
+    "prototype": "La2O7Sc2Sr",
+    "prototype_tex": "La$_{2}$O$_{7}$Sc$_{2}$Sr",
+    "label": "A2B7C2D_oF48_69_g_agl_g_b-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x3",
+        "x4",
+        "x5",
+        "x6"
+    ],
+    "parameter_values": [
+        20.534,
+        0.279376,
+        0.281572,
+        0.3154,
+        0.2074,
+        0.0967,
+        0.1003
+    ],
+    "strukturbericht": null,
+    "title": "SrLa$_{2}$Sc$_{2}$O$_{7}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B7C2D_oF48_69_g_agl_g_b-001"
+}

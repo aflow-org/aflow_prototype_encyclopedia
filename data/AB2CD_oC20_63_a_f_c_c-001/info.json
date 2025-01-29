@@ -1,0 +1,30 @@
+{
+    "uid": "UF5S",
+    "prototype": "CFe2SiTh",
+    "prototype_tex": "CFe$_{2}$SiTh",
+    "label": "AB2CD_oC20_63_a_f_c_c-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y2",
+        "y3",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        3.863,
+        2.79731,
+        1.79912,
+        0.2719,
+        0.55275,
+        0.16585,
+        0.5611
+    ],
+    "strukturbericht": null,
+    "title": "ThFe$_{2}$SiC Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2CD_oC20_63_b_f_c_c"
+}

@@ -1,0 +1,41 @@
+{
+    "uid": "GK2A",
+    "prototype": "O2Te",
+    "prototype_tex": "O$_{2}$Te",
+    "label": "A2B_oP24_61_2c_c-002",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "y1",
+        "z1",
+        "x2",
+        "y2",
+        "z2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        12.035,
+        0.454009,
+        0.465891,
+        0.028,
+        0.634,
+        0.171,
+        0.168,
+        0.221,
+        0.081,
+        0.1181,
+        0.0252,
+        0.3378
+    ],
+    "strukturbericht": "C52",
+    "title": "Tellurite ($\\beta$-TeO$_{2}$, $C52$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$C52$",
+    "compounds": {},
+    "alias": "A2B_oP24_61_2c_c.TeO2"
+}

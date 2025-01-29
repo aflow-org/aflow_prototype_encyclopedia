@@ -1,0 +1,38 @@
+{
+    "uid": "USSD",
+    "prototype": "B2Cu2O6Sr",
+    "prototype_tex": "B$_{2}$Cu$_{2}$O$_{6}$Sr",
+    "label": "A2B2C6D_tI44_121_i_i_ij_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        8.995,
+        0.739188,
+        0.2953,
+        0.243,
+        0.11412,
+        0.2783,
+        0.4004,
+        0.212,
+        0.3276,
+        0.1456,
+        0.254
+    ],
+    "strukturbericht": null,
+    "title": "SrCu$_{2}$(BO$_{3}$)$_{2}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B2C6D_tI44_121_i_i_ij_c"
+}

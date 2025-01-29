@@ -1,0 +1,22 @@
+{
+    "uid": "F4G8",
+    "prototype": "ClCu",
+    "prototype_tex": "ClCu",
+    "label": "AB_cP16_205_c_c-001",
+    "parameter_symbol": [
+        "a",
+        "x1",
+        "x2"
+    ],
+    "parameter_values": [
+        6.4162,
+        0.1527,
+        0.6297
+    ],
+    "strukturbericht": null,
+    "title": "SC16 (CuCl) Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_cP16_205_c_c"
+}

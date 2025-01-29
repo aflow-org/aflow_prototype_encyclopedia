@@ -1,0 +1,38 @@
+{
+    "uid": "72ZM",
+    "prototype": "Li3O6SbZn2",
+    "prototype_tex": "Li$_{3}$O$_{6}$SbZn$_{2}$",
+    "label": "A3B6CD2_mC24_12_ag_ij_c_h-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "y3",
+        "y4",
+        "x5",
+        "z5",
+        "x6",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        5.252,
+        1.71858,
+        1.63439,
+        145.386,
+        0.67,
+        0.333,
+        0.985,
+        0.726,
+        0.472,
+        0.157,
+        0.734
+    ],
+    "strukturbericht": null,
+    "title": "Li$_{3}$Zn$_{2}$SbO$_{6}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B6CD2_mC24_12_ag_ij_c_h-001"
+}

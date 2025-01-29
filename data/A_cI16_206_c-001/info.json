@@ -1,0 +1,20 @@
+{
+    "uid": "83MZ",
+    "prototype": "Si",
+    "prototype_tex": "Si",
+    "label": "A_cI16_206_c-001",
+    "parameter_symbol": [
+        "a",
+        "x1"
+    ],
+    "parameter_values": [
+        4.1197,
+        0.1001
+    ],
+    "strukturbericht": null,
+    "title": "BC8 (Si) Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A_cI16_206_c"
+}

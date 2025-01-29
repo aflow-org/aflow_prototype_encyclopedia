@@ -1,0 +1,67 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  (H2O)2Na2O9Si3Zr catapleiite
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A2B3C9D3E_mC144_15_2f_abcef_9f_3f_de-001
+
+# Last updated on 2024/08/01
+
+data_H16Na24O72Si24Zr8
+_pd_phase_name H16Na24O72Si24Zr8
+_cell_length_a  23.9169982254
+_cell_length_b  7.4320000000
+_cell_length_c  12.8646824564
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  122.6042022252
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'C2/c'
+_symmetry_Int_Tables_Number  15
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y,-z+1/2
+  3  -x,-y,-z
+  4  x,-y,z+1/2
+  5  x+1/2,y+1/2,z
+  6  -x+1/2,y+1/2,-z+1/2
+  7  -x+1/2,-y+1/2,-z
+  8  x+1/2,-y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Na5 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Na 4 a
+Na4 1.0000000000 0.0000000000 0.5000000000 0.0000000000  Biso 1.0 Na 4 b
+Na3 1.0000000000 0.2500000000 0.2500000000 -0.0000000000  Biso 1.0 Na 4 c
+Zr20 1.0000000000 0.2500000000 0.2500000000 0.5000000000  Biso 1.0 Zr 4 d
+Na6 1.0000000000 0.0000000000 0.7559000000 0.2500000000  Biso 1.0 Na 4 e
+Zr21 1.0000000000 0.0000000000 0.2574000000 0.2500000000  Biso 1.0 Zr 4 e
+H1 1.0000000000 0.9547000000 0.2422000000 0.8732000000  Biso 1.0 H 8 f
+H2 1.0000000000 0.2945000000 0.7592000000 0.7074000000  Biso 1.0 H 8 f
+Na7 1.0000000000 0.2519000000 0.4932000000 0.2488000000  Biso 1.0 Na 8 f
+O10 1.0000000000 0.8754000000 0.2455000000 0.5761000000  Biso 1.0 O 8 f
+O11 1.0000000000 0.3074000000 0.4473000000 0.4863000000  Biso 1.0 O 8 f
+O12 1.0000000000 0.9417000000 0.9442000000 0.6276000000  Biso 1.0 O 8 f
+O13 1.0000000000 0.3779000000 0.5721000000 0.4014000000  Biso 1.0 O 8 f
+O14 1.0000000000 0.3083000000 0.0480000000 0.4963000000  Biso 1.0 O 8 f
+O15 1.0000000000 0.9435000000 0.5438000000 0.6245000000  Biso 1.0 O 8 f
+O16 1.0000000000 0.3716000000 0.9238000000 0.3977000000  Biso 1.0 O 8 f
+O8 1.0000000000 0.3072000000 0.2588000000 0.6911000000  Biso 1.0 O 8 f
+O9 1.0000000000 0.9420000000 0.7400000000 0.8254000000  Biso 1.0 O 8 f
+Si17 1.0000000000 0.8745000000 0.4504000000 0.5269000000  Biso 1.0 Si 8 f
+Si18 1.0000000000 0.8757000000 0.0423000000 0.5262000000  Biso 1.0 Si 8 f
+Si19 1.0000000000 0.1251000000 0.7515000000 0.6779000000  Biso 1.0 Si 8 f

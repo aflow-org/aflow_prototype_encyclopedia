@@ -1,0 +1,21 @@
+{
+    "uid": "X143",
+    "prototype": "Ag3O4P",
+    "prototype_tex": "Ag$_{3}$O$_{4}$P",
+    "label": "A3B4C_cP16_218_c_e_a-001",
+    "parameter_symbol": [
+        "a",
+        "x3"
+    ],
+    "parameter_values": [
+        6.026,
+        0.6486
+    ],
+    "strukturbericht": "H2_1",
+    "title": "Ag$_{3}$(PO$_{4}$) ($H2_{1}$) Structure",
+    "part": 2,
+    "legacy": false,
+    "strukturbericht_tex": "$H2_{1}$",
+    "compounds": {},
+    "alias": "A3B4C_cP16_218_c_e_a"
+}

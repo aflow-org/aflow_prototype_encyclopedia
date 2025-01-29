@@ -1,0 +1,28 @@
+{
+    "uid": "KF6U",
+    "prototype": "Ba4Ga8Sn15",
+    "prototype_tex": "Ba$_{4}$Ga$_{8}$Sn$_{15}$",
+    "label": "A13B3C8D12_cP72_223_ak_c_i_k-001",
+    "parameter_symbol": [
+        "a",
+        "x3",
+        "y4",
+        "z4",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        11.685,
+        0.18435,
+        0.2563,
+        0.53656,
+        0.31227,
+        0.11871
+    ],
+    "strukturbericht": null,
+    "title": "$\\beta$-Ba$_{8}$Ga$_{16}$Sn$_{30}$ Clathrate Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A13B3C8D12_cP72_223_ak_c_i_k-001"
+}

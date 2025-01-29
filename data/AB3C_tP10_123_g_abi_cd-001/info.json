@@ -1,0 +1,24 @@
+{
+    "uid": "2HYS",
+    "prototype": "IrSrO3",
+    "prototype_tex": "IrSrO$_{3}$",
+    "label": "AB3C_tP10_123_g_abi_cd-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z5",
+        "z6"
+    ],
+    "parameter_values": [
+        3.9362,
+        2.001931,
+        0.25009,
+        0.248
+    ],
+    "strukturbericht": null,
+    "title": "$\\gamma$-SrIrO$_{3}$ Double Perovskite Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3C_tP10_123_g_abi_cd-001"
+}

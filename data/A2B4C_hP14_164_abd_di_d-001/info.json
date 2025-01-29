@@ -1,0 +1,30 @@
+{
+    "uid": "DBUP",
+    "prototype": "Ca2O4Si",
+    "prototype_tex": "Ca$_{2}$O$_{4}$Si",
+    "label": "A2B4C_hP14_164_abd_di_d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4",
+        "z5",
+        "x6",
+        "z6"
+    ],
+    "parameter_values": [
+        5.532,
+        1.32448,
+        0.7477,
+        0.0176,
+        0.2314,
+        0.174903,
+        0.2928
+    ],
+    "strukturbericht": null,
+    "title": "Trigonal $\\alpha$-Ca$_{2}$SiO$_{4}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B4C_hP14_164_abd_di_d-001"
+}

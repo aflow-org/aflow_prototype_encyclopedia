@@ -1,0 +1,50 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  NiTh
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/AB_oP16_62_2c_2c-002
+
+# Last updated on 2024/08/01
+
+data_Ni8Th8
+_pd_phase_name Ni8Th8
+_cell_length_a  14.1460000000
+_cell_length_b  4.2860000000
+_cell_length_c  5.7020000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pnma'
+_symmetry_Int_Tables_Number  62
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z+1/2
+  3  -x,y+1/2,-z
+  4  x+1/2,-y+1/2,-z+1/2
+  5  -x,-y,-z
+  6  x+1/2,y,-z+1/2
+  7  x,-y+1/2,z
+  8  -x+1/2,y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Ni1 1.0000000000 0.3543000000 0.2500000000 0.0310000000  Biso 1.0 Ni 4 c
+Ni2 1.0000000000 0.1050000000 0.2500000000 0.2560000000  Biso 1.0 Ni 4 c
+Th3 1.0000000000 0.2847000000 0.2500000000 0.5366000000  Biso 1.0 Th 4 c
+Th4 1.0000000000 0.0344000000 0.2500000000 0.7479000000  Biso 1.0 Th 4 c

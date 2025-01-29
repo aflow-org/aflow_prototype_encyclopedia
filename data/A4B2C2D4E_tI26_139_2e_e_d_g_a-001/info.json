@@ -1,0 +1,28 @@
+{
+    "uid": "YU5Q",
+    "prototype": "As4Ca2F2Fe4K",
+    "prototype_tex": "As$_{4}$Ca$_{2}$F$_{2}$Fe$_{4}$K",
+    "label": "A4B2C2D4E_tI26_139_2e_e_d_g_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4",
+        "z5",
+        "z6"
+    ],
+    "parameter_values": [
+        3.8684,
+        8.01546,
+        0.5655,
+        0.1571,
+        0.7085,
+        0.6108
+    ],
+    "strukturbericht": null,
+    "title": "KCa$_{2}$Fe$_{4}$As$_{4}$F$_{2}$ Structure (12442-type superconductor)",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4B2C2D4E_tI26_139_2e_e_d_g_a-001"
+}

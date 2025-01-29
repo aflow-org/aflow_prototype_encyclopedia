@@ -1,0 +1,28 @@
+{
+    "uid": "ZCCT",
+    "prototype": "BPS4",
+    "prototype_tex": "BPS$_{4}$",
+    "label": "ABC4_oI12_23_a_b_k-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        5.25,
+        1.7219,
+        1.06667,
+        0.79,
+        0.885,
+        0.2
+    ],
+    "strukturbericht": null,
+    "title": "BPS$_{4}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC4_oI12_23_a_b_k"
+}

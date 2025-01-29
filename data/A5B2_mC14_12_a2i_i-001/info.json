@@ -1,0 +1,36 @@
+{
+    "uid": "9H7D",
+    "prototype": "Au5Mn2",
+    "prototype_tex": "Au$_{5}$Mn$_{2}$",
+    "label": "A5B2_mC14_12_a2i_i-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x2",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        9.188,
+        0.430344,
+        0.705159,
+        97.56,
+        0.14286,
+        0.42857,
+        0.71429,
+        0.14286,
+        0.57143,
+        0.71429
+    ],
+    "strukturbericht": null,
+    "title": "Au$_{5}$Mn$_{2}$ Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A5B2_mC14_12_a2i_i"
+}

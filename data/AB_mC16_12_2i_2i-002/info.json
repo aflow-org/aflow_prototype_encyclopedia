@@ -1,0 +1,40 @@
+{
+    "uid": "DA8J",
+    "prototype": "BiI",
+    "prototype_tex": "BiI",
+    "label": "AB_mC16_12_2i_2i-002",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        14.386,
+        0.308842,
+        0.72939,
+        107.87,
+        0.175,
+        0.9845,
+        0.8007,
+        0.7156,
+        0.4625,
+        0.7832,
+        0.1404,
+        0.6153
+    ],
+    "strukturbericht": null,
+    "title": "$\\beta$-BiI Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_mC16_12_2i_2i-002"
+}

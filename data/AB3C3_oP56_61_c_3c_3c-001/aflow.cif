@@ -1,0 +1,53 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  AsS3Tl3
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/AB3C3_oP56_61_c_3c_3c-001
+
+# Last updated on 2024/08/01
+
+data_As8S24Tl24
+_pd_phase_name As8S24Tl24
+_cell_length_a  5.6950000000
+_cell_length_b  12.2050000000
+_cell_length_c  21.6340000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pbca'
+_symmetry_Int_Tables_Number  61
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z+1/2
+  3  -x,y+1/2,-z+1/2
+  4  x+1/2,-y+1/2,-z
+  5  -x,-y,-z
+  6  x+1/2,y,-z+1/2
+  7  x,-y+1/2,z+1/2
+  8  -x+1/2,y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+As1 1.0000000000 0.4570000000 0.9475000000 0.0846000000  Biso 1.0 As 8 c
+S2 1.0000000000 0.3686000000 0.1268000000 0.0901000000  Biso 1.0 S 8 c
+S3 1.0000000000 0.1200000000 0.3929000000 0.1822000000  Biso 1.0 S 8 c
+S4 1.0000000000 0.8478000000 0.9427000000 0.0842000000  Biso 1.0 S 8 c
+Tl5 1.0000000000 0.5880000000 0.2237000000 0.6844000000  Biso 1.0 Tl 8 c
+Tl6 1.0000000000 0.0872000000 0.6710000000 0.4745000000  Biso 1.0 Tl 8 c
+Tl7 1.0000000000 0.0425000000 0.4305000000 0.6917000000  Biso 1.0 Tl 8 c

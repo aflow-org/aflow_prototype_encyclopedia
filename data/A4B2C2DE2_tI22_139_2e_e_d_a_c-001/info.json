@@ -1,0 +1,26 @@
+{
+    "uid": "8C3Q",
+    "prototype": "As4Ba2Fe2OTi2",
+    "prototype_tex": "As$_{4}$Ba$_{2}$Fe$_{2}$OTi$_{2}$",
+    "label": "A4B2C2DE2_tI22_139_2e_e_d_a_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z4",
+        "z5",
+        "z6"
+    ],
+    "parameter_values": [
+        4.0276,
+        6.78918,
+        0.2996,
+        0.5645,
+        0.1321
+    ],
+    "strukturbericht": null,
+    "title": "Ba$_{2}$Ti$_{2}$Fe$_{2}$As$_{4}$O Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4B2C2DE2_tI22_139_2e_e_d_a_c-001"
+}

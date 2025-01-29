@@ -1,0 +1,36 @@
+{
+    "uid": "8Z24",
+    "prototype": "C8H8",
+    "prototype_tex": "C$_{8}$H$_{8}$",
+    "label": "AB_hR16_148_cf_cf-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3",
+        "y3",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        6.29713,
+        1.86333,
+        0.11546,
+        0.21,
+        0.10706,
+        0.81289,
+        0.19519,
+        0.1848,
+        0.6754,
+        0.3468
+    ],
+    "strukturbericht": null,
+    "title": "Solid Cubane (C$_{8}$H$_{8}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_hR16_148_cf_cf"
+}

@@ -1,0 +1,35 @@
+{
+    "uid": "NJ0X",
+    "prototype": "Br2Sr",
+    "prototype_tex": "Br$_{2}$Sr",
+    "label": "A2B_oP12_62_2c_c-010",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "z3"
+    ],
+    "parameter_values": [
+        11.42,
+        0.376532,
+        0.805604,
+        0.103,
+        0.119,
+        0.614,
+        0.842,
+        0.811,
+        0.108
+    ],
+    "strukturbericht": "C53",
+    "title": "$C53$ (SrBr$_{2}$) Structure ({\\em Obsolete})",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$C53$",
+    "compounds": {},
+    "alias": "A2B_oP12_62_2c_c.SrBr2"
+}

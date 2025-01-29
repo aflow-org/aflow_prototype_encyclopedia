@@ -1,0 +1,54 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Cr5Se8Tl
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A5B8C_mC28_12_a2i_4i_c-001
+
+# Last updated on 2024/08/01
+
+data_Cr10Se16Tl2
+_pd_phase_name Cr10Se16Tl2
+_cell_length_a  22.3951100000
+_cell_length_b  3.6115000000
+_cell_length_c  18.5896100000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  157.0970400000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'C2/m'
+_symmetry_Int_Tables_Number  12
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y,-z
+  3  -x,-y,-z
+  4  x,-y,z
+  5  x+1/2,y+1/2,z
+  6  -x+1/2,y+1/2,-z
+  7  -x+1/2,-y+1/2,-z
+  8  x+1/2,-y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Cr1 1.0000000000 0.0000000000 -0.0000000000 0.0000000000  Biso 1.0 Cr 2 a
+Tl8 1.0000000000 -0.0000000000 0.0000000000 0.5000000000  Biso 1.0 Tl 2 c
+Cr2 1.0000000000 0.6749200000 -0.0000000000 0.3323700000  Biso 1.0 Cr 4 i
+Cr3 1.0000000000 0.6295200000 0.0000000000 0.9246000000  Biso 1.0 Cr 4 i
+Se4 1.0000000000 0.4120800000 -0.0000000000 0.9857700000  Biso 1.0 Se 4 i
+Se5 1.0000000000 0.9180400000 -0.0000000000 0.6783800000  Biso 1.0 Se 4 i
+Se6 1.0000000000 0.3253000000 -0.0000000000 0.1572300000  Biso 1.0 Se 4 i
+Se7 1.0000000000 0.2639500000 0.0000000000 0.3492100000  Biso 1.0 Se 4 i

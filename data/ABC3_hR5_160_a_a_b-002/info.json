@@ -1,0 +1,28 @@
+{
+    "uid": "V4KY",
+    "prototype": "KNO3",
+    "prototype_tex": "KNO$_{3}$",
+    "label": "ABC3_hR5_160_a_a_b-002",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3",
+        "z3"
+    ],
+    "parameter_values": [
+        5.48699,
+        1.66867,
+        0.0,
+        0.405,
+        0.565,
+        0.172
+    ],
+    "strukturbericht": null,
+    "title": "$\\gamma$-Potassium Nitrate (KNO$_{3}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC3_hR5_160_a_a_b"
+}

@@ -1,0 +1,24 @@
+{
+    "uid": "FG79",
+    "prototype": "Ce2O2S",
+    "prototype_tex": "Ce$_{2}$O$_{2}$S",
+    "label": "A2B2C_hP5_164_d_d_a-002",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "z3"
+    ],
+    "parameter_values": [
+        4.0,
+        1.705,
+        0.29,
+        0.64
+    ],
+    "strukturbericht": null,
+    "title": "Ce$_{2}$O$_{2}$S Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B2C_hP5_164_d_d_a"
+}

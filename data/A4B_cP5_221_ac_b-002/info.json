@@ -1,0 +1,19 @@
+{
+    "uid": "TEA9",
+    "prototype": "Fe4N",
+    "prototype_tex": "Fe$_{4}$N",
+    "label": "A4B_cP5_221_ac_b-002",
+    "parameter_symbol": [
+        "a"
+    ],
+    "parameter_values": [
+        3.79
+    ],
+    "strukturbericht": "L'1_0",
+    "title": "$\\gamma$'-Fe$_{4}$N ($L'1_{0}$) Structure",
+    "part": 4,
+    "legacy": false,
+    "strukturbericht_tex": "$L'1_{0}$",
+    "compounds": {},
+    "alias": "A4B_cP5_221_ac_b-002"
+}

@@ -1,0 +1,36 @@
+{
+    "uid": "2EBJ",
+    "prototype": "Ba2Cu4O8Y",
+    "prototype_tex": "Ba$_{2}$Cu$_{4}$O$_{8}$Y",
+    "label": "A2B4C8D_oC30_65_h_2g_3gh_c-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x2",
+        "x3",
+        "x4",
+        "x5",
+        "x6",
+        "x7",
+        "x8"
+    ],
+    "parameter_values": [
+        27.263,
+        0.142171,
+        0.141048,
+        0.21298,
+        0.06153,
+        0.14545,
+        0.55236,
+        0.71801,
+        0.63483,
+        0.05228
+    ],
+    "strukturbericht": null,
+    "title": "``124 Superconductor'' (YBa$_{2}$Cu$_{4}$O$_{8}$) Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B4C8D_oC30_65_h_2g_3gh_c-001"
+}

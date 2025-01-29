@@ -1,0 +1,40 @@
+{
+    "uid": "MTF0",
+    "prototype": "C",
+    "prototype_tex": "C",
+    "label": "A_mC16_12_4i-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        9.089,
+        0.274618,
+        1.146,
+        156.977,
+        0.0634,
+        0.1206,
+        0.7886,
+        0.3467,
+        0.7264,
+        0.9406,
+        0.6864,
+        0.4149
+    ],
+    "strukturbericht": null,
+    "title": "M-carbon Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A_mC16_12_4i"
+}

@@ -1,0 +1,31 @@
+{
+    "uid": "YNQK",
+    "prototype": "O2Se",
+    "prototype_tex": "O$_{2}$Se",
+    "label": "A2B_tP24_135_gh_h-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "y2",
+        "x3",
+        "y3"
+    ],
+    "parameter_values": [
+        8.3218,
+        0.607333,
+        0.36248,
+        0.94211,
+        0.17358,
+        0.13396,
+        0.20929
+    ],
+    "strukturbericht": "C47",
+    "title": "Downeyite ($\\alpha$-SeO$_{2}$, $C47$) Structure",
+    "part": 2,
+    "legacy": false,
+    "strukturbericht_tex": "$C47$",
+    "compounds": {},
+    "alias": "A2B_tP24_135_gh_h"
+}

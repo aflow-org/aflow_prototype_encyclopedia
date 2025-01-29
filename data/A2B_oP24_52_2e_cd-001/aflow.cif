@@ -1,0 +1,50 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Cl2Ga
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A2B_oP24_52_2e_cd-001
+
+# Last updated on 2024/08/01
+
+data_Cl16Ga8
+_pd_phase_name Cl16Ga8
+_cell_length_a  7.2235000000
+_cell_length_b  9.7211000000
+_cell_length_c  9.5421000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pnna'
+_symmetry_Int_Tables_Number  52
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z
+  3  -x+1/2,y+1/2,-z+1/2
+  4  x,-y+1/2,-z+1/2
+  5  -x,-y,-z
+  6  x+1/2,y,-z
+  7  x+1/2,-y+1/2,z+1/2
+  8  -x,y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Ga3 1.0000000000 0.2500000000 0.0000000000 0.3175000000  Biso 1.0 Ga 4 c
+Ga4 1.0000000000 0.6759000000 0.2500000000 0.2500000000  Biso 1.0 Ga 4 d
+Cl1 1.0000000000 0.8271000000 0.1762000000 0.5576000000  Biso 1.0 Cl 8 e
+Cl2 1.0000000000 0.5093000000 0.0419000000 0.8142000000  Biso 1.0 Cl 8 e

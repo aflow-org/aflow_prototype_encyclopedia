@@ -1,0 +1,30 @@
+{
+    "uid": "L1XR",
+    "prototype": "C7V8",
+    "prototype_tex": "C$_{7}$V$_{8}$",
+    "label": "A7B8_cP60_212_a2d_ce-001",
+    "parameter_symbol": [
+        "a",
+        "x2",
+        "y3",
+        "y4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        8.34027,
+        0.3705,
+        0.6296,
+        0.3254,
+        0.1216,
+        0.3811,
+        0.1326
+    ],
+    "strukturbericht": null,
+    "title": "V$_{8}$C$_{7}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A7B8_cP60_212_a2d_ce-001"
+}

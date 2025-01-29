@@ -1,0 +1,38 @@
+{
+    "uid": "94E5",
+    "prototype": "AlLi3P2",
+    "prototype_tex": "AlLi$_{3}$P$_{2}$",
+    "label": "AB3C2_oC48_64_d_dg_ef-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "x2",
+        "y3",
+        "y4",
+        "z4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        11.5138,
+        1.02168,
+        0.505498,
+        0.1315,
+        0.384,
+        0.385,
+        0.1175,
+        0.2138,
+        0.6237,
+        0.7429,
+        0.4805
+    ],
+    "strukturbericht": null,
+    "title": "Experimental Li$_{3}$AlP$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3C2_oC48_64_d_dg_ef-001"
+}

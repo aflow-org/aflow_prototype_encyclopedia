@@ -1,0 +1,26 @@
+{
+    "uid": "JF25",
+    "prototype": "P3Sn",
+    "prototype_tex": "P$_{3}$Sn",
+    "label": "A3B_hR8_166_h_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "z2"
+    ],
+    "parameter_values": [
+        7.378,
+        1.42478,
+        0.7424,
+        0.2033,
+        0.745
+    ],
+    "strukturbericht": null,
+    "title": "SnP$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B_hR8_166_h_c-001"
+}

@@ -1,0 +1,42 @@
+{
+    "uid": "XHKF",
+    "prototype": "O3PbZr",
+    "prototype_tex": "O$_{3}$PbZr",
+    "label": "A3BC_mC10_8_ab_a_a-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        5.722,
+        0.997833,
+        1.23902,
+        144.308,
+        0.4521,
+        0.9006,
+        0.0,
+        0.0,
+        0.9722,
+        0.4492,
+        0.6609,
+        0.2434,
+        0.3729
+    ],
+    "strukturbericht": null,
+    "title": "Monoclinic PZT [Pb(Zr$_{x}$Ti$_{1-x}$)O$_{3}$] Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3BC_mC10_8_ab_a_a"
+}

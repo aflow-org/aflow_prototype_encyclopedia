@@ -1,0 +1,21 @@
+{
+    "uid": "WCVT",
+    "prototype": "Cu3S4V",
+    "prototype_tex": "Cu$_{3}$S$_{4}$V",
+    "label": "A3B4C_cP8_215_c_e_b-001",
+    "parameter_symbol": [
+        "a",
+        "x3"
+    ],
+    "parameter_values": [
+        5.3912,
+        0.7372
+    ],
+    "strukturbericht": "H2_4",
+    "title": "Sulvanite (Cu$_{3}$S$_{4}$V, $H2_{4}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$H2_{4}$",
+    "compounds": {},
+    "alias": "A3B4C_cP8_215_d_e_a"
+}

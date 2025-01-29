@@ -1,0 +1,22 @@
+{
+    "uid": "N538",
+    "prototype": "FeSi2",
+    "prototype_tex": "FeSi$_2$",
+    "label": "AB2_tP3_123_a_h-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2"
+    ],
+    "parameter_values": [
+        2.684,
+        1.91058,
+        0.27
+    ],
+    "strukturbericht": null,
+    "title": "Linzhiite (High Temperature FeSi$_2$) Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2_tP3_123_a_h-001"
+}

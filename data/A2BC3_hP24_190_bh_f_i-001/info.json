@@ -1,0 +1,32 @@
+{
+    "uid": "Z6A0",
+    "prototype": "Er2RhSi3",
+    "prototype_tex": "Er$_{2}$RhSi$_{3}$",
+    "label": "A2BC3_hP24_190_bh_f_i-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "x3",
+        "y3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        8.036,
+        0.959681,
+        0.0,
+        0.481,
+        0.019,
+        0.167,
+        0.333,
+        0.0
+    ],
+    "strukturbericht": null,
+    "title": "Er$_{2}$RhSi$_{3}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BC3_hP24_190_bh_f_i-001"
+}

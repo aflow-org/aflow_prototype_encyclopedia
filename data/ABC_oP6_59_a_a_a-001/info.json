@@ -1,0 +1,28 @@
+{
+    "uid": "Z1TY",
+    "prototype": "CClN",
+    "prototype_tex": "CClN",
+    "label": "ABC_oP6_59_a_a_a-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z1",
+        "z2",
+        "z3"
+    ],
+    "parameter_values": [
+        5.68,
+        0.700704,
+        1.01056,
+        0.1499,
+        0.4237,
+        0.6255
+    ],
+    "strukturbericht": null,
+    "title": "CNCl Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC_oP6_59_a_a_a"
+}

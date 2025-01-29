@@ -1,0 +1,42 @@
+{
+    "uid": "0KJ3",
+    "prototype": "In6Si4Tb11",
+    "prototype_tex": "In$_{6}$Si$_{4}$Tb$_{11}$",
+    "label": "A6B4C11_tI84_139_hm_dei_eh2n-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "z3",
+        "x4",
+        "x5",
+        "x6",
+        "x7",
+        "z7",
+        "y8",
+        "z8",
+        "y9",
+        "z9"
+    ],
+    "parameter_values": [
+        11.5194,
+        1.40164,
+        0.89,
+        0.669,
+        0.6304,
+        0.8275,
+        0.655,
+        0.2044,
+        0.6699,
+        0.2562,
+        0.814,
+        0.3438,
+        0.6013
+    ],
+    "strukturbericht": null,
+    "title": "Tb$_{11}$Si$_{4}$In$_{6}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A6B4C11_tI84_139_hm_dei_eh2n-001"
+}

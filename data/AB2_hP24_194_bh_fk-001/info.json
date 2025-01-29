@@ -1,0 +1,28 @@
+{
+    "uid": "YM9E",
+    "prototype": "NbSe2",
+    "prototype_tex": "NbSe$_{2}$",
+    "label": "AB2_hP24_194_bh_fk-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "x3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        6.88,
+        1.81424,
+        0.6178,
+        0.4967,
+        0.1678,
+        0.116
+    ],
+    "strukturbericht": null,
+    "title": "Low Temperature NbSe$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2_hP24_194_bh_fk-001"
+}

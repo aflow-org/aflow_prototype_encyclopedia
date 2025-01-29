@@ -1,0 +1,26 @@
+{
+    "uid": "NFNJ",
+    "prototype": "Na11O16U5",
+    "prototype_tex": "Na$_{11}$O$_{16}$U$_{5}$",
+    "label": "A11B16C5_cP64_208_bfh_adm_ce-001",
+    "parameter_symbol": [
+        "a",
+        "x7",
+        "x8",
+        "y8",
+        "z8"
+    ],
+    "parameter_values": [
+        9.543,
+        0.25,
+        0.25,
+        0.25,
+        0.52
+    ],
+    "strukturbericht": null,
+    "title": "Na$_{11}$U$_{5}$O$_{16}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A11B16C5_cP64_208_bfh_adm_ce-001"
+}

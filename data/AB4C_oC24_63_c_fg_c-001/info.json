@@ -1,0 +1,35 @@
+{
+    "uid": "EHW6",
+    "prototype": "CaO4Si",
+    "prototype_tex": "CaO$_{4}$Si",
+    "label": "AB4C_oC24_63_c_fg_c-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y1",
+        "y2",
+        "y3",
+        "z3",
+        "x4",
+        "y4"
+    ],
+    "parameter_values": [
+        6.995,
+        0.892781,
+        0.999714,
+        0.6524,
+        0.15556,
+        0.7025,
+        0.9181,
+        0.6699,
+        0.5162
+    ],
+    "strukturbericht": "H0_1",
+    "title": "Anhydrite (CaSO$_{4}$, $H0_{1}$) Structure",
+    "part": 2,
+    "legacy": false,
+    "strukturbericht_tex": "$H0_{1}$",
+    "compounds": {},
+    "alias": "AB4C_oC24_63_c_fg_c"
+}

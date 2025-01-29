@@ -1,0 +1,56 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Au2C4CoN4
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A2B4CD4_hP66_181_k_2k_f_2k-001
+
+# Last updated on 2024/08/01
+
+data_Au12C24Co6N24
+_pd_phase_name Au12C24Co6N24
+_cell_length_a  8.4340000000
+_cell_length_b  8.4340000000
+_cell_length_c  20.6950000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  120.0000000000
+_symmetry_space_group_name_H-M  'P6_{4}22'
+_symmetry_Int_Tables_Number  181
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -y,x-y,z+1/3
+  3  -x+y,-x,z+2/3
+  4  -x,-y,z
+  5  y,-x+y,z+1/3
+  6  x-y,x,z+2/3
+  7  y,x,-z+1/3
+  8  x-y,-y,-z
+  9  -x,-x+y,-z+2/3
+  10  -y,-x,-z+1/3
+  11  -x+y,y,-z
+  12  x,x-y,-z+2/3
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Co4 1.0000000000 0.5000000000 -0.0000000000 0.3741000000  Biso 1.0 Co 6 f
+Au1 1.0000000000 0.3163300000 0.0005800000 0.1259300000  Biso 1.0 Au 12 k
+C2 1.0000000000 0.2180000000 0.8204000000 0.0532000000  Biso 1.0 C 12 k
+C3 1.0000000000 0.3937000000 0.1902000000 0.1951000000  Biso 1.0 C 12 k
+N5 1.0000000000 0.1400000000 0.7081000000 0.0172000000  Biso 1.0 N 12 k
+N6 1.0000000000 0.4484000000 0.2895000000 0.2361000000  Biso 1.0 N 12 k

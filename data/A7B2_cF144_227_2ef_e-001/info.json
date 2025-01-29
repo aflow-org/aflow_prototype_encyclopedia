@@ -1,0 +1,26 @@
+{
+    "uid": "WYVV",
+    "prototype": "Dy5Pd2",
+    "prototype_tex": "Dy$_{5}$Pd$_{2}$",
+    "label": "A7B2_cF144_227_2ef_e-001",
+    "parameter_symbol": [
+        "a",
+        "x1",
+        "x2",
+        "x3",
+        "x4"
+    ],
+    "parameter_values": [
+        13.529,
+        0.5235,
+        0.6673,
+        0.7275,
+        0.3111
+    ],
+    "strukturbericht": null,
+    "title": "Dy$_{5}$Pd$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A7B2_cF144_227_2ef_e-001"
+}

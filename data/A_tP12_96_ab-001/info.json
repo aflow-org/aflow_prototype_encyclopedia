@@ -1,0 +1,28 @@
+{
+    "uid": "YUU3",
+    "prototype": "Si",
+    "prototype_tex": "Si",
+    "label": "A_tP12_96_ab-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "y2",
+        "z2"
+    ],
+    "parameter_values": [
+        5.5189,
+        1.26,
+        0.0849,
+        0.1752,
+        0.3792,
+        0.2742
+    ],
+    "strukturbericht": null,
+    "title": "``ST12'' Structure of Si",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A_tP12_96_ab"
+}

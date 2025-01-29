@@ -1,0 +1,69 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Al3KMg2O15Si12 osumilite
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A3BC2D30E12_hP96_192_f_a_c_l2m_m-001
+
+# Last updated on 2024/08/02
+
+data_Al6K2Mg4O60Si24
+_pd_phase_name Al6K2Mg4O60Si24
+_cell_length_a  10.0860000000
+_cell_length_b  10.0860000000
+_cell_length_c  14.3250000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  120.0000000000
+_symmetry_space_group_name_H-M  'P6/mcc'
+_symmetry_Int_Tables_Number  192
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -y,x-y,z
+  3  -x+y,-x,z
+  4  -x,-y,z
+  5  y,-x+y,z
+  6  x-y,x,z
+  7  y,x,-z+1/2
+  8  x-y,-y,-z+1/2
+  9  -x,-x+y,-z+1/2
+  10  -y,-x,-z+1/2
+  11  -x+y,y,-z+1/2
+  12  x,x-y,-z+1/2
+  13  -x,-y,-z
+  14  y,-x+y,-z
+  15  x-y,x,-z
+  16  x,y,-z
+  17  -y,x-y,-z
+  18  -x+y,-x,-z
+  19  -y,-x,z+1/2
+  20  -x+y,y,z+1/2
+  21  x,x-y,z+1/2
+  22  y,x,z+1/2
+  23  x-y,-y,z+1/2
+  24  -x,-x+y,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+K2 1.0000000000 0.0000000000 -0.0000000000 0.2500000000  Biso 1.0 K 2 a
+Mg3 1.0000000000 0.3333300000 0.6666700000 0.2500000000  Biso 1.0 Mg 4 c
+Al1 1.0000000000 0.5000000000 0.0000000000 0.2500000000  Biso 1.0 Al 6 f
+O4 1.0000000000 0.1229000000 0.4079000000 0.0000000000  Biso 1.0 O 12 l
+O5 1.0000000000 0.2166000000 0.2847000000 0.1320000000  Biso 1.0 O 24 m
+O6 1.0000000000 0.1398000000 0.4934000000 0.1790000000  Biso 1.0 O 24 m
+Si7 1.0000000000 0.2482100000 0.3535900000 0.3920600000  Biso 1.0 Si 24 m

@@ -1,0 +1,23 @@
+{
+    "uid": "9SK5",
+    "prototype": "Ge7Ir3",
+    "prototype_tex": "Ge$_{7}$Ir$_{3}$",
+    "label": "A7B3_cI40_229_df_e-001",
+    "parameter_symbol": [
+        "a",
+        "x2",
+        "x3"
+    ],
+    "parameter_values": [
+        8.735,
+        0.658,
+        0.156
+    ],
+    "strukturbericht": "D8_f",
+    "title": "Ir$_{3}$Ge$_{7}$ ($D8_{f}$) Structure",
+    "part": 2,
+    "legacy": false,
+    "strukturbericht_tex": "$D8_{f}$",
+    "compounds": {},
+    "alias": "A7B3_cI40_229_df_e"
+}

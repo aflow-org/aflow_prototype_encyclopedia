@@ -1,0 +1,22 @@
+{
+    "uid": "Y8C3",
+    "prototype": "CuFeO2",
+    "prototype_tex": "CuFeO$_{2}$",
+    "label": "ABC2_hR4_166_a_b_c-004",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3"
+    ],
+    "parameter_values": [
+        3.0351,
+        5.65583,
+        0.1066
+    ],
+    "strukturbericht": null,
+    "title": "Rhombohedral Delafossite (CuFeO$_{2}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC2_hR4_166_a_b_c.CuFeO2"
+}

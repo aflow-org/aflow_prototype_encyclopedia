@@ -1,0 +1,22 @@
+{
+    "uid": "NXUA",
+    "prototype": "C",
+    "prototype_tex": "C",
+    "label": "A_hR2_166_c-002",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1"
+    ],
+    "parameter_values": [
+        2.456,
+        4.08958,
+        0.83333
+    ],
+    "strukturbericht": null,
+    "title": "Rhombohedral Graphite Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A_hR2_166_c.C"
+}

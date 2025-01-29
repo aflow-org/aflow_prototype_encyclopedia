@@ -1,0 +1,61 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  O9P2VZn2
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A9B2CD2_tI56_108_a2cd_c_a_c-001
+
+# Last updated on 2024/08/01
+
+data_O36P8V4Zn8
+_pd_phase_name O36P8V4Zn8
+_cell_length_a  8.9227000000
+_cell_length_b  8.9227000000
+_cell_length_c  9.0390000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'I4cm'
+_symmetry_Int_Tables_Number  108
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  -y,x,z
+  4  y,-x,z
+  5  x,-y,z+1/2
+  6  -x,y,z+1/2
+  7  -y,-x,z+1/2
+  8  y,x,z+1/2
+  9  x+1/2,y+1/2,z+1/2
+  10  -x+1/2,-y+1/2,z+1/2
+  11  -y+1/2,x+1/2,z+1/2
+  12  y+1/2,-x+1/2,z+1/2
+  13  x+1/2,-y+1/2,z
+  14  -x+1/2,y+1/2,z
+  15  -y+1/2,-x+1/2,z
+  16  y+1/2,x+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+O1 1.0000000000 0.0000000000 0.0000000000 0.4275000000  Biso 1.0 O 4 a
+V6 1.0000000000 0.0000000000 0.0000000000 0.1011000000  Biso 1.0 V 4 a
+O2 1.0000000000 0.6518000000 0.1518000000 0.4690000000  Biso 1.0 O 8 c
+O3 1.0000000000 0.1040000000 0.6040000000 0.2369000000  Biso 1.0 O 8 c
+P5 1.0000000000 0.6933500000 0.1933500000 0.6204000000  Biso 1.0 P 8 c
+Zn7 1.0000000000 0.6181000000 0.1181000000 0.2634800000  Biso 1.0 Zn 8 c
+O4 1.0000000000 0.8271000000 0.1355000000 0.1548000000  Biso 1.0 O 16 d

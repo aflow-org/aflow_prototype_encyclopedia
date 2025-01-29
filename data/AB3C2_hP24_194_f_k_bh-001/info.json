@@ -1,0 +1,28 @@
+{
+    "uid": "0GA4",
+    "prototype": "CoGa3Lu2",
+    "prototype_tex": "CoGa$_{3}$Lu$_{2}$",
+    "label": "AB3C2_hP24_194_f_k_bh-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "x3",
+        "x4",
+        "z4"
+    ],
+    "parameter_values": [
+        8.659,
+        0.787966,
+        0.05,
+        0.523103,
+        0.169203,
+        0.0432
+    ],
+    "strukturbericht": null,
+    "title": "Lu$_{2}$CoGa$_{3}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3C2_hP24_194_f_k_bh"
+}

@@ -1,0 +1,28 @@
+{
+    "uid": "NQGP",
+    "prototype": "BCU",
+    "prototype_tex": "BCU",
+    "label": "ABC_oC12_63_c_c_c-004",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y1",
+        "y2",
+        "y3"
+    ],
+    "parameter_values": [
+        3.5899,
+        3.33658,
+        0.932422,
+        0.4624,
+        0.3357,
+        0.1386
+    ],
+    "strukturbericht": null,
+    "title": "UBC Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC_oC12_63_c_c_c-004"
+}

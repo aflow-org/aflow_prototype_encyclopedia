@@ -1,0 +1,48 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  O3TeTl2
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A3BC2_mP24_14_3e_e_2e-001
+
+# Last updated on 2024/08/01
+
+data_O12Te4Tl8
+_pd_phase_name O12Te4Tl8
+_cell_length_a  8.9752000000
+_cell_length_b  4.8534000000
+_cell_length_c  11.8840000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  109.6700000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P2_{1}/c'
+_symmetry_Int_Tables_Number  14
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y+1/2,-z+1/2
+  3  -x,-y,-z
+  4  x,-y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+O1 1.0000000000 0.3843000000 0.7000000000 0.1583000000  Biso 1.0 O 4 e
+O2 1.0000000000 0.0933000000 0.6970000000 0.2015000000  Biso 1.0 O 4 e
+O3 1.0000000000 0.1704000000 0.1350000000 0.0739000000  Biso 1.0 O 4 e
+Te4 1.0000000000 0.1677000000 0.7503000000 0.0750000000  Biso 1.0 Te 4 e
+Tl5 1.0000000000 0.4948000000 0.2352000000 0.1160000000  Biso 1.0 Tl 4 e
+Tl6 1.0000000000 0.8106000000 0.7322000000 0.1867000000  Biso 1.0 Tl 4 e

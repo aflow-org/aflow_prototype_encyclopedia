@@ -1,0 +1,36 @@
+{
+    "uid": "M1VB",
+    "prototype": "AlO4P",
+    "prototype_tex": "AlO$_{4}$P",
+    "label": "AB2_hP72_192_m_j2kl-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3",
+        "x4",
+        "y4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        13.7707,
+        0.608459,
+        0.6373,
+        0.7895,
+        0.4221,
+        0.6688,
+        0.5445,
+        0.1221,
+        0.4551,
+        0.686
+    ],
+    "strukturbericht": null,
+    "title": "AlPO$_{4}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2_hP72_192_m_j2kl"
+}

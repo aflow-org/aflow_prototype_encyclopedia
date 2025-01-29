@@ -1,0 +1,34 @@
+{
+    "uid": "5VRX",
+    "prototype": "Mo3Nd5O16",
+    "prototype_tex": "Mo$_{3}$Nd$_{5}$O$_{16}$",
+    "label": "A3B17C16_cP144_222_d_cei_fi-001",
+    "parameter_symbol": [
+        "a",
+        "x3",
+        "x4",
+        "x5",
+        "y5",
+        "z5",
+        "x6",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        11.0138,
+        0.00915,
+        0.1199,
+        0.006,
+        -0.031,
+        0.022,
+        0.5846,
+        0.3642,
+        0.8271
+    ],
+    "strukturbericht": null,
+    "title": "Nd$_{5}$Mo$_{3}$O$_{16}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B17C16_cP144_222_d_cei_fi-001"
+}

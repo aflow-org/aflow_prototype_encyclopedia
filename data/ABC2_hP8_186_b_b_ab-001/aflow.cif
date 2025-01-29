@@ -1,0 +1,54 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  CoLiO2
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/ABC2_hP8_186_b_b_ab-001
+
+# Last updated on 2024/08/02
+
+data_Co2Li2O4
+_pd_phase_name Co2Li2O4
+_cell_length_a  2.8060000000
+_cell_length_b  2.8060000000
+_cell_length_c  9.5200000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  120.0000000000
+_symmetry_space_group_name_H-M  'P6_{3}mc'
+_symmetry_Int_Tables_Number  186
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -y,x-y,z
+  3  -x+y,-x,z
+  4  -x,-y,z+1/2
+  5  y,-x+y,z+1/2
+  6  x-y,x,z+1/2
+  7  -y,-x,z
+  8  -x+y,y,z
+  9  x,x-y,z
+  10  y,x,z+1/2
+  11  x-y,-y,z+1/2
+  12  -x,-x+y,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+O3 1.0000000000 0.0000033333 0.9999966667 0.1100000000  Biso 1.0 O 2 a
+Co1 1.0000000000 0.3333333333 0.6666666667 0.0000000000  Biso 1.0 Co 2 b
+Li2 1.0000000000 0.3333333333 0.6666666667 0.7500000000  Biso 1.0 Li 2 b
+O4 1.0000000000 0.3333333333 0.6666666667 0.3900000000  Biso 1.0 O 2 b

@@ -1,0 +1,24 @@
+{
+    "uid": "ANDB",
+    "prototype": "Fe3GeTe2",
+    "prototype_tex": "Fe$_{3}$GeTe$_{2}$",
+    "label": "A3BC2_hP12_194_ce_d_f-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4"
+    ],
+    "parameter_values": [
+        3.991,
+        4.09171,
+        0.6718,
+        0.40982
+    ],
+    "strukturbericht": null,
+    "title": "Fe$_{3}$GeTe$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3BC2_hP12_194_ce_d_f-001"
+}

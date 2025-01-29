@@ -1,0 +1,36 @@
+{
+    "uid": "P4UA",
+    "prototype": "Mn3Si5U2",
+    "prototype_tex": "Mn$_{3}$Si$_{5}$U$_{2}$",
+    "label": "A3B5C2_tP40_128_dh_egh_h-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "x3",
+        "x4",
+        "y4",
+        "x5",
+        "y5",
+        "x6",
+        "y6"
+    ],
+    "parameter_values": [
+        10.57,
+        0.514191,
+        0.2434,
+        0.1839,
+        0.3779,
+        0.3401,
+        0.1909,
+        0.4852,
+        0.0704,
+        0.2394
+    ],
+    "strukturbericht": null,
+    "title": "U$_{2}$Mn$_{3}$Si$_{5}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B5C2_tP40_128_dh_egh_h-001"
+}

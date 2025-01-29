@@ -1,0 +1,36 @@
+{
+    "uid": "5WAR",
+    "prototype": "Ni2Tm",
+    "prototype_tex": "Ni$_{2}$Tm",
+    "label": "A2B_cF192_216_2e2h_ab2eg-001",
+    "parameter_symbol": [
+        "a",
+        "x3",
+        "x4",
+        "x5",
+        "x6",
+        "x7",
+        "x8",
+        "z8",
+        "x9",
+        "z9"
+    ],
+    "parameter_values": [
+        14.156,
+        0.8112,
+        0.3154,
+        0.6214,
+        0.1256,
+        0.5128,
+        0.5646,
+        0.3181,
+        0.5708,
+        0.8169
+    ],
+    "strukturbericht": null,
+    "title": "Low Temperature TmNi$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_cF192_216_2e2h_ab2eg-001"
+}

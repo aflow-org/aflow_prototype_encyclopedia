@@ -1,0 +1,40 @@
+{
+    "uid": "MULK",
+    "prototype": "H",
+    "prototype_tex": "H",
+    "label": "A_mC24_15_2e2f-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "y1",
+        "y2",
+        "x3",
+        "y3",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        5.2983,
+        0.530548,
+        0.569409,
+        128.825,
+        0.8512,
+        0.1184,
+        0.2704,
+        0.3172,
+        0.7944,
+        0.1284,
+        0.4458,
+        0.5341
+    ],
+    "strukturbericht": null,
+    "title": "H-III (300 GPa) Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A_mC24_15_2e2f"
+}

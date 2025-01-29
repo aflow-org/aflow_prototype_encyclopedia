@@ -1,0 +1,58 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Cl2Ni5O12Te4
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A2B5C12D4_mC92_15_f_e2f_6f_2f-001
+
+# Last updated on 2024/08/01
+
+data_Cl8Ni20O48Te16
+_pd_phase_name Cl8Ni20O48Te16
+_cell_length_a  26.6302020529
+_cell_length_b  5.2457000000
+_cell_length_c  16.7350378401
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  144.2386994661
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'C2/c'
+_symmetry_Int_Tables_Number  15
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y,-z+1/2
+  3  -x,-y,-z
+  4  x,-y,z+1/2
+  5  x+1/2,y+1/2,z
+  6  -x+1/2,y+1/2,-z+1/2
+  7  -x+1/2,-y+1/2,-z
+  8  x+1/2,-y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Ni2 1.0000000000 -0.0000000000 0.9925000000 0.2500000000  Biso 1.0 Ni 4 e
+Cl1 1.0000000000 0.6058000000 0.4415000000 0.6179000000  Biso 1.0 Cl 8 f
+Ni3 1.0000000000 0.1324000000 0.0342000000 0.7913000000  Biso 1.0 Ni 8 f
+Ni4 1.0000000000 0.1382000000 0.4691000000 0.8977000000  Biso 1.0 Ni 8 f
+O10 1.0000000000 0.6729000000 0.8969000000 0.8264000000  Biso 1.0 O 8 f
+O5 1.0000000000 0.0543000000 0.7577000000 0.7390000000  Biso 1.0 O 8 f
+O6 1.0000000000 0.1154000000 0.5877000000 0.9814000000  Biso 1.0 O 8 f
+O7 1.0000000000 0.7483000000 0.3704000000 0.9264000000  Biso 1.0 O 8 f
+O8 1.0000000000 0.0283000000 0.2599000000 0.7014000000  Biso 1.0 O 8 f
+O9 1.0000000000 0.1482000000 0.0833000000 0.9392000000  Biso 1.0 O 8 f
+Te11 1.0000000000 0.7389000000 0.4329000000 0.1155000000  Biso 1.0 Te 8 f
+Te12 1.0000000000 0.9818000000 0.5379000000 0.5839000000  Biso 1.0 Te 8 f

@@ -1,0 +1,43 @@
+{
+    "uid": "XWSU",
+    "prototype": "Cl2N2H6Zn",
+    "prototype_tex": "Cl$_{2}$N$_{2}$H$_{6}$Zn",
+    "label": "A2B6C2D_oI44_74_i_hj_h_e-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z1",
+        "y2",
+        "z2",
+        "y3",
+        "z3",
+        "x4",
+        "z4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        8.0226,
+        0.960748,
+        1.0536,
+        0.86168,
+        0.956,
+        0.783,
+        0.03237,
+        0.72949,
+        0.27046,
+        0.48085,
+        0.4219,
+        0.524,
+        0.166
+    ],
+    "strukturbericht": "E1_2",
+    "title": "Zn(NH$_{3}$)$_{2}$Cl$_{2}$ ($E1_{2}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$E1_{2}$",
+    "compounds": {},
+    "alias": "A2B6C2D_oI44_74_h_ij_i_e"
+}

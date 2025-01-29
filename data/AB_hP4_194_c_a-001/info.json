@@ -1,0 +1,21 @@
+{
+    "uid": "Y3TN",
+    "prototype": "AsNi",
+    "prototype_tex": "AsNi",
+    "label": "AB_hP4_194_c_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a"
+    ],
+    "parameter_values": [
+        3.619,
+        1.39376
+    ],
+    "strukturbericht": "B8_1",
+    "title": "Nickeline (NiAs, $B8_{1}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$B8_{1}$",
+    "compounds": {},
+    "alias": "AB_hP4_194_c_a"
+}

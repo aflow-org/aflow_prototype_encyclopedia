@@ -1,0 +1,23 @@
+{
+    "uid": "NG7F",
+    "prototype": "MoSi2",
+    "prototype_tex": "MoSi$_{2}$",
+    "label": "AB2_tI6_139_a_e-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2"
+    ],
+    "parameter_values": [
+        3.2064,
+        2.44754,
+        0.3353
+    ],
+    "strukturbericht": "C11_b",
+    "title": "MoSi$_{2}$ ($C11_{b}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$C11_{b}$",
+    "compounds": {},
+    "alias": "AB2_tI6_139_a_e"
+}

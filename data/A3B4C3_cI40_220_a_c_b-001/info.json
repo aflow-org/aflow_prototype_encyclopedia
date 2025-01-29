@@ -1,0 +1,20 @@
+{
+    "uid": "GET1",
+    "prototype": "Au3Sb4Y3",
+    "prototype_tex": "Au$_{3}$Sb$_{4}$Y$_{3}$",
+    "label": "A3B4C3_cI40_220_a_c_b-001",
+    "parameter_symbol": [
+        "a",
+        "x3"
+    ],
+    "parameter_values": [
+        9.818,
+        0.588
+    ],
+    "strukturbericht": null,
+    "title": "Y$_{3}$Au$_{3}$Sb$_{4}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B4C3_cI40_220_a_c_b-001"
+}

@@ -1,0 +1,22 @@
+{
+    "uid": "NEW2",
+    "prototype": "AlCCr2",
+    "prototype_tex": "AlCCr$_{2}$",
+    "label": "ABC2_hP8_194_c_a_f-007",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3"
+    ],
+    "parameter_values": [
+        2.86,
+        4.48252,
+        0.586
+    ],
+    "strukturbericht": null,
+    "title": "AlCCr$_{2}$ Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC2_hP8_194_d_a_f"
+}

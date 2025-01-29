@@ -1,0 +1,23 @@
+{
+    "uid": "93P7",
+    "prototype": "FeSi",
+    "prototype_tex": "FeSi",
+    "label": "AB_cP8_198_a_a-002",
+    "parameter_symbol": [
+        "a",
+        "x1",
+        "x2"
+    ],
+    "parameter_values": [
+        4.4869,
+        0.13652,
+        0.8424
+    ],
+    "strukturbericht": "B20",
+    "title": "FeSi ($B20$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$B20$",
+    "compounds": {},
+    "alias": "AB_cP8_198_a_a.FeSi"
+}

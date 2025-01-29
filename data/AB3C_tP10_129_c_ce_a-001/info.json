@@ -1,0 +1,24 @@
+{
+    "uid": "YXBN",
+    "prototype": "PPt3Sr",
+    "prototype_tex": "PPt$_{3}$Sr",
+    "label": "AB3C_tP10_129_c_ce_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "z3"
+    ],
+    "parameter_values": [
+        5.8094,
+        0.926653,
+        0.7226,
+        0.1409
+    ],
+    "strukturbericht": null,
+    "title": "SrPt$_{3}$P Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3C_tP10_129_c_ce_a-001"
+}

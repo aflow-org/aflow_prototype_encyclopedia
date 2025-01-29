@@ -1,0 +1,34 @@
+{
+    "uid": "G18C",
+    "prototype": "Cf",
+    "prototype_tex": "Cf",
+    "label": "A_aP4_2_aci-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "alpha",
+        "beta",
+        "gamma",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        3.307,
+        2.24131,
+        0.844572,
+        89.06,
+        85.15,
+        85.7,
+        0.572,
+        0.259,
+        0.433
+    ],
+    "strukturbericht": null,
+    "title": "Cf Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A_aP4_2_aci"
+}

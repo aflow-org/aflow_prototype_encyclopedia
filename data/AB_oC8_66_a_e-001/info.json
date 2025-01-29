@@ -1,0 +1,22 @@
+{
+    "uid": "087H",
+    "prototype": "HNb",
+    "prototype_tex": "HNb",
+    "label": "AB_oC8_66_a_e-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a"
+    ],
+    "parameter_values": [
+        3.447,
+        1.40992,
+        1.40992
+    ],
+    "strukturbericht": null,
+    "title": "NbD Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_oC8_66_a_e-001"
+}

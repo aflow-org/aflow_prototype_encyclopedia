@@ -1,0 +1,30 @@
+{
+    "uid": "3JAE",
+    "prototype": "Be17Nb2",
+    "prototype_tex": "Be$_{17}$Nb$_{2}$",
+    "label": "A17B2_hR19_166_cegh_c-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x4",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        7.35538,
+        1.46313,
+        0.603,
+        0.8401,
+        0.797,
+        0.842,
+        0.334
+    ],
+    "strukturbericht": null,
+    "title": "Nb$_{2}$Be$_{17}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A17B2_hR19_166_cegh_c-001"
+}

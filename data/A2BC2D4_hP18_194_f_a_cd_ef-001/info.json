@@ -1,0 +1,26 @@
+{
+    "uid": "C4AH",
+    "prototype": "Co2LiNaO4",
+    "prototype_tex": "Co$_{2}$LiNaO$_{4}$",
+    "label": "A2BC2D4_hP18_194_f_a_cd_ef-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z4",
+        "z5",
+        "z6"
+    ],
+    "parameter_values": [
+        2.8208,
+        7.18839,
+        0.3364,
+        0.6157,
+        0.4367
+    ],
+    "strukturbericht": null,
+    "title": "OP4-LiNaCo$_{2}$O$_{4}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BC2D4_hP18_194_f_a_cd_ef-001"
+}

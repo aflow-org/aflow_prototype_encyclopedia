@@ -1,0 +1,38 @@
+{
+    "uid": "RMGB",
+    "prototype": "Br7KW3",
+    "prototype_tex": "Br$_{7}$KW$_{3}$",
+    "label": "A28B5C12_cP90_201_e2h_bd_h-001",
+    "parameter_symbol": [
+        "a",
+        "x3",
+        "x4",
+        "y4",
+        "z4",
+        "x5",
+        "y5",
+        "z5",
+        "x6",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        13.804,
+        0.3652,
+        0.6968,
+        0.5502,
+        0.3861,
+        0.7977,
+        0.4239,
+        0.5981,
+        0.62425,
+        0.46874,
+        0.54199
+    ],
+    "strukturbericht": null,
+    "title": "KW$_{3}$Br$_{7}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A28B5C12_cP90_201_e2h_bd_h-001"
+}

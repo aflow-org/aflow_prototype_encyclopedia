@@ -1,0 +1,42 @@
+{
+    "uid": "Z0S9",
+    "prototype": "Cl3Cr",
+    "prototype_tex": "Cl$_{3}$Cr",
+    "label": "A3B_hP24_153_3c_2a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3",
+        "y3",
+        "z3",
+        "x4",
+        "y4",
+        "z4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        6.017,
+        2.87519,
+        0.1111,
+        0.4444,
+        0.1111,
+        0.2222,
+        0.593567,
+        0.4444,
+        0.8888,
+        0.593567,
+        0.77778,
+        0.55558,
+        0.593567
+    ],
+    "strukturbericht": null,
+    "title": "CrCl$_{3}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B_hP24_153_3c_2b"
+}

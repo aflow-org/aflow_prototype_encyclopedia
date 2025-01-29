@@ -1,0 +1,32 @@
+{
+    "uid": "B64B",
+    "prototype": "BaNa2NiO8P2",
+    "prototype_tex": "BaNa$_{2}$NiO$_{8}$P$_{2}$",
+    "label": "AB2CD8E2_hP14_147_a_d_b_dg_d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4",
+        "z5",
+        "x6",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        5.284,
+        1.32097,
+        0.6782,
+        0.0265,
+        0.24466,
+        0.2312,
+        0.8756,
+        0.3212
+    ],
+    "strukturbericht": null,
+    "title": "Na$_{2}$BaNi(PO$_{4}$)$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2CD8E2_hP14_147_a_d_b_dg_d-001"
+}

@@ -1,0 +1,25 @@
+{
+    "uid": "TJ2T",
+    "prototype": "Fe3Zn10",
+    "prototype_tex": "Fe$_{3}$Zn$_{10}$",
+    "label": "A3B10_cI52_229_e_fh-001",
+    "parameter_symbol": [
+        "a",
+        "x1",
+        "x2",
+        "y3"
+    ],
+    "parameter_values": [
+        8.9822,
+        0.3538,
+        0.13505,
+        0.3045
+    ],
+    "strukturbericht": "D8_1",
+    "title": "$\\gamma$-brass (Fe$_{3}$Zn$_{10}$, $D8_{1}$) Structure",
+    "part": 2,
+    "legacy": false,
+    "strukturbericht_tex": "$D8_{1}$",
+    "compounds": {},
+    "alias": "A3B10_cI52_229_e_fh"
+}

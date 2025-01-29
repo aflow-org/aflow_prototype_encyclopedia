@@ -1,0 +1,53 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+
+# Chemical Composition:  Ca2MgSi2O7 (akermanite)
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/ A2BC7D2_tP24_113_e_a_cef_e-001 
+
+# Last updated on 2024/11/13
+
+data_Ca2MgSi2O7
+_pd_phase_name Ca2MgSi2O7
+_cell_length_a  7.8338000000
+_cell_length_b  7.8338000000
+_cell_length_c  5.0082000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P-42_{1}m'
+_symmetry_Int_Tables_Number  113
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  y,-x,-z
+  4  -y,x,-z
+  5  -x+1/2,y+1/2,-z
+  6  x+1/2,-y+1/2,-z
+  7  -y+1/2,-x+1/2,z
+  8  y+1/2,x+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Mg1 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Mg 2 a
+O2  1.0000000000 0.0000000000 0.5000000000 0.8201000000  Biso 1.0 O  2 c
+Ca3 1.0000000000 0.8324000000 0.3324000000 0.4935000000  Biso 1.0 Ca 4 e
+O5  1.0000000000 0.6407000000 0.1407000000 0.7471000000  Biso 1.0 O  4 e
+Si4 1.0000000000 0.6396000000 0.1396000000 0.0642000000  Biso 1.0 Si 4 e
+O6  1.0000000000 0.0798000000 0.1862000000 0.7856000000  Biso 1.0 O  8 f

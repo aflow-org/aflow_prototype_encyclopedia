@@ -1,0 +1,54 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+
+# Chemical Composition:  Cu2Cl(OH3) Atacamite
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/ AB2C3D3_oP36_62_c_ac_cd_cd-001 
+
+# Last updated on 2024/10/04
+
+data_Cu2Cl(OH3)
+_pd_phase_name Cu2Cl(OH3)
+_cell_length_a  6.0300000000
+_cell_length_b  6.8650000000
+_cell_length_c  9.1200000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pnma'
+_symmetry_Int_Tables_Number  62
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z+1/2
+  3  -x,y+1/2,-z
+  4  x+1/2,-y+1/2,-z+1/2
+  5  -x,-y,-z
+  6  x+1/2,y,-z+1/2
+  7  x,-y+1/2,z
+  8  -x+1/2,y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Cu1 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Cu 4 a
+Cl2 1.0000000000 0.6482000000 0.2500000000 0.9444000000  Biso 1.0 Cl 4 c
+Cu3 1.0000000000 0.1906000000 0.2500000000 0.2553000000  Biso 1.0 Cu 4 c
+H4  1.0000000000 0.3049000000 0.2500000000 0.9852000000  Biso 1.0 H  4 c
+O5  1.0000000000 0.1498000000 0.2500000000 0.9982000000  Biso 1.0 O  4 c
+H6  1.0000000000 0.4331000000 0.9666000000 0.2279000000  Biso 1.0 H  8 d
+O7  1.0000000000 0.4406000000 0.0651000000 0.2879000000  Biso 1.0 O  8 d

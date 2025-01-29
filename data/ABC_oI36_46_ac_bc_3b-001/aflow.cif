@@ -1,0 +1,53 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  FeSiTi
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/ABC_oI36_46_ac_bc_3b-001
+
+# Last updated on 2024/08/01
+
+data_Fe12Si12Ti12
+_pd_phase_name Fe12Si12Ti12
+_cell_length_a  6.9969353511
+_cell_length_b  10.8298999360
+_cell_length_c  6.2869419111
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Ima2'
+_symmetry_Int_Tables_Number  46
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  x+1/2,-y,z
+  4  -x+1/2,y,z
+  5  x+1/2,y+1/2,z+1/2
+  6  -x+1/2,-y+1/2,z+1/2
+  7  x,-y+1/2,z+1/2
+  8  -x,y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Fe1 1.0000000000 0.0000000000 0.0000000000 0.2500000000  Biso 1.0 Fe 4 a
+Si3 1.0000000000 0.2500000000 0.5253000000 0.0054000000  Biso 1.0 Si 4 b
+Ti5 1.0000000000 0.2500000000 0.7207000000 0.7706000000  Biso 1.0 Ti 4 b
+Ti6 1.0000000000 0.2500000000 0.9979000000 0.9177000000  Biso 1.0 Ti 4 b
+Ti7 1.0000000000 0.2500000000 0.2996000000 0.7963000000  Biso 1.0 Ti 4 b
+Fe2 1.0000000000 0.5295000000 0.6236000000 0.1199000000  Biso 1.0 Fe 8 c
+Si4 1.0000000000 0.5060000000 0.8325000000 0.9952000000  Biso 1.0 Si 8 c

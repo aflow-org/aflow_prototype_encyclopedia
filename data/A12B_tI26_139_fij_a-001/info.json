@@ -1,0 +1,25 @@
+{
+    "uid": "AJGV",
+    "prototype": "Mn12Th",
+    "prototype_tex": "Mn$_{12}$Th",
+    "label": "A12B_tI26_139_fij_a-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "x4"
+    ],
+    "parameter_values": [
+        8.47,
+        0.584416,
+        0.361,
+        0.278
+    ],
+    "strukturbericht": "D2_b",
+    "title": "Mn$_{12}$Th ($D2_{b}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$D2_{b}$",
+    "compounds": {},
+    "alias": "A12B_tI26_139_fij_a"
+}

@@ -1,0 +1,43 @@
+{
+    "uid": "RT35",
+    "prototype": "ClKO3",
+    "prototype_tex": "ClKO$_{3}$",
+    "label": "ABC3_mP10_11_e_e_ef-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "z3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        4.63,
+        1.20259,
+        1.50499,
+        71.6341,
+        0.0535,
+        0.8255,
+        0.3531,
+        0.2914,
+        0.7156,
+        0.8835,
+        0.1601,
+        0.4639,
+        0.6943
+    ],
+    "strukturbericht": "G0_6",
+    "title": "KClO$_{3}$ ($G0_{6}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$G0_{6}$",
+    "compounds": {},
+    "alias": "ABC3_mP10_11_e_e_ef"
+}

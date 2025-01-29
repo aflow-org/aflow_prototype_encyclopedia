@@ -1,0 +1,22 @@
+{
+    "uid": "VJ5B",
+    "prototype": "N",
+    "prototype_tex": "N",
+    "label": "A_tP4_136_f-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1"
+    ],
+    "parameter_values": [
+        3.957,
+        1.29113,
+        0.098
+    ],
+    "strukturbericht": null,
+    "title": "$\\gamma$-N Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A_tP4_136_f"
+}

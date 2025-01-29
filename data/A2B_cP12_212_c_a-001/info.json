@@ -1,0 +1,20 @@
+{
+    "uid": "XX75",
+    "prototype": "Si2Sr",
+    "prototype_tex": "Si$_{2}$Sr",
+    "label": "A2B_cP12_212_c_a-001",
+    "parameter_symbol": [
+        "a",
+        "x2"
+    ],
+    "parameter_values": [
+        6.54,
+        0.428
+    ],
+    "strukturbericht": null,
+    "title": "SrSi$_{2}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_cP12_212_c_a"
+}

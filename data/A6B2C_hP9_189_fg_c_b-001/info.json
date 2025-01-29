@@ -1,0 +1,24 @@
+{
+    "uid": "XTDJ",
+    "prototype": "F6K2U",
+    "prototype_tex": "F$_{6}$K$_{2}$U",
+    "label": "A6B2C_hP9_189_fg_c_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "x4"
+    ],
+    "parameter_values": [
+        6.5528,
+        0.572122,
+        0.223,
+        0.662
+    ],
+    "strukturbericht": null,
+    "title": "$\\beta_{1}$-K$_{2}$UF$_{6}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A6B2C_hP9_189_fg_c_b-001"
+}

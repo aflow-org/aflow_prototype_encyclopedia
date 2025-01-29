@@ -1,0 +1,36 @@
+{
+    "uid": "RQLL",
+    "prototype": "Ge2Os",
+    "prototype_tex": "Ge$_{2}$Os",
+    "label": "A2B_mC12_12_2i_i-007",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x1",
+        "z1",
+        "x2",
+        "z2",
+        "x3",
+        "z3"
+    ],
+    "parameter_values": [
+        13.5052,
+        0.229097,
+        0.630876,
+        148.36,
+        0.287,
+        0.686,
+        0.388,
+        0.245,
+        0.954,
+        0.108
+    ],
+    "strukturbericht": null,
+    "title": "OsGe$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_mC12_12_2i_i-007"
+}

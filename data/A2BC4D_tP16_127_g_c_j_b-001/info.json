@@ -1,0 +1,27 @@
+{
+    "uid": "Y171",
+    "prototype": "Cl2(H2O)(NH3)4Pd",
+    "prototype_tex": "Cl$_{2}$(H$_{2}$O)(NH$_{3}$)$_{4}$Pd",
+    "label": "A2BC4D_tP16_127_g_c_j_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "x4",
+        "y4"
+    ],
+    "parameter_values": [
+        10.302,
+        0.421277,
+        0.285,
+        0.194,
+        0.027
+    ],
+    "strukturbericht": "H4_9",
+    "title": "Pd(NH$_{3}$)$_{4}$Cl$_{2}\\cdot$H$_{2}$O ($H4_{9}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$H4_{9}$",
+    "compounds": {},
+    "alias": "A2BC4D_tP16_127_h_d_i_a"
+}

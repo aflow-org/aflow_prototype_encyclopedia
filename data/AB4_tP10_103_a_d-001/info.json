@@ -1,0 +1,28 @@
+{
+    "uid": "MRXL",
+    "prototype": "NbTe4",
+    "prototype_tex": "NbTe$_{4}$",
+    "label": "AB4_tP10_103_a_d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "x2",
+        "y2",
+        "z2"
+    ],
+    "parameter_values": [
+        6.551,
+        1.04518,
+        0.0,
+        0.144,
+        0.3276,
+        0.242
+    ],
+    "strukturbericht": null,
+    "title": "High Temperature NbTe$_{4}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB4_tP10_103_a_d"
+}

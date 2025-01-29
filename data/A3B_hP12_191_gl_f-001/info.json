@@ -1,0 +1,22 @@
+{
+    "uid": "SQAX",
+    "prototype": "O3W",
+    "prototype_tex": "O$_{3}$W",
+    "label": "A3B_hP12_191_gl_f-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3"
+    ],
+    "parameter_values": [
+        7.298,
+        0.534256,
+        0.212
+    ],
+    "strukturbericht": null,
+    "title": "Hexagonal WO$_{3}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B_hP12_191_gl_f"
+}

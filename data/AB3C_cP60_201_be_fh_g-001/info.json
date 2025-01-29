@@ -1,0 +1,30 @@
+{
+    "uid": "WX0M",
+    "prototype": "KO3Sb",
+    "prototype_tex": "KO$_{3}$Sb",
+    "label": "AB3C_cP60_201_be_fh_g-001",
+    "parameter_symbol": [
+        "a",
+        "x2",
+        "x3",
+        "x4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        9.56,
+        0.3889,
+        0.6111,
+        0.0972,
+        0.0389,
+        0.0972,
+        0.75
+    ],
+    "strukturbericht": null,
+    "title": "KSbO$_{3}$ (High-Temperature) Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3C_cP60_201_be_fh_g"
+}

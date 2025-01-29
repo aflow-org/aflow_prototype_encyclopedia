@@ -1,0 +1,36 @@
+{
+    "uid": "6J8K",
+    "prototype": "C16Co4O16Sn",
+    "prototype_tex": "C$_{16}$Co$_{4}$O$_{16}$Sn",
+    "label": "A16B4C16D_cF296_219_eh_e_eh_a-001",
+    "parameter_symbol": [
+        "a",
+        "x2",
+        "x3",
+        "x4",
+        "x5",
+        "y5",
+        "z5",
+        "x6",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        17.255,
+        0.8501,
+        0.91068,
+        0.8137,
+        0.8493,
+        0.4927,
+        0.4009,
+        0.8072,
+        0.5427,
+        0.391
+    ],
+    "strukturbericht": null,
+    "title": "Sn[Co(CO)$_{4}$]$_{4}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A16B4C16D_cF296_219_eh_e_eh_a-001"
+}

@@ -1,0 +1,40 @@
+{
+    "uid": "8A06",
+    "prototype": "As2O14Pb3TeZn3",
+    "prototype_tex": "As$_{2}$O$_{14}$Pb$_{3}$TeZn$_{3}$",
+    "label": "A2B14C3DE3_hP23_150_d_d2g_e_a_f-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "z3",
+        "x4",
+        "x5",
+        "x6",
+        "y6",
+        "z6",
+        "x7",
+        "y7",
+        "z7"
+    ],
+    "parameter_values": [
+        8.46,
+        0.615366,
+        0.5294,
+        0.239,
+        0.59472,
+        0.2466,
+        0.122,
+        0.212,
+        0.217,
+        0.467,
+        0.2,
+        0.339
+    ],
+    "strukturbericht": null,
+    "title": "Dugganite (Pb$_{3}$Zn$_{3}$TeAs$_{2}$O$_{14}$) Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B14C3DE3_hP23_150_d_d2g_e_a_f-001"
+}

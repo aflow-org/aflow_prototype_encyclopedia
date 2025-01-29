@@ -1,0 +1,24 @@
+{
+    "uid": "F6SX",
+    "prototype": "C",
+    "prototype_tex": "C",
+    "label": "A_hP4_186_ab-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2"
+    ],
+    "parameter_values": [
+        2.47,
+        2.75304,
+        0.0,
+        0.07143
+    ],
+    "strukturbericht": null,
+    "title": "Buckled Graphite Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A_hP4_186_ab"
+}

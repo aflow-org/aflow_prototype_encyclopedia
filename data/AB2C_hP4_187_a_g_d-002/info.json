@@ -1,0 +1,22 @@
+{
+    "uid": "4SXA",
+    "prototype": "InS2Ta",
+    "prototype_tex": "InS$_{2}$Ta",
+    "label": "AB2C_hP4_187_a_g_d-002",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3"
+    ],
+    "parameter_values": [
+        3.31,
+        2.637462,
+        0.31
+    ],
+    "strukturbericht": null,
+    "title": "InTaS$_{2}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2C_hP4_187_a_g_d-002"
+}

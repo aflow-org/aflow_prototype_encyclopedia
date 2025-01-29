@@ -1,0 +1,19 @@
+{
+    "uid": "3BJR",
+    "prototype": "AgAsMg",
+    "prototype_tex": "AgAsMg",
+    "label": "ABC_cF12_216_a_c_b-001",
+    "parameter_symbol": [
+        "a"
+    ],
+    "parameter_values": [
+        6.24
+    ],
+    "strukturbericht": "C1_b",
+    "title": "Half\u2013Heusler (AgAsMg, $C1_{b}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$C1_{b}$",
+    "compounds": {},
+    "alias": "ABC_cF12_216_b_c_a"
+}

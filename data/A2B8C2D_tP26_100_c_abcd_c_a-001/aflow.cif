@@ -1,0 +1,53 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Ba2O8Si2Ti fresnoite
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A2B8C2D_tP26_100_c_abcd_c_a-001
+
+# Last updated on 2024/08/01
+
+data_Ba4O16Si4Ti2
+_pd_phase_name Ba4O16Si4Ti2
+_cell_length_a  8.5270000000
+_cell_length_b  8.5270000000
+_cell_length_c  5.2104000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P4bm'
+_symmetry_Int_Tables_Number  100
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  -y,x,z
+  4  y,-x,z
+  5  x+1/2,-y+1/2,z
+  6  -x+1/2,y+1/2,z
+  7  -y+1/2,-x+1/2,z
+  8  y+1/2,x+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+O2 1.0000000000 0.0000000000 0.0000000000 0.7904000000  Biso 1.0 O 2 a
+Ti7 1.0000000000 0.0000000000 0.0000000000 0.4646000000  Biso 1.0 Ti 2 a
+O3 1.0000000000 0.5000000000 0.0000000000 0.3707000000  Biso 1.0 O 2 b
+Ba1 1.0000000000 0.3270100000 0.8270100000 0.0000000000  Biso 1.0 Ba 4 c
+O4 1.0000000000 0.1259000000 0.6259000000 0.7949000000  Biso 1.0 O 4 c
+Si6 1.0000000000 0.1282000000 0.6282000000 0.4871000000  Biso 1.0 Si 4 c
+O5 1.0000000000 0.2924000000 0.5772000000 0.3571000000  Biso 1.0 O 8 d

@@ -1,0 +1,68 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Al22Mo5
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A22B5_oF216_43_11b_a2b-001
+
+# Last updated on 2024/08/01
+
+data_Al176Mo40
+_pd_phase_name Al176Mo40
+_cell_length_a  73.8200000000
+_cell_length_b  9.1610000000
+_cell_length_c  4.9330000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Fdd2'
+_symmetry_Int_Tables_Number  43
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  x+1/4,-y+1/4,z+1/4
+  4  -x+1/4,y+1/4,z+1/4
+  5  x,y+1/2,z+1/2
+  6  -x,-y+1/2,z+1/2
+  7  x+1/4,-y+3/4,z+3/4
+  8  -x+1/4,y+3/4,z+3/4
+  9  x+1/2,y,z+1/2
+  10  -x+1/2,-y,z+1/2
+  11  x+3/4,-y+1/4,z+3/4
+  12  -x+3/4,y+1/4,z+3/4
+  13  x+1/2,y+1/2,z
+  14  -x+1/2,-y+1/2,z
+  15  x+3/4,-y+3/4,z+1/4
+  16  -x+3/4,y+3/4,z+1/4
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Mo12 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Mo 8 a
+Al10 1.0000000000 0.1044500000 0.0215000000 0.8132000000  Biso 1.0 Al 16 b
+Al1 1.0000000000 0.2867000000 0.1442000000 0.2510000000  Biso 1.0 Al 16 b
+Al11 1.0000000000 0.2222100000 0.0739000000 0.0963000000  Biso 1.0 Al 16 b
+Al2 1.0000000000 0.0188500000 0.0394000000 0.4980000000  Biso 1.0 Al 16 b
+Al3 1.0000000000 0.3243800000 0.0673000000 0.2430000000  Biso 1.0 Al 16 b
+Al4 1.0000000000 0.3414400000 0.4959000000 0.2510000000  Biso 1.0 Al 16 b
+Al5 1.0000000000 0.1222500000 0.0431000000 0.2920000000  Biso 1.0 Al 16 b
+Al6 1.0000000000 0.4528300000 0.1272000000 0.8278000000  Biso 1.0 Al 16 b
+Al7 1.0000000000 0.2413300000 0.0223000000 0.5775000000  Biso 1.0 Al 16 b
+Al8 1.0000000000 0.4161500000 0.0252000000 0.8431000000  Biso 1.0 Al 16 b
+Al9 1.0000000000 0.4357700000 0.0825000000 0.3263000000  Biso 1.0 Al 16 b
+Mo13 1.0000000000 0.3048100000 0.1059200000 0.7505000000  Biso 1.0 Mo 16 b
+Mo14 1.0000000000 0.1409900000 0.0372100000 0.7637000000  Biso 1.0 Mo 16 b

@@ -1,0 +1,23 @@
+{
+    "uid": "4VEQ",
+    "prototype": "Mn",
+    "prototype_tex": "Mn",
+    "label": "A_cP20_213_cd-001",
+    "parameter_symbol": [
+        "a",
+        "x1",
+        "y2"
+    ],
+    "parameter_values": [
+        6.315,
+        0.06361,
+        0.20224
+    ],
+    "strukturbericht": "A13",
+    "title": "$\\beta$-Mn ($A13$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$A13$",
+    "compounds": {},
+    "alias": "A_cP20_213_cd"
+}

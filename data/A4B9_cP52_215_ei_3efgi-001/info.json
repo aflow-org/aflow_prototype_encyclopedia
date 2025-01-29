@@ -1,0 +1,39 @@
+{
+    "uid": "TRNX",
+    "prototype": "Al4Cu9",
+    "prototype_tex": "Al$_{4}$Cu$_{9}$",
+    "label": "A4B9_cP52_215_ei_3efgi-001",
+    "parameter_symbol": [
+        "a",
+        "x1",
+        "x2",
+        "x3",
+        "x4",
+        "x5",
+        "x6",
+        "x7",
+        "z7",
+        "x8",
+        "z8"
+    ],
+    "parameter_values": [
+        8.7068,
+        0.1157,
+        0.8296,
+        0.3253,
+        0.6066,
+        0.3534,
+        0.8549,
+        0.8113,
+        0.5332,
+        0.3153,
+        0.0322
+    ],
+    "strukturbericht": "D8_3",
+    "title": "$\\gamma$-brass (Cu$_{9}$Al$_{4}$, $D8_{3}$) Structure",
+    "part": 2,
+    "legacy": false,
+    "strukturbericht_tex": "$D8_{3}$",
+    "compounds": {},
+    "alias": "A4B9_cP52_215_ei_3efgi"
+}

@@ -1,0 +1,20 @@
+{
+    "uid": "9LSQ",
+    "prototype": "AlH3",
+    "prototype_tex": "AlH$_{3}$",
+    "label": "AB3_cF64_227_c_f-001",
+    "parameter_symbol": [
+        "a",
+        "x2"
+    ],
+    "parameter_values": [
+        9.0037,
+        0.9301
+    ],
+    "strukturbericht": null,
+    "title": "$\\beta$-Alane (AlD$_{3}$) Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB3_cF64_227_c_f-001"
+}

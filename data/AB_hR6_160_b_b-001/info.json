@@ -1,0 +1,29 @@
+{
+    "uid": "MV4U",
+    "prototype": "NiS",
+    "prototype_tex": "NiS",
+    "label": "AB_hR6_160_b_b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "z1",
+        "x2",
+        "z2"
+    ],
+    "parameter_values": [
+        9.61897,
+        0.327466,
+        0.00019,
+        0.26362,
+        0.7288,
+        0.39161
+    ],
+    "strukturbericht": "B13",
+    "title": "Millerite (NiS, $B13$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$B13$",
+    "compounds": {},
+    "alias": "AB_hR6_160_b_b"
+}

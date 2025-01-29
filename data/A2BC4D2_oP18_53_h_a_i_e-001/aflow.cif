@@ -1,0 +1,50 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Cl2CuH4O2 eriochalcite C45
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A2BC4D2_oP18_53_h_a_i_e-001
+
+# Last updated on 2024/08/01
+
+data_Cl4Cu2H8O4
+_pd_phase_name Cl4Cu2H8O4
+_cell_length_a  8.0886000000
+_cell_length_b  3.7458000000
+_cell_length_c  7.4141000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pmna'
+_symmetry_Int_Tables_Number  53
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z+1/2
+  3  -x+1/2,y,-z+1/2
+  4  x,-y,-z
+  5  -x,-y,-z
+  6  x+1/2,y,-z+1/2
+  7  x+1/2,-y,z+1/2
+  8  -x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Cu2 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Cu 2 a
+O4 1.0000000000 0.2402000000 0.0000000000 0.0000000000  Biso 1.0 O 4 e
+Cl1 1.0000000000 0.0000000000 0.3798000000 0.2399800000  Biso 1.0 Cl 4 h
+H3 1.0000000000 0.2750000000 0.0640000000 0.0990000000  Biso 1.0 H 8 i

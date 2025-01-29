@@ -1,0 +1,38 @@
+{
+    "uid": "TZ68",
+    "prototype": "CrHO2",
+    "prototype_tex": "CrHO$_{2}$",
+    "label": "ABC2_oP8_31_a_a_2a-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "y1",
+        "z1",
+        "y2",
+        "z2",
+        "y3",
+        "z3",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        2.9567,
+        1.45338,
+        1.6445,
+        0.256,
+        0.0,
+        0.211,
+        0.4725,
+        0.469,
+        0.636,
+        0.003,
+        0.333
+    ],
+    "strukturbericht": null,
+    "title": "Guyanaite ($\\beta$-CrOOH) Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC2_oP8_31_a_a_2a-001"
+}

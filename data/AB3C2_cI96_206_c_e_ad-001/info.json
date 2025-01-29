@@ -1,0 +1,29 @@
+{
+    "uid": "WEUP",
+    "prototype": "AlLi3N2",
+    "prototype_tex": "AlLi$_{3}$N$_{2}$",
+    "label": "AB3C2_cI96_206_c_e_ad-001",
+    "parameter_symbol": [
+        "a",
+        "x2",
+        "x3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        9.46,
+        0.115,
+        0.205,
+        0.16,
+        0.382,
+        0.11
+    ],
+    "strukturbericht": "E9_d",
+    "title": "AlLi$_{3}$N$_{2}$ ($E9_{d}$) Structure",
+    "part": 2,
+    "legacy": false,
+    "strukturbericht_tex": "$E9_{d}$",
+    "compounds": {},
+    "alias": "AB3C2_cI96_206_c_e_ad"
+}

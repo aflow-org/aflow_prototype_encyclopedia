@@ -1,0 +1,28 @@
+{
+    "uid": "3NUA",
+    "prototype": "Ce5Mo3O16",
+    "prototype_tex": "Ce$_{5}$Mo$_{3}$O$_{16}$",
+    "label": "A5B3C16_cP96_222_ce_d_fi-001",
+    "parameter_symbol": [
+        "a",
+        "x3",
+        "x4",
+        "x5",
+        "y5",
+        "z5"
+    ],
+    "parameter_values": [
+        11.1199,
+        0.0,
+        0.125,
+        0.084,
+        0.166,
+        0.625
+    ],
+    "strukturbericht": null,
+    "title": "Ce$_{5}$Mo$_{3}$O$_{16}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A5B3C16_cP96_222_ce_d_fi"
+}

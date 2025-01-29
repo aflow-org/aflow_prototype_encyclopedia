@@ -1,0 +1,26 @@
+{
+    "uid": "XW0B",
+    "prototype": "S",
+    "prototype_tex": "S",
+    "label": "A_hR6_148_f-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "y1",
+        "z1"
+    ],
+    "parameter_values": [
+        10.8179,
+        0.395637,
+        0.0827,
+        0.8517,
+        0.7491
+    ],
+    "strukturbericht": null,
+    "title": "S$_{6}$ ($\\rho$-S) Sulfur Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A_hR6_148_f-001"
+}

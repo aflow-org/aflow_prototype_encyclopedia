@@ -1,0 +1,28 @@
+{
+    "uid": "3QUZ",
+    "prototype": "Be3Nb",
+    "prototype_tex": "Be$_{3}$Nb",
+    "label": "A3B_hR12_166_ach_bc-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3",
+        "x4",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        4.56119,
+        4.61533,
+        0.1656,
+        0.3598,
+        0.9142,
+        0.4262
+    ],
+    "strukturbericht": null,
+    "title": "NbBe$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B_hR12_166_ach_bc-001"
+}

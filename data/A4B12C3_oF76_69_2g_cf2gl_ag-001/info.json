@@ -1,0 +1,34 @@
+{
+    "uid": "Y2ES",
+    "prototype": "Bi4O12Ti3",
+    "prototype_tex": "Bi$_{4}$O$_{12}$Ti$_{3}$",
+    "label": "A4B12C3_oF76_69_2g_cf2gl_ag-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x4",
+        "x5",
+        "x6",
+        "x7",
+        "x8",
+        "x9"
+    ],
+    "parameter_values": [
+        32.84,
+        0.165895,
+        0.167783,
+        0.567,
+        0.711,
+        0.936,
+        0.808,
+        0.872,
+        0.628
+    ],
+    "strukturbericht": null,
+    "title": "Orthorhombic Bi$_{4}$Ti$_{3}$O$_{12}$ $m = 3$ Aurivillius Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4B12C3_oF76_69_2g_cf2gl_ag-001"
+}

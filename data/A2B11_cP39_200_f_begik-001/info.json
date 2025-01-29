@@ -1,0 +1,31 @@
+{
+    "uid": "8FHP",
+    "prototype": "Mg2Zn11",
+    "prototype_tex": "Mg$_{2}$Zn$_{11}$",
+    "label": "A2B11_cP39_200_f_begik-001",
+    "parameter_symbol": [
+        "a",
+        "x2",
+        "x3",
+        "x4",
+        "x5",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        8.552,
+        0.765,
+        0.68,
+        0.84,
+        0.778,
+        0.757,
+        0.343
+    ],
+    "strukturbericht": "D8_c",
+    "title": "Mg$_{2}$Zn$_{11}$ ($D8_{c}$) Structure",
+    "part": 2,
+    "legacy": false,
+    "strukturbericht_tex": "$D8_{c}$",
+    "compounds": {},
+    "alias": "A2B11_cP39_200_f_aghij"
+}

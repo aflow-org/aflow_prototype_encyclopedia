@@ -1,0 +1,27 @@
+{
+    "uid": "GHEH",
+    "prototype": "Cl5CoCs3",
+    "prototype_tex": "Cl$_{5}$CoCs$_{3}$",
+    "label": "A5BC3_tI36_140_cl_b_ah-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x4",
+        "x5",
+        "z5"
+    ],
+    "parameter_values": [
+        9.063,
+        1.59439,
+        0.33775,
+        0.1421,
+        0.15711
+    ],
+    "strukturbericht": "K3_1",
+    "title": "Cs$_{3}$CoCl$_{5}$ ($K3_{1}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$K3_{1}$",
+    "compounds": {},
+    "alias": "A5BC3_tI36_140_cl_b_ah"
+}

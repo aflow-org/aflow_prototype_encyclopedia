@@ -1,0 +1,26 @@
+{
+    "uid": "K32Y",
+    "prototype": "C2CoU",
+    "prototype_tex": "C$_{2}$CoU",
+    "label": "A2BC_tP8_129_2c_a_c-002",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "z3",
+        "z4"
+    ],
+    "parameter_values": [
+        3.4969,
+        2.09128,
+        0.6396,
+        0.8416,
+        0.32082
+    ],
+    "strukturbericht": null,
+    "title": "UCoC$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2BC_tP8_129_2c_a_c-002"
+}

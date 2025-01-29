@@ -1,0 +1,54 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  AsHO5Zn2 adamite H27
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/ABC5D2_oP36_58_g_g_3gh_eg-001
+
+# Last updated on 2024/08/01
+
+data_As4H4O20Zn8
+_pd_phase_name As4H4O20Zn8
+_cell_length_a  8.3060000000
+_cell_length_b  8.5240000000
+_cell_length_c  6.0430000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pnnm'
+_symmetry_Int_Tables_Number  58
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  -x+1/2,y+1/2,-z+1/2
+  4  x+1/2,-y+1/2,-z+1/2
+  5  -x,-y,-z
+  6  x,y,-z
+  7  x+1/2,-y+1/2,z+1/2
+  8  -x+1/2,y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Zn7 1.0000000000 0.0000000000 0.0000000000 0.2473700000  Biso 1.0 Zn 4 e
+As1 1.0000000000 0.2495200000 0.7439400000 0.0000000000  Biso 1.0 As 4 g
+H2 1.0000000000 0.2000000000 0.1300000000 0.0000000000  Biso 1.0 H 4 g
+O3 1.0000000000 0.4240000000 0.6447000000 0.0000000000  Biso 1.0 O 4 g
+O4 1.0000000000 0.1079000000 0.1268000000 0.0000000000  Biso 1.0 O 4 g
+O5 1.0000000000 0.1040000000 0.6063000000 0.0000000000  Biso 1.0 O 4 g
+Zn8 1.0000000000 0.1348200000 0.3642300000 0.0000000000  Biso 1.0 Zn 4 g
+O6 1.0000000000 0.2685000000 0.3615000000 0.2778000000  Biso 1.0 O 8 h

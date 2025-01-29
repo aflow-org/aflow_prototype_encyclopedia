@@ -1,0 +1,52 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  O2Se
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A2B_oP24_26_2a2b2c_2a2b-001
+
+# Last updated on 2024/08/01
+
+data_O16Se8
+_pd_phase_name O16Se8
+_cell_length_a  5.0710000000
+_cell_length_b  4.4832000000
+_cell_length_c  14.9672000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pmc2_{1}'
+_symmetry_Int_Tables_Number  26
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z+1/2
+  3  x,-y,z+1/2
+  4  -x,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+O1 1.0000000000 0.0000000000 0.4760000000 0.3370000000  Biso 1.0 O 2 a
+O2 1.0000000000 0.0000000000 0.0270000000 0.0900000000  Biso 1.0 O 2 a
+Se7 1.0000000000 0.0000000000 0.1070000000 0.6894000000  Biso 1.0 Se 2 a
+Se8 1.0000000000 0.0000000000 0.3440000000 0.4369000000  Biso 1.0 Se 2 a
+O3 1.0000000000 0.5000000000 0.6170000000 0.4860000000  Biso 1.0 O 2 b
+O4 1.0000000000 0.5000000000 0.1660000000 0.2250000000  Biso 1.0 O 2 b
+Se10 1.0000000000 0.5000000000 0.5110000000 0.2492000000  Biso 1.0 Se 2 b
+Se9 1.0000000000 0.5000000000 0.0270000000 0.0000000000  Biso 1.0 Se 2 b
+O5 1.0000000000 0.2540000000 0.6240000000 0.1760000000  Biso 1.0 O 4 c
+O6 1.0000000000 0.2480000000 0.0610000000 0.4190000000  Biso 1.0 O 4 c

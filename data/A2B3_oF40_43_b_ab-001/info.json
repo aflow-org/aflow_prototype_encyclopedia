@@ -1,0 +1,36 @@
+{
+    "uid": "X02L",
+    "prototype": "Ag2O3",
+    "prototype_tex": "Ag$_{2}$O$_{3}$",
+    "label": "A2B3_oF40_43_b_ab-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "z1",
+        "x2",
+        "y2",
+        "z2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        12.869,
+        0.815137,
+        0.2847,
+        0.8402,
+        0.9533,
+        0.6325,
+        1.54074e-33,
+        0.583,
+        0.7333,
+        0.6153
+    ],
+    "strukturbericht": null,
+    "title": "Ag$_{2}$O$_{3}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B3_oF40_43_b_ab"
+}

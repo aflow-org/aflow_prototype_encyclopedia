@@ -1,0 +1,40 @@
+{
+    "uid": "RZ21",
+    "prototype": "F2Sn",
+    "prototype_tex": "F$_{2}$Sn",
+    "label": "A2B_oP12_19_2a_a-002",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "y1",
+        "z1",
+        "x2",
+        "y2",
+        "z2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        4.9889,
+        1.03013,
+        1.69931,
+        0.541,
+        0.663,
+        0.496,
+        0.378,
+        0.702,
+        0.885,
+        0.274,
+        0.523,
+        0.63
+    ],
+    "strukturbericht": null,
+    "title": "$\\beta$-SnF$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_oP12_19_2a_a-002"
+}

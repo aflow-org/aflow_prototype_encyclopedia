@@ -1,0 +1,32 @@
+{
+    "uid": "0VYM",
+    "prototype": "Ba5Si3",
+    "prototype_tex": "Ba$_{5}$Si$_{3}$",
+    "label": "A5B3_tP32_130_cg_cf-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z1",
+        "z2",
+        "x3",
+        "x4",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        8.465,
+        1.9433,
+        0.2271,
+        0.0095,
+        0.1482,
+        0.57997,
+        0.07997,
+        0.10688
+    ],
+    "strukturbericht": null,
+    "title": "Ba$_{5}$Si$_{3}$ Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A5B3_tP32_130_cg_cf"
+}

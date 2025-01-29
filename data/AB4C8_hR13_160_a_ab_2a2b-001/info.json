@@ -1,0 +1,40 @@
+{
+    "uid": "5V5H",
+    "prototype": "GaMo4S8",
+    "prototype_tex": "GaMo$_{4}$S$_{8}$",
+    "label": "AB4C8_hR13_160_a_ab_2a2b-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x1",
+        "x2",
+        "x3",
+        "x4",
+        "x5",
+        "z5",
+        "x6",
+        "z6",
+        "x7",
+        "z7"
+    ],
+    "parameter_values": [
+        6.90572,
+        2.42011,
+        0.0,
+        0.399,
+        0.636,
+        0.135,
+        0.396,
+        0.814,
+        0.642,
+        0.088,
+        0.138,
+        0.59199
+    ],
+    "strukturbericht": null,
+    "title": "Low Temperature GaMo$_{4}$S$_{8}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB4C8_hR13_160_a_ab_2a2b"
+}

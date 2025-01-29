@@ -1,0 +1,28 @@
+{
+    "uid": "DA98",
+    "prototype": "Li2Sb",
+    "prototype_tex": "Li$_{2}$Sb",
+    "label": "A2B_hP18_190_gh_bf-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "x3",
+        "x4",
+        "y4"
+    ],
+    "parameter_values": [
+        7.946,
+        0.82142,
+        0.0225,
+        0.294,
+        0.612,
+        0.01
+    ],
+    "strukturbericht": null,
+    "title": "Li$_{2}$Sb Structure",
+    "part": 2,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B_hP18_190_gh_bf"
+}

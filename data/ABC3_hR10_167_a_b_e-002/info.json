@@ -1,0 +1,23 @@
+{
+    "uid": "UVUF",
+    "prototype": "CCaO3",
+    "prototype_tex": "CCaO$_{3}$",
+    "label": "ABC3_hR10_167_a_b_e-002",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3"
+    ],
+    "parameter_values": [
+        4.98801,
+        3.42041,
+        0.9933
+    ],
+    "strukturbericht": "G0_1",
+    "title": "Calcite (CaCO$_{3}$, $G0_{1}$) Structure",
+    "part": 1,
+    "legacy": false,
+    "strukturbericht_tex": "$G0_{1}$",
+    "compounds": {},
+    "alias": "ABC3_hR10_167_a_b_e.CaCO3"
+}

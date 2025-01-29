@@ -1,0 +1,34 @@
+{
+    "uid": "B95F",
+    "prototype": "B4MoTh",
+    "prototype_tex": "B$_{4}$MoTh",
+    "label": "A4BC_oC24_65_gip_h_j-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "x2",
+        "y3",
+        "y4",
+        "x5",
+        "y5"
+    ],
+    "parameter_values": [
+        7.48,
+        1.29011,
+        0.504011,
+        0.3799,
+        0.1708,
+        0.093,
+        0.3021,
+        0.234,
+        0.155
+    ],
+    "strukturbericht": null,
+    "title": "ThMoB$_{4}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A4BC_oC24_65_gip_h_j-001"
+}

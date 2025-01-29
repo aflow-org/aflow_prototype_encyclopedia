@@ -1,0 +1,33 @@
+{
+    "uid": "X9DF",
+    "prototype": "S12Th7",
+    "prototype_tex": "S$_{12}$Th$_{7}$",
+    "label": "A3B2_hP20_176_2h_ah-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "y2",
+        "x3",
+        "y3",
+        "x4",
+        "y4"
+    ],
+    "parameter_values": [
+        11.08635,
+        0.3617,
+        0.153,
+        0.717,
+        0.514,
+        0.375,
+        0.235,
+        0.0
+    ],
+    "strukturbericht": "D8_k",
+    "title": "Th$_{7}$S$_{12}$ (D8$_{k}$) Structure",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$D8_{k}$",
+    "compounds": {},
+    "alias": "A3B2_hP20_176_2h_ah"
+}

@@ -1,0 +1,53 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  BCoFeO4 warwickite
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/ABCD4_oP28_62_c_c_c_4c-001
+
+# Last updated on 2024/08/01
+
+data_B4Co4Fe4O16
+_pd_phase_name B4Co4Fe4O16
+_cell_length_a  9.2340000000
+_cell_length_b  3.1252000000
+_cell_length_c  9.3950000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pnma'
+_symmetry_Int_Tables_Number  62
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z+1/2
+  3  -x,y+1/2,-z
+  4  x+1/2,-y+1/2,-z+1/2
+  5  -x,-y,-z
+  6  x+1/2,y,-z+1/2
+  7  x,-y+1/2,z
+  8  -x+1/2,y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+B1 1.0000000000 0.3356700000 0.2500000000 0.6226800000  Biso 1.0 B 4 c
+Co2 1.0000000000 0.3962700000 0.2500000000 0.3059400000  Biso 1.0 Co 4 c
+Fe3 1.0000000000 0.3832200000 0.2500000000 0.9313000000  Biso 1.0 Fe 4 c
+O4 1.0000000000 0.4822000000 0.2500000000 0.6298200000  Biso 1.0 O 4 c
+O5 1.0000000000 0.2548500000 0.2500000000 0.7483500000  Biso 1.0 O 4 c
+O6 1.0000000000 0.2662300000 0.2500000000 0.4915500000  Biso 1.0 O 4 c
+O7 1.0000000000 0.4888100000 0.2500000000 0.1176500000  Biso 1.0 O 4 c

@@ -1,0 +1,22 @@
+{
+    "uid": "AMP4",
+    "prototype": "Al3Zr4",
+    "prototype_tex": "Al$_{3}$Zr$_{4}$",
+    "label": "A3B4_hP7_191_f_de-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2"
+    ],
+    "parameter_values": [
+        5.433,
+        0.992085,
+        0.25
+    ],
+    "strukturbericht": null,
+    "title": "Zr$_{4}$Al$_{3}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B4_hP7_191_f_de-001"
+}

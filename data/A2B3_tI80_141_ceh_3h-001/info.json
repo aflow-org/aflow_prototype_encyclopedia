@@ -1,0 +1,38 @@
+{
+    "uid": "PJGC",
+    "prototype": "In2S3",
+    "prototype_tex": "In$_{2}$S$_{3}$",
+    "label": "A2B3_tI80_141_ceh_3h-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "y3",
+        "z3",
+        "y4",
+        "z4",
+        "y5",
+        "z5",
+        "y6",
+        "z6"
+    ],
+    "parameter_values": [
+        7.5937,
+        4.26037,
+        0.2044,
+        0.5201,
+        0.3324,
+        0.516,
+        0.2547,
+        0.494,
+        0.0859,
+        0.4667,
+        0.4164
+    ],
+    "strukturbericht": null,
+    "title": "$\\beta$-In$_{2}$S$_{3}$ Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A2B3_tI80_141_ceh_3h"
+}

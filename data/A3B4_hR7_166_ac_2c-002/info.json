@@ -1,0 +1,26 @@
+{
+    "uid": "W0LQ",
+    "prototype": "P3Sn4",
+    "prototype_tex": "P$_{3}$Sn$_{4}$",
+    "label": "A3B4_hR7_166_ac_2c-002",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z2",
+        "z3",
+        "z4"
+    ],
+    "parameter_values": [
+        3.9677,
+        8.904655,
+        0.4289,
+        0.13405,
+        0.28951
+    ],
+    "strukturbericht": null,
+    "title": "Sn$_{4}$P$_{3}$ Structure",
+    "part": 5,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A3B4_hR7_166_ac_2c-002"
+}

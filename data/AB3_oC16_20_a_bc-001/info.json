@@ -1,0 +1,33 @@
+{
+    "uid": "KCMH",
+    "prototype": "CrO3",
+    "prototype_tex": "CrO$_{3}$",
+    "label": "AB3_oC16_20_a_bc-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "x1",
+        "y2",
+        "x3",
+        "y3",
+        "z3"
+    ],
+    "parameter_values": [
+        8.46,
+        0.56383,
+        0.673759,
+        0.33333,
+        0.33333,
+        0.16667,
+        0.83333,
+        0.25
+    ],
+    "strukturbericht": "D0_7",
+    "title": "$D0_{7}$ (CrO$_{3}$) Structure ({\\em Obsolete})",
+    "part": 3,
+    "legacy": false,
+    "strukturbericht_tex": "$D0_{7}$",
+    "compounds": {},
+    "alias": "AB3_oC16_20_a_bc"
+}

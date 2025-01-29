@@ -1,0 +1,22 @@
+{
+    "uid": "M5NA",
+    "prototype": "Mn7NaO12",
+    "prototype_tex": "Mn$_{7}$NaO$_{12}$",
+    "label": "A7BC12_cI40_204_bc_a_g-001",
+    "parameter_symbol": [
+        "a",
+        "y4",
+        "z4"
+    ],
+    "parameter_values": [
+        7.312,
+        0.3128,
+        0.1829
+    ],
+    "strukturbericht": null,
+    "title": "NaMn$_{7}$O$_{12}$ Structure",
+    "part": 3,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A7BC12_cI40_204_bc_a_g"
+}

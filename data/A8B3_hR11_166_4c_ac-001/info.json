@@ -1,0 +1,30 @@
+{
+    "uid": "758U",
+    "prototype": "Li8Pb2",
+    "prototype_tex": "Li$_{8}$Pb$_{2}$",
+    "label": "A8B3_hR11_166_4c_ac-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x2",
+        "x3",
+        "x4",
+        "x5",
+        "x6"
+    ],
+    "parameter_values": [
+        4.75695,
+        6.73705,
+        0.6363,
+        0.7272,
+        0.8181,
+        0.9091,
+        0.5454
+    ],
+    "strukturbericht": null,
+    "title": "Li$_{8}$Pb$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "A8B3_hR11_166_4c_ac-001"
+}

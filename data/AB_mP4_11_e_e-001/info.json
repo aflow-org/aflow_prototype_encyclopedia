@@ -1,0 +1,32 @@
+{
+    "uid": "WBFX",
+    "prototype": "NiTi",
+    "prototype_tex": "NiTi",
+    "label": "AB_mP4_11_e_e-001",
+    "parameter_symbol": [
+        "a",
+        "b/a",
+        "c/a",
+        "beta",
+        "x1",
+        "z1",
+        "x2",
+        "z2"
+    ],
+    "parameter_values": [
+        2.8837,
+        1.42393,
+        1.61855,
+        97.938,
+        -0.0387,
+        0.8252,
+        0.5887,
+        0.2816
+    ],
+    "strukturbericht": null,
+    "title": "NiTi Structure",
+    "part": 1,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB_mP4_11_e_e"
+}

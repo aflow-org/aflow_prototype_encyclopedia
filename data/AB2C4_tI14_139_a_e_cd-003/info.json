@@ -1,0 +1,22 @@
+{
+    "uid": "1V8W",
+    "prototype": "CuNd2O4",
+    "prototype_tex": "CuNd$_{2}$O$_{4}$",
+    "label": "AB2C4_tI14_139_a_e_cd-003",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z4"
+    ],
+    "parameter_values": [
+        3.935,
+        3.08513,
+        0.3516
+    ],
+    "strukturbericht": null,
+    "title": "(T') Nd$_{2}$CuO$_{4}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "AB2C4_tI14_139_a_e_cd-003"
+}

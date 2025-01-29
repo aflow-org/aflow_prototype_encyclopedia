@@ -1,0 +1,22 @@
+{
+    "uid": "5FG5",
+    "prototype": "FeNaO2",
+    "prototype_tex": "FeNaO$_{2}$",
+    "label": "ABC2_hR4_166_a_b_c-009",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "x3"
+    ],
+    "parameter_values": [
+        3.025,
+        5.32628,
+        0.2664
+    ],
+    "strukturbericht": null,
+    "title": "$\\alpha$-NaFeO$_{2}$ Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC2_hR4_166_a_b_c-009"
+}

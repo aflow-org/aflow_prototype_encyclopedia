@@ -1,0 +1,51 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  CuS3Ta
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/AB3C_oP20_62_c_3c_c-002
+
+# Last updated on 2024/08/01
+
+data_Cu4S12Ta4
+_pd_phase_name Cu4S12Ta4
+_cell_length_a  9.4880000000
+_cell_length_b  3.4860000000
+_cell_length_c  11.7540000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pnma'
+_symmetry_Int_Tables_Number  62
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z+1/2
+  3  -x,y+1/2,-z
+  4  x+1/2,-y+1/2,-z+1/2
+  5  -x,-y,-z
+  6  x+1/2,y,-z+1/2
+  7  x,-y+1/2,z
+  8  -x+1/2,y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Cu1 1.0000000000 0.2721900000 0.2500000000 0.7870900000  Biso 1.0 Cu 4 c
+S2 1.0000000000 0.2208000000 0.2500000000 0.5964300000  Biso 1.0 S 4 c
+S3 1.0000000000 0.0808300000 0.2500000000 0.9029500000  Biso 1.0 S 4 c
+S4 1.0000000000 0.0767300000 0.2500000000 0.3227200000  Biso 1.0 S 4 c
+Ta5 1.0000000000 0.1078350000 0.2500000000 0.1302320000  Biso 1.0 Ta 4 c

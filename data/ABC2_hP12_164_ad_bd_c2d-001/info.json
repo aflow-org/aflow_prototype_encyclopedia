@@ -1,0 +1,30 @@
+{
+    "uid": "1TV2",
+    "prototype": "AgBiSe2",
+    "prototype_tex": "AgBiSe$_{2}$",
+    "label": "ABC2_hP12_164_ad_bd_c2d-001",
+    "parameter_symbol": [
+        "a",
+        "c/a",
+        "z3",
+        "z4",
+        "z5",
+        "z6",
+        "z7"
+    ],
+    "parameter_values": [
+        4.18,
+        4.70574,
+        0.248,
+        0.673,
+        0.163,
+        0.926,
+        0.406
+    ],
+    "strukturbericht": null,
+    "title": "Bohdanowiczite (AgBiSe$_{2}$) Structure",
+    "part": 4,
+    "legacy": false,
+    "compounds": {},
+    "alias": "ABC2_hP12_164_ad_bd_c2d-001"
+}
