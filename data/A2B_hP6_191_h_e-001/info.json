@@ -24,5 +24,9 @@
     "alias": "A2B_hP6_191_h_e",
     "number_of_species": 2,
     "pearson_symbol": "hP6",
-    "space_group_number": 191
+    "space_group_number": 191,
+    "notes": "$C_{h}$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "655706"
 }

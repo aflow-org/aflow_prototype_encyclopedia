@@ -45,5 +45,9 @@
     "alias": "A4B_mC30_12_gi2j_ai-001",
     "number_of_species": 2,
     "pearson_symbol": "mC30",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "105322"
 }

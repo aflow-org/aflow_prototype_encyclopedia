@@ -33,5 +33,9 @@
     "alias": "A6BC_oC32_67_no_c_g-001",
     "number_of_species": 3,
     "pearson_symbol": "oC32",
-    "space_group_number": 67
+    "space_group_number": 67,
+    "comments": "(Burns, 1968) assign the protactinium atom to the (4b) Wyckoff site, but give coordinates for the (4e) site.  We use these coordinates and assign the Wyckoff position appropriately. The axis orientation has been adjusted by AFLOW.",
+    "notes": "RbPaF$_{6}$ (V)",
+    "ccdc": null,
+    "icsd": "36078"
 }

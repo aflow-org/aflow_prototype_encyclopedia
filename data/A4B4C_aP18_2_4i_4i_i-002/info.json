@@ -81,5 +81,9 @@
     "alias": "A4B4C_aP18_2_4i_4i_i-002",
     "number_of_species": 3,
     "pearson_symbol": "aP18",
-    "space_group_number": 2
+    "space_group_number": 2,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "62594"
 }

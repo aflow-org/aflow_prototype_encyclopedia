@@ -45,5 +45,9 @@
     "alias": "A2B4C9_oP30_55_h_fg_aghi-001",
     "number_of_species": 3,
     "pearson_symbol": "oP30",
-    "space_group_number": 55
+    "space_group_number": 55,
+    "comments": "This is the low pressure phase of Bi$_{2}$Fe$_{4}$O$_{9}$, using data take by (Friedrich, 2012) at ambient pressure.  Above 6.89 GPa it transforms to the \\href{current_web_home_dir/A2B4C9_oP60_62_d_2cd_3c3d-001}{high pressure Bi$_{2}$Fe$_{4}$O$_{9}$ structure}.",
+    "notes": "Ambient Pressure",
+    "ccdc": null,
+    "icsd": "186440"
 }

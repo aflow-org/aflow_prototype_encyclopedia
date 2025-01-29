@@ -39,5 +39,9 @@
     "alias": "A8B2C3_hR13_160_2a2b_2a_b-001",
     "number_of_species": 3,
     "pearson_symbol": "hR13",
-    "space_group_number": 160
+    "space_group_number": 160,
+    "comments": "Na$_{2}$Ti$_{3}$Cl$_{8}$ can be found in three different phases (H\\\"{a}nni, 2017): \\begin{itemize} \\item $\\gamma$-Na$_{2}$Ti$_{3}$Cl$_{8}$, below 210K (heating) or 190K (cooling) (this structure). \\item $\\beta$-Na$_{2}$Ti$_{3}$Cl$_{8}$ is found between 190 and 210K when samples are cooled.  It is in the $R\\overline{3}m$ space group, but we have no atomic positions. \\item $\\alpha$-Na$_{2}$Ti$_{3}$Cl$_{8}$, above 190/210K, is in the \\href{current_web_home_dir/A8B3C2_hR13_166_ch_e_c-001}{Na$_{2}$Mn$_{3}$Cl$_{8}$ structure}. \\end{itemize} ~ \\vspace{-.25in} \n (H\\\"{a}nni, 2017) give the lattice constants of $\\gamma$-Na$_{2}$Ti$_{3}$Cl$_{8}$ at 2K, and the atomic positions at 1.6K. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "notes": "$\\gamma$-Na$_{2}$Ti$_{3}$Cl$_{8}$",
+    "ccdc": null,
+    "icsd": "259123"
 }

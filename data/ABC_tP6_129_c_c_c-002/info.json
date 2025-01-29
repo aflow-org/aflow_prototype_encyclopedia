@@ -25,5 +25,9 @@
     "alias": "ABC_tP6_129_c_c_c-002",
     "number_of_species": 3,
     "pearson_symbol": "tP6",
-    "space_group_number": 129
+    "space_group_number": 129,
+    "comments": "There are two prototypes with the AFLOW label ABC\\_tP6\\_129\\_c\\_c\\_c: \\begin{itemize} \\item \\href{current_web_home_dir/ABC_tP6_129_c_c_c-001}{CaGaN}, with c/a $\\approx$ 2.1, and \\item \\href{current_web_home_dir/ABC_tP6_129_c_c_c-002}{TaMoN} (this structure), with c/a $\\approx$ 2.5. \\end{itemize} ~ \\vspace{-0.25in} \n The ICSD lists TaMoN and similar structures under prototype CaGaN, but the sharp difference in c/a between the two structures is significant enough to warrant a new prototype. \n (Vendl, 1978) gives the atomic coordinates in setting 1 of space group $P4/nmm$ \\#129.  We shifted the origin to place the system in our standard setting 2.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "100437"
 }

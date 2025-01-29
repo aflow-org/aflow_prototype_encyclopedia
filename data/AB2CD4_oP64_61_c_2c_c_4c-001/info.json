@@ -70,5 +70,9 @@
     "alias": "AB2CD4_oP64_61_c_2c_c_4c",
     "number_of_species": 4,
     "pearson_symbol": "oP64",
-    "space_group_number": 61
+    "space_group_number": 61,
+    "comments": "The original description of this structure in (Hermann, 1937) did not include the positions of the hydrogen atoms, instead using OH for the O(IV)-H radical. \n The sample actually measured by (Gatta, 2012) has 4\\% of the OH radicals replaced by fluorine.",
+    "notes": "$G7_{2}$, Hambergite",
+    "ccdc": null,
+    "icsd": "290144"
 }

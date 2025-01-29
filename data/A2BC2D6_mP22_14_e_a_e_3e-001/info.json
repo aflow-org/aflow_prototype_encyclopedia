@@ -53,5 +53,9 @@
     "alias": "A2BC2D6_mP22_14_e_a_e_3e-001",
     "number_of_species": 4,
     "pearson_symbol": "mP22",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "comments": "(Maslen, 1986) give the structure in the $P2_1/a$ setting of space group \\#14.  We used FINDSYM to transform this to the standard $P2_{1}/c$ setting.",
+    "notes": "Juangodoyite",
+    "ccdc": null,
+    "icsd": "60858"
 }

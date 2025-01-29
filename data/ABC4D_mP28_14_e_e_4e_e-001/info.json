@@ -65,5 +65,9 @@
     "alias": "ABC4D_mP28_14_e_e_4e_e-001",
     "number_of_species": 4,
     "pearson_symbol": "mP28",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "comments": "Above $575^{\\circ}$ this transforms into the \\href{current_web_home_dir/ABC4D_oP56_61_c_c_4c_c-001}{$\\beta$-AgCuPO$_{4}$ structure}. (Quarton, 1983) \n The ICSD lists this as a quaternary from of the \\href{current_web_home_dir/A3BC3_mP28_14_3e_e_3e-001}{K$_{3}$SnTe$_{3}$ structure}.",
+    "notes": "$\\alpha$-AgCuPO$_{4}$",
+    "ccdc": null,
+    "icsd": "165596"
 }

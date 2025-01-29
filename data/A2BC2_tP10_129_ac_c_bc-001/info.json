@@ -25,5 +25,9 @@
     "alias": "A2BC2_tP10_129_ac_c_bc",
     "number_of_species": 3,
     "pearson_symbol": "tP10",
-    "space_group_number": 129
+    "space_group_number": 129,
+    "comments": "This is a ternary form of the \\href{current_web_home_dir/A4B_tI10_139_de_a-001}{$D1_{3}$ (BaAl$_{4}$) structure}.  The atomic positions are approximately the same as in the conventional cell of BaAl$_{4}$, but the distribution of the atoms on those sites and the resulting relaxation leads to a different structure. \n Space group $P4/nmm$ \\#129 has two settings, but both have the same $z$-axis origin, so either setting will do here.  We chose our standard setting 2.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "25337"
 }

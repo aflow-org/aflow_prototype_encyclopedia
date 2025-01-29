@@ -47,5 +47,9 @@
     "alias": "A3B4C_oP32_57_c2d_4d_a-001",
     "number_of_species": 3,
     "pearson_symbol": "oP32",
-    "space_group_number": 57
+    "space_group_number": 57,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "152756"
 }

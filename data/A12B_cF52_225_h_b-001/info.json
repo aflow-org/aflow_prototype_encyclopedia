@@ -20,5 +20,9 @@
     "alias": "A12B_cF52_225_i_a",
     "number_of_species": 2,
     "pearson_symbol": "cF52",
-    "space_group_number": 225
+    "space_group_number": 225,
+    "notes": "$D2_{f}$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "24705"
 }

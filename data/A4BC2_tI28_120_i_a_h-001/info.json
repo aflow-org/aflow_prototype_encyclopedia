@@ -27,5 +27,9 @@
     "alias": "A4BC2_tI28_120_i_d_e",
     "number_of_species": 3,
     "pearson_symbol": "tI28",
-    "space_group_number": 120
+    "space_group_number": 120,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "58522"
 }

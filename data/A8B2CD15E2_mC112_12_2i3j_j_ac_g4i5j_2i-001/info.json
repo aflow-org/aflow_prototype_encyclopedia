@@ -112,5 +112,9 @@
     "alias": "A8B2CD15E2_mC112_12_2i3j_j_ad_g4i5j_2i",
     "number_of_species": 5,
     "pearson_symbol": "mC112",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "comments": "Manganese-leonite is found in three forms: \\begin{itemize} \\item A \\href{current_web_home_dir/A8B2CD12E2_mP100_14_8e_2e_ab_12e_2e-001}{low-temperature structure}, stable below 168K. \\item An \\href{current_web_home_dir/A8B2CD12E2_mC200_15_8f_2f_ae_2e11f_2f-001}{intermediate-temperature structure}, stable in between 168 and 205K. \\item This \\href{current_web_home_dir/A8B2CD15E2_mC112_12_2i3j_j_ac_g4i5j_2i-001}{room temperature structure, {\\em Strukturbericht} $H4_{23}$}, stable above 205K. \\end{itemize} ~ \\vspace{-.25in} \n Properly the prototype of leonite is K$_{2}$Mg(SO$_{4}$)$_{2}$$\\cdot$4H$_{2}$O, but (Herrmann, 1943) gives manganese-leonite {\\em Strukturbericht} symbol $H4_{23}$, so we will use Mn-leonite as the prototype. \n Unlike the lower temperature structures, this leonite structure is characterized by the disorder of the second sulfate group, centered on atom S-II (Hertweck, 2001).  The oxygen sites around S-II, labeled O-VII, O-VIII, and O-IX in our notation, are only occupied 50\\% of the time.  (Anspach, 1939), who did the original determination of this structure, was not able to see the disorder and so gives an ordered structure for both sulfates. \n We use the structure determined by (Hertweck, 2001) at room temperature, 293K.",
+    "notes": "$H4_{23}$, Mn-leonite (RT)",
+    "ccdc": null,
+    "icsd": "92700"
 }

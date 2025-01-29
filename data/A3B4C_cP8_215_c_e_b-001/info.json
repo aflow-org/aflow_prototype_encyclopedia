@@ -20,5 +20,9 @@
     "alias": "A3B4C_cP8_215_d_e_a",
     "number_of_species": 3,
     "pearson_symbol": "cP8",
-    "space_group_number": 215
+    "space_group_number": 215,
+    "comments": "This structure is very similar to \\href{current_web_home_dir/AB3C4_cP8_215_a_c_e-001}{lazarevi\\'{c}ite (AsCu$_{3}$S$_{4}$)}, except that in this case the copper atoms are on the cubic edges [the (3d) sites] rather than the cubic faces [the (3c) sites].",
+    "notes": "$H2_{4}$, Sulvanite",
+    "ccdc": null,
+    "icsd": "15490"
 }

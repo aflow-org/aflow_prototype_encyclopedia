@@ -29,5 +29,9 @@
     "alias": "A17B2_hR19_166_cegh_c-001",
     "number_of_species": 2,
     "pearson_symbol": "hR19",
-    "space_group_number": 166
+    "space_group_number": 166,
+    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "58724"
 }

@@ -19,5 +19,9 @@
     "alias": "A_cI16_206_c",
     "number_of_species": 1,
     "pearson_symbol": "cI16",
-    "space_group_number": 206
+    "space_group_number": 206,
+    "comments": "This is a tetragonally bonded structure which packs more efficiently than diamond. See (Crain, 1995) and references therein. The reference compound chosen here, found in (Wentorf, 1963), is stable in the range 11-16 GPa. ",
+    "notes": "BC8 Si",
+    "ccdc": null,
+    "icsd": "none"
 }

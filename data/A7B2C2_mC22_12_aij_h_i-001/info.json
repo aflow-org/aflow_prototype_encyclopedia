@@ -40,5 +40,9 @@
     "alias": "A7B2C2_mC22_12_aij_h_i",
     "number_of_species": 3,
     "pearson_symbol": "mC22",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "comments": "Thortveitite is the primary source of scandium and is one of the simplest sorosilicates, minerals with isolated Si$_{2}$O$_{7}$ groups. (Bianchi, 1988) \n Although the (4h) Wyckoff position is randomly occupied by both Sc and Y atoms, we use Sc to represent the site. \n (Bianchi, 1988) gives structural information for several samples of thortveitite. \n In addition, the Si (4i) site contains 2\\% aluminum. \n We use the data from sample 1, collected in Iveland, Norway.",
+    "notes": "$S2_{1}$, Thortveitite",
+    "ccdc": null,
+    "icsd": "202633"
 }

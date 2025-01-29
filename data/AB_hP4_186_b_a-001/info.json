@@ -24,5 +24,9 @@
     "alias": "AB_hP4_186_b_a",
     "number_of_species": 2,
     "pearson_symbol": "hP4",
-    "space_group_number": 186
+    "space_group_number": 186,
+    "comments": "This is the BN structure found in (Ewald, 1931) p. 95 and (Wilson, 1961) pp. 125-126. (Pease, 1950) later determined that the true boron nitride structure is what is now known as the \\href{current_web_home_dir/AB_hP4_194_c_d-001}{$B_{k}$} structure. We leave this structure here for historical reasons. It is crystallographically equivalent to, and hence a binary representation of, the \\href{current_web_home_dir/A_hP4_186_ab-001}{buckled graphite structure}. \n  Space group $P6_{3}mc$ \\#186 does not specify the origin of the $z$-axis.  Here we chose $z_{1} = 0$ for the boron (2a) site.",
+    "notes": "$B12$ ({\\em Obsolete})",
+    "ccdc": null,
+    "icsd": "none"
 }

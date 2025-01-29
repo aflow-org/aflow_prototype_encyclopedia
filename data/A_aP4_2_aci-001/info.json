@@ -33,5 +33,9 @@
     "alias": "A_aP4_2_aci",
     "number_of_species": 1,
     "pearson_symbol": "aP4",
-    "space_group_number": 2
+    "space_group_number": 2,
+    "comments": "This is a high-pressure phase, observed between 30 and 40 GPa. \n The pressure at which the X-ray data was taken was not specified by (Roof, 1986).",
+    "notes": "30-40 GPa",
+    "ccdc": null,
+    "icsd": "52913"
 }

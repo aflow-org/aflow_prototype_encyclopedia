@@ -23,5 +23,9 @@
     "alias": "AB4_tP10_124_a_m",
     "number_of_species": 2,
     "pearson_symbol": "tP10",
-    "space_group_number": 124
+    "space_group_number": 124,
+    "comments": "This is the room-temperature phase of NbTe4$_{4}$.  Above 520$^\\circ$C it transforms into \\href{current_web_home_dir/AB4_tP10_103_a_d-001}{a non-centrosymmetric structure}.",
+    "notes": "RT",
+    "ccdc": null,
+    "icsd": "43282"
 }

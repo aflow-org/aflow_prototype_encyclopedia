@@ -52,5 +52,9 @@
     "alias": "A2B2C_oP20_19_2a_2a_a",
     "number_of_species": 3,
     "pearson_symbol": "oP20",
-    "space_group_number": 19
+    "space_group_number": 19,
+    "comments": "(Corey, 1933) originally determined the structure of $\\epsilon$-Zn(OH)$_{2}$, but they were unable to locate the hydrogen atoms.  This structure was given the {\\em Strukturbericht} designation $C31$ by (Gottfried, 1937). \n (Stahl, 1998) located the hydrogen atoms, and found that they did not change the space group, so we use the updated structure as our $C31$ prototype.",
+    "notes": "$C31$, W\\\"{u}lfingite",
+    "ccdc": null,
+    "icsd": "50447"
 }

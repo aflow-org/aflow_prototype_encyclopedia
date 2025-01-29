@@ -37,5 +37,9 @@
     "alias": "ABC_tP24_91_d_d_d",
     "number_of_species": 3,
     "pearson_symbol": "tP24",
-    "space_group_number": 91
+    "space_group_number": 91,
+    "comments": "This structure can also be found in the \\href{current_web_home_dir/ABC_tP24_95_d_d_d-001}{enantiomorphic space group $P4_{3}22$ \\#95}.",
+    "notes": "Enantiomorph of sg \\#95",
+    "ccdc": null,
+    "icsd": "2368"
 }

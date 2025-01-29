@@ -25,5 +25,9 @@
     "alias": "ABC4_tI12_82_a_c_g-001",
     "number_of_species": 3,
     "pearson_symbol": "tI12",
-    "space_group_number": 82
+    "space_group_number": 82,
+    "comments": "Some references give AlPO$_{4}$ as the prototype for this structure, however this is not related to any AlPO$_{4}$ phase we have found in the literature, so we use InPS$_{4}$ as the prototype. \n The ICSD entry references another article on the same page, but gives the correct structural information.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "23612"
 }

@@ -30,5 +30,9 @@
     "alias": "A2B4C_oF56_70_g_h_a",
     "number_of_species": 3,
     "pearson_symbol": "oF56",
-    "space_group_number": 70
+    "space_group_number": 70,
+    "comments": "Na$_{2}$SO$_{4}$ has eight known anhydrous phases.  The thenardite phase is ``reported to be stable between 32$^\\circ$C and about 180$^\\circ$C'' (Nord, 1973), however the data reported here was taken on synthetic thenardite at 25$^\\circ$C.",
+    "notes": "$H1_{7}$, Thenardite",
+    "ccdc": null,
+    "icsd": "2895"
 }

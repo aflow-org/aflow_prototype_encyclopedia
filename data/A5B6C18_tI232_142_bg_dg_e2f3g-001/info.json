@@ -57,5 +57,9 @@
     "alias": "A5B6C18_tI232_142_bg_dg_e2f3g-001",
     "number_of_species": 3,
     "pearson_symbol": "tI232",
-    "space_group_number": 142
+    "space_group_number": 142,
+    "comments": "(Hodeau, 1984) found that the Er-I site is actually a mixture of erbium and tin atoms in a 2:1 ratio.  The ICSD entry assumes a 1:2 ratio.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "103302"
 }

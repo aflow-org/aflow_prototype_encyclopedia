@@ -38,5 +38,9 @@
     "alias": "A2B5C_oC32_63_f_c2f_c",
     "number_of_species": 3,
     "pearson_symbol": "oC32",
-    "space_group_number": 63
+    "space_group_number": 63,
+    "comments": "We use the $x=1$ data from (Guo, 1999).  They find that the site we have labeled Ti I actually has the composition Fe$_{0.722}$Ti$_{0.278}$, while the Fe I site has the composition Fe$_{0.640}$Ti$_{0.360}$, so that the total metallic composition is Fe$_{2}$Ti.",
+    "notes": "$E4_{1}$, Pseudobrookite",
+    "ccdc": null,
+    "icsd": "88380"
 }

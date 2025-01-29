@@ -35,5 +35,9 @@
     "alias": "A10B3_hP26_176_c3h_h-001",
     "number_of_species": 2,
     "pearson_symbol": "hP26",
-    "space_group_number": 176
+    "space_group_number": 176,
+    "comments": "(G\\\"{u}nzel, 1958) place this structure in space group $P\\overline{3}$ \\#147 but (Cenzual, 1991) showed that all the atoms have $z$ coordinates which are are either 1/4 or 3/4. In that case there is a six-fold rotation axis, making the space group $P6_3/m$ \\#176. \n (Cenzual, 1991) also note that (G\\\"{u}nzel, 1958) list the $z$ coordinate of the (3d) copper atoms as 1/4, but as seen from the figures it must be 3/4 in their paper, and 1/4 here. ",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "44480"
 }

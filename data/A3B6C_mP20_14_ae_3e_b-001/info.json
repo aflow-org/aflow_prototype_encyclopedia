@@ -47,5 +47,9 @@
     "alias": "A3B6C_mP20_14_ae_3e_b-001",
     "number_of_species": 3,
     "pearson_symbol": "mP20",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "comments": "This is a high pressure phase of Mn$_{3}$TeO$_{6}$, prepared 8\\,GPa and 1173\\,K.  The data was taken under ambient conditions. \n The normal state of Mn$_{3}$TeO$_{6}$ is the \\href{current_web_home_dir/A3B6C_hR20_148_f_2f_ab-001}{rhombohedral Mg$_{3}$TeO$_{6}$} structure. \n (Ar\\'{e}valo-L\\'{o}pez, 2019) give the structure in the $P2_{1}/n$ setting of space group \\#14.  We used AFLOW to transform this to the standard $P2_{1}/c$ setting.  This involves a rearrangement of the primitive vectors and shifted the origin from the Te I site to the Mn I site.",
+    "notes": "HP",
+    "ccdc": null,
+    "icsd": "none"
 }

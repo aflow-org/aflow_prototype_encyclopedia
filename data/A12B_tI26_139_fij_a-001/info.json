@@ -24,5 +24,9 @@
     "alias": "A12B_tI26_139_fij_a",
     "number_of_species": 2,
     "pearson_symbol": "tI26",
-    "space_group_number": 139
+    "space_group_number": 139,
+    "notes": "$D2_{b}$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "104986"
 }

@@ -21,5 +21,9 @@
     "alias": "AB3C_tI20_140_d_bh_a-001",
     "number_of_species": 3,
     "pearson_symbol": "tI20",
-    "space_group_number": 140
+    "space_group_number": 140,
+    "comments": "This is a tetragonal distortion of the \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite ($E2_{1}$) structure}.  The pseudo-cubic cell has dimensions a/$\\sqrt{2}$, c/2.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "17011"
 }

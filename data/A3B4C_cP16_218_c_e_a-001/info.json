@@ -20,5 +20,9 @@
     "alias": "A3B4C_cP16_218_c_e_a",
     "number_of_species": 3,
     "pearson_symbol": "cP16",
-    "space_group_number": 218
+    "space_group_number": 218,
+    "notes": "$H2_{1}$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "14000"
 }

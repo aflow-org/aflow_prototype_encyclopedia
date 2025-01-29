@@ -41,5 +41,9 @@
     "alias": "AB4C6_oC44_63_c_2f_ac2f-001",
     "number_of_species": 3,
     "pearson_symbol": "oC44",
-    "space_group_number": 63
+    "space_group_number": 63,
+    "comments": "We have shifted the origin so that the O-I atom is at the origin, Wyckoff position (4a), rather than (0 0 1/2), Wyckoff position (4b) as found in (Evrard, 1980).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "16355"
 }

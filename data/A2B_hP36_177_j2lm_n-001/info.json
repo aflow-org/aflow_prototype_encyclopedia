@@ -33,5 +33,9 @@
     "alias": "A2B_hP36_177_j2lm_n",
     "number_of_species": 2,
     "pearson_symbol": "hP36",
-    "space_group_number": 177
+    "space_group_number": 177,
+    "comments": "This is a hypothetical hexagonal structure for SiO$_{2}$.  We use the data from the 1\\_200.cif file provided in the supplementary information of (Foster, 2004).",
+    "notes": "Theory",
+    "ccdc": null,
+    "icsd": "170519"
 }

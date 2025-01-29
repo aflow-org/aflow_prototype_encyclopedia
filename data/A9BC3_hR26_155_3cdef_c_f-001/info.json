@@ -43,5 +43,9 @@
     "alias": "A9BC3_hR26_155_3cdef_c_f-001",
     "number_of_species": 3,
     "pearson_symbol": "hR26",
-    "space_group_number": 155
+    "space_group_number": 155,
+    "comments": "DyNi$_{3}$Al$_{9}$ and YNi$_{3}$Al$_{9}$ have additional rare earth atoms on the (1b) (1/2 1/2 1/2) site and aluminum on another (6f) site, with partial occupancy on the rare earth (1b) and (1c) sites as well as the (3d) and both (6f) aluminum sites (Gladyshevskii, 1993, Table 2). \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "105031"
 }

@@ -35,5 +35,9 @@
     "alias": "AB3_oC16_40_b_a2b",
     "number_of_species": 2,
     "pearson_symbol": "oC16",
-    "space_group_number": 40
+    "space_group_number": 40,
+    "comments": "This is an updated version of the \\href{current_web_home_dir/AB3_oC16_20_a_bc-001}{D0$_{7}$ CrO$_{3}$ structure}. \n (Bystr\\\"{o}m, 1950) give this structure in the $C2cm$ setting of space group \\#40.  We have shifted it to the standard $Ama2$ setting.",
+    "notes": "Orthorhombic CrO$_{3}$",
+    "ccdc": null,
+    "icsd": "24043"
 }

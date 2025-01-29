@@ -57,5 +57,9 @@
     "alias": "AB_oP48_61_3c_3c",
     "number_of_species": 2,
     "pearson_symbol": "oP48",
-    "space_group_number": 61
+    "space_group_number": 61,
+    "ccdc": "725244",
+    "comments": "Benzene is a liquid at temperatures above 6$^\\circ$C (279K). This data was constructed from experiments at 150K. The hydrogen atomic positions were approximated to agree with the chemistry of the benzene molecule.",
+    "notes": "Benzene",
+    "icsd": null
 }

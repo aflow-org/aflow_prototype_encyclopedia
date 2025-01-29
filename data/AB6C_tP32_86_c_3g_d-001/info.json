@@ -38,5 +38,9 @@
     "alias": "AB6C_tP32_86_d_3g_c",
     "number_of_species": 3,
     "pearson_symbol": "tP32",
-    "space_group_number": 86
+    "space_group_number": 86,
+    "comments": "The atomic positions were originally determined using setting 1 of space group $P4_{2}/n$ \\#86.  We used FINDSYM to change the origin to setting 2. \n The sites labeled ``O'' are actually OH radicals. \n Although the replacement of fluorine by OH does not affect the shape of the Sb-(F,OH)$_{6}$ ions, it has a profound effect on the structure, as can be seen by looking at \\href{current_web_home_dir/A6BC_cP32_205_d_a_b-001}{NaSbF$_{6}$} and \\href{current_web_home_dir/A6BC_hP16_163_i_b_c-001}{NaSbF$_{4}$(OH)$_{2}$ ($J1_{12}$)}.",
+    "notes": "$J1_{11}$",
+    "ccdc": null,
+    "icsd": "4211"
 }

@@ -55,5 +55,9 @@
     "alias": "A2B_mC48_15_ae3f_2f",
     "number_of_species": 2,
     "pearson_symbol": "mC48",
-    "space_group_number": 15
+    "space_group_number": 15,
+    "comments": "Our original work (Mehl, 2017) misplaced the O II Wycoff position.  This is corrected here.",
+    "notes": "Coesite",
+    "ccdc": null,
+    "icsd": "100749"
 }

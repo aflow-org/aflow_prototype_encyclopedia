@@ -25,5 +25,9 @@
     "alias": "ABC_tI12_109_a_a_a",
     "number_of_species": 3,
     "pearson_symbol": "tI12",
-    "space_group_number": 109
+    "space_group_number": 109,
+    "comments": "The sample examined by (Klepp, 1982) has 2\\% silicon on the platinum site and 2\\% platinum on the silicon site.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "27224"
 }

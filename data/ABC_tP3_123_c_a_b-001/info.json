@@ -19,5 +19,9 @@
     "alias": "ABC_tP3_123_c_a_b-001",
     "number_of_species": 3,
     "pearson_symbol": "tP3",
-    "space_group_number": 123
+    "space_group_number": 123,
+    "comments": "The structure is inferred from comments made in (Arnott, 1960).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "53505"
 }

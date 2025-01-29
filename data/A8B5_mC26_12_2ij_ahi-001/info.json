@@ -43,5 +43,9 @@
     "alias": "A8B5_mC26_12_2ij_ahi-001",
     "number_of_species": 2,
     "pearson_symbol": "mC26",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "comments": "(Kawada, 1975) give the structural information in setting $F2/m$ of space group \\#12.  We used FINDSYM to transform this into the standard $C2/m$ setting. This involves a considerable shuffling of the primitive vectors.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "42040"
 }

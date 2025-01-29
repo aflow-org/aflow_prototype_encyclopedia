@@ -21,5 +21,9 @@
     "alias": "AB3_hP4_187_e_fh",
     "number_of_species": 2,
     "pearson_symbol": "hP4",
-    "space_group_number": 187
+    "space_group_number": 187,
+    "comments": "The reference presents both experimental findings and the results of density functional theory calculations. We obtain our data from the density functional theory calculations at equilibrium ($P = 0$), which are consistent with the lattice constants found experimentally.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "169884"
 }

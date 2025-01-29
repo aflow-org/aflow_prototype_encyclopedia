@@ -43,5 +43,9 @@
     "alias": "A7B8_mC30_12_aehi_2ij-001",
     "number_of_species": 2,
     "pearson_symbol": "mC30",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "comments": "(Chevreton, 1961) present this structure in setting $F2/m$ of space group \\#12.  We used FINDSYM to put it in the standard $C2/m$ setting.  This reduced the volume of the conventional unit cell to half of that given in the original reference.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "26977"
 }

@@ -54,5 +54,9 @@
     "alias": "AB4C24D12_tI82_87_a_h_2h2i_hi",
     "number_of_species": 4,
     "pearson_symbol": "tI82",
-    "space_group_number": 87
+    "space_group_number": 87,
+    "comments": "(Papike, 1965) found that the composition of the Si-II (16h) site was actually Al$_{0.458}$Si$_{0.542}$, and which we list as silicon.  This is richer in aluminum than assumed by Pauli, who gave the total aluminum/silicon composition as AlSi$_{3}$.  If we assume that the Si-I (8h) site is only filled by silicon atoms, then Pauli's composition for the Si-II site is Al$_{0.375}$Si$_{0.625}$. The name ``marialite'' scapolite distinguishes this from meionite scapolite, which replaces the sodium atoms by calcium but also includes SiO$_{4}$ and CO$_{3}$, which replace the chlorine atoms.  According to Pauli, ``The minerals of the scapolite group can be considered as solid solution of two end-members, marialite, Na$_{4}$Al$_{3}$Si$_{9}$O$_{24}$Cl, and meionite, Ca$_{4}$Al$_{6}$Si$_{6}$O$_{24}$(SO$_{4}$,CO$_{3}$), in various proportions.''",
+    "notes": "$S6_{4}$, Marialite Scapolite",
+    "ccdc": null,
+    "icsd": "9502"
 }

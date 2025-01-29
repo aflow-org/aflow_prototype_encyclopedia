@@ -35,5 +35,9 @@
     "alias": "A3B2_oF40_43_ab_b",
     "number_of_species": 2,
     "pearson_symbol": "oF40",
-    "space_group_number": 43
+    "space_group_number": 43,
+    "comments": "The $z=0$ plane is not fixed in space group $Fdd2$ \\#43.  Here it is arbitrarily set so that $z_{3} = 0$ for the zirconium atom.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "58233"
 }

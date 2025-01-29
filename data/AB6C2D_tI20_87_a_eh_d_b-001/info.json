@@ -25,5 +25,9 @@
     "alias": "AB6C2D_tI20_87_a_eh_d_b",
     "number_of_species": 4,
     "pearson_symbol": "tI20",
-    "space_group_number": 87
+    "space_group_number": 87,
+    "comments": "This double perovskite crystal is the ground state structure of Sr$_{2}$NiWO$_{6}$.  Above 300$^{\\circ}$C it transforms into the \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite $E2_{1}$ structure}.  \n (Iwanga, 2000) places the strontium atoms on the (4c) Wyckoff position, but gives the coordinates for the (4d) site.  The interatomic distances they give with this structure are consistent with the (4d) site.",
+    "notes": "Double Perovskite",
+    "ccdc": null,
+    "icsd": "91791"
 }

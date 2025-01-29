@@ -37,5 +37,9 @@
     "alias": "AB3_oC48_63_ad_cfgh-001",
     "number_of_species": 2,
     "pearson_symbol": "oC48",
-    "space_group_number": 63
+    "space_group_number": 63,
+    "comments": "AlF$_{3}$ has a variety of polymorphs (Le Bail, 2006) including: \\begin{itemize} \\item $\\alpha$-AlF$_{3}$, which takes the \\href{current_web_home_dir/A3B_hR8_167_e_b-001}{rhombohedral FeF$_{3}$ ($D0_{12}$)} structure. \\item $\\beta$-AlF$_{3}$ is this \\href{current_web_home_dir/AB3_oC48_63_ad_cfgh-001}{body-centered orthorhombic structure}. \\item $\\eta$-AlF$_{3}$ has the \\href{current_web_home_dir/AB3_cF64_227_c_f-001}{$\\beta$-AlH$_{3}$ structure}. \\item $\\kappa$-AlF$_{3}$ is a \\href{current_web_home_dir/AB3_tP40_127_di_cg2ij-001}{tetragonal structure}. \\item $\\theta$-AlF$_{3}$, also known as $\\tau$-AlF$_{3}$, is a \\href{current_web_home_dir/AB3_tP64_129_2cdi_2cfhijk-001}{larger tetragonal structure}. \\item Above 713K AlF$_{3}$ transforms into the cubic \\href{current_web_home_dir/A3B_cP4_221_c_b-001}{ReO$_{3}$ ($D0_{9}$) structure} (Morelock, 2014). \\end{itemize}",
+    "notes": "$\\beta$-AlF$_{3}$",
+    "ccdc": null,
+    "icsd": "202681"
 }

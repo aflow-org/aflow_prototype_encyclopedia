@@ -23,5 +23,9 @@
     "alias": "A4B_tI20_141_h_a-001",
     "number_of_species": 2,
     "pearson_symbol": "tI20",
-    "space_group_number": 141
+    "space_group_number": 141,
+    "comments": "$\\beta$-ThCl$_{4}$ is stable above 405$^\\circ$C.  Below that temperature it transforms into \\href{current_web_home_dir/A4B_tI20_88_f_a-001}{$\\alpha$-ThCl$_{4}$}. (Mason, 1974)",
+    "notes": "$\\beta$-ThCl$_{4}$",
+    "ccdc": null,
+    "icsd": "26197"
 }

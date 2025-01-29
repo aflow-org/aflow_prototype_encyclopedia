@@ -27,5 +27,9 @@
     "alias": "A8B3_cF176_219_eh_abe-001",
     "number_of_species": 2,
     "pearson_symbol": "cF176",
-    "space_group_number": 219
+    "space_group_number": 219,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "2767"
 }

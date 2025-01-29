@@ -30,5 +30,9 @@
     "alias": "A2B_tP24_135_gh_h",
     "number_of_species": 2,
     "pearson_symbol": "tP24",
-    "space_group_number": 135
+    "space_group_number": 135,
+    "comments": "SeO$_{2}$ has been observed in three phases (Orosel, 2004): \\begin{itemize} \\item \\href{current_web_home_dir/A2B_tP24_135_gh_h-001}{Downeyite, $\\alpha$-SeO$_{2}$, {\\em Strukturbericht $C47$}}, the ground state (this structure), \\item \\href{current_web_home_dir/A2B_oP12_26_abc_ab-002}{$\\beta$-SeO$_{2}$}, and \\item \\href{current_web_home_dir/A2B_oP24_26_2a2b2c_2a2b-001}{$\\gamma$-SeO$_{2}$}. \\end{itemize} ~ \\vspace{-.25in} \n The later two phases form at high pressures (up to 15GPa and 820$^{\\circ}$C) but upon quenching and slowly reducing the pressure they remain metastable under ambient conditions. \n Data for this structure was taken at 139K.",
+    "notes": "$C47$, Downeyite, $\\alpha$-SeO${2}$",
+    "ccdc": null,
+    "icsd": "72367"
 }

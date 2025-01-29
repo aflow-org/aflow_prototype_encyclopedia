@@ -24,5 +24,9 @@
     "alias": "AB11_cP36_221_c_agij",
     "number_of_species": 2,
     "pearson_symbol": "cP36",
-    "space_group_number": 221
+    "space_group_number": 221,
+    "comments": "(Pearson, 1972) state that this structure occurs in ``a number of Hg and Cd phases with Group I or IIA metals or rare earths.''  We lists those which we have found in the literature.",
+    "notes": "$D2_{e}$",
+    "ccdc": null,
+    "icsd": "58656"
 }

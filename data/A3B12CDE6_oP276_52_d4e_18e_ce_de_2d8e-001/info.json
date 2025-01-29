@@ -223,5 +223,9 @@
     "alias": "A3B12CDE6_oP276_52_d4e_18e_ce_de_2d8e",
     "number_of_species": 5,
     "pearson_symbol": "oP276",
-    "space_group_number": 52
+    "space_group_number": 52,
+    "comments": "(Andre\\ss, 1939) determined the crystal structure of brom-carnallite, Mg(H$_{2}$O)$_{6}$K(Cl,Br)$_{3}$, finding that it was in space group $P4/n$ \\#85.  (Herrmann, 1939) gave this structure the {\\em Strukturbericht} designation $E2_{6}$. Later, (Schlemper, 1985), determined that the true space group was $Pnna$ \\#52, and were able to determine the positions of the hydrogen atoms in the water molecules.  We present this structure here.  For the original structure \\href{current_web_home_dir/A3B6CD_tP44_85_acg_3g_bc_d-001}{see the $E2_{6}$ page}.",
+    "notes": "Carnallite",
+    "ccdc": null,
+    "icsd": "64691"
 }

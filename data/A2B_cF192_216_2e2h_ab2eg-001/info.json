@@ -35,5 +35,9 @@
     "alias": "A2B_cF192_216_2e2h_ab2eg-001",
     "number_of_species": 2,
     "pearson_symbol": "cF192",
-    "space_group_number": 216
+    "space_group_number": 216,
+    "comments": "TmNi$_{2}$ is found in three forms (Deutz, 1989): \\begin{itemize} \\item A \\href{current_web_home_dir/A2B_cF192_216_2e2h_ab2eg-001}{low temperature face-centered cubic structure} (this structure) at room temperature and below, \\item a \\href{current_web_home_dir/A2B_cP24_215_ei_ace-001}{simple cubic structure} near 700$^\\circ$, and \\item the \\href{current_web_home_dir/A2B_cF24_227_c_b-001}{$C15$ cubic Laves structure} for higher temperatures. \\end{itemize} ~ \\vspace{-.25in} \n  The data for this structure was taken at 4.2K.",
+    "notes": "LT",
+    "ccdc": null,
+    "icsd": "105432"
 }

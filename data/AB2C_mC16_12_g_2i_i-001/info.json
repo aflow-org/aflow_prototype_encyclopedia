@@ -37,5 +37,9 @@
     "alias": "AB2C_mC16_12_g_2i_i",
     "number_of_species": 3,
     "pearson_symbol": "mC16",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "comments": "This is the low temperature structure of FeTlSe$_{2}$/FeTlS$_{2}$.  At high temperatures it transforms to the \\href{current_web_home_dir/AB2C_tI8_119_c_e_a-001}{tetragonal FeTlS$_{2}$ structure}.",
+    "notes": "Monoclinic FeTlSe$_{2}$",
+    "ccdc": null,
+    "icsd": "100354"
 }

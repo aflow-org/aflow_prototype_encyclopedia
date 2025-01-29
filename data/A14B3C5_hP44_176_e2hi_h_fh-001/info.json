@@ -45,5 +45,9 @@
     "alias": "A14B3C5_hP44_176_e2hi_h_fh-001",
     "number_of_species": 3,
     "pearson_symbol": "hP44",
-    "space_group_number": 176
+    "space_group_number": 176,
+    "comments": "The apatites have similar structures differing in the details. \n In this structure [Pb$_{10}$(PO$_{4}$)$_{6}$O] only 1/4 of the O-I (4e) sites are occupied. \n In Pb$_{3}$(PO$_{4}$O)$_{2}$ (Hata, 1980) the (4e) site is not occupied, and only 3/4 of the Pb-I (4f) sites are filled. \n In \\href{current_web_home_dir/A5BC12D3_hP42_176_fh_a_2hi_h-001}{fluorapatite (Ca$_{5}$(PO$_{4}$)$_{3}$F, $H5_{7}$)} calcium replaces the lead atoms and the partially filled O-I (4e) site is replace by filled fluorine (2a) (0,0,1/4).",
+    "notes": "Lead Apatite",
+    "ccdc": null,
+    "icsd": "9870"
 }

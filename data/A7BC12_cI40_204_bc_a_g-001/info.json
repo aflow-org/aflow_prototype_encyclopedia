@@ -21,5 +21,9 @@
     "alias": "A7BC12_cI40_204_bc_a_g",
     "number_of_species": 3,
     "pearson_symbol": "cI40",
-    "space_group_number": 204
+    "space_group_number": 204,
+    "comments": "This is a double perovskite structure. It is stable above 3GBar and above room temperature, but is metastable under ambient conditions (Gilioli 2005ab).  The actual composition of the measured sample is Na$_{0.95}$Mn$_{7.05}$O$_{12}$, with the excess manganese displacing some of the sodium atoms on the (2a) site. \n The (6b) and (6c) sites may be populated by two species of atoms. In that case we get the quaternary form of this structure, prototype \\href{current_web_home_dir/AB3C4D12_cI40_204_a_b_c_g-001}{CaCu$_{3}$Mn$_{4}$O$_{12}$}.",
+    "notes": "Double Perovskite",
+    "ccdc": null,
+    "icsd": "154189"
 }

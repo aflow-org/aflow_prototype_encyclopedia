@@ -69,5 +69,9 @@
     "alias": "A24B11_hP70_186_2ab7c_ab3c-001",
     "number_of_species": 2,
     "pearson_symbol": "hP70",
-    "space_group_number": 186
+    "space_group_number": 186,
+    "comments": "Space group $P6_{3}mc$ \\#186 allows an arbitrary placement of the origin of the $z$-axis.  Here we set $z_{6} = 0$.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "102101"
 }

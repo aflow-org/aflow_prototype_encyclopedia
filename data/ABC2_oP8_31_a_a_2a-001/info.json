@@ -37,5 +37,9 @@
     "alias": "ABC2_oP8_31_a_a_2a-001",
     "number_of_species": 3,
     "pearson_symbol": "oP8",
-    "space_group_number": 31
+    "space_group_number": 31,
+    "comments": "CrOOH is found naturally in three forms.  They are usually found together with Cr$_{2}$O$_{3}$ in a mineral known as merumite (Milton, 1976): \\begin{itemize} \\item \\href{current_web_home_dir/ABC2_hR4_160_a_a_2a-002}{Grimaldiite, rhombohedral $\\alpha$-CrOOH}, \\item \\href{current_web_home_dir/ABC2_oP8_31_a_a_2a-001}{Guyanaite, orthorhombic $\\beta$-CrOOH} (this structure), and \\item Bracewellite, orthorhombic $\\gamma$-CrOOH is in the \\href{current_web_home_dir/AB2C2_oC20_63_c_f_2c-001}{Lepidocrocite ($\\gamma$-FeOOH, $E0_{4}$)} structure. \\end{itemize} ~ \\vspace{-.25in}\n (Jahn, 2012) give the data for this structure in the $P2_{1}nm$ setting of space group \\#31.  We use FINDSYM to transform this to the standard $Pmn2_{1}$ setting. \n Space group $Pmn2_{1}$ \\#31 does not specify the origin of the $z$-axis.  We choose it by setting $z_{1} = 0$ for the position of the chromium atom.",
+    "notes": "Guyanaite, $\\beta$-CrOOH",
+    "ccdc": null,
+    "icsd": "none"
 }

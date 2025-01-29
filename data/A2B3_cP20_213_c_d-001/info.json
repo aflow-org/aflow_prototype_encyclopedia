@@ -21,5 +21,9 @@
     "alias": "A2B3_cP20_213_c_d-001",
     "number_of_species": 2,
     "pearson_symbol": "cP20",
-    "space_group_number": 213
+    "space_group_number": 213,
+    "comments": "The composition of the site we label ``Co (8c)'' is actually Co$_{7.616}$Mn$_{0.834}$, and the site labeled ``Zn (12d)'' is Zn$_{8.7756}$Co$_{0.684}$Mn$_{2.448}$. (Bocarsly, 2019) \n Many other compositions are observed. \n We use the synchrotron data taken by (Bocarsly, 2019) at 100K. \n This structure can also be found in the enantiomorphic space group $P4_{3}32$ \\#212.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "19272"
 }

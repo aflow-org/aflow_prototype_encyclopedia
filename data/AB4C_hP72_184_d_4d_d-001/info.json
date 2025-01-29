@@ -55,5 +55,9 @@
     "alias": "AB4C_hP72_184_d_4d_d",
     "number_of_species": 3,
     "pearson_symbol": "hP72",
-    "space_group_number": 184
+    "space_group_number": 184,
+    "comments": "Klap refers calls this AlPO$_{4}$-5. \n Space group $P6cc$ \\#186 allows an arbitary origin of the $z$-axis.  Here we set $z_{1} = 0$ for the Al (12d) site. \n Polytypes of this compound also appear in space groups \\href{current_web_home_dir/AB4C_hP72_168_2d_8d_2d-001}{$P6$ \\#168 (AB4C\\_hP72\\_168\\_2d\\_8d\\_2d)} and \\href{current_web_home_dir/AB2_hP72_192_m_j2kl-001}{$P6/mcc$ \\#192 (AB2\\_hP72\\_192\\_m\\_j2kl)}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "91671"
 }

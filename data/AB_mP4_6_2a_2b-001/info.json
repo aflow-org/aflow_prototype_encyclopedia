@@ -39,5 +39,9 @@
     "alias": "AB_mP4_6_2b_2a",
     "number_of_species": 2,
     "pearson_symbol": "mP4",
-    "space_group_number": 6
+    "space_group_number": 6,
+    "comments": "In the original the site occupations are mixed with Ni majority (0.85) on sites (1a) and Fe majority on (1b).",
+    "notes": "Tetrataenite",
+    "ccdc": null,
+    "icsd": "56386"
 }

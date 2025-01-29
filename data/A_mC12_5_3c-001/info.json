@@ -42,5 +42,9 @@
     "alias": "A_mC12_5_3c",
     "number_of_species": 1,
     "pearson_symbol": "mC12",
-    "space_group_number": 5
+    "space_group_number": 5,
+    "comments": "This was the original determination of the structure of Po, given the {\\em Strukturbericht} designation $A19$ by (Gottfried, 1938, 4-5). Eventually it was found that the sample used here was a mixture of \\href{current_web_home_dir/A_cP1_221_a-001}{$\\alpha$-Po ($A_h$)} and \\href{current_web_home_dir/A_hR1_166_a-001}{$\\beta$-Po ($A_i$)} (Donohue, 1982, 390). We retain the $A19$ page for historical interest. \n The ICSD entry uses polonium coordinates that are slightly different from the ones we use.  Both sets are published in (Rollier, 1936).",
+    "notes": "$A19$ ({\\em Obsolete})",
+    "ccdc": null,
+    "icsd": "31684"
 }

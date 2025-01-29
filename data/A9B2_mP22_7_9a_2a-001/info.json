@@ -89,5 +89,9 @@
     "alias": "A9B2_mP22_7_9a_2a",
     "number_of_species": 2,
     "pearson_symbol": "mP22",
-    "space_group_number": 7
+    "space_group_number": 7,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "414305"
 }

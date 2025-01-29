@@ -23,5 +23,9 @@
     "alias": "A_tP12_138_bi",
     "number_of_species": 1,
     "pearson_symbol": "tP12",
-    "space_group_number": 138
+    "space_group_number": 138,
+    "comments": "This is a tetragonal allotrope of the diamond structure found computationally in C, Si, and Ge. The authors state ``the T12 polymorph naturally accounts for the experimental $d$ spacings and Raman spectra of synthesized metastable Ge and Si-XIII phases with long-puzzling unknown structures, respectively.''",
+    "notes": "T12, Theory",
+    "ccdc": null,
+    "icsd": "none"
 }

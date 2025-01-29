@@ -51,5 +51,9 @@
     "alias": "A8B2C12D2E_oI50_23_bcfk_i_3k_j_a",
     "number_of_species": 5,
     "pearson_symbol": "oI50",
-    "space_group_number": 23
+    "space_group_number": 23,
+    "comments": "The composition of the Zn (2a) site is actually Zn$_{0.85}$Fe$_{0.15}$. Here we assume that it is purely zinc.",
+    "notes": "Stannoidite",
+    "ccdc": null,
+    "icsd": "41894"
 }

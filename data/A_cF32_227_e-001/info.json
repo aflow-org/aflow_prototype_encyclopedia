@@ -19,5 +19,9 @@
     "alias": "A_cF32_227_e-001",
     "number_of_species": 1,
     "pearson_symbol": "cF32",
-    "space_group_number": 227
+    "space_group_number": 227,
+    "comments": "This was predicted by (Sheng, 2011) and found experimentally by (Xu, 2020) and others. \n The ICSD entry is from (Kang, 2020), who gave the atomic positions in terms of setting 1 of space group $Fd\\overline{3}m$ \\#227.  We used FINDSYM to change this to the standard setting 2.",
+    "notes": "T-Carbon",
+    "ccdc": null,
+    "icsd": "689215"
 }

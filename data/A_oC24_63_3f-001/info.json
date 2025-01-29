@@ -33,5 +33,9 @@
     "alias": "A_oC24_63_3f",
     "number_of_species": 1,
     "pearson_symbol": "oC24",
-    "space_group_number": 63
+    "space_group_number": 63,
+    "comments": "Unlike the \\href{current_web_home_dir/A_cF136_227_aeg-001}{Si$_{34}$} and \\href{current_web_home_dir/A_cP46_223_cik-001}{Si$_{46}$} clathrates, this is an experimentally determined structure, prepared by removing sodium atoms from an Na$_{4}$Si$_{24}$ predecessor. \n There is no consistency in the naming of these clathrate structures.  Si$_{34}$ and Si$_{46}$ were named by their authors based on the size of the primitive unit cell.  Here (Kim, 2015) has chosen to name the structure based on the size of the conventional cell.  For now, at least, we will follow the authors' naming schemes for these structures.",
+    "notes": "Clathrate",
+    "ccdc": null,
+    "icsd": "291479"
 }

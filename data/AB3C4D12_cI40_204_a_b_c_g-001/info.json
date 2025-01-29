@@ -21,5 +21,9 @@
     "alias": "AB3C4D12_cI40_204_a_b_c_g-001",
     "number_of_species": 4,
     "pearson_symbol": "cI40",
-    "space_group_number": 204
+    "space_group_number": 204,
+    "comments": "This is the quaternary form of the double perovskite \\href{current_web_home_dir/A7BC12_cI40_204_bc_a_g-001}{NaMn$_{7}$O$_{12}$}.",
+    "notes": "Double Perovskite",
+    "ccdc": null,
+    "icsd": "15757"
 }

@@ -43,5 +43,9 @@
     "alias": "AB2_hP12_143_cd_ab2d",
     "number_of_species": 2,
     "pearson_symbol": "hP12",
-    "space_group_number": 143
+    "space_group_number": 143,
+    "comments": "MoS$_{2}$ exists naturally in two forms: a \\href{current_web_home_dir/AB2_hR3_160_a_2a-001}{rhombohedral structure} and \\href{current_web_home_dir/AB2_hP6_194_c_f-001}{the hexagonal structure, molybdenite, {\\em Strukturbericht} $C7$}.  The two structures differ due to the stacking of the MoS$_{2}$ layers. \n Depending on the preparation method, MoS$_{2}$ can exist in other forms, including this trigonal structure. \n Space group $P3$ \\# 143 allows an arbitrary choice of the origin of the z-axis.  Here we choose z$_{1}$ = 1/2 for the Mo I site.",
+    "notes": "Trigonal MoS$_{2}$",
+    "ccdc": null,
+    "icsd": "none"
 }

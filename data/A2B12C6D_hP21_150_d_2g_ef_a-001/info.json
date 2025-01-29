@@ -37,5 +37,9 @@
     "alias": "A2B12C6D_hP21_150_d_2g_ef_a",
     "number_of_species": 4,
     "pearson_symbol": "hP21",
-    "space_group_number": 150
+    "space_group_number": 150,
+    "comments": "This is a redetermination of the \\href{current_web_home_dir/A2B6C_hP9_162_c_k_b-001}{$I1_{3}$ structure}.  In addition to locating the hydrogen atoms in the water molecule, (Agron, 1986) show that the space group is $P321$ \\#150, not $P\\overline{3}$ \\#147.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "59143"
 }

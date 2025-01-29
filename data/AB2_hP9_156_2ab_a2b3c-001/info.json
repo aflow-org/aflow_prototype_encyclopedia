@@ -37,5 +37,9 @@
     "alias": "AB2_hP9_156_b2c_3a2bc",
     "number_of_species": 2,
     "pearson_symbol": "hP9",
-    "space_group_number": 156
+    "space_group_number": 156,
+    "comments": "This is the $6H_{(a)}$ structure described by (Mitchell, 1956). He did not list the atomic positions, so the atoms are assumed to be evenly placed along the $z$-axis. \n This is an alternative stacking for CdI$_{2}$, which is usually found in the \\href{current_web_home_dir/AB2_hP3_164_a_d-001}{2H $\\omega$ ($C6$) phase}. \n The \\href{current_web_home_dir/AB2_hP6_186_b_ab-001}{$C27$ structure} was also proposed as a structure of CdI$_{2}$, but this is now depreciated.\n (Mitchell, 1956) lists other possible stackings for CdI$_{2}$. \n Space group $P3m1$ \\#156 allows an arbitary choice for the origin of the $z$-axis.  We exploit this to place the first iodine atom at the origin.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "none"
 }

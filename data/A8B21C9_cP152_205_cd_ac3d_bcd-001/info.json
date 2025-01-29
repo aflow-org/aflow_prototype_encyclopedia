@@ -53,5 +53,9 @@
     "alias": "A8B21C9_cP152_205_cd_ac3d_bcd-001",
     "number_of_species": 3,
     "pearson_symbol": "cP152",
-    "space_group_number": 205
+    "space_group_number": 205,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "24393"
 }

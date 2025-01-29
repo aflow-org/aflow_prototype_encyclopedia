@@ -33,5 +33,9 @@
     "alias": "A5B7_tI24_107_ac_abd",
     "number_of_species": 2,
     "pearson_symbol": "tI24",
-    "space_group_number": 107
+    "space_group_number": 107,
+    "comments": "The origin of the $z$ axis is arbitrary.  We have chosen to place the Ge(2a) atom at the origin, taking $z_{1} = 0$.  (Schubert, 1960) instead set $z_{4} = 0$.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "197263"
 }

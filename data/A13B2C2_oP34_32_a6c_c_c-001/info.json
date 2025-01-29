@@ -71,5 +71,9 @@
     "alias": "A13B2C2_oP34_32_a6c_c_c",
     "number_of_species": 3,
     "pearson_symbol": "oP34",
-    "space_group_number": 32
+    "space_group_number": 32,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "421956"
 }

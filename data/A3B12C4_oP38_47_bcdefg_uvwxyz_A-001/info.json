@@ -51,5 +51,9 @@
     "alias": "A3B12C4_oP38_47_bcdefg_uvwxyz_A-001",
     "number_of_species": 3,
     "pearson_symbol": "oP38",
-    "space_group_number": 47
+    "space_group_number": 47,
+    "comments": "This structure is nearly cubic.  An uncertainty of 0.2{\\AA} in the atomic positions transforms it into a structure resembling \\href{current_web_home_dir/AB3C4D12_cI40_204_a_b_c_g-001}{CaCu$_{3}$Mn$_{4}$O$_{12}$} with the calcium ions removed.  This is a body-centered cubic structure in space group $Im\\overline{3}$ \\#204. \n (Ebbinghaus, 2007) gives the stoichiometry of the sample as Cu$_{2+x}$Ta$_{4}$O$_{12+\\delta}$, with x=0.125 and no information on $\\delta$.  This value of x indicates that about 72\\% of the copper sites are occupied.  The published site-occupancy factors (SOF) do not add up to anything near this result.  The ICSD uses a completely different set of SOF with occupations between 42 and 100\\%, yielding a final composition of Cu$_{3.976}$Ta$_{4}$O$_{12}$.  The CIF associated with this page lists the ICSD SOF.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "160741"
 }

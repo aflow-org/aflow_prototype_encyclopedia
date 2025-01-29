@@ -33,5 +33,9 @@
     "alias": "A3B2_oF80_70_fh_2e-001",
     "number_of_species": 2,
     "pearson_symbol": "oF80",
-    "space_group_number": 70
+    "space_group_number": 70,
+    "comments": "This structure has been rotated from the orientation given by (Dismukes, 1964).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "22236"
 }

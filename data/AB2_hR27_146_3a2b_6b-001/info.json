@@ -73,5 +73,9 @@
     "alias": "AB2_hR27_146_3a2b_6b-001",
     "number_of_species": 2,
     "pearson_symbol": "hR27",
-    "space_group_number": 146
+    "space_group_number": 146,
+    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "notes": "Carlinite",
+    "ccdc": null,
+    "icsd": "59735"
 }

@@ -25,5 +25,9 @@
     "alias": "A2BCD4_tI16_82_ac_b_d_g",
     "number_of_species": 4,
     "pearson_symbol": "tI16",
-    "space_group_number": 82
+    "space_group_number": 82,
+    "comments": "The kesterite structure is related to the \\href{current_web_home_dir/A2BC4D_tI16_121_d_a_i_b-001}{stannite} structure, with differences occurring due to the positioning of the Cu atoms (Hall, 1978). The (2b) Wyckoff position is partially occupied with iron and zinc. We label this site Zn.",
+    "notes": "Kesterite",
+    "ccdc": null,
+    "icsd": "5096"
 }

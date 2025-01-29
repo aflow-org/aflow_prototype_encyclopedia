@@ -27,5 +27,9 @@
     "alias": "AB_oC16_64_e_f-002",
     "number_of_species": 2,
     "pearson_symbol": "oC16",
-    "space_group_number": 64
+    "space_group_number": 64,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "25527"
 }

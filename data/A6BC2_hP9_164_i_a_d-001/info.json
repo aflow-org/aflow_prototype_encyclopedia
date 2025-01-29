@@ -26,5 +26,9 @@
     "alias": "A6BC2_hP9_164_i_a_d",
     "number_of_species": 3,
     "pearson_symbol": "hP9",
-    "space_group_number": 164
+    "space_group_number": 164,
+    "notes": "$J1_{13}$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "24026"
 }

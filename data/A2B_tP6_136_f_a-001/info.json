@@ -22,5 +22,9 @@
     "alias": "A2B_tP6_136_f_a",
     "number_of_species": 2,
     "pearson_symbol": "tP6",
-    "space_group_number": 136
+    "space_group_number": 136,
+    "comments": "TiO$_{2}$ can also be found as \\href{current_web_home_dir/A2B_tI12_141_e_a-001}{anatase ($C5$)} and \\href{current_web_home_dir/A2B_oP24_61_2c_c-001}{brookite ($C21$)}.",
+    "notes": "$C4$, Rutile",
+    "ccdc": null,
+    "icsd": "80843"
 }

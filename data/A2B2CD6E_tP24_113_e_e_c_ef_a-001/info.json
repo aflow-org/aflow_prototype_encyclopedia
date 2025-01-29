@@ -39,5 +39,9 @@
     "alias": "A2B2CD6E_tP24_113_e_e_c_ef_a-001",
     "number_of_species": 5,
     "pearson_symbol": "tP24",
-    "space_group_number": 113
+    "space_group_number": 113,
+    "comments": "This is a derivative of \\href{current_web_home_dir/A2BC7D2_tP24_113_e_a_cef_e-001}{akermanite (Ca$_{2}$MgSi$_{2}$O$_{7}$)} with the oxygen atoms on the (4e) and (8f) sites replaced by sulfur.  The ICSD lists this under the Ca$_{2}$MgSi$_{2}$O$_{7}$ prototype.  Ba$_{2}$ZnGe$_{2}$S$_{6}$O is the oldest structure in the ICSD with this structure, so we choose it as our prototype.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "14174"
 }

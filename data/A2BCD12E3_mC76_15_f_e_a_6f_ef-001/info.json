@@ -75,5 +75,9 @@
     "alias": "A2BCD12E3_mC76_15_f_e_b_6f_ef",
     "number_of_species": 5,
     "pearson_symbol": "mC76",
-    "space_group_number": 15
+    "space_group_number": 15,
+    "comments": "This is a rather idealized version of alluaudite.  (Moore, 1971) gives the composition of the sodium site (Na) as Na$_{0.625}$Mn$_{0.175}$Ca$_{0.125}$, with vacancies on the remaining sites; the manganese (Mn) site is Mn$_{0.950}$Mg$_{0.025}$Li$_{0.025}$; and the iron (Fe) site as Fe$_{0.988}$Mg$_{0.012}$. (Hatert, 2005) puts some sodium atoms on another (4e) site, with $y \\approx 0$; the exact placement and concentration depends upon the manganese content. We may expect similar variations in other compounds having this structure.",
+    "notes": "Alluaudite",
+    "ccdc": null,
+    "icsd": "15241"
 }

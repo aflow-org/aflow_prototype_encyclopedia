@@ -23,5 +23,9 @@
     "alias": "A4B5_tI18_139_i_ah",
     "number_of_species": 2,
     "pearson_symbol": "tI18",
-    "space_group_number": 139
+    "space_group_number": 139,
+    "comments": "This is very similar to the \\href{current_web_home_dir/A8B_tI18_139_hi_a-001}{Pt$_{8}$Ti structure}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "106213"
 }

@@ -31,5 +31,9 @@
     "alias": "A11B3C2_cI64_197_cdf_e_c-001",
     "number_of_species": 3,
     "pearson_symbol": "cI64",
-    "space_group_number": 197
+    "space_group_number": 197,
+    "comments": "The metallic sites are mixed.  While both (Marking, 1993) and (Villars, 2016) assign the Hf II, Hf III and Ta sites as we have, (Marking, 1993) assumes that what we call the Hf I site (their M2 site) is approximately 55\\% hafnium and 45\\% tantalum, making the nominal composition Hf$_{10.1}$Ta$_{2.9}$S$_{3}$.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "73743"
 }

@@ -77,5 +77,9 @@
     "alias": "AB4C12D2E_hP120_179_b_2c_6c_c_b-001",
     "number_of_species": 5,
     "pearson_symbol": "hP120",
-    "space_group_number": 179
+    "space_group_number": 179,
+    "comments": "The O-VI (12c) site, actually a water molecule with undetermined hydrogen positions, is only occupied 50\\% of the time. \n There is also a ``dehydrated'' form, Sc(H$_{2}$O)$_{2}$[BP$_{2}$O$_{8}$], where these water molecules are not present. \n This structure can also be found in the enantiomorphic space group $P6_{1}22$ \\#178.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "416075"
 }

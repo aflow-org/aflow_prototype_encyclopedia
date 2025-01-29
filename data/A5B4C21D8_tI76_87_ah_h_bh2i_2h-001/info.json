@@ -51,5 +51,9 @@
     "alias": "A5B4C21D8_tI76_87_ah_h_bh2i_2h-001",
     "number_of_species": 4,
     "pearson_symbol": "tI76",
-    "space_group_number": 87
+    "space_group_number": 87,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "80614"
 }

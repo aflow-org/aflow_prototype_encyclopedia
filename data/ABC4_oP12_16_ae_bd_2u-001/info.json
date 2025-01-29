@@ -33,5 +33,9 @@
     "alias": "ABC4_oP12_16_ag_cd_2u",
     "number_of_species": 3,
     "pearson_symbol": "oP12",
-    "space_group_number": 16
+    "space_group_number": 16,
+    "comments": "Our original publication of this structure (Mehl, 2017) had numerous errors dating back to the original NRL website.  We have corrected these errors here.  This changed the AFLOW label from ABC4\\_oP12\\_16\\_ag\\_cd\\_2u to ABC4\\_oP12\\_16\\_ae\\_bd\\_2u.  The old AFLOW link will redirect to this page.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "15910"
 }

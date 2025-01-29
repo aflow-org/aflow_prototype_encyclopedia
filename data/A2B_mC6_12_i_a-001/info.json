@@ -27,5 +27,9 @@
     "alias": "A2B_mC6_12_i_a",
     "number_of_species": 2,
     "pearson_symbol": "mC6",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "notes": "Tolbachite",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "66645"
 }

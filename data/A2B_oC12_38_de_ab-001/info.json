@@ -33,5 +33,9 @@
     "alias": "A2B_oC12_38_de_ab",
     "number_of_species": 2,
     "pearson_symbol": "oC12",
-    "space_group_number": 38
+    "space_group_number": 38,
+    "comments": "The published atomic positions put the system in the $Cmcm$ \\#65 space group, despite the authors' statement that the system is in the $Amm2$ \\#38. We forced this system into $Amm2$ by slightly shifting the $y_{4}$ cordinate. If $y_{3} = y_{4}$ then the space group becomes $Cmcm$. \n Space group $Amm2$ \\#38 allows an arbitrary choice of the origin of the $z$-axis.  Here we follow (Stolz, 1962) and set $z_{2} = 0$ for the Au-II position.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "58614"
 }

@@ -24,5 +24,9 @@
     "alias": "A23B6_cF116_225_bd2f_e",
     "number_of_species": 2,
     "pearson_symbol": "cF116",
-    "space_group_number": 225
+    "space_group_number": 225,
+    "comments": "We have moved the ternary compounds with this structure to the \\href{current_web_home_dir/A16B6C7_cF116_225_2f_e_ad-001}{Mg$_{6}$Si$_{7}$Cu$_{16}$ page}.",
+    "notes": "$D8_{a}$",
+    "ccdc": null,
+    "icsd": "104987"
 }

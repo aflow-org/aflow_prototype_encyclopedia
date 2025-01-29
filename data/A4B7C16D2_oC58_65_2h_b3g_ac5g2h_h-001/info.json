@@ -47,5 +47,9 @@
     "alias": "A4B7C16D2_oC58_65_2h_b3g_ac5g2h_h-001",
     "number_of_species": 4,
     "pearson_symbol": "oC58",
-    "space_group_number": 65
+    "space_group_number": 65,
+    "comments": "We use the ambient pressure data from (Hewat, 1990) taken at 22K.  The stoichiometry of this system is Y$_{2}$Ba$_{4}$Cu$_{7}$O$_{15+\\delta}$, and here the O-I (2a) site is only occupied 84\\% of the time, while the O-II (2c) occupation is 24\\%. \n Traditionally this structure is shown in the $Ammm$ setting of space group \\#65 so that the long axis in the $z$-direction.  The standard orientation is $Cmmm$, and we use FINDSYM and AFLOW to rotate the structure, putting the long axis in the $x$-direction.",
+    "notes": "``247 Superconductor''",
+    "ccdc": null,
+    "icsd": "69254"
 }

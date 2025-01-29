@@ -26,5 +26,9 @@
     "alias": "ABC_hR3_160_a_a_a",
     "number_of_species": 3,
     "pearson_symbol": "hR3",
-    "space_group_number": 160
+    "space_group_number": 160,
+    "comments": "(Overell, 1982) does not explicitly give the Wyckoff positions.  We infer them from the C-O and C-S bond lengths.  The experimental data was obtained at 90~K.",
+    "notes": "$F0_{2}$",
+    "ccdc": null,
+    "icsd": "33540"
 }

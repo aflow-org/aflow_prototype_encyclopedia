@@ -27,5 +27,9 @@
     "alias": "A3BC9_hP26_194_h_a_hk-001",
     "number_of_species": 3,
     "pearson_symbol": "hP26",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "comments": "Numerous structures have been proposed for vaterite: (Downs, 2003) lists fifteen.  (Kabalah-Amitai, 2013) found that vaterite consists of at least two coexisting phases: this disordered hexagonal structure proposed by (Kamhi, 1963), and another \\href{current_web_home_dir/ABC3_oP20_62_c_a_cd-001}{orthorhombic but pseudo-hexagonal phase}. \n CaCO$_{3}$ is also found as \\href{current_web_home_dir/ABC3_hR10_167_a_b_e-002}{calcite ($G0_{1}$)}. \n The carbon and oxygen sites in this structure each have 1/3 occupation, giving the final CaCO$_{3}$ stoichiometry.",
+    "notes": "Hexagonal Vaterite",
+    "ccdc": null,
+    "icsd": "15879"
 }

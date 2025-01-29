@@ -25,5 +25,9 @@
     "alias": "A4BC4D_tP10_123_gh_a_i_d",
     "number_of_species": 4,
     "pearson_symbol": "tP10",
-    "space_group_number": 123
+    "space_group_number": 123,
+    "comments": "These compounds form a family of stoichiometric superconductors with transition temperatures $T_{c}$ ranging from 26-37K.",
+    "notes": "Superconductor",
+    "ccdc": null,
+    "icsd": "252344"
 }

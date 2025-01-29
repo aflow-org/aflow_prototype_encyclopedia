@@ -18,5 +18,9 @@
     "alias": "A3B_cP4_221_d_a",
     "number_of_species": 2,
     "pearson_symbol": "cP4",
-    "space_group_number": 221
+    "space_group_number": 221,
+    "comments": "Placing an atom on the origin, {\\em aka} the (1a) Wyckoff position, transforms this into the \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite ($E2_{1}$) structure}.",
+    "notes": "$D0_{9}$, $\\alpha$-ReO$_{3}$",
+    "ccdc": null,
+    "icsd": "16810"
 }

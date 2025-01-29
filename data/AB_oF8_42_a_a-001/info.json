@@ -25,5 +25,9 @@
     "alias": "AB_oF8_42_a_a",
     "number_of_species": 2,
     "pearson_symbol": "oF8",
-    "space_group_number": 42
+    "space_group_number": 42,
+    "notes": "HP",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "20946"
 }

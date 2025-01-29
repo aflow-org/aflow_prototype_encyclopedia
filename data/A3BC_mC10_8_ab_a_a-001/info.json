@@ -41,5 +41,9 @@
     "alias": "A3BC_mC10_8_ab_a_a",
     "number_of_species": 3,
     "pearson_symbol": "mC10",
-    "space_group_number": 8
+    "space_group_number": 8,
+    "comments": "This is a monoclinic ferroelectric distortion of \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{the cubic perovskite structure, $E2_{1}$}. In Pb(Zr$_{x}$Ti$_{1-x}$)O$_{3}$ (aka PZT) it is found only when ${x=0.52}$. Although the second (2a) site is nearly equally occupied by zirconium and titanium atoms, the pictures use Zr atoms. Compare this to the \\href{current_web_home_dir/A3BC_tP5_99_ac_b_a-002}{tetragonal PZT structure}.",
+    "notes": "``PZT''",
+    "ccdc": null,
+    "icsd": "92061"
 }

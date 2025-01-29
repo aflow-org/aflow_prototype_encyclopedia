@@ -23,5 +23,9 @@
     "alias": "A3B2_hP10_176_h_bc",
     "number_of_species": 2,
     "pearson_symbol": "hP10",
-    "space_group_number": 176
+    "space_group_number": 176,
+    "comments": "We have updated the reference for this structure from (Palenzona, 199) in (Hicks, 2019), which does not give the atomic positions, to (Fornasini, 1990), which does.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "106615"
 }

@@ -48,5 +48,9 @@
     "alias": "AB3_mC16_5_c_3c",
     "number_of_species": 2,
     "pearson_symbol": "mC16",
-    "space_group_number": 5
+    "space_group_number": 5,
+    "comments": "This structure was suggested by (Ketelaar, 1935) and given the {\\em Strukturbericht} designation $D0_{15}$ by (Gottfried, 1395) with no reference to the \\href{current_web_home_dir/AB3_hP4_164_a_bd-001}{$D0_{13}$ structure of (Laschkarew, 1930)} found in (Hermann, 1937). \n Ketelaar gave a description of the unit cell a hexagonal setting, but the atomic positions resolve into the body-centered monoclinic cell shown here. This structure, however, has a lower symmetry than the currently accepted structure, which we previously designated $D0_{15}$.  The current accepted structure is \\href{current_web_home_dir/AB3_mC16_12_g_ij-001}{body-centered orthorhombic, space group $C2/m$ \\#12}.",
+    "notes": "$D0_{15}$",
+    "ccdc": null,
+    "icsd": "none"
 }

@@ -51,5 +51,9 @@
     "alias": "AB3C2_oI96_73_f_3f_acde-001",
     "number_of_species": 3,
     "pearson_symbol": "oI96",
-    "space_group_number": 73
+    "space_group_number": 73,
+    "comments": "The first experimental information we have for this structure is from (Juza, 1952), who placed the system in space group $Ibca$ \\#71 bu could not locate the lithium atoms, except to note that they are on a (16f) site. \n (Dadsetani, 2011) used this work as the starting point for first-principles calculations to minimize the total energy of the structure, including the positions of the lithium atoms, keeping the structure in \\href{current_web_home_dir/AB3C2_oI96_73_f_3f_acde-001}{space group $Ibca$}, shown here. \n (Restle, 2020) used ball milling and annealing to produce samples of Li$_{3}$AlP$_{2}$ and Li$_{3}$GaP$_{2}$ and found them to be in \\href{current_web_home_dir/AB3C2_oC48_64_d_dg_ef-001}{space group $Cmce$ \\#64}. While we believe that this work is correct, we present both structures. \n (Dadsetani, 2011) only gave one (16f) position for the lithium atoms, so we generated the other two sets by taking $x \\rightarrow y \\rightarrow z \\rightarrow x$. \n ICSD entry 186820 is no longer in the database.  This suggests that this structure was withdrawn, but we have no confirmation of that.",
+    "notes": "Computational",
+    "ccdc": null,
+    "icsd": "186820"
 }

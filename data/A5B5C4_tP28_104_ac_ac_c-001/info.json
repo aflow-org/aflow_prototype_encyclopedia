@@ -41,5 +41,9 @@
     "alias": "A5B5C4_tP28_104_ac_ac_c",
     "number_of_species": 3,
     "pearson_symbol": "tP28",
-    "space_group_number": 104
+    "space_group_number": 104,
+    "comments": "Space group $P4nc$ \\#104 allows an arbitary placement of the origin of the $z$-axis.  Here we use this freedom to set $z_{1} = 1/2$ for the Ba-I atoms.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "54853"
 }

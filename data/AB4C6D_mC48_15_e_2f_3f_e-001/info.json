@@ -58,5 +58,9 @@
     "alias": "AB4C6D_mC48_15_e_2f_3f_e",
     "number_of_species": 4,
     "pearson_symbol": "mC48",
-    "space_group_number": 15
+    "space_group_number": 15,
+    "comments": "(Onorato, 1929) determined that gypsum was in space group $C2/m$ \\#13, and (Hermann, 1937) assigned this to {\\em Strukturbericht} $H4_{6}$.  However, (Wooster, 1936) and other determined that the correct space group was $C2/c$ \\#15, and (Gottfried, 1938) assigned the $H4_{6}$ symbol to this structure.  We use the 1\\,atmosphere data of (Comodi, 2008), who also determine the positions of the hydrogen atoms.",
+    "notes": "$H4_{6}$, Gypsum",
+    "ccdc": null,
+    "icsd": "161622"
 }

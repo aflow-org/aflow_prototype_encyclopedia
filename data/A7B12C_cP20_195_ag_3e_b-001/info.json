@@ -25,5 +25,9 @@
     "alias": "A7B12C_cP20_195_ag_3e_b-001",
     "number_of_species": 3,
     "pearson_symbol": "cP20",
-    "space_group_number": 195
+    "space_group_number": 195,
+    "comments": "The paired Cd-II and Cd-III sites are never simultaneously occupied. The Cd-II site is filled 53.5\\% of the time, and Cd-III 46.5\\%. For approximate first-principles calculations one could average the two positions.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "84983"
 }

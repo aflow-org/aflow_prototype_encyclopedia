@@ -211,5 +211,9 @@
     "alias": "A17B47_oP128_32_a8c_a23c",
     "number_of_species": 2,
     "pearson_symbol": "oP128",
-    "space_group_number": 32
+    "space_group_number": 32,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "28333"
 }

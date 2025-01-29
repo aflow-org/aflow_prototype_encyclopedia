@@ -25,5 +25,9 @@
     "alias": "A2B8CD_tI24_97_d_k_a_b",
     "number_of_species": 4,
     "pearson_symbol": "tI24",
-    "space_group_number": 97
+    "space_group_number": 97,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "none"
 }

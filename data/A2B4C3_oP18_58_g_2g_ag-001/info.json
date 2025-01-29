@@ -37,5 +37,9 @@
     "alias": "A2B4C3_oP18_58_g_2g_ag-001",
     "number_of_species": 3,
     "pearson_symbol": "oP18",
-    "space_group_number": 58
+    "space_group_number": 58,
+    "comments": "This is classified as a \\href{https://en.wikipedia.org/wiki/Zintl_phase}{Zintl phase}, that is, a compound formed of an alkali or alkaline metal and atomic species from the right side of the periodic table.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "61335"
 }

@@ -37,5 +37,9 @@
     "alias": "A5B6C2_hP13_157_2ac_2c_b",
     "number_of_species": 3,
     "pearson_symbol": "hP13",
-    "space_group_number": 157
+    "space_group_number": 157,
+    "comments": "The original reference (Bystr\\\"{o}m, 1950) lists this structure as Ag$_{5}$Pb$_{2}$O$_{6}$, while (Villars, 1985) lists it as Ag$_{2}$PbO$_{3}$. (Bystr\\\"{o}m, 1950) provides three Wyckoff positions for Ag: (1a), (1a), and (3c), while (Villars, 1985) only provides two: (1a) and (3c), giving rise to the stoichiometry discrepancy. While both descriptions yield space group $P31m$ \\#157, we use the structure and coordinates provided by the original reference (Bystr\\\"{o}m, 1950).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "24038"
 }

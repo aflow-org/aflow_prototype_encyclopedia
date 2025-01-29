@@ -27,5 +27,9 @@
     "alias": "A5B3C16_cP96_222_ce_d_fi",
     "number_of_species": 3,
     "pearson_symbol": "cP96",
-    "space_group_number": 222
+    "space_group_number": 222,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "none"
 }

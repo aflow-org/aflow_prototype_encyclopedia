@@ -64,5 +64,9 @@
     "alias": "AB8C4_mC52_12_i_gi3j_2j",
     "number_of_species": 3,
     "pearson_symbol": "mC52",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "comments": "Beginning with the $S6_{7}$ defining paper of (Taylor, 1933) all researchers agree that the sites Si-I and Si-II are actually a random mixture of silicon and aluminum with overall stoichiometry AlSi$_{3}$. Most results found in (Downs, 2003) assume that this composition holds independently for both sites but (Scambos, 1987) states that the Si-I site is Al$_{1.064}$Si$_{2.936}$ while the Si-II site is Al$_{0.936}$Si$_{3.064}$. \n (Scambos, 1987) list the coordinate y$_{8}$ = 0.18813 for the Si-II site in Table 2.  This position does not result in the expected SiO$_{4}$ tetrahedra, and the interatomic distances and angles found do not agree with their Table 5. (Downs, 2003) correct this to y$_{8}$ = 0.11813, and this value results in good tetrahedra and reproduces the distances and angles reported by (Scambos, 1987).  We use this later value on this page.",
+    "notes": "$S6_{7}$, Sanidine",
+    "ccdc": null,
+    "icsd": "202476"
 }

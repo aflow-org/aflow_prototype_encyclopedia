@@ -59,5 +59,9 @@
     "alias": "A2B4C_mP28_14_abe_4e_e",
     "number_of_species": 3,
     "pearson_symbol": "mP28",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "comments": "This is the monoclinic phase of Cu$_{2}$OSeO$_{3}$.  There is also a \\href{current_web_home_dir/A2B4C_cP56_198_ab_2a2b_2a-001}{cubic phase}.",
+    "notes": "Mono. Cu$_{2}$OSeO$_{3}$",
+    "ccdc": null,
+    "icsd": "60653"
 }

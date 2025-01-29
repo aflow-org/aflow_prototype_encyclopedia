@@ -61,5 +61,9 @@
     "alias": "AB2C15D6E_oI100_74_e_g_e2hi2j_hj_a-001",
     "number_of_species": 5,
     "pearson_symbol": "oI100",
-    "space_group_number": 74
+    "space_group_number": 74,
+    "comments": "This is technically named moskvinite-(Y).  The yttrium on the (4a) site can be replaced rare-earth elements.  The composition of this sample is actually Na$_{2.06}$K$_{0.95}$(Y$_{0.77}$Dy$_{0.09}$Gd$_{0.04}$Er$_{0.04}$Ho$_{0.02}$Sm$_{0.02}$Nd$_{0.01}$Tb$_{0.01}$)$_{\\Sigma 1.00}$Si$_{6}$O$_{15}$. \n (Sokolova, 2003) give the data for this structure in the $Ibmm$ setting of space group \\#74.  We used FINDSYM to shift this to the standard $Imma$ setting.  This involved rotation of the axes and shifting the Y-I atom from (1/4 1/4 1/4) to the origin.",
+    "notes": "Moskvinite",
+    "ccdc": null,
+    "icsd": "97289"
 }

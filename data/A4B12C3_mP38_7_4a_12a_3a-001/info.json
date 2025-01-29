@@ -137,5 +137,9 @@
     "alias": "A4B12C3_mP38_7_4a_12a_3a-001",
     "number_of_species": 3,
     "pearson_symbol": "mP38",
-    "space_group_number": 7
+    "space_group_number": 7,
+    "comments": "Aurivillius phases are layered tetragonal materials with composition (Me$'_{2}$O$_{2}$)$^{2+}$(Me$_{m-1}$R$_{m}$O$_{3m+1}$)$^{2-}$ (Me$_{m-1}$Me$'_{2}$R$_{m}$O$_{3(m+1)}$), where Me and Me' are metals and R is a transition metal with a charge of +4 or +5. (Subbaro, 1962) \n (Guo, 2019) describe this system in the base-centered $B1a1$ representation of space group \\#7.  This representation produces a conventional cell that is very close to tetragonal at the cost of doubling the cell size.  We used FINDSYM and AFLOW to transform this to the standard $Pc$ setting. \n (Guo, 2019) used a non-standard representation of the $B1a1$ symmetry operations.  The ICSD entry for this structure, as well as the companion structure 38988, used the standard representation.  As a result, the CIFs from the ICSD entries do not represent the correct structure. \n If we allow an uncertainty of 0.5{\\AA} in the atomic positions this structure becomes virtually identical with the \\href{current_web_home_dir/A4B12C3_oC76_41_2b_6b_ab-001}{orthorhombic structure} found by (Dorrian, 1971).",
+    "notes": "$m = 3$ Aurivillius",
+    "ccdc": null,
+    "icsd": "38993"
 }

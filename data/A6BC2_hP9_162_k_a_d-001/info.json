@@ -23,5 +23,9 @@
     "alias": "A6BC2_hP9_162_k_a_d",
     "number_of_species": 3,
     "pearson_symbol": "hP9",
-    "space_group_number": 162
+    "space_group_number": 162,
+    "comments": "This is the ternary form of the \\href{current_web_home_dir/AB2_hP9_162_ad_k-001}{$L'3_{2}$ ($\\beta$-V$_{2}$N) structure}.",
+    "notes": "Rosiaite",
+    "ccdc": null,
+    "icsd": "81387"
 }

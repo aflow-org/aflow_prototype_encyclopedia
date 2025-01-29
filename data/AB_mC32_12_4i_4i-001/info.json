@@ -55,5 +55,9 @@
     "alias": "AB_mC32_12_4i_4i-001",
     "number_of_species": 2,
     "pearson_symbol": "mC32",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "comments": "BiI occurs naturally in three phases, with high pressure phases predicted to occur (Deng, 2019).  All of the natural phases are in space group $C2/m$ \\#12, with atoms on the (4i) Wyckoff positions.  The only difference between the structures is the stacking of the atoms. \\begin{itemize} \\item \\href{current_web_home_dir/AB_mC32_12_4i_4i-001}{$\\alpha$-BiI} (this structure) is the ground state structure. \\item \\href{current_web_home_dir/AB_mC16_12_2i_2i-002}{$\\beta$-BiI} is metastable at room temperature and stable above 564K. \\item \\href{current_web_home_dir/AB_mC16_12_2i_2i-003}{$\\gamma$-BiI} is formed at 580K. \\end{itemize}",
+    "notes": "$\\alpha$-BiI",
+    "ccdc": null,
+    "icsd": "1558"
 }

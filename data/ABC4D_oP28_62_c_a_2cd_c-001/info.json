@@ -43,5 +43,9 @@
     "alias": "ABC4D_oP28_62_c_a_2cd_c-001",
     "number_of_species": 4,
     "pearson_symbol": "oP28",
-    "space_group_number": 62
+    "space_group_number": 62,
+    "comments": "This is a quaternary form of \\href{current_web_home_dir/A2B4C_oP28_62_ac_2cd_c-001}{forsterite/olivine, $S1_{2}$}. \n In the sample studied by (Lager, 1978) the (4a) site was actually 93\\% magnesium and 7\\% iron.  We represent this by magnesium. \n We use the structural data taken at 25$^{\\circ}$C. \n (Lager, 1978) give the structure in the $Pbnm$ setting of space group \\#62.  We used FINDSYM to transform this to the standard $Pnma$ setting.",
+    "notes": "Monticellite",
+    "ccdc": null,
+    "icsd": "100646"
 }

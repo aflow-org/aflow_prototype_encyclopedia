@@ -79,5 +79,9 @@
     "alias": "AB8C24D2E84F12_cF2096_228_a_cg_2h_b_7h_h-001",
     "number_of_species": 6,
     "pearson_symbol": "cF2096",
-    "space_group_number": 228
+    "space_group_number": 228,
+    "comments": "Voltaite can have numerous substitutions on the iron sites.  In addition, the Fe-II site can have both Fe$^{2+}$ and Fe$^{3+}$ ions. \n The O-VI and O-VII sites are actually water molecules where the positions of the hydrogens has not been located or the molecules are freely rotating. There are 24 of these sites around each aluminum atom.  The O-VI sites form four triangular clusters $\\approx 1.9${\\AA} from the aluminum, with the distance between sites in a cluster of $\\approx 1.1${\\AA}.  The O-VII sites form four similar clusters with somewhat larger spacings.  Only 6 (25\\%) of the O-VI/O-VIII sites are occupied. Presumably no more than one site in a given cluster is occupied.",
+    "notes": "Voltaite",
+    "ccdc": null,
+    "icsd": "9254"
 }

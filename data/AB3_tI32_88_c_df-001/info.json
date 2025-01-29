@@ -25,5 +25,9 @@
     "alias": "AB3_tI32_88_d_cf",
     "number_of_species": 2,
     "pearson_symbol": "tI32",
-    "space_group_number": 88
+    "space_group_number": 88,
+    "comments": "Not to be confused with \\href{current_web_home_dir/AB6_oP28_62_c_6c-001}{Copper (II) Azide, Cu(N$_{3}$)$_{2}$, an explosive}. \n (Wilsdorf, 1948) gave the Wyckoff positions in setting 1 of space group $P4_{1}/a$ \\#88.  We used findsym to translate this to the standard setting 2.",
+    "notes": "Copper (I) Azide",
+    "ccdc": null,
+    "icsd": "30633"
 }

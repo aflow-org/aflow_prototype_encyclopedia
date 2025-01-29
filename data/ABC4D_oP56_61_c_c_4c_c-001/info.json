@@ -63,5 +63,9 @@
     "alias": "ABC4D_oP56_61_c_c_4c_c-001",
     "number_of_species": 4,
     "pearson_symbol": "oP56",
-    "space_group_number": 61
+    "space_group_number": 61,
+    "comments": "Below $575^{\\circ}$ this transforms into the \\href{current_web_home_dir/ABC4D_mP28_14_e_e_4e_e-001}{$\\alpha$-AgCuPO$_{4}$ structure}. (Quarton, 1983).",
+    "notes": "$\\beta$-AgCuPO$_{4}$",
+    "ccdc": null,
+    "icsd": "35590"
 }

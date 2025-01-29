@@ -29,5 +29,9 @@
     "alias": "A3BC_oC20_65_gq_ac_i-001",
     "number_of_species": 3,
     "pearson_symbol": "oC20",
-    "space_group_number": 65
+    "space_group_number": 65,
+    "comments": "AFLOW rotates the lattice by 90$^\\circ$ about the z-axis compared to the reported structure.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "130688"
 }

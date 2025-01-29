@@ -22,5 +22,9 @@
     "alias": "A2B_hP12_194_cg_f",
     "number_of_species": 2,
     "pearson_symbol": "hP12",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "notes": "$C10$, $\\beta$-Tridymite",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "200478"
 }

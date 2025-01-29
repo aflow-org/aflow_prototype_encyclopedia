@@ -27,5 +27,9 @@
     "alias": "A7B2C3_tI24_139_aeg_e_be-001",
     "number_of_species": 3,
     "pearson_symbol": "tI24",
-    "space_group_number": 139
+    "space_group_number": 139,
+    "comments": "Quaternary compounds with this structure are listed under the \\href{current_web_home_dir/A2B5C2D3_tI24_139_e_ag_e_be-001}{Sr$_{3}$Sc$_{2}$O$_{5}$Cl$_{2}$} prototype.  The ICSD list some, but not all, of those structures under the Rb$_{3}$Mn$_{2}$Cl$_{7}$ structure type.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "9491"
 }

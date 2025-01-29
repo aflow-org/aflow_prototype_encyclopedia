@@ -93,5 +93,9 @@
     "alias": "A2BC4D4_aP22_2_2i_i_4i_4i-001",
     "number_of_species": 4,
     "pearson_symbol": "aP22",
-    "space_group_number": 2
+    "space_group_number": 2,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "432641"
 }

@@ -18,5 +18,9 @@
     "alias": "AB_cP2_221_b_a",
     "number_of_species": 2,
     "pearson_symbol": "cP2",
-    "space_group_number": 221
+    "space_group_number": 221,
+    "comments": "The atoms are on the sites of a \\href{current_web_home_dir/A_cI2_229_a-001}{body-centered cubic lattice}. \n We extrapolated the lattice constants of (Ganesan, 1986) to 0K. The ICSD entry uses their lattice constant at 298K.",
+    "notes": "$B2$",
+    "ccdc": null,
+    "icsd": "622367"
 }

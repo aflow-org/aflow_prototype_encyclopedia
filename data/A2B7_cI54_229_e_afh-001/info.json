@@ -24,5 +24,9 @@
     "alias": "A2B7_cI54_229_e_afh",
     "number_of_species": 2,
     "pearson_symbol": "cI54",
-    "space_group_number": 229
+    "space_group_number": 229,
+    "notes": "$L2_{2}$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "41816"
 }

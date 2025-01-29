@@ -22,5 +22,9 @@
     "alias": "AB_hP8_194_ad_f",
     "number_of_species": 2,
     "pearson_symbol": "hP8",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "notes": "$B_{i}$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "16773"
 }

@@ -24,5 +24,9 @@
     "alias": "AB2_hP12_194_f_ah",
     "number_of_species": 2,
     "pearson_symbol": "hP12",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "comments": "\\href{current_web_home_dir/A3BC2_hP12_194_h_a_f-002}{U$_{2}$Cr$_{3}$Si} is a ternary form of this structure.",
+    "notes": "$C14$, Hexagonal Laves",
+    "ccdc": null,
+    "icsd": "46006"
 }

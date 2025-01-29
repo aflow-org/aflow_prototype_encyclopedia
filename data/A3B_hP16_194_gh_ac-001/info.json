@@ -22,5 +22,9 @@
     "alias": "A3B_hP16_194_gh_ac",
     "number_of_species": 2,
     "pearson_symbol": "hP16",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "comments": "The internal coordinate $x_{4}$ was not determined in any reference we could find.  We follow (Villars, 2016) and the ICSD and set $x_{4} = -1/6$, which places the niobium atoms in line with the Ti atoms in the $z = 1/4$ and $z = 3/4$ planes. This is not required by symmetry, and it is likely that the actual value of $x_{4}$ will be close, but not equal to, $-1/6$.",
+    "notes": "$D0_{24}$",
+    "ccdc": null,
+    "icsd": "30216"
 }

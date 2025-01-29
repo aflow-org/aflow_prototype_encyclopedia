@@ -43,5 +43,9 @@
     "alias": "AB_hR26_148_b2f_a2f",
     "number_of_species": 2,
     "pearson_symbol": "hR26",
-    "space_group_number": 148
+    "space_group_number": 148,
+    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "58112"
 }

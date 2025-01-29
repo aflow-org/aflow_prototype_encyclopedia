@@ -18,5 +18,9 @@
     "alias": "AB3_cP4_221_a_c",
     "number_of_species": 2,
     "pearson_symbol": "cP4",
-    "space_group_number": 221
+    "space_group_number": 221,
+    "comments": "(Owen, 1946) give the lattice constants in kX units, where 1 kX = 1.00202{\\AA}. (Wood, 1947)",
+    "notes": "$L1_{2}$, Bogdanovite",
+    "ccdc": null,
+    "icsd": "42587"
 }

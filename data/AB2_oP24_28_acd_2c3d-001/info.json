@@ -59,5 +59,9 @@
     "alias": "AB2_oP24_28_acd_2c3d",
     "number_of_species": 2,
     "pearson_symbol": "oP24",
-    "space_group_number": 28
+    "space_group_number": 28,
+    "comments": "The ICSD entry is from the much earlier work of (Tunnell, 1936). \n The current sample (Tunnell, 1950) has composition (Au$_{0.88}$Ag$_{0.12}$)Te$_{2}$. For simplicity we label all of the Au/Ag sites as Au. (Pearson, 1972) states that this is a distortion of the trigonal \\href{current_web_home_dir/AB2_hP3_164_a_d-001}{$\\omega$ phase, $C6$}. Note that AuTe$_{2}$ also can be found as \\href{current_web_home_dir/AB2_mC6_12_a_i-001}{calaverite, $C34$}. \n Space group $Pma2$ \\#28 allows an arbitrary placement of the origin of the $z$-axis.  We follow (Tunell, 1950) and place the gold (2a) atom at the origin. \n We have corrected some numerical errors found in (Mehl, 2017).",
+    "notes": "Krennerite",
+    "ccdc": null,
+    "icsd": "612391"
 }

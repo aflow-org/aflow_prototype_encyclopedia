@@ -21,5 +21,9 @@
     "alias": "ABC2_hP4_187_a_b_h-001",
     "number_of_species": 3,
     "pearson_symbol": "hP4",
-    "space_group_number": 187
+    "space_group_number": 187,
+    "comments": "Many, if not all, of the compounds listed here have sub-stoichiometric occupation on the (1a) site.  The site is reported as fully occupied in InNbS$_{2}$, which is why we and the ICSD choose it as the prototype of the structure, even though (Eppinga, 1980) give it as Tl$_{x}$TaS$_{2}$. \n The value $z_{3}$ = 0.32 for the sulfur (2c) site is inferred from the value given for Ta$_{x}$InSe$_{2}$ by (Eppinga, 1980).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "74702"
 }

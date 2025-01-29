@@ -65,5 +65,9 @@
     "alias": "AB6_mC56_15_f_6f-001",
     "number_of_species": 2,
     "pearson_symbol": "mC56",
-    "space_group_number": 15
+    "space_group_number": 15,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "16041"
 }

@@ -32,5 +32,9 @@
     "alias": "A2B9C3_hP14_150_d_eg_ad",
     "number_of_species": 3,
     "pearson_symbol": "hP14",
-    "space_group_number": 150
+    "space_group_number": 150,
+    "notes": "$K7_{3}$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "45733"
 }

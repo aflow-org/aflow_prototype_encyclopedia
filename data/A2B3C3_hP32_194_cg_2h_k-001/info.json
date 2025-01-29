@@ -27,5 +27,9 @@
     "alias": "A2B3C3_hP32_194_cg_2h_k-001",
     "number_of_species": 3,
     "pearson_symbol": "hP32",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "comments": "The (6h) sites we have labeled Co-I and Co-II are actually a 50-50 mixture of cobalt and tungsten, giving the observed Co$_{3}$W$_{9}$C$_{4}$ stoichiometry.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "16888"
 }

@@ -167,5 +167,9 @@
     "alias": "A8B2CD12E2_mP100_14_8e_2e_ad_12e_2e",
     "number_of_species": 5,
     "pearson_symbol": "mP100",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "comments": "Manganese-leonite is found in three forms: \\begin{itemize} \\item This \\href{current_web_home_dir/A8B2CD12E2_mP100_14_8e_2e_ab_12e_2e-001}{low-temperature structure}, stable below 168K. \\item An \\href{current_web_home_dir/A8B2CD12E2_mC200_15_8f_2f_ae_2e11f_2f-001}{intermediate-temperature structure}, stable in between 168 and 205K. \\item The \\href{current_web_home_dir/A8B2CD15E2_mC112_12_2i3j_j_ac_g4i5j_2i-001}{room temperature structure, {\\em Strukturbericht} $H4_{23}$}, stable above 205K. \\end{itemize} ~ \\vspace{-.25in} \n The current structure orders all of the SO$_{4}$ radicals. The data was taken from a sample held at 100K. \n (Hertweck, 2001) give crystallographic information of this phase in the $P2_1/a$ setting of space group \\#14.  We used FINDSYM to transform this to the $P2_1/c$ setting, which resulted in a switching of the $a$- and $c$-axes.",
+    "notes": "Mn-leonite (LT)",
+    "ccdc": null,
+    "icsd": "92702"
 }

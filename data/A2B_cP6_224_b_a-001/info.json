@@ -18,5 +18,9 @@
     "alias": "A2B_cP6_224_b_a",
     "number_of_species": 2,
     "pearson_symbol": "cP6",
-    "space_group_number": 224
+    "space_group_number": 224,
+    "comments": "(Restori, 1986) gives the equilibrium lattice constant of Cu$_{2}$O as $a$=4.627{\\AA}, but gives nearest-neighbor distances which yield a lattice constant of 4.267{\\AA}. Since this value agrees with other sources, including those in (Downs, 2003), we use it. The ICSD entry uses 4.2685{\\AA}.",
+    "notes": "$C3$, Cuprite",
+    "ccdc": null,
+    "icsd": "52043"
 }

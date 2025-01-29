@@ -41,5 +41,9 @@
     "alias": "A10B3C4_oC68_64_2dfg_ad_2d",
     "number_of_species": 3,
     "pearson_symbol": "oC68",
-    "space_group_number": 64
+    "space_group_number": 64,
+    "comments": "(Crawford, 2002) placed Sr$_{4}$Ru$_{3}$O$_{10}$ \\href{current_web_home_dir/A10B3C4_oP68_55_2e2fgh2i_adef_2e2f-001}{in space group $Pbam$ \\#55, oP68}, but found that it was very close to the current structure.  Indeed, we derived this structure from the original structure by allowing a small amount of uncertainty in the atomic positions.  In both cases the structure consists of triple-layer ruthenate separated by 2.37{\\AA}.  In the original structure there are two of these layers in the primitive cell which are not equivalent.  In the current structure there is only one triple-layer in the {\\em primitive base-centered cell}, and so the layers in the {\\em conventional} cell are equivalent. \n The lattice constants in the CIF for ICSD 96729 do not agree with the lattice constants in (Crawford, 2002), although the atomic positions are the same. We use the published lattice constants.",
+    "notes": "BCO",
+    "ccdc": null,
+    "icsd": "96729"
 }

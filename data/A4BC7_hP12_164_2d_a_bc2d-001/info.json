@@ -29,5 +29,9 @@
     "alias": "A4BC7_hP12_164_2d_a_bc2d-001",
     "number_of_species": 3,
     "pearson_symbol": "hP12",
-    "space_group_number": 164
+    "space_group_number": 164,
+    "comments": "The ICSD says places these compounds under the \\href{current_web_home_dir/ABC2_hP12_164_ad_bd_c2d-001}{Bohdanowiczite (AgBiSe$_{2}$) structure}, which is true in the sense that the same Wyckoff positions are occupied.  We arbitrarily chose MnBi$_{4}$Te$_{7}$ as the prototype for this stoichiometry.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "37567"
 }

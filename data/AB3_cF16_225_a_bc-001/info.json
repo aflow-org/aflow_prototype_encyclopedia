@@ -18,5 +18,9 @@
     "alias": "AB3_cF16_225_a_bc",
     "number_of_species": 2,
     "pearson_symbol": "cF16",
-    "space_group_number": 225
+    "space_group_number": 225,
+    "comments": "(Villars, 1991) corrects (Hund, 1949), changing the positions of one third of the fluorine atoms so that the space group becomes $Fm\\overline{3}m$ \\#225, as is accepted for $D0_{3}$, and in agreement with (Hassel, 1929). This structure is crystallographically equivalent to the \\href{current_web_home_dir/AB2C_cF16_225_a_c_b-001}{Heusler ($L2_{1}$) structure} and a derivative of \\href{current_web_home_dir/ABCD_cF16_216_a_b_c_d-001}{the ``quaternary-Heusler,'' LiMgAuSn}.",
+    "notes": "$D0_{3}$",
+    "ccdc": null,
+    "icsd": "25567"
 }

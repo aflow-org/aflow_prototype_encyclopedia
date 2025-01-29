@@ -45,5 +45,9 @@
     "alias": "A10B7_oC68_64_f2g_adef-001",
     "number_of_species": 2,
     "pearson_symbol": "oC68",
-    "space_group_number": 64
+    "space_group_number": 64,
+    "comments": "(Kirkpatrick, 1962) originally placed this structure in space group $Aba2$ \\#41, and early structure compilations such as (Pearson, 1967) quote this structure.  (Joubert, 1977) showed that the structure has an inversion site and placed the system in space group $Cmca$ \\#64.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "240191"
 }

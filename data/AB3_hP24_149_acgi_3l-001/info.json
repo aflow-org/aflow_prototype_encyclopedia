@@ -41,5 +41,9 @@
     "alias": "AB3_hP24_149_acgi_3l",
     "number_of_species": 2,
     "pearson_symbol": "hP24",
-    "space_group_number": 149
+    "space_group_number": 149,
+    "notes": "RT",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "36055"
 }

@@ -39,5 +39,9 @@
     "alias": "A3B8C2_hP26_186_c_ab2c_2b",
     "number_of_species": 3,
     "pearson_symbol": "hP26",
-    "space_group_number": 186
+    "space_group_number": 186,
+    "comments": "Space group $P6_{3}mc$ \\#186 does not specify the origin of the $z$-coordinate.  Here we fix it by setting the $z$-coordinate of the molybdenum atom at $z_{5} = 1/4$.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "14321"
 }

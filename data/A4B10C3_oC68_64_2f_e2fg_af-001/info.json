@@ -49,5 +49,9 @@
     "alias": "A4B10C3_oC68_64_2f_e2fg_af-001",
     "number_of_species": 3,
     "pearson_symbol": "oC68",
-    "space_group_number": 64
+    "space_group_number": 64,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "16084"
 }

@@ -25,5 +25,9 @@
     "alias": "AB2C4_oF28_69_a_g_cg-001",
     "number_of_species": 3,
     "pearson_symbol": "oF28",
-    "space_group_number": 69
+    "space_group_number": 69,
+    "comments": "We have found three possible structures for La$_{2}$CuO$_{4}$, the parent compound of the high-temperature cuprate superconductors.  All are distortions of the tetragonal \\href{current_web_home_dir/A4B2C_tI14_139_ce_e_a-001}{K$_{2}$NiF$_{4}$}/\\href{current_web_home_dir/AB2C4_tI14_139_a_e_ce-001}{0201 [(La,Ba)$_{2}$CuO$_{4}$] High-T$_{c}$ Structure}, and reduce to that structure with doping of the lanthanum site: \\begin{itemize} \\item (Longo, 1973) proposed an \\href{current_web_home_dir/AB2C4_oF28_69_a_g_cg-001}{face-centered orthorhombic structure} (this structure).\\item Later other workers, including (Reehuis, 2006) and references therein, proposed a \\href{current_web_home_dir/AB2C4_oC28_64_a_f_ef-003}{base-centered orthorhombic structure}. \\item (Reehuis, 2006) found that a \\href{current_web_home_dir/AB2C4_mC28_8_2a_4a_4a2b-001}{base-centered monoclinic structure} was a better fit to their neutron diffraction data. \\end{itemize} ~ \\vspace{-.25in} \n As the two orthorhombic structures are both referenced in the literature, we present them, as well as the more recent monoclinic structure.",
+    "notes": "FCO La$_{2}$CuO$_{4}$",
+    "ccdc": null,
+    "icsd": "19003"
 }

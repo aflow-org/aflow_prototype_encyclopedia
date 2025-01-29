@@ -31,5 +31,9 @@
     "alias": "A7B2_hR18_166_a2cdh_2c-001",
     "number_of_species": 2,
     "pearson_symbol": "hR18",
-    "space_group_number": 166
+    "space_group_number": 166,
+    "comments": "The ICSD lists Gd$_{2}$Co$_{7}$ as the prototype, but (Ostertag, 1967) only gives atomic coordinates for Er$_{2}$Co$_{7}$, so we will use that instead. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "102366"
 }

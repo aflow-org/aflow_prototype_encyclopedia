@@ -23,5 +23,9 @@
     "alias": "A6B2C_hP9_189_fg_c_b-001",
     "number_of_species": 3,
     "pearson_symbol": "hP9",
-    "space_group_number": 189
+    "space_group_number": 189,
+    "comments": "$\\alpha$-K$_{2}$UF$_{6}$ is in the cubic \\href{current_web_home_dir/AB2_cF12_225_a_c-001}{fluorite ($C1$, CaF$_{2}$) structure}, with the potassium and uranium atoms placed randomly on the calcium sites. \n $\\beta_{2}$-K$_{2}$UF$_{6}$ takes on the trigonal \\href{current_web_home_dir/A6B2C_hP9_150_ef_d_a-001}{$\\beta$-Na$_{2}$ThF$_{6}$ structure}.",
+    "notes": "$\\beta_{1}$-K$_{2}$UF$_{6}$",
+    "ccdc": null,
+    "icsd": "26193"
 }

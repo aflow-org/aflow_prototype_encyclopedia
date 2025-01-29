@@ -25,5 +25,9 @@
     "alias": "A7BC3D13_cF192_219_de_b_c_ah",
     "number_of_species": 4,
     "pearson_symbol": "cF192",
-    "space_group_number": 219
+    "space_group_number": 219,
+    "comments": "Experimental data was obtained at 400$^\\circ$C.",
+    "notes": "Boracite",
+    "ccdc": null,
+    "icsd": "22009"
 }

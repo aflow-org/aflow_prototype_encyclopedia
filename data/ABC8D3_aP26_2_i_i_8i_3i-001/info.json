@@ -106,5 +106,9 @@
     "alias": "ABC8D3_aP26_2_i_i_8i_3i",
     "number_of_species": 4,
     "pearson_symbol": "aP26",
-    "space_group_number": 2
+    "space_group_number": 2,
+    "comments": "We used the 13K data from (Smith, 1986), however they present their data in space group $C\\overline{1}$, which doubles the primitive unit cell compared to the standard space group $P\\overline{1}$ \\#2.  We used findsym to convert from the presented cell to the conventional cell.  This involved a rotation of the cell, {\\em e.g.}, the original $c$ axis is the $a$ axis in our standard primitive cell. \n Technically this is ``low'' albite.  In high albite the silicon and aluminum atoms are mixed over all four sites, as in \\href{current_web_home_dir/AB8C4_mC52_12_i_gi3j_2j-001}{sandine ($S6_{7}$)}.  Indeed, under some conditions albite crystals are seen in the sandine structure (Winter, 1979).  See the albite entry in (Downs, 2003) for other experimental work.",
+    "notes": "$S6_{8}$, Albite",
+    "ccdc": null,
+    "icsd": "201919"
 }

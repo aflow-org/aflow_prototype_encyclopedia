@@ -49,5 +49,9 @@
     "alias": "A7BC3_oC44_20_3a2c_b_bc-001",
     "number_of_species": 3,
     "pearson_symbol": "oC44",
-    "space_group_number": 20
+    "space_group_number": 20,
+    "comments": "Space group $C222_{1} \\#20$ allows the arbitary choice of the zero of the $z$-axis.  Here we follow (Rossell, 1979) and take $z_{8} = 0$ for the Y-II (8c) Wyckoff position.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "10059"
 }

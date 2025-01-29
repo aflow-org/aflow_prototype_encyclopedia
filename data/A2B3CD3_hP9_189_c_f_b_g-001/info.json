@@ -23,5 +23,9 @@
     "alias": "A2B3CD3_hP9_189_c_f_b_g-001",
     "number_of_species": 4,
     "pearson_symbol": "hP9",
-    "space_group_number": 189
+    "space_group_number": 189,
+    "comments": "This is the quaternary form of \\href{current_web_home_dir/A2B_hP9_189_fg_ad-001}{Barringerite (Fe$_{2}$P)}, \\href{current_web_home_dir/ABC_hP9_189_f_bc_g-003}{ZrNiAl}, and \\href{current_web_home_dir/A2BC6_hP9_189_c_b_fg-002}{Zr$_{6}$CoAs$_{2}$}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "99075"
 }

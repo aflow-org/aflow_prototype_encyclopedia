@@ -28,5 +28,9 @@
     "alias": "ABCD_hP8_186_b_b_a_a",
     "number_of_species": 4,
     "pearson_symbol": "hP8",
-    "space_group_number": 186
+    "space_group_number": 186,
+    "comments": "Early determinations of this structure did not locate the hydrogen atoms.  (Cudennec, 2000) state that ``H atom coordinates were calculated for Cd(OH)Cl.''",
+    "notes": "$E0_{3}$",
+    "ccdc": null,
+    "icsd": "91087"
 }

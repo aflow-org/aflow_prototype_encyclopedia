@@ -55,5 +55,9 @@
     "alias": "A7B2C2_mP22_11_3e2f_2e_ab",
     "number_of_species": 3,
     "pearson_symbol": "mP22",
-    "space_group_number": 11
+    "space_group_number": 11,
+    "comments": "(Becerro, 2003) found that the NMR spectrum of y-Y$_{2}$Si$_{2}$O$_{7}$ showed only one peak for yttrium.  If that is the case, then this crystal structure is incorrect.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "28004"
 }

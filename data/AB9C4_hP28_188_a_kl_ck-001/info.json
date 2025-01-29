@@ -34,5 +34,9 @@
     "alias": "AB9C4_hP28_188_e_kl_ak",
     "number_of_species": 3,
     "pearson_symbol": "hP28",
-    "space_group_number": 188
+    "space_group_number": 188,
+    "comments": "(Hermann, 1937) applied the {\\em Strukturbericht} label $S3_{2}$ to benitoite, BaTiSi$_{3}$O$_{9}$.  The only difference between BaSi$_{4}$O$_{9}$ and benitoite is that titanium replaces silicon at the $(2a)$ Wyckoff position.",
+    "notes": "$S3_{2}$",
+    "ccdc": null,
+    "icsd": "80067"
 }

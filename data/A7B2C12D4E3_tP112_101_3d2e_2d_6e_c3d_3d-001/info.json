@@ -113,5 +113,9 @@
     "alias": "A7B2C12D4E3_tP112_101_3d2e_2d_6e_c3d_3d-001",
     "number_of_species": 5,
     "pearson_symbol": "tP112",
-    "space_group_number": 101
+    "space_group_number": 101,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "172434"
 }

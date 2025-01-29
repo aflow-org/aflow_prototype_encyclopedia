@@ -51,5 +51,9 @@
     "alias": "ABC_oI36_46_ac_bc_3b",
     "number_of_species": 3,
     "pearson_symbol": "oI36",
-    "space_group_number": 46
+    "space_group_number": 46,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "41157"
 }

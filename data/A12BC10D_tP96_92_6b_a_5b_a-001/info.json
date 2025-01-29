@@ -90,5 +90,9 @@
     "alias": "A12BC10D_tP96_92_6b_a_5b_a",
     "number_of_species": 4,
     "pearson_symbol": "tP96",
-    "space_group_number": 92
+    "space_group_number": 92,
+    "comments": "This structure is nearly identical to the one presented in (Hermann, 1937) as $H4_{5}$, but now includes the positions of the hydrogen atoms. \n This compound can also be found in the enantiomorphic space group $P4_{3}2_{1}2$ \\#98.",
+    "notes": "$H4_{5}$, Retgersite",
+    "ccdc": null,
+    "icsd": "62051"
 }

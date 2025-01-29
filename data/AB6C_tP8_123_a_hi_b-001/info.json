@@ -23,5 +23,9 @@
     "alias": "AB6C_tP8_123_a_hi_b-001",
     "number_of_species": 3,
     "pearson_symbol": "tP8",
-    "space_group_number": 123
+    "space_group_number": 123,
+    "comments": "The \\href{http://materials.springer.com/}{Springer Materials website} gives SrAu(Au$_{0.5}$Ga$_{0.5}$)$_{2}$Ga$_{4}$ as the prototype, but we have chosen to use the stoichiometric CeGa$_{6}$Pd version.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "240161"
 }

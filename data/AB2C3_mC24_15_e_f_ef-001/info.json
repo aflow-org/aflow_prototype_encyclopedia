@@ -39,5 +39,9 @@
     "alias": "AB2C3_mC24_15_e_f_ef-001",
     "number_of_species": 3,
     "pearson_symbol": "mC24",
-    "space_group_number": 15
+    "space_group_number": 15,
+    "notes": "Zabuyelite",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "100324"
 }

@@ -77,5 +77,9 @@
     "alias": "A4B12C3_oC76_41_2b_6b_ab-001",
     "number_of_species": 3,
     "pearson_symbol": "oC76",
-    "space_group_number": 41
+    "space_group_number": 41,
+    "comments": "Aurivillius phases are layered tetragonal materials with composition (Me$'_{2}$O$_{2}$)$^{2+}$(Me$_{m-1}$R$_{m}$O$_{3m+1}$)$^{2-}$ (Me$_{m-1}$Me$'_{2}$R$_{m}$O$_{3(m+1)}$), where Me and Me' are metals and R is a transition metal with a charge of +4 or +5. (Subbaro, 1962) \n (Dorrian, 1971) give this structure in what they call the $B2cb$ (or $B2ab$) setting of space group \\#41.  We used FINDSYM to transform this to the standard $Aba2$ setting. \n (Dorrian, 1971) notes that the physical properties of this structure indicate monoclinic symmetry, but that the structure is consistent with orthorhombic symmetry. Various authors have shown that the structure is actually in \\href{current_web_home_dir/A4B12C3_mP38_7_4a_12a_3a-001}{monoclinic, with space group $Pc$ \\#7}, as described by (Guo, 2019).",
+    "notes": "$m = 3$ Aurivillius ({\\em Obsolete})",
+    "ccdc": null,
+    "icsd": "16488"
 }

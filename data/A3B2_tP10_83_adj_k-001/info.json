@@ -27,5 +27,9 @@
     "alias": "A3B2_tP10_83_adk_j",
     "number_of_species": 2,
     "pearson_symbol": "tP10",
-    "space_group_number": 83
+    "space_group_number": 83,
+    "comments": "We originally listed this structure as Ti$_{2}$Ge$_{3}$ (Hicks, 2019), but Ti$_{2}$Ga$_{3}$ is the correct compound.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "197271"
 }

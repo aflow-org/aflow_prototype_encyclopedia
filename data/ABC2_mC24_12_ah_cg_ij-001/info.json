@@ -37,5 +37,9 @@
     "alias": "ABC2_mC24_12_ah_cg_ij-001",
     "number_of_species": 3,
     "pearson_symbol": "mC24",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "comments": "LiAlO$_{2}$ exists in many different forms.  We describe them using the notation of (Liu, 2018): \\begin{itemize} \\item $\\alpha$, synthesized from Al$_{2}$O$_{3}$ and Li$_{2}$CO$_{3}$ at 600$^{\\circ}$C (Marezio, 1966) forms in the \\href{current_web_home_dir/ABC2_hR4_166_a_b_c-001}{Caswellsilverite $F5_{1}$ structure, space group $R\\overline{3}m$ \\#166}. \\item $\\beta$ is the low temperature structure (Thery, 1961) forming in the \\href{current_web_home_dir/ABC2_oP16_33_a_a_2a-003}{LiGaO$_{2}$ structure, space group $Pna2_{1}$ \\#33}. \\item $\\beta'$ is a high-pressure monoclinic phase formed at 1.8 GPa   and 370$^{\\circ}$C, but there is not enough information provided to determine either the space group or occupied Wyckoff positions (Chang, 1968). \\item \\href{current_web_home_dir/ABC2_tP16_92_a_a_b-001}{$\\gamma$} is the standard phase under ambient conditions.  It is tetragonal (Marezio, 1965), space group $P4_{1}2_{1}2$ \\#92. \\item $\\delta$ is formed at high pressures (9 GPa) under shock compression and takes the \\href{current_web_home_dir/ABC2_tI16_141_a_b_e-003}{$\\gamma$-LiFeO$_{2}$} structure. \\item $\\epsilon$, formed from Al$_{2}$O$_{3}$ and LiH at 500$^{\\circ}$C,  (Debray, 1960) is a cubic phase (space group $I4_{1}32$ \\#214) with 48 formula units in a cube 12.65{\\AA} on a side, but the atomic positions were not determined. \\item \\href{current_web_home_dir/ABC2_mC24_12_ah_cg_ij-001}{$\\zeta$} (this structure) is a predicted high-pressure monoclinic structure (Liu, 2018), (space group $C2/m$ \\#12).  It is apparently not related to the $\\beta'$ phase. \\end{itemize} ~ \\vspace{-.25in} \n The $\\alpha$, $\\beta'$ and $\\delta$ phases are metastable under ambient conditions, but transform to $\\gamma$-LiAlO$_{2}$ upon heating. (Liu, 2008) \n Data for $\\zeta$-LiAlO$_{2}$ was taken from the calculations of (Liu, 2018) at 40 GPa.",
+    "notes": "Predicted $\\zeta$-LiAlO$_{2}$",
+    "ccdc": null,
+    "icsd": "none"
 }

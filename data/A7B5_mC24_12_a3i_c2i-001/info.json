@@ -43,5 +43,9 @@
     "alias": "A7B5_mC24_12_a3i_c2i-001",
     "number_of_species": 2,
     "pearson_symbol": "mC24",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "comments": "(Adolphe, 1965) gives the lattice parameters for the ternary versions of this structure, but not the atomic positions.  Presumably the third atom species replaces the atom on the (1a) or (1c) site.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "43620"
 }

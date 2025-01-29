@@ -53,5 +53,9 @@
     "alias": "AB6C2_cP72_198_2a_4b_ab-001",
     "number_of_species": 3,
     "pearson_symbol": "cP72",
-    "space_group_number": 198
+    "space_group_number": 198,
+    "comments": "This is the ground state structure of CsW$_{2}$O$_{6}$, with data taken at 100K.  Above 215K this transforms into the \\href{current_web_home_dir/A2B2C7_cF88_227_c_d_af-001}{cubic (or $\\beta$-) pyrochlore structure, $E8_{1}$}.",
+    "notes": "LT (100K)",
+    "ccdc": null,
+    "icsd": "none"
 }

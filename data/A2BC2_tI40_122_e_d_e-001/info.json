@@ -34,5 +34,9 @@
     "alias": "A2BC2_tI40_122_e_d_e",
     "number_of_species": 3,
     "pearson_symbol": "tI40",
-    "space_group_number": 122
+    "space_group_number": 122,
+    "notes": "$F1_{1}$, Mercury Cyanide",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "412315"
 }

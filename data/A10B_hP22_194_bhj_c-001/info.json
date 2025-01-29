@@ -25,5 +25,9 @@
     "alias": "A10B_hP22_194_bhj_c",
     "number_of_species": 2,
     "pearson_symbol": "hP22",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "comments": "This structure has only been determined computationally.  At 300 GPa it is predicted to have a superconducting transitions temperature $T_{c}$ above 200K.",
+    "notes": "Computational, 300 GPa",
+    "ccdc": null,
+    "icsd": "none"
 }

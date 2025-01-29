@@ -18,5 +18,9 @@
     "alias": "AB_cF8_216_c_a",
     "number_of_species": 2,
     "pearson_symbol": "cF8",
-    "space_group_number": 216
+    "space_group_number": 216,
+    "comments": "This is the cubic analog of \\href{current_web_home_dir/AB_hP4_186_b_b-001}{wurtzite ($B4$)}, {\\em i.e.} the stacking of the ZnS dimers along the $<111>$ direction is ABCABC ... This is also a two-component analog of \\href{current_web_home_dir/A_cF8_227_a-001}{diamond ($A4$)}, without the inversion symmetry in the middle of the bond. \n Zincblende may also be referred to as sphalerite.",
+    "notes": "$B3$, Zincblende",
+    "ccdc": null,
+    "icsd": "651457"
 }

@@ -62,5 +62,9 @@
     "alias": "A2B4C_hR42_148_2f_4f_f",
     "number_of_species": 3,
     "pearson_symbol": "hR42",
-    "space_group_number": 148
+    "space_group_number": 148,
+    "notes": "$S1_{3}$, Phenakite",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "202275"
 }

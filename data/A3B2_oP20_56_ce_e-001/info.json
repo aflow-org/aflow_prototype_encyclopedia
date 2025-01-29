@@ -36,5 +36,9 @@
     "alias": "A3B2_oP20_56_ce_e",
     "number_of_species": 2,
     "pearson_symbol": "oP20",
-    "space_group_number": 56
+    "space_group_number": 56,
+    "comments": "This is the orthorhombic form of Sb$_{2}$O$_{3}$.  For the cubic form, see the \\href{current_web_home_dir/A3B2_cF80_227_f_e-002}{senarmontite ($D6_{1}$) page}.",
+    "notes": "$D5_{11}$, Valentinite",
+    "ccdc": null,
+    "icsd": "2033"
 }

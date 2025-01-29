@@ -55,5 +55,9 @@
     "alias": "A_mP16_11_8e",
     "number_of_species": 1,
     "pearson_symbol": "mP16",
-    "space_group_number": 11
+    "space_group_number": 11,
+    "comments": "Plutonium has been found in a variety of structures (Donohue, 1982): \\begin{itemize} \\item \\href{current_web_home_dir/A_mP16_11_8e-001}{$\\alpha$-Pu} (this structure) \\item \\href{current_web_home_dir/A_mC34_12_ah3i2j-001}{$\\beta$-Pu} \\item \\href{current_web_home_dir/A_oF8_70_a-001}{$\\gamma$-Pu} \\item $\\delta$-Pu is in the \\href{current_web_home_dir/A_cF4_225_a-001}{face-centered cubic $A1$ structure} \\item $\\delta$'-Pu is in the \\href{current_web_home_dir/A_tI2_139_a-001}{body-centered tetragonal $A6$ (In) structure} \\item $\\epsilon$-Pu is in the \\href{current_web_home_dir/A_cI2_229_a-001}{body-centered cubic $A2$ structure} \\end{itemize}",
+    "notes": "$\\alpha$-Pu",
+    "ccdc": null,
+    "icsd": "43335"
 }

@@ -28,5 +28,9 @@
     "alias": "ABC_oP6_59_a_b_a",
     "number_of_species": 3,
     "pearson_symbol": "oP6",
-    "space_group_number": 59
+    "space_group_number": 59,
+    "notes": "$E0_{5}$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "40963"
 }

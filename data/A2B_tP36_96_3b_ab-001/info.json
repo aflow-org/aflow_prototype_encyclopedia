@@ -45,5 +45,9 @@
     "alias": "A2B_tP36_96_3b_ab",
     "number_of_species": 2,
     "pearson_symbol": "tP36",
-    "space_group_number": 96
+    "space_group_number": 96,
+    "comments": "All references, including (Wyckoff, 1963), (Shropshire, 1959) and (Demuth, 1999) note that keatite can exist in both space group $P4_{1}2_{1}2$ \\#92 and its enantiomorph $P4_{3}2_{1}2$ \\#96. Wyckoff uses the coordinates proposed by Shropshire and assumes the space group is $P4_{1}2_{1}2$. He then notes that one of the Si-O bonds in this structure is very long (3.69 {\\AA}), and is ``so probable that there is something wrong either with the parameters as stated or the structure itself.'' If we use space group $P4_{3}2_{1}2$ while retaining Shropshire's coordinates we obtain a much more convincing structure, one that looks much like the structure in Shropshire's Fig. 3. For this reason we place this structure in $P4_{3}2_{1}2$.",
+    "notes": "Keatite",
+    "ccdc": null,
+    "icsd": "34889"
 }

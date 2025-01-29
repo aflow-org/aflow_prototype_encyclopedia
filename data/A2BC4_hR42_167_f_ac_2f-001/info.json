@@ -39,5 +39,9 @@
     "alias": "A2BC4_hR42_167_f_ac_2f",
     "number_of_species": 3,
     "pearson_symbol": "hR42",
-    "space_group_number": 167
+    "space_group_number": 167,
+    "comments": "This is the high-temperature structure of BaB$_{2}$O$_{4}$.  Cooling to temperatures between 100-400$^\\circ$C it transforms into \\href{current_web_home_dir/A2BC4_hR42_161_2b_b_4b-001}{$\\alpha$-BaB$_{2}$O$_{4}$}. The principle difference between the two forms is the lack of inversion symmetry in the low-temperature structure. \n This structure was determined by cooling liquid BaB$_{2}$O$_{4}$ to room temperature.",
+    "notes": "$\\beta$-BaB$_{2}$O$_{4}$",
+    "ccdc": null,
+    "icsd": "14376"
 }

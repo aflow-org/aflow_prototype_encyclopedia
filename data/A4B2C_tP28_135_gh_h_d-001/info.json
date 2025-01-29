@@ -29,5 +29,9 @@
     "alias": "A4B2C_tP28_135_gh_h_d",
     "number_of_species": 3,
     "pearson_symbol": "tP28",
-    "space_group_number": 135
+    "space_group_number": 135,
+    "comments": "The ICSD assigns these structures to the \\href{current_web_home_dir/A4B3_tP28_135_gh_dh-002}{Pb$_{3}$O$_{4}$-T prototype}. We moved the tenary compounds over to this structure.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "647391"
 }

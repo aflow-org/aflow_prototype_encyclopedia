@@ -114,5 +114,9 @@
     "alias": "A8B4C4DE8F2_oP108_62_4c2d_2d_2cd_c_4c2d_d",
     "number_of_species": 6,
     "pearson_symbol": "oP108",
-    "space_group_number": 62
+    "space_group_number": 62,
+    "comments": "(Hoard, 1939) originally determined this structure, but were unable to locate the hydrogen atoms.  (Herrmann, 1943) gave this the {\\em Struckturbericht} designation $F2_{1}$. (Typilo, 2010) were able to refine the structure at 173K, including the hydrogen positions.  Since the space group and Wyckoff positions are otherwise unchanged we use the newer structure as our prototype.",
+    "notes": "$F2_{1}$",
+    "ccdc": null,
+    "icsd": "none"
 }

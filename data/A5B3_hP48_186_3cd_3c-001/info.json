@@ -49,5 +49,9 @@
     "alias": "A5B3_hP48_186_3cd_3c-001",
     "number_of_species": 2,
     "pearson_symbol": "hP48",
-    "space_group_number": 186
+    "space_group_number": 186,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "58922"
 }

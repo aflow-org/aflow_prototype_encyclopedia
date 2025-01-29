@@ -26,5 +26,9 @@
     "alias": "A15B4_cI76_220_ae_c",
     "number_of_species": 2,
     "pearson_symbol": "cI76",
-    "space_group_number": 220
+    "space_group_number": 220,
+    "comments": "(Mattern, 2007) take their data from (Mukherjee, 1969), and we use the ICSD information from that reference.",
+    "notes": "$D8_{6}$",
+    "ccdc": null,
+    "icsd": "629165"
 }

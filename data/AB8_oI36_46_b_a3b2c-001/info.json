@@ -51,5 +51,9 @@
     "alias": "AB8_oI36_46_b_a3b2c-001",
     "number_of_species": 2,
     "pearson_symbol": "oI36",
-    "space_group_number": 46
+    "space_group_number": 46,
+    "comments": "The ICSD puts this into the \\href{current_web_home_dir/ABC_oI36_46_ac_bc_3b-001}{TiFeSi} structure type, but the only thing the two structures share is the space group and the Wyckoff positions occupied. \n (Xu, 2018) only give interatomic distances, not the coordinates.  Fortunately the ICSD entry has atomic coordinates, and we use these.  We have checked these to verify that the structure presented here is in reasonable agreement with these distances.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "9713"
 }

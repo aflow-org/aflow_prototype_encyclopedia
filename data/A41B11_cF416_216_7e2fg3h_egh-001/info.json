@@ -57,5 +57,9 @@
     "alias": "A41B11_cF416_216_7e2fg3h_egh-001",
     "number_of_species": 2,
     "pearson_symbol": "cF416",
-    "space_group_number": 216
+    "space_group_number": 216,
+    "comments": "This is designated as the $\\delta$ phase in the Cu-Sn system. (Massalski, 1990) \n We have shifted the origin by $a (\\hat{x} + \\hat{y} + \\hat{z})/4$ from that used by (Misra, 2021).",
+    "notes": "$\\delta$-Cu$_{41}$Sn$_{11}$",
+    "ccdc": null,
+    "icsd": "none"
 }

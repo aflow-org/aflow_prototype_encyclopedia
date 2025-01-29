@@ -53,5 +53,9 @@
     "alias": "A2B8C_oP22_34_c_4c_a",
     "number_of_species": 3,
     "pearson_symbol": "oP22",
-    "space_group_number": 34
+    "space_group_number": 34,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "39243"
 }

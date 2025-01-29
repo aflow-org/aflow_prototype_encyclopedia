@@ -21,5 +21,9 @@
     "alias": "A9BC2_hP12_191_fm_a_c-001",
     "number_of_species": 3,
     "pearson_symbol": "hP12",
-    "space_group_number": 191
+    "space_group_number": 191,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "57518"
 }

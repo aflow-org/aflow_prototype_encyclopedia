@@ -37,5 +37,9 @@
     "alias": "AB4C_oC24_20_b_2c_a",
     "number_of_species": 3,
     "pearson_symbol": "oC24",
-    "space_group_number": 20
+    "space_group_number": 20,
+    "comments": "Aluminum and Gallium Phosphate are closely related to the \\href{current_web_home_dir/A2B_cF24_227_c_a-001}{low cristobalite structure of SiO$_{2}$}. \n The change in symmetry from $Fd\\overline{3}m$ \\#227 in SiO$_{2}$ to $C222_{1}$ \\#20 in AlPO$_{4}$ is caused by the replacement of the silicon atoms by two types of atoms. \n The structure is ``pseudo-tetragonal,'' with $a = b$, but the presence of ordered aluminum and phosphorous atoms reduces the symmetry to orthogonal.",
+    "notes": "Low Cristobalite Type",
+    "ccdc": null,
+    "icsd": "16651"
 }

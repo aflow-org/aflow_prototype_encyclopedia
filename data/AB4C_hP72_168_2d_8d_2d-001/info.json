@@ -91,5 +91,9 @@
     "alias": "AB4C_hP72_168_2d_8d_2d",
     "number_of_species": 3,
     "pearson_symbol": "hP72",
-    "space_group_number": 168
+    "space_group_number": 168,
+    "comments": "Polytypes of this compound also appear in space groups \\href{current_web_home_dir/AB4C_hP72_184_d_4d_d-001}{$P6cc$ \\#184 (AB4C\\_hP72\\_184\\_d\\_4d\\_d)} and \\href{current_web_home_dir/AB2_hP72_192_m_j2kl-001}{$P6/mcc$ \\#192 (AB2\\_hP72\\_192\\_m\\_j2kl)}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "none"
 }

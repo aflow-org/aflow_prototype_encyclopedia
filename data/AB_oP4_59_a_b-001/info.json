@@ -25,5 +25,9 @@
     "alias": "AB_oP4_59_a_b",
     "number_of_species": 2,
     "pearson_symbol": "oP4",
-    "space_group_number": 59
+    "space_group_number": 59,
+    "comments": "Our data is from (Cameron, 1961), but the ICSD is from (Baranova, 1964).",
+    "notes": "Vulcanite",
+    "ccdc": null,
+    "icsd": "42591"
 }

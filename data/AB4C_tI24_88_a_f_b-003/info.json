@@ -26,5 +26,9 @@
     "alias": "AB4C_tI24_88_b_f_a",
     "number_of_species": 3,
     "pearson_symbol": "tI24",
-    "space_group_number": 88
+    "space_group_number": 88,
+    "comments": "(Ewald, 1931) originally gave this structure the {\\em Strukturbericht} designation $H4$, but this was changed to $H0_{4}$ in (Gottfried, 1937).",
+    "notes": "$H0_{4}$, Scheelite",
+    "ccdc": null,
+    "icsd": "60547"
 }

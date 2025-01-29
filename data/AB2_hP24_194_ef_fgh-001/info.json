@@ -28,5 +28,9 @@
     "alias": "AB2_hP24_194_ef_fgh",
     "number_of_species": 2,
     "pearson_symbol": "hP24",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "comments": "An AFLOW user, Mehdi Noori, identified an inconsistency with this entry and the original reference (Mehl, 2017): the z-value for Mg (I) 4e should have been 0.09400, not 0.04598. This entry has been corrected.",
+    "notes": "$C36$, Hexagonal Laves",
+    "ccdc": null,
+    "icsd": "104838"
 }

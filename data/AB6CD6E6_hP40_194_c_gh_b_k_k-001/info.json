@@ -29,5 +29,9 @@
     "alias": "AB6CD6E6_hP40_194_c_gh_b_k_k-001",
     "number_of_species": 5,
     "pearson_symbol": "hP40",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "comments": "The Cu-II (6h) sites are occupied 1/3 of the time.  For approximate first-principles calculations they could be replaced by a fully-filled (2d) site [$\\pm$ (1/3 2/3 3/4)]. \n We use the (Smaha, 2018) data for ``Barlowite 1,'' the file 1.cif in the supplementary data. The ICSD entry appears to be for ``Barlowite 2.'' (2.cif)  There are only minor differences between the two structures. \n The experiment used pure deuterium to make the crystallographic measurements.",
+    "notes": "Barlowite",
+    "ccdc": null,
+    "icsd": "759524"
 }

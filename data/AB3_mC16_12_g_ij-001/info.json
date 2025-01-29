@@ -35,5 +35,9 @@
     "alias": "AB3_mC16_12_g_ij",
     "number_of_species": 2,
     "pearson_symbol": "mC16",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "comments": "We originally listed this as the $D0_{15}$ structure, but this does not follow the historical record, so we have modified this page and added previous determinations of the structure as follows: \n (Laschkarew, 1930) determined that AlCl$_{3}$ was in space group $P\\overline{3}m1$ \\#164. (Hermann, 1937) designated this as the \\href{current_web_home_dir/AB3_hP4_164_a_bd-001}{$D0_{13}$ structure}. \n (Ketelaar, 1935) determined that the structure was only pseudo-hexagonal, and place it in space group $C2$ \\#5. (Gottfried, 1937) \\href{current_web_home_dir/AB3_mC16_5_c_3c-001}{designated this as the $D0_{15}$ structure}.  Neither of these works referenced the previous work. \n (Ketelaar, 1947) determined that the space group was actually $C2/m$ ~ \\#12.  Here we present this using the refinement of (Troyanov, 1992).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "39566"
 }

@@ -30,5 +30,9 @@
     "alias": "A4B_oI20_74_beh_e",
     "number_of_species": 2,
     "pearson_symbol": "oI20",
-    "space_group_number": 74
+    "space_group_number": 74,
+    "comments": "We replaced the rather obscure (Borgstedt, 1989) reference by the modern work of (Tougait, 2004).",
+    "notes": "$D1_{b}$",
+    "ccdc": null,
+    "icsd": "240127"
 }

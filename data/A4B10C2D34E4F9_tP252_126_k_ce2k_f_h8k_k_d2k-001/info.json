@@ -108,5 +108,9 @@
     "alias": "A4B10C2D34E4F9_tP252_126_k_ce2k_f_h8k_k_d2k",
     "number_of_species": 6,
     "pearson_symbol": "tP252",
-    "space_group_number": 126
+    "space_group_number": 126,
+    "comments": "Vesuvianite, also known as idocrase, comes in a variety of compositions and structures, see {\\em e.g.}, (Allen, 1992) and (Rucklidge, 1975) and references therein.  For our example we use the original structure of (Warren, 1931), where the magnesium (8f) site is filled by a random (Mg,Fe) alloy. \n The positions of the hydrogen atoms in the OH ions were not determined, so we only give the positions of the oxygen atoms (labeled as OH).",
+    "notes": "$S2_{3}$, Vesuvianite",
+    "ccdc": null,
+    "icsd": "36198"
 }

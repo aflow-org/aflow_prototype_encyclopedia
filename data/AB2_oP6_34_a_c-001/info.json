@@ -29,5 +29,9 @@
     "alias": "AB2_oP6_34_a_c",
     "number_of_species": 2,
     "pearson_symbol": "oP6",
-    "space_group_number": 34
+    "space_group_number": 34,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "15003"
 }

@@ -87,5 +87,9 @@
     "alias": "ABC3_oC80_36_2ab_2ab_2a5b",
     "number_of_species": 3,
     "pearson_symbol": "oC80",
-    "space_group_number": 36
+    "space_group_number": 36,
+    "comments": "Two possible structures have been identified for $\\alpha$-KNO$_{3}$: (Nimmo, 1973) proposed \\href{current_web_home_dir/ABC3_oP20_62_c_c_cd-001}{an orthorhombic structure in space group $Pnma$ \\#62, which we call ``Structure I.''} \n (Adiwidjaja, 2003) found that structure, but also noted that it could be described by a doubling of the unit cell into a superstructure of type I, which we call ``Structure II'' and present on this page.  It is unclear to us which structure is correct, so we present both. However, we do note that if we allow some uncertainity in the atoms of this structure, the findsym code shows it to be identical to Structure I.\n On heating, $\\alpha$-KNO$_{3}$  transforms into \\href{current_web_home_dir/ABC6_hR8_166_a_b_h-001}{$\\beta$-KNO$_{3}$ at 128$^\\circ$C}.  When heated above 200$^\\circ$C and then cooled, the $\\beta$ phase transforms into the metastable ferroelectric \\href{current_web_home_dir/ABC3_hR5_160_a_a_b-002}{$\\gamma$-KNO$_{3}$ phase}, which remains metastable at room temperature.",
+    "notes": "$\\alpha$-KNO$_{3}$ Structure II",
+    "ccdc": null,
+    "icsd": "281552"
 }

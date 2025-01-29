@@ -43,5 +43,9 @@
     "alias": "A2B4C_oC28_40_c_abc_b-001",
     "number_of_species": 3,
     "pearson_symbol": "oC28",
-    "space_group_number": 40
+    "space_group_number": 40,
+    "comments": "(Pl\\\"{o}tz, 1982) originally placed this structure in the triclinic space group $P1$ \\#1.  (Marsh, 1995) determined that their data fit in space group $Ama2$ \\#40, and we present their analysis here.",
+    "notes": "",
+    "ccdc": null,
+    "icsd": "80128"
 }

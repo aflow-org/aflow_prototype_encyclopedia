@@ -25,5 +25,9 @@
     "alias": "A2B_oC12_65_acg_h-001",
     "number_of_species": 2,
     "pearson_symbol": "oC12",
-    "space_group_number": 65
+    "space_group_number": 65,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "104041"
 }

@@ -55,5 +55,9 @@
     "alias": "AB3_mP16_10_mn_3m3n",
     "number_of_species": 2,
     "pearson_symbol": "mP16",
-    "space_group_number": 10
+    "space_group_number": 10,
+    "comments": "This structure was found via first-principles calculations.  The data presented here was computed at a pressure of 400~GPa. \n (Zeng, 2017) do not provide a value for $\\beta$, so it is assumed to be near $90^\\circ$. Using exactly $90^\\circ$ results in space group $Pnnm$ \\#58, so we set $\\beta =91^\\circ$, yielding the proposed space group $P2/m$ \\#10.",
+    "notes": "HP, Theory",
+    "ccdc": null,
+    "icsd": "none"
 }

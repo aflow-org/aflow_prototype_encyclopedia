@@ -46,5 +46,9 @@
     "alias": "A_oF128_70_4h",
     "number_of_species": 1,
     "pearson_symbol": "oF128",
-    "space_group_number": 70
+    "space_group_number": 70,
+    "notes": "$A16$, $\\alpha$-S",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "63082"
 }

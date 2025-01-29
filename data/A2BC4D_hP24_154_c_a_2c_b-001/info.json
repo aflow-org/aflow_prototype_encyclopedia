@@ -41,5 +41,9 @@
     "alias": "A2BC4D_hP24_154_c_a_2c_b-001",
     "number_of_species": 4,
     "pearson_symbol": "hP24",
-    "space_group_number": 154
+    "space_group_number": 154,
+    "comments": "This structure may also be found in the enantiomorphic space group $P3_{1}21$ \\#152.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "82145"
 }

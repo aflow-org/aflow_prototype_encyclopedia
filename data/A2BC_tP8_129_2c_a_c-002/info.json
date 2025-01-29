@@ -25,5 +25,9 @@
     "alias": "A2BC_tP8_129_2c_a_c-002",
     "number_of_species": 3,
     "pearson_symbol": "tP8",
-    "space_group_number": 129
+    "space_group_number": 129,
+    "comments": "(Gem's, 1986) found a small concentration of vacancies on the carbon and cobalt sites: 0.3\\% on Co (2a), 2\\% on C-I (2c), and 3\\% on C-II (2c).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "63622"
 }

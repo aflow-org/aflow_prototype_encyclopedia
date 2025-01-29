@@ -19,5 +19,9 @@
     "alias": "AB2_cF48_227_c_e",
     "number_of_species": 2,
     "pearson_symbol": "cF48",
-    "space_group_number": 227
+    "space_group_number": 227,
+    "comments": "Some sources consider the real prototype of this system to be Ca$_{33}$Ge, with the (32e) sites occupied by calcium atoms and the (16c) sites randomly occupied by calcium and germanium atoms.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "77473"
 }

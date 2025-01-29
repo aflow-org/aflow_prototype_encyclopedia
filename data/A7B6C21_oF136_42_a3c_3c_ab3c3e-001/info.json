@@ -81,5 +81,9 @@
     "alias": "A7B6C21_oF136_42_a3c_3c_ab3c3e-001",
     "number_of_species": 3,
     "pearson_symbol": "oF136",
-    "space_group_number": 42
+    "space_group_number": 42,
+    "comments": "Aurivillius phases are layered tetragonal materials with composition (Me$'_{2}$O$_{2}$)$^{2+}$(Me$_{m-1}$R$_{m}$O$_{3m+1}$)$^{2-}$ (Me$_{m-1}$Me$'_{2}$R$_{m}$O$_{3(m+1)}$), where Me and Me' are metals and R is a transition metal with a charge of +4 or +5. (Subbaro, 1962). \n The iron and titanium atoms are randomly distributed across the transition metal (8c) sites.  We have arbitrarily labeled them as iron. \n (Krzhizhanovskaya, 2005) gave the structure in the $F2mm$ setting of space group \\#42.  We swapped the $y-$ and $z-$axes to transform this to the standard $Fmm2$ setting.",
+    "notes": "$m = 6$ Aurivillius",
+    "ccdc": null,
+    "icsd": "155931"
 }

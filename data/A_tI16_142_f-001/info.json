@@ -21,5 +21,9 @@
     "alias": "A_tI16_142_f",
     "number_of_species": 1,
     "pearson_symbol": "tI16",
-    "space_group_number": 142
+    "space_group_number": 142,
+    "comments": "The S-III phase is found when sulfur is pressurized above 36 GPa at 300K. At 300K it is stable up to 83 GPa. This data was taken at 12 GPa and 300K.",
+    "notes": "S-III (HP)",
+    "ccdc": null,
+    "icsd": "none"
 }

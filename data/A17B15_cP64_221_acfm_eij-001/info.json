@@ -29,5 +29,9 @@
     "alias": "A17B15_cP64_221_acfm_eij-001",
     "number_of_species": 2,
     "pearson_symbol": "cP64",
-    "space_group_number": 221
+    "space_group_number": 221,
+    "comments": "(Geller, 1962) determined that Pd$_{17}$Se$_{15}$ could be in space group \\href{current_web_home_dir/A17B15_cP64_221_acfm_eij-001}{$Pm\\overline{3}m$ \\#221} (this structure), \\href{current_web_home_dir/A17B15_cP64_215_acg2i_f2i-001}{$P\\overline{4}3m$ \\#215}, or \\href{current_web_home_dir/A17B15_cP64_207_acfk_eij-001}{$P432$ \\#207}, and finds that $Pm\\overline{3}m$ gives the best fit to single-crystal X-ray diffraction pattern, even though the fit of the parameters for the all of the Wyckoff sites could not be converged. We therefore present all three structure possibilities. \n We shifted the coordinates of (Geller, 1962) to move the Pd-I atom from the center of the cubic cell, Wyckoff position (1b), to the origin, Wyckoff position (1a).",
+    "notes": "Palladseite, $Pm\\overline{3}m$",
+    "ccdc": null,
+    "icsd": "23907"
 }

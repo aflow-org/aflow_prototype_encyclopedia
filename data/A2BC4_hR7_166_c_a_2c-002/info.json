@@ -25,5 +25,9 @@
     "alias": "A2BC4_hR7_166_c_a_2c",
     "number_of_species": 3,
     "pearson_symbol": "hR7",
-    "space_group_number": 166
+    "space_group_number": 166,
+    "comments": "We use the data taken at 10K.  Except for the magnetic ordering there is no substantial change in the structure up to room temperature. \n The ICSD entry is from the room-temperature measurements of (Aliev, 2019). \n This structure is nearly identical to \\href{current_web_home_dir/AB2C4_hR7_166_a_c_2c-002}{GeSb$_{2}$Te$_{4}$}, but the ordering of the tellurium atoms is different in the two cases.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "37566"
 }

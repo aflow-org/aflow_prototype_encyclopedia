@@ -67,5 +67,9 @@
     "alias": "A3BC3D_tP64_106_3c_c_3c_c",
     "number_of_species": 4,
     "pearson_symbol": "tP64",
-    "space_group_number": 106
+    "space_group_number": 106,
+    "comments": "Space group $P4_{2}bc$ \\#106 allows an arbitary placement of the origin of the $z$-axis.  Here we use this freedom to set $z_{8} = 0$ for the zinc atoms. \n The O-II -- H-II distance is unreasonably small (0.45{\\AA}).  It is likely that there is an error in the coordinates for one of these atoms.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "66975"
 }

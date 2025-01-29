@@ -25,5 +25,9 @@
     "alias": "A4B_tP10_114_e_a",
     "number_of_species": 2,
     "pearson_symbol": "tP10",
-    "space_group_number": 114
+    "space_group_number": 114,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "23864"
 }

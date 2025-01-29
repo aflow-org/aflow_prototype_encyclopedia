@@ -31,5 +31,9 @@
     "alias": "AB_hP24_190_i_afh",
     "number_of_species": 2,
     "pearson_symbol": "hP24",
-    "space_group_number": 190
+    "space_group_number": 190,
+    "notes": "Troilite",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "633296"
 }

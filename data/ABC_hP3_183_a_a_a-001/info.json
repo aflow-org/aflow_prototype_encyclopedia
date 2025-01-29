@@ -25,5 +25,9 @@
     "alias": "ABC_hP3_183_a_a_a",
     "number_of_species": 3,
     "pearson_symbol": "hP3",
-    "space_group_number": 183
+    "space_group_number": 183,
+    "comments": "We use the data taken by (Hibble, 2004) at 300K. \n Space group $P6mm$ \\#183 allows an arbitrary choice for the origin of the $z$-axis.  Here we set the origin so that $z_{2} = 0$ for the carbon (1a) site.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "165175"
 }

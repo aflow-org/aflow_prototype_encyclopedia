@@ -25,5 +25,9 @@
     "alias": "A3B_hR8_166_h_c-001",
     "number_of_species": 2,
     "pearson_symbol": "hR8",
-    "space_group_number": 166
+    "space_group_number": 166,
+    "comments": "The Sn-P phase diagram has three known phases (Zavrazhnova, 2018): \\begin{itemize} \\item \\href{current_web_home_dir/A3B_hR8_166_h_c-001}{SnP$_{3}$} (this structure) \\item \\href{current_web_home_dir/A3B4_hR7_166_ac_2c-002}{Sn$_{4}$P$_{3}$} \\item \\href{current_web_home_dir/A16B3_hR19_166_2c2h_ac-001}{Sn$_{3}$P$_{4}$} \\end{itemize} ~ \\vspace{-.25in} \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "16293"
 }

@@ -53,5 +53,9 @@
     "alias": "AB4C_mP24_14_ac_4e_e-001",
     "number_of_species": 3,
     "pearson_symbol": "mP24",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "comments": "(Falck, 1978) give this structure in the $P2_{1}/n$ setting of space group \\#14.  We used FINDSYM to transform this to our standard $P2_{1}/c$ structure.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "1671"
 }

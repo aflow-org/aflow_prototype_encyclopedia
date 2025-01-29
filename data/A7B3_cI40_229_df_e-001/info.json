@@ -22,5 +22,9 @@
     "alias": "A7B3_cI40_229_df_e",
     "number_of_species": 2,
     "pearson_symbol": "cI40",
-    "space_group_number": 229
+    "space_group_number": 229,
+    "comments": "Although (Haussermann, 1998) list the prototype for this structure as Ir$_{3}$Ge$_{7}$, that structure is not listed in the ICSD.  We link to the similar Ni$_{3}$Ga$_{7}$ structure. \n The ICSD gives the prototype for this structure as Ru$_{3}$Sn$_{7}$.",
+    "notes": "$D8_{f}$",
+    "ccdc": null,
+    "icsd": "408313"
 }

@@ -91,5 +91,9 @@
     "alias": "A2B_tP48_77_8d_4d",
     "number_of_species": 2,
     "pearson_symbol": "tP48",
-    "space_group_number": 77
+    "space_group_number": 77,
+    "comments": "This is one candidate for the H$_{2}$S III structure, which is stable at pressures under 4 GPa and temperatures less than $\\approx$ 100K (Shimizu, 1995). The data presented here is for D$_{2}$S, taken at 102K and ambient pressure.",
+    "notes": "H$_{2}$S III",
+    "ccdc": null,
+    "icsd": "27034"
 }

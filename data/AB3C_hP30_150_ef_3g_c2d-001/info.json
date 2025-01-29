@@ -48,5 +48,9 @@
     "alias": "AB3C_hP30_150_ef_3g_c2d",
     "number_of_species": 3,
     "pearson_symbol": "hP30",
-    "space_group_number": 150
+    "space_group_number": 150,
+    "comments": "The ICSD entry differs from the published version of (Huggins, 1931) by using somewhat different lattice constants and switching the x coordinates of the potassium atoms.  We will use the published results here.",
+    "notes": "$K1_{1}$",
+    "ccdc": null,
+    "icsd": "27580"
 }

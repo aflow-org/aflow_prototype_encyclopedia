@@ -49,5 +49,9 @@
     "alias": "A2B5C_mC32_12_ei_3ij_i-001",
     "number_of_species": 3,
     "pearson_symbol": "mC32",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "notes": "Dolerophanite",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "34649"
 }

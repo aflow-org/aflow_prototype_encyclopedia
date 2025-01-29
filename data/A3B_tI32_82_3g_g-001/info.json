@@ -44,5 +44,9 @@
     "alias": "A3B_tI32_82_3g_g",
     "number_of_species": 2,
     "pearson_symbol": "tI32",
-    "space_group_number": 82
+    "space_group_number": 82,
+    "notes": "$D0_{3}$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "626503"
 }

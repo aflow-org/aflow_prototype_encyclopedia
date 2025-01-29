@@ -21,5 +21,9 @@
     "alias": "A4B3_cI112_230_af_g",
     "number_of_species": 2,
     "pearson_symbol": "cI112",
-    "space_group_number": 230
+    "space_group_number": 230,
+    "comments": "This is a simple defect superstructure of the \\href{current_web_home_dir/AB_cP2_221_a_b-002}{CsCl ($B2$) structure}. If GaNi $B2$ is expanded into a 128 atom supercell, we can describe it using space group $Ia\\overline{3}d$ \\#230, with Ga atoms on the (16a) and (48f) Wyckoff sites and Ni atoms on the (16b) and (48g) sites. Removing the Ni atoms from the (16b) sites yields this structure.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "103864"
 }

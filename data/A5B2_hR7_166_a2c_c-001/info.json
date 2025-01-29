@@ -26,5 +26,9 @@
     "alias": "A5B2_hR7_166_a2c_c",
     "number_of_species": 2,
     "pearson_symbol": "hR7",
-    "space_group_number": 166
+    "space_group_number": 166,
+    "comments": "The B-I and B-III atoms form buckled graphitic sheets, making this the rhombohedral form of \\href{current_web_home_dir/A5B2_hP14_194_abcf_f-001}{$D8_{h}$}. (Frotscher, 2007) suggest that the stable composition in this part of the molybdenum nitride system might be Mo$_{2}$B$_{4}$, which they describe as having a flattened \\href{current_web_home_dir/AB2_hR6_166_c_2c-002}{$C12$ (CaSi$_{2}$) structure}. Here we will describe the $D8_{i}$ structure, with the warning that this might not be the true structure. \n We have shifted the origin of this lattice so that the B-I atoms are at the (1a) Wyckoff positions.  An earlier version of this page, included in (Mehl, 2017), shifted the B-I atom but neglected to shift the remaining atoms. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "notes": "$D8_{i}$",
+    "ccdc": null,
+    "icsd": "24282"
 }

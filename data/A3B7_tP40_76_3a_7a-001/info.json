@@ -79,5 +79,9 @@
     "alias": "A3B7_tP40_76_3a_7a",
     "number_of_species": 2,
     "pearson_symbol": "tP40",
-    "space_group_number": 76
+    "space_group_number": 76,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "62259"
 }

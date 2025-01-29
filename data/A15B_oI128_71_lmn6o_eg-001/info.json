@@ -73,5 +73,9 @@
     "alias": "A15B_oI128_71_lmn6o_eg-001",
     "number_of_species": 2,
     "pearson_symbol": "oI128",
-    "space_group_number": 71
+    "space_group_number": 71,
+    "comments": "The Cesium (4e) and (4g) sites each have 75\\% occupancy.",
+    "notes": "Orthorhombic Fullerene",
+    "ccdc": null,
+    "icsd": "none"
 }

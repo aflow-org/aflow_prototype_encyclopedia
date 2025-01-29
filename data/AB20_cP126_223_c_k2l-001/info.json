@@ -33,5 +33,9 @@
     "alias": "AB20_cP126_223_c_k2l-001",
     "number_of_species": 2,
     "pearson_symbol": "cP126",
-    "space_group_number": 223
+    "space_group_number": 223,
+    "comments": "The barium atoms are on the chromium sites in the \\href{current_web_home_dir/A3B_cP8_223_c_a-001}{$A15$ (Cr$_{3}$Si) structure}, while the fullerene molecules are centered on the silicon site.",
+    "notes": "Fullerene",
+    "ccdc": null,
+    "icsd": "70063"
 }

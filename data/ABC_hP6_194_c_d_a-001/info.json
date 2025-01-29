@@ -19,5 +19,9 @@
     "alias": "ABC_hP6_194_c_d_a",
     "number_of_species": 3,
     "pearson_symbol": "hP6",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "comments": "This is the parent of the Li$_{1-x}$BC Structure.  The ICSD lists several different structure types for these compounds, but the Wykcoff positions are fixed so the only difference between the structures are the lattice constants.  We lump all these structures together under one prototype. The order of the elements is alphabetical, we do not distinguish which element is on the (2a) site.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "78731"
 }

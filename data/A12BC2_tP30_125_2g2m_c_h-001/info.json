@@ -33,5 +33,9 @@
     "alias": "A12BC2_tP30_125_2g2m_c_h-001",
     "number_of_species": 3,
     "pearson_symbol": "tP30",
-    "space_group_number": 125
+    "space_group_number": 125,
+    "comments": "The ICSD lists Ce$_{2}$CuGa$_{12}$ as the prototype for this structure, but the (Chen, 2000) description of Sm$_{2}$NiGa$_{12}$ predates any description of any other structure with this prototype.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "none"
 }

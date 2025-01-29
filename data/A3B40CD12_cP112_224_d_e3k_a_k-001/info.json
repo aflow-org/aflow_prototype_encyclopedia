@@ -35,5 +35,9 @@
     "alias": "A3B40CD12_cP112_224_d_e3k_a_k",
     "number_of_species": 4,
     "pearson_symbol": "cP112",
-    "space_group_number": 224
+    "space_group_number": 224,
+    "comments": "This is a partially dehydrated version of \\href{current_web_home_dir/A29B40CD12_cF656_227_ae2fg_e3g_b_g-001}{H$_{3}$PW$_{12}$O$_{40}$ $\\cdot$ 29H$_{2}$O ($H4_{21}$)} and \\href{current_web_home_dir/A5B40CD12_cP116_224_bd_e3k_a_k-001}{H$_{3}$PW$_{12}$O$_{40}$ $\\cdot$ 5H$_{2}$O ($H4_{16}$)} or \\href{current_web_home_dir/A27B52CD12_cP184_224_dl_eh3k_a_k-001}{H$_{3}$PW$_{12}$O$_{40}$ $\\cdot$ 6H$_{2}$O}. The six H$_{5}$O$_{2}^+$ ions of the later structure have been replaced by three H$_{3}$O$^+$ ions. \n The ICSD entry classifies the H$_{3}$O$^+$ ions as oxygen atoms, labeling them ``O5.''",
+    "notes": "Phosphoric Acid",
+    "ccdc": null,
+    "icsd": "90637"
 }

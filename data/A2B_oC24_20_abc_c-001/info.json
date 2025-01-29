@@ -37,5 +37,9 @@
     "alias": "A2B_oC24_20_abc_c",
     "number_of_species": 2,
     "pearson_symbol": "oC24",
-    "space_group_number": 20
+    "space_group_number": 20,
+    "comments": "(Dollase, 1967) used a non-standard origin for the atomic positions, so there has been a considerable rearrangement of the coordinates, even from the previous version of this file.  We have chosen the ordering of the axes so that it is obvious that the primitive base-centered orthorhombic lattice is very close to a tetragonal primitive lattice.",
+    "notes": "High Tridymite",
+    "ccdc": null,
+    "icsd": "15321"
 }

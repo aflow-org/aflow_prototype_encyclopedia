@@ -82,5 +82,9 @@
     "alias": "A2B6CD8_oP34_31_2a_2a2b_a_4a2b",
     "number_of_species": 4,
     "pearson_symbol": "oP34",
-    "space_group_number": 31
+    "space_group_number": 31,
+    "comments": "(Gottfried, 1937) writes $z_{13} = 0.408$ for the coordinate of the (H$_{2}$O-II) molecule, but the value given by West is $z_{13} = 0$, which gives a symmetric arrangement of water molecules around the chlorine atom.",
+    "notes": "$H4_{11}$",
+    "ccdc": null,
+    "icsd": "24250"
 }

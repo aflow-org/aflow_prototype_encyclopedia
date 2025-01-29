@@ -55,5 +55,9 @@
     "alias": "A2B_oC48_20_ab3c_2c-001",
     "number_of_species": 2,
     "pearson_symbol": "oC48",
-    "space_group_number": 20
+    "space_group_number": 20,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "105171"
 }

@@ -23,5 +23,9 @@
     "alias": "AB2C_tI16_139_e_ce_d-003",
     "number_of_species": 3,
     "pearson_symbol": "tI16",
-    "space_group_number": 139
+    "space_group_number": 139,
+    "comments": "Many authorities designate SrZnBi$_{2}$ as the prototype for this structure.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "52694"
 }

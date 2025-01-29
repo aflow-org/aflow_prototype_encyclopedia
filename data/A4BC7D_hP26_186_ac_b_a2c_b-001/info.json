@@ -40,5 +40,9 @@
     "alias": "A4BC7D_hP26_186_ac_b_a2c_b",
     "number_of_species": 4,
     "pearson_symbol": "hP26",
-    "space_group_number": 186
+    "space_group_number": 186,
+    "comments": "The actual composition of the studied sample is (Na$_{0.89}$Ca$_{0.04}$)Be$_{4}$SbO$_{7}$, with the sodium (Na-I) site containing 89\\% sodium, 4\\% calcium, and 7\\% vacancies. \n Space group $P6_{3}mc$ \\#186 does not fix the origin of the $z$-coordinate.  Here the position of the antimony atom (Sb-I) is set so that $z_{4} = 0$. \n The ICSD entry is from (Pauling, 1935).",
+    "notes": "$E9_{2}$, Swedenborgite",
+    "ccdc": null,
+    "icsd": "27599"
 }

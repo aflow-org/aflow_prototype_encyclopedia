@@ -63,5 +63,9 @@
     "alias": "A10B3C29D4_tP92_129_2cij_bd_c3i2jk_i-001",
     "number_of_species": 4,
     "pearson_symbol": "tP92",
-    "space_group_number": 129
+    "space_group_number": 129,
+    "comments": "In the experimental sample the Si (8i) site contained 4\\% nickel, and the Ni I (4c) site contained 16.8\\% silicon.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "86052"
 }

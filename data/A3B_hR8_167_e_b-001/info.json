@@ -22,5 +22,9 @@
     "alias": "A3B_hR8_167_e_b",
     "number_of_species": 2,
     "pearson_symbol": "hR8",
-    "space_group_number": 167
+    "space_group_number": 167,
+    "notes": "$D0_{12}$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "16671"
 }

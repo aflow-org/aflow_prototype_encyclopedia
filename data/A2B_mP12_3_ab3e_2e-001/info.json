@@ -57,5 +57,9 @@
     "alias": "A2B_mP12_3_bc3e_2e",
     "number_of_species": 2,
     "pearson_symbol": "mP12",
-    "space_group_number": 3
+    "space_group_number": 3,
+    "comments": "This structure is the result of simulations of SiO$_{2}$ structures from a potential fitted to the H$_{6}$Si$_{2}$O$_{7}$ molecule. As such we do not believe it has been seen in nature. It does, however, describe a structure in space group $P2$ \\#3.",
+    "notes": "Predicted",
+    "ccdc": null,
+    "icsd": "75669"
 }

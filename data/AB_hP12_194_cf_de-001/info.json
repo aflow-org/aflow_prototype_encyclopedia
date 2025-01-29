@@ -24,5 +24,9 @@
     "alias": "AB_hP12_194_df_ce",
     "number_of_species": 2,
     "pearson_symbol": "hP12",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "comments": "We did not find an ICSD entry for (Ohmasa, 1977), so we one from (Kalbskopf, 1975) which is quoated our source paper.",
+    "notes": "$B18$, Covellite",
+    "ccdc": null,
+    "icsd": "41975"
 }

@@ -33,5 +33,9 @@
     "alias": "A3B5_oP16_55_ch_agh",
     "number_of_species": 2,
     "pearson_symbol": "oP16",
-    "space_group_number": 55
+    "space_group_number": 55,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "53891"
 }

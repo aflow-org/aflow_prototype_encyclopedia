@@ -32,5 +32,9 @@
     "alias": "AB2C2_oC20_63_c_f_2c",
     "number_of_species": 3,
     "pearson_symbol": "oC20",
-    "space_group_number": 63
+    "space_group_number": 63,
+    "comments": "(Gottfried, 1937) gave $\\gamma$-FeO(OH) the {\\em Strukturbericht} designation $E0_{4}$, but did not determine the positions of the hydrogens. Using a deuterated form of FeO(OH) (Christensen, 1982) found that the hydrogen atoms are located on the (8f) Wyckoff sites, but these sites are only 41.7\\% occupied.  We use this structure as the prototype.",
+    "notes": "$E0_{4}$, Lepidocrocite",
+    "ccdc": null,
+    "icsd": "108876"
 }

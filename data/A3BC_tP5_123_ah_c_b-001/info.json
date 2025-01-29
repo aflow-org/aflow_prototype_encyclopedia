@@ -22,5 +22,9 @@
     "alias": "A3BC_tP5_123_cg_a_d",
     "number_of_species": 3,
     "pearson_symbol": "tP5",
-    "space_group_number": 123
+    "space_group_number": 123,
+    "comments": "The positions of the hydrogen atoms are not given.  It is likely that the hydrogen atoms are freely rotating around the nitrogen, as any reasonable fixed positions would destroy both the inversion symmetry and the four-fold rotation axis exhibited by space group $P4/mmm$ \\#123. \n (Harmsen, 1939) and (Herrmann, 1943) give multiple possible space groups for this structure.  We have chosen the highest symmetry representation, space group $P4/mmm$.",
+    "notes": "$E2_{5}$",
+    "ccdc": null,
+    "icsd": "15962"
 }

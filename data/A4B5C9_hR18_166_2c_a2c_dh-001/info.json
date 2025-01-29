@@ -31,5 +31,9 @@
     "alias": "A4B5C9_hR18_166_2c_a2c_dh-001",
     "number_of_species": 3,
     "pearson_symbol": "hR18",
-    "space_group_number": 166
+    "space_group_number": 166,
+    "comments": "This is a more compact version of \\href{current_web_home_dir/A5B7C12_hR24_166_a2c_b3c_2h-001}{Ce$_{5}$Ga$_{7}$Rh$_{12}$} and \\href{current_web_home_dir/A7B11C18_hR36_166_a3c_b5c_3h-001}{Ce$_{7}$Ga$_{11}$Rh$_{18}$}. \n Aflow moves the Ga I atom from the published (1b) site to the origin (1a) site.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "432164"
 }

@@ -47,5 +47,9 @@
     "alias": "A5B2_hP42_185_ab4c_abc-001",
     "number_of_species": 2,
     "pearson_symbol": "hP42",
-    "space_group_number": 185
+    "space_group_number": 185,
+    "notes": "Stibiopalladinite",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "648776"
 }

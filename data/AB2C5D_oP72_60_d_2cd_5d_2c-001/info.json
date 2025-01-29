@@ -71,5 +71,9 @@
     "alias": "AB2C5D_oP72_60_d_2cd_5d_2c-001",
     "number_of_species": 4,
     "pearson_symbol": "oP72",
-    "space_group_number": 60
+    "space_group_number": 60,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "102575"
 }

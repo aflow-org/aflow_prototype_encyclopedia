@@ -28,5 +28,9 @@
     "alias": "AB3_hR8_148_c_f",
     "number_of_species": 2,
     "pearson_symbol": "hR8",
-    "space_group_number": 148
+    "space_group_number": 148,
+    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "notes": "$D0_{5}$",
+    "ccdc": null,
+    "icsd": "36182"
 }

@@ -37,5 +37,9 @@
     "alias": "AB3C2_oC48_64_d_dg_ef-001",
     "number_of_species": 3,
     "pearson_symbol": "oC48",
-    "space_group_number": 64
+    "space_group_number": 64,
+    "comments": "The first experimental information we have for this structure is from (Juza, 1952), who placed the system in space group $Ibca$ \\#71 bu could not locate the lithium atoms, except to note that they are on a (16f) site. \n (Dadsetani, 2011) used this work as the starting point for first-principles calculations to minimize the total energy of the structure, including the positions of the lithium atoms, keeping the structure in \\href{current_web_home_dir/AB3C2_oI96_73_f_3f_acde-001}{space group $Ibca$}.\n (Restle, 2020) used ball milling and annealing to produce samples of Li$_{3}$AlP$_{2}$ and Li$_{3}$GaP$_{2}$ and found them to be in \\href{current_web_home_dir/AB3C2_oC48_64_d_dg_ef-001}{space group $Cmce$ \\#64}, shown here. While we believe that this work is correct, we present both structures.",
+    "notes": "Experimental",
+    "ccdc": null,
+    "icsd": "17639"
 }

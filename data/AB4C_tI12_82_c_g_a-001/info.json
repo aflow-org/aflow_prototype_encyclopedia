@@ -26,5 +26,9 @@
     "alias": "AB4C_tI12_82_c_g_a",
     "number_of_species": 3,
     "pearson_symbol": "tI12",
-    "space_group_number": 82
+    "space_group_number": 82,
+    "notes": "$H0_{7}$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "55082"
 }

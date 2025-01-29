@@ -35,5 +35,9 @@
     "alias": "AB2_tI48_122_cd_2e",
     "number_of_species": 2,
     "pearson_symbol": "tI48",
-    "space_group_number": 122
+    "space_group_number": 122,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "2586"
 }

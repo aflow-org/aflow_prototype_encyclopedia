@@ -32,5 +32,9 @@
     "alias": "ABC4D_cP28_198_a_a_ab_a",
     "number_of_species": 4,
     "pearson_symbol": "cP28",
-    "space_group_number": 198
+    "space_group_number": 198,
+    "comments": "This high-temperature form of carnegieite is stable above 970K. \n To our knowledge, the atomic positions of the low temperature $\\beta$-carnegieite structure have not been determined.",
+    "notes": "$S6_{5}$, $\\alpha$-Carnegieite",
+    "ccdc": null,
+    "icsd": "34884"
 }

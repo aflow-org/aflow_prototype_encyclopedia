@@ -27,5 +27,9 @@
     "alias": "AB3C_hR15_166_bc_dh_ac-001",
     "number_of_species": 3,
     "pearson_symbol": "hR15",
-    "space_group_number": 166
+    "space_group_number": 166,
+    "comments": "BaRuO$_{3}$ is found in four different phases distinguished by the stacking of the ruthenium atoms and their surrounding oxygens (Jin, 2008): \\begin{itemize} \\item The ground state \\href{current_web_home_dir/AB3C_hR15_166_bc_dh_ac-001}{rhombohedral 9R structure} (this page), \\item \\href{current_web_home_dir/ABC3_hP20_194_ac_f_gh-001}{the hexagonal 4H BaMnO$_{3}$ structure}, \\item \\href{current_web_home_dir/AB3C_hP30_194_bf_hk_af-001}{the hexagonal 6H high-temperature BaTiO$_{3}$ structure}, and \\item \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{the cubic perovskite ($E2_{1}$) structure}. \\end{itemize} ~ \\vspace{-.25in} \n (Jin, 2008) produced the three metastable states by heating the 9R phase to 1000$^\\circ$ and subjecting it to pressures of 3\\,GPa, 5\\,GPa and 18\\,GPa, respectively.",
+    "notes": "9R",
+    "ccdc": null,
+    "icsd": "10253"
 }

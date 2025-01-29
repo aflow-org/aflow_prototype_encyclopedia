@@ -138,5 +138,9 @@
     "alias": "AB20C2D14E2_mP78_14_a_10e_e_7e_e",
     "number_of_species": 5,
     "pearson_symbol": "mP78",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "comments": "Tutton Salts have the form AB$_{2}$(SO$_{4}$)$_{2}$$\\cdot$6H$_{2}$O, where A is a divalent ion and B is a monovalent ion. (Hermann, 1937) formally lists Mg(NH$_{4}$)$_{2}$(SO$_{4}$)$_{2}$$\\cdot$6H$_{2}$O as the prototype, but notes that one may have ``other monovalent metals in place of NH$_{4}$ and divalent [metals] in place of Mg.''  We choose the Cu(NH$_{4}$)$_{2}$(SO$_{4}$)$_{2}$$\\cdot$H$_{2}$O as the prototype because (Brown, 1969) were able to locate all of the hydrogen ions in agreement with expectation, {\\em i.e.}, H$_{2}$O molecules have properly bent H-O bonds, and the hydrogen atoms in the ammonium ion form a tetrahedron around the nitrogen atom. \n The atomic positions were originally given in the $P2_1/a$ setting of space group \\#14.  We used FINDSYM to convert this to the standard $P2_1/c$ setting.  This resulted in the $a$ and $c$ axes being swapped.",
+    "notes": "$H4_{4}$, Tutton Salt",
+    "ccdc": null,
+    "icsd": "23187"
 }

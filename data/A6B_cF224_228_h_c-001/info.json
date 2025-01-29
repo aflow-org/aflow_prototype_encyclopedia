@@ -23,5 +23,9 @@
     "alias": "A6B_cF224_228_h_c",
     "number_of_species": 2,
     "pearson_symbol": "cF224",
-    "space_group_number": 228
+    "space_group_number": 228,
+    "comments": "(Kirckpatrick, 1926) did not find the locations of the hydrogen atoms.  When these were located by (Mullica, 1980) it was found that the true structure is in \\href{current_web_home_dir/A12B6C_cF608_210_4h_2h_e-001}{space group $F4_{1}32$ \\#210}.",
+    "notes": "({\\em Obsolete})",
+    "ccdc": null,
+    "icsd": "none"
 }

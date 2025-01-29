@@ -23,5 +23,9 @@
     "alias": "A16B2C_cF152_227_eg_d_a",
     "number_of_species": 3,
     "pearson_symbol": "cF152",
-    "space_group_number": 227
+    "space_group_number": 227,
+    "comments": "This structure was predicted by (Sun, 2019) as a metastable state of Li$_{2}$MgH$_{16}$ at 250 GPa and $T=0$K.  If it is possible to construct this compound, or if it becomes stable due to thermodynamic considerations, it is predicted to have a superconducting transition $T_{c}$ between 430 and 473K. \n The predicted $T=0$K ground state at 300 GPa is \\href{current_web_home_dir/A16B2C_hP19_164_2d2i_d_a-001}{a $P\\overline{3}m1$ \\#164 structure with molecular hydrogen}. \n (Sun, 2019) give the Wyckoff positions in setting 1 of space group $Fd\\overline{3}m$ \\#227.  (They list the Wyckoff positions of the magnesium and lithium atoms as (8b) and (16c), respectively.  They are actually at (8a) and (16d), as in their 300 GPa data.) We used FINDSYM to shift this to our standard setting 2.",
+    "notes": "Predicted, 250 GPa",
+    "ccdc": null,
+    "icsd": "none"
 }

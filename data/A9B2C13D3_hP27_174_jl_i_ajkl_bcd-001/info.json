@@ -45,5 +45,9 @@
     "alias": "A9B2C13D3_hP27_174_jl_i_ajkl_bcd-001",
     "number_of_species": 4,
     "pearson_symbol": "hP27",
-    "space_group_number": 174
+    "space_group_number": 174,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "61256"
 }

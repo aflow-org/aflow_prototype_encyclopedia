@@ -26,5 +26,9 @@
     "alias": "A2B_hP9_150_ef_bd",
     "number_of_species": 2,
     "pearson_symbol": "hP9",
-    "space_group_number": 150
+    "space_group_number": 150,
+    "comments": "This is the structure given in {\\em Strukturbericht} Vol. II, apparently from (Friauf, 1930), which we have not been able to locate. As noted by Wyckoff, the structure, which was ``generally accepted for years, has recently been shown to be incorrect.'' (Vol I., 360, also in Hendricks, 1930). The corrected structure, as given in Pearson's Handbook, is given in the revised \\href{current_web_home_dir/A2B_hP9_189_fg_ad-001}{Fe$_{2}$P page}. When $z_{2}$ is set to zero this structure reverts to the revised Fe$_{2}$P structure.",
+    "notes": "$C22$ (Original)",
+    "ccdc": null,
+    "icsd": "none"
 }

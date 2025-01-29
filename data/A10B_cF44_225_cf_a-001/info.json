@@ -19,5 +19,9 @@
     "alias": "A10B_cF44_225_cf_b",
     "number_of_species": 2,
     "pearson_symbol": "cF44",
-    "space_group_number": 225
+    "space_group_number": 225,
+    "comments": "This structure was predicted by (Liu, 2017) as a possible near-room-temperature superconductor at pressures above 200 GPa.  Its existence was confirmed by (Geballe, 2018). \n The lattice constant $a = 4.78${\\AA} is taken from (Liu, 2017) prediction at 300 GPa. (Geballe, 2018) found $a = 5.09${\\AA} at 172 GPa. \n (Liu, 2017) give a list of hydrogen positions which are not compatible with space group $Fm\\overline{3}m$ \\#225.  The positions we assigned are consistent with the work of (Geballe, 2018).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "none"
 }

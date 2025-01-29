@@ -20,5 +20,9 @@
     "alias": "AB2_cP12_205_a_c",
     "number_of_species": 2,
     "pearson_symbol": "cP12",
-    "space_group_number": 205
+    "space_group_number": 205,
+    "comments": "FeS$_{2}$ has been found in at least four forms: \\begin{itemize} \\item A \\href{current_web_home_dir/AB2_aP12_1_4a_8a-001}{triclinic ($P1$ \\#1) phase}, \\item A low temperature \\href{current_web_home_dir/AB2_oP12_29_a_2a-001}{orthorhombic pyrite phase} (Bayliss, 1977), \\item The most commonly observed state, \\href{current_web_home_dir/AB2_cP12_205_a_c-001}{cubic pyrite ($C2$)} (this structure), and \\item \\href{current_web_home_dir/AB2_oP6_58_a_g-003}{Orthorhombic martensite ($C18$)}. \\end{itemize} ~ \\vspace{-.25in} \n We have rewritten this page to include the original source of the data from (Brostigen, 1969).  Previously we only referenced (Bayliss, 1977).",
+    "notes": "$C2$, Pyrite",
+    "ccdc": null,
+    "icsd": "15012"
 }

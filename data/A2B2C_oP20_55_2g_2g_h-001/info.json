@@ -41,5 +41,9 @@
     "alias": "A2B2C_oP20_55_2g_2g_h-001",
     "number_of_species": 3,
     "pearson_symbol": "oP20",
-    "space_group_number": 55
+    "space_group_number": 55,
+    "comments": "We have shifted the origin of the $z$-axis by 1/2 c from the published data of (Smith, 1965).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "23834"
 }

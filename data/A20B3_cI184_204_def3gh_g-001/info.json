@@ -45,5 +45,9 @@
     "alias": "A20B3_cI184_204_def3gh_g-001",
     "number_of_species": 2,
     "pearson_symbol": "cI184",
-    "space_group_number": 204
+    "space_group_number": 204,
+    "comments": "The site we label Cd-VI is occupied only 33.1\\% of the time.  Removing this atom transforms this to the \\href{current_web_home_dir/A17B3_cI160_204_def2gh_g-001}{Ru$_{3}$Be$_{17}$ structure}. \n (Armbr\\\"{u}ster, 2000) found that what had previously been thought to be CeCd$_{6}$ was actually \\href{current_web_home_dir/A41B6_cP188_201_b2efg5h_h-001}{Ce$_{6}$Cd$_{37}$}.  This suggests that other XCd$_{6}$ structures may actually have different compositions. \n (Armbr\\\"{u}ster, 2000) also give a structure for CeCd$_{6}$ which differs slightly from the one presented here.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "9148"
 }

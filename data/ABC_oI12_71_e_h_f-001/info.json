@@ -27,5 +27,9 @@
     "alias": "ABC_oI12_71_h_j_g",
     "number_of_species": 3,
     "pearson_symbol": "oI12",
-    "space_group_number": 71
+    "space_group_number": 71,
+    "comments": "The ICSD lists this as a tenary form of \\href{current_web_home_dir/A2B_oI12_71_eh_f-001}{UTe$_{2}$}, but the structures are actually rather far apart.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "16075"
 }

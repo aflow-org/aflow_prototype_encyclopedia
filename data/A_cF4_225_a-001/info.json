@@ -18,5 +18,9 @@
     "alias": "A_cF4_225_a",
     "number_of_species": 1,
     "pearson_symbol": "cF4",
-    "space_group_number": 225
+    "space_group_number": 225,
+    "notes": "$A1$, fcc lattice",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "627114"
 }

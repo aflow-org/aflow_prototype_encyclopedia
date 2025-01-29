@@ -34,5 +34,9 @@
     "alias": "A2BC4D2_oP18_53_h_a_i_e",
     "number_of_species": 4,
     "pearson_symbol": "oP18",
-    "space_group_number": 53
+    "space_group_number": 53,
+    "notes": "$C45$, Eriochalcite",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "40290"
 }

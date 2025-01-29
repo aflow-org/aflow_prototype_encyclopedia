@@ -35,5 +35,9 @@
     "alias": "AB2C3D2_tP32_127_g_eh_gk_k",
     "number_of_species": 4,
     "pearson_symbol": "tP32",
-    "space_group_number": 127
+    "space_group_number": 127,
+    "comments": "(Onotaro, 1934) made the first determination of the structure of phosgenite, \\href{current_web_home_dir/AB2C3D2_tP16_90_c_f_ce_e-001}{which was given {\\em Strukturbericht} designation $G7_{5}$ by (Gottfried)}. (Giuseppetti, 1974) and others found that the actual structure has a unit cell twice that of $G7_{5}$.  This newer structure is presented here.",
+    "notes": "Phosgenite",
+    "ccdc": null,
+    "icsd": "4240"
 }

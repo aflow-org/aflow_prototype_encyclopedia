@@ -25,5 +25,9 @@
     "alias": "AB2C5D_tI36_140_a_h_cl_b-001",
     "number_of_species": 4,
     "pearson_symbol": "tI36",
-    "space_group_number": 140
+    "space_group_number": 140,
+    "comments": "Some authors designate Sr(Sr$_{0.5}$Gd$_{0.5}$)$_{2}$GaO$_{5}$ as the prototype for this structure, with the (8h) site randomly occupied by strontium and gadolinium atoms.  We prefer a structure with ordered atoms on this site. \n Removing the O-I atoms from the (4c) site reduces this to the \\href{current_web_home_dir/A5BC2_tI32_140_bl_a_h-001}{NH$_{4}$Pb$_{2}$Br$_{5}$ ($K3_{4}$) structure}. \n This is the quaternary form of the \\href{current_web_home_dir/A5BC3_tI36_140_cl_b_ah-001}{Cs$_{3}$CoCl$_{5}$ ($K3_{1}$) structure}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "88598"
 }

@@ -29,5 +29,9 @@
     "alias": "ABC3_oC20_63_c_b_cf",
     "number_of_species": 3,
     "pearson_symbol": "oC20",
-    "space_group_number": 63
+    "space_group_number": 63,
+    "comments": "This structure is a ``filled'' version of \\href{current_web_home_dir/AB3_oC16_63_c_cf-001}{the Re$_{3}$B structure}, with carbon atoms sitting in the (4b) Wyckoff positions.  This is the ternary version of the structure.  The quaternary version, where all Wyckoff positions contain different species of atoms, is listed as the \\href{current_web_home_dir/AB2CD_oC20_63_a_f_c_c-001}{ThFe$_{2}$SiC structure}. \n We have shifted the origin to move the first of the C I atoms to the origin.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "25761"
 }

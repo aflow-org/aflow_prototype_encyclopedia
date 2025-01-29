@@ -31,5 +31,9 @@
     "alias": "A7B12C_hR20_148_ade_2f_b-001",
     "number_of_species": 3,
     "pearson_symbol": "hR20",
-    "space_group_number": 148
+    "space_group_number": 148,
+    "comments": "We use the data for SrMn$_{7}$O$_{12}$ taken at 295K.  Below 265K it undergoes an incommensurate structural transition. (Belik, 2016) \n Some authors use CaMn$_{7}$O$_{12}$ as the prototype. \n At high temperatures CaMn$_{7}$O$_{12}$ and PbMn$_{7}$O$_{12}$ transform into the \\href{current_web_home_dir/A7BC12_cI40_204_bc_a_g-001}{NaMn$_{7}$O$_{12}$ structure}. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "252386"
 }

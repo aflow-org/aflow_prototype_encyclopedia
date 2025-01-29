@@ -21,5 +21,9 @@
     "alias": "AB2_cF96_227_e_cf",
     "number_of_species": 2,
     "pearson_symbol": "cF96",
-    "space_group_number": 227
+    "space_group_number": 227,
+    "comments": "We have used the fact that all vectors of the form $(0,\\pm a/2,\\pm a/2)$, $(\\pm a/2,0,\\pm a/2)$, and $(\\pm a/2,\\pm a/2,0)$ are primitive vectors of the face-centered cubic lattice to simplify the positions of some atoms in both lattice and Cartesian coordinates.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "105420"
 }

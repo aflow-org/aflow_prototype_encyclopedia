@@ -43,5 +43,9 @@
     "alias": "A3B_oI32_23_ij2k_k",
     "number_of_species": 2,
     "pearson_symbol": "oI32",
-    "space_group_number": 23
+    "space_group_number": 23,
+    "comments": "This structure is found in H$_{3}$S in the pressure range 3.5-17 GPa. The data presented here was taken at 5 GPa.",
+    "notes": "5 GPa",
+    "ccdc": null,
+    "icsd": "none"
 }

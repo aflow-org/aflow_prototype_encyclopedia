@@ -55,5 +55,9 @@
     "alias": "A2B5_cF392_216_4efg_4ef4h-001",
     "number_of_species": 2,
     "pearson_symbol": "cF392",
-    "space_group_number": 216
+    "space_group_number": 216,
+    "comments": "The site occupation in this structure is rather complicated: \\begin{itemize} \\item In any unit cell, only one of the Pt-II/Zn-II sites is occupied. \\item The site we have labeled Pt-II is actually 50\\% platinum and 50\\% zinc. \\item The sites we have labeled Zn-II and Zn-V are 8.333\\% platinum and 91.667\\% zinc. \\item The Pt-V and Pt-VI sites are 2/3 platinum and 1/3 zinc. \\end{itemize} ~ \\vspace{-.25in} \n Accounting for all of this the nominal composition of the structure is approximately Pt$_{3}$Zn$_{10}$. \n This is an example of an F-cell $\\gamma$-brass. (Mizutani, 2010) \n (Johansson, 1970) give the Wyckoff positions of the (24h) sites as $x y y$.  The standard representation, used by AFLOW, is $x x y$, so we have swapped their $x$ and $y$ coordinates for these sites.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "105854"
 }

@@ -35,5 +35,9 @@
     "alias": "ABC_mP6_11_e_e_e",
     "number_of_species": 3,
     "pearson_symbol": "mP6",
-    "space_group_number": 11
+    "space_group_number": 11,
+    "comments": "For this prototype, the OH molecules are centered on the (2e) Wyckoff position.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "none"
 }

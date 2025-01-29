@@ -28,5 +28,9 @@
     "alias": "A2BCD6_hR10_148_c_a_b_f",
     "number_of_species": 4,
     "pearson_symbol": "hR10",
-    "space_group_number": 148
+    "space_group_number": 148,
+    "comments": "Data was taken at 24$^{\\circ}$C.",
+    "notes": "$G1_{1}$, Dolomite",
+    "ccdc": null,
+    "icsd": "40968"
 }

@@ -39,5 +39,9 @@
     "alias": "AB6C2_mC18_12_a_3i_i",
     "number_of_species": 3,
     "pearson_symbol": "mC18",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "comments": "(Keszler, 1985) gave the structure in the $I2/m$ setting of space group \\#12.  We used FINDSYM to change this to the standard $C2/m$ setting.  Because of this change our primitive vectors are linear combinations of the original ones, and the lattice has been rotated.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "61005"
 }

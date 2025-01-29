@@ -47,5 +47,9 @@
     "alias": "ABCD_mP16_14_e_e_e_e",
     "number_of_species": 4,
     "pearson_symbol": "mP16",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "91088"
 }

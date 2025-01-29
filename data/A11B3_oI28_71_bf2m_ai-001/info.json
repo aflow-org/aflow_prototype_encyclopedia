@@ -33,5 +33,9 @@
     "alias": "A11B3_oI28_71_bf2m_ai-001",
     "number_of_species": 2,
     "pearson_symbol": "oI28",
-    "space_group_number": 71
+    "space_group_number": 71,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "57937"
 }

@@ -48,5 +48,9 @@
     "alias": "A4BCD2_oP32_55_ghi_f_e_gh",
     "number_of_species": 4,
     "pearson_symbol": "oP32",
-    "space_group_number": 55
+    "space_group_number": 55,
+    "comments": "The positions of the hydrogen atoms in the water molecules have not been determined.",
+    "notes": "$E3_{4}$",
+    "ccdc": null,
+    "icsd": "10296"
 }

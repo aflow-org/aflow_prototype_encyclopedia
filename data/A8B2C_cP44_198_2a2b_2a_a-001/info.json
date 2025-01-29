@@ -39,5 +39,9 @@
     "alias": "A8B2C_cP44_198_2a2b_2a_a-001",
     "number_of_species": 3,
     "pearson_symbol": "cP44",
-    "space_group_number": 198
+    "space_group_number": 198,
+    "comments": "Unusually, both ZrW$_{2}$O$_{8}$ and HfW$_{2}$O$_{8}$ have a negative thermal expansion over temperatures ranging from 0.3K to 693K. (Evans, 1996) \n Below $\\approx$423K these compounds are in the \\href{current_web_home_dir/A8B2C_cP44_198_2a2b_2a_a-001}{low-temperature ZrW$_{2}$O$_{8}$ structure}, sometimes referred to as $\\alpha$-ZrW$_{2}$O$_{8}$. \n Above the transition the compounds are in the somewhat disordered \\href{current_web_home_dir/A10B4C_cP60_205_2cd_2c_a-001}{high-temperature ($\\beta$) ZrW$_{2}$O$_{8}$ structure}. \n We use the data taken for LT ZrW$_{2}$O$_{8}$ at 293K.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "262061"
 }

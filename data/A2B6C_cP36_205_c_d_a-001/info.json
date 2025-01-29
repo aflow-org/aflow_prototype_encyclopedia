@@ -26,5 +26,9 @@
     "alias": "A2B6C_cP36_205_c_d_a",
     "number_of_species": 3,
     "pearson_symbol": "cP36",
-    "space_group_number": 205
+    "space_group_number": 205,
+    "notes": "$G2_{1}$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "62698"
 }

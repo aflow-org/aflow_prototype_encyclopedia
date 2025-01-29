@@ -29,5 +29,9 @@
     "alias": "AB3C_hR20_167_c_f_c-001",
     "number_of_species": 3,
     "pearson_symbol": "hR20",
-    "space_group_number": 167
+    "space_group_number": 167,
+    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "432362"
 }

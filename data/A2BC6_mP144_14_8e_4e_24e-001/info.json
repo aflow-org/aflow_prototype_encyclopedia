@@ -239,5 +239,9 @@
     "alias": "A2BC6_mP144_14_8e_4e_24e-001",
     "number_of_species": 3,
     "pearson_symbol": "mP144",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "comments": "This is the high temperature monoclinic structure of Bi$_{2}$MoO$_{6}$, stable above 896$^{\\circ}$C. Below that it transforms to the \\href{current_web_home_dir/A2BC6_oP36_29_2a_a_6a-001}{room-temperature koechlinite structure} (Villars, 2018).",
+    "notes": "HT",
+    "ccdc": null,
+    "icsd": "78179"
 }

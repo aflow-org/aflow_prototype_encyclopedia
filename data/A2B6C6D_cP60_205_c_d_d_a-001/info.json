@@ -32,5 +32,9 @@
     "alias": "A2B6C6D_cP60_205_c_d_d_a",
     "number_of_species": 4,
     "pearson_symbol": "cP60",
-    "space_group_number": 205
+    "space_group_number": 205,
+    "comments": "The positions of the hydrogen atoms in the water molecules were not determined, so we only provide the positions of the oxygen atom (labeled as H$_{2}$O).",
+    "notes": "$J1_{10}$",
+    "ccdc": null,
+    "icsd": "15981"
 }

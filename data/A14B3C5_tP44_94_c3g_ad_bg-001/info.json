@@ -47,5 +47,9 @@
     "alias": "A14B3C5_tP44_94_c3g_ad_bg",
     "number_of_species": 3,
     "pearson_symbol": "tP44",
-    "space_group_number": 94
+    "space_group_number": 94,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "15928"
 }

@@ -25,5 +25,9 @@
     "alias": "A5B2_tP14_127_cj_g-001",
     "number_of_species": 2,
     "pearson_symbol": "tP14",
-    "space_group_number": 127
+    "space_group_number": 127,
+    "comments": "We shifted the origin of the $c$-axis by $c/2$ from that used by (de Wet, 1961).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "104324"
 }

@@ -22,5 +22,9 @@
     "alias": "AB3C3_cF112_227_c_de_f",
     "number_of_species": 3,
     "pearson_symbol": "cF112",
-    "space_group_number": 227
+    "space_group_number": 227,
+    "comments": "Experimentally, the (48f) site is a random mixture of composition W$_{2/3}$Fe$_{1/3}$.  We use W for this site in the pictures above. \n In many compounds the carbon sites has vacancies, which accounts for the varying stoichiometries in the compounds list.",
+    "notes": "$E9_{3}$, $\\eta$-Carbide",
+    "ccdc": null,
+    "icsd": "43230"
 }

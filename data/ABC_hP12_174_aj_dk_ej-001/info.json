@@ -31,5 +31,9 @@
     "alias": "ABC_hP12_174_cj_fk_aj",
     "number_of_species": 3,
     "pearson_symbol": "hP12",
-    "space_group_number": 174
+    "space_group_number": 174,
+    "comments": "This is a major revision of the previously published version of this page in (Hicks, 2019), however the structure from that page is nearly identical to the structure found here.  We have changed our reference from the original (Dagron, 1969) to the more accessible (Beck, 1986). \n This is a high-pressure phase of GdSI.  At ambient pressure it is in the \\href{current_web_home_dir/ABC_hR6_166_c_c_c-001}{SmSI structure}. \n The ICSD entry for this structure is incomplete, leaving out the (1a), (1d), and (1e) sites, apparently because of a misreading of Table 4 in (Beck, 1968).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "59203"
 }

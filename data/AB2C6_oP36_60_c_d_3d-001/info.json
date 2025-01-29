@@ -48,5 +48,9 @@
     "alias": "AB2C6_oP36_60_c_d_3d",
     "number_of_species": 3,
     "pearson_symbol": "oP36",
-    "space_group_number": 60
+    "space_group_number": 60,
+    "comments": "The original {\\em Strukturbericht} reference uses (Fe,Mn)Nb$_{2}$O$_{6}$ as the prototype for $E5_{1}$ columbite. \n FeNb$_{2}$O$_{4}$ can also be found in a \\href{current_web_home_dir/AB2C6_tP18_113_c_2c_3e-001}{tetragonal structure}.",
+    "notes": "$E5_{1}$, Columbite",
+    "ccdc": null,
+    "icsd": "201962"
 }

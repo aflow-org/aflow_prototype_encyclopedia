@@ -26,5 +26,9 @@
     "alias": "AB3_tP8_113_a_ce",
     "number_of_species": 2,
     "pearson_symbol": "tP8",
-    "space_group_number": 113
+    "space_group_number": 113,
+    "comments": "(Gottfried, 1938) originally gave the $D0_{17}$ label to the \\href{current_web_home_dir/AB3_oP16_18_ab_3c-001}{$P2_12_12$ \\#94 BaS$_{3}$ structure}, however we follow (Parthe\\'{e}, 1993), who uses the current structure as the $D0_{17}$ prototype.",
+    "notes": "$D0_{17}$",
+    "ccdc": null,
+    "icsd": "70059"
 }

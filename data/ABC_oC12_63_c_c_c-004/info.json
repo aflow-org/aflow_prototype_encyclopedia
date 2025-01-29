@@ -27,5 +27,9 @@
     "alias": "ABC_oC12_63_c_c_c-004",
     "number_of_species": 3,
     "pearson_symbol": "oC12",
-    "space_group_number": 63
+    "space_group_number": 63,
+    "comments": "(Rogl, 1993) found that excess carbon could replace boron, and that some uranium atoms could be replaced by scandium, lutetium, or thorium. \n See the note on the \\href{current_web_home_dir/ABC_oC12_63_c_c_c-005}{MoAlB} structure page concerning the relationship between this structure and other structures with the ABC\\_oC12\\_63\\_c\\_c\\_c label.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "73828"
 }

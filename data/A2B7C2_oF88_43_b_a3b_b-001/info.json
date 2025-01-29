@@ -53,5 +53,9 @@
     "alias": "A2B7C2_oF88_43_b_a3b_b",
     "number_of_species": 3,
     "pearson_symbol": "oF88",
-    "space_group_number": 43
+    "space_group_number": 43,
+    "comments": "This structure was given the name ``blossite'' by (Robinson, 1987). \n Space group $Fdd2$ \\#43 does not fix the $z=0$ plane.  We do this by setting $z_{2} = 3/4$ for the copper atom.",
+    "notes": "Blossite, $\\alpha$-Cu$_{2}$V$_{2}$O$_{7}$",
+    "ccdc": null,
+    "icsd": "1831"
 }

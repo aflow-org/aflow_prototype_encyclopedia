@@ -101,5 +101,9 @@
     "alias": "A3B4_tP84_115_acef3g3j3k_6j6k-001",
     "number_of_species": 2,
     "pearson_symbol": "tP84",
-    "space_group_number": 115
+    "space_group_number": 115,
+    "comments": "Alumina comes in a variety of forms. In the Encyclopedia we have: \\begin{itemize} \\item \\href{current_web_home_dir/A2B3_hR10_167_c_e-001}{Corundum, or $\\alpha$-alumina ($D5_{1}$)} is the mineral usual found in nature. \\item \\href{current_web_home_dir/A2B3_hP60_194_3fk_cdef2k-001}{$\\beta$-alumina ($D5_{6}$)} \\item We describe $\\gamma$-alumina ($D5_{7}$) using \\href{current_web_home_dir/A2B3_cP60_212_acd_bce-001}{Fe$_{2}$O$_{3}$} as the prototype. \\item \\href{current_web_home_dir/A3B4_tP84_115_acef3g3j3k_6j6k-001}{$\\delta$-alumina} (this structure) is a tetragonal distortion of the \\href{current_web_home_dir/A2BC4_cF56_227_c_b_e-001}{spinel structure}. It is found in nature as deltalumite. \\item \\href{current_web_home_dir/A2B3_oP40_33_4a_6a-001}{$\\kappa$-Al$_{2}$O$_{3}$}. \\end{itemize} ~ \\vspace{-.25in} \n Only 5/6 of the aluminum (4j) and (4k) sites in deltalumite are occupied, giving the observed alumina stoichiometry, Al$_{2}$O$_{3}$.",
+    "notes": "$\\delta$-alumina/Deltalumite",
+    "ccdc": null,
+    "icsd": "40200"
 }

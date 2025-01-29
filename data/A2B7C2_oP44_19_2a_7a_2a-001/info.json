@@ -87,5 +87,9 @@
     "alias": "A2B7C2_oP44_19_2a_7a_2a-001",
     "number_of_species": 3,
     "pearson_symbol": "oP44",
-    "space_group_number": 19
+    "space_group_number": 19,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "none"
 }

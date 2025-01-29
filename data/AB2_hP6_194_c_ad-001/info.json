@@ -20,5 +20,9 @@
     "alias": "AB2_hP6_194_c_ad",
     "number_of_species": 2,
     "pearson_symbol": "hP6",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "comments": "Replacing the Ni-II atoms with In transforms the crystal into the \\href{current_web_home_dir/AB2_hP3_191_a_d-001}{$C32$ (hexagonal $\\omega$) phase}.",
+    "notes": "$B8_{2}$",
+    "ccdc": null,
+    "icsd": "59436"
 }

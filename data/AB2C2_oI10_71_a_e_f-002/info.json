@@ -25,5 +25,9 @@
     "alias": "AB2C2_oI10_71_a_e_f-002",
     "number_of_species": 3,
     "pearson_symbol": "oI10",
-    "space_group_number": 71
+    "space_group_number": 71,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "67204"
 }

@@ -30,5 +30,9 @@
     "alias": "A4B_tP20_127_ehj_g",
     "number_of_species": 2,
     "pearson_symbol": "tP20",
-    "space_group_number": 127
+    "space_group_number": 127,
+    "notes": "$D1_{e}$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "615570"
 }

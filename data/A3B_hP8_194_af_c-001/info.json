@@ -21,5 +21,9 @@
     "alias": "A3B_hP8_194_af_c",
     "number_of_species": 2,
     "pearson_symbol": "hP8",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "comments": "The lattice constants $a$ and $c$ were inferred from the nearest-neighbor distances in (Aronsson, 1960). \n (Frotscher, 2010) states that this structure was ``falsely assigned,'' and that the true structure is \\href{current_web_home_dir/A2B_hP6_194_f_c-003}{ReB$_{2}$}, which is identical to this structure with the (2a) boron atoms removed.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "24361"
 }

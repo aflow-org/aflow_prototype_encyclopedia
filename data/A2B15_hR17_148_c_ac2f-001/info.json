@@ -35,5 +35,9 @@
     "alias": "A2B15_hR17_148_c_ac2f-001",
     "number_of_species": 2,
     "pearson_symbol": "hR17",
-    "space_group_number": 148
+    "space_group_number": 148,
+    "comments": "We have shifted the origin of the system from that used by (Andersson, 1977), moving the Pd-I atom (her Pd(4)) to the (1a) Wyckoff position. \n Hexagonal settings for rhombohedral structures can be obtained with the option {\\tt --hex}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "1096"
 }

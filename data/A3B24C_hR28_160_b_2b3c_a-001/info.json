@@ -51,5 +51,9 @@
     "alias": "A3B24C_hR28_160_b_2b3c_a",
     "number_of_species": 3,
     "pearson_symbol": "hR28",
-    "space_group_number": 160
+    "space_group_number": 160,
+    "comments": "Since there are three S$_{8}$ molecules in this structure, (Bjorvatten, 1963) refer to it as SbI$_{3}$:3S$_{8}$. \n Space group $R3m$ \\#160 does not fix the zero of the $z$-axis.  Here it is set to coincide with the plane of the iodine atoms.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "14200"
 }

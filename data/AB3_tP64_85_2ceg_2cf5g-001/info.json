@@ -65,5 +65,9 @@
     "alias": "AB3_tP64_85_2ceg_2cf5g-001",
     "number_of_species": 2,
     "pearson_symbol": "tP64",
-    "space_group_number": 85
+    "space_group_number": 85,
+    "comments": "Alane (AlH$_{3}$ or AlD$_{3}$) comes a variety of polymorphs (Brower, 1976) which can be accessed by using different preparation methods.  We will add to this list as we obtain data on more of the crystal structures. Currently we have \\begin{itemize} \\item $\\alpha$-Alane is the ground state, and has the \\href{current_web_home_dir/A3B_hR8_167_e_b-001}{rhombohedral FeF$_{3}$ ($D0_{12}$)} structure, \\item $\\alpha'$-Alane, which takes the \\href{current_web_home_dir/AB3_oC48_63_ad_cfgh-001}{body-centered orthorhombic $\\beta$-AlFe$_{3}$ structure}. \\item \\href{current_web_home_dir/AB3_cF64_227_c_f-001}{$\\beta$-Alane} is cubic, \\item orthorhombic \\href{current_web_home_dir/AB3_oP24_58_ag_c2gh-001}{$\\gamma$-Alane} has two hydrogens bridging some of the aluminum atoms, and \\item tetragonal \\href{current_web_home_dir/AB3_tP64_85_2ceg_2cf5g-001}{$\\delta$-Alane} (this structure). \\end{itemize} ~ \\vspace{-.25in} \n We have not found experimental data for $\\delta$-alane, and hence no ICSD entry.  (Sun, 2009) used first-principles calculations to find the current structure, stating ``that x-ray powder-diffraction patterns [give] simulated main-peak positions for AlH$_{3}$ [in] good agreement with experimental (Bower, 1976) $\\delta$-AlH$_{3}$.''  Since (Bower, 1976) did not extract a crystal structure from their data and we do not have any other confirmation that this is the correct structure we will list this as a ``provisional'' structure.",
+    "notes": "$\\delta$-Alane ({\\em proposed})",
+    "ccdc": null,
+    "icsd": "none"
 }

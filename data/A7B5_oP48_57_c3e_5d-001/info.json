@@ -61,5 +61,9 @@
     "alias": "A7B5_oP48_57_c3e_5d-001",
     "number_of_species": 2,
     "pearson_symbol": "oP48",
-    "space_group_number": 57
+    "space_group_number": 57,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "104304"
 }

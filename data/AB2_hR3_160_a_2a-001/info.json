@@ -25,5 +25,9 @@
     "alias": "AB2_hR3_160_a_2a-001",
     "number_of_species": 2,
     "pearson_symbol": "hR3",
-    "space_group_number": 160
+    "space_group_number": 160,
+    "comments": "MoS$_{2}$ exists naturally in two forms: this rhombohedral structure, and the \\href{current_web_home_dir/AB2_hP6_194_c_f-001}{the hexagonal structure, molybdenite, {\\em Strukturbericht} $C7$}.  The two structures differ due to the stacking of the MoS$_{2}$ layers. \n Depending on the preparation method, MoS$_{2}$ can exist in other forms, including a \\href{current_web_home_dir/AB2_hP12_143_ad_bc2d-001}{trigonal structure}. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "notes": "Rhombohedral MoS$_{2}$",
+    "ccdc": null,
+    "icsd": "43695"
 }

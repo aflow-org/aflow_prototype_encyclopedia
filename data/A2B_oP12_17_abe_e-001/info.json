@@ -37,5 +37,9 @@
     "alias": "A2B_oP12_17_abe_e",
     "number_of_species": 2,
     "pearson_symbol": "oP12",
-    "space_group_number": 17
+    "space_group_number": 17,
+    "comments": "The low temperature form of nauminnite is stable below $133^{\\circ}$C (Wiegers, 1971).  This structure (Pinsker, 1965) disagrees with that found by \\href{current_web_home_dir/A2B_oP12_19_2a_a-001}{that found by (Wiegers, 1971)}.",
+    "notes": "$\\alpha$-Naumannite",
+    "ccdc": null,
+    "icsd": "43242"
 }

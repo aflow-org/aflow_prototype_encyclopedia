@@ -45,5 +45,9 @@
     "alias": "A2B_oP24_55_2g2h_gh",
     "number_of_species": 2,
     "pearson_symbol": "oP24",
-    "space_group_number": 55
+    "space_group_number": 55,
+    "comments": "The original report of this structure (Hicks, 2019) referenced a paper that did not contain the details of the structure.  We now reference the correct structure.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "23872"
 }

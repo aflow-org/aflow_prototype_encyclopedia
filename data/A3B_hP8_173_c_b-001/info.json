@@ -27,5 +27,9 @@
     "alias": "A3B_hP8_173_c_b",
     "number_of_species": 2,
     "pearson_symbol": "hP8",
-    "space_group_number": 173
+    "space_group_number": 173,
+    "comments": "Space group $P6_3$ \\#173 allows an arbitrary choice for the origin of the $z$-axis.  We use this to set $z_{1} = 0$ for the potassium site.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "311"
 }

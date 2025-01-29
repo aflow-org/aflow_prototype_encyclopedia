@@ -71,5 +71,9 @@
     "alias": "A5BC2_mC64_15_5f_f_2f",
     "number_of_species": 3,
     "pearson_symbol": "mC64",
-    "space_group_number": 15
+    "space_group_number": 15,
+    "comments": "Compounds of the form RESiO$_{5}$ (RE = Rare Earth and related elements) crystallize in one of two forms (Wang, 2001 and Tian, 2016): \n \\href{current_web_home_dir/A2B5C_mP32_14_2e_5e_e-001}{X1, space group $P2_1/c$ \\#14, for rare earths between lanthanum and gadolinium}, and X2, this structure, for the later rare earths. Dysprosium, yttrium and ytterbium compounds exist in both structures. \n This is the high temperature phase of Y$_{2}$SiO$_{5}$. Below 1190$^{\\circ}$C it transforms into the X1 phase. \n The ICSD entry is from (Michel, 1967).",
+    "notes": "``X2'' Structure",
+    "ccdc": null,
+    "icsd": "27003"
 }

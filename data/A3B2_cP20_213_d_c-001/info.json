@@ -21,5 +21,9 @@
     "alias": "A3B2_cP20_213_d_c",
     "number_of_species": 2,
     "pearson_symbol": "cP20",
-    "space_group_number": 213
+    "space_group_number": 213,
+    "comments": "This is the binary form of the \\href{current_web_home_dir/A_cP20_213_cd-001}{$\\beta$-Mn ($A13$) structure}. \n This structure may also be found in the enantiomorphic space group $P4_{3}32$ \\#212.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "260022"
 }

@@ -21,5 +21,9 @@
     "alias": "A5B_hP12_182_bcg_d-001",
     "number_of_species": 2,
     "pearson_symbol": "hP12",
-    "space_group_number": 182
+    "space_group_number": 182,
+    "comments": "Although (Adam, 1955) state that 'Spatial considerations rule out space group [$P6_{3}22$ \\#182] and so put this crystal in space group $P6_{3}$ \\#173, their coordinates are in fact consistent with space group $P6_{3}22$. (Cenzual, 1991)",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "58206"
 }

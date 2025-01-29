@@ -41,5 +41,9 @@
     "alias": "A3B2_tI160_142_3g_abcef-001",
     "number_of_species": 2,
     "pearson_symbol": "tI160",
-    "space_group_number": 142
+    "space_group_number": 142,
+    "comments": "Be$_{3}$P$_{2}$ can also be found in the \\href{current_web_home_dir/AB3C6_cI80_206_a_d_e-001}{cubic bixbyite (Mn$_{2}$O$_{3}$) structure}, and has been reported in the \\href{current_web_home_dir/A3B2_cP10_224_d_b-001}{centrosymmetric cubic $D5_{5}$ (Mg$_{3}$P$_{2}$) structure}.",
+    "notes": "Tetragonal Be$_{3}$P$_{2}$",
+    "ccdc": null,
+    "icsd": "42038"
 }

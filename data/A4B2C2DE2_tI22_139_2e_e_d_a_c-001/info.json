@@ -25,5 +25,9 @@
     "alias": "A4B2C2DE2_tI22_139_2e_e_d_a_c-001",
     "number_of_species": 5,
     "pearson_symbol": "tI22",
-    "space_group_number": 139
+    "space_group_number": 139,
+    "comments": "(Sun, 2012) consider this to be intergrown layers of BaFe$_{2}$As$_{2}$, which has the \\href{current_web_home_dir/A2B2C_tI10_139_d_e_a-003}{ThCr$_{2}$Si$_{2}$} structure, and \\href{current_web_home_dir/A2BCD2_tP6_123_h_a_b_e-001}{BaTi$_{2}$As$_{2}$O}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "263018"
 }

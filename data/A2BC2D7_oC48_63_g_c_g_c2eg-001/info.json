@@ -41,5 +41,9 @@
     "alias": "A2BC2D7_oC48_63_g_c_g_c2eg-001",
     "number_of_species": 4,
     "pearson_symbol": "oC48",
-    "space_group_number": 63
+    "space_group_number": 63,
+    "comments": "This is a Ruddlesden-Popper structure. \n We use the data taken at 12K. \n The site we label La I (4c) is 66\\% lanthanum and 34\\% calcium, while the Ca I (8g) site is 83\\% calcium and 17\\% lanthanum. \n \\href{current_web_home_dir/A7B2C3_oC48_63_c2eg_g_cg-001}{Sr$_{3}$SnO$_{7}$ is a ternary form of this structure.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "89997"
 }

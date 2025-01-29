@@ -25,5 +25,9 @@
     "alias": "A3B2C_oC12_65_ah_g_c-001",
     "number_of_species": 3,
     "pearson_symbol": "oC12",
-    "space_group_number": 65
+    "space_group_number": 65,
+    "comments": "(Avilov, 1972) put this in space group $Pmna$ \\#51, with two formula units in the full orthorhombic cell.  (Cenzual, 1991) showed that their coordinates actually described a system in space group $Cmmm$ \\#65, with one formula unit in the primitive cell. \n The ICSD entry references (Cenzual, 1991).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "71081"
 }

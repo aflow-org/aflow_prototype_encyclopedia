@@ -27,5 +27,9 @@
     "alias": "AB2_oI12_74_e_2e-001",
     "number_of_species": 2,
     "pearson_symbol": "oI12",
-    "space_group_number": 74
+    "space_group_number": 74,
+    "comments": "(Zou, 2015) find that the Si-I site has 96.8\\% occupancy and the Si-II site has 81.2\\% occupancy, so the actual stoichiometry of their sample is GdSi$_{1.78}$.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "291182"
 }

@@ -43,5 +43,9 @@
     "alias": "A27B52CD12_cP184_224_dl_eh3k_a_k",
     "number_of_species": 4,
     "pearson_symbol": "cP184",
-    "space_group_number": 224
+    "space_group_number": 224,
+    "comments": "(Brown, 1977) presents this as an improvement on the \\href{current_web_home_dir/A5B40CD12_cP116_224_bd_e3k_a_k-001}{$H4_{16}$ structure, H$_{3}$PW$_{12}$O$_{40}$ $\\cdot$ 5H$_{2}$O}. The primary difference is the addition of a sixth water molecule and the location of the hydrogen molecules not directly attached to a water molecule. \n The water molecules are formed by the H-II and O-II atoms, and the (24h) (O-II) and (48k) (H-II) Wyckoff sites are only occupied half of the time. Presumably this means that the nearly flat H-O molecular ions in this structure actually consist of one water molecule, the central hydrogen atom (H-I), and a water molecule on the other side of the central hydrogen, with the other water positions empty.  Exactly which water molecules are occupied on around each H-I atom is completely up to chance.  (Brown, 1977) state that the molecule has a positive charge, and write it as H$_{5}$O$_{2}^+$. \n We use the neutron data from (Brown, 1977) to locate the non-hydrogen atoms. \n This structure is a partially dehydrated form of \\href{current_web_home_dir/A29B40CD12_cF656_227_ae2fg_e3g_b_g-001}{H$_{3}$PW$_{12}$O$_{40}$ $\\cdot$ 29H$_{2}$O ($H4_{21}$)}. Further dehydration produces the \\href{current_web_home_dir/A3B40CD12_cP112_224_d_e3k_a_k-001}{H$_{3}$PW$_{12}$O$_{40}$ $\\cdot$ 3H$_{2}$O} structure.",
+    "notes": "Phosphoric Acid",
+    "ccdc": null,
+    "icsd": "904"
 }

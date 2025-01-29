@@ -28,5 +28,9 @@
     "alias": "ABC3_cP20_198_a_a_b",
     "number_of_species": 3,
     "pearson_symbol": "cP20",
-    "space_group_number": 198
+    "space_group_number": 198,
+    "notes": "Sodium Chlorate",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "16714"
 }

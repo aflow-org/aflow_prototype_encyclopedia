@@ -49,5 +49,9 @@
     "alias": "A3B2C5_mC40_15_ef_f_3ef-001",
     "number_of_species": 3,
     "pearson_symbol": "mC40",
-    "space_group_number": 15
+    "space_group_number": 15,
+    "comments": "This is a monoclinic distortion of the \\href{current_web_home_dir/A3B5C2_oI40_72_aj_bfj_j-001}{orthorhombic U$_{2}$Co$_{3}$Si$_{5}$ structure}. (Chabot, 1985)",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "76349"
 }

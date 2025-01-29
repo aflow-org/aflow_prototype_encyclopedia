@@ -27,5 +27,9 @@
     "alias": "AB3_tP32_133_h_i2j",
     "number_of_species": 2,
     "pearson_symbol": "tP32",
-    "space_group_number": 133
+    "space_group_number": 133,
+    "comments": "\\href{current_web_home_dir/AB3_tI32_121_f_g2i-001}{$\\alpha$-V$_{3}$S structure} is metastable in this region, and stable above 950$^\\circ$C. \n $\\beta$-V$_{3}$S is stable below 825$^\\circ$C.",
+    "notes": "$\\beta$-V$_{3}$S (LT)",
+    "ccdc": null,
+    "icsd": "26516"
 }

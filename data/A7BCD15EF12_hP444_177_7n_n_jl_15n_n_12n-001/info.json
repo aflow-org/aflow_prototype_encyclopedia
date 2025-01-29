@@ -239,5 +239,9 @@
     "alias": "A7BCD15EF12_hP444_177_7n_n_jl_15n_n_12n-001",
     "number_of_species": 6,
     "pearson_symbol": "hP444",
-    "space_group_number": 177
+    "space_group_number": 177,
+    "ccdc": "222686",
+    "comments": "The oxygen sites labeled O-V through O-XII are only half filled.",
+    "notes": null,
+    "icsd": null
 }

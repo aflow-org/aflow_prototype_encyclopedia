@@ -24,5 +24,9 @@
     "alias": "AB4_tI10_87_a_h",
     "number_of_species": 2,
     "pearson_symbol": "tI10",
-    "space_group_number": 87
+    "space_group_number": 87,
+    "notes": "$D1_{a}$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "105047"
 }

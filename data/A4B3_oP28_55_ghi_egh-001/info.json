@@ -45,5 +45,9 @@
     "alias": "A4B3_oP28_55_ghi_egh-001",
     "number_of_species": 2,
     "pearson_symbol": "oP28",
-    "space_group_number": 55
+    "space_group_number": 55,
+    "comments": "Pb$_{3}$O$_{4}$ has been observed in several structures (Wriedt, 1988; Dinnebier, 2003): \\begin{itemize} \\item Below 170K (Wriedt, 1988) it is in the \\href{current_web_home_dir/A4B3_oP28_55_ghi_egh-001}{orthorhombic Minium-R structure} (this structure).  (Gavarri, 1978) tracks this structure up to 240K. \\item Above 170K it is in the \\href{current_web_home_dir/A4B3_tP28_135_gh_dh-002}{tetragonal Minium-T structure}. \\item At ambient temperature the Minium-T structure transforms into what is apparently the Minium-R structure at a pressure between 0.11 and 0.3 GPa. (Dinnebier, 2003) call this {\\em Phase II}. \\item If the pressure is increased, between 5.54 and 6.6 GPa the structure transforms into orthorhombic \\href{current_web_home_dir/A4B3_oP14_55_gh_ah-001}{Phase III structure}. \\end{itemize}",
+    "notes": "Minium-R",
+    "ccdc": null,
+    "icsd": "4107"
 }

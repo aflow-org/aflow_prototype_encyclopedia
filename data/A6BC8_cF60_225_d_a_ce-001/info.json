@@ -19,5 +19,9 @@
     "alias": "A6BC8_cF60_225_d_a_ce-001",
     "number_of_species": 3,
     "pearson_symbol": "cF60",
-    "space_group_number": 225
+    "space_group_number": 225,
+    "comments": "This can be seen as a distortion of the \\href{current_web_home_dir/AB_cF8_225_a_b-001}{rock salt ($B1$) structure} with four atoms removed.  Adding atoms to the (4b) site and setting $x_{4} = 1/4$ places all of the atoms on the sites of the rock salt crystal.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "24710"
 }

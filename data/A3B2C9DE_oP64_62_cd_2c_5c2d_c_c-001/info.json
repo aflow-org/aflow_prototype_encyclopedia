@@ -79,5 +79,9 @@
     "alias": "A3B2C9DE_oP64_62_cd_2c_5c2d_c_c-001",
     "number_of_species": 5,
     "pearson_symbol": "oP64",
-    "space_group_number": 62
+    "space_group_number": 62,
+    "comments": "This is an approximation of the structure proposed by (Wang, 2021).  In their work, the water molecule formed by the H-I, H-II and O-V atoms can have two slightly different positions, with the two possible oxygen positions only 0.42{\\AA} apart, and two of the possible 4 hydrogen sites only 0.08{\\AA} apart. These short distances cannot be distinguished computationally, and AFLOW has difficulty determining the correct label.  We address this problem by moving these atoms from (8d) Wyckoff positions to (4c) Wyckoff positions, changing the $y$ coordinate of each from its given value to 1/4. \n The original structure can be found in the CIF provided by the ICSD.",
+    "notes": "Approximate H$_{2}$O Positions",
+    "ccdc": null,
+    "icsd": "135754"
 }

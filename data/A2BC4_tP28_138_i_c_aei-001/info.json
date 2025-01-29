@@ -29,5 +29,9 @@
     "alias": "A2BC4_tP28_138_i_c_aei-001",
     "number_of_species": 3,
     "pearson_symbol": "tP28",
-    "space_group_number": 138
+    "space_group_number": 138,
+    "comments": "La$_{2}$NiO$_{4}$ exhibits several temperature-driven structural phase transitions: \\begin{itemize} \\item The current structure is the ground state low-temperature structure, using data taken at 10K. \\item  Above 70K it transforms into the \\href{current_web_home_dir/AB2C4_oC28_64_a_f_ef-003}{orthorhombic La$_{2}$CuO$_{4}$ structure}. \\item At 694K it transforms to the parent Ruddlesden-Popper structure, \\href{current_web_home_dir/A4B2C_tI14_139_ce_e_a-001}{K$_{2}$NiF$_{4}$} (Villars,2016). \\item La$_{2}$NiO$_{4}$ has also been observed in the orthorhombic \\href{current_web_home_dir/A2BC4_oP28_50_gh_ac_ghm-001}{space group $Pban$ \\#50} (Odier, 1986). \\end{itemize}",
+    "notes": "Tetragonal Phase",
+    "ccdc": null,
+    "icsd": "63396"
 }

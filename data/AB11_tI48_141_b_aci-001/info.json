@@ -25,5 +25,9 @@
     "alias": "AB11_tI48_141_a_bdi",
     "number_of_species": 2,
     "pearson_symbol": "tI48",
-    "space_group_number": 141
+    "space_group_number": 141,
+    "comments": "(Sanderson, 1953) gave the atomic positions in setting 1 of space group $I4_{1}/amd$ \\#141.  We used FINDSYM to transform this to the standard setting 2. \n The ICSD entry is for SrCd$_{11}$, as BaCd$_{11}$ is not in the ICSD database, despite being the lead structure in (Sanderson, 1953). The lattice constants of the two structures are very similar, and the atomic positions are identical.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "150492"
 }

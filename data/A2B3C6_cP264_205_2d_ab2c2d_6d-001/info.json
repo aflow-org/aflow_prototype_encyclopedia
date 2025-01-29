@@ -81,5 +81,9 @@
     "alias": "A2B3C6_cP264_205_2d_ab2c2d_6d",
     "number_of_species": 3,
     "pearson_symbol": "cP264",
-    "space_group_number": 205
+    "space_group_number": 205,
+    "comments": "This is a redetermination of the \\href{current_web_home_dir/A2B3C6_cP33_221_cd_ag_fh-001}{$E9_{1}$ (Ca$_{3}$Al$_{2}$O$_{6}$) structure}. The lattice constant of the new unit cell is twice the original, giving a volume eight times larger.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "1841"
 }

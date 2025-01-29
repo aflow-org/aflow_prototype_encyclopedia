@@ -33,5 +33,9 @@
     "alias": "A2B7_hP36_194_2f_aefhk-001",
     "number_of_species": 2,
     "pearson_symbol": "hP36",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "102233"
 }

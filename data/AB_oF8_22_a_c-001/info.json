@@ -21,5 +21,9 @@
     "alias": "AB_oF8_22_a_c",
     "number_of_species": 2,
     "pearson_symbol": "oF8",
-    "space_group_number": 22
+    "space_group_number": 22,
+    "comments": "This is the stable structure of iron sulfide below 242K.  Above that temperature it is in the \\href{current_web_home_dir/AB_cF8_216_a_c-001}{zincblende ($B3$) structure}. (Wintenberger, 1978). \n This data was taken at 81K.  We follow (Villars, 2016) and rearrange the axis, as well as reversing the positions of the iron and sulfur atoms.",
+    "notes": "Below 242K",
+    "ccdc": null,
+    "icsd": "none"
 }

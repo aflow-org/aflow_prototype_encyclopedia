@@ -45,5 +45,9 @@
     "alias": "ABC4D_oP28_57_d_d_2c2d_d-001",
     "number_of_species": 4,
     "pearson_symbol": "oP28",
-    "space_group_number": 57
+    "space_group_number": 57,
+    "comments": "The ICSD lists (La,Sr)$_{2}$TiO$_{4}$ as the prototype, but we prefer to use an ordered structure.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "78720"
 }

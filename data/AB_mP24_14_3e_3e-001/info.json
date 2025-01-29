@@ -59,5 +59,9 @@
     "alias": "AB_mP24_14_3e_3e",
     "number_of_species": 2,
     "pearson_symbol": "mP24",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "comments": "This unit cell contains two \\href{current_web_home_dir/AB_oP48_61_3c_3c-001}{benzene molecules} with every hydrogen replaced by a chlorine atom, causing considerable distortion.  To see this it will be necessary to use a supercell view of at least $2 \\times 1 \\times 2$.",
+    "notes": "$\\epsilon$-Hexachloro{\\em cyclo}hexane",
+    "ccdc": null,
+    "icsd": "none"
 }

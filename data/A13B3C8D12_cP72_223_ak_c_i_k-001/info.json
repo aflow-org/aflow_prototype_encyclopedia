@@ -27,5 +27,9 @@
     "alias": "A13B3C8D12_cP72_223_ak_c_i_k-001",
     "number_of_species": 4,
     "pearson_symbol": "cP72",
-    "space_group_number": 223
+    "space_group_number": 223,
+    "comments": "There is a considerable amount of disorder in this system: \\begin{itemize} \\item The (2a) site is pure barium and labeled Ba. \\item The (6c) site is pure gallium and labeled Ga. \\item The (16i) site is 64.4\\% tin and 35.6\\% gallium.  We label this as germanium, Ge, as that is another possible component of this compound and to avoid confusion with the other gallium and tin sites. \\item The first (24k) site is 25\\% barium, with the remainder of the sites vacant.  This can be seen as four-lobed atom clusters in the figure, when it is expanded beyond one unit cell.  We label this site as barium, Ba. \\item The final (24k) site is 74.8\\% tin and 25.2\\% gallium.  We label this as tin, Sn. \\end{itemize} ~ \\vspace{-.25in} \n (Aliva, 2006) found another clathrate structure with this stoichiometry, \\href{current_web_home_dir/A4B4C6D13_cI54_217_c_c_d_ag-001}{$\\alpha$-Ba$_{8}$Ga$_{16}$Sn$_{30}$}.",
+    "notes": "$\\beta$-Ba$_{8}$Ga$_{16}$Sn$_{30}$ Clathrate",
+    "ccdc": null,
+    "icsd": "none"
 }

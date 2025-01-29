@@ -53,5 +53,9 @@
     "alias": "AB2C2_mP20_14_e_2e_2e-001",
     "number_of_species": 3,
     "pearson_symbol": "mP20",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "67503"
 }

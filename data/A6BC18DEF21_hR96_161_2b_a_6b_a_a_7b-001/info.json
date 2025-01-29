@@ -115,5 +115,9 @@
     "alias": "A6BC18DEF21_hR96_161_2b_a_6b_a_a_7b-001",
     "number_of_species": 6,
     "pearson_symbol": "hR96",
-    "space_group_number": 161
+    "space_group_number": 161,
+    "comments": "We use the data for stoichiometric synthetic stepanovite from (Husk\\'{c}, 2016).  Natural stepanovite, as well as zhemchuzhnikovite, contains between 8 and 9 water molecules per formula unit. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "notes": "Stepanovite",
+    "ccdc": null,
+    "icsd": "252894"
 }

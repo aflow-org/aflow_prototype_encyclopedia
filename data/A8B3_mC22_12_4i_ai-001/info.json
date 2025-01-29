@@ -43,5 +43,9 @@
     "alias": "A8B3_mC22_12_4i_ai-001",
     "number_of_species": 2,
     "pearson_symbol": "mC22",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "comments": "There is no ICSD entry on file for (Oster, 2017), so we use the similar entry from (Forsyth, 1962).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "58002"
 }

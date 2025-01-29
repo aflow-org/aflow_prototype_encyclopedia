@@ -39,5 +39,9 @@
     "alias": "A3B5_hP48_178_ac_a2bc-001",
     "number_of_species": 2,
     "pearson_symbol": "hP48",
-    "space_group_number": 178
+    "space_group_number": 178,
+    "comments": "This structure can also be found in the enantiomorphic space group $P6_{5}22$ \\#179. \n The ICSD entry sets c = 17.701{\\AA} rather than 17.01{\\AA} as found in (Cenzual, 1986). We use the published value for c.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "104611"
 }

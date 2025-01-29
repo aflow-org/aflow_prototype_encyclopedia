@@ -187,5 +187,9 @@
     "alias": "A3B9C2_mC112_5_6c_2a2b16c_4c-001",
     "number_of_species": 3,
     "pearson_symbol": "mC112",
-    "space_group_number": 5
+    "space_group_number": 5,
+    "comments": "There are three known varieties of Bi$_{4}$V$_{2}$O$_{11}$ (Villars, 2018): \\begin{itemize} \\item \\href{current_web_home_dir/A3B9C2_mC112_5_6c_2a2b16c_4c-001}{$\\alpha$}, the ground state structure, stable up to $450^{\\circ}$C (this structure), \\item \\href{current_web_home_dir/A4B12C3_oC76_63_eg_fg2h_cf-001}{$\\beta$}, stable between $450^{\\circ}$C and $555^{\\circ}$C, and \\item \\href{current_web_home_dir/A5B9C2_tI64_139_em_d2n_h-001}{$\\gamma$}, stable from 555$^{\\circ}$C up to the melting point at 880$^{\\circ}$C. \\end{itemize} ~ \\vspace{-.25in} \n The sites we have labeled O-XXIV, O-XXV, O-XXVI, V-III, and V-IV are each only occupied 50\\% of the time in any one primitive cell. \n (Mairesse, 2003) describe the structure of $\\alpha$-Bi$_{4}$V$_{2}$O$_{11}$ in the $A2$ setting of space group \\#5 with unique axis $c$.  We describe it in our standard setting, $C2$ with unique axis $b$.",
+    "notes": "$\\alpha$-Bi$_{4}$V$_{2}$O$_{11}$",
+    "ccdc": null,
+    "icsd": "98589"
 }

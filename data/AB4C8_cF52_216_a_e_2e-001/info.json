@@ -23,5 +23,9 @@
     "alias": "AB4C8_cF52_216_a_e_2e",
     "number_of_species": 3,
     "pearson_symbol": "cF52",
-    "space_group_number": 216
+    "space_group_number": 216,
+    "comments": "This is the room temperature structure. Below 45K GaMo$_{4}$S$_{8}$ transforms into a \\href{current_web_home_dir/AB4C8_hR13_160_a_ab_2a2b-001}{rhombohedral structure}. \n (Ben Yaich, 1984) do not give the lattice constant for GaMo$_{4}$S$_{8}$.  We infer it from their interatomic distances and obtain a value of a = 9.7294{\\AA}.  The ICSD entry uses a = 9.74{\\AA}.",
+    "notes": "RT",
+    "ccdc": null,
+    "icsd": "49566"
 }

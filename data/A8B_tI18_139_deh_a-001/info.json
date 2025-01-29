@@ -24,5 +24,9 @@
     "alias": "A8B_tI18_139_deh_a",
     "number_of_species": 2,
     "pearson_symbol": "tI18",
-    "space_group_number": 139
+    "space_group_number": 139,
+    "comments": "(Jack, 1951) and others refer to this structure as $\\alpha''$-Fe$_{16}$N$_{2}$. \n (Yamashita, 2012) determined the structure by examining crystals containing various amounts of $\\alpha''$-Fe$_{16}$N$_{2}$ and $\\alpha$-Fe (bcc iron).  We use their data from the sample that was 90\\% $\\alpha''$-Fe$_{16}$N$_{2}$.  Their measurements were confirmed by first principles calculations and are in agreement with the first principles calculations of (Sims, 2012). \n The ICSD entry is from (Jack, 1951).",
+    "notes": "$D2_{g}$",
+    "ccdc": null,
+    "icsd": "654562"
 }

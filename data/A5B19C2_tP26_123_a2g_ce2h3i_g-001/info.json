@@ -35,5 +35,9 @@
     "alias": "A5B19C2_tP26_123_a2g_ce2h3i_g-001",
     "number_of_species": 3,
     "pearson_symbol": "tP26",
-    "space_group_number": 123
+    "space_group_number": 123,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "247863"
 }

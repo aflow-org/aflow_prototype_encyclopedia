@@ -21,5 +21,9 @@
     "alias": "AB2C4_tI14_139_a_e_cd-003",
     "number_of_species": 3,
     "pearson_symbol": "tI14",
-    "space_group_number": 139
+    "space_group_number": 139,
+    "comments": "This is often referred to as the `T'-' phase of the RE$_{2}$CuO$_{4}$ compounds. \n Lattice constants were determined at 80 mK.  The value of $z_{4}$ for the neodymium atom was determined at 0.5K.",
+    "notes": "(T') Nd$_{2}$CuO$_{4}$",
+    "ccdc": null,
+    "icsd": "69886"
 }

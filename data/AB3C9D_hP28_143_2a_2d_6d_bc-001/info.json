@@ -75,5 +75,9 @@
     "alias": "AB3C9D_hP28_143_2a_2d_6d_bc",
     "number_of_species": 4,
     "pearson_symbol": "hP28",
-    "space_group_number": 143
+    "space_group_number": 143,
+    "comments": "Most refinements of the BLi$_{3}$O$_{9}$W structure, including (Ashtar, 2020), place it in \\href{current_web_home_dir/AB3C9D_hP28_173_a_c_3c_b-001}{hexagonal space group $P6_{3}$ \\#173}.  (Han, 2018) find a better fit to the data by refining it in the trigonal $P3$ \\#143 space group, which places the lanthanum atoms on two independent crystallographic sites.  This may be due to the presence of bismuth impurities on the lantanum site in the (Han, 2018) sample, and indeed the La (3d) sites are both mixed with 3\\% bismuth. (Ashtar, 2020) claim to have very pure samples. Given this, we withhold judgment on which structure is correct and present both. \n Space group $P3$ does not specify the origin of the $z$-axis.  Here it is set so that the coordinate of the (1b) tungsten atom is $z_{3} = 1/4$. \n (Han, 2018) mislabel the Wyckoff positions of the boron and tungsten atoms.  We show the correct positions based on the coordinates in their table and the correspondence with the $P6_{3}$ structure.",
+    "notes": "Trigonal",
+    "ccdc": null,
+    "icsd": "8360"
 }

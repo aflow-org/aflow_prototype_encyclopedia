@@ -23,5 +23,9 @@
     "alias": "A2BC_hR12_166_g_d_ac-001",
     "number_of_species": 3,
     "pearson_symbol": "hR12",
-    "space_group_number": 166
+    "space_group_number": 166,
+    "comments": "We take the coordinates from the neutron powder diffraction data at 298K. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "68414"
 }

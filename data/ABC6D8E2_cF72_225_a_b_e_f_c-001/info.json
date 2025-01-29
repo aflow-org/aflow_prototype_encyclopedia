@@ -22,5 +22,9 @@
     "alias": "ABC6D8E2_cF72_225_b_a_e_f_c",
     "number_of_species": 5,
     "pearson_symbol": "cF72",
-    "space_group_number": 225
+    "space_group_number": 225,
+    "comments": "AFLOW shifts the origin, effectively swapping the (4a) and (4b) Wyckoff position.",
+    "notes": "$H5_{8}$, Sulphohalite",
+    "ccdc": null,
+    "icsd": "52291"
 }

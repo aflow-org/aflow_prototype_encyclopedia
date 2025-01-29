@@ -25,5 +25,9 @@
     "alias": "A5B2_oP14_49_dehq_ab",
     "number_of_species": 2,
     "pearson_symbol": "oP14",
-    "space_group_number": 49
+    "space_group_number": 49,
+    "comments": "(Aleshina, 2002) place this structure in space group $Pccm$ \\#49, while AFLOW's (and VASP's) default tolerance halves the size of the $c$-axis and places the system in space group $Pmmm$ \\#47. The reported structure can be recovered using \n aflow -{-}proto=A5B2\\_oP14\\_49\\_cehq\\_ab:O:Ta -{-}params=a,b/a,c/a,x$_{6}$,y$_{6}$ -{-}tolerance=0.001 . \n It is likely that first-principles calculations starting from this point will relax to produce a structure equivalent to the smaller $Pmmm$ unit cell.",
+    "notes": "$\\beta$-Ta$_{2}$O$_{5}$",
+    "ccdc": null,
+    "icsd": "95462"
 }

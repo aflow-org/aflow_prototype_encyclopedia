@@ -30,5 +30,9 @@
     "alias": "AB3C_hR10_148_c_f_c",
     "number_of_species": 3,
     "pearson_symbol": "hR10",
-    "space_group_number": 148
+    "space_group_number": 148,
+    "comments": "If the iron and titanium atoms are replaced by a single species the structure becomes \\href{current_web_home_dir/A2B3_hR10_167_c_e-001}{corrundum}. \n In the quaternary phases listed here the atoms in parentheses are alloyed onto one (2c) Wyckoff position. \n (Ewald, 1931) originally gave this the {\\em Strukturbericht} designation $G4$. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "notes": "$E2_{2}$, Ilmenite",
+    "ccdc": null,
+    "icsd": "30664"
 }

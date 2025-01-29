@@ -18,5 +18,9 @@
     "alias": "A3B2_cP10_224_d_b",
     "number_of_species": 2,
     "pearson_symbol": "cP10",
-    "space_group_number": 224
+    "space_group_number": 224,
+    "comments": "(Parth\\'{e}, 1993) lists As$_{2}$O$_{3}$ as the prototype for $D5_{5}$. \n (Passerini, 1928) gives the atomic positions in setting 1 of space group $Pn\\overline{3}m$ \\#224.  We have shifted this to the standard setting 2.",
+    "notes": "$D5_{5}$",
+    "ccdc": null,
+    "icsd": "24489"
 }

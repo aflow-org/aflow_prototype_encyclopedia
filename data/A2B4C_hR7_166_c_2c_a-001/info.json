@@ -25,5 +25,9 @@
     "alias": "A2B4C_hR7_166_c_2c_a-001",
     "number_of_species": 3,
     "pearson_symbol": "hR7",
-    "space_group_number": 166
+    "space_group_number": 166,
+    "comments": "Compounds such as InGaMnO$_{4}$ have the second and third atoms evenly distributed on the Fe (2c) site. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "4192"
 }

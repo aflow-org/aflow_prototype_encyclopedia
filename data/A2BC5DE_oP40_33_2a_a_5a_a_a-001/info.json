@@ -81,5 +81,9 @@
     "alias": "A2BC5DE_oP40_33_2a_a_5a_a_a-001",
     "number_of_species": 5,
     "pearson_symbol": "oP40",
-    "space_group_number": 33
+    "space_group_number": 33,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "79351"
 }

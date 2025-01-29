@@ -35,5 +35,9 @@
     "alias": "A3B5C2_oI40_72_aj_bfj_j-001",
     "number_of_species": 3,
     "pearson_symbol": "oI40",
-    "space_group_number": 72
+    "space_group_number": 72,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "20930"
 }

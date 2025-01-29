@@ -21,5 +21,9 @@
     "alias": "A4B3_tI28_141_cd_ae-002",
     "number_of_species": 2,
     "pearson_symbol": "tI28",
-    "space_group_number": 141
+    "space_group_number": 141,
+    "comments": "(O'Keeffe, 1968) indicate that the atom they call O(2) (our O-I) is located at the (4a) Wyckoff position, but give the coordinates of the (4b) Wyckoff position.  The coordinates are correct, however we shift the origin so that the O-I atom is on the (4a) site.  This maps their atom Cu(1) to our Cu-II, and Cu(2) to Cu-I.",
+    "notes": "Paramelaconite",
+    "ccdc": null,
+    "icsd": "100566"
 }

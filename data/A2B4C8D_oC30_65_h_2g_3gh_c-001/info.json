@@ -35,5 +35,9 @@
     "alias": "A2B4C8D_oC30_65_h_2g_3gh_c-001",
     "number_of_species": 4,
     "pearson_symbol": "oC30",
-    "space_group_number": 65
+    "space_group_number": 65,
+    "comments": "Unlike most BCO-type superconductors, the stoichiometry of YBa$_{2}$Cu$_{4}$O$_{8}$ is fixed. \n We use the ambient pressure data from (Bordet, 1989) taken at room temperature.  \n Although it is never explicitly stated by (Bordet, 1989), (Nelmes, 1990) notes that this data is given in the $Ammm$ setting of space group \\#65, making the long axis in the $z$-direction.  The standard orientation is $Cmmm$, and we use FINDSYM to rotate the structure, putting the long axis in the $x$-direction.",
+    "notes": "``124 Superconductor''",
+    "ccdc": null,
+    "icsd": "none"
 }

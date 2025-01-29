@@ -39,5 +39,9 @@
     "alias": "A4B_oP20_62_2cd_c",
     "number_of_species": 2,
     "pearson_symbol": "oP20",
-    "space_group_number": 62
+    "space_group_number": 62,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "23460"
 }

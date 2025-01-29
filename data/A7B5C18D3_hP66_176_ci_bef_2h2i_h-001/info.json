@@ -53,5 +53,9 @@
     "alias": "A7B5C18D3_hP66_176_ci_bef_2h2i_h-001",
     "number_of_species": 4,
     "pearson_symbol": "hP66",
-    "space_group_number": 176
+    "space_group_number": 176,
+    "comments": "(Saha, 2021) set the $z$-coordinate of the tellurium atom to zero, but this is not consistent with the stoichiometry of the system.  We set $z = 1/4$, putting the tellurium atom on a (6h) site. \n Several sites have only partial or mixed occupations:  The Na-I (2b) site is 30\\% occupied.  The Na-II (4e) site is 50\\% occupied.  The Na-III (4f) site is 63\\% sodium and 37\\% cobalt, which we show as pure sodium. \n FINDSYM rotated the system so that the Co-I atom is on the (2c) Wyckoff position rather than the (2d) position given by (Saha, 2021).",
+    "notes": "NCTO",
+    "ccdc": null,
+    "icsd": "none"
 }

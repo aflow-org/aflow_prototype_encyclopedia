@@ -57,5 +57,9 @@
     "alias": "A9BC_oC44_39_3c3d_a_c",
     "number_of_species": 3,
     "pearson_symbol": "oC44",
-    "space_group_number": 39
+    "space_group_number": 39,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "1047"
 }

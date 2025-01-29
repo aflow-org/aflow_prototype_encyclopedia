@@ -81,5 +81,9 @@
     "alias": "A5B2C10D2E2_mC84_12_acghj_bdi_5j_2i_j",
     "number_of_species": 5,
     "pearson_symbol": "mC84",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "comments": "The orthorhombic structure of staurolite determined by (N\\'{a}ray-Szab\\'{o}, 1929) \\href{current_web_home_dir/A4BC12D2_oC76_63_eg_c_f3gh_g-001}{was given the {\\em Strukturbericht} designation $S0_{4}$ by (Hermann, 1937)}.  (Smith, 1968) showed that the structure is actually monoclinic with $\\beta \\approx 90^\\circ$. This paper also corrected the chemical composition of the mineral. \n The hydrogen positions are undetermined, but they part of a ``complex distribution of OH ions,'' and are ``probably'' associated with the atoms on the (4i) sites (Smith, 1968).  We therefore label the (4i) sites as OH.\n The metallic sites are actually somewhat disordered.  (Smith, 1968) gives the composition of the various sites as: \\begin{itemize} \\item Al (2a) Al$_{0.67}$ Fe$_{0.33}$ \\item Fe (2b) Fe$_{0.68}$ Mn$_{0.32}$ \\item Al (2c) Al$_{0.67}$ Fe$_{0.33}$ \\item Fe (2d) Fe$_{0.68}$ Mn$_{0.32}$ \\item Al (4g) Al$_{0.95}$ Mg$_{0.05}$ \\item Al (4h) Al$_{0.95}$ Mg$_{0.05}$ \\item Fe (4i) Fe$_{0.64}$ Al$_{0.32}$ Ti$_{0.04}$ \\item Si (8j) Si$_{0.936}$ Al$_{0.064}$ \\end{itemize} More (see reference in Donnay, 1983) presents a history of the difficulties in determining the staurolite structure.",
+    "notes": "Staurolite",
+    "ccdc": null,
+    "icsd": "22051"
 }

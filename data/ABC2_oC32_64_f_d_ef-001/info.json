@@ -33,5 +33,9 @@
     "alias": "ABC2_oC32_64_f_d_ef-001",
     "number_of_species": 3,
     "pearson_symbol": "oC32",
-    "space_group_number": 64
+    "space_group_number": 64,
+    "comments": "(Tremel, 1991) does not explicitly list the atomic positions, only the distances between atoms in the crystal.  Rather than converting these distances into Wyckoff coordinates we use the data from the ICSD entry.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "71196"
 }

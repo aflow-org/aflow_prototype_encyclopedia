@@ -63,5 +63,9 @@
     "alias": "A2B3C5_mC40_12_2i_3i_5i-001",
     "number_of_species": 3,
     "pearson_symbol": "mC40",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "ccdc": "1882993",
+    "comments": null,
+    "notes": null,
+    "icsd": null
 }

@@ -115,5 +115,9 @@
     "alias": "A13B6C24D4_hP188_184_2a4d_2d_8d_bd-001",
     "number_of_species": 4,
     "pearson_symbol": "hP188",
-    "space_group_number": 184
+    "space_group_number": 184,
+    "comments": "None of the sodium sites is even half filled.  The occupations are: Na-I 23\\%, Na-II 35\\%, Na-III 25\\%, Na-IV 10\\%, and Na-V 9\\%. The phosphorous, sulfur, and titanium sites are all filled. \n Space group $P6cc$ \\#184 allows an arbitrary origin for the $z$-axis.  We choose $z_{3} = 0$ for the Ti-I site.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "81997"
 }

@@ -39,5 +39,9 @@
     "alias": "A_mC24_15_2e2f",
     "number_of_species": 1,
     "pearson_symbol": "mC24",
-    "space_group_number": 15
+    "space_group_number": 15,
+    "comments": "This structure was determined by density functional simulations. The authors claim it is in good agreement with experimental data for H-III, and is the lowest energy structure at pressures from approximately 100-250 GPa, including zero-point motion. The data presented here was computed at 300 GPa. If we change our description of the unit cell so that $\\mathbf{a}_{3} \\rightarrow \\mathbf{a}_{1}+\\mathbf{a}_{2}+\\mathbf{a}_{3}$  then all of the primitive vectors for the base-centered orthorhombic structure have approximately equal lengths, and the angles between them are approximately 60$^\\circ$. This structure is very close to exhibiting a face-centered cubic lattice.",
+    "notes": "H-III (HP, Theory)",
+    "ccdc": null,
+    "icsd": "none"
 }

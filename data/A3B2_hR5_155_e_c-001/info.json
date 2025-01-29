@@ -24,5 +24,9 @@
     "alias": "A3B2_hR5_155_e_c",
     "number_of_species": 2,
     "pearson_symbol": "hR5",
-    "space_group_number": 155
+    "space_group_number": 155,
+    "comments": "This can be considered as a prototype for a high concentration of ordered vacancies in \\href{current_web_home_dir/A_hP2_194_c-001}{the hcp structure}. We get the ideal hcp atomic positions when z$_{1}$=1/3 and y$_{2}$=1/6, leaving a vacancy at the origin. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "notes": "Hazelwoodite",
+    "ccdc": null,
+    "icsd": "23114"
 }

@@ -35,5 +35,9 @@
     "alias": "A16B4C16D_cF296_219_eh_e_eh_a-001",
     "number_of_species": 4,
     "pearson_symbol": "cF296",
-    "space_group_number": 219
+    "space_group_number": 219,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "67320"
 }

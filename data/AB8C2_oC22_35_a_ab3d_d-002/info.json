@@ -43,5 +43,9 @@
     "alias": "AB8C2_oC22_35_a_ab3e_e",
     "number_of_species": 3,
     "pearson_symbol": "oC22",
-    "space_group_number": 35
+    "space_group_number": 35,
+    "comments": "Our previous report of this structure (Hicks, 2019) transposed the primitive vectors, leading to a structure with the oxygen atoms too close together.  This is the corrected structure. \n AFLOW rotates the (Mahe-Pailleret, 1970) structure by 90$^\\circ$ around the z-axis.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "25378"
 }

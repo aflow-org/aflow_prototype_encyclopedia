@@ -43,5 +43,9 @@
     "alias": "AB3_oP24_59_ae_befg-001",
     "number_of_species": 2,
     "pearson_symbol": "oP24",
-    "space_group_number": 59
+    "space_group_number": 59,
+    "comments": "Although $\\beta$-NbPd$_{3}$ and $\\alpha$-NbPd$_{3}$, which has the \\href{current_web_home_dir/A3B_tI8_139_ad_b-001}{$D0_{22}$ structure}, coexist over a wide range of temperatures, it is thought that $\\alpha$-NbPd$_{3}$ is the ground state (Chandrasekharaiah, 1988). \n (Giessen, 1964) state that their coordinates are given in the $Pmmn$ setting of space group \\#59, but it is apparent that they actually use the $Pmnm$ setting.  We transformed this to $Pmmn$.",
+    "notes": "$\\beta$-NbPd$_{3}$",
+    "ccdc": null,
+    "icsd": "105193"
 }

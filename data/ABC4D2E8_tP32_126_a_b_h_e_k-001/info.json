@@ -30,5 +30,9 @@
     "alias": "ABC4D2E8_tP32_126_a_b_h_e_k",
     "number_of_species": 5,
     "pearson_symbol": "tP32",
-    "space_group_number": 126
+    "space_group_number": 126,
+    "comments": "The positions of the hydrogen atoms in the ammonia molecule are not determined. We only provide the positions of the nitrogen atoms (labeled as NH3). \n (Wells, 1936) gives the lattice coordinates in setting 1 of space group $P4/nnc$ \\#126.  We used FINDSYM to change this to the standard setting 2.",
+    "notes": "$J1_{9}$",
+    "ccdc": null,
+    "icsd": "26767"
 }

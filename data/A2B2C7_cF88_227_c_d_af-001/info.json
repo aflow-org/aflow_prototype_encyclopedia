@@ -20,5 +20,9 @@
     "alias": "A2B2C7_cF88_227_c_d_af",
     "number_of_species": 3,
     "pearson_symbol": "cF88",
-    "space_group_number": 227
+    "space_group_number": 227,
+    "comments": "(Herrmann, 1943) uses {\\em Strukturbericht} $E8_{1}$ to describe the cubic pyrochlore structures.  These have the general formula R$_{2}$Q$_{2}$X$_{7}$, where the X atoms or radicals occupy the (4a) and (48f) sites, and the R and Q atoms occupy the (16c) and(16d) sites.  In many cases the sites are only partially filled and/or have mixed chemistry.  We use Eu$_{2}$Ir$_{2}$O$_{7}$ as our prototype because it represents a fully filled system. \n We take our data from (Sagayama, 2013), but the ICSD entry is from the later work of (Nenoff, 2021).",
+    "notes": "$E8_{1}$, Pyrochlore Iridate",
+    "ccdc": null,
+    "icsd": "135031"
 }

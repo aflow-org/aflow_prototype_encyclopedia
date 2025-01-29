@@ -27,5 +27,9 @@
     "alias": "AB2_oI12_74_e_h",
     "number_of_species": 2,
     "pearson_symbol": "oI12",
-    "space_group_number": 74
+    "space_group_number": 74,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "102124"
 }

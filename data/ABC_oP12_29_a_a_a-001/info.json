@@ -39,5 +39,9 @@
     "alias": "ABC_oP12_29_a_a_a",
     "number_of_species": 3,
     "pearson_symbol": "oP12",
-    "space_group_number": 29
+    "space_group_number": 29,
+    "notes": "Colbaltite",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "69129"
 }

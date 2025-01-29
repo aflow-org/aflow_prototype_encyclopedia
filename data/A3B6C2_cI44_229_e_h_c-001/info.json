@@ -21,5 +21,9 @@
     "alias": "A3B6C2_cI44_229_e_h_c-001",
     "number_of_species": 3,
     "pearson_symbol": "cI44",
-    "space_group_number": 229
+    "space_group_number": 229,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "25622"
 }

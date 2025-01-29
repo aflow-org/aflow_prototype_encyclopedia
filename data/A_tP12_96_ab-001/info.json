@@ -27,5 +27,9 @@
     "alias": "A_tP12_96_ab",
     "number_of_species": 1,
     "pearson_symbol": "tP12",
-    "space_group_number": 96
+    "space_group_number": 96,
+    "comments": "This is a tetragonally bonded structure which packs more efficiently than diamond. It is seen experimentally in some silicon and germanium samples and is a staple for testing silicon potentials and first-principles calculations. The structure shown here is taken from the calculations in (Crain, 1994), but the ICSD entry is an experimental entry for germanium (Bundy, 1963).",
+    "notes": "ST12 Si",
+    "ccdc": null,
+    "icsd": "16954"
 }

@@ -24,5 +24,9 @@
     "alias": "A2BC4D_tI16_121_d_a_i_b",
     "number_of_species": 4,
     "pearson_symbol": "tI16",
-    "space_group_number": 121
+    "space_group_number": 121,
+    "comments": "If $c=2a$, $x=1/4$, and $z=3/8$, the atoms are on the sites of the \\href{current_web_home_dir/A_cF8_227_a-001}{diamond ($A4$) structure}. If, in addition, the Cu, Fe, and Sn atoms are replaced by a single atom type the crystal reduces to the \\href{current_web_home_dir/AB_cF8_216_a_c-001}{zincblende ($B3$) structure}.",
+    "notes": "$H2_{6}$, Stannite",
+    "ccdc": null,
+    "icsd": "26721"
 }

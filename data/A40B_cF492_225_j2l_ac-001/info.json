@@ -33,5 +33,9 @@
     "alias": "A40B_cF492_225_j2l_ac-001",
     "number_of_species": 2,
     "pearson_symbol": "cF492",
-    "space_group_number": 225
+    "space_group_number": 225,
+    "comments": "All of the carbon sites are occupied only 50\\% of the time. \n (Stephens, 1991) put the K-I atom on the (4b) Wyckoff position, $(1/2,1/2,1/2)$.  We shifted this so that the atom is at the origin, the (4a) Wyckoff site.",
+    "notes": "fcc Fullerene",
+    "ccdc": null,
+    "icsd": "66728"
 }

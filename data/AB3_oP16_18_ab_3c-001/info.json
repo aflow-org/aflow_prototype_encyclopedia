@@ -43,5 +43,9 @@
     "alias": "AB3_oP16_18_ab_3c",
     "number_of_species": 2,
     "pearson_symbol": "oP16",
-    "space_group_number": 18
+    "space_group_number": 18,
+    "comments": "(Gottfried, 1938) identified this as the $D0_{17}$ structure, but (Parth\\'{e}, 1993) gave that designation to \\href{current_web_home_dir/AB3_tP8_113_a_ce-001}{$P\\overline{4}2_{1}m$ \\#113 BaS$_{3}$}.",
+    "notes": "Original $D0_{17}$",
+    "ccdc": null,
+    "icsd": "26765"
 }

@@ -83,5 +83,9 @@
     "alias": "A3B6C_mP20_4_3a_6a_a",
     "number_of_species": 3,
     "pearson_symbol": "mP20",
-    "space_group_number": 4
+    "space_group_number": 4,
+    "comments": "Space group $P2_{1}$ \\#4 allows the $y$ coordinates to have an arbitrary origin. Here this freedom is used to set $y_{10} = 0$ for the Uranium position.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "23200"
 }

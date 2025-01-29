@@ -24,5 +24,9 @@
     "alias": "A6B23_cF116_225_e_acfh",
     "number_of_species": 2,
     "pearson_symbol": "cF116",
-    "space_group_number": 225
+    "space_group_number": 225,
+    "notes": "$D8_{4}$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "2837"
 }

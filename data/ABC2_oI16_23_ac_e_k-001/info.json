@@ -29,5 +29,9 @@
     "alias": "ABC2_oI16_23_ab_i_k",
     "number_of_species": 3,
     "pearson_symbol": "oI16",
-    "space_group_number": 23
+    "space_group_number": 23,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "37026"
 }

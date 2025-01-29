@@ -31,5 +31,9 @@
     "alias": "AB2_mC12_12_i_aci-001",
     "number_of_species": 2,
     "pearson_symbol": "mC12",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "comments": "(Berndt, 1961) gives the lattice parameters for the unit cell of RuU$_{2}$, but only gives approximate positions for the atoms, and states that the space group is either $P2/m$ \\#10 or $P2_{1}/m$ \\#11. \n We follow Villars and assume that atoms are evenly spaced as shown in Berndt's Figure 2, in which case the space group becomes $C2/m$ \\#12.  To our knowledge there has been no further refinement of this structure.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "none"
 }

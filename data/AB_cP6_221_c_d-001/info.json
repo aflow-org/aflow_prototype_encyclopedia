@@ -17,5 +17,9 @@
     "alias": "AB_cP6_221_c_d",
     "number_of_species": 2,
     "pearson_symbol": "cP6",
-    "space_group_number": 221
+    "space_group_number": 221,
+    "comments": "This is the \\href{current_web_home_dir/AB_cF8_225_a_b-001}{NaCl ($B1$) structure} with 25\\% ordered vacancies on both the Na and Cl sites. \n At times we incorrectly referred to this structure as NaO.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "14338"
 }

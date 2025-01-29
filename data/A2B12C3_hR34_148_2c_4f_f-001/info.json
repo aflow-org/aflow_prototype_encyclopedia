@@ -53,5 +53,9 @@
     "alias": "A2B12C3_hR34_148_2c_4f_f-001",
     "number_of_species": 3,
     "pearson_symbol": "hR34",
-    "space_group_number": 148
+    "space_group_number": 148,
+    "comments": "Fe$_{2}$O$_{12}$S$_{3}$ also forms a \\href{current_web_home_dir/A2B12C3_mP68_14_2e_12e_3e-001}{monoclinic crystal}. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "notes": "Mikasaite",
+    "ccdc": null,
+    "icsd": "22368"
 }

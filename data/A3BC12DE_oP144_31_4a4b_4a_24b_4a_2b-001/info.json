@@ -249,5 +249,9 @@
     "alias": "A3BC12DE_oP144_31_4a4b_4a_24b_4a_2b-001",
     "number_of_species": 5,
     "pearson_symbol": "oP144",
-    "space_group_number": 31
+    "space_group_number": 31,
+    "comments": "CH$_{3}$NH$_{3}$PbBr$_{3}$ can be found in a variety of distorted \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{perovskite ($E2_{1}$)} structures, depending upon the temperature and pressure (Abia, 2022; Liang, 2023): \\begin{itemize} \\item A low temperature \\href{current_web_home_dir/A3BC6DE_oP48_62_cd_c_2c2d_c_a-001}{orthorhombic structure}, stable below 145K. \\item An intermediate temperature \\href{current_web_home_dir/A3B4C36D4E_oI192_74_ef_hi_2h8j_hi_c-001}{body-centered orthorhombic structure}, stable from 145-157K. \\item An intermediate temperature \\href{current_web_home_dir/A3B8C48D8E_tI272_140_ah_m_6m_m_c-001}{tetragonal structure}, stable from 156-229K. \\item The room-temperature \\href{current_web_home_dir/A3B12C144D12E_cP172_221_c_i_2k2n_i_b-001}{cubic perovskite-like structure}, stable above 229K. \\item A \\href{current_web_home_dir/A6B3C3D2_cI56_204_g_d_e_c-001}{cubic high-pressure Phase II structure}, stable from 0.9-1.8 GPa. \\item This \\href{current_web_home_dir/A3BC12DE_oP144_31_4a4b_4a_24b_4a_2b-001}{orthorhombic Phase III structure}, stable from 1.8-4.6 GPa. \\item Another orthorhombic Phase IV structure was found by (Liang, 2023), but the atomic positions have yet to be calculated. \\end{itemize} ~ \\vspace{-.25in} \n We report the measurements taken by (Liang, 2022) at 2.3GPa. \n The hydrogen sites are all half-filled.",
+    "notes": "HP-Phase III",
+    "ccdc": null,
+    "icsd": "63763"
 }

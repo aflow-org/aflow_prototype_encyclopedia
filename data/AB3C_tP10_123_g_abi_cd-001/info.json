@@ -23,5 +23,9 @@
     "alias": "AB3C_tP10_123_g_abi_cd-001",
     "number_of_species": 3,
     "pearson_symbol": "tP10",
-    "space_group_number": 123
+    "space_group_number": 123,
+    "comments": "The structural transitions in SrIrO$_{3}$ are less certain than for other perovskites. \\begin{itemize} \\item The ground state is usually believed to be \\href{current_web_home_dir/AB3C_mC60_15_af_e4f_ef-001}{monoclinic with space group $C2/c$ \\#15}, however \\item (Schmalle, 1990) found a somewhat disordered room temperature \\href{current_web_home_dir/A2B6C7_cI90_204_e_dg_ac2f-001}{cubic phase}. \\item (Longo, 1971) found that to the right of a line from (700$^\\circ$C, 5\\,GPa) to (1650$^\\circ$, 2\\,GPa) there is a transformation to the \\href{current_web_home_dir/AB3C_oP20_62_c_cd_a-001}{orthorhombic CaTiO$_{3}$ structure}, but \\item (Wang, 2024) found a \\href{current_web_home_dir/AB3C_tP10_123_g_abi_cd-001}{tetragonal double perovskite structure} formed at 1400$^\\circ$C and 6\\,GPa (this structure), well into the range where (Longo, 1971) found the orthorhombic structure. This structure is very close to \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite ($E2_{1}$)}, which may well be the structure found at higher pressures and temperatures. \\end{itemize} ~ \\vspace{-0.25in} \n The Greek letters used to designate the phase are arbitrarily assigned in the order of the first publication describing the phases. \n (Wang, 2024) found the current structure to be metastable under ambient conditions and made their structureal measurements at room temperature. \n When c\\,=\\,2\\,a and z$_{4}$ = z$_{5}$ = 1/4 this becomes the \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite ($E2_{1}$) structure}.",
+    "notes": "$\\gamma$-SrIrO$_{3}$",
+    "ccdc": null,
+    "icsd": ""
 }

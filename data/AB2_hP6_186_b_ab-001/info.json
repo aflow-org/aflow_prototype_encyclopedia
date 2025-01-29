@@ -26,5 +26,9 @@
     "alias": "AB2_hP6_186_b_ab",
     "number_of_species": 2,
     "pearson_symbol": "hP6",
-    "space_group_number": 186
+    "space_group_number": 186,
+    "comments": "This is a modification of the \\href{current_web_home_dir/AB2_hP3_164_a_d-001}{$C6$ ($\\omega$ phase) CdI$_2$ structure} proposed by (Hassel, 1933) to explain extra lines found in the x-ray spectra. This structure was never accepted by most researchers and does not appear in modern lists of {\\em Strukturbericht} symbols, although (Parth\\'{e}, 1993) lists it as a stacking varient of CdI$_{2}$.  We include it here as part of the historical record. \n A ternary form does exist, \\href{current_web_home_dir/ABC_hP6_186_b_b_a-003}{the LiGaGe structure}. \n Hassel originally placed a Cd atom at the origin, however both (Gottfried, 1937) and FINDSYM shift the origin as shown. \n There is no ICSD entry for (Hassell, 1933).  The entry here is from (Smirnov, 1941).",
+    "notes": "$C27$ ({\\em Questionable})",
+    "ccdc": null,
+    "icsd": "38116"
 }

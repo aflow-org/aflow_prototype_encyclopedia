@@ -97,5 +97,9 @@
     "alias": "A2B17C6_oI100_46_ab_b8c_3c",
     "number_of_species": 3,
     "pearson_symbol": "oI100",
-    "space_group_number": 46
+    "space_group_number": 46,
+    "comments": "Both (Galy, 1973) and (McCormack, 2019) state that the metallic atom sites are disordered, that is, for the prototype each metallic site has the average composition Nb$_{0.25}$Zr$_{0.75}$.  We place the niobium atoms on the (2a) and (2b) sites, and the zirconium on the (4c) sites so that the different symmetries are displayed. \n (McCormack, 2019) notes that the metallic composition of these compounds can deviate from the stoichiometry shown here.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "19039"
 }

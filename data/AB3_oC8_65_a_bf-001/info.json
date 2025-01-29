@@ -22,5 +22,9 @@
     "alias": "AB3_oC8_65_a_bf",
     "number_of_species": 2,
     "pearson_symbol": "oC8",
-    "space_group_number": 65
+    "space_group_number": 65,
+    "comments": "This is {\\em not} \\href{current_web_home_dir/AB_cF32_227_c_d-001}{the $L1_{3}$ CuPt structure labeled by (Ewald, 1931) as $L1_{3}$.}  That structure is now considered obsolete. \n This structure has not been experimentally confirmed, but it has frequently been predicted as a low energy structure. (Hart, 2009) has a review of these calculations. It was originally given the $L1_{3}$ designation. As this has been frequently used in the literature ({\\em e.g.} Mehl, 2017), we will continue to used it despite the possible confusion. \n Data for this structure comes from the supplemental material of (Hart, 2013).",
+    "notes": "$L1_{3}$",
+    "ccdc": null,
+    "icsd": "none"
 }

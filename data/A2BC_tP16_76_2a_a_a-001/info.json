@@ -43,5 +43,9 @@
     "alias": "A2BC_tP16_76_2a_a_a",
     "number_of_species": 3,
     "pearson_symbol": "tP16",
-    "space_group_number": 76
+    "space_group_number": 76,
+    "comments": "This structure may also be found in the enantiomorphic space group $P4_{3}$ \\#78.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "100986"
 }

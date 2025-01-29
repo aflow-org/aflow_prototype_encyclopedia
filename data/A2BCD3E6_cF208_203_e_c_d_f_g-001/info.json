@@ -27,5 +27,9 @@
     "alias": "A2BCD3E6_cF208_203_e_c_d_f_g",
     "number_of_species": 5,
     "pearson_symbol": "cF208",
-    "space_group_number": 203
+    "space_group_number": 203,
+    "comments": "This structure was suggested to us by Prof. Joel Helton, United States Naval Academy. This is a pyrochlore-like antiferromagnet, which we loosely define as a structure with magnetic ions on the corners of corner-sharing tetrahedra. \n We use the structural data taken by (Fu, 2013) at 3.7K",
+    "notes": "Pyrochlore",
+    "ccdc": null,
+    "icsd": "none"
 }

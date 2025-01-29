@@ -18,5 +18,9 @@
     "alias": "AB_cF16_227_a_b",
     "number_of_species": 2,
     "pearson_symbol": "cF16",
-    "space_group_number": 227
+    "space_group_number": 227,
+    "comments": "This is an example of a Zintl Phase.",
+    "notes": "$B32$",
+    "ccdc": null,
+    "icsd": "645049"
 }

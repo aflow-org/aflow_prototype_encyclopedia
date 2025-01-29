@@ -151,5 +151,9 @@
     "alias": "A2B7C2_tP88_76_4a_14a_4a-001",
     "number_of_species": 3,
     "pearson_symbol": "tP88",
-    "space_group_number": 76
+    "space_group_number": 76,
+    "comments": "(Felsche, 1970) refers to this as the ``A-RE$_{2}$Si$_{2}$O$_{7}$ structure, where ``RE'' is a rare-earth element. \n This is the low-temperature form of Ca$_{2}$P$_{2}$O$_{7}$. At higher temperatures it transforms into the monoclinic \\href{current_web_home_dir/A2B7C2_mP44_14_2e_7e_2e-001}{$\\alpha$-Ca$_{2}$P$_{2}$O$_{7}$} structure. \n The origin of the $z$-axis in space group $P4_{1}$ \\#76 is not specified.  We fix it by setting $z_{1} = 0$.",
+    "notes": "$\\beta$-Ca$_{2}$P$_{2}$O$_{7}$",
+    "ccdc": null,
+    "icsd": "73712"
 }

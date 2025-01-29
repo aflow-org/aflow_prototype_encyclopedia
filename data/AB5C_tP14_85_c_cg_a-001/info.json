@@ -29,5 +29,9 @@
     "alias": "AB5C_tP14_85_c_cg_b",
     "number_of_species": 3,
     "pearson_symbol": "tP14",
-    "space_group_number": 85
+    "space_group_number": 85,
+    "comments": "(Kierkegaard, 1964) gave this structure in setting 1 of space group $P4/n$ \\#85.  We used FINDSYM to shift this to the standard setting 2.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "36095"
 }

@@ -37,5 +37,9 @@
     "alias": "AB5C2_oC32_63_c_c2f_f",
     "number_of_species": 3,
     "pearson_symbol": "oC32",
-    "space_group_number": 63
+    "space_group_number": 63,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "61147"
 }

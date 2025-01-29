@@ -27,5 +27,9 @@
     "alias": "AB8C2_tP22_124_a_n_h",
     "number_of_species": 3,
     "pearson_symbol": "tP22",
-    "space_group_number": 124
+    "space_group_number": 124,
+    "comments": "This structure was proposed by (Shineman, 1951) to replace the \\href{current_web_home_dir/A8B2C_tP11_123_r_h_a-001}{$E6_{2}$ SrO$_{2}$(H$_{2}$O)$_{8}$ structure}.  The unit cell is doubled in the (001) direction, and the oxygens are now molecular.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "38168"
 }

@@ -27,5 +27,9 @@
     "alias": "A4BC_cF96_216_efg_e_e-001",
     "number_of_species": 3,
     "pearson_symbol": "cF96",
-    "space_group_number": 216
+    "space_group_number": 216,
+    "comments": "The ICSD gives Dy$_{4}$CoCd as the prototype for this structure, but even (Do\\v{g}an, 2007), which defines that structure, designates Gd$_{4}$RhIn as the prototype, so we use that compound.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "417515"
 }

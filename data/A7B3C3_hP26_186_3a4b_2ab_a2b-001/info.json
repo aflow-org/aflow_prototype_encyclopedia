@@ -45,5 +45,9 @@
     "alias": "A7B3C3_hP26_186_3a4b_2ab_a2b-001",
     "number_of_species": 3,
     "pearson_symbol": "hP26",
-    "space_group_number": 186
+    "space_group_number": 186,
+    "comments": "(Jeffrey, 1963) place the structure in space group $P6_{3}mc$ \\#186, but give the structure in a pseudo-hexagonal cell in space group $Cmc2_{1}$ \\#36.  With the help of FINDSYM we converted this to the hexagonal structure. \n (Jeffrey, 1966) uses the $P6_{3}mc$ space group exclusively, and we list the ICSD entry associated with that paper.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "14400"
 }

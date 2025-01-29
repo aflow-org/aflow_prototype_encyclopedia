@@ -45,5 +45,9 @@
     "alias": "AB6CD2_cP120_213_d_3e_ac_e-001",
     "number_of_species": 4,
     "pearson_symbol": "cP120",
-    "space_group_number": 213
+    "space_group_number": 213,
+    "comments": "We have shifted the origin so that the Sr-I atoms, located on the (4b) (7/8 7/8 7/8) Wyckoff positions by (Chillal, 2020) are now on the (4a) (3/8 3/8 3/8) sites. \n This structure can also be expressed in the enantiomorphic space group $P4_{3}32$ \\#212.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "32364"
 }

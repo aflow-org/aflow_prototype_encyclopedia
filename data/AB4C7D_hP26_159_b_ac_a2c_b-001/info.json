@@ -45,5 +45,9 @@
     "alias": "AB4C7D_hP26_159_b_ac_a2c_b",
     "number_of_species": 4,
     "pearson_symbol": "hP26",
-    "space_group_number": 159
+    "space_group_number": 159,
+    "comments": "We use the YbBaCo$_{4}$O$_{6.95}$ data from (Huq, 2006) at 225K. \n Space group $P31c$ \\#159 allows an arbitary choice of the origin of the $z$-axis.  We chose to place one of the Co (2a) atoms at the origin, setting $z_{1} = 0$.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "172414"
 }

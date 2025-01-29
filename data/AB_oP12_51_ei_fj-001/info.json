@@ -33,5 +33,9 @@
     "alias": "AB_oP12_51_ei_fj-001",
     "number_of_species": 2,
     "pearson_symbol": "oP12",
-    "space_group_number": 51
+    "space_group_number": 51,
+    "comments": "(Giessen, 1964) give the actual composition as (Ta$_{0.79}$Rh$_{0.21}$)Rh, with similar compositions for the related compounds. \n (Pearson, 1967) and others refer to this as $\\alpha_{1}$-TaRh. \n (Giessen, 1964) give the structure in the $Pmcm$ setting of space group \\#51.  We used FINDSYM to transform this to the standard $Pmma$ setting.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "105938"
 }

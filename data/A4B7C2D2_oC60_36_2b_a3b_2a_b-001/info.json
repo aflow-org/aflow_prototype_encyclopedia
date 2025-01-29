@@ -70,5 +70,9 @@
     "alias": "A4B7C2D2_oC60_36_2b_a3b_2a_b",
     "number_of_species": 4,
     "pearson_symbol": "oC60",
-    "space_group_number": 36
+    "space_group_number": 36,
+    "comments": "All sources agree that the space group for Bertrandite is $Cmc2_{1}$ \\#36 but differ slightly in details. We have chosen to use (Hazen, 1986) as the prototype over (Ito, 1932), which was originally designated $S4_{6}$, and (Solov'eva, 1965), which has unrealistically large Be-O distances. \n No paper locates the hydrogen atoms in the hydroxide ions, which may indicate that these ions can freely rotate. The ICSD entry lists the the OH radicals as O4 and O5.  We instead label them OH. \n We use the data taken at 1 atmosphere.",
+    "notes": "$S4_{6}$, Bertrandite",
+    "ccdc": null,
+    "icsd": "64946"
 }

@@ -121,5 +121,9 @@
     "alias": "A14B3_hP102_158_abc13d_3d-001",
     "number_of_species": 2,
     "pearson_symbol": "hP102",
-    "space_group_number": 158
+    "space_group_number": 158,
+    "comments": "(W\\\"{o}rle, 2008) found that the Al-V/Al-VI pair of sites was only occupied 57\\% and 33\\% of the time, respectively, with no more than one atom of pair of neighbors occupied.  Similarly the Al-VII/Al-VIII occupation is 60\\% and 30\\%.  All the other Wyckoff positions are fully occupied.  The actual stoichiometry is thus PtAl$_{3.933}$.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "417146"
 }

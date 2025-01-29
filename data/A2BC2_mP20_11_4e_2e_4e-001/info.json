@@ -63,5 +63,9 @@
     "alias": "A2BC2_mP20_11_4e_2e_4e-001",
     "number_of_species": 3,
     "pearson_symbol": "mP20",
-    "space_group_number": 11
+    "space_group_number": 11,
+    "ccdc": "1194137",
+    "comments": "The monoclinic form of squaric acid is stable below 373K, or 516K for the fully deuterated structure. (Semmingsen, 1974)  Above that temperature it transforms into a tetragonal form, where $a = c$, the carbon atoms form a perfect square, and each oxygen has a 50\\% probability of being associated with one of the hydrogen atoms.",
+    "notes": "Squaric Acid",
+    "icsd": null
 }

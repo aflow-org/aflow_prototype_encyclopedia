@@ -39,5 +39,9 @@
     "alias": "A2B4C_oP28_61_c_2c_a",
     "number_of_species": 3,
     "pearson_symbol": "oP28",
-    "space_group_number": 61
+    "space_group_number": 61,
+    "comments": "(Friedt, 2001) never give the positions of the ruthenium atoms in this structure, however the composition of the crystal dictates that they can only be at the (4a) or (4b) Wyckoff positions, and the Ru-O distances given are consistent with the (4a) site. \n The authors identify a low temperature ``S-$Pbca$'' phase and a high temperature ``L-$Pbca$'' phase, with a phase transition in the range 350-400K.  The major difference between the two phases is 4\\% elongation of the $c$ axis in the L-$Pbca$ phase, accompanied by a 4.5\\% contraction along the $b$ axis, with the $a$ axis being substantially unchanged.  There is also a substantial change in the tilt of the oxygen octahedra surrounding the Ru atoms.  Here we show the crystal in the S-$Pbca$ phase using data taken at 180K. \n (Bertinshaw, 2019) identify S$^*$ and L$^*$ phases that have the same symmetry but stabilized by the application of an electric current.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "291033"
 }

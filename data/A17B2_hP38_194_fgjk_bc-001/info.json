@@ -29,5 +29,9 @@
     "alias": "A17B2_hP38_194_fgjk_bc-001",
     "number_of_species": 2,
     "pearson_symbol": "hP38",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "comments": "This is an idealized form of the Th$_{2}$Ni$_{17}$ structure.  The actual composition can be as nickel rich as Th$_{2}$Ni$_{19}$. (Givord, 1972) \n This is a superstructure of \\href{current_web_home_dir/AB5_hP6_191_a_cg-001}{CaCu$_{5}$ ($D2_{d}$)} with nickel dimers aligned along the $z$-axis replacing thorium atoms. (Florio, 1956)",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "105410"
 }

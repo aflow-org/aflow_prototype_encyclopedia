@@ -31,5 +31,9 @@
     "alias": "A4BC_oC24_63_acf_c_c-002",
     "number_of_species": 3,
     "pearson_symbol": "oC24",
-    "space_group_number": 63
+    "space_group_number": 63,
+    "comments": "We use the data from (Rykhal, 1972) as quoted by (Shin, 2008).  This includes a shift in the origin so that the Al-I atoms is at the (4a) Wyckoff position rather than the (4b) position used by (Rykhal, 1972).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "58077"
 }

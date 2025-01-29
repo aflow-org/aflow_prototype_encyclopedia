@@ -40,5 +40,9 @@
     "alias": "A2BC7D2_tP24_113_e_a_cef_e",
     "number_of_species": 4,
     "pearson_symbol": "tP24",
-    "space_group_number": 113
+    "space_group_number": 113,
+    "comments": "Akermanite is an end point of the mineral melilite, which, like \\href{current_web_home_dir/A7B2C2_mC22_12_aij_h_i-001}{thortveitite (S2$_{1}$)}, is a sorosilicate, a mineral containing isolated Si$_{2}$O$_{7}$ or related groups.  We have followed (Parth\\'{e}, 1997) and use akermanite to represent the entire class of materials. \n When the oxygen atoms on the (4e) and (8f) sites are replaced by sulfur this becomes the \\href{current_web_home_dir/A2B2CD6E_tP24_113_e_e_c_ef_a-001}{Ba$_{2}$ZnGe$_{2}$S$_{6}$O structure}. \n We use the ambient pressure data from (Yang, 1997) to describe the structure.",
+    "notes": "$S5_{3}$ Akermanite",
+    "ccdc": null,
+    "icsd": "50065"
 }

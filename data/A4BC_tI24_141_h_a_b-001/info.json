@@ -24,5 +24,9 @@
     "alias": "A4BC_tI24_141_h_b_a",
     "number_of_species": 3,
     "pearson_symbol": "tI24",
-    "space_group_number": 141
+    "space_group_number": 141,
+    "notes": "$S1_{1}$, Zircon",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "100239"
 }

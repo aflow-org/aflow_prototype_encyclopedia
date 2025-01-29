@@ -59,5 +59,9 @@
     "alias": "A3B7_hR20_146_2b_2a4b-001",
     "number_of_species": 2,
     "pearson_symbol": "hR20",
-    "space_group_number": 146
+    "space_group_number": 146,
+    "comments": "Space group $R3$ \\#146 allows an arbitrary choice of the origin of the $z$-axis.  Here we set $z_{5} = 0$ for the Pd-III atom. \n Hexagonal settings for rhombohedral structures can be obtained with the option {\\tt --hex}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "200055"
 }

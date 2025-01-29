@@ -23,5 +23,9 @@
     "alias": "A2BC2_hR5_166_c_a_c-002",
     "number_of_species": 3,
     "pearson_symbol": "hR5",
-    "space_group_number": 166
+    "space_group_number": 166,
+    "comments": "This is the ternary form of \\href{current_web_home_dir/A2B3_hR5_166_c_ac-001}{Bi$_{2}$Te$_{3}$}, {\\em Strukturbericht} symbol $C33$. It was the original $C33$ structure assigned by (Gottfried, 1937), but we decided to use the binary form as the designated structure. \n Hexagonal settings for rhombohedral structures can be obtained with the option {\\tt --hex}.",
+    "notes": "Tetradymite",
+    "ccdc": null,
+    "icsd": "26720"
 }

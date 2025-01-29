@@ -115,5 +115,9 @@
     "alias": "A2B3C3DE7_hP48_145_2a_3a_3a_a_7a",
     "number_of_species": 5,
     "pearson_symbol": "hP48",
-    "space_group_number": 145
+    "space_group_number": 145,
+    "comments": "The H$_{2}$O molecule is centered on one of the oxygen (3a) sites; however it is only listed as O in this prototype. \n This structure can also be found in the enantiomorphic space group $P3_{1}$ \\#144.",
+    "notes": "Sheldrickite",
+    "ccdc": null,
+    "icsd": "89257"
 }

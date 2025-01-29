@@ -87,5 +87,9 @@
     "alias": "A3B12C2D4_aP21_2_ai_6i_i_2i-001",
     "number_of_species": 4,
     "pearson_symbol": "aP21",
-    "space_group_number": 2
+    "space_group_number": 2,
+    "comments": "The positions of the hydrogen atoms in the OH radicals were not determined. While we list the radical as a separate species, OH I, (Baies, 2005) simply list it as O7. \n The positions of the oxygen atoms in the ICSD entry do not precisely match the positions in Table 2 of (Baies, 2005).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "170128"
 }

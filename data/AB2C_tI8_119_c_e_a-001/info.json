@@ -21,5 +21,9 @@
     "alias": "AB2C_tI8_119_c_e_a",
     "number_of_species": 3,
     "pearson_symbol": "tI8",
-    "space_group_number": 119
+    "space_group_number": 119,
+    "comments": "This is the high-temperature form of TlFeS$_{2}$/TlFeSe$_{2}$, formed above 300$^\\circ$C.  Below that temperature it transforms into the \\href{current_web_home_dir/AB2C_mC16_12_g_2i_i-001}{monoclinic TlFeSe$_{2}$ structure}.",
+    "notes": "Tetragonal TlFeS$_{2}$",
+    "ccdc": null,
+    "icsd": "150822"
 }

@@ -25,5 +25,9 @@
     "alias": "AB4C2_tI56_142_a_df_d-001",
     "number_of_species": 3,
     "pearson_symbol": "tI56",
-    "space_group_number": 142
+    "space_group_number": 142,
+    "comments": "We use the data taken by (Crawford, 1994) at 295K.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "78260"
 }

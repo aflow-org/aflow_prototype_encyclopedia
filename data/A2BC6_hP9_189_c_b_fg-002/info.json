@@ -23,5 +23,9 @@
     "alias": "A2BC6_hP9_189_c_b_fg-002",
     "number_of_species": 3,
     "pearson_symbol": "hP9",
-    "space_group_number": 189
+    "space_group_number": 189,
+    "comments": "This is a ternary form of \\href{current_web_home_dir/A2B_hP9_189_fg_ad-001}{Barringerite (Fe$_{2}$P)}. \n We represent the quaternary form of this structure, with each of the four Wyckoff positions filled by a different atomic species, by the \\href{current_web_home_dir/A2B3CD3_hP9_189_c_f_b_g-001}{Tb$_{3}$Mn$_{3}$Ga$_{2}$Si structure}. \n (Kleinke, 1997) either incorrectly labels the zirconium (3g) and (3f) sites or misstates the coordinates.  The distances given in the paper are consistent with the coordinates given, so we assume the sites were mislabeled.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "83932"
 }

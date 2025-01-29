@@ -73,5 +73,9 @@
     "alias": "A17B10_oP54_55_a3g5h_3g2h-001",
     "number_of_species": 2,
     "pearson_symbol": "oP54",
-    "space_group_number": 55
+    "space_group_number": 55,
+    "comments": "The Nb-IV (4g) site is only occupied 50\\% of the time.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "15054"
 }

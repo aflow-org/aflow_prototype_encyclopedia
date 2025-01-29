@@ -112,5 +112,9 @@
     "alias": "AB3C3_aP28_2_2i_6i_6i",
     "number_of_species": 3,
     "pearson_symbol": "aP28",
-    "space_group_number": 2
+    "space_group_number": 2,
+    "notes": "$G5_{1}$, Boric Acid",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "52290"
 }

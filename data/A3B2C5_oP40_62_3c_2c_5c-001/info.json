@@ -61,5 +61,9 @@
     "alias": "A3B2C5_oP40_62_3c_2c_5c-001",
     "number_of_species": 3,
     "pearson_symbol": "oP40",
-    "space_group_number": 62
+    "space_group_number": 62,
+    "comments": "We wish to thank Petra Lipsky, FIZ Karlsruhe - Leibniz-Institut f\\\"{u}r Informationsinfrastruktur, who provided us with the data referenced in (Tremel, 1991). For more information about the FIZ Karlsruhe archive, see \\href{https://icsd.products.fiz-karlsruhe.de}{FIZ Karlsruhe}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "none"
 }

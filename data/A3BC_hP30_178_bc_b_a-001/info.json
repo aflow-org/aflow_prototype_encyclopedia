@@ -31,5 +31,9 @@
     "alias": "A3BC_hP30_178_bc_b_a-001",
     "number_of_species": 3,
     "pearson_symbol": "hP30",
-    "space_group_number": 178
+    "space_group_number": 178,
+    "comments": "(Christy, 1994) call this a ``hexagonal perovskite'' structure. \n This chiral structure can also be found in the enantiomorphic space group $P6_{5}22$ \\#179. (Kousaka, 2014). \n We use the data taken at ambient pressure.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "78435"
 }

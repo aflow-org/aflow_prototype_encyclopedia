@@ -25,5 +25,9 @@
     "alias": "A3B_hR4_160_b_a",
     "number_of_species": 2,
     "pearson_symbol": "hR4",
-    "space_group_number": 160
+    "space_group_number": 160,
+    "comments": "This structure was found by first-principles electronic structure calculations and is predicted to be the stable structure of H$_{3}$S for pressures between 90 and 150 GPa. When $c/a \\rightarrow \\sqrt{8}$, $x_{2} \\rightarrow 1/2$ and $z_{2} \\rightarrow 0$ this structure continuously evolves into \\href{current_web_home_dir/A3B_cI8_229_b_a-001}{the cubic 200 GPa H$_{3}$S structure}. \n The data presented here was computed at 130 GPa.",
+    "notes": "HP Theory",
+    "ccdc": null,
+    "icsd": "291501"
 }

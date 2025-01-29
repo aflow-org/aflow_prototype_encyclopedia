@@ -26,5 +26,9 @@
     "alias": "AB3_hR8_155_c_de",
     "number_of_species": 2,
     "pearson_symbol": "hR8",
-    "space_group_number": 155
+    "space_group_number": 155,
+    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "notes": "$D0_{14}$",
+    "ccdc": null,
+    "icsd": "30274"
 }

@@ -50,5 +50,9 @@
     "alias": "A2B2C3D12E4_tI184_142_f_f_be_3g_g",
     "number_of_species": 5,
     "pearson_symbol": "tI184",
-    "space_group_number": 142
+    "space_group_number": 142,
+    "comments": "Analcime is pseudo-cubic, space group $Ia\\overline{3}d$ \\#230, but (Hartwig, 1931) showed that the structure actually is tetragonal, space group $I4_{1}/acd$ \\#142. (Hermann, 1937) listed both structures in defining {\\em Strukturbericht} type $S6_{1}$. \n Analcime can have many crystal structures as found in, {\\em e.g.,} (Mazzi, 1978) and (Pechar, 1988). We take our prototype from (Mazzi, 1978), using the data from there sample ANA 1, which is in space group $I4_{1}/acd$ \\#142. The major difference between this structure and that found by (Hartwig, 1931) is that sodium atoms were found at the (8b) Wyckoff position (Na-I).  (Mazzi, 1978) recover the stoichiometry by noting that site Na-I (8b) is only occupied 23\\% of the time, while site Na-II (16e) has 82\\% occupancy.  In addition, our Si site (32e) is actually 47\\% aluminum and 53\\% silicon, and the site which we, following (Hartwig, 1931), label Al (16f) is actually 98\\% silicon and only 2\\% aluminum. These fractions are highly dependent upon the choice of sample. \n Removing all sodium from the (8b) site results in the original structure found by (Hartwig, 1931) and defined as $S6_{1}$ by (Hermann, 1937). \n The positions of the hydrogen atoms in the water molecules were not determined, so we only provide the positions of the oxygen atoms (labeled as H$_{2}$O).",
+    "notes": "$S6_{1}$, Analcime",
+    "ccdc": null,
+    "icsd": "34874"
 }

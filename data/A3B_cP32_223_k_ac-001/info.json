@@ -21,5 +21,9 @@
     "alias": "A3B_cP32_223_k_ac-001",
     "number_of_species": 2,
     "pearson_symbol": "cP32",
-    "space_group_number": 223
+    "space_group_number": 223,
+    "comments": "UH$_{3}$ exists in two different structures, both with space group $Pm\\overline{3}n$ \\#223 (Halevy, 2004). \n $\\alpha$-UH$_{3}$ forms in the \\href{current_web_home_dir/A3B_cP8_223_c_a-001}{Cr$_{3}$Si ($A15$) structure}, but rapidly transforms into the ground state $\\beta$-UH$_{3}$ structure shown here. \n In this case, all of the uranium atoms sit on the sites of the $A15$ structure, with the hydrogens in the interstitials.",
+    "notes": "$\\beta$-UH$_{3}$",
+    "ccdc": null,
+    "icsd": "none"
 }

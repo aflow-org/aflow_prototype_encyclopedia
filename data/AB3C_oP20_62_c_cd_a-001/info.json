@@ -35,5 +35,9 @@
     "alias": "AB3C_oP20_62_c_cd_a",
     "number_of_species": 3,
     "pearson_symbol": "oP20",
-    "space_group_number": 62
+    "space_group_number": 62,
+    "comments": "This is the true ground state of CaTiO$_{3}$.  The \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite structure ($E2_{1}$)} is the high-temperature phase. \n The ICSD uses GdFeO$_{3}$ as the prototype for this phase.",
+    "notes": "Orthorhombic Perovskite",
+    "ccdc": null,
+    "icsd": "94568"
 }

@@ -38,5 +38,9 @@
     "alias": "A5B3C_hP18_186_2a3b_2ab_b",
     "number_of_species": 3,
     "pearson_symbol": "hP18",
-    "space_group_number": 186
+    "space_group_number": 186,
+    "comments": "Space group $P6_{3}mc$ \\#186 allows for an arbitary placement of the origin of the $z$-axis.  We set this by taking $z_{3} = 0$ for the C-I atom.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "14398"
 }

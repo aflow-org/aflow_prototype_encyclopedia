@@ -59,5 +59,9 @@
     "alias": "AB2C7D2_oP24_31_a_b_a3b_b-001",
     "number_of_species": 4,
     "pearson_symbol": "oP24",
-    "space_group_number": 31
+    "space_group_number": 31,
+    "comments": "This is a quaternary form of the \\href{current_web_home_dir/A4B7C_oP24_31_2b_a3b_a-001}{B$_{4}$SrO$_{7}$ structure}.",
+    "notes": "Clinobarylite",
+    "ccdc": null,
+    "icsd": "263133"
 }

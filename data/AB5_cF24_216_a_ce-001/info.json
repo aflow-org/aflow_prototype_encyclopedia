@@ -20,5 +20,9 @@
     "alias": "AB5_cF24_216_a_ce",
     "number_of_species": 2,
     "pearson_symbol": "cF24",
-    "space_group_number": 216
+    "space_group_number": 216,
+    "comments": "The lattice constant for this structure is taken from (Batchelder, 1958), which does not give the internal coordinate for the (16c) site. However, (Baenziger, 1950) assumes that uranium compounds of this type have an internal parameter $x_{3} \\approx 5/8$. (Pearson, 1958) uses this to infer a value of $x_{3} \\approx 5/8$ here as well.",
+    "notes": "$C15_{b}$",
+    "ccdc": null,
+    "icsd": "611643"
 }

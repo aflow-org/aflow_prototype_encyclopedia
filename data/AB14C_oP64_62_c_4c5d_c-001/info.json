@@ -75,5 +75,9 @@
     "alias": "AB14C_oP64_62_c_4c5d_c-001",
     "number_of_species": 3,
     "pearson_symbol": "oP64",
-    "space_group_number": 62
+    "space_group_number": 62,
+    "comments": "Although (Krebs, 1958) first described this structure for HgPbP$_{14}$, but their data is very approximate, so we use the refinement made by (Scholz, 1987).  They give the Wyckoff positions for CdSnP$_{14}$, so we use that as our prototype.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "42976"
 }

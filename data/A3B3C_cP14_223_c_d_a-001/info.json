@@ -17,5 +17,9 @@
     "alias": "A3B3C_cP14_223_c_d_a-001",
     "number_of_species": 3,
     "pearson_symbol": "cP14",
-    "space_group_number": 223
+    "space_group_number": 223,
+    "ccdc": "1949948",
+    "notes": "Clathrate",
+    "comments": null,
+    "icsd": null
 }

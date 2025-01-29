@@ -61,5 +61,9 @@
     "alias": "ABC4D_hP42_173_a2b_c_4c_c-001",
     "number_of_species": 4,
     "pearson_symbol": "hP42",
-    "space_group_number": 173
+    "space_group_number": 173,
+    "comments": "Even though (Liu, 1993) give the most complete data for BaCoSiO$_{4}$, the ICSD selects BaMgSiO$_{4}$ as the prototype, and we follow that. \n We use the neutron powder data for BaMgSiO$_{4}$ from (Liu, 1993). \n Space group $P6_{3}$ \\#173 does not specify the origin of the z-axis.  We follow (Liu, 1993) and set $z_{1}$\\,=\\,1/4 for the Ba I site.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "73776"
 }

@@ -25,5 +25,9 @@
     "alias": "AB9_hP20_194_c_bfk-001",
     "number_of_species": 2,
     "pearson_symbol": "hP20",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "comments": "(Li, 2019) found CeH$_{9}$ stable above 100 GPa in space group $P6_{3}/mmc$ \\#194.  The atomic structure shown here is taken from their first-principles calculations. \n The ICSD entry is from the slightly later work of (Salke, 2019).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "684706"
 }

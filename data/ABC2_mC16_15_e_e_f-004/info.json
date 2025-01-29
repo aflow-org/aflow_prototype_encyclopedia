@@ -34,5 +34,9 @@
     "alias": "ABC2_mC16_15_e_e_f",
     "number_of_species": 3,
     "pearson_symbol": "mC16",
-    "space_group_number": 15
+    "space_group_number": 15,
+    "comments": "This structure forms cages of Fe atoms surrounded by tetrahedra of S atoms.",
+    "notes": "$F5_{a}$",
+    "ccdc": null,
+    "icsd": "202380"
 }

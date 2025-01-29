@@ -29,5 +29,9 @@
     "alias": "A7B_cF256_225_f2k_ce-001",
     "number_of_species": 2,
     "pearson_symbol": "cF256",
-    "space_group_number": 225
+    "space_group_number": 225,
+    "comments": "Bornite can take on several forms at different temperatures (Martinelli, 2018). \\begin{itemize} \\item At temperatures above 508K it is cubic with an ``anti''-\\href{current_web_home_dir/AB2_cF12_225_a_c-001}{fluorite ($C1)$ structure}. \\item From 443K to 508K it becomes a \\href{current_web_home_dir/A7B_cF256_225_f2k_ce-001}{a supercell of an anti-fluorite structure} (this structure). \\item Below 443K it becomes orthorhombic, \\href{current_web_home_dir/A5BC4_oP160_61_10c_2c_8c-001}{in the $Pbca$ \\#61 space group}. \\item As temperatures drop into the 50-70K range it transforms in to the non-centrosymmetric \\href{current_web_home_dir/A5BC4_oP160_29_20a_4a_16a-001}{$Pca2_{1}$ \\#29 space group}. \\end{itemize} ~ \\vspace{-.25in} \n In all of these cases the sulfur atoms form a face-centered or nearly face-centered cubic lattice. \n Data for this structure was taken at 458K. There is considerable disorder here.  The site we labeled Cu-II is occupied 33\\% of the time with a mixture of copper and iron atoms.  The Cu-I and Cu-III sites are occupied 31\\% and 7\\% of the time, respectively, and are purely copper.  The sulfur atoms form a nearly cubic fcc lattice, with one of the tetrahedral sites is occupied by a copper or iron atom, and the other site is either filled by a copper atom or remains vacant. (Kanazawa, 1978)",
+    "notes": "Bornite, 443-508K",
+    "ccdc": null,
+    "icsd": "200424"
 }

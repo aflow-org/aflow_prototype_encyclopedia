@@ -37,5 +37,9 @@
     "alias": "A5B19_hR24_166_a2c_b3c2h-001",
     "number_of_species": 2,
     "pearson_symbol": "hR24",
-    "space_group_number": 166
+    "space_group_number": 166,
+    "comments": "This is the binary version of \\href{current_web_home_dir/A5B7C12_hR24_166_a2c_b3c_2h-001}{the Ce$_{5}$Ga$_{7}$Rh$_{12}$ structure}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "620646"
 }

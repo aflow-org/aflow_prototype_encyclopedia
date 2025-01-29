@@ -52,5 +52,9 @@
     "alias": "A5B21C24D12_hR62_166_a2c_ehi_fg2h_i",
     "number_of_species": 4,
     "pearson_symbol": "hR62",
-    "space_group_number": 166
+    "space_group_number": 166,
+    "comments": "The structure given here, from (Calligaris, 1982), has substantially the same Wyckoff positions as the structure designated $S3_{4}$ by (Gottfried, 1937).  The largest change is the splitting of the calcium site from one stoichiometric (2c) site to three partially filled sites, one (1a) and two (2c). \n (Calligaris, 1982) did not give the exact positions of the water molecules, so we use the \\href{http://rruff.geo.arizona.edu/AMS/AMC_text_files/11241_amc.txt}{positions given by (Downs, 2003)}.  However, this leaves us with only 7.7 water molecules per formula unit, rather than the 13 claimed by (Calligaris, 1982). \n Only the oxygen sites are fully occupied.  For the remaining sites, according to (Downs, 2003), \\begin{itemize} \\item The (1a) site is 9.06\\% Ca and 1.94\\% Sr, with the remaining sites vacant. \\item The first (2c) site is 43.65\\% Ca and 9.35\\% Sr. \\item The second (2c) site is 19.76\\% Ca and 4.24\\% Sr. \\item The (3e) H$_{2}$O site is only occupied by a water molecule 50\\% of the time. \\item The (6h) H$_{2}$O site is only occupied 57\\% of the time. \\item The (12h) H$_{2}$O site is only occupied 23\\% of the time. \\item The remaining (12h) site is 69\\% Si and 31\\% Al. \\end{itemize} ~ \\vspace{-.25in} \n (Gottfried, 1937) gave chabazite the {\\em Strukturbericht} designation $S3_{4}$.  However, (Gottfried, 1940) designated \\href{current_web_home_dir/A3B2C9D3E_hP36_194_g_f_hk_h_a-001}{catapleiite, Na$_{2}$ZrSi$_{3}$O$_{9}\\cdot$2H$_{2}$O} as {\\em Strukturbericht} $S3_{4}$.  We distinguish between the two cases by using $S3_{4}$(I) to designate chabazite and $S3_{4}$(II) to designate catapleiite.",
+    "notes": "$S3_{4}$(I), Chabazite",
+    "ccdc": null,
+    "icsd": "32553"
 }

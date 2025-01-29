@@ -59,5 +59,9 @@
     "alias": "AB2_mP12_7_2a_4a",
     "number_of_species": 2,
     "pearson_symbol": "mP12",
-    "space_group_number": 7
+    "space_group_number": 7,
+    "comments": "This is an alternative structure for calverite.  It is not the \\href{current_web_home_dir/AB2_mC6_12_a_i-001}{$C34$ structure} found in (Gottfried, 1937).  \n AuTe$_{2}$ can also be found as \\href{current_web_home_dir/AB2_oP24_28_acd_2c3d-001}{krennerite ($C46$)}.",
+    "notes": "Calaverite",
+    "ccdc": null,
+    "icsd": "30905"
 }

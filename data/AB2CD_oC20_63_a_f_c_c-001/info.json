@@ -29,5 +29,9 @@
     "alias": "AB2CD_oC20_63_b_f_c_c",
     "number_of_species": 4,
     "pearson_symbol": "oC20",
-    "space_group_number": 63
+    "space_group_number": 63,
+    "comments": "This structure is a ''filled'' version of \\href{current_web_home_dir/AB3_oC16_63_c_cf-001}{the Re$_{3}$B structure}, with carbon atoms sitting in the (4b) Wyckoff positions. This is the quaternary version of the structure.  The ternary version, where one of the (4c) Wyckoff positions has the same atom type as the (8f) site, is designated the \\href{current_web_home_dir/ABC3_oC20_63_c_a_cf-003}{the V$_{3}$AsC structure}. \n  (Witte, 1994) does not designate a prototype for this structure, but as they only give full crystallographic data for the ThFe$_{2}$SiC structure we will use this as the prototype. \n (Witte, 1994) lists the occupation of each site as Th (100.2\\%), Fe (97.7\\%), Si (96.0\\%), and C (97.0\\%), indicating that there are vacancies on the Fe, Si, and C sites, and that some of the Th atoms are either interstitial or occuping the other (4c) site or the (8f) site.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "75133"
 }

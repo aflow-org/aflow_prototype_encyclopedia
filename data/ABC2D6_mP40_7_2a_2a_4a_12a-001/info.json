@@ -143,5 +143,9 @@
     "alias": "ABC2D6_mP40_7_2a_2a_4a_12a-001",
     "number_of_species": 4,
     "pearson_symbol": "mP40",
-    "space_group_number": 7
+    "space_group_number": 7,
+    "comments": "The layered compound CuCrP$_{2}$S$_{6}$ is found in two phases (Moriya, 2005): \\begin{itemize} \\item \\href{current_web_home_dir/ABC2D6_mP40_7_2a_2a_4a_12a-001}{low temperature $\\alpha$-CuCrP$_{2}$S$_{6}$}, stable below 186K (this structure), and \\item \\href{current_web_home_dir/AB4C2D6_mC52_15_e_2f_f_3f-001}{room temperature $\\beta$-CuCrP$_{2}$S$_{6}$}. \\end{itemize} ~ \\vspace{-0.25in} \n There is also a magnetic transition at 30K. \n Unlike $\\beta$-CuCrP$_{2}$S$_{6}$, the copper sites in $\\alpha$-CuCrP$_{2}$S$_{6}$ are completely ordered. \n We use the data taken at 64K. \n The designations ``$\\alpha$'' and ``$\\beta$'' do not appear elsewhere, we have adopted them for clarity.",
+    "notes": "$\\beta$-CuCrP$_{2}$S$_{6}$",
+    "ccdc": null,
+    "icsd": "74024"
 }

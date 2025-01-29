@@ -19,5 +19,9 @@
     "alias": "A2BC6D_cF40_225_c_a_e_b",
     "number_of_species": 4,
     "pearson_symbol": "cF40",
-    "space_group_number": 225
+    "space_group_number": 225,
+    "comments": "We use the data taken at room temperature.",
+    "notes": "Double Perovskite",
+    "ccdc": null,
+    "icsd": "51613"
 }

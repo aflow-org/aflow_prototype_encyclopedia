@@ -23,5 +23,9 @@
     "alias": "A5B6_hP22_194_ach_gh-001",
     "number_of_species": 2,
     "pearson_symbol": "hP22",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "comments": "Hexagonal Ti$_{6}$Sn$_{5}$ coexists with orthorhombic Ti$_{6}$Sn$_{5}$, which takes on the \\href{current_web_home_dir/A6B5_oI44_71_egkl_fghl-001}{Nb$_{6}$Sn$_{5}$ structure}. (Oni, 2014) \n (van Vucht, 1964) state that the Sn-I atom is on the (4b) Wyckoff position, but the coordinates given are for the (2a) position.  This fits with their figure of the structure, although the atoms they label at height ``1/4'' should be at zero and {\\em vice versa}.",
+    "notes": "Hexagonal",
+    "ccdc": null,
+    "icsd": "660295"
 }

@@ -65,5 +65,9 @@
     "alias": "AB_tP64_92_2a3b_4b-001",
     "number_of_species": 2,
     "pearson_symbol": "tP64",
-    "space_group_number": 92
+    "space_group_number": 92,
+    "comments": "TlS occurs naturally in three forms (Villars, 2018): \\begin{itemize} \\item The ground state is tetragonal in the \\href{current_web_home_dir/AB_tI16_140_ab_h-001}{TlSe ($B37$) structure} which (Villars, 2018) calls ``Tet-I'' and (Kishida, 1994) calls ``Type I.'' \\item An intermediate \\href{current_web_home_dir/AB_tP64_92_2a3b_4b-001}{tetragonal structure}, which (Villars, 2018) calls ``Tetragonal II,'' and (Kashida, 1994) calls Type III. (this structure) \\item A high temperature \\href{current_web_home_dir/AB_mC256_5_2a2b30c_32c-001}{monoclinic structure}, called ``Mon'' by (Villars, 2018) and ``Type II'' by (Kishida, 1994). \\end{itemize}",
+    "notes": "Tetragonal TlS (IT)",
+    "ccdc": null,
+    "icsd": "78162"
 }

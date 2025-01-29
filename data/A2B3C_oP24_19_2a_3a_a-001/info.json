@@ -57,5 +57,9 @@
     "alias": "A2B3C_oP24_19_2a_3a_a-001",
     "number_of_species": 3,
     "pearson_symbol": "oP24",
-    "space_group_number": 19
+    "space_group_number": 19,
+    "comments": "Not to be confused with \\href{current_web_home_dir/A2B4C_oP28_19_2a_4a_a-001}{selenic acid, H$_{2}$SeO$_{4}$}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "31929"
 }

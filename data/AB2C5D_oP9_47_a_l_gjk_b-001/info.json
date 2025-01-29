@@ -27,5 +27,9 @@
     "alias": "AB2C5D_oP9_47_a_l_gjk_b-001",
     "number_of_species": 4,
     "pearson_symbol": "oP9",
-    "space_group_number": 47
+    "space_group_number": 47,
+    "comments": "YBaFe$_{2}$O$_{5}$ is a mixed-valence compound which undergoes several magnetic transitions as it cools (Woodward, 2003): \\begin{itemize} \\item At high temperatures it is characterized as a Class-III MV (mixed valence) paramagnetic compound with equivalent iron atoms.  It exists in a double perovskite structure in tetragonal space group $P4/mmm$ \\#123.  This appears to be related to \\href{current_web_home_dir/AB2C2D5E_tP11_123_a_h_h_ci_b-001}{YBaCuFeO$_{5}$}, but we have no experimental confirmation of that. \\item Below 430K the system distorts into orthorhombic space group \\href{current_web_home_dir/AB2C5D_oP9_47_a_l_gjk_b-001}{$Pmmm$ \\#47} and becomes antiferromagnetic. (this structure)  Below 335K the iron atoms become multivalent, splitting into Fe$^{2.5\\pm\\delta}$ sites. This is known as a Class-II MV structure. \\item Below 308K the iron atoms are fully ordered with charges Fe$^{2+}$ and Fe$^{3+}$, forming a Class-I MV structure. The space group changes to \\href{current_web_home_dir/AB2C5D_oP18_51_a_2f_2efj_c-001}{$Pmma$ \\#51}. \\end{itemize}. ~ \\vspace{-.25in} \n Here we use the data taken by (Woodward, 2003) at 320K. \n If we allow an uncertainty of 0.1{\\AA} in the atomic positions the space group changes to $P4/mmm$ and is nearly identical with the structure of \\href{current_web_home_dir/AB2C2D5E_tP11_123_a_h_h_ci_b-001}{YBaCuFeO$_{5}$} with the copper atoms removed and the iron sites fully occupied.",
+    "notes": "Class-II MV",
+    "ccdc": null,
+    "icsd": "281205"
 }

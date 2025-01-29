@@ -39,5 +39,9 @@
     "alias": "AB4C2_hR28_166_2c_2c2h_abh",
     "number_of_species": 3,
     "pearson_symbol": "hR28",
-    "space_group_number": 166
+    "space_group_number": 166,
+    "comments": "CuTi$_{2}$S$_{4}$ can also be found in a \\href{current_web_home_dir/A2BC4_cF56_227_c_b_e-001}{spinel phase}.",
+    "notes": "Rhombohedral",
+    "ccdc": null,
+    "icsd": "170228"
 }

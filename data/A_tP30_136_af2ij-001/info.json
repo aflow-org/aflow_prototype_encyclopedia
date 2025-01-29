@@ -34,5 +34,9 @@
     "alias": "A_tP30_136_bf2ij",
     "number_of_species": 1,
     "pearson_symbol": "tP30",
-    "space_group_number": 136
+    "space_group_number": 136,
+    "comments": "Uranium has two structural phase transitions with temperature (Donohue, 1974): \\begin{itemize} \\item Below 662$^\\circ$C it is in the ground state \\href{current_web_home_dir/A_oC4_63_c-001}{$\\alpha$-U structure ($A20$)}. \\item In the range 662-772$^\\circ$C it is in the \\href{current_web_home_dir/A_tP30_136_af2ij-001}{$\\beta$-U structure ($A_{b}$)}. (this structure) \\item Above 772$^\\circ$C to the melting point at 1135$^\\circ$C it is in the \\href{current_web_home_dir/A_cI2_229_a-001}{body-centered cubic structure ($A2$)}. \\end{itemize} ~ \\vspace{-.25in} \n According to (Donohue, 1982) there are three possible space groups which fit the diffraction data for $\\beta$-U. This is the highest symmetry space group of the three. Except for a shift of the origin, this structure is isostructural with \\href{current_web_home_dir/A4B4C4DE2_tP30_136_i_j_i_a_f-001}{$\\sigma$-CrFe ($D8_{b}$)}.",
+    "notes": "$A_{b}$, $\\beta$-U",
+    "ccdc": null,
+    "icsd": "76166"
 }

@@ -23,5 +23,9 @@
     "alias": "A2BC2_hP5_164_d_a_d",
     "number_of_species": 3,
     "pearson_symbol": "hP5",
-    "space_group_number": 164
+    "space_group_number": 164,
+    "comments": "We used the data from (Catti, 1995) at ambient pressure.  In some Brucite-like materials the hydrogen atoms are displaced to the (6i) Wyckoff positions $(x,-x,z)$ of space group $P3m1$ \\#164, and these sites are 1/3 occupied.",
+    "notes": "Brucite",
+    "ccdc": null,
+    "icsd": "79031"
 }

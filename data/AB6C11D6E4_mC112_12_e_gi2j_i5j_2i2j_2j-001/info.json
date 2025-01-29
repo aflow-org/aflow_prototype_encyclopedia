@@ -108,5 +108,9 @@
     "alias": "AB6C11D6E4_mC112_12_e_gi2j_i5j_2i2j_2j",
     "number_of_species": 5,
     "pearson_symbol": "mC112",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "comments": "Chrysotile is more commonly known as ``white asbestos.'' Chrysotile sheets typically curl into tubular fibers and the crystal structure is difficult to determine.  (Yada, 1967) has a partial list of the experiments performed to determine this structure. The current structure was given the {\\em Strukturbericht} designation $S4_{5}$ by (Hermann, 1937).  It doubles the unit cell of our other chrysotile structure, \\href{current_web_home_dir/A3B5C4D2_mC56_9_3a_5a_4a_2a-001}{by (Falini, 2004)} and includes an inversion site. \n The structure was originally given in the $I2/m$ setting of space group \\#12.  We used FINDSYM to place it in the standard $C2/m$ setting.",
+    "notes": "$S4_{5}$, Chrysotile",
+    "ccdc": null,
+    "icsd": "36225"
 }

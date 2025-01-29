@@ -90,5 +90,9 @@
     "alias": "A2B4C2D12E3_oF184_43_b_2b_b_6b_ab",
     "number_of_species": 5,
     "pearson_symbol": "oF184",
-    "space_group_number": 43
+    "space_group_number": 43,
+    "comments": "We use the data from the sample that (Kirfel, 1984) call Crystal II. The origin has been arbitrarily set so that $z_{1} = 0$.",
+    "notes": "$S6_{10}$, Natrolite",
+    "ccdc": null,
+    "icsd": "201651"
 }

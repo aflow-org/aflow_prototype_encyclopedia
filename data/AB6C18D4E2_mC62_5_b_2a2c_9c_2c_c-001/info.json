@@ -113,5 +113,9 @@
     "alias": "AB6C18D4E2_mC62_5_a_2b2c_9c_2c_c",
     "number_of_species": 5,
     "pearson_symbol": "mC62",
-    "space_group_number": 5
+    "space_group_number": 5,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "403504"
 }

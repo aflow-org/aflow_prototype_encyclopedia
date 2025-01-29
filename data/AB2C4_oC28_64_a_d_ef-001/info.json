@@ -29,5 +29,9 @@
     "alias": "AB2C4_oC28_64_a_d_ef-001",
     "number_of_species": 3,
     "pearson_symbol": "oC28",
-    "space_group_number": 64
+    "space_group_number": 64,
+    "comments": "This is a slight orthorhombic distortion of the \\href{current_web_home_dir/AB2C4_tI14_139_a_e_cd-003}{Nd$_{2}$CuO$_{4}$ structure}, and there is some evidence that both Gd$_{2}$CuO$_{4}$ and Eu$_{2}$CuO$_{4}$ transform to the Nd$_{2}$CuO$_{4}$ structure at higher temperatures. \n We did not find an ICSD from (Luo, 1999), so we use the one from the earlier work of (Braden, 1994).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "75425"
 }

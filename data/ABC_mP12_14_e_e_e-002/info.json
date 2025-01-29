@@ -42,5 +42,9 @@
     "alias": "ABC_mP12_14_e_e_e",
     "number_of_species": 3,
     "pearson_symbol": "mP12",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "comments": "This is very similar to \\href{current_web_home_dir/A2B_mP12_14_2e_e-001}{$C43$ Baddeleyite, ZrO$_{2}$}.",
+    "notes": "$E0_{7}$, Arsenopyrite",
+    "ccdc": null,
+    "icsd": "185809"
 }

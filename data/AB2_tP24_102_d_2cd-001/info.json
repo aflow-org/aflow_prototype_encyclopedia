@@ -39,5 +39,9 @@
     "alias": "AB2_tP24_102_d_2cd-001",
     "number_of_species": 2,
     "pearson_symbol": "tP24",
-    "space_group_number": 102
+    "space_group_number": 102,
+    "comments": "Space group $P4_{2}nm \\#102$ does not specify the origin of the $z$-axis.  We fix it by setting $z_{1} = 0$ for the S-I (4c) position.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "201218"
 }

@@ -18,5 +18,9 @@
     "alias": "AB2_cF12_225_a_c",
     "number_of_species": 2,
     "pearson_symbol": "cF12",
-    "space_group_number": 225
+    "space_group_number": 225,
+    "comments": "We do not have an ICSD entry from (Speziale, 2002), so we use the one provided by (Smakula, 1955).",
+    "notes": "$C1$, Fluorite",
+    "ccdc": null,
+    "icsd": "44937"
 }

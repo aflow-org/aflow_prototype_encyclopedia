@@ -61,5 +61,9 @@
     "alias": "A2BC4_hR42_161_2b_b_4b",
     "number_of_species": 3,
     "pearson_symbol": "hR42",
-    "space_group_number": 161
+    "space_group_number": 161,
+    "comments": "This is the low-temperature structure.  Heating to temperatures between 100-400$^{\\circ}$C it transforms into \\href{current_web_home_dir/A2BC4_hR42_167_f_ac_2f-001}{$\\beta$-BaB$_{2}$O$_{4}$}. The principle difference between the two forms is the lack of inversion symmetry in the low-temperature structure.",
+    "notes": "$\\alpha$-BaB$_{2}$O$_{4}$",
+    "ccdc": null,
+    "icsd": "30885"
 }

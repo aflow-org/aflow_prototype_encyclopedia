@@ -27,5 +27,9 @@
     "alias": "A7B2_hP9_164_ac2d_d-001",
     "number_of_species": 2,
     "pearson_symbol": "hP9",
-    "space_group_number": 164
+    "space_group_number": 164,
+    "comments": "(Zalkin, 1956) put this structure in space group $P321$ \\#150, however the occupied Wyckoff positions are duplicated in the higher symmetry space group $P\\overline{3}m1$ \\#164.  Accordingly we use the higher symmetry space group. \n (Cenzual, 1991) note that the coordinate $z_{3}$ of the Li-III atom should be -1/12 rather than -1/2 as given in (Zalkin, 1956).  This agrees with the figures in the original reference so we use that value. \n The ICSD entry is from (Zalkin, 1956).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "104765"
 }

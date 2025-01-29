@@ -34,5 +34,9 @@
     "alias": "AB2C4D_cP32_198_a_2a_ab_a",
     "number_of_species": 4,
     "pearson_symbol": "cP32",
-    "space_group_number": 198
+    "space_group_number": 198,
+    "comments": "Substitution of small fractions of rare earth elements onto the Ca site can produce photoluminescence. \n This is the crystal structure found by (Barth, 1932).  The coordinates on p. 159 of (Hermann, 1937) are incorrect, as they do not properly transform Barth and Posnjak's coordinates in degrees to fractional coordinates.  See (Hermann, 1937) pp. 557-8 for the correct coordinates. \n (Dollase, 1991) found that the SiO$_{4}$ tetrahedra were orientationally disordered, and that the resulting Na$_{2}$Ca(SiO$_{4}$) structure took on the \\href{current_web_home_dir/AB2C_cF16_225_a_c_b-001}{Heusler ($L1_{2}$) structure}.",
+    "notes": "$S6_{6}$",
+    "ccdc": null,
+    "icsd": "24235"
 }

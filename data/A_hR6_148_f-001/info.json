@@ -25,5 +25,9 @@
     "alias": "A_hR6_148_f-001",
     "number_of_species": 1,
     "pearson_symbol": "hR6",
-    "space_group_number": 148
+    "space_group_number": 148,
+    "comments": "We follow the notation of (Donohue, 1961) and (Donhoue, 1974) and call this S$_{6}$ sulfur.  Alternative names are: rhombohedral sulfur, trigonal sulfur, Engel's sulfur, Aten's sulfur, $\\epsilon$-sulfur, and $\\rho$-sulfur. (Donohue, 1974) \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "notes": "$\\rho$-S",
+    "ccdc": null,
+    "icsd": "27495"
 }

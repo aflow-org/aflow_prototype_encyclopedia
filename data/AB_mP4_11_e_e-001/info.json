@@ -31,5 +31,9 @@
     "alias": "AB_mP4_11_e_e",
     "number_of_species": 2,
     "pearson_symbol": "mP4",
-    "space_group_number": 11
+    "space_group_number": 11,
+    "comments": "(Sitepu, 2002) give the coordinates in the unique-axis $c$ setting of space group $P2_{1}/m$ \\#11.  We used FINDSYM to transform this to the standard unique-axis $b$ setting. In our original version of this work we inadvertantly used 180$^{\\circ}$ - $\\beta$ rather than $\\beta$, and moved the nickel atoms by 1/2 c along the z-axis.  These errors have been corrected here.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "157983"
 }

@@ -87,5 +87,9 @@
     "alias": "A3B4C2D12_aP21_2_ai_2i_i_6i-001",
     "number_of_species": 4,
     "pearson_symbol": "aP21",
-    "space_group_number": 2
+    "space_group_number": 2,
+    "comments": "The sodium and germanium atoms form a matrix for a Cu$_{3}$O$_{8}$ trimers, where the copper atoms form a spin-1/2 system. \n The ICSD entry for (Bera, 2022) has not be posted, we use the one provided by (Mo, 2006).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "171630"
 }

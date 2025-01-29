@@ -21,5 +21,9 @@
     "alias": "ABC2_hP4_164_a_b_d",
     "number_of_species": 3,
     "pearson_symbol": "hP4",
-    "space_group_number": 164
+    "space_group_number": 164,
+    "comments": "Although we use the data from (Kift, 2010), the ICSD entry is from (Skaggs, 2020).",
+    "notes": "Zlatogorite",
+    "ccdc": null,
+    "icsd": "134019"
 }

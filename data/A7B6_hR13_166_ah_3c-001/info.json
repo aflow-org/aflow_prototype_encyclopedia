@@ -30,5 +30,9 @@
     "alias": "A7B6_hR13_166_ah_3c",
     "number_of_species": 2,
     "pearson_symbol": "hR13",
-    "space_group_number": 166
+    "space_group_number": 166,
+    "comments": "For more information on the $\\mu$-phase, see (Pearson, 1972, p. 664). There it is referred to as a tetrahedrally close-packed Frank-Kasper structure. We have been unable to obtain a copy of the original reference for this structure (Arnfeldt, 1935), so we use the structure from (Villars, 1991, p.3415), which itself is taken from a secondary reference. \n See \\href{current_web_home_dir/A3B2C8_hR13_166_ac_c_ch-002}{the Ba$_{3}$Cr$_{2}$O$_{8}$ page} for ternary compounds with this structure. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "notes": "$D8_{5}$",
+    "ccdc": null,
+    "icsd": "632620"
 }

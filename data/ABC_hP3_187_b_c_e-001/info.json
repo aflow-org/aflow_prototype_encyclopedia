@@ -19,5 +19,9 @@
     "alias": "ABC_hP3_187_a_d_f",
     "number_of_species": 3,
     "pearson_symbol": "hP3",
-    "space_group_number": 187
+    "space_group_number": 187,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "59186"
 }

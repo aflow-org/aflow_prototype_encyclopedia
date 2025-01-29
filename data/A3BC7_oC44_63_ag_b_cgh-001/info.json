@@ -37,5 +37,9 @@
     "alias": "A3BC7_oC44_63_ag_b_cgh-001",
     "number_of_species": 3,
     "pearson_symbol": "oC44",
-    "space_group_number": 63
+    "space_group_number": 63,
+    "comments": "(Rossell, 1979) give z$_{6}$ = -0.036 for the O III (16h) site, but the corresponding CIF in the ICSD entry sets z$_{6}$ = +0.036.  We use the ICSD value. In reality the difference in position is only about 0.5{\\AA}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "10058"
 }

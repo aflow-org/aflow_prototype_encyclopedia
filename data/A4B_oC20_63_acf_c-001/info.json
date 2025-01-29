@@ -29,5 +29,9 @@
     "alias": "A4B_oC20_63_acf_c-001",
     "number_of_species": 2,
     "pearson_symbol": "oC20",
-    "space_group_number": 63
+    "space_group_number": 63,
+    "comments": "The equilibrium phase diagram for the Sn-Sr system has been mapped by (Palenzona, 384): \\begin{tabular}{cc} \\\\ Formula & Structure \\\\ \\hline Sr & \\href{current_web_home_dir/A_cF4_225_a-001}{fcc ($A1$)} \\\\ Sr$_{2}$Sn & \\href{current_web_home_dir/A2B_oP12_62_2c_c-003}{Cotunnite, PbCl$_{2}$ ($C23$)} \\\\ Sr$_{5}$Sn$_{3}$ & \\href{current_web_home_dir/A3B5_tI32_140_ah_cl-001}{Cr$_{5}$B$_{3}$ ($D8_{l}$)} \\\\ SrSn & \\href{current_web_home_dir/AB_oC8_63_c_c-001}{CrB ($B33$)} \\\\ Sr$_{3}$Sn$_{5}$ & \\href{current_web_home_dir/A5B3_oC32_63_cfg_ce-001}{Pd$_{5}$Pu$_{3}$} \\\\ SrSn$_{3}$ & \\href{current_web_home_dir/A3B_hR16_166_2h_2c-001}{SrSn$_{3}$} \\\\ SrSn$_{4}$ & \\href{current_web_home_dir/A4B_oC20_63_acf_c-001}{SrSn$_{4}$} (this structure) \\\\ Sn & \\href{current_web_home_dir/A_cF8_227_a-001}{diamond ($A4$)} or \\href{current_web_home_dir/A_tI4_141_a-001}{$\\beta$-Sn ($A5$)} \\end{tabular} \n This structure is superconducting below 4.8K",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "281669"
 }

@@ -22,5 +22,9 @@
     "alias": "AB3_tI16_140_b_ah",
     "number_of_species": 2,
     "pearson_symbol": "tI16",
-    "space_group_number": 140
+    "space_group_number": 140,
+    "comments": "This is the ground state of SiU$_{3}$.  Above 770$^\\circ$C it transforms into $\\beta$-SiU$_{3}$ in the \\href{current_web_home_dir/AB3_cP4_221_a_c-001}{Cu$_{3}$Au ($L1_{2}$) structure.} (Okamoto, 2013). \n When $c=2 a$ and $x_{3}=1/4$ the atoms are at the positions of the \\href{current_web_home_dir/AB3_cP4_221_a_c-001}{Cu$_{3}$Au ($L1_{2}$) structure}. \n Many references define both a $D0_{c}$ and a $D0'_{c}$ (Ir$_{3}$Si) structure. The primary difference seems to be positioning the Si atoms on the (2a) or (2b) sites. Since this is merely an origin shift we will ignore the $D0'_{c}$ label.",
+    "notes": "$D0_{c}$, $\\alpha$-SiU$_{3}$",
+    "ccdc": null,
+    "icsd": "31627"
 }

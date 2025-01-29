@@ -43,5 +43,9 @@
     "alias": "ABC2_hR24_148_f_f_2f-001",
     "number_of_species": 3,
     "pearson_symbol": "hR24",
-    "space_group_number": 148
+    "space_group_number": 148,
+    "comments": "AgAsS$_{2}$ also occurs as \\href{current_web_home_dir/ABC2_mC96_15_2e2f_3f_6f-001}{orthorhombic smithite}. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "notes": "Trechmannite",
+    "ccdc": null,
+    "icsd": "18101"
 }

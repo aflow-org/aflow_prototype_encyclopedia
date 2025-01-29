@@ -23,5 +23,9 @@
     "alias": "AB4C_tP12_137_a_g_b-001",
     "number_of_species": 3,
     "pearson_symbol": "tP12",
-    "space_group_number": 137
+    "space_group_number": 137,
+    "comments": "This is the low temperature structure of KBD$_{4}$, stable below 70K, with data taken at 1.5K.  Above that it transforms into the \\href{current_web_home_dir/AB8C_cF40_225_a_f_b-001}{cubic room temperature KBD$_{4}$ structure}, also known as the NaBH$_{4}$ structure.",
+    "notes": "LT",
+    "ccdc": null,
+    "icsd": "99264"
 }

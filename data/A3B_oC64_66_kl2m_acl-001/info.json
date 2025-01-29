@@ -43,5 +43,9 @@
     "alias": "A3B_oC64_66_kl2m_bdl",
     "number_of_species": 2,
     "pearson_symbol": "oC64",
-    "space_group_number": 66
+    "space_group_number": 66,
+    "comments": "Our original entry (Hicks, 2019) reversed the a and b axis.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "32681"
 }

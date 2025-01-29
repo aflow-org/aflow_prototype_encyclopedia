@@ -33,5 +33,9 @@
     "alias": "A12B5_tI34_87_hi_ah-001",
     "number_of_species": 2,
     "pearson_symbol": "tI34",
-    "space_group_number": 87
+    "space_group_number": 87,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "108640"
 }

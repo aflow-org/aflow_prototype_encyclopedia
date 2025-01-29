@@ -58,5 +58,9 @@
     "alias": "A2B12CD6_mC42_12_i_2i2j_a_ij",
     "number_of_species": 4,
     "pearson_symbol": "mC42",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "comments": "This structure is nearly identical to the one presented in (Gottfried, 1937) as $J1_{7}$, but now includes the positions of the hydrogen atoms.",
+    "notes": "$J1_{7}$, Bischofite",
+    "ccdc": null,
+    "icsd": "47161"
 }

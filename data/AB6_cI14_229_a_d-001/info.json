@@ -17,5 +17,9 @@
     "alias": "AB6_cI14_229_a_d-001",
     "number_of_species": 2,
     "pearson_symbol": "cI14",
-    "space_group_number": 229
+    "space_group_number": 229,
+    "comments": "(Wang, 2012) predict this structure to become superconducting with a critical temperature of 220-235K at a 150 GPa.  (Ma, 2022) later synthesized the material and found $T_{c} = 215$K at 172 GPa. We show the structure at the lattice constant predicted by (Wang, 2012) for a pressure of 150 GPa.",
+    "notes": "HP",
+    "ccdc": null,
+    "icsd": "none"
 }

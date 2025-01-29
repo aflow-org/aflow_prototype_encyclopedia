@@ -43,5 +43,9 @@
     "alias": "A2B3C_oP24_62_d_3c_c-001",
     "number_of_species": 3,
     "pearson_symbol": "oP24",
-    "space_group_number": 62
+    "space_group_number": 62,
+    "comments": "This is the ternary form of the \\href{current_web_home_dir/AB5_oP24_62_c_3cd-001}{SrZn$_{5}$ structure}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "429904"
 }

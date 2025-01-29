@@ -29,5 +29,9 @@
     "alias": "A4B3_tP28_135_gh_dh-002",
     "number_of_species": 2,
     "pearson_symbol": "tP28",
-    "space_group_number": 135
+    "space_group_number": 135,
+    "comments": "Pb$_{3}$O$_{4}$ has been observed in several structures (Wriedt, 1988; Dinnebier, 2003): \\begin{itemize} \\item Below 170K (Wriedt, 1988) it is in the \\href{current_web_home_dir/A4B3_oP28_55_ghi_egh-001}{orthorhombic Minium-R structure}.  (Gavarri, 1978) tracks this structure up to 240K. \\item Above 170K it is in the \\href{current_web_home_dir/A4B3_tP28_135_gh_dh-002}{tetragonal Minium-T structure} (this structure). \\item At ambient temperature the Minium-T structure transforms into what is apparently the Minium-R structure at a pressure between 0.11 and 0.3 GPa. (Dinnebier, 2003) call this {\\em Phase II}. \\item If the pressure is increased, between 5.54 and 6.6 GPa the structure transforms into orthorhombic \\href{current_web_home_dir/A4B3_oP14_55_gh_ah-001}{Phase III structure}. \\end{itemize} ~ \\vspace{-.25in} \n The first determination of this structure was made by (Gross, 1943), who assigned it to space group $P\\overline{4}b2$ \\#117 (ICSD 29094, AFLOW label A4B3\\_tP28\\_135\\_gh\\_dh-001), but that structure is practically indistinguishable from the current structure. \n We assign tenary compounds related to this structure to prototype \\href{current_web_home_dir/A4B2C_tP28_135_gh_h_d-001}{ZnSb$_{2}$O$_{4}$}.",
+    "notes": "Minium-T",
+    "ccdc": null,
+    "icsd": "4106"
 }

@@ -21,5 +21,9 @@
     "alias": "A2B2C_tI10_139_d_e_a.TlCo2S2",
     "number_of_species": 3,
     "pearson_symbol": "tI10",
-    "space_group_number": 139
+    "space_group_number": 139,
+    "comments": "This is a ternary form of the \\href{current_web_home_dir/A4B_tI10_139_de_a-001}{$D1_{3}$ (BaAl$_{4}$) structure}.  It differs from the \\href{current_web_home_dir/A2B2C_tI10_139_d_e_a-003}{ThCr$_{2}$Si$_{2}$ structure} in that here $c/a > 3$. \n Other authors designate TlCu$_{2}$Se$_{2}$ or Cl(Li$_{0.25}$Be$_{0.75}$)$_{2}$O$_{2}$ as the prototype for this structure, but (Klepp, 1978) give complete structural information for TlCo$_{2}$S$_{2}$, so we use that as the prototype.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "100438"
 }

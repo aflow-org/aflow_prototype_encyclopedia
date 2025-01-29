@@ -419,5 +419,9 @@
     "alias": "A3B14C2D3E_mP138_3_3c3d6e_42e_6e_3a3b6e_3a3b-001",
     "number_of_species": 5,
     "pearson_symbol": "mP138",
-    "space_group_number": 3
+    "space_group_number": 3,
+    "comments": "This is a derivative of the \\href{current_web_home_dir/A2B14C3DE3_hP23_150_d_d2g_e_a_f-001}{dugganite/langasite structure}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "425850"
 }

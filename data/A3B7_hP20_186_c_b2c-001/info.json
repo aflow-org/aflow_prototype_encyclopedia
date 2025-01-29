@@ -34,5 +34,9 @@
     "alias": "A3B7_hP20_186_c_b2c",
     "number_of_species": 2,
     "pearson_symbol": "hP20",
-    "space_group_number": 186
+    "space_group_number": 186,
+    "notes": "$D10_{2}$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "108477"
 }

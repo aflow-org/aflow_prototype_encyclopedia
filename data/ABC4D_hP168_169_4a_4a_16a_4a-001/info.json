@@ -187,5 +187,9 @@
     "alias": "ABC4D_hP168_169_4a_4a_16a_4a-001",
     "number_of_species": 4,
     "pearson_symbol": "hP168",
-    "space_group_number": 169
+    "space_group_number": 169,
+    "comments": "NaAlSiO$_{4}$ can be found in a variety of structures, depending upon the conditions of its formation. \n Hexagonal forms include: \\begin{itemize} \\item \\href{http://current_web_home_dir/ABC4D_hP168_169_4a_4a_16a_4a-001}{trinepheline} (this structure) and \\item \\href{http://current_web_home_dir/A2B3C9D2_hP64_173_bc_2c_6c_bc-001}{sodium-nepheline}. \\end{itemize} ~ \\vspace{-0.25in} \n This sample was prepared by slow cooling from $\\approx 1000^\\circ$C. \n This structure may also be found in the enantiomorphic space group $P6_{5}$ \\#170.",
+    "notes": "Trinepheline",
+    "ccdc": null,
+    "icsd": "85553"
 }

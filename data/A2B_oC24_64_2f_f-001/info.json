@@ -33,5 +33,9 @@
     "alias": "A2B_oC24_64_2f_f",
     "number_of_species": 2,
     "pearson_symbol": "oC24",
-    "space_group_number": 64
+    "space_group_number": 64,
+    "comments": "This structure was found by first-principles electronic structure calculations and is predicted to be the stable structure of H$_{2}$S for pressures $> 140$~GPa.  At 160~GPa it is predicted to be a conventional superconductor with an approximate transition temperature of 80K, however it is unlikely that this is the crystal structure of the 190K superconductor, which is probably the \\href{current_web_home_dir/A3B_cI8_229_b_a-001}{H$_{3}$S structure} (Bernstein, 2005). \n The data presented here was computed at 170 GPa.",
+    "notes": "HP, Theory",
+    "ccdc": null,
+    "icsd": "none"
 }

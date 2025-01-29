@@ -28,5 +28,9 @@
     "alias": "A3BC6_hR20_167_e_b_f",
     "number_of_species": 3,
     "pearson_symbol": "hR20",
-    "space_group_number": 167
+    "space_group_number": 167,
+    "comments": "The positions of the hydrogen atoms in the water molecules were not determined, so we only provide the positions of the oxygen atoms (labeled as H$_{2}$O).",
+    "notes": "$J2_{2}$",
+    "ccdc": null,
+    "icsd": "26138"
 }

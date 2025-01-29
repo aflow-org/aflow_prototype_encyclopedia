@@ -31,5 +31,9 @@
     "alias": "AB_hP6_144_a_a",
     "number_of_species": 2,
     "pearson_symbol": "hP6",
-    "space_group_number": 144
+    "space_group_number": 144,
+    "comments": "This structure was determined at 11.5 GPa. \n This structure can also be found in the enantiomorphic space group $P3_{2}$ \\#145.",
+    "notes": "HP",
+    "ccdc": null,
+    "icsd": "80076"
 }

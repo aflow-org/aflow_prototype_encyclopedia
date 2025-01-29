@@ -89,5 +89,9 @@
     "alias": "A2B7C2_mP44_14_2e_7e_2e-001",
     "number_of_species": 3,
     "pearson_symbol": "mP44",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "comments": "(Felsche, 1970) refers to this as the ``G-RE$_{2}$Si$_{2}$O$_{7}$ structure, where ``RE'' is a rare-earth element. \n This is the high-temperature form of Ca$_{2}$P$_{2}$O$_{7}$. At lower temperatures it transforms into the tetragonal \\href{current_web_home_dir/A2B7C2_tP88_76_4a_14a_4a-001}{$\\beta$-Ca$_{2}$P$_{2}$O$_{7}$} structure.",
+    "notes": "$\\alpha$-Ca$_{2}$P$_{2}$O$_{7}$",
+    "ccdc": null,
+    "icsd": "22225"
 }

@@ -24,5 +24,9 @@
     "alias": "ABC_cP12_198_a_a_a",
     "number_of_species": 3,
     "pearson_symbol": "cP12",
-    "space_group_number": 198
+    "space_group_number": 198,
+    "comments": "(Ewald, 1928) originally designated CoAsS as {\\em Strukturbericht} $F1$. This was later changed to $F0_{1}$. We follow (Parth\\'{e}, 1993) in using NiSbS as the prototype for this structure. \n The Sb (4a) Wyckoff parameter ($x_{3}$) has been corrected from 0.875 to 0.625, which matches the bonding distances given by (Y. Tak\\'{e}uchi, 1957) (corrected on 2021/05/10).",
+    "notes": "$F0_{1}$, Ullmanite",
+    "ccdc": null,
+    "icsd": "44606"
 }

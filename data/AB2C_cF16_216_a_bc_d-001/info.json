@@ -17,5 +17,9 @@
     "alias": "AB2C_cF16_216_b_ad_c",
     "number_of_species": 3,
     "pearson_symbol": "cF16",
-    "space_group_number": 216
+    "space_group_number": 216,
+    "comments": "Most of the literature on inverse Heusler compounds identifies Hg$_{2}$TiCu as the prototype structure, however (Villars, 2016) and (Villars, 2016a) use the Li$_{2}$AgSb structure found in (Pauly, 1968) as the prototype. \n Although it is tempting to use the older paper, we follow the majority and use Hg$_{2}$TiCu as the prototype. \n The inverse Heusler structure is a variation of the \\href{current_web_home_dir/ABCD_cF16_216_a_b_c_d-001}{quaternary Heusler structure}, where the mercury atoms are on adjacent face-centered cubic sublattices, forming \\href{current_web_home_dir/A_cF8_227_a-001}{a diamond structure}. \n Contrast this with the standard \\href{current_web_home_dir/AB2C_cF16_225_a_c_b-001}{Heusler ($L1_{2}$) structure}, where the like atoms are at second-neighbor positions in the fcc lattice. \n This structure is also referred to as the XA or X$_\\mathrm{a}$ structure.",
+    "notes": "Inverse Heusler",
+    "ccdc": null,
+    "icsd": "102972"
 }

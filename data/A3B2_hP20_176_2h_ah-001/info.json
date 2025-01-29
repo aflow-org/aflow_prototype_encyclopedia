@@ -32,5 +32,9 @@
     "alias": "A3B2_hP20_176_2h_ah",
     "number_of_species": 2,
     "pearson_symbol": "hP20",
-    "space_group_number": 176
+    "space_group_number": 176,
+    "comments": "The Th (2a) site is half-filled. \n (Zachariasen, 1949) gives the lattice constants in kX units.  We used the conversion factor of 1.00202 from (Woods, 1947) to convert this to {\\AA}ngstroms.  The ICSD entry uses kX units.",
+    "notes": "$D8_{k}$",
+    "ccdc": null,
+    "icsd": "30644"
 }

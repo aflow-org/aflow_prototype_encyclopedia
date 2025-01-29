@@ -44,5 +44,9 @@
     "alias": "AB8C8D_tI72_120_c_2i_2i_b",
     "number_of_species": 4,
     "pearson_symbol": "tI72",
-    "space_group_number": 120
+    "space_group_number": 120,
+    "comments": "The original determination of the $H4_{3}$ structure did not determine the positions of the hydrogen atoms.  Since (Sikka, 1969) showed that the placement of they hydrogen atoms did not substantially affect the postions of the other atoms in the primitive cell, nor change the space group, we retain the original {\\em Strukturbericht} designation for the improved structure. \n AFLOW shifts the origin by 1/2\\,b\\,$\\hat{y}$ + 1/4\\,c\\,$\\hat{z}$, swapping the (2b) and (2c) Wyckoff positions.",
+    "notes": "$H4_{3}$",
+    "ccdc": null,
+    "icsd": "23219"
 }

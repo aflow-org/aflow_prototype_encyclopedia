@@ -39,5 +39,9 @@
     "alias": "AB2_mC18_12_ai_3i",
     "number_of_species": 2,
     "pearson_symbol": "mC18",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "comments": "FINDSYM found a somewhat more compact representation of the unit cell (smaller $a$ and $\\beta$) than that given in (Brown, 1966), so the lattice constants and Wyckoff parameters differ from those given in the reference.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "14389"
 }

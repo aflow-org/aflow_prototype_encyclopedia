@@ -65,5 +65,9 @@
     "alias": "A3BC3_mP28_14_3e_e_3e-001",
     "number_of_species": 3,
     "pearson_symbol": "mP28",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "comments": "The ICSD lists \\href{current_web_home_dir/ABC4D_mP28_14_e_e_4e_e-001}{$\\alpha$-AgCuPO$_{4}$} as a quaternary version of this structure. \n Although the print copy of (Dittmar, 1979) and the reference to it in (Eisenmann, 1985) give the publication date of 1978, the actual publication date is June, 1979.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "10109"
 }

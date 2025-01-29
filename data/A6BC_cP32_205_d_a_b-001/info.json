@@ -23,5 +23,9 @@
     "alias": "A6BC_cP32_205_d_b_a",
     "number_of_species": 3,
     "pearson_symbol": "cP32",
-    "space_group_number": 205
+    "space_group_number": 205,
+    "comments": "This is the pure fluorine end-point of the NaSbF$_{6-x}$(OH)$_{x}$ compounds. Although the replacement of fluorine by OH does not affect the shape of the Sb-(F,OH)$_{6}$ ions, it has a profound effect on the structure, as can be seen by looking at \\href{current_web_home_dir/AB6C_tP32_86_c_3g_d-001}{NaSb(OH)$_{6}$ ($J1_{11}$)} and \\href{current_web_home_dir/A6BC_hP16_163_i_b_c-001}{NaSbF$_{4}$(OH)$_{2}$ ($J1_{12}$)}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "25538"
 }

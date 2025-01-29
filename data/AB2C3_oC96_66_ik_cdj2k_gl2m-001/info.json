@@ -49,5 +49,9 @@
     "alias": "AB2C3_oC96_66_ik_cdj2k_gl2m-001",
     "number_of_species": 3,
     "pearson_symbol": "oC96",
-    "space_group_number": 66
+    "space_group_number": 66,
+    "comments": "Li$_{2}$IrO$_{3}$ can be found in three structures (Choi, 2020): \\begin{itemize} \\item $\\alpha$-Li$_{2}$IrO$_{3}$, which is isostructural with \\href{current_web_home_dir/A2B3C_mC48_15_aef_3f_2e-001}{Na$_{2}$PrO$_{3}$}, \\item $\\beta$-Li$_{2}$IrO$_{3}$, which is isostructural with \\href{current_web_home_dir/A2B3C_oF96_70_2e_fh_e-001}{$\\beta$-Na$_{2}$PtO$_{3}$}, and \\item the current structure, $\\gamma$-Li$_{2}$IrO$_{3}$. \\end{itemize} ~\\vspace{-.25in} \n There is no ICSD entry for (Modic, 2014), but they do provide their own CIF as part of their \\href{https://static-content.springer.com/esm/art%3A10.1038%2Fncomms5203/MediaObjects/41467_2014_BFncomms5203_MOESM1029_ESM.txt}{supplementary material}.",
+    "notes": "$\\gamma$-Li$_{2}$IrO$_{3}$",
+    "ccdc": null,
+    "icsd": "none"
 }

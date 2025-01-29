@@ -129,5 +129,9 @@
     "alias": "A2B_oP72_19_12a_6a-001",
     "number_of_species": 2,
     "pearson_symbol": "oP72",
-    "space_group_number": 19
+    "space_group_number": 19,
+    "comments": "This is an orthorhombic form of tridymite which appears at temperatures above 115$^\\circ$C.  It is distinguished from what we call \\href{current_web_home_dir/A2B_oC24_20_abc_c-001}{orthorhombic high tridymite} by its origin. \n At temperatures below 115$^\\circ$C both structures transform into \\href{current_web_home_dir/A2B_mC144_9_24a_12a-001}{monoclinic ``low'' tridymite,''} and at temperatures above 420$^\\circ$C they transform into \\href{current_web_home_dir/A2B_hP12_194_cg_f-001}{hexagonal $\\beta$ (``high'') tridymite, {\\em Strukturbericht} $C10$}. \n Data for this structure was obtained from ICSD Entry 1534705.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "153470"
 }

@@ -41,5 +41,9 @@
     "alias": "A6B2C17D4_hP58_194_ab2f_e_fh2k_2f-001",
     "number_of_species": 4,
     "pearson_symbol": "hP58",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "comments": "(Xiaojun, 2002) refer to this as a ``perovskite-related'' structure. \n The tables in (Xiaojun, 2002) do not properly label several of the Wyckoff positions in the structure.  We inferred the correct Wyckoff positions from the given coordinates. The resulting distances between atoms agree with those found by the authors and with the ICSD entry.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "96629"
 }

@@ -57,5 +57,9 @@
     "alias": "AB2_oP36_58_3g_6g-001",
     "number_of_species": 2,
     "pearson_symbol": "oP36",
-    "space_group_number": 58
+    "space_group_number": 58,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "87507"
 }

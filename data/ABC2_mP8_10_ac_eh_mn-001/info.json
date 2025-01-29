@@ -31,5 +31,9 @@
     "alias": "ABC2_mP8_10_ac_eh_mn",
     "number_of_species": 3,
     "pearson_symbol": "mP8",
-    "space_group_number": 10
+    "space_group_number": 10,
+    "notes": "Muthmannite",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "55250"
 }

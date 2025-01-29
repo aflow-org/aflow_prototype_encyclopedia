@@ -27,5 +27,9 @@
     "alias": "A3B3C_hP14_176_h_h_c",
     "number_of_species": 3,
     "pearson_symbol": "hP14",
-    "space_group_number": 176
+    "space_group_number": 176,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "100352"
 }

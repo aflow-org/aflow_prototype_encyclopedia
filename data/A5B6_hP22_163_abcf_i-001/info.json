@@ -27,5 +27,9 @@
     "alias": "A5B6_hP22_163_abcf_i-001",
     "number_of_species": 2,
     "pearson_symbol": "hP22",
-    "space_group_number": 163
+    "space_group_number": 163,
+    "comments": "(Jellinek, 1957) also has data for trigonal Cr$_{2}$S$_{3}$, which is generated from this structure by removing the Chromium atoms from the (2a) sites.  (Venkatraman, 1990) lists the structure Cr$_{2}$S$_{3}$Cr, which is likely the same structure with possible vacancies on the (2a) sites.  There is also a \\href{current_web_home_dir/A2B3_hR10_148_abc_f-001}{rhombohedral Cr$_{2}$S$_{3}$ structure} found in both references.",
+    "notes": "Trigonal",
+    "ccdc": null,
+    "icsd": "16719"
 }

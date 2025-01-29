@@ -80,5 +80,9 @@
     "alias": "A2BC10D2E4_mC76_15_f_e_5f_f_2f",
     "number_of_species": 5,
     "pearson_symbol": "mC76",
-    "space_group_number": 15
+    "space_group_number": 15,
+    "comments": "The sites we label Si-I and Si-II are actually approximately 75\\% silicon and 25\\% aluminum, but trace elements such as manganese can appear on both sites.  In addition, the potassium site (K) can be alloyed with small amounts of sodium, and the aluminum site (Al) with iron.  These trace elements give muscovite a variety of colors.  The sample studied by (Richardson, 1982) was pink.",
+    "notes": "$S5_{1}$, Muscovite",
+    "ccdc": null,
+    "icsd": "17049"
 }

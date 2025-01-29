@@ -47,5 +47,9 @@
     "alias": "A11B3_mC28_12_a5i_ci-001",
     "number_of_species": 2,
     "pearson_symbol": "mC28",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "comments": "(Hiraga, 1982) give the structure in setting $P2_{1}/b$ of space group \\#14.  There seems to be a misprint in Table 1 of this paper:  the $z$-coordinate of the final gold atom is given as 1/7.  If we use this value, many of the Au-Au atomic distances are under 2{\\AA}, much too small for the Au-Mn system.  (Villars, 2016) uses $z = 1/2$ instead. As this gives a reasonable structure, we follow their lead.  This changes the space group from $P2_{1}/c$ to $C2/m$ \\#12, so we place the structure in space group \\#12.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "none"
 }

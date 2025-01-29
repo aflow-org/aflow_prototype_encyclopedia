@@ -25,5 +25,9 @@
     "alias": "AB_mC8_15_a_e-003",
     "number_of_species": 2,
     "pearson_symbol": "mC8",
-    "space_group_number": 15
+    "space_group_number": 15,
+    "comments": "(Wyckoff, 1963) lists two structures for CrS.  The first is this structure, where the sulfur (4e) site has 3\\% vacancies.  The second is the \\href{current_web_home_dir/AB_hP4_194_c_a-001}{NiAs ($B8_{1}$) structure}.  (Venkatraman, 1990) list this structure as the ground state and $B8_{1}$ has the high-temperature phase, with the transition occuring at 297K.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "16723"
 }

@@ -31,5 +31,9 @@
     "alias": "A3B11C3_cP68_201_be_efh_g",
     "number_of_species": 3,
     "pearson_symbol": "cP68",
-    "space_group_number": 201
+    "space_group_number": 201,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "4194"
 }

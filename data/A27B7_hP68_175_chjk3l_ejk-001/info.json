@@ -57,5 +57,9 @@
     "alias": "A27B7_hP68_175_chjk3l_ejk-001",
     "number_of_species": 2,
     "pearson_symbol": "hP68",
-    "space_group_number": 175
+    "space_group_number": 175,
+    "comments": "This is often referred to as Ag$_{3.6}$Gd.  Sources such as (Wang, 2008) list this as Ag$_{51}$Gd$_{14}$, but the exact stoichiometry depends on the occupation of the Ag-III (6j) site.  If this site is half-filled we get the preferred stoichiometry.  The Al (6j) sites are quite close together, forming a hexagon of side 1.57{\\AA} with second neighbors at 2.72{\\AA}.  When the site is half filled it is likely that the three silver atoms form a triangle with side 2.57{\\AA} in one of the two allow orientations.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "9085"
 }

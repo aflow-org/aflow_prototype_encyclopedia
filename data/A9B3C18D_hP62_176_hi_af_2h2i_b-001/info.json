@@ -51,5 +51,9 @@
     "alias": "A9B3C18D_hP62_176_hi_af_2h2i_b-001",
     "number_of_species": 4,
     "pearson_symbol": "hP62",
-    "space_group_number": 176
+    "space_group_number": 176,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "170217"
 }

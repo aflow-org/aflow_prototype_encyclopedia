@@ -84,5 +84,9 @@
     "alias": "A2B2C5D24E8_mC82_12_h_i_agh_2i5j_2j",
     "number_of_species": 5,
     "pearson_symbol": "mC82",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "comments": "There is no entry for (Merli, 2000) in the ICSD or CCDC, but the CIF can be downloaded \\href{http://rruff.geo.arizona.edu/AMS/download.php?id=02444.cif&down=cif}{from the American Mineralogist Crystal Structure Database}.",
+    "notes": "$S4_{2}$, Tremolite",
+    "ccdc": null,
+    "icsd": "none"
 }

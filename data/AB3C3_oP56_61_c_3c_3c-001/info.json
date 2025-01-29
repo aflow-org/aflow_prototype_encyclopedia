@@ -63,5 +63,9 @@
     "alias": "AB3C3_oP56_61_c_3c_3c-001",
     "number_of_species": 3,
     "pearson_symbol": "oP56",
-    "space_group_number": 61
+    "space_group_number": 61,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "79580"
 }

@@ -27,5 +27,9 @@
     "alias": "AB8_tP18_136_a_2fi-001",
     "number_of_species": 2,
     "pearson_symbol": "tP18",
-    "space_group_number": 136
+    "space_group_number": 136,
+    "comments": "(Villars, 2018) calls this $\\beta$-V$_{8}$O, and refers to it as the room-temperature tetragonal structure.  They also refer to a room-temperature triclinic structure. \n This is a supercell of the \\href{current_web_home_dir/A_cI2_229_a-001}{body-centered cubic ($A2$) lattice}, with periodic interstitial oxygen atoms at the octahedral sites.  In the real structure it is likely that there is considerable relaxation around the oxygen atoms.",
+    "notes": "$\\alpha$'-V$_{8}$O",
+    "ccdc": null,
+    "icsd": "166600"
 }

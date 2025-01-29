@@ -29,5 +29,9 @@
     "alias": "A3B2_oF40_69_hm_fg-001",
     "number_of_species": 2,
     "pearson_symbol": "oF40",
-    "space_group_number": 69
+    "space_group_number": 69,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "65184"
 }

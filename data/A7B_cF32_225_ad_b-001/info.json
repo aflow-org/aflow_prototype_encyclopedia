@@ -17,5 +17,9 @@
     "alias": "A7B_cF32_225_bd_a",
     "number_of_species": 2,
     "pearson_symbol": "cF32",
-    "space_group_number": 225
+    "space_group_number": 225,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "43321"
 }

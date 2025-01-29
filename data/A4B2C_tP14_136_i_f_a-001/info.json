@@ -25,5 +25,9 @@
     "alias": "A4B2C_tP14_136_i_g_b",
     "number_of_species": 3,
     "pearson_symbol": "tP14",
-    "space_group_number": 136
+    "space_group_number": 136,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "87172"
 }

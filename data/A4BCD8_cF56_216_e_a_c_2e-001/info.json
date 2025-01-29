@@ -23,5 +23,9 @@
     "alias": "A4BCD8_cF56_216_e_a_c_2e-001",
     "number_of_species": 4,
     "pearson_symbol": "cF56",
-    "space_group_number": 216
+    "space_group_number": 216,
+    "comments": "This structure can be regarded as a \\href{current_web_home_dir/A2BC4_cF56_227_c_b_e-001}{distorted spinel structure}, or a \\href{current_web_home_dir/AB4C8_cF52_216_a_e_2e-001}{filled GaMo$_{4}$S$_{8}$ structure}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "259392"
 }

@@ -39,5 +39,9 @@
     "alias": "A3B_mP8_11_3e_e",
     "number_of_species": 2,
     "pearson_symbol": "mP8",
-    "space_group_number": 11
+    "space_group_number": 11,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "652229"
 }

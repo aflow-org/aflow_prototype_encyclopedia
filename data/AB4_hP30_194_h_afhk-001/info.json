@@ -29,5 +29,9 @@
     "alias": "AB4_hP30_194_h_afhk-001",
     "number_of_species": 2,
     "pearson_symbol": "hP30",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "409902"
 }

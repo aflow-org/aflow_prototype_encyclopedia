@@ -52,5 +52,9 @@
     "alias": "A2B12C4D4E_tP46_114_d_3e_e_e_a",
     "number_of_species": 5,
     "pearson_symbol": "tP46",
-    "space_group_number": 114
+    "space_group_number": 114,
+    "comments": "We use the data from (Zachwieja, 1992), which refines the data of the original $H4_{17}$ structure of (Corey, 1934) and locates the hydrogen atoms.",
+    "notes": "$H4_{17}$",
+    "ccdc": null,
+    "icsd": "36585"
 }

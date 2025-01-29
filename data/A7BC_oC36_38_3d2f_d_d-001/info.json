@@ -53,5 +53,9 @@
     "alias": "A7BC_oC36_38_3d2f_d_d-001",
     "number_of_species": 3,
     "pearson_symbol": "oC36",
-    "space_group_number": 38
+    "space_group_number": 38,
+    "comments": "(Stohl, 1981) call this a pseudocell of the actual structure, which is twice the size of this cell in all directions, however they were unable to determine the space group or atomic positions for that structure. \n Space group $Amm2$ \\#38 allows an arbitrary placement of the origin of the $z$-axis.  Here $z_{5} = 0$ for the uranium (2d) site.",
+    "notes": "Weeksite",
+    "ccdc": null,
+    "icsd": "100771"
 }

@@ -20,5 +20,9 @@
     "alias": "A2BC4_cF56_227_d_a_e",
     "number_of_species": 3,
     "pearson_symbol": "cF56",
-    "space_group_number": 227
+    "space_group_number": 227,
+    "comments": "An {\\em inverse spinel} has four Al atoms on the (8a) sites and (Al,Mg) alloyed on the (16d) sites. \n The \\href{current_web_home_dir/A3B4_cF56_227_ad_e-001}{binary $D7_{2}$} and \\href{current_web_home_dir/A2BC4_cF56_227_c_b_e-001}{ternary $H1_{1}$} spinel structures are for all intents and purposes identical. We could use $D7_{2}$ for the binary spinels and $H1_{1}$ for the ternaries, but historically this has not been the case. We dual-list this structure only to keep the historical record intact. \n (Hahn, 1955) has an extensive list of ternary spinels and inverse spinels.",
+    "notes": "$H1_{1}$, Spinel",
+    "ccdc": null,
+    "icsd": "26485"
 }

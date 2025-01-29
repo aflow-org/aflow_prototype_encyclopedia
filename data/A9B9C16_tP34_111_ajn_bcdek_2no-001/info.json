@@ -41,5 +41,9 @@
     "alias": "A9B9C16_tP34_111_ajn_bcdek_2no-001",
     "number_of_species": 3,
     "pearson_symbol": "tP34",
-    "space_group_number": 111
+    "space_group_number": 111,
+    "comments": "We have shifted the origin by $a/2 (\\hat{x} + \\hat{y})$ from that used by (Hall, 1973).",
+    "notes": "Mooihoekite",
+    "ccdc": null,
+    "icsd": "2649"
 }

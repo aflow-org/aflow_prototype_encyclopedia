@@ -33,5 +33,9 @@
     "alias": "AB2_tP12_81_adg_2h",
     "number_of_species": 2,
     "pearson_symbol": "tP12",
-    "space_group_number": 81
+    "space_group_number": 81,
+    "comments": "This data was taken at $T = 698$ K with $P = 2$ GPa. \n Our original version of this structure in (Hicks, 2019) had $z_{5} = 0.6373$ for the Se-II atoms.  The correct value is 0.6273.",
+    "notes": "HP",
+    "ccdc": null,
+    "icsd": "90957"
 }

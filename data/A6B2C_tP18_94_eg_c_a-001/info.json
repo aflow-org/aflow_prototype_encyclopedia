@@ -29,5 +29,9 @@
     "alias": "A6B2C_tP18_94_eg_c_a",
     "number_of_species": 3,
     "pearson_symbol": "tP18",
-    "space_group_number": 94
+    "space_group_number": 94,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "23173"
 }

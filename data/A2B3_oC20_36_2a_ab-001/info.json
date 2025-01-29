@@ -39,5 +39,9 @@
     "alias": "A2B3_oC20_36_2a_ab-001",
     "number_of_species": 2,
     "pearson_symbol": "oC20",
-    "space_group_number": 36
+    "space_group_number": 36,
+    "comments": "Space group $Cmc2_{1}$ allows an arbitrary placement of the origin of the $z$-axis.  Here we follow (B\\\"{o}ttcher, 1977) and set $z_{4} = 0$.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "1263"
 }

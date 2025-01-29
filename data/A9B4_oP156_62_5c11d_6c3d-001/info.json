@@ -149,5 +149,9 @@
     "alias": "A9B4_oP156_62_5c11d_6c3d-001",
     "number_of_species": 2,
     "pearson_symbol": "oP156",
-    "space_group_number": 62
+    "space_group_number": 62,
+    "comments": "While all sites are fully occupied, there is some mixing of aluminum and manganese atoms: \\begin{itemize} \\item The Mn-V site is 70\\% Mn and 30\\% Al, \\item The Mn-VI site is 80\\% Mn and 20\\% Al, \\item The Al-VI site is 10\\% Mn and 90\\% Al, \\item The Mn-VIII site is 50\\% Mn and 50\\% Al, and \\item The Mn-IX site is 60\\% Mn and 40\\% Al. \\end{itemize} ~ \\vspace{-.25in} \n This gives a final composition of Al$_{2.94}$Mn.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "105512"
 }

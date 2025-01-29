@@ -55,5 +55,9 @@
     "alias": "A4B_oC40_36_4a2b_b-001",
     "number_of_species": 2,
     "pearson_symbol": "oC40",
-    "space_group_number": 36
+    "space_group_number": 36,
+    "comments": "(Dahl, 1962) note that there is evidence for two solid phases of NbI$_{4}$, and the later compilation by (Villars, 2018) finds three.  The room temperature structure, shown here, is stable up to 348K.  A transition to the second high temperature phase occurs at 417K, and that phase is stable up to 503K.  Unfortunately there is no structural data for either of these high temperature phases.",
+    "notes": "$\\alpha$-NiI$_{4}$",
+    "ccdc": null,
+    "icsd": "23916"
 }

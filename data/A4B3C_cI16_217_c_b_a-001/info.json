@@ -19,5 +19,9 @@
     "alias": "A4B3C_cI16_217_c_b_a-001",
     "number_of_species": 3,
     "pearson_symbol": "cI16",
-    "space_group_number": 217
+    "space_group_number": 217,
+    "comments": "When $x_{3} = 1/4$ all of the atoms are on the sites of a \\href{current_web_home_dir/A_cI2_229_a-001}{body-centered cubic lattice}, and this structure becomes identical with our \\href{current_web_home_dir/AB4C3_cI16_229_a_c_b-001}{model $cI16$ ferrite structure}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "16572"
 }

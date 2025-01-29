@@ -26,5 +26,9 @@
     "alias": "A6BC_hP16_163_i_b_c",
     "number_of_species": 3,
     "pearson_symbol": "hP16",
-    "space_group_number": 163
+    "space_group_number": 163,
+    "comments": "The (2i) site, which we show as occupied by fluorine, is actually occupied by a random mixture of fluorine atoms (67\\%) and OH radicals (33\\%). \n Although the replacement of fluorine by OH does not affect the shape of the Sb-(F,OH)$_{6}$ ions, it has a profound effect on the structure, as can be seen by looking at \\href{current_web_home_dir/A6BC_cP32_205_d_a_b-001}{NaSbF$_{6}$} and \\href{current_web_home_dir/AB6C_tP32_86_c_3g_d-001}{NaSb(OH)$_{6}$ ($J1_{11}$)}.",
+    "notes": "$J1_{12}$",
+    "ccdc": null,
+    "icsd": "25539"
 }

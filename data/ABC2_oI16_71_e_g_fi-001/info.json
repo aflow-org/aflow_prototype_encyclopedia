@@ -29,5 +29,9 @@
     "alias": "ABC2_oI16_71_g_i_eh",
     "number_of_species": 3,
     "pearson_symbol": "oI16",
-    "space_group_number": 71
+    "space_group_number": 71,
+    "comments": "This structure is stable at 100K and above.  At 40K the structure is triclinic, with as yet undetermined atomic positions. (Ito, 1985)",
+    "notes": "Stable above 100K",
+    "ccdc": null,
+    "icsd": "53234"
 }

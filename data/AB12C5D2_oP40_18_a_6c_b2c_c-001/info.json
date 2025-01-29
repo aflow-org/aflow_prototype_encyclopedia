@@ -79,5 +79,9 @@
     "alias": "AB12C5D2_oP40_18_a_6c_b2c_c",
     "number_of_species": 4,
     "pearson_symbol": "oP40",
-    "space_group_number": 18
+    "space_group_number": 18,
+    "comments": "The ICSD entry has Wyckoff coordinates that significantly disagree with the those in (Richter, 2016).  We use the values from Table 2 of that paper.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "31831"
 }

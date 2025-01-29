@@ -20,5 +20,9 @@
     "alias": "AB3_tP4_123_a_ce",
     "number_of_species": 2,
     "pearson_symbol": "tP4",
-    "space_group_number": 123
+    "space_group_number": 123,
+    "comments": "This is a tetragonal distortion of the \\href{current_web_home_dir/AB3_cP4_221_a_c-001}{$L1_{2}$ (Cu$_{3}$Au) structure}. When $c = a$ the atoms are at the positions of a face-centered cubic lattice. If we replace the Ti-I atom by Cu, then the system reduces to the \\href{current_web_home_dir/AB_tP2_123_a_d-001}{$L1_{0}$ (CuAu) structure}. Interestingly, (Massalski, 1986) lists no stable or metastable structures with composition CuTi$_{3}$. (Bystr\\\"{o}m, 1947) do find a phase of CdAu$_{3}$ which they say has this structure.",
+    "notes": "$L6_{0}$",
+    "ccdc": null,
+    "icsd": "103130"
 }

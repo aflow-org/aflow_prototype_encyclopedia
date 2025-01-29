@@ -131,5 +131,9 @@
     "alias": "A2B_mC144_15_12f_6f-001",
     "number_of_species": 2,
     "pearson_symbol": "mC144",
-    "space_group_number": 15
+    "space_group_number": 15,
+    "comments": "Cu$_{2}$Se exists in two forms: \\begin{itemize} \\item This \\href{current_web_home_dir/A2B_mC144_15_12f_6f-001}{low-temperature layered monoclinic structure}, and \\item a high-temperature (above $\\approx$ 400K) \\href{current_web_home_dir/A18B_cF76_225_c2f_a-001}{highly disordered superionic cubic structure}. \\end{itemize} ~ \\vspace{-.25in} \n The data for the rhombohedral phase was taken at room temperature, while the high temperature structure was examined at 415 K.",
+    "notes": "LT",
+    "ccdc": null,
+    "icsd": "none"
 }

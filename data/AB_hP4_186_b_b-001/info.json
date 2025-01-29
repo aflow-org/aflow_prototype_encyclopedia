@@ -24,5 +24,9 @@
     "alias": "AB_hP4_186_b_b",
     "number_of_species": 2,
     "pearson_symbol": "hP4",
-    "space_group_number": 186
+    "space_group_number": 186,
+    "comments": "This is the hexagonal analog of \\href{current_web_home_dir/AB_cF8_216_a_c-001}{zincblende ($B3$)}, {\\em i.e.} the stacking of the ZnS dimers along the (0001) direction is ABABAB\\dots~ Replacing both the Zn and S atoms by C (or Si) gives the hexagonal diamond structure. The ``ideal'' structure, where the nearest-neighbor environment of each atom is the same as in zincblende, is achieved when we take $c/a=\\sqrt{8/3}$ and $z_{2}=1/8$. In the extreme case $z_{2}=1/2$ this structure becomes the \\href{current_web_home_dir/AB_hP4_194_c_d-001}{BN ($B_{k}$) structure}. \n We have arbitrarily chosen the $z_{2}$ parameter for the zinc atoms to be zero, as allowed by space group $P6_{3}mc$ \\#186.",
+    "notes": "$B4$, Wurtzite",
+    "ccdc": null,
+    "icsd": "67453"
 }

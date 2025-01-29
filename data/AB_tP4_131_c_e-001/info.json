@@ -20,5 +20,9 @@
     "alias": "AB_tP4_131_c_e",
     "number_of_species": 2,
     "pearson_symbol": "tP4",
-    "space_group_number": 131
+    "space_group_number": 131,
+    "comments": "Actual samples of cooperite have the chemical formula PtS$_{x}$, with $0.9 < x < 1.1$.  If there is an excess of platinum, these atoms subsitute for sulfur on the (2e) site, and excess sulfur substitutes for platinum on the (2c) site. \n Previous versions of this page incorrectly used a = 4.9073{\\AA}.  We have changed this to the correct value of 3.47{\\AA}.  We thank Dr. Frank Hoffmann of the University of Hamburg for point out this error.",
+    "notes": "$B17$, Cooperite",
+    "ccdc": null,
+    "icsd": "654379"
 }

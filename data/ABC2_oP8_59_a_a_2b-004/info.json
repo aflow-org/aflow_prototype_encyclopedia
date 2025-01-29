@@ -29,5 +29,9 @@
     "alias": "ABC2_oP8_59_a_a_2b-004",
     "number_of_species": 3,
     "pearson_symbol": "oP8",
-    "space_group_number": 59
+    "space_group_number": 59,
+    "comments": "FeLiO$_{2}$ exhibits a wide variety of structures, with the exact structure present depends on thermodynamic effects, preparation methods, and charge/discharge history. \n We follow the nomenclature of (Kanno, 1996), where appropriate, with modifications found in (Tabuchi, 1995) and (Abdel-Ghany, 2012). The following list of structures is no doubt incomplete: \\begin{itemize} \\item $\\alpha$-LiFeO$_{2}$ is in the \\href{current_web_home_dir/AB_cF8_225_a_b-001}{cubic rock salt ($B1$) structure}, with lithium and iron randomly placed on the sodium site and oxygen on the chlorine site. It is synthesized at temperatures above $600^{\\circ}$C. \\item \\href{current_web_home_dir/AB_tI4_139_a_b-003}{$\\beta$-LiFeO$_{2}$} is a tetragonal distortion of $\\alpha$-LiFeO$_{2}$ with the lithium and iron atoms still randomly placed on their sublattice. \\item \\href{current_web_home_dir/ABC2_mC32_15_2e_2e_2f-002}{$\\beta'$-LiFeO$_{2}$} is monoclinic and transforms to $\\gamma$-LiFeO$_{2}$ near room temperature.  This is likely the phase (Kanno, 1996) refers to as $\\beta$-LiFeO$_{2}$. \\item \\href{current_web_home_dir/ABC2_tI16_141_a_b_e-003}{$\\gamma$-LiFeO$_{2}$} is created by low-temperature synthesis below $500^{\\circ}$C and can be considered as an ordered version of $\\alpha$-LiFeO$_{2}$, with a doubled unit cell. \\item \\href{current_web_home_dir/ABC2_oP8_59_a_a_2b-004}{o-LiFeO$_{2}$} (this structure) is orthorhombic, produced by an ion exchange interaction. It is (meta)-stable below $400^{\\circ}$C, transforming to $\\alpha$-LiFeO$_{2}$ above $600^{\\circ}$C. \\end{itemize} ~ \\vspace{-.25in} \n We used the data for the sample of o-LiFeO$_{2}$ studied by (Kanno, 1996) by X-ray diffraction.  It has moderate disorder.  The Fe (2a) site is 91\\% iron and 9\\% lithium, while the Li (2a) site is 91\\% lithium and 9\\% iron.",
+    "notes": "o-LiFeO$_{2}$",
+    "ccdc": null,
+    "icsd": "none"
 }

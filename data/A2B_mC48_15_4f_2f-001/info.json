@@ -59,5 +59,9 @@
     "alias": "A2B_mC48_15_4f_2f-001",
     "number_of_species": 2,
     "pearson_symbol": "mC48",
-    "space_group_number": 15
+    "space_group_number": 15,
+    "comments": "SnF$_{2}$ is found in three structures: \\begin{itemize} \\item \\href{current_web_home_dir/A2B_mC48_15_4f_2f-001}{monoclinic $\\alpha$-SnF$_{2}$} (this structure), the ground state \\item \\href{current_web_home_dir/A2B_oP12_19_2a_a-002}{orthorhombic $\\beta$-SnF$_{2}$}, formed from $\\gamma$-SnF$_{2}$ on cooling below $67^{\\circ}$C, and \\item tetragonal $\\gamma$-SnF$_{2}$, produced by heating $\\alpha$-SnF$_{2}$ above $180^{\\circ}C$, forming in the \\href{current_web_home_dir/A2B_tP12_92_b_a-002}{$\\alpha$-TeO$_{2}$ structure}. \\end{itemize}",
+    "notes": "$\\alpha$-SnF$_{2}$",
+    "ccdc": null,
+    "icsd": "308"
 }

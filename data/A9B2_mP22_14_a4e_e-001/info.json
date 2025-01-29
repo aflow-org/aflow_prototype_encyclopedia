@@ -54,5 +54,9 @@
     "alias": "A9B2_mP22_14_a4e_e",
     "number_of_species": 2,
     "pearson_symbol": "mP22",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "comments": "(Douglas, 1950) gives the Wyckoff positions in terms of the $P2_1/a$ setting of space group \\#14.  We have rotated the axes to change this to our standard $P2_1/c$ orientation.",
+    "notes": "$D8_{d}$",
+    "ccdc": null,
+    "icsd": "57598"
 }

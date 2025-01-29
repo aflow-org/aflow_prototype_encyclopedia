@@ -26,5 +26,9 @@
     "alias": "A3B5_tI32_140_ah_cl",
     "number_of_species": 2,
     "pearson_symbol": "tI32",
-    "space_group_number": 140
+    "space_group_number": 140,
+    "comments": "We have been unable to obtain a copy of (Bertaut, 1953), so we use the data found online from (Downs, 2003). Although Cr$_{5}$B$_{3}$ is universally regarded as the prototype for $D8_{l}$, it appears that no other determination of the internal parameters has ever been made. The values found in (Downs, 2003) seem to be reasonable choices, and agree with the ICSD entry.",
+    "notes": "$D8_{l}$",
+    "ccdc": null,
+    "icsd": "27124"
 }

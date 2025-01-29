@@ -63,5 +63,9 @@
     "alias": "AB6_oP28_29_a_6a",
     "number_of_species": 2,
     "pearson_symbol": "oP28",
-    "space_group_number": 29
+    "space_group_number": 29,
+    "notes": "Mercury (II) Azide",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "21029"
 }

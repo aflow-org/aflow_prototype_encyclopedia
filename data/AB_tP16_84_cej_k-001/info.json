@@ -30,5 +30,9 @@
     "alias": "AB_tP16_84_cej_k",
     "number_of_species": 2,
     "pearson_symbol": "tP16",
-    "space_group_number": 84
+    "space_group_number": 84,
+    "notes": "$B34$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "22429"
 }

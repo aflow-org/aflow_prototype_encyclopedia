@@ -29,5 +29,9 @@
     "alias": "A3B2C9_oF56_69_ag_g_bfgl-001",
     "number_of_species": 3,
     "pearson_symbol": "oF56",
-    "space_group_number": 69
+    "space_group_number": 69,
+    "comments": "Aurivillius phases are layered tetragonal materials with composition (Me$'_{2}$O$_{2}$)$^{2+}$(Me$_{m-1}$R$_{m}$O$_{3m+1}$)$^{2-}$ (Me$_{m-1}$Me$'_{2}$R$_{m}$O$_{3(m+1)}$), where Me and Me' are metals and R is a transition metal with a charge of +4 or +5. (Subbaro, 1962) \n This is the original structural determination by (Aurivillius, 1949).  The niobium and titanium atoms equally occupy the same (8g) site.  We have arbitrarily labeled this as ``Nb.'' \n Crystals such as BaBi$_{2}$Nb$_{2}$O$_{9}$ put the non-bismuth atom on the (4a) site, and the niobium site can be occupied by niobium, tantalum, and/or titanium. (Aurivillius, 1949) \n We have swapped Aurivillius's $x$- and $z$-axes.",
+    "notes": "$m = 2$ Aurivillius",
+    "ccdc": null,
+    "icsd": "24734"
 }

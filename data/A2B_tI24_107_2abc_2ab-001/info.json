@@ -35,5 +35,9 @@
     "alias": "A2B_tI24_107_2abc_2ab-001",
     "number_of_species": 2,
     "pearson_symbol": "tI24",
-    "space_group_number": 107
+    "space_group_number": 107,
+    "comments": "At temperatures above 83$^\\circ$C UP$_{2}$ transforms into its \\href{current_web_home_dir/A2B_tP6_129_ac_c-002}{high-temperature structure}. (Gerward, 1990) \n The current structure is very close to the \\href{current_web_home_dir/A2B_tP6_129_ac_c-001}{Cu$_{2}$Sb ($C38)$ structure}.  Indeed, if we allow an uncertainty of 0.3{\\AA} FINDSYM puts this in the $C38$ structure. \n The ICSD entry is from the earlier work of (Pietrasko, 1971).",
+    "notes": "LT",
+    "ccdc": null,
+    "icsd": "87138"
 }

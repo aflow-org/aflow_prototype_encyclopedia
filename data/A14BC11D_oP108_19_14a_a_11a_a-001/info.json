@@ -184,5 +184,9 @@
     "alias": "A14BC11D_oP108_19_14a_a_11a_a",
     "number_of_species": 4,
     "pearson_symbol": "oP108",
-    "space_group_number": 19
+    "space_group_number": 19,
+    "comments": "We use the structure from the 25K neutron data taken by (Ptasiewicz-Bak, 1997).",
+    "notes": "$H4_{12}$, Morenosite",
+    "ccdc": null,
+    "icsd": "84569"
 }

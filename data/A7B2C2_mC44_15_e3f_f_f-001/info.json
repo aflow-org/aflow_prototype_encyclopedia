@@ -55,5 +55,9 @@
     "alias": "A7B2C2_mC44_15_e3f_f_f",
     "number_of_species": 3,
     "pearson_symbol": "mC44",
-    "space_group_number": 15
+    "space_group_number": 15,
+    "notes": "$\\alpha$-Zn$_{2}$V$_{2}$O$_{7}$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "2886"
 }

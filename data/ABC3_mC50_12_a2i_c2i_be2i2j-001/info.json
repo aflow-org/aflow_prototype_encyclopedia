@@ -59,5 +59,9 @@
     "alias": "ABC3_mC50_12_a2i_c2i_be2i2j-001",
     "number_of_species": 3,
     "pearson_symbol": "mC50",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "comments": "BaIrO$_{3}$ is a distorted perovskite which has a number of phase transitions with increasing pressure (Cheng, 2009; Cheng, 2013). \n (Cheng, 2009) label the structures by the approximate stacking of the BaO$_{3}$ layers. \\begin{itemize} \\item 0-3 GPa: \\href{current_web_home_dir/ABC3_mC60_12_3i_ac2i_3i3j-001}{the ground state $\\alpha$-BaIrO$_{3}$} ``9R'' structure, in space group $C2/m$ \\#12. \\item 3-5 GPa: \\href{current_web_home_dir/ABC3_mC50_12_a2i_c2i_be2i2j-001}{$\\beta$-BaIrO$_{3}$} ``5H'' structure, also in space group $C2/m$ \\#12. (this structure) \\item 5-18 GPa: $\\gamma$-BaIrO$_{3}$, which has the \\href{current_web_home_dir/}{SrIrO$_{3}$} ``6H'' structure. \\item 18-?? GPa:  $\\delta$-BaIrO$_{3}$ is in the \\href{current_web_home_dir/A3BC_tI20_140_ah_b_c-002}{tetragonal $\\gamma$-SrZrO$_{3}$} structure. \\item Presumably at some point above 25 GPa the compound transforms into the \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite ($E2_{1}$)} ``3C'' structure. \\end{itemize} ~ \\vspace{-.25in} \n AFLOW moved the origin from the Ir I site to the Ba I site, a shift of 1/2($\\bf{a}_{1} + \\bf{a}_{2} + \\bf{a}_{3}$).",
+    "notes": "$\\beta$-BaIrO$_{3}$",
+    "ccdc": null,
+    "icsd": "173849"
 }

@@ -34,5 +34,9 @@
     "alias": "AB4C_oC24_63_c_fg_c",
     "number_of_species": 3,
     "pearson_symbol": "oC24",
-    "space_group_number": 63
+    "space_group_number": 63,
+    "comments": "(Hawthorne, 1975) give the structure in the $Amma$ setting of space group \\#63. We have transformed this to the standard $Cmcm$ setting. \n The addition of water into the anhydrite crystal transforms it into \\href{current_web_home_dir/AB4C6D_mC48_15_e_2f_3f_e-001}{gypsum}.",
+    "notes": "$H0_{1}$ Anhydrite",
+    "ccdc": null,
+    "icsd": "40043"
 }

@@ -23,5 +23,9 @@
     "alias": "A3B4_tI28_141_ad_h",
     "number_of_species": 2,
     "pearson_symbol": "tI28",
-    "space_group_number": 141
+    "space_group_number": 141,
+    "notes": "Haussmannite",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "68174"
 }

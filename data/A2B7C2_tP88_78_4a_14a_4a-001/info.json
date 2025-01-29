@@ -151,5 +151,9 @@
     "alias": "A2B7C2_tP88_78_4a_14a_4a",
     "number_of_species": 3,
     "pearson_symbol": "tP88",
-    "space_group_number": 78
+    "space_group_number": 78,
+    "comments": "This structure may also be found in the enantiomorphic space group $P4_{1}$ \\#76.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "190008"
 }

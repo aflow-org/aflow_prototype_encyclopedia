@@ -109,5 +109,9 @@
     "alias": "A19B44_tI252_122_ac4e_2d10e-001",
     "number_of_species": 2,
     "pearson_symbol": "tI252",
-    "space_group_number": 122
+    "space_group_number": 122,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "249574"
 }

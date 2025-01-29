@@ -35,5 +35,9 @@
     "alias": "A5B9C2_tI64_139_em_d2n_h-001",
     "number_of_species": 3,
     "pearson_symbol": "tI64",
-    "space_group_number": 139
+    "space_group_number": 139,
+    "comments": "There are three known varieties of Bi$_{4}$V$_{2}$O$_{11}$ (Villars, 2018): \\begin{itemize} \\item \\href{current_web_home_dir/A3B9C2_mC112_5_6c_2a2b16c_4c-001}{$\\alpha$}, the ground state structure, stable up to $450^{\\circ}$C, \\item \\href{current_web_home_dir/A4B12C3_oC76_63_eg_fg2h_cf-001}{$\\beta$}, stable between $450^{\\circ}$C and $555^{\\circ}$C, and \\item \\href{current_web_home_dir/A5B9C2_tI64_139_em_d2n_h-001}{$\\gamma$}, stable from 555$^{\\circ}$C up to the melting point at 880$^{\\circ}$C (this structure). \\end{itemize} ~ \\vspace{-.25in} \n The data for this structure was taken at 550$^{\\circ}$C. \n Most of the Wyckoff positions here are only partially occupied:  Bi-I 50\\%, Bi-II 25\\%, O-II 23.8\\%, O-III 19.8\\%, and V 25\\%, giving a stoichiometry of Bi$_{4}$V$_{2}$O$_{10.976}$.  This structure is also sometimes described as Bi$_{2}$VO$_{5.5}$.",
+    "notes": "$\\gamma$-Bi$_{4}$V$_{2}$O$_{11}$",
+    "ccdc": null,
+    "icsd": "98587"
 }

@@ -22,5 +22,9 @@
     "alias": "AB2_hP3_164_a_d",
     "number_of_species": 2,
     "pearson_symbol": "hP3",
-    "space_group_number": 164
+    "space_group_number": 164,
+    "comments": "The $\\omega$ phase can be either \\href{current_web_home_dir/AB2_hP3_191_a_d-001}{hexagonal ($C32$)} or trigonal (shown here). The trigonal $\\omega$ phase transforms into several high-symmetry structures under certain conditions: \\begin{center} \\begin{tabular}{ccc} ${\\mathbf c/a}$ & ${\\mathbf z}$ & \\textbf{Lattice} \\\\ \\hline Arbitrary & $\\frac12$ & \\href{current_web_home_dir/AB2_hP3_191_a_d-001}{Ideal Omega ($C32$)} \\\\ $\\sqrt{\\frac38}$ & $\\frac16$ & \\href{current_web_home_dir/A_cI2_229_a-001}{Body-Centered Cubic ($A2$)} \\\\ $\\sqrt{\\frac32}$ & $\\frac16$ & \\href{current_web_home_dir/A_cP1_221_a-001}{Simple Cubic ($A_{h}$)} \\\\ $\\sqrt{6}$ & $\\frac16$ & \\href{current_web_home_dir/A_cF4_225_a-001}{Face-Centered Cubic ($A1$)} \\\\ Arbitrary & 0 & \\href{current_web_home_dir/A_hP1_191_a-001}{Simple Hexagonal Structure ($A_{f}$)} \\end{tabular} \\end{center} ~ \\vspace{-.25in} \n For more details about the omega phase and materials which form in the omega phase, see (Sikka, 1982) . As noted there, most omega phase intermetallic alloys are disordered. Although the ``$\\omega$'' label comes from $\\omega$-CrTi, (Ewald, 1931) lists the prototype for {\\em Strukturbericht} designation $C6$ as CdI$_{2}$. \n Alternative stackings for CdI$_{2}$ have been proposed, including \\href{current_web_home_dir/AB2_hP9_156_2ab_a2b3c-001}{a $6H$ stacking} and the \\href{current_web_home_dir/AB2_hP6_186_b_ab-001}{questionable $C27$ structure}.",
+    "notes": "$C6$ $\\omega$",
+    "ccdc": null,
+    "icsd": "53983"
 }

@@ -37,5 +37,9 @@
     "alias": "A3B2CD6_mC24_12_ag_h_c_ij-001",
     "number_of_species": 4,
     "pearson_symbol": "mC24",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "comments": "Some authors designate H$_{3}$LiIr$_{2}$O$_{6}$ as the prototype for this structure, but as it is much easier to locate silver atoms than hydrogen we use Ag$_{3}$LiIr$_{2}$O$_{6}$. \n We have rearranged the primitive vectors of (Bette, 2019).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "10616"
 }

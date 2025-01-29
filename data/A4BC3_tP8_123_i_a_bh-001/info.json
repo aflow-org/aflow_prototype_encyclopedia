@@ -23,5 +23,9 @@
     "alias": "A4BC3_tP8_123_i_a_bh-001",
     "number_of_species": 3,
     "pearson_symbol": "tP8",
-    "space_group_number": 123
+    "space_group_number": 123,
+    "comments": "The standard AFLOW label moves the origin from the S-I atom reported by (Brown, 1980) to the K-I atom.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "23336"
 }

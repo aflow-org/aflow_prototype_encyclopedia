@@ -25,5 +25,9 @@
     "alias": "AB_oI4_44_a_b",
     "number_of_species": 2,
     "pearson_symbol": "oI4",
-    "space_group_number": 44
+    "space_group_number": 44,
+    "comments": "This is a high-pressure phase of GaAs, stable above 24 GPa. The experimental data used here was taken at a pressure of 28.1 GPa. Without loss of generality we can take $z_{1}=0$. When $a=b$ and $z_{2}=z_{1}+1/4$ this structure becomes the \\href{current_web_home_dir/A_tI4_141_a-001}{$\\beta$-Sn (A5)} structure.",
+    "notes": "$>$ 24 GPa",
+    "ccdc": null,
+    "icsd": "43950"
 }

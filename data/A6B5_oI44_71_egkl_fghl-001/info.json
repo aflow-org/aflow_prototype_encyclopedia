@@ -39,5 +39,9 @@
     "alias": "A6B5_oI44_71_egkl_fghl-001",
     "number_of_species": 2,
     "pearson_symbol": "oI44",
-    "space_group_number": 71
+    "space_group_number": 71,
+    "comments": "(Ogren, 1965) state that what we have labeled the Sn-II (4g) site is only occupied 92\\% of the time. \n (Villars, 2018) and others use Ti$_{6}$Sn$_{5}$ as the prototype for this structure. We follow (Pearson, 1967) and use Nb$_{6}$Sn$_{5}$ as the prototype.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "105232"
 }

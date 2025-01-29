@@ -37,5 +37,9 @@
     "alias": "A3B6C_hR20_148_f_2f_ab-001",
     "number_of_species": 3,
     "pearson_symbol": "hR20",
-    "space_group_number": 148
+    "space_group_number": 148,
+    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "23611"
 }

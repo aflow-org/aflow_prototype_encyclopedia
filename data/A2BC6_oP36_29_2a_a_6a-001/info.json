@@ -75,5 +75,9 @@
     "alias": "A2BC6_oP36_29_2a_a_6a-001",
     "number_of_species": 3,
     "pearson_symbol": "oP36",
-    "space_group_number": 29
+    "space_group_number": 29,
+    "comments": "This is the room temperature structure of Bi$_{2}$MoO$_{6}$.  Above 896$^{\\circ}$C it transforms to the \\href{current_web_home_dir/A2BC6_mP144_14_8e_4e_24e-001}{high-temperature monoclinic Bi$_{2}$MoO$_{6}$ structure} (Villars, 2018). \n (Teller, 1984) state that $\\gamma$-Bi$_{2}$MoO$_{6}$ is in  the $Pna2_{1}$ \\#33 space group, but the symmetry operations they give are for $Pca2_{1}$ \\#29, and interatomic distances they give are consistent with this space group.  The ICSD, (Villars, 2018), and others are in agreement with this assessment. \n Space group $Pca2_{1}$ does not specify the origin of the $z$-axis.  We follow (Teller, 1984) and chose it so that the molybdenum atom has $z_{3} = 0$.",
+    "notes": "Koechlinite (RT)",
+    "ccdc": null,
+    "icsd": "47139"
 }

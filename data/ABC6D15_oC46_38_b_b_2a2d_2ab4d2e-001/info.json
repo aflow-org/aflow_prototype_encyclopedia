@@ -67,5 +67,9 @@
     "alias": "ABC6D15_oC46_38_b_b_2a2d_2ab4d2e",
     "number_of_species": 4,
     "pearson_symbol": "oC46",
-    "space_group_number": 38
+    "space_group_number": 38,
+    "comments": "The X-ray scattering of an F$^{-}$ ion is almost identical to that of O$^{-2}$, and (Andersson, 1965) was not able to distinguish between them.  He arbitrarily labeled the (2b) site he designated as O(1) as the location of the fluorine ion and we follow this, but in reality we have no idea if the F$^{-}$ ions are located on this site, are ordered on another site, or are statistically distributed on the oxygen sites. Presumably the same considerations hold for the OH radical in NaNb$_{6}$O$_{15}$(OH). \n Andersson sets $z_{4} = 0.159$ as the coordinate of what we label as O-II and he calls O(10), but this gives an unreasonably short distance between the Nb-II and O-II atoms, and the distances between the O-II atom and the other atoms in the structure does not agree with the distances given his paper.  If we assume that the first two digits were transposed when printed, so that $z_{4} = 0.519$, we get within 0.1\\% of Andersson's distances.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "24109"
 }

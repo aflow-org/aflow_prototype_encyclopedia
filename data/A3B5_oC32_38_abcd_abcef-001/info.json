@@ -51,5 +51,9 @@
     "alias": "A3B5_oC32_38_abce_abcdf",
     "number_of_species": 2,
     "pearson_symbol": "oC32",
-    "space_group_number": 38
+    "space_group_number": 38,
+    "comments": "This is a special quasirandom structure with 16 atoms per unit cell (SQS-16) for a bcc binary substitutional alloy A$_{x}$B$_{1-x}$ (Jiang, 2004; Chakraborty, 2016)). \n Several compositions are available: \\begin{itemize} \\item \\href{current_web_home_dir/AB7_hR16_166_c_c2h-001}{TaTi$_{7}$ (AB7\\_hR16\\_166\\_c\\_c2h)}, \\item \\href{current_web_home_dir/A3B13_oC32_38_ac_a2bcdef-001}{Ta$_{3}$Ti$_{13}$ (A3B13\\_oC32\\_38\\_ac\\_a2bcdef)}, \\item \\href{current_web_home_dir/AB3_mC32_8_4a_12a-001}{TaTi$_{3}$-I (AB3\\_mC32\\_8\\_4a\\_12a)} , \\item \\href{current_web_home_dir/AB3_mC32_8_4a_4a4b-001}{TaTi$_{3}$-II (AB3\\_mC32\\_8\\_4a\\_4a4b)}, \\item \\href{current_web_home_dir/A5B11_mP16_6_2abc_2a3b3c-001}{Ta$_{5}$Ti$_{11}$ (A5B11\\_mP16\\_6\\_2abc\\_2a3b3c)}, \\item \\href{current_web_home_dir/A3B5_oC32_38_abcd_abcef-001}{Ta$_{3}$Ti$_{8}$ (A3B5\\_oC32\\_38\\_abce\\_abcdf)} (this structure), \\item \\href{current_web_home_dir/AB_aP16_2_4i_4i-001}{TaTi (AB\\_aP16\\_2\\_4i\\_4i)}. \\end{itemize}",
+    "notes": "BCC SQS-16",
+    "ccdc": null,
+    "icsd": "none"
 }

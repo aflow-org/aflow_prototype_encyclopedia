@@ -39,5 +39,9 @@
     "alias": "A2B_mP12_13_2g_ef",
     "number_of_species": 2,
     "pearson_symbol": "mP12",
-    "space_group_number": 13
+    "space_group_number": 13,
+    "comments": "This structure was found by first-principles electronic structure calculations and is predicted to be the stable structure of H$_{2}$S in the range $10 - 30$~GPa, which does not agree with the experimental phase diagram (Shimizu, 1995).  The data presented here was computed at 15~GPa.",
+    "notes": "HP, Theory",
+    "ccdc": null,
+    "icsd": "none"
 }

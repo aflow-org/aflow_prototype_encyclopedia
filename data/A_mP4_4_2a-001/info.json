@@ -35,5 +35,9 @@
     "alias": "A_mP4_4_2a",
     "number_of_species": 1,
     "pearson_symbol": "mP4",
-    "space_group_number": 4
+    "space_group_number": 4,
+    "comments": "This is a high-pressure phase of tellurium, stable in the 4-7 GPa range. The ground state of Te appears to be in the \\href{current_web_home_dir/A_hP3_152_a-001}{$\\gamma$Se ($A8$)} structure. \n We use the data taken by (Aoki, 1980) at 4.5 GPa.",
+    "notes": "4-7 GPa",
+    "ccdc": null,
+    "icsd": "52501"
 }

@@ -89,5 +89,9 @@
     "alias": "A4BC6_mC44_9_4a_a_6a-001",
     "number_of_species": 3,
     "pearson_symbol": "mC44",
-    "space_group_number": 9
+    "space_group_number": 9,
+    "comments": "The is apparently the GeCd$_{4}$S$_{5}$ found in (Pearson, 1967).  See the discussion in (Susa, 1971).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "26214"
 }

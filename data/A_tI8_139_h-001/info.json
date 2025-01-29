@@ -21,5 +21,9 @@
     "alias": "A_tI8_139_h",
     "number_of_species": 1,
     "pearson_symbol": "tI8",
-    "space_group_number": 139
+    "space_group_number": 139,
+    "comments": "This structure was proposed in (Schultz, 1999) to show that it was energetically possible to form four-member rings in amorphous sp$^{3}$ carbon structures.",
+    "notes": "Hypothetical",
+    "ccdc": null,
+    "icsd": "none"
 }

@@ -35,5 +35,9 @@
     "alias": "A5B2_mC14_12_a2i_i",
     "number_of_species": 2,
     "pearson_symbol": "mC14",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "comments": "As noted by (Pearson, 1972), this structure is very nearly cubic close-packed. As such, it is frequently used for cluster expansion models. \n (Humble, 1964) puts this structure in space group $Cc$ \\#5, but the coordinates given are consistent with space group $C2/m$ \\#12.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "144447"
 }

@@ -57,5 +57,9 @@
     "alias": "ABC8D2_mC48_15_e_e_4f_f-001",
     "number_of_species": 4,
     "pearson_symbol": "mC48",
-    "space_group_number": 15
+    "space_group_number": 15,
+    "comments": "We use the structural data taken by (Biesenkamp, 2021) at 38K. \n The ICSD entry is from the earlier work of (Albinao, 2012). \n We use this as an example of the mineral wodginite.  As with all such minerals there is a wide range of disorder on the metallic sites.  For more information on wodginite see (Ercit, 1992) and the papers immediately following it in the {\\em Canadian Mineralogist}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "262314"
 }

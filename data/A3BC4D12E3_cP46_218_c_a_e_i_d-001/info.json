@@ -26,5 +26,9 @@
     "alias": "A3BC4D12E3_cP46_218_d_a_e_i_c",
     "number_of_species": 5,
     "pearson_symbol": "cP46",
-    "space_group_number": 218
+    "space_group_number": 218,
+    "comments": "Sodalites of the form A$_{4}$(AlSiO$_{4}$)$_{3}$B with (A,B) = (Li,F), (Li,Br), (Li,I), (Na,F), (K,F), (K,Br) and (Rb,F) have been predicted to form, but not seen experimentally.",
+    "notes": "$S6_{2}$, Sodalite",
+    "ccdc": null,
+    "icsd": "29443"
 }

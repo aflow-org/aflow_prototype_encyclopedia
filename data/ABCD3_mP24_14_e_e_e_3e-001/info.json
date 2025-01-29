@@ -60,5 +60,9 @@
     "alias": "ABCD3_mP24_14_e_e_e_3e",
     "number_of_species": 4,
     "pearson_symbol": "mP24",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "comments": "This is more commonly known as sodium bicarbonate or baking soda. \n (Sass, 1962) do not locate the hydrogen atoms. \n (Zachariasen, 1933) applied chemical and crystallographic reasoning and placed the hydrogen atoms halfway between each O-II atom and the nearest O-III atom. We use this structure, while realizing that the hydrogen positions are only approximate. These hydrogen atoms are not included in the ICSD entry.",
+    "notes": "$G0_{12}$, Nacolite",
+    "ccdc": null,
+    "icsd": "23868"
 }

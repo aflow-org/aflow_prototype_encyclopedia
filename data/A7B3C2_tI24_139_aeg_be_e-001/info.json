@@ -27,5 +27,9 @@
     "alias": "A7B3C2_tI24_139_aeg_be_e",
     "number_of_species": 3,
     "pearson_symbol": "tI24",
-    "space_group_number": 139
+    "space_group_number": 139,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "34629"
 }

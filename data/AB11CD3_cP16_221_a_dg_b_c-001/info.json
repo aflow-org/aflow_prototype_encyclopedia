@@ -19,5 +19,9 @@
     "alias": "AB11CD3_cP16_221_a_dg_b_c",
     "number_of_species": 4,
     "pearson_symbol": "cP16",
-    "space_group_number": 221
+    "space_group_number": 221,
+    "comments": "Ferritic steels are alloys of iron and other metals with an averaged body-centered cubic structure. This model represents one approximation for a ferritic steel. It is not meant to represent a real steel, and the selection of atom types for each Wyckoff position is arbitrary. When $x_{5}=1/4$ all the atoms are on sites of a bcc lattice. ",
+    "notes": "Model Structure",
+    "ccdc": null,
+    "icsd": "none"
 }

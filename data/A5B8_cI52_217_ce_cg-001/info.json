@@ -28,5 +28,9 @@
     "alias": "A5B8_cI52_217_ce_cg",
     "number_of_species": 2,
     "pearson_symbol": "cI52",
-    "space_group_number": 217
+    "space_group_number": 217,
+    "comments": "$\\gamma$-brass comes in a variety of compositions. See the \\href{current_web_home_dir/A3B10_cI52_229_e_fh-001}{$D8_{1}$} and \\href{current_web_home_dir/A4B9_cP52_215_ei_3efgi-001}{$D8_{3}$} structure pages for more information. \n We use the data from (Gourdon, 2007) for Cu$_{5.00}$Zn$_{8.00}$. At this composition the authors state that the sites are fully occupied. \n (Mizutani, 2010) classifies this as a ``I-cell'' $\\gamma$-brass.",
+    "notes": "$D8_{2}$, $\\gamma$-Brass",
+    "ccdc": null,
+    "icsd": "240667"
 }

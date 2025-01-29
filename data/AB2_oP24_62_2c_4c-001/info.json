@@ -45,5 +45,9 @@
     "alias": "AB2_oP24_62_2c_4c-001",
     "number_of_species": 2,
     "pearson_symbol": "oP24",
-    "space_group_number": 62
+    "space_group_number": 62,
+    "comments": "(Jobic, 1990) present the structure in the $Pnam$ setting of space group \\#62.  We used FINDSYM to convert this to the standard $Pnma$ setting.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "80569"
 }

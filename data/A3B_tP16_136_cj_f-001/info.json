@@ -25,5 +25,9 @@
     "alias": "A3B_tP16_136_cj_f-001",
     "number_of_species": 2,
     "pearson_symbol": "tP16",
-    "space_group_number": 136
+    "space_group_number": 136,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "407548"
 }

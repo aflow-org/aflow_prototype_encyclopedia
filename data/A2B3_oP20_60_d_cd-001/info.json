@@ -35,5 +35,9 @@
     "alias": "A2B3_oP20_60_d_cd",
     "number_of_species": 2,
     "pearson_symbol": "oP20",
-    "space_group_number": 60
+    "space_group_number": 60,
+    "comments": "(Villars, 2016) gives an incorrect link for the primary reference (Parth\\'{e}, 1967).  (Downs, 2003) has the correct reference.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "15344"
 }

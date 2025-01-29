@@ -56,5 +56,9 @@
     "alias": "A2B5C2_mP18_11_2e_e2f_2e",
     "number_of_species": 3,
     "pearson_symbol": "mP18",
-    "space_group_number": 11
+    "space_group_number": 11,
+    "notes": "$K0_{1}$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "60025"
 }

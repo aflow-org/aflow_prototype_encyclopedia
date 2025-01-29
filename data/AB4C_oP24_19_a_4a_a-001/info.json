@@ -57,5 +57,9 @@
     "alias": "AB4C_oP24_19_a_4a_a",
     "number_of_species": 3,
     "pearson_symbol": "oP24",
-    "space_group_number": 19
+    "space_group_number": 19,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "8117"
 }

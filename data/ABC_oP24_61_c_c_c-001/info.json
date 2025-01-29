@@ -39,5 +39,9 @@
     "alias": "ABC_oP24_61_c_c_c",
     "number_of_species": 3,
     "pearson_symbol": "oP24",
-    "space_group_number": 61
+    "space_group_number": 61,
+    "ccdc": "1226359",
+    "comments": "(Groth, 1962) are not confident about the atomic positions, saying that ``The computed values for the oxalyl chloride molecule \\dots [are probably] less reliable than those listed for the bromide molecule [COBr].'' In fact, we have not been able to reconcile their crystal structure for COBr with the distances between the atoms, so we have left that structure out of the database at this time.",
+    "notes": null,
+    "icsd": null
 }

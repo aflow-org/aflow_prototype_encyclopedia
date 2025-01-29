@@ -24,5 +24,9 @@
     "alias": "AB_tP4_129_c_c",
     "number_of_species": 2,
     "pearson_symbol": "tP4",
-    "space_group_number": 129
+    "space_group_number": 129,
+    "comments": "When $c=2a$, $z_{1}=1/8$, and $z_{2}=5/8$, the atoms are on the sites of \\href{current_web_home_dir/A_cI2_229_a-001}{a body-centered cubic lattice}. If, on the other hand, $c=2\\sqrt{2a}$, with the same $z_{i}$, the atoms are on the site of \\href{current_web_home_dir/A_cF4_225_a-001}{a face-centered cubic lattice}. This is the phase that (Lu, 1991) refer to as ``Z2''.",
+    "notes": "$B11$, $\\gamma$-CuTi",
+    "ccdc": null,
+    "icsd": "629389"
 }

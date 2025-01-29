@@ -21,5 +21,9 @@
     "alias": "A3B2C2_hR7_166_d_ab_c",
     "number_of_species": 3,
     "pearson_symbol": "hR7",
-    "space_group_number": 166
+    "space_group_number": 166,
+    "notes": "Shandite",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "417632"
 }

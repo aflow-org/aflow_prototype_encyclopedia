@@ -23,5 +23,9 @@
     "alias": "A2B2C_tP10_131_j_l_f-001",
     "number_of_species": 3,
     "pearson_symbol": "tP10",
-    "space_group_number": 131
+    "space_group_number": 131,
+    "comments": "(Bauer, 1980) placed this structure in space group $P\\overline{4}2c$ \\#112, with lanthanum atoms at the (2a) Wyckoff site, boron at (4h), and carbon at (4i).  (Cenzual, 1991) showed that these Wyckoff positions imply an inversion site not present in $P\\overline{4}2c$, and so the true space group is $P4_{2}/mmc$ \\#131.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "23300"
 }

@@ -33,5 +33,9 @@
     "alias": "A4BC_oC24_65_gip_h_j-001",
     "number_of_species": 3,
     "pearson_symbol": "oC24",
-    "space_group_number": 65
+    "space_group_number": 65,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "41819"
 }

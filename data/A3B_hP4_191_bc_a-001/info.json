@@ -19,5 +19,9 @@
     "alias": "A3B_hP4_191_bc_a",
     "number_of_species": 2,
     "pearson_symbol": "hP4",
-    "space_group_number": 191
+    "space_group_number": 191,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "95939"
 }

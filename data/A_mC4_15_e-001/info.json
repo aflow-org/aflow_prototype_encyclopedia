@@ -25,5 +25,9 @@
     "alias": "A_mC4_15_e",
     "number_of_species": 1,
     "pearson_symbol": "mC4",
-    "space_group_number": 15
+    "space_group_number": 15,
+    "comments": "This was proposed as a metastable structure of gallium, visible for short times at atomospheric pressure.  The true structure is isostructural with \\href{current_web_home_dir/A_tI2_139_a-001}{indium ($A6$)}, and stablized under pressure.",
+    "notes": "$\\beta$-Ga ({\\em Obsolete})",
+    "ccdc": null,
+    "icsd": "23247"
 }

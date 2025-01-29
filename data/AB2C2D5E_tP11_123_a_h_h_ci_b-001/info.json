@@ -25,5 +25,9 @@
     "alias": "AB2C2D5E_tP11_123_a_h_h_ci_b-001",
     "number_of_species": 5,
     "pearson_symbol": "tP11",
-    "space_group_number": 123
+    "space_group_number": 123,
+    "comments": "The copper and iron (2h) sites are each only 50\\% occupied. \n If we remove the copper atoms and fully occupy the iron sites this structure is very similar to the \\href{current_web_home_dir/AB2C5D_oP18_51_a_2f_2efj_c-001}{$Pmma$ (\\#51)} and \\href{current_web_home_dir/AB2C5D_oP9_47_a_l_gjk_b-001}{$Pmmm$ (\\#47)} structures of YBaFe$_{2}$O$_{5}$, and in our opinion is quite likely the high-temperature phase of that compound.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "79350"
 }

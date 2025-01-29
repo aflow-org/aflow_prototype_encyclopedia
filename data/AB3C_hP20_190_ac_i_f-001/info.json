@@ -28,5 +28,9 @@
     "alias": "AB3C_hP20_190_ac_i_f",
     "number_of_species": 3,
     "pearson_symbol": "hP20",
-    "space_group_number": 190
+    "space_group_number": 190,
+    "comments": "(H\\\"{a}gg, 1932) states that the space group might be $P6_{3}22$ \\#182 or P(-6)c2 \\#188.  We follow (Downs, 2003) and use the later. \n (H\\\"{a}gg, 1932) and (Downs, 2003) set the sulfur coordinate $z_{3} = 0.73$.  As noted by (Hermann, 1937), this gives a very short S-S bond distance, on the order of 0.5{\\AA}.  We use the value suggested by (Hermann, 1937), $z_{3} = 0.66$, ``which gives the S$_{2}$O$_{6}$ group exactly the same shape it has in \\href{current_web_home_dir/AB3C_hP30_150_ef_3g_c2d-001}{K$_{2}$S$_{2}$O$_{6}$ [{\\em Strukturbericht} $K1_{1}$].''}",
+    "notes": "$K1_{2}$",
+    "ccdc": null,
+    "icsd": "26895"
 }

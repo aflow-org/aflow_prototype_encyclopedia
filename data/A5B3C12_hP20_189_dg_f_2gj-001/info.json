@@ -31,5 +31,9 @@
     "alias": "A5B3C12_hP20_189_dg_f_2gj-001",
     "number_of_species": 3,
     "pearson_symbol": "hP20",
-    "space_group_number": 189
+    "space_group_number": 189,
+    "comments": "The data for this structure was taken at 90K. \n There is no ICSD entry for (Wakeshima, 2003).  We use the entry from (Cao, 2007), which the authors say is in agreement with the Wakeshima result.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "120112"
 }

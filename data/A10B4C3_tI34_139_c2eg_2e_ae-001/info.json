@@ -31,5 +31,9 @@
     "alias": "A10B4C3_tI34_139_c2eg_2e_ae",
     "number_of_species": 3,
     "pearson_symbol": "tI34",
-    "space_group_number": 139
+    "space_group_number": 139,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "34630"
 }

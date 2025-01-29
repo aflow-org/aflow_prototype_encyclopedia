@@ -39,5 +39,9 @@
     "alias": "A_oP24_58_eg2h-001",
     "number_of_species": 1,
     "pearson_symbol": "oP24",
-    "space_group_number": 58
+    "space_group_number": 58,
+    "comments": "We follow the notation of and (Donohue, 1974) and call this S$_{12}$ sulfur.  Alternatively this can be called cyclododecasulfur. (Schmidt, 1966) \n We use the data in (Lin, 1970), but note that the Wyckoff positions given on page 30 are not consistent with space group $Pnnm$ \\#58, found in (Kutoglu, 1966).  Instead, they appear to be rotated so that $(x y z) \\rightarrow (-z y -x)$, even though the lattice parameters are not similarly rotated.  We rotated the coordinates to match those found in (Donohue, 1974).  This gives the correct distances and angles in the 12-atom sulfur rings given by all the above authors. \n We take our data from (Lin, 1970), but this was never filed with the ICSD.  Instead we use the ICSD entry from (Steidel, 1981).",
+    "notes": "S$_{12}$ Sulfur",
+    "ccdc": null,
+    "icsd": "26463"
 }

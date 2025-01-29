@@ -24,5 +24,9 @@
     "alias": "A2B3_tP10_127_g_ah",
     "number_of_species": 2,
     "pearson_symbol": "tP10",
-    "space_group_number": 127
+    "space_group_number": 127,
+    "comments": "If we consider the Si$_{2}$ dimers as a pseudo-atom then this is a tetragonal distortion of the \\href{current_web_home_dir/AB3_cP4_221_a_c-001}{Cu$_{3}$Au ($L1_{2}$) structure}. \n \\href{current_web_home_dir/A2BC2_tP10_127_g_a_h-002}{Mo$_{2}$FeB$_{2}$} is the ternary form of this structure. \n We use the lattice constants taken by (Remsching, 1992) at 1200$^\\circ$C, while the ICSD entry uses what are apparently the room temperature values.",
+    "notes": "$D5_{a}$",
+    "ccdc": null,
+    "icsd": "73695"
 }

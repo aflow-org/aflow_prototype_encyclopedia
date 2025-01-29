@@ -39,5 +39,9 @@
     "alias": "AB4C8_hR13_160_a_ab_2a2b",
     "number_of_species": 3,
     "pearson_symbol": "hR13",
-    "space_group_number": 160
+    "space_group_number": 160,
+    "comments": "At temperatures below 45K GaMo$_{4}$S$_{8}$ transforms from its \\href{current_web_home_dir/AB4C8_cF52_216_a_e_2e-001}{high-temperature cubic structure} to this rhombohedral structure. \n We use the data from (Fran\\c{c}ois, 1991) at 8K. \n Space group $R3m$ \\#160 allows a arbitrary choice of the zero of the $z$-axis.  Here we use this freedom to place the gallium atom at the origin ($z_{1} = 0$).",
+    "notes": "$T < 45$K",
+    "ccdc": null,
+    "icsd": "33995"
 }

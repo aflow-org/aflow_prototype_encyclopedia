@@ -22,5 +22,9 @@
     "alias": "A_hR3_166_ac",
     "number_of_species": 1,
     "pearson_symbol": "hR3",
-    "space_group_number": 166
+    "space_group_number": 166,
+    "comments": "This is also the proposed ground state of lithium as described in (Overhauser, 1984). \n Binary compounds with this structure are listed using \\href{current_web_home_dir/AB2_hR3_166_a_c-004}{CdCl$_{2}$} as the prototype. \n This is a close-packed system, with stacking ABCBCACAB, in contrast to the ABAB stacking of the hexagonal close-packed structure and the ABCABC stacking of the face-centered cubic structure. \n Hexagonal settings for rhombohedral structures can be obtained with the option {\\tt --hex}.",
+    "notes": "$C19$, $\\alpha$-Sm",
+    "ccdc": null,
+    "icsd": "76031"
 }

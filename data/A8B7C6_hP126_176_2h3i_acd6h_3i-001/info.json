@@ -87,5 +87,9 @@
     "alias": "A8B7C6_hP126_176_2h3i_acd6h_3i-001",
     "number_of_species": 3,
     "pearson_symbol": "hP126",
-    "space_group_number": 176
+    "space_group_number": 176,
+    "comments": "(Zheng, 2012) place the Nb-I (their Nb3) atom on the (2b) Wyckoff position, but give the coordinates for the (2a) position.  We assume that the coordinates are correct. This assessment agrees with the ICSD entry.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "263043"
 }

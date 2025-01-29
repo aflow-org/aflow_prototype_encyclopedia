@@ -26,5 +26,9 @@
     "alias": "A4B12C3_cI76_220_c_e_a",
     "number_of_species": 3,
     "pearson_symbol": "cI76",
-    "space_group_number": 220
+    "space_group_number": 220,
+    "notes": "$S1_{5}$, Eulytine",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "402349"
 }

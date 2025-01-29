@@ -67,5 +67,9 @@
     "alias": "A6B5_mP22_11_6e_5e-001",
     "number_of_species": 2,
     "pearson_symbol": "mP22",
-    "space_group_number": 11
+    "space_group_number": 11,
+    "comments": "Our rendition of this structure swaps the x- and z-axis used by (Gohle, 1964).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "43283"
 }

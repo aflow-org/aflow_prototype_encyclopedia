@@ -23,5 +23,9 @@
     "alias": "A22B_cF184_227_cdfg_a",
     "number_of_species": 2,
     "pearson_symbol": "cF184",
-    "space_group_number": 227
+    "space_group_number": 227,
+    "comments": "(Samson, 1961) gives the atomic coordinates in terms of setting 1 of space group $F\\overline{4}dm$ \\#227.  We have shifted this to the standard setting 2, where the inversion site of the lattice is at the origin. \n Samson also suggests that the ``Zn$_{14}$Zr'' structure is created when zirconium atoms replace some of the zinc atoms on the (16c) site [the (16d) site in Samson's orientation]. \n This structure can be derived from the \\href{current_web_home_dir/A18B2C3_cF184_227_fg_d_ac-001}{Mg$_{3}$Cr$_{2}$Al$_{18}$ structure}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "106238"
 }

@@ -25,5 +25,9 @@
     "alias": "AB3C16_cF160_203_a_bc_eg",
     "number_of_species": 3,
     "pearson_symbol": "cF160",
-    "space_group_number": 203
+    "space_group_number": 203,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "405959"
 }

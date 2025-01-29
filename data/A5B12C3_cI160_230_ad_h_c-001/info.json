@@ -23,5 +23,9 @@
     "alias": "A5B12C3_cI160_230_ad_h_c-001",
     "number_of_species": 3,
     "pearson_symbol": "cI160",
-    "space_group_number": 230
+    "space_group_number": 230,
+    "comments": "This is the ternary form of \\href{current_web_home_dir/A2B3C12D3_cI160_230_a_c_h_d-001}{garnet}. As with other forms of garnet the there are frequent substitutions on all sites. \n In the measured sample, 1.3\\% of the yttrium is replaced by dysprosium.",
+    "notes": "YAG",
+    "ccdc": null,
+    "icsd": "138300"
 }

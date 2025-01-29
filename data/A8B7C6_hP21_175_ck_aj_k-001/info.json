@@ -31,5 +31,9 @@
     "alias": "A8B7C6_hP21_175_ck_aj_k",
     "number_of_species": 3,
     "pearson_symbol": "hP21",
-    "space_group_number": 175
+    "space_group_number": 175,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "263041"
 }

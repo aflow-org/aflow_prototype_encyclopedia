@@ -18,5 +18,9 @@
     "alias": "A3B_cP8_223_c_a",
     "number_of_species": 2,
     "pearson_symbol": "cP8",
-    "space_group_number": 223
+    "space_group_number": 223,
+    "comments": "The ``A'' Strukturbericht designation comes from the fact that this is also the structure of $\\beta$-W.",
+    "notes": "$A15$",
+    "ccdc": null,
+    "icsd": "53218"
 }

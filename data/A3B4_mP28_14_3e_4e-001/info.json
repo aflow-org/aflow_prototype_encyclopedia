@@ -65,5 +65,9 @@
     "alias": "A3B4_mP28_14_3e_4e-001",
     "number_of_species": 2,
     "pearson_symbol": "mP28",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "comments": "(Leclerc, 1973) give the structural information in the $P2_{1}/a$ (unique axis c) setting of space group \\#14.  We used FINDSYM to transform this to the $P2_{1}/c$ (unique axis b) setting.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "2647"
 }

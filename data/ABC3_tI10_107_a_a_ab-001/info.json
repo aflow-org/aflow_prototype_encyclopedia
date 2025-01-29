@@ -27,5 +27,9 @@
     "alias": "ABC3_tI10_107_a_a_ab",
     "number_of_species": 3,
     "pearson_symbol": "tI10",
-    "space_group_number": 107
+    "space_group_number": 107,
+    "comments": "This is a ternary form of the \\href{current_web_home_dir/A4B_tI10_139_de_a-001}{$D1_{3}$ (BaAl$_{4}$) structure}.  The atomic positions in both conventional cells are approximately the same, but the distribution of the atoms on those sites and the resulting relaxation leads to a different structure. \n Although (D\\\"{o}rrscheidt, 1978) give the structural information for BaPtSn$_{3}$ before that of BaNiSn$_{3}$, (Shatruk, 2019) and others list BaNiSn$_{3}$ as the prototype for this structure. \n Space group $I4mm$ \\#107 does not specify the origin of the $z$-axis.  (D\\\"{o}rrscheidt, 1978) places the barium atom at the origin.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "58662"
 }

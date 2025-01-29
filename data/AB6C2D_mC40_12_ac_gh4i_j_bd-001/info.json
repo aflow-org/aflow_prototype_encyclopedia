@@ -49,5 +49,9 @@
     "alias": "AB6C2D_mC40_12_ad_gh4i_j_bc",
     "number_of_species": 4,
     "pearson_symbol": "mC40",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "comments": "At high temperatures Sr$_{2}$NiTeO$_{6}$ transforms into the \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite $E2_{1}$ structure}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "91792"
 }

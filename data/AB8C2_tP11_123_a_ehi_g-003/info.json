@@ -25,5 +25,9 @@
     "alias": "AB8C2_tP11_123_a_ehi_g-003",
     "number_of_species": 3,
     "pearson_symbol": "tP11",
-    "space_group_number": 123
+    "space_group_number": 123,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "198243"
 }

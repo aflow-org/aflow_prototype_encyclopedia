@@ -103,5 +103,9 @@
     "alias": "A12B29_mC82_12_6i_a14i-001",
     "number_of_species": 2,
     "pearson_symbol": "mC82",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "comments": "Nb$_{12}$O$_{29}$ is known to exist in a least two phases (Norin, 1963; Norin, 1966): \\begin{itemize} \\item \\href{current_web_home_dir/A12B29_mC82_12_6i_a14i-001}{a monoclinic phase}  (this structure) and \\item \\href{current_web_home_dir/A12B29_oC164_63_6f_3c13f-001}{an orthorhombic phase}. \\end{itemize} ~ \\vspace{-.25in} \n (Wadsley, 1961) earlier found that both known phases of Ti$_{2}$Nb$_{12}$O$_{29}$ are isostructural with the corresponding Nb$_{12}$O$_{29}$ phase, but as the titanium and niobium atoms are alloyed on the same site we use the binary Nb$_{12}$O$_{29}$ as the prototype. \n (Norin, 1966) gives the structure of orthorhombic Nb$_{12}$O$_{29}$ in the $A2/a$ setting of space group \\#15, with the origin at -1 on the $a$-glide plane.  We when we checked this with FINDSYM we found that the structure could be placed in space group $C2/m$ \\#12 with a unit cell half that found by (Norin, 1966), and close to the dimensions of the cell found in (Wadsley, 1961) and (Norin, 1963).",
+    "notes": "Monoclinic Phase",
+    "ccdc": null,
+    "icsd": "24111"
 }

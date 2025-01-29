@@ -82,5 +82,9 @@
     "alias": "AB3C_oP80_61_2c_6c_2c",
     "number_of_species": 3,
     "pearson_symbol": "oP80",
-    "space_group_number": 61
+    "space_group_number": 61,
+    "comments": "Enstatite (properly orthoenstatite) is an end point of orthopyroxene, XYSi$_{2}$O$_{6}$, where X and Y are small-radius divalent cations.  If either X or Y is replaced by a transition metal the system becomes a \\href{current_web_home_dir/ABC6D2_mC40_15_e_e_3f_f-001}{monoclinic clinopyroxene}, in space group $C2/c$ \\#15. \n We also have data for a \\href{current_web_home_dir/AB3C_oC20_63_c_cf_a-001}{high-pressure, post-perovskite} phase of MgSiO$_{3}$. \n The ICSD entry is from (Bystr\\\"{o}m, 1943).",
+    "notes": "$S4_{3}$, Enstatite",
+    "ccdc": null,
+    "icsd": "77344"
 }

@@ -24,5 +24,9 @@
     "alias": "A2B6C_hP9_162_d_k_a",
     "number_of_species": 3,
     "pearson_symbol": "hP9",
-    "space_group_number": 162
+    "space_group_number": 162,
+    "comments": "(Hermann, 1937) gives this the {\\em Strukturbericht} designation $I1_{3}$, but gives the prototype as K$_{2}$Pt(SCN)$_{6}$.  As we discussed on the \\href{current_web_home_dir/A2BC6_hP9_164_d_a_i-001}{K$_{2}$Pt(SCN)$_{6}$ ($H6_{3}$) page}, the difference between these two structures is significant, so we will use the original $H6_{3}$ designation for K$_{2}$Pt(SCN)$_{6}$, and $I1_{3}$ for SrCl$_{2}\\cdot$(H$_{2}$O)$_{6}$. \n In any case, (Aagon, 1986) and others have shown that the correct space group of this structure is $P321$ \\#150.  We discuss the corrected structure on the \\href{current_web_home_dir/A2B12C6D_hP21_150_d_2g_ef_a-001}{SrCl$_{2}$$\\cdot$(H$_{2}$O)$_{6}$ page}. \n Using the notation of (Gottfried, 1937) this could also be designated the $J1_{3}$ structure.  That designation was never used in any {\\em Strukturbericht} volume, so we will use $I1_{3}$ here. \n The positions of the hydrogen atoms in the water molecules were not determined, so we only provide the positions of the oxygen atoms (labeled as H2O).",
+    "notes": "$I1_{3}$ ({\\em Obsolete})",
+    "ccdc": null,
+    "icsd": "none"
 }

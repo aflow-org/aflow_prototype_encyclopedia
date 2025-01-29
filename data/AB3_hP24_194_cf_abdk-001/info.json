@@ -25,5 +25,9 @@
     "alias": "AB3_hP24_194_cf_abdk-001",
     "number_of_species": 2,
     "pearson_symbol": "hP24",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "102230"
 }

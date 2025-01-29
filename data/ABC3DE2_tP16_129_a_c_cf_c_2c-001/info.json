@@ -31,5 +31,9 @@
     "alias": "ABC3DE2_tP16_129_a_c_cf_c_2c-001",
     "number_of_species": 5,
     "pearson_symbol": "tP16",
-    "space_group_number": 129
+    "space_group_number": 129,
+    "comments": "(Zhu, 1997) says this is isostructural with \\href{current_web_home_dir/A2B3C2D2_tI18_139_e_ad_c_e-001}{Sr$_{2}$Mn${3}$As$_{2}$O$_{2}$}, but this is not obvious to us.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "83630"
 }

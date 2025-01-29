@@ -83,5 +83,9 @@
     "alias": "A2B3C9D2_hP64_173_bc_2c_6c_bc-001",
     "number_of_species": 4,
     "pearson_symbol": "hP64",
-    "space_group_number": 173
+    "space_group_number": 173,
+    "comments": "NaAlSiO$_{4}$ can be found in a variety of structures, depending upon the conditions of its formation. \n Hexagonal forms include: \\begin{itemize} \\item \\href{http://current_web_home_dir/ABC4D_hP168_169_4a_4a_16a_4a-001}{trinepheline} and \\item \\href{http://current_web_home_dir/A2B3C9D2_hP64_173_bc_2c_6c_bc-001}{sodium-nepheline} (this structure). \\end{itemize} ~ \\vspace{-0.25in} \n There is considerable disorder in this structure, controlled by the sodium vacancy parameter $x$, which can take values on the interval [0,2].  Here we use the data from (Hippler, 1989) for what they call $x = 0.8$. \n The Na-II (6c) site has an occupation of 0.185, which actually corresponds to $x = 0.89$. This site can be seen as the doubled sodium atoms at the corner of the unit cell. This could be approximated removing the doublets and placing the sodium atom on a (2b) site. \n The O-I (6c) site is 1/3 occupied.  Thus only one of the three oxygen sites in the triplet sites on the crystal is occupied at any time. This could be approximated by removing the triplets and placing an oxygen atom on a (2a) site. \n There is a complete mixture of aluminum and silicon on the (2b) and (2c) sites, with next concentration Al$_{8-x}$Si$_{8+x}$.  For illustrative purposes we arbitrarily designate one (2b) site and one (2c) site to be occupied by each species.",
+    "notes": "Nepheline",
+    "ccdc": null,
+    "icsd": "65958"
 }

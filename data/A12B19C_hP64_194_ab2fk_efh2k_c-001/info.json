@@ -41,5 +41,9 @@
     "alias": "A12B19C_hP64_194_ab2fk_efh2k_d",
     "number_of_species": 3,
     "pearson_symbol": "hP64",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "comments": "In addition to the listed compounds, the lead and iron sites may be alloyed with a wide variety of metals and semi-metals resulting in high-entropy phases (Vinnik, 2019). \n We did not find an ICSD or CCDC entry for (Simsa, 1994).  We use the ICSD entry from the early work of (Adelskoeld, 1938).",
+    "notes": "Magnetoplumbite",
+    "ccdc": null,
+    "icsd": "36259"
 }

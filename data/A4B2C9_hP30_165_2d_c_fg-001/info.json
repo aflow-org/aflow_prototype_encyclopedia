@@ -33,5 +33,9 @@
     "alias": "A4B2C9_hP30_165_2d_c_fg-001",
     "number_of_species": 3,
     "pearson_symbol": "hP30",
-    "space_group_number": 165
+    "space_group_number": 165,
+    "comments": "The ICSD uses Nb$_{2}$Co$_{4}$O$_{9}$ as the prototype.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "29216"
 }

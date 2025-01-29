@@ -35,5 +35,9 @@
     "alias": "ABC3_oP20_53_e_g_hi",
     "number_of_species": 3,
     "pearson_symbol": "oP20",
-    "space_group_number": 53
+    "space_group_number": 53,
+    "comments": "CuBrSe$_{3}$ has also been reported in the \\href{current_web_home_dir/ABC3_oP20_30_2a_c_3c-001}{$Pnc2$ \\#30} orthorhombic space group.  It is not clear that (Sakuma, 1991) knew of the work of (Haendler, 1979). The two structures are very similar.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "10129"
 }

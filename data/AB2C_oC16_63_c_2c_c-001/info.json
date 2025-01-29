@@ -29,5 +29,9 @@
     "alias": "AB2C_oC16_63_c_2c_c",
     "number_of_species": 3,
     "pearson_symbol": "oC16",
-    "space_group_number": 63
+    "space_group_number": 63,
+    "comments": "We use the data from (Matsushita, 1994), but the ICSD is from (Heinau, 1994).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "77291"
 }

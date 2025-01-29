@@ -53,5 +53,9 @@
     "alias": "A2B5C4_mP22_14_e_c2e_2e",
     "number_of_species": 3,
     "pearson_symbol": "mP22",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "comments": "Previously we used the atomic positions from Table 3 of (S\\\"{a}rnstrand, 1978), but now use the refined values from Table 4. We have also shifted to origin to place an oxygen atom at the origin.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "2233"
 }

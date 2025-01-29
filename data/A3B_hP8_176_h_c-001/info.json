@@ -23,5 +23,9 @@
     "alias": "A3B_hP8_176_h_c",
     "number_of_species": 2,
     "pearson_symbol": "hP8",
-    "space_group_number": 176
+    "space_group_number": 176,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "27857"
 }

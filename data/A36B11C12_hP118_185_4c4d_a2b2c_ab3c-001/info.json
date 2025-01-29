@@ -89,5 +89,9 @@
     "alias": "A36B11C12_hP118_185_4c4d_a2b2c_ab3c-001",
     "number_of_species": 3,
     "pearson_symbol": "hP118",
-    "space_group_number": 185
+    "space_group_number": 185,
+    "comments": "The first osmium (4b) site (Os-II) has an occupancy of 93.1\\%, while the next (4b) site (Os-III) has 27.9\\% occupancy. \n Space group $P6_{3}cm$ does not specify the origin of the $z$ axis, we follow (Thakur, 2021) and set $z_{2} = 0$ for the Sr-I atom.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "112868"
 }

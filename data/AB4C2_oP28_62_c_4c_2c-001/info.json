@@ -50,5 +50,9 @@
     "alias": "AB4C2_oP28_62_c_4c_2c",
     "number_of_species": 3,
     "pearson_symbol": "oP28",
-    "space_group_number": 62
+    "space_group_number": 62,
+    "comments": "We have updated our reference from the obscure (Buerger, 1953) to the more accessible (Periotto, 2012). \n The ICSD entry for this structure lists CaFe$_{2}$O$_{4}$ as the prototype, but we will use FeSb$_{2}$S$_{4}$, as it was given the $E3_{3}$ {\\em Sturkturbericht} label. \n The data for this structure was given in the $Pnam$ orientation of space group \\#62.  We used FINDSYM to place it in the standard $Pnma$ orientation.",
+    "notes": "$E3_{3}$, Berthierite",
+    "ccdc": null,
+    "icsd": "185792"
 }

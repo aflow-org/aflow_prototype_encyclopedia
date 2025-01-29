@@ -23,5 +23,9 @@
     "alias": "ABC6_hR8_166_a_b_h",
     "number_of_species": 3,
     "pearson_symbol": "hR8",
-    "space_group_number": 166
+    "space_group_number": 166,
+    "comments": "On heating, $\\alpha$-KNO$_{3}$ (either \\href{current_web_home_dir/ABC3_oP20_62_c_c_cd-001}{Structure I} or \\href{current_web_home_dir/ABC3_oC80_36_2ab_2ab_2a5b-001}{Structure II}) transforms into $\\beta$-KNO$_{3}$ at 128$^\\circ$C.  When heated above 200$^\\circ$C and then cooled, the $\\beta$ phase transforms into the metastable ferroelectric \\href{current_web_home_dir/ABC3_hR5_160_a_a_b-002}{$\\gamma$-KNO$_{3}$ phase}, which can remain down to room temperature. \n In the $\\beta$-phase the oxygen (6h) sites are only 50\\% filled.  Presumably only the $+z$ or $-z$ sites will be occupied around a given nitrogen atom. \n We use the $151^\\circ$C data from (Nimmo, 1976).",
+    "notes": "$\\beta$-KNO$_{3}$ Structure",
+    "ccdc": null,
+    "icsd": "385"
 }

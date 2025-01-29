@@ -41,5 +41,9 @@
     "alias": "A2B_mC12_5_2c_c",
     "number_of_species": 2,
     "pearson_symbol": "mC12",
-    "space_group_number": 5
+    "space_group_number": 5,
+    "comments": "The zero of the $y$-axis can be chosen arbitrarily in space group $C2$ \\#5.  Here we choose it so that $y_{3} = \\frac12$ for the niobium atom.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "18143"
 }

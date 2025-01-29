@@ -53,5 +53,9 @@
     "alias": "A3B4C2D12_oC84_63_ae_h_g_fg2h-001",
     "number_of_species": 4,
     "pearson_symbol": "oC84",
-    "space_group_number": 63
+    "space_group_number": 63,
+    "comments": "(Stoll, 2018) give the $y_{6}$ coordinate for germanium as 0.9523, but this does not agree with the germanium-oxygen distances they give.  The ICSD entry corrects this to 0.09523, which is in agreement with the interatomic distances.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "266269"
 }

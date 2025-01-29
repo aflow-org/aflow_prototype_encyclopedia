@@ -25,5 +25,9 @@
     "alias": "A2BC2D4_hP18_194_f_a_cd_ef-001",
     "number_of_species": 4,
     "pearson_symbol": "hP18",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "comments": "The Li (2a) site is 74\\% occupied, the Na (2c) site 39\\%, and Na (2d) 23\\%. \n This structure was used by (Yabuuchi, 2013) to prepare \\href{current_web_home_dir/ABC2_hP8_186_b_b_ab-001}{O2-LiCoO$_{2}$}, O3-LiCoO$_{2}$ in the \\href{current_web_home_dir/ABC2_hR4_166_a_b_c-009}{$\\alpha$-NaFeO$_{2}$ structure}, and \\href{current_web_home_dir/ABC2_hP16_186_ab_ab_a3b-001}{O4-LiCoO$_{2}$}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "250826"
 }

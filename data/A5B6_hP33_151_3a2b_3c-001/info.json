@@ -47,5 +47,9 @@
     "alias": "A5B6_hP33_151_3a2b_3c-001",
     "number_of_species": 2,
     "pearson_symbol": "hP33",
-    "space_group_number": 151
+    "space_group_number": 151,
+    "comments": "This is the \\href{current_web_home_dir/AB_hR2_166_a_b-001}{CuPt ($L1_{1}$) structure} with one of every six carbon atoms removed.  Placing carbon atoms on another (3a) site with $x = 1/9$ will restore the $L1_{1}$ structure. \n (Venables, 1968) put this structure in space group $P3_{1}$ \\#144 or its enantiomorph $P3_{2}$ \\#145.  (Cenzual, 1991) showed that with the given coordinates the space group is actually $P3_{1}12$ \\#151.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "654841"
 }

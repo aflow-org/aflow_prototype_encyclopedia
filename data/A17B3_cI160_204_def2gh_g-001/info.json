@@ -41,5 +41,9 @@
     "alias": "A17B3_cI160_204_def2gh_g-001",
     "number_of_species": 2,
     "pearson_symbol": "cI160",
-    "space_group_number": 204
+    "space_group_number": 204,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "58735"
 }

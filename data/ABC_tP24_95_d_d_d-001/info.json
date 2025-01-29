@@ -37,5 +37,9 @@
     "alias": "ABC_tP24_95_d_d_d",
     "number_of_species": 3,
     "pearson_symbol": "tP24",
-    "space_group_number": 95
+    "space_group_number": 95,
+    "comments": "This structure is identical to ThBC in the \\href{current_web_home_dir/ABC_tP24_91_d_d_d-001}{enantiomorphic space group $P4_{1}22$ \\#91}.  It was generated from that structure by reflecting the atomic coordinates through the $z = 0$ plane. The ICSD entry is written for space group \\#91.",
+    "notes": "Enantiomorph of sg \\#91",
+    "ccdc": null,
+    "icsd": "2368"
 }

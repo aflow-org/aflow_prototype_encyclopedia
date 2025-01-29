@@ -44,5 +44,9 @@
     "alias": "A2B4C_oP28_62_ac_2cd_c",
     "number_of_species": 3,
     "pearson_symbol": "oP28",
-    "space_group_number": 62
+    "space_group_number": 62,
+    "comments": "This structure is the magnesium end-point of olivine, (Mg,Fe)$_{2}$SiO$_{4}$. \n We use the structural data taken by (Hazen, 1976) at 23${^\\circ}$C. \n For olivine structures where the (2a) and (2c) sites have different species, see \\href{current_web_home_dir/ABC4D_oP28_62_c_a_2cd_c-001}{the monticellite structure page}. \n (Hazen, 1976) reports the structure in the $Pbnm$ setting of space group \\#62. We have transformed this into the standard $Pnma$ setting. ",
+    "notes": "$S1_{2}$, Forsterite",
+    "ccdc": null,
+    "icsd": "64744"
 }

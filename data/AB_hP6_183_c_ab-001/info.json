@@ -25,5 +25,9 @@
     "alias": "AB_hP6_183_c_ab",
     "number_of_species": 2,
     "pearson_symbol": "hP6",
-    "space_group_number": 183
+    "space_group_number": 183,
+    "comments": "The sites labeled Fe are mixed occupation Fe$_{0.6}$Cr$_{0.2}$Ni$_{0.2}$. The Jmol image represents the M sites with ``Xx'' atoms. \n Space group $P6mm$ \\#183 allows an arbitrary choice for the origin of the $z$-axis.  Here we set the origin so that $z_{1} = 0$ for the Si-I (1a) site.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "151719"
 }

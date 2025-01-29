@@ -20,5 +20,9 @@
     "alias": "A_hP1_191_a",
     "number_of_species": 1,
     "pearson_symbol": "hP1",
-    "space_group_number": 191
+    "space_group_number": 191,
+    "comments": "Unlike the simple cubic lattice, there are no elements which take this structure as the ground state. There is a metastable silicon phase with this structure. The prototype state is a mercury-tin alloy. Thus the atom type ``M'' represents an average of Hg and Sn atoms. ",
+    "notes": "$A_{f}$",
+    "ccdc": null,
+    "icsd": "639211"
 }

@@ -97,5 +97,9 @@
     "alias": "AB3CD7E_tP52_78_a_3a_a_7a_a-001",
     "number_of_species": 5,
     "pearson_symbol": "tP52",
-    "space_group_number": 78
+    "space_group_number": 78,
+    "comments": "This left-handed (l-) chiral structure can also be found as a right-handed structure (d-) in the enantiomorphic space group $P4_{1}$ \\#76.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "248863"
 }

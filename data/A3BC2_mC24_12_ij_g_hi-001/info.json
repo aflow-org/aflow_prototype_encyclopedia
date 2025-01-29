@@ -42,5 +42,9 @@
     "alias": "A3BC2_mC24_12_ij_h_gi",
     "number_of_species": 3,
     "pearson_symbol": "mC24",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "comments": "The structure given in {\\em Strukturbericht} (Herrmann, 1943) does not list the hydrogen positions, instead giving positions for Li, OH and H$_{2}$O. (Alcock, 1971) found the hydrogen positions.",
+    "notes": "$B36$",
+    "ccdc": null,
+    "icsd": "9138"
 }

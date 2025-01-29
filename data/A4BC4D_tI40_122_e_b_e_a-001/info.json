@@ -32,5 +32,9 @@
     "alias": "A4BC4D_tI40_122_e_b_e_a",
     "number_of_species": 4,
     "pearson_symbol": "tI40",
-    "space_group_number": 122
+    "space_group_number": 122,
+    "comments": "The hydrogen (16e) sites are half-occupied.  Given the closeness of pairs of hydrogen positions presumably only one site in each pair is ever occupied. This partial occupancy gives a structure that differs slightly from the $H2_{2}$ structure described by (Ewald, 1928). There the hydrogen atoms are at their averaged positions, Wyckoff position (8d). \n The x position of the oxygen atom was inadvertantly listed as 0.1933.  We have changed this to the correct value, 0.14933",
+    "notes": "$H2_{2}$",
+    "ccdc": null,
+    "icsd": "201370"
 }

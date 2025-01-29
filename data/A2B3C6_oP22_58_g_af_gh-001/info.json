@@ -37,5 +37,9 @@
     "alias": "A2B3C6_oP22_58_g_af_gh",
     "number_of_species": 3,
     "pearson_symbol": "oP22",
-    "space_group_number": 58
+    "space_group_number": 58,
+    "notes": "Kotoite",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "24036"
 }

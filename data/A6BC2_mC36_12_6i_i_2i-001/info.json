@@ -59,5 +59,9 @@
     "alias": "A6BC2_mC36_12_6i_i_2i-001",
     "number_of_species": 3,
     "pearson_symbol": "mC36",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "comments": "This is a metastable phase of PbV$_{2}$O$_{6}$ (Villars, 2018).  The ground state has \\href{current_web_home_dir/A6BC2_oP36_62_6c_c_2c-001}{an orthorhombic structure}. \n The ICSD entry sets x$_{1}$ = 0.093 for the position of the O I atom, while (Calenstani, 1985) has the value 0.93.  We use the later value here.",
+    "notes": "Metastable",
+    "ccdc": null,
+    "icsd": "36464"
 }

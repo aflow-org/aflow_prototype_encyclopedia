@@ -21,5 +21,9 @@
     "alias": "A3B2_hP10_194_bf_ac-001",
     "number_of_species": 2,
     "pearson_symbol": "hP10",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "comments": "This is the high-temperature structure of Be$_{3}$N$_{2}$.  Below 1270$^\\circ$C $\\alpha$-Be$_{3}$N$_{2}$ is in the cubic \\href{current_web_home_dir/AB3C6_cI80_206_a_d_e-001}{bixbyite ($D5_{3}$) structure} (Wriedt, 1987).",
+    "notes": "$\\beta$-Be$_{3}$N$_{2}$",
+    "ccdc": null,
+    "icsd": "25656"
 }

@@ -27,5 +27,9 @@
     "alias": "A2BC2DE7_tP13_123_g_b_h_c_ahi-001",
     "number_of_species": 5,
     "pearson_symbol": "tP13",
-    "space_group_number": 123
+    "space_group_number": 123,
+    "comments": "We use the data of (Huang, 1993) taken at 10K. \n The O-I (1c) site, in the layer with the mercury atoms, is fractionally occupied, with $\\delta = 0.219$ for the present sample. \n (Huang, 1993) refer to the (2i) Wyckoff position for the O-III site, but this should be (4i). \n (Villars, 2016) give TlBa$_{2}$CaCu$_{2}$O$_{6+\\delta}$ as the prototype for this system, but we can find no information for that structure, even in that reference.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "74142"
 }

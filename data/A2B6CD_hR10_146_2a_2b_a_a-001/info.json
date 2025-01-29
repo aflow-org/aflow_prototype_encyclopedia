@@ -39,5 +39,9 @@
     "alias": "A2B6CD_hR10_146_2a_2b_a_a-001",
     "number_of_species": 4,
     "pearson_symbol": "hR10",
-    "space_group_number": 146
+    "space_group_number": 146,
+    "comments": "This is the quaternary form of the \\href{current_web_home_dir/ABC3_hR10_146_2a_2a_2b-001}{FePSe$_{3}$ structure} and a distortion of the \\href{current_web_home_dir/ABC3_hR10_161_a_a_b-001}{ferroelectric LiNbO$_{3}$ structure} (Choisnet, 1988; De Bruin, 1993). \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "202648"
 }

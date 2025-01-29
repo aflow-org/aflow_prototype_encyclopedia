@@ -27,5 +27,9 @@
     "alias": "A3BC7_hR22_167_e_b_af-001",
     "number_of_species": 3,
     "pearson_symbol": "hR22",
-    "space_group_number": 167
+    "space_group_number": 167,
+    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "15243"
 }

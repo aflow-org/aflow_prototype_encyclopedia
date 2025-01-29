@@ -55,5 +55,9 @@
     "alias": "AB2_tI48_80_2b_4b",
     "number_of_species": 2,
     "pearson_symbol": "tI48",
-    "space_group_number": 80
+    "space_group_number": 80,
+    "comments": "The actual composition is Nb$_{2-x}$O$_{2}$, with $0.002 < x < 0.1$. \n NbO$_{2}$ can also be found in the \\href{current_web_home_dir/AB2_tI96_88_2f_4f-001}{$\\alpha$-NbO$_{2}$} structure.",
+    "notes": "$\\beta$-NbO$_{2}$",
+    "ccdc": null,
+    "icsd": "35181"
 }

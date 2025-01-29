@@ -39,5 +39,9 @@
     "alias": "AB3C6_hP20_173_b_a2b_2c-001",
     "number_of_species": 3,
     "pearson_symbol": "hP20",
-    "space_group_number": 173
+    "space_group_number": 173,
+    "comments": "The name Edgarite is also given to the FeNb$_{3}$S$_{6}$ structure in space group \\href{current_web_home_dir/AB3C6_hP20_182_c_af_i-001}{$P6_{3}22$ \\#182}, for which we use CoNb$_{3}$S$_{6}$ as the prototype. \n (Bindi, 2018) attributes this discrepancy to the difference between natural and synthetic edgarite, although in the original discovery paper for the mineral (Barkov, 2000) say that ``The space group is most probably $P6_{3}22$.'' The ICSD lists many more structures in the $P6_{3}22$ structure than it does in the $P6_{3}$ structure.",
+    "notes": "Edgarite",
+    "ccdc": null,
+    "icsd": "230540"
 }

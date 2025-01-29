@@ -28,5 +28,9 @@
     "alias": "A9B3C_hP26_194_hk_h_a",
     "number_of_species": 3,
     "pearson_symbol": "hP26",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "comments": "The previous version of this page (Hicks, 2019) used scattered sources for the input data.  We have now updated this page using the complete data from (Robinson, 1952). \n This structure is also referred to as $\\beta$(AlMnSi).",
+    "notes": "$E9_{c}$",
+    "ccdc": null,
+    "icsd": "76249"
 }

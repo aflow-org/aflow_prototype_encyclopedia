@@ -31,5 +31,9 @@
     "alias": "AB_hP12_164_c2d_c2d",
     "number_of_species": 2,
     "pearson_symbol": "hP12",
-    "space_group_number": 164
+    "space_group_number": 164,
+    "comments": "The site Bi I actually has the composition (Bi$_{0.74}$Se$_{0.26}$), while the site Se II is actuall (Se$_{0.72}$,Bi$_{0.28}$).",
+    "notes": "Nevskite",
+    "ccdc": null,
+    "icsd": "79019"
 }

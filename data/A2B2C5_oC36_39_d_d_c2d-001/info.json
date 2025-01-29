@@ -49,5 +49,9 @@
     "alias": "A2B2C5_oC36_39_d_d_c2d-001",
     "number_of_species": 3,
     "pearson_symbol": "oC36",
-    "space_group_number": 39
+    "space_group_number": 39,
+    "comments": "The germanium (8d) sites are actually 75\\% germanium and 25\\% silicon.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "26836"
 }

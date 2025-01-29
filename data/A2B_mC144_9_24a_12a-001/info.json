@@ -239,5 +239,9 @@
     "alias": "A2B_mC144_9_24a_12a",
     "number_of_species": 2,
     "pearson_symbol": "mC144",
-    "space_group_number": 9
+    "space_group_number": 9,
+    "notes": "Low Tridymite",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "34867"
 }

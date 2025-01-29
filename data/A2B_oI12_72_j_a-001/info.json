@@ -26,5 +26,9 @@
     "alias": "A2B_oI12_72_j_a",
     "number_of_species": 2,
     "pearson_symbol": "oI12",
-    "space_group_number": 72
+    "space_group_number": 72,
+    "notes": "$C42$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "27205"
 }

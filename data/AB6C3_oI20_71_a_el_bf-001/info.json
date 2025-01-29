@@ -29,5 +29,9 @@
     "alias": "AB6C3_oI20_71_a_in_cj",
     "number_of_species": 3,
     "pearson_symbol": "oI20",
-    "space_group_number": 71
+    "space_group_number": 71,
+    "comments": "Cryolite undergoes a phase transition from the \\href{current_web_home_dir/AB6C3_mP20_14_a_3e_be-001}{monoclinic $J2_{6}$ phase}, space group $P2_{1}/c$ \\#14, to this orthorhombic phase at 890K.  We show structural data taken at 900K.",
+    "notes": "HT Cryolite",
+    "ccdc": null,
+    "icsd": "74211"
 }

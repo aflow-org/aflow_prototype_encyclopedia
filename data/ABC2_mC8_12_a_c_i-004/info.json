@@ -27,5 +27,9 @@
     "alias": "ABC2_mC8_12_a_c_i-004",
     "number_of_species": 3,
     "pearson_symbol": "mC8",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "comments": "Above 220$^{\\circ}$C NaNiO$_{2}$ transforms into the rhombohedral \\href{current_web_home_dir/ABC2_hR4_166_a_b_c-010}{LiNiO$_{2}$ structure} (Dyer, 1954). \n The AFLOW label algorithm switches the nickel atom from the (2d) Wyckoff position to the (2c) site.  This requires a shift of the lattice vector $\\vec{a}_{3} \\rightarrow \\vec{a}_{3} - \\vec{a}_{1}$.",
+    "notes": "monoclinic",
+    "ccdc": null,
+    "icsd": "415072"
 }

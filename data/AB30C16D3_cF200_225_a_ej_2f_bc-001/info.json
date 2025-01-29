@@ -28,5 +28,9 @@
     "alias": "AB30C16D3_cF200_225_a_ej_2f_bc",
     "number_of_species": 4,
     "pearson_symbol": "cF200",
-    "space_group_number": 225
+    "space_group_number": 225,
+    "comments": "Early determinations of this structure placed all of the fluorine atoms on the (24e) site and were not able to determine the positions of the hydrogen atoms in the ammonium ion.  This structure was designated $H71$ ($H7_{1}$) by (Ewald, 1931), renamed $I2_{1}$ by (Hermann, 1937) and finally changed to $J2_{1}$ by (Gottfried, 1937). \n The structure determined by (Udovenko, 2003) found that the fluorine atoms are split onto two sites: \n F-I, at Wyckoff position (24e) is 1/3 filled, and \n F-II, at (96j), is 1/6 filled. \n The positions are so close that a reasonable approximation can be made by eliminating the (96j) site and fully occupying the (24e) site. \n The H-I (32f) site is fully occupied, while the H-II (32f) site is 50\\% occupied. \n Our original description of the structure (Hicks, 2021) incorrectly used a value of $1/2-x_{5}$ for the position of the H I atom.  This rotated the NH$_{4}$ ions by $90^{\\circ}$ about the $z$-axis from their correct orientation.  The currect CIF has the correct value for $x_{5}$.",
+    "notes": "$J2_{1}$",
+    "ccdc": null,
+    "icsd": "412982"
 }

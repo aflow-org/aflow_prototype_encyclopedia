@@ -21,5 +21,9 @@
     "alias": "A4BC12_cI34_204_c_a_g",
     "number_of_species": 3,
     "pearson_symbol": "cI34",
-    "space_group_number": 204
+    "space_group_number": 204,
+    "comments": "This is a \\href{current_web_home_dir/A3B_cI32_204_g_c-001}{filled skutterudite (CoAs$_{3}$, $D0_{2}$) structure}.  Removing the rare-earth atom from the (2a) position leaves the skutterudite structure.",
+    "notes": "Filled Skutterudite",
+    "ccdc": null,
+    "icsd": "1286"
 }

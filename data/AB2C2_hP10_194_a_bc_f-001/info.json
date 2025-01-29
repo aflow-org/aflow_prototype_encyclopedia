@@ -21,5 +21,9 @@
     "alias": "AB2C2_hP10_194_a_bc_f",
     "number_of_species": 3,
     "pearson_symbol": "hP10",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "comments": "Na$_{0.74}$CoO$_{2}$ is a high figure-of-merit thermoelectric (Sk, 2019). The sodium sites are only partial filled, with the Na-I (2b) site having 21\\% occupancy while the Na-II (2c) site is at 51\\%. ",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "50301"
 }

@@ -23,5 +23,9 @@
     "alias": "AB3C4_tI16_121_a_bd_i-001",
     "number_of_species": 3,
     "pearson_symbol": "tI16",
-    "space_group_number": 121
+    "space_group_number": 121,
+    "comments": "The sample studied by (Marumo, 1967) had composition Cu$_{3}$[As$_{0.685}$Sb$_{0.315}$]S$_{4}$. \n Cu$_{3}$AsS$_{4}$ can also be found as orthorhombic \\href{current_web_home_dir/AB3C4_oP16_31_a_ab_2ab-001}{enargite ($H2_{5}$)}. \n this is the ternary form of \\href{current_web_home_dir/A2BC4D_tI16_121_d_a_i_b-001}{stannite (Cu$_{2}$FeS$_{4}$Sn), $H2_{6}$)}.",
+    "notes": "Luzonite",
+    "ccdc": null,
+    "icsd": "26838"
 }

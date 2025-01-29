@@ -37,5 +37,9 @@
     "alias": "A7B2_oC36_63_cgh_f-001",
     "number_of_species": 2,
     "pearson_symbol": "oC36",
-    "space_group_number": 63
+    "space_group_number": 63,
+    "comments": "(Pearson, 1967) and (Villars, 1991) put this in the ``provisional'' space group $P6_{3}22$ \\#182. (Snyder, 1995).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "55510"
 }

@@ -27,5 +27,9 @@
     "alias": "A2B3_hR10_148_abc_f-001",
     "number_of_species": 2,
     "pearson_symbol": "hR10",
-    "space_group_number": 148
+    "space_group_number": 148,
+    "comments": "(Jellinek, 1957) lists two structures for Cr$_{2}$S$_{3}$:  this rhombohedral structure, and a trigonal structure.  (Venkatraman, 1990) list this second structure as Cr$_{2}$S$_{3}$Cr.  It is likely that this structure is Jellinek's \\href{current_web_home_dir/A5B6_hP22_163_abcf_i-001}{Cr$_{5}$S$_{6}$ structure}.  Jellinek notes that the two structures are identical except for the atoms on the (2a) Wyckoff site.  Presumably the Venkatraman structure is the Cr$_{5}$S$_{6}$ structure with the (2a) site partly filled. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "notes": "Rhombohedral",
+    "ccdc": null,
+    "icsd": "16721"
 }

@@ -29,5 +29,9 @@
     "alias": "AB3_hP24_179_b_ac",
     "number_of_species": 2,
     "pearson_symbol": "hP24",
-    "space_group_number": 179
+    "space_group_number": 179,
+    "comments": "These compounds also exist in the \\href{current_web_home_dir/AB3_hP24_178_b_ac-001}{enantiomorphic space group $P6_{1}22$ \\#178}.  That page describes the more recent (\\v{Z}emva, 1991) determination of the structure.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "none"
 }

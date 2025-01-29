@@ -27,5 +27,9 @@
     "alias": "AB2_hP24_194_bh_fk-001",
     "number_of_species": 2,
     "pearson_symbol": "hP24",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "comments": "NbSe$_{2}$ is in the \\href{current_web_home_dir/AB2_hP6_194_b_f-002}{high temperature NbS$_{2}$ structure} above 40K.  Below 40K the primitive cell doubles in the $a$ and $b$ directions, and the niobium atoms are no longer equivalent, giving this structure. \n  The data for this structure was taken at 15K.",
+    "notes": "LT ($<40$K)",
+    "ccdc": null,
+    "icsd": "16305"
 }

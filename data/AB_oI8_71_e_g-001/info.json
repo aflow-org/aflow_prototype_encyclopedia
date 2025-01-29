@@ -25,5 +25,9 @@
     "alias": "AB_oI8_71_g_i",
     "number_of_species": 2,
     "pearson_symbol": "oI8",
-    "space_group_number": 71
+    "space_group_number": 71,
+    "comments": "(Massaliski, 1990) credits the discovery of this structure to (Rengade, 1909), but we have been unable to obtain a copy of this reference. (Downs, 2003) quotes (Wyckoff, 1963) giving an $Immm-oI8$ structure for CsO.  Since this is the same space group and Pearson symbol as found in Massaliski we use Wyckoff's data. \n In the absence of the original article, we provide the ICSD link to the work of (F\\\"{o}ppl, 1957).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "25529"
 }

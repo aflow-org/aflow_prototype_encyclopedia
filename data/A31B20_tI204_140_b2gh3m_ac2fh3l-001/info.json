@@ -61,5 +61,9 @@
     "alias": "A31B20_tI204_140_b2gh3m_ac2fh3l",
     "number_of_species": 2,
     "pearson_symbol": "tI204",
-    "space_group_number": 140
+    "space_group_number": 140,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "1111"
 }

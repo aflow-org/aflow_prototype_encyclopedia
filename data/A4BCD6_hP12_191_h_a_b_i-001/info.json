@@ -23,5 +23,9 @@
     "alias": "A4BCD6_hP12_191_h_a_b_i-001",
     "number_of_species": 4,
     "pearson_symbol": "hP12",
-    "space_group_number": 191
+    "space_group_number": 191,
+    "comments": "(Pertlik, 1988) puts this in the non-centrosymmetric space group $P622$ \\#177.  The only Wyckoff position in this space group which is not centrosymmetric is the general point, (12n).  All the other Wyckoff positions have counterparts in the centrosymmetric space group $P6/mmm$ \\#191, as shown here.",
+    "notes": "Lucabindiite",
+    "ccdc": null,
+    "icsd": "65205"
 }

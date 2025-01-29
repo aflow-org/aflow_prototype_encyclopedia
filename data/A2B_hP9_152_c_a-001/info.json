@@ -27,5 +27,9 @@
     "alias": "A2B_hP9_152_c_a",
     "number_of_species": 2,
     "pearson_symbol": "hP9",
-    "space_group_number": 152
+    "space_group_number": 152,
+    "comments": "When $x_{1}=1/2$, $y_{2}=2x_{2}$, and $z_{2}=1/2$ this tranforms into the \\href{current_web_home_dir/A2B_hP9_180_i_d-001}{high $\\beta$-quartz ($C8$)} structure. This structure can also be found in the enantiomorphic space group $P3_{2}21$ \\#154.",
+    "notes": "$\\alpha$-Quartz",
+    "ccdc": null,
+    "icsd": "67121"
 }

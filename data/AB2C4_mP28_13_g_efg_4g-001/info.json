@@ -63,5 +63,9 @@
     "alias": "AB2C4_mP28_13_g_efg_4g-001",
     "number_of_species": 3,
     "pearson_symbol": "mP28",
-    "space_group_number": 13
+    "space_group_number": 13,
+    "comments": "(Gross, 1994) give the crystal structure in the $P2/n$ setting of space group \\#13.  We use FINDSYM to change this to the standard $P2/c$ setting. \n With only a small uncertainty in the coordinates ($\\approx$ 0.1{\\AA}) this could be placed in space group $P2/m$ \\#10 with the unit cell halved.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "74894"
 }

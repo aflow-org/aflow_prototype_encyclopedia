@@ -21,5 +21,9 @@
     "alias": "AB3C2_hR6_166_a_d_c-001",
     "number_of_species": 3,
     "pearson_symbol": "hR6",
-    "space_group_number": 166
+    "space_group_number": 166,
+    "comments": "(Seidel, 2017) call this a rhombohedral Laves phase, a ternary varient of the \\href{current_web_home_dir/AB2_hP12_194_f_ah-001}{MgZn$_{2}$ hexagonal Laves phase ($C14$)}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "432339"
 }

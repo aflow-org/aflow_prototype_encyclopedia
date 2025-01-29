@@ -28,5 +28,9 @@
     "alias": "A4B2C6D16E_cF232_227_e_d_f_eg_a",
     "number_of_species": 5,
     "pearson_symbol": "cF232",
-    "space_group_number": 227
+    "space_group_number": 227,
+    "comments": "This is the original structure determined by (Shiba, 1931) and given the designation $H5_{6}$ in (Hermann, 1937). (Schmidt, 2006) showed that the true structure is \\href{current_web_home_dir/A4B2C6D16E_cF232_203_e_c_f_eg_b-001}{in space group $Fd\\overline{3}$ \\#203}, however the two structures are very similar, and a displacement of the oxygen atoms by less than 1{\\AA} brings the two structures into agreement. \n (Hermann, 1937) gives the chemical formula as Na$_{6}$Mg$_{2}$SO$_{4}$(CO$_{3}$)$_{2}$, but the given Wyckoff positions are in agreement with the correct formula, Na$_{6}$Mg$_{2}$SO$_{4}$(CO$_{3}$)$_{4}$.",
+    "notes": "$H5_{6}$, Tychite ({\\em Obsolete})",
+    "ccdc": null,
+    "icsd": "27792"
 }

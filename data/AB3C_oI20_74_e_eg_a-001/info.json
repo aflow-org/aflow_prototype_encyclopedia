@@ -27,5 +27,9 @@
     "alias": "AB3C_oI20_74_e_eg_a-001",
     "number_of_species": 3,
     "pearson_symbol": "oI20",
-    "space_group_number": 74
+    "space_group_number": 74,
+    "comments": "As with most perovskites, BaPbO$_{3}$ has a number of phase transitions.  The temperature-driven transitions are summarized in (Fu, 1995), (Moussa, 2001), and (Hestor, 2002). We will follow our usual convention and label the phases by Greek letters, increasing with temperature. \\begin{itemize} \\item The low temperature structure is \\href{current_web_home_dir/AB3C_mC20_12_i_ghi_e-001}{monoclinic $\\alpha$-BaPbO$_{3}$}. \\item At some point above 26\\,K (Ritter, 1989) we find \\href{current_web_home_dir/AB3C_oI20_74_e_eg_a-001}{orthorhombic $\\beta$-BaPbO$_{3}$} (this structure). \\item At 548\\,K it transforms into the tetragonal $\\gamma$-BaPbO$_{3}$ in the \\href{current_web_home_dir/A3BC_tI20_140_ah_b_c-002}{$\\gamma$-SrZrO$_{3}$ structure}. \\item Finally, above 723-725\\,K $\\delta$-BaPbO$_{3}$ is in the \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite ($E2_{1}$) structure}. \\end{itemize} ~ \\vspace{-.25in} \n All of the metallic sites may be alloyed, we have only listed a small number of possibilities. The oxygen sites may be partially filled, or partially replaced by nitrogen or fluorine. \n (Fu, 1995) gave the structural information in the $Ibmm$ setting of space group \\#74.  We used AFLOW to transform this to the standard $Imma$ setting.  This requires change of the axes so that $(x y z) \\rightarrow (y z x)$.",
+    "notes": "$\\beta$-BaPbO$_{3}$",
+    "ccdc": null,
+    "icsd": "78681"
 }

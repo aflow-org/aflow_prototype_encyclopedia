@@ -179,5 +179,9 @@
     "alias": "A5B22_tP216_96_5b_2a21b-001",
     "number_of_species": 2,
     "pearson_symbol": "tP216",
-    "space_group_number": 96
+    "space_group_number": 96,
+    "comments": "AlB$_{12}$ can also be found as orthorhombic $\\gamma$-AlB$_{12}$. Unfortunately we do not have a determination of the atomic positions in that system. \n As the $\\gamma$ structure has never been isolated from the $\\alpha$ structure, and can be transformed into the $\\alpha$ structure but not reconstituted from it, $\\alpha$-AlB$_{12}$ is the ground state of the system. (Higashi, 2000)\n According to (Higashi, 1977), there are thirteen aluminum atoms in this cell, distributed statistically among the five sites.  This gives a stoichiometry of Al$_{0.88}$B$_{12}$.  The sites Al-I, Al-III, and Al-V are extremely close together.  The combined site is 98\\% occupied, and only one site is occupied at any one position, so the occupancy of these sites are approximately 33\\%.  Similarly, pairs of Al-II atoms are rather close together, and each pair of sites contains approximately 98\\%, giving an occupation of 49\\% for the A-II site.  If there are thirteen aluminum atoms in the unit cell, puts the occupation of the Al-IV site at 14.5\\%. \n This structure can also be found in the enantiomorphic space group $P4_{1}2_{1}2$ \\#92.  We follow the authors and place it in $P4_{3}2_{1}2$ \\#96.",
+    "notes": "$\\alpha$-AlB$_{12}$",
+    "ccdc": null,
+    "icsd": "1091"
 }

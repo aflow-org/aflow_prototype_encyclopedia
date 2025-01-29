@@ -18,5 +18,9 @@
     "alias": "A_cF8_227_a",
     "number_of_species": 1,
     "pearson_symbol": "cF8",
-    "space_group_number": 227
+    "space_group_number": 227,
+    "comments": "This is the first crystal structure to be determined by X-ray diffraction.",
+    "notes": "$A4$, Diamond",
+    "ccdc": null,
+    "icsd": "53779"
 }

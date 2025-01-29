@@ -18,5 +18,9 @@
     "alias": "A2B_cF24_227_c_a",
     "number_of_species": 2,
     "pearson_symbol": "cF24",
-    "space_group_number": 227
+    "space_group_number": 227,
+    "comments": "This is an idealized version of the high-temperature phase of $\\alpha$-cristobalite originally proposed by (Wyckoff, 1925). \n (Peacor, 1973) concludes that the oxygen atoms partially occupy the (96g) positions in the space group $Fd\\overline{3}m$ \\#227. We average those positions to put the oxygen on the (16c) sites and return to the original structure. \n $\\beta$-cristobalite is also known as ``high'' cristobalite.",
+    "notes": "$C9$, $\\beta$-Cristobalite",
+    "ccdc": null,
+    "icsd": "35536"
 }

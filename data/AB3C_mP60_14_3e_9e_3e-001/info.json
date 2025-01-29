@@ -114,5 +114,9 @@
     "alias": "AB3C_mP60_14_3e_9e_3e",
     "number_of_species": 3,
     "pearson_symbol": "mP60",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "comments": "(Trojer, 1968) refined the original structure of (Barnick, 1936).  While Barnick referred to this structure as ``wollastonite,'' in modern terminology it is called ``parawollastonite,'' with the original name used for the \\href{current_web_home_dir/AB3C_aP30_2_3i_9i_3i-001}{triclinic CaSiO$_{3}$ form}. \n (Gottfried, 1938) gave this structure the $S3_{3}$ designation, but (Gottfried, 1937) had already used this label for \\href{current_web_home_dir/A3BCD3E15F3_hP52_173_c_b_b_c_5c_c-001}{crancrinite, Na$_{6}$Ca$_{2}$Al$_{6}$Si$_{6}$O$_{24}$(CO$_{3}$)$_{2}$}.  We will refer to parawollastonite as $S3_{3}$(II) and crancrinite as $S3_{3}$(I).",
+    "notes": "$S3_{3}$(II), Parawollastonite",
+    "ccdc": null,
+    "icsd": "34908"
 }

@@ -19,5 +19,9 @@
     "alias": "A3B4C3_cI40_220_a_c_b-001",
     "number_of_species": 3,
     "pearson_symbol": "cI40",
-    "space_group_number": 220
+    "space_group_number": 220,
+    "comments": "(Lu, 2008) describe this as a \\href{current_web_home_dir/A4B3_cI28_220_c_a-001}{filled Th$_{3}$P$_{4}$ ($D7_{3}$) structure}, and, like its parent, there can be considerable disorder on the transition metal site. This is seen in the U$_{3}$NiAs$_{4}$ compound, where 2/3 of the nickel (2b) sites are vacant.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "957"
 }

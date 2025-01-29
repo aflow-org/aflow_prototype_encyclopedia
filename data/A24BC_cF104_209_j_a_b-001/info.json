@@ -23,5 +23,9 @@
     "alias": "A24BC_cF104_209_j_a_b",
     "number_of_species": 3,
     "pearson_symbol": "cF104",
-    "space_group_number": 209
+    "space_group_number": 209,
+    "comments": "The (96j) Wyckoff positions are decorated by F atoms with a site occupation of 0.25, hence the prototype material is KPF$_{6}$ rather than KPF$_{24}$.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "none"
 }

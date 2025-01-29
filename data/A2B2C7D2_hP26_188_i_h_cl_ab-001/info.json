@@ -29,5 +29,9 @@
     "alias": "A2B2C7D2_hP26_188_i_h_cl_ab-001",
     "number_of_species": 4,
     "pearson_symbol": "hP26",
-    "space_group_number": 188
+    "space_group_number": 188,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "79025"
 }

@@ -31,5 +31,9 @@
     "alias": "A2BC2D8E2_tI30_139_e_a_e_2eg_e-001",
     "number_of_species": 5,
     "pearson_symbol": "tI30",
-    "space_group_number": 139
+    "space_group_number": 139,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "68188"
 }

@@ -43,5 +43,9 @@
     "alias": "A2B8C2D_tP26_100_c_abcd_c_a",
     "number_of_species": 4,
     "pearson_symbol": "tP26",
-    "space_group_number": 100
+    "space_group_number": 100,
+    "comments": "Found in the \\href{http://webmineral.com/data/Fresnoite.shtml#.WV1oNnUrKUE}{Big Creek -- Rush Creek sanbornite deposit}, 8 km (5 miles) NE of Trimmer, Fresno Co. California.",
+    "notes": "Fresnoite",
+    "ccdc": null,
+    "icsd": "201844"
 }

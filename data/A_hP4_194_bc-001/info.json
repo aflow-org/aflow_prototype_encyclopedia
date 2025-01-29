@@ -20,5 +20,9 @@
     "alias": "A_hP4_194_bc",
     "number_of_species": 1,
     "pearson_symbol": "hP4",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "comments": "According to (Wyckoff, 1963), hexagonal graphite may be either flat, space group $P6_{3}/mmc$ \\#194 or \\href{current_web_home_dir/A_hP4_194_bc-001}{buckled, space group $P6_{3}mc$ \\#186}. If it is buckled, the buckling parameter is small, less than 1/20 of the ``c'' parameter of the hexagonal unit cell. We assign the $A9$ {\\em Strukturbericht} designation to the unbuckled structure shown here. \n Experimentally, a \\href{current_web_home_dir/A_hR2_166_c-002}{rhombohedral ($R\\overline{3}m$) graphite structure} is also observed.",
+    "notes": "$A9$, Graphite",
+    "ccdc": null,
+    "icsd": "76767"
 }

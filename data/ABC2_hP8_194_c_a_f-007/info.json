@@ -21,5 +21,9 @@
     "alias": "ABC2_hP8_194_d_a_f",
     "number_of_species": 3,
     "pearson_symbol": "hP8",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "comments": "Note that all of the atoms sit on close-packed $<$$0001$$>$ planes. The stacking sequence may be written \\begin{center} \\begin{tabular}{|c|c|c|c|c|c|c|c|c|} \\hline Atom & Cr & C & Cr & Al & Cr & C & Cr & Al \\\\ \\hline Position & B & A & C & B & C & A & B & C \\\\ \\hline \\end{tabular} \\end{center}",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "42918"
 }

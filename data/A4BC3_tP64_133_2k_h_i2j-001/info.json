@@ -39,5 +39,9 @@
     "alias": "A4BC3_tP64_133_2k_h_i2j-001",
     "number_of_species": 3,
     "pearson_symbol": "tP64",
-    "space_group_number": 133
+    "space_group_number": 133,
+    "comments": "The D-I (16k) site has a small number of vacancies (0.4\\%). \n The D-II (16k) site is 44.7\\% occupied. \n Removing all of the deuterium atoms makes this isostructural with \\href{current_web_home_dir/AB3_tP32_133_h_i2j-001}{$\\beta$-V$_{3}$S}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "68531"
 }

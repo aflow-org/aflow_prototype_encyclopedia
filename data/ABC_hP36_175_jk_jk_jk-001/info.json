@@ -43,5 +43,9 @@
     "alias": "ABC_hP36_175_jk_jk_jk",
     "number_of_species": 3,
     "pearson_symbol": "hP36",
-    "space_group_number": 175
+    "space_group_number": 175,
+    "comments": "The experimental data was taken using deuterium.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "261304"
 }

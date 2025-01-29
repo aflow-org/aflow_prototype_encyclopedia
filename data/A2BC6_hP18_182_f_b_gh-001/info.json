@@ -26,5 +26,9 @@
     "alias": "A2BC6_hP18_182_f_b_gh",
     "number_of_species": 3,
     "pearson_symbol": "hP18",
-    "space_group_number": 182
+    "space_group_number": 182,
+    "comments": "The structure of BaAl$_{2}$O$_{4}$ was originally determined by (Wallmark, 1937) and designated $H2_{8}$ by (Gottfried, 1940).  This had two oxygen atoms at the (2c) Wyckoff position, $\\pm (1/3, 2/3, z)$.  (Perrotta, 1968) redetermined the structure and found that the best fit to external data required the (2c) oxygen atoms to be distributed among the (6h) sites.  Thus each of the (6h) sites in this structure is 1/3 occupied.",
+    "notes": "$H2_{8}$",
+    "ccdc": null,
+    "icsd": "15728"
 }

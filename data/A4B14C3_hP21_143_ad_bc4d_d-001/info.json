@@ -61,5 +61,9 @@
     "alias": "A4B14C3_hP21_143_bd_ac4d_d",
     "number_of_species": 3,
     "pearson_symbol": "hP21",
-    "space_group_number": 143
+    "space_group_number": 143,
+    "comments": "The OH molecule is centered on the (1c) site, however it is only listed as O in this prototype. \n Space group $P3$ \\#143 allows an arbitary origin for the $z$-axis, here we set it so the $z_{1} = 0$ for the O-I atom.",
+    "notes": "Simpsonite",
+    "ccdc": null,
+    "icsd": "67673"
 }

@@ -18,5 +18,9 @@
     "alias": "A_cI2_229_a",
     "number_of_species": 1,
     "pearson_symbol": "cI2",
-    "space_group_number": 229
+    "space_group_number": 229,
+    "comments": "Although more accurate measurements of the lattice constant of tungsten are available, (Davey, 1925) is chosen because of the unique experimental technique. The ICSD entry is from the later work of (Hartmann, 1931).",
+    "notes": "$A2$, bcc lattice",
+    "ccdc": null,
+    "icsd": "52538"
 }

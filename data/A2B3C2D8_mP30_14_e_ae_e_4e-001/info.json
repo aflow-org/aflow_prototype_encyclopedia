@@ -66,5 +66,9 @@
     "alias": "A2B3C2D8_mP30_14_e_ce_e_4e",
     "number_of_species": 4,
     "pearson_symbol": "mP30",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "comments": "(Rule, 2011) actually present two possible structures for azurite: \\begin{itemize} \\item the current structure, with space group $P2_1/c$ \\#14, is identical to the structure designated $G7_{4}$ by (Hermann, 1937) except that the OH radical is now separated into the O(IV) and H atom sites, and \\item a structure with the same unit cell dimensions but without an inversion site, leading to space group $P2_1$ \\#4. \\end{itemize} ~ \\vspace{-.25in} \n The difference between the two structures is extremely small, and we choose to use the traditional structure. \n Structural information was taken from powder diffraction data at 1.28K.",
+    "notes": "$G7_{4}$, Azurite",
+    "ccdc": null,
+    "icsd": "182324"
 }

@@ -21,5 +21,9 @@
     "alias": "A2B2C_tI10_139_d_e_a",
     "number_of_species": 3,
     "pearson_symbol": "tI10",
-    "space_group_number": 139
+    "space_group_number": 139,
+    "comments": "(Shatruk, 2019) refers to this as ``the perovskite of intermetallics.'' The list of compounds below is by no means complete. \n This is a ternary form of the \\href{current_web_home_dir/A4B_tI10_139_de_a-001}{$D1_{3}$ (BaAl$_{4}$) structure}. \n The structures generally identified as having prototype ThCr$_{2}$Si$_{2}$ actually divide up into two distinct regions, based on $c/a$ ratio.  We assign structures with $c/a \\le 3$ to the ThCr$_{2}$Si$_{2}$ structure, and those with $c/a > 3$ to the \\href{current_web_home_dir/A2B2C_tI10_139_d_e_a-002}{TlCo$_{2}$S$_{2}$ structure}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "18157"
 }

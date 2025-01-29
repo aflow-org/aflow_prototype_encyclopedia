@@ -23,5 +23,9 @@
     "alias": "AB_tI24_141_ae_be-001",
     "number_of_species": 2,
     "pearson_symbol": "tI24",
-    "space_group_number": 141
+    "space_group_number": 141,
+    "comments": "This is apparently the high-temperature structure of LiSn.  Below 470K LiSn is in the \\href{current_web_home_dir/AB_mP6_10_bn_cm-001}{monoclinic $\\alpha$-LiSn structure} (Villars, 2018).\n We have shifted the origin so that a lithium atom is on the (4a) site.",
+    "notes": "$\\beta$-LiSn",
+    "ccdc": null,
+    "icsd": "107516"
 }

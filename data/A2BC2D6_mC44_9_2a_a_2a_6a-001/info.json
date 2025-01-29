@@ -89,5 +89,9 @@
     "alias": "A2BC2D6_mC44_9_2a_a_2a_6a-001",
     "number_of_species": 4,
     "pearson_symbol": "mC44",
-    "space_group_number": 9
+    "space_group_number": 9,
+    "comments": "The sites we designated as Cu-I are filled 87.5\\% of the time, while the Cu-II sites are only 10\\% filled.  The copper atoms on the two sites have opposite spins.  There may be a small density of copper atoms between the layers. \n Space group $Cc$ \\#9 does not specify the origin of the $x$- or $z$-axes.  Here we fix the $x$ and $z$ coordinates of the iridium atom, $x_{3} = 0$, $z_{3} = 1/4$.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "79291"
 }

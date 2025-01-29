@@ -19,5 +19,9 @@
     "alias": "AB4_cP5_215_a_e",
     "number_of_species": 2,
     "pearson_symbol": "cP5",
-    "space_group_number": 215
+    "space_group_number": 215,
+    "comments": "When $x_{2} = 1/4$ the iron atoms are at the positions of the face-centered cubic lattice. In Fe$_{4}$C, $x_{2}$ is about 0.265. ",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "44729"
 }

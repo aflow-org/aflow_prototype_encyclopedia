@@ -35,5 +35,9 @@
     "alias": "A4BC3_oF64_69_gho_g_gl-001",
     "number_of_species": 3,
     "pearson_symbol": "oF64",
-    "space_group_number": 69
+    "space_group_number": 69,
+    "comments": "In orthorhombic systems the AFLOW prototype label standard favors orientations of where most of the free atomic parameters are along the x-axis.  Thus we have rotated the published structure so that coordinates (x,y,z) $\\rightarrow$ (z,y,-x), with a similar change for the lattice parameters. \n The ICSD lists Nd(Sb,Sn)$_{3}$Bi$_{4}$ as the prototype for this structure, but we prefer to use a fully ordered structure.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "119550"
 }

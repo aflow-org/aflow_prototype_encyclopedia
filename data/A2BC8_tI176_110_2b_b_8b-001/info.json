@@ -85,5 +85,9 @@
     "alias": "A2BC8_tI176_110_2b_b_8b",
     "number_of_species": 3,
     "pearson_symbol": "tI176",
-    "space_group_number": 110
+    "space_group_number": 110,
+    "comments": "Space group $I4_{1}cd$ \\#110 allows an arbitary placement of the $z$-axis origin, and we put a beryllium atom there by setting $z_{3} = 0$.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "10315"
 }

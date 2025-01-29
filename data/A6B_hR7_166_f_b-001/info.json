@@ -21,5 +21,9 @@
     "alias": "A6B_hR7_166_g_a",
     "number_of_species": 2,
     "pearson_symbol": "hR7",
-    "space_group_number": 166
+    "space_group_number": 166,
+    "comments": "Superconducting structure, $T_{c} = 11.5$K. \n (Emery, 2005) completely described the structure, but and referenced an upcoming paper fully detailing there methods, but we have found no reference to this paper, and ICSD entry, or a CCDC entry. \n Hexagonal settings of rhombohedral structures can be obtained with the option {\\tt --hex}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "none"
 }

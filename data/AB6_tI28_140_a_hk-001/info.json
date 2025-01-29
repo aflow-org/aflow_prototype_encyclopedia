@@ -26,5 +26,9 @@
     "alias": "AB6_tI28_140_a_hk",
     "number_of_species": 2,
     "pearson_symbol": "tI28",
-    "space_group_number": 140
+    "space_group_number": 140,
+    "comments": "This structure is closely related to the \\href{current_web_home_dir/A2BC4_tI28_140_h_a_k-001}{V$_{4}$SiSb$_{2}$ structure}. This can also be identified as a defected version of the \\href{current_web_home_dir/A3B5_tI32_140_ah_bk-001}{$D8_{m}$ W$_{5}$Si$_{3}$ structure}.",
+    "notes": "$D2_{c}$",
+    "ccdc": null,
+    "icsd": "150486"
 }

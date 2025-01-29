@@ -87,5 +87,9 @@
     "alias": "A17B10_tP108_116_e8j_ad2g2h5i-001",
     "number_of_species": 2,
     "pearson_symbol": "tP108",
-    "space_group_number": 116
+    "space_group_number": 116,
+    "comments": "We have shifted the origin used by (Vollenkle, 1967) to place the Rh I atom on the (2a) site rather than the (2b) site.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "103949"
 }

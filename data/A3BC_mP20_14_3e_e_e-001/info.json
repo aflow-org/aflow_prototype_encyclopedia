@@ -53,5 +53,9 @@
     "alias": "A3BC_mP20_14_3e_e_e",
     "number_of_species": 3,
     "pearson_symbol": "mP20",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "notes": "Sanguite",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "15590"
 }

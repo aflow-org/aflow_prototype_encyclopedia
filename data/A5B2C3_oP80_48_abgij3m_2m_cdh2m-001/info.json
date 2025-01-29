@@ -71,5 +71,9 @@
     "alias": "A5B2C3_oP80_48_abgij3m_2m_cdh2m-001",
     "number_of_species": 3,
     "pearson_symbol": "oP80",
-    "space_group_number": 48
+    "space_group_number": 48,
+    "comments": "AFLOW rotates the lattice by 90$^{\\circ}$ about the y-axis (x y z $\\rightarrow$ -z y x) and shifts the origin so that the gallium atoms which were originally at the (2b) and (2d) Wyckoff positions are now on the (2a) and (2b) sites.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "281205"
 }

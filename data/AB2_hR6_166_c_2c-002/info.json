@@ -26,5 +26,9 @@
     "alias": "AB2_hR6_166_c_2c",
     "number_of_species": 2,
     "pearson_symbol": "hR6",
-    "space_group_number": 166
+    "space_group_number": 166,
+    "comments": "Although this has the same crystallographic structure as \\href{current_web_home_dir/ABC_hR6_166_c_c_c-001}{SmSI}, the layering is substantially different. \n There is no ICSD or CCDC entry for (Castillo, 2016).  We use the ICSD entry from (Evers, 1979). \n Hexagonal settings of this structure can be obtained with the option {\\tt -hex}.",
+    "notes": "$C12$",
+    "ccdc": null,
+    "icsd": "32006"
 }

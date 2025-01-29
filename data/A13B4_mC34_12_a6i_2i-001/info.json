@@ -55,5 +55,9 @@
     "alias": "A13B4_mC34_12_b6i_2i",
     "number_of_species": 2,
     "pearson_symbol": "mC34",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "58110"
 }

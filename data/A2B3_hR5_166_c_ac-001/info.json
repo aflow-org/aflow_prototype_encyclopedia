@@ -24,5 +24,9 @@
     "alias": "A2B3_hR5_166_c_ac",
     "number_of_species": 2,
     "pearson_symbol": "hR5",
-    "space_group_number": 166
+    "space_group_number": 166,
+    "comments": "(Gottfried, 1937) assigns \\href{current_web_home_dir/A2BC2_hR5_166_c_a_c-002}{tetradymite, Bi$_{2}$Te$_{2}$S} as the prototype for {\\em Strukturbericht} symbol $C33$, but (Lange, 1939) shows that this is isostructural with Bi$_{2}$Te$_{3}$, the sulfur atom being replaced by a tellurium atom.  We will therefore retain our original designation. \n Hexagonal settings for rhombohedral structures can be obtained with the option {\\tt --hex}.",
+    "notes": "$C33$",
+    "ccdc": null,
+    "icsd": "15753"
 }

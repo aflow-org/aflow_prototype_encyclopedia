@@ -17,5 +17,9 @@
     "alias": "AB4C3_cP16_223_a_e_c-001",
     "number_of_species": 3,
     "pearson_symbol": "cP16",
-    "space_group_number": 223
+    "space_group_number": 223,
+    "comments": "The ICSD entry is from (Waser, 1950) and is identical to the information published in (Waser, 1951).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "27052"
 }

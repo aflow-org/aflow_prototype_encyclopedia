@@ -35,5 +35,9 @@
     "alias": "A7BC4_cP96_218_bcefi_ad_ei-001",
     "number_of_species": 3,
     "pearson_symbol": "cP96",
-    "space_group_number": 218
+    "space_group_number": 218,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "154076"
 }

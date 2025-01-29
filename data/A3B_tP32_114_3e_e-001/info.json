@@ -43,5 +43,9 @@
     "alias": "A3B_tP32_114_3e_e",
     "number_of_species": 2,
     "pearson_symbol": "tP32",
-    "space_group_number": 114
+    "space_group_number": 114,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "none"
 }

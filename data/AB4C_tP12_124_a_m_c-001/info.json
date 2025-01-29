@@ -23,5 +23,9 @@
     "alias": "AB4C_tP12_124_a_m_c",
     "number_of_species": 3,
     "pearson_symbol": "tP12",
-    "space_group_number": 124
+    "space_group_number": 124,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "43233"
 }

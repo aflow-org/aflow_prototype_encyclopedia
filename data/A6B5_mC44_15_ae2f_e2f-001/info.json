@@ -51,5 +51,9 @@
     "alias": "A6B5_mC44_15_ae2f_e2f-001",
     "number_of_species": 2,
     "pearson_symbol": "mC44",
-    "space_group_number": 15
+    "space_group_number": 15,
+    "comments": "This is designated as the $\\eta'$ phase in the Cu-Sn system. (Massalski, 1990)",
+    "notes": "$\\eta$'-Cu$_{6}$Sn$_{5}$",
+    "ccdc": null,
+    "icsd": "106530"
 }

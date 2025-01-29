@@ -25,5 +25,9 @@
     "alias": "AB6CD_hP9_149_a_l_d_e-001",
     "number_of_species": 4,
     "pearson_symbol": "hP9",
-    "space_group_number": 149
+    "space_group_number": 149,
+    "comments": "In the sample studied by (Kuchugura, 2019) the site we have labeled ``Mn (1f)'' is actually 90.6\\% manganese and 9.4\\% tellurium, while the ``Te (1d)'' site is 90.6\\% tellurium and 9.4\\% manganese. \n The mineral kuranakhite (Xinchun, 1998) also has this composition. While it was tentatively indexed as a body-centered orthorhombic structure, its lattice constants are very close to the trigonal structure described here, indicating that this may be the structure of kuranakhite.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "5923"
 }

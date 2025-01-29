@@ -33,5 +33,9 @@
     "alias": "A11B3_oC28_65_c4gh_ah-001",
     "number_of_species": 2,
     "pearson_symbol": "oC28",
-    "space_group_number": 65
+    "space_group_number": 65,
+    "comments": "This is the low temperature phase of Tb$_{3}$Sn$_{7}$. (Palenzona, 1993) describe a high temperature phase but do not give enough information to determine the structure.  \n The Sn-III (80\\%), Sn-IV (13\\%), and Sn-V (7\\%) sites are only partially occupied.  These three Wyckoff positions are very close together, so presumably only one of the sites is occupied at any location in the crystal. \n We shifted the coordinate system so that the Tb-I atom is at the origin and the longest primitive vector is along ${\\bf a}_1$, rather than ${\\bf a}_2$ as given in (Palenzona, 1993).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "54357"
 }

@@ -22,5 +22,9 @@
     "alias": "A2B_tI12_140_h_a",
     "number_of_species": 2,
     "pearson_symbol": "tI12",
-    "space_group_number": 140
+    "space_group_number": 140,
+    "notes": "$C16$, Khatyrkite",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "198177"
 }

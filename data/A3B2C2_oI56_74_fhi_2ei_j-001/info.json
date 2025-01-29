@@ -45,5 +45,9 @@
     "alias": "A3B2C2_oI56_74_fhi_2ei_j-001",
     "number_of_species": 3,
     "pearson_symbol": "oI56",
-    "space_group_number": 74
+    "space_group_number": 74,
+    "comments": "FINDSYM rotated this structure by 90$^{\\circ}$ about the $z$-axis and shifted the origin by $(\\mathbf{a}_{1} + \\mathbf{a}_{2} + \\mathbf{a}_{3})/4$ compared to the structure in (Beck, 2000).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "411154"
 }

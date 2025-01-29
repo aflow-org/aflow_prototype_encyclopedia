@@ -25,5 +25,9 @@
     "alias": "AB3_hR12_166_ac_eh-001",
     "number_of_species": 2,
     "pearson_symbol": "hR12",
-    "space_group_number": 166
+    "space_group_number": 166,
+    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "58665"
 }

@@ -20,5 +20,9 @@
     "alias": "AB_hP4_194_a_c",
     "number_of_species": 2,
     "pearson_symbol": "hP4",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "comments": "The actual stoichiometry of this compounds is Li$_{0.8}$Zn$_{2}$, so each (2a) site is only filled 40\\% of the time.  This means that the short (1.26{\\AA}) distance between the lithium atoms shown here is illusionary.",
+    "notes": "$C_{k}$",
+    "ccdc": null,
+    "icsd": "104793"
 }

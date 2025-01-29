@@ -45,5 +45,9 @@
     "alias": "A9B2CD2_tI56_108_a2cd_c_a_c-001",
     "number_of_species": 4,
     "pearson_symbol": "tI56",
-    "space_group_number": 108
+    "space_group_number": 108,
+    "comments": "We could not reproduce all of the interatomic distances in Table III of (Lii, 1991).  While we found the correct nearest neighbor distances for Zn-O, P-O, and the first three V-O distances, we find that what they call the V-O(3) (our V-O I) distance is 1.57{\\AA} rather than the published value of 3.149{\\AA}.  The 1.57{\\AA} value can be easily confirmed from the published lattice constants, the Wyckoff positions in the paper, and by estimating the V-O(3) distance in Fig.~1 and comparing it to the P-O distances in the same figure.  We are not certain what distances the other entries in the table represent, as we cannot find them in our reconstruction of the crystal, which agrees with the ICSD entry and the Wyckoff parameters in Table II.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "69768"
 }

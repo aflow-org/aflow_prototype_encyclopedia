@@ -109,5 +109,9 @@
     "alias": "A13B4_mC102_12_dg8i5j_4ij",
     "number_of_species": 2,
     "pearson_symbol": "mC102",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "comments": "The Al-IV site is only occupied 70\\% of the time.  This makes the stoichiometry Al$_{12.8}$Fe$_{4}$, which (Black, 1955ab) rounds to Al$_{13}$Fe$_{4}$.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "57795"
 }

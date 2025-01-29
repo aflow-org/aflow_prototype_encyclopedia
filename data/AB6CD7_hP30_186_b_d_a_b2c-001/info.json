@@ -40,5 +40,9 @@
     "alias": "AB6CD7_hP30_186_b_d_a_b2c",
     "number_of_species": 4,
     "pearson_symbol": "hP30",
-    "space_group_number": 186
+    "space_group_number": 186,
+    "notes": "$H4_{18}$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "32534"
 }

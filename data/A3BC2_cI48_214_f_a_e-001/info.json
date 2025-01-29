@@ -21,5 +21,9 @@
     "alias": "A3BC2_cI48_214_f_a_e",
     "number_of_species": 3,
     "pearson_symbol": "cI48",
-    "space_group_number": 214
+    "space_group_number": 214,
+    "notes": "Petzite",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "27539"
 }

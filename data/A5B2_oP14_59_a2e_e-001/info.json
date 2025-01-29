@@ -35,5 +35,9 @@
     "alias": "A5B2_oP14_59_a2f_f",
     "number_of_species": 2,
     "pearson_symbol": "oP14",
-    "space_group_number": 59
+    "space_group_number": 59,
+    "comments": "An earlier version of this structure found by (Ketelaar, 1936) \\href{current_web_home_dir/A5B2_oP14_31_a2b_b-001}{was given the $D8_{7}$} {\\em Strukturbericht} designation in (Gottfried, 1938). It was later realized that this structure had a rather unexpected arrangement of vanadium atoms, and the structure was revised by (Enjalbert, 1986) and others.",
+    "notes": "Shcherbinaite ({\\em Revised})",
+    "ccdc": null,
+    "icsd": "60767"
 }

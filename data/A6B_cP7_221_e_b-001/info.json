@@ -20,5 +20,9 @@
     "alias": "A6B_cP7_221_f_a",
     "number_of_species": 2,
     "pearson_symbol": "cP7",
-    "space_group_number": 221
+    "space_group_number": 221,
+    "comments": "The internal parameter is chosen to match the intraoctalhedral boron-boron distance of 1.755\\AA{} found in (Yahia, 1990). The ICSD entry is from (Pauling, 1934).",
+    "notes": "$D2_{1}$",
+    "ccdc": null,
+    "icsd": "26753"
 }

@@ -25,5 +25,9 @@
     "alias": "AB2C2DE3_hR9_155_b_c_c_a_e",
     "number_of_species": 5,
     "pearson_symbol": "hR9",
-    "space_group_number": 155
+    "space_group_number": 155,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "77277"
 }

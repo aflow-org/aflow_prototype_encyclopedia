@@ -52,5 +52,9 @@
     "alias": "A2B2C4D_oP36_62_d_d_2cd_c",
     "number_of_species": 4,
     "pearson_symbol": "oP36",
-    "space_group_number": 62
+    "space_group_number": 62,
+    "comments": "The fluorine (8d) site in topaz can have a composition F$_{1-x}$(OH)$_{x}$, where $x < 0.3$. \n We use the data at $T = 298$K from the ``Pax08'' sample in (Komatsu, 2003) with $x = 0.215$. \n The data was presented in the $Pbnm$ setting of space group \\#62.  We used FINDSYM to transform this into the standard $Pnma$ setting. \n (Herman, 1937) gave this the $S0_{5}$ designation, but co-listed it as $H5_{5}$ in the index.",
+    "notes": "$S0_{5}$, Topaz",
+    "ccdc": null,
+    "icsd": "55860"
 }

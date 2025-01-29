@@ -57,5 +57,9 @@
     "alias": "A4B4C5D14_tP108_135_i_i_dfh_egh2i-001",
     "number_of_species": 4,
     "pearson_symbol": "tP108",
-    "space_group_number": 135
+    "space_group_number": 135,
+    "comments": "The O-I (8e) and F-I (16i) sites are only 1/4 occupied.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "236370"
 }

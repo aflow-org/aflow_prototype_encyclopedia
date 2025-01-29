@@ -41,5 +41,9 @@
     "alias": "A2B7CD2_tP48_136_j_2efhj_g_j-001",
     "number_of_species": 4,
     "pearson_symbol": "tP48",
-    "space_group_number": 136
+    "space_group_number": 136,
+    "comments": "AFLOW shifts the origin by 1/2 c $\\hat{z}$. This moves the O III atoms from the (4g) Wyckoff position to the (4f) position, and the Sr I atoms from (4g) to (4f).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "19038"
 }

@@ -27,5 +27,9 @@
     "alias": "A2BC_oP8_51_i_a_f-001",
     "number_of_species": 3,
     "pearson_symbol": "oP8",
-    "space_group_number": 51
+    "space_group_number": 51,
+    "comments": "This is the ground state of UB$_{2}$C, stable up to 1675$^\\circ$C.  Above that temperature it transforms to rhombohedral $\\beta$-UB$_{2}$C with the \\href{current_web_home_dir/A2BC_hR12_166_g_d_ac-001}{ThB$_{2}$C structure}. (Rogl, 1991) \n We use the data taken at 29K. \n The origin has been shifted to put the carbon atoms on the (2a) site.",
+    "notes": "$\\alpha$-UB$_{2}$C",
+    "ccdc": null,
+    "icsd": "69767"
 }

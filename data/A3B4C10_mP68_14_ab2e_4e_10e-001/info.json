@@ -119,5 +119,9 @@
     "alias": "A3B4C10_mP68_14_ab2e_4e_10e-001",
     "number_of_species": 3,
     "pearson_symbol": "mP68",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "comments": "(Olafsen, 2000) give the structure in the $P2_{1}/a$ setting of space group \\#14. We used AFLOW to transform it into the standard $P2_{1}/c$ setting.  This involves a redefinition of the primitive vectors.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "91099"
 }

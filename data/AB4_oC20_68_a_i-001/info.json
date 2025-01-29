@@ -27,5 +27,9 @@
     "alias": "AB4_oC20_68_a_i",
     "number_of_species": 2,
     "pearson_symbol": "oC20",
-    "space_group_number": 68
+    "space_group_number": 68,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "413280"
 }

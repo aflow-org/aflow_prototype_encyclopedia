@@ -29,5 +29,9 @@
     "alias": "A3B_hP24_165_adg_f",
     "number_of_species": 2,
     "pearson_symbol": "hP24",
-    "space_group_number": 165
+    "space_group_number": 165,
+    "comments": "This structure is crystallographically equivalent to \\href{current_web_home_dir/A3B_hP24_165_bdg_f-001}{Cu$_{3}$P ($D0_{21}$)}. We retain it as the prototype for the subclass of this prototype containing hydrogen. \n The data was taken for the deuteride, D$_{3}$Ho.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "16880"
 }

@@ -35,5 +35,9 @@
     "alias": "A5B3_oC32_63_cfg_ce",
     "number_of_species": 2,
     "pearson_symbol": "oC32",
-    "space_group_number": 63
+    "space_group_number": 63,
+    "comments": "Although (Massalski, 1990) lists Pd$_{5}$Pu$_{3}$ as the prototype for many structures, it is not shown in the assessed Pd-Pu phase diagram, which is based on data from 1967. \n (Cromer, 1976) states that this phase may be isostructural with Ga$_{5}$Zr$_{3}$, but at the time of publication the exact structure of that phase had not been solved.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "350"
 }

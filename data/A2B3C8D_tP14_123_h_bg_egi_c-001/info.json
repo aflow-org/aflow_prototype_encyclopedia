@@ -27,5 +27,9 @@
     "alias": "A2B3C8D_tP14_123_h_bg_egi_c-001",
     "number_of_species": 4,
     "pearson_symbol": "tP14",
-    "space_group_number": 123
+    "space_group_number": 123,
+    "comments": "This is the high temperature phase of Ba$_{2}$YCu$_{3-x}$O$_{7-y}$, stable above 575$^\\circ$C. (Nakai, 1987a). At lower temperatures is transforms into the superconducting \\href{current_web_home_dir/A2B3C7D_oP13_47_k_cj_aijl_f-001}{orthorhombic 1212C structure}. \n As with all of the high-T$_{c}$ cuprates there is considerable disorder.  In this sample the copper site has 9\\% vacancies, and the O I (2e) site has 20\\% occupation, givin $x = 0.6$. \n In some compounds the Cu I and Cu II sites are occupied by different species.  The ICSD lists these under the Ba$_{2}$YCu$_{3-x}$O$_{7-y}$ prototype, but we have separated those compounds out, creating the \\href{current_web_home_dir/A2BC2DE6_tP12_123_h_c_g_b_gi-001}{Hg-1212} prototype. \n AFLOW shifted the origin of the experimental report of the structure, moving the Cu I atom from the (1a) to the (1b) site.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "68045"
 }

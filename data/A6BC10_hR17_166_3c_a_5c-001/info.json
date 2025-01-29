@@ -35,5 +35,9 @@
     "alias": "A6BC10_hR17_166_3c_a_5c-001",
     "number_of_species": 3,
     "pearson_symbol": "hR17",
-    "space_group_number": 166
+    "space_group_number": 166,
+    "comments": "The ICSD entry lists $x_{9}$ = 0.4446, while the text of (Aliev, 2019) gives 0.41446.  The difference is large enough that <tt>xprototype</tt> declares the two lattices unmatchable.  The value of 0.41446 gives atomic positions consistent with Fig. 5 of (Alieve, 2019) -- all Bi-Mn-Te layers are terminated by Te surfaces -- so we use that value. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "37568"
 }

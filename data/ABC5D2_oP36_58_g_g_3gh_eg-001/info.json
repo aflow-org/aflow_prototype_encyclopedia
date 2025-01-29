@@ -54,5 +54,9 @@
     "alias": "ABC5D2_oP36_58_g_g_3gh_eg",
     "number_of_species": 4,
     "pearson_symbol": "oP36",
-    "space_group_number": 58
+    "space_group_number": 58,
+    "comments": "This structure was originally determined by (Kokorous, 1937) and designated $H2_{7}$ by (Gottfried, 1940).  (Hill, 1976) refined the structure, including the positions of the hydrogen atoms in the OH radical.",
+    "notes": "$H2_7$, Adamite",
+    "ccdc": null,
+    "icsd": "34868"
 }

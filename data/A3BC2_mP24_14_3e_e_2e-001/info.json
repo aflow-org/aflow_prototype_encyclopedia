@@ -59,5 +59,9 @@
     "alias": "A3BC2_mP24_14_3e_e_2e-001",
     "number_of_species": 3,
     "pearson_symbol": "mP24",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "comments": "This is the low-temperature structure of Tl$_{2}$TeO$_{3}$. Above 440$^\\circ$C it transforms into the orthorhombic \\href{current_web_home_dir/A3BC2_oP48_50_3m_m_2m-001}{$\\alpha $Tl$_{2}$TeO$_{3}$}.  The data was taken at 25$^\\circ$. (Rieger, 2007). \n (Rieger, 2007) mislabel the Wyckoff positions for $\\beta$-Tl$_{2}$TeO$_{3}$.  All of the atoms are on the general position (4e) sites.",
+    "notes": "$\\beta$-Tl$_{2}$TeO$_{3}$",
+    "ccdc": null,
+    "icsd": "none"
 }

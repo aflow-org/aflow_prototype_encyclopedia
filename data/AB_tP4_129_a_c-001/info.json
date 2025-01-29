@@ -22,5 +22,9 @@
     "alias": "AB_tP4_129_a_c",
     "number_of_species": 2,
     "pearson_symbol": "tP4",
-    "space_group_number": 129
+    "space_group_number": 129,
+    "comments": "This is the tetragonal room temperature form reported by (Boher, 1985), with data taken at 77.6K. They claim a transformation to the \\href{current_web_home_dir/AB_oC8_67_a_g-002}{orthorhombic $\\alpha$-PbO phase} below 77K. See the discuss of the problems with this transition on the \\href{current_web_home_dir/AB_oC8_67_a_g-002}{$\\alpha$-PbO} page. \n  This structure is the binary version of the \\href{current_web_home_dir/A_tP4_129_ac-001}{$A_{d}$ ($\\beta$-Np) structure}.",
+    "notes": "$B10$, Litharge",
+    "ccdc": null,
+    "icsd": "62840"
 }

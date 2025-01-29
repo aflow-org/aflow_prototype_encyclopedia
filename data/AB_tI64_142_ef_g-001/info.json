@@ -29,5 +29,9 @@
     "alias": "AB_tI64_142_ef_g-001",
     "number_of_species": 2,
     "pearson_symbol": "tI64",
-    "space_group_number": 142
+    "space_group_number": 142,
+    "comments": "(Marsh, 1953) describe the structure in the first setting of space group $I4_{1}/acd$ \\#142.  We used FINDSYM to translate this into the standard second setting.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "105156"
 }

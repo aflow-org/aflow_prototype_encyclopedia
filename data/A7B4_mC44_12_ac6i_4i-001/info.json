@@ -63,5 +63,9 @@
     "alias": "A7B4_mC44_12_ac6i_4i-001",
     "number_of_species": 2,
     "pearson_symbol": "mC44",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "41238"
 }

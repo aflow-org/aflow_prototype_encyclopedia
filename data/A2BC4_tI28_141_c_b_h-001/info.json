@@ -23,5 +23,9 @@
     "alias": "A2BC4_tI28_141_c_b_h-001",
     "number_of_species": 3,
     "pearson_symbol": "tI28",
-    "space_group_number": 141
+    "space_group_number": 141,
+    "comments": "This is a tetragonal distortion of the \\href{current_web_home_dir/A2BC4_cF56_227_c_b_e-001}{spinel ($H1_{1}$) structure}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "84378"
 }

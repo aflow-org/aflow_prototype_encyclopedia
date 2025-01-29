@@ -71,5 +71,9 @@
     "alias": "A_mP32_13_8g-001",
     "number_of_species": 1,
     "pearson_symbol": "mP32",
-    "space_group_number": 13
+    "space_group_number": 13,
+    "comments": "We take the name of this structure from (Donohue, 1976), which occurs naturally as the mineral rosick\\'{y}ite. (Donohue, 1976; Downs, 2003)  The sulfur atoms form eight-atom rings, just like \\href{current_web_home_dir/A_oF128_70_4h-001}{$\\alpha$ sulfur ($A16$)} and \\href{current_web_home_dir/A_mP64_14_16e-002}{$\\beta$-monoclinic sulfur}.",
+    "notes": "Rosick\\'{y}ite",
+    "ccdc": null,
+    "icsd": "66517"
 }

@@ -29,5 +29,9 @@
     "alias": "AB3_hP24_178_b_ac",
     "number_of_species": 2,
     "pearson_symbol": "hP24",
-    "space_group_number": 178
+    "space_group_number": 178,
+    "comments": "Previously (Hicks, 2019) used the data from (Asprey, 1964) to describe this structure.  We have updated this to use the more recent data from (\\v{Z}emva, 1991).  This does not change the essential nature of the structure. \n This structure can also be found in \\href{current_web_home_dir/AB3_hP24_179_b_ac-001}{the enantiomorphic space group $P6_{5}22$ \\#179}.  That page presents the original data from (Asprey, 1964).",
+    "notes": "Refined Structure",
+    "ccdc": null,
+    "icsd": "80478"
 }

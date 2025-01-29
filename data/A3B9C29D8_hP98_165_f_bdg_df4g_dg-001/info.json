@@ -65,5 +65,9 @@
     "alias": "A3B9C29D8_hP98_165_f_bdg_df4g_dg-001",
     "number_of_species": 4,
     "pearson_symbol": "hP98",
-    "space_group_number": 165
+    "space_group_number": 165,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "50957"
 }

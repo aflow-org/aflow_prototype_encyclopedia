@@ -21,5 +21,9 @@
     "alias": "AB_hP8_194_ac_f-003",
     "number_of_species": 2,
     "pearson_symbol": "hP8",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "comments": "(Feh\\'{e}r, 1953) and (F\\\"{o}ppl, 1957) presented competing structures for LiO, both in space group $P\\overline{6}$ \\#174.  First-principles calculation by (Cota, 2005) and (Chen, 2011) suggest that the F\\\"{o}ppl structure is correct, but show that the proper space group is $P6_{3}/mmc$ \\#194.  This is generally held to be the correct structure, {\\em e.g.} (Jain, 2013).  We use the symmetrization of F\\\"{o}ppl's original data made by (Cota, 2005). \n The ICSD entry is from F\\\"{o}ppl, 1957), updated to make the space group $P6_{3}/mmc$.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "25530"
 }

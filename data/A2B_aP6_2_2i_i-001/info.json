@@ -45,5 +45,9 @@
     "alias": "A2B_aP6_2_2i_i",
     "number_of_species": 2,
     "pearson_symbol": "aP6",
-    "space_group_number": 2
+    "space_group_number": 2,
+    "comments": "The ICSD entry for this structure has a much different value for $\\beta$ than what appears in the published work.  At the present time we do not have a resolution to this problem",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "36293"
 }

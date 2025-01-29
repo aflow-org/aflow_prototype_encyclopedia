@@ -59,5 +59,9 @@
     "alias": "A2B_mP24_14_4e_2e-001",
     "number_of_species": 2,
     "pearson_symbol": "mP24",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "comments": "An earlier version of this structure by (Hegyi, 1963) had zinc-zinc bonds which are not observed in other Zn-P or Zn-As structures.  We use the structure of (Fleet, 1984), which is also the one used in (Villars, 2018). \n ZnP$_{2}$ can also be found in a \\href{current_web_home_dir/A2B_tP24_92_2b_b-001}{tetragonal (red) form}.",
+    "notes": "Monoclinic (black) ZnP$_{2}$",
+    "ccdc": null,
+    "icsd": "60011"
 }

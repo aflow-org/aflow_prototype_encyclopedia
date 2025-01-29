@@ -37,5 +37,9 @@
     "alias": "A2B3_tI80_141_ceh_3h",
     "number_of_species": 2,
     "pearson_symbol": "tI80",
-    "space_group_number": 141
+    "space_group_number": 141,
+    "comments": "This is a \\href{current_web_home_dir/A2BC4_cF56_227_c_b_e-001}{spinel structure} with ordered defects.",
+    "notes": "$\\beta$-In$_{2}$S$_{3}$",
+    "ccdc": null,
+    "icsd": "151644"
 }

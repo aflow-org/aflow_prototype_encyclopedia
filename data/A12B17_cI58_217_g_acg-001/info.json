@@ -27,5 +27,9 @@
     "alias": "A12B17_cI58_217_g_acg-001",
     "number_of_species": 2,
     "pearson_symbol": "cI58",
-    "space_group_number": 217
+    "space_group_number": 217,
+    "comments": "This is a binary form of \\href{current_web_home_dir/A_cI58_217_ac2g-001}{$\\alpha$-Mn ($A12$)}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "23607"
 }

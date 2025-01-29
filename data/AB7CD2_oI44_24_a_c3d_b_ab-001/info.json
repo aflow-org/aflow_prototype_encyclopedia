@@ -49,5 +49,9 @@
     "alias": "AB7CD2_oI44_24_a_b3d_c_ac",
     "number_of_species": 4,
     "pearson_symbol": "oI44",
-    "space_group_number": 24
+    "space_group_number": 24,
+    "notes": "Weberite",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "33512"
 }

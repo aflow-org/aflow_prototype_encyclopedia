@@ -19,5 +19,9 @@
     "alias": "A2B_cP12_212_c_a",
     "number_of_species": 2,
     "pearson_symbol": "cP12",
-    "space_group_number": 212
+    "space_group_number": 212,
+    "comments": "This structure may also be found in the enantiomorphic space group $P4_{1}32$ \\#213.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "24145"
 }

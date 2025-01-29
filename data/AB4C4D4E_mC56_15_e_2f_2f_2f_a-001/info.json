@@ -62,5 +62,9 @@
     "alias": "AB4C4D4E_mC56_15_e_2f_2f_2f_a",
     "number_of_species": 5,
     "pearson_symbol": "mC56",
-    "space_group_number": 15
+    "space_group_number": 15,
+    "comments": "We use the structure found by (Larsen, 1969).  It is very similar to the structure found by (Brasseur, 1938) which was designated $H4_{22}$ by (Herrmann, 1941).  The newer work was able to separate the carbon and nitrogen atoms in the cyanide (CN) radical, and also moved the barium atom from the (4b) to the (4e) Wyckoff position. The location of the hydrogen atoms in the water molecules is still unknown, so they are listed as H$_{2}$O.",
+    "notes": "$H4_{22}$",
+    "ccdc": null,
+    "icsd": "15002"
 }

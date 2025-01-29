@@ -31,5 +31,9 @@
     "alias": "A2B_mC12_15_f_e",
     "number_of_species": 2,
     "pearson_symbol": "mC12",
-    "space_group_number": 15
+    "space_group_number": 15,
+    "comments": "This is a metastable phase of CaC$_{2}$.  The stable room-temperature phase is in the \\href{current_web_home_dir/A2B_tI6_139_e_a-001}{$C11_{a}$ (A2B\\_tI6\\_139\\_e\\_a) structure}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "42900"
 }

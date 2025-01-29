@@ -63,5 +63,9 @@
     "alias": "ABC6D15_oP46_51_f_d_2e2i_aef4i2j",
     "number_of_species": 4,
     "pearson_symbol": "oP46",
-    "space_group_number": 51
+    "space_group_number": 51,
+    "comments": "(Lundberg, 1965) suggests that the lithium atoms are either on the (2d) site or are statistically distributed on a (4f) site with approximate coordinates (0.08,1/2,0.10).  For simplicity we place the atoms on the (2d) site.\n The X-ray scattering of an F$^{-}$ ion is almost identical to that of O$^{-2}$, and Lundberg was not able to distinguish between them.  She arbitrarily designated the (2f) site she called O$_{4}$ as the location of the fluorine ion and we follow this, but in reality we have no idea if the F$^{-}$ ions are located on this site, are ordered on another site, or are statistically distributed on the oxygen sites. \n The ICSD entry does not place the lithium atoms.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "2910"
 }

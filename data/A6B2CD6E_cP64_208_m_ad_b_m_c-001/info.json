@@ -29,5 +29,9 @@
     "alias": "A6B2CD6E_cP64_208_m_ad_b_m_c",
     "number_of_species": 5,
     "pearson_symbol": "cP64",
-    "space_group_number": 208
+    "space_group_number": 208,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "none"
 }

@@ -29,5 +29,9 @@
     "alias": "A3B2C6_hP22_163_cf_e_i-001",
     "number_of_species": 3,
     "pearson_symbol": "hP22",
-    "space_group_number": 163
+    "space_group_number": 163,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "41021"
 }

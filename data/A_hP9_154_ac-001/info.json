@@ -27,5 +27,9 @@
     "alias": "A_hP9_154_bc",
     "number_of_species": 1,
     "pearson_symbol": "hP9",
-    "space_group_number": 154
+    "space_group_number": 154,
+    "comments": "The S-II phase is found when sulfur is heated and pressurized above 3 GPa. This data was taken at 5.8 GPa and 800K.",
+    "notes": "S-II (HP,HT)",
+    "ccdc": null,
+    "icsd": "none"
 }

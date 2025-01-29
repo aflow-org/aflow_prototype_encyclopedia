@@ -37,5 +37,9 @@
     "alias": "A2B_hR18_148_2f_f",
     "number_of_species": 2,
     "pearson_symbol": "hR18",
-    "space_group_number": 148
+    "space_group_number": 148,
+    "comments": "PdCl$_{2}$ is known to exist in four different structures at ambient pressure (Evers, 2010): \\begin{itemize} \\item \\href{current_web_home_dir/A2B_oP6_58_g_a-001}{orthorhombic $\\alpha$-PdCl$_{2}$}, \\item \\href{current_web_home_dir/A2B_hR18_148_2f_f-001}{rhombohedral $\\beta$-PdCl$_{2}$} (this structure), \\item \\href{current_web_home_dir/A2B_mP6_14_e_a-001}{monoclinic $\\gamma$-PdCl$_{2}$}, and \\item \\href{current_web_home_dir/A2B_mP6_10_mn_bc-001}{monoclinic $\\delta$-PdCl$_{2}$}. \\end{itemize} ~ \\vspace{-.25in} \n (Dell'Amico, 1996) did the original assessment of the crystal structure of $\\beta$-PdCl$_{2}$, but it is difficult to determine the Wyckoff positions from this paper. We relied on (Villars, 2010) for the Wyckoff positions.",
+    "notes": "$\\beta$-PdCl$_{2}$",
+    "ccdc": null,
+    "icsd": "404624"
 }

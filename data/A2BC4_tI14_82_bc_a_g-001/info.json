@@ -26,5 +26,9 @@
     "alias": "A2BC4_tI14_82_bc_a_g",
     "number_of_species": 3,
     "pearson_symbol": "tI14",
-    "space_group_number": 82
+    "space_group_number": 82,
+    "comments": "When $c=2a$ and $x=y=1/4$, and $z=1/8$ the atoms are on the sites of the \\href{current_web_home_dir/A_cF8_227_a-001}{diamond (A4) structure}, but of course there are defects. Removing the Al-I (2b) atom transforms this to the \\href{current_web_home_dir/AB4C_tI12_82_c_g_a-001}{BPO$_{4}$ ($H0_{7}$) structure}. \n (Pearson, 1967) gives this the designation $E3$, without any subscript. It should be defined as $E3_{a}$, but as he did not put any other structures into this subcategory, we will leave it as is.",
+    "notes": "$E3$",
+    "ccdc": null,
+    "icsd": "25634"
 }

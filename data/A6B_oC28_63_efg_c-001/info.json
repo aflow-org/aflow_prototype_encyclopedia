@@ -34,5 +34,9 @@
     "alias": "A6B_oC28_63_efg_c",
     "number_of_species": 2,
     "pearson_symbol": "oC28",
-    "space_group_number": 63
+    "space_group_number": 63,
+    "notes": "$D2_{h}$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "57973"
 }

@@ -115,5 +115,9 @@
     "alias": "A8B2C13_mP46_11_8e_2e_13e-001",
     "number_of_species": 3,
     "pearson_symbol": "mP46",
-    "space_group_number": 11
+    "space_group_number": 11,
+    "comments": "The Bi VIII site is actually 62\\% bismuth and 38\\% potassium, while the K I site is 62\\% potassium and 38\\% bismuth. \n K$_{2}$Bi$_{8}$Se$_{13}$ can also be found in the \\href{current_web_home_dir/A8B2C13_aP23_2_4i_i_a6i-001}{triclinic $\\alpha$ phase}, which has no compositional disorder.",
+    "notes": "$\\beta$-phase",
+    "ccdc": null,
+    "icsd": "84268"
 }

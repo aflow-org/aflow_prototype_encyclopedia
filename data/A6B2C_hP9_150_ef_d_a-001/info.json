@@ -25,5 +25,9 @@
     "alias": "A6B2C_hP9_150_ef_d_a-001",
     "number_of_species": 3,
     "pearson_symbol": "hP9",
-    "space_group_number": 150
+    "space_group_number": 150,
+    "comments": "When $z_{2} = 1/2$ this transforms into $\\delta$-Na$_{2}$ThF$_{6}$ which has the hexagonal \\href{current_web_home_dir/A6B2C_hP9_189_fg_c_b-001}{$\\beta_{1}$-K$_{2}$UF$_{6}$ structure}. \n We use the data from (Grzechnik, 2007) taken at 100K and ambient pressure.",
+    "notes": "$\\beta$-Na$_{2}$ThF$_{6}$",
+    "ccdc": null,
+    "icsd": "418148"
 }

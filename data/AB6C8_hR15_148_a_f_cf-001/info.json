@@ -33,5 +33,9 @@
     "alias": "AB6C8_hR15_148_a_f_cf-001",
     "number_of_species": 3,
     "pearson_symbol": "hR15",
-    "space_group_number": 148
+    "space_group_number": 148,
+    "comments": "BaMo$_{6}$S$_{8}$ and other Chevrel phase compounds undergo structural transitions at low temperatures.  BaMo$_{6}$S$_{8}$ transforms into a triclinic $P\\overline{1}$ structure below 175K.  Structural parameters for the low temperature phase can be found in (Kubel, 1990).  We use the data for the rhombohedral $R\\overline{3}$ structure taken at 177K. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "none"
 }

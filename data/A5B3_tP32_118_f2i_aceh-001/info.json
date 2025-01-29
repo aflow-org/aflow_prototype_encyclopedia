@@ -37,5 +37,9 @@
     "alias": "A5B3_tP32_118_g2i_aceh",
     "number_of_species": 2,
     "pearson_symbol": "tP32",
-    "space_group_number": 118
+    "space_group_number": 118,
+    "comments": "In our original publication (Hicks, 2019) the iridium atoms on the (2d) site were inadvertantly placed on the (3c) site.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "103761"
 }

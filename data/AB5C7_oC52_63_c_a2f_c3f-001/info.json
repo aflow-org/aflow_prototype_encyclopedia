@@ -45,5 +45,9 @@
     "alias": "AB5C7_oC52_63_c_a2f_c3f-001",
     "number_of_species": 3,
     "pearson_symbol": "oC52",
-    "space_group_number": 63
+    "space_group_number": 63,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "16356"
 }

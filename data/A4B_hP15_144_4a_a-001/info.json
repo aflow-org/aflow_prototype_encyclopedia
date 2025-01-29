@@ -49,5 +49,9 @@
     "alias": "A4B_hP15_144_4a_a",
     "number_of_species": 2,
     "pearson_symbol": "hP15",
-    "space_group_number": 144
+    "space_group_number": 144,
+    "comments": "This structure can also be found in the enantiomorphic space group $P3_{2}$ ~ \\# 145.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "197310"
 }

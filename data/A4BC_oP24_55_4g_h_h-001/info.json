@@ -45,5 +45,9 @@
     "alias": "A4BC_oP24_55_4g_h_h-001",
     "number_of_species": 3,
     "pearson_symbol": "oP24",
-    "space_group_number": 55
+    "space_group_number": 55,
+    "comments": "We have shifted the origin so that the boron atoms are in the $z = 0$ plane.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "101057"
 }

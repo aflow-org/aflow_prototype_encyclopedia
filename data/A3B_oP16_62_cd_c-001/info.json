@@ -36,5 +36,9 @@
     "alias": "A3B_oP16_62_cd_c",
     "number_of_species": 2,
     "pearson_symbol": "oP16",
-    "space_group_number": 62
+    "space_group_number": 62,
+    "notes": "$D0_{20}$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "58040"
 }

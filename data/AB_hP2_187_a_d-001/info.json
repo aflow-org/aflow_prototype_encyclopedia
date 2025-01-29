@@ -20,5 +20,9 @@
     "alias": "AB_hP2_187_d_a",
     "number_of_species": 2,
     "pearson_symbol": "hP2",
-    "space_group_number": 187
+    "space_group_number": 187,
+    "notes": "$B_{h}$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "15406"
 }

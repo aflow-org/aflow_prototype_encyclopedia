@@ -22,5 +22,9 @@
     "alias": "A4B2C_tP7_123_j_e_a",
     "number_of_species": 3,
     "pearson_symbol": "tP7",
-    "space_group_number": 123
+    "space_group_number": 123,
+    "notes": "$H1_{5}$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "2722"
 }

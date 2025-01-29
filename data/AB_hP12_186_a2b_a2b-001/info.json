@@ -32,5 +32,9 @@
     "alias": "AB_hP12_186_a2b_a2b",
     "number_of_species": 2,
     "pearson_symbol": "hP12",
-    "space_group_number": 186
+    "space_group_number": 186,
+    "comments": "This is an alternate stacking (ABCACB) for tetrahedral structures. Compare this to \\href{current_web_home_dir/AB_cF8_216_a_c-001}{zincblende ($B3$, ABCABC)}, \\href{current_web_home_dir/AB_hP8_186_ab_ab-001}{moissanite-4H ($B5$, ABAC)}, and \\href{current_web_home_dir/AB_hP4_186_b_b-001}{wurtzite ($B4$, ABABAB)}. \n The 6H refers to the fact that there are 6 CSi dimers in a hexagonal unit cell. Zincblende is denoted 3C, and wurtzite is 2H. \n Without loss of generality, we can take any of the $z_{i}$ to be zero. Here we take $z_{2} = 0$ for the silicon (2a) site. \n The ICSD entry is from the later work of (Capitani, 2007).",
+    "notes": "$B6$, 6H-Moissanite",
+    "ccdc": null,
+    "icsd": "156190"
 }

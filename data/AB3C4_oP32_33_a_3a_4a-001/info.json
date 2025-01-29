@@ -69,5 +69,9 @@
     "alias": "AB3C4_oP32_33_a_3a_4a",
     "number_of_species": 3,
     "pearson_symbol": "oP32",
-    "space_group_number": 33
+    "space_group_number": 33,
+    "comments": "Space group $Pna2_{1}$ \\#33 allows an arbitrary origin for the $z$-axis, which is set here by taking $z_{2} = 1/4$.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "2314"
 }

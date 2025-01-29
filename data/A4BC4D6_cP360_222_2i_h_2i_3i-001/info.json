@@ -61,5 +61,9 @@
     "alias": "A4BC4D6_cP360_222_2i_h_2i_3i-001",
     "number_of_species": 4,
     "pearson_symbol": "cP360",
-    "space_group_number": 222
+    "space_group_number": 222,
+    "ccdc": "187771",
+    "comments": "There is no ICSD entry for (Neeraj, 2002). The ICSD entry is from (Naether, 2002).",
+    "notes": null,
+    "icsd": "110022"
 }

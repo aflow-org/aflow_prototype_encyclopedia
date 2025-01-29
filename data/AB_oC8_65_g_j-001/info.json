@@ -25,5 +25,9 @@
     "alias": "AB_oC8_65_j_g",
     "number_of_species": 2,
     "pearson_symbol": "oC8",
-    "space_group_number": 65
+    "space_group_number": 65,
+    "notes": "$\\alpha$-IrV",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "104590"
 }

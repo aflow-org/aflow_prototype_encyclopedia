@@ -31,5 +31,9 @@
     "alias": "A3B11C4_hR36_167_d_cef_be-001",
     "number_of_species": 3,
     "pearson_symbol": "hR36",
-    "space_group_number": 167
+    "space_group_number": 167,
+    "comments": "Only two-thirds of the (6d) site are filled with copper atoms.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "194463"
 }

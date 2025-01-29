@@ -93,5 +93,9 @@
     "alias": "ABC15D6E_oC192_64_d_e_3f6g_3g_e-001",
     "number_of_species": 5,
     "pearson_symbol": "oC192",
-    "space_group_number": 64
+    "space_group_number": 64,
+    "notes": "Zektzerite",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "100631"
 }

@@ -43,5 +43,9 @@
     "alias": "A2B2C3_oP28_57_e_cd_de-001",
     "number_of_species": 3,
     "pearson_symbol": "oP28",
-    "space_group_number": 57
+    "space_group_number": 57,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "30725"
 }

@@ -19,5 +19,9 @@
     "alias": "A_cI16_220_c",
     "number_of_species": 1,
     "pearson_symbol": "cI16",
-    "space_group_number": 220
+    "space_group_number": 220,
+    "comments": "This is a high-pressure phase of lithium. We use the data from (Hanfland, 2000) at 38.9 GPa. When $x_{1} = 0$ this becomes a \\href{current_web_home_dir/A_cI2_229_a-001}{body-centered cubic ($A2$) system}. \n We have used the fact that all vectors of the form $(\\pm a/2 \\hat{x} \\pm a/2 \\hat{y} \\pm a/2 \\hat{z})$ are primitive vectors of the body-centered cubic lattice to simplify the positions of some atoms in both lattice and Cartesian coordinates. \n The ICSD entry was recorded at 45 GPa.",
+    "notes": "38.9 GPa",
+    "ccdc": null,
+    "icsd": "109012"
 }

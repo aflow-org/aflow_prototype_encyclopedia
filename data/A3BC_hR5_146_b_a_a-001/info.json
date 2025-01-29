@@ -29,5 +29,9 @@
     "alias": "A3BC_hR5_146_b_a_a",
     "number_of_species": 3,
     "pearson_symbol": "hR5",
-    "space_group_number": 146
+    "space_group_number": 146,
+    "comments": "$\\gamma$-Ag$_{3}$SI is the low temperature structure.  Above 157K it transforms into $\\beta$-Ag$_{3}$SI, a variation of the \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite ($E2_{1}$) structure}. \n Space group $R3$ \\#146 allows an arbitary placement of the origin of the $z$-axis.  We use this freedom to place a sulfur atom at the origin, $z_{2} = 0$.",
+    "notes": "$\\gamma$-Ag$_{3}$SI",
+    "ccdc": null,
+    "icsd": "174095"
 }

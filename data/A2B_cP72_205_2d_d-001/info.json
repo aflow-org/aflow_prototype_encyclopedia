@@ -35,5 +35,9 @@
     "alias": "A2B_cP72_205_2d_d-001",
     "number_of_species": 2,
     "pearson_symbol": "cP72",
-    "space_group_number": 205
+    "space_group_number": 205,
+    "comments": "We use the ``High angle'' measurements of (Dr\"{u}ck, 1984).",
+    "notes": "Hexacyanobenzene",
+    "ccdc": null,
+    "icsd": "30814"
 }

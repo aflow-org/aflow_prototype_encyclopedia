@@ -29,5 +29,9 @@
     "alias": "AB3_oC16_63_c_cf",
     "number_of_species": 2,
     "pearson_symbol": "oC16",
-    "space_group_number": 63
+    "space_group_number": 63,
+    "comments": "This is the parent structure of the ternary \\href{current_web_home_dir/A2BC_oC16_63_f_c_c-002}{MgCuAl$_{2}$ ($E1_{a}$) structure}. There are also ``filled'' versions of this structure, \\href{current_web_home_dir/ABC3_oC20_63_c_a_cf-003}{V$_{3}$AsC} and \\href{current_web_home_dir/AB2CD_oC20_63_a_f_c_c-001}{ThFe$_{2}$SiC}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "43662"
 }

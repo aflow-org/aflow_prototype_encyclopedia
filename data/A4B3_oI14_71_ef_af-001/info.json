@@ -28,5 +28,9 @@
     "alias": "A4B3_oI14_71_gh_cg",
     "number_of_species": 2,
     "pearson_symbol": "oI14",
-    "space_group_number": 71
+    "space_group_number": 71,
+    "notes": "$D7_{b}$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "44589"
 }

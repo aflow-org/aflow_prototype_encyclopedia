@@ -65,5 +65,9 @@
     "alias": "AB6_mP28_14_e_6e-001",
     "number_of_species": 2,
     "pearson_symbol": "mP28",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "comments": "Earlier work by (Andersson, 1974) (ICSD 15048) put this structure in space group $C2/c$ \\#15.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "26898"
 }

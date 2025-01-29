@@ -39,5 +39,9 @@
     "alias": "AB2C6D_oC40_65_g_n_ijklm_h-001",
     "number_of_species": 4,
     "pearson_symbol": "oC40",
-    "space_group_number": 65
+    "space_group_number": 65,
+    "comments": "SmBaMn$_{2}$O$_{6}$ undergoes several structural and magnetic phase transitions with changing temperature (Sagayama, 2014; Chen, 2019): \\begin{itemize} \\item Below 190K the structure is in \\href{current_web_home_dir/AB2C6D_oP40_26_2a_2c_2a2b4c_2b-001}{a polar orthorhombic phase with space group $Pmc2_{1}$ \\#26}. \\item Between 190K and 362 K the structure is in \\href{current_web_home_dir/AB2C6D_oP80_62_2c_2d_2c5d_d-001}{a non-polar orthorhombic phase with space group $Pnma$ \\#62}. \\item Above 362 K the structure is in \\href{current_web_home_dir/AB2C6D_oC40_65_g_n_ijklm_h-001}{quadrupled perovskite orthorhombic phase with space group $Cmmm$ \\#65} (this structure). \\item In the high temperature phase the samarium and barium sites may be disordered, in which case the system is in the \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite ($E2_{1}$) structure}. ~ \\end{itemize} ~ \\vspace{-.25in} \n Here we use the structural information from (Sagayama, 2019) at 400K. \n The cubic perovskite phase may be recovered from this structure by replacing the barium atoms by samarium, setting $a = b = c$, and setting all variable Wyckoff position parameters to 1/4.",
+    "notes": "HT",
+    "ccdc": null,
+    "icsd": "none"
 }

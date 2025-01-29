@@ -48,5 +48,9 @@
     "alias": "A3B6CD_tP44_85_bcg_3g_ac_e",
     "number_of_species": 4,
     "pearson_symbol": "tP44",
-    "space_group_number": 85
+    "space_group_number": 85,
+    "comments": "(Andre\\ss, 1939) first determined the structure of bromocarnallite, using a sample with 75\\% bromine on the halide site. \n They were unable to locate the hydrogen atoms, and placed the compound in space group $P4/n$ \\#85.  The data was given by (Hermann, 1939) in setting 1 of this group, but we used FINDSYM to place it in the standard setting 2. \n (Hermann, 1939) assigned this compound the {\\em Strukcturbericht} symbol $E2_{6}$. \n (Schlemper, 1985) re-examined the structure for the pure chlorine version, Carnalliite.  They located the hydrogen atoms and placed the system in space group $Pnna$ \\#52.  We present this structure in the \\href{current_web_home_dir/A3B12CDE6_oP276_52_d4e_18e_ce_de_2d8e-001}{Carnallite structure page}.",
+    "notes": "$E2_{6}$, Bromocarnallite",
+    "ccdc": null,
+    "icsd": "30220"
 }

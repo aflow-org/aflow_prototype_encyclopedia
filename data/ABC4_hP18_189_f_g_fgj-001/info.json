@@ -31,5 +31,9 @@
     "alias": "ABC4_hP18_189_f_g_fgj-001",
     "number_of_species": 3,
     "pearson_symbol": "hP18",
-    "space_group_number": 189
+    "space_group_number": 189,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "2278"
 }

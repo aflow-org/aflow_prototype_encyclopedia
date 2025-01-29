@@ -71,5 +71,9 @@
     "alias": "A4B_mC30_8_2a5b_ab-001",
     "number_of_species": 2,
     "pearson_symbol": "mC30",
-    "space_group_number": 8
+    "space_group_number": 8,
+    "comments": "Space group $Cm$ \\#8 allows arbitrary origins for the $x$ and $z$ coordinates.  Here we use this to place the W-I atom at the origin.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "58205"
 }

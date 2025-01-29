@@ -18,5 +18,9 @@
     "alias": "AB_cP2_221_a_b.NH4.NO3",
     "number_of_species": 2,
     "pearson_symbol": "cP2",
-    "space_group_number": 221
+    "space_group_number": 221,
+    "comments": "Ammonium Nitrate exists in a variety of forms, (Hermann, 1937) depending on the temperature: \\begin{tabular}{ccccc} \\\\ Phase & Temperature $^{\\circ}$C & {\\em Strukturbericht} & Page & \\\\ \\hline I & 125 -- 170 & $G0_{8}$ & \\href{current_web_home_dir/AB_cP2_221_a_b-001}{AB\\_cP2\\_221\\_a\\_b-001} & (this structure) \\\\ II & 84 -- 125 & $G0_{9}$ & \\href{current_web_home_dir/ABC3_tP10_100_b_a_bc-001}{ABC3\\_tP10\\_100\\_b\\_a\\_bc} \\\\ III & 32 -- 84 & $G0_{10}$ & \\href{current_web_home_dir/ABC3_oP20_62_c_c_cd-002}{ABC3\\_oP20\\_62\\_c\\_c\\_cd-002} \\\\ IV & -18 -- 32 & $G0_{11}$ & \\href{current_web_home_dir/A4B2C3_oP18_59_ef_ab_ae-001}{A4B2C3\\_oP18\\_59\\_ef\\_ab\\_af-001} \\\\ V & $< -18$ & & \\href{current_web_home_dir/A4B2C3_tP72_77_8d_ab2c2d_6d-001}{A4B2C3\\_tP72\\_77\\_8d\\_ab2c2d\\_6d2-001} \\end{tabular} \n In the $G0_{8}$ structure, both the NH$_{4}$ and NO$_{3}$ radicals rotate freely about their centers of mass (Kracek, 1931).  The two radicals sit on the same sites as atoms in the \\href{current_web_home_dir/AB_cP2_221_a_b-002}{CsCl ($B2$) structure}.",
+    "notes": "$G0_{8}$, NH$_{4}$NO$_{3}$ I",
+    "ccdc": null,
+    "icsd": "none"
 }

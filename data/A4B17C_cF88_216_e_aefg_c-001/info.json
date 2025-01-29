@@ -25,5 +25,9 @@
     "alias": "A4B17C_cF88_216_e_aefg_c-001",
     "number_of_species": 3,
     "pearson_symbol": "cF88",
-    "space_group_number": 216
+    "space_group_number": 216,
+    "comments": "(Gui, 2021) describe this compound as a rhombohedral structure in space group $R3m$ \\#160, a distortion of the \\href{current_web_home_dir/ABC_cF12_216_a_c_b-001}{half-Heusler ($C1_{b}$) structure}. Uncertainty in the atomic positions leads to this cubic structure, which we use as the prototype.",
+    "notes": "Cubic Cr$_{4}$PtGa$_{17}$",
+    "ccdc": null,
+    "icsd": "36836"
 }

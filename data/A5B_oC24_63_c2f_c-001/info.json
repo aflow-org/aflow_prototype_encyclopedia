@@ -33,5 +33,9 @@
     "alias": "A5B_oC24_63_c2f_c",
     "number_of_species": 2,
     "pearson_symbol": "oC24",
-    "space_group_number": 63
+    "space_group_number": 63,
+    "comments": "We use the data taken at room temperature.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "85506"
 }

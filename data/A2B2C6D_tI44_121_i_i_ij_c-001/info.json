@@ -37,5 +37,9 @@
     "alias": "A2B2C6D_tI44_121_i_i_ij_c",
     "number_of_species": 4,
     "pearson_symbol": "tI44",
-    "space_group_number": 121
+    "space_group_number": 121,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "80592"
 }

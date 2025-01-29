@@ -22,5 +22,9 @@
     "alias": "A2B_tI12_141_e_a.ThSi2",
     "number_of_species": 2,
     "pearson_symbol": "tI12",
-    "space_group_number": 141
+    "space_group_number": 141,
+    "notes": "$C_{c}$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "77320"
 }

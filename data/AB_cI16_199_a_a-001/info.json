@@ -22,5 +22,9 @@
     "alias": "AB_cI16_199_a_a",
     "number_of_species": 2,
     "pearson_symbol": "cI16",
-    "space_group_number": 199
+    "space_group_number": 199,
+    "comments": "When $x_{1}=1/4$ and $x_{2}=0$, or visa versa, this structure reduces to \\href{current_web_home_dir/AB_cP2_221_a_b-002}{CsCl (B2)} with $a_{\\mathrm B2} = a/2$.",
+    "notes": "$B_{a}$",
+    "ccdc": null,
+    "icsd": "102712"
 }

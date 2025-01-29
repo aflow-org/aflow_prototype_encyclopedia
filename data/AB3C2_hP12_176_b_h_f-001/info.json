@@ -25,5 +25,9 @@
     "alias": "AB3C2_hP12_176_b_h_f-001",
     "number_of_species": 3,
     "pearson_symbol": "hP12",
-    "space_group_number": 176
+    "space_group_number": 176,
+    "comments": "(Vandenberg, 1980) give the coordinates $z_{2} \\approx 0$ (Si) and $x_{3} \\approx 1/2, y_{3} \\approx 0$ (Ru).  Using these values would make the space group $P6/mmm$ \\#191, with the unit cell half the size of the correct cell.  Accordingly we offset these coordinates slightly, keeping the distances between atoms consistent with the values given by (Vandenberg, 1980).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "100785"
 }

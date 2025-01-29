@@ -35,5 +35,9 @@
     "alias": "AB4C15D4_tI48_139_a_2e_bd2e2g_2e-001",
     "number_of_species": 4,
     "pearson_symbol": "tI48",
-    "space_group_number": 139
+    "space_group_number": 139,
+    "comments": "Aurivillius phases are layered tetragonal materials with composition (Me$'_{2}$O$_{2}$)$^{2+}$(Me$_{m-1}$R$_{m}$O$_{3m+1}$)$^{2-}$ (Me$_{m-1}$Me$'_{2}$R$_{m}$O$_{3(m+1)}$), where Me and Me' are metals and R is a transition metal with a charge of +4 or +5. (Subbaro, 1962) \n The ICSD entry for this structure states that the actual composition of our Ba I site is Ba$_{0.26}$Bi$_{0.74}$, while the Bi II sites composition is Ba$_{0.37}$Bi$_{0.63}$.  We have arbitrarily labeled the first of these sites Ba and the second Bi so that the AFLOW label mimics the composition of the structure. The original work of (Aurivillius, 1950) assumes equal mixing of barium and bismuth on all of the Ba/Bi sites. \n Below 700K this structure transforms into the orthorhombic \\href{current_web_home_dir/AB4C15D4_oC96_36_a_2b_a7b_2b-001}{low temperature BaBi$_{4}$Ti$_{4}$O$_{15}$ structure}. (Kennedy, 2003) Data for the illustrated structure was taken at 1000K.",
+    "notes": "HT $m=4$ Aurivillius",
+    "ccdc": null,
+    "icsd": "150929"
 }

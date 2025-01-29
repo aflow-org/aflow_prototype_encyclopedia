@@ -84,5 +84,9 @@
     "alias": "A2B2C5D_mP20_4_2a_2a_5a_a",
     "number_of_species": 4,
     "pearson_symbol": "mP20",
-    "space_group_number": 4
+    "space_group_number": 4,
+    "comments": "We use the data from (Lundgren, 1984) at 20K, including the positions of the hydrogen atoms not found in the original $H4_{8}$ structure in (Gottfried, 1937).\n Space group $P2_{1}$ \\#4 allows the $y$ coordinates to have an arbitrary origin.  We follow (Lundgren, 1984) and set the $y$ coordinate of the sulfur atom, $y_{10}$, to zero.",
+    "notes": "$H4_{8}$",
+    "ccdc": null,
+    "icsd": "201532"
 }

@@ -23,5 +23,9 @@
     "alias": "A3B5C_hP18_193_g_dg_b-001",
     "number_of_species": 3,
     "pearson_symbol": "hP18",
-    "space_group_number": 193
+    "space_group_number": 193,
+    "comments": "This is a ternary form of the \\href{current_web_home_dir/A4B5_hP18_193_bg_dg-001}{Ti$_{5}$Ga$_{4}$ structure}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "80907"
 }

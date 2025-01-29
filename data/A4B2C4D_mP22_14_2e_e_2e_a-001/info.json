@@ -53,5 +53,9 @@
     "alias": "A4B2C4D_mP22_14_2e_e_2e_a",
     "number_of_species": 4,
     "pearson_symbol": "mP22",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "24099"
 }

@@ -39,5 +39,9 @@
     "alias": "A2B14C3DE3_hP23_150_d_d2g_e_a_f-001",
     "number_of_species": 5,
     "pearson_symbol": "hP23",
-    "space_group_number": 150
+    "space_group_number": 150,
+    "comments": "Some authors use langasite, Ca$_{3}$Ga$_{2}$Ge$_{4}$O$_{14}$ or La$_{3}$Ga$_{4}$(Ga,Si)$_{4}$O$_{14}$, as the prototype for this structure, however in langasite the (1a) and (3f) Wyckoff positions are a mixture of gallium and germanium atoms (Dudka, 2013).  None of the Wyckoff positions in dugganite are disordered, so we use it as the prototype.",
+    "notes": "Dugganite",
+    "ccdc": null,
+    "icsd": "85574"
 }

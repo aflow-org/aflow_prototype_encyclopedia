@@ -65,5 +65,9 @@
     "alias": "A9B8_oC68_21_acehik2l_4l-001",
     "number_of_species": 2,
     "pearson_symbol": "oC68",
-    "space_group_number": 21
+    "space_group_number": 21,
+    "comments": "(Fleet, 1987) says that the actual composition of the sample is (Ni$_{8.7}$Fe$_{0.3}$)S$_{8}$ with no information about where the iron atoms are located, although the associated ICSD entry states that our Ni-II (2c) (Fleet's (2b)) site is half nickel and half iron.",
+    "notes": "Godlevskite",
+    "ccdc": null,
+    "icsd": "63080"
 }

@@ -133,5 +133,9 @@
     "alias": "A43B5C17_oC260_63_c8fg6h_cfg_ce3f2h",
     "number_of_species": 3,
     "pearson_symbol": "oC260",
-    "space_group_number": 63
+    "space_group_number": 63,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "249963"
 }

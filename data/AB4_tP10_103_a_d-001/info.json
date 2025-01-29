@@ -27,5 +27,9 @@
     "alias": "AB4_tP10_103_a_d",
     "number_of_species": 2,
     "pearson_symbol": "tP10",
-    "space_group_number": 103
+    "space_group_number": 103,
+    "comments": "This is the high-temperature phase of NbTe$_{4}$.  Below 520$^\\circ$C it transforms into \\href{current_web_home_dir/AB4_tP10_124_a_m-001}{a centrosymmetric structure}. \n Space group $P4cc$ \\#103 has no inversion site and allows an arbitary origin for the $z$-axis.  We fix this by setting $z_{1} = 0$ for the niobium site.",
+    "notes": "HT",
+    "ccdc": null,
+    "icsd": "65129"
 }

@@ -42,5 +42,9 @@
     "alias": "ABC3_mP10_11_e_e_ef",
     "number_of_species": 3,
     "pearson_symbol": "mP10",
-    "space_group_number": 11
+    "space_group_number": 11,
+    "notes": "$G0_{6}$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "26408"
 }

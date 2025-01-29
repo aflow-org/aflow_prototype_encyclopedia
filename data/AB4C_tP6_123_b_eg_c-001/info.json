@@ -22,5 +22,9 @@
     "alias": "AB4C_tP6_123_d_eh_a",
     "number_of_species": 3,
     "pearson_symbol": "tP6",
-    "space_group_number": 123
+    "space_group_number": 123,
+    "notes": "$H0_{8}$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "25615"
 }

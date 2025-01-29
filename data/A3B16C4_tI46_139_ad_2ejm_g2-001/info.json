@@ -31,5 +31,9 @@
     "alias": "A3B16C4_tI46_139_ad_2ejm_g2-001",
     "number_of_species": 3,
     "pearson_symbol": "tI46",
-    "space_group_number": 139
+    "space_group_number": 139,
+    "comments": "\\href{current_web_home_dir/AB9C2_oC96_65_acg_ghoq3r_2g2h-001}{BaIr$_{2}$Ge$_{7}$} and \\href{current_web_home_dir/A3B16C4_tI46_139_ad_2ejm_g2-001}{Ba$_{3}$Ir$_{4}$Ge$_{16}$} are structures with the barium atoms surrounded by germanium rings and germanium-iridium cages.  They are superconducting at 2.5 and 5.2K, respectively.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "194235"
 }

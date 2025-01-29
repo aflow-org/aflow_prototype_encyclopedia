@@ -57,5 +57,9 @@
     "alias": "A10B2C_hP39_172_5c_c_a",
     "number_of_species": 3,
     "pearson_symbol": "hP39",
-    "space_group_number": 172
+    "space_group_number": 172,
+    "comments": "This structure is the enantiomorph of the \\href{current_web_home_dir/A10B2C_hP39_171_5c_c_a-001}{Sr[S$_{2}$O$_{6}$][H$_{2}$O]$_{4}$ (A10B2C\\_hP39\\_171\\_5c\\_c\\_a) structure}. Only the non-hydrogen atoms are included in the prototype. \n Space group $P6_{4}$ \\#172 allows an arbitary choice for the origin of the $z$-axis.  We set this by taking $z_{1} = 0$ for the Sr site. \n The ICSD entry is for space group $P6_{2}$ \\#171.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "2933"
 }

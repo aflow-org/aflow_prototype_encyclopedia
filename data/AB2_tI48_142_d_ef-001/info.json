@@ -25,5 +25,9 @@
     "alias": "AB2_tI48_142_d_ef-001",
     "number_of_species": 2,
     "pearson_symbol": "tI48",
-    "space_group_number": 142
+    "space_group_number": 142,
+    "comments": "This structure is stable up to 600$^\\circ$C. (Villars, 2016) \n PdSn$_{2}$ has also been found in the \\href{current_web_home_dir/AB2_oC24_41_2a_2b-001}{orthorhombic $C_{e}$ structure}. \n The ICSD entry is from (Hellner, 1956), but we use the refined data from (K\\\"{u}nnen, 2000) for this presentation.",
+    "notes": "$\\alpha$-PdSn$_{2}$",
+    "ccdc": null,
+    "icsd": "30235"
 }

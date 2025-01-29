@@ -47,5 +47,9 @@
     "alias": "A3B_oC64_66_gi2lm_2l",
     "number_of_species": 2,
     "pearson_symbol": "oC64",
-    "space_group_number": 66
+    "space_group_number": 66,
+    "comments": "This structure was found by first-principles electronic structure calculations and is predicted to be the stable structure of H$_{3}$S for pressures between 40 and 90 GPa. The data presented here was computed at 60 GPa. \n (Hicks, 2019) had a transcription error in the position of the S-I atom.  We have corrected that here.",
+    "notes": "HP, Theory",
+    "ccdc": null,
+    "icsd": "291500"
 }

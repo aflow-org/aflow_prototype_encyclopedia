@@ -45,5 +45,9 @@
     "alias": "A6B5C2_oP26_55_g2h_a2g_h-001",
     "number_of_species": 3,
     "pearson_symbol": "oP26",
-    "space_group_number": 55
+    "space_group_number": 55,
+    "comments": "(Verdier, 1976) place the origin so that the Ca-I atoms are at the (2d) Wyckoff position.  We shifted the origin to place them on the (2a) Wyckoff sites.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "27"
 }

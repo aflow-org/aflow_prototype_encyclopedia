@@ -25,5 +25,9 @@
     "alias": "A6B_tP14_125_gm_c-001",
     "number_of_species": 2,
     "pearson_symbol": "tP14",
-    "space_group_number": 125
+    "space_group_number": 125,
+    "comments": "(Ellinger, 1965) give the structure of PuGa$_{6}$ in setting 1 of space group $P4/nbm$ \\#125.  We used FINDSYM to put this in the standard setting 2.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "103942"
 }

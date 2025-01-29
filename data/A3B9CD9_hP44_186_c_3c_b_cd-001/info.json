@@ -48,5 +48,9 @@
     "alias": "A3B9CD9_hP44_186_c_3c_b_cd",
     "number_of_species": 4,
     "pearson_symbol": "hP44",
-    "space_group_number": 186
+    "space_group_number": 186,
+    "comments": "The positions of the hydrogen atoms in the water molecules were not determined, so we only provide the oxygen atom positions (labeled as H$_{2}$O).",
+    "notes": "$G2_{2}$, Enneahydrate",
+    "ccdc": null,
+    "icsd": "26601"
 }

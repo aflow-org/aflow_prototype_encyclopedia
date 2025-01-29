@@ -27,5 +27,9 @@
     "alias": "A2B_tP12_111_2n_adf",
     "number_of_species": 2,
     "pearson_symbol": "tP12",
-    "space_group_number": 111
+    "space_group_number": 111,
+    "comments": "This is the high pressure phase of MnF$_{2}$, with data taken at 200$^\\circ$C and 35 kbar.  At standard temperature and pressure MnF$_{2}$ is in the \\href{current_web_home_dir/A2B_tP6_136_f_a-001}{rutile ($C4$) structure}. \n (Yagi, 1979) consistently refers to space group $P\\overline{4}2m$ as ``\\#113,'' but it is actually \\#111, and the Wyckoff positions are consistent with $P\\overline{4}2m$ \\#111.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "12167"
 }

@@ -183,5 +183,9 @@
     "alias": "A5B11CD8E_aP26_1_5a_11a_a_8a_a",
     "number_of_species": 5,
     "pearson_symbol": "aP26",
-    "space_group_number": 1
+    "space_group_number": 1,
+    "ccdc": "1471425",
+    "comments": null,
+    "notes": null,
+    "icsd": null
 }

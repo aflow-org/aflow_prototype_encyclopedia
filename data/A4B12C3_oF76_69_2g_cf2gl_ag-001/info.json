@@ -33,5 +33,9 @@
     "alias": "A4B12C3_oF76_69_2g_cf2gl_ag-001",
     "number_of_species": 3,
     "pearson_symbol": "oF76",
-    "space_group_number": 69
+    "space_group_number": 69,
+    "comments": "Aurivillius phases are layered tetragonal materials with composition (Me$'_{2}$O$_{2}$)$^{2+}$(Me$_{m-1}$R$_{m}$O$_{3m+1}$)$^{2-}$ (Me$_{m-1}$Me$'_{2}$R$_{m}$O$_{3(m+1)}$), where Me and Me' are metals and R is a transition metal with a charge of +4 or +5. (Subbaro, 1962) \n This is the original structural determination by (Aurivillius, 1949). It should not be confused with the \\href{current_web_home_dir/A4B12C3_oC76_41_2b_6b_ab-001}{obsolete $m=3$ Aurivillius structure in space group $Aea2$ \\#41}.",
+    "notes": "$m = 3$ Aurivillius",
+    "ccdc": null,
+    "icsd": "24735"
 }

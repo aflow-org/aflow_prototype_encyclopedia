@@ -93,5 +93,9 @@
     "alias": "A6BC4D_oP48_19_6a_a_4a_a",
     "number_of_species": 4,
     "pearson_symbol": "oP48",
-    "space_group_number": 19
+    "space_group_number": 19,
+    "comments": "Below 148K (NH$_{4}$)H$_{2}$PO$_{4}$ undergoes a transition from a \\href{current_web_home_dir/A8BC4D_tI56_122_2e_b_e_a-001}{tetragonal paraelectric phase} to this orthorhombic ferroelectric phase.  This seems to occur because the hydrogen atoms associated with the PO$_{4}$ ions become frozen into place. \n The data for this structure was taken at 143K.",
+    "notes": "Ferroelectric phase",
+    "ccdc": null,
+    "icsd": "63635"
 }

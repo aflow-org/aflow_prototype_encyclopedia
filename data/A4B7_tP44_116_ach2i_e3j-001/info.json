@@ -45,5 +45,9 @@
     "alias": "A4B7_tP44_116_ach2i_e3j-001",
     "number_of_species": 2,
     "pearson_symbol": "tP44",
-    "space_group_number": 116
+    "space_group_number": 116,
+    "comments": "This an example of a ``Nowotny chimney-ladder structure'' (Pearson, 1970), T$_{n}$X$_{m}$, where ``T'' is a transition metal, ``X`` is a row III or IV metal (or semiconductor), and $1.25 \\le m/n < 2$.  The transition metal atoms are arranged similarly to the atoms in the \\href{current_web_home_dir/A_tI4_141_a-001}{$\\beta$-Sn ($A5$)}.",
+    "notes": "Nowotny Chimney-Ladder",
+    "ccdc": null,
+    "icsd": "20323"
 }

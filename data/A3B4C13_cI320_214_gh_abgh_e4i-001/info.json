@@ -51,5 +51,9 @@
     "alias": "A3B4C13_cI320_214_gh_abgh_e4i-001",
     "number_of_species": 3,
     "pearson_symbol": "cI320",
-    "space_group_number": 214
+    "space_group_number": 214,
+    "comments": "(Bordet, 1991) refers to this as the ``phase I' '' structure of materials with the formula M$_{3}$Rh$_{4}$Sn$_{13}$, with the ``phase I'' structure represented by the centrosymmetric \\href{current_web_home_dir/A4B13C3_cP40_223_e_ak_c-001}{Yb$_{3}$Rh$_{4}$Sn$_{13}$} phase. \n (Villars, 2016) calls this the high-temperature phase of La$_{3}$Rh$_{4}$Sn$_{13}$.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "54367"
 }

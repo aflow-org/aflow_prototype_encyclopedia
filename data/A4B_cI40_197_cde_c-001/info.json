@@ -25,5 +25,9 @@
     "alias": "A4B_cI40_197_cde_c",
     "number_of_species": 2,
     "pearson_symbol": "cI40",
-    "space_group_number": 197
+    "space_group_number": 197,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "103863"
 }

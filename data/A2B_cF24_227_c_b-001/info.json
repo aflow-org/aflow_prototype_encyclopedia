@@ -18,5 +18,9 @@
     "alias": "A2B_cF24_227_d_a",
     "number_of_species": 2,
     "pearson_symbol": "cF24",
-    "space_group_number": 227
+    "space_group_number": 227,
+    "notes": "$C15$, Cubic Laves",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "108388"
 }

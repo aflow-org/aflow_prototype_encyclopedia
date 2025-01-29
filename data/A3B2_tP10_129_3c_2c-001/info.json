@@ -29,5 +29,9 @@
     "alias": "A3B2_tP10_129_3c_2c-001",
     "number_of_species": 2,
     "pearson_symbol": "tP10",
-    "space_group_number": 129
+    "space_group_number": 129,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "103133"
 }

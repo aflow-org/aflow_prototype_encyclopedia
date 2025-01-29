@@ -22,5 +22,9 @@
     "alias": "A2B_hP9_180_j_c",
     "number_of_species": 2,
     "pearson_symbol": "hP9",
-    "space_group_number": 180
+    "space_group_number": 180,
+    "comments": "This is the high-temperature structure of \\href{current_web_home_dir/A2B_hP9_152_c_a-001}{$\\alpha$-quartz}.  It can also be found in the enantiomorphic space group  It can also be found in the enantiomorphic space group \\href{current_web_home_dir/A2B_hP9_181_i_d-001}{$P6_{4}22$ \\#181}. \n (Wright, 1981) put the oxygen atoms on half-filled (12k) sites, with pairs of oxygen sites separated by only 0.4{\\AA}.  We approximate the structure here by moving the oxygen atoms to fully-filled (6i) sites.",
+    "notes": "$C8$, $\\beta$-SiO$_{2}$",
+    "ccdc": null,
+    "icsd": "26430"
 }

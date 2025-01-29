@@ -35,5 +35,9 @@
     "alias": "A2B7C2_tI44_119_i_bdefgh_i",
     "number_of_species": 3,
     "pearson_symbol": "tI44",
-    "space_group_number": 119
+    "space_group_number": 119,
+    "comments": "Cd$_{2}$Re$_{2}$O$_{7}$ exhibits a number of phases.  We will use the notation of (Kapcia, 2020) to describe them: \\begin{itemize} \\item Phase I: Above 200K the system takes on the \\href{current_web_home_dir/A2B2C7_cF88_227_c_d_af-001}{cubic pyrochlore ($E8_{1}$) structure}. \\item Phase II: in the range 120-200K the system is in the \\href{current_web_home_dir/A2B7C2_tI44_119_i_acefgh_i-001}{tetragonal $I\\overline{4}m2$ \\#119 structure}. (this structure) \\item Phase III: in the range 80-120K the system is in the \\href{current_web_home_dir/A2B7C2_tI44_98_f_acde_f-001}{tetragonal $I4_{1}22$ \\#98 structure}. \\item Phase IV: (Kapcia, 2020) did a first-principles study of this system and found that below 80K Phase III develops a soft phonon mode which transforms the system into an \\href{current_web_home_dir/A2B7C2_oF88_22_k_acefghij_k-001}{orthorhombic $F222$ \\#22 structure}. \\end{itemize} ~ \\vspace{-.25in} \n There are many issues with all of these structures (Norman, 2020): \\begin{itemize} \\item Phases II, III, and IV are all close to phase I.  If we loosen the tolerance using AFLOW-SYM or FINDSYM the structures are seen to be equivalent to cubic pyrochlore. \\item Using the default tolerance, Phase II and Phase IV are equivalent. \\end{itemize} ~ \\vspace{-.25in} \n Data for the Phase II structure was taken at 160K.",
+    "notes": "Phase II",
+    "ccdc": null,
+    "icsd": "none"
 }

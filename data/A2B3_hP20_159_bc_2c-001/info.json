@@ -39,5 +39,9 @@
     "alias": "A2B3_hP20_159_bc_2c",
     "number_of_species": 2,
     "pearson_symbol": "hP20",
-    "space_group_number": 159
+    "space_group_number": 159,
+    "comments": "Bi$_{2}$O$_{3}$ can be found in at least six forms (Harwig, 1978; Locherer, 2011): \\begin{itemize} \\item \\href{current_web_home_dir/A2B3_mP20_14_2e_3e-003}{monoclinic $\\alpha$-Bi$_{2}$O$_{3}$}, the ground state, stable up to 729$^\\circ$C, \\item \\href{current_web_home_dir/A2B3_tP20_117_i_adgh-001}{tetragonal $\\beta$-Bi$_{2}$O$_{3}$, $D5_{12}$}, a metastable state observed at 650$^\\circ$C, \\item \\href{current_web_home_dir/A13B20_cI66_197_af_2cf-001}{body-centered cubic $\\gamma$-Bi$_{2}$O$_{3}$}, another metastable phase observed at 639$^\\circ$C, \\item \\href{current_web_home_dir/AB8_cF36_225_a_f-001}{face-centered cubic $\\delta$-Bi$_{2}$O$_{3}$}, the stable phase from 729$^\\circ$C up to the melting point at 824$^\\circ$C, \\item a high-pressure \\href{current_web_home_dir/A2B3_hP20_159_bc_2c-001}{HP-Bi$_{2}$O$_{3}$} (this structure), and \\item a second ``nonquenchable'' high-pressure structure, \\href{current_web_home_dir/A2B3_hP20_186_bc_2c-001}{HPC-Bi$_{2}$O$_{3}$}. \\end{itemize} ~ \\vspace{-.25in} \n We use the ambient pressure data of (Locherer, 2011) for our description of HP-Bi$_{2}$O$_{3}$. \n Space group $P3c1$ \\#159 allows an arbitary choice of the origin of the $z$-axis.  We used this to set $z_{1} = 0$ for the Bi-I (2b) atoms.",
+    "notes": "HP",
+    "ccdc": null,
+    "icsd": "183150"
 }

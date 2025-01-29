@@ -37,5 +37,9 @@
     "alias": "A2BC2_tP20_105_f_ac_2e",
     "number_of_species": 3,
     "pearson_symbol": "tP20",
-    "space_group_number": 105
+    "space_group_number": 105,
+    "comments": "Our previous listing of this structure (Hicks, 2017) misplaced the $z$ coordinates of the Ba II and Ge II atoms by $c/2$. We have corrected this here. \n Space group $P4_{2}mc$ \\#105 allows an arbitary placement of the origin of the $z$-axis.  Here we use this freedom to set $z_{1} = 0$ for the Ba-I atoms.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "26417"
 }

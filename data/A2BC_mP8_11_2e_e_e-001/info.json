@@ -39,5 +39,9 @@
     "alias": "A2BC_mP8_11_2e_e_e-001",
     "number_of_species": 3,
     "pearson_symbol": "mP8",
-    "space_group_number": 11
+    "space_group_number": 11,
+    "comments": "The structure measured by (Yu, 2017) had a composition Eu$_{0.87}$La$_{0.13}$FeAs, with the europium and lanthanum atoms sharing the third (2e) site.  The lanthanum atom positions are slightly displaced from the europium positions.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "19708"
 }

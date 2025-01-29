@@ -31,5 +31,9 @@
     "alias": "A10B3_hP26_176_bcfi_h-001",
     "number_of_species": 2,
     "pearson_symbol": "hP26",
-    "space_group_number": 176
+    "space_group_number": 176,
+    "comments": "We have shifted the origin by $1/2 c \\hat{z}$ from that used by (Lenz, 1971). \n This is designated as the $\\zeta$ phase in the Cu-Sn system. (Massalski, 1990)",
+    "notes": "$\\zeta$-Cu$_{10}$Sn$_{3}$",
+    "ccdc": null,
+    "icsd": "103105"
 }

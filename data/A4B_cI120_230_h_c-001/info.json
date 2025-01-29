@@ -23,5 +23,9 @@
     "alias": "A4B_cI120_230_h_c-001",
     "number_of_species": 2,
     "pearson_symbol": "cI120",
-    "space_group_number": 230
+    "space_group_number": 230,
+    "comments": "(Glagoleva, 1956) give three slightly different values for the location of the bismuth atoms.  We choose their final set of coordinates. The ICSD entry is from the earlier publication (Zhdanov, 1954).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "58854"
 }

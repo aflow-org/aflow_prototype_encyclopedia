@@ -75,5 +75,9 @@
     "alias": "A16B17_mC66_12_4i2j_aeh4ij-001",
     "number_of_species": 2,
     "pearson_symbol": "mC66",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "comments": "In the ideal stoichiometry half of the Ni-VII sites are occupied.  Similar structures have compositions Ni$_{x}$Bi$_{1-x}$ with $x > 1/2$, so it is likely the some of the excess nickel atoms sit on this site. \n (Ruck, 1999) and the ICSD entry put this structure in the $F2/m$ setting of space-group \\#12, where we can see that it is pseudo-orthorhombic.  We used FINDSYM to place this in the standard $C2/m$ setting.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "410878"
 }

@@ -32,5 +32,9 @@
     "alias": "A9B3C2_hR28_167_ef_e_c",
     "number_of_species": 3,
     "pearson_symbol": "hR28",
-    "space_group_number": 167
+    "space_group_number": 167,
+    "comments": "(Hoard, 1935) followed by (Downs, 2003), give the atomic coordinates in the style of (Wyckoff, 1922), who lists space group $D_{3d}^6$ (the Sch\\\"{o}nflies notation for space group $R\\overline{3}c$) as space group \\#203, instead of \\#167, and uses an origin which corresponds to (1/4 ~ 1/4 ~ 1/4) in our lattice coordinates.  We used FINDSYM to convert this into our standard setting for space group \\#167.",
+    "notes": "$K7_{2}$",
+    "ccdc": null,
+    "icsd": "27849"
 }

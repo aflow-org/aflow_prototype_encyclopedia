@@ -101,5 +101,9 @@
     "alias": "A6B4C2D6E2FG6_mP54_14_3e_2e_e_3e_e_a_3e",
     "number_of_species": 7,
     "pearson_symbol": "mP54",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "comments": "This is the hydrated form.  For the anhydrous structure, see \\href{current_web_home_dir/A2BC6_hP9_164_d_a_i-001}{the $H6_{3}$ structure page}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "74381"
 }

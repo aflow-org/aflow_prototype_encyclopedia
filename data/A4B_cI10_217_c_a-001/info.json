@@ -20,5 +20,9 @@
     "alias": "A4B_cI10_217_c_a",
     "number_of_species": 2,
     "pearson_symbol": "cI10",
-    "space_group_number": 217
+    "space_group_number": 217,
+    "comments": "We determined the lattice constant for this structure from the internal coordinates and the Si-F bond length given in (Atoji, 1954).",
+    "notes": "$D1_{2}$",
+    "ccdc": null,
+    "icsd": "14122"
 }

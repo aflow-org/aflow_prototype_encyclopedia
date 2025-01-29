@@ -25,5 +25,9 @@
     "alias": "A6BC4_hP11_187_jk_a_ck-001",
     "number_of_species": 3,
     "pearson_symbol": "hP11",
-    "space_group_number": 187
+    "space_group_number": 187,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "69692"
 }

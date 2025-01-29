@@ -30,5 +30,9 @@
     "alias": "A2BC_oC16_63_f_c_c",
     "number_of_species": 3,
     "pearson_symbol": "oC16",
-    "space_group_number": 63
+    "space_group_number": 63,
+    "comments": "This is often referred to as an ``S-phase precipitate.''  It can be considered as the ternary version of the \\href{current_web_home_dir/AB3_oC16_63_c_cf-001}{Re$_{3}$B structure}.",
+    "notes": "$E1_{a}$",
+    "ccdc": null,
+    "icsd": "415062"
 }

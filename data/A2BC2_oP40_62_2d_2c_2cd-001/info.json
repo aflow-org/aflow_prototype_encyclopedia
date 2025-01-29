@@ -55,5 +55,9 @@
     "alias": "A2BC2_oP40_62_2d_2c_2cd-001",
     "number_of_species": 3,
     "pearson_symbol": "oP40",
-    "space_group_number": 62
+    "space_group_number": 62,
+    "comments": "We use the data from ICSD Entry 71197.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "71197"
 }

@@ -485,5 +485,9 @@
     "alias": "A30B30C8D8E_mP308_14_30e_30e_8e_8e_e-001",
     "number_of_species": 5,
     "pearson_symbol": "mP308",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "ccdc": "687128",
+    "comments": "(Findor\\'{a}kov\\'{a}, 2010) present this structure in the $P2_{1}/n$ setting of space group \\#14.  We used FINDSYM to change this to the standard $P2_{1}/c$ setting.",
+    "notes": "Zinc Benzoato Caffeine",
+    "icsd": null
 }

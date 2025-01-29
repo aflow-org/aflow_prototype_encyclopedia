@@ -29,5 +29,9 @@
     "alias": "A3B2C8_hR13_166_ac_c_ch-002",
     "number_of_species": 3,
     "pearson_symbol": "hR13",
-    "space_group_number": 166
+    "space_group_number": 166,
+    "comments": "This is the ternary version of the \\href{current_web_home_dir/A7B6_hR13_166_ah_3c-001}{$D8_{5}$ (Fe$_{7}$W$_{6}$) structure}. The structure given by (Nakajima, 2008) does not appear in the ICSD.  We give the ICSD entry for the structure determined by (Aczel, 2008). \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "159409"
 }

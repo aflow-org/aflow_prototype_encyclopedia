@@ -41,5 +41,9 @@
     "alias": "A10B11_tI84_139_dehim_eh2n-001",
     "number_of_species": 2,
     "pearson_symbol": "tI84",
-    "space_group_number": 139
+    "space_group_number": 139,
+    "comments": "This is the binary form of the structure.  \\href{current_web_home_dir/A6B4C11_tI84_139_hm_dei_eh2n-001}{Tb$_{11}$Si$_{4}$In$_{6}$} and \\href{current_web_home_dir/A2B8C11_tI84_139_h_deim_eh2n-001}{Sc$_{11}$Al$_{2}$Ge$_{8}$} are tenary forms.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "43052"
 }

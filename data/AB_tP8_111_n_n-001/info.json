@@ -27,5 +27,9 @@
     "alias": "AB_tP8_111_n_n",
     "number_of_species": 2,
     "pearson_symbol": "tP8",
-    "space_group_number": 111
+    "space_group_number": 111,
+    "comments": "Above 205K vanadium nitride transforms into the \\href{current_web_home_dir/AB_cF8_225_a_b-001}{rock salt ($B1$) structure}. \n We use the data taken at 150K. \n (Kubel, 1988) place this structure in space group $P\\overline{4}2m$ \\#111, but since $c/a \\approx 1$ the default tolerance of AFLOW places this in the cubic space group $P\\overline{4}3m$ \\#215.  It is likely that first-principles calculations will place this compound in the higher symmetry space group. \n The $P\\overline{4}2m$ structure may be recovered from AFLOW using the commmand \n aflow -{-}proto=AB\\_tP8\\_111\\_n\\_n:N:V -{-}params=a,c/a,x$_{1}$,z$_{1}$,x$_{2}$,z$_{2}$ -{-}tolerance=0.001 . \n We could not find an ICSD entry for (Kubel, 1988).",
+    "notes": "150K",
+    "ccdc": null,
+    "icsd": "none"
 }

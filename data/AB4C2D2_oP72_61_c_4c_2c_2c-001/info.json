@@ -75,5 +75,9 @@
     "alias": "AB4C2D2_oP72_61_c_4c_2c_2c-001",
     "number_of_species": 4,
     "pearson_symbol": "oP72",
-    "space_group_number": 61
+    "space_group_number": 61,
+    "ccdc": "1119388",
+    "comments": "CH$_{4}$N$_{2}$O$_{2}$ is found in two isomers: \\href{current_web_home_dir/AB4C2D2_mP36_14_e_4e_2e_2e-001}{monoclinic N-hydroxyurea (H$_{2}$NCONHOH)}, and \n \\href{current_web_home_dir/AB4C2D2_oP72_61_c_4c_2c_2c-001}{orthorhombic O-hydroxyurea (C(NH$_{2}$)ONH$_{2}$)} (this structure).",
+    "notes": "O-Carbamoylhydroxylamine",
+    "icsd": null
 }

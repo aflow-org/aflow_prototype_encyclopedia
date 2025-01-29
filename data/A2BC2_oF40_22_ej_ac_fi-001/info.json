@@ -29,5 +29,9 @@
     "alias": "A2BC2_oF40_22_fi_ad_gh",
     "number_of_species": 3,
     "pearson_symbol": "oF40",
-    "space_group_number": 22
+    "space_group_number": 22,
+    "comments": "As noted by (Horvath, 1987) a small amount of uncertainty in the positions of the atoms would allow this system to be placed in the centrosymmetric space group $Fddd$ \\#70.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "40800"
 }

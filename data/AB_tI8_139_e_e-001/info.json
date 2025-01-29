@@ -24,5 +24,9 @@
     "alias": "AB_tI8_139_e_e",
     "number_of_species": 2,
     "pearson_symbol": "tI8",
-    "space_group_number": 139
+    "space_group_number": 139,
+    "notes": "$D3_{1}$, Calomel",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "65441"
 }

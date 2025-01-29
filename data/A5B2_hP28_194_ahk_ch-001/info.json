@@ -28,5 +28,9 @@
     "alias": "A5B2_hP28_194_ahk_ch",
     "number_of_species": 2,
     "pearson_symbol": "hP28",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "comments": "(Newkirk, 1961) puts the Co I atoms at the (2d) Wyckoff sites. We have shifted the origin by $1/2 \\, c \\, \\hat{z}$, which shifts the Co atoms to the (2c) sites.",
+    "notes": "$D8_{11}$",
+    "ccdc": null,
+    "icsd": "57597"
 }

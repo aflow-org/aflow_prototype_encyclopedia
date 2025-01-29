@@ -21,5 +21,9 @@
     "alias": "AB3_hP8_182_c_g",
     "number_of_species": 2,
     "pearson_symbol": "hP8",
-    "space_group_number": 182
+    "space_group_number": 182,
+    "comments": "Strictly speaking, bainite is a microstructure. However, (Villars, 1991) Vol. II, p. 1894, refers to this crystal structure as upper bainite, and (Villars, 2014) refers to this as bainite.",
+    "notes": "Bainite",
+    "ccdc": null,
+    "icsd": "none"
 }

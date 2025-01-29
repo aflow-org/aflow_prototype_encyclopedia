@@ -21,5 +21,9 @@
     "alias": "A2BCD2_tI12_139_e_a_b_d-001",
     "number_of_species": 4,
     "pearson_symbol": "tI12",
-    "space_group_number": 139
+    "space_group_number": 139,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "75609"
 }

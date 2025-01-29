@@ -33,5 +33,9 @@
     "alias": "A4BC3D12_hR20_155_ad_b_e_2df-001",
     "number_of_species": 4,
     "pearson_symbol": "hR20",
-    "space_group_number": 155
+    "space_group_number": 155,
+    "comments": "We have shifted the origin away from that used by (Dollase, 1986): the C-I atom is now on the (1a) Wyckoff position. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "notes": "Huntite",
+    "ccdc": null,
+    "icsd": "201729"
 }

@@ -24,5 +24,9 @@
     "alias": "AB3C6D12_cF88_202_a_bc_e_h",
     "number_of_species": 4,
     "pearson_symbol": "cF88",
-    "space_group_number": 202
+    "space_group_number": 202,
+    "notes": "$J2_{4}$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "26746"
 }

@@ -23,5 +23,9 @@
     "alias": "A5B3_hP8_189_cf_g-001",
     "number_of_species": 2,
     "pearson_symbol": "hP8",
-    "space_group_number": 189
+    "space_group_number": 189,
+    "comments": "The ICSD entry uses the data from (Thomson, 1963), but relabels palladium as platinum and puts the thorium atom on the (3f) site with palladium/platinum on the (3g) site.  We use the published data.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "649755"
 }

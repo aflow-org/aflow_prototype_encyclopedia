@@ -37,5 +37,9 @@
     "alias": "A2B7_oC36_65_gj_achipq-001",
     "number_of_species": 2,
     "pearson_symbol": "oC36",
-    "space_group_number": 65
+    "space_group_number": 65,
+    "comments": "We have shifted the origin by 1/2 ({\\bf a}$_{1}$ + {\\bf a}$_{2}$) from that used by (Hopf, 1972).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "42063"
 }

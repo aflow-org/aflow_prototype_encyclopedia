@@ -33,5 +33,9 @@
     "alias": "AB6C2D_hR20_166_ab_2h_2c_c-001",
     "number_of_species": 4,
     "pearson_symbol": "hR20",
-    "space_group_number": 166
+    "space_group_number": 166,
+    "comments": "This is the high temperature phase of K$_{2}$LiAlF$_{6}$, stable above 650$^{\\circ}$C (Tressaud, 1984).  The low-temperature structure is hexagonal, but its exact space group is uncertain. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "notes": "HT",
+    "ccdc": null,
+    "icsd": "48149"
 }

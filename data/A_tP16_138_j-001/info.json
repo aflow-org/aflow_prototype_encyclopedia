@@ -26,5 +26,9 @@
     "alias": "A_tP16_138_j",
     "number_of_species": 1,
     "pearson_symbol": "tP16",
-    "space_group_number": 138
+    "space_group_number": 138,
+    "comments": "As given, this structure has a Cl-Cl bond distance of 1.82{\\AA}, far too small for chlorine. The structure was eventually reanalyzed, and found to be similar to \\href{current_web_home_dir/A_oC8_64_f-003}{molecular iodine ($A14$)}. See (Donohue, 1982, p. 396) for details. We retain this structure for its historical interest. Note that all atoms are on the general sites of space group $P4_{2}/ncm$ \\#138.",
+    "notes": "$A18$",
+    "ccdc": null,
+    "icsd": "22406"
 }

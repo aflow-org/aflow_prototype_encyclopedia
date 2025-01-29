@@ -26,5 +26,9 @@
     "alias": "A5BC2_tI32_140_cl_a_h-001",
     "number_of_species": 3,
     "pearson_symbol": "tI32",
-    "space_group_number": 140
+    "space_group_number": 140,
+    "comments": "(Powell, 1937) gives the first bromine site a (2b) label, but gives the position as (000), which corresponds to the (2c) Wyckoff position.  In our previous attempt at presenting this structure we followed the first choice, but the second choice is the correct one.  See the \\href{current_web_home_dir/A5BC2_tI32_140_bl_a_h-001}{previous $K3_{4}$ page} for more information. \n The positions of the hydrogen atoms in the NH$_{4}$ ions were not determined, so we only provide the positions of the nitrogen atoms (labeled as NH$_{4}$).",
+    "notes": "$K3_{4}$ (Revised)",
+    "ccdc": null,
+    "icsd": "26662"
 }

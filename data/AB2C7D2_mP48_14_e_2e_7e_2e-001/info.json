@@ -95,5 +95,9 @@
     "alias": "AB2C7D2_mP48_14_e_2e_7e_2e-001",
     "number_of_species": 4,
     "pearson_symbol": "mP48",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "comments": "Na$_{2}$CuP$_{2}$O$_{7}$ exists in two forms (Erragh, 1995): \\begin{itemize} \\item \\href{current_web_home_dir/AB2C7D2_mP48_14_e_2e_7e_2e-001}{Light blue $\\alpha$-Na$_{2}$CuP$_{2}$O$_{7}$} is stable up to 843K. \\item Above 843K it transforms into \\href{current_web_home_dir/AB2C7D2_mC48_15_a_f_e3f_f-001}{dark blue $\\beta$-Na$_{2}$CuP$_{2}$O$_{7}$}, which is metastable at room temperature. \\end{itemize} ~ \\vspace{-.25in} \n We use the data taken at 295K. \n (Erragh, 1995) give the structural data for $\\alpha$-Na$_{2}$CuP$_{2}$O$_{7}$ in the $P2_{1}/n$ setting of space group \\#14.  We use FINDSYM to transform this to the standard $P2_{1}/c$ setting.",
+    "notes": "$\\alpha$-Na$_{2}$CuP$_{2}$O$_{7}$",
+    "ccdc": null,
+    "icsd": "80417"
 }

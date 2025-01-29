@@ -23,5 +23,9 @@
     "alias": "A3BC_hP10_188_k_c_a",
     "number_of_species": 3,
     "pearson_symbol": "hP10",
-    "space_group_number": 188
+    "space_group_number": 188,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "73339"
 }

@@ -37,5 +37,9 @@
     "alias": "A2BC3_mC24_12_acg_h_ij-002",
     "number_of_species": 3,
     "pearson_symbol": "mC24",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "comments": "This seems to be the consensus structure for these compounds.  Others place them in space group $C2/c$ \\#15, possibly with a doubled unit cell.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "202639"
 }

@@ -29,5 +29,9 @@
     "alias": "AB2C_oF64_70_e_h_ab-001",
     "number_of_species": 3,
     "pearson_symbol": "oF64",
-    "space_group_number": 70
+    "space_group_number": 70,
+    "comments": "Data for this structure was taken at 153K.  \n We wish to thank Petra Lipsky, FIZ Karlsruhe - Leibniz-Institut f\\\"{u}r Informationsinfrastruktur, who provided us with the data referenced in (Deng, 2005).  For more information about the FIZ Karlsruhe archive, see \\href{https://icsd.products.fiz-karlsruhe.de}{FIZ Karlsruhe}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "415479"
 }

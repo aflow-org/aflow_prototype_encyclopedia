@@ -31,5 +31,9 @@
     "alias": "AB_mC8_12_i_i-002",
     "number_of_species": 2,
     "pearson_symbol": "mC8",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "comments": "(Adolphson, 1976) put ZrCl in space group $C2$ \\#5, but since the set the $y$-coordinates of both atoms to zero there is an inversion site and the space group becomes $C2/m$ \\#12. \n ZrCl can also be found in a \\href{current_web_home_dir/AB_hR4_166_c_c-005}{rhombohedral structure}.",
+    "notes": "Monoclinic",
+    "ccdc": null,
+    "icsd": "868"
 }

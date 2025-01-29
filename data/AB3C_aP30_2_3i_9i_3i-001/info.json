@@ -117,5 +117,9 @@
     "alias": "AB3C_aP30_2_3i_9i_3i",
     "number_of_species": 3,
     "pearson_symbol": "aP30",
-    "space_group_number": 2
+    "space_group_number": 2,
+    "comments": "(Barnick, 1936) found a \\href{current_web_home_dir/AB3C_mP60_14_3e_9e_3e-001}{monoclinic structure for wollastonite}, but that structure is now referred to as parawollastonite, with the current triclinic structure receiving the original name.",
+    "notes": "Wollastonite",
+    "ccdc": null,
+    "icsd": "33702"
 }

@@ -38,5 +38,9 @@
     "alias": "AB3_oP16_62_c_3c",
     "number_of_species": 2,
     "pearson_symbol": "oP16",
-    "space_group_number": 62
+    "space_group_number": 62,
+    "comments": "The unit cell and atomic positions were originally given in the $Pbnm$ orientation of space group \\#62. We have rotated the crystal axis, taking $\\mathbf{\\hat{y}} \\rightarrow \\mathbf{\\hat{x}} \\rightarrow \\mathbf{\\hat{z}}$ to put the system in the standard $Pnma$ representation.",
+    "notes": "$D0_{8}$ Molybdite",
+    "ccdc": null,
+    "icsd": "158255"
 }

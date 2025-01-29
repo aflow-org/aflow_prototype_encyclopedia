@@ -29,5 +29,9 @@
     "alias": "A3BC_oC20_63_ce_c_c-001",
     "number_of_species": 3,
     "pearson_symbol": "oC20",
-    "space_group_number": 63
+    "space_group_number": 63,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "192026"
 }

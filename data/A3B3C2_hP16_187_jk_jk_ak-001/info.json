@@ -29,5 +29,9 @@
     "alias": "A3B3C2_hP16_187_jk_jk_ck",
     "number_of_species": 3,
     "pearson_symbol": "hP16",
-    "space_group_number": 187
+    "space_group_number": 187,
+    "comments": "Cr-233 designates a class of structures of the form A$_{2}$B$_{2}$As$_{3}$, where the ``A'' atoms form one-dimensional chains.  Several of these compounds have been found to superconduct at temperatures on the order of 5-10K. \n The ICSD entry is for Rb$_{2}$Mo$_{3}$As$_{3}$ from (Zhao, 2020). The ICSD entry lists that as the prototype, but (Bao, 2015) obviously found K$_{2}$Cr$_{3}$As$_{3}$ earlier, so we continue using it as our prototype.",
+    "notes": "Quasi-1D Superconductor",
+    "ccdc": null,
+    "icsd": "35909"
 }

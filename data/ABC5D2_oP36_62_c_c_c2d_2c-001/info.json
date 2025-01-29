@@ -53,5 +53,9 @@
     "alias": "ABC5D2_oP36_62_c_c_c2d_2c-001",
     "number_of_species": 4,
     "pearson_symbol": "oP36",
-    "space_group_number": 62
+    "space_group_number": 62,
+    "comments": "Some authors designate BaCuY$_{2}$O$_{5}$ as the prototype for this structure.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "49812"
 }

@@ -40,5 +40,9 @@
     "alias": "AB_hR10_160_5a_5a",
     "number_of_species": 2,
     "pearson_symbol": "hR10",
-    "space_group_number": 160
+    "space_group_number": 160,
+    "comments": "(Ewald, 1931) and (Thibault, 1944) both call this structure ``Type I $\\alpha$-silicon carbide.'' The atomic positions are not well determined. We follow (Thibault, 1944) and assume that the (0001) planes of carbon atoms are equally spaced, and that each carbon atom has a silicon atom at a distance of $c/20$ along the $z$ axis.",
+    "notes": "$B7$, 15R Moissanite",
+    "ccdc": null,
+    "icsd": "24168"
 }

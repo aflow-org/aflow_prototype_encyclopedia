@@ -25,5 +25,9 @@
     "alias": "A3B5_oC16_65_ah_bej",
     "number_of_species": 2,
     "pearson_symbol": "oC16",
-    "space_group_number": 65
+    "space_group_number": 65,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "103927"
 }

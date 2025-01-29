@@ -27,5 +27,9 @@
     "alias": "A4BC3_oI16_71_m_a_bf-001",
     "number_of_species": 3,
     "pearson_symbol": "oI16",
-    "space_group_number": 71
+    "space_group_number": 71,
+    "comments": "This is the high temperature structure of Sc$_{3}$CoC$_{4}$.  Below 72K it transforms into the \\href{current_web_home_dir/A4BC3_mC32_12_2j_i_ghi-002}{monoclinic Sc$_{3}$RhC$_{4}$ structure}.  Data for the current structure was taken at 293K. \n (Vogt, 2005) found that in Sc$_{3}$IrC$_{4}$ and Sc$_{3}$RhC$_{4}$ the transition metal atom is not exactly on the (2a) site, but instead is on the (4i) Wyckoff position (0,0,$\\pm$0.04), with each site 50\\% occupied.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "236393"
 }

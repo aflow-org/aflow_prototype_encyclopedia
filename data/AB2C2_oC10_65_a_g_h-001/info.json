@@ -25,5 +25,9 @@
     "alias": "AB2C2_oC10_65_a_g_h-001",
     "number_of_species": 3,
     "pearson_symbol": "oC10",
-    "space_group_number": 65
+    "space_group_number": 65,
+    "comments": "(Becher, 1966) give the space group as $C222$ \\#20, but their Wyckoff positions are obviously from space group $Cmmm$ \\#65, a result which was confirmed by (Ade, 2015).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "25518"
 }

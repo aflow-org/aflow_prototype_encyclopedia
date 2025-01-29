@@ -156,5 +156,9 @@
     "alias": "A2B2C9D2_mC90_5_ab2c_3c_b13c_3c",
     "number_of_species": 4,
     "pearson_symbol": "mC90",
-    "space_group_number": 5
+    "space_group_number": 5,
+    "comments": "(Gottfried, 1937) gave this the {\\em Strukturbericht} designation $H4_{7}$.  They listed the system as monoclinic, with space group $C2$ \\#5, but noted that it was pseudo-hexagonal and gave the coordinates for the all of the atoms except the water molecules in terms of the trigonal space group $P3_{1}21$ \\#152.  (Abriel, 1993) found a complete determination of the structure in space group $I2$ \\#5, which we have converted to the standard $C2$ setting. The structure of this system seems to depend on the actual amount of water and the preparation mechanism, as there are both $\\alpha$- and $\\beta$- forms which have different strengths but similar crystal structures (Singh, 2007). \n The $P3_{1}21$ structure can be obtained from these positions by removing all of the water molecules (the hydrogen atoms plus O-I and O-XIV, and allowing for a small uncertainty in the positions of the remaining atoms. \n The ICSD entry only describes the $P3_{1}21$ structure.",
+    "notes": "$H4_{7}$, Bassanite",
+    "ccdc": null,
+    "icsd": "73262"
 }

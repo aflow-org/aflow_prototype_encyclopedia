@@ -59,5 +59,9 @@
     "alias": "AB4C17D4E_tP54_90_a_g_c4g_g_c",
     "number_of_species": 5,
     "pearson_symbol": "tP54",
-    "space_group_number": 90
+    "space_group_number": 90,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "406667"
 }

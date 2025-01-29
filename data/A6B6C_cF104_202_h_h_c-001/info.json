@@ -25,5 +25,9 @@
     "alias": "A6B6C_cF104_202_h_h_c",
     "number_of_species": 3,
     "pearson_symbol": "cF104",
-    "space_group_number": 202
+    "space_group_number": 202,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "36148"
 }

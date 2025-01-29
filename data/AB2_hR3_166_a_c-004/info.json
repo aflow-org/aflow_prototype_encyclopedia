@@ -21,5 +21,9 @@
     "alias": "AB2_hR3_166_a_c-004",
     "number_of_species": 2,
     "pearson_symbol": "hR3",
-    "space_group_number": 166
+    "space_group_number": 166,
+    "comments": "This is the binary form of the \\href{current_web_home_dir/A_hR3_166_ac-001}{$\\alpha$-Sm ($C19$)} structure. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "30255"
 }

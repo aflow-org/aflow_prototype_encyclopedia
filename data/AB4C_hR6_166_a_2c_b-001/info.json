@@ -23,5 +23,9 @@
     "alias": "AB4C_hR6_166_b_2c_a",
     "number_of_species": 3,
     "pearson_symbol": "hR6",
-    "space_group_number": 166
+    "space_group_number": 166,
+    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "23195"
 }

@@ -29,5 +29,9 @@
     "alias": "A2B3_tP20_116_bci_fj",
     "number_of_species": 2,
     "pearson_symbol": "tP20",
-    "space_group_number": 116
+    "space_group_number": 116,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "105994"
 }

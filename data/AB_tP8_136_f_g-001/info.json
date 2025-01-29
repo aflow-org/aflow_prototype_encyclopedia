@@ -23,5 +23,9 @@
     "alias": "AB_tP8_136_g_f",
     "number_of_species": 2,
     "pearson_symbol": "tP8",
-    "space_group_number": 136
+    "space_group_number": 136,
+    "notes": "$\\beta$-BeO",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "18147"
 }

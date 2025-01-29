@@ -67,5 +67,9 @@
     "alias": "A9B4C20_tI132_88_a2f_f_5f",
     "number_of_species": 3,
     "pearson_symbol": "tI132",
-    "space_group_number": 88
+    "space_group_number": 88,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "24087"
 }

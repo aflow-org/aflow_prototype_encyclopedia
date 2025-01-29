@@ -81,5 +81,9 @@
     "alias": "A_hR105_166_bc9h4i",
     "number_of_species": 1,
     "pearson_symbol": "hR105",
-    "space_group_number": 166
+    "space_group_number": 166,
+    "comments": "This is apparently the ground state of boron, with 105 atoms in the unit cell. \n (Donohue, 1982) gives two possible sets of internal coordinates for the atoms on page 64. We use the second set (Geist, 1970), as it has no partially filled sites. \n Note the relationship between the icosahedra in this structure, \\href{current_web_home_dir/A_hR12_166_2h-001}{$\\alpha$-B} and \\href{current_web_home_dir/A_tP50_134_a2m2n-001}{T-50 B}. \n Hexagonal settings for rhombohedral structures can be obtained with the option {\\tt --hex}.",
+    "notes": "R-105 $\\beta$-Boron",
+    "ccdc": null,
+    "icsd": "14288"
 }

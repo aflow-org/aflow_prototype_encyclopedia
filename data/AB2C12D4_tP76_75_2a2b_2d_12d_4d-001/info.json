@@ -135,5 +135,9 @@
     "alias": "AB2C12D4_tP76_75_2a2b_2d_12d_4d",
     "number_of_species": 4,
     "pearson_symbol": "tP76",
-    "space_group_number": 75
+    "space_group_number": 75,
+    "comments": "This is a superstructure of conventional \\href{current_web_home_dir/AB4C8_mC26_12_a_2i_4i-001}{hollandite}. \n (Cad\\'{e}, 1979) and the ICSD entry omit the coordinates for the O-VI atom.  We have used the values provided by (Villars, 2016). \n Space group $P4$ \\#74 allows for an arbitrary origin of the $z$-axis.  We follow (Villars, 2016) and set $z_{1} = 0$ for the Ba-I atom.  This is a shift of $c/2$ from the origin used by (Cad\\'{e}, 1979).",
+    "notes": "Hexagonal hollandite",
+    "ccdc": null,
+    "icsd": "100578"
 }

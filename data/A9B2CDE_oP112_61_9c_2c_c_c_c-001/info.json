@@ -105,5 +105,9 @@
     "alias": "A9B2CDE_oP112_61_9c_2c_c_c_c-001",
     "number_of_species": 5,
     "pearson_symbol": "oP112",
-    "space_group_number": 61
+    "space_group_number": 61,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "407046"
 }

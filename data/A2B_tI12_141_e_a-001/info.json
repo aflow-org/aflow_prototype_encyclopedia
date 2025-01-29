@@ -22,5 +22,9 @@
     "alias": "A2B_tI12_141_e_a",
     "number_of_species": 2,
     "pearson_symbol": "tI12",
-    "space_group_number": 141
+    "space_group_number": 141,
+    "comments": "TiO$_{2}$ can also be found as \\href{current_web_home_dir/A2B_tP6_136_f_a-001}{rutile ($C4$)} and \\href{current_web_home_dir/A2B_oP24_61_2c_c-001}{brookite ($C21$)}. \n (Howard, 1991) gives the positions of the atoms in terms of setting 1 of space group $I4_{1}/amd$ \\#141. Previously, when we translated this to our standard setting 2 we entered an incorrect position for the oxygen z coordinate, giving incorrect Ti-O bond lengths and angles. This has been corrected in the current version of the CIF and the POSCAR.",
+    "notes": "$C5$, Anatase",
+    "ccdc": null,
+    "icsd": "63711"
 }

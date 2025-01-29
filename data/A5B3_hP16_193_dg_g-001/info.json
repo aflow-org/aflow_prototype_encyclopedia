@@ -24,5 +24,9 @@
     "alias": "A5B3_hP16_193_dg_g",
     "number_of_species": 2,
     "pearson_symbol": "hP16",
-    "space_group_number": 193
+    "space_group_number": 193,
+    "notes": "$D8_{8}$, Mavlyanovite",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "24359"
 }

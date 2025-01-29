@@ -26,5 +26,9 @@
     "alias": "A2BCD3E6_cF208_227_e_c_d_f_g",
     "number_of_species": 5,
     "pearson_symbol": "cF208",
-    "space_group_number": 227
+    "space_group_number": 227,
+    "comments": "This is the original structure determined by (Shiba, 1931) and given the designation $G7_{3}$ in (Hermann, 1937).  (Negro, 1975) showed that the correct structure was \\href{current_web_home_dir/A2BCD3E6_cF208_203_e_c_d_f_g-001}{actually related to cubic pyrochlore}. The two structures are very similar, and a displacement of the oxygen atoms by less than 1{\\AA} brings the two structures into agreement.",
+    "notes": "$G7_{3}$, Northupite ({\\em Obsolete})",
+    "ccdc": null,
+    "icsd": "27790"
 }

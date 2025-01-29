@@ -27,5 +27,9 @@
     "alias": "AB3C6_hP20_182_c_af_i-001",
     "number_of_species": 3,
     "pearson_symbol": "hP20",
-    "space_group_number": 182
+    "space_group_number": 182,
+    "comments": "In many cases the (2c) site is not completely occupied. \n See the discussion about the possible difference in structure between \\href{current_web_home_dir/AB3C6_hP20_173_b_a2b_2c-001}{natural} and synthetic edgarite, FeNb$_{3}$S$_{6}$. \n The ICSD uses FeNb$_{3}$S$_{6}$ as the prototype for both structures.  Here we use CoNb$_{3}$S$_{6}$ to distinguish between the two cases.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "42688"
 }

@@ -23,5 +23,9 @@
     "alias": "A2B3_tP5_115_g_ag",
     "number_of_species": 2,
     "pearson_symbol": "tP5",
-    "space_group_number": 115
+    "space_group_number": 115,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "35626"
 }

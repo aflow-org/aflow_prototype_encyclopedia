@@ -59,5 +59,9 @@
     "alias": "A4BC_mP24_14_4e_e_e",
     "number_of_species": 3,
     "pearson_symbol": "mP24",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "comments": "The O-III site is only 50\\% occupied.  The jmol plot shows the two possible sites as a pair of very closely spaced oxygen atoms. \n (Christensen, 1997) refer to this as D-Y$_{2}$Si$_{2}$O$_{7}$, but we follow the classification of the RE$_{2}$Si$_{2}$O$_{7}$ structures in (Becerro, 2004) and refer to this as $\\gamma$-Y$_{2}$Si$_{2}$O$_{7}$.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "none"
 }

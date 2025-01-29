@@ -25,5 +25,9 @@
     "alias": "A7B2_hP9_164_ai_d-001",
     "number_of_species": 2,
     "pearson_symbol": "hP9",
-    "space_group_number": 164
+    "space_group_number": 164,
+    "comments": "This is a binary form of the \\href{current_web_home_dir/A6BC2_hP9_164_i_a_d-001}{K$_{2}$GeF$_{6}$ ($J1_{13}$) Structure}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "107482"
 }

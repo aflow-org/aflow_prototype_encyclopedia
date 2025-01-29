@@ -27,5 +27,9 @@
     "alias": "ABC2_hP8_164_d_d_cd-001",
     "number_of_species": 3,
     "pearson_symbol": "hP8",
-    "space_group_number": 164
+    "space_group_number": 164,
+    "comments": "The sample studied here has x = 0.1525.  Presumably the copper and iron atoms are evenly distributed on each site, but for illustrative purposes we label the first (2d) site ``Cu'' and the second ``Fe.'' In reality both sites have the approximate composition Cu$_{0.8475}$Fe$_{0.1525}$.",
+    "notes": "Nukundamite",
+    "ccdc": null,
+    "icsd": "100727"
 }

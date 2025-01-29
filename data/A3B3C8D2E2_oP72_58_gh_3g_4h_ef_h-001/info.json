@@ -77,5 +77,9 @@
     "alias": "A3B3C8D2E2_oP72_58_gh_3g_4h_ef_h-001",
     "number_of_species": 5,
     "pearson_symbol": "oP72",
-    "space_group_number": 58
+    "space_group_number": 58,
+    "comments": "\\href{current_web_home_dir/A3B5C8D2E2_oC80_63_cg_c2f_2h_e_g-001}{Na$_{3}$V$_{2}$(PO$_{4}$)$_{2}$F$_{3}$} and \\href{current_web_home_dir/A3BC8D2E2_oC64_36_3a_a_4b_b_2a-001}{NaV$_{2}$(PO$_{4}$)$_{2}$F$_{3}$} are respectively the fully charged and uncharged end points of an Na-ion positive electrode material. (Bianchini, 2015) \n In addition to these structures, (Mukherjee, 2020) synthesized Na$_{3}$V$_{2}$(PO$_{4}$)$_{2}$F$_{3}$ in two new forms: \\href{current_web_home_dir/A3B4C8D2E2_tP76_136_fj_2i_2jk_de_j-001}{a ``flower'' arrangement, NVPF-F} and \\href{current_web_home_dir/A3B3C8D2E2_oP72_58_gh_3g_4h_ef_h-001}{a ``hollow microsphere,'' NVPF-S} (this structure). \n Unlike all of the other NVPF structures, in this case all of the sodium sites are fully occupied.",
+    "notes": "NVPF-S",
+    "ccdc": null,
+    "icsd": "none"
 }

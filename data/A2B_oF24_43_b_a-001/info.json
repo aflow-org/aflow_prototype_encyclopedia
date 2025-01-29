@@ -29,5 +29,9 @@
     "alias": "A2B_oF24_43_b_a",
     "number_of_species": 2,
     "pearson_symbol": "oF24",
-    "space_group_number": 43
+    "space_group_number": 43,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "41687"
 }

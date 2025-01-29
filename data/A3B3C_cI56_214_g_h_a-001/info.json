@@ -21,5 +21,9 @@
     "alias": "A3B3C_cI56_214_g_h_a",
     "number_of_species": 3,
     "pearson_symbol": "cI56",
-    "space_group_number": 214
+    "space_group_number": 214,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "9026"
 }

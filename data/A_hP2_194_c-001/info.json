@@ -20,5 +20,9 @@
     "alias": "A_hP2_194_c",
     "number_of_species": 1,
     "pearson_symbol": "hP2",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "comments": "We use the `pure magnesium' lattice constants from (Batchelder, 1957), but the ICSD entry uses the data for Mg$_{0.976}$Al$_{0.024}$.",
+    "notes": "$A3$",
+    "ccdc": null,
+    "icsd": "608404"
 }

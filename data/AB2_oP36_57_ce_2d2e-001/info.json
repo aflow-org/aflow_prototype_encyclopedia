@@ -49,5 +49,9 @@
     "alias": "AB2_oP36_57_ce_2d2e-001",
     "number_of_species": 2,
     "pearson_symbol": "oP36",
-    "space_group_number": 57
+    "space_group_number": 57,
+    "comments": "We use the Cu K$\\alpha$ data from (Franzen, 1969).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "26184"
 }

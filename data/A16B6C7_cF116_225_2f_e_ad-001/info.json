@@ -23,5 +23,9 @@
     "alias": "A16B6C7_cF116_225_2f_e_ad-001",
     "number_of_species": 3,
     "pearson_symbol": "cF116",
-    "space_group_number": 225
+    "space_group_number": 225,
+    "comments": "This is the ternary version of \\href{current_web_home_dir/A23B6_cF116_225_ad2f_e-001}{Th$_{6}$Mn$_{23}$ ($D8_{a}$)}.",
+    "notes": "Ternary $D8_{a}$",
+    "ccdc": null,
+    "icsd": "16624"
 }

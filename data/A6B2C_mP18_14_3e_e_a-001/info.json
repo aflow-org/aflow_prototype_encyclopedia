@@ -47,5 +47,9 @@
     "alias": "A6B2C_mP18_14_3e_e_a-001",
     "number_of_species": 3,
     "pearson_symbol": "mP18",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "comments": "K$_{2}$SnCl$_{6}$ is found in three forms, depending on the temperature: \\begin{itemize} \\item Below 255K it is in the \\href{current_web_home_dir/A6B2C_mP18_14_3e_e_a-001}{monoclinic Phase I structure} (this structure). \\item Between 255 and 261K it is in the \\href{current_web_home_dir/A6B2C_tP18_128_eh_d_a-001}{tetragonal Phase II structure}. \\item Above 261K it transforms to Phase III, which has the \\href{current_web_home_dir/A6B2C_cF36_225_e_c_a-001}{K$_{2}$PtCl$_{6}$ ($J1_{1}$) structure}. \\end{itemize} ~ \\vspace{-.25in} \n Data for Phase I was taken at 190K. (Boysen, 1978) gave the structural data in the $P2_1/n$ setting of space group \\#14.  We used FINDSYM to convert this to the standard $P2_1/c$ setting.",
+    "notes": "Phase I",
+    "ccdc": null,
+    "icsd": "1670"
 }

@@ -273,5 +273,9 @@
     "alias": "A7B5C3D6_oP168_29_14a_10a_6a_12a-001",
     "number_of_species": 4,
     "pearson_symbol": "oP168",
-    "space_group_number": 29
+    "space_group_number": 29,
+    "ccdc": "227800",
+    "comments": "The solid form of 2-4-6 Trinitrotoluene (TNT) has two polymorphs (Vrcelj, 2003): \\begin{itemize} \\item The low temperature \\href{current_web_home_dir/A7B5C3D6_mP168_14_14e_10e_6e_12e-001}{monoclinic structure}, and \\item this somewhat higher temperature \\href{current_web_home_dir/A7B5C3D6_oP168_29_14a_10a_6a_12a-001}{orthorhombic structure}. \\end{itemize} ~ \\vspace{-.25in} \n Both can be prepared at room temperature, from ethyl acetate and ethanol solutions, respectively. \n Data for the orthorhombic phase was taken at 123K.",
+    "notes": "2-4-6 Trinitrotoluene",
+    "icsd": null
 }

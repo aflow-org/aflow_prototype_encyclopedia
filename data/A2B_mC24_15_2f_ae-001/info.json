@@ -37,5 +37,9 @@
     "alias": "A2B_mC24_15_2f_ce",
     "number_of_species": 2,
     "pearson_symbol": "mC24",
-    "space_group_number": 15
+    "space_group_number": 15,
+    "comments": "This is {\\em not} the \\href{current_web_home_dir/A2B_cF96_227_abf_cd-001}{$D6_{2}$ structure of SbO$_{2}$}, which was found erroneous. Clinocervantite is a naturally occurring monoclinic modification of \\href{current_web_home_dir/A2B_oP24_33_4a_2a-001}{cervantite ($\\alpha$-Sb$_{2}$O$_{4}$)}.",
+    "notes": "Clinocervantite, $\\beta$-Sb$_{2}$O$_{4}$",
+    "ccdc": null,
+    "icsd": "88619"
 }

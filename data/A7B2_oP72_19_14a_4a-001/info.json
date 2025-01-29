@@ -129,5 +129,9 @@
     "alias": "A7B2_oP72_19_14a_4a-001",
     "number_of_species": 2,
     "pearson_symbol": "oP72",
-    "space_group_number": 19
+    "space_group_number": 19,
+    "comments": "Nominally the rhenium atom has a +7 charge.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "15217"
 }

@@ -29,5 +29,9 @@
     "alias": "A3B8_oC22_65_ag_bd2gh",
     "number_of_species": 2,
     "pearson_symbol": "oC22",
-    "space_group_number": 65
+    "space_group_number": 65,
+    "comments": "(Andersson, 1964) was not able to distinguish between oxygen and fluorine, so it is assumed that the fluorine atoms (or OH radicals) are distributed randomly on the oxygen sites. We follow Andersson and label all the sites as oxygen.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "28461"
 }

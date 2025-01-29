@@ -35,5 +35,9 @@
     "alias": "A5BC2_hR8_160_5a_a_2a-001",
     "number_of_species": 3,
     "pearson_symbol": "hR8",
-    "space_group_number": 160
+    "space_group_number": 160,
+    "comments": "The Fe-III and Fe-V sites are partially occupied, with 89.8\\% and 72.5\\% filling, respectively, so that $\\delta = 0.377$.  The iron atoms may also be replaced by nickel. \n (Stahl, 2018) found that the germanium atoms actually half-fill two sites, one with $z = 0.48493$ and the other with $z = 0.50663$.  In the diagram these two sites will overlap, so we replaced them by a single averaged site. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "130074"
 }

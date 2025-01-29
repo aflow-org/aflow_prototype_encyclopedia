@@ -19,5 +19,9 @@
     "alias": "A2BC_tI8_119_ac_b_d-001",
     "number_of_species": 3,
     "pearson_symbol": "tI8",
-    "space_group_number": 119
+    "space_group_number": 119,
+    "comments": "(Alijani, 2013) describe this as a tetragonal inverse Heusler compound. This is likely an idealized version of the structure, as the atoms are all assumed to sit on high-symmetry Wyckoff positions.",
+    "notes": "Tetragonal Inverse Heusler",
+    "ccdc": null,
+    "icsd": "none"
 }

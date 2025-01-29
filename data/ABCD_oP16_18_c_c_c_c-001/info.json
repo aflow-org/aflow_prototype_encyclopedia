@@ -45,5 +45,9 @@
     "alias": "ABCD_oP16_18_c_c_c_c-001",
     "number_of_species": 4,
     "pearson_symbol": "oP16",
-    "space_group_number": 18
+    "space_group_number": 18,
+    "comments": "The site we have labeled ``Cl'' is a mixture of chlorine, bromine, and iodine.  We take the structural data from a sample with 82\\% chlorine and 18\\% bromine.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "66329"
 }

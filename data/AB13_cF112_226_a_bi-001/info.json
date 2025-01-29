@@ -22,5 +22,9 @@
     "alias": "AB13_cF112_226_a_bi",
     "number_of_species": 2,
     "pearson_symbol": "cF112",
-    "space_group_number": 226
+    "space_group_number": 226,
+    "notes": "$D2_{3}$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "105173"
 }

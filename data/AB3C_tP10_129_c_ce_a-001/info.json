@@ -23,5 +23,9 @@
     "alias": "AB3C_tP10_129_c_ce_a-001",
     "number_of_species": 3,
     "pearson_symbol": "tP10",
-    "space_group_number": 129
+    "space_group_number": 129,
+    "comments": "We have been unable to find an ICSD or CCDC entry for this compound.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "none"
 }

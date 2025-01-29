@@ -22,5 +22,9 @@
     "alias": "A9B8_cF68_225_af_ce",
     "number_of_species": 2,
     "pearson_symbol": "cF68",
-    "space_group_number": 225
+    "space_group_number": 225,
+    "comments": "(Geller,1962) placed the first Co atom at the (4b) Wyckoff position. We have shifted this to the origin, the (4a) Wyckoff position.",
+    "notes": "$D8_{9}$",
+    "ccdc": null,
+    "icsd": "23929"
 }

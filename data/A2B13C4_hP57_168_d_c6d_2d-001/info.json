@@ -75,5 +75,9 @@
     "alias": "A2B13C4_hP57_168_d_c6d_2d",
     "number_of_species": 3,
     "pearson_symbol": "hP57",
-    "space_group_number": 168
+    "space_group_number": 168,
+    "comments": "The sites we label ``O'' are actually 69.2\\% oxygen and 30.8\\% fluorine. \n Space group $P6$ \\#168 allows an arbitary choice of the origin of the $z$-axis.  Here we set $z_{1} = 0$.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "8204"
 }

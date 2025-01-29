@@ -25,5 +25,9 @@
     "alias": "A13B4C4_cF84_216_afg_e_e-001",
     "number_of_species": 3,
     "pearson_symbol": "cF84",
-    "space_group_number": 216
+    "space_group_number": 216,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "76116"
 }

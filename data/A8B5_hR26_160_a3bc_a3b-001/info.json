@@ -54,5 +54,9 @@
     "alias": "A8B5_hR26_160_a3bc_a3b",
     "number_of_species": 2,
     "pearson_symbol": "hR26",
-    "space_group_number": 160
+    "space_group_number": 160,
+    "comments": "(Bradley, 1937) notes that the positions here are very close to the positions of the atoms in the \\href{current_web_home_dir/A5B8_cI52_217_ce_cg-001}{$\\gamma$-brass (Cu$_{5}$Zn$_{8}$, $D8_{2}$) structure}. \n (Mizutani, 2010) classifies this as an ``R-cell'' $\\gamma$-brass.",
+    "notes": "$D8_{10}$",
+    "ccdc": null,
+    "icsd": "606753"
 }

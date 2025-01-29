@@ -45,5 +45,9 @@
     "alias": "A12B14C35D4_cF260_196_abeg_2ef_cef2h_e-001",
     "number_of_species": 4,
     "pearson_symbol": "cF260",
-    "space_group_number": 196
+    "space_group_number": 196,
+    "comments": "All of the sites labeled ``aluminum'' are actual 5 parts aluminum and 1 part zinc, giving the observed stoichiometry.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "50292"
 }

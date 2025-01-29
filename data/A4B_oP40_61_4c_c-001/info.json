@@ -51,5 +51,9 @@
     "alias": "A4B_oP40_61_4c_c-001",
     "number_of_species": 2,
     "pearson_symbol": "oP40",
-    "space_group_number": 61
+    "space_group_number": 61,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "8197"
 }

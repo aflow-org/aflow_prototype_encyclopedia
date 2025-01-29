@@ -26,5 +26,9 @@
     "alias": "A8B2C_tP11_123_r_h_a",
     "number_of_species": 3,
     "pearson_symbol": "tP11",
-    "space_group_number": 123
+    "space_group_number": 123,
+    "comments": "This structure was designated $E6_{2}$ by (Hermann, 1937).  (Shineman, 1951) suggest that this should be replaced by their \\href{current_web_home_dir/AB8C2_tP22_124_a_n_h-001}{CaO$_{2}$(H$_{2}$O)$_{8}$ structure}.",
+    "notes": "$E6_{2}$ (Possibly {\\em Obsolete})",
+    "ccdc": null,
+    "icsd": "28840"
 }

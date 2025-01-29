@@ -58,5 +58,9 @@
     "alias": "A2B5CD2_oI40_44_2c_abcde_d_e",
     "number_of_species": 4,
     "pearson_symbol": "oI40",
-    "space_group_number": 44
+    "space_group_number": 44,
+    "comments": "The original (Ito, 1932) determination of this structure did not locate the positions of the hydrogen atoms.  (Hill, 1977) were able to do this, so we use the updated structure as the prototype. \n (Hill, 1977) gives the $z$ coordinates of the atoms on the (2c) sites as 0.0190, 0.0643, and 0.0410, respectively, but this gives unrealistic H-O distances.  Examination of the figures and distance tables shows that we should take $z_{2} = 0.190, z_{3} = 0.643$, and $z_{4} = 0.041$, a conclusion also reached by (Downs, 2003) and the ICSD.",
+    "notes": "$S2_{2}$, Hemimorphite",
+    "ccdc": null,
+    "icsd": "100201"
 }

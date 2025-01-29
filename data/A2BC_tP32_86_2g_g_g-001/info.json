@@ -44,5 +44,9 @@
     "alias": "A2BC_tP32_86_2g_g_g",
     "number_of_species": 3,
     "pearson_symbol": "tP32",
-    "space_group_number": 86
+    "space_group_number": 86,
+    "comments": "(Ketellar, 1939) gave the atomic positions in setting 1 of space group $P4_{2}/n$ \\#86.  We have shifted the origin to the inversion site for this lattice and present the atomic positions in setting 2.",
+    "notes": "$E1_{4}$",
+    "ccdc": null,
+    "icsd": "33711"
 }

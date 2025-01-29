@@ -71,5 +71,9 @@
     "alias": "A2B5C_mP32_14_2e_5e_e",
     "number_of_species": 3,
     "pearson_symbol": "mP32",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "comments": "Compounds of the form RESiO$_{5}$ (RE = Rare Earth and related elements) crystallize in one of two forms (Wang, 2001 and Tian, 2016): \n X1, shown here, for rare earths between lanthanum and gadolinium, and \n \\href{current_web_home_dir/A5BC2_mC64_15_5f_f_2f-001}{X2, space group $C2/c$ \\#15 for the later rare earths}, with the dysprosium, yttrium and ytterbium compounds existing in both structures. \n The ICSD entry is from the later work of (Drami\\'{c}anin, 2006).",
+    "notes": "``X1'' Structure",
+    "ccdc": null,
+    "icsd": "154796"
 }

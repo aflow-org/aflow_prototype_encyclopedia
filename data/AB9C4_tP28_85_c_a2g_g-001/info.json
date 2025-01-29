@@ -39,5 +39,9 @@
     "alias": "AB9C4_tP28_85_c_a2g_g-001",
     "number_of_species": 3,
     "pearson_symbol": "tP28",
-    "space_group_number": 85
+    "space_group_number": 85,
+    "comments": "AFLOW moves the origin so that the published O I sited is moved from the (2b) Wyckoff position to the (2a) site.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "2556"
 }

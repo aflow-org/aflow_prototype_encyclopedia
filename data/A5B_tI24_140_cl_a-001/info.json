@@ -23,5 +23,9 @@
     "alias": "A5B_tI24_140_cl_a-001",
     "number_of_species": 2,
     "pearson_symbol": "tI24",
-    "space_group_number": 140
+    "space_group_number": 140,
+    "comments": "There is no ICSD entry for (Grin, 1997).  It is a refinement of the work of (Schubert, 1959), and we list that ICSD entry.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "103908"
 }

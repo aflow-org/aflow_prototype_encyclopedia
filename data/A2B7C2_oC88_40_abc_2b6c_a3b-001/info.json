@@ -91,5 +91,9 @@
     "alias": "A2B7C2_oC88_40_abc_2b6c_a3b",
     "number_of_species": 3,
     "pearson_symbol": "oC88",
-    "space_group_number": 40
+    "space_group_number": 40,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "249126"
 }

@@ -44,5 +44,9 @@
     "alias": "AB4C_oP24_62_c_2cd_c",
     "number_of_species": 3,
     "pearson_symbol": "oP24",
-    "space_group_number": 62
+    "space_group_number": 62,
+    "notes": "$HO_{2}$ barite",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "16904"
 }

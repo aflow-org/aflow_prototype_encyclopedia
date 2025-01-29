@@ -33,5 +33,9 @@
     "alias": "A3B4_hR7_160_3a_4a-001",
     "number_of_species": 2,
     "pearson_symbol": "hR7",
-    "space_group_number": 160
+    "space_group_number": 160,
+    "comments": "Most earlier {\\em e.g.} (Pearson, 1967) work places this in space group $R\\overline{3}m$ \\#166, in which case this would be in the \\href{current_web_home_dir/A4B3_hR7_166_2c_ac-001}{Al$_{4}$C$_{3}$ ($D7_{1}$) structure}.  (Kovnir, 2009) argue that there is actually no inversion site, so the structure is as presented here, in space group $R3m$ \\#160.  The two structures are very close -- if we allow a 0.1{\\AA} uncertainty in the atomic positions the structure becomes $D7_{1}$.  As we already have that structure, we present the Kovnir {\\em et al.} structure here. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "419884"
 }

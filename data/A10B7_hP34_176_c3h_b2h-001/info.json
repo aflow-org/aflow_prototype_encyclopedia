@@ -39,5 +39,9 @@
     "alias": "A10B7_hP34_176_c3h_b2h",
     "number_of_species": 2,
     "pearson_symbol": "hP34",
-    "space_group_number": 176
+    "space_group_number": 176,
+    "comments": "The Si-I (2b) site is only occupied 50\\% of the time, giving the observed stoichiometry.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "43241"
 }

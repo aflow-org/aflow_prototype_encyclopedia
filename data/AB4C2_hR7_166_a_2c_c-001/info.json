@@ -25,5 +25,9 @@
     "alias": "AB4C2_hR7_166_a_2c_c",
     "number_of_species": 3,
     "pearson_symbol": "hR7",
-    "space_group_number": 166
+    "space_group_number": 166,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "23251"
 }

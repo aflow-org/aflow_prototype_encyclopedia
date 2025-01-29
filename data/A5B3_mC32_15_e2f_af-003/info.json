@@ -43,5 +43,9 @@
     "alias": "A5B3_mC32_15_e2f_af-003",
     "number_of_species": 2,
     "pearson_symbol": "mC32",
-    "space_group_number": 15
+    "space_group_number": 15,
+    "comments": "We use the data from Sample I-2-7 of (Armbruster, 2009), taken at room temperature.  This structure is metastable up to 423-433K, after which it becomes the stable phase.  The ground state of V$_{3}$O$_{5}$ has a monoclinic cell twice as large as this one, with \\href{current_web_home_dir/A5B3_mP32_13_ef4g_ab2g-001}{space group $P2/c$ \\#13}. V$_{3}$O$_{5}$ can also be found in the metastable form of anosovite, which has the \\href{current_web_home_dir/A2B5C_oC32_63_f_c2f_c-001}{Fe$_{2}$TiO$_{5}$ ($E4_{1}$) structure} (Weber, 2012). \n In the sample studied by (Armbruster, 2009), the V (4a) site actually has the composition V$_{0.59}$Ti$_{0.41}$, while the V (8f) site is actually V$_{0.835}$,Cr$_{0.165}$.",
+    "notes": "Oxyvanite",
+    "ccdc": null,
+    "icsd": "164872"
 }

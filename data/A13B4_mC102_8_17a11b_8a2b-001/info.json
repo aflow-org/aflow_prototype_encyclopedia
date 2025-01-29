@@ -201,5 +201,9 @@
     "alias": "A13B4_mC102_8_17a11b_8a2b",
     "number_of_species": 2,
     "pearson_symbol": "mC102",
-    "space_group_number": 8
+    "space_group_number": 8,
+    "comments": "Following (Hudd, 1962), the Al-IV and Al-XIII sites are occupied 30\\% of the time, while the occupation of Al-VI, Al-IX, Al-XIV, and Al-XVII is 70\\%.  This gives a nominal occupation of Al$_{91}$Co$_{30}$, though the authors state the actual composition is Al$_{68.3}$Co$_{24.4}$. \n Space group $Cm$ \\#8 allows an arbitrary choice for the origin of the $z$-axis.  We follow (Hudd, 1962) and set $z_{26} = 0$. \n If we allow the rather large uncertainty of 0.3{\\AA} in the atomic positions, FINDSYM sets the symmetry as $C2/m$ \\#12.  That crystal has the \\href{current_web_home_dir/A13B4_mC102_12_ah8i5j_4ij-001}{Al$_{13}$Fe$_{4}$} prototype. \n Co$_{4}$ has also been observed in a \\href{current_web_home_dir/A13B4_oP102_31_17a11b_8a2b-001}{orthorhombic structure}.",
+    "notes": "Monoclinic",
+    "ccdc": null,
+    "icsd": "57599"
 }

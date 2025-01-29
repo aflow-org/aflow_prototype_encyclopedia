@@ -47,5 +47,9 @@
     "alias": "A6B16C_oP23_16_su_acjlp2u_d-001",
     "number_of_species": 3,
     "pearson_symbol": "oP23",
-    "space_group_number": 16
+    "space_group_number": 16,
+    "comments": "The Mo-I (2s) site is occupied only 50\\% of the time.  For first-principles calculations it may be possible to replace the atoms on the (2s) site by a single atom at the (1g) site. \n (Tabachenko, 1995) also found evidence of a U$_{0.75}$Mo$_{5}$O$_{16}$ structure, where the uranium (1d) site contains 25\\% vacancies, and the Mo-II (4u) site is split into two partially occupied (4u) sites. \n (Tabachenko, 1995) also found a \\href{current_web_home_dir/A5B16C_mP22_3_a2e_ab7e_b-001}{monoclinic UMo$_{5}$O$_{16}$ structure}, where the atoms are completely ordered.",
+    "notes": "Orthorhombic",
+    "ccdc": null,
+    "icsd": "80164"
 }

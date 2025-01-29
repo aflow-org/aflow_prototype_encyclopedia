@@ -163,5 +163,9 @@
     "alias": "A9BC14_oP96_17_9e_ac_14e-001",
     "number_of_species": 3,
     "pearson_symbol": "oP96",
-    "space_group_number": 17
+    "space_group_number": 17,
+    "comments": "(Wright, 2003) call this Cs$_{2}$0.9B$_{2}$O$_{3}$.  The ICSD labels the structure as Cs$_{2}$O(B$_{2}$O$_{3}$)$_{9}$.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "99793"
 }

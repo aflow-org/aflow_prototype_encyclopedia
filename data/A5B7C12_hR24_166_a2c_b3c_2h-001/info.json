@@ -37,5 +37,9 @@
     "alias": "A5B7C12_hR24_166_a2c_b3c_2h-001",
     "number_of_species": 3,
     "pearson_symbol": "hR24",
-    "space_group_number": 166
+    "space_group_number": 166,
+    "comments": "This is the ternary version of \\href{current_web_home_dir/A5B19_hR24_166_a2c_b3c2h-001}{the Ce$_{5}$Co$_{19}$ structure}. We have arbitrarily chosen Ce$_{5}$Ga$_{7}$Rh$_{12}$ as the prototype. \n \\href{current_web_home_dir/A4B5C9_hR18_166_2c_a2c_dh-001}{Ce$_{4}$Ga$_{5}$Rh$_{9}$} and \\href{current_web_home_dir/A7B11C18_hR36_166_a3c_b5c_3h-001}{Ce$_{7}$Ga$_{11}$Rh$_{18}$} are slightly gallium-enriched forms of this structure.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "432161"
 }

@@ -83,5 +83,9 @@
     "alias": "ABC_mP42_13_e3g_e3g_f3g-001",
     "number_of_species": 3,
     "pearson_symbol": "mP42",
-    "space_group_number": 13
+    "space_group_number": 13,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "430054"
 }

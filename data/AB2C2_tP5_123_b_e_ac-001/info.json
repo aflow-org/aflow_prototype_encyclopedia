@@ -19,5 +19,9 @@
     "alias": "AB2C2_tP5_123_b_e_ac-001",
     "number_of_species": 3,
     "pearson_symbol": "tP5",
-    "space_group_number": 123
+    "space_group_number": 123,
+    "comments": "We have inferred the value of $a$ and the positions of the atoms from Figure 2(a) of (Holtzman, 1959) and Figure 3 of (Murthy, 1969), shifting the origin to be on the Mn$_{II}$ atom.  The value of $c$ was inferred from the C-Mn$_{II}$ distance given in the paper.  This is a pseudo-cubic lattice, with $c/a \\approx 1$.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "44353"
 }

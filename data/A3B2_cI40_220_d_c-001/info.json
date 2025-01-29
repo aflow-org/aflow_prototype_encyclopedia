@@ -22,5 +22,9 @@
     "alias": "A3B2_cI40_220_d_c",
     "number_of_species": 2,
     "pearson_symbol": "cI40",
-    "space_group_number": 220
+    "space_group_number": 220,
+    "comments": "We use the data for $^{240}$Pu.",
+    "notes": "$D5_{c}$",
+    "ccdc": null,
+    "icsd": "16511"
 }

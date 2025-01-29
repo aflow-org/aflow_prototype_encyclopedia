@@ -51,5 +51,9 @@
     "alias": "A2B2C_oC80_64_efg_efg_df",
     "number_of_species": 3,
     "pearson_symbol": "oC80",
-    "space_group_number": 64
+    "space_group_number": 64,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "79587"
 }

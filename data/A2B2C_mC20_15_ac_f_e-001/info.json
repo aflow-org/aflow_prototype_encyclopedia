@@ -31,5 +31,9 @@
     "alias": "A2B2C_mC20_15_ad_f_e",
     "number_of_species": 3,
     "pearson_symbol": "mC20",
-    "space_group_number": 15
+    "space_group_number": 15,
+    "comments": "(Bystr\\\"{o}m, 1950) gives the structure in the $I2/c$ setting of space group \\#15.  We have used FINDSYM to change this to the standard $C2/c$ setting.  This conversion involved a rotation of the axis, and placed the origin on what had been an Ag (4d) site, transforming it to Ag (4a).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "24037"
 }

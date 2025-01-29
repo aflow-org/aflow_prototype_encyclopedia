@@ -30,5 +30,9 @@
     "alias": "A3B2C9D3E_hP36_194_g_f_hk_h_a",
     "number_of_species": 5,
     "pearson_symbol": "hP36",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "comments": "This hexagonal structure has been superseded by \\href{current_web_home_dir/A2B3C9D3E_mC144_15_2f_abcef_9f_3f_de-001}{the monoclinic structure of (Ilyushin, 1981)}.  We present it here for historical interest. \n We were unable to procure the original reference, so we use the data provided by (Gottfried, 1937). \n Four of the (6g) sites are randomly occupied by water molecules. \n (Gottfried, 1937) originally gave the {\\em Strukturbericht} designation $S3_{4}$ to \\href{current_web_home_dir/A5B21C24D12_hR62_166_a2c_ehi_fg2h_i-001}{chabazite}, but (Gottfried, 1940) gave it to this structure of catapleiite. We distinguish between the two cases by using $S3_{4}$(I) to designate chabazite and $S3_{4}$(II) to designate catapleiite.",
+    "notes": "$S3_{4}$(II), Catapleiite ({\\em Obsolete})",
+    "ccdc": null,
+    "icsd": "none"
 }

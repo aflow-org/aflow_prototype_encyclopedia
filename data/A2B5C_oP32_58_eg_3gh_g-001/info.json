@@ -50,5 +50,9 @@
     "alias": "A2B5C_oP32_58_eg_3gh_g",
     "number_of_species": 3,
     "pearson_symbol": "oP32",
-    "space_group_number": 58
+    "space_group_number": 58,
+    "comments": "Three crystal polymorphs of Al$_{2}$SiO$_{5}$ have been characterized, all with Al octahedra and chains of edge-sharing SiO$_{6}$ tetrahedra: \\begin{itemize} \\item \\href{current_web_home_dir/A2B5C_aP32_2_4i_10i_2i-001}{kyanite ($S0_{1}$), space group $P\\overline{1}$ \\#2}, \\item \\href{current_web_home_dir/A2B5C_oP32_58_eg_3gh_g-001}{andalusite ($S0_{2}$), space group $Pnnm$ \\#58} (this structure), and \\item \\href{current_web_home_dir/A2B5C_oP32_62_ac_3cd_c-001}{sillimanite ($S0_{3}$), space group $Pnma$ \\#62}. \\end{itemize} ~ \\vspace{-.25in} \n (Hermann, 1937) listed this as $S0_{2}$, but also gave it the $H5_{3}$ designation in the index.",
+    "notes": "$S0_{2}$, Andalusite",
+    "ccdc": null,
+    "icsd": "100395"
 }

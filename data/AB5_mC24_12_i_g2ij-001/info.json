@@ -43,5 +43,9 @@
     "alias": "AB5_mC24_12_i_g2ij-001",
     "number_of_species": 2,
     "pearson_symbol": "mC24",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "comments": "We have shifted the origin of the $z$-axis by $c/2$ from that used by (Kohlman, 2016).  This changes the position of the palladium atoms from the (4h) Wyckoff position to (4g).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "239291"
 }

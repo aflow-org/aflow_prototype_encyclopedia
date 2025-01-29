@@ -47,5 +47,9 @@
     "alias": "AB_mC24_12_3i_3i",
     "number_of_species": 2,
     "pearson_symbol": "mC24",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "comments": "The structures of GaTe and GeAs were apparently determined by (Bryden, 1965) before (Wadsten, 1965) found the structure of SiAs, but they were never published (Pearson, 1964 ; Wadsten, 1965 ; Mead, 1982).  As SiAs was the first published determination of this structure, we use it as the prototype.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "43227"
 }

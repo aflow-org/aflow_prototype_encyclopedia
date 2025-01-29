@@ -33,5 +33,9 @@
     "alias": "A8B6C_hR15_148_cf_f_a",
     "number_of_species": 3,
     "pearson_symbol": "hR15",
-    "space_group_number": 148
+    "space_group_number": 148,
+    "comments": "The Li-I (2c) site is half-occupied.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "74949"
 }

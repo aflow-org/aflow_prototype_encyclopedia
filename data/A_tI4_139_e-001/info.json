@@ -21,5 +21,9 @@
     "alias": "A_tI4_139_e",
     "number_of_species": 1,
     "pearson_symbol": "tI4",
-    "space_group_number": 139
+    "space_group_number": 139,
+    "comments": "The bct5 structure is a tetragonal analog of the \\href{current_web_home_dir/A_cF8_227_a-001}{diamond ($A4$) structure}, with 5-fold coordination. It was proposed in (Boyer, 1991) as a low-energy metastable phase of silicon, based on first-principles calculations and model potentials. (Gerbig, 2012) found evidence of this structure in strained silicon.",
+    "notes": "BCT5 Si",
+    "ccdc": null,
+    "icsd": "none"
 }

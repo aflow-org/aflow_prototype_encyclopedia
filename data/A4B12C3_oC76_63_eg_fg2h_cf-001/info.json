@@ -53,5 +53,9 @@
     "alias": "A4B12C3_oC76_63_eg_fg2h_cf-001",
     "number_of_species": 3,
     "pearson_symbol": "oC76",
-    "space_group_number": 63
+    "space_group_number": 63,
+    "comments": "There are three known varieties of Bi$_{4}$V$_{2}$O$_{11}$ (Villars, 2018): \\begin{itemize} \\item \\href{current_web_home_dir/A3B9C2_mC112_5_6c_2a2b16c_4c-001}{$\\alpha$}, the ground state structure, stable up to $450^{\\circ}$C, \\item \\href{current_web_home_dir/A4B12C3_oC76_63_eg_fg2h_cf-001}{$\\beta$}, stable between $450^{\\circ}$C and $555^{\\circ}$C (this structure), and \\item \\href{current_web_home_dir/A5B9C2_tI64_139_em_d2n_h-001}{$\\gamma$}, stable from 555$^{\\circ}$C up to the melting point at 880$^{\\circ}$C. \\end{itemize} ~ \\vspace{-.25in} \n The data for this structure was taken at 550$^{\\circ}$C. \n Several of the Wyckoff positions listed here are only partially occupied:  V-I: 25\\%, V-II: 50\\%, and O-IV 75\\%. \n (Mairesee, 2003) describe this structure in the $Amam$ setting of space group \\#63.  We used FINDSYM to transform this to the standard $Cmcm$ setting.",
+    "notes": "$\\beta$-Bi$_{4}$V$_{2}$O$_{11}$",
+    "ccdc": null,
+    "icsd": "98588"
 }

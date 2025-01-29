@@ -28,5 +28,9 @@
     "alias": "AB_hR6_160_b_b",
     "number_of_species": 2,
     "pearson_symbol": "hR6",
-    "space_group_number": 160
+    "space_group_number": 160,
+    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "notes": "$B13$, Millerite",
+    "ccdc": null,
+    "icsd": "40054"
 }

@@ -67,5 +67,9 @@
     "alias": "AB2C4D_hR48_148_f_2f_4f_f-001",
     "number_of_species": 4,
     "pearson_symbol": "hR48",
-    "space_group_number": 148
+    "space_group_number": 148,
+    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "notes": "Dioptase",
+    "ccdc": null,
+    "icsd": "100077"
 }

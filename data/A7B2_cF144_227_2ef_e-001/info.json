@@ -25,5 +25,9 @@
     "alias": "A7B2_cF144_227_2ef_e-001",
     "number_of_species": 2,
     "pearson_symbol": "cF144",
-    "space_group_number": 227
+    "space_group_number": 227,
+    "comments": "There is considerable disorder in this structure, with all of the (32e) sites having vacancies: \\begin{itemize} \\item The Dy-I site is 50\\% occupied. \\item The Dy-II site is 12.5\\% occupied \\item The Pd site is 87.5\\% occupied. \\end{itemize} ~ \\vspace{-.25in} \n This gives a composition of Dy$_{2.43}$Pd.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "103347"
 }

@@ -42,5 +42,9 @@
     "alias": "A9B2C9_hP40_176_hi_f_hi",
     "number_of_species": 3,
     "pearson_symbol": "hP40",
-    "space_group_number": 176
+    "space_group_number": 176,
+    "notes": "$F4_{1}$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "6010"
 }

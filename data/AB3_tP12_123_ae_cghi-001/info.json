@@ -25,5 +25,9 @@
     "alias": "AB3_tP12_123_ae_cghi-001",
     "number_of_species": 2,
     "pearson_symbol": "tP12",
-    "space_group_number": 123
+    "space_group_number": 123,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "150552"
 }

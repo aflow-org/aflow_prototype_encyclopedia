@@ -46,5 +46,9 @@
     "alias": "A29B40CD12_cF656_227_ae2fg_e3g_b_g",
     "number_of_species": 4,
     "pearson_symbol": "cF656",
-    "space_group_number": 227
+    "space_group_number": 227,
+    "comments": "This compound is often colloquially called ``PWA-29.''  On heating some water molecules will disassociate, leaving \\href{current_web_home_dir/A27B52CD12_cP184_224_dl_eh3k_a_k-001}{H$_{3}$PW$_{12}$O$_{40}$ $\\cdot$ 6H$_{2}$O}, \\href{current_web_home_dir/A5B40CD12_cP116_224_bd_e3k_a_k-001}{H$_{3}$PW$_{12}$O$_{40}$ $\\cdot$ 5H$_{2}$O} ($H4_{16}$), or \\href{current_web_home_dir/A3B40CD12_cP112_224_d_e3k_a_k-001}{H$_{3}$PW$_{12}$O$_{40}$ $\\cdot$ 3H$_{2}$O}. \n The three hydrogen atoms not formally associated with the water molecules are not located.  Presumably they join with some water molecules to form form H$_{3}$O$^+$ ions. \n Even the exact number and position of the water molecules is uncertain.  (Clark, 1976), studying the related compound H$_{3}$PMo$_{12}$O$_{40}$ $\\cdot$ 30H$_{2}$O, states that the composition is approximately 30H$_{2}$O and that ``only six of the water molecules occupy ordered sites.''",
+    "notes": "$H4_{21}$, ``PWA-29''",
+    "ccdc": null,
+    "icsd": "36274"
 }

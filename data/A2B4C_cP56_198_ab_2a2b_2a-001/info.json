@@ -45,5 +45,9 @@
     "alias": "A2B4C_cP56_198_ab_2a2b_2a",
     "number_of_species": 3,
     "pearson_symbol": "cP56",
-    "space_group_number": 198
+    "space_group_number": 198,
+    "comments": "This is the cubic phase of Cu$_{2}$OSeO$_{3}$.  There is also a \\href{current_web_home_dir/A2B4C_mP28_14_abe_4e_e-001}{monoclinic phase}.",
+    "notes": "Cubic Cu$_{2}$OSeO$_{3}$",
+    "ccdc": null,
+    "icsd": "60652"
 }

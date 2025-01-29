@@ -41,5 +41,9 @@
     "alias": "A4B6C_hP11_143_bd_2d_a",
     "number_of_species": 3,
     "pearson_symbol": "hP11",
-    "space_group_number": 143
+    "space_group_number": 143,
+    "comments": "(Pfannenschmidt, 2011) place this structure in space group $P3$ \\#143, but they find the $z$ coordinates of the atoms on the (3d) site all close to 0 or 1/2.  As a result, the default tolerance of AFLOW places this structure in space group $P\\overline{6}m2$ \\#187.  It is likely that first-principles calculations will converge to the higher-symmetry space group. \n The reported experimental structure may be recovered using \n aflow -{-}proto=A4B6C\\_hP11\\_143\\_ad\\_2d\\_b:P:Rh:Sc -{-}params=a,c/a,z$_{1}$,z$_{2}$,x$_{3}$,y$_{3}$,z$_{3}$,x$_{4}$,y$_{4}$,z$_{4}$,x$_{5}$,y$_{5}$,z$_{5}$ -{-}tolerance=0.001.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "182778"
 }

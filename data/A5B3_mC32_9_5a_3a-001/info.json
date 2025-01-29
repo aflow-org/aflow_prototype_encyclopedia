@@ -71,5 +71,9 @@
     "alias": "A5B3_mC32_9_5a_3a",
     "number_of_species": 2,
     "pearson_symbol": "mC32",
-    "space_group_number": 9
+    "space_group_number": 9,
+    "notes": "$\\alpha$-P$_{3}$N$_{5}$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "236555"
 }

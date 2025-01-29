@@ -45,5 +45,9 @@
     "alias": "A2B3C8_oP26_55_h_ag_2g2h",
     "number_of_species": 3,
     "pearson_symbol": "oP26",
-    "space_group_number": 55
+    "space_group_number": 55,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "49523"
 }

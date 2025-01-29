@@ -27,5 +27,9 @@
     "alias": "A3B9CD2_hP15_164_ad_ei_b_d-001",
     "number_of_species": 4,
     "pearson_symbol": "hP15",
-    "space_group_number": 164
+    "space_group_number": 164,
+    "comments": "Despite its hexagonal unit cell, this is closely related to \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite, $E2_{1}$}, as can be seen by looking at the nearly perfect cubes formed by the strontium and tantalum atoms.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "27496"
 }

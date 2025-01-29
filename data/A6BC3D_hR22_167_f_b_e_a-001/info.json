@@ -27,5 +27,9 @@
     "alias": "A6BC3D_hR22_167_f_b_e_a",
     "number_of_species": 4,
     "pearson_symbol": "hR22",
-    "space_group_number": 167
+    "space_group_number": 167,
+    "comments": "We use the data taken at 293K.",
+    "notes": "Rinneite",
+    "ccdc": null,
+    "icsd": "170745"
 }

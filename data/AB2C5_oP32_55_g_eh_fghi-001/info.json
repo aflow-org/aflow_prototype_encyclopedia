@@ -47,5 +47,9 @@
     "alias": "AB2C5_oP32_55_g_fh_eghi",
     "number_of_species": 3,
     "pearson_symbol": "oP32",
-    "space_group_number": 55
+    "space_group_number": 55,
+    "comments": "We found no definitive definition for the prototype of the structure XMn$_{2}$O$_{5}$, where X is a rare earth.  (Quezel-Ambrunaz, 1964) has the earliest description of the structure we could find, so we use HoMn$_{2}$O$_{5}$ as the prototype.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "none"
 }

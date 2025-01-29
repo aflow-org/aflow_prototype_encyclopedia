@@ -19,5 +19,9 @@
     "alias": "ABC3D6_cP11_200_a_b_c_f-001",
     "number_of_species": 4,
     "pearson_symbol": "cP11",
-    "space_group_number": 200
+    "space_group_number": 200,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "28645"
 }

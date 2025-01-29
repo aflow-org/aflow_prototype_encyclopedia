@@ -67,5 +67,9 @@
     "alias": "AB3CD2_mC56_12_2i_eg2ij_2i_2j-001",
     "number_of_species": 4,
     "pearson_symbol": "mC56",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "comments": "We have shifted the origin by $\\frac 12 c \\hat{z}$ from that given by (Pervukhina, 2004).",
+    "notes": "Radtkeite",
+    "ccdc": null,
+    "icsd": "98907"
 }

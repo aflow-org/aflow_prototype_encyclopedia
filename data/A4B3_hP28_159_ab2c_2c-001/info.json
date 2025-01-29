@@ -47,5 +47,9 @@
     "alias": "A4B3_hP28_159_ab2c_2c",
     "number_of_species": 2,
     "pearson_symbol": "hP28",
-    "space_group_number": 159
+    "space_group_number": 159,
+    "comments": "Nierite can also be found as \\href{current_web_home_dir/A4B3_hP14_176_ch_h-001}{hexagonal $\\beta$-Si$_{3}$N$_{4}$}. \n The data for this structure was taken at 300K.",
+    "notes": "Nierite",
+    "ccdc": null,
+    "icsd": "79797"
 }

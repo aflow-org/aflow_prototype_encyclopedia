@@ -57,5 +57,9 @@
     "alias": "A108B24C11D24_cP334_222_h4i_i_bf_i-001",
     "number_of_species": 4,
     "pearson_symbol": "cP334",
-    "space_group_number": 222
+    "space_group_number": 222,
+    "ccdc": "1586182",
+    "comments": "The original data for this was published in CCDC entry 1586182. \n The data was taken at 150K. \n Although (Shylyapnikov, 2018) call this structure Ti$_{6}$F$_{27}$(H$_{3}$O)$_{3}$, this ignores the oxygen atoms on the (6b) sites, which are not associated with any hydrogen atoms.  If we wish to include these in a the form favored by this paper, the composition is better listed as O$_{3}$[Ti$_{6}$F$_{27}$(H$_{3}$O)$_{3}$]$_{2}$. \n (Shylyapnikov, 2018) state that ``Hydrogen atoms in the structures of [H$_{3}$O]$_{3}$[Ti$_{6}$F$_{27}$] \\dots were placed on ideal positions and refined as riding atoms with relative isotropic displacement parameters.''  This places the hydrogen atoms 0.91{\\AA} from the associated oxygen.",
+    "notes": null,
+    "icsd": "256037"
 }

@@ -37,5 +37,9 @@
     "alias": "A28B5C12_cP90_201_e2h_bd_h-001",
     "number_of_species": 3,
     "pearson_symbol": "cP90",
-    "space_group_number": 201
+    "space_group_number": 201,
+    "comments": "Only two-thirds of the K-II (6d) sites are occupied.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "390027"
 }

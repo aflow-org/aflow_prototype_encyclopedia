@@ -99,5 +99,9 @@
     "alias": "A_aP24_2_12i-001",
     "number_of_species": 1,
     "pearson_symbol": "aP24",
-    "space_group_number": 2
+    "space_group_number": 2,
+    "comments": "Phosphorus is found in at least three forms: \\begin{itemize} \\item \\href{current_web_home_dir/A_oC8_64_f-002}{Black phosphorus, {\\em Strukturbericht} $A17$}, \\item \\href{current_web_home_dir/A_mP84_13_21g-001}{Monoclinic Hittorf's phosphorus}, and \\item \\href{current_web_home_dir/A_aP24_2_12i-001}{Low temperature triclinic ``white'' phosphorus}, stable below 197K. (this structure) \\end{itemize} ~ \\vspace{-.25in} \n We use the data taken at 162K. \n The P$_{4}$ molecules exhibit considerable rigid-body motion, both rotational and translational (Simon, 1987). \n There is considerable disagreement about the name of this structure.  Most authors refer to it as $\\beta$-white phosphorous, but (Donohue, 1982) refers to it as $\\alpha$-white phosphorous.  Other authors refer to this as yellow phosphorous.  Simply referring to this as low temperature phosphorous seems the easiest way to avoid confusion.",
+    "notes": "LT, White Phosphorus",
+    "ccdc": null,
+    "icsd": "68326"
 }

@@ -36,5 +36,9 @@
     "alias": "A7B2C_tP40_128_egi_h_e",
     "number_of_species": 3,
     "pearson_symbol": "tP40",
-    "space_group_number": 128
+    "space_group_number": 128,
+    "comments": "Our original (Hicks, 2019) CIF for this structure has incorrect $z$-coordinates for the Al I and Fe I atoms.   We have corrected the errors with this release.",
+    "notes": "$E9_{a}$",
+    "ccdc": null,
+    "icsd": "57677"
 }

@@ -20,5 +20,9 @@
     "alias": "AB_tI8_141_a_b",
     "number_of_species": 2,
     "pearson_symbol": "tI8",
-    "space_group_number": 141
+    "space_group_number": 141,
+    "comments": "When $c/a=2$, the atoms in this lattice are on the sites of the face-centered cubic lattice. Thus (Lu, 1991) use this lattice for their structural stability studies, and arbitrarily assign this lattice a Strukturbericht designation of ``40.'' Note that (Sch\\\"{o}nberg, 1954) gives the space group as $I4_{1}22$ \\#98 but, as (Villars, 1991) notes, the coordinates given increase the symmetry to $I4_{1}/amd$ \\#141.",
+    "notes": "``40'' Structure",
+    "ccdc": null,
+    "icsd": "76027"
 }

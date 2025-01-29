@@ -65,5 +65,9 @@
     "alias": "A3B3C_mP28_14_3e_3e_e-001",
     "number_of_species": 3,
     "pearson_symbol": "mP28",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "comments": "Ag$_{3}$SbS$_{3}$ can also be found as the mineral pyrargyrite, which has the \\href{current_web_home_dir/A3BC3_hR14_161_b_a_b-001}{proustite (Ag$_{3}$AsS$_{3}$) structure}.",
+    "notes": "Pyrostilpnite",
+    "ccdc": null,
+    "icsd": "17780"
 }

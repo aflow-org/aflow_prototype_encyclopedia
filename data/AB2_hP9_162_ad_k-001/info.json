@@ -24,5 +24,9 @@
     "alias": "AB2_hP9_162_ad_k",
     "number_of_species": 2,
     "pearson_symbol": "hP9",
-    "space_group_number": 162
+    "space_group_number": 162,
+    "comments": "(Parth\\'{e}, 1993) is the only reference we have seen with a $L'3_{2}$ {\\em Strukturbericht} designation.\n (Christensen, 1979) states that $\\epsilon$-Fe$_{2}$N is the prototype for this structure. We will instead follow (Villars, 1991), which uses $\\beta$-V$_{2}$N as the prototype. \n The ternary version of this structure is \\href{current_web_home_dir/A6BC2_hP9_162_k_a_d-001}{rosiaite, PbSb$_{2}$O$_{6}$}.",
+    "notes": "$L'3_{2}$, $\\beta$-V$_{2}$N",
+    "ccdc": null,
+    "icsd": "8236"
 }

@@ -38,5 +38,9 @@
     "alias": "A2B3_tP40_137_cdf_3g",
     "number_of_species": 2,
     "pearson_symbol": "tP40",
-    "space_group_number": 137
+    "space_group_number": 137,
+    "comments": "(Stackelberg, 1935) gives the atomic positions in the first setting of space group $P4_{2}/nmc$ \\#137. We have changed this to the second setting, placing the origin of the system at the inversion site. \n (Pearson, 1958, p. 803) gives the space group as $P4_{2}/mmc$ \\#131, but it is correctly given as $P4_{2}/nmc$ on page 111.",
+    "notes": "$D5_{9}$",
+    "ccdc": null,
+    "icsd": "26876"
 }

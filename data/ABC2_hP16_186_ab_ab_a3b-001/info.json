@@ -35,5 +35,9 @@
     "alias": "ABC2_hP16_186_ab_ab_a3b-001",
     "number_of_species": 3,
     "pearson_symbol": "hP16",
-    "space_group_number": 186
+    "space_group_number": 186,
+    "comments": "LiCoO$_{2}$ structures are defined by the stacking arrangement of the edge-shared CoO$_{6}$ octahedra.  In addition, the O3 and O4 structures may have stacking faults. (Yabuuchi, 2013) prepared all of these structures by treating \\href{current_web_home_dir/A2BC2D4_hP18_194_f_a_cd_ef-001}{``OP4''-LiNaCo$_{2}$O$_{4}$} using ion-exchange in aqueous media. \\begin{itemize} \\item In \\href{current_web_home_dir/ABC2_hP8_186_b_b_ab-001}{O2-LiCoO$_{2}$} the octahedra are stacked in an alternating cubic/hexagonal arrangement. \\item In O3-LiCoO$_{3}$ the octahedra are stacked in a cubic arrangement, taking on the \\href{current_web_home_dir/ABC2_hR4_166_a_b_c-009}{$\\alpha$-NaFeO$_{2}$} structure. \\item In \\href{current_web_home_dir/ABC2_hP16_186_ab_ab_a3b-001}{O4-LiCoO$_{2}$} (this structure) the octahedra alternate between O2 and O4. \\end{itemize} ~ \\vspace{-.25in} \n In this sample 10\\% of the lithium sites are vacant. \n Space group $P6_{3}mc$ \\#186 does not specify the origin of the $z$-coordinate.  We fix it here by setting $z_{1} = 0$.",
+    "notes": "O4-LiCoO$_{2}$",
+    "ccdc": null,
+    "icsd": "none"
 }

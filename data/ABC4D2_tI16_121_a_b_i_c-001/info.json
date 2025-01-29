@@ -23,5 +23,9 @@
     "alias": "ABC4D2_tI16_121_a_b_i_c-001",
     "number_of_species": 4,
     "pearson_symbol": "tI16",
-    "space_group_number": 121
+    "space_group_number": 121,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "172502"
 }

@@ -33,5 +33,9 @@
     "alias": "AB2_oC12_36_a_2a",
     "number_of_species": 2,
     "pearson_symbol": "oC12",
-    "space_group_number": 36
+    "space_group_number": 36,
+    "comments": "An earlier version of this page had the wrong value for the length $c$.  We have corrected that in this version.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "43331"
 }

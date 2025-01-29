@@ -51,5 +51,9 @@
     "alias": "ABC3_mC40_15_2e_f_3f-001",
     "number_of_species": 3,
     "pearson_symbol": "mC40",
-    "space_group_number": 15
+    "space_group_number": 15,
+    "comments": "This is the ground state structure of CoGeO$_{3}$.  Above $1351^{\\circ}$C it transforms to the \\href{current_web_home_dir/AB3C_oP80_61_2c_6c_2c-001}{tetragonal MgSiO$_{3}$ ($S4_{3}$) structure}, which remains metastable down to 4K (Zhao, 2021). \n The crystal structure data was taken at 4K. \n There is no ICSD or CCDC entry for (Redhammer, 2010).  Instead we use the ICSD from the much older work of (Peacor, 1968).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "26814"
 }

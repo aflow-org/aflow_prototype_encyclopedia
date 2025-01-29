@@ -51,5 +51,9 @@
     "alias": "A2B4CD4_hP66_181_k_2k_f_2k-001",
     "number_of_species": 4,
     "pearson_symbol": "hP66",
-    "space_group_number": 181
+    "space_group_number": 181,
+    "comments": "We follow (Abrahams, 1982) and put this structure in space group $P6_{4}22$ \\#181.  (Villars, 2006) give the structure in the enantiomorphic space group $P6_{2}22$ \\#180. The latter paper uses 0.0058 instead of 0.00058 for one of the coordinates of the gold atoms.  This change does not affect the distances between atoms published in (Abrahams, 1982), so we do not know which is correct.  We use 0.00058.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "41197"
 }

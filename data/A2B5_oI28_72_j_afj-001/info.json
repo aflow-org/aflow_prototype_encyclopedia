@@ -32,5 +32,9 @@
     "alias": "A2B5_oI28_72_j_bfj",
     "number_of_species": 2,
     "pearson_symbol": "oI28",
-    "space_group_number": 72
+    "space_group_number": 72,
+    "comments": "We corrected an error in the Mg III (8j) coordinates and shifted the Mg I atoms from the (2b) to the (2a) site.",
+    "notes": "$D8_{g}$",
+    "ccdc": null,
+    "icsd": "103794"
 }

@@ -38,5 +38,9 @@
     "alias": "A13BC18D20E5_cF228_216_dh_b_fh_2eh_ce",
     "number_of_species": 5,
     "pearson_symbol": "cF228",
-    "space_group_number": 216
+    "space_group_number": 216,
+    "comments": "We use the structure proposed by (Kamb, 1960), a refinement of the original (Pauling, 1933) $S0_{8}$ structure. The only major difference is the $y$ coordinate of the OH/F-I site, which is now at a more reasonable distance from the chlorine atom.\n For easy of visualization, we have used fluorine atoms to represent all of the (OH,F)$_{18}$ positions, but in reality the system is dominated by OH, not F.  Kamb argues that the physics of hydrogen bonding makes it likely that the actual structure has composition (OH)$_{16}$F$_{2}$, with the fluorine atoms substituting for OH on the second (48h) site.",
+    "notes": "$S0_{8}$, Zunyite",
+    "ccdc": null,
+    "icsd": "15745"
 }

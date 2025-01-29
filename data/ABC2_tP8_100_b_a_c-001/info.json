@@ -28,5 +28,9 @@
     "alias": "ABC2_tP8_100_b_a_c",
     "number_of_species": 3,
     "pearson_symbol": "tP8",
-    "space_group_number": 100
+    "space_group_number": 100,
+    "comments": "(Levi, 1931) first determined this structure, but they were actually looking at a combination of \\href{current_web_home_dir/AB4CD2_tP16_113_c_f_a_e-001}{ammonium chlorite, NH$_{4}$ClO$_{2}$} and ammonium chlorate, NH$_{4}$ClO$_{3}$, which takes on the \\href{current_web_home_dir/ABC3_hR5_160_a_a_b-002}{$\\gamma$-KNO$_{3}$} structure. In addition, they were unable to determine the positions of the hydrogen atoms, and it appears that space group $P4bm$ \\#100 is incompatible with having four hydrogen atoms in a tetrahedral arrangement about the nitrogen atom.  (Smolentsev, 2005) determined the positions of the hydrogen atoms, and \\href{current_web_home_dir/AB4CD2_tP16_113_c_f_a_e-001}{placed this structure in space group $P\\overline{4}2_{1}m$ \\#113}, making the structure of (Levi, 1931) obsolete.  We present it here for historical interest. \n Since the position of the hydrogen atoms in the NH$_{4}$ ions were not determined, we only provide the nitrogen atom positions (labeled as NH$_{4}$).",
+    "notes": "$F5_{4}$, ({\\em Obsolete})",
+    "ccdc": null,
+    "icsd": "36179"
 }

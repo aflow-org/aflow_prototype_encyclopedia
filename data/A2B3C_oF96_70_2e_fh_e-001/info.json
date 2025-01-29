@@ -35,5 +35,9 @@
     "alias": "A2B3C_oF96_70_2e_fh_e-001",
     "number_of_species": 3,
     "pearson_symbol": "oF96",
-    "space_group_number": 70
+    "space_group_number": 70,
+    "comments": "Na$_{2}$PtO$_{3}$ can also be found in the $\\alpha$-Na$_{2}$PtO$_{3}$ phase, which has the \\href{current_web_home_dir/A2B3C_mC48_15_aef_3f_2e-001}{Na$_{2}$PrO$_{3}$ structure}.",
+    "notes": "$\\beta$-Na$_{2}$PtO$_{3}$",
+    "ccdc": null,
+    "icsd": "25020"
 }

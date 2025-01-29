@@ -25,5 +25,9 @@
     "alias": "ABC6D_hP18_163_d_b_i_c",
     "number_of_species": 4,
     "pearson_symbol": "hP18",
-    "space_group_number": 163
+    "space_group_number": 163,
+    "comments": "This is the low-temperature standard-pressure structure of LiCaAlF$_{6}$.  We used the data taken at 300K and ambient pressure.",
+    "notes": "Colquiriite",
+    "ccdc": null,
+    "icsd": "150332"
 }

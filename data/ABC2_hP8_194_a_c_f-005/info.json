@@ -21,5 +21,9 @@
     "alias": "ABC2_hP8_194_a_c_f",
     "number_of_species": 3,
     "pearson_symbol": "hP8",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "comments": "Delafossite appears in two forms which differ in the stacking of the layers: \\href{current_web_home_dir/ABC2_hR4_166_a_b_c-004}{rhombohedral, prototype CuFeO$_{2}$}, and hexagonal, shown here.  Most of the structures found in the hexagonal phase can also be found in the rhombohedral structure (Marquardt, 2006).",
+    "notes": "Hex. Delafossite",
+    "ccdc": null,
+    "icsd": "60845"
 }

@@ -23,5 +23,9 @@
     "alias": "A10B_cF176_227_cfg_d-001",
     "number_of_species": 2,
     "pearson_symbol": "cF176",
-    "space_group_number": 227
+    "space_group_number": 227,
+    "comments": "(Brown, 1957) gives the structural information in setting 1 of space group $Fd\\overline{3}m$ \\#227.  We shifted the origin by $(a/8$ $a/8$ $a/8)$ to change this to the standard setting 2.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "58202"
 }

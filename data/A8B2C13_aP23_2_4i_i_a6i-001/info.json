@@ -93,5 +93,9 @@
     "alias": "A8B2C13_aP23_2_4i_i_a6i-001",
     "number_of_species": 3,
     "pearson_symbol": "aP23",
-    "space_group_number": 2
+    "space_group_number": 2,
+    "comments": "We have shifted the Se I atom from the (1c) site to the origin at the (1a) site. \n K$_{2}$Bi$_{8}$Se$_{13}$ can also be found in the \\href{current_web_home_dir/A8B2C13_mP46_11_8e_2e_13e-001}{monoclinic $\\beta$ phase}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "72976"
 }

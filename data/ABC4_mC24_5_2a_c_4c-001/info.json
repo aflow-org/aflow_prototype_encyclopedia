@@ -57,5 +57,9 @@
     "alias": "ABC4_mC24_5_2a_c_4c-001",
     "number_of_species": 3,
     "pearson_symbol": "mC24",
-    "space_group_number": 5
+    "space_group_number": 5,
+    "comments": "Space group $C2$ \\#5 does not specify the origin of the $y$-axis.  Here we follow (Diehl, 1977) and set $y_{I} = 0$ for the Cr-I atom.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "937"
 }

@@ -125,5 +125,9 @@
     "alias": "A2B12C3_mP68_14_2e_12e_3e-001",
     "number_of_species": 3,
     "pearson_symbol": "mP68",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "comments": "Fe$_{2}$O$_{12}$S$_{3}$ can also be found as the rhombohedral mineral \\href{current_web_home_dir/A2B12C3_hR34_148_2c_4f_f-001}{mikasaite}.",
+    "notes": "Monoclinic Phase",
+    "ccdc": null,
+    "icsd": "4301"
 }

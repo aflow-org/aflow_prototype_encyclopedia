@@ -41,5 +41,9 @@
     "alias": "A3BC2D30E12_hP96_192_f_a_c_l2m_m-001",
     "number_of_species": 5,
     "pearson_symbol": "hP96",
-    "space_group_number": 192
+    "space_group_number": 192,
+    "comments": "We use the data from the Antarctica sample of (Armbruster, 1988). As with most minerals, some of the sites contain mixtures of elements and vacancies.  We use the compositions in the American Mineralogist Crystal Structure Database (Downs, 2003): \\begin{itemize} \\item The K (2a) site is 91\\% potassium and 1\\% iron, with the remainder of the sites vacant. \\item The Mg (4c) site is 99\\% magnesium/aluminum and 1\\% iron. \\item The Al (6f) site is mostly aluminum/magnesium with a trace of iron/manganese/titanium, even though in Table 4 they call it an Fe site. \\item The Si (24m) site is 86\\% silicon and 14\\% magnesium. \\item The oxygen sites are all filled. \\end{itemize} ~ \\vspace{-.25in} \n These compositions are very dependent upon where the sample was found.  See Table 5 in (Armbruster, 1988) for more details.",
+    "notes": "Osumilite",
+    "ccdc": null,
+    "icsd": "202731"
 }

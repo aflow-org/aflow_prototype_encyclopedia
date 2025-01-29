@@ -77,5 +77,9 @@
     "alias": "A8B9C24D19E3_hR63_148_cf_df_4f_a3f_bc-001",
     "number_of_species": 5,
     "pearson_symbol": "hR63",
-    "space_group_number": 148
+    "space_group_number": 148,
+    "ccdc": "1532410",
+    "comments": "Only 1/6 of the sites allocated for H-I (18f) are occupied. These H-I hydrogen sites are arranged in hexagons around the oxygen O-I atoms.  As the separation between them is only 0.82{\\AA} it is likely that the atoms are all in one of the two possible isosceles triangles surrounding each oxygen. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "notes": null,
+    "icsd": null
 }

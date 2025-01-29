@@ -37,5 +37,9 @@
     "alias": "A3BC_hP30_185_cd_c_ab",
     "number_of_species": 3,
     "pearson_symbol": "hP30",
-    "space_group_number": 185
+    "space_group_number": 185,
+    "comments": "Space group $P6_{3}cm$ \\#185 allows an arbitary choice of the origin of the $z$-axis.  Here we set $z_{1} = 0$ for the nickel (2a) atoms.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "10508"
 }

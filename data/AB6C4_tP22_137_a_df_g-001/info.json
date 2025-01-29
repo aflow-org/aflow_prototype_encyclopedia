@@ -27,5 +27,9 @@
     "alias": "AB6C4_tP22_137_a_df_g-001",
     "number_of_species": 3,
     "pearson_symbol": "tP22",
-    "space_group_number": 137
+    "space_group_number": 137,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "62688"
 }

@@ -31,5 +31,9 @@
     "alias": "AB2C2_hP15_154_a_ab_c-001",
     "number_of_species": 3,
     "pearson_symbol": "hP15",
-    "space_group_number": 154
+    "space_group_number": 154,
+    "comments": "We shifted the origin used by (Lux, 1993) so that the europium atoms are on a (3a) Wyckoff position.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "73530"
 }

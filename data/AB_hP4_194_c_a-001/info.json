@@ -20,5 +20,9 @@
     "alias": "AB_hP4_194_c_a",
     "number_of_species": 2,
     "pearson_symbol": "hP4",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "comments": "Note that the stacking is ABACABAC, with the nickel atoms on the A sites and arsenic on B and C. The local environment is fcc-like for nickel atoms and hcp-like for arsenic atoms.",
+    "notes": "$B8_{1}$, Nickeline",
+    "ccdc": null,
+    "icsd": "61104"
 }

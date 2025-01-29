@@ -27,5 +27,9 @@
     "alias": "A6B2C_tP18_136_fj_e_a-001",
     "number_of_species": 3,
     "pearson_symbol": "tP18",
-    "space_group_number": 136
+    "space_group_number": 136,
+    "comments": "The actual composition of the experimentally measured sample is (Zn$_{0.98}$Fe$_{0.02}$)Sb$_{2}$O$_{6}$. \n The ICSD uses tapiolite, FeTa$_{2}$O$_{6}$, as the prototype for this structure.",
+    "notes": "Ordo\\~{n}ezite",
+    "ccdc": null,
+    "icsd": "96612"
 }

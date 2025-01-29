@@ -27,5 +27,9 @@
     "alias": "A_hR12_166_2h",
     "number_of_species": 1,
     "pearson_symbol": "hR12",
-    "space_group_number": 166
+    "space_group_number": 166,
+    "comments": "This is a metastable phase of boron, also known as rhombohedral-12 boron (Donohue, 1982).  It is the simplest known phase (the ground state, $\\beta$-B, has 105 atoms in the primitive cell). \n Note the relationship between the icosahedra in this structure, \\href{current_web_home_dir/A_hR105_166_ac9h4i-001}{$\\beta$-B} and \\href{current_web_home_dir/A_tP50_134_a2m2n-001}{T-50 B}. \n Hexagonal settings for rhombohedral structures can be obtained with the option {\\tt --hex}.",
+    "notes": "R-105 $\\alpha$-Boron",
+    "ccdc": null,
+    "icsd": "26487"
 }

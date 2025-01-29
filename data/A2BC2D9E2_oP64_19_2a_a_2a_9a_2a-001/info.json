@@ -117,5 +117,9 @@
     "alias": "A2BC2D9E2_oP64_19_2a_a_2a_9a_2a-001",
     "number_of_species": 5,
     "pearson_symbol": "oP64",
-    "space_group_number": 19
+    "space_group_number": 19,
+    "ccdc": "2686066",
+    "comments": "The potassium sites are only half-occupied. \n One of the oxygen atoms must actually be a water molecule, but the hydrogen positions are not given by (Hao, 2024) so we cannot determine which one it is, and so ignore it in the AFLOW labeling and the CIF.",
+    "notes": null,
+    "icsd": null
 }

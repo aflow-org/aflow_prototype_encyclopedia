@@ -26,5 +26,9 @@
     "alias": "AB4C_tP12_129_c_i_a",
     "number_of_species": 3,
     "pearson_symbol": "tP12",
-    "space_group_number": 129
+    "space_group_number": 129,
+    "comments": "Data was taken at -100$^{\\circ}$C using deuterium.\n The atomic positions were given for setting 1 of space group \\#129.  We have shifted this to setting 2, placing the origin at the inversion site of the structure.",
+    "notes": "$B25$",
+    "ccdc": null,
+    "icsd": "26579"
 }

@@ -39,5 +39,9 @@
     "alias": "A7B3_hP40_163_e2i_i-001",
     "number_of_species": 2,
     "pearson_symbol": "hP40",
-    "space_group_number": 163
+    "space_group_number": 163,
+    "comments": "All of the silicon sites are only partially occupied:  Si-I (4c) is 47\\% filled, Si-II (12i) 18\\%, and Si-III (12i) 33\\%.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "30071"
 }

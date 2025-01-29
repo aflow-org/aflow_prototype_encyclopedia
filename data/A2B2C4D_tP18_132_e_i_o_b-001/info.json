@@ -25,5 +25,9 @@
     "alias": "A2B2C4D_tP18_132_e_i_o_d",
     "number_of_species": 4,
     "pearson_symbol": "tP18",
-    "space_group_number": 132
+    "space_group_number": 132,
+    "comments": "The atomic positions for this structure are not given in the main text. We take them from the \\href{https://icsd.products.fiz-karlsruhe.de}{ICSD Entry}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "280644"
 }

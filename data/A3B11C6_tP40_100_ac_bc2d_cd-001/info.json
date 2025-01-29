@@ -53,5 +53,9 @@
     "alias": "A3B11C6_tP40_100_ac_bc2d_cd",
     "number_of_species": 3,
     "pearson_symbol": "tP40",
-    "space_group_number": 100
+    "space_group_number": 100,
+    "comments": "(Woike, 1995) does not have in ICSD listing for Ce$_{3}$Si$_{6}$N$_{11}$, so we use the one from (Schlieper, 1995). \n Some sites use Sm$_{3}$Si$_{6}$N$_{11}$ as the prototype for this structure.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "401679"
 }

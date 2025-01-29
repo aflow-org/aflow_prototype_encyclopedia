@@ -47,5 +47,9 @@
     "alias": "AB3_mC16_9_a_3a",
     "number_of_species": 2,
     "pearson_symbol": "mC16",
-    "space_group_number": 9
+    "space_group_number": 9,
+    "comments": "This structure was found via first-principles calculations. The data presented here was computed at a pressure of 20 GPa.",
+    "notes": "HP, Theory",
+    "ccdc": null,
+    "icsd": "671645"
 }

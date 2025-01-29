@@ -35,5 +35,9 @@
     "alias": "A3B5C2_tP40_128_dh_egh_h-001",
     "number_of_species": 3,
     "pearson_symbol": "tP40",
-    "space_group_number": 128
+    "space_group_number": 128,
+    "comments": "Some authors refer to this as the Sc$_{2}$Fe$_{3}$Si$_{5}$ type.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "20929"
 }

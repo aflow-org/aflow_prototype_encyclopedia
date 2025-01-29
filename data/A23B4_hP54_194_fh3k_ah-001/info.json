@@ -37,5 +37,9 @@
     "alias": "A23B4_hP54_194_fh3k_ah-001",
     "number_of_species": 2,
     "pearson_symbol": "hP54",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "comments": "(Smith, 1957) gives $z_{2} = 0.167$ for their Al$_{5}$ (our Al II) (4f) site, but the ICSD entry sets this to 0.617.  The later value is consistent with the interatomic distances in the paper, so we use that value.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "174002"
 }

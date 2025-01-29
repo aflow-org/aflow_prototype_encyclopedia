@@ -28,5 +28,9 @@
     "alias": "ABC2_hR24_167_e_e_2e",
     "number_of_species": 3,
     "pearson_symbol": "hR24",
-    "space_group_number": 167
+    "space_group_number": 167,
+    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "notes": "$F5_{13}$",
+    "ccdc": null,
+    "icsd": "16005"
 }

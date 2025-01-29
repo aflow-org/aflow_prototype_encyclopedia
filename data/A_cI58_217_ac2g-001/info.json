@@ -28,5 +28,9 @@
     "alias": "A_cI58_217_ac2g",
     "number_of_species": 1,
     "pearson_symbol": "cI58",
-    "space_group_number": 217
+    "space_group_number": 217,
+    "comments": "This is the ground state structure of manganese.  The high temperature structure, \\href{current_web_home_dir/A_cP20_213_cd-001}{$\\beta$-Mn ($A13$)}, is stable from 727-1095$^\\circ$C and metastable at room temperature (Donohue, 1982). \n \\href{current_web_home_dir/A12B17_cI58_217_g_acg-001}{Mg$_{17}$Al$_{12}$} is a binary form of this structure.",
+    "notes": "$A12$, $\\alpha$-Mn",
+    "ccdc": null,
+    "icsd": "42743"
 }

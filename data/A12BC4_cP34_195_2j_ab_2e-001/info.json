@@ -33,5 +33,9 @@
     "alias": "A12BC4_cP34_195_2j_ab_2e",
     "number_of_species": 3,
     "pearson_symbol": "cP34",
-    "space_group_number": 195
+    "space_group_number": 195,
+    "comments": "(Lee, 2004) give two refinements of this structure, in space group $P23$ \\#195 and space group $Pm\\overline{3}$ \\#200, both with the same $R$ factor.  We show the results for $P23$.  AFLOW the difference between the two structures to be quite small.\n Using its default tolerance, AFLOW places this structure in space group $Im\\overline{3}$ \\#204, with all the atoms of a given species located on one Wyckoff position.  It is likely that first-principles calculations will relax into that space group. \n The reported $P23$ structure can be recovered using the commmand \n aflow -{-}proto=A12BC4\\_cP34\\_195\\_2j\\_ab\\_2e:P:Pr:Ru -{-}params=a,x$_{3}$,x$_{4}$,x$_{5}$,y$_{5}$,z$_{5}$,x$_{6}$,y$_{6}$,z$_{6}$ -{-}tolerance=0.001.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "55834"
 }

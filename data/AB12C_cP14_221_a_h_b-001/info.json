@@ -19,5 +19,9 @@
     "alias": "AB12C_cP14_221_a_h_b",
     "number_of_species": 3,
     "pearson_symbol": "cP14",
-    "space_group_number": 221
+    "space_group_number": 221,
+    "comments": "This structure was determined by {\\em ab initio} methods and is predicted to be stable in the pressure range 180-257GPa, with $T_{c} = 230$K at 180GPa.  We show the predicted structure at 200GPa. \n The ICSD entry is from the calculations of (Liang, 2019).",
+    "notes": "Predicted HP",
+    "ccdc": null,
+    "icsd": "686726"
 }

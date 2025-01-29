@@ -27,5 +27,9 @@
     "alias": "A3B2C2D4_tI22_139_ae_e_e_g-001",
     "number_of_species": 4,
     "pearson_symbol": "tI22",
-    "space_group_number": 139
+    "space_group_number": 139,
+    "comments": "Although the prototype compound is a Mott Insulator (Li, 2022), (Ca,Sr)$_{3}$Cu$_{2}$O$_{4}$Cl$_{2}$ is an 80K superconductor. \n Although (Huang, 1990) set the lattice constant $a$ = 3.861{\\AA} for Ca$_{3}$Cu$_{2}$O$_{4}$Cl$_{2}$, Table III of that paper suggests that the actual value is 3.8609{\\AA}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "69181"
 }

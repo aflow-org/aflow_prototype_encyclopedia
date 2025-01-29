@@ -17,5 +17,9 @@
     "alias": "A4B_cI10_229_c_a",
     "number_of_species": 2,
     "pearson_symbol": "cI10",
-    "space_group_number": 229
+    "space_group_number": 229,
+    "comments": "(Bauer, 1953) give the lattice constant in kX units.  We convert this to {\\AA}ngstr\\\"{o}ms by multiplying that number by 1.00202 (Wood, 1947).",
+    "notes": "$\\beta$-Hg$_{4}$Pt",
+    "ccdc": null,
+    "icsd": "150772"
 }

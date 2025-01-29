@@ -71,5 +71,9 @@
     "alias": "A5B12_oP68_60_c2d_6d",
     "number_of_species": 2,
     "pearson_symbol": "oP68",
-    "space_group_number": 60
+    "space_group_number": 60,
+    "comments": "(Wilhelmi, 1965) describes this as a distorted face-centered cubic lattice of oxygen atoms with the chromium atoms in interstitial sites.  One can very clearly see the CrO$_{4}$ tetrahedra and CrO$_{6}$ octahedra, indicating the presence of both Cr$^{+2}$ and Cr$^{+3}$ ions.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "24299"
 }

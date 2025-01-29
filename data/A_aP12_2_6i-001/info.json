@@ -63,5 +63,9 @@
     "alias": "A_aP12_2_6i-001",
     "number_of_species": 1,
     "pearson_symbol": "aP12",
-    "space_group_number": 2
+    "space_group_number": 2,
+    "ccdc": "1176976",
+    "comments": "Solid hexamethylbenzene is found in three forms (Woodruff, 1977): \\begin{itemize} \\item Phase I (Watanabe, 1949) a triclinic high-temperature phase. \\item Phase II (Brockway, 1939) is also triclinic, and is the room temperature phase. \\item Phase III (Woodruff, 1977) is trigonal and stable below 115K. \\end{itemize} ~ \\vspace{-.25in} \n All three structures can be considered as a benzene ring with the hydrogen atoms replaced by methyl (CH$_{3}$) groups. \n Unfortunately we have not been able to obtain a copy of (Watanabe, 1949), and (Woodruff, 1977) only has Raman data and therefore cannot completely describe the structure of Phase III. \n (Lonsdale, 1928-1929) studied hexamethylbenzene as a means of understanding the crystal structure of \\href{current_web_home_dir/AB_oP48_61_3c_3c-001}{benzene}, which is liquid at room temperature.  She determined that the carbon atoms were all co-planar, and by inference extended this finding to benzene. (Brockway, 1939) presented a refinement of the structure, and we use their results here. \n Each of the outer carbon atoms is connected to three hydrogen atoms, but those positions were never determined in either paper.  We do not even know if they are organized to maintain the inversion symmetry of the $P\\overline{1}$ \\#2 space group, or if the inversion is lost and the space group becomes $P1$ \\#1. \n The CCSD CIF file has no atomic positions.",
+    "notes": "Hexamethylbenzene II",
+    "icsd": null
 }

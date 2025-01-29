@@ -45,5 +45,9 @@
     "alias": "ABC3_hR30_155_de_f_de2f-001",
     "number_of_species": 3,
     "pearson_symbol": "hR30",
-    "space_group_number": 155
+    "space_group_number": 155,
+    "comments": "(Ren, 1999) found two structures for GdBO$_{3}$: this low-temperature rhombohedral structure, and \\href{current_web_home_dir/ABC3_hP10_194_c_a_h-002}{a high-temperature hexagonal structure}. \n There is large thermal hysteresis in this system, with the LT $\\rightarrow$ HT transition taking place at 1109K and the HT $\\rightarrow$ LT transition at 819K. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "notes": "LT",
+    "ccdc": null,
+    "icsd": "87778"
 }

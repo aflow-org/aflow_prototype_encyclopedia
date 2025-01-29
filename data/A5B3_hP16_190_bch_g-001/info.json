@@ -25,5 +25,9 @@
     "alias": "A5B3_hP16_190_bdh_g",
     "number_of_species": 2,
     "pearson_symbol": "hP16",
-    "space_group_number": 190
+    "space_group_number": 190,
+    "notes": "$\\alpha$-Sm$_{3}$Ge$_{5}$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "416581"
 }

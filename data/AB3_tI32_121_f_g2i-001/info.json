@@ -31,5 +31,9 @@
     "alias": "AB3_tI32_121_g_f2i",
     "number_of_species": 2,
     "pearson_symbol": "tI32",
-    "space_group_number": 121
+    "space_group_number": 121,
+    "comments": "$\\alpha$-V$_{3}$S is stable above 950$^{\\circ}$C, but metastable at 25$^{\\circ}$C, where this data was taken. \n Below 825$^{\\circ}$C the system transforms to the \\href{current_web_home_dir/AB3_tP32_133_h_i2j-001}{$\\beta$-V$_{3}$S structure}. \n We have shifted the origin by 1/2 c $\\hat{z}$ from that used by (Pedersen, 1959).",
+    "notes": "$\\alpha$-V$_{3}$S (HT)",
+    "ccdc": null,
+    "icsd": "26515"
 }

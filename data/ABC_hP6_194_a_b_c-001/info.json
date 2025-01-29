@@ -19,5 +19,9 @@
     "alias": "ABC_hP6_194_a_b_c-001",
     "number_of_species": 3,
     "pearson_symbol": "hP6",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "comments": "We found this in the ICSD while looking for compounds in the \\href{current_web_home_dir/ABC_hP6_194_c_d_a-001}{LiBC structure}.  This is the only ICSD report of a compound occupying the first three Wyckoff positions of space group $P6_{3}/mmc$ \\#194. \n (Gaoke, 2006) refer to this as SrCoO$_{x}$, but the reported structure is stochiometric SrCoO. The Co-O distance is only 1.05{\\AA}, so this structure may not be entirely correct.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "78731"
 }

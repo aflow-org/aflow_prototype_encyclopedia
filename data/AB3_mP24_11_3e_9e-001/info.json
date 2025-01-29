@@ -71,5 +71,9 @@
     "alias": "AB3_mP24_11_3e_9e-001",
     "number_of_species": 2,
     "pearson_symbol": "mP24",
-    "space_group_number": 11
+    "space_group_number": 11,
+    "comments": "We use the structure data taken by (Hodeau, 1978) at 100K.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "76579"
 }

@@ -23,5 +23,9 @@
     "alias": "A2B_cI72_211_hi_i",
     "number_of_species": 2,
     "pearson_symbol": "cI72",
-    "space_group_number": 211
+    "space_group_number": 211,
+    "comments": "This is a hypothetical cubic structure for SiO$_{2}$.  We use the data from the 1\\_158.cif file provided in the supplementary information of (Foster, 2004).",
+    "notes": "Theory",
+    "ccdc": null,
+    "icsd": "170506"
 }

@@ -47,5 +47,9 @@
     "alias": "A2B_mC24_12_4i_2i-004",
     "number_of_species": 2,
     "pearson_symbol": "mC24",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "26183"
 }

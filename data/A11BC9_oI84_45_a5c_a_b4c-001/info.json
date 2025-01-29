@@ -81,5 +81,9 @@
     "alias": "A11BC9_oI84_45_a5c_a_b4c-001",
     "number_of_species": 3,
     "pearson_symbol": "oI84",
-    "space_group_number": 45
+    "space_group_number": 45,
+    "comments": "Space group $Iba2$ \\#45 allows an arbitrary placement of the $z$-axis origin.  Here we chose it so that $z_{9} = 1/2$ for the Sb-II site.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "42371"
 }

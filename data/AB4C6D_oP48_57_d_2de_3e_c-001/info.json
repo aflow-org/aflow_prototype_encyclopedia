@@ -59,5 +59,9 @@
     "alias": "AB4C6D_oP48_57_d_2de_3e_c-001",
     "number_of_species": 4,
     "pearson_symbol": "oP48",
-    "space_group_number": 57
+    "space_group_number": 57,
+    "ccdc": "2380972",
+    "comments": "Cu$_{4}$O$_{2}$(VO$_{4}$)Cl may also be found as \\href{current_web_home_dir/AB4C6D_mP24_13_e_aeg_3g_f-001}{$\\beta$-Cu$_{4}$O$_{2}$(VO$_{4}$)Cl}. \n The CIF was found using the \\href{https://www.ccdc.cam.ac.uk/structures/}{CCDC search function}.  The data in the CIF differs slightly from the data given in (Ginga, 2024).  We use the data from the paper. \n (Starova, 1998) (ICSD 50575) and (Vergasova, 1999) discovered the mineral coparsite in the form Cu$_{4}$O$_{2}$[(As,V)O$_{4}$]Cl.  We chose to use the pure vandadium form as the prototype.",
+    "notes": null,
+    "icsd": null
 }

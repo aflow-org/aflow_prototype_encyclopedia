@@ -21,5 +21,9 @@
     "alias": "A2B_hP6_194_f_c-003",
     "number_of_species": 2,
     "pearson_symbol": "hP6",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "comments": "This is identical to the \\href{current_web_home_dir/A3B_hP8_194_af_c-001}{ReB$_{3}$ structure} with the (2a) boron atoms removed.  (Frotscher, 2010) says that the earlier structure was ``falsely assigned.''",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "421522"
 }

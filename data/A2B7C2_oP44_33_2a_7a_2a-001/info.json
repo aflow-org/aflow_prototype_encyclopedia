@@ -87,5 +87,9 @@
     "alias": "A2B7C2_oP44_33_2a_7a_2a",
     "number_of_species": 3,
     "pearson_symbol": "oP44",
-    "space_group_number": 33
+    "space_group_number": 33,
+    "comments": "(Smolin, 1970) found that some structures of RE$_{2}$O$_{7}$Si$_{2}$ (RE = Ho, Dy, Gd, Y) were in the orthorhombic $Pna2_{1}$ \\#33 space group, in which case this would be the prototype of $\\delta$-RE$_{2}$O$_{7}$Si$_{2}$ (Becerro, 2004). \n Later, (Dias, 1990) found \\href{current_web_home_dir/A7B2C2_oP44_62_3c2d_2c_d-001}{$\\delta$-Y$_{2}$O$_{7}$Si$_{2}$} to be in the centro-symmetric $Pnma$ \\#62 space group. \n This was supported by (Becerro, 2004), who found only one yttrium site in the $\\delta$-structure. \n In addition, if we allow a small amount of uncertainty (0.2{\\AA}) in positions, FINDSYM places this structure in the $Pnma$ group. \n Nevertheless we have found no work explicitly stating that the structure of (Smolin, 1970) is in error, and indeed (Christensen, 1994) found $\\delta$-Y$_{2}$O$_{7}$Si$_{2}$ in space group $Pna2_{1}$.  Given this ambiguity, we list Gd$_{2}$O$_{7}$Si$_{2}$ as a possible prototype for the $\\delta$-phase pyrosilicates. \n While the ICSD has entries for Eu$_{2}$O$_{7}$Si$_{2}$, Nd$_{2}$O$_{7}$Si$_{2}$, and Yb$_{2}$O$_{7}$Si$_{2}$ from (Smolin, 1970), there is no entry for Gd$_{2}$O$_{7}$Si$_{2}$, perhaps suggesting that this structure is considered unreliable.",
+    "notes": "Candidate $\\delta$-RE$_{2}$Si$_{2}$O$_{7}$",
+    "ccdc": null,
+    "icsd": "none"
 }

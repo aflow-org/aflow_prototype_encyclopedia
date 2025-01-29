@@ -67,5 +67,9 @@
     "alias": "A4B11C2_tP68_86_2g_ab5g_g",
     "number_of_species": 3,
     "pearson_symbol": "tP68",
-    "space_group_number": 86
+    "space_group_number": 86,
+    "comments": "(Wilhelmi, 1970) has a misprint for the Wyckoff position of the Nd-II atom, although the nearest-neighbor distances are correct.  (Downs, 2003) corrects the position to be consistent with those distances, and we use their value. The ICSD entry also includes this correction.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "15042"
 }

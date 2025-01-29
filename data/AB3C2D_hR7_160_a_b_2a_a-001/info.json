@@ -32,5 +32,9 @@
     "alias": "AB3C2D_hR7_160_a_b_2a_a",
     "number_of_species": 4,
     "pearson_symbol": "hR7",
-    "space_group_number": 160
+    "space_group_number": 160,
+    "comments": "This particular structure of cronstedtite (also spelled cronstedite) is technically cronstedtite-3R, as there are three layers in the hexagonal cell, repeated in rhombohedral order.  It is characterized by a high degree of disorder.  The site we have labeled Si is better written as (Si,Fe), and the site labeled OH-I is actually [(OH)$_{2}$,O].  In addition the pure iron site, Fe (1a), is only occupied 90\\% of the time, and the O (3b) site has 2/3 occupation. \n As noted by (Frondel, 1962), there are a large number of varieties of cronstedtite, which each type having a different stacking sequence in the hexagonal cell. \n (Sterling, 1939) and (Hermann, 1943) put this structure in space group $R3$ \\#146, but the coordinates given by Sterling resolve to space group $R3m$ \\#160, and so we list this structure there. \n The ICSD entry gives $a$=3.16{\\AA}, but (Hendricks, 1939) finds 5.48{\\AA}.  The ICSD value is apparently a misinterpretaion of Hendricks's Figure 2. \n This is the final structure given a {\\em Strukturbericht} designation.",
+    "notes": "$S5_{7}$, Cronstedtite",
+    "ccdc": null,
+    "icsd": "161270"
 }

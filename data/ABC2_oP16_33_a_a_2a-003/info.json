@@ -45,5 +45,9 @@
     "alias": "ABC2_oP16_33_a_a_2a",
     "number_of_species": 3,
     "pearson_symbol": "oP16",
-    "space_group_number": 33
+    "space_group_number": 33,
+    "comments": "Space group $Pna2_{1}$ \\#33 allows an arbitary choice of the zero of the $z$-axis.  Here we set $z_{1} = 0$ for gallium.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "18152"
 }

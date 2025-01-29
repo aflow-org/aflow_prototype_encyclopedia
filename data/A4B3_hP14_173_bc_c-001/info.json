@@ -33,5 +33,9 @@
     "alias": "A4B3_hP14_173_bc_c",
     "number_of_species": 2,
     "pearson_symbol": "hP14",
-    "space_group_number": 173
+    "space_group_number": 173,
+    "comments": "\\href{current_web_home_dir/A4B3_hP14_176_ch_h-001}{(Yang, 1995) places this structure in space group $P6_{3}/m$ \\#176}. His structure is nearly indistinguishable from this one. \n Si$_{3}$N$_{4}$ also exists as \\href{current_web_home_dir/A4B3_hP28_159_ab2c_2c-001}{nierite, $\\alpha$-Si$_{3}$N$_{4}$}. \n Space group $P6_3$ \\#173 allows an arbitrary choice for the origin of the $z$-axis.  We use this to set $z_{1} = 0$ for the N-I site.",
+    "notes": "$\\beta$-Si$_{3}$N$_{4}$ (Forgeng, 1958)",
+    "ccdc": null,
+    "icsd": "none"
 }

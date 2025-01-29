@@ -31,5 +31,9 @@
     "alias": "AB5_oC24_63_c_ceg-001",
     "number_of_species": 2,
     "pearson_symbol": "oC24",
-    "space_group_number": 63
+    "space_group_number": 63,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "418610"
 }

@@ -43,5 +43,9 @@
     "alias": "AB2C_mC32_15_ae_2f_f-001",
     "number_of_species": 3,
     "pearson_symbol": "mC32",
-    "space_group_number": 15
+    "space_group_number": 15,
+    "comments": "We shifted the origin of the structure described by (Effenberger, 2002) so that a silver atom is at the origin, the Wyckoff (4a) site, rather than at (0 1/2 1/2), Wyckoff (4b).",
+    "notes": "Miargyrite",
+    "ccdc": null,
+    "icsd": "94647"
 }

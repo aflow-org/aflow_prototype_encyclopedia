@@ -39,5 +39,9 @@
     "alias": "A2B_tP30_85_ab2g_cg",
     "number_of_species": 2,
     "pearson_symbol": "tP30",
-    "space_group_number": 85
+    "space_group_number": 85,
+    "comments": "(Hermann, 1943) originally assigned SrBr$_{2}$ to space group $Pnma$ \\#62, and gave it the \\href{current_web_home_dir/A2B_oP12_62_2c_c-010}{{\\em Strukturbericht} designation $C53$}.  Subsequent investigation showed that the structure should be in space group $P4/n$ \\#85, but this structure was never given a {\\em Strukturbericht} symbol, although (Parth\\'{e}) does list it as $C53$. \n This compound can also be found as $\\beta$-SrBr$_{2}$ in the  \\href{current_web_home_dir/AB2_cF12_225_a_c-001}{fluorite ($C1$) structure}.",
+    "notes": "$\\alpha$-SrBr$_{2}$",
+    "ccdc": null,
+    "icsd": "262673"
 }

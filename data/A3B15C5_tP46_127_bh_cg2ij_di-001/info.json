@@ -39,5 +39,9 @@
     "alias": "A3B15C5_tP46_127_bh_cg2ij_di-001",
     "number_of_species": 3,
     "pearson_symbol": "tP46",
-    "space_group_number": 127
+    "space_group_number": 127,
+    "comments": "(Hyde, 1973) notes that this is a derivative of the \\href{current_web_home_dir/A3B_cP4_221_c_b-001}{$\\alpha$-ReO$_{3}$ ($D0_{9}$) structure}. \n The measured structure is actually deficient in potassium.  We use the lattice constants from (Magn\\'{e}li, 1949) for K$_{0.57}$WO$_{3}$. \n Magn\\'{e}li's X-ray data could not determine the oxygen positions. The coordinates for the oxygen atoms were determined by the requirement that the space group be $P4/mbm$ \\#127. as determined by the positions of the potassium and tungsten atoms, and by ``considerations of space.''",
+    "notes": "Potassium Bronze",
+    "ccdc": null,
+    "icsd": "24730"
 }

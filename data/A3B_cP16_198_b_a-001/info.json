@@ -26,5 +26,9 @@
     "alias": "A3B_cP16_198_b_a",
     "number_of_species": 2,
     "pearson_symbol": "cP16",
-    "space_group_number": 198
+    "space_group_number": 198,
+    "comments": "In the original {\\em Strukturbericht} (Ewald, 1931) gave this structure the symbol $D1$.  Following the revision of the type-$D$ numbering beginning in volume II (Herman, 1937) this should be renamed $D0_{1}$.  We previously used the $D1$ designation, but now list this as $D0_{1}$ for consistency with other $D$-type structures.",
+    "notes": "$D0_{1}$, Ammonia",
+    "ccdc": null,
+    "icsd": "84461"
 }

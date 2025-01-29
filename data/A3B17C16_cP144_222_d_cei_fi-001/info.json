@@ -33,5 +33,9 @@
     "alias": "A3B17C16_cP144_222_d_cei_fi-001",
     "number_of_species": 3,
     "pearson_symbol": "cP144",
-    "space_group_number": 222
+    "space_group_number": 222,
+    "comments": "There is considerable disorder in this structure. \\begin{itemize} \\item The Nd I (2c) site is occupied 92.7\\% of the time, while the Nd III (48i) site is occupied 1.21\\% of the time.  These atoms nearly overlap, so we can think of them as forming an Nd I/III complex, where most of the time the (2c) site is occupied, but on rare occasions the atom occupies one of the (48i) sites. For modeling purposes it is easier to assume the (2c) sites are fully occupied and the (48i) sites are vacant, with the (2c) atoms having a very large thermal parameter $U$. \\item The Mo I (2d) site is occupied 96.4\\% of the time. \n 95.2\\% of the O II (48i) sites are filled. \\item The Nd II (12d) and O I (16f) sites are fully occupied. \\end{itemize} ~ \\vspace{-.25in} \n These occupancies make the observed stoichiometry Nd$_{5.19}$Mg$_{3}$O$_{14.96}$.  If we ignore the Nd III atoms and fully occupy the other sites we have Nd$_{5}$Mg$_{3}$O$_{16}$, the claimed stoichiometry, and the structure would be nearly identical to \\href{current_web_home_dir/A5B3C16_cP96_222_ce_d_fi-001}{Ce$_{5}$Mo$_{3}$O$_{16}$.} \n We use the data taken at 110K.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "424717"
 }

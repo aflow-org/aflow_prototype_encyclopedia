@@ -61,5 +61,9 @@
     "alias": "A41B6_cP188_201_b2efg5h_h-001",
     "number_of_species": 2,
     "pearson_symbol": "cP188",
-    "space_group_number": 201
+    "space_group_number": 201,
+    "comments": "The compound now known as Ce$_{6}$Cd$_{37}$ was originally thought to have the \\href{current_web_home_dir/A20B3_cI184_204_def3gh_g-001}{YCd$_{6}$ structure}, but (Armbr\\\"{u}ster, 2000) found that it actually has the structure shown here. \n  All of the sites are fully occupied except the one labeled Cd-X, where 2/3 of the sites are vacant, giving the correct stoichiometry.  We use the data taken at 298K. \n (Armbr\\\"{u}ster, 2000) give the structure of Ce$_{6}$Cd$_{37}$ in setting 1 of space group $Pn\\overline{3}$ \\#201.  We used FINDSYM to change this to the standard setting 2. \n (Armbr\\\"{u}ster, 2000) also present a slightly different version of the YCd$_{6}$ structure than that presented in the prototype paper, (Larson, 1972). \n We used FINDSYM to transform this to the standard second setting, which places a cerium atom and the inversion site at the origin.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "54599"
 }

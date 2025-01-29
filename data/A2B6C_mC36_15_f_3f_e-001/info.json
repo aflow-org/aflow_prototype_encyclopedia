@@ -49,5 +49,9 @@
     "alias": "A2B6C_mC36_15_f_3f_e-001",
     "number_of_species": 3,
     "pearson_symbol": "mC36",
-    "space_group_number": 15
+    "space_group_number": 15,
+    "notes": "Foordite",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "202827"
 }

@@ -31,5 +31,9 @@
     "alias": "A2BC2D8_hR13_148_c_a_c_cf-001",
     "number_of_species": 4,
     "pearson_symbol": "hR13",
-    "space_group_number": 148
+    "space_group_number": 148,
+    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "27014"
 }

@@ -243,5 +243,9 @@
     "alias": "A11B7_aP72_2_22i_14i-001",
     "number_of_species": 2,
     "pearson_symbol": "aP72",
-    "space_group_number": 2
+    "space_group_number": 2,
+    "ccdc": "1818858",
+    "comments": "The CCSD entry has a CIF with the lattice constants but no atomic positions.",
+    "notes": "Pentacene",
+    "icsd": null
 }

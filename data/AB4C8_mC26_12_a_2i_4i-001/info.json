@@ -47,5 +47,9 @@
     "alias": "AB4C8_mC26_12_a_2i_4i-001",
     "number_of_species": 3,
     "pearson_symbol": "mC26",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "comments": "(Miura, 1986) gives the structure in the $I2/m$ setting of space group \\#12.  We used FINDSYM to change this to the standard $C2/c$ setting. \n \\href{current_web_home_dir/AB2C12D4_tP76_75_2a2b_2d_12d_4d-001}{Hexagonal hollandite, BaCr$_{2}$Cr$_{2}$O$_{12}$}, is a hexagonal superstructure of this structure.",
+    "notes": "Hollandite",
+    "ccdc": null,
+    "icsd": "62096"
 }

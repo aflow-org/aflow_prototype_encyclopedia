@@ -33,5 +33,9 @@
     "alias": "AB5C2_oC32_63_a_cef_g",
     "number_of_species": 3,
     "pearson_symbol": "oC32",
-    "space_group_number": 63
+    "space_group_number": 63,
+    "comments": "This is a refined version of \\href{current_web_home_dir/AB5C2_oC32_20_a_2abc_c-001}{the $K3_{3}$ description of Tl$_{2}$AlF$_{5}$.}",
+    "notes": "Refined $K3_{3}$",
+    "ccdc": null,
+    "icsd": "109365"
 }

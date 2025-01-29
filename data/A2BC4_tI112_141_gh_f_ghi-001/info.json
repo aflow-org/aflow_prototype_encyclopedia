@@ -39,5 +39,9 @@
     "alias": "A2BC4_tI112_141_gh_f_ghi-001",
     "number_of_species": 3,
     "pearson_symbol": "tI112",
-    "space_group_number": 141
+    "space_group_number": 141,
+    "comments": "(Kirik, 1999) give the coordinates of the oxygen atoms on the (32g) Wyckoff position as (0.1575,0.09252,0.875), however the correct value for x should be 1/4-y = 0.15748.  We made this minor correction to maintain the symmetry.  In practice, the error is less than the measurement error in the sample.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "89453"
 }

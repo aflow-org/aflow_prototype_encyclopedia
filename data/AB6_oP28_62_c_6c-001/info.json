@@ -49,5 +49,9 @@
     "alias": "AB6_oP28_62_c_6c",
     "number_of_species": 2,
     "pearson_symbol": "oP28",
-    "space_group_number": 62
+    "space_group_number": 62,
+    "comments": "Not to be confused with \\href{current_web_home_dir/AB3_tI32_88_c_df-001}{Copper (I) Azide, CuN$_{3}$}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "24340"
 }

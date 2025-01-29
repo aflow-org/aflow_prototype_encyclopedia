@@ -23,5 +23,9 @@
     "alias": "A2B2C_hP5_164_d_d_a",
     "number_of_species": 3,
     "pearson_symbol": "hP5",
-    "space_group_number": 164
+    "space_group_number": 164,
+    "comments": "This is the ternary form of the \\href{current_web_home_dir/A2B3_hP5_164_d_ad-001}{$D5_{2}$ La$_{2}$O$_{3}$} and the \\href{current_web_home_dir/A3B2_hP5_164_ad_d-001}{$D5_{13}$ Al$_{3}$Ni$_{2}$} structures.  We have separated it from the parents because of the large number of compounds involved. \n Authors after (Zachariasen, 1949) often use CaAl$_{2}$Si$_{2}$ as the prototype for this structure.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "31639"
 }

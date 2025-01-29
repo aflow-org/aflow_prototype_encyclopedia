@@ -57,5 +57,9 @@
     "alias": "A2B2C7_oC88_64_ef_df_3f2g",
     "number_of_species": 3,
     "pearson_symbol": "oC88",
-    "space_group_number": 64
+    "space_group_number": 64,
+    "comments": "(Lindqvist, 1950) gives data for the prototype compound, Na$_{2}$Mo$_{2}$O$_{7}$, but the ICSD entry lists the compound ad Na$_{2}$W$_{2}$O$_{7}$.  Otherwise the data matches exactly with the prototype, so we use that ICSD entry here.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "24041"
 }

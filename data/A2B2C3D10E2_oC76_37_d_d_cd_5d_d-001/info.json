@@ -77,5 +77,9 @@
     "alias": "A2B2C3D10E2_oC76_37_d_d_cd_5d_d-001",
     "number_of_species": 5,
     "pearson_symbol": "oC76",
-    "space_group_number": 37
+    "space_group_number": 37,
+    "comments": "(Shamray, 2009) found some disorder in this crystal: the Bi (8d) site has 6\\% vacancies, the Cu (8d) site is actually 90\\% copper and 9\\% bismuth, and the Sr (8d) site has 3\\% vacancies.  It is not clear where the extra oxygens needed to control the superconducting behavior are added to the crystal. \n (Shamray, 2009) give the structure in the $A2aa$ setting of space group \\#37.  We used FINDSYM to transform this to the standard $Ccc2$ setting. \n Space group $Ccc2$ \\#37 does not fix the origin of the $z$-coordinate.  We do this by setting $z_{1} = 0$ for the Cu (4c) site.",
+    "notes": "Bi-2223",
+    "ccdc": null,
+    "icsd": "174012"
 }

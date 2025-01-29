@@ -42,5 +42,9 @@
     "alias": "A3B_hP24_151_3c_2a",
     "number_of_species": 2,
     "pearson_symbol": "hP24",
-    "space_group_number": 151
+    "space_group_number": 151,
+    "comments": "This structure may also be found in the enantiomorphic space group \\href{current_web_home_dir/A3B_hP24_153_3c_2a-001}{$P3_{2}12$ \\#153}. The ICSD entry for this structure is in that space group.",
+    "notes": "$D0_{4}$",
+    "ccdc": null,
+    "icsd": "33578"
 }

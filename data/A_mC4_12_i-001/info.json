@@ -27,5 +27,9 @@
     "alias": "A_mC4_12_i",
     "number_of_species": 1,
     "pearson_symbol": "mC4",
-    "space_group_number": 12
+    "space_group_number": 12,
+    "notes": "$\\alpha$-O$_{2}$",
+    "ccdc": null,
+    "comments": null,
+    "icsd": "173933"
 }

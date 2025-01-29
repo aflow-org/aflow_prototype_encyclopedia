@@ -38,5 +38,9 @@
     "alias": "AB2C_oP16_62_c_2c_c",
     "number_of_species": 3,
     "pearson_symbol": "oP16",
-    "space_group_number": 62
+    "space_group_number": 62,
+    "comments": "The ICSD lists CuBiS$_{2}$ as the prototype structure, but since it has a {\\em Strukturbericht} label  we choose CuSbS$_{2}$ for the prototype.",
+    "notes": "$F5_{6}$, Chalcostibite",
+    "ccdc": null,
+    "icsd": "171051"
 }

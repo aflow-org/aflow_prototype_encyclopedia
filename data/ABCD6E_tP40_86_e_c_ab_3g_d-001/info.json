@@ -39,5 +39,9 @@
     "alias": "ABCD6E_tP40_86_e_c_ab_3g_d-001",
     "number_of_species": 5,
     "pearson_symbol": "tP40",
-    "space_group_number": 86
+    "space_group_number": 86,
+    "comments": "There is some mixing on the nominal manganese, chromium, and antimony sites (Solana-Madruga, 2021)): \\begin{itemize} \\item Mn-I (2a) is 81\\% Mn and 19\\% Cr. \\item Mn-II (2b) is 82\\% Mn and 18\\% Cr. \\item Cr (4c) is 95.2\\% Cr and 4.8\\% Sb. \\item Sb (4d) is 95.2\\% Sb and 4.8\\% Cr. \\end{itemize} ~ \\vspace{-.25in} \n This makes actual stoichiometry of this sample CaMn$_{0.815}$Cr$_{1.37}$SbO$_{6}$.",
+    "notes": "Double-Double Perovskite",
+    "ccdc": null,
+    "icsd": "none"
 }

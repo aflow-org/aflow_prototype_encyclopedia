@@ -33,5 +33,9 @@
     "alias": "AB8C2_tI44_97_e_2k_cd",
     "number_of_species": 3,
     "pearson_symbol": "tI44",
-    "space_group_number": 97
+    "space_group_number": 97,
+    "comments": "The ICSD entry is from (Greissier, 1982).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "35190"
 }

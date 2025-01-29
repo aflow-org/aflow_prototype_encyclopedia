@@ -34,5 +34,9 @@
     "alias": "AB2C4_oC28_63_c_bc_fg",
     "number_of_species": 3,
     "pearson_symbol": "oC28",
-    "space_group_number": 63
+    "space_group_number": 63,
+    "comments": "This structure was originally determined by (Miller, 1936), who placed it in space group $Pnna$ \\#52, and (Gottfried, 1938) uses this data for {\\em Strukturbericht} $H1_{8}$. Subsequently (Niggli, 1954) rather acerbically pointed out that Miller's coordinates were consistent with the more compact $Cmcm$ \\#63 space group.  This does not change the positions of the atoms in the conventional cell, so we use the compact structure as our prototype for {\\em Strukturbericht} designation $H1_{8}$. \n This structure is stable up to 413$^{\\circ}$C. (Amirathanlingam, 1982)",
+    "notes": "$H1_{8}$",
+    "ccdc": null,
+    "icsd": "76001"
 }

@@ -22,5 +22,9 @@
     "alias": "AB_oF8_69_a_b",
     "number_of_species": 2,
     "pearson_symbol": "oF8",
-    "space_group_number": 69
+    "space_group_number": 69,
+    "comments": "Although this is the $B24$ structure defined in {\\em Strukturbericht}, it is not the currently accepted structure for TlF. See (Berastegui, 2000) and the \\href{current_web_home_dir/AB_oP8_57_d_d-001}{TlF-II} page. The current structure is a slight distortion of \\href{current_web_home_dir/AB_cF8_225_a_b-001}{rock salt ($B1$)}.",
+    "notes": "$B24$, ({\\em Obsolete})",
+    "ccdc": null,
+    "icsd": "30268"
 }

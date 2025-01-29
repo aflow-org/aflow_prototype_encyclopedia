@@ -23,5 +23,9 @@
     "alias": "AB2C4_tI14_139_a_e_ce",
     "number_of_species": 3,
     "pearson_symbol": "tI14",
-    "space_group_number": 139
+    "space_group_number": 139,
+    "comments": "The original ``high''-temperature (30K) superconductor found by Bednorz and Mueller. Lanthanum (92.5\\%) and barium (7.5\\%) atoms are distributed randomly on the lanthanum sublattice. The ground state structure of the parent compound, La$_{2}$CuO$_{4}$, is a \\href{current_web_home_dir/AB2C4_oF28_69_a_g_cg-001}{face-centered orthorhombic}, \\href{current_web_home_dir/AB2C4_oC28_64_a_f_ef-003}{base-centered orthorhombic}, or \\href{current_web_home_dir/AB2C4_mC28_8_2a_4a_4a2b-001}{base-centered monoclinic} distortion of this structure.",
+    "notes": "High-$T_{c}$",
+    "ccdc": null,
+    "icsd": "68379"
 }

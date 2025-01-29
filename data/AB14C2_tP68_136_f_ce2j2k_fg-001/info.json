@@ -47,5 +47,9 @@
     "alias": "AB14C2_tP68_136_f_ce2j2k_fg",
     "number_of_species": 3,
     "pearson_symbol": "tP68",
-    "space_group_number": 136
+    "space_group_number": 136,
+    "comments": "In many cases the boron site can be partially occupied with boron or carbon, or have a mixture of boron and carbon.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "67224"
 }

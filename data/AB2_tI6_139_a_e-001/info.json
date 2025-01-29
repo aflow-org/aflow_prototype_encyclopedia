@@ -22,5 +22,9 @@
     "alias": "AB2_tI6_139_a_e",
     "number_of_species": 2,
     "pearson_symbol": "tI6",
-    "space_group_number": 139
+    "space_group_number": 139,
+    "comments": "When $c=3a$ and $z_{2}=1/3$ the atoms are on the sites of \\href{current_web_home_dir/A_cI2_229_a-001}{a body-centered cubic ($A2$) lattice}. For MoSi$_{2}$ itself, (Harada, 1998) gives $c/a = 2.45$ and $z_{2}=0.3353$. Other compounds in this structure have very different values of $c/a$ and even $z_{2}$.",
+    "notes": "$C11_{b}$",
+    "ccdc": null,
+    "icsd": "85756"
 }

@@ -42,5 +42,9 @@
     "alias": "AB2C3_oP24_62_c_d_cd",
     "number_of_species": 3,
     "pearson_symbol": "oP24",
-    "space_group_number": 62
+    "space_group_number": 62,
+    "comments": "(Syma\\'{n}ski, 1974) uses the $Pcmn$ orientation of space group \\#62 to describe this structure.  We have swapped the $\\hat{{\\bf x}}$ and $\\hat{\\bf{z}}$ axis to transform this into the standard $Pnma$ orientation.",
+    "notes": "$E9_{e}$, Cubanite",
+    "ccdc": null,
+    "icsd": "42104"
 }

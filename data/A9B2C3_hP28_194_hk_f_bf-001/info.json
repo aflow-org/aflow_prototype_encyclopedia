@@ -29,5 +29,9 @@
     "alias": "A9B2C3_hP28_194_hk_f_bf",
     "number_of_species": 3,
     "pearson_symbol": "hP28",
-    "space_group_number": 194
+    "space_group_number": 194,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "16706"
 }

@@ -29,5 +29,9 @@
     "alias": "A6B3C2_hR11_166_3c_ac_c-001",
     "number_of_species": 3,
     "pearson_symbol": "hR11",
-    "space_group_number": 166
+    "space_group_number": 166,
+    "comments": "The structure presented by (Jeffrey, 1966) has problems similar to those of \\href{current_web_home_dir/A8B3C4_hR15_166_4c_ac_2c-001}{Al$_{8}$C$_{3}$N$_{4}$}.  See that page for a discussion of our resolution of the problems. \n The ICSD is rather confused about this compound.  The entry associated with (Jeffrey, 1996), \\#41260, has the original structure.  Entry \\#654993 gives a structure quite similar to ours, but it is attributed to (Suzuki, 1993), a paper concerning the structure of iron nitride. It is better associated with (Daams, 1993). We list both ICSDs, but consider \\#654993 the correct structure. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "654993, 41260"
 }

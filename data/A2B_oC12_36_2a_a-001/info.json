@@ -34,5 +34,9 @@
     "alias": "A2B_oC12_36_2a_a",
     "number_of_species": 2,
     "pearson_symbol": "oC12",
-    "space_group_number": 36
+    "space_group_number": 36,
+    "comments": "Space group $Cmc2_{1}$ \\#36 allows for an arbitrary placement of the origin of the $z$-axis.  Here we use this freedom to set $z_{3} = 0$ for the mercury site.",
+    "notes": "$C24$",
+    "ccdc": null,
+    "icsd": "30290"
 }

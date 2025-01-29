@@ -27,5 +27,9 @@
     "alias": "A2B_oI12_71_eh_f-001",
     "number_of_species": 2,
     "pearson_symbol": "oI12",
-    "space_group_number": 71
+    "space_group_number": 71,
+    "comments": "Data for this structure was taken at 2.7K.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "403519"
 }

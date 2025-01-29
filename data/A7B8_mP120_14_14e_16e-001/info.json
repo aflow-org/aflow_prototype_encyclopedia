@@ -203,5 +203,9 @@
     "alias": "A7B8_mP120_14_14e_16e",
     "number_of_species": 2,
     "pearson_symbol": "mP120",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "ccdc": "725245",
+    "comments": "$\\alpha$-Toluene is the stable low-temperature crystalline structure of the toluene molecule, C$_{7}$H$_{8}$, which crystallizes below 178K. This data was constructed from experiments at 150K. The hydrogen atomic positions were approximated to agree with the chemistry of the toluene molecule. \n There is also a metastable form, \\href{current_web_home_dir/A7B8_oP120_60_7d_8d-001}{$\\beta$-toluene}.",
+    "notes": "$\\alpha$-Toluene",
+    "icsd": "none"
 }

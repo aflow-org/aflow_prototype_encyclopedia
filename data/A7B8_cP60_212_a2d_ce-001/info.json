@@ -29,5 +29,9 @@
     "alias": "A7B8_cP60_212_a2d_ce-001",
     "number_of_species": 2,
     "pearson_symbol": "cP60",
-    "space_group_number": 212
+    "space_group_number": 212,
+    "comments": "Above 1112$\\pm$8$^\\circ$C this transforms into the \\href{../AB_cF8_225_a_b-001}{rock salt ($B1$)} structure with disordered carbon vacancies. (Rafaja, 1998) Below that temperature the vacancies order on the (4b) sites of space group $P4_{3}32$ as shown here. \n If we set $x_{2} = 3/8$, $y_{3} = 5/8$, $y_{4} = 3/8$, $x_{5} = 1/8$, $y_{5} = 3/8$, $z_{5} = 1/8$, and place carbon atoms on the (4b) (5/8 5/8 5/8) site then this structure becomes a fully ordered rock salt crystal. \n The current structure may also be found in the enantiomorphic space group \\href{../cubic_spacegroup.html#sg213}{$P4_{1}32$ \\#213.}",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "85953"
 }

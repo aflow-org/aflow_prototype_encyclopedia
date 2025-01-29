@@ -27,5 +27,9 @@
     "alias": "A2B_hP18_190_gh_bf",
     "number_of_species": 2,
     "pearson_symbol": "hP18",
-    "space_group_number": 190
+    "space_group_number": 190,
+    "ccdc": null,
+    "comments": null,
+    "notes": null,
+    "icsd": "100020"
 }

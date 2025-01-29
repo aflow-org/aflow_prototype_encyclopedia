@@ -99,5 +99,9 @@
     "alias": "A14BC8D5_cF1344_209_7j_g_4j_g2j-001",
     "number_of_species": 4,
     "pearson_symbol": "cF1344",
-    "space_group_number": 209
+    "space_group_number": 209,
+    "ccdc": "685824",
+    "comments": "``PCN'' is an acronym for ``porous coordination network.'' \n (Wang, 2009) list the atoms we have denoted H II as H3A and H3B, each half filled, but their two sites are identical, so we have combined them into one completely filled site. \n We shifted the origin by $1/2 c \\hat{z}$, moving the copper and O-I atoms from (48h) to (48g) Wyckoff positions.",
+    "notes": "PCN-20",
+    "icsd": null
 }

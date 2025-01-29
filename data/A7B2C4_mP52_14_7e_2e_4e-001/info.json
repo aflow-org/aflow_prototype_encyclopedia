@@ -101,5 +101,9 @@
     "alias": "A7B2C4_mP52_14_7e_2e_4e-001",
     "number_of_species": 3,
     "pearson_symbol": "mP52",
-    "space_group_number": 14
+    "space_group_number": 14,
+    "comments": "(Gribanov, 1993) give the structure in the $P2_{1}/n$ setting of space group \\#14.  We used FINDSYM to transform this into the standard $P2_{1}/c$ setting. This resulted a rotation of the primitive cell and substantially different primitive vectors, although the crystal structure itself remains unchanged.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "106396"
 }

@@ -31,5 +31,9 @@
     "alias": "A2B4C_oC28_66_l_kl_a",
     "number_of_species": 3,
     "pearson_symbol": "oC28",
-    "space_group_number": 66
+    "space_group_number": 66,
+    "comments": "We have shifted the origin so that the Sr-I atom is at the (4a) Wyckoff position rather than (4b).",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "49732"
 }

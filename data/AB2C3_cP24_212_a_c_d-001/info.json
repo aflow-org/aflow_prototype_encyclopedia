@@ -21,5 +21,9 @@
     "alias": "AB2C3_cP24_212_a_c_d-001",
     "number_of_species": 3,
     "pearson_symbol": "cP24",
-    "space_group_number": 212
+    "space_group_number": 212,
+    "comments": "This structure can also be expressed in the enantiomorphic space group $P4_{1}32$ \\#213.",
+    "ccdc": null,
+    "notes": null,
+    "icsd": "84931"
 }
