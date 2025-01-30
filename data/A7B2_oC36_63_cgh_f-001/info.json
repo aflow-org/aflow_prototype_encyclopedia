@@ -1,9 +1,19 @@
 {
     "uid": "PMU3",
+    "label": "A7B2_oC36_63_cgh_f-001",
+    "alias": "A7B2_oC36_63_cgh_f-001",
+    "title": "Ag$_{7}$Ca$_{2}$ Structure",
+    "icsd": "55510",
+    "ccdc": null,
     "prototype": "Ag7Ca2",
     "prototype_tex": "Ag$_{7}$Ca$_{2}$",
-    "label": "A7B2_oC36_63_cgh_f-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oC36",
+    "space_group_number": 63,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -29,17 +39,8 @@
         0.82926,
         0.07649
     ],
-    "strukturbericht": null,
-    "title": "Ag$_{7}$Ca$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A7B2_oC36_63_cgh_f-001",
-    "number_of_species": 2,
-    "pearson_symbol": "oC36",
-    "space_group_number": 63,
-    "comments": "(Pearson, 1967) and (Villars, 1991) put this in the ``provisional'' space group $P6_{3}22$ \\#182. (Snyder, 1995).",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "55510"
+    "comments": "(Pearson, 1967) and (Villars, 1991) put this in the ``provisional'' space group $P6_{3}22$ \\#182. (Snyder, 1995)."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "L0GQ",
+    "label": "AB3C4_oP16_31_a_ab_2ab-001",
+    "alias": "AB3C4_oP16_31_a_ab_2ab",
+    "title": "Enargite (AsCu$_{3}$S$_{4}$, $H2_{5}$) Structure",
+    "icsd": "14285",
+    "ccdc": null,
     "prototype": "AsCu3S4",
     "prototype_tex": "AsCu$_{3}$S$_{4}$",
-    "label": "AB3C4_oP16_31_a_ab_2ab-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP16",
+    "space_group_number": 31,
+    "strukturbericht": "H2_5",
+    "strukturbericht_tex": "$H2_{5}$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -41,18 +51,8 @@
         0.3364,
         0.6184
     ],
-    "strukturbericht": "H2_5",
-    "title": "Enargite (AsCu$_{3}$S$_{4}$, $H2_{5}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$H2_{5}$",
     "compounds": {},
-    "alias": "AB3C4_oP16_31_a_ab_2ab",
-    "number_of_species": 3,
-    "pearson_symbol": "oP16",
-    "space_group_number": 31,
-    "comments": "This structure should not be confused with the \\href{current_web_home_dir/AB3C4_cP8_215_a_c_e-001}{lazarevi\\'{c}ite} form of AsCu$_{3}$S$_{4}$, which is related to an sp$^{3}$ cubic structure.  AsCu$_{3}$S$_{4}$ can also be found as tetragonal \\href{current_web_home_dir/AB3C4_tI16_121_a_bd_i-001}{luzonite}.",
+    "legacy": false,
     "notes": "$H2_{5}$, Enargite",
-    "ccdc": null,
-    "icsd": "14285"
+    "comments": "This structure should not be confused with the \\href{current_web_home_dir/AB3C4_cP8_215_a_c_e-001}{lazarevi\\'{c}ite} form of AsCu$_{3}$S$_{4}$, which is related to an sp$^{3}$ cubic structure.  AsCu$_{3}$S$_{4}$ can also be found as tetragonal \\href{current_web_home_dir/AB3C4_tI16_121_a_bd_i-001}{luzonite}."
 }

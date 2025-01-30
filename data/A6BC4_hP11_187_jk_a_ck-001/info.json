@@ -1,9 +1,19 @@
 {
     "uid": "NFL9",
+    "label": "A6BC4_hP11_187_jk_a_ck-001",
+    "alias": "A6BC4_hP11_187_jk_a_ck-001",
+    "title": "LiCo$_{6}$P$_{4}$ Structure",
+    "icsd": "69692",
+    "ccdc": null,
     "prototype": "Co6LiP4",
     "prototype_tex": "Co$_{6}$LiP$_{4}$",
-    "label": "A6BC4_hP11_187_jk_a_ck-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP11",
+    "space_group_number": 187,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -17,17 +27,8 @@
         0.2002,
         0.8192
     ],
-    "strukturbericht": null,
-    "title": "LiCo$_{6}$P$_{4}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A6BC4_hP11_187_jk_a_ck-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hP11",
-    "space_group_number": 187,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "69692"
+    "comments": null
 }

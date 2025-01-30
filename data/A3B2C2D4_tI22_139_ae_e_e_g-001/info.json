@@ -1,9 +1,19 @@
 {
     "uid": "FZKW",
+    "label": "A3B2C2D4_tI22_139_ae_e_e_g-001",
+    "alias": "A3B2C2D4_tI22_139_ae_e_e_g-001",
+    "title": "Ca$_{3}$Cu$_{2}$O$_{4}$Cl$_{2}$",
+    "icsd": "69181",
+    "ccdc": null,
     "prototype": "Ca3Cl2Cu2O4",
     "prototype_tex": "Ca$_{3}$Cl$_{2}$Cu$_{2}$O$_{4}$",
-    "label": "A3B2C2D4_tI22_139_ae_e_e_g-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "tI22",
+    "space_group_number": 139,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -19,17 +29,8 @@
         0.4215,
         0.4215
     ],
-    "strukturbericht": null,
-    "title": "Ca$_{3}$Cu$_{2}$O$_{4}$Cl$_{2}$",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B2C2D4_tI22_139_ae_e_e_g-001",
-    "number_of_species": 4,
-    "pearson_symbol": "tI22",
-    "space_group_number": 139,
-    "comments": "Although the prototype compound is a Mott Insulator (Li, 2022), (Ca,Sr)$_{3}$Cu$_{2}$O$_{4}$Cl$_{2}$ is an 80K superconductor. \n Although (Huang, 1990) set the lattice constant $a$ = 3.861{\\AA} for Ca$_{3}$Cu$_{2}$O$_{4}$Cl$_{2}$, Table III of that paper suggests that the actual value is 3.8609{\\AA}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "69181"
+    "comments": "Although the prototype compound is a Mott Insulator (Li, 2022), (Ca,Sr)$_{3}$Cu$_{2}$O$_{4}$Cl$_{2}$ is an 80K superconductor. \n Although (Huang, 1990) set the lattice constant $a$ = 3.861{\\AA} for Ca$_{3}$Cu$_{2}$O$_{4}$Cl$_{2}$, Table III of that paper suggests that the actual value is 3.8609{\\AA}."
 }

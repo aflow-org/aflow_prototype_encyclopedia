@@ -1,9 +1,19 @@
 {
     "uid": "GC8R",
+    "label": "A_tI16_142_f-001",
+    "alias": "A_tI16_142_f",
+    "title": "S-III Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "S",
     "prototype_tex": "S",
-    "label": "A_tI16_142_f-001",
-    "parameter_symbol": [
+    "number_of_species": 1,
+    "pearson_symbol": "tI16",
+    "space_group_number": 142,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1"
@@ -13,17 +23,8 @@
         0.420985,
         0.1405
     ],
-    "strukturbericht": null,
-    "title": "S-III Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A_tI16_142_f",
-    "number_of_species": 1,
-    "pearson_symbol": "tI16",
-    "space_group_number": 142,
-    "comments": "The S-III phase is found when sulfur is pressurized above 36 GPa at 300K. At 300K it is stable up to 83 GPa. This data was taken at 12 GPa and 300K.",
+    "legacy": false,
     "notes": "S-III (HP)",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "The S-III phase is found when sulfur is pressurized above 36 GPa at 300K. At 300K it is stable up to 83 GPa. This data was taken at 12 GPa and 300K."
 }

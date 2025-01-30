@@ -1,9 +1,19 @@
 {
     "uid": "E7S8",
+    "label": "A2B5C_mP32_14_2e_5e_ab-001",
+    "alias": "A2B5C_mP32_14_2e_5e_ab",
+    "title": "Ca$_{2}$UO$_{5}$ Structure",
+    "icsd": "23198",
+    "ccdc": null,
     "prototype": "Ca2O5U",
     "prototype_tex": "Ca$_{2}$O$_{5}$U",
-    "label": "A2B5C_mP32_14_2e_5e_ab-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mP32",
+    "space_group_number": 14,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -57,17 +67,8 @@
         0.1873,
         0.0047
     ],
-    "strukturbericht": null,
-    "title": "Ca$_{2}$UO$_{5}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B5C_mP32_14_2e_5e_ab",
-    "number_of_species": 3,
-    "pearson_symbol": "mP32",
-    "space_group_number": 14,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "23198"
+    "comments": null
 }

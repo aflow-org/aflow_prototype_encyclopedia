@@ -1,9 +1,19 @@
 {
     "uid": "L5S8",
+    "label": "AB3_oC16_38_ab_3a3b-001",
+    "alias": "AB3_oC16_38_ab_3a3b-001",
+    "title": "GdSn$_{3}$ Structure",
+    "icsd": "104154",
+    "ccdc": null,
     "prototype": "GdSn3",
     "prototype_tex": "GdSn$_{3}$",
-    "label": "AB3_oC16_38_ab_3a3b-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oC16",
+    "space_group_number": 38,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -29,17 +39,8 @@
         0.725,
         0.854
     ],
-    "strukturbericht": null,
-    "title": "GdSn$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB3_oC16_38_ab_3a3b-001",
-    "number_of_species": 2,
-    "pearson_symbol": "oC16",
-    "space_group_number": 38,
-    "comments": "(Palenzona, 1993) identify this as the low-temperature structure of GdSn$_{3}$, transforming into the \\href{current_web_home_dir/AB3_cP4_221_a_c-001}{CuAu$_{3}$ ($L1_{2}$) structure} at high temperatures. \n (Palenzona, 1993) do not provide the coordinates for this structure within the paper, however ICSD entry 104154 gives the structure and lists this paper as the source. \n Space group $Amm2$ \\#38 does not specify the origin of the $z$-axis.  Here it is fixed by setting $z_{2} = 0$ for the Sn-I atom.",
+    "legacy": false,
     "notes": "LT",
-    "ccdc": null,
-    "icsd": "104154"
+    "comments": "(Palenzona, 1993) identify this as the low-temperature structure of GdSn$_{3}$, transforming into the \\href{current_web_home_dir/AB3_cP4_221_a_c-001}{CuAu$_{3}$ ($L1_{2}$) structure} at high temperatures. \n (Palenzona, 1993) do not provide the coordinates for this structure within the paper, however ICSD entry 104154 gives the structure and lists this paper as the source. \n Space group $Amm2$ \\#38 does not specify the origin of the $z$-axis.  Here it is fixed by setting $z_{2} = 0$ for the Sn-I atom."
 }

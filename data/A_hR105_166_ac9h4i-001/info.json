@@ -1,9 +1,19 @@
 {
     "uid": "Y6TF",
+    "label": "A_hR105_166_ac9h4i-001",
+    "alias": "A_hR105_166_bc9h4i",
+    "title": "$\\beta$-B (R-105) Structure",
+    "icsd": "14288",
+    "ccdc": null,
     "prototype": "B",
     "prototype_tex": "B",
-    "label": "A_hR105_166_ac9h4i-001",
-    "parameter_symbol": [
+    "number_of_species": 1,
+    "pearson_symbol": "hR105",
+    "space_group_number": 166,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -73,17 +83,8 @@
         0.5033,
         0.6777
     ],
-    "strukturbericht": null,
-    "title": "$\\beta$-B (R-105) Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "A_hR105_166_bc9h4i",
-    "number_of_species": 1,
-    "pearson_symbol": "hR105",
-    "space_group_number": 166,
-    "comments": "This is apparently the ground state of boron, with 105 atoms in the unit cell. \n (Donohue, 1982) gives two possible sets of internal coordinates for the atoms on page 64. We use the second set (Geist, 1970), as it has no partially filled sites. \n Note the relationship between the icosahedra in this structure, \\href{current_web_home_dir/A_hR12_166_2h-001}{$\\alpha$-B} and \\href{current_web_home_dir/A_tP50_134_a2m2n-001}{T-50 B}. \n Hexagonal settings for rhombohedral structures can be obtained with the option {\\tt --hex}.",
+    "legacy": false,
     "notes": "R-105 $\\beta$-Boron",
-    "ccdc": null,
-    "icsd": "14288"
+    "comments": "This is apparently the ground state of boron, with 105 atoms in the unit cell. \n (Donohue, 1982) gives two possible sets of internal coordinates for the atoms on page 64. We use the second set (Geist, 1970), as it has no partially filled sites. \n Note the relationship between the icosahedra in this structure, \\href{current_web_home_dir/A_hR12_166_2h-001}{$\\alpha$-B} and \\href{current_web_home_dir/A_tP50_134_a2m2n-001}{T-50 B}. \n Hexagonal settings for rhombohedral structures can be obtained with the option {\\tt --hex}."
 }

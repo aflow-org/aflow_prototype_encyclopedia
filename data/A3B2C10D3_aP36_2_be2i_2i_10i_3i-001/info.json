@@ -1,9 +1,19 @@
 {
     "uid": "0ZM1",
+    "label": "A3B2C10D3_aP36_2_be2i_2i_10i_3i-001",
+    "alias": "A3B2C10D3_aP36_2_ah2i_2i_10i_3i",
+    "title": "Co$_{3}$(SeO$_{3}$)$_{3}\\cdot$H$_{2}$O Structure",
+    "icsd": "66717",
+    "ccdc": null,
     "prototype": "Co3H2O10Se3",
     "prototype_tex": "Co$_{3}$H$_{2}$O$_{10}$Se$_{3}$",
-    "label": "A3B2C10D3_aP36_2_be2i_2i_10i_3i-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "aP36",
+    "space_group_number": 2,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -121,17 +131,8 @@
         0.16966,
         0.29811
     ],
-    "strukturbericht": null,
-    "title": "Co$_{3}$(SeO$_{3}$)$_{3}\\cdot$H$_{2}$O Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B2C10D3_aP36_2_ah2i_2i_10i_3i",
-    "number_of_species": 4,
-    "pearson_symbol": "aP36",
-    "space_group_number": 2,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "66717"
+    "comments": null
 }

@@ -1,9 +1,19 @@
 {
     "uid": "9ZX1",
+    "label": "A6B2C_tP72_103_abc5d_2d_abc-001",
+    "alias": "A6B2C_tP72_103_abc5d_2d_abc",
+    "title": "VSe$_{2}$O$_{6}$ Structure",
+    "icsd": "2354",
+    "ccdc": null,
     "prototype": "O6Se2V",
     "prototype_tex": "O$_{6}$Se$_{2}$V",
-    "label": "A6B2C_tP72_103_abc5d_2d_abc-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP72",
+    "space_group_number": 103,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -65,17 +75,8 @@
         0.2818,
         0.1031
     ],
-    "strukturbericht": null,
-    "title": "VSe$_{2}$O$_{6}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A6B2C_tP72_103_abc5d_2d_abc",
-    "number_of_species": 3,
-    "pearson_symbol": "tP72",
-    "space_group_number": 103,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "2354"
+    "comments": null
 }

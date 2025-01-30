@@ -1,9 +1,19 @@
 {
     "uid": "ZB5U",
+    "label": "AB2C6_oP36_60_c_d_3d-001",
+    "alias": "AB2C6_oP36_60_c_d_3d",
+    "title": "Columbite (FeNb$_{2}$O$_{4}$, $E5_{1}$) Structure",
+    "icsd": "201962",
+    "ccdc": null,
     "prototype": "FeNb2O6",
     "prototype_tex": "FeNb$_{2}$O$_{6}$",
-    "label": "AB2C6_oP36_60_c_d_3d-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP36",
+    "space_group_number": 60,
+    "strukturbericht": "E5_1",
+    "strukturbericht_tex": "$E5_{1}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -39,18 +49,8 @@
         0.1236,
         0.0793
     ],
-    "strukturbericht": "E5_1",
-    "title": "Columbite (FeNb$_{2}$O$_{4}$, $E5_{1}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$E5_{1}$",
     "compounds": {},
-    "alias": "AB2C6_oP36_60_c_d_3d",
-    "number_of_species": 3,
-    "pearson_symbol": "oP36",
-    "space_group_number": 60,
-    "comments": "The original {\\em Strukturbericht} reference uses (Fe,Mn)Nb$_{2}$O$_{6}$ as the prototype for $E5_{1}$ columbite. \n FeNb$_{2}$O$_{4}$ can also be found in a \\href{current_web_home_dir/AB2C6_tP18_113_c_2c_3e-001}{tetragonal structure}.",
+    "legacy": false,
     "notes": "$E5_{1}$, Columbite",
-    "ccdc": null,
-    "icsd": "201962"
+    "comments": "The original {\\em Strukturbericht} reference uses (Fe,Mn)Nb$_{2}$O$_{6}$ as the prototype for $E5_{1}$ columbite. \n FeNb$_{2}$O$_{4}$ can also be found in a \\href{current_web_home_dir/AB2C6_tP18_113_c_2c_3e-001}{tetragonal structure}."
 }

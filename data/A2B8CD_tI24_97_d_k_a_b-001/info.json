@@ -1,9 +1,19 @@
 {
     "uid": "FH59",
+    "label": "A2B8CD_tI24_97_d_k_a_b-001",
+    "alias": "A2B8CD_tI24_97_d_k_a_b",
+    "title": "NaGdCu$_{2}$F$_{8}$ Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "Cu2F8GdNa",
     "prototype_tex": "Cu$_{2}$F$_{8}$GdNa",
-    "label": "A2B8CD_tI24_97_d_k_a_b-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "tI24",
+    "space_group_number": 97,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x4",
@@ -17,17 +27,8 @@
         0.3128,
         0.1237
     ],
-    "strukturbericht": null,
-    "title": "NaGdCu$_{2}$F$_{8}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B8CD_tI24_97_d_k_a_b",
-    "number_of_species": 4,
-    "pearson_symbol": "tI24",
-    "space_group_number": 97,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "none"
+    "comments": null
 }

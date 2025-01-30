@@ -1,9 +1,19 @@
 {
     "uid": "EXRV",
+    "label": "A3B2C2_oI56_74_fhi_2ei_j-001",
+    "alias": "A3B2C2_oI56_74_fhi_2ei_j-001",
+    "title": "Hg$_{3}$S$_{2}$I$_{2}$ Structure",
+    "icsd": "411154",
+    "ccdc": null,
     "prototype": "Hg3I2S2",
     "prototype_tex": "Hg$_{3}$I$_{2}$S$_{2}$",
-    "label": "A3B2C2_oI56_74_fhi_2ei_j-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oI56",
+    "space_group_number": 74,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -37,17 +47,8 @@
         0.0073,
         0.2524
     ],
-    "strukturbericht": null,
-    "title": "Hg$_{3}$S$_{2}$I$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B2C2_oI56_74_fhi_2ei_j-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oI56",
-    "space_group_number": 74,
-    "comments": "FINDSYM rotated this structure by 90$^{\\circ}$ about the $z$-axis and shifted the origin by $(\\mathbf{a}_{1} + \\mathbf{a}_{2} + \\mathbf{a}_{3})/4$ compared to the structure in (Beck, 2000).",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "411154"
+    "comments": "FINDSYM rotated this structure by 90$^{\\circ}$ about the $z$-axis and shifted the origin by $(\\mathbf{a}_{1} + \\mathbf{a}_{2} + \\mathbf{a}_{3})/4$ compared to the structure in (Beck, 2000)."
 }

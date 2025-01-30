@@ -1,9 +1,19 @@
 {
     "uid": "MK58",
+    "label": "A10B_hP22_194_bhj_c-001",
+    "alias": "A10B_hP22_194_bhj_c",
+    "title": "Proposed 300 GPa HfH$_{10}$ Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "H10Hf",
     "prototype_tex": "H$_{10}$Hf",
-    "label": "A10B_hP22_194_bhj_c-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP22",
+    "space_group_number": 194,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -17,17 +27,8 @@
         0.375003,
         0.0769967
     ],
-    "strukturbericht": null,
-    "title": "Proposed 300 GPa HfH$_{10}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A10B_hP22_194_bhj_c",
-    "number_of_species": 2,
-    "pearson_symbol": "hP22",
-    "space_group_number": 194,
-    "comments": "This structure has only been determined computationally.  At 300 GPa it is predicted to have a superconducting transitions temperature $T_{c}$ above 200K.",
+    "legacy": false,
     "notes": "Computational, 300 GPa",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "This structure has only been determined computationally.  At 300 GPa it is predicted to have a superconducting transitions temperature $T_{c}$ above 200K."
 }

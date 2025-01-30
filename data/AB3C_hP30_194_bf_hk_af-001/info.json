@@ -1,9 +1,19 @@
 {
     "uid": "VHHA",
+    "label": "AB3C_hP30_194_bf_hk_af-001",
+    "alias": "AB3C_hP30_194_bf_hk_af-001",
+    "title": "Hexagonal BaTiO$_{3}$ Structure",
+    "icsd": "75240",
+    "ccdc": null,
     "prototype": "BaO3Ti",
     "prototype_tex": "BaO$_{3}$Ti",
-    "label": "AB3C_hP30_194_bf_hk_af-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP30",
+    "space_group_number": 194,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -21,17 +31,8 @@
         0.834897,
         0.0802
     ],
-    "strukturbericht": null,
-    "title": "Hexagonal BaTiO$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB3C_hP30_194_bf_hk_af-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hP30",
-    "space_group_number": 194,
-    "comments": "The perovskite BaTiO$_{3}$ undergoes a variety of temperature driven phase transitions. (Shirane, 1957) The first three structures are ferroelectric: \\begin{itemize} \\item Below 193K the structure is \\href{current_web_home_dir/AB3C_hR5_160_a_b_a-001}{rhombohedral}. \\item Between 193K and 278K the structure is \\href{current_web_home_dir/AB3C_oC10_38_a_ae_b-002}{orthorhombic}. \\item Between 278K and 393K the structure is \\href{current_web_home_dir/AB3C_tP5_99_b_ac_a-001}{tetragonal}. This is the room-temperature form of the material. \\item Above 393K the compound is a \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite ($E2_{1}$)}. \\end{itemize} ~ \\vspace{-.25in} \\item Hexagonal BaTiO$_{3}$ (this structure) can be stabilized by alloying the titanium sites with other transition metals. (Dickson, 1961) The pure structure has been grown at 1853K and cooled to room temperature. (Akimo, 1994) In some cases there is a deficiency of oxygen atoms. (Dickson, 1961) \n This pure sample was grown at 1853K and cooled to room temperature. \n If the transition metal atoms have the composition M1M2$_{2}$ and are ordered on the (2a) and (4f) sites, this becomes the \\href{current_web_home_dir/AB3C_hP30_194_bf_hk_af-001}{hexagonal Ba$_{3}$CoIr$_{2}$O$_{9}$ structure}. \n The ICSD lists BeFeO$_{3-x}$ as the prototype.",
+    "legacy": false,
     "notes": "Hexagonal BaTiO$_{3}$",
-    "ccdc": null,
-    "icsd": "75240"
+    "comments": "The perovskite BaTiO$_{3}$ undergoes a variety of temperature driven phase transitions. (Shirane, 1957) The first three structures are ferroelectric: \\begin{itemize} \\item Below 193K the structure is \\href{current_web_home_dir/AB3C_hR5_160_a_b_a-001}{rhombohedral}. \\item Between 193K and 278K the structure is \\href{current_web_home_dir/AB3C_oC10_38_a_ae_b-002}{orthorhombic}. \\item Between 278K and 393K the structure is \\href{current_web_home_dir/AB3C_tP5_99_b_ac_a-001}{tetragonal}. This is the room-temperature form of the material. \\item Above 393K the compound is a \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite ($E2_{1}$)}. \\end{itemize} ~ \\vspace{-.25in} \\item Hexagonal BaTiO$_{3}$ (this structure) can be stabilized by alloying the titanium sites with other transition metals. (Dickson, 1961) The pure structure has been grown at 1853K and cooled to room temperature. (Akimo, 1994) In some cases there is a deficiency of oxygen atoms. (Dickson, 1961) \n This pure sample was grown at 1853K and cooled to room temperature. \n If the transition metal atoms have the composition M1M2$_{2}$ and are ordered on the (2a) and (4f) sites, this becomes the \\href{current_web_home_dir/AB3C_hP30_194_bf_hk_af-001}{hexagonal Ba$_{3}$CoIr$_{2}$O$_{9}$ structure}. \n The ICSD lists BeFeO$_{3-x}$ as the prototype."
 }

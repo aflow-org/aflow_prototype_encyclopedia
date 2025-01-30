@@ -1,9 +1,19 @@
 {
     "uid": "VFUP",
+    "label": "ABC3_hP20_194_ac_f_gh-001",
+    "alias": "ABC3_hP20_194_ac_f_gh-001",
+    "title": "4H BaMnO$_{3}$ Structure",
+    "icsd": "122728",
+    "ccdc": null,
     "prototype": "BaMnO3",
     "prototype_tex": "BaMnO$_{3}$",
-    "label": "ABC3_hP20_194_ac_f_gh-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP20",
+    "space_group_number": 194,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -15,17 +25,8 @@
         0.6131,
         0.8091
     ],
-    "strukturbericht": null,
-    "title": "4H BaMnO$_{3}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC3_hP20_194_ac_f_gh-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hP20",
-    "space_group_number": 194,
-    "comments": "BaMnO$_{3}$ is known to exist in two phases distinguished by the stacking of the manganese atoms and their associated oxygens (Quin, 2021): \\begin{itemize} \\item This hexagonal 4H structure, \\item At pressures above 20 GPa it transforms into the hexagonal 6H \\href{current_web_home_dir/AB3C_hP30_194_bf_hk_af-001}{high-temperature BaTiO$_{3}$ structure}. \\end{itemize} ~ \\vspace{-.25in} \n (Quin, 2021) puts the Ba II atoms on a (2d) site but gives the coordinates for the (2c) site.  We follow the ICSD and put these atoms on the (2d) site, but then AFLOW reorders the structure and puts those atoms on the (2c) site, reordering the positions of the manganese and oxygen atoms to give the correct structure.",
+    "legacy": false,
     "notes": "4H",
-    "ccdc": null,
-    "icsd": "122728"
+    "comments": "BaMnO$_{3}$ is known to exist in two phases distinguished by the stacking of the manganese atoms and their associated oxygens (Quin, 2021): \\begin{itemize} \\item This hexagonal 4H structure, \\item At pressures above 20 GPa it transforms into the hexagonal 6H \\href{current_web_home_dir/AB3C_hP30_194_bf_hk_af-001}{high-temperature BaTiO$_{3}$ structure}. \\end{itemize} ~ \\vspace{-.25in} \n (Quin, 2021) puts the Ba II atoms on a (2d) site but gives the coordinates for the (2c) site.  We follow the ICSD and put these atoms on the (2d) site, but then AFLOW reorders the structure and puts those atoms on the (2c) site, reordering the positions of the manganese and oxygen atoms to give the correct structure."
 }

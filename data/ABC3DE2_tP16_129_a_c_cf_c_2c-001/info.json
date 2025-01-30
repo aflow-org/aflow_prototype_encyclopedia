@@ -1,9 +1,19 @@
 {
     "uid": "CQMQ",
+    "label": "ABC3DE2_tP16_129_a_c_cf_c_2c-001",
+    "alias": "ABC3DE2_tP16_129_a_c_cf_c_2c-001",
+    "title": "Sr$_{2}$CuGaSO$_{3}$",
+    "icsd": "83630",
+    "ccdc": null,
     "prototype": "CuGaO3SSr2",
     "prototype_tex": "CuGaO$_{3}$SSr$_{2}$",
-    "label": "ABC3DE2_tP16_129_a_c_cf_c_2c-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "tP16",
+    "space_group_number": 129,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -23,17 +33,8 @@
         0.586,
         0.7101
     ],
-    "strukturbericht": null,
-    "title": "Sr$_{2}$CuGaSO$_{3}$",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC3DE2_tP16_129_a_c_cf_c_2c-001",
-    "number_of_species": 5,
-    "pearson_symbol": "tP16",
-    "space_group_number": 129,
-    "comments": "(Zhu, 1997) says this is isostructural with \\href{current_web_home_dir/A2B3C2D2_tI18_139_e_ad_c_e-001}{Sr$_{2}$Mn${3}$As$_{2}$O$_{2}$}, but this is not obvious to us.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "83630"
+    "comments": "(Zhu, 1997) says this is isostructural with \\href{current_web_home_dir/A2B3C2D2_tI18_139_e_ad_c_e-001}{Sr$_{2}$Mn${3}$As$_{2}$O$_{2}$}, but this is not obvious to us."
 }

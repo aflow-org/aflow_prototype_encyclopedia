@@ -1,9 +1,19 @@
 {
     "uid": "9RQB",
+    "label": "A3BC8D2_hP14_164_ad_b_di_d-001",
+    "alias": "A3BC8D2_hP14_164_ad_b_di_d-001",
+    "title": "Aphthitalite/Glaserite [K$_{3}$Na(SO$_{4}$)$_{2}$] Structure",
+    "icsd": "26018",
+    "ccdc": null,
     "prototype": "K3NaO8S2",
     "prototype_tex": "K$_{3}$NaO$_{8}$S$_{2}$",
-    "label": "A3BC8D2_hP14_164_ad_b_di_d-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "hP14",
+    "space_group_number": 164,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -21,17 +31,8 @@
         0.8073,
         0.3018
     ],
-    "strukturbericht": null,
-    "title": "Aphthitalite/Glaserite [K$_{3}$Na(SO$_{4}$)$_{2}$] Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3BC8D2_hP14_164_ad_b_di_d-001",
-    "number_of_species": 4,
-    "pearson_symbol": "hP14",
-    "space_group_number": 164,
-    "comments": "(Downs, 2003) refers to this structure as ``aphthitalite,'' however others such as (Nikolova, 2013) refer to it as ``glaserite.''",
+    "legacy": false,
     "notes": "Aphthitalite/Glaserite",
-    "ccdc": null,
-    "icsd": "26018"
+    "comments": "(Downs, 2003) refers to this structure as ``aphthitalite,'' however others such as (Nikolova, 2013) refer to it as ``glaserite.''"
 }

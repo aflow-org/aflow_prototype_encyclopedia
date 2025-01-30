@@ -1,9 +1,19 @@
 {
     "uid": "UZBW",
+    "label": "AB2C6D_hP20_163_c_f_i_a-001",
+    "alias": "AB2C6D_hP20_163_c_f_i_a-001",
+    "title": "$\\beta$-Na$_{2}$GeTeO$_{6}$ Structure",
+    "icsd": "88789",
+    "ccdc": null,
     "prototype": "GeNa2O6Te",
     "prototype_tex": "GeNa$_{2}$O$_{6}$Te",
-    "label": "AB2C6D_hP20_163_c_f_i_a-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "hP20",
+    "space_group_number": 163,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -19,17 +29,8 @@
         0.706897,
         0.1455
     ],
-    "strukturbericht": null,
-    "title": "$\\beta$-Na$_{2}$GeTeO$_{6}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2C6D_hP20_163_c_f_i_a-001",
-    "number_of_species": 4,
-    "pearson_symbol": "hP20",
-    "space_group_number": 163,
-    "comments": "There is also a rhombohedral form of this structure, $\\alpha$-Na$_{2}$GeTeO$_{6}$, \\href{current_web_home_dir/AB3C_hR10_148_c_f_c-001}{in the FeTiO$_{3}$ ($E2_{2}$) structure}.  This is the structure for $\\alpha$-Na$_{2}$GeTeO$_{6}$ given in Woodward, 1999), but the Wyckoff position labeled (12i) is actually (18f). The ICSD entry gives the correct structure.",
+    "legacy": false,
     "notes": "$\\beta$-Na$_{2}$GeTeO$_{6}$",
-    "ccdc": null,
-    "icsd": "88789"
+    "comments": "There is also a rhombohedral form of this structure, $\\alpha$-Na$_{2}$GeTeO$_{6}$, \\href{current_web_home_dir/AB3C_hR10_148_c_f_c-001}{in the FeTiO$_{3}$ ($E2_{2}$) structure}.  This is the structure for $\\alpha$-Na$_{2}$GeTeO$_{6}$ given in Woodward, 1999), but the Wyckoff position labeled (12i) is actually (18f). The ICSD entry gives the correct structure."
 }

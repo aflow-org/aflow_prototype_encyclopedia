@@ -1,9 +1,19 @@
 {
     "uid": "MSL9",
+    "label": "A6B_cF224_228_h_c-001",
+    "alias": "A6B_cF224_228_h_c",
+    "title": "Te[OH]$_{6}$ Structure ({\\em Obsolete})",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "H6O6Te",
     "prototype_tex": "H$_{6}$O$_{6}$Te",
-    "label": "A6B_cF224_228_h_c-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cF224",
+    "space_group_number": 228,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "x2",
         "y2",
@@ -15,17 +25,8 @@
         0.638,
         0.278
     ],
-    "strukturbericht": null,
-    "title": "Te[OH]$_{6}$ Structure ({\\em Obsolete})",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A6B_cF224_228_h_c",
-    "number_of_species": 2,
-    "pearson_symbol": "cF224",
-    "space_group_number": 228,
-    "comments": "(Kirckpatrick, 1926) did not find the locations of the hydrogen atoms.  When these were located by (Mullica, 1980) it was found that the true structure is in \\href{current_web_home_dir/A12B6C_cF608_210_4h_2h_e-001}{space group $F4_{1}32$ \\#210}.",
+    "legacy": false,
     "notes": "({\\em Obsolete})",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "(Kirckpatrick, 1926) did not find the locations of the hydrogen atoms.  When these were located by (Mullica, 1980) it was found that the true structure is in \\href{current_web_home_dir/A12B6C_cF608_210_4h_2h_e-001}{space group $F4_{1}32$ \\#210}."
 }

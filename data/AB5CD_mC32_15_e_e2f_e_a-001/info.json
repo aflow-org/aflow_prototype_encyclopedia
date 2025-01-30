@@ -1,9 +1,19 @@
 {
     "uid": "EDTK",
+    "label": "AB5CD_mC32_15_e_e2f_e_a-001",
+    "alias": "AB5CD_mC32_15_e_e2f_e_b",
+    "title": "Titanite (CaTiSiO$_{5}$, $S0_{6}$) Structure",
+    "icsd": "159337",
+    "ccdc": null,
     "prototype": "CaO5SiTi",
     "prototype_tex": "CaO$_{5}$SiTi",
-    "label": "AB5CD_mC32_15_e_e2f_e_a-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "mC32",
+    "space_group_number": 15,
+    "strukturbericht": "S0_6",
+    "strukturbericht_tex": "$S0_{6}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -33,18 +43,8 @@
         0.7893,
         0.3815
     ],
-    "strukturbericht": "S0_6",
-    "title": "Titanite (CaTiSiO$_{5}$, $S0_{6}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$S0_{6}$",
     "compounds": {},
-    "alias": "AB5CD_mC32_15_e_e2f_e_b",
-    "number_of_species": 4,
-    "pearson_symbol": "mC32",
-    "space_group_number": 15,
-    "comments": "We use the data from sample M28658 to construct our titanite cell. \n (Hermann, 1937) places the titanium atoms at the (4c) Wyckoff position rather than the (4b) position favored by (Hawthorne, 1991).  The biggest difference between the two structures is the distance between the silicon and titantium atoms, which is 3.81{\\AA} in Hawthorne and a rather short 2{\\AA} in Hermann.  We therefore favor the Hawthorne structure, and, since it does not otherwise substantially change the results, we continue to use $S0_{6}$ to describe it. \n (Hermann, 1937) also listed this as the $H5_{6}$ structure in the index.",
+    "legacy": false,
     "notes": "$S0_{6}$, Titanite",
-    "ccdc": null,
-    "icsd": "159337"
+    "comments": "We use the data from sample M28658 to construct our titanite cell. \n (Hermann, 1937) places the titanium atoms at the (4c) Wyckoff position rather than the (4b) position favored by (Hawthorne, 1991).  The biggest difference between the two structures is the distance between the silicon and titantium atoms, which is 3.81{\\AA} in Hawthorne and a rather short 2{\\AA} in Hermann.  We therefore favor the Hawthorne structure, and, since it does not otherwise substantially change the results, we continue to use $S0_{6}$ to describe it. \n (Hermann, 1937) also listed this as the $H5_{6}$ structure in the index."
 }

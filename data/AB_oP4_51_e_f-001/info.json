@@ -1,9 +1,19 @@
 {
     "uid": "WLS6",
+    "label": "AB_oP4_51_e_f-001",
+    "alias": "AB_oP4_51_e_f",
+    "title": "$\\beta$'-AuCd ($B19$) Structure",
+    "icsd": "58409",
+    "ccdc": null,
     "prototype": "AuCd",
     "prototype_tex": "AuCd",
-    "label": "AB_oP4_51_e_f-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP4",
+    "space_group_number": 51,
+    "strukturbericht": "B19",
+    "strukturbericht_tex": "$B19$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -17,18 +27,8 @@
         0.8125,
         0.3125
     ],
-    "strukturbericht": "B19",
-    "title": "$\\beta$'-AuCd ($B19$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$B19$",
     "compounds": {},
-    "alias": "AB_oP4_51_e_f",
-    "number_of_species": 2,
-    "pearson_symbol": "oP4",
-    "space_group_number": 51,
-    "comments": "When $a=b=c$, $z_{1}=1/4$, and $z_{2}=3/4$ the atoms are on the sites of a \\href{current_web_home_dir/A_cF4_225_a-001}{face-centered cubic lattice}. \n When $a=c$, $z_{1}=1/4$, and $z_{2}=3/4$ the system reduces to the \\href{current_web_home_dir/AB_tP2_123_a_d-001}{$L1_{0}$ (AuCu) structure}. \n When $a/b=(8/3)^{2/3}$, $c/b=3^{1/2}$, $z_{1}=1/3$, and $z_{2}=5/6$, the atoms are on the sites of the \\href{current_web_home_dir/A_hP2_194_c-001}{hcp structure}. \n Finally, when $z_{2}=1/2+z_{1}$ the atoms are at the positions of the \\href{current_web_home_dir/A_oC4_63_c-001}{$\\alpha$-U ($A20$) structure}.",
+    "legacy": false,
     "notes": "$B19$, $\\beta$'-AuCd",
-    "ccdc": null,
-    "icsd": "58409"
+    "comments": "When $a=b=c$, $z_{1}=1/4$, and $z_{2}=3/4$ the atoms are on the sites of a \\href{current_web_home_dir/A_cF4_225_a-001}{face-centered cubic lattice}. \n When $a=c$, $z_{1}=1/4$, and $z_{2}=3/4$ the system reduces to the \\href{current_web_home_dir/AB_tP2_123_a_d-001}{$L1_{0}$ (AuCu) structure}. \n When $a/b=(8/3)^{2/3}$, $c/b=3^{1/2}$, $z_{1}=1/3$, and $z_{2}=5/6$, the atoms are on the sites of the \\href{current_web_home_dir/A_hP2_194_c-001}{hcp structure}. \n Finally, when $z_{2}=1/2+z_{1}$ the atoms are at the positions of the \\href{current_web_home_dir/A_oC4_63_c-001}{$\\alpha$-U ($A20$) structure}."
 }

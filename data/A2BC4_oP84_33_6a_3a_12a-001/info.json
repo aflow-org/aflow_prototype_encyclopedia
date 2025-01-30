@@ -1,9 +1,19 @@
 {
     "uid": "S26L",
+    "label": "A2BC4_oP84_33_6a_3a_12a-001",
+    "alias": "A2BC4_oP84_33_6a_3a_12a",
+    "title": "CaB$_{2}$O$_{4}$ (III) Structure",
+    "icsd": "23240",
+    "ccdc": null,
     "prototype": "B2CaO4",
     "prototype_tex": "B$_{2}$CaO$_{4}$",
-    "label": "A2BC4_oP84_33_6a_3a_12a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP84",
+    "space_group_number": 33,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -139,17 +149,8 @@
         0.1944,
         0.0459
     ],
-    "strukturbericht": null,
-    "title": "CaB$_{2}$O$_{4}$ (III) Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC4_oP84_33_6a_3a_12a",
-    "number_of_species": 3,
-    "pearson_symbol": "oP84",
-    "space_group_number": 33,
-    "comments": "CaB$_{2}$O$_{4}$ exists in at least four phases (Marezio, 1969): \\begin{itemize} \\item \\href{current_web_home_dir/A2BC4_oP28_60_d_c_2d-001}{The ground state}, stable below 1.2 GPa, {\\em Strukturbericht} $E3_{2}$ \\item Orthorhombic high pressure structure, stable between 1.2 and 1.5 GPa, presumably \\href{current_web_home_dir/A2BC4_oP56_56_2e_e_4e-001}{Calciborite} \\item Orthorhombic high pressure structure, stable between 1.5 and 2.5 GPa (this structure) \\item \\href{current_web_home_dir/A2BC4_cP84_205_d_ac_2d-001}{Cubic high pressure structure}, stable between 2.5 and 4.0 GPa \\end{itemize}",
+    "legacy": false,
     "notes": "CaB$_{2}$O$_{4}$ III",
-    "ccdc": null,
-    "icsd": "23240"
+    "comments": "CaB$_{2}$O$_{4}$ exists in at least four phases (Marezio, 1969): \\begin{itemize} \\item \\href{current_web_home_dir/A2BC4_oP28_60_d_c_2d-001}{The ground state}, stable below 1.2 GPa, {\\em Strukturbericht} $E3_{2}$ \\item Orthorhombic high pressure structure, stable between 1.2 and 1.5 GPa, presumably \\href{current_web_home_dir/A2BC4_oP56_56_2e_e_4e-001}{Calciborite} \\item Orthorhombic high pressure structure, stable between 1.5 and 2.5 GPa (this structure) \\item \\href{current_web_home_dir/A2BC4_cP84_205_d_ac_2d-001}{Cubic high pressure structure}, stable between 2.5 and 4.0 GPa \\end{itemize}"
 }

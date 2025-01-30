@@ -1,9 +1,19 @@
 {
     "uid": "575A",
+    "label": "ABC4_tP12_125_a_b_m-001",
+    "alias": "ABC4_tP12_125_a_b_m",
+    "title": "KCeSe$_{4}$ Structure",
+    "icsd": "67656",
+    "ccdc": null,
     "prototype": "CdKSe4",
     "prototype_tex": "CdKSe$_{4}$",
-    "label": "ABC4_tP12_125_a_b_m-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP12",
+    "space_group_number": 125,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -15,17 +25,8 @@
         0.3822,
         0.2163
     ],
-    "strukturbericht": null,
-    "title": "KCeSe$_{4}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC4_tP12_125_a_b_m",
-    "number_of_species": 3,
-    "pearson_symbol": "tP12",
-    "space_group_number": 125,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "67656"
+    "comments": null
 }

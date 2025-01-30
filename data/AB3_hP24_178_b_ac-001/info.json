@@ -1,9 +1,19 @@
 {
     "uid": "UBNE",
+    "label": "AB3_hP24_178_b_ac-001",
+    "alias": "AB3_hP24_178_b_ac",
+    "title": "AuF$_{3}$ Structure",
+    "icsd": "80478",
+    "ccdc": null,
     "prototype": "AuF3",
     "prototype_tex": "AuF$_{3}$",
-    "label": "AB3_hP24_178_b_ac-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP24",
+    "space_group_number": 178,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -21,17 +31,8 @@
         0.7761,
         0.328033
     ],
-    "strukturbericht": null,
-    "title": "AuF$_{3}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB3_hP24_178_b_ac",
-    "number_of_species": 2,
-    "pearson_symbol": "hP24",
-    "space_group_number": 178,
-    "comments": "Previously (Hicks, 2019) used the data from (Asprey, 1964) to describe this structure.  We have updated this to use the more recent data from (\\v{Z}emva, 1991).  This does not change the essential nature of the structure. \n This structure can also be found in \\href{current_web_home_dir/AB3_hP24_179_b_ac-001}{the enantiomorphic space group $P6_{5}22$ \\#179}.  That page presents the original data from (Asprey, 1964).",
+    "legacy": false,
     "notes": "Refined Structure",
-    "ccdc": null,
-    "icsd": "80478"
+    "comments": "Previously (Hicks, 2019) used the data from (Asprey, 1964) to describe this structure.  We have updated this to use the more recent data from (\\v{Z}emva, 1991).  This does not change the essential nature of the structure. \n This structure can also be found in \\href{current_web_home_dir/AB3_hP24_179_b_ac-001}{the enantiomorphic space group $P6_{5}22$ \\#179}.  That page presents the original data from (Asprey, 1964)."
 }

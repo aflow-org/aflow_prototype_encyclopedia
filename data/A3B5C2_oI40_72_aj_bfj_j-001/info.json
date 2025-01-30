@@ -1,9 +1,19 @@
 {
     "uid": "LD1K",
+    "label": "A3B5C2_oI40_72_aj_bfj_j-001",
+    "alias": "A3B5C2_oI40_72_aj_bfj_j-001",
+    "title": "U$_{2}$Co$_{3}$Si$_{5}$ Structure",
+    "icsd": "20930",
+    "ccdc": null,
     "prototype": "Co3Si5U2",
     "prototype_tex": "Co$_{3}$Si$_{5}$U$_{2}$",
-    "label": "A3B5C2_oI40_72_aj_bfj_j-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oI40",
+    "space_group_number": 72,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -27,17 +37,8 @@
         0.1328,
         0.7332
     ],
-    "strukturbericht": null,
-    "title": "U$_{2}$Co$_{3}$Si$_{5}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B5C2_oI40_72_aj_bfj_j-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oI40",
-    "space_group_number": 72,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "20930"
+    "comments": null
 }

@@ -1,9 +1,19 @@
 {
     "uid": "484W",
+    "label": "A17B47_oP128_32_a8c_a23c-001",
+    "alias": "A17B47_oP128_32_a8c_a23c",
+    "title": "Mo$_{17}$O$_{47}$ Structure",
+    "icsd": "28333",
+    "ccdc": null,
     "prototype": "Mo17O47",
     "prototype_tex": "Mo$_{17}$O$_{47}$",
-    "label": "A17B47_oP128_32_a8c_a23c-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP128",
+    "space_group_number": 32,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -203,17 +213,8 @@
         0.263,
         0.027
     ],
-    "strukturbericht": null,
-    "title": "Mo$_{17}$O$_{47}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A17B47_oP128_32_a8c_a23c",
-    "number_of_species": 2,
-    "pearson_symbol": "oP128",
-    "space_group_number": 32,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "28333"
+    "comments": null
 }

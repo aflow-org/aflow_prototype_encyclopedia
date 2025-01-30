@@ -1,9 +1,19 @@
 {
     "uid": "JTSA",
+    "label": "AB2_oC12_36_a_2a-002",
+    "alias": "AB2_oC12_36_a_2a",
+    "title": "MoP$_{2}$ Structure",
+    "icsd": "43331",
+    "ccdc": null,
     "prototype": "MoP2",
     "prototype_tex": "MoP$_{2}$",
-    "label": "AB2_oC12_36_a_2a-002",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oC12",
+    "space_group_number": 36,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -25,17 +35,8 @@
         0.426,
         0.121
     ],
-    "strukturbericht": null,
-    "title": "MoP$_{2}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2_oC12_36_a_2a",
-    "number_of_species": 2,
-    "pearson_symbol": "oC12",
-    "space_group_number": 36,
-    "comments": "An earlier version of this page had the wrong value for the length $c$.  We have corrected that in this version.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "43331"
+    "comments": "An earlier version of this page had the wrong value for the length $c$.  We have corrected that in this version."
 }

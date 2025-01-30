@@ -1,9 +1,19 @@
 {
     "uid": "ZQW6",
+    "label": "A8B5_mC26_12_2ij_ahi-001",
+    "alias": "A8B5_mC26_12_2ij_ahi-001",
+    "title": "V$_{5}$S$_{8}$ Structure",
+    "icsd": "42040",
+    "ccdc": null,
     "prototype": "S8V5",
     "prototype_tex": "S$_{8}$V$_{5}$",
-    "label": "A8B5_mC26_12_2ij_ahi-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC26",
+    "space_group_number": 12,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -35,17 +45,8 @@
         0.751,
         0.75306
     ],
-    "strukturbericht": null,
-    "title": "V$_{5}$S$_{8}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A8B5_mC26_12_2ij_ahi-001",
-    "number_of_species": 2,
-    "pearson_symbol": "mC26",
-    "space_group_number": 12,
-    "comments": "(Kawada, 1975) give the structural information in setting $F2/m$ of space group \\#12.  We used FINDSYM to transform this into the standard $C2/m$ setting. This involves a considerable shuffling of the primitive vectors.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "42040"
+    "comments": "(Kawada, 1975) give the structural information in setting $F2/m$ of space group \\#12.  We used FINDSYM to transform this into the standard $C2/m$ setting. This involves a considerable shuffling of the primitive vectors."
 }

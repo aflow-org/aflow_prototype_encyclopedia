@@ -1,9 +1,19 @@
 {
     "uid": "RPTR",
+    "label": "A4BC3_tP8_123_i_a_bh-001",
+    "alias": "A4BC3_tP8_123_i_a_bh-001",
+    "title": "KCu$_{4}$S$_{3}$ Structure",
+    "icsd": "23336",
+    "ccdc": null,
     "prototype": "Cu4KS3",
     "prototype_tex": "Cu$_{4}$KS$_{3}$",
-    "label": "A4BC3_tP8_123_i_a_bh-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP8",
+    "space_group_number": 123,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -15,17 +25,8 @@
         0.7944,
         0.6603
     ],
-    "strukturbericht": null,
-    "title": "KCu$_{4}$S$_{3}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4BC3_tP8_123_i_a_bh-001",
-    "number_of_species": 3,
-    "pearson_symbol": "tP8",
-    "space_group_number": 123,
-    "comments": "The standard AFLOW label moves the origin from the S-I atom reported by (Brown, 1980) to the K-I atom.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "23336"
+    "comments": "The standard AFLOW label moves the origin from the S-I atom reported by (Brown, 1980) to the K-I atom."
 }

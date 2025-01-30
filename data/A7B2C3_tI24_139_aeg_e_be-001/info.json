@@ -1,9 +1,19 @@
 {
     "uid": "7JA2",
+    "label": "A7B2C3_tI24_139_aeg_e_be-001",
+    "alias": "A7B2C3_tI24_139_aeg_e_be-001",
+    "title": "Rb$_{3}$Mn$_{2}$Cl$_{7}$ Structure",
+    "icsd": "9491",
+    "ccdc": null,
     "prototype": "Cl7Mn2Rb3",
     "prototype_tex": "Cl$_{7}$Mn$_{2}$Rb$_{3}$",
-    "label": "A7B2C3_tI24_139_aeg_e_be-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tI24",
+    "space_group_number": 139,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -19,17 +29,8 @@
         0.18,
         0.1
     ],
-    "strukturbericht": null,
-    "title": "Rb$_{3}$Mn$_{2}$Cl$_{7}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A7B2C3_tI24_139_aeg_e_be-001",
-    "number_of_species": 3,
-    "pearson_symbol": "tI24",
-    "space_group_number": 139,
-    "comments": "Quaternary compounds with this structure are listed under the \\href{current_web_home_dir/A2B5C2D3_tI24_139_e_ag_e_be-001}{Sr$_{3}$Sc$_{2}$O$_{5}$Cl$_{2}$} prototype.  The ICSD list some, but not all, of those structures under the Rb$_{3}$Mn$_{2}$Cl$_{7}$ structure type.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "9491"
+    "comments": "Quaternary compounds with this structure are listed under the \\href{current_web_home_dir/A2B5C2D3_tI24_139_e_ag_e_be-001}{Sr$_{3}$Sc$_{2}$O$_{5}$Cl$_{2}$} prototype.  The ICSD list some, but not all, of those structures under the Rb$_{3}$Mn$_{2}$Cl$_{7}$ structure type."
 }

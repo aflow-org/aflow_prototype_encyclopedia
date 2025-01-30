@@ -1,9 +1,19 @@
 {
     "uid": "NHP2",
+    "label": "A16B6C7_cF116_225_2f_e_ad-001",
+    "alias": "A16B6C7_cF116_225_2f_e_ad-001",
+    "title": "Mg$_{6}$Si$_{7}$Cu$_{16}$ Structure",
+    "icsd": "16624",
+    "ccdc": null,
     "prototype": "Cu16Mg6Si7",
     "prototype_tex": "Cu$_{16}$Mg$_{6}$Si$_{7}$",
-    "label": "A16B6C7_cF116_225_2f_e_ad-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cF116",
+    "space_group_number": 225,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "x3",
         "x4",
@@ -15,17 +25,8 @@
         0.3316,
         0.123
     ],
-    "strukturbericht": null,
-    "title": "Mg$_{6}$Si$_{7}$Cu$_{16}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A16B6C7_cF116_225_2f_e_ad-001",
-    "number_of_species": 3,
-    "pearson_symbol": "cF116",
-    "space_group_number": 225,
-    "comments": "This is the ternary version of \\href{current_web_home_dir/A23B6_cF116_225_ad2f_e-001}{Th$_{6}$Mn$_{23}$ ($D8_{a}$)}.",
+    "legacy": false,
     "notes": "Ternary $D8_{a}$",
-    "ccdc": null,
-    "icsd": "16624"
+    "comments": "This is the ternary version of \\href{current_web_home_dir/A23B6_cF116_225_ad2f_e-001}{Th$_{6}$Mn$_{23}$ ($D8_{a}$)}."
 }

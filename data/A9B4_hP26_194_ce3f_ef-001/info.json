@@ -1,9 +1,19 @@
 {
     "uid": "J5ST",
+    "label": "A9B4_hP26_194_ce3f_ef-001",
+    "alias": "A9B4_hP26_194_ce3f_ef-001",
+    "title": "Na$_{9}$Pb$_{4}$ ($\\delta$'-NaPb) Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "Na9Pb4",
     "prototype_tex": "Na$_{9}$Pb$_{4}$",
-    "label": "A9B4_hP26_194_ce3f_ef-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP26",
+    "space_group_number": 194,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -23,17 +33,8 @@
         0.135,
         0.7
     ],
-    "strukturbericht": null,
-    "title": "Na$_{9}$Pb$_{4}$ ($\\delta$'-NaPb) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A9B4_hP26_194_ce3f_ef-001",
-    "number_of_species": 2,
-    "pearson_symbol": "hP26",
-    "space_group_number": 194,
-    "comments": "(Weston, 1957) determined the space group, lattice constants, and positions of the lead atoms in Na$_{9}$Pb$_{4}$ but were unable to place the sodium atoms.  Using the First-Principles Assisted Structure Solution (FPASS) method, (Ward, 2015) determined a set of positions for the sodium atoms consistent with the available experimental data.  To our knowledge further experimental study of Na$_{9}$Pb$_{4}$ has taken place. \n We have shifted the origin of the $\\hat{z}$ axis by $c/2$ from that chosen by (Weston, 1957), changing the Na-I site from the (2d) Wyckoff position to (2c). \n There is no ICSD entry for this structure, but (Ward, 2015) provide the CIF for this structure in their supplementary material.",
+    "legacy": false,
     "notes": "$\\delta$'-NaPb",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "(Weston, 1957) determined the space group, lattice constants, and positions of the lead atoms in Na$_{9}$Pb$_{4}$ but were unable to place the sodium atoms.  Using the First-Principles Assisted Structure Solution (FPASS) method, (Ward, 2015) determined a set of positions for the sodium atoms consistent with the available experimental data.  To our knowledge further experimental study of Na$_{9}$Pb$_{4}$ has taken place. \n We have shifted the origin of the $\\hat{z}$ axis by $c/2$ from that chosen by (Weston, 1957), changing the Na-I site from the (2d) Wyckoff position to (2c). \n There is no ICSD entry for this structure, but (Ward, 2015) provide the CIF for this structure in their supplementary material."
 }

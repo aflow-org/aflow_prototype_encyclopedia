@@ -1,9 +1,19 @@
 {
     "uid": "6GLF",
+    "label": "A12B2CD12_aP54_2_12i_2i_i_12i-001",
+    "alias": "A12B2CD12_aP54_2_12i_2i_i_12i",
+    "title": "Ni(NO$_{3}$)(H$_{2}$O)$_{3}$ Structure",
+    "icsd": "9127",
+    "ccdc": null,
     "prototype": "H12N2NiO12",
     "prototype_tex": "H$_{12}$N$_{2}$NiO$_{12}$",
-    "label": "A12B2CD12_aP54_2_12i_2i_i_12i-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "aP54",
+    "space_group_number": 2,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -181,17 +191,8 @@
         0.1262,
         0.7769
     ],
-    "strukturbericht": null,
-    "title": "Ni(NO$_{3}$)(H$_{2}$O)$_{3}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A12B2CD12_aP54_2_12i_2i_i_12i",
-    "number_of_species": 4,
-    "pearson_symbol": "aP54",
-    "space_group_number": 2,
-    "comments": "This is the accepted structure for Ni(NO$_{3}$)(H$_{2}$O)$_{3}$, replacing the \\href{current_web_home_dir/A2B6CD6_cP60_205_c_d_a_d-001}{$H6_{4}$ structure}.  The positions of the hydrogen atoms are approximate.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "9127"
+    "comments": "This is the accepted structure for Ni(NO$_{3}$)(H$_{2}$O)$_{3}$, replacing the \\href{current_web_home_dir/A2B6CD6_cP60_205_c_d_a_d-001}{$H6_{4}$ structure}.  The positions of the hydrogen atoms are approximate."
 }

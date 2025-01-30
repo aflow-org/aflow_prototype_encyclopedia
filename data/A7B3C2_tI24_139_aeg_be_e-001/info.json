@@ -1,9 +1,19 @@
 {
     "uid": "PDHZ",
+    "label": "A7B3C2_tI24_139_aeg_be_e-001",
+    "alias": "A7B3C2_tI24_139_aeg_be_e",
+    "title": "Sr$_{3}$Ti$_{2}$O$_{7}$ Structure",
+    "icsd": "34629",
+    "ccdc": null,
     "prototype": "O7Sr3Ti2",
     "prototype_tex": "O$_{7}$Sr$_{3}$Ti$_{2}$",
-    "label": "A7B3C2_tI24_139_aeg_be_e-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tI24",
+    "space_group_number": 139,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -19,17 +29,8 @@
         0.094,
         0.094
     ],
-    "strukturbericht": null,
-    "title": "Sr$_{3}$Ti$_{2}$O$_{7}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A7B3C2_tI24_139_aeg_be_e",
-    "number_of_species": 3,
-    "pearson_symbol": "tI24",
-    "space_group_number": 139,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "34629"
+    "comments": null
 }

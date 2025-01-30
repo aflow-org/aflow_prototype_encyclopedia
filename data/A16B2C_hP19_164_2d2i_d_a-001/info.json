@@ -1,9 +1,19 @@
 {
     "uid": "LLDQ",
+    "label": "A16B2C_hP19_164_2d2i_d_a-001",
+    "alias": "A16B2C_hP19_164_2d2i_d_b",
+    "title": "Predicted Li$_{2}$MgH$_{16}$ 300 GPa Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "H16Li2Mg",
     "prototype_tex": "H$_{16}$Li$_{2}$Mg",
-    "label": "A16B2C_hP19_164_2d2i_d_a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP19",
+    "space_group_number": 164,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -25,17 +35,8 @@
         0.1644,
         0.73653
     ],
-    "strukturbericht": null,
-    "title": "Predicted Li$_{2}$MgH$_{16}$ 300 GPa Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A16B2C_hP19_164_2d2i_d_b",
-    "number_of_species": 3,
-    "pearson_symbol": "hP19",
-    "space_group_number": 164,
-    "comments": "This structure is predicted to be the zero-temperature ground state of Li$_{2}$MgH$_{16}$ at 300\\,GPa. It is of primarily of interest because a metastable cubic structure with the same composition \\href{current_web_home_dir/A16B2C_cF152_227_eg_c_b-001}{is predicted to be superconducting at 250 GPa with $T_c = 430-473$K.}",
+    "legacy": false,
     "notes": "Predicted, 300 GPa",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "This structure is predicted to be the zero-temperature ground state of Li$_{2}$MgH$_{16}$ at 300\\,GPa. It is of primarily of interest because a metastable cubic structure with the same composition \\href{current_web_home_dir/A16B2C_cF152_227_eg_c_b-001}{is predicted to be superconducting at 250 GPa with $T_c = 430-473$K.}"
 }

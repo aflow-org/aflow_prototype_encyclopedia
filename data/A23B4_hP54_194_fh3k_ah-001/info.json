@@ -1,9 +1,19 @@
 {
     "uid": "W4P8",
+    "label": "A23B4_hP54_194_fh3k_ah-001",
+    "alias": "A23B4_hP54_194_fh3k_ah-001",
+    "title": "Al$_{23}$V$_{4}$ Structure",
+    "icsd": "174002",
+    "ccdc": null,
     "prototype": "Al23V4",
     "prototype_tex": "Al$_{23}$V$_{4}$",
-    "label": "A23B4_hP54_194_fh3k_ah-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP54",
+    "space_group_number": 194,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -29,17 +39,8 @@
         0.455,
         0.166
     ],
-    "strukturbericht": null,
-    "title": "Al$_{23}$V$_{4}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A23B4_hP54_194_fh3k_ah-001",
-    "number_of_species": 2,
-    "pearson_symbol": "hP54",
-    "space_group_number": 194,
-    "comments": "(Smith, 1957) gives $z_{2} = 0.167$ for their Al$_{5}$ (our Al II) (4f) site, but the ICSD entry sets this to 0.617.  The later value is consistent with the interatomic distances in the paper, so we use that value.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "174002"
+    "comments": "(Smith, 1957) gives $z_{2} = 0.167$ for their Al$_{5}$ (our Al II) (4f) site, but the ICSD entry sets this to 0.617.  The later value is consistent with the interatomic distances in the paper, so we use that value."
 }

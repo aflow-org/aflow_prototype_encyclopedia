@@ -1,9 +1,19 @@
 {
     "uid": "1AJT",
+    "label": "AB6CD2_cP120_213_d_3e_ac_e-001",
+    "alias": "AB6CD2_cP120_213_d_3e_ac_e-001",
+    "title": "SrCuTe$_{2}$O$_{6}$ Structure",
+    "icsd": "32364",
+    "ccdc": null,
     "prototype": "CuO6SrTe2",
     "prototype_tex": "CuO$_{6}$SrTe$_{2}$",
-    "label": "AB6CD2_cP120_213_d_3e_ac_e-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "cP120",
+    "space_group_number": 213,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "x2",
         "y3",
@@ -37,17 +47,8 @@
         0.4197,
         0.5589
     ],
-    "strukturbericht": null,
-    "title": "SrCuTe$_{2}$O$_{6}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB6CD2_cP120_213_d_3e_ac_e-001",
-    "number_of_species": 4,
-    "pearson_symbol": "cP120",
-    "space_group_number": 213,
-    "comments": "We have shifted the origin so that the Sr-I atoms, located on the (4b) (7/8 7/8 7/8) Wyckoff positions by (Chillal, 2020) are now on the (4a) (3/8 3/8 3/8) sites. \n This structure can also be expressed in the enantiomorphic space group $P4_{3}32$ \\#212.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "32364"
+    "comments": "We have shifted the origin so that the Sr-I atoms, located on the (4b) (7/8 7/8 7/8) Wyckoff positions by (Chillal, 2020) are now on the (4a) (3/8 3/8 3/8) sites. \n This structure can also be expressed in the enantiomorphic space group $P4_{3}32$ \\#212."
 }

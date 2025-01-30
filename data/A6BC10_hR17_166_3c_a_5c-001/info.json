@@ -1,9 +1,19 @@
 {
     "uid": "LD13",
+    "label": "A6BC10_hR17_166_3c_a_5c-001",
+    "alias": "A6BC10_hR17_166_3c_a_5c-001",
+    "title": "MnBi$_{6}$Te$_{10}$ Structure",
+    "icsd": "37568",
+    "ccdc": null,
     "prototype": "Bi6MnTe10",
     "prototype_tex": "Bi$_{6}$MnTe$_{10}$",
-    "label": "A6BC10_hR17_166_3c_a_5c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hR17",
+    "space_group_number": 166,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -27,17 +37,8 @@
         0.65081,
         0.58554
     ],
-    "strukturbericht": null,
-    "title": "MnBi$_{6}$Te$_{10}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A6BC10_hR17_166_3c_a_5c-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hR17",
-    "space_group_number": 166,
-    "comments": "The ICSD entry lists $x_{9}$ = 0.4446, while the text of (Aliev, 2019) gives 0.41446.  The difference is large enough that <tt>xprototype</tt> declares the two lattices unmatchable.  The value of 0.41446 gives atomic positions consistent with Fig. 5 of (Alieve, 2019) -- all Bi-Mn-Te layers are terminated by Te surfaces -- so we use that value. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "37568"
+    "comments": "The ICSD entry lists $x_{9}$ = 0.4446, while the text of (Aliev, 2019) gives 0.41446.  The difference is large enough that <tt>xprototype</tt> declares the two lattices unmatchable.  The value of 0.41446 gives atomic positions consistent with Fig. 5 of (Alieve, 2019) -- all Bi-Mn-Te layers are terminated by Te surfaces -- so we use that value. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

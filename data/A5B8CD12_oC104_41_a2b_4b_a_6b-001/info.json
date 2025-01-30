@@ -1,9 +1,19 @@
 {
     "uid": "C7EQ",
+    "label": "A5B8CD12_oC104_41_a2b_4b_a_6b-001",
+    "alias": "A5B8CD12_oC104_41_a2b_4b_a_6b",
+    "title": "Santite (KB$_{5}$O$_{8}\\cdot$4H$_{2}$O, $K3_{5}$) Structure",
+    "icsd": "18211",
+    "ccdc": null,
     "prototype": "B5H8KO12",
     "prototype_tex": "B$_{5}$H$_{8}$KO$_{12}$",
-    "label": "A5B8CD12_oC104_41_a2b_4b_a_6b-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oC104",
+    "space_group_number": 41,
+    "strukturbericht": "K3_5",
+    "strukturbericht_tex": "$K3_{5}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -89,18 +99,8 @@
         0.1707,
         0.7588
     ],
-    "strukturbericht": "K3_5",
-    "title": "Santite (KB$_{5}$O$_{8}\\cdot$4H$_{2}$O, $K3_{5}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$K3_{5}$",
     "compounds": {},
-    "alias": "A5B8CD12_oC104_41_a2b_4b_a_6b",
-    "number_of_species": 4,
-    "pearson_symbol": "oC104",
-    "space_group_number": 41,
-    "comments": "(Zachariasen, 1938) originally determined the structure of this compound without knowing the positions of the hydrogens. They believed the structure to be correctly written as KH$_{2}$(H$_{3}$O)$_{2}$B$_{5}$O$_{10}$. (Gottfried, 1940) gave this the {\\em Strukturbericht} designation $K3_{5}$. (Zachariasen, 1963) did a refinement of the structure, including the hydrogen positions, noting that the structure should properly be written K[B$_{5}$O$_{6}$(OH)$_{4}$]$\\cdot$2H$_{2}$O.  As neither the positions of the heavy atoms nor the space group have changed, we retain the $K3_{5}$ designation, but we give the prototype as KB$_{5}$O$_{8}$$\\cdot$4H$_{2}$O, which seems to be the standard designation even though it is not structurally correct.",
+    "legacy": false,
     "notes": "$K3_{5}$, Santite",
-    "ccdc": null,
-    "icsd": "18211"
+    "comments": "(Zachariasen, 1938) originally determined the structure of this compound without knowing the positions of the hydrogens. They believed the structure to be correctly written as KH$_{2}$(H$_{3}$O)$_{2}$B$_{5}$O$_{10}$. (Gottfried, 1940) gave this the {\\em Strukturbericht} designation $K3_{5}$. (Zachariasen, 1963) did a refinement of the structure, including the hydrogen positions, noting that the structure should properly be written K[B$_{5}$O$_{6}$(OH)$_{4}$]$\\cdot$2H$_{2}$O.  As neither the positions of the heavy atoms nor the space group have changed, we retain the $K3_{5}$ designation, but we give the prototype as KB$_{5}$O$_{8}$$\\cdot$4H$_{2}$O, which seems to be the standard designation even though it is not structurally correct."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "DZ16",
+    "label": "A11BC9_oI84_45_a5c_a_b4c-001",
+    "alias": "A11BC9_oI84_45_a5c_a_b4c-001",
+    "title": "Ca$_{11}$InSb$_{9}$ Structure",
+    "icsd": "42371",
+    "ccdc": null,
     "prototype": "Ca11InSb9",
     "prototype_tex": "Ca$_{11}$InSb$_{9}$",
-    "label": "A11BC9_oI84_45_a5c_a_b4c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oI84",
+    "space_group_number": 45,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -73,17 +83,8 @@
         0.1426,
         0.3053
     ],
-    "strukturbericht": null,
-    "title": "Ca$_{11}$InSb$_{9}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A11BC9_oI84_45_a5c_a_b4c-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oI84",
-    "space_group_number": 45,
-    "comments": "Space group $Iba2$ \\#45 allows an arbitrary placement of the $z$-axis origin.  Here we chose it so that $z_{9} = 1/2$ for the Sb-II site.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "42371"
+    "comments": "Space group $Iba2$ \\#45 allows an arbitrary placement of the $z$-axis origin.  Here we chose it so that $z_{9} = 1/2$ for the Sb-II site."
 }

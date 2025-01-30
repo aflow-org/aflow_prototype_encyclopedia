@@ -1,9 +1,19 @@
 {
     "uid": "KM59",
+    "label": "A9B3C_hP26_194_hk_h_a-001",
+    "alias": "A9B3C_hP26_194_hk_h_a",
+    "title": "Al$_{9}$Mn$_{3}$Si ($E9_{c}$) Structure",
+    "icsd": "76249",
+    "ccdc": null,
     "prototype": "Al9Mn3Si",
     "prototype_tex": "Al$_{9}$Mn$_{3}$Si",
-    "label": "A9B3C_hP26_194_hk_h_a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP26",
+    "space_group_number": 194,
+    "strukturbericht": "E9_c",
+    "strukturbericht_tex": "$E9_{c}$",
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -19,18 +29,8 @@
         0.2006,
         0.933
     ],
-    "strukturbericht": "E9_c",
-    "title": "Al$_{9}$Mn$_{3}$Si ($E9_{c}$) Structure",
-    "part": 2,
-    "legacy": false,
-    "strukturbericht_tex": "$E9_{c}$",
     "compounds": {},
-    "alias": "A9B3C_hP26_194_hk_h_a",
-    "number_of_species": 3,
-    "pearson_symbol": "hP26",
-    "space_group_number": 194,
-    "comments": "The previous version of this page (Hicks, 2019) used scattered sources for the input data.  We have now updated this page using the complete data from (Robinson, 1952). \n This structure is also referred to as $\\beta$(AlMnSi).",
+    "legacy": false,
     "notes": "$E9_{c}$",
-    "ccdc": null,
-    "icsd": "76249"
+    "comments": "The previous version of this page (Hicks, 2019) used scattered sources for the input data.  We have now updated this page using the complete data from (Robinson, 1952). \n This structure is also referred to as $\\beta$(AlMnSi)."
 }

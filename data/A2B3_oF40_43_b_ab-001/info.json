@@ -1,9 +1,19 @@
 {
     "uid": "X02L",
+    "label": "A2B3_oF40_43_b_ab-001",
+    "alias": "A2B3_oF40_43_b_ab",
+    "title": "Ag$_{2}$O$_{3}$ Structure",
+    "icsd": "59193",
+    "ccdc": null,
     "prototype": "Ag2O3",
     "prototype_tex": "Ag$_{2}$O$_{3}$",
-    "label": "A2B3_oF40_43_b_ab-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oF40",
+    "space_group_number": 43,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -27,17 +37,8 @@
         0.7333,
         0.6153
     ],
-    "strukturbericht": null,
-    "title": "Ag$_{2}$O$_{3}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B3_oF40_43_b_ab",
-    "number_of_species": 2,
-    "pearson_symbol": "oF40",
-    "space_group_number": 43,
-    "comments": "This structure is a distortion of the \\href{current_web_home_dir/A3B2_cP10_224_d_b-001}{D5$_{5}$ Ag$_{2}$O$_{3}$ structure (A2B3\\_cP10\\_224\\_b\\_d)}, although (Standke, 1986) does not seem to be aware of the earlier work.  This is most likely closer to the correct structure for Ag$_{2}$O$_{3}$ than the D5$_{5}$ structure is.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "59193"
+    "comments": "This structure is a distortion of the \\href{current_web_home_dir/A3B2_cP10_224_d_b-001}{D5$_{5}$ Ag$_{2}$O$_{3}$ structure (A2B3\\_cP10\\_224\\_b\\_d)}, although (Standke, 1986) does not seem to be aware of the earlier work.  This is most likely closer to the correct structure for Ag$_{2}$O$_{3}$ than the D5$_{5}$ structure is."
 }

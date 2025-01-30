@@ -1,9 +1,19 @@
 {
     "uid": "MKFS",
+    "label": "A2B3_hP15_152_c_ac-001",
+    "alias": "A2B3_hP15_152_c_ac-001",
+    "title": "Trigonal B$_{2}$O$_{3}$ Structure",
+    "icsd": "51575",
+    "ccdc": null,
     "prototype": "B2O3",
     "prototype_tex": "B$_{2}$O$_{3}$",
-    "label": "A2B3_hP15_152_c_ac-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP15",
+    "space_group_number": 152,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -25,17 +35,8 @@
         0.1477,
         0.1282
     ],
-    "strukturbericht": null,
-    "title": "Trigonal B$_{2}$O$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B3_hP15_152_c_ac-001",
-    "number_of_species": 2,
-    "pearson_symbol": "hP15",
-    "space_group_number": 152,
-    "comments": "This is the ground state structure of B$_{2}$O$_{3}$.  At approximately 2 GPa it transforms to a high-pressure \\href{current_web_home_dir/A2B3_oC20_36_b_ab-001}{orthorhombic phase}. \n Originally this phase was thought to be in space group $P3_{1}$ \\#144, but reanalysis by (Effenberger, 2001) showed that the higher symmetry group matches that data at least as well.  For more history on the determination of the structure of B$_{2}$O$_{3}$, see (Prewitt, 1968). \n Space group $P3_{2}21$ \\#154 is the enantiomorph of $P3_{1}21$ \\#152, so the mirror image of this structure could exist in that space group as well.",
+    "legacy": false,
     "notes": "Trigonal",
-    "ccdc": null,
-    "icsd": "51575"
+    "comments": "This is the ground state structure of B$_{2}$O$_{3}$.  At approximately 2 GPa it transforms to a high-pressure \\href{current_web_home_dir/A2B3_oC20_36_b_ab-001}{orthorhombic phase}. \n Originally this phase was thought to be in space group $P3_{1}$ \\#144, but reanalysis by (Effenberger, 2001) showed that the higher symmetry group matches that data at least as well.  For more history on the determination of the structure of B$_{2}$O$_{3}$, see (Prewitt, 1968). \n Space group $P3_{2}21$ \\#154 is the enantiomorph of $P3_{1}21$ \\#152, so the mirror image of this structure could exist in that space group as well."
 }

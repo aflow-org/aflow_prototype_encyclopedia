@@ -1,9 +1,19 @@
 {
     "uid": "6EHC",
+    "label": "A4B4C4DE2_tP30_136_i_j_i_a_f-001",
+    "alias": "sigma_tP30_136_bf2ij",
+    "title": "$\\sigma$-CrFe ($D8_{b}$) Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "Cr4Fe4Ni4PdRh2",
     "prototype_tex": "Cr$_{4}$Fe$_{4}$Ni$_{4}$PdRh$_{2}$",
-    "label": "A4B4C4DE2_tP30_136_i_j_i_a_f-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "tP30",
+    "space_group_number": 136,
+    "strukturbericht": "D8_b",
+    "strukturbericht_tex": "$D8_{b}$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -25,18 +35,8 @@
         0.18267,
         0.25202
     ],
-    "strukturbericht": "D8_b",
-    "title": "$\\sigma$-CrFe ($D8_{b}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$D8_{b}$",
     "compounds": {},
-    "alias": "sigma_tP30_136_bf2ij",
-    "number_of_species": 5,
-    "pearson_symbol": "tP30",
-    "space_group_number": 136,
-    "comments": "The atoms in this lattice are completely disordered, that is, the Cr and Fe atoms are distributed randomly on the sites in the unit cell. This seems to be the case for all of the compounds listed. We have chosen several of the atoms near Fe and Cr in the periodic table to color the above pictures. Except for a shift of the origin, this structure is crystallographically equivalent to \\href{current_web_home_dir/A_tP30_136_af2ij-001}{$\\beta$-U ($A_{b}$)}. \n We use the data for a sample of Cr$_{0.48}$Fe$_{0.52}$ annealed at 923K. \n Previously we had put the atom we labeled ``Pd'' on the (2b) site rather than the (2a) site, making the Pd-Rh distance too short.  This is the corrected version.  We thank Brandon Bocklund for pointing this out. \n Due to an origin shift, literature may list different Wyckoff designations.  For instance, the structure in \\href{https://journals.aps.org/prb/abstract/10.1103/PhysRevB.64.144103}{(Berne, 2001)} lists a different Wyckoff sequence, af2ij, however it is structurally equivalent to this prototype and can be verified with \\href{https://www.aflow.org/xtal-finder.html}{AFLOW-XtalFinder}.",
+    "legacy": false,
     "notes": "$D8_{b}$",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "The atoms in this lattice are completely disordered, that is, the Cr and Fe atoms are distributed randomly on the sites in the unit cell. This seems to be the case for all of the compounds listed. We have chosen several of the atoms near Fe and Cr in the periodic table to color the above pictures. Except for a shift of the origin, this structure is crystallographically equivalent to \\href{current_web_home_dir/A_tP30_136_af2ij-001}{$\\beta$-U ($A_{b}$)}. \n We use the data for a sample of Cr$_{0.48}$Fe$_{0.52}$ annealed at 923K. \n Previously we had put the atom we labeled ``Pd'' on the (2b) site rather than the (2a) site, making the Pd-Rh distance too short.  This is the corrected version.  We thank Brandon Bocklund for pointing this out. \n Due to an origin shift, literature may list different Wyckoff designations.  For instance, the structure in \\href{https://journals.aps.org/prb/abstract/10.1103/PhysRevB.64.144103}{(Berne, 2001)} lists a different Wyckoff sequence, af2ij, however it is structurally equivalent to this prototype and can be verified with \\href{https://www.aflow.org/xtal-finder.html}{AFLOW-XtalFinder}."
 }

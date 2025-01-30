@@ -1,9 +1,19 @@
 {
     "uid": "JMLC",
+    "label": "A7B2C2_mC44_15_e3f_f_f-001",
+    "alias": "A7B2C2_mC44_15_e3f_f_f",
+    "title": "$\\alpha$-Zn$_{2}$V$_{2}$O$_{7}$ Structure",
+    "icsd": "2886",
+    "ccdc": null,
     "prototype": "O7V2Zn2",
     "prototype_tex": "O$_{7}$V$_{2}$Zn$_{2}$",
-    "label": "A7B2C2_mC44_15_e3f_f_f-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mC44",
+    "space_group_number": 15,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -47,17 +57,8 @@
         0.5739,
         0.51955
     ],
-    "strukturbericht": null,
-    "title": "$\\alpha$-Zn$_{2}$V$_{2}$O$_{7}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A7B2C2_mC44_15_e3f_f_f",
-    "number_of_species": 3,
-    "pearson_symbol": "mC44",
-    "space_group_number": 15,
+    "legacy": false,
     "notes": "$\\alpha$-Zn$_{2}$V$_{2}$O$_{7}$",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "2886"
+    "comments": null
 }

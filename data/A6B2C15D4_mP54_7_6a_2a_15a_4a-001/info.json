@@ -1,9 +1,19 @@
 {
     "uid": "5V2T",
+    "label": "A6B2C15D4_mP54_7_6a_2a_15a_4a-001",
+    "alias": "A6B2C15D4_mP54_7_6a_2a_15a_4a",
+    "title": "Na$_{2}$Ca$_{6}$Si$_{4}$O$_{15}$ Structure",
+    "icsd": "256226",
+    "ccdc": null,
     "prototype": "Ca6Na2O15Si4",
     "prototype_tex": "Ca$_{6}$Na$_{2}$O$_{15}$Si$_{4}$",
-    "label": "A6B2C15D4_mP54_7_6a_2a_15a_4a-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "mP54",
+    "space_group_number": 7,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -177,17 +187,8 @@
         0.5304,
         0.9794
     ],
-    "strukturbericht": null,
-    "title": "Na$_{2}$Ca$_{6}$Si$_{4}$O$_{15}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A6B2C15D4_mP54_7_6a_2a_15a_4a",
-    "number_of_species": 4,
-    "pearson_symbol": "mP54",
-    "space_group_number": 7,
-    "comments": "Although this structure was formed at 1300$^{\\circ}$C, the data was taken after cooling to room temperature, 295K. \n The true composition of the Ca-I site is Ca$_{0.84}$Na$_{0.16}$, and the Na-I site has composition Na$_{0.84}$Ca$_{0.16}$. \n The Si-III and Si-IV atoms share the O-X atom between them, accounting for the ``missing'' oxygen atom.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "256226"
+    "comments": "Although this structure was formed at 1300$^{\\circ}$C, the data was taken after cooling to room temperature, 295K. \n The true composition of the Ca-I site is Ca$_{0.84}$Na$_{0.16}$, and the Na-I site has composition Na$_{0.84}$Ca$_{0.16}$. \n The Si-III and Si-IV atoms share the O-X atom between them, accounting for the ``missing'' oxygen atom."
 }

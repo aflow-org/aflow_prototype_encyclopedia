@@ -1,9 +1,19 @@
 {
     "uid": "F3SY",
+    "label": "A2BC6_hP9_164_d_a_i-001",
+    "alias": "A2BC6_hP9_164_d_a_i",
+    "title": "K$_{2}$Pt(SCN)$_{6}$ ($H6_{3}$) Structure",
+    "icsd": "35511",
+    "ccdc": null,
     "prototype": "K2Pt(SCN)6",
     "prototype_tex": "K$_{2}$Pt(SCN)$_{6}$",
-    "label": "A2BC6_hP9_164_d_a_i-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP9",
+    "space_group_number": 164,
+    "strukturbericht": "H6_3",
+    "strukturbericht_tex": "$H6_{3}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -17,18 +27,8 @@
         0.135,
         0.1125
     ],
-    "strukturbericht": "H6_3",
-    "title": "K$_{2}$Pt(SCN)$_{6}$ ($H6_{3}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$H6_{3}$",
     "compounds": {},
-    "alias": "A2BC6_hP9_164_d_a_i",
-    "number_of_species": 3,
-    "pearson_symbol": "hP9",
-    "space_group_number": 164,
-    "comments": "The structure here must be regarded at tentative.  Even the ``official'' labeling of the structure is uncertain: \n (Hendricks, 1928) made the only structural study of this compound that we have been able to find.  Unfortunately, they were not able to determine the positions of the carbon and silicon atoms.  Presumably (SCN)$^{-}$ forms a straight-line ionic system making a roughly 105$^\\circ$ angle with the Pt-S line, as it does in the hydrated form \\href{current_web_home_dir/A6B4C2D6E2FG6_mP54_14_3e_2e_e_3e_e_a_3e-001}{K$_{2}$Pt(SCN)$_{6} \\cdot 2$H$_{2}$O}. \n (Hendricks, 1928) were also uncertain about the space group, giving two possibilities: $P\\overline{3}1m$ \\#162 and $P\\overline{3}m1$ \\#164.  They prefer the later, so we present this as a $P\\overline{3}m1$. \n The positions of the potassium and sulfur ions are not well determined.  (Hendricks, 1928) give $z_{2} \\approx 0.5$, $x_{3} = 0.10-0.17$, and $z_{3} = 0.09-0.135$.  We used the average values for the S-III coordinates, so our structure differs slightly from the ICSD. \n While (Ewald, 1931) gave this the {\\em Strukturbericht} designation $H6_{3}$, (Hermann, 1937) lists it as $I1_{3}$, ``previously $H6_{3}$.'' However, they then go on to describe structures of the form SrCl$_{2}$(H$_{2}$O)$_{6}$, with a very different c/a ratio. \n (Ewald, 1931) originally used the $H6$ {\\em Strukturbericht} category for compounds of the form B(X)$_{6}$, but (Herman, 1937) and following volumes use both $I$ and $J$ for B(X)$_{6}$, sometimes changing a previous $H6$ designation to $I1$ or $J1$.  In general we will follow this change in notation, but given the striking difference in structures between K$_{2}$Pt(SCN)$_{6}$ and CaCl$_{2}$(H$_{2}$O)$_{6}$ we will continue to uses $H6_{3}$ for K$_{2}$Pt(SCN)$_{6}$  and \\href{current_web_home_dir/A2B6C_hP9_162_c_k_b-001}{$I1_{3}$ for CaCl$_{2}$(H$_{2}$O)$_{6}$}.",
+    "legacy": false,
     "notes": "$H6_{3}$",
-    "ccdc": null,
-    "icsd": "35511"
+    "comments": "The structure here must be regarded at tentative.  Even the ``official'' labeling of the structure is uncertain: \n (Hendricks, 1928) made the only structural study of this compound that we have been able to find.  Unfortunately, they were not able to determine the positions of the carbon and silicon atoms.  Presumably (SCN)$^{-}$ forms a straight-line ionic system making a roughly 105$^\\circ$ angle with the Pt-S line, as it does in the hydrated form \\href{current_web_home_dir/A6B4C2D6E2FG6_mP54_14_3e_2e_e_3e_e_a_3e-001}{K$_{2}$Pt(SCN)$_{6} \\cdot 2$H$_{2}$O}. \n (Hendricks, 1928) were also uncertain about the space group, giving two possibilities: $P\\overline{3}1m$ \\#162 and $P\\overline{3}m1$ \\#164.  They prefer the later, so we present this as a $P\\overline{3}m1$. \n The positions of the potassium and sulfur ions are not well determined.  (Hendricks, 1928) give $z_{2} \\approx 0.5$, $x_{3} = 0.10-0.17$, and $z_{3} = 0.09-0.135$.  We used the average values for the S-III coordinates, so our structure differs slightly from the ICSD. \n While (Ewald, 1931) gave this the {\\em Strukturbericht} designation $H6_{3}$, (Hermann, 1937) lists it as $I1_{3}$, ``previously $H6_{3}$.'' However, they then go on to describe structures of the form SrCl$_{2}$(H$_{2}$O)$_{6}$, with a very different c/a ratio. \n (Ewald, 1931) originally used the $H6$ {\\em Strukturbericht} category for compounds of the form B(X)$_{6}$, but (Herman, 1937) and following volumes use both $I$ and $J$ for B(X)$_{6}$, sometimes changing a previous $H6$ designation to $I1$ or $J1$.  In general we will follow this change in notation, but given the striking difference in structures between K$_{2}$Pt(SCN)$_{6}$ and CaCl$_{2}$(H$_{2}$O)$_{6}$ we will continue to uses $H6_{3}$ for K$_{2}$Pt(SCN)$_{6}$  and \\href{current_web_home_dir/A2B6C_hP9_162_c_k_b-001}{$I1_{3}$ for CaCl$_{2}$(H$_{2}$O)$_{6}$}."
 }

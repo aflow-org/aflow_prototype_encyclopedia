@@ -1,9 +1,19 @@
 {
     "uid": "CBJ0",
+    "label": "A8B11_tP76_92_2a3b_a5b-001",
+    "alias": "A8B11_tP76_92_2a3b_a5b-001",
+    "title": "Maucherite (Ni$_{11}$As$_{8}$) Structure",
+    "icsd": "34853",
+    "ccdc": null,
     "prototype": "As8Ni11",
     "prototype_tex": "As$_{8}$Ni$_{11}$",
-    "label": "A8B11_tP76_92_2a3b_a5b-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tP76",
+    "space_group_number": 92,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -65,17 +75,8 @@
         0.69,
         0.077
     ],
-    "strukturbericht": null,
-    "title": "Maucherite (Ni$_{11}$As$_{8}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A8B11_tP76_92_2a3b_a5b-001",
-    "number_of_species": 2,
-    "pearson_symbol": "tP76",
-    "space_group_number": 92,
+    "legacy": false,
     "notes": "Maucherite",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "34853"
+    "comments": null
 }

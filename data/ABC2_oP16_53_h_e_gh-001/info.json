@@ -1,9 +1,19 @@
 {
     "uid": "AVNP",
+    "label": "ABC2_oP16_53_h_e_gh-001",
+    "alias": "ABC2_oP16_53_h_e_gh",
+    "title": "TaNiTe$_{2}$ Structure",
+    "icsd": "71063",
+    "ccdc": null,
     "prototype": "NiTaTe2",
     "prototype_tex": "NiTaTe$_{2}$",
-    "label": "ABC2_oP16_53_h_e_gh-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP16",
+    "space_group_number": 53,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -25,17 +35,8 @@
         0.776,
         0.2507
     ],
-    "strukturbericht": null,
-    "title": "TaNiTe$_{2}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC2_oP16_53_h_e_gh",
-    "number_of_species": 3,
-    "pearson_symbol": "oP16",
-    "space_group_number": 53,
-    "comments": "Our original published version of this structure (Hicks, 2019) has incorrect lattice parameters.  These are corrected here, and now show the layered structure of TaNiTe$_{2}$. \n The origin of the $y$-axis has been shifted by $b/2$ from that of (Tremel, 1991), moving the tantalum atoms from the (4f) Wyckoff position to (4e).",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "71063"
+    "comments": "Our original published version of this structure (Hicks, 2019) has incorrect lattice parameters.  These are corrected here, and now show the layered structure of TaNiTe$_{2}$. \n The origin of the $y$-axis has been shifted by $b/2$ from that of (Tremel, 1991), moving the tantalum atoms from the (4f) Wyckoff position to (4e)."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "F0CN",
+    "label": "ABC_hP6_194_c_d_a-001",
+    "alias": "ABC_hP6_194_c_d_a",
+    "title": "LiBC Structure",
+    "icsd": "78731",
+    "ccdc": null,
     "prototype": "BCLi",
     "prototype_tex": "BCLi",
-    "label": "ABC_hP6_194_c_d_a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP6",
+    "space_group_number": 194,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a"
     ],
@@ -11,17 +21,8 @@
         2.752,
         2.56468
     ],
-    "strukturbericht": null,
-    "title": "LiBC Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC_hP6_194_c_d_a",
-    "number_of_species": 3,
-    "pearson_symbol": "hP6",
-    "space_group_number": 194,
-    "comments": "This is the parent of the Li$_{1-x}$BC Structure.  The ICSD lists several different structure types for these compounds, but the Wykcoff positions are fixed so the only difference between the structures are the lattice constants.  We lump all these structures together under one prototype. The order of the elements is alphabetical, we do not distinguish which element is on the (2a) site.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "78731"
+    "comments": "This is the parent of the Li$_{1-x}$BC Structure.  The ICSD lists several different structure types for these compounds, but the Wykcoff positions are fixed so the only difference between the structures are the lattice constants.  We lump all these structures together under one prototype. The order of the elements is alphabetical, we do not distinguish which element is on the (2a) site."
 }

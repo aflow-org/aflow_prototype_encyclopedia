@@ -1,9 +1,19 @@
 {
     "uid": "SAL5",
+    "label": "AB_oC8_36_a_a-001",
+    "alias": "AB_oC8_36_a_a",
+    "title": "Low Temperature HCl Structure",
+    "icsd": "27037",
+    "ccdc": null,
     "prototype": "ClH",
     "prototype_tex": "ClH",
-    "label": "AB_oC8_36_a_a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oC8",
+    "space_group_number": 36,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -21,17 +31,8 @@
         0.081,
         0.83
     ],
-    "strukturbericht": null,
-    "title": "Low Temperature HCl Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_oC8_36_a_a",
-    "number_of_species": 2,
-    "pearson_symbol": "oC8",
-    "space_group_number": 36,
-    "comments": "We use the 77.4K data for deuterium chloride from (S\\'{a}ndor, 1967).  They gave the data in the $Bb2_{1}m$ setting of space group \\#36.  We used FINDSYM to transform this to the standard $Cmc2_{1}$ setting.",
+    "legacy": false,
     "notes": "LT",
-    "ccdc": null,
-    "icsd": "27037"
+    "comments": "We use the 77.4K data for deuterium chloride from (S\\'{a}ndor, 1967).  They gave the data in the $Bb2_{1}m$ setting of space group \\#36.  We used FINDSYM to transform this to the standard $Cmc2_{1}$ setting."
 }

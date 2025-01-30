@@ -1,9 +1,19 @@
 {
     "uid": "2RFK",
+    "label": "ABCD3_oP24_31_2a_b_2a_2a2b-001",
+    "alias": "ABCD3_oP24_31_2a_b_2a_2a2b-001",
+    "title": "Seligmannite (PbCuAsS$_{3}$) Structure",
+    "icsd": "14304",
+    "ccdc": null,
     "prototype": "AsCuPbS3",
     "prototype_tex": "AsCuPbS$_{3}$",
-    "label": "ABCD3_oP24_31_2a_b_2a_2a2b-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oP24",
+    "space_group_number": 31,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -55,17 +65,8 @@
         0.1042,
         0.6434
     ],
-    "strukturbericht": null,
-    "title": "Seligmannite (PbCuAsS$_{3}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABCD3_oP24_31_2a_b_2a_2a2b-001",
-    "number_of_species": 4,
-    "pearson_symbol": "oP24",
-    "space_group_number": 31,
-    "comments": "(Edenharter, 1970) give this structure in setting $Pn2_{1}$ of space group \\#31.  We rotated the structure, taking $a \\rightarrow b \\rightarrow c \\rightarrow a$ to transform this to the standard $Pmn2_{1}$ setting.",
+    "legacy": false,
     "notes": "Seligmannite",
-    "ccdc": null,
-    "icsd": "14304"
+    "comments": "(Edenharter, 1970) give this structure in setting $Pn2_{1}$ of space group \\#31.  We rotated the structure, taking $a \\rightarrow b \\rightarrow c \\rightarrow a$ to transform this to the standard $Pmn2_{1}$ setting."
 }

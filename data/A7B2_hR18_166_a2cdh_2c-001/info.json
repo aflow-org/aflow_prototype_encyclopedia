@@ -1,9 +1,19 @@
 {
     "uid": "VGKE",
+    "label": "A7B2_hR18_166_a2cdh_2c-001",
+    "alias": "A7B2_hR18_166_a2cdh_2c-001",
+    "title": "Er$_{2}$Co$_{7}$ Structure",
+    "icsd": "102366",
+    "ccdc": null,
     "prototype": "Co7Er2",
     "prototype_tex": "Co$_{7}$Er$_{2}$",
-    "label": "A7B2_hR18_166_a2cdh_2c-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hR18",
+    "space_group_number": 166,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -23,17 +33,8 @@
         0.111,
         0.611
     ],
-    "strukturbericht": null,
-    "title": "Er$_{2}$Co$_{7}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A7B2_hR18_166_a2cdh_2c-001",
-    "number_of_species": 2,
-    "pearson_symbol": "hR18",
-    "space_group_number": 166,
-    "comments": "The ICSD lists Gd$_{2}$Co$_{7}$ as the prototype, but (Ostertag, 1967) only gives atomic coordinates for Er$_{2}$Co$_{7}$, so we will use that instead. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "102366"
+    "comments": "The ICSD lists Gd$_{2}$Co$_{7}$ as the prototype, but (Ostertag, 1967) only gives atomic coordinates for Er$_{2}$Co$_{7}$, so we will use that instead. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "6NJM",
+    "label": "A3B2C14D3_hR22_166_d_ab_c2h_e-001",
+    "alias": "A3B2C14D3_hR22_166_d_ab_c2h_e-001",
+    "title": "Mn$_{2}$La$_{3}$Sb$_{3}$O$_{14}$ Structure",
+    "icsd": "191137",
+    "ccdc": null,
     "prototype": "La3Mn2O14Sb3",
     "prototype_tex": "La$_{3}$Mn$_{2}$O$_{14}$Sb$_{3}$",
-    "label": "A3B2C14D3_hR22_166_d_ab_c2h_e-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "hR22",
+    "space_group_number": 166,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -21,17 +31,8 @@
         0.1429,
         -0.0551
     ],
-    "strukturbericht": null,
-    "title": "Mn$_{2}$La$_{3}$Sb$_{3}$O$_{14}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B2C14D3_hR22_166_d_ab_c2h_e-001",
-    "number_of_species": 4,
-    "pearson_symbol": "hR22",
-    "space_group_number": 166,
-    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "191137"
+    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

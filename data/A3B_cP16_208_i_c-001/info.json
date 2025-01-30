@@ -1,9 +1,19 @@
 {
     "uid": "CCPW",
+    "label": "A3B_cP16_208_i_c-001",
+    "alias": "A3B_cP16_208_j_b",
+    "title": "H$_{3}$P Structure",
+    "icsd": "24498",
+    "ccdc": null,
     "prototype": "H3P",
     "prototype_tex": "H$_{3}$P",
-    "label": "A3B_cP16_208_i_c-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cP16",
+    "space_group_number": 208,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "x2"
     ],
@@ -11,17 +21,8 @@
         6.31,
         0.684
     ],
-    "strukturbericht": null,
-    "title": "H$_{3}$P Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B_cP16_208_j_b",
-    "number_of_species": 2,
-    "pearson_symbol": "cP16",
-    "space_group_number": 208,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "24498"
+    "comments": null
 }

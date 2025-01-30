@@ -1,9 +1,19 @@
 {
     "uid": "WTE4",
+    "label": "AB3_oP16_19_a_3a-001",
+    "alias": "AB3_oP16_19_a_3a",
+    "title": "H$_{3}$Cl (100 GPa) Structure",
+    "icsd": "679353",
+    "ccdc": null,
     "prototype": "Cl3H",
     "prototype_tex": "Cl$_{3}$H",
-    "label": "AB3_oP16_19_a_3a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP16",
+    "space_group_number": 19,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -37,17 +47,8 @@
         0.624,
         0.727
     ],
-    "strukturbericht": null,
-    "title": "H$_{3}$Cl (100 GPa) Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB3_oP16_19_a_3a",
-    "number_of_species": 2,
-    "pearson_symbol": "oP16",
-    "space_group_number": 19,
-    "comments": "This structure was found via first-principles calculations.  The data presented here was computed at a pressure of 100 GPa.",
+    "legacy": false,
     "notes": "HP, Theory",
-    "ccdc": null,
-    "icsd": "679353"
+    "comments": "This structure was found via first-principles calculations.  The data presented here was computed at a pressure of 100 GPa."
 }

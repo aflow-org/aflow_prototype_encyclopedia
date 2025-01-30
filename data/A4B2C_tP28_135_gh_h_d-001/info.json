@@ -1,9 +1,19 @@
 {
     "uid": "20MM",
+    "label": "A4B2C_tP28_135_gh_h_d-001",
+    "alias": "A4B2C_tP28_135_gh_h_d",
+    "title": "ZnSb$_{2}$O$_{4}$ Structure",
+    "icsd": "647391",
+    "ccdc": null,
     "prototype": "O4Sb2Zn",
     "prototype_tex": "O$_{4}$Sb$_{2}$Zn",
-    "label": "A4B2C_tP28_135_gh_h_d-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP28",
+    "space_group_number": 135,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -21,17 +31,8 @@
         0.167,
         0.175
     ],
-    "strukturbericht": null,
-    "title": "ZnSb$_{2}$O$_{4}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B2C_tP28_135_gh_h_d",
-    "number_of_species": 3,
-    "pearson_symbol": "tP28",
-    "space_group_number": 135,
-    "comments": "The ICSD assigns these structures to the \\href{current_web_home_dir/A4B3_tP28_135_gh_dh-002}{Pb$_{3}$O$_{4}$-T prototype}. We moved the tenary compounds over to this structure.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "647391"
+    "comments": "The ICSD assigns these structures to the \\href{current_web_home_dir/A4B3_tP28_135_gh_dh-002}{Pb$_{3}$O$_{4}$-T prototype}. We moved the tenary compounds over to this structure."
 }

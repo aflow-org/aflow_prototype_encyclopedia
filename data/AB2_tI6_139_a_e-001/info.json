@@ -1,9 +1,19 @@
 {
     "uid": "NG7F",
+    "label": "AB2_tI6_139_a_e-001",
+    "alias": "AB2_tI6_139_a_e",
+    "title": "MoSi$_{2}$ ($C11_{b}$) Structure",
+    "icsd": "85756",
+    "ccdc": null,
     "prototype": "MoSi2",
     "prototype_tex": "MoSi$_{2}$",
-    "label": "AB2_tI6_139_a_e-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tI6",
+    "space_group_number": 139,
+    "strukturbericht": "C11_b",
+    "strukturbericht_tex": "$C11_{b}$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2"
@@ -13,18 +23,8 @@
         2.44754,
         0.3353
     ],
-    "strukturbericht": "C11_b",
-    "title": "MoSi$_{2}$ ($C11_{b}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$C11_{b}$",
     "compounds": {},
-    "alias": "AB2_tI6_139_a_e",
-    "number_of_species": 2,
-    "pearson_symbol": "tI6",
-    "space_group_number": 139,
-    "comments": "When $c=3a$ and $z_{2}=1/3$ the atoms are on the sites of \\href{current_web_home_dir/A_cI2_229_a-001}{a body-centered cubic ($A2$) lattice}. For MoSi$_{2}$ itself, (Harada, 1998) gives $c/a = 2.45$ and $z_{2}=0.3353$. Other compounds in this structure have very different values of $c/a$ and even $z_{2}$.",
+    "legacy": false,
     "notes": "$C11_{b}$",
-    "ccdc": null,
-    "icsd": "85756"
+    "comments": "When $c=3a$ and $z_{2}=1/3$ the atoms are on the sites of \\href{current_web_home_dir/A_cI2_229_a-001}{a body-centered cubic ($A2$) lattice}. For MoSi$_{2}$ itself, (Harada, 1998) gives $c/a = 2.45$ and $z_{2}=0.3353$. Other compounds in this structure have very different values of $c/a$ and even $z_{2}$."
 }

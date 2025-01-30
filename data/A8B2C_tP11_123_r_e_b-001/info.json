@@ -1,9 +1,19 @@
 {
     "uid": "QEVQ",
+    "label": "A8B2C_tP11_123_r_e_b-001",
+    "alias": "A8B2C_tP11_123_r_f_a",
+    "title": "$E6_{1}$ [Sr(OH)$_{2}$(H$_{2}$O)$_{8}$] Structure ({\\em Obsolete})",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "(H2O)8(OH)2Sr",
     "prototype_tex": "(H$_{2}$O)$_{8}$(OH)$_{2}$Sr",
-    "label": "A8B2C_tP11_123_r_e_b-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP11",
+    "space_group_number": 123,
+    "strukturbericht": "E6_1",
+    "strukturbericht_tex": "$E6_{1}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -15,18 +25,8 @@
         0.29,
         0.75
     ],
-    "strukturbericht": "E6_1",
-    "title": "$E6_{1}$ [Sr(OH)$_{2}$(H$_{2}$O)$_{8}$] Structure ({\\em Obsolete})",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$E6_{1}$",
     "compounds": {},
-    "alias": "A8B2C_tP11_123_r_f_a",
-    "number_of_species": 3,
-    "pearson_symbol": "tP11",
-    "space_group_number": 123,
-    "comments": "This structure was designated $E6_{1}$ by (Hermann, 1937).  It has been superseded by \\href{current_web_home_dir/A18B10C_tP116_130_2c4g_2c2g_a-001}{the structure determined by (Ricci, 2005).} We present it for historical interest.",
+    "legacy": false,
     "notes": "$E6_{1}$, ({\\em Obsolete})",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "This structure was designated $E6_{1}$ by (Hermann, 1937).  It has been superseded by \\href{current_web_home_dir/A18B10C_tP116_130_2c4g_2c2g_a-001}{the structure determined by (Ricci, 2005).} We present it for historical interest."
 }

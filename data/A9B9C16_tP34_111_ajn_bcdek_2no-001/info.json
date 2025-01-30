@@ -1,9 +1,19 @@
 {
     "uid": "2KD6",
+    "label": "A9B9C16_tP34_111_ajn_bcdek_2no-001",
+    "alias": "A9B9C16_tP34_111_ajn_bcdek_2no-001",
+    "title": "Mooihoekite (Cu$_{9}$Fe$_{9}$S$_{16}$) Structure",
+    "icsd": "2649",
+    "ccdc": null,
     "prototype": "Cu9Fe9S16",
     "prototype_tex": "Cu$_{9}$Fe$_{9}$S$_{16}$",
-    "label": "A9B9C16_tP34_111_ajn_bcdek_2no-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP34",
+    "space_group_number": 111,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x6",
@@ -33,17 +43,8 @@
         0.1228,
         0.7566
     ],
-    "strukturbericht": null,
-    "title": "Mooihoekite (Cu$_{9}$Fe$_{9}$S$_{16}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A9B9C16_tP34_111_ajn_bcdek_2no-001",
-    "number_of_species": 3,
-    "pearson_symbol": "tP34",
-    "space_group_number": 111,
-    "comments": "We have shifted the origin by $a/2 (\\hat{x} + \\hat{y})$ from that used by (Hall, 1973).",
+    "legacy": false,
     "notes": "Mooihoekite",
-    "ccdc": null,
-    "icsd": "2649"
+    "comments": "We have shifted the origin by $a/2 (\\hat{x} + \\hat{y})$ from that used by (Hall, 1973)."
 }

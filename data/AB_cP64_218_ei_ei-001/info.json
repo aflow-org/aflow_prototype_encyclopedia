@@ -1,9 +1,19 @@
 {
     "uid": "RUTB",
+    "label": "AB_cP64_218_ei_ei-001",
+    "alias": "AB_cP64_218_ei_ei-001",
+    "title": "KGe Structure",
+    "icsd": "43515",
+    "ccdc": null,
     "prototype": "GeK",
     "prototype_tex": "GeK",
-    "label": "AB_cP64_218_ei_ei-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cP64",
+    "space_group_number": 218,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "x1",
         "x2",
@@ -25,17 +35,8 @@
         0.142,
         0.064
     ],
-    "strukturbericht": null,
-    "title": "KGe Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_cP64_218_ei_ei-001",
-    "number_of_species": 2,
-    "pearson_symbol": "cP64",
-    "space_group_number": 218,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "43515"
+    "comments": null
 }

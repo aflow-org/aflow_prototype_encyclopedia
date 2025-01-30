@@ -1,9 +1,19 @@
 {
     "uid": "1P80",
+    "label": "A2B3_tI160_142_deg_3g-001",
+    "alias": "A2B3_tI160_142_deg_3g",
+    "title": "Cd$_{3}$As$_{2}$ Structure",
+    "icsd": "238075",
+    "ccdc": null,
     "prototype": "As2Cd3",
     "prototype_tex": "As$_{2}$Cd$_{3}$",
-    "label": "A2B3_tI160_142_deg_3g-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tI160",
+    "space_group_number": 142,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -39,17 +49,8 @@
         0.1061,
         0.06251
     ],
-    "strukturbericht": null,
-    "title": "Cd$_{3}$As$_{2}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B3_tI160_142_deg_3g",
-    "number_of_species": 2,
-    "pearson_symbol": "tI160",
-    "space_group_number": 142,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "238075"
+    "comments": null
 }

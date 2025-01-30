@@ -1,9 +1,19 @@
 {
     "uid": "BGS4",
+    "label": "AB4CD_hR42_146_2b_8b_2b_2b-001",
+    "alias": "AB4CD_hR42_146_2b_8b_2b_2b-001",
+    "title": "Rhombohedral LiZnPO$_{4}$ Structure",
+    "icsd": "83652",
+    "ccdc": null,
     "prototype": "LiO4PZn",
     "prototype_tex": "LiO$_{4}$PZn",
-    "label": "AB4CD_hR42_146_2b_8b_2b_2b-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "hR42",
+    "space_group_number": 146,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -95,17 +105,8 @@
         0.94603,
         0.76679
     ],
-    "strukturbericht": null,
-    "title": "Rhombohedral LiZnPO$_{4}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB4CD_hR42_146_2b_8b_2b_2b-001",
-    "number_of_species": 4,
-    "pearson_symbol": "hR42",
-    "space_group_number": 146,
-    "comments": "LiZnPO$_{4}$ has been observed in a variety of structures. We list those which have known crystal structures: \\begin{itemize} \\item \\href{current_web_home_dir/AB4CD_mC224_9_8a_32a_8a_8a-001}{$\\alpha$-LiZnPO$_{4}$} \\item \\href{current_web_home_dir/AB4CD_oP28_33_a_4a_a_a-001}{$\\delta_{1}$-LiZnPO$_{4}$}, and \\item \\href{current_web_home_dir/AB4CD_hR42_146_2b_8b_2b_2b-001}{rhombohedral LiZnPO$_{4}$} (this structure). \\end{itemize} ~ \\vspace{-.25in} \n (Bu, 1996) note that this structure is very close to \\href{current_web_home_dir/A2B4C_hR42_148_2f_4f_f-001}{phenakite (Be$_{2}$SiO$_{4}$, $S1_{3}$)}, the main difference being the lack of an inversion site. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "legacy": false,
     "notes": "Rhomb. LiZnPO$_{4}$",
-    "ccdc": null,
-    "icsd": "83652"
+    "comments": "LiZnPO$_{4}$ has been observed in a variety of structures. We list those which have known crystal structures: \\begin{itemize} \\item \\href{current_web_home_dir/AB4CD_mC224_9_8a_32a_8a_8a-001}{$\\alpha$-LiZnPO$_{4}$} \\item \\href{current_web_home_dir/AB4CD_oP28_33_a_4a_a_a-001}{$\\delta_{1}$-LiZnPO$_{4}$}, and \\item \\href{current_web_home_dir/AB4CD_hR42_146_2b_8b_2b_2b-001}{rhombohedral LiZnPO$_{4}$} (this structure). \\end{itemize} ~ \\vspace{-.25in} \n (Bu, 1996) note that this structure is very close to \\href{current_web_home_dir/A2B4C_hR42_148_2f_4f_f-001}{phenakite (Be$_{2}$SiO$_{4}$, $S1_{3}$)}, the main difference being the lack of an inversion site. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

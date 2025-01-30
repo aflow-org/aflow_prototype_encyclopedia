@@ -1,9 +1,19 @@
 {
     "uid": "Y3TN",
+    "label": "AB_hP4_194_c_a-001",
+    "alias": "AB_hP4_194_c_a",
+    "title": "Nickeline (NiAs, $B8_{1}$) Structure",
+    "icsd": "61104",
+    "ccdc": null,
     "prototype": "AsNi",
     "prototype_tex": "AsNi",
-    "label": "AB_hP4_194_c_a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP4",
+    "space_group_number": 194,
+    "strukturbericht": "B8_1",
+    "strukturbericht_tex": "$B8_{1}$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a"
     ],
@@ -11,18 +21,8 @@
         3.619,
         1.39376
     ],
-    "strukturbericht": "B8_1",
-    "title": "Nickeline (NiAs, $B8_{1}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$B8_{1}$",
     "compounds": {},
-    "alias": "AB_hP4_194_c_a",
-    "number_of_species": 2,
-    "pearson_symbol": "hP4",
-    "space_group_number": 194,
-    "comments": "Note that the stacking is ABACABAC, with the nickel atoms on the A sites and arsenic on B and C. The local environment is fcc-like for nickel atoms and hcp-like for arsenic atoms.",
+    "legacy": false,
     "notes": "$B8_{1}$, Nickeline",
-    "ccdc": null,
-    "icsd": "61104"
+    "comments": "Note that the stacking is ABACABAC, with the nickel atoms on the A sites and arsenic on B and C. The local environment is fcc-like for nickel atoms and hcp-like for arsenic atoms."
 }

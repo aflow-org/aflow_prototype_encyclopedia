@@ -1,9 +1,19 @@
 {
     "uid": "VXAE",
+    "label": "A3B16C20D3_mC168_15_ef_8f_10f_ef-001",
+    "alias": "A3B16C20D3_mC168_15_ef_8f_10f_ef",
+    "title": "(CdSO$_{4}$)$_{3}\\cdot$8H$_{2}$O ($H4_{20}$) Structure",
+    "icsd": "24400",
+    "ccdc": null,
     "prototype": "Cd3H16O20S3",
     "prototype_tex": "Cd$_{3}$H$_{16}$O$_{20}$S$_{3}$",
-    "label": "A3B16C20D3_mC168_15_ef_8f_10f_ef-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "mC168",
+    "space_group_number": 15,
+    "strukturbericht": "H4_20",
+    "strukturbericht_tex": "$H4_{20}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -139,18 +149,8 @@
         0.86705,
         0.05632
     ],
-    "strukturbericht": "H4_20",
-    "title": "(CdSO$_{4}$)$_{3}\\cdot$8H$_{2}$O ($H4_{20}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$H4_{20}$",
     "compounds": {},
-    "alias": "A3B16C20D3_mC168_15_ef_8f_10f_ef",
-    "number_of_species": 4,
-    "pearson_symbol": "mC168",
-    "space_group_number": 15,
-    "comments": "(Lipson, 1938) originally found this structure and (Gottfried, 1938) gave it the {\\em Strukturbericht} designation $H4_{20}$. Later (Caminiti, 1981) located the hydrogen atoms.  As this does not change the rest of the structure we use their results. \n Some of the H-O distances appear to be very small.  For example, the O-VIII -- H-III distance is only 0.43{\\AA}. We have checked our inputs compared to (Caminiti, 1981) and found no error.  Unfortunately they do not provide H-O distances for comparison.",
+    "legacy": false,
     "notes": "$H4_{20}$",
-    "ccdc": null,
-    "icsd": "24400"
+    "comments": "(Lipson, 1938) originally found this structure and (Gottfried, 1938) gave it the {\\em Strukturbericht} designation $H4_{20}$. Later (Caminiti, 1981) located the hydrogen atoms.  As this does not change the rest of the structure we use their results. \n Some of the H-O distances appear to be very small.  For example, the O-VIII -- H-III distance is only 0.43{\\AA}. We have checked our inputs compared to (Caminiti, 1981) and found no error.  Unfortunately they do not provide H-O distances for comparison."
 }

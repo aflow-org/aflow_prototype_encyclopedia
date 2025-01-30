@@ -1,9 +1,19 @@
 {
     "uid": "8B57",
+    "label": "AB8C2_oC22_35_a_ab3d_d-002",
+    "alias": "AB8C2_oC22_35_a_ab3e_e",
+    "title": "V$_{2}$MoO$_{8}$ Structure",
+    "icsd": "25378",
+    "ccdc": null,
     "prototype": "MoO8V2",
     "prototype_tex": "MoO$_{8}$V$_{2}$",
-    "label": "AB8C2_oC22_35_a_ab3d_d-002",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oC22",
+    "space_group_number": 35,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -35,17 +45,8 @@
         0.8134,
         0.0038
     ],
-    "strukturbericht": null,
-    "title": "V$_{2}$MoO$_{8}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB8C2_oC22_35_a_ab3e_e",
-    "number_of_species": 3,
-    "pearson_symbol": "oC22",
-    "space_group_number": 35,
-    "comments": "Our previous report of this structure (Hicks, 2019) transposed the primitive vectors, leading to a structure with the oxygen atoms too close together.  This is the corrected structure. \n AFLOW rotates the (Mahe-Pailleret, 1970) structure by 90$^\\circ$ around the z-axis.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "25378"
+    "comments": "Our previous report of this structure (Hicks, 2019) transposed the primitive vectors, leading to a structure with the oxygen atoms too close together.  This is the corrected structure. \n AFLOW rotates the (Mahe-Pailleret, 1970) structure by 90$^\\circ$ around the z-axis."
 }

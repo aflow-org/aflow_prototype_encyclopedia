@@ -1,9 +1,19 @@
 {
     "uid": "T7XE",
+    "label": "A3B2_tP10_129_3c_2c-001",
+    "alias": "A3B2_tP10_129_3c_2c-001",
+    "title": "Ti$_{2}$Cu$_{3}$ Structure",
+    "icsd": "103133",
+    "ccdc": null,
     "prototype": "Cu3Ti2",
     "prototype_tex": "Cu$_{3}$Ti$_{2}$",
-    "label": "A3B2_tP10_129_3c_2c-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tP10",
+    "space_group_number": 129,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -21,17 +31,8 @@
         0.14,
         0.56
     ],
-    "strukturbericht": null,
-    "title": "Ti$_{2}$Cu$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B2_tP10_129_3c_2c-001",
-    "number_of_species": 2,
-    "pearson_symbol": "tP10",
-    "space_group_number": 129,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "103133"
+    "comments": null
 }

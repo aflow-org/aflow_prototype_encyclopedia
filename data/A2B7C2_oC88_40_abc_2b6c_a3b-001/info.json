@@ -1,9 +1,19 @@
 {
     "uid": "CBWE",
+    "label": "A2B7C2_oC88_40_abc_2b6c_a3b-001",
+    "alias": "A2B7C2_oC88_40_abc_2b6c_a3b",
+    "title": "Rb$_{2}$Mo$_{2}$O$_{7}$ Structure",
+    "icsd": "249126",
+    "ccdc": null,
     "prototype": "Mo2O7Rb2",
     "prototype_tex": "Mo$_{2}$O$_{7}$Rb$_{2}$",
-    "label": "A2B7C2_oC88_40_abc_2b6c_a3b-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oC88",
+    "space_group_number": 40,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -83,17 +93,8 @@
         0.2957,
         0.3879
     ],
-    "strukturbericht": null,
-    "title": "Rb$_{2}$Mo$_{2}$O$_{7}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B7C2_oC88_40_abc_2b6c_a3b",
-    "number_of_species": 3,
-    "pearson_symbol": "oC88",
-    "space_group_number": 40,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "249126"
+    "comments": null
 }

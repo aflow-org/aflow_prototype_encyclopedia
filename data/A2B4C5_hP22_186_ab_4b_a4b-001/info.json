@@ -1,9 +1,19 @@
 {
     "uid": "7JMK",
+    "label": "A2B4C5_hP22_186_ab_4b_a4b-001",
+    "alias": "A2B4C5_hP22_186_ab_4b_a4b-001",
+    "title": "Ti$_{3}$Al$_{2}$N$_{2}$ Structure",
+    "icsd": "52643",
+    "ccdc": null,
     "prototype": "Al2N2Ti2",
     "prototype_tex": "Al$_{2}$N$_{2}$Ti$_{2}$",
-    "label": "A2B4C5_hP22_186_ab_4b_a4b-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP22",
+    "space_group_number": 186,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -33,17 +43,8 @@
         0.55,
         0.95
     ],
-    "strukturbericht": null,
-    "title": "Ti$_{3}$Al$_{2}$N$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B4C5_hP22_186_ab_4b_a4b-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hP22",
-    "space_group_number": 186,
-    "comments": "This compound only exists at temperatures near 1573K, where this data was taken. \n (Schuster, 1984) placed this system in the trigonal space group $P31c$ \\#159.  The (2a) and (2b) Wyckoff positions for space group \\#159 are identical to those in the hexagonal space group $P6_{3}mc$ \\#186, so we follow (Cenzual, 1991) and place this in the higher symmetry space group. \n The origin of the $z$-axis in space group $P6_{3}mc$ is arbitrary.  We use the origin specified by (Schuster, 1984). \n Most of the Wyckoff positions in this structure are only partially occupied: \\begin{itemize} \\item Sites Al-I and Ti-I are fully occupied. \\item Sites Ni-I, Ni-II, Ti-II, and Ti-III are 80\\% occupied.  \\item Sites Ni-III, Ni-IV, Ti-IV, and Ti-V are 20\\% occupied. \\end{itemize} ~ \\vspace{-.25in} \n This explains the short Ti-N bond lengths shown in the figure -- for any given Ti-N pair, only one of the two atoms is actually present.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "52643"
+    "comments": "This compound only exists at temperatures near 1573K, where this data was taken. \n (Schuster, 1984) placed this system in the trigonal space group $P31c$ \\#159.  The (2a) and (2b) Wyckoff positions for space group \\#159 are identical to those in the hexagonal space group $P6_{3}mc$ \\#186, so we follow (Cenzual, 1991) and place this in the higher symmetry space group. \n The origin of the $z$-axis in space group $P6_{3}mc$ is arbitrary.  We use the origin specified by (Schuster, 1984). \n Most of the Wyckoff positions in this structure are only partially occupied: \\begin{itemize} \\item Sites Al-I and Ti-I are fully occupied. \\item Sites Ni-I, Ni-II, Ti-II, and Ti-III are 80\\% occupied.  \\item Sites Ni-III, Ni-IV, Ti-IV, and Ti-V are 20\\% occupied. \\end{itemize} ~ \\vspace{-.25in} \n This explains the short Ti-N bond lengths shown in the figure -- for any given Ti-N pair, only one of the two atoms is actually present."
 }

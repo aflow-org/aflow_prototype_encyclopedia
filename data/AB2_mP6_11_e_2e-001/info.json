@@ -1,9 +1,19 @@
 {
     "uid": "5Q2X",
+    "label": "AB2_mP6_11_e_2e-001",
+    "alias": "AB2_mP6_11_e_2e-001",
+    "title": "CaSb$_{2}$ Structure",
+    "icsd": "862",
+    "ccdc": null,
     "prototype": "CaSb2",
     "prototype_tex": "CaSb$_{2}$",
-    "label": "AB2_mP6_11_e_2e-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mP6",
+    "space_group_number": 11,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -27,17 +37,8 @@
         0.5984,
         0.3839
     ],
-    "strukturbericht": null,
-    "title": "CaSb$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2_mP6_11_e_2e-001",
-    "number_of_species": 2,
-    "pearson_symbol": "mP6",
-    "space_group_number": 11,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "862"
+    "comments": null
 }

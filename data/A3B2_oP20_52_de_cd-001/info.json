@@ -1,9 +1,19 @@
 {
     "uid": "12L3",
+    "label": "A3B2_oP20_52_de_cd-001",
+    "alias": "A3B2_oP20_52_de_cd",
+    "title": "Sr$_{2}$Bi$_{3}$ Structure",
+    "icsd": "164987",
+    "ccdc": null,
     "prototype": "Bi3Sr2",
     "prototype_tex": "Bi$_{3}$Sr$_{2}$",
-    "label": "A3B2_oP20_52_de_cd-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP20",
+    "space_group_number": 52,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -25,17 +35,8 @@
         0.064,
         0.0788
     ],
-    "strukturbericht": null,
-    "title": "Sr$_{2}$Bi$_{3}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B2_oP20_52_de_cd",
-    "number_of_species": 2,
-    "pearson_symbol": "oP20",
-    "space_group_number": 52,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "164987"
+    "comments": null
 }

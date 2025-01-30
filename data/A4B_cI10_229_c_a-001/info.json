@@ -1,25 +1,26 @@
 {
     "uid": "78LF",
+    "label": "A4B_cI10_229_c_a-001",
+    "alias": "A4B_cI10_229_c_a",
+    "title": "$\\beta$-Hg$_{4}$Pt Structure",
+    "icsd": "150772",
+    "ccdc": null,
     "prototype": "Hg4Pt",
     "prototype_tex": "Hg$_{4}$Pt",
-    "label": "A4B_cI10_229_c_a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cI10",
+    "space_group_number": 229,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a"
     ],
     "parameter_values": [
         6.186
     ],
-    "strukturbericht": null,
-    "title": "$\\beta$-Hg$_{4}$Pt Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B_cI10_229_c_a",
-    "number_of_species": 2,
-    "pearson_symbol": "cI10",
-    "space_group_number": 229,
-    "comments": "(Bauer, 1953) give the lattice constant in kX units.  We convert this to {\\AA}ngstr\\\"{o}ms by multiplying that number by 1.00202 (Wood, 1947).",
+    "legacy": false,
     "notes": "$\\beta$-Hg$_{4}$Pt",
-    "ccdc": null,
-    "icsd": "150772"
+    "comments": "(Bauer, 1953) give the lattice constant in kX units.  We convert this to {\\AA}ngstr\\\"{o}ms by multiplying that number by 1.00202 (Wood, 1947)."
 }

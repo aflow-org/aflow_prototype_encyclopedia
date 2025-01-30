@@ -1,9 +1,19 @@
 {
     "uid": "K8CX",
+    "label": "A5B3_hP8_189_cf_g-001",
+    "alias": "A5B3_hP8_189_cf_g-001",
+    "title": "Th$_{3}$Pd$_{5}$ Structure",
+    "icsd": "649755",
+    "ccdc": null,
     "prototype": "Pd5Th3",
     "prototype_tex": "Pd$_{5}$Th$_{3}$",
-    "label": "A5B3_hP8_189_cf_g-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP8",
+    "space_group_number": 189,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -15,17 +25,8 @@
         0.75,
         0.33
     ],
-    "strukturbericht": null,
-    "title": "Th$_{3}$Pd$_{5}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A5B3_hP8_189_cf_g-001",
-    "number_of_species": 2,
-    "pearson_symbol": "hP8",
-    "space_group_number": 189,
-    "comments": "The ICSD entry uses the data from (Thomson, 1963), but relabels palladium as platinum and puts the thorium atom on the (3f) site with palladium/platinum on the (3g) site.  We use the published data.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "649755"
+    "comments": "The ICSD entry uses the data from (Thomson, 1963), but relabels palladium as platinum and puts the thorium atom on the (3f) site with palladium/platinum on the (3g) site.  We use the published data."
 }

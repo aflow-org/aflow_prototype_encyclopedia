@@ -1,26 +1,26 @@
 {
     "uid": "TEA9",
+    "label": "A4B_cP5_221_ac_b-002",
+    "alias": "A4B_cP5_221_ac_b-002",
+    "title": "$\\gamma$'-Fe$_{4}$N ($L'1_{0}$) Structure",
+    "icsd": "79980",
+    "ccdc": null,
     "prototype": "Fe4N",
     "prototype_tex": "Fe$_{4}$N",
-    "label": "A4B_cP5_221_ac_b-002",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cP5",
+    "space_group_number": 221,
+    "strukturbericht": "L'1_0",
+    "strukturbericht_tex": "$L'1_{0}$",
+    "part": 4,
+    "parameter_symbols": [
         "a"
     ],
     "parameter_values": [
         3.79
     ],
-    "strukturbericht": "L'1_0",
-    "title": "$\\gamma$'-Fe$_{4}$N ($L'1_{0}$) Structure",
-    "part": 4,
-    "legacy": false,
-    "strukturbericht_tex": "$L'1_{0}$",
     "compounds": {},
-    "alias": "A4B_cP5_221_ac_b-002",
-    "number_of_species": 2,
-    "pearson_symbol": "cP5",
-    "space_group_number": 221,
-    "comments": "This is the correct structure for $\\gamma$'-Fe$_{4}$N.  For our earlier erroneous attempt, see \\href{current_web_home_dir/A4B_cP5_221_bc_a-001}{A4B\\_cP5\\_221\\_bc\\_a-001}. \n This is a binary form of the \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite structure (AB3C\\_cP5\\_221\\_a\\_c\\_b)}, {\\em Strukturbericht} designation $E2_{1}$.",
+    "legacy": false,
     "notes": "$L'1_{0}$, $\\gamma$'-Fe$_{4}$N",
-    "ccdc": null,
-    "icsd": "79980"
+    "comments": "This is the correct structure for $\\gamma$'-Fe$_{4}$N.  For our earlier erroneous attempt, see \\href{current_web_home_dir/A4B_cP5_221_bc_a-001}{A4B\\_cP5\\_221\\_bc\\_a-001}. \n This is a binary form of the \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite structure (AB3C\\_cP5\\_221\\_a\\_c\\_b)}, {\\em Strukturbericht} designation $E2_{1}$."
 }

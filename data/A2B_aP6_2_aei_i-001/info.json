@@ -1,9 +1,19 @@
 {
     "uid": "Q769",
+    "label": "A2B_aP6_2_aei_i-001",
+    "alias": "A2B_aP6_2_aei_i",
+    "title": "H$_{2}$S (90 GPa) Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "H2S",
     "prototype_tex": "H$_{2}$S",
-    "label": "A2B_aP6_2_aei_i-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "aP6",
+    "space_group_number": 2,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -31,17 +41,8 @@
         0.183,
         0.255
     ],
-    "strukturbericht": null,
-    "title": "H$_{2}$S (90 GPa) Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B_aP6_2_aei_i",
-    "number_of_species": 2,
-    "pearson_symbol": "aP6",
-    "space_group_number": 2,
-    "comments": "This structure was found by first-principles electronic structure calculations and is predicted to be the stable structure of H$_{2}$S in the range 80-140 GPa. The data presented here was computed at 90 GPa. \n (Li, 2014) place the hydrogen atoms on (1g), (1f) and (2i) sites, with sulfur atoms on (2i) sites. We have changed the origin so that the hydrogen atoms are now on (1a), (1e) and (2i) sites.",
+    "legacy": false,
     "notes": "HP, Theory",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "This structure was found by first-principles electronic structure calculations and is predicted to be the stable structure of H$_{2}$S in the range 80-140 GPa. The data presented here was computed at 90 GPa. \n (Li, 2014) place the hydrogen atoms on (1g), (1f) and (2i) sites, with sulfur atoms on (2i) sites. We have changed the origin so that the hydrogen atoms are now on (1a), (1e) and (2i) sites."
 }

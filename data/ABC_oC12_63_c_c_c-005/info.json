@@ -1,9 +1,19 @@
 {
     "uid": "XSM0",
+    "label": "ABC_oC12_63_c_c_c-005",
+    "alias": "ABC_oC12_63_c_c_c-005",
+    "title": "MoAlB Structure",
+    "icsd": "251808",
+    "ccdc": null,
     "prototype": "AlBMo",
     "prototype_tex": "AlBMo",
-    "label": "ABC_oC12_63_c_c_c-005",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oC12",
+    "space_group_number": 63,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -19,17 +29,8 @@
         0.0338,
         0.41052
     ],
-    "strukturbericht": null,
-    "title": "MoAlB Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC_oC12_63_c_c_c-005",
-    "number_of_species": 3,
-    "pearson_symbol": "oC12",
-    "space_group_number": 63,
-    "comments": "(Ade, 2015) give atomic positions for WAlB that do not reproduce their interatomic distances and make the W-B distance far too small.  We find that the parameters $(y_{Al},y_{B},y_{W}) = (0.19950,0.03547,0.41002)$ reproduce the reported distances. \n The ICSD entry gives the structure type as \\href{current_web_home_dir/ABC_oC12_63_c_c_c-004}{UBC}, but XtalFinder (Hicks, 2021) finds that the structures are essentially unmatchable.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "251808"
+    "comments": "(Ade, 2015) give atomic positions for WAlB that do not reproduce their interatomic distances and make the W-B distance far too small.  We find that the parameters $(y_{Al},y_{B},y_{W}) = (0.19950,0.03547,0.41002)$ reproduce the reported distances. \n The ICSD entry gives the structure type as \\href{current_web_home_dir/ABC_oC12_63_c_c_c-004}{UBC}, but XtalFinder (Hicks, 2021) finds that the structures are essentially unmatchable."
 }

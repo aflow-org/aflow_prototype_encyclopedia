@@ -1,9 +1,19 @@
 {
     "uid": "8HU9",
+    "label": "AB4C6_oC44_63_c_2f_ac2f-001",
+    "alias": "AB4C6_oC44_63_c_2f_ac2f-001",
+    "title": "CaFe$_{4}$O$_{6}$ Structure",
+    "icsd": "16355",
+    "ccdc": null,
     "prototype": "CaFe4O6",
     "prototype_tex": "CaFe$_{4}$O$_{6}$",
-    "label": "AB4C6_oC44_63_c_2f_ac2f-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oC44",
+    "space_group_number": 63,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -33,17 +43,8 @@
         0.5412,
         0.3451
     ],
-    "strukturbericht": null,
-    "title": "CaFe$_{4}$O$_{6}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB4C6_oC44_63_c_2f_ac2f-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oC44",
-    "space_group_number": 63,
-    "comments": "We have shifted the origin so that the O-I atom is at the origin, Wyckoff position (4a), rather than (0 0 1/2), Wyckoff position (4b) as found in (Evrard, 1980).",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "16355"
+    "comments": "We have shifted the origin so that the O-I atom is at the origin, Wyckoff position (4a), rather than (0 0 1/2), Wyckoff position (4b) as found in (Evrard, 1980)."
 }

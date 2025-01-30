@@ -1,9 +1,19 @@
 {
     "uid": "HFY3",
+    "label": "AB2C4_mP28_13_g_efg_4g-001",
+    "alias": "AB2C4_mP28_13_g_efg_4g-001",
+    "title": "Cu(PtS$_{2}$)$_{2}$ Structure",
+    "icsd": "74894",
+    "ccdc": null,
     "prototype": "CuPt2S4",
     "prototype_tex": "CuPt$_{2}$S$_{4}$",
-    "label": "AB2C4_mP28_13_g_efg_4g-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mP28",
+    "space_group_number": 13,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -55,17 +65,8 @@
         0.002,
         0.2572
     ],
-    "strukturbericht": null,
-    "title": "Cu(PtS$_{2}$)$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2C4_mP28_13_g_efg_4g-001",
-    "number_of_species": 3,
-    "pearson_symbol": "mP28",
-    "space_group_number": 13,
-    "comments": "(Gross, 1994) give the crystal structure in the $P2/n$ setting of space group \\#13.  We use FINDSYM to change this to the standard $P2/c$ setting. \n With only a small uncertainty in the coordinates ($\\approx$ 0.1{\\AA}) this could be placed in space group $P2/m$ \\#10 with the unit cell halved.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "74894"
+    "comments": "(Gross, 1994) give the crystal structure in the $P2/n$ setting of space group \\#13.  We use FINDSYM to change this to the standard $P2/c$ setting. \n With only a small uncertainty in the coordinates ($\\approx$ 0.1{\\AA}) this could be placed in space group $P2/m$ \\#10 with the unit cell halved."
 }

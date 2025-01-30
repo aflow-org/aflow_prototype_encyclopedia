@@ -1,9 +1,19 @@
 {
     "uid": "L9Y6",
+    "label": "AB8C4D5_oP72_62_c_4c2d_2d_3cd-001",
+    "alias": "AB8C4D5_oP72_62_c_4c2d_2d_3cd-001",
+    "title": "Ag(tcm)(pyz) [AgC$_{8}$N$_{5}$H$_{4}$] Structure",
+    "icsd": null,
+    "ccdc": "671414",
     "prototype": "AgC8H4N5",
     "prototype_tex": "AgC$_{8}$H$_{4}$N$_{5}$",
-    "label": "AB8C4D5_oP72_62_c_4c2d_2d_3cd-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oP72",
+    "space_group_number": 62,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -75,17 +85,8 @@
         0.4362,
         0.0349
     ],
-    "strukturbericht": null,
-    "title": "Ag(tcm)(pyz) [AgC$_{8}$N$_{5}$H$_{4}$] Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB8C4D5_oP72_62_c_4c2d_2d_3cd-001",
-    "number_of_species": 4,
-    "pearson_symbol": "oP72",
-    "space_group_number": 62,
-    "ccdc": "671414",
-    "comments": "In the chemical literature tcm=tricyanomethanide (C(CN)$_{3}^{-}$), and phz=pyrazine.",
+    "legacy": false,
     "notes": null,
-    "icsd": null
+    "comments": "In the chemical literature tcm=tricyanomethanide (C(CN)$_{3}^{-}$), and phz=pyrazine."
 }

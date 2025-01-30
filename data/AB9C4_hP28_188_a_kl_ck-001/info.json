@@ -1,9 +1,19 @@
 {
     "uid": "2DJ4",
+    "label": "AB9C4_hP28_188_a_kl_ck-001",
+    "alias": "AB9C4_hP28_188_e_kl_ak",
+    "title": "BaSi$_{4}$O$_{9}$ ($S3_{2}$) Structure",
+    "icsd": "80067",
+    "ccdc": null,
     "prototype": "BaSi4O9",
     "prototype_tex": "BaSi$_{4}$O$_{9}$",
-    "label": "AB9C4_hP28_188_a_kl_ck-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP28",
+    "space_group_number": 188,
+    "strukturbericht": "S3_2",
+    "strukturbericht_tex": "$S3_{2}$",
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -25,18 +35,8 @@
         0.66794,
         0.6032
     ],
-    "strukturbericht": "S3_2",
-    "title": "BaSi$_{4}$O$_{9}$ ($S3_{2}$) Structure",
-    "part": 2,
-    "legacy": false,
-    "strukturbericht_tex": "$S3_{2}$",
     "compounds": {},
-    "alias": "AB9C4_hP28_188_e_kl_ak",
-    "number_of_species": 3,
-    "pearson_symbol": "hP28",
-    "space_group_number": 188,
-    "comments": "(Hermann, 1937) applied the {\\em Strukturbericht} label $S3_{2}$ to benitoite, BaTiSi$_{3}$O$_{9}$.  The only difference between BaSi$_{4}$O$_{9}$ and benitoite is that titanium replaces silicon at the $(2a)$ Wyckoff position.",
+    "legacy": false,
     "notes": "$S3_{2}$",
-    "ccdc": null,
-    "icsd": "80067"
+    "comments": "(Hermann, 1937) applied the {\\em Strukturbericht} label $S3_{2}$ to benitoite, BaTiSi$_{3}$O$_{9}$.  The only difference between BaSi$_{4}$O$_{9}$ and benitoite is that titanium replaces silicon at the $(2a)$ Wyckoff position."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "5STC",
+    "label": "A2B3_tI10_139_e_ae-001",
+    "alias": "A2B3_tI10_139_e_ae",
+    "title": "Au$_{2}$Nb$_{3}$ Structure",
+    "icsd": "58559",
+    "ccdc": null,
     "prototype": "Au2Nb3",
     "prototype_tex": "Au$_{2}$Nb$_{3}$",
-    "label": "A2B3_tI10_139_e_ae-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tI10",
+    "space_group_number": 139,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -15,17 +25,8 @@
         0.2,
         0.4
     ],
-    "strukturbericht": null,
-    "title": "Au$_{2}$Nb$_{3}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B3_tI10_139_e_ae",
-    "number_of_species": 2,
-    "pearson_symbol": "tI10",
-    "space_group_number": 139,
-    "comments": "(Schubert, 1960) listed the lattice constants in ``kX'' units.  We used the conversion factor 1.00207789 to convert their units into {\\AA}ngstroms (Arblaster, 1997). (We had previously (Hicks, 2021) divided instead of multiplied.  This has been corrected.) \n When $c/a = 5, z_{2} = 1/5$ and $z_{3} = 2/5$, the atoms are on the sites of a \\href{current_web_home_dir/A_cI2_229_a-001}{body-centered cubic lattice}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "58559"
+    "comments": "(Schubert, 1960) listed the lattice constants in ``kX'' units.  We used the conversion factor 1.00207789 to convert their units into {\\AA}ngstroms (Arblaster, 1997). (We had previously (Hicks, 2021) divided instead of multiplied.  This has been corrected.) \n When $c/a = 5, z_{2} = 1/5$ and $z_{3} = 2/5$, the atoms are on the sites of a \\href{current_web_home_dir/A_cI2_229_a-001}{body-centered cubic lattice}."
 }

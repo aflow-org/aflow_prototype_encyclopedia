@@ -1,9 +1,19 @@
 {
     "uid": "J6WY",
+    "label": "AB_mC256_5_2a2b30c_32c-001",
+    "alias": "AB_mC256_5_2a2b30c_32c-001",
+    "title": "High Temperature Monoclinic TlS Structure",
+    "icsd": "74446",
+    "ccdc": null,
     "prototype": "STl",
     "prototype_tex": "STl",
-    "label": "AB_mC256_5_2a2b30c_32c-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC256",
+    "space_group_number": 5,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -395,17 +405,8 @@
         0.809,
         0.0235
     ],
-    "strukturbericht": null,
-    "title": "High Temperature Monoclinic TlS Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_mC256_5_2a2b30c_32c-001",
-    "number_of_species": 2,
-    "pearson_symbol": "mC256",
-    "space_group_number": 5,
-    "comments": "TlS occurs naturally in three forms (Villars, 2018): \\begin{itemize} \\item The ground state is tetragonal in the \\href{current_web_home_dir/AB_tI16_140_ab_h-001}{TlSe ($B37$) structure} which (Villars, 2018) calls ``Tet-I'' and (Kishida, 1994) calls ``Type I.'' \\item An intermediate \\href{current_web_home_dir/AB_tP64_92_2a3b_4b-001}{tetragonal structure}, which (Villars, 2018) calls ``Tetragonal II,'' and (Kashida, 1994) calls Type III. \\item A high temperature \\href{current_web_home_dir/AB_mC256_5_2a2b30c_32c-001}{monoclinic structure}, called ``Mon'' by (Villars, 2018) and ``Type II'' by (Kishida, 1994). (this structure) \\end{itemize} ~ \\vspace{-.25in} \n If we replaced the conventional cell primitive vector ${\\bf a}_3$ used by (Nakamura, 1993) with ${\\bf a}_3' = {\\bf a}_1 + {\\bf a}_3$ both the conventional and primitive cells would be very close to tetragonal cells.",
+    "legacy": false,
     "notes": "Monoclinic TlS (HT)",
-    "ccdc": null,
-    "icsd": "74446"
+    "comments": "TlS occurs naturally in three forms (Villars, 2018): \\begin{itemize} \\item The ground state is tetragonal in the \\href{current_web_home_dir/AB_tI16_140_ab_h-001}{TlSe ($B37$) structure} which (Villars, 2018) calls ``Tet-I'' and (Kishida, 1994) calls ``Type I.'' \\item An intermediate \\href{current_web_home_dir/AB_tP64_92_2a3b_4b-001}{tetragonal structure}, which (Villars, 2018) calls ``Tetragonal II,'' and (Kashida, 1994) calls Type III. \\item A high temperature \\href{current_web_home_dir/AB_mC256_5_2a2b30c_32c-001}{monoclinic structure}, called ``Mon'' by (Villars, 2018) and ``Type II'' by (Kishida, 1994). (this structure) \\end{itemize} ~ \\vspace{-.25in} \n If we replaced the conventional cell primitive vector ${\\bf a}_3$ used by (Nakamura, 1993) with ${\\bf a}_3' = {\\bf a}_1 + {\\bf a}_3$ both the conventional and primitive cells would be very close to tetragonal cells."
 }

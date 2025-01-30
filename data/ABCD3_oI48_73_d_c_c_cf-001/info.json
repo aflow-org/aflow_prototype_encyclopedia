@@ -1,9 +1,19 @@
 {
     "uid": "H0D0",
+    "label": "ABCD3_oI48_73_d_c_c_cf-001",
+    "alias": "ABCD3_oI48_73_d_e_e_ef",
+    "title": "KAg[CO$_{3}$] Structure",
+    "icsd": "409484",
+    "ccdc": null,
     "prototype": "AgCKO3",
     "prototype_tex": "AgCKO$_{3}$",
-    "label": "ABCD3_oI48_73_d_c_c_cf-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oI48",
+    "space_group_number": 73,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -27,17 +37,8 @@
         0.3624,
         0.3849
     ],
-    "strukturbericht": null,
-    "title": "KAg[CO$_{3}$] Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABCD3_oI48_73_d_e_e_ef",
-    "number_of_species": 4,
-    "pearson_symbol": "oI48",
-    "space_group_number": 73,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "409484"
+    "comments": null
 }

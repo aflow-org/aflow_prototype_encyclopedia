@@ -1,9 +1,19 @@
 {
     "uid": "33TQ",
+    "label": "A17B3_cF160_227_aeg_bc-001",
+    "alias": "A17B3_cF160_227_aeg_bc-001",
+    "title": "Na$_{24-\\delta}$Ge$_{136}$ Clathrate Structure",
+    "icsd": "113914",
+    "ccdc": null,
     "prototype": "Ge17Na3",
     "prototype_tex": "Ge$_{17}$Na$_{3}$",
-    "label": "A17B3_cF160_227_aeg_bc-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cF160",
+    "space_group_number": 227,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "x4",
         "x5",
@@ -15,17 +25,8 @@
         0.0674,
         0.3715
     ],
-    "strukturbericht": null,
-    "title": "Na$_{24-\\delta}$Ge$_{136}$ Clathrate Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A17B3_cF160_227_aeg_bc-001",
-    "number_of_species": 2,
-    "pearson_symbol": "cF160",
-    "space_group_number": 227,
-    "comments": "This is a metastable type II clathrate structure.  Only 2/3 of the Na (8b) sites are occupied, making the actual composition Na$_{21.33}$Ge$_{136}$ (Na$_{1.253}$Ge$_{17}$). \n We use the Rietveld refinement data from (Feng, 2021).",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "113914"
+    "comments": "This is a metastable type II clathrate structure.  Only 2/3 of the Na (8b) sites are occupied, making the actual composition Na$_{21.33}$Ge$_{136}$ (Na$_{1.253}$Ge$_{17}$). \n We use the Rietveld refinement data from (Feng, 2021)."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "7K0D",
+    "label": "A18B_cF76_225_c2f_a-001",
+    "alias": "A18B_cF76_225_c2f_a-001",
+    "title": "High Temperature Cu$_{2}$Se Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "Cu2Se",
     "prototype_tex": "Cu$_{2}$Se",
-    "label": "A18B_cF76_225_c2f_a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cF76",
+    "space_group_number": 225,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "x3",
         "x4"
@@ -13,17 +23,8 @@
         0.309,
         0.384
     ],
-    "strukturbericht": null,
-    "title": "High Temperature Cu$_{2}$Se Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A18B_cF76_225_c2f_a-001",
-    "number_of_species": 2,
-    "pearson_symbol": "cF76",
-    "space_group_number": 225,
-    "comments": "Cu$_{2}$Se exists in two forms: \\begin{itemize} \\item A \\href{current_web_home_dir/A2B_mC144_15_12f_6f-001}{low-temperature layered monoclinic structure}, and \\item this high-temperature (above $\\approx$ 400K) \\href{current_web_home_dir/A18B_cF76_225_c2f_a-001}{highly disordered superionic cubic structure}. \\end{itemize} ~ \\vspace{-.25in} \n The data for the rhombohedral phase was taken at room temperature, while the high temperature structure was examined at 415K. \n All of the copper sites in the high temperature phase are partially occupied, with the copper atoms averaging to the positions of the \\href{current_web_home_dir/AB2_cF12_225_a_c-001}{fluorite ($C1$) structure}. \n The Cu-I (8c) site has 31\\% occupancy; the Cu-II (32f) site has 14\\% occupancy; and the Cu-III (32f) site has 3\\% occupancy.",
+    "legacy": false,
     "notes": "HT",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "Cu$_{2}$Se exists in two forms: \\begin{itemize} \\item A \\href{current_web_home_dir/A2B_mC144_15_12f_6f-001}{low-temperature layered monoclinic structure}, and \\item this high-temperature (above $\\approx$ 400K) \\href{current_web_home_dir/A18B_cF76_225_c2f_a-001}{highly disordered superionic cubic structure}. \\end{itemize} ~ \\vspace{-.25in} \n The data for the rhombohedral phase was taken at room temperature, while the high temperature structure was examined at 415K. \n All of the copper sites in the high temperature phase are partially occupied, with the copper atoms averaging to the positions of the \\href{current_web_home_dir/AB2_cF12_225_a_c-001}{fluorite ($C1$) structure}. \n The Cu-I (8c) site has 31\\% occupancy; the Cu-II (32f) site has 14\\% occupancy; and the Cu-III (32f) site has 3\\% occupancy."
 }

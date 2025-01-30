@@ -1,9 +1,19 @@
 {
     "uid": "5PAV",
+    "label": "A4B24C13_cI82_217_c_deg_ag-001",
+    "alias": "A4B24C13_cI82_217_c_deg_ag",
+    "title": "Tennantite (Cu$_{12}$As$_{4}$S$_{13}$) Structure",
+    "icsd": "403458",
+    "ccdc": null,
     "prototype": "AsCu12S13",
     "prototype_tex": "AsCu$_{12}$S$_{13}$",
-    "label": "A4B24C13_cI82_217_c_deg_ag-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cI82",
+    "space_group_number": 217,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "x2",
         "x4",
@@ -21,17 +31,8 @@
         0.11822,
         0.64266
     ],
-    "strukturbericht": null,
-    "title": "Tennantite (Cu$_{12}$As$_{4}$S$_{13}$) Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B24C13_cI82_217_c_deg_ag",
-    "number_of_species": 3,
-    "pearson_symbol": "cI82",
-    "space_group_number": 217,
-    "comments": "The Cu-II (12e) site is only occupied 75.8\\% of the time, and the Cu-III site is occupied 12.1\\% of the time, so that these sites only contain twelve atoms between them. \n Searching (Downs, 2003) shows that natural samples often have antimony substituting for arsenic. The antimony structures (tetrahedrites) contain higher concentrations of copper.",
+    "legacy": false,
     "notes": "Tennantite",
-    "ccdc": null,
-    "icsd": "403458"
+    "comments": "The Cu-II (12e) site is only occupied 75.8\\% of the time, and the Cu-III site is occupied 12.1\\% of the time, so that these sites only contain twelve atoms between them. \n Searching (Downs, 2003) shows that natural samples often have antimony substituting for arsenic. The antimony structures (tetrahedrites) contain higher concentrations of copper."
 }

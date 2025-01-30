@@ -1,9 +1,19 @@
 {
     "uid": "T9UP",
+    "label": "A3B6C_mP20_4_3a_6a_a-001",
+    "alias": "A3B6C_mP20_4_3a_6a_a",
+    "title": "Ca$_{3}$UO$_{6}$ Structure",
+    "icsd": "23200",
+    "ccdc": null,
     "prototype": "Ca3O6U",
     "prototype_tex": "Ca$_{3}$O$_{6}$U",
-    "label": "A3B6C_mP20_4_3a_6a_a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mP20",
+    "space_group_number": 4,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -75,17 +85,8 @@
         1.2326e-32,
         0.7481
     ],
-    "strukturbericht": null,
-    "title": "Ca$_{3}$UO$_{6}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B6C_mP20_4_3a_6a_a",
-    "number_of_species": 3,
-    "pearson_symbol": "mP20",
-    "space_group_number": 4,
-    "comments": "Space group $P2_{1}$ \\#4 allows the $y$ coordinates to have an arbitrary origin. Here this freedom is used to set $y_{10} = 0$ for the Uranium position.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "23200"
+    "comments": "Space group $P2_{1}$ \\#4 allows the $y$ coordinates to have an arbitrary origin. Here this freedom is used to set $y_{10} = 0$ for the Uranium position."
 }

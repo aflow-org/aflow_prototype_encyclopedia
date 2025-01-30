@@ -1,9 +1,19 @@
 {
     "uid": "TU6V",
+    "label": "A18B15C10D2_hP45_164_ij_abcdei_2di_d-001",
+    "alias": "A18B15C10D2_hP45_164_ij_abcdei_2di_d-001",
+    "title": "Averievite [(ClCu)$_{2}$Cu$_{5}$O$_{2}$(PO$_{4}$)$_{2}$] Structure",
+    "icsd": "30943",
+    "ccdc": null,
     "prototype": "Cl2Cu7O2(PO4)2",
     "prototype_tex": "Cl$_{2}$Cu$_{7}$O$_{2}$(PO$_{4}$)$_{2}$",
-    "label": "A18B15C10D2_hP45_164_ij_abcdei_2di_d-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "hP45",
+    "space_group_number": 164,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -39,17 +49,8 @@
         0.171,
         0.664
     ],
-    "strukturbericht": null,
-    "title": "Averievite [(ClCu)$_{2}$Cu$_{5}$O$_{2}$(PO$_{4}$)$_{2}$] Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A18B15C10D2_hP45_164_ij_abcdei_2di_d-001",
-    "number_of_species": 4,
-    "pearson_symbol": "hP45",
-    "space_group_number": 164,
-    "comments": "Averievite is characterized by the presence of a backbone composed of Cu$_{5}$O$_{2}$ clusters and either VO$_{4}$ or PO$_{4}$ tetrahedra. The exact structure depends on the atoms added to the backbone.  We have included several averievite structures in the Encyclopedia: \\begin{itemize} \\item \\href{current_web_home_dir/A5B10C2_mP68_14_5e_10e_2e-001}{Stoiberite}, Cu$_{5}$(VO$_{4}$)$_{2}$, \\item \\href{current_web_home_dir/A18B15C10D2_hP45_164_ij_abcdei_2di_d-001}{(ClCu)$_{2}$Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$} (this structure), \\item \\href{current_web_home_dir/A2B7C10D2_hP21_143_2a_2abcd_2b2c2d_bc-001}{Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$$\\cdot$CuCl$_{2}$}, \\item \\href{current_web_home_dir/AB3C5D10E2_hP21_164_a_bc_de_2di_d-001}{(CsCl)Cu$_{5}$O$_{2}$(PO$_{4}$)$_{2}$}, \\item \\href{current_web_home_dir/AB2C5D10E2_mP40_14_a_e_c2e_5e_e-001}{Monoclinic (CsCl)Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$}, \\item \\href{current_web_home_dir/A2B7C10D20E4_hP86_147_ae_c2g_d3g_2d6g_dg-001}{Trigonal (CsCl)Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$}, and \\item \\href{current_web_home_dir/AB5C2D10E2_mC80_15_e_e2f_f_5f_f-001}{(KBr)Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$}. \\end{itemize} ~ \\vspace{-.25in} \n See (Starov, 1997), (Botana, 2018), and (Kornyakov, 2021) for more information. \n While all averievites have considerable disorder, (ClCu)$_{2}$Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$ has more disorder than most: \\begin{itemize} \\item The Cu I (1a) site is occupied 49.3\\% of the time \\item The Cu II (1b) occupation is 53.6\\%  \\item The Cu III (2c) occupation is 35.6\\% \\item The Cu IV (2d) occupation is 36.0\\% \\item The Cl I (6i) occupation is 8.0\\% \\item The Cu VI (6i) occupation is 21.0\\% \\item The Cl II (12i) occupation is 16.4\\%. \\end{itemize} ~ \\vspace{-.25in} \n These occupations lead to the compound Cl$_{2.064}$Cu$_{6.721}$O$_{10}$V$_{2}$ which becomes (Cl$_{2.064}$Cu$_{1.721}$)Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$ in standard averievite notation. \n We have shifted the origin by 1/2 c $\\hat{z}$, swaping the (1a) and (1b) sites and moving the experimental Cu (3f) site to Cu (3e).",
+    "legacy": false,
     "notes": "Averievite",
-    "ccdc": null,
-    "icsd": "30943"
+    "comments": "Averievite is characterized by the presence of a backbone composed of Cu$_{5}$O$_{2}$ clusters and either VO$_{4}$ or PO$_{4}$ tetrahedra. The exact structure depends on the atoms added to the backbone.  We have included several averievite structures in the Encyclopedia: \\begin{itemize} \\item \\href{current_web_home_dir/A5B10C2_mP68_14_5e_10e_2e-001}{Stoiberite}, Cu$_{5}$(VO$_{4}$)$_{2}$, \\item \\href{current_web_home_dir/A18B15C10D2_hP45_164_ij_abcdei_2di_d-001}{(ClCu)$_{2}$Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$} (this structure), \\item \\href{current_web_home_dir/A2B7C10D2_hP21_143_2a_2abcd_2b2c2d_bc-001}{Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$$\\cdot$CuCl$_{2}$}, \\item \\href{current_web_home_dir/AB3C5D10E2_hP21_164_a_bc_de_2di_d-001}{(CsCl)Cu$_{5}$O$_{2}$(PO$_{4}$)$_{2}$}, \\item \\href{current_web_home_dir/AB2C5D10E2_mP40_14_a_e_c2e_5e_e-001}{Monoclinic (CsCl)Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$}, \\item \\href{current_web_home_dir/A2B7C10D20E4_hP86_147_ae_c2g_d3g_2d6g_dg-001}{Trigonal (CsCl)Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$}, and \\item \\href{current_web_home_dir/AB5C2D10E2_mC80_15_e_e2f_f_5f_f-001}{(KBr)Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$}. \\end{itemize} ~ \\vspace{-.25in} \n See (Starov, 1997), (Botana, 2018), and (Kornyakov, 2021) for more information. \n While all averievites have considerable disorder, (ClCu)$_{2}$Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$ has more disorder than most: \\begin{itemize} \\item The Cu I (1a) site is occupied 49.3\\% of the time \\item The Cu II (1b) occupation is 53.6\\%  \\item The Cu III (2c) occupation is 35.6\\% \\item The Cu IV (2d) occupation is 36.0\\% \\item The Cl I (6i) occupation is 8.0\\% \\item The Cu VI (6i) occupation is 21.0\\% \\item The Cl II (12i) occupation is 16.4\\%. \\end{itemize} ~ \\vspace{-.25in} \n These occupations lead to the compound Cl$_{2.064}$Cu$_{6.721}$O$_{10}$V$_{2}$ which becomes (Cl$_{2.064}$Cu$_{1.721}$)Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$ in standard averievite notation. \n We have shifted the origin by 1/2 c $\\hat{z}$, swaping the (1a) and (1b) sites and moving the experimental Cu (3f) site to Cu (3e)."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "8GWY",
+    "label": "A2B2C_mC20_15_ac_f_e-001",
+    "alias": "A2B2C_mC20_15_ad_f_e",
+    "title": "Ag$_{2}$PbO$_{2}$ Structure",
+    "icsd": "24037",
+    "ccdc": null,
     "prototype": "Ag2O2Pb",
     "prototype_tex": "Ag$_{2}$O$_{2}$Pb",
-    "label": "A2B2C_mC20_15_ac_f_e-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mC20",
+    "space_group_number": 15,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -23,17 +33,8 @@
         0.695,
         0.257
     ],
-    "strukturbericht": null,
-    "title": "Ag$_{2}$PbO$_{2}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B2C_mC20_15_ad_f_e",
-    "number_of_species": 3,
-    "pearson_symbol": "mC20",
-    "space_group_number": 15,
-    "comments": "(Bystr\\\"{o}m, 1950) gives the structure in the $I2/c$ setting of space group \\#15.  We have used FINDSYM to change this to the standard $C2/c$ setting.  This conversion involved a rotation of the axis, and placed the origin on what had been an Ag (4d) site, transforming it to Ag (4a).",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "24037"
+    "comments": "(Bystr\\\"{o}m, 1950) gives the structure in the $I2/c$ setting of space group \\#15.  We have used FINDSYM to change this to the standard $C2/c$ setting.  This conversion involved a rotation of the axis, and placed the origin on what had been an Ag (4d) site, transforming it to Ag (4a)."
 }

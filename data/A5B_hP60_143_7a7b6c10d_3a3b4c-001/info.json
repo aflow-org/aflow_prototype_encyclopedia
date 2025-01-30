@@ -1,9 +1,19 @@
 {
     "uid": "TWK7",
+    "label": "A5B_hP60_143_7a7b6c10d_3a3b4c-001",
+    "alias": "A5B_hP60_143_7a7b6c10d_3a3b4c-001",
+    "title": "Trigonal (h') Al$_{5}$Mo Structure",
+    "icsd": "105519",
+    "ccdc": null,
     "prototype": "Al5Mo",
     "prototype_tex": "Al$_{5}$Mo",
-    "label": "A5B_hP60_143_7a7b6c10d_3a3b4c-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP60",
+    "space_group_number": 143,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -131,17 +141,8 @@
         0.66667,
         0.05
     ],
-    "strukturbericht": null,
-    "title": "Trigonal (h') Al$_{5}$Mo Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A5B_hP60_143_7a7b6c10d_3a3b4c-001",
-    "number_of_species": 2,
-    "pearson_symbol": "hP60",
-    "space_group_number": 143,
-    "comments": "Al$_{5}$Mo is known to have three phases (Schuster, 1991): \\begin{itemize} \\item Below 650K it is in a \\href{current_web_home_dir/A5B_hR12_167_ce_b-001}{rhombohedral structure, Al$_{5}$Mo (r)}. \\item Between 650K and 750-800K it is in a \\href{current_web_home_dir/A5B_hP60_143_7a7b6c10d_3a3b4c-001}{trigonal structure, Al$_{5}$Mo(h')} (this structure). \\item Above 750-800K up to 846K it is in the \\href{current_web_home_dir/A5B_hP12_182_bcg_d-001}{Al$_{5}$W structure}. \\end{itemize} ~ \\vspace{-.25in} \n The Al$_{5}$Mo(h') atomic positions in (Schuster, 1991) are highly symmetric and approximate, and put the system in space group $P321$ \\#150.  To show the correct $P3$ space group we slightly shifted the Al-I atom's $z$-coordinate.  Presumably further refinement of the coordinates would let us determine the correct space group.",
+    "legacy": false,
     "notes": "Trigonal (h')",
-    "ccdc": null,
-    "icsd": "105519"
+    "comments": "Al$_{5}$Mo is known to have three phases (Schuster, 1991): \\begin{itemize} \\item Below 650K it is in a \\href{current_web_home_dir/A5B_hR12_167_ce_b-001}{rhombohedral structure, Al$_{5}$Mo (r)}. \\item Between 650K and 750-800K it is in a \\href{current_web_home_dir/A5B_hP60_143_7a7b6c10d_3a3b4c-001}{trigonal structure, Al$_{5}$Mo(h')} (this structure). \\item Above 750-800K up to 846K it is in the \\href{current_web_home_dir/A5B_hP12_182_bcg_d-001}{Al$_{5}$W structure}. \\end{itemize} ~ \\vspace{-.25in} \n The Al$_{5}$Mo(h') atomic positions in (Schuster, 1991) are highly symmetric and approximate, and put the system in space group $P321$ \\#150.  To show the correct $P3$ space group we slightly shifted the Al-I atom's $z$-coordinate.  Presumably further refinement of the coordinates would let us determine the correct space group."
 }

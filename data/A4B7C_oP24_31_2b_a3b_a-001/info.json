@@ -1,9 +1,19 @@
 {
     "uid": "DLX0",
+    "label": "A4B7C_oP24_31_2b_a3b_a-001",
+    "alias": "A4B7C_oP24_31_2b_a3b_a",
+    "title": "B$_{4}$SrO$_{7}$ Structure",
+    "icsd": "27404",
+    "ccdc": null,
     "prototype": "B4O7Sr",
     "prototype_tex": "B$_{4}$O$_{7}$Sr",
-    "label": "A4B7C_oP24_31_2b_a3b_a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP24",
+    "space_group_number": 31,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -51,17 +61,8 @@
         0.857,
         0.064
     ],
-    "strukturbericht": null,
-    "title": "B$_{4}$SrO$_{7}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B7C_oP24_31_2b_a3b_a",
-    "number_of_species": 3,
-    "pearson_symbol": "oP24",
-    "space_group_number": 31,
-    "comments": "\\href{current_web_home_dir/AB2C7D2_oP24_31_a_b_a3b_b-001}{Clinobarylite, BaBe$_{2}$Si$_{2}$O$_{7}$}, is a quaternary form of this structure. \n Space group $Pmn2_{1}$ \\#31 allows an arbitrary choice of the zero of the $z$-axis.  Here it is chosen so that $z_{1} = 0$ for the strontium atom.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "27404"
+    "comments": "\\href{current_web_home_dir/AB2C7D2_oP24_31_a_b_a3b_b-001}{Clinobarylite, BaBe$_{2}$Si$_{2}$O$_{7}$}, is a quaternary form of this structure. \n Space group $Pmn2_{1}$ \\#31 allows an arbitrary choice of the zero of the $z$-axis.  Here it is chosen so that $z_{1} = 0$ for the strontium atom."
 }

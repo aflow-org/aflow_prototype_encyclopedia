@@ -1,9 +1,19 @@
 {
     "uid": "SJPR",
+    "label": "A2BC5DE_oP40_33_2a_a_5a_a_a-001",
+    "alias": "A2BC5DE_oP40_33_2a_a_5a_a_a-001",
+    "title": "LiZnPO$_{4}\\cdot$H$_{2}$O Structure",
+    "icsd": "79351",
+    "ccdc": null,
     "prototype": "H2LiO5PZn",
     "prototype_tex": "H$_{2}$LiO$_{5}$PZn",
-    "label": "A2BC5DE_oP40_33_2a_a_5a_a_a-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "oP40",
+    "space_group_number": 33,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -73,17 +83,8 @@
         0.1064,
         0.1951
     ],
-    "strukturbericht": null,
-    "title": "LiZnPO$_{4}\\cdot$H$_{2}$O Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC5DE_oP40_33_2a_a_5a_a_a-001",
-    "number_of_species": 5,
-    "pearson_symbol": "oP40",
-    "space_group_number": 33,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "79351"
+    "comments": null
 }

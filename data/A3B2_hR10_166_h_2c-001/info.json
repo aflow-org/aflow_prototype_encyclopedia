@@ -1,9 +1,19 @@
 {
     "uid": "KQQW",
+    "label": "A3B2_hR10_166_h_2c-001",
+    "alias": "A3B2_hR10_166_h_2c-001",
+    "title": "Fe$_{3}$Sn$_{2}$ Structure",
+    "icsd": "71",
+    "ccdc": null,
     "prototype": "Fe3Sn2",
     "prototype_tex": "Fe$_{3}$Sn$_{2}$",
-    "label": "A3B2_hR10_166_h_2c-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hR10",
+    "space_group_number": 166,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -19,17 +29,8 @@
         0.3928,
         0.8748
     ],
-    "strukturbericht": null,
-    "title": "Fe$_{3}$Sn$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B2_hR10_166_h_2c-001",
-    "number_of_species": 2,
-    "pearson_symbol": "hR10",
-    "space_group_number": 166,
-    "comments": "There is no ICSD entry for (Dally, 2021), so we use the one from the earlier work of (Malaman, 1976). \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "71"
+    "comments": "There is no ICSD entry for (Dally, 2021), so we use the one from the earlier work of (Malaman, 1976). \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

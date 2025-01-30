@@ -1,9 +1,19 @@
 {
     "uid": "U2R2",
+    "label": "A3BC7_oC44_63_ag_b_cgh-001",
+    "alias": "A3BC7_oC44_63_ag_b_cgh-001",
+    "title": "La$_3$NbO$_{7}$ Structure",
+    "icsd": "10058",
+    "ccdc": null,
     "prototype": "La3NbO7",
     "prototype_tex": "La$_3$NbO$_{7}$",
-    "label": "A3BC7_oC44_63_ag_b_cgh-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oC44",
+    "space_group_number": 63,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -29,17 +39,8 @@
         0.32,
         0.036
     ],
-    "strukturbericht": null,
-    "title": "La$_3$NbO$_{7}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3BC7_oC44_63_ag_b_cgh-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oC44",
-    "space_group_number": 63,
-    "comments": "(Rossell, 1979) give z$_{6}$ = -0.036 for the O III (16h) site, but the corresponding CIF in the ICSD entry sets z$_{6}$ = +0.036.  We use the ICSD value. In reality the difference in position is only about 0.5{\\AA}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "10058"
+    "comments": "(Rossell, 1979) give z$_{6}$ = -0.036 for the O III (16h) site, but the corresponding CIF in the ICSD entry sets z$_{6}$ = +0.036.  We use the ICSD value. In reality the difference in position is only about 0.5{\\AA}."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "LK3Z",
+    "label": "A2B12C3_mP68_14_2e_12e_3e-001",
+    "alias": "A2B12C3_mP68_14_2e_12e_3e-001",
+    "title": "Monoclinic Fe$_{2}$(SO$_{4}$)$_{3}$ Structure",
+    "icsd": "4301",
+    "ccdc": null,
     "prototype": "Fe2O12S3",
     "prototype_tex": "Fe$_{2}$O$_{12}$S$_{3}$",
-    "label": "A2B12C3_mP68_14_2e_12e_3e-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mP68",
+    "space_group_number": 14,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -117,17 +127,8 @@
         0.38473,
         0.60802
     ],
-    "strukturbericht": null,
-    "title": "Monoclinic Fe$_{2}$(SO$_{4}$)$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B12C3_mP68_14_2e_12e_3e-001",
-    "number_of_species": 3,
-    "pearson_symbol": "mP68",
-    "space_group_number": 14,
-    "comments": "Fe$_{2}$O$_{12}$S$_{3}$ can also be found as the rhombohedral mineral \\href{current_web_home_dir/A2B12C3_hR34_148_2c_4f_f-001}{mikasaite}.",
+    "legacy": false,
     "notes": "Monoclinic Phase",
-    "ccdc": null,
-    "icsd": "4301"
+    "comments": "Fe$_{2}$O$_{12}$S$_{3}$ can also be found as the rhombohedral mineral \\href{current_web_home_dir/A2B12C3_hR34_148_2c_4f_f-001}{mikasaite}."
 }

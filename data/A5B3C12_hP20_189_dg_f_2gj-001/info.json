@@ -1,9 +1,19 @@
 {
     "uid": "8TFL",
+    "label": "A5B3C12_hP20_189_dg_f_2gj-001",
+    "alias": "A5B3C12_hP20_189_dg_f_2gj-001",
+    "title": "Ca$_{5}$Ir$_{3}$O$_{12}$ Structure",
+    "icsd": "120112",
+    "ccdc": null,
     "prototype": "Ca5Ir3O12",
     "prototype_tex": "Ca$_{5}$Ir$_{3}$O$_{12}$",
-    "label": "A5B3C12_hP20_189_dg_f_2gj-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP20",
+    "space_group_number": 189,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -23,17 +33,8 @@
         0.446,
         0.2407
     ],
-    "strukturbericht": null,
-    "title": "Ca$_{5}$Ir$_{3}$O$_{12}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A5B3C12_hP20_189_dg_f_2gj-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hP20",
-    "space_group_number": 189,
-    "comments": "The data for this structure was taken at 90K. \n There is no ICSD entry for (Wakeshima, 2003).  We use the entry from (Cao, 2007), which the authors say is in agreement with the Wakeshima result.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "120112"
+    "comments": "The data for this structure was taken at 90K. \n There is no ICSD entry for (Wakeshima, 2003).  We use the entry from (Cao, 2007), which the authors say is in agreement with the Wakeshima result."
 }

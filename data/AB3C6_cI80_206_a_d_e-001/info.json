@@ -1,9 +1,19 @@
 {
     "uid": "G3EF",
+    "label": "AB3C6_cI80_206_a_d_e-001",
+    "alias": "AB3C6_cI80_206_b_d_e",
+    "title": "Bixbyite (Mn$_{2}$O$_{3}$, $D5_{3}$) Structure",
+    "icsd": "30237",
+    "ccdc": null,
     "prototype": "Mn2O3",
     "prototype_tex": "Mn$_{2}$O$_{3}$",
-    "label": "AB3C6_cI80_206_a_d_e-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cI80",
+    "space_group_number": 206,
+    "strukturbericht": "D5_3",
+    "strukturbericht_tex": "$D5_{3}$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "x2",
         "x3",
@@ -17,18 +27,8 @@
         0.35,
         0.088
     ],
-    "strukturbericht": "D5_3",
-    "title": "Bixbyite (Mn$_{2}$O$_{3}$, $D5_{3}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$D5_{3}$",
     "compounds": {},
-    "alias": "AB3C6_cI80_206_b_d_e",
-    "number_of_species": 3,
-    "pearson_symbol": "cI80",
-    "space_group_number": 206,
-    "comments": "A search for ``bixbyite'' on the American Mineralogist Crystal Structure Database (Downs, 2003) shows two structures with the Mn atoms on the (8a) sites and one with Mn on the (8b) site. We use the structure that agrees with the data for pure Mn$_{2}$O$_{3}$ bixbyite in (Villars, 1991) Vol. IV, 4346-7. \n The referenced data is for (Mn,Fe)$_{2}$O$_{3}$, with Mn and Fe randomly populating the (8b) and (24d) sites. \n The pictures and the CIF file put Fe atoms on the (8b) sites and Mn atoms on the (24d) sites in order to better delineate the difference in the crystallographic behavior of the sites, but both sites are randomly occupied. \n An earlier version of this page (and the article) used the label AB3C6\\_cI80\\_206\\_a\\_d\\_e. The label has now been corrected to AB3C6\\_cI80\\_206\\_b\\_d\\_e.",
+    "legacy": false,
     "notes": "$D5_{3}$, Bixbyite",
-    "ccdc": null,
-    "icsd": "30237"
+    "comments": "A search for ``bixbyite'' on the American Mineralogist Crystal Structure Database (Downs, 2003) shows two structures with the Mn atoms on the (8a) sites and one with Mn on the (8b) site. We use the structure that agrees with the data for pure Mn$_{2}$O$_{3}$ bixbyite in (Villars, 1991) Vol. IV, 4346-7. \n The referenced data is for (Mn,Fe)$_{2}$O$_{3}$, with Mn and Fe randomly populating the (8b) and (24d) sites. \n The pictures and the CIF file put Fe atoms on the (8b) sites and Mn atoms on the (24d) sites in order to better delineate the difference in the crystallographic behavior of the sites, but both sites are randomly occupied. \n An earlier version of this page (and the article) used the label AB3C6\\_cI80\\_206\\_a\\_d\\_e. The label has now been corrected to AB3C6\\_cI80\\_206\\_b\\_d\\_e."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "PD3R",
+    "label": "A2B6C3_oP44_62_2c_2c2d_3c-001",
+    "alias": "A2B6C3_oP44_62_2c_2c2d_3c",
+    "title": "K$_{2}$S$_{3}$O$_{6}$ ($K5_{1}$) Structure",
+    "icsd": "8200",
+    "ccdc": null,
     "prototype": "K2O6S3",
     "prototype_tex": "K$_{2}$O$_{6}$S$_{3}$",
-    "label": "A2B6C3_oP44_62_2c_2c2d_3c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP44",
+    "space_group_number": 62,
+    "strukturbericht": "K5_1",
+    "strukturbericht_tex": "$K5_{1}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -53,18 +63,8 @@
         0.541,
         0.924
     ],
-    "strukturbericht": "K5_1",
-    "title": "K$_{2}$S$_{3}$O$_{6}$ ($K5_{1}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$K5_{1}$",
     "compounds": {},
-    "alias": "A2B6C3_oP44_62_2c_2c2d_3c",
-    "number_of_species": 3,
-    "pearson_symbol": "oP44",
-    "space_group_number": 62,
-    "comments": "(Stewart, 1979) give the Wyckoff positions of this structure using the $Pnam$ orientation of space group \\#62.  We have used FINDSYM to change this to our standard $Pnma$ orientation.",
+    "legacy": false,
     "notes": "$K5_{1}$",
-    "ccdc": null,
-    "icsd": "8200"
+    "comments": "(Stewart, 1979) give the Wyckoff positions of this structure using the $Pnam$ orientation of space group \\#62.  We have used FINDSYM to change this to our standard $Pnma$ orientation."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "YVPA",
+    "label": "AB3C_hP30_150_ef_3g_c2d-001",
+    "alias": "AB3C_hP30_150_ef_3g_c2d",
+    "title": "KSO$_{3}$ ($K1_{1}$) Structure",
+    "icsd": "27580",
+    "ccdc": null,
     "prototype": "KO3S",
     "prototype_tex": "KO$_{3}$S",
-    "label": "AB3C_hP30_150_ef_3g_c2d-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP30",
+    "space_group_number": 150,
+    "strukturbericht": "K1_1",
+    "strukturbericht_tex": "$K1_{1}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -39,18 +49,8 @@
         0.21,
         0.8
     ],
-    "strukturbericht": "K1_1",
-    "title": "KSO$_{3}$ ($K1_{1}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$K1_{1}$",
     "compounds": {},
-    "alias": "AB3C_hP30_150_ef_3g_c2d",
-    "number_of_species": 3,
-    "pearson_symbol": "hP30",
-    "space_group_number": 150,
-    "comments": "The ICSD entry differs from the published version of (Huggins, 1931) by using somewhat different lattice constants and switching the x coordinates of the potassium atoms.  We will use the published results here.",
+    "legacy": false,
     "notes": "$K1_{1}$",
-    "ccdc": null,
-    "icsd": "27580"
+    "comments": "The ICSD entry differs from the published version of (Huggins, 1931) by using somewhat different lattice constants and switching the x coordinates of the potassium atoms.  We will use the published results here."
 }

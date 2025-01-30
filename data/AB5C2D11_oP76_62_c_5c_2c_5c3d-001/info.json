@@ -1,9 +1,19 @@
 {
     "uid": "CZW8",
+    "label": "AB5C2D11_oP76_62_c_5c_2c_5c3d-001",
+    "alias": "AB5C2D11_oP76_62_c_5c_2c_5c3d-001",
+    "title": "Ba$_{5}$AlIr$_{2}$O$_{11}$ Structure",
+    "icsd": "67143",
+    "ccdc": null,
     "prototype": "AlBa5Ir2O11",
     "prototype_tex": "AlBa$_{5}$Ir$_{2}$O$_{11}$",
-    "label": "AB5C2D11_oP76_62_c_5c_2c_5c3d-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oP76",
+    "space_group_number": 62,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -83,17 +93,8 @@
         0.494,
         0.254
     ],
-    "strukturbericht": null,
-    "title": "Ba$_{5}$AlIr$_{2}$O$_{11}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB5C2D11_oP76_62_c_5c_2c_5c3d-001",
-    "number_of_species": 4,
-    "pearson_symbol": "oP76",
-    "space_group_number": 62,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "67143"
+    "comments": null
 }

@@ -1,9 +1,19 @@
 {
     "uid": "3Z42",
+    "label": "ABC2_tP8_129_a_c_bc-002",
+    "alias": "ABC2_tP8_129_a_c_bc-002",
+    "title": "HfCuSi$_{2}$ Structure",
+    "icsd": "87174",
+    "ccdc": null,
     "prototype": "CuHfSi2",
     "prototype_tex": "CuHfSi$_{2}$",
-    "label": "ABC2_tP8_129_a_c_bc-002",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP8",
+    "space_group_number": 129,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -15,17 +25,8 @@
         0.741,
         0.189
     ],
-    "strukturbericht": null,
-    "title": "HfCuSi$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC2_tP8_129_a_c_bc-002",
-    "number_of_species": 3,
-    "pearson_symbol": "tP8",
-    "space_group_number": 129,
-    "comments": "This is a ternary form of \\href{current_web_home_dir/ABCD_tP8_129_c_b_a_c-001}{AsCuSiZr} and \\href{current_web_home_dir/ABCD_tP8_129_b_c_a_c-001}{LaOAgS}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "87174"
+    "comments": "This is a ternary form of \\href{current_web_home_dir/ABCD_tP8_129_c_b_a_c-001}{AsCuSiZr} and \\href{current_web_home_dir/ABCD_tP8_129_b_c_a_c-001}{LaOAgS}."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "QHEE",
+    "label": "A2B_mC48_15_ae3f_2f-001",
+    "alias": "A2B_mC48_15_ae3f_2f",
+    "title": "Coesite (SiO$_{2}$) Structure",
+    "icsd": "100749",
+    "ccdc": null,
     "prototype": "O2Si",
     "prototype_tex": "O$_{2}$Si",
-    "label": "A2B_mC48_15_ae3f_2f-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC48",
+    "space_group_number": 15,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -47,17 +57,8 @@
         0.65799,
         0.45923
     ],
-    "strukturbericht": null,
-    "title": "Coesite (SiO$_{2}$) Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B_mC48_15_ae3f_2f",
-    "number_of_species": 2,
-    "pearson_symbol": "mC48",
-    "space_group_number": 15,
-    "comments": "Our original work (Mehl, 2017) misplaced the O II Wycoff position.  This is corrected here.",
+    "legacy": false,
     "notes": "Coesite",
-    "ccdc": null,
-    "icsd": "100749"
+    "comments": "Our original work (Mehl, 2017) misplaced the O II Wycoff position.  This is corrected here."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "2KF1",
+    "label": "AB3C_oP20_62_c_cd_a-001",
+    "alias": "AB3C_oP20_62_c_cd_a",
+    "title": "CaTiO$_{3}$ $Pnma$ Perovskite Structure",
+    "icsd": "94568",
+    "ccdc": null,
     "prototype": "CaO3Ti",
     "prototype_tex": "CaO$_{3}$Ti",
-    "label": "AB3C_oP20_62_c_cd_a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP20",
+    "space_group_number": 62,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -27,17 +37,8 @@
         0.537,
         0.213
     ],
-    "strukturbericht": null,
-    "title": "CaTiO$_{3}$ $Pnma$ Perovskite Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB3C_oP20_62_c_cd_a",
-    "number_of_species": 3,
-    "pearson_symbol": "oP20",
-    "space_group_number": 62,
-    "comments": "This is the true ground state of CaTiO$_{3}$.  The \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite structure ($E2_{1}$)} is the high-temperature phase. \n The ICSD uses GdFeO$_{3}$ as the prototype for this phase.",
+    "legacy": false,
     "notes": "Orthorhombic Perovskite",
-    "ccdc": null,
-    "icsd": "94568"
+    "comments": "This is the true ground state of CaTiO$_{3}$.  The \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite structure ($E2_{1}$)} is the high-temperature phase. \n The ICSD uses GdFeO$_{3}$ as the prototype for this phase."
 }

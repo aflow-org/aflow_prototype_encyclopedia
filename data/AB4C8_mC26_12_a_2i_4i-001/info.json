@@ -1,9 +1,19 @@
 {
     "uid": "50AM",
+    "label": "AB4C8_mC26_12_a_2i_4i-001",
+    "alias": "AB4C8_mC26_12_a_2i_4i-001",
+    "title": "Hollandite (BaMn$_{2}$O$_{4}$) Structure",
+    "icsd": "62096",
+    "ccdc": null,
     "prototype": "BaMn2O4",
     "prototype_tex": "BaMn$_{2}$O$_{4}$",
-    "label": "AB4C8_mC26_12_a_2i_4i-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mC26",
+    "space_group_number": 12,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -39,17 +49,8 @@
         0.6769,
         0.6351
     ],
-    "strukturbericht": null,
-    "title": "Hollandite (BaMn$_{2}$O$_{4}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB4C8_mC26_12_a_2i_4i-001",
-    "number_of_species": 3,
-    "pearson_symbol": "mC26",
-    "space_group_number": 12,
-    "comments": "(Miura, 1986) gives the structure in the $I2/m$ setting of space group \\#12.  We used FINDSYM to change this to the standard $C2/c$ setting. \n \\href{current_web_home_dir/AB2C12D4_tP76_75_2a2b_2d_12d_4d-001}{Hexagonal hollandite, BaCr$_{2}$Cr$_{2}$O$_{12}$}, is a hexagonal superstructure of this structure.",
+    "legacy": false,
     "notes": "Hollandite",
-    "ccdc": null,
-    "icsd": "62096"
+    "comments": "(Miura, 1986) gives the structure in the $I2/m$ setting of space group \\#12.  We used FINDSYM to change this to the standard $C2/c$ setting. \n \\href{current_web_home_dir/AB2C12D4_tP76_75_2a2b_2d_12d_4d-001}{Hexagonal hollandite, BaCr$_{2}$Cr$_{2}$O$_{12}$}, is a hexagonal superstructure of this structure."
 }

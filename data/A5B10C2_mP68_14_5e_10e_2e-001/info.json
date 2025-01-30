@@ -1,9 +1,19 @@
 {
     "uid": "S3GM",
+    "label": "A5B10C2_mP68_14_5e_10e_2e-001",
+    "alias": "A5B10C2_mP68_14_5e_10e_2e-001",
+    "title": "Stoiberite [Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$] Structure",
+    "icsd": "2557",
+    "ccdc": null,
     "prototype": "Cu5O10V2",
     "prototype_tex": "Cu$_{5}$O$_{10}$V$_{2}$",
-    "label": "A5B10C2_mP68_14_5e_10e_2e-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mP68",
+    "space_group_number": 14,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -117,17 +127,8 @@
         0.69313,
         0.32889
     ],
-    "strukturbericht": null,
-    "title": "Stoiberite [Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$] Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A5B10C2_mP68_14_5e_10e_2e-001",
-    "number_of_species": 3,
-    "pearson_symbol": "mP68",
-    "space_group_number": 14,
-    "comments": "Stoiberite is related to \\href{current_web_home_dir/A2B7C10D2_hP21_143_2a_2abcd_2b2c2d_bc-001}{averievite}, and similar structures (Botana 2018; Kornyakov, 2021) are often referred to as averievite. All consist of arrays of VO$_{4}$ tetraheda connected by copper and oxygen, and many structures include additional elements.  We have collected an number of these structures, towit: \\begin{itemize} \\item \\href{current_web_home_dir/A5B10C2_mP68_14_5e_10e_2e-001}{Stoiberite}, Cu$_{5}$(VO$_{4}$)$_{2}$ (this structure), \\item \\href{current_web_home_dir/A18B15C10D2_hP45_164_ij_abcdei_2di_d-001}{(ClCu)$_{2}$Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$}, \\item \\href{current_web_home_dir/A2B7C10D2_hP21_143_2a_2abcd_2b2c2d_bc-001}{Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$$\\cdot$CuCl$_{2}$}, \\item \\href{current_web_home_dir/AB3C5D10E2_hP21_164_a_bc_de_2di_d-001}{(CsCl)Cu$_{5}$O$_{2}$(PO$_{4}$)$_{2}$}, \\item \\href{current_web_home_dir/AB2C5D10E2_mP40_14_a_e_c2e_5e_e-001}{Monoclinic (CsCl)Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$}, \\item \\href{current_web_home_dir/A2B7C10D20E4_hP86_147_ae_c2g_d3g_2d6g_dg-001}{Trigonal (CsCl)Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$}, and \\item \\href{current_web_home_dir/AB5C2D10E2_mC80_15_e_e2f_f_5f_f-001}{(KBr)Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$}. \\end{itemize}",
+    "legacy": false,
     "notes": "Stoiberite",
-    "ccdc": null,
-    "icsd": "2557"
+    "comments": "Stoiberite is related to \\href{current_web_home_dir/A2B7C10D2_hP21_143_2a_2abcd_2b2c2d_bc-001}{averievite}, and similar structures (Botana 2018; Kornyakov, 2021) are often referred to as averievite. All consist of arrays of VO$_{4}$ tetraheda connected by copper and oxygen, and many structures include additional elements.  We have collected an number of these structures, towit: \\begin{itemize} \\item \\href{current_web_home_dir/A5B10C2_mP68_14_5e_10e_2e-001}{Stoiberite}, Cu$_{5}$(VO$_{4}$)$_{2}$ (this structure), \\item \\href{current_web_home_dir/A18B15C10D2_hP45_164_ij_abcdei_2di_d-001}{(ClCu)$_{2}$Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$}, \\item \\href{current_web_home_dir/A2B7C10D2_hP21_143_2a_2abcd_2b2c2d_bc-001}{Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$$\\cdot$CuCl$_{2}$}, \\item \\href{current_web_home_dir/AB3C5D10E2_hP21_164_a_bc_de_2di_d-001}{(CsCl)Cu$_{5}$O$_{2}$(PO$_{4}$)$_{2}$}, \\item \\href{current_web_home_dir/AB2C5D10E2_mP40_14_a_e_c2e_5e_e-001}{Monoclinic (CsCl)Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$}, \\item \\href{current_web_home_dir/A2B7C10D20E4_hP86_147_ae_c2g_d3g_2d6g_dg-001}{Trigonal (CsCl)Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$}, and \\item \\href{current_web_home_dir/AB5C2D10E2_mC80_15_e_e2f_f_5f_f-001}{(KBr)Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$}. \\end{itemize}"
 }

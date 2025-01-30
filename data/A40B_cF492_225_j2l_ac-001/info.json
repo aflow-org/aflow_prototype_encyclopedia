@@ -1,9 +1,19 @@
 {
     "uid": "54ZJ",
+    "label": "A40B_cF492_225_j2l_ac-001",
+    "alias": "A40B_cF492_225_j2l_ac-001",
+    "title": "fcc Fullerene (K$_{3}$C$_{60}$) Structure",
+    "icsd": "66728",
+    "ccdc": null,
     "prototype": "C60K3",
     "prototype_tex": "C$_{60}$K$_{3}$",
-    "label": "A40B_cF492_225_j2l_ac-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cF492",
+    "space_group_number": 225,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "y3",
         "z3",
@@ -25,17 +35,8 @@
         0.66,
         0.551
     ],
-    "strukturbericht": null,
-    "title": "fcc Fullerene (K$_{3}$C$_{60}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A40B_cF492_225_j2l_ac-001",
-    "number_of_species": 2,
-    "pearson_symbol": "cF492",
-    "space_group_number": 225,
-    "comments": "All of the carbon sites are occupied only 50\\% of the time. \n (Stephens, 1991) put the K-I atom on the (4b) Wyckoff position, $(1/2,1/2,1/2)$.  We shifted this so that the atom is at the origin, the (4a) Wyckoff site.",
+    "legacy": false,
     "notes": "fcc Fullerene",
-    "ccdc": null,
-    "icsd": "66728"
+    "comments": "All of the carbon sites are occupied only 50\\% of the time. \n (Stephens, 1991) put the K-I atom on the (4b) Wyckoff position, $(1/2,1/2,1/2)$.  We shifted this so that the atom is at the origin, the (4a) Wyckoff site."
 }

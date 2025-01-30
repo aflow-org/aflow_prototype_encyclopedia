@@ -1,9 +1,19 @@
 {
     "uid": "W96U",
+    "label": "A2BC2_tP20_105_f_bc_2d-001",
+    "alias": "A2BC2_tP20_105_f_ac_2e",
+    "title": "BaGe$_{2}$As$_{2}$ Structure",
+    "icsd": "26417",
+    "ccdc": null,
     "prototype": "As2BaGe2",
     "prototype_tex": "As$_{2}$BaGe$_{2}$",
-    "label": "A2BC2_tP20_105_f_bc_2d-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP20",
+    "space_group_number": 105,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -29,17 +39,8 @@
         0.7453,
         0.2558
     ],
-    "strukturbericht": null,
-    "title": "BaGe$_{2}$As$_{2}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC2_tP20_105_f_ac_2e",
-    "number_of_species": 3,
-    "pearson_symbol": "tP20",
-    "space_group_number": 105,
-    "comments": "Our previous listing of this structure (Hicks, 2017) misplaced the $z$ coordinates of the Ba II and Ge II atoms by $c/2$. We have corrected this here. \n Space group $P4_{2}mc$ \\#105 allows an arbitary placement of the origin of the $z$-axis.  Here we use this freedom to set $z_{1} = 0$ for the Ba-I atoms.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "26417"
+    "comments": "Our previous listing of this structure (Hicks, 2017) misplaced the $z$ coordinates of the Ba II and Ge II atoms by $c/2$. We have corrected this here. \n Space group $P4_{2}mc$ \\#105 allows an arbitary placement of the origin of the $z$-axis.  Here we use this freedom to set $z_{1} = 0$ for the Ba-I atoms."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "QVV1",
+    "label": "AB_mP6_10_bn_cm-001",
+    "alias": "AB_mP6_10_en_am",
+    "title": "$\\alpha$-LiSn Structure",
+    "icsd": "104782",
+    "ccdc": null,
     "prototype": "LiSn",
     "prototype_tex": "LiSn",
-    "label": "AB_mP6_10_bn_cm-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mP6",
+    "space_group_number": 10,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -23,17 +33,8 @@
         0.664,
         0.427
     ],
-    "strukturbericht": null,
-    "title": "$\\alpha$-LiSn Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_mP6_10_en_am",
-    "number_of_species": 2,
-    "pearson_symbol": "mP6",
-    "space_group_number": 10,
-    "comments": "This is the low-temperature structure of LiSn.  Above 470K LiSn may transform into the  \\href{current_web_home_dir/AB_tI24_141_ae_be-001}{tetragonal $\\beta$-LiSn structure} (Villars, 2018).  This structure is apparently metastable at room temperature (Blase, 1990). \n (M\\\"{u}ller, 1973) give this structure in the ``unique axis-$c$'' setting of space group $P2_{1}/m$ \\#11.  We used FINDSYM to transform this to the standard ``unique axis-$b$'' setting. This involves an origin shift.",
+    "legacy": false,
     "notes": "$\\alpha$-LiSn",
-    "ccdc": null,
-    "icsd": "104782"
+    "comments": "This is the low-temperature structure of LiSn.  Above 470K LiSn may transform into the  \\href{current_web_home_dir/AB_tI24_141_ae_be-001}{tetragonal $\\beta$-LiSn structure} (Villars, 2018).  This structure is apparently metastable at room temperature (Blase, 1990). \n (M\\\"{u}ller, 1973) give this structure in the ``unique axis-$c$'' setting of space group $P2_{1}/m$ \\#11.  We used FINDSYM to transform this to the standard ``unique axis-$b$'' setting. This involves an origin shift."
 }

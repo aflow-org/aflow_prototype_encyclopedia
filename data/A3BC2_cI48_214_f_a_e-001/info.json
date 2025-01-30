@@ -1,9 +1,19 @@
 {
     "uid": "3JDV",
+    "label": "A3BC2_cI48_214_f_a_e-001",
+    "alias": "A3BC2_cI48_214_f_a_e",
+    "title": "Petzite (Ag$_{3}$AuTe$_{2}$) Structure",
+    "icsd": "27539",
+    "ccdc": null,
     "prototype": "Ag3AuTe2",
     "prototype_tex": "Ag$_{3}$AuTe$_{2}$",
-    "label": "A3BC2_cI48_214_f_a_e-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cI48",
+    "space_group_number": 214,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "x2",
         "x3"
@@ -13,17 +23,8 @@
         0.766,
         0.365
     ],
-    "strukturbericht": null,
-    "title": "Petzite (Ag$_{3}$AuTe$_{2}$) Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3BC2_cI48_214_f_a_e",
-    "number_of_species": 3,
-    "pearson_symbol": "cI48",
-    "space_group_number": 214,
+    "legacy": false,
     "notes": "Petzite",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "27539"
+    "comments": null
 }

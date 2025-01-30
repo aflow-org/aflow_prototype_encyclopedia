@@ -1,9 +1,19 @@
 {
     "uid": "EUHG",
+    "label": "A4BC4_tP18_137_g_a_g-001",
+    "alias": "A4BC4_tP18_137_g_b_g",
+    "title": "CeCo$_{4}$B$_{4}$ Structure",
+    "icsd": "654433",
+    "ccdc": null,
     "prototype": "B4CeCo4",
     "prototype_tex": "B$_{4}$CeCo$_{4}$",
-    "label": "A4BC4_tP18_137_g_a_g-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP18",
+    "space_group_number": 137,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "y2",
@@ -19,17 +29,8 @@
         0.503,
         0.884
     ],
-    "strukturbericht": null,
-    "title": "CeCo$_{4}$B$_{4}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4BC4_tP18_137_g_b_g",
-    "number_of_species": 3,
-    "pearson_symbol": "tP18",
-    "space_group_number": 137,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "654433"
+    "comments": null
 }

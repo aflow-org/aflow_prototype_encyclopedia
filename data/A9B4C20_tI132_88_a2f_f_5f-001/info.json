@@ -1,9 +1,19 @@
 {
     "uid": "JMG5",
+    "label": "A9B4C20_tI132_88_a2f_f_5f-001",
+    "alias": "A9B4C20_tI132_88_a2f_f_5f",
+    "title": "Na$_{4}$Ge$_{9}$O$_{20}$ Structure",
+    "icsd": "24087",
+    "ccdc": null,
     "prototype": "Ge9Na4O20",
     "prototype_tex": "Ge$_{9}$Na$_{4}$O$_{20}$",
-    "label": "A9B4C20_tI132_88_a2f_f_5f-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tI132",
+    "space_group_number": 88,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -59,17 +69,8 @@
         0.6088,
         0.007
     ],
-    "strukturbericht": null,
-    "title": "Na$_{4}$Ge$_{9}$O$_{20}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A9B4C20_tI132_88_a2f_f_5f",
-    "number_of_species": 3,
-    "pearson_symbol": "tI132",
-    "space_group_number": 88,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "24087"
+    "comments": null
 }

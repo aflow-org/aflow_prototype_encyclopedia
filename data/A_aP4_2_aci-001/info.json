@@ -1,9 +1,19 @@
 {
     "uid": "G18C",
+    "label": "A_aP4_2_aci-001",
+    "alias": "A_aP4_2_aci",
+    "title": "Cf Structure",
+    "icsd": "52913",
+    "ccdc": null,
     "prototype": "Cf",
     "prototype_tex": "Cf",
-    "label": "A_aP4_2_aci-001",
-    "parameter_symbol": [
+    "number_of_species": 1,
+    "pearson_symbol": "aP4",
+    "space_group_number": 2,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -25,17 +35,8 @@
         0.259,
         0.433
     ],
-    "strukturbericht": null,
-    "title": "Cf Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "A_aP4_2_aci",
-    "number_of_species": 1,
-    "pearson_symbol": "aP4",
-    "space_group_number": 2,
-    "comments": "This is a high-pressure phase, observed between 30 and 40 GPa. \n The pressure at which the X-ray data was taken was not specified by (Roof, 1986).",
+    "legacy": false,
     "notes": "30-40 GPa",
-    "ccdc": null,
-    "icsd": "52913"
+    "comments": "This is a high-pressure phase, observed between 30 and 40 GPa. \n The pressure at which the X-ray data was taken was not specified by (Roof, 1986)."
 }

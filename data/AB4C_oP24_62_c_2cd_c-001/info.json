@@ -1,9 +1,19 @@
 {
     "uid": "CXQX",
+    "label": "AB4C_oP24_62_c_2cd_c-001",
+    "alias": "AB4C_oP24_62_c_2cd_c",
+    "title": "Barite (BaSO$_{4}$, $H0_{2}$) Structure",
+    "icsd": "16904",
+    "ccdc": null,
     "prototype": "BaO4S",
     "prototype_tex": "BaO$_{4}$S",
-    "label": "AB4C_oP24_62_c_2cd_c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP24",
+    "space_group_number": 62,
+    "strukturbericht": "H0_2",
+    "strukturbericht_tex": "$H0_{2}$",
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -35,18 +45,8 @@
         0.4702,
         0.819
     ],
-    "strukturbericht": "H0_2",
-    "title": "Barite (BaSO$_{4}$, $H0_{2}$) Structure",
-    "part": 2,
-    "legacy": false,
-    "strukturbericht_tex": "$H0_{2}$",
     "compounds": {},
-    "alias": "AB4C_oP24_62_c_2cd_c",
-    "number_of_species": 3,
-    "pearson_symbol": "oP24",
-    "space_group_number": 62,
+    "legacy": false,
     "notes": "$HO_{2}$ barite",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "16904"
+    "comments": null
 }

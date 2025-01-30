@@ -1,9 +1,19 @@
 {
     "uid": "8ZWP",
+    "label": "AB2C2_tP5_123_b_e_ac-001",
+    "alias": "AB2C2_tP5_123_b_e_ac-001",
+    "title": "Mn$_{2}$Co$_{2}$C Structure",
+    "icsd": "44353",
+    "ccdc": null,
     "prototype": "CCo2Mn2",
     "prototype_tex": "CCo$_{2}$Mn$_{2}$",
-    "label": "AB2C2_tP5_123_b_e_ac-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP5",
+    "space_group_number": 123,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a"
     ],
@@ -11,17 +21,8 @@
         3.786,
         1.0
     ],
-    "strukturbericht": null,
-    "title": "Mn$_{2}$Co$_{2}$C Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2C2_tP5_123_b_e_ac-001",
-    "number_of_species": 3,
-    "pearson_symbol": "tP5",
-    "space_group_number": 123,
-    "comments": "We have inferred the value of $a$ and the positions of the atoms from Figure 2(a) of (Holtzman, 1959) and Figure 3 of (Murthy, 1969), shifting the origin to be on the Mn$_{II}$ atom.  The value of $c$ was inferred from the C-Mn$_{II}$ distance given in the paper.  This is a pseudo-cubic lattice, with $c/a \\approx 1$.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "44353"
+    "comments": "We have inferred the value of $a$ and the positions of the atoms from Figure 2(a) of (Holtzman, 1959) and Figure 3 of (Murthy, 1969), shifting the origin to be on the Mn$_{II}$ atom.  The value of $c$ was inferred from the C-Mn$_{II}$ distance given in the paper.  This is a pseudo-cubic lattice, with $c/a \\approx 1$."
 }

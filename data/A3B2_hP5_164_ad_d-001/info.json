@@ -1,9 +1,19 @@
 {
     "uid": "EUFT",
+    "label": "A3B2_hP5_164_ad_d-001",
+    "alias": "A3B2_hP5_164_ad_d",
+    "title": "Al$_{3}$Ni$_{2}$ ($D5_{13}$) Structure",
+    "icsd": "107937",
+    "ccdc": null,
     "prototype": "Al3Ni2",
     "prototype_tex": "Al$_{3}$Ni$_{2}$",
-    "label": "A3B2_hP5_164_ad_d-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP5",
+    "space_group_number": 164,
+    "strukturbericht": "D5_13",
+    "strukturbericht_tex": "$D5_{13}$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -15,18 +25,8 @@
         0.648,
         0.149
     ],
-    "strukturbericht": "D5_13",
-    "title": "Al$_{3}$Ni$_{2}$ ($D5_{13}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$D5_{13}$",
     "compounds": {},
-    "alias": "A3B2_hP5_164_ad_d",
-    "number_of_species": 2,
-    "pearson_symbol": "hP5",
-    "space_group_number": 164,
-    "comments": "Either the three Al atoms or Al (1a) and the Ni atoms form a \\href{current_web_home_dir/AB2_hP3_164_a_d-001}{trigonal omega ($C6$) structure}. Using the choices of internal parameters for Al$_{3}$Ni$_{2}$, this can be viewed as a five-layer close-packed unit cell with stacking ABCBCA. \n Al$_{3}$Ni$_{2}$ is isostructural with \\href{current_web_home_dir/A2B3_hP5_164_d_ad-001}{La$_{2}$O$_{3}$ ($D5_{2}$)} and \\href{current_web_home_dir/A2B2C_hP5_164_d_d_a-002}{Ce$_{2}$O$_{2}$S}.  We use this structure for the binary intermetallics, $D5_{2}$ for the binary oxides and related structures, and Ce$_{2}$O$_{2}$S for the ternary structures.",
+    "legacy": false,
     "notes": "$D5_{13}$",
-    "ccdc": null,
-    "icsd": "107937"
+    "comments": "Either the three Al atoms or Al (1a) and the Ni atoms form a \\href{current_web_home_dir/AB2_hP3_164_a_d-001}{trigonal omega ($C6$) structure}. Using the choices of internal parameters for Al$_{3}$Ni$_{2}$, this can be viewed as a five-layer close-packed unit cell with stacking ABCBCA. \n Al$_{3}$Ni$_{2}$ is isostructural with \\href{current_web_home_dir/A2B3_hP5_164_d_ad-001}{La$_{2}$O$_{3}$ ($D5_{2}$)} and \\href{current_web_home_dir/A2B2C_hP5_164_d_d_a-002}{Ce$_{2}$O$_{2}$S}.  We use this structure for the binary intermetallics, $D5_{2}$ for the binary oxides and related structures, and Ce$_{2}$O$_{2}$S for the ternary structures."
 }

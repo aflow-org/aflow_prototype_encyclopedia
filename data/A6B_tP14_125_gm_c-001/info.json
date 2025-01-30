@@ -1,9 +1,19 @@
 {
     "uid": "PCUV",
+    "label": "A6B_tP14_125_gm_c-001",
+    "alias": "A6B_tP14_125_gm_c-001",
+    "title": "PuGa$_{6}$ Structure",
+    "icsd": "103942",
+    "ccdc": null,
     "prototype": "Ga6Pu",
     "prototype_tex": "Ga$_{6}$Pu",
-    "label": "A6B_tP14_125_gm_c-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tP14",
+    "space_group_number": 125,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -17,17 +27,8 @@
         0.937,
         0.65
     ],
-    "strukturbericht": null,
-    "title": "PuGa$_{6}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A6B_tP14_125_gm_c-001",
-    "number_of_species": 2,
-    "pearson_symbol": "tP14",
-    "space_group_number": 125,
-    "comments": "(Ellinger, 1965) give the structure of PuGa$_{6}$ in setting 1 of space group $P4/nbm$ \\#125.  We used FINDSYM to put this in the standard setting 2.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "103942"
+    "comments": "(Ellinger, 1965) give the structure of PuGa$_{6}$ in setting 1 of space group $P4/nbm$ \\#125.  We used FINDSYM to put this in the standard setting 2."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "B1DH",
+    "label": "A2B3C_hP48_147_2d2g_4g_abef-001",
+    "alias": "A2B3C_hP48_147_2d2g_4g_abef-001",
+    "title": "URu$_{3}$B$_{2}$ Structure",
+    "icsd": "44578",
+    "ccdc": null,
     "prototype": "B2Ru3U",
     "prototype_tex": "B$_{2}$Ru$_{3}$U",
-    "label": "A2B3C_hP48_147_2d2g_4g_abef-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP48",
+    "space_group_number": 147,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -51,17 +61,8 @@
         0.7473,
         0.2489
     ],
-    "strukturbericht": null,
-    "title": "URu$_{3}$B$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B3C_hP48_147_2d2g_4g_abef-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hP48",
-    "space_group_number": 147,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "44578"
+    "comments": null
 }

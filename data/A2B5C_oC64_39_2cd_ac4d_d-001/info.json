@@ -1,9 +1,19 @@
 {
     "uid": "J44L",
+    "label": "A2B5C_oC64_39_2cd_ac4d_d-001",
+    "alias": "A2B5C_oC64_39_2cd_ac4d_d-001",
+    "title": "Smirnite (Bi$_{2}$TeO$_{5}$) Structure",
+    "icsd": "36446",
+    "ccdc": null,
     "prototype": "Bi2O5Te",
     "prototype_tex": "Bi$_{2}$O$_{5}$Te",
-    "label": "A2B5C_oC64_39_2cd_ac4d_d-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oC64",
+    "space_group_number": 39,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -63,17 +73,8 @@
         0.0804,
         0.0
     ],
-    "strukturbericht": null,
-    "title": "Smirnite (Bi$_{2}$TeO$_{5}$) Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B5C_oC64_39_2cd_ac4d_d-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oC64",
-    "space_group_number": 39,
-    "comments": "Space group $Amb2$ \\#39 allows an arbitrary placement of the origin of the $z$-axis.  Here $z_{10} = 0$ for the tellurium (8d) site.",
+    "legacy": false,
     "notes": "Smirnite",
-    "ccdc": null,
-    "icsd": "36446"
+    "comments": "Space group $Amb2$ \\#39 allows an arbitrary placement of the origin of the $z$-axis.  Here $z_{10} = 0$ for the tellurium (8d) site."
 }

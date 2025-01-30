@@ -1,9 +1,19 @@
 {
     "uid": "ZD64",
+    "label": "A2BC4_oP56_56_2e_e_4e-001",
+    "alias": "A2BC4_oP56_56_2e_e_4e",
+    "title": "Calciborite (CaB$_{2}$O$_{4}$ II) Structure",
+    "icsd": "20097",
+    "ccdc": null,
     "prototype": "B2CaO4",
     "prototype_tex": "B$_{2}$CaO$_{4}$",
-    "label": "A2BC4_oP56_56_2e_e_4e-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP56",
+    "space_group_number": 56,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -55,17 +65,8 @@
         0.112,
         0.378
     ],
-    "strukturbericht": null,
-    "title": "Calciborite (CaB$_{2}$O$_{4}$ II) Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC4_oP56_56_2e_e_4e",
-    "number_of_species": 3,
-    "pearson_symbol": "oP56",
-    "space_group_number": 56,
-    "comments": "This structure has the same orthorhombic lattice constants as the CaB$_{2}$O$_{4}$ II structure identified in (Marezio, 1969ab), however they state that the structure is stable between 1.2 and 1.5 GPa, while this mineral was obtained ``From drillcore into a contact metasomatized limestone near a quartz diorite intrusion associated with a copper deposit in skarn.'' (Downs, 2003). \n CaB$_{2}$O$_{4}$ exists in at least four phase (Marezio, 1969ab): \\begin{itemize} \\item \\href{current_web_home_dir/A2BC4_oP28_60_d_c_2d-001}{The ground state}, stable below 1.2 GPa, {\\em Strukturbericht} $E3_{2}$ \\item Orthorhombic high pressure structure, presumably this calciborite structure \\item \\href{current_web_home_dir/A2BC4_oP84_33_6a_3a_12a-001}{Orthorhombic high pressure structure}, stable between 1.5 and 2.5 GPa \\item \\href{current_web_home_dir/A2BC4_cP84_205_d_ac_2d-001}{Cubic high pressure structure}, stable between 2.5 and 4.0 GPa \\end{itemize}",
+    "legacy": false,
     "notes": "Calciborite",
-    "ccdc": null,
-    "icsd": "20097"
+    "comments": "This structure has the same orthorhombic lattice constants as the CaB$_{2}$O$_{4}$ II structure identified in (Marezio, 1969ab), however they state that the structure is stable between 1.2 and 1.5 GPa, while this mineral was obtained ``From drillcore into a contact metasomatized limestone near a quartz diorite intrusion associated with a copper deposit in skarn.'' (Downs, 2003). \n CaB$_{2}$O$_{4}$ exists in at least four phase (Marezio, 1969ab): \\begin{itemize} \\item \\href{current_web_home_dir/A2BC4_oP28_60_d_c_2d-001}{The ground state}, stable below 1.2 GPa, {\\em Strukturbericht} $E3_{2}$ \\item Orthorhombic high pressure structure, presumably this calciborite structure \\item \\href{current_web_home_dir/A2BC4_oP84_33_6a_3a_12a-001}{Orthorhombic high pressure structure}, stable between 1.5 and 2.5 GPa \\item \\href{current_web_home_dir/A2BC4_cP84_205_d_ac_2d-001}{Cubic high pressure structure}, stable between 2.5 and 4.0 GPa \\end{itemize}"
 }

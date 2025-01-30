@@ -1,9 +1,19 @@
 {
     "uid": "GET1",
+    "label": "A3B4C3_cI40_220_a_c_b-001",
+    "alias": "A3B4C3_cI40_220_a_c_b-001",
+    "title": "Y$_{3}$Au$_{3}$Sb$_{4}$ Structure",
+    "icsd": "957",
+    "ccdc": null,
     "prototype": "Au3Sb4Y3",
     "prototype_tex": "Au$_{3}$Sb$_{4}$Y$_{3}$",
-    "label": "A3B4C3_cI40_220_a_c_b-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cI40",
+    "space_group_number": 220,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "x3"
     ],
@@ -11,17 +21,8 @@
         9.818,
         0.588
     ],
-    "strukturbericht": null,
-    "title": "Y$_{3}$Au$_{3}$Sb$_{4}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B4C3_cI40_220_a_c_b-001",
-    "number_of_species": 3,
-    "pearson_symbol": "cI40",
-    "space_group_number": 220,
-    "comments": "(Lu, 2008) describe this as a \\href{current_web_home_dir/A4B3_cI28_220_c_a-001}{filled Th$_{3}$P$_{4}$ ($D7_{3}$) structure}, and, like its parent, there can be considerable disorder on the transition metal site. This is seen in the U$_{3}$NiAs$_{4}$ compound, where 2/3 of the nickel (2b) sites are vacant.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "957"
+    "comments": "(Lu, 2008) describe this as a \\href{current_web_home_dir/A4B3_cI28_220_c_a-001}{filled Th$_{3}$P$_{4}$ ($D7_{3}$) structure}, and, like its parent, there can be considerable disorder on the transition metal site. This is seen in the U$_{3}$NiAs$_{4}$ compound, where 2/3 of the nickel (2b) sites are vacant."
 }

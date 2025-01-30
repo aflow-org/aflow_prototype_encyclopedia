@@ -1,9 +1,19 @@
 {
     "uid": "R5TH",
+    "label": "ABC2_oI16_71_e_g_fi-001",
+    "alias": "ABC2_oI16_71_g_i_eh",
+    "title": "CsFeS$_{2}$ (100K) Structure",
+    "icsd": "53234",
+    "ccdc": null,
     "prototype": "CsFeS2",
     "prototype_tex": "CsFeS$_{2}$",
-    "label": "ABC2_oI16_71_e_g_fi-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oI16",
+    "space_group_number": 71,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -21,17 +31,8 @@
         0.249,
         0.744
     ],
-    "strukturbericht": null,
-    "title": "CsFeS$_{2}$ (100K) Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC2_oI16_71_g_i_eh",
-    "number_of_species": 3,
-    "pearson_symbol": "oI16",
-    "space_group_number": 71,
-    "comments": "This structure is stable at 100K and above.  At 40K the structure is triclinic, with as yet undetermined atomic positions. (Ito, 1985)",
+    "legacy": false,
     "notes": "Stable above 100K",
-    "ccdc": null,
-    "icsd": "53234"
+    "comments": "This structure is stable at 100K and above.  At 40K the structure is triclinic, with as yet undetermined atomic positions. (Ito, 1985)"
 }

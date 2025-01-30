@@ -1,9 +1,19 @@
 {
     "uid": "2DRY",
+    "label": "A9B2_mP22_7_9a_2a-001",
+    "alias": "A9B2_mP22_7_9a_2a",
+    "title": "Rh$_{2}$Ga$_{9}$ Structure",
+    "icsd": "414305",
+    "ccdc": null,
     "prototype": "Ga9Rh2",
     "prototype_tex": "Ga$_{9}$Rh$_{2}$",
-    "label": "A9B2_mP22_7_9a_2a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mP22",
+    "space_group_number": 7,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -81,17 +91,8 @@
         0.3761,
         0.11377
     ],
-    "strukturbericht": null,
-    "title": "Rh$_{2}$Ga$_{9}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A9B2_mP22_7_9a_2a",
-    "number_of_species": 2,
-    "pearson_symbol": "mP22",
-    "space_group_number": 7,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "414305"
+    "comments": null
 }

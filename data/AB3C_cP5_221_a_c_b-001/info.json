@@ -1,26 +1,26 @@
 {
     "uid": "QUKL",
+    "label": "AB3C_cP5_221_a_c_b-001",
+    "alias": "AB3C_cP5_221_a_c_b",
+    "title": "Cubic Perovskite (CaTiO$_{3}$, $E2_{1}$) Structure",
+    "icsd": "31865",
+    "ccdc": null,
     "prototype": "CaTiO3",
     "prototype_tex": "CaTiO$_{3}$",
-    "label": "AB3C_cP5_221_a_c_b-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cP5",
+    "space_group_number": 221,
+    "strukturbericht": "E2_1",
+    "strukturbericht_tex": "$E2_1$",
+    "part": 1,
+    "parameter_symbols": [
         "a"
     ],
     "parameter_values": [
         3.795
     ],
-    "strukturbericht": "E2_1",
-    "title": "Cubic Perovskite (CaTiO$_{3}$, $E2_{1}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$E2_1$",
     "compounds": {},
-    "alias": "AB3C_cP5_221_a_c_b",
-    "number_of_species": 3,
-    "pearson_symbol": "cP5",
-    "space_group_number": 221,
-    "comments": "Cubic perovskite is actually the high-temperature phase of the compounds listed here. The ground states of these compounds are distored perovskite structures. Many of these substances are ferroelectric. \n By removing one atom type we get various structures, all with space group $Pm\\overline{3}m$ \\#221: \\begin{itemize} \\item Removing the calcium atoms leads to the \\href{current_web_home_dir/A3B_cP4_221_c_b-001}{$\\alpha$-ReO$_{3}$ ($D0_{9}$) structure}; \\item removing the titanium atoms leads to the \\href{current_web_home_dir/AB3_cP4_221_a_c-001}{Cu$_{3}$Au ($L1_{2}$) structure}; \\item removing the oxygen atoms leads to the \\href{current_web_home_dir/AB_cP2_221_a_b-002}{CsCl ($B2$)} structure; \\item removing the calcium or titanium and the oxygen atoms leads to the \\href{current_web_home_dir/A_cP1_221_a-001}{simple cubic ($A_h$) structure}. \\end{itemize} ~ \\vspace{-.25in} \n (Ewald, 1931) originally gave this compound the {\\em Strukturbericht} Designation $G4$, but this was changed by (Gottfried, 1937) to $E2_{1}$.",
+    "legacy": false,
     "notes": "$E2_1$, Cubic Perovskite",
-    "ccdc": null,
-    "icsd": "31865"
+    "comments": "Cubic perovskite is actually the high-temperature phase of the compounds listed here. The ground states of these compounds are distored perovskite structures. Many of these substances are ferroelectric. \n By removing one atom type we get various structures, all with space group $Pm\\overline{3}m$ \\#221: \\begin{itemize} \\item Removing the calcium atoms leads to the \\href{current_web_home_dir/A3B_cP4_221_c_b-001}{$\\alpha$-ReO$_{3}$ ($D0_{9}$) structure}; \\item removing the titanium atoms leads to the \\href{current_web_home_dir/AB3_cP4_221_a_c-001}{Cu$_{3}$Au ($L1_{2}$) structure}; \\item removing the oxygen atoms leads to the \\href{current_web_home_dir/AB_cP2_221_a_b-002}{CsCl ($B2$)} structure; \\item removing the calcium or titanium and the oxygen atoms leads to the \\href{current_web_home_dir/A_cP1_221_a-001}{simple cubic ($A_h$) structure}. \\end{itemize} ~ \\vspace{-.25in} \n (Ewald, 1931) originally gave this compound the {\\em Strukturbericht} Designation $G4$, but this was changed by (Gottfried, 1937) to $E2_{1}$."
 }

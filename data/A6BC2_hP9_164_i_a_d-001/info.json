@@ -1,9 +1,19 @@
 {
     "uid": "2HX1",
+    "label": "A6BC2_hP9_164_i_a_d-001",
+    "alias": "A6BC2_hP9_164_i_a_d",
+    "title": " K$_{2}$GeF$_{6}$ (J1$_{13}$) Structure",
+    "icsd": "24026",
+    "ccdc": null,
     "prototype": "F6GeK2",
     "prototype_tex": "F$_{6}$GeK$_{2}$",
-    "label": "A6BC2_hP9_164_i_a_d-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP9",
+    "space_group_number": 164,
+    "strukturbericht": "J1_13",
+    "strukturbericht_tex": "$J1_{13}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -17,18 +27,8 @@
         0.148,
         0.22
     ],
-    "strukturbericht": "J1_13",
-    "title": " K$_{2}$GeF$_{6}$ (J1$_{13}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$J1_{13}$",
     "compounds": {},
-    "alias": "A6BC2_hP9_164_i_a_d",
-    "number_of_species": 3,
-    "pearson_symbol": "hP9",
-    "space_group_number": 164,
+    "legacy": false,
     "notes": "$J1_{13}$",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "24026"
+    "comments": null
 }

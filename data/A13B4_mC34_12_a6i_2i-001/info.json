@@ -1,9 +1,19 @@
 {
     "uid": "XT4N",
+    "label": "A13B4_mC34_12_a6i_2i-001",
+    "alias": "A13B4_mC34_12_b6i_2i",
+    "title": "Os$_{4}$Al$_{13}$ Structure",
+    "icsd": "58110",
+    "ccdc": null,
     "prototype": "Al13Os4",
     "prototype_tex": "Al$_{13}$Os$_{4}$",
-    "label": "A13B4_mC34_12_a6i_2i-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC34",
+    "space_group_number": 12,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -47,17 +57,8 @@
         0.5081,
         0.8053
     ],
-    "strukturbericht": null,
-    "title": "Os$_{4}$Al$_{13}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A13B4_mC34_12_b6i_2i",
-    "number_of_species": 2,
-    "pearson_symbol": "mC34",
-    "space_group_number": 12,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "58110"
+    "comments": null
 }

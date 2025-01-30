@@ -1,9 +1,19 @@
 {
     "uid": "9173",
+    "label": "A5B3_mC32_9_5a_3a-001",
+    "alias": "A5B3_mC32_9_5a_3a",
+    "title": "$\\alpha$-P$_{3}$N$_{5}$ Structure",
+    "icsd": "236555",
+    "ccdc": null,
     "prototype": "N5P3",
     "prototype_tex": "N$_{5}$P$_{3}$",
-    "label": "A5B3_mC32_9_5a_3a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC32",
+    "space_group_number": 9,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -63,17 +73,8 @@
         0.5424,
         0.196
     ],
-    "strukturbericht": null,
-    "title": "$\\alpha$-P$_{3}$N$_{5}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A5B3_mC32_9_5a_3a",
-    "number_of_species": 2,
-    "pearson_symbol": "mC32",
-    "space_group_number": 9,
+    "legacy": false,
     "notes": "$\\alpha$-P$_{3}$N$_{5}$",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "236555"
+    "comments": null
 }

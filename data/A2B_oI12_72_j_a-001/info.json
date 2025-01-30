@@ -1,9 +1,19 @@
 {
     "uid": "PYBC",
+    "label": "A2B_oI12_72_j_a-001",
+    "alias": "A2B_oI12_72_j_a",
+    "title": "SiS$_{2}$ ($C42$) Structure",
+    "icsd": "27205",
+    "ccdc": null,
     "prototype": "S2Si",
     "prototype_tex": "S$_{2}$Si",
-    "label": "A2B_oI12_72_j_a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oI12",
+    "space_group_number": 72,
+    "strukturbericht": "C42",
+    "strukturbericht_tex": "$C42$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -17,18 +27,8 @@
         0.1182,
         0.2088
     ],
-    "strukturbericht": "C42",
-    "title": "SiS$_{2}$ ($C42$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$C42$",
     "compounds": {},
-    "alias": "A2B_oI12_72_j_a",
-    "number_of_species": 2,
-    "pearson_symbol": "oI12",
-    "space_group_number": 72,
+    "legacy": false,
     "notes": "$C42$",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "27205"
+    "comments": null
 }

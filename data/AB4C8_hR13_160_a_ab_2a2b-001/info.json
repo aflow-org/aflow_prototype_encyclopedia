@@ -1,9 +1,19 @@
 {
     "uid": "5V5H",
+    "label": "AB4C8_hR13_160_a_ab_2a2b-001",
+    "alias": "AB4C8_hR13_160_a_ab_2a2b",
+    "title": "Low Temperature GaMo$_{4}$S$_{8}$ Structure",
+    "icsd": "33995",
+    "ccdc": null,
     "prototype": "GaMo4S8",
     "prototype_tex": "GaMo$_{4}$S$_{8}$",
-    "label": "AB4C8_hR13_160_a_ab_2a2b-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hR13",
+    "space_group_number": 160,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -31,17 +41,8 @@
         0.138,
         0.59199
     ],
-    "strukturbericht": null,
-    "title": "Low Temperature GaMo$_{4}$S$_{8}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB4C8_hR13_160_a_ab_2a2b",
-    "number_of_species": 3,
-    "pearson_symbol": "hR13",
-    "space_group_number": 160,
-    "comments": "At temperatures below 45K GaMo$_{4}$S$_{8}$ transforms from its \\href{current_web_home_dir/AB4C8_cF52_216_a_e_2e-001}{high-temperature cubic structure} to this rhombohedral structure. \n We use the data from (Fran\\c{c}ois, 1991) at 8K. \n Space group $R3m$ \\#160 allows a arbitrary choice of the zero of the $z$-axis.  Here we use this freedom to place the gallium atom at the origin ($z_{1} = 0$).",
+    "legacy": false,
     "notes": "$T < 45$K",
-    "ccdc": null,
-    "icsd": "33995"
+    "comments": "At temperatures below 45K GaMo$_{4}$S$_{8}$ transforms from its \\href{current_web_home_dir/AB4C8_cF52_216_a_e_2e-001}{high-temperature cubic structure} to this rhombohedral structure. \n We use the data from (Fran\\c{c}ois, 1991) at 8K. \n Space group $R3m$ \\#160 allows a arbitrary choice of the zero of the $z$-axis.  Here we use this freedom to place the gallium atom at the origin ($z_{1} = 0$)."
 }

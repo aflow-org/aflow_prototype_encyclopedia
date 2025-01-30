@@ -1,9 +1,19 @@
 {
     "uid": "Q5KE",
+    "label": "AB2_tI48_122_cd_2e-001",
+    "alias": "AB2_tI48_122_cd_2e",
+    "title": "NaS$_{2}$ Structure",
+    "icsd": "2586",
+    "ccdc": null,
     "prototype": "NaS2",
     "prototype_tex": "NaS$_{2}$",
-    "label": "AB2_tI48_122_cd_2e-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tI48",
+    "space_group_number": 122,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -27,17 +37,8 @@
         0.616,
         0.89956
     ],
-    "strukturbericht": null,
-    "title": "NaS$_{2}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2_tI48_122_cd_2e",
-    "number_of_species": 2,
-    "pearson_symbol": "tI48",
-    "space_group_number": 122,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "2586"
+    "comments": null
 }

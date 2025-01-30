@@ -1,9 +1,19 @@
 {
     "uid": "M3JC",
+    "label": "AB_hP8_187_gh_gh-001",
+    "alias": "AB_hP8_187_gh_gh-001",
+    "title": "$\\epsilon$-GaSe Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "GaSe",
     "prototype_tex": "GaSe",
-    "label": "AB_hP8_187_gh_gh-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP8",
+    "space_group_number": 187,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -19,17 +29,8 @@
         0.57,
         0.15
     ],
-    "strukturbericht": null,
-    "title": "$\\epsilon$-GaSe Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_hP8_187_gh_gh-001",
-    "number_of_species": 2,
-    "pearson_symbol": "hP8",
-    "space_group_number": 187,
-    "comments": "GaSe takes on a variety of structures depending on the stacking of the Ga$_{2}$Se$_{2}$ layers: \\begin{itemize} \\item $\\beta$-GaSe is in space group \\href{current_web_home_dir/AB_hP8_194_f_f-003}{$P6_3/mmc$ \\#194}. \\item $\\gamma$-GaSe is in space group \\href{current_web_home_dir/AB_hR4_160_2a_2a-001}{$R3m$ \\#160}. \\item $\\delta$-GaSe is in space group \\href{current_web_home_dir/AB_hP16_186_2a2b_2a2b-001}{$P6_{3}mc$ \\#186}. \\item $\\epsilon$-GaSe (this structure) is in space group \\href{current_web_home_dir/AB_hP8_187_gh_gh-001}{$P\\overline{6}m2$ \\#187}. \\end{itemize} ~ \\vspace{-.25in} \n We have rotated the cell to move the published (2i) Wyckoff positions to the (2h) Wyckoff sites.",
+    "legacy": false,
     "notes": "$\\epsilon$-GaSe",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "GaSe takes on a variety of structures depending on the stacking of the Ga$_{2}$Se$_{2}$ layers: \\begin{itemize} \\item $\\beta$-GaSe is in space group \\href{current_web_home_dir/AB_hP8_194_f_f-003}{$P6_3/mmc$ \\#194}. \\item $\\gamma$-GaSe is in space group \\href{current_web_home_dir/AB_hR4_160_2a_2a-001}{$R3m$ \\#160}. \\item $\\delta$-GaSe is in space group \\href{current_web_home_dir/AB_hP16_186_2a2b_2a2b-001}{$P6_{3}mc$ \\#186}. \\item $\\epsilon$-GaSe (this structure) is in space group \\href{current_web_home_dir/AB_hP8_187_gh_gh-001}{$P\\overline{6}m2$ \\#187}. \\end{itemize} ~ \\vspace{-.25in} \n We have rotated the cell to move the published (2i) Wyckoff positions to the (2h) Wyckoff sites."
 }

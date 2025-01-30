@@ -1,9 +1,19 @@
 {
     "uid": "74YK",
+    "label": "AB6C18D4E2_mC62_5_b_2a2c_9c_2c_c-001",
+    "alias": "AB6C18D4E2_mC62_5_a_2b2c_9c_2c_c",
+    "title": "Rb$_{2}$CaCu$_{6}$(PO$_{4}$)$_{4}$O$_{2}$ Structure",
+    "icsd": "403504",
+    "ccdc": null,
     "prototype": "CaCu6O18P4Rb2",
     "prototype_tex": "CaCu$_{6}$O$_{18}$P$_{4}$Rb$_{2}$",
-    "label": "AB6C18D4E2_mC62_5_b_2a2c_9c_2c_c-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "mC62",
+    "space_group_number": 5,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -105,17 +115,8 @@
         0.70623,
         0.34248
     ],
-    "strukturbericht": null,
-    "title": "Rb$_{2}$CaCu$_{6}$(PO$_{4}$)$_{4}$O$_{2}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB6C18D4E2_mC62_5_a_2b2c_9c_2c_c",
-    "number_of_species": 5,
-    "pearson_symbol": "mC62",
-    "space_group_number": 5,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "403504"
+    "comments": null
 }

@@ -1,9 +1,19 @@
 {
     "uid": "PNDR",
+    "label": "A2B_mC6_12_i_a-001",
+    "alias": "A2B_mC6_12_i_a",
+    "title": "Tolbachite (CuCl$_{2}$) Structure",
+    "icsd": "66645",
+    "ccdc": null,
     "prototype": "Cl2Cu",
     "prototype_tex": "Cl$_{2}$Cu",
-    "label": "A2B_mC6_12_i_a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC6",
+    "space_group_number": 12,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -19,17 +29,8 @@
         0.7246,
         0.2198
     ],
-    "strukturbericht": null,
-    "title": "Tolbachite (CuCl$_{2}$) Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B_mC6_12_i_a",
-    "number_of_species": 2,
-    "pearson_symbol": "mC6",
-    "space_group_number": 12,
+    "legacy": false,
     "notes": "Tolbachite",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "66645"
+    "comments": null
 }

@@ -1,9 +1,19 @@
 {
     "uid": "HRJX",
+    "label": "AB_mC8_15_a_e-001",
+    "alias": "AB_mC8_15_c_e",
+    "title": "Tenorite (CuO, $B26$) Structure",
+    "icsd": "16025",
+    "ccdc": null,
     "prototype": "CuO",
     "prototype_tex": "CuO",
-    "label": "AB_mC8_15_a_e-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC8",
+    "space_group_number": 15,
+    "strukturbericht": "B26",
+    "strukturbericht_tex": "$B26$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -17,18 +27,8 @@
         137.572,
         0.1684
     ],
-    "strukturbericht": "B26",
-    "title": "Tenorite (CuO, $B26$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$B26$",
     "compounds": {},
-    "alias": "AB_mC8_15_c_e",
-    "number_of_species": 2,
-    "pearson_symbol": "mC8",
-    "space_group_number": 15,
-    "comments": "In (Mehl, 2017) we inadvertently used $\\beta$ = 120.34$^{\\circ}$ rather than the correct value of 99.54$^{\\circ}$.  We apologize for the error, and correct it here.",
+    "legacy": false,
     "notes": "$B26$, Tenorite",
-    "ccdc": null,
-    "icsd": "16025"
+    "comments": "In (Mehl, 2017) we inadvertently used $\\beta$ = 120.34$^{\\circ}$ rather than the correct value of 99.54$^{\\circ}$.  We apologize for the error, and correct it here."
 }

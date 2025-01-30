@@ -1,9 +1,19 @@
 {
     "uid": "VP85",
+    "label": "AB6_oP28_62_c_6c-001",
+    "alias": "AB6_oP28_62_c_6c",
+    "title": "Copper (II) Azide [Cu(N$_{3}$)$_{2}$] Structure",
+    "icsd": "24340",
+    "ccdc": null,
     "prototype": "CuN6",
     "prototype_tex": "CuN$_{6}$",
-    "label": "AB6_oP28_62_c_6c-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP28",
+    "space_group_number": 62,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -41,17 +51,8 @@
         0.42026,
         0.15152
     ],
-    "strukturbericht": null,
-    "title": "Copper (II) Azide [Cu(N$_{3}$)$_{2}$] Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB6_oP28_62_c_6c",
-    "number_of_species": 2,
-    "pearson_symbol": "oP28",
-    "space_group_number": 62,
-    "comments": "Not to be confused with \\href{current_web_home_dir/AB3_tI32_88_c_df-001}{Copper (I) Azide, CuN$_{3}$}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "24340"
+    "comments": "Not to be confused with \\href{current_web_home_dir/AB3_tI32_88_c_df-001}{Copper (I) Azide, CuN$_{3}$}."
 }

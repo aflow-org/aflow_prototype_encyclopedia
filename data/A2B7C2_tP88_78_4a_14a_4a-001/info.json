@@ -1,9 +1,19 @@
 {
     "uid": "SCRS",
+    "label": "A2B7C2_tP88_78_4a_14a_4a-001",
+    "alias": "A2B7C2_tP88_78_4a_14a_4a",
+    "title": "Sr$_{2}$As$_{2}$O$_{7}$ Structure",
+    "icsd": "190008",
+    "ccdc": null,
     "prototype": "As2O7Sr2",
     "prototype_tex": "As$_{2}$O$_{7}$Sr$_{2}$",
-    "label": "A2B7C2_tP88_78_4a_14a_4a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP88",
+    "space_group_number": 78,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -143,17 +153,8 @@
         0.25769,
         0.06464
     ],
-    "strukturbericht": null,
-    "title": "Sr$_{2}$As$_{2}$O$_{7}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B7C2_tP88_78_4a_14a_4a",
-    "number_of_species": 3,
-    "pearson_symbol": "tP88",
-    "space_group_number": 78,
-    "comments": "This structure may also be found in the enantiomorphic space group $P4_{1}$ \\#76.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "190008"
+    "comments": "This structure may also be found in the enantiomorphic space group $P4_{1}$ \\#76."
 }

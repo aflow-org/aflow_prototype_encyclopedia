@@ -1,9 +1,19 @@
 {
     "uid": "0WEU",
+    "label": "A3B11C3_cP68_201_be_efh_g-001",
+    "alias": "A3B11C3_cP68_201_be_efh_g",
+    "title": "Bi$_{3}$Ru$_{3}$O$_{11}$ Structure",
+    "icsd": "4194",
+    "ccdc": null,
     "prototype": "Bi3O11Ru3",
     "prototype_tex": "Bi$_{3}$O$_{11}$Ru$_{3}$",
-    "label": "A3B11C3_cP68_201_be_efh_g-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cP68",
+    "space_group_number": 201,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "x2",
         "x3",
@@ -23,17 +33,8 @@
         0.247,
         0.547
     ],
-    "strukturbericht": null,
-    "title": "Bi$_{3}$Ru$_{3}$O$_{11}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B11C3_cP68_201_be_efh_g",
-    "number_of_species": 3,
-    "pearson_symbol": "cP68",
-    "space_group_number": 201,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "4194"
+    "comments": null
 }

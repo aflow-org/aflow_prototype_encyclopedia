@@ -1,9 +1,19 @@
 {
     "uid": "B4LQ",
+    "label": "AB_tI4_107_a_a-001",
+    "alias": "AB_tI4_107_a_a",
+    "title": "GeP (High-pressure, superconducting) Structure",
+    "icsd": "17032",
+    "ccdc": null,
     "prototype": "GeP",
     "prototype_tex": "GeP",
-    "label": "AB_tI4_107_a_a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tI4",
+    "space_group_number": 107,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -15,17 +25,8 @@
         0.0,
         0.427
     ],
-    "strukturbericht": null,
-    "title": "GeP (High-pressure, superconducting) Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_tI4_107_a_a",
-    "number_of_species": 2,
-    "pearson_symbol": "tI4",
-    "space_group_number": 107,
-    "comments": "We use the (Donohue, 1970) data taken at $700^{\\circ}$C and 45 kB. \n Space group $I4mm$ \\#107 allows an arbitrary placement of the origin of the $z$-axis.  Here we set $z_{1} = 0$ for the germanium atoms.",
+    "legacy": false,
     "notes": "HP Superconductor",
-    "ccdc": null,
-    "icsd": "17032"
+    "comments": "We use the (Donohue, 1970) data taken at $700^{\\circ}$C and 45 kB. \n Space group $I4mm$ \\#107 allows an arbitrary placement of the origin of the $z$-axis.  Here we set $z_{1} = 0$ for the germanium atoms."
 }

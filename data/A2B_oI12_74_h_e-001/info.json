@@ -1,9 +1,19 @@
 {
     "uid": "TWQQ",
+    "label": "A2B_oI12_74_h_e-001",
+    "alias": "A2B_oI12_74_h_e",
+    "title": "KHg$_{2}$ Structure",
+    "icsd": "104303",
+    "ccdc": null,
     "prototype": "Hg2K",
     "prototype_tex": "Hg$_{2}$K",
-    "label": "A2B_oI12_74_h_e-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oI12",
+    "space_group_number": 74,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -19,17 +29,8 @@
         0.56,
         0.663
     ],
-    "strukturbericht": null,
-    "title": "KHg$_{2}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B_oI12_74_h_e",
-    "number_of_species": 2,
-    "pearson_symbol": "oI12",
-    "space_group_number": 74,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "104303"
+    "comments": null
 }

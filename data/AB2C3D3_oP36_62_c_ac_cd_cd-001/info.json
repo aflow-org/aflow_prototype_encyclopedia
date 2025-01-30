@@ -1,9 +1,19 @@
 {
     "uid": "4QUY",
+    "label": "AB2C3D3_oP36_62_c_ac_cd_cd-001",
+    "alias": "AB2C3D3_oP36_62_c_ac_cd_cd",
+    "title": "Atacamite (Cu$_{2}$(OH)$_{3}$Cl) Structure",
+    "icsd": "61252",
+    "ccdc": null,
     "prototype": "ClCu2H2O3",
     "prototype_tex": "ClCu$_{2}$H$_{2}$O$_{3}$",
-    "label": "AB2C3D3_oP36_62_c_ac_cd_cd-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oP36",
+    "space_group_number": 62,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -41,17 +51,8 @@
         0.5651,
         0.7879
     ],
-    "strukturbericht": null,
-    "title": "Atacamite (Cu$_{2}$(OH)$_{3}$Cl) Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2C3D3_oP36_62_c_ac_cd_cd",
-    "number_of_species": 4,
-    "pearson_symbol": "oP36",
-    "space_group_number": 62,
+    "legacy": false,
     "notes": "Atacamite",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "61252"
+    "comments": null
 }

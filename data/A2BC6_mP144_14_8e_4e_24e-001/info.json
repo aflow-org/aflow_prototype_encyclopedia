@@ -1,9 +1,19 @@
 {
     "uid": "UYPX",
+    "label": "A2BC6_mP144_14_8e_4e_24e-001",
+    "alias": "A2BC6_mP144_14_8e_4e_24e-001",
+    "title": "High temperature Bi$_{2}$MoO$_{6}$ Structure",
+    "icsd": "78179",
+    "ccdc": null,
     "prototype": "Bi2MoO6",
     "prototype_tex": "Bi$_{2}$MoO$_{6}$",
-    "label": "A2BC6_mP144_14_8e_4e_24e-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mP144",
+    "space_group_number": 14,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -231,17 +241,8 @@
         0.1009,
         0.6645
     ],
-    "strukturbericht": null,
-    "title": "High temperature Bi$_{2}$MoO$_{6}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC6_mP144_14_8e_4e_24e-001",
-    "number_of_species": 3,
-    "pearson_symbol": "mP144",
-    "space_group_number": 14,
-    "comments": "This is the high temperature monoclinic structure of Bi$_{2}$MoO$_{6}$, stable above 896$^{\\circ}$C. Below that it transforms to the \\href{current_web_home_dir/A2BC6_oP36_29_2a_a_6a-001}{room-temperature koechlinite structure} (Villars, 2018).",
+    "legacy": false,
     "notes": "HT",
-    "ccdc": null,
-    "icsd": "78179"
+    "comments": "This is the high temperature monoclinic structure of Bi$_{2}$MoO$_{6}$, stable above 896$^{\\circ}$C. Below that it transforms to the \\href{current_web_home_dir/A2BC6_oP36_29_2a_a_6a-001}{room-temperature koechlinite structure} (Villars, 2018)."
 }

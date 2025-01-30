@@ -1,9 +1,19 @@
 {
     "uid": "WBME",
+    "label": "A4B_cI10_217_c_a-001",
+    "alias": "A4B_cI10_217_c_a",
+    "title": "SiF$_{4}$ ($D1_{2}$) Structure",
+    "icsd": "14122",
+    "ccdc": null,
     "prototype": "F4Si",
     "prototype_tex": "F$_{4}$Si",
-    "label": "A4B_cI10_217_c_a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cI10",
+    "space_group_number": 217,
+    "strukturbericht": "D1_2",
+    "strukturbericht_tex": "$D1_{2}$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "x2"
     ],
@@ -11,18 +21,8 @@
         5.4586,
         0.165
     ],
-    "strukturbericht": "D1_2",
-    "title": "SiF$_{4}$ ($D1_{2}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$D1_{2}$",
     "compounds": {},
-    "alias": "A4B_cI10_217_c_a",
-    "number_of_species": 2,
-    "pearson_symbol": "cI10",
-    "space_group_number": 217,
-    "comments": "We determined the lattice constant for this structure from the internal coordinates and the Si-F bond length given in (Atoji, 1954).",
+    "legacy": false,
     "notes": "$D1_{2}$",
-    "ccdc": null,
-    "icsd": "14122"
+    "comments": "We determined the lattice constant for this structure from the internal coordinates and the Si-F bond length given in (Atoji, 1954)."
 }

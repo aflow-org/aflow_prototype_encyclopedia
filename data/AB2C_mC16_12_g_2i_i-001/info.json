@@ -1,9 +1,19 @@
 {
     "uid": "JGDH",
+    "label": "AB2C_mC16_12_g_2i_i-001",
+    "alias": "AB2C_mC16_12_g_2i_i",
+    "title": "Monoclinic FeTlSe$_{2}$ Structure",
+    "icsd": "100354",
+    "ccdc": null,
     "prototype": "FeSe2Tl",
     "prototype_tex": "FeSe$_{2}$Tl",
-    "label": "AB2C_mC16_12_g_2i_i-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mC16",
+    "space_group_number": 12,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -29,17 +39,8 @@
         0.5438,
         0.719
     ],
-    "strukturbericht": null,
-    "title": "Monoclinic FeTlSe$_{2}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2C_mC16_12_g_2i_i",
-    "number_of_species": 3,
-    "pearson_symbol": "mC16",
-    "space_group_number": 12,
-    "comments": "This is the low temperature structure of FeTlSe$_{2}$/FeTlS$_{2}$.  At high temperatures it transforms to the \\href{current_web_home_dir/AB2C_tI8_119_c_e_a-001}{tetragonal FeTlS$_{2}$ structure}.",
+    "legacy": false,
     "notes": "Monoclinic FeTlSe$_{2}$",
-    "ccdc": null,
-    "icsd": "100354"
+    "comments": "This is the low temperature structure of FeTlSe$_{2}$/FeTlS$_{2}$.  At high temperatures it transforms to the \\href{current_web_home_dir/AB2C_tI8_119_c_e_a-001}{tetragonal FeTlS$_{2}$ structure}."
 }

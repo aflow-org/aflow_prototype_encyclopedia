@@ -1,9 +1,19 @@
 {
     "uid": "TJ17",
+    "label": "A10B4C3_tI34_139_c2eg_2e_ae-001",
+    "alias": "A10B4C3_tI34_139_c2eg_2e_ae",
+    "title": "Sr$_{4}$Ti$_{3}$O$_{10}$ Structure",
+    "icsd": "34630",
+    "ccdc": null,
     "prototype": "O10Sr4Ti3",
     "prototype_tex": "O$_{10}$Sr$_{4}$Ti$_{3}$",
-    "label": "A10B4C3_tI34_139_c2eg_2e_ae-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tI34",
+    "space_group_number": 139,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -23,17 +33,8 @@
         0.136,
         0.136
     ],
-    "strukturbericht": null,
-    "title": "Sr$_{4}$Ti$_{3}$O$_{10}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A10B4C3_tI34_139_c2eg_2e_ae",
-    "number_of_species": 3,
-    "pearson_symbol": "tI34",
-    "space_group_number": 139,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "34630"
+    "comments": null
 }

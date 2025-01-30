@@ -1,9 +1,19 @@
 {
     "uid": "G353",
+    "label": "A2B_oP12_17_abe_e-001",
+    "alias": "A2B_oP12_17_abe_e",
+    "title": "$\\alpha$-Naumannite (Ag$_{2}$Se) Structure",
+    "icsd": "43242",
+    "ccdc": null,
     "prototype": "Ag2Se",
     "prototype_tex": "Ag$_{2}$Se",
-    "label": "A2B_oP12_17_abe_e-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP12",
+    "space_group_number": 17,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -29,17 +39,8 @@
         0.275,
         0.522
     ],
-    "strukturbericht": null,
-    "title": "$\\alpha$-Naumannite (Ag$_{2}$Se) Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B_oP12_17_abe_e",
-    "number_of_species": 2,
-    "pearson_symbol": "oP12",
-    "space_group_number": 17,
-    "comments": "The low temperature form of nauminnite is stable below $133^{\\circ}$C (Wiegers, 1971).  This structure (Pinsker, 1965) disagrees with that found by \\href{current_web_home_dir/A2B_oP12_19_2a_a-001}{that found by (Wiegers, 1971)}.",
+    "legacy": false,
     "notes": "$\\alpha$-Naumannite",
-    "ccdc": null,
-    "icsd": "43242"
+    "comments": "The low temperature form of nauminnite is stable below $133^{\\circ}$C (Wiegers, 1971).  This structure (Pinsker, 1965) disagrees with that found by \\href{current_web_home_dir/A2B_oP12_19_2a_a-001}{that found by (Wiegers, 1971)}."
 }

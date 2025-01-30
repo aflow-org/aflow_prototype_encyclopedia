@@ -1,9 +1,19 @@
 {
     "uid": "G5Z0",
+    "label": "A7B5_mC24_12_a3i_c2i-001",
+    "alias": "A7B5_mC24_12_a3i_c2i-001",
+    "title": "Y$_{5}$S$_{7}$ Structure",
+    "icsd": "43620",
+    "ccdc": null,
     "prototype": "S7Y5",
     "prototype_tex": "S$_{7}$Y$_{5}$",
-    "label": "A7B5_mC24_12_a3i_c2i-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC24",
+    "space_group_number": 12,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -35,17 +45,8 @@
         0.4647,
         0.0774
     ],
-    "strukturbericht": null,
-    "title": "Y$_{5}$S$_{7}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A7B5_mC24_12_a3i_c2i-001",
-    "number_of_species": 2,
-    "pearson_symbol": "mC24",
-    "space_group_number": 12,
-    "comments": "(Adolphe, 1965) gives the lattice parameters for the ternary versions of this structure, but not the atomic positions.  Presumably the third atom species replaces the atom on the (1a) or (1c) site.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "43620"
+    "comments": "(Adolphe, 1965) gives the lattice parameters for the ternary versions of this structure, but not the atomic positions.  Presumably the third atom species replaces the atom on the (1a) or (1c) site."
 }

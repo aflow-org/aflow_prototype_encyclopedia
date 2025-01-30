@@ -1,9 +1,19 @@
 {
     "uid": "21TS",
+    "label": "A5B6C18_tI232_142_bg_dg_e2f3g-001",
+    "alias": "A5B6C18_tI232_142_bg_dg_e2f3g-001",
+    "title": "Er$_{5}$Rh$_{6}$Sn$_{18}$ Structure",
+    "icsd": "103302",
+    "ccdc": null,
     "prototype": "Er5Rh6Sn18",
     "prototype_tex": "Er$_{5}$Rh$_{6}$Sn$_{18}$",
-    "label": "A5B6C18_tI232_142_bg_dg_e2f3g-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tI232",
+    "space_group_number": 142,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -49,17 +59,8 @@
         0.7547,
         0.28777
     ],
-    "strukturbericht": null,
-    "title": "Er$_{5}$Rh$_{6}$Sn$_{18}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A5B6C18_tI232_142_bg_dg_e2f3g-001",
-    "number_of_species": 3,
-    "pearson_symbol": "tI232",
-    "space_group_number": 142,
-    "comments": "(Hodeau, 1984) found that the Er-I site is actually a mixture of erbium and tin atoms in a 2:1 ratio.  The ICSD entry assumes a 1:2 ratio.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "103302"
+    "comments": "(Hodeau, 1984) found that the Er-I site is actually a mixture of erbium and tin atoms in a 2:1 ratio.  The ICSD entry assumes a 1:2 ratio."
 }

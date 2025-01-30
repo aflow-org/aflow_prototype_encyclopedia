@@ -1,9 +1,19 @@
 {
     "uid": "047D",
+    "label": "ABC_hP6_194_a_b_c-001",
+    "alias": "ABC_hP6_194_a_b_c-001",
+    "title": "SrCoO",
+    "icsd": "78731",
+    "ccdc": null,
     "prototype": "CoOSr",
     "prototype_tex": "CoOSr",
-    "label": "ABC_hP6_194_a_b_c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP6",
+    "space_group_number": 194,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a"
     ],
@@ -11,17 +21,8 @@
         5.486128,
         0.7658914
     ],
-    "strukturbericht": null,
-    "title": "SrCoO",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC_hP6_194_a_b_c-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hP6",
-    "space_group_number": 194,
-    "comments": "We found this in the ICSD while looking for compounds in the \\href{current_web_home_dir/ABC_hP6_194_c_d_a-001}{LiBC structure}.  This is the only ICSD report of a compound occupying the first three Wyckoff positions of space group $P6_{3}/mmc$ \\#194. \n (Gaoke, 2006) refer to this as SrCoO$_{x}$, but the reported structure is stochiometric SrCoO. The Co-O distance is only 1.05{\\AA}, so this structure may not be entirely correct.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "78731"
+    "comments": "We found this in the ICSD while looking for compounds in the \\href{current_web_home_dir/ABC_hP6_194_c_d_a-001}{LiBC structure}.  This is the only ICSD report of a compound occupying the first three Wyckoff positions of space group $P6_{3}/mmc$ \\#194. \n (Gaoke, 2006) refer to this as SrCoO$_{x}$, but the reported structure is stochiometric SrCoO. The Co-O distance is only 1.05{\\AA}, so this structure may not be entirely correct."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "NQQF",
+    "label": "AB10C9D_aP42_2_bc_10i_9i_i-001",
+    "alias": "AB10C9D_aP42_2_ae_10i_9i_i",
+    "title": "Chalcanthite (CuSO$_{4}\\cdot$5H$_{2}$O, $H4_{10}$) Structure",
+    "icsd": "4305",
+    "ccdc": null,
     "prototype": "CuH10O9S",
     "prototype_tex": "CuH$_{10}$O$_{9}$S",
-    "label": "AB10C9D_aP42_2_bc_10i_9i_i-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "aP42",
+    "space_group_number": 2,
+    "strukturbericht": "H4_10",
+    "strukturbericht_tex": "$H4_{10}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -139,18 +149,8 @@
         0.5133,
         0.7129
     ],
-    "strukturbericht": "H4_10",
-    "title": "Chalcanthite (CuSO$_{4}\\cdot$5H$_{2}$O, $H4_{10}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$H4_{10}$",
     "compounds": {},
-    "alias": "AB10C9D_aP42_2_ae_10i_9i_i",
-    "number_of_species": 4,
-    "pearson_symbol": "aP42",
-    "space_group_number": 2,
-    "comments": "We reference (Bacon, 1975) in order to include the positions of the hydrogen atoms.",
+    "legacy": false,
     "notes": "$H4_{10}$, Chalcanthite",
-    "ccdc": null,
-    "icsd": "4305"
+    "comments": "We reference (Bacon, 1975) in order to include the positions of the hydrogen atoms."
 }

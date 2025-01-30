@@ -1,9 +1,19 @@
 {
     "uid": "07R8",
+    "label": "AB6C2_oP36_62_c_2c2d_d-001",
+    "alias": "AB6C2_oP36_62_c_2c2d_d",
+    "title": "Rynersonite (Orthorhombic CaTa$_{2}$O$_{6}$) Structure",
+    "icsd": "24091",
+    "ccdc": null,
     "prototype": "CaO4Ta2",
     "prototype_tex": "CaO$_{4}$Ta$_{2}$",
-    "label": "AB6C2_oP36_62_c_2c2d_d-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP36",
+    "space_group_number": 62,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -43,17 +53,8 @@
         0.9944,
         0.0376
     ],
-    "strukturbericht": null,
-    "title": "Rynersonite (Orthorhombic CaTa$_{2}$O$_{6}$) Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB6C2_oP36_62_c_2c2d_d",
-    "number_of_species": 3,
-    "pearson_symbol": "oP36",
-    "space_group_number": 62,
-    "comments": "This is the room-temperature structure of CaTa$_{2}$O$_{6}$.  At 500$^\\circ$C this takes on the \\href{current_web_home_dir/AB3C_oP20_62_c_cd_a-001}{cubic perovskite structure} with a half-filled calcium site.",
+    "legacy": false,
     "notes": "Rynersonite",
-    "ccdc": null,
-    "icsd": "24091"
+    "comments": "This is the room-temperature structure of CaTa$_{2}$O$_{6}$.  At 500$^\\circ$C this takes on the \\href{current_web_home_dir/AB3C_oP20_62_c_cd_a-001}{cubic perovskite structure} with a half-filled calcium site."
 }

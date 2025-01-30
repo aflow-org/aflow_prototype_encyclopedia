@@ -1,9 +1,19 @@
 {
     "uid": "EXDQ",
+    "label": "A2B3_tP5_115_g_ag-001",
+    "alias": "A2B3_tP5_115_g_ag",
+    "title": "Rh$_{3}$P$_{2}$ Structure",
+    "icsd": "35626",
+    "ccdc": null,
     "prototype": "P2Rh3",
     "prototype_tex": "P$_{2}$Rh$_{3}$",
-    "label": "A2B3_tP5_115_g_ag-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tP5",
+    "space_group_number": 115,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -15,17 +25,8 @@
         0.253,
         0.6308
     ],
-    "strukturbericht": null,
-    "title": "Rh$_{3}$P$_{2}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B3_tP5_115_g_ag",
-    "number_of_species": 2,
-    "pearson_symbol": "tP5",
-    "space_group_number": 115,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "35626"
+    "comments": null
 }

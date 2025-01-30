@@ -1,9 +1,19 @@
 {
     "uid": "AR8A",
+    "label": "A2B3C2_mP14_14_e_ae_e-001",
+    "alias": "A2B3C2_mP14_14_e_ae_e",
+    "title": "HgCl$_{2}\\cdot$2HgO Structure",
+    "icsd": "35648",
+    "ccdc": null,
     "prototype": "Cl2Hg3O2",
     "prototype_tex": "Cl$_{2}$Hg$_{3}$O$_{2}$",
-    "label": "A2B3C2_mP14_14_e_ae_e-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mP14",
+    "space_group_number": 14,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -33,17 +43,8 @@
         0.115,
         0.066
     ],
-    "strukturbericht": null,
-    "title": "HgCl$_{2}\\cdot$2HgO Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B3C2_mP14_14_e_ae_e",
-    "number_of_species": 3,
-    "pearson_symbol": "mP14",
-    "space_group_number": 14,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "35648"
+    "comments": null
 }

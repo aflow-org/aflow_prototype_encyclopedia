@@ -1,9 +1,19 @@
 {
     "uid": "LNCX",
+    "label": "ABC_mP6_11_e_e_e-001",
+    "alias": "ABC_mP6_11_e_e_e",
+    "title": "YO(OH) Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "HO2Y",
     "prototype_tex": "HO$_{2}$Y",
-    "label": "ABC_mP6_11_e_e_e-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mP6",
+    "space_group_number": 11,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -27,17 +37,8 @@
         0.669,
         0.688
     ],
-    "strukturbericht": null,
-    "title": "YO(OH) Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC_mP6_11_e_e_e",
-    "number_of_species": 3,
-    "pearson_symbol": "mP6",
-    "space_group_number": 11,
-    "comments": "For this prototype, the OH molecules are centered on the (2e) Wyckoff position.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "none"
+    "comments": "For this prototype, the OH molecules are centered on the (2e) Wyckoff position."
 }

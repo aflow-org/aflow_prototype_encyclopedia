@@ -1,9 +1,19 @@
 {
     "uid": "NDBQ",
+    "label": "A2B_oC24_20_abc_c-001",
+    "alias": "A2B_oC24_20_abc_c",
+    "title": "Orthorhombic (High) Tridymite (SiO$_{2}$) Structure",
+    "icsd": "15321",
+    "ccdc": null,
     "prototype": "O2Si",
     "prototype_tex": "O$_{2}$Si",
-    "label": "A2B_oC24_20_abc_c-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oC24",
+    "space_group_number": 20,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -29,17 +39,8 @@
         0.96411,
         0.18857
     ],
-    "strukturbericht": null,
-    "title": "Orthorhombic (High) Tridymite (SiO$_{2}$) Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B_oC24_20_abc_c",
-    "number_of_species": 2,
-    "pearson_symbol": "oC24",
-    "space_group_number": 20,
-    "comments": "(Dollase, 1967) used a non-standard origin for the atomic positions, so there has been a considerable rearrangement of the coordinates, even from the previous version of this file.  We have chosen the ordering of the axes so that it is obvious that the primitive base-centered orthorhombic lattice is very close to a tetragonal primitive lattice.",
+    "legacy": false,
     "notes": "High Tridymite",
-    "ccdc": null,
-    "icsd": "15321"
+    "comments": "(Dollase, 1967) used a non-standard origin for the atomic positions, so there has been a considerable rearrangement of the coordinates, even from the previous version of this file.  We have chosen the ordering of the axes so that it is obvious that the primitive base-centered orthorhombic lattice is very close to a tetragonal primitive lattice."
 }

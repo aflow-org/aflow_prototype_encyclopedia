@@ -1,9 +1,19 @@
 {
     "uid": "DPWF",
+    "label": "A4BC16DE28F8_tP116_128_h_a_2i_b_g3i_i-001",
+    "alias": "A4BC16DE28F8_tP116_128_h_a_2i_b_g3i_i",
+    "title": "Apophyllite (KCa$_{4}$Si$_{8}$O$_{20}$F$\\cdot$8H$_{2}$O, $S5_{2}$) Structure",
+    "icsd": "24954",
+    "ccdc": null,
     "prototype": "Ca4FH16KO28Si8",
     "prototype_tex": "Ca$_{4}$FH$_{16}$KO$_{28}$Si$_{8}$",
-    "label": "A4BC16DE28F8_tP116_128_h_a_2i_b_g3i_i-001",
-    "parameter_symbol": [
+    "number_of_species": 6,
+    "pearson_symbol": "tP116",
+    "space_group_number": 128,
+    "strukturbericht": "S5_2",
+    "strukturbericht_tex": "$S5_{2}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -53,18 +63,8 @@
         0.0865,
         0.19
     ],
-    "strukturbericht": "S5_2",
-    "title": "Apophyllite (KCa$_{4}$Si$_{8}$O$_{20}$F$\\cdot$8H$_{2}$O, $S5_{2}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$S5_{2}$",
     "compounds": {},
-    "alias": "A4BC16DE28F8_tP116_128_h_a_2i_b_g3i_i",
-    "number_of_species": 6,
-    "pearson_symbol": "tP116",
-    "space_group_number": 128,
-    "comments": "Although we use the structure found by (Chao, 1971), we should note that there is some disagreement between the Chao's X-ray diffraction data and the neutron diffraction data taken by (Prince, 1971): while both agree on the positions of the heavy atoms, Prince's work suggests that some of the hydrogens may form OH radicals rather than water molecules. \n In any case, the fluorine set atoms are usually partially replaced by OH radicals. This sample, which is predominantly fluorine, is technically labeled apophyllite-(KF).",
+    "legacy": false,
     "notes": "$S5_{2}$, Apophyllite",
-    "ccdc": null,
-    "icsd": "24954"
+    "comments": "Although we use the structure found by (Chao, 1971), we should note that there is some disagreement between the Chao's X-ray diffraction data and the neutron diffraction data taken by (Prince, 1971): while both agree on the positions of the heavy atoms, Prince's work suggests that some of the hydrogens may form OH radicals rather than water molecules. \n In any case, the fluorine set atoms are usually partially replaced by OH radicals. This sample, which is predominantly fluorine, is technically labeled apophyllite-(KF)."
 }

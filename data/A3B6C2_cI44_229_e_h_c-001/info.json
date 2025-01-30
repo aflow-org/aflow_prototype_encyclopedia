@@ -1,9 +1,19 @@
 {
     "uid": "BC5E",
+    "label": "A3B6C2_cI44_229_e_h_c-001",
+    "alias": "A3B6C2_cI44_229_e_h_c-001",
+    "title": "Ce$_{3}$Ni$_{6}$Si$_{2}$ Structure",
+    "icsd": "25622",
+    "ccdc": null,
     "prototype": "Ce3Ni6Si2",
     "prototype_tex": "Ce$_{3}$Ni$_{6}$Si$_{2}$",
-    "label": "A3B6C2_cI44_229_e_h_c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cI44",
+    "space_group_number": 229,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "x2",
         "y3"
@@ -13,17 +23,8 @@
         0.28,
         0.33
     ],
-    "strukturbericht": null,
-    "title": "Ce$_{3}$Ni$_{6}$Si$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B6C2_cI44_229_e_h_c-001",
-    "number_of_species": 3,
-    "pearson_symbol": "cI44",
-    "space_group_number": 229,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "25622"
+    "comments": null
 }

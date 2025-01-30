@@ -1,9 +1,19 @@
 {
     "uid": "T95J",
+    "label": "A9B2_mP22_14_a4e_e-001",
+    "alias": "A9B2_mP22_14_a4e_e",
+    "title": "Co$_{2}$Al$_{9}$ ($D8_{d}$) Structure",
+    "icsd": "57598",
+    "ccdc": null,
     "prototype": "Al9Co2",
     "prototype_tex": "Al$_{9}$Co$_{2}$",
-    "label": "A9B2_mP22_14_a4e_e-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mP22",
+    "space_group_number": 14,
+    "strukturbericht": "D8_d",
+    "strukturbericht_tex": "$D8_{d}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -45,18 +55,8 @@
         0.8851,
         0.1665
     ],
-    "strukturbericht": "D8_d",
-    "title": "Co$_{2}$Al$_{9}$ ($D8_{d}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$D8_{d}$",
     "compounds": {},
-    "alias": "A9B2_mP22_14_a4e_e",
-    "number_of_species": 2,
-    "pearson_symbol": "mP22",
-    "space_group_number": 14,
-    "comments": "(Douglas, 1950) gives the Wyckoff positions in terms of the $P2_1/a$ setting of space group \\#14.  We have rotated the axes to change this to our standard $P2_1/c$ orientation.",
+    "legacy": false,
     "notes": "$D8_{d}$",
-    "ccdc": null,
-    "icsd": "57598"
+    "comments": "(Douglas, 1950) gives the Wyckoff positions in terms of the $P2_1/a$ setting of space group \\#14.  We have rotated the axes to change this to our standard $P2_1/c$ orientation."
 }

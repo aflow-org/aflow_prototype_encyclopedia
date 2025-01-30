@@ -1,9 +1,19 @@
 {
     "uid": "1L9R",
+    "label": "AB2_tP12_81_adg_2h-001",
+    "alias": "AB2_tP12_81_adg_2h",
+    "title": "GeSe$_{2}$ (High Pressure) Structure",
+    "icsd": "90957",
+    "ccdc": null,
     "prototype": "GeSe2",
     "prototype_tex": "GeSe$_{2}$",
-    "label": "AB2_tP12_81_adg_2h-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tP12",
+    "space_group_number": 81,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -25,17 +35,8 @@
         0.23,
         0.6273
     ],
-    "strukturbericht": null,
-    "title": "GeSe$_{2}$ (High Pressure) Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2_tP12_81_adg_2h",
-    "number_of_species": 2,
-    "pearson_symbol": "tP12",
-    "space_group_number": 81,
-    "comments": "This data was taken at $T = 698$ K with $P = 2$ GPa. \n Our original version of this structure in (Hicks, 2019) had $z_{5} = 0.6373$ for the Se-II atoms.  The correct value is 0.6273.",
+    "legacy": false,
     "notes": "HP",
-    "ccdc": null,
-    "icsd": "90957"
+    "comments": "This data was taken at $T = 698$ K with $P = 2$ GPa. \n Our original version of this structure in (Hicks, 2019) had $z_{5} = 0.6373$ for the Se-II atoms.  The correct value is 0.6273."
 }

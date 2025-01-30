@@ -1,9 +1,19 @@
 {
     "uid": "1911",
+    "label": "A4B5C9_hR18_166_2c_a2c_dh-001",
+    "alias": "A4B5C9_hR18_166_2c_a2c_dh-001",
+    "title": "Ce$_{4}$Ga$_{5}$Rh$_{9}$ Structure",
+    "icsd": "432164",
+    "ccdc": null,
     "prototype": "Ce4Ga5Rh9",
     "prototype_tex": "Ce$_{4}$Ga$_{5}$Rh$_{9}$",
-    "label": "A4B5C9_hR18_166_2c_a2c_dh-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hR18",
+    "space_group_number": 166,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -23,17 +33,8 @@
         0.50215,
         0.61135
     ],
-    "strukturbericht": null,
-    "title": "Ce$_{4}$Ga$_{5}$Rh$_{9}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B5C9_hR18_166_2c_a2c_dh-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hR18",
-    "space_group_number": 166,
-    "comments": "This is a more compact version of \\href{current_web_home_dir/A5B7C12_hR24_166_a2c_b3c_2h-001}{Ce$_{5}$Ga$_{7}$Rh$_{12}$} and \\href{current_web_home_dir/A7B11C18_hR36_166_a3c_b5c_3h-001}{Ce$_{7}$Ga$_{11}$Rh$_{18}$}. \n Aflow moves the Ga I atom from the published (1b) site to the origin (1a) site.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "432164"
+    "comments": "This is a more compact version of \\href{current_web_home_dir/A5B7C12_hR24_166_a2c_b3c_2h-001}{Ce$_{5}$Ga$_{7}$Rh$_{12}$} and \\href{current_web_home_dir/A7B11C18_hR36_166_a3c_b5c_3h-001}{Ce$_{7}$Ga$_{11}$Rh$_{18}$}. \n Aflow moves the Ga I atom from the published (1b) site to the origin (1a) site."
 }

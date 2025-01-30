@@ -1,9 +1,19 @@
 {
     "uid": "TBHL",
+    "label": "A31B20_tI204_140_b2gh3m_ac2fh3l-001",
+    "alias": "A31B20_tI204_140_b2gh3m_ac2fh3l",
+    "title": "Pu$_{31}$Rh$_{20}$ Structure",
+    "icsd": "1111",
+    "ccdc": null,
     "prototype": "Pu31Rh20",
     "prototype_tex": "Pu$_{31}$Rh$_{20}$",
-    "label": "A31B20_tI204_140_b2gh3m_ac2fh3l-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tI204",
+    "space_group_number": 140,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z4",
@@ -53,17 +63,8 @@
         0.9125,
         0.7114
     ],
-    "strukturbericht": null,
-    "title": "Pu$_{31}$Rh$_{20}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A31B20_tI204_140_b2gh3m_ac2fh3l",
-    "number_of_species": 2,
-    "pearson_symbol": "tI204",
-    "space_group_number": 140,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "1111"
+    "comments": null
 }

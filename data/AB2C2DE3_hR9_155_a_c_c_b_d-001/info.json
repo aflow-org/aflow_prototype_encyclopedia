@@ -1,9 +1,19 @@
 {
     "uid": "Q3TB",
+    "label": "AB2C2DE3_hR9_155_a_c_c_b_d-001",
+    "alias": "AB2C2DE3_hR9_155_b_c_c_a_e",
+    "title": "KBe$_{2}$BO$_{3}$F$_{2}$ Structure",
+    "icsd": "77277",
+    "ccdc": null,
     "prototype": "BBe2F2KO3",
     "prototype_tex": "BBe$_{2}$F$_{2}$KO$_{3}$",
-    "label": "AB2C2DE3_hR9_155_a_c_c_b_d-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "hR9",
+    "space_group_number": 155,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -17,17 +27,8 @@
         0.77848,
         0.69063
     ],
-    "strukturbericht": null,
-    "title": "KBe$_{2}$BO$_{3}$F$_{2}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2C2DE3_hR9_155_b_c_c_a_e",
-    "number_of_species": 5,
-    "pearson_symbol": "hR9",
-    "space_group_number": 155,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "77277"
+    "comments": null
 }

@@ -1,9 +1,19 @@
 {
     "uid": "TJ6A",
+    "label": "A3B_oP16_62_cd_c-001",
+    "alias": "A3B_oP16_62_cd_c",
+    "title": "$\\epsilon$-Al$_{3}$Ni ($D0_{20}$) Structure",
+    "icsd": "58040",
+    "ccdc": null,
     "prototype": "Al3Ni",
     "prototype_tex": "Al$_{3}$Ni",
-    "label": "A3B_oP16_62_cd_c-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP16",
+    "space_group_number": 62,
+    "strukturbericht": "D0_20",
+    "strukturbericht_tex": "$D0_{20}$",
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -27,18 +37,8 @@
         0.053,
         0.856
     ],
-    "strukturbericht": "D0_20",
-    "title": "$\\epsilon$-Al$_{3}$Ni ($D0_{20}$) Structure",
-    "part": 2,
-    "legacy": false,
-    "strukturbericht_tex": "$D0_{20}$",
     "compounds": {},
-    "alias": "A3B_oP16_62_cd_c",
-    "number_of_species": 2,
-    "pearson_symbol": "oP16",
-    "space_group_number": 62,
+    "legacy": false,
     "notes": "$D0_{20}$",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "58040"
+    "comments": null
 }

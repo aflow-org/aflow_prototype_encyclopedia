@@ -1,9 +1,19 @@
 {
     "uid": "S8YA",
+    "label": "AB_mC8_12_i_i-002",
+    "alias": "AB_mC8_12_i_i-002",
+    "title": "Monoclinic ZrCl Structure",
+    "icsd": "868",
+    "ccdc": null,
     "prototype": "ClZr",
     "prototype_tex": "ClZr",
-    "label": "AB_mC8_12_i_i-002",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC8",
+    "space_group_number": 12,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -23,17 +33,8 @@
         0.3779,
         0.1341
     ],
-    "strukturbericht": null,
-    "title": "Monoclinic ZrCl Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_mC8_12_i_i-002",
-    "number_of_species": 2,
-    "pearson_symbol": "mC8",
-    "space_group_number": 12,
-    "comments": "(Adolphson, 1976) put ZrCl in space group $C2$ \\#5, but since the set the $y$-coordinates of both atoms to zero there is an inversion site and the space group becomes $C2/m$ \\#12. \n ZrCl can also be found in a \\href{current_web_home_dir/AB_hR4_166_c_c-005}{rhombohedral structure}.",
+    "legacy": false,
     "notes": "Monoclinic",
-    "ccdc": null,
-    "icsd": "868"
+    "comments": "(Adolphson, 1976) put ZrCl in space group $C2$ \\#5, but since the set the $y$-coordinates of both atoms to zero there is an inversion site and the space group becomes $C2/m$ \\#12. \n ZrCl can also be found in a \\href{current_web_home_dir/AB_hR4_166_c_c-005}{rhombohedral structure}."
 }

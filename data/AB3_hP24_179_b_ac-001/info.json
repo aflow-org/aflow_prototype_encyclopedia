@@ -1,9 +1,19 @@
 {
     "uid": "45S0",
+    "label": "AB3_hP24_179_b_ac-001",
+    "alias": "AB3_hP24_179_b_ac",
+    "title": "AuF$_{3}$ Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "AuF3",
     "prototype_tex": "AuF$_{3}$",
-    "label": "AB3_hP24_179_b_ac-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP24",
+    "space_group_number": 179,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -21,17 +31,8 @@
         0.5338,
         0.661367
     ],
-    "strukturbericht": null,
-    "title": "AuF$_{3}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB3_hP24_179_b_ac",
-    "number_of_species": 2,
-    "pearson_symbol": "hP24",
-    "space_group_number": 179,
-    "comments": "These compounds also exist in the \\href{current_web_home_dir/AB3_hP24_178_b_ac-001}{enantiomorphic space group $P6_{1}22$ \\#178}.  That page describes the more recent (\\v{Z}emva, 1991) determination of the structure.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "none"
+    "comments": "These compounds also exist in the \\href{current_web_home_dir/AB3_hP24_178_b_ac-001}{enantiomorphic space group $P6_{1}22$ \\#178}.  That page describes the more recent (\\v{Z}emva, 1991) determination of the structure."
 }

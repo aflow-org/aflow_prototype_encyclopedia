@@ -1,9 +1,19 @@
 {
     "uid": "0VYM",
+    "label": "A5B3_tP32_130_cg_cf-001",
+    "alias": "A5B3_tP32_130_cg_cf",
+    "title": "Ba$_{5}$Si$_{3}$ Structure",
+    "icsd": "409377",
+    "ccdc": null,
     "prototype": "Ba5Si3",
     "prototype_tex": "Ba$_{5}$Si$_{3}$",
-    "label": "A5B3_tP32_130_cg_cf-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tP32",
+    "space_group_number": 130,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -23,17 +33,8 @@
         0.07997,
         0.10688
     ],
-    "strukturbericht": null,
-    "title": "Ba$_{5}$Si$_{3}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A5B3_tP32_130_cg_cf",
-    "number_of_species": 2,
-    "pearson_symbol": "tP32",
-    "space_group_number": 130,
-    "comments": "The ICSD entry seems to have displace the $z$-coordinate of the Si II atom by 1/2.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "409377"
+    "comments": "The ICSD entry seems to have displace the $z$-coordinate of the Si II atom by 1/2."
 }

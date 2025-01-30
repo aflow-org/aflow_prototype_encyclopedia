@@ -1,9 +1,19 @@
 {
     "uid": "Z993",
+    "label": "A_hP6_178_a-001",
+    "alias": "A_hP6_178_a",
+    "title": "Sc-V (High-Pressure) Structure",
+    "icsd": "153837",
+    "ccdc": null,
     "prototype": "Sc",
     "prototype_tex": "Sc",
-    "label": "A_hP6_178_a-001",
-    "parameter_symbol": [
+    "number_of_species": 1,
+    "pearson_symbol": "hP6",
+    "space_group_number": 178,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1"
@@ -13,17 +23,8 @@
         4.43567,
         0.461
     ],
-    "strukturbericht": null,
-    "title": "Sc-V (High-Pressure) Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A_hP6_178_a",
-    "number_of_species": 1,
-    "pearson_symbol": "hP6",
-    "space_group_number": 178,
-    "comments": "This high pressure phase of scandium becomes stable at 240 GPa. We use the experimental data at 242 GPa and 297K. This chiral structure could also have been presented in the enantiomorphic space group $P6_{5}22$ \\#179.",
+    "legacy": false,
     "notes": "Sc-V (HP)",
-    "ccdc": null,
-    "icsd": "153837"
+    "comments": "This high pressure phase of scandium becomes stable at 240 GPa. We use the experimental data at 242 GPa and 297K. This chiral structure could also have been presented in the enantiomorphic space group $P6_{5}22$ \\#179."
 }

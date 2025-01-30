@@ -1,9 +1,19 @@
 {
     "uid": "VHVW",
+    "label": "A9B2CDE_oP112_61_9c_2c_c_c_c-001",
+    "alias": "A9B2CDE_oP112_61_9c_2c_c_c_c-001",
+    "title": "SrZn(VO)(PO$_{4}$)$_{2}$ Structure",
+    "icsd": "407046",
+    "ccdc": null,
     "prototype": "O9P2SrVZn",
     "prototype_tex": "O$_{9}$P$_{2}$SrVZn",
-    "label": "A9B2CDE_oP112_61_9c_2c_c_c_c-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "oP112",
+    "space_group_number": 61,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -97,17 +107,8 @@
         0.92381,
         0.0661
     ],
-    "strukturbericht": null,
-    "title": "SrZn(VO)(PO$_{4}$)$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A9B2CDE_oP112_61_9c_2c_c_c_c-001",
-    "number_of_species": 5,
-    "pearson_symbol": "oP112",
-    "space_group_number": 61,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "407046"
+    "comments": null
 }

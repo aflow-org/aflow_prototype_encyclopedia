@@ -1,9 +1,19 @@
 {
     "uid": "YUU3",
+    "label": "A_tP12_96_ab-001",
+    "alias": "A_tP12_96_ab",
+    "title": "``ST12'' Structure of Si",
+    "icsd": "16954",
+    "ccdc": null,
     "prototype": "Si",
     "prototype_tex": "Si",
-    "label": "A_tP12_96_ab-001",
-    "parameter_symbol": [
+    "number_of_species": 1,
+    "pearson_symbol": "tP12",
+    "space_group_number": 96,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -19,17 +29,8 @@
         0.3792,
         0.2742
     ],
-    "strukturbericht": null,
-    "title": "``ST12'' Structure of Si",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "A_tP12_96_ab",
-    "number_of_species": 1,
-    "pearson_symbol": "tP12",
-    "space_group_number": 96,
-    "comments": "This is a tetragonally bonded structure which packs more efficiently than diamond. It is seen experimentally in some silicon and germanium samples and is a staple for testing silicon potentials and first-principles calculations. The structure shown here is taken from the calculations in (Crain, 1994), but the ICSD entry is an experimental entry for germanium (Bundy, 1963).",
+    "legacy": false,
     "notes": "ST12 Si",
-    "ccdc": null,
-    "icsd": "16954"
+    "comments": "This is a tetragonally bonded structure which packs more efficiently than diamond. It is seen experimentally in some silicon and germanium samples and is a staple for testing silicon potentials and first-principles calculations. The structure shown here is taken from the calculations in (Crain, 1994), but the ICSD entry is an experimental entry for germanium (Bundy, 1963)."
 }

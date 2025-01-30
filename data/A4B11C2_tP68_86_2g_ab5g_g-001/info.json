@@ -1,9 +1,19 @@
 {
     "uid": "8MQB",
+    "label": "A4B11C2_tP68_86_2g_ab5g_g-001",
+    "alias": "A4B11C2_tP68_86_2g_ab5g_g",
+    "title": "Nd$_{4}$Re$_{2}$O$_{11}$ Structure",
+    "icsd": "15042",
+    "ccdc": null,
     "prototype": "Nd4O11Re2",
     "prototype_tex": "Nd$_{4}$O$_{11}$Re$_{2}$",
-    "label": "A4B11C2_tP68_86_2g_ab5g_g-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP68",
+    "space_group_number": 86,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -59,17 +69,8 @@
         0.913,
         0.0707
     ],
-    "strukturbericht": null,
-    "title": "Nd$_{4}$Re$_{2}$O$_{11}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B11C2_tP68_86_2g_ab5g_g",
-    "number_of_species": 3,
-    "pearson_symbol": "tP68",
-    "space_group_number": 86,
-    "comments": "(Wilhelmi, 1970) has a misprint for the Wyckoff position of the Nd-II atom, although the nearest-neighbor distances are correct.  (Downs, 2003) corrects the position to be consistent with those distances, and we use their value. The ICSD entry also includes this correction.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "15042"
+    "comments": "(Wilhelmi, 1970) has a misprint for the Wyckoff position of the Nd-II atom, although the nearest-neighbor distances are correct.  (Downs, 2003) corrects the position to be consistent with those distances, and we use their value. The ICSD entry also includes this correction."
 }

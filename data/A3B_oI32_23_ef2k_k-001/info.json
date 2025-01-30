@@ -1,9 +1,19 @@
 {
     "uid": "4LGD",
+    "label": "A3B_oI32_23_ef2k_k-001",
+    "alias": "A3B_oI32_23_ij2k_k",
+    "title": "H$_{3}$S (5 GPa) Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "H3S",
     "prototype_tex": "H$_{3}$S",
-    "label": "A3B_oI32_23_ef2k_k-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oI32",
+    "space_group_number": 23,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -35,17 +45,8 @@
         0.76005,
         0.8216
     ],
-    "strukturbericht": null,
-    "title": "H$_{3}$S (5 GPa) Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B_oI32_23_ij2k_k",
-    "number_of_species": 2,
-    "pearson_symbol": "oI32",
-    "space_group_number": 23,
-    "comments": "This structure is found in H$_{3}$S in the pressure range 3.5-17 GPa. The data presented here was taken at 5 GPa.",
+    "legacy": false,
     "notes": "5 GPa",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "This structure is found in H$_{3}$S in the pressure range 3.5-17 GPa. The data presented here was taken at 5 GPa."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "0J1F",
+    "label": "A7B2C2_mC22_12_aij_h_i-001",
+    "alias": "A7B2C2_mC22_12_aij_h_i",
+    "title": "Thortveitite ([Sc,Y]$_{2}$Si$_{2}$O$_{7}$, $S2_{1}$) Structure",
+    "icsd": "202633",
+    "ccdc": null,
     "prototype": "O7Sc2Si2",
     "prototype_tex": "O$_{7}$Sc$_{2}$Si$_{2}$",
-    "label": "A7B2C2_mC22_12_aij_h_i-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mC22",
+    "space_group_number": 12,
+    "strukturbericht": "S2_1",
+    "strukturbericht_tex": "$S2_{1}$",
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -31,18 +41,8 @@
         0.15499,
         0.28174
     ],
-    "strukturbericht": "S2_1",
-    "title": "Thortveitite ([Sc,Y]$_{2}$Si$_{2}$O$_{7}$, $S2_{1}$) Structure",
-    "part": 2,
-    "legacy": false,
-    "strukturbericht_tex": "$S2_{1}$",
     "compounds": {},
-    "alias": "A7B2C2_mC22_12_aij_h_i",
-    "number_of_species": 3,
-    "pearson_symbol": "mC22",
-    "space_group_number": 12,
-    "comments": "Thortveitite is the primary source of scandium and is one of the simplest sorosilicates, minerals with isolated Si$_{2}$O$_{7}$ groups. (Bianchi, 1988) \n Although the (4h) Wyckoff position is randomly occupied by both Sc and Y atoms, we use Sc to represent the site. \n (Bianchi, 1988) gives structural information for several samples of thortveitite. \n In addition, the Si (4i) site contains 2\\% aluminum. \n We use the data from sample 1, collected in Iveland, Norway.",
+    "legacy": false,
     "notes": "$S2_{1}$, Thortveitite",
-    "ccdc": null,
-    "icsd": "202633"
+    "comments": "Thortveitite is the primary source of scandium and is one of the simplest sorosilicates, minerals with isolated Si$_{2}$O$_{7}$ groups. (Bianchi, 1988) \n Although the (4h) Wyckoff position is randomly occupied by both Sc and Y atoms, we use Sc to represent the site. \n (Bianchi, 1988) gives structural information for several samples of thortveitite. \n In addition, the Si (4i) site contains 2\\% aluminum. \n We use the data from sample 1, collected in Iveland, Norway."
 }

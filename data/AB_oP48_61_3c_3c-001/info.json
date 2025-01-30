@@ -1,9 +1,19 @@
 {
     "uid": "PWJE",
+    "label": "AB_oP48_61_3c_3c-001",
+    "alias": "AB_oP48_61_3c_3c",
+    "title": "Benzene Structure",
+    "icsd": null,
+    "ccdc": "725244",
     "prototype": "C6H6",
     "prototype_tex": "C$_{6}$H$_{6}$",
-    "label": "AB_oP48_61_3c_3c-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP48",
+    "space_group_number": 61,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -49,17 +59,8 @@
         0.4051,
         0.2704
     ],
-    "strukturbericht": null,
-    "title": "Benzene Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_oP48_61_3c_3c",
-    "number_of_species": 2,
-    "pearson_symbol": "oP48",
-    "space_group_number": 61,
-    "ccdc": "725244",
-    "comments": "Benzene is a liquid at temperatures above 6$^\\circ$C (279K). This data was constructed from experiments at 150K. The hydrogen atomic positions were approximated to agree with the chemistry of the benzene molecule.",
+    "legacy": false,
     "notes": "Benzene",
-    "icsd": null
+    "comments": "Benzene is a liquid at temperatures above 6$^\\circ$C (279K). This data was constructed from experiments at 150K. The hydrogen atomic positions were approximated to agree with the chemistry of the benzene molecule."
 }

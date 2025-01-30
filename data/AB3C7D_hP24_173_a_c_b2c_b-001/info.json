@@ -1,9 +1,19 @@
 {
     "uid": "H1TU",
+    "label": "AB3C7D_hP24_173_a_c_b2c_b-001",
+    "alias": "AB3C7D_hP24_173_a_c_b2c_b",
+    "title": "La$_{3}$CuSiS$_{7}$ Structure",
+    "icsd": "23519",
+    "ccdc": null,
     "prototype": "CuLa3S7Si",
     "prototype_tex": "CuLa$_{3}$S$_{7}$Si",
-    "label": "AB3C7D_hP24_173_a_c_b2c_b-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "hP24",
+    "space_group_number": 173,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -35,17 +45,8 @@
         0.25,
         0.761
     ],
-    "strukturbericht": null,
-    "title": "La$_{3}$CuSiS$_{7}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB3C7D_hP24_173_a_c_b2c_b",
-    "number_of_species": 4,
-    "pearson_symbol": "hP24",
-    "space_group_number": 173,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "23519"
+    "comments": null
 }

@@ -1,9 +1,19 @@
 {
     "uid": "K791",
+    "label": "AB2C3_cP24_212_a_c_d-001",
+    "alias": "AB2C3_cP24_212_a_c_d-001",
+    "title": "Li$_{2}$Pd$_{3}$B Structure",
+    "icsd": "84931",
+    "ccdc": null,
     "prototype": "BLi2Pt3",
     "prototype_tex": "BLi$_{2}$Pt$_{3}$",
-    "label": "AB2C3_cP24_212_a_c_d-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cP24",
+    "space_group_number": 212,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "x2",
         "y3"
@@ -13,17 +23,8 @@
         0.4428,
         0.69583
     ],
-    "strukturbericht": null,
-    "title": "Li$_{2}$Pd$_{3}$B Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2C3_cP24_212_a_c_d-001",
-    "number_of_species": 3,
-    "pearson_symbol": "cP24",
-    "space_group_number": 212,
-    "comments": "This structure can also be expressed in the enantiomorphic space group $P4_{1}32$ \\#213.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "84931"
+    "comments": "This structure can also be expressed in the enantiomorphic space group $P4_{1}32$ \\#213."
 }

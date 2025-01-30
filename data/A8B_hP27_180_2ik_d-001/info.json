@@ -1,9 +1,19 @@
 {
     "uid": "T338",
+    "label": "A8B_hP27_180_2ik_d-001",
+    "alias": "A8B_hP27_180_2ik_d-001",
+    "title": "CsC$_{8}$ Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "C8Cs",
     "prototype_tex": "C$_{8}$Cs",
-    "label": "A8B_hP27_180_2ik_d-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP27",
+    "space_group_number": 180,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -21,17 +31,8 @@
         0.33333,
         0.33333
     ],
-    "strukturbericht": null,
-    "title": "CsC$_{8}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A8B_hP27_180_2ik_d-001",
-    "number_of_species": 2,
-    "pearson_symbol": "hP27",
-    "space_group_number": 180,
-    "comments": "This is the ambient pressure structure structure of CsC$_{8}$.  Above 1.2 GPa it transforms into an orthorhombic structure which was not determined by (Rey, 2008).  Further transitions occur at higher temperatures. \n This compound can also be found in the enantiomorphic space group $P6_{4}22$ \\#181. To make this transition, reflect the structure through the $z = 0$ plane. \n We found no entry in the ICSD or the CCDC for this structure.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "none"
+    "comments": "This is the ambient pressure structure structure of CsC$_{8}$.  Above 1.2 GPa it transforms into an orthorhombic structure which was not determined by (Rey, 2008).  Further transitions occur at higher temperatures. \n This compound can also be found in the enantiomorphic space group $P6_{4}22$ \\#181. To make this transition, reflect the structure through the $z = 0$ plane. \n We found no entry in the ICSD or the CCDC for this structure."
 }

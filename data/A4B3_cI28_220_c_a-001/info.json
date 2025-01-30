@@ -1,9 +1,19 @@
 {
     "uid": "JM9C",
+    "label": "A4B3_cI28_220_c_a-001",
+    "alias": "A4B3_cI28_220_c_a",
+    "title": "Th$_{3}$P$_{4}$ ($D7_{3}$) Structure",
+    "icsd": "648207",
+    "ccdc": null,
     "prototype": "P4Th3",
     "prototype_tex": "P$_{4}$Th$_{3}$",
-    "label": "A4B3_cI28_220_c_a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cI28",
+    "space_group_number": 220,
+    "strukturbericht": "D7_3",
+    "strukturbericht_tex": "$D7_{3}$",
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "x2"
     ],
@@ -11,18 +21,8 @@
         8.6,
         0.08333
     ],
-    "strukturbericht": "D7_3",
-    "title": "Th$_{3}$P$_{4}$ ($D7_{3}$) Structure",
-    "part": 2,
-    "legacy": false,
-    "strukturbericht_tex": "$D7_{3}$",
     "compounds": {},
-    "alias": "A4B3_cI28_220_c_a",
-    "number_of_species": 2,
-    "pearson_symbol": "cI28",
-    "space_group_number": 220,
-    "comments": "The Th$_{3}$P$_{4}$ structure allows a large degree of disorder in the thorium (12a) site.  Compounds of the form AB$_{2}$C$_{4}$ have the A and B atoms mixed on the (12a) site (Flahaut, 1965).  Compounds of the form A$_{2}$B$_{3}$ should more properly be listed as A$_{3-x}$B$_{4}$, with $x$ in the range [0,1/3] and a corresponding number of vacancies distributed statistically on the (12a) site (Zachariasen, 1949).",
+    "legacy": false,
     "notes": "$D7_{3}$",
-    "ccdc": null,
-    "icsd": "648207"
+    "comments": "The Th$_{3}$P$_{4}$ structure allows a large degree of disorder in the thorium (12a) site.  Compounds of the form AB$_{2}$C$_{4}$ have the A and B atoms mixed on the (12a) site (Flahaut, 1965).  Compounds of the form A$_{2}$B$_{3}$ should more properly be listed as A$_{3-x}$B$_{4}$, with $x$ in the range [0,1/3] and a corresponding number of vacancies distributed statistically on the (12a) site (Zachariasen, 1949)."
 }

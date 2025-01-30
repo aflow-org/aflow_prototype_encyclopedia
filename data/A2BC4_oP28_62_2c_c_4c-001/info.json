@@ -1,9 +1,19 @@
 {
     "uid": "PUZH",
+    "label": "A2BC4_oP28_62_2c_c_4c-001",
+    "alias": "A2BC4_oP28_62_2c_c_4c-001",
+    "title": "Galenobismutite (PbBi$_{2}$S$_{4}$) Structure",
+    "icsd": "158392",
+    "ccdc": null,
     "prototype": "Bi2PbS4",
     "prototype_tex": "Bi$_{2}$PbS$_{4}$",
-    "label": "A2BC4_oP28_62_2c_c_4c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP28",
+    "space_group_number": 62,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -41,17 +51,8 @@
         0.0174,
         0.2883
     ],
-    "strukturbericht": null,
-    "title": "Galenobismutite (PbBi$_{2}$S$_{4}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC4_oP28_62_2c_c_4c-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oP28",
-    "space_group_number": 62,
-    "comments": "This is the ternary form of the binary \\href{current_web_home_dir/A3B4_oP28_62_3c_4c-003}{Eu$_{3}$O$_{4}$} and the quaternary \\href{current_web_home_dir/ABC4D_oP28_62_c_c_4c_c-001}{FeSbBiS$_{4}$} structures. \n (Olson, 2007) put this structure in the $Pnam$ setting of space group \\#62.  We used FINDSYM to transform this the standard $Pnma$ setting. We used the data taken at 1 atmosphere (100 kPa). \n The ICSD uses CaFe$_{2}$O$_{4}$ as the prototype for this structure.",
+    "legacy": false,
     "notes": "Galenobismutite",
-    "ccdc": null,
-    "icsd": "158392"
+    "comments": "This is the ternary form of the binary \\href{current_web_home_dir/A3B4_oP28_62_3c_4c-003}{Eu$_{3}$O$_{4}$} and the quaternary \\href{current_web_home_dir/ABC4D_oP28_62_c_c_4c_c-001}{FeSbBiS$_{4}$} structures. \n (Olson, 2007) put this structure in the $Pnam$ setting of space group \\#62.  We used FINDSYM to transform this the standard $Pnma$ setting. We used the data taken at 1 atmosphere (100 kPa). \n The ICSD uses CaFe$_{2}$O$_{4}$ as the prototype for this structure."
 }

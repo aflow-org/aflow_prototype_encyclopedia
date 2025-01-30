@@ -1,9 +1,19 @@
 {
     "uid": "WUSJ",
+    "label": "AB3_oP24_58_ag_c2gh-001",
+    "alias": "AB3_oP24_58_ag_c2gh-001",
+    "title": "$\\gamma$-Alane (AlH$_{3}$) Structure",
+    "icsd": "249407",
+    "ccdc": null,
     "prototype": "AlH3",
     "prototype_tex": "AlH$_{3}$",
-    "label": "AB3_oP24_58_ag_c2gh-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP24",
+    "space_group_number": 58,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -31,17 +41,8 @@
         0.578,
         0.691
     ],
-    "strukturbericht": null,
-    "title": "$\\gamma$-Alane (AlH$_{3}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB3_oP24_58_ag_c2gh-001",
-    "number_of_species": 2,
-    "pearson_symbol": "oP24",
-    "space_group_number": 58,
-    "comments": "Alane (AlH$_{3}$ or AlD$_{3}$) comes a variety of polymorphs (Brower, 1976) which can be accessed by using different preparation methods.  We will add to this list as we obtain data on more of the crystal structures. Currently we have \\begin{itemize} \\item $\\alpha$-Alane is the ground state, and has the \\href{current_web_home_dir/A3B_hR8_167_e_b-001}{rhombohedral FeF$_{3}$ ($D0_{12}$)} structure, \\item $\\alpha'$-Alane, which takes the \\href{current_web_home_dir/AB3_oC48_63_ad_cfgh-001}{body-centered orthorhombic $\\beta$-AlFe$_{3}$ structure}. \\item \\href{current_web_home_dir/AB3_cF64_227_c_f-001}{$\\beta$-Alane} is cubic, \\item orthorhombic \\href{current_web_home_dir/AB3_oP24_58_ag_c2gh-001}{$\\gamma$-Alane} (this structure) has two hydrogens bridging some of the aluminum atoms, and \\item tetragonal \\href{current_web_home_dir/AB3_tP64_85_2ceg_2cf5g-001}{$\\delta$-Alane}. \\end{itemize}",
+    "legacy": false,
     "notes": "$\\gamma$-Alane",
-    "ccdc": null,
-    "icsd": "249407"
+    "comments": "Alane (AlH$_{3}$ or AlD$_{3}$) comes a variety of polymorphs (Brower, 1976) which can be accessed by using different preparation methods.  We will add to this list as we obtain data on more of the crystal structures. Currently we have \\begin{itemize} \\item $\\alpha$-Alane is the ground state, and has the \\href{current_web_home_dir/A3B_hR8_167_e_b-001}{rhombohedral FeF$_{3}$ ($D0_{12}$)} structure, \\item $\\alpha'$-Alane, which takes the \\href{current_web_home_dir/AB3_oC48_63_ad_cfgh-001}{body-centered orthorhombic $\\beta$-AlFe$_{3}$ structure}. \\item \\href{current_web_home_dir/AB3_cF64_227_c_f-001}{$\\beta$-Alane} is cubic, \\item orthorhombic \\href{current_web_home_dir/AB3_oP24_58_ag_c2gh-001}{$\\gamma$-Alane} (this structure) has two hydrogens bridging some of the aluminum atoms, and \\item tetragonal \\href{current_web_home_dir/AB3_tP64_85_2ceg_2cf5g-001}{$\\delta$-Alane}. \\end{itemize}"
 }

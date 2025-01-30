@@ -1,9 +1,19 @@
 {
     "uid": "SN8G",
+    "label": "A7BC3_oC44_20_3a2c_b_bc-001",
+    "alias": "A7BC3_oC44_20_3a2c_b_bc-001",
+    "title": "Y$_{3}$TaO$_{7}$ Structure",
+    "icsd": "10059",
+    "ccdc": null,
     "prototype": "O7TaY3",
     "prototype_tex": "O$_{7}$TaY$_{3}$",
-    "label": "A7BC3_oC44_20_3a2c_b_bc-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oC44",
+    "space_group_number": 20,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -41,17 +51,8 @@
         0.2379,
         0.0
     ],
-    "strukturbericht": null,
-    "title": "Y$_{3}$TaO$_{7}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A7BC3_oC44_20_3a2c_b_bc-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oC44",
-    "space_group_number": 20,
-    "comments": "Space group $C222_{1} \\#20$ allows the arbitary choice of the zero of the $z$-axis.  Here we follow (Rossell, 1979) and take $z_{8} = 0$ for the Y-II (8c) Wyckoff position.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "10059"
+    "comments": "Space group $C222_{1} \\#20$ allows the arbitary choice of the zero of the $z$-axis.  Here we follow (Rossell, 1979) and take $z_{8} = 0$ for the Y-II (8c) Wyckoff position."
 }

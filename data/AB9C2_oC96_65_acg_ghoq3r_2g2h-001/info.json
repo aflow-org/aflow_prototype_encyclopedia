@@ -1,9 +1,19 @@
 {
     "uid": "FS4Q",
+    "label": "AB9C2_oC96_65_acg_ghoq3r_2g2h-001",
+    "alias": "AB9C2_oC96_65_acg_ghoq3r_2g2h-001",
+    "title": "BaIr$_{2}$Ge$_{7}$ Structure",
+    "icsd": "194234",
+    "ccdc": null,
     "prototype": "BaGe7Ir2",
     "prototype_tex": "BaGe$_{7}$Ir$_{2}$",
-    "label": "AB9C2_oC96_65_acg_ghoq3r_2g2h-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oC96",
+    "space_group_number": 65,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -53,17 +63,8 @@
         0.135,
         0.362
     ],
-    "strukturbericht": null,
-    "title": "BaIr$_{2}$Ge$_{7}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB9C2_oC96_65_acg_ghoq3r_2g2h-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oC96",
-    "space_group_number": 65,
-    "comments": "\\href{current_web_home_dir/AB9C2_oC96_65_acg_ghoq3r_2g2h-001}{BaIr$_{2}$Ge$_{7}$} and \\href{current_web_home_dir/A3B16C4_tI46_139_ad_2ejm_g2-001}{Ba$_{3}$Ir$_{4}$Ge$_{16}$} are structures with the barium atoms surrounded by germanium rings and germanium-iridium cages.  They are superconducting at 2.5 and 5.2K, respectively. \n (Ishida, 2014), wishing to present the structure with the long axis in the $\\hat{z}$ direction, give the structural data for BaIr$_{2}$Ge$_{7}$ in the $Ammm$ setting of space group \\#65. We used AFLOW to transform this to the standard $Cmmm$ setting.  This rotates the lattice 90$^\\circ$ about the y-axis. In addition the origin was translated by 1/2\\,b\\,$\\hat{y}$, moving the first barium atom from the (2b) site to the origin at the (2a) site. \n The Ge VI and Ge VII (16r) sites are only half-occupied, leading to the observed stoichiometry.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "194234"
+    "comments": "\\href{current_web_home_dir/AB9C2_oC96_65_acg_ghoq3r_2g2h-001}{BaIr$_{2}$Ge$_{7}$} and \\href{current_web_home_dir/A3B16C4_tI46_139_ad_2ejm_g2-001}{Ba$_{3}$Ir$_{4}$Ge$_{16}$} are structures with the barium atoms surrounded by germanium rings and germanium-iridium cages.  They are superconducting at 2.5 and 5.2K, respectively. \n (Ishida, 2014), wishing to present the structure with the long axis in the $\\hat{z}$ direction, give the structural data for BaIr$_{2}$Ge$_{7}$ in the $Ammm$ setting of space group \\#65. We used AFLOW to transform this to the standard $Cmmm$ setting.  This rotates the lattice 90$^\\circ$ about the y-axis. In addition the origin was translated by 1/2\\,b\\,$\\hat{y}$, moving the first barium atom from the (2b) site to the origin at the (2a) site. \n The Ge VI and Ge VII (16r) sites are only half-occupied, leading to the observed stoichiometry."
 }

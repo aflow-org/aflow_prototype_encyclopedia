@@ -1,9 +1,19 @@
 {
     "uid": "YGNT",
+    "label": "A10B3_hP26_176_bcfi_h-001",
+    "alias": "A10B3_hP26_176_bcfi_h-001",
+    "title": "$\\zeta$-Cu$_{10}$Sn$_{3}$ Structure",
+    "icsd": "103105",
+    "ccdc": null,
     "prototype": "Cu10Sn3",
     "prototype_tex": "Cu$_{10}$Sn$_{3}$",
-    "label": "A10B3_hP26_176_bcfi_h-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP26",
+    "space_group_number": 176,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -23,17 +33,8 @@
         0.031,
         0.58
     ],
-    "strukturbericht": null,
-    "title": "$\\zeta$-Cu$_{10}$Sn$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A10B3_hP26_176_bcfi_h-001",
-    "number_of_species": 2,
-    "pearson_symbol": "hP26",
-    "space_group_number": 176,
-    "comments": "We have shifted the origin by $1/2 c \\hat{z}$ from that used by (Lenz, 1971). \n This is designated as the $\\zeta$ phase in the Cu-Sn system. (Massalski, 1990)",
+    "legacy": false,
     "notes": "$\\zeta$-Cu$_{10}$Sn$_{3}$",
-    "ccdc": null,
-    "icsd": "103105"
+    "comments": "We have shifted the origin by $1/2 c \\hat{z}$ from that used by (Lenz, 1971). \n This is designated as the $\\zeta$ phase in the Cu-Sn system. (Massalski, 1990)"
 }

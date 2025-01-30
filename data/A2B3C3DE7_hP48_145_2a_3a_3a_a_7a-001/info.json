@@ -1,9 +1,19 @@
 {
     "uid": "3V4Q",
+    "label": "A2B3C3DE7_hP48_145_2a_3a_3a_a_7a-001",
+    "alias": "A2B3C3DE7_hP48_145_2a_3a_3a_a_7a",
+    "title": "Sheldrickite (NaCa$_{3}$[CO$_{3}$]$_{2}$F$_{3}$[H$_{2}$O]) Structure",
+    "icsd": "89257",
+    "ccdc": null,
     "prototype": "C2Ca3F3NaO7",
     "prototype_tex": "C$_{2}$Ca$_{3}$F$_{3}$NaO$_{7}$",
-    "label": "A2B3C3DE7_hP48_145_2a_3a_3a_a_7a-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "hP48",
+    "space_group_number": 145,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -107,17 +117,8 @@
         0.202,
         0.831
     ],
-    "strukturbericht": null,
-    "title": "Sheldrickite (NaCa$_{3}$[CO$_{3}$]$_{2}$F$_{3}$[H$_{2}$O]) Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B3C3DE7_hP48_145_2a_3a_3a_a_7a",
-    "number_of_species": 5,
-    "pearson_symbol": "hP48",
-    "space_group_number": 145,
-    "comments": "The H$_{2}$O molecule is centered on one of the oxygen (3a) sites; however it is only listed as O in this prototype. \n This structure can also be found in the enantiomorphic space group $P3_{1}$ \\#144.",
+    "legacy": false,
     "notes": "Sheldrickite",
-    "ccdc": null,
-    "icsd": "89257"
+    "comments": "The H$_{2}$O molecule is centered on one of the oxygen (3a) sites; however it is only listed as O in this prototype. \n This structure can also be found in the enantiomorphic space group $P3_{1}$ \\#144."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "WBDQ",
+    "label": "AB6C2_cP72_198_2a_4b_ab-001",
+    "alias": "AB6C2_cP72_198_2a_4b_ab-001",
+    "title": "Low Temperature CsW$_{2}$O$_{6}$ Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "CsO6W2",
     "prototype_tex": "CsO$_{6}$W$_{2}$",
-    "label": "AB6C2_cP72_198_2a_4b_ab-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cP72",
+    "space_group_number": 198,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "x1",
         "x2",
@@ -45,17 +55,8 @@
         0.37456,
         0.62848
     ],
-    "strukturbericht": null,
-    "title": "Low Temperature CsW$_{2}$O$_{6}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB6C2_cP72_198_2a_4b_ab-001",
-    "number_of_species": 3,
-    "pearson_symbol": "cP72",
-    "space_group_number": 198,
-    "comments": "This is the ground state structure of CsW$_{2}$O$_{6}$, with data taken at 100K.  Above 215K this transforms into the \\href{current_web_home_dir/A2B2C7_cF88_227_c_d_af-001}{cubic (or $\\beta$-) pyrochlore structure, $E8_{1}$}.",
+    "legacy": false,
     "notes": "LT (100K)",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "This is the ground state structure of CsW$_{2}$O$_{6}$, with data taken at 100K.  Above 215K this transforms into the \\href{current_web_home_dir/A2B2C7_cF88_227_c_d_af-001}{cubic (or $\\beta$-) pyrochlore structure, $E8_{1}$}."
 }

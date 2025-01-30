@@ -1,9 +1,19 @@
 {
     "uid": "B529",
+    "label": "ABC_oI12_71_e_h_f-001",
+    "alias": "ABC_oI12_71_h_j_g",
+    "title": "NbPS Structure",
+    "icsd": "16075",
+    "ccdc": null,
     "prototype": "NbPS",
     "prototype_tex": "NbPS",
-    "label": "ABC_oI12_71_e_h_f-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oI12",
+    "space_group_number": 71,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -19,17 +29,8 @@
         0.788,
         0.735
     ],
-    "strukturbericht": null,
-    "title": "NbPS Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC_oI12_71_h_j_g",
-    "number_of_species": 3,
-    "pearson_symbol": "oI12",
-    "space_group_number": 71,
-    "comments": "The ICSD lists this as a tenary form of \\href{current_web_home_dir/A2B_oI12_71_eh_f-001}{UTe$_{2}$}, but the structures are actually rather far apart.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "16075"
+    "comments": "The ICSD lists this as a tenary form of \\href{current_web_home_dir/A2B_oI12_71_eh_f-001}{UTe$_{2}$}, but the structures are actually rather far apart."
 }

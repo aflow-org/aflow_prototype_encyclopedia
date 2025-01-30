@@ -1,9 +1,19 @@
 {
     "uid": "N67X",
+    "label": "A2B4C_oC28_40_c_abc_b-001",
+    "alias": "A2B4C_oC28_40_c_abc_b-001",
+    "title": "Al$_{2}$PbO$_{4}$ Structure",
+    "icsd": "80128",
+    "ccdc": null,
     "prototype": "Al2O4Pb",
     "prototype_tex": "Al$_{2}$O$_{4}$Pb",
-    "label": "A2B4C_oC28_40_c_abc_b-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oC28",
+    "space_group_number": 40,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -35,17 +45,8 @@
         0.6908,
         0.6877
     ],
-    "strukturbericht": null,
-    "title": "Al$_{2}$PbO$_{4}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B4C_oC28_40_c_abc_b-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oC28",
-    "space_group_number": 40,
-    "comments": "(Pl\\\"{o}tz, 1982) originally placed this structure in the triclinic space group $P1$ \\#1.  (Marsh, 1995) determined that their data fit in space group $Ama2$ \\#40, and we present their analysis here.",
+    "legacy": false,
     "notes": "",
-    "ccdc": null,
-    "icsd": "80128"
+    "comments": "(Pl\\\"{o}tz, 1982) originally placed this structure in the triclinic space group $P1$ \\#1.  (Marsh, 1995) determined that their data fit in space group $Ama2$ \\#40, and we present their analysis here."
 }

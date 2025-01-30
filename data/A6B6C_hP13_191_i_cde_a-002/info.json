@@ -1,9 +1,19 @@
 {
     "uid": "4E59",
+    "label": "A6B6C_hP13_191_i_cde_a-002",
+    "alias": "A6B6C_hP13_191_i_cde_a-002",
+    "title": "HfFe$_{6}$Ge$_{6}$ Structure",
+    "icsd": "632038",
+    "ccdc": null,
     "prototype": "Fe6Ge6Hf",
     "prototype_tex": "Fe$_{6}$Ge$_{6}$Hf",
-    "label": "A6B6C_hP13_191_i_cde_a-002",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP13",
+    "space_group_number": 191,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z4",
@@ -15,17 +25,8 @@
         0.347,
         0.248
     ],
-    "strukturbericht": null,
-    "title": "HfFe$_{6}$Ge$_{6}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A6B6C_hP13_191_i_cde_a-002",
-    "number_of_species": 3,
-    "pearson_symbol": "hP13",
-    "space_group_number": 191,
-    "comments": "(Zyubrik, 1982) originally determined the structure of HfFe$_{6}$Ge$_{6}$. While we do not have a copy of this paper, we were able to extract the data from the ICSD entry. \n This structure is related to the \\href{current_web_home_dir/A12B_hP13_191_cdei_a-001}{$D2_{a}$ TiBe$_{12}$ structure}.  That structure, however, is probably not the actual TiBe$_{12}$ structure, so we designate HfFe$_{6}$Ge$_{6}$ as the prototype for the ternary form.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "632038"
+    "comments": "(Zyubrik, 1982) originally determined the structure of HfFe$_{6}$Ge$_{6}$. While we do not have a copy of this paper, we were able to extract the data from the ICSD entry. \n This structure is related to the \\href{current_web_home_dir/A12B_hP13_191_cdei_a-001}{$D2_{a}$ TiBe$_{12}$ structure}.  That structure, however, is probably not the actual TiBe$_{12}$ structure, so we designate HfFe$_{6}$Ge$_{6}$ as the prototype for the ternary form."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "0RQ9",
+    "label": "A2B2C3_oP28_57_e_cd_de-001",
+    "alias": "A2B2C3_oP28_57_e_cd_de-001",
+    "title": "Y$_{3}$Rh$_{2}$Si$_{2}$ Structure",
+    "icsd": "30725",
+    "ccdc": null,
     "prototype": "Rh2Si2Y3",
     "prototype_tex": "Rh$_{2}$Si$_{2}$Y$_{3}$",
-    "label": "A2B2C3_oP28_57_e_cd_de-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP28",
+    "space_group_number": 57,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -35,17 +45,8 @@
         0.6057,
         0.10313
     ],
-    "strukturbericht": null,
-    "title": "Y$_{3}$Rh$_{2}$Si$_{2}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B2C3_oP28_57_e_cd_de-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oP28",
-    "space_group_number": 57,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "30725"
+    "comments": null
 }

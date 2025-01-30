@@ -1,9 +1,19 @@
 {
     "uid": "6ZPS",
+    "label": "AB6C4_oC22_65_a_3g_2h-001",
+    "alias": "AB6C4_oC22_65_a_3g_2h-001",
+    "title": "Cr$_{4}$AlB$_{6}$ Structure",
+    "icsd": "251807",
+    "ccdc": null,
     "prototype": "AlB6Cr4",
     "prototype_tex": "AlB$_{6}$Cr$_{4}$",
-    "label": "AB6C4_oC22_65_a_3g_2h-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oC22",
+    "space_group_number": 65,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -23,17 +33,8 @@
         0.57634,
         0.18843
     ],
-    "strukturbericht": null,
-    "title": "Cr$_{4}$AlB$_{6}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB6C4_oC22_65_a_3g_2h-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oC22",
-    "space_group_number": 65,
-    "comments": "(Ade, 2015) put set the origin so that the aluminum atoms were at the (2c) Wyckoff position.  We shifted this so that the aluminum atoms are at the (2a) Wyckoff position, placing an aluminum atom at the origin.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "251807"
+    "comments": "(Ade, 2015) put set the origin so that the aluminum atoms were at the (2c) Wyckoff position.  We shifted this so that the aluminum atoms are at the (2a) Wyckoff position, placing an aluminum atom at the origin."
 }

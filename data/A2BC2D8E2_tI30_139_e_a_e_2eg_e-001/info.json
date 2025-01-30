@@ -1,9 +1,19 @@
 {
     "uid": "BZRA",
+    "label": "A2BC2D8E2_tI30_139_e_a_e_2eg_e-001",
+    "alias": "A2BC2D8E2_tI30_139_e_a_e_2eg_e-001",
+    "title": "Bi$_{2}$Sr$_{2}$CaCu$_{2}$O$_{8}$ (BSCCO) Structure",
+    "icsd": "68188",
+    "ccdc": null,
     "prototype": "Ba2CaCu2O8Sr2",
     "prototype_tex": "Ba$_{2}$CaCu$_{2}$O$_{8}$Sr$_{2}$",
-    "label": "A2BC2D8E2_tI30_139_e_a_e_2eg_e-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "tI30",
+    "space_group_number": 139,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -23,17 +33,8 @@
         0.1,
         0.45
     ],
-    "strukturbericht": null,
-    "title": "Bi$_{2}$Sr$_{2}$CaCu$_{2}$O$_{8}$ (BSCCO) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC2D8E2_tI30_139_e_a_e_2eg_e-001",
-    "number_of_species": 5,
-    "pearson_symbol": "tI30",
-    "space_group_number": 139,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "68188"
+    "comments": null
 }

@@ -1,9 +1,19 @@
 {
     "uid": "HF2G",
+    "label": "A7BC3_cP88_201_e2h_e_h-001",
+    "alias": "A7BC3_cP88_201_e2h_e_h-001",
+    "title": "CuMo$_{3}$Cl$_{7}$ Structure",
+    "icsd": "404375",
+    "ccdc": null,
     "prototype": "Cl7CuMo3",
     "prototype_tex": "Cl$_{7}$CuMo$_{3}$",
-    "label": "A7BC3_cP88_201_e2h_e_h-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cP88",
+    "space_group_number": 201,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "x1",
         "x2",
@@ -31,17 +41,8 @@
         0.6376,
         0.0269
     ],
-    "strukturbericht": null,
-    "title": "CuMo$_{3}$Cl$_{7}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A7BC3_cP88_201_e2h_e_h-001",
-    "number_of_species": 3,
-    "pearson_symbol": "cP88",
-    "space_group_number": 201,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "404375"
+    "comments": null
 }

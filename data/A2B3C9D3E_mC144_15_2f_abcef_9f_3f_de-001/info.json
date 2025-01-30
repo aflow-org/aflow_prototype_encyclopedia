@@ -1,9 +1,19 @@
 {
     "uid": "L4VZ",
+    "label": "A2B3C9D3E_mC144_15_2f_abcef_9f_3f_de-001",
+    "alias": "A2B3C9D3E_mC144_15_2f_bcdef_9f_3f_ae",
+    "title": "Catapleiite (Na$_{2}$ZrSi$_{3}$O$_{9}\\cdot$2H$_{2}$O) Structure",
+    "icsd": "20267",
+    "ccdc": null,
     "prototype": "(H2O)2Na2O9Si3Zr",
     "prototype_tex": "(H$_{2}$O)$_{2}$Na$_{2}$O$_{9}$Si$_{3}$Zr",
-    "label": "A2B3C9D3E_mC144_15_2f_abcef_9f_3f_de-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "mC144",
+    "space_group_number": 15,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -109,17 +119,8 @@
         0.7515,
         0.6779
     ],
-    "strukturbericht": null,
-    "title": "Catapleiite (Na$_{2}$ZrSi$_{3}$O$_{9}\\cdot$2H$_{2}$O) Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B3C9D3E_mC144_15_2f_bcdef_9f_3f_ae",
-    "number_of_species": 5,
-    "pearson_symbol": "mC144",
-    "space_group_number": 15,
-    "comments": "This is a refinement of the crystal structure of catapleiite.  The original hexagonal structure was given the \\href{current_web_home_dir/A3B2C9D3E_hP36_194_g_f_hk_h_a-001}{{\\em Strukturbericht} designation $S3_{4}$ by (Gottfried, 1937)}. \n Only 66.7\\% of the sodium atom sites are occupied. \n (Ilyushin, 1981) gave the lattice parameters and Wyckoff positions in terms of the $B2/b$ setting of space group \\#15.  We used findsym to transform this to the standard $C2/c$ setting.  This required the $y$- and $z$-axes to be swapped. \n The hydrogen positions are unknown, so the water molecules are designated H$_{2}$O.",
+    "legacy": false,
     "notes": "Catapleiite",
-    "ccdc": null,
-    "icsd": "20267"
+    "comments": "This is a refinement of the crystal structure of catapleiite.  The original hexagonal structure was given the \\href{current_web_home_dir/A3B2C9D3E_hP36_194_g_f_hk_h_a-001}{{\\em Strukturbericht} designation $S3_{4}$ by (Gottfried, 1937)}. \n Only 66.7\\% of the sodium atom sites are occupied. \n (Ilyushin, 1981) gave the lattice parameters and Wyckoff positions in terms of the $B2/b$ setting of space group \\#15.  We used findsym to transform this to the standard $C2/c$ setting.  This required the $y$- and $z$-axes to be swapped. \n The hydrogen positions are unknown, so the water molecules are designated H$_{2}$O."
 }

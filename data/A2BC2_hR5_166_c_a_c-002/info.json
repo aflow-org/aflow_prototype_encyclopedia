@@ -1,9 +1,19 @@
 {
     "uid": "NTUK",
+    "label": "A2BC2_hR5_166_c_a_c-002",
+    "alias": "A2BC2_hR5_166_c_a_c-002",
+    "title": "Tetradymite (Bi$_{2}$Te$_{2}$S, $C33$) Structure",
+    "icsd": "26720",
+    "ccdc": null,
     "prototype": "Bi2STe2",
     "prototype_tex": "Bi$_{2}$STe$_{2}$",
-    "label": "A2BC2_hR5_166_c_a_c-002",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hR5",
+    "space_group_number": 166,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -15,17 +25,8 @@
         0.392,
         0.788
     ],
-    "strukturbericht": null,
-    "title": "Tetradymite (Bi$_{2}$Te$_{2}$S, $C33$) Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC2_hR5_166_c_a_c-002",
-    "number_of_species": 3,
-    "pearson_symbol": "hR5",
-    "space_group_number": 166,
-    "comments": "This is the ternary form of \\href{current_web_home_dir/A2B3_hR5_166_c_ac-001}{Bi$_{2}$Te$_{3}$}, {\\em Strukturbericht} symbol $C33$. It was the original $C33$ structure assigned by (Gottfried, 1937), but we decided to use the binary form as the designated structure. \n Hexagonal settings for rhombohedral structures can be obtained with the option {\\tt --hex}.",
+    "legacy": false,
     "notes": "Tetradymite",
-    "ccdc": null,
-    "icsd": "26720"
+    "comments": "This is the ternary form of \\href{current_web_home_dir/A2B3_hR5_166_c_ac-001}{Bi$_{2}$Te$_{3}$}, {\\em Strukturbericht} symbol $C33$. It was the original $C33$ structure assigned by (Gottfried, 1937), but we decided to use the binary form as the designated structure. \n Hexagonal settings for rhombohedral structures can be obtained with the option {\\tt --hex}."
 }

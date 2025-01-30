@@ -1,9 +1,19 @@
 {
     "uid": "5X6W",
+    "label": "AB4C_hP72_168_2d_8d_2d-001",
+    "alias": "AB4C_hP72_168_2d_8d_2d",
+    "title": "Al[PO$_{4}$] Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "AlO4P",
     "prototype_tex": "AlO$_{4}$P",
-    "label": "AB4C_hP72_168_2d_8d_2d-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP72",
+    "space_group_number": 168,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -83,17 +93,8 @@
         0.4589,
         0.4993
     ],
-    "strukturbericht": null,
-    "title": "Al[PO$_{4}$] Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB4C_hP72_168_2d_8d_2d",
-    "number_of_species": 3,
-    "pearson_symbol": "hP72",
-    "space_group_number": 168,
-    "comments": "Polytypes of this compound also appear in space groups \\href{current_web_home_dir/AB4C_hP72_184_d_4d_d-001}{$P6cc$ \\#184 (AB4C\\_hP72\\_184\\_d\\_4d\\_d)} and \\href{current_web_home_dir/AB2_hP72_192_m_j2kl-001}{$P6/mcc$ \\#192 (AB2\\_hP72\\_192\\_m\\_j2kl)}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "none"
+    "comments": "Polytypes of this compound also appear in space groups \\href{current_web_home_dir/AB4C_hP72_184_d_4d_d-001}{$P6cc$ \\#184 (AB4C\\_hP72\\_184\\_d\\_4d\\_d)} and \\href{current_web_home_dir/AB2_hP72_192_m_j2kl-001}{$P6/mcc$ \\#192 (AB2\\_hP72\\_192\\_m\\_j2kl)}."
 }

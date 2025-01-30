@@ -1,9 +1,19 @@
 {
     "uid": "P53L",
+    "label": "A2B_hP9_152_c_a-001",
+    "alias": "A2B_hP9_152_c_a",
+    "title": "$\\alpha$-Quartz (low Quartz) Structure",
+    "icsd": "67121",
+    "ccdc": null,
     "prototype": "O2Si",
     "prototype_tex": "O$_{2}$Si",
-    "label": "A2B_hP9_152_c_a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP9",
+    "space_group_number": 152,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -19,17 +29,8 @@
         0.413,
         0.88067
     ],
-    "strukturbericht": null,
-    "title": "$\\alpha$-Quartz (low Quartz) Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B_hP9_152_c_a",
-    "number_of_species": 2,
-    "pearson_symbol": "hP9",
-    "space_group_number": 152,
-    "comments": "When $x_{1}=1/2$, $y_{2}=2x_{2}$, and $z_{2}=1/2$ this tranforms into the \\href{current_web_home_dir/A2B_hP9_180_i_d-001}{high $\\beta$-quartz ($C8$)} structure. This structure can also be found in the enantiomorphic space group $P3_{2}21$ \\#154.",
+    "legacy": false,
     "notes": "$\\alpha$-Quartz",
-    "ccdc": null,
-    "icsd": "67121"
+    "comments": "When $x_{1}=1/2$, $y_{2}=2x_{2}$, and $z_{2}=1/2$ this tranforms into the \\href{current_web_home_dir/A2B_hP9_180_i_d-001}{high $\\beta$-quartz ($C8$)} structure. This structure can also be found in the enantiomorphic space group $P3_{2}21$ \\#154."
 }

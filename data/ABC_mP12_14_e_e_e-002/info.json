@@ -1,9 +1,19 @@
 {
     "uid": "RH3X",
+    "label": "ABC_mP12_14_e_e_e-002",
+    "alias": "ABC_mP12_14_e_e_e",
+    "title": "Arsenopyrite (FeAsS, $E0_{7}$) Structure",
+    "icsd": "185809",
+    "ccdc": null,
     "prototype": "AsFeS",
     "prototype_tex": "AsFeS",
-    "label": "ABC_mP12_14_e_e_e-002",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mP12",
+    "space_group_number": 14,
+    "strukturbericht": "E0_7",
+    "strukturbericht_tex": "$E0_{7}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -33,18 +43,8 @@
         0.1311,
         0.6789
     ],
-    "strukturbericht": "E0_7",
-    "title": "Arsenopyrite (FeAsS, $E0_{7}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$E0_{7}$",
     "compounds": {},
-    "alias": "ABC_mP12_14_e_e_e",
-    "number_of_species": 3,
-    "pearson_symbol": "mP12",
-    "space_group_number": 14,
-    "comments": "This is very similar to \\href{current_web_home_dir/A2B_mP12_14_2e_e-001}{$C43$ Baddeleyite, ZrO$_{2}$}.",
+    "legacy": false,
     "notes": "$E0_{7}$, Arsenopyrite",
-    "ccdc": null,
-    "icsd": "185809"
+    "comments": "This is very similar to \\href{current_web_home_dir/A2B_mP12_14_2e_e-001}{$C43$ Baddeleyite, ZrO$_{2}$}."
 }

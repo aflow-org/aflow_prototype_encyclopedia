@@ -1,9 +1,19 @@
 {
     "uid": "HV0S",
+    "label": "AB20_cP126_223_c_k2l-001",
+    "alias": "AB20_cP126_223_c_k2l-001",
+    "title": "``A15'' Fullerene (Ba$_{3}$C$_{60}$) Structure",
+    "icsd": "70063",
+    "ccdc": null,
     "prototype": "Ba3C60",
     "prototype_tex": "Ba$_{3}$C$_{60}$",
-    "label": "AB20_cP126_223_c_k2l-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cP126",
+    "space_group_number": 223,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "y2",
         "z2",
@@ -25,17 +35,8 @@
         0.2091,
         0.2338
     ],
-    "strukturbericht": null,
-    "title": "``A15'' Fullerene (Ba$_{3}$C$_{60}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB20_cP126_223_c_k2l-001",
-    "number_of_species": 2,
-    "pearson_symbol": "cP126",
-    "space_group_number": 223,
-    "comments": "The barium atoms are on the chromium sites in the \\href{current_web_home_dir/A3B_cP8_223_c_a-001}{$A15$ (Cr$_{3}$Si) structure}, while the fullerene molecules are centered on the silicon site.",
+    "legacy": false,
     "notes": "Fullerene",
-    "ccdc": null,
-    "icsd": "70063"
+    "comments": "The barium atoms are on the chromium sites in the \\href{current_web_home_dir/A3B_cP8_223_c_a-001}{$A15$ (Cr$_{3}$Si) structure}, while the fullerene molecules are centered on the silicon site."
 }

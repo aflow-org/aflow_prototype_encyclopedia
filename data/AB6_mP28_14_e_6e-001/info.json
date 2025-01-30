@@ -1,9 +1,19 @@
 {
     "uid": "VTUH",
+    "label": "AB6_mP28_14_e_6e-001",
+    "alias": "AB6_mP28_14_e_6e-001",
+    "title": "Pd$_{6}$P Structure",
+    "icsd": "26898",
+    "ccdc": null,
     "prototype": "PPd6",
     "prototype_tex": "PPd$_{6}$",
-    "label": "AB6_mP28_14_e_6e-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mP28",
+    "space_group_number": 14,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -57,17 +67,8 @@
         0.4156,
         0.3598
     ],
-    "strukturbericht": null,
-    "title": "Pd$_{6}$P Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB6_mP28_14_e_6e-001",
-    "number_of_species": 2,
-    "pearson_symbol": "mP28",
-    "space_group_number": 14,
-    "comments": "Earlier work by (Andersson, 1974) (ICSD 15048) put this structure in space group $C2/c$ \\#15.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "26898"
+    "comments": "Earlier work by (Andersson, 1974) (ICSD 15048) put this structure in space group $C2/c$ \\#15."
 }

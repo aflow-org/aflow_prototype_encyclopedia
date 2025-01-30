@@ -1,9 +1,19 @@
 {
     "uid": "8GEP",
+    "label": "AB_tP4_131_c_e-001",
+    "alias": "AB_tP4_131_c_e",
+    "title": "Cooperite (PtS, $B17$) Structure",
+    "icsd": "654379",
+    "ccdc": null,
     "prototype": "PtS",
     "prototype_tex": "PtS",
-    "label": "AB_tP4_131_c_e-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tP4",
+    "space_group_number": 131,
+    "strukturbericht": "B17",
+    "strukturbericht_tex": "$B17$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a"
     ],
@@ -11,18 +21,8 @@
         4.9073,
         1.245
     ],
-    "strukturbericht": "B17",
-    "title": "Cooperite (PtS, $B17$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$B17$",
     "compounds": {},
-    "alias": "AB_tP4_131_c_e",
-    "number_of_species": 2,
-    "pearson_symbol": "tP4",
-    "space_group_number": 131,
-    "comments": "Actual samples of cooperite have the chemical formula PtS$_{x}$, with $0.9 < x < 1.1$.  If there is an excess of platinum, these atoms subsitute for sulfur on the (2e) site, and excess sulfur substitutes for platinum on the (2c) site. \n Previous versions of this page incorrectly used a = 4.9073{\\AA}.  We have changed this to the correct value of 3.47{\\AA}.  We thank Dr. Frank Hoffmann of the University of Hamburg for point out this error.",
+    "legacy": false,
     "notes": "$B17$, Cooperite",
-    "ccdc": null,
-    "icsd": "654379"
+    "comments": "Actual samples of cooperite have the chemical formula PtS$_{x}$, with $0.9 < x < 1.1$.  If there is an excess of platinum, these atoms subsitute for sulfur on the (2e) site, and excess sulfur substitutes for platinum on the (2c) site. \n Previous versions of this page incorrectly used a = 4.9073{\\AA}.  We have changed this to the correct value of 3.47{\\AA}.  We thank Dr. Frank Hoffmann of the University of Hamburg for point out this error."
 }

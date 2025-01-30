@@ -1,9 +1,19 @@
 {
     "uid": "3454",
+    "label": "AB5_cF24_216_a_ce-001",
+    "alias": "AB5_cF24_216_a_ce",
+    "title": "AuBe$_{5}$ ($C15_{b}$) Structure",
+    "icsd": "611643",
+    "ccdc": null,
     "prototype": "AuBe5",
     "prototype_tex": "AuBe$_{5}$",
-    "label": "AB5_cF24_216_a_ce-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cF24",
+    "space_group_number": 216,
+    "strukturbericht": "C15_b",
+    "strukturbericht_tex": "$C15_{b}$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "x3"
     ],
@@ -11,18 +21,8 @@
         6.1,
         0.625
     ],
-    "strukturbericht": "C15_b",
-    "title": "AuBe$_{5}$ ($C15_{b}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$C15_{b}$",
     "compounds": {},
-    "alias": "AB5_cF24_216_a_ce",
-    "number_of_species": 2,
-    "pearson_symbol": "cF24",
-    "space_group_number": 216,
-    "comments": "The lattice constant for this structure is taken from (Batchelder, 1958), which does not give the internal coordinate for the (16c) site. However, (Baenziger, 1950) assumes that uranium compounds of this type have an internal parameter $x_{3} \\approx 5/8$. (Pearson, 1958) uses this to infer a value of $x_{3} \\approx 5/8$ here as well.",
+    "legacy": false,
     "notes": "$C15_{b}$",
-    "ccdc": null,
-    "icsd": "611643"
+    "comments": "The lattice constant for this structure is taken from (Batchelder, 1958), which does not give the internal coordinate for the (16c) site. However, (Baenziger, 1950) assumes that uranium compounds of this type have an internal parameter $x_{3} \\approx 5/8$. (Pearson, 1958) uses this to infer a value of $x_{3} \\approx 5/8$ here as well."
 }

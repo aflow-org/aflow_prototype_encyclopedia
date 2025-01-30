@@ -1,9 +1,19 @@
 {
     "uid": "0HGH",
+    "label": "A6B2CD6E_cP64_208_m_ad_b_m_c-001",
+    "alias": "A6B2CD6E_cP64_208_m_ad_b_m_c",
+    "title": "Cs$_{2}$ZnFe[CN]$_{6}$ Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "C6Cs2FeN6Zn",
     "prototype_tex": "C$_{6}$Cs$_{2}$FeN$_{6}$Zn",
-    "label": "A6B2CD6E_cP64_208_m_ad_b_m_c-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "cP64",
+    "space_group_number": 208,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "x5",
         "y5",
@@ -21,17 +31,8 @@
         0.25,
         0.548
     ],
-    "strukturbericht": null,
-    "title": "Cs$_{2}$ZnFe[CN]$_{6}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A6B2CD6E_cP64_208_m_ad_b_m_c",
-    "number_of_species": 5,
-    "pearson_symbol": "cP64",
-    "space_group_number": 208,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "none"
+    "comments": null
 }

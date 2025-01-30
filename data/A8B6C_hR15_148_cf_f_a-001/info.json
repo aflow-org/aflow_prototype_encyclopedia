@@ -1,9 +1,19 @@
 {
     "uid": "L1GH",
+    "label": "A8B6C_hR15_148_cf_f_a-001",
+    "alias": "A8B6C_hR15_148_cf_f_a",
+    "title": "Li$_{7}$TaO$_{6}$ Structure",
+    "icsd": "74949",
+    "ccdc": null,
     "prototype": "Li7O6Ta",
     "prototype_tex": "Li$_{7}$O$_{6}$Ta",
-    "label": "A8B6C_hR15_148_cf_f_a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hR15",
+    "space_group_number": 148,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -25,17 +35,8 @@
         0.9147,
         0.2286
     ],
-    "strukturbericht": null,
-    "title": "Li$_{7}$TaO$_{6}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A8B6C_hR15_148_cf_f_a",
-    "number_of_species": 3,
-    "pearson_symbol": "hR15",
-    "space_group_number": 148,
-    "comments": "The Li-I (2c) site is half-occupied.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "74949"
+    "comments": "The Li-I (2c) site is half-occupied."
 }

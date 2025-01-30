@@ -1,9 +1,19 @@
 {
     "uid": "PVAV",
+    "label": "A19B15_tP68_114_ac4e_bc3e-001",
+    "alias": "A19B15_tP68_114_bc4e_ac3e",
+    "title": "C$_{19}$Sc$_{15}$ Structure",
+    "icsd": "42631",
+    "ccdc": null,
     "prototype": "C19Sc15",
     "prototype_tex": "C$_{19}$Sc$_{15}$",
-    "label": "A19B15_tP68_114_ac4e_bc3e-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tP68",
+    "space_group_number": 114,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -57,17 +67,8 @@
         0.0982,
         0.6423
     ],
-    "strukturbericht": null,
-    "title": "C$_{19}$Sc$_{15}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A19B15_tP68_114_bc4e_ac3e",
-    "number_of_species": 2,
-    "pearson_symbol": "tP68",
-    "space_group_number": 114,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "42631"
+    "comments": null
 }

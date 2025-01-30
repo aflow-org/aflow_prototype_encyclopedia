@@ -1,9 +1,19 @@
 {
     "uid": "88NV",
+    "label": "A15B_oI128_71_lmn6o_eg-001",
+    "alias": "A15B_oI128_71_lmn6o_eg-001",
+    "title": "Orthorhombic Fullerene (Cs$_{3}$C$_{60}$) Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "C60Cs3",
     "prototype_tex": "C$_{60}$Cs$_{3}$",
-    "label": "A15B_oI128_71_lmn6o_eg-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oI128",
+    "space_group_number": 71,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -65,17 +75,8 @@
         0.059,
         0.703
     ],
-    "strukturbericht": null,
-    "title": "Orthorhombic Fullerene (Cs$_{3}$C$_{60}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A15B_oI128_71_lmn6o_eg-001",
-    "number_of_species": 2,
-    "pearson_symbol": "oI128",
-    "space_group_number": 71,
-    "comments": "The Cesium (4e) and (4g) sites each have 75\\% occupancy.",
+    "legacy": false,
     "notes": "Orthorhombic Fullerene",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "The Cesium (4e) and (4g) sites each have 75\\% occupancy."
 }

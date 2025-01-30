@@ -1,9 +1,19 @@
 {
     "uid": "GKJM",
+    "label": "A6B_cP7_221_e_b-001",
+    "alias": "A6B_cP7_221_f_a",
+    "title": "CaB$_{6}$ ($D2_{1}$) Structure",
+    "icsd": "26753",
+    "ccdc": null,
     "prototype": "B6Ca",
     "prototype_tex": "B$_{6}$Ca",
-    "label": "A6B_cP7_221_e_b-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cP7",
+    "space_group_number": 221,
+    "strukturbericht": "D2_1",
+    "strukturbericht_tex": "$D2_{1}$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "x2"
     ],
@@ -11,18 +21,8 @@
         4.145,
         0.7117
     ],
-    "strukturbericht": "D2_1",
-    "title": "CaB$_{6}$ ($D2_{1}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$D2_{1}$",
     "compounds": {},
-    "alias": "A6B_cP7_221_f_a",
-    "number_of_species": 2,
-    "pearson_symbol": "cP7",
-    "space_group_number": 221,
-    "comments": "The internal parameter is chosen to match the intraoctalhedral boron-boron distance of 1.755\\AA{} found in (Yahia, 1990). The ICSD entry is from (Pauling, 1934).",
+    "legacy": false,
     "notes": "$D2_{1}$",
-    "ccdc": null,
-    "icsd": "26753"
+    "comments": "The internal parameter is chosen to match the intraoctalhedral boron-boron distance of 1.755\\AA{} found in (Yahia, 1990). The ICSD entry is from (Pauling, 1934)."
 }

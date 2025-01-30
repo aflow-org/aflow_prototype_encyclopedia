@@ -1,9 +1,19 @@
 {
     "uid": "8PL6",
+    "label": "ABC4_oP12_16_ae_bd_2u-001",
+    "alias": "ABC4_oP12_16_ag_cd_2u",
+    "title": "AlPS$_{4}$ Structure",
+    "icsd": "15910",
+    "ccdc": null,
     "prototype": "AlPS4",
     "prototype_tex": "AlPS$_{4}$",
-    "label": "ABC4_oP12_16_ae_bd_2u-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP12",
+    "space_group_number": 16,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -25,17 +35,8 @@
         0.74,
         0.8
     ],
-    "strukturbericht": null,
-    "title": "AlPS$_{4}$ Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC4_oP12_16_ag_cd_2u",
-    "number_of_species": 3,
-    "pearson_symbol": "oP12",
-    "space_group_number": 16,
-    "comments": "Our original publication of this structure (Mehl, 2017) had numerous errors dating back to the original NRL website.  We have corrected these errors here.  This changed the AFLOW label from ABC4\\_oP12\\_16\\_ag\\_cd\\_2u to ABC4\\_oP12\\_16\\_ae\\_bd\\_2u.  The old AFLOW link will redirect to this page.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "15910"
+    "comments": "Our original publication of this structure (Mehl, 2017) had numerous errors dating back to the original NRL website.  We have corrected these errors here.  This changed the AFLOW label from ABC4\\_oP12\\_16\\_ag\\_cd\\_2u to ABC4\\_oP12\\_16\\_ae\\_bd\\_2u.  The old AFLOW link will redirect to this page."
 }

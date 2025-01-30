@@ -1,9 +1,19 @@
 {
     "uid": "FD1H",
+    "label": "A3B7C2_oC48_36_ab_a3b_b-001",
+    "alias": "A3B7C2_oC48_36_ab_a3b_b-001",
+    "title": "Ca$_{3}$Ti$_{2}$O$_{7}$ Structure",
+    "icsd": "86241",
+    "ccdc": null,
     "prototype": "Ca3O7Ti2",
     "prototype_tex": "Ca$_{3}$O$_{7}$Ti$_{2}$",
-    "label": "A3B7C2_oC48_36_ab_a3b_b-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oC48",
+    "space_group_number": 36,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -51,17 +61,8 @@
         0.2509,
         0.5
     ],
-    "strukturbericht": null,
-    "title": "Ca$_{3}$Ti$_{2}$O$_{7}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B7C2_oC48_36_ab_a3b_b-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oC48",
-    "space_group_number": 36,
-    "comments": "(Hawkins, 1991) give the structure in setting $Ccm2_{1}$ of space group \\#36.  We used FINDSYM to change this to the standard $Cmc2_{1}$ setting.  This rotates the lattice by 90$^\\circ$ about the $z$-axis. \n Space group $Cmc2_{1}$ allows an arbitrary positioning of the origin of the $z$-axis.  Here we take the $z_{7} = 1/2$ as the $z$-coordinate of the titanium atom.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "86241"
+    "comments": "(Hawkins, 1991) give the structure in setting $Ccm2_{1}$ of space group \\#36.  We used FINDSYM to change this to the standard $Cmc2_{1}$ setting.  This rotates the lattice by 90$^\\circ$ about the $z$-axis. \n Space group $Cmc2_{1}$ allows an arbitrary positioning of the origin of the $z$-axis.  Here we take the $z_{7} = 1/2$ as the $z$-coordinate of the titanium atom."
 }

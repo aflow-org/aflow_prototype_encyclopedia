@@ -1,9 +1,19 @@
 {
     "uid": "Q14S",
+    "label": "A2B2C9D2_mC90_5_ab2c_3c_a13c_3c-001",
+    "alias": "A2B2C9D2_mC90_5_ab2c_3c_b13c_3c",
+    "title": "Bassanite [CaSO$_{4}$(H$_{2}$O)$_{0.5}$, $H4_{7}$] Structure",
+    "icsd": "73262",
+    "ccdc": null,
     "prototype": "Ca(H2O)0.5O4S",
     "prototype_tex": "Ca(H$_{2}$O)$_{0.5}$O$_{4}$S",
-    "label": "A2B2C9D2_mC90_5_ab2c_3c_a13c_3c-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "mC90",
+    "space_group_number": 5,
+    "strukturbericht": "H4_7",
+    "strukturbericht_tex": "$H4_{7}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -147,18 +157,8 @@
         0.2752,
         0.1919
     ],
-    "strukturbericht": "H4_7",
-    "title": "Bassanite [CaSO$_{4}$(H$_{2}$O)$_{0.5}$, $H4_{7}$] Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$H4_{7}$",
     "compounds": {},
-    "alias": "A2B2C9D2_mC90_5_ab2c_3c_b13c_3c",
-    "number_of_species": 4,
-    "pearson_symbol": "mC90",
-    "space_group_number": 5,
-    "comments": "(Gottfried, 1937) gave this the {\\em Strukturbericht} designation $H4_{7}$.  They listed the system as monoclinic, with space group $C2$ \\#5, but noted that it was pseudo-hexagonal and gave the coordinates for the all of the atoms except the water molecules in terms of the trigonal space group $P3_{1}21$ \\#152.  (Abriel, 1993) found a complete determination of the structure in space group $I2$ \\#5, which we have converted to the standard $C2$ setting. The structure of this system seems to depend on the actual amount of water and the preparation mechanism, as there are both $\\alpha$- and $\\beta$- forms which have different strengths but similar crystal structures (Singh, 2007). \n The $P3_{1}21$ structure can be obtained from these positions by removing all of the water molecules (the hydrogen atoms plus O-I and O-XIV, and allowing for a small uncertainty in the positions of the remaining atoms. \n The ICSD entry only describes the $P3_{1}21$ structure.",
+    "legacy": false,
     "notes": "$H4_{7}$, Bassanite",
-    "ccdc": null,
-    "icsd": "73262"
+    "comments": "(Gottfried, 1937) gave this the {\\em Strukturbericht} designation $H4_{7}$.  They listed the system as monoclinic, with space group $C2$ \\#5, but noted that it was pseudo-hexagonal and gave the coordinates for the all of the atoms except the water molecules in terms of the trigonal space group $P3_{1}21$ \\#152.  (Abriel, 1993) found a complete determination of the structure in space group $I2$ \\#5, which we have converted to the standard $C2$ setting. The structure of this system seems to depend on the actual amount of water and the preparation mechanism, as there are both $\\alpha$- and $\\beta$- forms which have different strengths but similar crystal structures (Singh, 2007). \n The $P3_{1}21$ structure can be obtained from these positions by removing all of the water molecules (the hydrogen atoms plus O-I and O-XIV, and allowing for a small uncertainty in the positions of the remaining atoms. \n The ICSD entry only describes the $P3_{1}21$ structure."
 }

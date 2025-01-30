@@ -1,9 +1,19 @@
 {
     "uid": "KKZD",
+    "label": "A6BC18DEF21_hR96_161_2b_a_6b_a_a_7b-001",
+    "alias": "A6BC18DEF21_hR96_161_2b_a_6b_a_a_7b-001",
+    "title": "Stepanovite (NaMgFe(C$_{2}$O$_{4}$)$_{3}\\cdot$9H$_{2}$O) Structure",
+    "icsd": "252894",
+    "ccdc": null,
     "prototype": "C2FeH6MgNaO7",
     "prototype_tex": "C$_{2}$FeH$_{6}$MgNaO$_{7}$",
-    "label": "A6BC18DEF21_hR96_161_2b_a_6b_a_a_7b-001",
-    "parameter_symbol": [
+    "number_of_species": 6,
+    "pearson_symbol": "hR96",
+    "space_group_number": 161,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -107,17 +117,8 @@
         0.33647,
         0.38067
     ],
-    "strukturbericht": null,
-    "title": "Stepanovite (NaMgFe(C$_{2}$O$_{4}$)$_{3}\\cdot$9H$_{2}$O) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A6BC18DEF21_hR96_161_2b_a_6b_a_a_7b-001",
-    "number_of_species": 6,
-    "pearson_symbol": "hR96",
-    "space_group_number": 161,
-    "comments": "We use the data for stoichiometric synthetic stepanovite from (Husk\\'{c}, 2016).  Natural stepanovite, as well as zhemchuzhnikovite, contains between 8 and 9 water molecules per formula unit. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "legacy": false,
     "notes": "Stepanovite",
-    "ccdc": null,
-    "icsd": "252894"
+    "comments": "We use the data for stoichiometric synthetic stepanovite from (Husk\\'{c}, 2016).  Natural stepanovite, as well as zhemchuzhnikovite, contains between 8 and 9 water molecules per formula unit. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

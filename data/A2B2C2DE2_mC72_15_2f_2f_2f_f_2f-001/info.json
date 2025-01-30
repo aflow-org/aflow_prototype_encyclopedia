@@ -1,9 +1,19 @@
 {
     "uid": "UX1J",
+    "label": "A2B2C2DE2_mC72_15_2f_2f_2f_f_2f-001",
+    "alias": "A2B2C2DE2_mC72_15_2f_2f_2f_f_2f-001",
+    "title": "Rhodan Hydrate (H$_{2}$C$_{2}$N$_{2}$S$_{2}$O) Structure",
+    "icsd": null,
+    "ccdc": "1249311",
     "prototype": "C2H2N2OS2",
     "prototype_tex": "C$_{2}$H$_{2}$N$_{2}$OS$_{2}$",
-    "label": "A2B2C2DE2_mC72_15_2f_2f_2f_f_2f-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "mC72",
+    "space_group_number": 15,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -69,17 +79,8 @@
         0.9467,
         0.3199
     ],
-    "strukturbericht": null,
-    "title": "Rhodan Hydrate (H$_{2}$C$_{2}$N$_{2}$S$_{2}$O) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B2C2DE2_mC72_15_2f_2f_2f_f_2f-001",
-    "number_of_species": 5,
-    "pearson_symbol": "mC72",
-    "space_group_number": 15,
-    "ccdc": "1249311",
+    "legacy": false,
     "notes": "Rhodan Hydrate",
-    "comments": null,
-    "icsd": null
+    "comments": null
 }

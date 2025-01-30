@@ -1,9 +1,19 @@
 {
     "uid": "J4ZX",
+    "label": "AB5CD2_mC72_15_f_5f_f_2f-001",
+    "alias": "AB5CD2_mC72_15_f_5f_f_2f",
+    "title": "Pyrophyllite [AlSi$_{2}$O$_{5}$(OH), $S5_{6}$] Structure",
+    "icsd": "26742",
+    "ccdc": null,
     "prototype": "AlHO6Si2",
     "prototype_tex": "AlHO$_{6}$Si$_{2}$",
-    "label": "AB5CD2_mC72_15_f_5f_f_2f-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "mC72",
+    "space_group_number": 15,
+    "strukturbericht": "S5_6",
+    "strukturbericht_tex": "$S5_{6}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -69,18 +79,8 @@
         0.41667,
         0.85694
     ],
-    "strukturbericht": "S5_6",
-    "title": "Pyrophyllite [AlSi$_{2}$O$_{5}$(OH), $S5_{6}$] Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$S5_{6}$",
     "compounds": {},
-    "alias": "AB5CD2_mC72_15_f_5f_f_2f",
-    "number_of_species": 4,
-    "pearson_symbol": "mC72",
-    "space_group_number": 15,
-    "comments": "This a double-layer version of the pyrophyllite structure.  (Brindley, 1259) has shown that some samples have only one layer, with a corresponding reduction in the $c$ lattice vector.  Both Brindley and (Lee, 1981) found pyrophyllite samples with space group $P\\overline{1}$ \\#2. \n Talc (Mg$_{3}$Si$_{4}$O$_{10}$(OH)$_{2}$) is isostructural with pyrophyllite, with magnesium replacing aluminum on the (8f) site and the addition of another magnesium atom on the (4a) Wyckoff site.",
+    "legacy": false,
     "notes": "$S5_{6}$, Pyrophyllite",
-    "ccdc": null,
-    "icsd": "26742"
+    "comments": "This a double-layer version of the pyrophyllite structure.  (Brindley, 1259) has shown that some samples have only one layer, with a corresponding reduction in the $c$ lattice vector.  Both Brindley and (Lee, 1981) found pyrophyllite samples with space group $P\\overline{1}$ \\#2. \n Talc (Mg$_{3}$Si$_{4}$O$_{10}$(OH)$_{2}$) is isostructural with pyrophyllite, with magnesium replacing aluminum on the (8f) site and the addition of another magnesium atom on the (4a) Wyckoff site."
 }

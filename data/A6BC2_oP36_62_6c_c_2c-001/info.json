@@ -1,9 +1,19 @@
 {
     "uid": "XXTA",
+    "label": "A6BC2_oP36_62_6c_c_2c-001",
+    "alias": "A6BC2_oP36_62_6c_c_2c-001",
+    "title": "PbV$_{2}$O$_{6}$ Structure",
+    "icsd": "6109",
+    "ccdc": null,
     "prototype": "O6PbV2",
     "prototype_tex": "O$_{6}$PbV$_{2}$",
-    "label": "A6BC2_oP36_62_6c_c_2c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP36",
+    "space_group_number": 62,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -49,17 +59,8 @@
         0.2399,
         0.41
     ],
-    "strukturbericht": null,
-    "title": "PbV$_{2}$O$_{6}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A6BC2_oP36_62_6c_c_2c-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oP36",
-    "space_group_number": 62,
-    "comments": "This is the ground state structure of PbV$_{2}$O$_{6}$, stable up to 490$^\\circ$C. (Villars, 2018)  There is also a \\href{current_web_home_dir/A6BC2_mC36_12_6i_i_2i-001}{metastable monoclinic structure}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "6109"
+    "comments": "This is the ground state structure of PbV$_{2}$O$_{6}$, stable up to 490$^\\circ$C. (Villars, 2018)  There is also a \\href{current_web_home_dir/A6BC2_mC36_12_6i_i_2i-001}{metastable monoclinic structure}."
 }

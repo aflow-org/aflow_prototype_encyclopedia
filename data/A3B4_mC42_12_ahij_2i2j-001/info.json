@@ -1,9 +1,19 @@
 {
     "uid": "F2JA",
+    "label": "A3B4_mC42_12_ahij_2i2j-001",
+    "alias": "A3B4_mC42_12_ahij_2i2j-001",
+    "title": "Rh$_{3}$S$_{4}$",
+    "icsd": "410813",
+    "ccdc": null,
     "prototype": "Rh3S4",
     "prototype_tex": "Rh$_{3}$S$_{4}$",
-    "label": "A3B4_mC42_12_ahij_2i2j-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC42",
+    "space_group_number": 12,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -47,17 +57,8 @@
         0.211,
         0.599
     ],
-    "strukturbericht": null,
-    "title": "Rh$_{3}$S$_{4}$",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B4_mC42_12_ahij_2i2j-001",
-    "number_of_species": 2,
-    "pearson_symbol": "mC42",
-    "space_group_number": 12,
-    "comments": "This is a laboratory produced sample.  The minerals kingstonite, (Rh,Ir)$_{3}$S$_{4}$, and zaykovite, (Rh,Pt,Ir)$_{3}$(Se,S)$_{4}$, are naturally occuring compounds with this structure. (Belogub, 2023)",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "410813"
+    "comments": "This is a laboratory produced sample.  The minerals kingstonite, (Rh,Ir)$_{3}$S$_{4}$, and zaykovite, (Rh,Pt,Ir)$_{3}$(Se,S)$_{4}$, are naturally occuring compounds with this structure. (Belogub, 2023)"
 }

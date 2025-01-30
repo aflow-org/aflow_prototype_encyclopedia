@@ -1,9 +1,19 @@
 {
     "uid": "S6UF",
+    "label": "ABC_tP24_91_d_d_d-001",
+    "alias": "ABC_tP24_91_d_d_d",
+    "title": "ThBC Structure",
+    "icsd": "2368",
+    "ccdc": null,
     "prototype": "BCTh",
     "prototype_tex": "BCTh",
-    "label": "ABC_tP24_91_d_d_d-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP24",
+    "space_group_number": 91,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -29,17 +39,8 @@
         0.1983,
         0.1795
     ],
-    "strukturbericht": null,
-    "title": "ThBC Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC_tP24_91_d_d_d",
-    "number_of_species": 3,
-    "pearson_symbol": "tP24",
-    "space_group_number": 91,
-    "comments": "This structure can also be found in the \\href{current_web_home_dir/ABC_tP24_95_d_d_d-001}{enantiomorphic space group $P4_{3}22$ \\#95}.",
+    "legacy": false,
     "notes": "Enantiomorph of sg \\#95",
-    "ccdc": null,
-    "icsd": "2368"
+    "comments": "This structure can also be found in the \\href{current_web_home_dir/ABC_tP24_95_d_d_d-001}{enantiomorphic space group $P4_{3}22$ \\#95}."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "M1ZX",
+    "label": "A3B2_cI40_220_d_c-001",
+    "alias": "A3B2_cI40_220_d_c",
+    "title": "Pu$_{2}$C$_{3}$ ($D5_{c}$) Structure",
+    "icsd": "16511",
+    "ccdc": null,
     "prototype": "C3Pu2",
     "prototype_tex": "C$_{3}$Pu$_{2}$",
-    "label": "A3B2_cI40_220_d_c-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cI40",
+    "space_group_number": 220,
+    "strukturbericht": "D5_c",
+    "strukturbericht_tex": "$D5_{c}$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "x1",
         "x2"
@@ -13,18 +23,8 @@
         0.5492,
         0.2896
     ],
-    "strukturbericht": "D5_c",
-    "title": "Pu$_{2}$C$_{3}$ ($D5_{c}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$D5_{c}$",
     "compounds": {},
-    "alias": "A3B2_cI40_220_d_c",
-    "number_of_species": 2,
-    "pearson_symbol": "cI40",
-    "space_group_number": 220,
-    "comments": "We use the data for $^{240}$Pu.",
+    "legacy": false,
     "notes": "$D5_{c}$",
-    "ccdc": null,
-    "icsd": "16511"
+    "comments": "We use the data for $^{240}$Pu."
 }

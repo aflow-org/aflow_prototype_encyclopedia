@@ -1,9 +1,19 @@
 {
     "uid": "NHXQ",
+    "label": "AB3_hR12_166_ac_eh-001",
+    "alias": "AB3_hR12_166_ac_eh-001",
+    "title": "BaPb$_{3}$ Structure",
+    "icsd": "58665",
+    "ccdc": null,
     "prototype": "BaPb3",
     "prototype_tex": "BaPb$_{3}$",
-    "label": "AB3_hR12_166_ac_eh-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hR12",
+    "space_group_number": 166,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -17,17 +27,8 @@
         0.27778,
         0.77777
     ],
-    "strukturbericht": null,
-    "title": "BaPb$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB3_hR12_166_ac_eh-001",
-    "number_of_species": 2,
-    "pearson_symbol": "hR12",
-    "space_group_number": 166,
-    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "58665"
+    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

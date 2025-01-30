@@ -1,9 +1,19 @@
 {
     "uid": "9W5L",
+    "label": "AB3_oP16_51_af_behk-001",
+    "alias": "AB3_oP16_51_af_behk-001",
+    "title": "$\\alpha$-BiPd$_{3}$ Structure",
+    "icsd": "58839",
+    "ccdc": null,
     "prototype": "BiPd3",
     "prototype_tex": "BiPd$_{3}$",
-    "label": "AB3_oP16_51_af_behk-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP16",
+    "space_group_number": 51,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -23,17 +33,8 @@
         0.252,
         0.168
     ],
-    "strukturbericht": null,
-    "title": "$\\alpha$-BiPd$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB3_oP16_51_af_behk-001",
-    "number_of_species": 2,
-    "pearson_symbol": "oP16",
-    "space_group_number": 51,
-    "comments": "This is the room temperature structure of BiPd. \n Okamoto's phase diagram (Villars, 2018) shows a transition to a high-temperature phase at 800$^{\\circ}$C, but says that no data is available for that structure. \n (Schubert, 1968) puts one bismuth atom on the (2c) (0 0 1/2) Wyckoff position.  We shift this so that atom is at the origin, Wyckoff position (2a).",
+    "legacy": false,
     "notes": "$\\alpha$-BiPd$_{3}$",
-    "ccdc": null,
-    "icsd": "58839"
+    "comments": "This is the room temperature structure of BiPd. \n Okamoto's phase diagram (Villars, 2018) shows a transition to a high-temperature phase at 800$^{\\circ}$C, but says that no data is available for that structure. \n (Schubert, 1968) puts one bismuth atom on the (2c) (0 0 1/2) Wyckoff position.  We shift this so that atom is at the origin, Wyckoff position (2a)."
 }

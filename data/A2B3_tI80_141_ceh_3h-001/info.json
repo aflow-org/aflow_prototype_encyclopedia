@@ -1,9 +1,19 @@
 {
     "uid": "PJGC",
+    "label": "A2B3_tI80_141_ceh_3h-001",
+    "alias": "A2B3_tI80_141_ceh_3h",
+    "title": "$\\beta$-In$_{2}$S$_{3}$ Structure",
+    "icsd": "151644",
+    "ccdc": null,
     "prototype": "In2S3",
     "prototype_tex": "In$_{2}$S$_{3}$",
-    "label": "A2B3_tI80_141_ceh_3h-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tI80",
+    "space_group_number": 141,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -29,17 +39,8 @@
         0.4667,
         0.4164
     ],
-    "strukturbericht": null,
-    "title": "$\\beta$-In$_{2}$S$_{3}$ Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B3_tI80_141_ceh_3h",
-    "number_of_species": 2,
-    "pearson_symbol": "tI80",
-    "space_group_number": 141,
-    "comments": "This is a \\href{current_web_home_dir/A2BC4_cF56_227_c_b_e-001}{spinel structure} with ordered defects.",
+    "legacy": false,
     "notes": "$\\beta$-In$_{2}$S$_{3}$",
-    "ccdc": null,
-    "icsd": "151644"
+    "comments": "This is a \\href{current_web_home_dir/A2BC4_cF56_227_c_b_e-001}{spinel structure} with ordered defects."
 }

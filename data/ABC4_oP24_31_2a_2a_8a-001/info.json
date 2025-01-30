@@ -1,9 +1,19 @@
 {
     "uid": "H22P",
+    "label": "ABC4_oP24_31_2a_2a_8a-001",
+    "alias": "ABC4_oP24_31_2a_2a_8a-001",
+    "title": "NbIrTe$_{4}$ Structure",
+    "icsd": "73690",
+    "ccdc": null,
     "prototype": "IrNbTe4",
     "prototype_tex": "IrNbTe$_{4}$",
-    "label": "ABC4_oP24_31_2a_2a_8a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP24",
+    "space_group_number": 31,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -61,17 +71,8 @@
         0.89,
         0.6494
     ],
-    "strukturbericht": null,
-    "title": "NbIrTe$_{4}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC4_oP24_31_2a_2a_8a-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oP24",
-    "space_group_number": 31,
-    "comments": "Space group $Pmn2_{1}$ \\#31 allows an arbitrary placement of the origin of the $z$-axis.  Here we set $z_{1} = 0$ for the first iridium Wyckoff position.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "73690"
+    "comments": "Space group $Pmn2_{1}$ \\#31 allows an arbitrary placement of the origin of the $z$-axis.  Here we set $z_{1} = 0$ for the first iridium Wyckoff position."
 }

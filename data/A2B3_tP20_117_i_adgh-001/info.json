@@ -1,9 +1,19 @@
 {
     "uid": "B48H",
+    "label": "A2B3_tP20_117_i_adgh-001",
+    "alias": "A2B3_tP20_117_i_adgh",
+    "title": "$\\beta$-Bi$_{2}$O$_{3}$ ($D5_{12}$) Structure",
+    "icsd": "27151",
+    "ccdc": null,
     "prototype": "Bi2O3",
     "prototype_tex": "Bi$_{2}$O$_{3}$",
-    "label": "A2B3_tP20_117_i_adgh-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tP20",
+    "space_group_number": 117,
+    "strukturbericht": "D5_12",
+    "strukturbericht_tex": "$D5_{12}$",
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -21,18 +31,8 @@
         0.25,
         0.75
     ],
-    "strukturbericht": "D5_12",
-    "title": "$\\beta$-Bi$_{2}$O$_{3}$ ($D5_{12}$) Structure",
-    "part": 2,
-    "legacy": false,
-    "strukturbericht_tex": "$D5_{12}$",
     "compounds": {},
-    "alias": "A2B3_tP20_117_i_adgh",
-    "number_of_species": 2,
-    "pearson_symbol": "tP20",
-    "space_group_number": 117,
-    "comments": "Bi$_{2}$O$_{3}$ can be found in at least six forms (Harwig, 1978; Locherer, 2011): \\begin{itemize} \\item \\href{current_web_home_dir/A2B3_mP20_14_2e_3e-003}{monoclinic $\\alpha$-Bi$_{2}$O$_{3}$}, the ground state, stable up to 729$^\\circ$, \\item \\href{current_web_home_dir/A2B3_tP20_117_i_adgh-001}{tetragonal $\\beta$-Bi$_{2}$O$_{3}$, $D5_{12}$}, a metastable state observed at 650$^\\circ$C (this structure), \\item \\href{current_web_home_dir/A13B20_cI66_197_af_2cf-001}{body-centered cubic $\\gamma$-Bi$_{2}$O$_{3}$}, another metastable phase observed at 639$^\\circ$C, \\item \\href{current_web_home_dir/AB8_cF36_225_a_f-001}{face-centered cubic $\\delta$-Bi$_{2}$O$_{3}$}, the stable phase from 729$^\\circ$ up to the melting point at 824$^\\circ$C, \\item a high-pressure \\href{current_web_home_dir/A2B3_hP20_159_bc_2c-001}{HP-Bi$_{2}$O$_{3}$}, and \\item a second ``nonquenchable'' high-pressure structure, \\href{current_web_home_dir/A2B3_hP20_186_bc_2c-001}{HPC-Bi$_{2}$O$_{3}$}. \\end{itemize} ~ \\vspace{-.25in} \n (Sill\\'{e}n, 1937) presented this structure in the doubled-unit cell $C\\overline{4}2b$ setting of space group \\#117, and the ICSD entry is from that paper.  We follow (Harwig, 1978) and use the standard $P\\overline{4}b2$ setting. We have shifted the origin so that the O-I atom is at the (2a) site.",
+    "legacy": false,
     "notes": "$D5_{12}$, $\\beta$-Bi$_{2}$O$_{3}$",
-    "ccdc": null,
-    "icsd": "27151"
+    "comments": "Bi$_{2}$O$_{3}$ can be found in at least six forms (Harwig, 1978; Locherer, 2011): \\begin{itemize} \\item \\href{current_web_home_dir/A2B3_mP20_14_2e_3e-003}{monoclinic $\\alpha$-Bi$_{2}$O$_{3}$}, the ground state, stable up to 729$^\\circ$, \\item \\href{current_web_home_dir/A2B3_tP20_117_i_adgh-001}{tetragonal $\\beta$-Bi$_{2}$O$_{3}$, $D5_{12}$}, a metastable state observed at 650$^\\circ$C (this structure), \\item \\href{current_web_home_dir/A13B20_cI66_197_af_2cf-001}{body-centered cubic $\\gamma$-Bi$_{2}$O$_{3}$}, another metastable phase observed at 639$^\\circ$C, \\item \\href{current_web_home_dir/AB8_cF36_225_a_f-001}{face-centered cubic $\\delta$-Bi$_{2}$O$_{3}$}, the stable phase from 729$^\\circ$ up to the melting point at 824$^\\circ$C, \\item a high-pressure \\href{current_web_home_dir/A2B3_hP20_159_bc_2c-001}{HP-Bi$_{2}$O$_{3}$}, and \\item a second ``nonquenchable'' high-pressure structure, \\href{current_web_home_dir/A2B3_hP20_186_bc_2c-001}{HPC-Bi$_{2}$O$_{3}$}. \\end{itemize} ~ \\vspace{-.25in} \n (Sill\\'{e}n, 1937) presented this structure in the doubled-unit cell $C\\overline{4}2b$ setting of space group \\#117, and the ICSD entry is from that paper.  We follow (Harwig, 1978) and use the standard $P\\overline{4}b2$ setting. We have shifted the origin so that the O-I atom is at the (2a) site."
 }

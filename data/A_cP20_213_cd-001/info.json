@@ -1,9 +1,19 @@
 {
     "uid": "4VEQ",
+    "label": "A_cP20_213_cd-001",
+    "alias": "A_cP20_213_cd",
+    "title": "$\\beta$-Mn ($A13$) Structure",
+    "icsd": "41775",
+    "ccdc": null,
     "prototype": "Mn",
     "prototype_tex": "Mn",
-    "label": "A_cP20_213_cd-001",
-    "parameter_symbol": [
+    "number_of_species": 1,
+    "pearson_symbol": "cP20",
+    "space_group_number": 213,
+    "strukturbericht": "A13",
+    "strukturbericht_tex": "$A13$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "x1",
         "y2"
@@ -13,18 +23,8 @@
         0.06361,
         0.20224
     ],
-    "strukturbericht": "A13",
-    "title": "$\\beta$-Mn ($A13$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$A13$",
     "compounds": {},
-    "alias": "A_cP20_213_cd",
-    "number_of_species": 1,
-    "pearson_symbol": "cP20",
-    "space_group_number": 213,
-    "comments": "This is the high temperature form of manganese, stable in the range 727-1095$^\\circ$C and metastable at room temperature (Donohue, 1982).  The ground state is \\href{current_web_home_dir/A_cI58_217_ac2g-001}{$\\alpha$-Mn ($A12$)}. \n This structure may also be found in the enantiomorphic space group $P4_{3}32$ \\#212.",
+    "legacy": false,
     "notes": "$A13$",
-    "ccdc": null,
-    "icsd": "41775"
+    "comments": "This is the high temperature form of manganese, stable in the range 727-1095$^\\circ$C and metastable at room temperature (Donohue, 1982).  The ground state is \\href{current_web_home_dir/A_cI58_217_ac2g-001}{$\\alpha$-Mn ($A12$)}. \n This structure may also be found in the enantiomorphic space group $P4_{3}32$ \\#212."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "X3MC",
+    "label": "AB_mP4_6_2a_2b-001",
+    "alias": "AB_mP4_6_2b_2a",
+    "title": "Tetrataenite (FeNi) Structure",
+    "icsd": "56386",
+    "ccdc": null,
     "prototype": "FeNi",
     "prototype_tex": "FeNi",
-    "label": "AB_mP4_6_2a_2b-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mP4",
+    "space_group_number": 6,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -31,17 +41,8 @@
         0.518,
         0.507
     ],
-    "strukturbericht": null,
-    "title": "Tetrataenite (FeNi) Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_mP4_6_2b_2a",
-    "number_of_species": 2,
-    "pearson_symbol": "mP4",
-    "space_group_number": 6,
-    "comments": "In the original the site occupations are mixed with Ni majority (0.85) on sites (1a) and Fe majority on (1b).",
+    "legacy": false,
     "notes": "Tetrataenite",
-    "ccdc": null,
-    "icsd": "56386"
+    "comments": "In the original the site occupations are mixed with Ni majority (0.85) on sites (1a) and Fe majority on (1b)."
 }

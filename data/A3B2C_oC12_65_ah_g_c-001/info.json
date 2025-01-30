@@ -1,9 +1,19 @@
 {
     "uid": "35VG",
+    "label": "A3B2C_oC12_65_ah_g_c-001",
+    "alias": "A3B2C_oC12_65_ah_g_c-001",
+    "title": "Ag$_{3}$Te$_{2}$Tl Structure",
+    "icsd": "71081",
+    "ccdc": null,
     "prototype": "Ag3Te2Tl",
     "prototype_tex": "Ag$_{3}$Te$_{2}$Tl",
-    "label": "A3B2C_oC12_65_ah_g_c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oC12",
+    "space_group_number": 65,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -17,17 +27,8 @@
         0.373,
         0.185
     ],
-    "strukturbericht": null,
-    "title": "Ag$_{3}$Te$_{2}$Tl Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B2C_oC12_65_ah_g_c-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oC12",
-    "space_group_number": 65,
-    "comments": "(Avilov, 1972) put this in space group $Pmna$ \\#51, with two formula units in the full orthorhombic cell.  (Cenzual, 1991) showed that their coordinates actually described a system in space group $Cmmm$ \\#65, with one formula unit in the primitive cell. \n The ICSD entry references (Cenzual, 1991).",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "71081"
+    "comments": "(Avilov, 1972) put this in space group $Pmna$ \\#51, with two formula units in the full orthorhombic cell.  (Cenzual, 1991) showed that their coordinates actually described a system in space group $Cmmm$ \\#65, with one formula unit in the primitive cell. \n The ICSD entry references (Cenzual, 1991)."
 }

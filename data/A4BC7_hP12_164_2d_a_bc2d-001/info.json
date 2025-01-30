@@ -1,9 +1,19 @@
 {
     "uid": "SPWJ",
+    "label": "A4BC7_hP12_164_2d_a_bc2d-001",
+    "alias": "A4BC7_hP12_164_2d_a_bc2d-001",
+    "title": "MnBi$_{4}$Te$_{7}$ Structure",
+    "icsd": "37567",
+    "ccdc": null,
     "prototype": "Bi4MnTe7",
     "prototype_tex": "Bi$_{4}$MnTe$_{7}$",
-    "label": "A4BC7_hP12_164_2d_a_bc2d-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP12",
+    "space_group_number": 164,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -21,17 +31,8 @@
         0.3443,
         0.0645
     ],
-    "strukturbericht": null,
-    "title": "MnBi$_{4}$Te$_{7}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4BC7_hP12_164_2d_a_bc2d-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hP12",
-    "space_group_number": 164,
-    "comments": "The ICSD says places these compounds under the \\href{current_web_home_dir/ABC2_hP12_164_ad_bd_c2d-001}{Bohdanowiczite (AgBiSe$_{2}$) structure}, which is true in the sense that the same Wyckoff positions are occupied.  We arbitrarily chose MnBi$_{4}$Te$_{7}$ as the prototype for this stoichiometry.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "37567"
+    "comments": "The ICSD says places these compounds under the \\href{current_web_home_dir/ABC2_hP12_164_ad_bd_c2d-001}{Bohdanowiczite (AgBiSe$_{2}$) structure}, which is true in the sense that the same Wyckoff positions are occupied.  We arbitrarily chose MnBi$_{4}$Te$_{7}$ as the prototype for this stoichiometry."
 }

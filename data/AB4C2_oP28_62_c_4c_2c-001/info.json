@@ -1,9 +1,19 @@
 {
     "uid": "CAYJ",
+    "label": "AB4C2_oP28_62_c_4c_2c-001",
+    "alias": "AB4C2_oP28_62_c_4c_2c",
+    "title": "Berthierite (FeSb$_{2}$S$_{4}$, $E3_{3}$) Structure",
+    "icsd": "185792",
+    "ccdc": null,
     "prototype": "FeS4Sb2",
     "prototype_tex": "FeS$_{4}$Sb$_{2}$",
-    "label": "AB4C2_oP28_62_c_4c_2c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP28",
+    "space_group_number": 62,
+    "strukturbericht": "E3_3",
+    "strukturbericht_tex": "$E3_{3}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -41,18 +51,8 @@
         0.96111,
         0.8862
     ],
-    "strukturbericht": "E3_3",
-    "title": "Berthierite (FeSb$_{2}$S$_{4}$, $E3_{3}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$E3_{3}$",
     "compounds": {},
-    "alias": "AB4C2_oP28_62_c_4c_2c",
-    "number_of_species": 3,
-    "pearson_symbol": "oP28",
-    "space_group_number": 62,
-    "comments": "We have updated our reference from the obscure (Buerger, 1953) to the more accessible (Periotto, 2012). \n The ICSD entry for this structure lists CaFe$_{2}$O$_{4}$ as the prototype, but we will use FeSb$_{2}$S$_{4}$, as it was given the $E3_{3}$ {\\em Sturkturbericht} label. \n The data for this structure was given in the $Pnam$ orientation of space group \\#62.  We used FINDSYM to place it in the standard $Pnma$ orientation.",
+    "legacy": false,
     "notes": "$E3_{3}$, Berthierite",
-    "ccdc": null,
-    "icsd": "185792"
+    "comments": "We have updated our reference from the obscure (Buerger, 1953) to the more accessible (Periotto, 2012). \n The ICSD entry for this structure lists CaFe$_{2}$O$_{4}$ as the prototype, but we will use FeSb$_{2}$S$_{4}$, as it was given the $E3_{3}$ {\\em Sturkturbericht} label. \n The data for this structure was given in the $Pnam$ orientation of space group \\#62.  We used FINDSYM to place it in the standard $Pnma$ orientation."
 }

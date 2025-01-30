@@ -1,9 +1,19 @@
 {
     "uid": "QSR1",
+    "label": "A2B4C_oC28_66_l_kl_a-001",
+    "alias": "A2B4C_oC28_66_l_kl_a",
+    "title": "SrAl$_{2}$Se$_{4}$ Structure",
+    "icsd": "49732",
+    "ccdc": null,
     "prototype": "Al2Se4Sr",
     "prototype_tex": "Al$_{2}$Se$_{4}$Sr",
-    "label": "A2B4C_oC28_66_l_kl_a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oC28",
+    "space_group_number": 66,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -23,17 +33,8 @@
         0.237,
         0.92
     ],
-    "strukturbericht": null,
-    "title": "SrAl$_{2}$Se$_{4}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B4C_oC28_66_l_kl_a",
-    "number_of_species": 3,
-    "pearson_symbol": "oC28",
-    "space_group_number": 66,
-    "comments": "We have shifted the origin so that the Sr-I atom is at the (4a) Wyckoff position rather than (4b).",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "49732"
+    "comments": "We have shifted the origin so that the Sr-I atom is at the (4a) Wyckoff position rather than (4b)."
 }

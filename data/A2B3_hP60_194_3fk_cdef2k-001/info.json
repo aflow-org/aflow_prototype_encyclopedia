@@ -1,9 +1,19 @@
 {
     "uid": "T15Z",
+    "label": "A2B3_hP60_194_3fk_cdef2k-001",
+    "alias": "A2B3_hP60_194_3fk_cdef2k",
+    "title": "$\\beta$-Alumina ($D5_{6}$, Al$_{2}$O$_{3}$) Structure",
+    "icsd": "24226",
+    "ccdc": null,
     "prototype": "Al2O3",
     "prototype_tex": "Al$_{2}$O$_{3}$",
-    "label": "A2B3_hP60_194_3fk_cdef2k-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP60",
+    "space_group_number": 194,
+    "strukturbericht": "D5_6",
+    "strukturbericht_tex": "$D5_{6}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -33,18 +43,8 @@
         0.500003,
         0.14
     ],
-    "strukturbericht": "D5_6",
-    "title": "$\\beta$-Alumina ($D5_{6}$, Al$_{2}$O$_{3}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$D5_{6}$",
     "compounds": {},
-    "alias": "A2B3_hP60_194_3fk_cdef2k",
-    "number_of_species": 2,
-    "pearson_symbol": "hP60",
-    "space_group_number": 194,
-    "comments": "Alumina comes in a variety of forms. In the Encyclopedia we have: \\begin{itemize} \\item \\href{current_web_home_dir/A2B3_hR10_167_c_e-001}{Corundum, or $\\alpha$-alumina ($D5_{1}$)} is the mineral usual found in nature. \\item \\href{current_web_home_dir/A2B3_hP60_194_3fk_cdef2k-001}{$\\beta$-alumina ($D5_{6}$)}  (this structure) \\item We describe $\\gamma$-alumina ($D5_{7}$) using \\href{current_web_home_dir/A2B3_cP60_212_acd_bce-001}{Fe$_{2}$O$_{3}$} as the prototype. \\item \\href{current_web_home_dir/A3B4_tP84_115_acef3g3j3k_6j6k-001}{$\\delta$-alumina} is a tetragonal distortion of the \\href{current_web_home_dir/A2BC4_cF56_227_c_b_e-001}{spinel structure}. It is found in nature as deltalumite. \\item \\href{current_web_home_dir/A2B3_oP40_33_4a_6a-001}{$\\kappa$-Al$_{2}$O$_{3}$}. \\end{itemize} ~ \\vspace{-.25in} \n (Hermann, 1937) assigned this the {\\em Strukturbericht} designation $D5_{6}$, calling it $\\beta$-corundum, and subtitles the section ``with small Na$_{2}$O impurities.'' \n As noted by (Gottfried, 1937) and (Le Cars, 1975), the Na impurities replace Al atoms on the (4f) Wyckoff positions, along with some unspecified O sites. More detail can be found in the ICSD CIF. \n Charge neutrality requires that some of the displaced atoms remain in the lattice, and they are moved to (2a) Wyckoff positions at (0 0 0) and (0 0 1/2). \n Here we only list the ``ideal'' structure.",
+    "legacy": false,
     "notes": "$D5_{6}$, $\\beta$-Alumina",
-    "ccdc": null,
-    "icsd": "24226"
+    "comments": "Alumina comes in a variety of forms. In the Encyclopedia we have: \\begin{itemize} \\item \\href{current_web_home_dir/A2B3_hR10_167_c_e-001}{Corundum, or $\\alpha$-alumina ($D5_{1}$)} is the mineral usual found in nature. \\item \\href{current_web_home_dir/A2B3_hP60_194_3fk_cdef2k-001}{$\\beta$-alumina ($D5_{6}$)}  (this structure) \\item We describe $\\gamma$-alumina ($D5_{7}$) using \\href{current_web_home_dir/A2B3_cP60_212_acd_bce-001}{Fe$_{2}$O$_{3}$} as the prototype. \\item \\href{current_web_home_dir/A3B4_tP84_115_acef3g3j3k_6j6k-001}{$\\delta$-alumina} is a tetragonal distortion of the \\href{current_web_home_dir/A2BC4_cF56_227_c_b_e-001}{spinel structure}. It is found in nature as deltalumite. \\item \\href{current_web_home_dir/A2B3_oP40_33_4a_6a-001}{$\\kappa$-Al$_{2}$O$_{3}$}. \\end{itemize} ~ \\vspace{-.25in} \n (Hermann, 1937) assigned this the {\\em Strukturbericht} designation $D5_{6}$, calling it $\\beta$-corundum, and subtitles the section ``with small Na$_{2}$O impurities.'' \n As noted by (Gottfried, 1937) and (Le Cars, 1975), the Na impurities replace Al atoms on the (4f) Wyckoff positions, along with some unspecified O sites. More detail can be found in the ICSD CIF. \n Charge neutrality requires that some of the displaced atoms remain in the lattice, and they are moved to (2a) Wyckoff positions at (0 0 0) and (0 0 1/2). \n Here we only list the ``ideal'' structure."
 }

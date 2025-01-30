@@ -1,9 +1,19 @@
 {
     "uid": "QCMW",
+    "label": "A7B2_hP9_164_ai_d-001",
+    "alias": "A7B2_hP9_164_ai_d-001",
+    "title": "K$_{2}$Hg$_{7}$ Structure",
+    "icsd": "107482",
+    "ccdc": null,
     "prototype": "Hg7K2",
     "prototype_tex": "Hg$_{7}$K$_{2}$",
-    "label": "A7B2_hP9_164_ai_d-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP9",
+    "space_group_number": 164,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -17,17 +27,8 @@
         0.178903,
         0.3318
     ],
-    "strukturbericht": null,
-    "title": "K$_{2}$Hg$_{7}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A7B2_hP9_164_ai_d-001",
-    "number_of_species": 2,
-    "pearson_symbol": "hP9",
-    "space_group_number": 164,
-    "comments": "This is a binary form of the \\href{current_web_home_dir/A6BC2_hP9_164_i_a_d-001}{K$_{2}$GeF$_{6}$ ($J1_{13}$) Structure}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "107482"
+    "comments": "This is a binary form of the \\href{current_web_home_dir/A6BC2_hP9_164_i_a_d-001}{K$_{2}$GeF$_{6}$ ($J1_{13}$) Structure}."
 }

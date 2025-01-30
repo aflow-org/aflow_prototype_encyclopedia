@@ -1,9 +1,19 @@
 {
     "uid": "AZ89",
+    "label": "A4B2C2DE_oP40_62_2cd_2c_d_c_c-001",
+    "alias": "A4B2C2DE_oP40_62_2cd_2c_d_c_c-001",
+    "title": "K$_{2}$SnCl$_{4}\\cdot$H$_{2}$O Structure",
+    "icsd": "290298",
+    "ccdc": null,
     "prototype": "Cl4H2K2OSn",
     "prototype_tex": "Cl$_{4}$H$_{2}$K$_{2}$OSn",
-    "label": "A4B2C2DE_oP40_62_2cd_2c_d_c_c-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "oP40",
+    "space_group_number": 62,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -49,17 +59,8 @@
         0.48246,
         0.86996
     ],
-    "strukturbericht": null,
-    "title": "K$_{2}$SnCl$_{4}\\cdot$H$_{2}$O Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B2C2DE_oP40_62_2cd_2c_d_c_c-001",
-    "number_of_species": 5,
-    "pearson_symbol": "oP40",
-    "space_group_number": 62,
-    "comments": "Various structures have been proposed for K$_{2}$SnCl$_{4}\\cdot$H$_{2}$O: \\begin{itemize} \\item The original determination of this structure was made by (Brasseur, 1939) and given the \\href{current_web_home_dir/A4BC2D_oP32_62_2cd_a_2c_b-001}{{\\em Strukturbericht} label $E3_{5}$ by (Herrmann, 1943)}. \\item (Kamenar, 1962) proposed an \\href{current_web_home_dir/A4BC2D_oP32_62_2cd_c_d_c-001}{alternative structure}.  Neither of these experiments located the hydrogen atoms. \\item This was finally accomplished by (Ye, 2013), shown here.  Their structure refined that of (Kamenar, 1962). \\end{itemize}",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "290298"
+    "comments": "Various structures have been proposed for K$_{2}$SnCl$_{4}\\cdot$H$_{2}$O: \\begin{itemize} \\item The original determination of this structure was made by (Brasseur, 1939) and given the \\href{current_web_home_dir/A4BC2D_oP32_62_2cd_a_2c_b-001}{{\\em Strukturbericht} label $E3_{5}$ by (Herrmann, 1943)}. \\item (Kamenar, 1962) proposed an \\href{current_web_home_dir/A4BC2D_oP32_62_2cd_c_d_c-001}{alternative structure}.  Neither of these experiments located the hydrogen atoms. \\item This was finally accomplished by (Ye, 2013), shown here.  Their structure refined that of (Kamenar, 1962). \\end{itemize}"
 }

@@ -1,9 +1,19 @@
 {
     "uid": "1Y1T",
+    "label": "A8B3_mC22_12_4i_ai-001",
+    "alias": "A8B3_mC22_12_4i_ai-001",
+    "title": "Al$_{8}$Mo$_{3}$ Structure",
+    "icsd": "58002",
+    "ccdc": null,
     "prototype": "Al8Mo3",
     "prototype_tex": "Al$_{8}$Mo$_{3}$",
-    "label": "A8B3_mC22_12_4i_ai-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC22",
+    "space_group_number": 12,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -35,17 +45,8 @@
         0.7552,
         0.6601
     ],
-    "strukturbericht": null,
-    "title": "Al$_{8}$Mo$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A8B3_mC22_12_4i_ai-001",
-    "number_of_species": 2,
-    "pearson_symbol": "mC22",
-    "space_group_number": 12,
-    "comments": "There is no ICSD entry on file for (Oster, 2017), so we use the similar entry from (Forsyth, 1962).",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "58002"
+    "comments": "There is no ICSD entry on file for (Oster, 2017), so we use the similar entry from (Forsyth, 1962)."
 }

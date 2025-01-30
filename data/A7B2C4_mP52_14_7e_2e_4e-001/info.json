@@ -1,9 +1,19 @@
 {
     "uid": "N56L",
+    "label": "A7B2C4_mP52_14_7e_2e_4e-001",
+    "alias": "A7B2C4_mP52_14_7e_2e_4e-001",
+    "title": "Ce$_{7}$Pd$_{4}$Ge$_{2}$ Structure",
+    "icsd": "106396",
+    "ccdc": null,
     "prototype": "Ce7Ge2Pd4",
     "prototype_tex": "Ce$_{7}$Ge$_{2}$Pd$_{4}$",
-    "label": "A7B2C4_mP52_14_7e_2e_4e-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mP52",
+    "space_group_number": 14,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -93,17 +103,8 @@
         0.2511,
         0.1796
     ],
-    "strukturbericht": null,
-    "title": "Ce$_{7}$Pd$_{4}$Ge$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A7B2C4_mP52_14_7e_2e_4e-001",
-    "number_of_species": 3,
-    "pearson_symbol": "mP52",
-    "space_group_number": 14,
-    "comments": "(Gribanov, 1993) give the structure in the $P2_{1}/n$ setting of space group \\#14.  We used FINDSYM to transform this into the standard $P2_{1}/c$ setting. This resulted a rotation of the primitive cell and substantially different primitive vectors, although the crystal structure itself remains unchanged.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "106396"
+    "comments": "(Gribanov, 1993) give the structure in the $P2_{1}/n$ setting of space group \\#14.  We used FINDSYM to transform this into the standard $P2_{1}/c$ setting. This resulted a rotation of the primitive cell and substantially different primitive vectors, although the crystal structure itself remains unchanged."
 }

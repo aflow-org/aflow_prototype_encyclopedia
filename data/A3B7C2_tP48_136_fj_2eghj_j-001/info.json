@@ -1,9 +1,19 @@
 {
     "uid": "Z7PY",
+    "label": "A3B7C2_tP48_136_fj_2eghj_j-001",
+    "alias": "A3B7C2_tP48_136_fj_2eghj_j-001",
+    "title": "Tetragonal Ba$_{3}$Zr$_{2}$S$_{7}$ Structure",
+    "icsd": "59271",
+    "ccdc": null,
     "prototype": "Ba3S7Zr2",
     "prototype_tex": "Ba$_{3}$S$_{7}$Zr$_{2}$",
-    "label": "A3B7C2_tP48_136_fj_2eghj_j-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP48",
+    "space_group_number": 136,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -33,17 +43,8 @@
         0.25031,
         0.40025
     ],
-    "strukturbericht": null,
-    "title": "Tetragonal Ba$_{3}$Zr$_{2}$S$_{7}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B7C2_tP48_136_fj_2eghj_j-001",
-    "number_of_species": 3,
-    "pearson_symbol": "tP48",
-    "space_group_number": 136,
-    "comments": "The ICSD says the prototype of this structure is \\href{current_web_home_dir/A2B7CD2_tP48_136_j_2efhj_g_j-001}{SrTb$_{2}$Fe$_{2}$O$_{7}$}, but the structures are in fact quite different so we place this structure in its own prototype. \n This is the low temperature form of Ba$_{3}$Zr$_{2}$S$_{7}$, with data apparently taken at room temperature, though the ICSD entry says it was taken at 153K.  At higher temperatures the structure becomes \\href{current_web_home_dir/A3B7C2_oC48_66_el_f2gl_l-001}{orthorhombic}.",
+    "legacy": false,
     "notes": "LT",
-    "ccdc": null,
-    "icsd": "59271"
+    "comments": "The ICSD says the prototype of this structure is \\href{current_web_home_dir/A2B7CD2_tP48_136_j_2efhj_g_j-001}{SrTb$_{2}$Fe$_{2}$O$_{7}$}, but the structures are in fact quite different so we place this structure in its own prototype. \n This is the low temperature form of Ba$_{3}$Zr$_{2}$S$_{7}$, with data apparently taken at room temperature, though the ICSD entry says it was taken at 153K.  At higher temperatures the structure becomes \\href{current_web_home_dir/A3B7C2_oC48_66_el_f2gl_l-001}{orthorhombic}."
 }

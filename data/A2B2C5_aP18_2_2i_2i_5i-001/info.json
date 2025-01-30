@@ -1,9 +1,19 @@
 {
     "uid": "RJNZ",
+    "label": "A2B2C5_aP18_2_2i_2i_5i-001",
+    "alias": "A2B2C5_aP18_2_2i_2i_5i",
+    "title": "Co$_{2}$B$_{2}$O$_{5}$ Structure",
+    "icsd": "24284",
+    "ccdc": null,
     "prototype": "B2Co2O5",
     "prototype_tex": "B$_{2}$Co$_{2}$O$_{5}$",
-    "label": "A2B2C5_aP18_2_2i_2i_5i-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "aP18",
+    "space_group_number": 2,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -73,17 +83,8 @@
         0.698,
         0.489
     ],
-    "strukturbericht": null,
-    "title": "Co$_{2}$B$_{2}$O$_{5}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B2C5_aP18_2_2i_2i_5i",
-    "number_of_species": 3,
-    "pearson_symbol": "aP18",
-    "space_group_number": 2,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "24284"
+    "comments": null
 }

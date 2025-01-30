@@ -1,9 +1,19 @@
 {
     "uid": "5MRT",
+    "label": "A3BC_tP5_123_ah_c_b-001",
+    "alias": "A3BC_tP5_123_cg_a_d",
+    "title": "NH$_{4}$HgCl$_{3}$ ($E2_{5}$) Structure",
+    "icsd": "15962",
+    "ccdc": null,
     "prototype": "Cl3H4HgN4",
     "prototype_tex": "Cl$_{3}$H$_{4}$HgN$_{4}$",
-    "label": "A3BC_tP5_123_ah_c_b-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP5",
+    "space_group_number": 123,
+    "strukturbericht": "E2_5",
+    "strukturbericht_tex": "$E2_{5}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z4"
@@ -13,18 +23,8 @@
         1.89499,
         0.294
     ],
-    "strukturbericht": "E2_5",
-    "title": "NH$_{4}$HgCl$_{3}$ ($E2_{5}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$E2_{5}$",
     "compounds": {},
-    "alias": "A3BC_tP5_123_cg_a_d",
-    "number_of_species": 3,
-    "pearson_symbol": "tP5",
-    "space_group_number": 123,
-    "comments": "The positions of the hydrogen atoms are not given.  It is likely that the hydrogen atoms are freely rotating around the nitrogen, as any reasonable fixed positions would destroy both the inversion symmetry and the four-fold rotation axis exhibited by space group $P4/mmm$ \\#123. \n (Harmsen, 1939) and (Herrmann, 1943) give multiple possible space groups for this structure.  We have chosen the highest symmetry representation, space group $P4/mmm$.",
+    "legacy": false,
     "notes": "$E2_{5}$",
-    "ccdc": null,
-    "icsd": "15962"
+    "comments": "The positions of the hydrogen atoms are not given.  It is likely that the hydrogen atoms are freely rotating around the nitrogen, as any reasonable fixed positions would destroy both the inversion symmetry and the four-fold rotation axis exhibited by space group $P4/mmm$ \\#123. \n (Harmsen, 1939) and (Herrmann, 1943) give multiple possible space groups for this structure.  We have chosen the highest symmetry representation, space group $P4/mmm$."
 }

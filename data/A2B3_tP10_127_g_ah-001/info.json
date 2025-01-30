@@ -1,9 +1,19 @@
 {
     "uid": "6QGS",
+    "label": "A2B3_tP10_127_g_ah-001",
+    "alias": "A2B3_tP10_127_g_ah",
+    "title": "Si$_{2}$U$_{3}$ ($D5_{a}$) Structure",
+    "icsd": "73695",
+    "ccdc": null,
     "prototype": "Si2U3",
     "prototype_tex": "Si$_{2}$U$_{3}$",
-    "label": "A2B3_tP10_127_g_ah-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tP10",
+    "space_group_number": 127,
+    "strukturbericht": "D5_a",
+    "strukturbericht_tex": "$D5_{a}$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -15,18 +25,8 @@
         0.8841,
         0.6821
     ],
-    "strukturbericht": "D5_a",
-    "title": "Si$_{2}$U$_{3}$ ($D5_{a}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$D5_{a}$",
     "compounds": {},
-    "alias": "A2B3_tP10_127_g_ah",
-    "number_of_species": 2,
-    "pearson_symbol": "tP10",
-    "space_group_number": 127,
-    "comments": "If we consider the Si$_{2}$ dimers as a pseudo-atom then this is a tetragonal distortion of the \\href{current_web_home_dir/AB3_cP4_221_a_c-001}{Cu$_{3}$Au ($L1_{2}$) structure}. \n \\href{current_web_home_dir/A2BC2_tP10_127_g_a_h-002}{Mo$_{2}$FeB$_{2}$} is the ternary form of this structure. \n We use the lattice constants taken by (Remsching, 1992) at 1200$^\\circ$C, while the ICSD entry uses what are apparently the room temperature values.",
+    "legacy": false,
     "notes": "$D5_{a}$",
-    "ccdc": null,
-    "icsd": "73695"
+    "comments": "If we consider the Si$_{2}$ dimers as a pseudo-atom then this is a tetragonal distortion of the \\href{current_web_home_dir/AB3_cP4_221_a_c-001}{Cu$_{3}$Au ($L1_{2}$) structure}. \n \\href{current_web_home_dir/A2BC2_tP10_127_g_a_h-002}{Mo$_{2}$FeB$_{2}$} is the ternary form of this structure. \n We use the lattice constants taken by (Remsching, 1992) at 1200$^\\circ$C, while the ICSD entry uses what are apparently the room temperature values."
 }

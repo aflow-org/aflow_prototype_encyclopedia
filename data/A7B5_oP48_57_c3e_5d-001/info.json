@@ -1,9 +1,19 @@
 {
     "uid": "9PR5",
+    "label": "A7B5_oP48_57_c3e_5d-001",
+    "alias": "A7B5_oP48_57_c3e_5d-001",
+    "title": "Hg$_{7}$Hg$_{5}$ Structure",
+    "icsd": "104304",
+    "ccdc": null,
     "prototype": "Hg7K5",
     "prototype_tex": "Hg$_{7}$K$_{5}$",
-    "label": "A7B5_oP48_57_c3e_5d-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP48",
+    "space_group_number": 57,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -53,17 +63,8 @@
         0.1399,
         0.5708
     ],
-    "strukturbericht": null,
-    "title": "Hg$_{7}$Hg$_{5}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A7B5_oP48_57_c3e_5d-001",
-    "number_of_species": 2,
-    "pearson_symbol": "oP48",
-    "space_group_number": 57,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "104304"
+    "comments": null
 }

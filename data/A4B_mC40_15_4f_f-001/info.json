@@ -1,9 +1,19 @@
 {
     "uid": "6M9R",
+    "label": "A4B_mC40_15_4f_f-001",
+    "alias": "A4B_mC40_15_4f_f-001",
+    "title": "VS$_{4}$ Structure",
+    "icsd": "16797",
+    "ccdc": null,
     "prototype": "S4V",
     "prototype_tex": "S$_{4}$V",
-    "label": "A4B_mC40_15_4f_f-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC40",
+    "space_group_number": 15,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -45,17 +55,8 @@
         0.751,
         0.883
     ],
-    "strukturbericht": null,
-    "title": "VS$_{4}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B_mC40_15_4f_f-001",
-    "number_of_species": 2,
-    "pearson_symbol": "mC40",
-    "space_group_number": 15,
-    "comments": "We use the coordinates from (Allmann, 1964) as corrected by (Downs, 2003). \n (Allmann, 1964) give the structure of VS$_{4}$ in the $I2/c$ setting of space group \\#15.  We used FINDSYM to translate this to the standard $C2/c$ setting.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "16797"
+    "comments": "We use the coordinates from (Allmann, 1964) as corrected by (Downs, 2003). \n (Allmann, 1964) give the structure of VS$_{4}$ in the $I2/c$ setting of space group \\#15.  We used FINDSYM to translate this to the standard $C2/c$ setting."
 }

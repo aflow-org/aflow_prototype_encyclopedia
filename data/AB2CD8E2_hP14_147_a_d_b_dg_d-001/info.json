@@ -1,9 +1,19 @@
 {
     "uid": "B64B",
+    "label": "AB2CD8E2_hP14_147_a_d_b_dg_d-001",
+    "alias": "AB2CD8E2_hP14_147_a_d_b_dg_d-001",
+    "title": "Na$_{2}$BaNi(PO$_{4}$)$_{2}$ Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "BaNa2NiO8P2",
     "prototype_tex": "BaNa$_{2}$NiO$_{8}$P$_{2}$",
-    "label": "AB2CD8E2_hP14_147_a_d_b_dg_d-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "hP14",
+    "space_group_number": 147,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -23,17 +33,8 @@
         0.8756,
         0.3212
     ],
-    "strukturbericht": null,
-    "title": "Na$_{2}$BaNi(PO$_{4}$)$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2CD8E2_hP14_147_a_d_b_dg_d-001",
-    "number_of_species": 5,
-    "pearson_symbol": "hP14",
-    "space_group_number": 147,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "none"
+    "comments": null
 }

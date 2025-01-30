@@ -1,9 +1,19 @@
 {
     "uid": "5BTF",
+    "label": "A2B8CD2_oC26_65_h_r_a_i-001",
+    "alias": "A2B8CD2_oC26_65_h_r_a_i",
+    "title": "Mg(NH$_{3}$)$_{2}$Cl$_{2}$ ($E1_{3}$) Structure",
+    "icsd": "202459",
+    "ccdc": null,
     "prototype": "Cl2H6MgN2",
     "prototype_tex": "Cl$_{2}$H$_{6}$MgN$_{2}$",
-    "label": "A2B8CD2_oC26_65_h_r_a_i-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oC26",
+    "space_group_number": 65,
+    "strukturbericht": "E1_3",
+    "strukturbericht_tex": "$E1_{3}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -23,18 +33,8 @@
         0.812,
         0.158
     ],
-    "strukturbericht": "E1_3",
-    "title": "Mg(NH$_{3}$)$_{2}$Cl$_{2}$ ($E1_{3}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$E1_{3}$",
     "compounds": {},
-    "alias": "A2B8CD2_oC26_65_h_r_a_i",
-    "number_of_species": 4,
-    "pearson_symbol": "oC26",
-    "space_group_number": 65,
-    "comments": "(Gottfried, 1938) gave the $E1_{3}$ designation to Cd(NH$_{3}$)$_{2}$Cl$_{2}$, and gave coordinates in the $Cmm2$ \\#35 space group.  However, the cited reference, (MacGillavry, 1936) noted that their coordinates allowed several different space groups, with $Cmmm$ \\#65 having the highest symmetry.  We therefore follow most authors and use the $Cmmm$ representation. \n (MacGillavry, 1936) could not determine the positions of the hydrogen atoms, but (Leineweber, 1999) was able to do this using the isostructural compound Mg(NH$_{3}$)$_{2}$Cl$_{2}$.  Accordingly we us Mg(NH$_{3}$)$_{2}$Cl$_{2}$ for the prototype of $E1_{3}$. \n Twelve hydrogen atoms are statistically distributed among the (16r) positions, giving each site 75\\% occupation.",
+    "legacy": false,
     "notes": "$E1_{3}$",
-    "ccdc": null,
-    "icsd": "202459"
+    "comments": "(Gottfried, 1938) gave the $E1_{3}$ designation to Cd(NH$_{3}$)$_{2}$Cl$_{2}$, and gave coordinates in the $Cmm2$ \\#35 space group.  However, the cited reference, (MacGillavry, 1936) noted that their coordinates allowed several different space groups, with $Cmmm$ \\#65 having the highest symmetry.  We therefore follow most authors and use the $Cmmm$ representation. \n (MacGillavry, 1936) could not determine the positions of the hydrogen atoms, but (Leineweber, 1999) was able to do this using the isostructural compound Mg(NH$_{3}$)$_{2}$Cl$_{2}$.  Accordingly we us Mg(NH$_{3}$)$_{2}$Cl$_{2}$ for the prototype of $E1_{3}$. \n Twelve hydrogen atoms are statistically distributed among the (16r) positions, giving each site 75\\% occupation."
 }

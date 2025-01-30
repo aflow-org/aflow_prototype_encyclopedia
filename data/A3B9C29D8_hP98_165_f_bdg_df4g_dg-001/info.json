@@ -1,9 +1,19 @@
 {
     "uid": "JRX6",
+    "label": "A3B9C29D8_hP98_165_f_bdg_df4g_dg-001",
+    "alias": "A3B9C29D8_hP98_165_f_bdg_df4g_dg-001",
+    "title": "Li$_{9}$Al$_{3}$(P$_{2}$O$_{7}$)$_{3}$(PO$_{4}$)$_{2}$ Structure",
+    "icsd": "50957",
+    "ccdc": null,
     "prototype": "Al3Li9O29P8",
     "prototype_tex": "Al$_{3}$Li$_{9}$O$_{29}$P$_{8}$",
-    "label": "A3B9C29D8_hP98_165_f_bdg_df4g_dg-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "hP98",
+    "space_group_number": 165,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -57,17 +67,8 @@
         0.90856,
         0.1572
     ],
-    "strukturbericht": null,
-    "title": "Li$_{9}$Al$_{3}$(P$_{2}$O$_{7}$)$_{3}$(PO$_{4}$)$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B9C29D8_hP98_165_f_bdg_df4g_dg-001",
-    "number_of_species": 4,
-    "pearson_symbol": "hP98",
-    "space_group_number": 165,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "50957"
+    "comments": null
 }

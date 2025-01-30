@@ -1,9 +1,19 @@
 {
     "uid": "P5YW",
+    "label": "A2B_tP48_130_2g_g-001",
+    "alias": "A2B_tP48_130_2g_g-001",
+    "title": "Room Temperature Metastable VO$_{2}$ Structure",
+    "icsd": "51213",
+    "ccdc": null,
     "prototype": "O2V",
     "prototype_tex": "O$_{2}$V",
-    "label": "A2B_tP48_130_2g_g-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tP48",
+    "space_group_number": 130,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -29,17 +39,8 @@
         0.72455,
         0.12939
     ],
-    "strukturbericht": null,
-    "title": "Room Temperature Metastable VO$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B_tP48_130_2g_g-001",
-    "number_of_species": 2,
-    "pearson_symbol": "tP48",
-    "space_group_number": 130,
-    "comments": "While the ground state of VO$_{2}$ is similar to \\href{current_web_home_dir/A2B_mP12_14_2e_e-001}{baddeleyite ($C43$)} (Villars, 2018), there are several metastable states (Oka, 1998), including this structure, seen at 298K, and \\href{current_web_home_dir/A2B_tI24_87_2h_h-001}{another tetragonal structure} seen at 473K. \n It has also been seen in the \\href{current_web_home_dir/ABC_mP12_14_e_e_e-002}{arsenopyrite $E0_{7}$ structure}.",
+    "legacy": false,
     "notes": "Metastable at RT",
-    "ccdc": null,
-    "icsd": "51213"
+    "comments": "While the ground state of VO$_{2}$ is similar to \\href{current_web_home_dir/A2B_mP12_14_2e_e-001}{baddeleyite ($C43$)} (Villars, 2018), there are several metastable states (Oka, 1998), including this structure, seen at 298K, and \\href{current_web_home_dir/A2B_tI24_87_2h_h-001}{another tetragonal structure} seen at 473K. \n It has also been seen in the \\href{current_web_home_dir/ABC_mP12_14_e_e_e-002}{arsenopyrite $E0_{7}$ structure}."
 }

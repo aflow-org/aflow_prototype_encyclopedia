@@ -1,9 +1,19 @@
 {
     "uid": "1BYJ",
+    "label": "A_hP6_194_h-001",
+    "alias": "A_hP6_194_h",
+    "title": "Hypothetical Tetrahedrally Bonded Carbon with 3-Member Rings Model Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "C",
     "prototype_tex": "C",
-    "label": "A_hP6_194_h-001",
-    "parameter_symbol": [
+    "number_of_species": 1,
+    "pearson_symbol": "hP6",
+    "space_group_number": 194,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1"
@@ -13,17 +23,8 @@
         0.568908,
         0.44799
     ],
-    "strukturbericht": null,
-    "title": "Hypothetical Tetrahedrally Bonded Carbon with 3-Member Rings Model Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "A_hP6_194_h",
-    "number_of_species": 1,
-    "pearson_symbol": "hP6",
-    "space_group_number": 194,
-    "comments": "This structure was proposed in (Schultz, 1999) to show that it was energetically possible to form three-member rings in amorphous sp$^{3}$ carbon structures.",
+    "legacy": false,
     "notes": "Model Structure",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "This structure was proposed in (Schultz, 1999) to show that it was energetically possible to form three-member rings in amorphous sp$^{3}$ carbon structures."
 }

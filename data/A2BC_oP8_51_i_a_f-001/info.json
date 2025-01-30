@@ -1,9 +1,19 @@
 {
     "uid": "DRSV",
+    "label": "A2BC_oP8_51_i_a_f-001",
+    "alias": "A2BC_oP8_51_i_a_f-001",
+    "title": "$\\alpha$-UB$_{2}$C Structure",
+    "icsd": "69767",
+    "ccdc": null,
     "prototype": "BCU2",
     "prototype_tex": "BCU$_{2}$",
-    "label": "A2BC_oP8_51_i_a_f-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP8",
+    "space_group_number": 51,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -19,17 +29,8 @@
         0.9018,
         0.6602
     ],
-    "strukturbericht": null,
-    "title": "$\\alpha$-UB$_{2}$C Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC_oP8_51_i_a_f-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oP8",
-    "space_group_number": 51,
-    "comments": "This is the ground state of UB$_{2}$C, stable up to 1675$^\\circ$C.  Above that temperature it transforms to rhombohedral $\\beta$-UB$_{2}$C with the \\href{current_web_home_dir/A2BC_hR12_166_g_d_ac-001}{ThB$_{2}$C structure}. (Rogl, 1991) \n We use the data taken at 29K. \n The origin has been shifted to put the carbon atoms on the (2a) site.",
+    "legacy": false,
     "notes": "$\\alpha$-UB$_{2}$C",
-    "ccdc": null,
-    "icsd": "69767"
+    "comments": "This is the ground state of UB$_{2}$C, stable up to 1675$^\\circ$C.  Above that temperature it transforms to rhombohedral $\\beta$-UB$_{2}$C with the \\href{current_web_home_dir/A2BC_hR12_166_g_d_ac-001}{ThB$_{2}$C structure}. (Rogl, 1991) \n We use the data taken at 29K. \n The origin has been shifted to put the carbon atoms on the (2a) site."
 }

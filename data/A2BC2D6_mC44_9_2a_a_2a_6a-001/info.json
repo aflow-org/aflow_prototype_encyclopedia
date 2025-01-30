@@ -1,9 +1,19 @@
 {
     "uid": "G59D",
+    "label": "A2BC2D6_mC44_9_2a_a_2a_6a-001",
+    "alias": "A2BC2D6_mC44_9_2a_a_2a_6a-001",
+    "title": "CuInP$_{2}$S$_{6}$ Structure",
+    "icsd": "79291",
+    "ccdc": null,
     "prototype": "CuInP2S6",
     "prototype_tex": "CuInP$_{2}$S$_{6}$",
-    "label": "A2BC2D6_mC44_9_2a_a_2a_6a-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "mC44",
+    "space_group_number": 9,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -81,17 +91,8 @@
         -0.0057,
         0.6379
     ],
-    "strukturbericht": null,
-    "title": "CuInP$_{2}$S$_{6}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC2D6_mC44_9_2a_a_2a_6a-001",
-    "number_of_species": 4,
-    "pearson_symbol": "mC44",
-    "space_group_number": 9,
-    "comments": "The sites we designated as Cu-I are filled 87.5\\% of the time, while the Cu-II sites are only 10\\% filled.  The copper atoms on the two sites have opposite spins.  There may be a small density of copper atoms between the layers. \n Space group $Cc$ \\#9 does not specify the origin of the $x$- or $z$-axes.  Here we fix the $x$ and $z$ coordinates of the iridium atom, $x_{3} = 0$, $z_{3} = 1/4$.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "79291"
+    "comments": "The sites we designated as Cu-I are filled 87.5\\% of the time, while the Cu-II sites are only 10\\% filled.  The copper atoms on the two sites have opposite spins.  There may be a small density of copper atoms between the layers. \n Space group $Cc$ \\#9 does not specify the origin of the $x$- or $z$-axes.  Here we fix the $x$ and $z$ coordinates of the iridium atom, $x_{3} = 0$, $z_{3} = 1/4$."
 }

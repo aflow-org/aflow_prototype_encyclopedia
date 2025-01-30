@@ -1,9 +1,19 @@
 {
     "uid": "VJB1",
+    "label": "A2B7CD2_tP48_136_j_2efhj_g_j-001",
+    "alias": "A2B7CD2_tP48_136_j_2efhj_g_j-001",
+    "title": "SrTb$_{2}$Fe$_{2}$O$_{7}$ Structure",
+    "icsd": "19038",
+    "ccdc": null,
     "prototype": "Fe2O7SrTb2",
     "prototype_tex": "Fe$_{2}$O$_{7}$SrTb$_{2}$",
-    "label": "A2B7CD2_tP48_136_j_2efhj_g_j-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "tP48",
+    "space_group_number": 136,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -33,17 +43,8 @@
         0.276,
         0.6823
     ],
-    "strukturbericht": null,
-    "title": "SrTb$_{2}$Fe$_{2}$O$_{7}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B7CD2_tP48_136_j_2efhj_g_j-001",
-    "number_of_species": 4,
-    "pearson_symbol": "tP48",
-    "space_group_number": 136,
-    "comments": "AFLOW shifts the origin by 1/2 c $\\hat{z}$. This moves the O III atoms from the (4g) Wyckoff position to the (4f) position, and the Sr I atoms from (4g) to (4f).",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "19038"
+    "comments": "AFLOW shifts the origin by 1/2 c $\\hat{z}$. This moves the O III atoms from the (4g) Wyckoff position to the (4f) position, and the Sr I atoms from (4g) to (4f)."
 }

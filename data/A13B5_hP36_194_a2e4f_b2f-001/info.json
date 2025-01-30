@@ -1,9 +1,19 @@
 {
     "uid": "G1KV",
+    "label": "A13B5_hP36_194_a2e4f_b2f-001",
+    "alias": "A13B5_hP36_194_a2e4f_b2f-001",
+    "title": "Na$_{13}$Pb$_{5}$ ($\\gamma$-NaPb) Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "Na13Pb5",
     "prototype_tex": "Na$_{13}$Pb$_{5}$",
-    "label": "A13B5_hP36_194_a2e4f_b2f-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP36",
+    "space_group_number": 194,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -27,17 +37,8 @@
         0.05,
         0.13
     ],
-    "strukturbericht": null,
-    "title": "Na$_{13}$Pb$_{5}$ ($\\gamma$-NaPb) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A13B5_hP36_194_a2e4f_b2f-001",
-    "number_of_species": 2,
-    "pearson_symbol": "hP36",
-    "space_group_number": 194,
-    "comments": "(Weston, 1957) determined the space group, lattice constants, and positions of the lead atoms in Na$_{13}$Pb$_{5}$, but were unable to place the sodium atoms.  Using the First-Principles Assisted Structure Solution (FPASS) method, (Ward, 2015) determined a set of positions for the sodium atoms consistent with the available experimental data.  To our knowledge no further experimental study of Na$_{13}$Pb$_{5}$ has taken place. \n There is no ICSD entry for this structure, but (Ward, 2015) provide the CIF for this structure in their supplementary material.",
+    "legacy": false,
     "notes": "$\\gamma$-NaPb",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "(Weston, 1957) determined the space group, lattice constants, and positions of the lead atoms in Na$_{13}$Pb$_{5}$, but were unable to place the sodium atoms.  Using the First-Principles Assisted Structure Solution (FPASS) method, (Ward, 2015) determined a set of positions for the sodium atoms consistent with the available experimental data.  To our knowledge no further experimental study of Na$_{13}$Pb$_{5}$ has taken place. \n There is no ICSD entry for this structure, but (Ward, 2015) provide the CIF for this structure in their supplementary material."
 }

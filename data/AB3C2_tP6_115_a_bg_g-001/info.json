@@ -1,9 +1,19 @@
 {
     "uid": "NQAB",
+    "label": "AB3C2_tP6_115_a_bg_g-001",
+    "alias": "AB3C2_tP6_115_a_bg_g-001",
+    "title": "Zr$_{2}$CuSb$_{3}$ Structure",
+    "icsd": "93242",
+    "ccdc": null,
     "prototype": "CuSb3Zr2",
     "prototype_tex": "CuSb$_{3}$Zr$_{2}$",
-    "label": "AB3C2_tP6_115_a_bg_g-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP6",
+    "space_group_number": 115,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -15,17 +25,8 @@
         0.3835,
         0.7315
     ],
-    "strukturbericht": null,
-    "title": "Zr$_{2}$CuSb$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB3C2_tP6_115_a_bg_g-001",
-    "number_of_species": 3,
-    "pearson_symbol": "tP6",
-    "space_group_number": 115,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "93242"
+    "comments": null
 }

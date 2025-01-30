@@ -1,9 +1,19 @@
 {
     "uid": "0T4U",
+    "label": "ABC_hP9_189_f_bc_g-003",
+    "alias": "ABC_hP9_189_g_ad_f",
+    "title": "ZrNiAl Structure",
+    "icsd": "152131",
+    "ccdc": null,
     "prototype": "AlNiZr",
     "prototype_tex": "AlNiZr",
-    "label": "ABC_hP9_189_f_bc_g-003",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP9",
+    "space_group_number": 189,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -15,17 +25,8 @@
         0.59354,
         0.2491
     ],
-    "strukturbericht": null,
-    "title": "ZrNiAl Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC_hP9_189_g_ad_f",
-    "number_of_species": 3,
-    "pearson_symbol": "hP9",
-    "space_group_number": 189,
-    "comments": "This a the ternary form of \\href{current_web_home_dir/A2B_hP9_189_fg_ad-001}{Barringerite (Fe$_{2}$P)}.  While (Shved, 2019) placed the nickel atoms on the (1a) and (2d) sites, as in Fe$_{2}$P, we have shifted to origin by $\\frac12 c \\hat{z}$ to place them on the (1b) and (2c) sites.  Otherwise the structures are nearly identical. \n When the atomic species on the (1b) and (2c) sites are different we have the quaternary version of this structure, \\href{current_web_home_dir/A2B3CD3_hP9_189_c_f_b_g-001}{Tb$_{3}$Mn$_{3}$Ga$_{2}$Si}. \n (Shved, 2019) found evidence of 6-10\\% mixing between the Ni-II (2d) and Al (3g) sites. \n (Shved, 2019) has no entry in the ICSD, so we reference the ZrNiAl entry from (Zumdick, 1999).",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "152131"
+    "comments": "This a the ternary form of \\href{current_web_home_dir/A2B_hP9_189_fg_ad-001}{Barringerite (Fe$_{2}$P)}.  While (Shved, 2019) placed the nickel atoms on the (1a) and (2d) sites, as in Fe$_{2}$P, we have shifted to origin by $\\frac12 c \\hat{z}$ to place them on the (1b) and (2c) sites.  Otherwise the structures are nearly identical. \n When the atomic species on the (1b) and (2c) sites are different we have the quaternary version of this structure, \\href{current_web_home_dir/A2B3CD3_hP9_189_c_f_b_g-001}{Tb$_{3}$Mn$_{3}$Ga$_{2}$Si}. \n (Shved, 2019) found evidence of 6-10\\% mixing between the Ni-II (2d) and Al (3g) sites. \n (Shved, 2019) has no entry in the ICSD, so we reference the ZrNiAl entry from (Zumdick, 1999)."
 }

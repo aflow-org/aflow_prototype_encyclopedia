@@ -1,9 +1,19 @@
 {
     "uid": "NNGZ",
+    "label": "A2B2CD10E22F8_tP90_75_d_d_ab_5d_11d_4d-001",
+    "alias": "A2B2CD10E22F8_tP90_75_d_d_ab_5d_11d_4d-001",
+    "title": "Li$_{3}$[AlP$_{2}$O$_{7}$F(OH)](H$_{2}$O)$_{0.5}$ Structure",
+    "icsd": null,
+    "ccdc": "2386067",
     "prototype": "Al2F2(H2O)Li6O16P4",
     "prototype_tex": "Al$_{2}$F$_{2}$(H$_{2}$O)Li$_{6}$O$_{16}$P$_{4}$",
-    "label": "A2B2CD10E22F8_tP90_75_d_d_ab_5d_11d_4d-001",
-    "parameter_symbol": [
+    "number_of_species": 6,
+    "pearson_symbol": "tP90",
+    "space_group_number": 75,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -147,17 +157,8 @@
         0.2758,
         0.996
     ],
-    "strukturbericht": null,
-    "title": "Li$_{3}$[AlP$_{2}$O$_{7}$F(OH)](H$_{2}$O)$_{0.5}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B2CD10E22F8_tP90_75_d_d_ab_5d_11d_4d-001",
-    "number_of_species": 6,
-    "pearson_symbol": "tP90",
-    "space_group_number": 75,
-    "ccdc": "2386067",
-    "comments": "This structure should be named Li$_{6}$[AlP$_{2}$O$_{7}$F(OH)]$_{2}$(H$_{2}$O), but we respect the labeling used by (Hao, 2024). \n The positions of the hydrogen atoms in the water molecules are not located.  Since fixing those positions necessarily destroys the $P4$ symmetry it is likely that the molecules are freely rotating. We have labeled these sites as H2O in the aflow.cif file, and they are represented by hydrogen atoms on this page. \n The OH radicals are not labeled.  It is possible that the hydrogens attach to random oxygen atoms.  In any case we follow (Hao, 2024) and ignore these hydrogen atoms. \n The O VIII through O XI sites are partially occupied, at 37.5\\% for the first two and 12.5\\% for the second pair.  Similarly, the P I and P III sites are 60\\% occupied and the P II and P IV sites are 40\\% filled. The P I/P II and P III/P IV distances are very small, so only one of each pair is filled in any unit cell. \n Finally, space group $P4$ \\#75 is polar and allows an arbitary placement of the origin of the z-axis.  We used this to move the first water molecule on the (1a) site to the origin to provide structural clarity.",
+    "legacy": false,
     "notes": null,
-    "icsd": null
+    "comments": "This structure should be named Li$_{6}$[AlP$_{2}$O$_{7}$F(OH)]$_{2}$(H$_{2}$O), but we respect the labeling used by (Hao, 2024). \n The positions of the hydrogen atoms in the water molecules are not located.  Since fixing those positions necessarily destroys the $P4$ symmetry it is likely that the molecules are freely rotating. We have labeled these sites as H2O in the aflow.cif file, and they are represented by hydrogen atoms on this page. \n The OH radicals are not labeled.  It is possible that the hydrogens attach to random oxygen atoms.  In any case we follow (Hao, 2024) and ignore these hydrogen atoms. \n The O VIII through O XI sites are partially occupied, at 37.5\\% for the first two and 12.5\\% for the second pair.  Similarly, the P I and P III sites are 60\\% occupied and the P II and P IV sites are 40\\% filled. The P I/P II and P III/P IV distances are very small, so only one of each pair is filled in any unit cell. \n Finally, space group $P4$ \\#75 is polar and allows an arbitary placement of the origin of the z-axis.  We used this to move the first water molecule on the (1a) site to the origin to provide structural clarity."
 }

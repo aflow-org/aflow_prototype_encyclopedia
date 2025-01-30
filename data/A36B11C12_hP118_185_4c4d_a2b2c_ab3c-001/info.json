@@ -1,9 +1,19 @@
 {
     "uid": "AL94",
+    "label": "A36B11C12_hP118_185_4c4d_a2b2c_ab3c-001",
+    "alias": "A36B11C12_hP118_185_4c4d_a2b2c_ab3c-001",
+    "title": "Sr$_{8}$Os$_{6.3}$O$_{24}$ Structure",
+    "icsd": "112868",
+    "ccdc": null,
     "prototype": "O24Os6.3Sr8",
     "prototype_tex": "O$_{24}$Os$_{6.3}$Sr$_{8}$",
-    "label": "A36B11C12_hP118_185_4c4d_a2b2c_ab3c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP118",
+    "space_group_number": 185,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -81,17 +91,8 @@
         0.512,
         0.3904
     ],
-    "strukturbericht": null,
-    "title": "Sr$_{8}$Os$_{6.3}$O$_{24}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A36B11C12_hP118_185_4c4d_a2b2c_ab3c-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hP118",
-    "space_group_number": 185,
-    "comments": "The first osmium (4b) site (Os-II) has an occupancy of 93.1\\%, while the next (4b) site (Os-III) has 27.9\\% occupancy. \n Space group $P6_{3}cm$ does not specify the origin of the $z$ axis, we follow (Thakur, 2021) and set $z_{2} = 0$ for the Sr-I atom.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "112868"
+    "comments": "The first osmium (4b) site (Os-II) has an occupancy of 93.1\\%, while the next (4b) site (Os-III) has 27.9\\% occupancy. \n Space group $P6_{3}cm$ does not specify the origin of the $z$ axis, we follow (Thakur, 2021) and set $z_{2} = 0$ for the Sr-I atom."
 }

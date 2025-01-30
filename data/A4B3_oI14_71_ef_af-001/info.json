@@ -1,9 +1,19 @@
 {
     "uid": "3XYE",
+    "label": "A4B3_oI14_71_ef_af-001",
+    "alias": "A4B3_oI14_71_gh_cg",
+    "title": "Ta$_{3}$B$_{4}$ ($D7_{b}$) Structure",
+    "icsd": "44589",
+    "ccdc": null,
     "prototype": "B4Ta3",
     "prototype_tex": "B$_{4}$Ta$_{3}$",
-    "label": "A4B3_oI14_71_ef_af-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oI14",
+    "space_group_number": 71,
+    "strukturbericht": "D7_b",
+    "strukturbericht_tex": "$D7_{b}$",
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -19,18 +29,8 @@
         0.375,
         0.18
     ],
-    "strukturbericht": "D7_b",
-    "title": "Ta$_{3}$B$_{4}$ ($D7_{b}$) Structure",
-    "part": 2,
-    "legacy": false,
-    "strukturbericht_tex": "$D7_{b}$",
     "compounds": {},
-    "alias": "A4B3_oI14_71_gh_cg",
-    "number_of_species": 2,
-    "pearson_symbol": "oI14",
-    "space_group_number": 71,
+    "legacy": false,
     "notes": "$D7_{b}$",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "44589"
+    "comments": null
 }

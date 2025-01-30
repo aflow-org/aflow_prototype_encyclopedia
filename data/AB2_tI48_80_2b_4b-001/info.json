@@ -1,9 +1,19 @@
 {
     "uid": "2XGR",
+    "label": "AB2_tI48_80_2b_4b-001",
+    "alias": "AB2_tI48_80_2b_4b",
+    "title": "$\\beta$-NbO$_{2}$ Structure",
+    "icsd": "35181",
+    "ccdc": null,
     "prototype": "NbO2",
     "prototype_tex": "NbO$_{2}$",
-    "label": "AB2_tI48_80_2b_4b-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tI48",
+    "space_group_number": 80,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -47,17 +57,8 @@
         0.1038,
         0.2484
     ],
-    "strukturbericht": null,
-    "title": "$\\beta$-NbO$_{2}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2_tI48_80_2b_4b",
-    "number_of_species": 2,
-    "pearson_symbol": "tI48",
-    "space_group_number": 80,
-    "comments": "The actual composition is Nb$_{2-x}$O$_{2}$, with $0.002 < x < 0.1$. \n NbO$_{2}$ can also be found in the \\href{current_web_home_dir/AB2_tI96_88_2f_4f-001}{$\\alpha$-NbO$_{2}$} structure.",
+    "legacy": false,
     "notes": "$\\beta$-NbO$_{2}$",
-    "ccdc": null,
-    "icsd": "35181"
+    "comments": "The actual composition is Nb$_{2-x}$O$_{2}$, with $0.002 < x < 0.1$. \n NbO$_{2}$ can also be found in the \\href{current_web_home_dir/AB2_tI96_88_2f_4f-001}{$\\alpha$-NbO$_{2}$} structure."
 }

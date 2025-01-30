@@ -1,9 +1,19 @@
 {
     "uid": "QVKJ",
+    "label": "AB4C_oP24_62_a_2cd_c-001",
+    "alias": "AB4C_oP24_62_a_2cd_c",
+    "title": "Chalcocyanite (CuSO$_{4}$) Structure",
+    "icsd": "71017",
+    "ccdc": null,
     "prototype": "CuO4S",
     "prototype_tex": "CuO$_{4}$S",
-    "label": "AB4C_oP24_62_a_2cd_c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP24",
+    "space_group_number": 62,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -31,17 +41,8 @@
         0.0674,
         0.3083
     ],
-    "strukturbericht": null,
-    "title": "Chalcocyanite (CuSO$_{4}$) Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB4C_oP24_62_a_2cd_c",
-    "number_of_species": 3,
-    "pearson_symbol": "oP24",
-    "space_group_number": 62,
+    "legacy": false,
     "notes": "Chalcocyanite",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "71017"
+    "comments": null
 }

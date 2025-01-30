@@ -1,9 +1,19 @@
 {
     "uid": "K216",
+    "label": "A2B3C6D_hP12_164_d_e_i_a-001",
+    "alias": "A2B3C6D_hP12_164_d_e_i_a-001",
+    "title": "Kapellasite (Cu$_{3}$Zn(OH)$_{6}$Cl$_{2}$) Structure",
+    "icsd": "157870",
+    "ccdc": null,
     "prototype": "Cl2Cu3(OH)6Zn",
     "prototype_tex": "Cl$_{2}$Cu$_{3}$(OH)$_{6}$Zn",
-    "label": "A2B3C6D_hP12_164_d_e_i_a-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "hP12",
+    "space_group_number": 164,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -17,17 +27,8 @@
         0.1772,
         0.1546
     ],
-    "strukturbericht": null,
-    "title": "Kapellasite (Cu$_{3}$Zn(OH)$_{6}$Cl$_{2}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B3C6D_hP12_164_d_e_i_a-001",
-    "number_of_species": 4,
-    "pearson_symbol": "hP12",
-    "space_group_number": 164,
-    "comments": "Approximately 3\\% of the OH radicals are replace by chlorine atoms.  We use ``O'' to represent all the OH/Cl sites. \n (Krause, 2006) placed the zinc atom at the (1b) Wyckoff position, (0 0 1/2).  We shifted the origin of the structure so that the zinc atom is at the (1a) Wyckoff site.",
+    "legacy": false,
     "notes": "Kapellasite",
-    "ccdc": null,
-    "icsd": "157870"
+    "comments": "Approximately 3\\% of the OH radicals are replace by chlorine atoms.  We use ``O'' to represent all the OH/Cl sites. \n (Krause, 2006) placed the zinc atom at the (1b) Wyckoff position, (0 0 1/2).  We shifted the origin of the structure so that the zinc atom is at the (1a) Wyckoff site."
 }

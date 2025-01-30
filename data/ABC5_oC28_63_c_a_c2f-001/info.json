@@ -1,9 +1,19 @@
 {
     "uid": "BN2Z",
+    "label": "ABC5_oC28_63_c_a_c2f-001",
+    "alias": "ABC5_oC28_63_c_a_c2f-001",
+    "title": "NbNiTe$_{5}$ Structure",
+    "icsd": "73316",
+    "ccdc": null,
     "prototype": "NbNiTe5",
     "prototype_tex": "NbNiTe$_{5}$",
-    "label": "ABC5_oC28_63_c_a_c2f-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oC28",
+    "space_group_number": 63,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -25,17 +35,8 @@
         0.607868,
         0.575246
     ],
-    "strukturbericht": null,
-    "title": "NbNiTe$_{5}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC5_oC28_63_c_a_c2f-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oC28",
-    "space_group_number": 63,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "73316"
+    "comments": null
 }

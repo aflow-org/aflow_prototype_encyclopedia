@@ -1,9 +1,19 @@
 {
     "uid": "LPH7",
+    "label": "A6B5_mC44_15_ae2f_e2f-001",
+    "alias": "A6B5_mC44_15_ae2f_e2f-001",
+    "title": "$\\eta$'-Cu$_{6}$Sn$_{5}$ Structure",
+    "icsd": "106530",
+    "ccdc": null,
     "prototype": "Cu6Sn5",
     "prototype_tex": "Cu$_{6}$Sn$_{5}$",
-    "label": "A6B5_mC44_15_ae2f_e2f-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC44",
+    "space_group_number": 15,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -43,17 +53,8 @@
         0.15499,
         0.64208
     ],
-    "strukturbericht": null,
-    "title": "$\\eta$'-Cu$_{6}$Sn$_{5}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A6B5_mC44_15_ae2f_e2f-001",
-    "number_of_species": 2,
-    "pearson_symbol": "mC44",
-    "space_group_number": 15,
-    "comments": "This is designated as the $\\eta'$ phase in the Cu-Sn system. (Massalski, 1990)",
+    "legacy": false,
     "notes": "$\\eta$'-Cu$_{6}$Sn$_{5}$",
-    "ccdc": null,
-    "icsd": "106530"
+    "comments": "This is designated as the $\\eta'$ phase in the Cu-Sn system. (Massalski, 1990)"
 }

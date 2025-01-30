@@ -1,9 +1,19 @@
 {
     "uid": "2PDY",
+    "label": "AB3C2_tP12_136_a_bd_f-001",
+    "alias": "AB3C2_tP12_136_a_bd_f-001",
+    "title": "$\\alpha$-Li$_{3}$BN$_{2}$ Structure",
+    "icsd": "655673",
+    "ccdc": null,
     "prototype": "BLi3N2",
     "prototype_tex": "BLi$_{3}$N$_{2}$",
-    "label": "AB3C2_tP12_136_a_bd_f-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP12",
+    "space_group_number": 136,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x4"
@@ -13,17 +23,8 @@
         1.13259,
         0.7962
     ],
-    "strukturbericht": null,
-    "title": "$\\alpha$-Li$_{3}$BN$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB3C2_tP12_136_a_bd_f-001",
-    "number_of_species": 3,
-    "pearson_symbol": "tP12",
-    "space_group_number": 136,
-    "comments": "(Yamane, 1987) find a phase transition from $\\alpha$- to $\\beta$-Li$_{3}$BN$_{2}$ at 1135K.  The $\\beta$-Li$_{3}$BN$_{2}$ phase has space group $P2_{1}/c$ \\#14 and four formula units in a monoclinic cell, compared to two units in the $\\alpha$- phase, but they did not describe the atomic positions for $\\beta$-Li$_{3}$BN$_{2}$. \n (Yamane, 1987) put this in space group $P4_{2}2_{1}2$ \\#94, but the positions of the lithium atoms are such that there is an inversion cite, placing the system in space group $P4_{2}/mnm$ \\#136. (Cenzual, 1991)",
+    "legacy": false,
     "notes": "$\\alpha$-Li$_{3}$BN$_{2}$",
-    "ccdc": null,
-    "icsd": "655673"
+    "comments": "(Yamane, 1987) find a phase transition from $\\alpha$- to $\\beta$-Li$_{3}$BN$_{2}$ at 1135K.  The $\\beta$-Li$_{3}$BN$_{2}$ phase has space group $P2_{1}/c$ \\#14 and four formula units in a monoclinic cell, compared to two units in the $\\alpha$- phase, but they did not describe the atomic positions for $\\beta$-Li$_{3}$BN$_{2}$. \n (Yamane, 1987) put this in space group $P4_{2}2_{1}2$ \\#94, but the positions of the lithium atoms are such that there is an inversion cite, placing the system in space group $P4_{2}/mnm$ \\#136. (Cenzual, 1991)"
 }

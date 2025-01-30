@@ -1,9 +1,19 @@
 {
     "uid": "U8YR",
+    "label": "A13B4_mC102_12_ah8i5j_4ij-001",
+    "alias": "A13B4_mC102_12_dg8i5j_4ij",
+    "title": "Al$_{13}$Fe$_{4}$ Structure",
+    "icsd": "57795",
+    "ccdc": null,
     "prototype": "Al13Fe4",
     "prototype_tex": "Al$_{13}$Fe$_{4}$",
-    "label": "A13B4_mC102_12_ah8i5j_4ij-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC102",
+    "space_group_number": 12,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -101,17 +111,8 @@
         0.785,
         0.223
     ],
-    "strukturbericht": null,
-    "title": "Al$_{13}$Fe$_{4}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A13B4_mC102_12_dg8i5j_4ij",
-    "number_of_species": 2,
-    "pearson_symbol": "mC102",
-    "space_group_number": 12,
-    "comments": "The Al-IV site is only occupied 70\\% of the time.  This makes the stoichiometry Al$_{12.8}$Fe$_{4}$, which (Black, 1955ab) rounds to Al$_{13}$Fe$_{4}$.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "57795"
+    "comments": "The Al-IV site is only occupied 70\\% of the time.  This makes the stoichiometry Al$_{12.8}$Fe$_{4}$, which (Black, 1955ab) rounds to Al$_{13}$Fe$_{4}$."
 }

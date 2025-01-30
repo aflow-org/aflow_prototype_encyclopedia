@@ -1,9 +1,19 @@
 {
     "uid": "6529",
+    "label": "A3B4C_oP32_57_c2d_4d_a-001",
+    "alias": "A3B4C_oP32_57_c2d_4d_a-001",
+    "title": "Ca$_{4}$Al$_{3}$Mg Structure",
+    "icsd": "152756",
+    "ccdc": null,
     "prototype": "Al3Ca4Mg",
     "prototype_tex": "Al$_{3}$Ca$_{4}$Mg",
-    "label": "A3B4C_oP32_57_c2d_4d_a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP32",
+    "space_group_number": 57,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -39,17 +49,8 @@
         0.4999,
         0.9553
     ],
-    "strukturbericht": null,
-    "title": "Ca$_{4}$Al$_{3}$Mg Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B4C_oP32_57_c2d_4d_a-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oP32",
-    "space_group_number": 57,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "152756"
+    "comments": null
 }

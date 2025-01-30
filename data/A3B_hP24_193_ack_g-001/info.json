@@ -1,9 +1,19 @@
 {
     "uid": "JJ07",
+    "label": "A3B_hP24_193_ack_g-001",
+    "alias": "A3B_hP24_193_ack_g",
+    "title": "$D0_{6}$ (Tysonite, LaF$_{3}$) Structure ({\\em Obsolete})",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "F3La",
     "prototype_tex": "F$_{3}$La",
-    "label": "A3B_hP24_193_ack_g-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP24",
+    "space_group_number": 193,
+    "strukturbericht": "D0_6",
+    "strukturbericht_tex": "$D0_{6}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -17,18 +27,8 @@
         0.33333,
         0.075
     ],
-    "strukturbericht": "D0_6",
-    "title": "$D0_{6}$ (Tysonite, LaF$_{3}$) Structure ({\\em Obsolete})",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$D0_{6}$",
     "compounds": {},
-    "alias": "A3B_hP24_193_ack_g",
-    "number_of_species": 2,
-    "pearson_symbol": "hP24",
-    "space_group_number": 193,
-    "comments": "This stucture was one of several considered by (Hermann, 1937) as a candidate structure for tysonite, and was chosen because it gave the best positioning of the fluorine atoms. Later, (Zalkin, 1985) showed that the structure was trigonal rather than hexagonal, and isostructural with \\href{current_web_home_dir/A3B_hP24_165_bdg_f-001}{Cu$_{3}$P ($D0_{21}$)}.  We keep the original structure as part of the historical record.",
+    "legacy": false,
     "notes": "$D0_{6}$, Tysonite",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "This stucture was one of several considered by (Hermann, 1937) as a candidate structure for tysonite, and was chosen because it gave the best positioning of the fluorine atoms. Later, (Zalkin, 1985) showed that the structure was trigonal rather than hexagonal, and isostructural with \\href{current_web_home_dir/A3B_hP24_165_bdg_f-001}{Cu$_{3}$P ($D0_{21}$)}.  We keep the original structure as part of the historical record."
 }

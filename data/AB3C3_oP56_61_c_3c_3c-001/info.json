@@ -1,9 +1,19 @@
 {
     "uid": "233Q",
+    "label": "AB3C3_oP56_61_c_3c_3c-001",
+    "alias": "AB3C3_oP56_61_c_3c_3c-001",
+    "title": "Tl$_{3}$AsS$_{3}$ Structure",
+    "icsd": "79580",
+    "ccdc": null,
     "prototype": "AsS3Tl3",
     "prototype_tex": "AsS$_{3}$Tl$_{3}$",
-    "label": "AB3C3_oP56_61_c_3c_3c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP56",
+    "space_group_number": 61,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -55,17 +65,8 @@
         0.4305,
         0.6917
     ],
-    "strukturbericht": null,
-    "title": "Tl$_{3}$AsS$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB3C3_oP56_61_c_3c_3c-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oP56",
-    "space_group_number": 61,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "79580"
+    "comments": null
 }

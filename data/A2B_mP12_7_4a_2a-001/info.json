@@ -1,9 +1,19 @@
 {
     "uid": "UVJS",
+    "label": "A2B_mP12_7_4a_2a-001",
+    "alias": "A2B_mP12_7_4a_2a",
+    "title": "H$_{2}$S IV Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "H2S",
     "prototype_tex": "H$_{2}$S",
-    "label": "A2B_mP12_7_4a_2a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mP12",
+    "space_group_number": 7,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -51,17 +61,8 @@
         0.649,
         0.342
     ],
-    "strukturbericht": null,
-    "title": "H$_{2}$S IV Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B_mP12_7_4a_2a",
-    "number_of_species": 2,
-    "pearson_symbol": "mP12",
-    "space_group_number": 7,
-    "comments": "The H$_{2}$S-IV phase is stable at pressures greater than 5 GPa and temperatures below 150 K, and is stable at higher pressures for higher temperatures. (Shimizu, 1995) determined the phase diagram. Endo {\\em et al}. (Endo, 1998) found the crystal structure at 11.4 GPa, but could not determine the positions of the hydrogen atoms. \n Here we use the predicted structure from (Li, 2014) at 30 GPa.",
+    "legacy": false,
     "notes": "H$_{2}$S IV",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "The H$_{2}$S-IV phase is stable at pressures greater than 5 GPa and temperatures below 150 K, and is stable at higher pressures for higher temperatures. (Shimizu, 1995) determined the phase diagram. Endo {\\em et al}. (Endo, 1998) found the crystal structure at 11.4 GPa, but could not determine the positions of the hydrogen atoms. \n Here we use the predicted structure from (Li, 2014) at 30 GPa."
 }

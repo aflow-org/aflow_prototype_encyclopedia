@@ -1,9 +1,19 @@
 {
     "uid": "PC4V",
+    "label": "A9B3C18D_hP62_176_hi_af_2h2i_b-001",
+    "alias": "A9B3C18D_hP62_176_hi_af_2h2i_b-001",
+    "title": "YBa$_{3}$B$_{9}$O$_{18}$ Structure",
+    "icsd": "170217",
+    "ccdc": null,
     "prototype": "B9Ba3O18Y",
     "prototype_tex": "B$_{9}$Ba$_{3}$O$_{18}$Y",
-    "label": "A9B3C18D_hP62_176_hi_af_2h2i_b-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "hP62",
+    "space_group_number": 176,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -43,17 +53,8 @@
         0.7539,
         0.0818
     ],
-    "strukturbericht": null,
-    "title": "YBa$_{3}$B$_{9}$O$_{18}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A9B3C18D_hP62_176_hi_af_2h2i_b-001",
-    "number_of_species": 4,
-    "pearson_symbol": "hP62",
-    "space_group_number": 176,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "170217"
+    "comments": null
 }

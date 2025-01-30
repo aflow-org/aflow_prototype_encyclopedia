@@ -1,9 +1,19 @@
 {
     "uid": "VQRT",
+    "label": "A18B5C6_tP58_136_f4i_afg_gi-001",
+    "alias": "A18B5C6_tP58_136_f4i_afg_gi-001",
+    "title": "Rh$_{6}$Mn$_{5}$Bi$_{18}$ Structure",
+    "icsd": "130687",
+    "ccdc": null,
     "prototype": "Bi18Mn5Rh6",
     "prototype_tex": "Bi$_{18}$Mn$_{5}$Rh$_{6}$",
-    "label": "A18B5C6_tP58_136_f4i_afg_gi-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP58",
+    "space_group_number": 136,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -39,17 +49,8 @@
         0.18578,
         0.32333
     ],
-    "strukturbericht": null,
-    "title": "Rh$_{6}$Mn$_{5}$Bi$_{18}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A18B5C6_tP58_136_f4i_afg_gi-001",
-    "number_of_species": 3,
-    "pearson_symbol": "tP58",
-    "space_group_number": 136,
-    "comments": "AFLOW rotates the system by 180$^\\circ$ about the x-axis, so that (x y z) $\\leftrightarrow$ (x -y -z). The practical effect is to interchange the (4f) and (4g) Wyckoff positions.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "130687"
+    "comments": "AFLOW rotates the system by 180$^\\circ$ about the x-axis, so that (x y z) $\\leftrightarrow$ (x -y -z). The practical effect is to interchange the (4f) and (4g) Wyckoff positions."
 }

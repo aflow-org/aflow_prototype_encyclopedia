@@ -1,9 +1,19 @@
 {
     "uid": "N2MR",
+    "label": "A2BC2_hP5_164_d_a_d-001",
+    "alias": "A2BC2_hP5_164_d_a_d",
+    "title": "Brucite [Mg(OH)$_{2}$] Structure",
+    "icsd": "79031",
+    "ccdc": null,
     "prototype": "H2MgO2",
     "prototype_tex": "H$_{2}$MgO$_{2}$",
-    "label": "A2BC2_hP5_164_d_a_d-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP5",
+    "space_group_number": 164,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -15,17 +25,8 @@
         0.413,
         0.2203
     ],
-    "strukturbericht": null,
-    "title": "Brucite [Mg(OH)$_{2}$] Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC2_hP5_164_d_a_d",
-    "number_of_species": 3,
-    "pearson_symbol": "hP5",
-    "space_group_number": 164,
-    "comments": "We used the data from (Catti, 1995) at ambient pressure.  In some Brucite-like materials the hydrogen atoms are displaced to the (6i) Wyckoff positions $(x,-x,z)$ of space group $P3m1$ \\#164, and these sites are 1/3 occupied.",
+    "legacy": false,
     "notes": "Brucite",
-    "ccdc": null,
-    "icsd": "79031"
+    "comments": "We used the data from (Catti, 1995) at ambient pressure.  In some Brucite-like materials the hydrogen atoms are displaced to the (6i) Wyckoff positions $(x,-x,z)$ of space group $P3m1$ \\#164, and these sites are 1/3 occupied."
 }

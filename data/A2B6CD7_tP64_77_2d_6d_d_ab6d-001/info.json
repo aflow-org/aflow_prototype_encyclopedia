@@ -1,9 +1,19 @@
 {
     "uid": "Z918",
+    "label": "A2B6CD7_tP64_77_2d_6d_d_ab6d-001",
+    "alias": "A2B6CD7_tP64_77_2d_6d_d_ab6d",
+    "title": "Pinnoite (MgB$_{2}$O[OH]$_{6}$) Structure",
+    "icsd": "20662",
+    "ccdc": null,
     "prototype": "B2H6MgO7",
     "prototype_tex": "B$_{2}$H$_{6}$MgO$_{7}$",
-    "label": "A2B6CD7_tP64_77_2d_6d_d_ab6d-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "tP64",
+    "space_group_number": 77,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -105,17 +115,8 @@
         0.1992,
         0.733
     ],
-    "strukturbericht": null,
-    "title": "Pinnoite (MgB$_{2}$O[OH]$_{6}$) Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B6CD7_tP64_77_2d_6d_d_ab6d",
-    "number_of_species": 4,
-    "pearson_symbol": "tP64",
-    "space_group_number": 77,
-    "comments": "(Genkina, 1983) state that their Wyckoff positions were to be multiplied by $10^{-4}$.  This is not the case for the $z$-coordinates and the $x$- and $y$-coordinates of the hydrogen atoms: those coordinates should be multiplied by $10^{-3}$.  This confusion led to incorrect hydrogen-oxygen distances in both our original page (Hicks, 2019) and in (Villars, 2016).  We believe the current interpretation is correct, as our Mg-O and B-O distances agree with (Genkina, 1983) and all of our O-H bonds are on the order of 1{\\AA}. The ICSD CIF also interprets the coordinates in this fashion.",
+    "legacy": false,
     "notes": "Pinnoite",
-    "ccdc": null,
-    "icsd": "20662"
+    "comments": "(Genkina, 1983) state that their Wyckoff positions were to be multiplied by $10^{-4}$.  This is not the case for the $z$-coordinates and the $x$- and $y$-coordinates of the hydrogen atoms: those coordinates should be multiplied by $10^{-3}$.  This confusion led to incorrect hydrogen-oxygen distances in both our original page (Hicks, 2019) and in (Villars, 2016).  We believe the current interpretation is correct, as our Mg-O and B-O distances agree with (Genkina, 1983) and all of our O-H bonds are on the order of 1{\\AA}. The ICSD CIF also interprets the coordinates in this fashion."
 }

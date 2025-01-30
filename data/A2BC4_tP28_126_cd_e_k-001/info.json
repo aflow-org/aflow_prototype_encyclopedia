@@ -1,9 +1,19 @@
 {
     "uid": "4WPC",
+    "label": "A2BC4_tP28_126_cd_e_k-001",
+    "alias": "A2BC4_tP28_126_cd_e_k",
+    "title": "BiAl$_{2}$S$_{4}$ Structure",
+    "icsd": "408439",
+    "ccdc": null,
     "prototype": "Al2BiS4",
     "prototype_tex": "Al$_{2}$BiS$_{4}$",
-    "label": "A2BC4_tP28_126_cd_e_k-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP28",
+    "space_group_number": 126,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -19,17 +29,8 @@
         0.5924,
         0.1254
     ],
-    "strukturbericht": null,
-    "title": "BiAl$_{2}$S$_{4}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC4_tP28_126_cd_e_k",
-    "number_of_species": 3,
-    "pearson_symbol": "tP28",
-    "space_group_number": 126,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "408439"
+    "comments": null
 }

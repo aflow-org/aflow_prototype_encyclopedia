@@ -1,9 +1,19 @@
 {
     "uid": "P3HQ",
+    "label": "ABC3_oP20_33_a_a_3a-001",
+    "alias": "ABC3_oP20_33_a_a_3a",
+    "title": "$\\gamma$-LiIO$_{3}$ Structure",
+    "icsd": "41199",
+    "ccdc": null,
     "prototype": "ILiO3",
     "prototype_tex": "ILiO$_{3}$",
-    "label": "ABC3_oP20_33_a_a_3a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP20",
+    "space_group_number": 33,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -43,17 +53,8 @@
         0.3439,
         0.8147
     ],
-    "strukturbericht": null,
-    "title": "$\\gamma$-LiIO$_{3}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC3_oP20_33_a_a_3a",
-    "number_of_species": 3,
-    "pearson_symbol": "oP20",
-    "space_group_number": 33,
-    "comments": "LiIO$_{3}$ is known to exist in three forms: \n $\\alpha$-LiIO$_{3}$, stable below 470K: \\begin{itemize} \\item (Zachariasen, 1931) originally determined that the structure of $\\alpha$-LiIO$_{3}$ was \\href{current_web_home_dir/ABC3_hP10_182_c_b_g-001}{in space group $P6_{3}22$ \\#182}, which (Hermann, 1937) designated {\\em Strukturbericht} $E2_{3}$. \\item (Rosenzweig, 1966) subsequently determined that this structure was incorrect because of the small sample size, and determined that the true structure was \\href{current_web_home_dir/ABC3_hP10_173_b_a_c-001}{in space group $P6_{3}$ \\#173}. \\end{itemize} ~ \\vspace{-.25in} \n \\href{current_web_home_dir/ABC3_tP40_86_g_g_3g-001}{$\\beta$-LiIO$_{3}$}, stable from 573K up to the melting point at 708K. \n \\href{current_web_home_dir/ABC3_oP20_33_a_a_3a-001}{$\\gamma$-LiIO$_{3}$}, stable between the $\\alpha$- and $\\beta$-phases, with an orthorhombic structure in space group $Pna2_{1}$ \\#33 (this structure). \n Space group $Pna2_{1}$ \\#33 allows an arbitary choice of the zero of the $z$-axis.  Here we set $z_{1} = 0$ for iodine.",
+    "legacy": false,
     "notes": "$\\gamma$-LiIO$_{3}$",
-    "ccdc": null,
-    "icsd": "41199"
+    "comments": "LiIO$_{3}$ is known to exist in three forms: \n $\\alpha$-LiIO$_{3}$, stable below 470K: \\begin{itemize} \\item (Zachariasen, 1931) originally determined that the structure of $\\alpha$-LiIO$_{3}$ was \\href{current_web_home_dir/ABC3_hP10_182_c_b_g-001}{in space group $P6_{3}22$ \\#182}, which (Hermann, 1937) designated {\\em Strukturbericht} $E2_{3}$. \\item (Rosenzweig, 1966) subsequently determined that this structure was incorrect because of the small sample size, and determined that the true structure was \\href{current_web_home_dir/ABC3_hP10_173_b_a_c-001}{in space group $P6_{3}$ \\#173}. \\end{itemize} ~ \\vspace{-.25in} \n \\href{current_web_home_dir/ABC3_tP40_86_g_g_3g-001}{$\\beta$-LiIO$_{3}$}, stable from 573K up to the melting point at 708K. \n \\href{current_web_home_dir/ABC3_oP20_33_a_a_3a-001}{$\\gamma$-LiIO$_{3}$}, stable between the $\\alpha$- and $\\beta$-phases, with an orthorhombic structure in space group $Pna2_{1}$ \\#33 (this structure). \n Space group $Pna2_{1}$ \\#33 allows an arbitary choice of the zero of the $z$-axis.  Here we set $z_{1} = 0$ for iodine."
 }

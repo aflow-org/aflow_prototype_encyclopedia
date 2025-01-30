@@ -1,9 +1,19 @@
 {
     "uid": "Q425",
+    "label": "AB_hP4_194_c_a-003",
+    "alias": "AB_hP4_194_c_a.Fe2N",
+    "title": "$L'3_{0}$ (approximate Fe$_{2}$N) Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "Fe2N",
     "prototype_tex": "Fe$_{2}$N",
-    "label": "AB_hP4_194_c_a-003",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP4",
+    "space_group_number": 194,
+    "strukturbericht": "L'3_0",
+    "strukturbericht_tex": "$L'3_{0}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a"
     ],
@@ -11,18 +21,8 @@
         2.767,
         1.59523
     ],
-    "strukturbericht": "L'3_0",
-    "title": "$L'3_{0}$ (approximate Fe$_{2}$N) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$L'3_{0}$",
     "compounds": {},
-    "alias": "AB_hP4_194_c_a.Fe2N",
-    "number_of_species": 2,
-    "pearson_symbol": "hP4",
-    "space_group_number": 194,
-    "comments": "The $L'3_{0}$ designation is only found in (Smithells, 1955) and (Pearson, 1958), as well as their following volumes. \n Smithells gives two possible positions of the nitrogen atoms. We use the one that matches Pearson, which (Parth\\'{e}, 1993) notes is equivalent to the \\href{current_web_home_dir/AB_hP4_194_c_a-001}{NiAs $B8_{1}$ structure}, but here the (2a) nitrogen site is only half-filled to maintain stoichiometry. \n Neither of the defining references gives a source for the structure. \n It is likely an approximation to $\\epsilon$-Fe$_{2}$N, which has the \\href{current_web_home_dir/AB2_hP9_162_ad_k-001}{$\\beta$-V$_{2}$N $L'3_{2}$ structure}. \n We take the lattice constants for this structure from the Fe-Fe distances in $\\epsilon$-Fe$_{2}$N provided by (Hendricks, 1930), though this is {\\em not} the structure described by Hendricks. \n The similar compounds list is taken from (Pearson, 1967).  As it is quite similar to the list for $\\beta$-V$_{2}$N, it is likely that this structure is only an approximation to the correct structure for these compounds as well. \n Fe$_{2}$N is also observed in the \\href{current_web_home_dir/A2B_oP12_60_d_c-001}{$\\zeta$-Fe$_{2}$N} structure. \n This structure has the same AFLOW designation, AB\\_hP4\\_194\\_c\\_a\\_Fe2N, as $B8_{1}$.  The two structures differ by their lattice constants and the half-occupancy of the (2a) site in $L'3_{0}$.",
+    "legacy": false,
     "notes": "$L'3_{0}$",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "The $L'3_{0}$ designation is only found in (Smithells, 1955) and (Pearson, 1958), as well as their following volumes. \n Smithells gives two possible positions of the nitrogen atoms. We use the one that matches Pearson, which (Parth\\'{e}, 1993) notes is equivalent to the \\href{current_web_home_dir/AB_hP4_194_c_a-001}{NiAs $B8_{1}$ structure}, but here the (2a) nitrogen site is only half-filled to maintain stoichiometry. \n Neither of the defining references gives a source for the structure. \n It is likely an approximation to $\\epsilon$-Fe$_{2}$N, which has the \\href{current_web_home_dir/AB2_hP9_162_ad_k-001}{$\\beta$-V$_{2}$N $L'3_{2}$ structure}. \n We take the lattice constants for this structure from the Fe-Fe distances in $\\epsilon$-Fe$_{2}$N provided by (Hendricks, 1930), though this is {\\em not} the structure described by Hendricks. \n The similar compounds list is taken from (Pearson, 1967).  As it is quite similar to the list for $\\beta$-V$_{2}$N, it is likely that this structure is only an approximation to the correct structure for these compounds as well. \n Fe$_{2}$N is also observed in the \\href{current_web_home_dir/A2B_oP12_60_d_c-001}{$\\zeta$-Fe$_{2}$N} structure. \n This structure has the same AFLOW designation, AB\\_hP4\\_194\\_c\\_a\\_Fe2N, as $B8_{1}$.  The two structures differ by their lattice constants and the half-occupancy of the (2a) site in $L'3_{0}$."
 }

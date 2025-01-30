@@ -1,9 +1,19 @@
 {
     "uid": "RARL",
+    "label": "A4B2C4D_mP22_14_2e_e_2e_a-001",
+    "alias": "A4B2C4D_mP22_14_2e_e_2e_a",
+    "title": "K$_{2}$Ni(CN)$_{4}$ Structure",
+    "icsd": "24099",
+    "ccdc": null,
     "prototype": "C4K2N4Ni",
     "prototype_tex": "C$_{4}$K$_{2}$N$_{4}$Ni",
-    "label": "A4B2C4D_mP22_14_2e_e_2e_a-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "mP22",
+    "space_group_number": 14,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -45,17 +55,8 @@
         0.3,
         0.673
     ],
-    "strukturbericht": null,
-    "title": "K$_{2}$Ni(CN)$_{4}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B2C4D_mP22_14_2e_e_2e_a",
-    "number_of_species": 4,
-    "pearson_symbol": "mP22",
-    "space_group_number": 14,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "24099"
+    "comments": null
 }

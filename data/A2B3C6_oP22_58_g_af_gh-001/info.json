@@ -1,9 +1,19 @@
 {
     "uid": "59YW",
+    "label": "A2B3C6_oP22_58_g_af_gh-001",
+    "alias": "A2B3C6_oP22_58_g_af_gh",
+    "title": "Kotoite (Mg$_{3}$(BO$_{3}$)$_{2}$) Structure",
+    "icsd": "24036",
+    "ccdc": null,
     "prototype": "B2Mg3O6",
     "prototype_tex": "B$_{2}$Mg$_{3}$O$_{6}$",
-    "label": "A2B3C6_oP22_58_g_af_gh-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP22",
+    "space_group_number": 58,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -29,17 +39,8 @@
         0.218,
         0.139
     ],
-    "strukturbericht": null,
-    "title": "Kotoite (Mg$_{3}$(BO$_{3}$)$_{2}$) Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B3C6_oP22_58_g_af_gh",
-    "number_of_species": 3,
-    "pearson_symbol": "oP22",
-    "space_group_number": 58,
+    "legacy": false,
     "notes": "Kotoite",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "24036"
+    "comments": null
 }

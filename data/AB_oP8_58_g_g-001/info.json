@@ -1,9 +1,19 @@
 {
     "uid": "A7M6",
+    "label": "AB_oP8_58_g_g-001",
+    "alias": "AB_oP8_58_g_g",
+    "title": "InS Structure",
+    "icsd": "15931",
+    "ccdc": null,
     "prototype": "InS",
     "prototype_tex": "InS",
-    "label": "AB_oP8_58_g_g-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP8",
+    "space_group_number": 58,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -21,17 +31,8 @@
         0.995,
         0.355
     ],
-    "strukturbericht": null,
-    "title": "InS Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_oP8_58_g_g",
-    "number_of_species": 2,
-    "pearson_symbol": "oP8",
-    "space_group_number": 58,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "15931"
+    "comments": null
 }

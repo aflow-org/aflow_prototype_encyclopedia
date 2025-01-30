@@ -1,9 +1,19 @@
 {
     "uid": "HXME",
+    "label": "AB6_mC56_15_f_6f-001",
+    "alias": "AB6_mC56_15_f_6f-001",
+    "title": "Ta$_{6}$S Structure",
+    "icsd": "16041",
+    "ccdc": null,
     "prototype": "STa6",
     "prototype_tex": "STa$_{6}$",
-    "label": "AB6_mC56_15_f_6f-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC56",
+    "space_group_number": 15,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -57,17 +67,8 @@
         0.9298,
         0.3173
     ],
-    "strukturbericht": null,
-    "title": "Ta$_{6}$S Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB6_mC56_15_f_6f-001",
-    "number_of_species": 2,
-    "pearson_symbol": "mC56",
-    "space_group_number": 15,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "16041"
+    "comments": null
 }

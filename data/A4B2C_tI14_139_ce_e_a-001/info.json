@@ -1,9 +1,19 @@
 {
     "uid": "SENW",
+    "label": "A4B2C_tI14_139_ce_e_a-001",
+    "alias": "A4B2C_tI14_139_ce_e_a",
+    "title": "K$_{2}$NiF$_{4}$ Structure",
+    "icsd": "15576",
+    "ccdc": null,
     "prototype": "F4K2Ni",
     "prototype_tex": "F$_{4}$K$_{2}$Ni",
-    "label": "A4B2C_tI14_139_ce_e_a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tI14",
+    "space_group_number": 139,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -15,17 +25,8 @@
         0.151,
         0.352
     ],
-    "strukturbericht": null,
-    "title": "K$_{2}$NiF$_{4}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B2C_tI14_139_ce_e_a",
-    "number_of_species": 3,
-    "pearson_symbol": "tI14",
-    "space_group_number": 139,
-    "comments": "This is the parent compound of the simplest layered-perovskite Ruddlesden-Popper series (Wikipedia).  The series also includes the \\href{current_web_home_dir/AB2C4_tI14_139_a_e_ce-001}{parent of the high-$T_{c}$ cuprates, (La,Ba)$_{2}$CuO$_{4}$}, but we keep that separate as it represents a new class of materials. \n \\href{current_web_home_dir/A2BC2D2_tI14_139_e_a_c_e-001}{Sr$_{2}$CuO$_{2}$Cl$_{2}$} is the quaternary form of this structure.",
+    "legacy": false,
     "notes": "Ruddlesden-Popper",
-    "ccdc": null,
-    "icsd": "15576"
+    "comments": "This is the parent compound of the simplest layered-perovskite Ruddlesden-Popper series (Wikipedia).  The series also includes the \\href{current_web_home_dir/AB2C4_tI14_139_a_e_ce-001}{parent of the high-$T_{c}$ cuprates, (La,Ba)$_{2}$CuO$_{4}$}, but we keep that separate as it represents a new class of materials. \n \\href{current_web_home_dir/A2BC2D2_tI14_139_e_a_c_e-001}{Sr$_{2}$CuO$_{2}$Cl$_{2}$} is the quaternary form of this structure."
 }

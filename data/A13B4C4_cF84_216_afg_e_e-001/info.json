@@ -1,9 +1,19 @@
 {
     "uid": "5ADG",
+    "label": "A13B4C4_cF84_216_afg_e_e-001",
+    "alias": "A13B4C4_cF84_216_afg_e_e-001",
+    "title": "Al$_{13}$Cr$_{4}$Si$_{4}$ Structure",
+    "icsd": "76116",
+    "ccdc": null,
     "prototype": "Al13Cr4Si4",
     "prototype_tex": "Al$_{13}$Cr$_{4}$Si$_{4}$",
-    "label": "A13B4C4_cF84_216_afg_e_e-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cF84",
+    "space_group_number": 216,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "x2",
         "x3",
@@ -17,17 +27,8 @@
         0.3103,
         0.56
     ],
-    "strukturbericht": null,
-    "title": "Al$_{13}$Cr$_{4}$Si$_{4}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A13B4C4_cF84_216_afg_e_e-001",
-    "number_of_species": 3,
-    "pearson_symbol": "cF84",
-    "space_group_number": 216,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "76116"
+    "comments": null
 }

@@ -1,9 +1,19 @@
 {
     "uid": "GPQH",
+    "label": "A4B2C9_hP30_165_2d_c_fg-001",
+    "alias": "A4B2C9_hP30_165_2d_c_fg-001",
+    "title": "Nb$_{2}$Mn$_{4}$O$_{9}$ Structure",
+    "icsd": "29216",
+    "ccdc": null,
     "prototype": "Mn4Nb2O9",
     "prototype_tex": "Mn$_{4}$Nb$_{2}$O$_{9}$",
-    "label": "A4B2C9_hP30_165_2d_c_fg-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP30",
+    "space_group_number": 165,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -25,17 +35,8 @@
         0.295,
         0.088
     ],
-    "strukturbericht": null,
-    "title": "Nb$_{2}$Mn$_{4}$O$_{9}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B2C9_hP30_165_2d_c_fg-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hP30",
-    "space_group_number": 165,
-    "comments": "The ICSD uses Nb$_{2}$Co$_{4}$O$_{9}$ as the prototype.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "29216"
+    "comments": "The ICSD uses Nb$_{2}$Co$_{4}$O$_{9}$ as the prototype."
 }

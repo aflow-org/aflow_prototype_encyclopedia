@@ -1,9 +1,19 @@
 {
     "uid": "D85X",
+    "label": "A2B2C_tI10_139_d_e_a-002",
+    "alias": "A2B2C_tI10_139_d_e_a.TlCo2S2",
+    "title": "TlCo$_{2}$S$_{2}$ Structure",
+    "icsd": "100438",
+    "ccdc": null,
     "prototype": "Co2S2Tl",
     "prototype_tex": "Co$_{2}$S$_{2}$Tl",
-    "label": "A2B2C_tI10_139_d_e_a-002",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tI10",
+    "space_group_number": 139,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3"
@@ -13,17 +23,8 @@
         3.46325,
         0.3474
     ],
-    "strukturbericht": null,
-    "title": "TlCo$_{2}$S$_{2}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B2C_tI10_139_d_e_a.TlCo2S2",
-    "number_of_species": 3,
-    "pearson_symbol": "tI10",
-    "space_group_number": 139,
-    "comments": "This is a ternary form of the \\href{current_web_home_dir/A4B_tI10_139_de_a-001}{$D1_{3}$ (BaAl$_{4}$) structure}.  It differs from the \\href{current_web_home_dir/A2B2C_tI10_139_d_e_a-003}{ThCr$_{2}$Si$_{2}$ structure} in that here $c/a > 3$. \n Other authors designate TlCu$_{2}$Se$_{2}$ or Cl(Li$_{0.25}$Be$_{0.75}$)$_{2}$O$_{2}$ as the prototype for this structure, but (Klepp, 1978) give complete structural information for TlCo$_{2}$S$_{2}$, so we use that as the prototype.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "100438"
+    "comments": "This is a ternary form of the \\href{current_web_home_dir/A4B_tI10_139_de_a-001}{$D1_{3}$ (BaAl$_{4}$) structure}.  It differs from the \\href{current_web_home_dir/A2B2C_tI10_139_d_e_a-003}{ThCr$_{2}$Si$_{2}$ structure} in that here $c/a > 3$. \n Other authors designate TlCu$_{2}$Se$_{2}$ or Cl(Li$_{0.25}$Be$_{0.75}$)$_{2}$O$_{2}$ as the prototype for this structure, but (Klepp, 1978) give complete structural information for TlCo$_{2}$S$_{2}$, so we use that as the prototype."
 }

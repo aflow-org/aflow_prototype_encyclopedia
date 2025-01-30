@@ -1,9 +1,19 @@
 {
     "uid": "AGLP",
+    "label": "A3B11C4_hR36_167_d_cef_be-001",
+    "alias": "A3B11C4_hR36_167_d_cef_be-001",
+    "title": "Cu$_{2}$Ta$_{4}$O$_{11}$ Structure",
+    "icsd": "194463",
+    "ccdc": null,
     "prototype": "Cu2O11Ta4",
     "prototype_tex": "Cu$_{2}$O$_{11}$Ta$_{4}$",
-    "label": "A3B11C4_hR36_167_d_cef_be-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hR36",
+    "space_group_number": 167,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -23,17 +33,8 @@
         0.277,
         0.5311
     ],
-    "strukturbericht": null,
-    "title": "Cu$_{2}$Ta$_{4}$O$_{11}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B11C4_hR36_167_d_cef_be-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hR36",
-    "space_group_number": 167,
-    "comments": "Only two-thirds of the (6d) site are filled with copper atoms.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "194463"
+    "comments": "Only two-thirds of the (6d) site are filled with copper atoms."
 }

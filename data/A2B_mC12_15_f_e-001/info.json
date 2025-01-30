@@ -1,9 +1,19 @@
 {
     "uid": "SKBR",
+    "label": "A2B_mC12_15_f_e-001",
+    "alias": "A2B_mC12_15_f_e",
+    "title": "ThC$_{2}$ (C$_{g}$) Structure",
+    "icsd": "42900",
+    "ccdc": null,
     "prototype": "C2Th",
     "prototype_tex": "C$_{2}$Th",
-    "label": "A2B_mC12_15_f_e-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC12",
+    "space_group_number": 15,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -23,17 +33,8 @@
         0.1326,
         0.946
     ],
-    "strukturbericht": null,
-    "title": "ThC$_{2}$ (C$_{g}$) Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B_mC12_15_f_e",
-    "number_of_species": 2,
-    "pearson_symbol": "mC12",
-    "space_group_number": 15,
-    "comments": "This is a metastable phase of CaC$_{2}$.  The stable room-temperature phase is in the \\href{current_web_home_dir/A2B_tI6_139_e_a-001}{$C11_{a}$ (A2B\\_tI6\\_139\\_e\\_a) structure}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "42900"
+    "comments": "This is a metastable phase of CaC$_{2}$.  The stable room-temperature phase is in the \\href{current_web_home_dir/A2B_tI6_139_e_a-001}{$C11_{a}$ (A2B\\_tI6\\_139\\_e\\_a) structure}."
 }

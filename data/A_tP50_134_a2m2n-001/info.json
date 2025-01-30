@@ -1,9 +1,19 @@
 {
     "uid": "R7N6",
+    "label": "A_tP50_134_a2m2n-001",
+    "alias": "A_tP50_134_b2m2n",
+    "title": "T-50 B ($A_{g}$) Structure",
+    "icsd": "26636",
+    "ccdc": null,
     "prototype": "B",
     "prototype_tex": "B",
-    "label": "A_tP50_134_a2m2n-001",
-    "parameter_symbol": [
+    "number_of_species": 1,
+    "pearson_symbol": "tP50",
+    "space_group_number": 134,
+    "strukturbericht": "A_g",
+    "strukturbericht_tex": "$A_{g}$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -31,18 +41,8 @@
         0.8383,
         0.1485
     ],
-    "strukturbericht": "A_g",
-    "title": "T-50 B ($A_{g}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$A_{g}$",
     "compounds": {},
-    "alias": "A_tP50_134_b2m2n",
-    "number_of_species": 1,
-    "pearson_symbol": "tP50",
-    "space_group_number": 134,
-    "comments": "This is apparently the most common form of boron. At least it is listed first in (Donohue, 1982). \n The basic building block is a slightly distorted icosahedron. This icosahedron also appears in \\href{current_web_home_dir/A_hR12_166_2h-001}{$\\alpha$-B (hR12)} and \\href{current_web_home_dir/A_hR105_166_ac9h4i-001}{$\\beta$-B (hR105)}.",
+    "legacy": false,
     "notes": "$A_{g}$",
-    "ccdc": null,
-    "icsd": "26636"
+    "comments": "This is apparently the most common form of boron. At least it is listed first in (Donohue, 1982). \n The basic building block is a slightly distorted icosahedron. This icosahedron also appears in \\href{current_web_home_dir/A_hR12_166_2h-001}{$\\alpha$-B (hR12)} and \\href{current_web_home_dir/A_hR105_166_ac9h4i-001}{$\\beta$-B (hR105)}."
 }

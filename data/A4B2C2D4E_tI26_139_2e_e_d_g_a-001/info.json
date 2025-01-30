@@ -1,9 +1,19 @@
 {
     "uid": "YU5Q",
+    "label": "A4B2C2D4E_tI26_139_2e_e_d_g_a-001",
+    "alias": "A4B2C2D4E_tI26_139_2e_e_d_g_a-001",
+    "title": "KCa$_{2}$Fe$_{4}$As$_{4}$F$_{2}$ Structure (12442-type superconductor)",
+    "icsd": "239952",
+    "ccdc": null,
     "prototype": "As4Ca2F2Fe4K",
     "prototype_tex": "As$_{4}$Ca$_{2}$F$_{2}$Fe$_{4}$K",
-    "label": "A4B2C2D4E_tI26_139_2e_e_d_g_a-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "tI26",
+    "space_group_number": 139,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -19,17 +29,8 @@
         0.7085,
         0.6108
     ],
-    "strukturbericht": null,
-    "title": "KCa$_{2}$Fe$_{4}$As$_{4}$F$_{2}$ Structure (12442-type superconductor)",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B2C2D4E_tI26_139_2e_e_d_g_a-001",
-    "number_of_species": 5,
-    "pearson_symbol": "tI26",
-    "space_group_number": 139,
-    "comments": "KCa$_{2}$Fe$_{4}$As$_{4}$F$_{2}$ is superconducting below 33K. \n The Wyckoff coordinates in Table I of (Wang, 2016) do not agree with the coordinates in the CIF in their supplementary material.  The positions in the CIF agree with the positions shown in their Figure 1, so we use the CIF to generate the coordinates.",
+    "legacy": false,
     "notes": "12442-type s.c.",
-    "ccdc": null,
-    "icsd": "239952"
+    "comments": "KCa$_{2}$Fe$_{4}$As$_{4}$F$_{2}$ is superconducting below 33K. \n The Wyckoff coordinates in Table I of (Wang, 2016) do not agree with the coordinates in the CIF in their supplementary material.  The positions in the CIF agree with the positions shown in their Figure 1, so we use the CIF to generate the coordinates."
 }

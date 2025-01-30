@@ -1,9 +1,19 @@
 {
     "uid": "4LGS",
+    "label": "A3B9CD2_hP15_164_ad_ei_b_d-001",
+    "alias": "A3B9CD2_hP15_164_ad_ei_b_d-001",
+    "title": "Ba$_{3}$SrTa$_{2}$O$_{9}$ Structure",
+    "icsd": "27496",
+    "ccdc": null,
     "prototype": "Ba3O9SrTa2",
     "prototype_tex": "Ba$_{3}$O$_{9}$SrTa$_{2}$",
-    "label": "A3B9CD2_hP15_164_ad_ei_b_d-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "hP15",
+    "space_group_number": 164,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -19,17 +29,8 @@
         0.16667,
         0.33333
     ],
-    "strukturbericht": null,
-    "title": "Ba$_{3}$SrTa$_{2}$O$_{9}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B9CD2_hP15_164_ad_ei_b_d-001",
-    "number_of_species": 4,
-    "pearson_symbol": "hP15",
-    "space_group_number": 164,
-    "comments": "Despite its hexagonal unit cell, this is closely related to \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite, $E2_{1}$}, as can be seen by looking at the nearly perfect cubes formed by the strontium and tantalum atoms.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "27496"
+    "comments": "Despite its hexagonal unit cell, this is closely related to \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite, $E2_{1}$}, as can be seen by looking at the nearly perfect cubes formed by the strontium and tantalum atoms."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "WKQU",
+    "label": "A2B7C2_mP22_14_e_a3e_e-001",
+    "alias": "A2B7C2_mP22_14_e_a3e_e-001",
+    "title": "Er$_{2}$Si$_{2}$O$_{7}$ Structure",
+    "icsd": "16049",
+    "ccdc": null,
     "prototype": "Er2O7Si2",
     "prototype_tex": "Er$_{2}$O$_{7}$Si$_{2}$",
-    "label": "A2B7C2_mP22_14_e_a3e_e-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mP22",
+    "space_group_number": 14,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -45,17 +55,8 @@
         0.1129,
         0.1442
     ],
-    "strukturbericht": null,
-    "title": "Er$_{2}$Si$_{2}$O$_{7}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B7C2_mP22_14_e_a3e_e-001",
-    "number_of_species": 3,
-    "pearson_symbol": "mP22",
-    "space_group_number": 14,
-    "comments": "(Felsche, 1970) refers to this as the ``D-RE$_{2}$Si$_{2}$O$_{7}$ structure, where ``RE'' is a rare-earth element. \n Some authors use Ho$_{2}$Si$_{2}$O$_{7}$ as the prototype structure, but (Smolin, 1970) only gives lattice parameters for that compound, while giving full structural information for Er$_{2}$Si$_{2}$O$_{7}$, so we use this as the prototype. \n (Smolin, 1970) give the structure in the $P2_1/b$ setting of space group \\#14 with a unique $c$-axis.  We used FINDSYM to transform this to the standard $P2_1/c$ setting with unique axis $b$.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "16049"
+    "comments": "(Felsche, 1970) refers to this as the ``D-RE$_{2}$Si$_{2}$O$_{7}$ structure, where ``RE'' is a rare-earth element. \n Some authors use Ho$_{2}$Si$_{2}$O$_{7}$ as the prototype structure, but (Smolin, 1970) only gives lattice parameters for that compound, while giving full structural information for Er$_{2}$Si$_{2}$O$_{7}$, so we use this as the prototype. \n (Smolin, 1970) give the structure in the $P2_1/b$ setting of space group \\#14 with a unique $c$-axis.  We used FINDSYM to transform this to the standard $P2_1/c$ setting with unique axis $b$."
 }

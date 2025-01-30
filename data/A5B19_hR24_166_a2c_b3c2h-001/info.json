@@ -1,9 +1,19 @@
 {
     "uid": "3D07",
+    "label": "A5B19_hR24_166_a2c_b3c2h-001",
+    "alias": "A5B19_hR24_166_a2c_b3c2h-001",
+    "title": "Ce$_{5}$Co$_{19}$ Structure",
+    "icsd": "620646",
+    "ccdc": null,
     "prototype": "Ce5Co19",
     "prototype_tex": "Ce$_{5}$Co$_{19}$",
-    "label": "A5B19_hR24_166_a2c_b3c2h-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hR24",
+    "space_group_number": 166,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -29,17 +39,8 @@
         0.542,
         0.042
     ],
-    "strukturbericht": null,
-    "title": "Ce$_{5}$Co$_{19}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A5B19_hR24_166_a2c_b3c2h-001",
-    "number_of_species": 2,
-    "pearson_symbol": "hR24",
-    "space_group_number": 166,
-    "comments": "This is the binary version of \\href{current_web_home_dir/A5B7C12_hR24_166_a2c_b3c_2h-001}{the Ce$_{5}$Ga$_{7}$Rh$_{12}$ structure}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "620646"
+    "comments": "This is the binary version of \\href{current_web_home_dir/A5B7C12_hR24_166_a2c_b3c_2h-001}{the Ce$_{5}$Ga$_{7}$Rh$_{12}$ structure}."
 }

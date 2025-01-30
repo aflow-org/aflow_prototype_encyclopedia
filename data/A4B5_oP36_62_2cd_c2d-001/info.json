@@ -1,9 +1,19 @@
 {
     "uid": "D2UR",
+    "label": "A4B5_oP36_62_2cd_c2d-001",
+    "alias": "A4B5_oP36_62_2cd_c2d-001",
+    "title": "Sm$_{5}$Ge$_{4}$ Structure",
+    "icsd": "41707",
+    "ccdc": null,
     "prototype": "Ge4Sm5",
     "prototype_tex": "Ge$_{4}$Sm$_{5}$",
-    "label": "A4B5_oP36_62_2cd_c2d-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP36",
+    "space_group_number": 62,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -43,17 +53,8 @@
         0.1004,
         0.8219
     ],
-    "strukturbericht": null,
-    "title": "Sm$_{5}$Ge$_{4}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B5_oP36_62_2cd_c2d-001",
-    "number_of_species": 2,
-    "pearson_symbol": "oP36",
-    "space_group_number": 62,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "41707"
+    "comments": null
 }

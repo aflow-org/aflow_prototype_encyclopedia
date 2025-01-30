@@ -1,9 +1,19 @@
 {
     "uid": "QDTB",
+    "label": "AB4C4D4E_mC56_15_e_2f_2f_2f_a-001",
+    "alias": "AB4C4D4E_mC56_15_e_2f_2f_2f_a",
+    "title": "BaNi(CN)$_{4}\\cdot$4H$_{2}$O ($H4_{22}$) Structure",
+    "icsd": "15002",
+    "ccdc": null,
     "prototype": "BaC4(H2O)4N4Ni",
     "prototype_tex": "BaC$_{4}$(H$_{2}$O)$_{4}$N$_{4}$Ni",
-    "label": "AB4C4D4E_mC56_15_e_2f_2f_2f_a-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "mC56",
+    "space_group_number": 15,
+    "strukturbericht": "H4_22",
+    "strukturbericht_tex": "$H4_{22}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -53,18 +63,8 @@
         0.9076,
         0.8561
     ],
-    "strukturbericht": "H4_22",
-    "title": "BaNi(CN)$_{4}\\cdot$4H$_{2}$O ($H4_{22}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$H4_{22}$",
     "compounds": {},
-    "alias": "AB4C4D4E_mC56_15_e_2f_2f_2f_a",
-    "number_of_species": 5,
-    "pearson_symbol": "mC56",
-    "space_group_number": 15,
-    "comments": "We use the structure found by (Larsen, 1969).  It is very similar to the structure found by (Brasseur, 1938) which was designated $H4_{22}$ by (Herrmann, 1941).  The newer work was able to separate the carbon and nitrogen atoms in the cyanide (CN) radical, and also moved the barium atom from the (4b) to the (4e) Wyckoff position. The location of the hydrogen atoms in the water molecules is still unknown, so they are listed as H$_{2}$O.",
+    "legacy": false,
     "notes": "$H4_{22}$",
-    "ccdc": null,
-    "icsd": "15002"
+    "comments": "We use the structure found by (Larsen, 1969).  It is very similar to the structure found by (Brasseur, 1938) which was designated $H4_{22}$ by (Herrmann, 1941).  The newer work was able to separate the carbon and nitrogen atoms in the cyanide (CN) radical, and also moved the barium atom from the (4b) to the (4e) Wyckoff position. The location of the hydrogen atoms in the water molecules is still unknown, so they are listed as H$_{2}$O."
 }

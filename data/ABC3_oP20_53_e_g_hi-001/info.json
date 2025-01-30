@@ -1,9 +1,19 @@
 {
     "uid": "SET9",
+    "label": "ABC3_oP20_53_e_g_hi-001",
+    "alias": "ABC3_oP20_53_e_g_hi",
+    "title": "$Pmna$ CuBrSe$_{3}$ Structure",
+    "icsd": "10129",
+    "ccdc": null,
     "prototype": "BrCuSe3",
     "prototype_tex": "BrCuSe$_{3}$",
-    "label": "ABC3_oP20_53_e_g_hi-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP20",
+    "space_group_number": 53,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -27,17 +37,8 @@
         0.6057,
         0.3575
     ],
-    "strukturbericht": null,
-    "title": "$Pmna$ CuBrSe$_{3}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC3_oP20_53_e_g_hi",
-    "number_of_species": 3,
-    "pearson_symbol": "oP20",
-    "space_group_number": 53,
-    "comments": "CuBrSe$_{3}$ has also been reported in the \\href{current_web_home_dir/ABC3_oP20_30_2a_c_3c-001}{$Pnc2$ \\#30} orthorhombic space group.  It is not clear that (Sakuma, 1991) knew of the work of (Haendler, 1979). The two structures are very similar.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "10129"
+    "comments": "CuBrSe$_{3}$ has also been reported in the \\href{current_web_home_dir/ABC3_oP20_30_2a_c_3c-001}{$Pnc2$ \\#30} orthorhombic space group.  It is not clear that (Sakuma, 1991) knew of the work of (Haendler, 1979). The two structures are very similar."
 }

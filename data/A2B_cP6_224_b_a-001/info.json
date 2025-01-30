@@ -1,26 +1,26 @@
 {
     "uid": "WUJH",
+    "label": "A2B_cP6_224_b_a-001",
+    "alias": "A2B_cP6_224_b_a",
+    "title": "Cuprite (Cu$_{2}$O, $C3$) Structure",
+    "icsd": "52043",
+    "ccdc": null,
     "prototype": "Cu2O",
     "prototype_tex": "Cu$_{2}$O",
-    "label": "A2B_cP6_224_b_a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cP6",
+    "space_group_number": 224,
+    "strukturbericht": "C3",
+    "strukturbericht_tex": "$C3$",
+    "part": 1,
+    "parameter_symbols": [
         "a"
     ],
     "parameter_values": [
         4.267
     ],
-    "strukturbericht": "C3",
-    "title": "Cuprite (Cu$_{2}$O, $C3$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$C3$",
     "compounds": {},
-    "alias": "A2B_cP6_224_b_a",
-    "number_of_species": 2,
-    "pearson_symbol": "cP6",
-    "space_group_number": 224,
-    "comments": "(Restori, 1986) gives the equilibrium lattice constant of Cu$_{2}$O as $a$=4.627{\\AA}, but gives nearest-neighbor distances which yield a lattice constant of 4.267{\\AA}. Since this value agrees with other sources, including those in (Downs, 2003), we use it. The ICSD entry uses 4.2685{\\AA}.",
+    "legacy": false,
     "notes": "$C3$, Cuprite",
-    "ccdc": null,
-    "icsd": "52043"
+    "comments": "(Restori, 1986) gives the equilibrium lattice constant of Cu$_{2}$O as $a$=4.627{\\AA}, but gives nearest-neighbor distances which yield a lattice constant of 4.267{\\AA}. Since this value agrees with other sources, including those in (Downs, 2003), we use it. The ICSD entry uses 4.2685{\\AA}."
 }

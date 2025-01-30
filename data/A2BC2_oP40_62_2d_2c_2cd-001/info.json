@@ -1,9 +1,19 @@
 {
     "uid": "STQS",
+    "label": "A2BC2_oP40_62_2d_2c_2cd-001",
+    "alias": "A2BC2_oP40_62_2d_2c_2cd-001",
+    "title": "TaCo$_{2}$Te$_{2}$ Structure",
+    "icsd": "71197",
+    "ccdc": null,
     "prototype": "Co2TaTe2",
     "prototype_tex": "Co$_{2}$TaTe$_{2}$",
-    "label": "A2BC2_oP40_62_2d_2c_2cd-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP40",
+    "space_group_number": 62,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -47,17 +57,8 @@
         -0.00296,
         0.65072
     ],
-    "strukturbericht": null,
-    "title": "TaCo$_{2}$Te$_{2}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC2_oP40_62_2d_2c_2cd-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oP40",
-    "space_group_number": 62,
-    "comments": "We use the data from ICSD Entry 71197.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "71197"
+    "comments": "We use the data from ICSD Entry 71197."
 }

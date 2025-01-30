@@ -1,9 +1,19 @@
 {
     "uid": "HK1Y",
+    "label": "ABC4_mC24_12_i_i_4i-001",
+    "alias": "ABC4_mC24_12_i_i_4i",
+    "title": "AlNbO$_{4}$ Structure",
+    "icsd": "184515",
+    "ccdc": null,
     "prototype": "AlNbO4",
     "prototype_tex": "AlNbO$_{4}$",
-    "label": "ABC4_mC24_12_i_i_4i-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mC24",
+    "space_group_number": 12,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -39,17 +49,8 @@
         0.619,
         0.8812
     ],
-    "strukturbericht": null,
-    "title": "AlNbO$_{4}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC4_mC24_12_i_i_4i",
-    "number_of_species": 3,
-    "pearson_symbol": "mC24",
-    "space_group_number": 12,
-    "comments": "(Ardit, 2012) looked at samples with obvious disordering on the sites we label Al and Nb.  In their N00 sample the occupation of our Al site is 80\\% aluminum and 20\\% niobium, with the reverse concentrations on our Nb site. \n (Pederson, 1962) analyzed a sample of AlNbO$_{4}$ assuming that these sites were fully ordered. The atomic positions listed there have some errors, so we used the data found by Ardit {\\em et al.} \n The atomic positions for this structure are not found in the main text.  They are filed as \\href{http://www.minsocam.org/MSA/AmMin/TOC/2012/MJ12_Data/Ardit_p910_12.zip}{item \\#AM-12-035 in the American Mineralogist repository}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "184515"
+    "comments": "(Ardit, 2012) looked at samples with obvious disordering on the sites we label Al and Nb.  In their N00 sample the occupation of our Al site is 80\\% aluminum and 20\\% niobium, with the reverse concentrations on our Nb site. \n (Pederson, 1962) analyzed a sample of AlNbO$_{4}$ assuming that these sites were fully ordered. The atomic positions listed there have some errors, so we used the data found by Ardit {\\em et al.} \n The atomic positions for this structure are not found in the main text.  They are filed as \\href{http://www.minsocam.org/MSA/AmMin/TOC/2012/MJ12_Data/Ardit_p910_12.zip}{item \\#AM-12-035 in the American Mineralogist repository}."
 }

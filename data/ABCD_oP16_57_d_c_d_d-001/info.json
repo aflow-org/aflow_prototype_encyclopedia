@@ -1,9 +1,19 @@
 {
     "uid": "K4A8",
+    "label": "ABCD_oP16_57_d_c_d_d-001",
+    "alias": "ABCD_oP16_57_d_c_d_d",
+    "title": "KNCS ($F5_{9}$) Structure",
+    "icsd": "67582",
+    "ccdc": null,
     "prototype": "CKNS",
     "prototype_tex": "CKNS",
-    "label": "ABCD_oP16_57_d_c_d_d-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oP16",
+    "space_group_number": 57,
+    "strukturbericht": "F5_9",
+    "strukturbericht_tex": "$F5_{9}$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -27,18 +37,8 @@
         0.605,
         0.1087
     ],
-    "strukturbericht": "F5_9",
-    "title": "KNCS ($F5_{9}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$F5_{9}$",
     "compounds": {},
-    "alias": "ABCD_oP16_57_d_c_d_d",
-    "number_of_species": 4,
-    "pearson_symbol": "oP16",
-    "space_group_number": 57,
+    "legacy": false,
     "notes": "$F5_{9}$",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "67582"
+    "comments": null
 }

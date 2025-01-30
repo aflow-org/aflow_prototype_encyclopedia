@@ -1,9 +1,19 @@
 {
     "uid": "NYVB",
+    "label": "A3BC4D12E3_cP46_218_c_a_e_i_d-001",
+    "alias": "A3BC4D12E3_cP46_218_d_a_e_i_c",
+    "title": "Sodalite [Na$_{4}$(AlSiO$_{4}$)$_{3}$Cl, $S6_{2}$] Structure",
+    "icsd": "29443",
+    "ccdc": null,
     "prototype": "Al3ClNa4O12Si3",
     "prototype_tex": "Al$_{3}$ClNa$_{4}$O$_{12}$Si$_{3}$",
-    "label": "A3BC4D12E3_cP46_218_c_a_e_i_d-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "cP46",
+    "space_group_number": 218,
+    "strukturbericht": "S6_2",
+    "strukturbericht_tex": "$S6_{2}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "x4",
         "x5",
@@ -17,18 +27,8 @@
         0.6494,
         0.9383
     ],
-    "strukturbericht": "S6_2",
-    "title": "Sodalite [Na$_{4}$(AlSiO$_{4}$)$_{3}$Cl, $S6_{2}$] Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$S6_{2}$",
     "compounds": {},
-    "alias": "A3BC4D12E3_cP46_218_d_a_e_i_c",
-    "number_of_species": 5,
-    "pearson_symbol": "cP46",
-    "space_group_number": 218,
-    "comments": "Sodalites of the form A$_{4}$(AlSiO$_{4}$)$_{3}$B with (A,B) = (Li,F), (Li,Br), (Li,I), (Na,F), (K,F), (K,Br) and (Rb,F) have been predicted to form, but not seen experimentally.",
+    "legacy": false,
     "notes": "$S6_{2}$, Sodalite",
-    "ccdc": null,
-    "icsd": "29443"
+    "comments": "Sodalites of the form A$_{4}$(AlSiO$_{4}$)$_{3}$B with (A,B) = (Li,F), (Li,Br), (Li,I), (Na,F), (K,F), (K,Br) and (Rb,F) have been predicted to form, but not seen experimentally."
 }

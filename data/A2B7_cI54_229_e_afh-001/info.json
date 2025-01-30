@@ -1,9 +1,19 @@
 {
     "uid": "KM4R",
+    "label": "A2B7_cI54_229_e_afh-001",
+    "alias": "A2B7_cI54_229_e_afh",
+    "title": "Sb$_{2}$Tl$_{7}$ ($L2_{2}$) Structure",
+    "icsd": "41816",
+    "ccdc": null,
     "prototype": "Sb2Tl7",
     "prototype_tex": "Sb$_{2}$Tl$_{7}$",
-    "label": "A2B7_cI54_229_e_afh-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cI54",
+    "space_group_number": 229,
+    "strukturbericht": "L2_2",
+    "strukturbericht_tex": "$L2_{2}$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "x2",
         "x3",
@@ -15,18 +25,8 @@
         0.1704,
         0.6503
     ],
-    "strukturbericht": "L2_2",
-    "title": "Sb$_{2}$Tl$_{7}$ ($L2_{2}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$L2_{2}$",
     "compounds": {},
-    "alias": "A2B7_cI54_229_e_afh",
-    "number_of_species": 2,
-    "pearson_symbol": "cI54",
-    "space_group_number": 229,
+    "legacy": false,
     "notes": "$L2_{2}$",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "41816"
+    "comments": null
 }

@@ -1,9 +1,19 @@
 {
     "uid": "QXEE",
+    "label": "AB6C2D_mP20_14_a_3e_e_b-001",
+    "alias": "AB6C2D_mP20_14_a_3e_e_d",
+    "title": "Sr$_{2}$MnTeO$_{6}$ Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "MnO6Sr2Te",
     "prototype_tex": "MnO$_{6}$Sr$_{2}$Te",
-    "label": "AB6C2D_mP20_14_a_3e_e_b-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "mP20",
+    "space_group_number": 14,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -39,17 +49,8 @@
         0.98468,
         0.5015
     ],
-    "strukturbericht": null,
-    "title": "Sr$_{2}$MnTeO$_{6}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB6C2D_mP20_14_a_3e_e_d",
-    "number_of_species": 4,
-    "pearson_symbol": "mP20",
-    "space_group_number": 14,
-    "comments": "This is the ground state structure of the double perovskite Sr$_{2}$MnTeO$_{6}$.  Above 250$^{\\circ}$C it transforms into the \\href{current_web_home_dir/AB6C2D_mC40_12_ac_gh4i_j_bd-001}{Sr$_{2}$NiTeO$_{6}$ structure}.  Above 550$^{\\circ}$C it transforms into the \\href{current_web_home_dir/AB6C2D_tI20_87_a_eh_d_b-001}{Sr$_{2}$NiWO$_{6}$ structure}, and above 675$^{\\circ}$C it transforms into the \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite $E2_{1}$ structure}. (Ortega-San Martin, 2004). \n (Ortega-San Martin, 2004) give the structure in the $P2_{1}/n$ setting of space group \\#14.  We used findsym to transform this to the standard $P2_{1}/c$ setting, which uses a different set of basis vectors. \n The ICSD designates Ba$_{2}$LaRuO$_{6}$ (\\#100793) as the prototype for this structure.",
+    "legacy": false,
     "notes": "Double Perovskite",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "This is the ground state structure of the double perovskite Sr$_{2}$MnTeO$_{6}$.  Above 250$^{\\circ}$C it transforms into the \\href{current_web_home_dir/AB6C2D_mC40_12_ac_gh4i_j_bd-001}{Sr$_{2}$NiTeO$_{6}$ structure}.  Above 550$^{\\circ}$C it transforms into the \\href{current_web_home_dir/AB6C2D_tI20_87_a_eh_d_b-001}{Sr$_{2}$NiWO$_{6}$ structure}, and above 675$^{\\circ}$C it transforms into the \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite $E2_{1}$ structure}. (Ortega-San Martin, 2004). \n (Ortega-San Martin, 2004) give the structure in the $P2_{1}/n$ setting of space group \\#14.  We used findsym to transform this to the standard $P2_{1}/c$ setting, which uses a different set of basis vectors. \n The ICSD designates Ba$_{2}$LaRuO$_{6}$ (\\#100793) as the prototype for this structure."
 }

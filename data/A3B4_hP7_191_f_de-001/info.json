@@ -1,9 +1,19 @@
 {
     "uid": "AMP4",
+    "label": "A3B4_hP7_191_f_de-001",
+    "alias": "A3B4_hP7_191_f_de-001",
+    "title": "Zr$_{4}$Al$_{3}$ Structure",
+    "icsd": "150529",
+    "ccdc": null,
     "prototype": "Al3Zr4",
     "prototype_tex": "Al$_{3}$Zr$_{4}$",
-    "label": "A3B4_hP7_191_f_de-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP7",
+    "space_group_number": 191,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2"
@@ -13,17 +23,8 @@
         0.992085,
         0.25
     ],
-    "strukturbericht": null,
-    "title": "Zr$_{4}$Al$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B4_hP7_191_f_de-001",
-    "number_of_species": 2,
-    "pearson_symbol": "hP7",
-    "space_group_number": 191,
-    "comments": "(Wilson, 1960) place this structure in, using modern notation, space group $P\\overline{6}m2$ \\#187, but (Cenzual, 1991) point out that the given atomic coordinates place the structure in the higher symmetry space group $P6/mmm$ \\#191. We show that structure here.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "150529"
+    "comments": "(Wilson, 1960) place this structure in, using modern notation, space group $P\\overline{6}m2$ \\#187, but (Cenzual, 1991) point out that the given atomic coordinates place the structure in the higher symmetry space group $P6/mmm$ \\#191. We show that structure here."
 }

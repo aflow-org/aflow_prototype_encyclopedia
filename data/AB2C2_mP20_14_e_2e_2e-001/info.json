@@ -1,9 +1,19 @@
 {
     "uid": "A73U",
+    "label": "AB2C2_mP20_14_e_2e_2e-001",
+    "alias": "AB2C2_mP20_14_e_2e_2e-001",
+    "title": "Y$_{2}$OS$_{2}$ Structure",
+    "icsd": "67503",
+    "ccdc": null,
     "prototype": "OS2Y2",
     "prototype_tex": "OS$_{2}$Y$_{2}$",
-    "label": "AB2C2_mP20_14_e_2e_2e-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mP20",
+    "space_group_number": 14,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -45,17 +55,8 @@
         0.55464,
         0.11245
     ],
-    "strukturbericht": null,
-    "title": "Y$_{2}$OS$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2C2_mP20_14_e_2e_2e-001",
-    "number_of_species": 3,
-    "pearson_symbol": "mP20",
-    "space_group_number": 14,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "67503"
+    "comments": null
 }

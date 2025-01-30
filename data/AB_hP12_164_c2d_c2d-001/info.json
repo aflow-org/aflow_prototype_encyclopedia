@@ -1,9 +1,19 @@
 {
     "uid": "UEMM",
+    "label": "AB_hP12_164_c2d_c2d-001",
+    "alias": "AB_hP12_164_c2d_c2d",
+    "title": "Nevskite (BiSe) Structure",
+    "icsd": "79019",
+    "ccdc": null,
     "prototype": "BiSe",
     "prototype_tex": "BiSe",
-    "label": "AB_hP12_164_c2d_c2d-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP12",
+    "space_group_number": 164,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -23,17 +33,8 @@
         0.2797,
         0.5596
     ],
-    "strukturbericht": null,
-    "title": "Nevskite (BiSe) Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_hP12_164_c2d_c2d",
-    "number_of_species": 2,
-    "pearson_symbol": "hP12",
-    "space_group_number": 164,
-    "comments": "The site Bi I actually has the composition (Bi$_{0.74}$Se$_{0.26}$), while the site Se II is actuall (Se$_{0.72}$,Bi$_{0.28}$).",
+    "legacy": false,
     "notes": "Nevskite",
-    "ccdc": null,
-    "icsd": "79019"
+    "comments": "The site Bi I actually has the composition (Bi$_{0.74}$Se$_{0.26}$), while the site Se II is actuall (Se$_{0.72}$,Bi$_{0.28}$)."
 }

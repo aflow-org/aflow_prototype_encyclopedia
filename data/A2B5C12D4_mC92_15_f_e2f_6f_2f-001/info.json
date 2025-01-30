@@ -1,9 +1,19 @@
 {
     "uid": "JM9Q",
+    "label": "A2B5C12D4_mC92_15_f_e2f_6f_2f-001",
+    "alias": "A2B5C12D4_mC92_15_f_e2f_6f_2f-001",
+    "title": "Ni$_{5}$(TeO$_{3}$)$_{4}$Cl$_{2}$ Structure",
+    "icsd": "96911",
+    "ccdc": null,
     "prototype": "Cl2Ni5O12Te4",
     "prototype_tex": "Cl$_{2}$Ni$_{5}$O$_{12}$Te$_{4}$",
-    "label": "A2B5C12D4_mC92_15_f_e2f_6f_2f-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "mC92",
+    "space_group_number": 15,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -83,17 +93,8 @@
         0.7879,
         0.1203
     ],
-    "strukturbericht": null,
-    "title": "Ni$_{5}$(TeO$_{3}$)$_{4}$Cl$_{2}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B5C12D4_mC92_15_f_e2f_6f_2f-001",
-    "number_of_species": 4,
-    "pearson_symbol": "mC92",
-    "space_group_number": 15,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "96911"
+    "comments": null
 }

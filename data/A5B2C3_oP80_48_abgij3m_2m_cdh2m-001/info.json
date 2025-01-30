@@ -1,9 +1,19 @@
 {
     "uid": "E4GG",
+    "label": "A5B2C3_oP80_48_abgij3m_2m_cdh2m-001",
+    "alias": "A5B2C3_oP80_48_abgij3m_2m_cdh2m-001",
+    "title": "Gd$_{2}$Ni$_{3}$Ga$_{5}$ Structure",
+    "icsd": "281205",
+    "ccdc": null,
     "prototype": "Ga5Gd2Ni3",
     "prototype_tex": "Ga$_{5}$Gd$_{2}$Ni$_{3}$",
-    "label": "A5B2C3_oP80_48_abgij3m_2m_cdh2m-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP80",
+    "space_group_number": 48,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -63,17 +73,8 @@
         0.1244,
         0.3372
     ],
-    "strukturbericht": null,
-    "title": "Gd$_{2}$Ni$_{3}$Ga$_{5}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A5B2C3_oP80_48_abgij3m_2m_cdh2m-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oP80",
-    "space_group_number": 48,
-    "comments": "AFLOW rotates the lattice by 90$^{\\circ}$ about the y-axis (x y z $\\rightarrow$ -z y x) and shifts the origin so that the gallium atoms which were originally at the (2b) and (2d) Wyckoff positions are now on the (2a) and (2b) sites.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "281205"
+    "comments": "AFLOW rotates the lattice by 90$^{\\circ}$ about the y-axis (x y z $\\rightarrow$ -z y x) and shifts the origin so that the gallium atoms which were originally at the (2b) and (2d) Wyckoff positions are now on the (2a) and (2b) sites."
 }

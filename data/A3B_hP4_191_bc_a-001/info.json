@@ -1,9 +1,19 @@
 {
     "uid": "RYZL",
+    "label": "A3B_hP4_191_bc_a-001",
+    "alias": "A3B_hP4_191_bc_a",
+    "title": "Li$_{3}$N Structure",
+    "icsd": "95939",
+    "ccdc": null,
     "prototype": "Li3N",
     "prototype_tex": "Li$_{3}$N",
-    "label": "A3B_hP4_191_bc_a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP4",
+    "space_group_number": 191,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a"
     ],
@@ -11,17 +21,8 @@
         3.6576,
         1.05903
     ],
-    "strukturbericht": null,
-    "title": "Li$_{3}$N Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B_hP4_191_bc_a",
-    "number_of_species": 2,
-    "pearson_symbol": "hP4",
-    "space_group_number": 191,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "95939"
+    "comments": null
 }

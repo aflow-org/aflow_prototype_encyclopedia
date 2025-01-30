@@ -1,9 +1,19 @@
 {
     "uid": "Z4FL",
+    "label": "ABC_hP3_156_a_b_c-001",
+    "alias": "ABC_hP3_156_a_b_c-001",
+    "title": "BeTeI Structure",
+    "icsd": "79364",
+    "ccdc": null,
     "prototype": "BeITe",
     "prototype_tex": "BeITe",
-    "label": "ABC_hP3_156_a_b_c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP3",
+    "space_group_number": 156,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -17,17 +27,8 @@
         0.251,
         0.6928
     ],
-    "strukturbericht": null,
-    "title": "BeTeI Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC_hP3_156_a_b_c-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hP3",
-    "space_group_number": 156,
-    "comments": "Space group $P3m1c \\#156$ allows an arbitary placement of the origin of the $z$-axis.  We follow (Shevelkov, 1995) and set $z_{1} = 0$ for the bismuth atom.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "79364"
+    "comments": "Space group $P3m1c \\#156$ allows an arbitary placement of the origin of the $z$-axis.  We follow (Shevelkov, 1995) and set $z_{1} = 0$ for the bismuth atom."
 }

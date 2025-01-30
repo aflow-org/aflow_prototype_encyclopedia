@@ -1,9 +1,19 @@
 {
     "uid": "DA98",
+    "label": "A2B_hP18_190_gh_bf-001",
+    "alias": "A2B_hP18_190_gh_bf",
+    "title": "Li$_{2}$Sb Structure",
+    "icsd": "100020",
+    "ccdc": null,
     "prototype": "Li2Sb",
     "prototype_tex": "Li$_{2}$Sb",
-    "label": "A2B_hP18_190_gh_bf-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP18",
+    "space_group_number": 190,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -19,17 +29,8 @@
         0.612,
         0.01
     ],
-    "strukturbericht": null,
-    "title": "Li$_{2}$Sb Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B_hP18_190_gh_bf",
-    "number_of_species": 2,
-    "pearson_symbol": "hP18",
-    "space_group_number": 190,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "100020"
+    "comments": null
 }

@@ -1,9 +1,19 @@
 {
     "uid": "C3ND",
+    "label": "AB6C3_cI160_230_b_h_g-001",
+    "alias": "AB6C3_cI160_230_b_h_g-001",
+    "title": "Boropollucite [Cs(Si$_{2}$B)O$_{6}$] Structure",
+    "icsd": "413224",
+    "ccdc": null,
     "prototype": "BCsO6Si2",
     "prototype_tex": "BCsO$_{6}$Si$_{2}$",
-    "label": "AB6C3_cI160_230_b_h_g-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cI160",
+    "space_group_number": 230,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "y2",
         "x3",
@@ -17,17 +27,8 @@
         0.13369,
         0.71953
     ],
-    "strukturbericht": null,
-    "title": "Boropollucite [Cs(Si$_{2}$B)O$_{6}$] Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB6C3_cI160_230_b_h_g-001",
-    "number_of_species": 3,
-    "pearson_symbol": "cI160",
-    "space_group_number": 230,
-    "comments": "According to (Bubnova, 2004) the Cs (16b) site is 81.4\\% filled, and the Si (48g) site is 65.9\\% silicon and 36.5\\% boron.  This gives the final stoichiometry of Cs$_{0.814}$B$_{1.095}$Si$_{1.977}$O$_{6}$ \n Other entries in the ICSD show that the Cs site may also contain calcium. \n The Wyckoff labels listed in Table 3 of (Bubnova, 2004) are incorrect.  They are corrected in the ICSD entry. \n The Wyckoff positions in the ICSD differ slightly from the published values. We use the values from the ICSD CIF.",
+    "legacy": false,
     "notes": "Boropollucite",
-    "ccdc": null,
-    "icsd": "413224"
+    "comments": "According to (Bubnova, 2004) the Cs (16b) site is 81.4\\% filled, and the Si (48g) site is 65.9\\% silicon and 36.5\\% boron.  This gives the final stoichiometry of Cs$_{0.814}$B$_{1.095}$Si$_{1.977}$O$_{6}$ \n Other entries in the ICSD show that the Cs site may also contain calcium. \n The Wyckoff labels listed in Table 3 of (Bubnova, 2004) are incorrect.  They are corrected in the ICSD entry. \n The Wyckoff positions in the ICSD differ slightly from the published values. We use the values from the ICSD CIF."
 }

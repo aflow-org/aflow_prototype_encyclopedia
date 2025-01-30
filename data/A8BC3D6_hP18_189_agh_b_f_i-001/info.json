@@ -1,9 +1,19 @@
 {
     "uid": "WS3B",
+    "label": "A8BC3D6_hP18_189_agh_b_f_i-001",
+    "alias": "A8BC3D6_hP18_189_bfh_a_g_i",
+    "title": "$\\pi$-FeMg$_{3}$Al$_{8}$Si$_{6}$ ($E9_{b}$) Structure",
+    "icsd": "21740",
+    "ccdc": null,
     "prototype": "Al8FeMg3Si6",
     "prototype_tex": "Al$_{8}$FeMg$_{3}$Si$_{6}$",
-    "label": "A8BC3D6_hP18_189_agh_b_f_i-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "hP18",
+    "space_group_number": 189,
+    "strukturbericht": "E9_b",
+    "strukturbericht_tex": "$E9_{b}$",
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -21,18 +31,8 @@
         0.75,
         0.722
     ],
-    "strukturbericht": "E9_b",
-    "title": "$\\pi$-FeMg$_{3}$Al$_{8}$Si$_{6}$ ($E9_{b}$) Structure",
-    "part": 2,
-    "legacy": false,
-    "strukturbericht_tex": "$E9_{b}$",
     "compounds": {},
-    "alias": "A8BC3D6_hP18_189_bfh_a_g_i",
-    "number_of_species": 4,
-    "pearson_symbol": "hP18",
-    "space_group_number": 189,
-    "comments": "We have been unable to obtain a copy of (Perlitz, 1942), and use the data provided by (Brandes, 1992) and (Foss, 2003). Foss et al. argue that the actual composition of this phase should be FeMg$_{3}$Al$_{9}$Si$_{5}$. This requires a reordering of the atomic positions, as described in \\href{current_web_home_dir/A9BC3D5_hP18_189_fi_a_g_bh-001}{A9BC3D5\\_hP18\\_189\\_fi\\_a\\_g\\_bh}.",
+    "legacy": false,
     "notes": "$E9_{b}$, $\\pi$-FeMg$_{3}$Al$_{8}$Si$_{6}$",
-    "ccdc": null,
-    "icsd": "21740"
+    "comments": "We have been unable to obtain a copy of (Perlitz, 1942), and use the data provided by (Brandes, 1992) and (Foss, 2003). Foss et al. argue that the actual composition of this phase should be FeMg$_{3}$Al$_{9}$Si$_{5}$. This requires a reordering of the atomic positions, as described in \\href{current_web_home_dir/A9BC3D5_hP18_189_fi_a_g_bh-001}{A9BC3D5\\_hP18\\_189\\_fi\\_a\\_g\\_bh}."
 }

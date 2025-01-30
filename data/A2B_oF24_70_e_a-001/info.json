@@ -1,9 +1,19 @@
 {
     "uid": "KN7L",
+    "label": "A2B_oF24_70_e_a-001",
+    "alias": "A2B_oF24_70_e_a",
+    "title": "TiSi$_{2}$ ($C54$) Nowotony Chimney-Ladder Structure",
+    "icsd": "1089",
+    "ccdc": null,
     "prototype": "Si2Ti",
     "prototype_tex": "Si$_{2}$Ti",
-    "label": "A2B_oF24_70_e_a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oF24",
+    "space_group_number": 70,
+    "strukturbericht": "C54",
+    "strukturbericht_tex": "$C54$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -15,18 +25,8 @@
         1.03428,
         0.4615
     ],
-    "strukturbericht": "C54",
-    "title": "TiSi$_{2}$ ($C54$) Nowotony Chimney-Ladder Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$C54$",
     "compounds": {},
-    "alias": "A2B_oF24_70_e_a",
-    "number_of_species": 2,
-    "pearson_symbol": "oF24",
-    "space_group_number": 70,
-    "comments": "This is the simplest example of a ``Nowotny chimney-ladder structure'' (Pearson, 1970), T$_{n}$X$_{m}$, where ``T'' is a transition metal, ``X'' is a row III or IV metal (or semiconductor), and $1.25 \\le m/n {<} 2$.  The transition metal atoms are arranged similarly to the atoms in the \\href{current_web_home_dir/A_tI4_141_a-001}{$\\beta$-Sn ($A5$)}.",
+    "legacy": false,
     "notes": "$C54$",
-    "ccdc": null,
-    "icsd": "1089"
+    "comments": "This is the simplest example of a ``Nowotny chimney-ladder structure'' (Pearson, 1970), T$_{n}$X$_{m}$, where ``T'' is a transition metal, ``X'' is a row III or IV metal (or semiconductor), and $1.25 \\le m/n {<} 2$.  The transition metal atoms are arranged similarly to the atoms in the \\href{current_web_home_dir/A_tI4_141_a-001}{$\\beta$-Sn ($A5$)}."
 }

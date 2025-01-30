@@ -1,9 +1,19 @@
 {
     "uid": "M2PT",
+    "label": "AB_tI8_109_a_a-001",
+    "alias": "AB_tI8_109_a_a",
+    "title": "NbAs Structure",
+    "icsd": "16585",
+    "ccdc": null,
     "prototype": "AsNb",
     "prototype_tex": "AsNb",
-    "label": "AB_tI8_109_a_a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tI8",
+    "space_group_number": 109,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -15,17 +25,8 @@
         0.416,
         0.0
     ],
-    "strukturbericht": null,
-    "title": "NbAs Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_tI8_109_a_a",
-    "number_of_species": 2,
-    "pearson_symbol": "tI8",
-    "space_group_number": 109,
-    "comments": "Space group $I4_{1}md$ \\#109 allows an arbitary placement of the $z$-axis origin.  Here we chose to place a niobium atom at the origin.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "16585"
+    "comments": "Space group $I4_{1}md$ \\#109 allows an arbitary placement of the $z$-axis origin.  Here we chose to place a niobium atom at the origin."
 }

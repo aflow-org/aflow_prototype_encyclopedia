@@ -1,9 +1,19 @@
 {
     "uid": "EQ3C",
+    "label": "AB2_oI12_74_e_2e-001",
+    "alias": "AB2_oI12_74_e_2e-001",
+    "title": "GdSi$_{2}$ Structure",
+    "icsd": "291182",
+    "ccdc": null,
     "prototype": "GdSi2",
     "prototype_tex": "GdSi$_{2}$",
-    "label": "AB2_oI12_74_e_2e-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oI12",
+    "space_group_number": 74,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -19,17 +29,8 @@
         0.0488,
         0.2142
     ],
-    "strukturbericht": null,
-    "title": "GdSi$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2_oI12_74_e_2e-001",
-    "number_of_species": 2,
-    "pearson_symbol": "oI12",
-    "space_group_number": 74,
-    "comments": "(Zou, 2015) find that the Si-I site has 96.8\\% occupancy and the Si-II site has 81.2\\% occupancy, so the actual stoichiometry of their sample is GdSi$_{1.78}$.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "291182"
+    "comments": "(Zou, 2015) find that the Si-I site has 96.8\\% occupancy and the Si-II site has 81.2\\% occupancy, so the actual stoichiometry of their sample is GdSi$_{1.78}$."
 }

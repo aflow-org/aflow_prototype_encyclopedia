@@ -1,9 +1,19 @@
 {
     "uid": "XFRG",
+    "label": "ABCD3_hP36_190_h_g_af_hi-001",
+    "alias": "ABCD3_hP36_190_h_g_af_hi",
+    "title": "Bastn\\\"{a}site [CeF(CO$_{3}$), $G7_{1}$] Structure",
+    "icsd": "72939",
+    "ccdc": null,
     "prototype": "CCeFO3",
     "prototype_tex": "CCeFO$_{3}$",
-    "label": "ABCD3_hP36_190_h_g_af_hi-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "hP36",
+    "space_group_number": 190,
+    "strukturbericht": "G7_1",
+    "strukturbericht_tex": "$G7_{1}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -29,18 +39,8 @@
         0.3828,
         0.6354
     ],
-    "strukturbericht": "G7_1",
-    "title": "Bastn\\\"{a}site [CeF(CO$_{3}$), $G7_{1}$] Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$G7_{1}$",
     "compounds": {},
-    "alias": "ABCD3_hP36_190_h_g_af_hi",
-    "number_of_species": 4,
-    "pearson_symbol": "hP36",
-    "space_group_number": 190,
-    "comments": "Technically the name bastn\\\"{a}site belongs to both cerium and lanthanum compounds, and the are usually designated bastn\\\"{a}site-(Ce) and bastn\\\"{a}site-(La), respectively.",
+    "legacy": false,
     "notes": "$G7_{1}$, Bastn\\\"{a}site",
-    "ccdc": null,
-    "icsd": "72939"
+    "comments": "Technically the name bastn\\\"{a}site belongs to both cerium and lanthanum compounds, and the are usually designated bastn\\\"{a}site-(Ce) and bastn\\\"{a}site-(La), respectively."
 }

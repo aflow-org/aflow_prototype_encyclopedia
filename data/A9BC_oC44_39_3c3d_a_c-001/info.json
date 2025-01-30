@@ -1,9 +1,19 @@
 {
     "uid": "5ZH7",
+    "label": "A9BC_oC44_39_3c3d_a_c-001",
+    "alias": "A9BC_oC44_39_3c3d_a_c",
+    "title": "VPCl$_{9}$ Structure",
+    "icsd": "1047",
+    "ccdc": null,
     "prototype": "Cl9PV",
     "prototype_tex": "Cl$_{9}$PV",
-    "label": "A9BC_oC44_39_3c3d_a_c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oC44",
+    "space_group_number": 39,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -49,17 +59,8 @@
         0.0948,
         0.9281
     ],
-    "strukturbericht": null,
-    "title": "VPCl$_{9}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A9BC_oC44_39_3c3d_a_c",
-    "number_of_species": 3,
-    "pearson_symbol": "oC44",
-    "space_group_number": 39,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "1047"
+    "comments": null
 }

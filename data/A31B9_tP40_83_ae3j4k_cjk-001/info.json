@@ -1,9 +1,19 @@
 {
     "uid": "FCR5",
+    "label": "A31B9_tP40_83_ae3j4k_cjk-001",
+    "alias": "A31B9_tP40_83_ae3j4k_cjk-001",
+    "title": "Au$_{31}$Mn$_{9}$ Structure",
+    "icsd": "58552",
+    "ccdc": null,
     "prototype": "Au31Mn9",
     "prototype_tex": "Au$_{31}$Mn$_{9}$",
-    "label": "A31B9_tP40_83_ae3j4k_cjk-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tP40",
+    "space_group_number": 83,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x4",
@@ -47,17 +57,8 @@
         0.55,
         0.85
     ],
-    "strukturbericht": null,
-    "title": "Au$_{31}$Mn$_{9}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A31B9_tP40_83_ae3j4k_cjk-001",
-    "number_of_species": 2,
-    "pearson_symbol": "tP40",
-    "space_group_number": 83,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "58552"
+    "comments": null
 }

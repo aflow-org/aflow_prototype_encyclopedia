@@ -1,9 +1,19 @@
 {
     "uid": "FWL2",
+    "label": "A2B_oC12_36_2a_a-001",
+    "alias": "A2B_oC12_36_2a_a",
+    "title": "HgBr$_{2}$ ($C24$) Structure",
+    "icsd": "30290",
+    "ccdc": null,
     "prototype": "Br2Hg",
     "prototype_tex": "Br$_{2}$Hg",
-    "label": "A2B_oC12_36_2a_a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oC12",
+    "space_group_number": 36,
+    "strukturbericht": "C24",
+    "strukturbericht_tex": "$C24$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -25,18 +35,8 @@
         0.333,
         0.0
     ],
-    "strukturbericht": "C24",
-    "title": "HgBr$_{2}$ ($C24$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$C24$",
     "compounds": {},
-    "alias": "A2B_oC12_36_2a_a",
-    "number_of_species": 2,
-    "pearson_symbol": "oC12",
-    "space_group_number": 36,
-    "comments": "Space group $Cmc2_{1}$ \\#36 allows for an arbitrary placement of the origin of the $z$-axis.  Here we use this freedom to set $z_{3} = 0$ for the mercury site.",
+    "legacy": false,
     "notes": "$C24$",
-    "ccdc": null,
-    "icsd": "30290"
+    "comments": "Space group $Cmc2_{1}$ \\#36 allows for an arbitrary placement of the origin of the $z$-axis.  Here we use this freedom to set $z_{3} = 0$ for the mercury site."
 }

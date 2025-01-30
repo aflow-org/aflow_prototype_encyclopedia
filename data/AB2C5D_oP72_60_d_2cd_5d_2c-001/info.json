@@ -1,9 +1,19 @@
 {
     "uid": "2H6S",
+    "label": "AB2C5D_oP72_60_d_2cd_5d_2c-001",
+    "alias": "AB2C5D_oP72_60_d_2cd_5d_2c-001",
+    "title": "Na$_{2}$FeSbO$_{5}$ Structure",
+    "icsd": "102575",
+    "ccdc": null,
     "prototype": "FeNa2O5Sb",
     "prototype_tex": "FeNa$_{2}$O$_{5}$Sb",
-    "label": "AB2C5D_oP72_60_d_2cd_5d_2c-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oP72",
+    "space_group_number": 60,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -63,17 +73,8 @@
         0.0423,
         0.9005
     ],
-    "strukturbericht": null,
-    "title": "Na$_{2}$FeSbO$_{5}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2C5D_oP72_60_d_2cd_5d_2c-001",
-    "number_of_species": 4,
-    "pearson_symbol": "oP72",
-    "space_group_number": 60,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "102575"
+    "comments": null
 }

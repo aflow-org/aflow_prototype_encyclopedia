@@ -1,9 +1,19 @@
 {
     "uid": "YFLU",
+    "label": "AB5C2_mC32_15_e_e2f_f-001",
+    "alias": "AB5C2_mC32_15_e_e2f_f",
+    "title": "Ta$_{2}$NiSe$_{5}$ Structure",
+    "icsd": "61148",
+    "ccdc": null,
     "prototype": "NiSe5Ta2",
     "prototype_tex": "NiSe$_{5}$Ta$_{2}$",
-    "label": "AB5C2_mC32_15_e_e2f_f-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mC32",
+    "space_group_number": 15,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -37,17 +47,8 @@
         0.72135,
         0.11044
     ],
-    "strukturbericht": null,
-    "title": "Ta$_{2}$NiSe$_{5}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB5C2_mC32_15_e_e2f_f",
-    "number_of_species": 3,
-    "pearson_symbol": "mC32",
-    "space_group_number": 15,
-    "comments": "Above 328K this transforms into the \\href{current_web_home_dir/AB5C2_oC32_63_c_c2f_f-004}{Ta$_{2}$NiS$_{5}$} structure. \n When $\\beta=90^{\\circ}$, $x_{3} = 1/2$, and $x_{4} = x_{5} = 0$ this becomes the Ta$_{2}$NiS$_{5}$ structure.",
+    "legacy": false,
     "notes": "RT",
-    "ccdc": null,
-    "icsd": "61148"
+    "comments": "Above 328K this transforms into the \\href{current_web_home_dir/AB5C2_oC32_63_c_c2f_f-004}{Ta$_{2}$NiS$_{5}$} structure. \n When $\\beta=90^{\\circ}$, $x_{3} = 1/2$, and $x_{4} = x_{5} = 0$ this becomes the Ta$_{2}$NiS$_{5}$ structure."
 }

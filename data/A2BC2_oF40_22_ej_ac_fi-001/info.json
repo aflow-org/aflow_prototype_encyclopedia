@@ -1,9 +1,19 @@
 {
     "uid": "PN0D",
+    "label": "A2BC2_oF40_22_ej_ac_fi-001",
+    "alias": "A2BC2_oF40_22_fi_ad_gh",
+    "title": "CeRu$_{2}$B$_{2}$ Structure",
+    "icsd": "40800",
+    "ccdc": null,
     "prototype": "B2CeRu2",
     "prototype_tex": "B$_{2}$CeRu$_{2}$",
-    "label": "A2BC2_oF40_22_ej_ac_fi-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oF40",
+    "space_group_number": 22,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -21,17 +31,8 @@
         0.6144,
         0.9281
     ],
-    "strukturbericht": null,
-    "title": "CeRu$_{2}$B$_{2}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC2_oF40_22_fi_ad_gh",
-    "number_of_species": 3,
-    "pearson_symbol": "oF40",
-    "space_group_number": 22,
-    "comments": "As noted by (Horvath, 1987) a small amount of uncertainty in the positions of the atoms would allow this system to be placed in the centrosymmetric space group $Fddd$ \\#70.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "40800"
+    "comments": "As noted by (Horvath, 1987) a small amount of uncertainty in the positions of the atoms would allow this system to be placed in the centrosymmetric space group $Fddd$ \\#70."
 }

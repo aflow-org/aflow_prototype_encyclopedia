@@ -1,9 +1,19 @@
 {
     "uid": "U35P",
+    "label": "AB14C2_oI68_74_a_3i2j_h-001",
+    "alias": "AB14C2_oI68_74_a_3i2j_h-001",
+    "title": "MgAlB$_{14}$ Structure",
+    "icsd": "30728",
+    "ccdc": null,
     "prototype": "AlB14Mg",
     "prototype_tex": "AlB$_{14}$Mg",
-    "label": "AB14C2_oI68_74_a_3i2j_h-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oI68",
+    "space_group_number": 74,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -41,17 +51,8 @@
         0.90865,
         0.08656
     ],
-    "strukturbericht": null,
-    "title": "MgAlB$_{14}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB14C2_oI68_74_a_3i2j_h-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oI68",
-    "space_group_number": 74,
-    "comments": "The Al (4a) sites are only occupied 74.8\\% of the time, and the Mg (8h) sites is only occupied 39.0\\% of the time, so the the actual composition of this sample is Mg$_{0.780}$Al$_{0.748}$B$_{14}$. \n The atoms on the Mg (8h) site form pairs separated by 0.4{\\AA}, much too close to be physical, so at most only one site in each pair can be occupied.  Alternatively, if we set $x_{5} = 0$ then the pairs merge to become a (4e) site, with occupation 0.78.  This structure may be more convenient for electronic structure calculations. \n (Higashi, 1983) give the structure in the $Imam$ setting of space group \\#74.  We used FINDSYM and AFLOW to transform this to the standard $Imma$ setting.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "30728"
+    "comments": "The Al (4a) sites are only occupied 74.8\\% of the time, and the Mg (8h) sites is only occupied 39.0\\% of the time, so the the actual composition of this sample is Mg$_{0.780}$Al$_{0.748}$B$_{14}$. \n The atoms on the Mg (8h) site form pairs separated by 0.4{\\AA}, much too close to be physical, so at most only one site in each pair can be occupied.  Alternatively, if we set $x_{5} = 0$ then the pairs merge to become a (4e) site, with occupation 0.78.  This structure may be more convenient for electronic structure calculations. \n (Higashi, 1983) give the structure in the $Imam$ setting of space group \\#74.  We used FINDSYM and AFLOW to transform this to the standard $Imma$ setting."
 }

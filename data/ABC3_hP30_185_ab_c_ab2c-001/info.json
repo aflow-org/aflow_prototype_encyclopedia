@@ -1,9 +1,19 @@
 {
     "uid": "YGS5",
+    "label": "ABC3_hP30_185_ab_c_ab2c-001",
+    "alias": "ABC3_hP30_185_ab_c_ab2c-001",
+    "title": "LuMnO$_{3}$ Structure",
+    "icsd": "54767",
+    "ccdc": null,
     "prototype": "LuMnO3",
     "prototype_tex": "LuMnO$_{3}$",
-    "label": "ABC3_hP30_185_ab_c_ab2c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP30",
+    "space_group_number": 185,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -31,17 +41,8 @@
         0.307,
         0.1642
     ],
-    "strukturbericht": null,
-    "title": "LuMnO$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC3_hP30_185_ab_c_ab2c-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hP30",
-    "space_group_number": 185,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "54767"
+    "comments": null
 }

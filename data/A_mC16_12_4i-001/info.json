@@ -1,9 +1,19 @@
 {
     "uid": "MTF0",
+    "label": "A_mC16_12_4i-001",
+    "alias": "A_mC16_12_4i",
+    "title": "M-carbon Structure",
+    "icsd": "182760",
+    "ccdc": null,
     "prototype": "C",
     "prototype_tex": "C",
-    "label": "A_mC16_12_4i-001",
-    "parameter_symbol": [
+    "number_of_species": 1,
+    "pearson_symbol": "mC16",
+    "space_group_number": 12,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -31,17 +41,8 @@
         0.6864,
         0.4149
     ],
-    "strukturbericht": null,
-    "title": "M-carbon Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A_mC16_12_4i",
-    "number_of_species": 1,
-    "pearson_symbol": "mC16",
-    "space_group_number": 12,
-    "comments": "This structure was originally found by (Oganov, 2006) and was refined and designated M-Carbon by (Li, 2009).",
+    "legacy": false,
     "notes": "M-carbon (Theory)",
-    "ccdc": null,
-    "icsd": "182760"
+    "comments": "This structure was originally found by (Oganov, 2006) and was refined and designated M-Carbon by (Li, 2009)."
 }

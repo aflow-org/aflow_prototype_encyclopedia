@@ -1,9 +1,19 @@
 {
     "uid": "AVWT",
+    "label": "AB2_cF96_227_e_cf-001",
+    "alias": "AB2_cF96_227_e_cf",
+    "title": "NiTi$_{2}$ Structure",
+    "icsd": "105420",
+    "ccdc": null,
     "prototype": "NiTi2",
     "prototype_tex": "NiTi$_{2}$",
-    "label": "AB2_cF96_227_e_cf-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cF96",
+    "space_group_number": 227,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "x2",
         "x3"
@@ -13,17 +23,8 @@
         0.215,
         0.81
     ],
-    "strukturbericht": null,
-    "title": "NiTi$_{2}$ Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2_cF96_227_e_cf",
-    "number_of_species": 2,
-    "pearson_symbol": "cF96",
-    "space_group_number": 227,
-    "comments": "We have used the fact that all vectors of the form $(0,\\pm a/2,\\pm a/2)$, $(\\pm a/2,0,\\pm a/2)$, and $(\\pm a/2,\\pm a/2,0)$ are primitive vectors of the face-centered cubic lattice to simplify the positions of some atoms in both lattice and Cartesian coordinates.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "105420"
+    "comments": "We have used the fact that all vectors of the form $(0,\\pm a/2,\\pm a/2)$, $(\\pm a/2,0,\\pm a/2)$, and $(\\pm a/2,\\pm a/2,0)$ are primitive vectors of the face-centered cubic lattice to simplify the positions of some atoms in both lattice and Cartesian coordinates."
 }

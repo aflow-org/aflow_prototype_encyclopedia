@@ -1,9 +1,19 @@
 {
     "uid": "5T76",
+    "label": "A8B23_mP124_7_16a_46a-001",
+    "alias": "A8B23_mP124_7_16a_46a",
+    "title": "Low Temperature Mo$_{8}$O$_{23}$ Structure",
+    "icsd": "202203",
+    "ccdc": null,
     "prototype": "Mo8O23",
     "prototype_tex": "Mo$_{8}$O$_{23}$",
-    "label": "A8B23_mP124_7_16a_46a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mP124",
+    "space_group_number": 7,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -387,17 +397,8 @@
         0.7428,
         0.6683
     ],
-    "strukturbericht": null,
-    "title": "Low Temperature Mo$_{8}$O$_{23}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A8B23_mP124_7_16a_46a",
-    "number_of_species": 2,
-    "pearson_symbol": "mP124",
-    "space_group_number": 7,
-    "comments": "This data was taken at 100K.  Above 285K the structure exhibits an incommensurate charge density wave, which is approximated by the \\href{current_web_home_dir/A8B23_mP62_13_4g_a11g-001}{high temperature Mo$_{8}$O$_{23}$ structure}.",
+    "legacy": false,
     "notes": "LT",
-    "ccdc": null,
-    "icsd": "202203"
+    "comments": "This data was taken at 100K.  Above 285K the structure exhibits an incommensurate charge density wave, which is approximated by the \\href{current_web_home_dir/A8B23_mP62_13_4g_a11g-001}{high temperature Mo$_{8}$O$_{23}$ structure}."
 }

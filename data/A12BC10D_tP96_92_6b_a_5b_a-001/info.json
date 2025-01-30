@@ -1,9 +1,19 @@
 {
     "uid": "JAKV",
+    "label": "A12BC10D_tP96_92_6b_a_5b_a-001",
+    "alias": "A12BC10D_tP96_92_6b_a_5b_a",
+    "title": "Retgersite ($\\alpha$-NiSO$_{4}\\cdot$6H$_{2}$O, $H4_{5}$) Structure",
+    "icsd": "62051",
+    "ccdc": null,
     "prototype": "H12NiO10S",
     "prototype_tex": "H$_{12}$NiO$_{10}$S",
-    "label": "A12BC10D_tP96_92_6b_a_5b_a-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "tP96",
+    "space_group_number": 92,
+    "strukturbericht": "H4_5",
+    "strukturbericht_tex": "$H4_{5}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -81,18 +91,8 @@
         0.6731,
         0.0003
     ],
-    "strukturbericht": "H4_5",
-    "title": "Retgersite ($\\alpha$-NiSO$_{4}\\cdot$6H$_{2}$O, $H4_{5}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$H4_{5}$",
     "compounds": {},
-    "alias": "A12BC10D_tP96_92_6b_a_5b_a",
-    "number_of_species": 4,
-    "pearson_symbol": "tP96",
-    "space_group_number": 92,
-    "comments": "This structure is nearly identical to the one presented in (Hermann, 1937) as $H4_{5}$, but now includes the positions of the hydrogen atoms. \n This compound can also be found in the enantiomorphic space group $P4_{3}2_{1}2$ \\#98.",
+    "legacy": false,
     "notes": "$H4_{5}$, Retgersite",
-    "ccdc": null,
-    "icsd": "62051"
+    "comments": "This structure is nearly identical to the one presented in (Hermann, 1937) as $H4_{5}$, but now includes the positions of the hydrogen atoms. \n This compound can also be found in the enantiomorphic space group $P4_{3}2_{1}2$ \\#98."
 }

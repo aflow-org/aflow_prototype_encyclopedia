@@ -1,9 +1,19 @@
 {
     "uid": "ZJ0D",
+    "label": "AB3C_mC60_15_af_e4f_ef-001",
+    "alias": "AB3C_mC60_15_af_e4f_ef-001",
+    "title": "$\\alpha$-SrIrO$_{3}$ Perovskite Structure",
+    "icsd": "16295",
+    "ccdc": null,
     "prototype": "IrSrO3",
     "prototype_tex": "IrSrO$_{3}$",
-    "label": "AB3C_mC60_15_af_e4f_ef-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mC60",
+    "space_group_number": 15,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -55,17 +65,8 @@
         0.682,
         0.103
     ],
-    "strukturbericht": null,
-    "title": "$\\alpha$-SrIrO$_{3}$ Perovskite Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB3C_mC60_15_af_e4f_ef-001",
-    "number_of_species": 3,
-    "pearson_symbol": "mC60",
-    "space_group_number": 15,
-    "comments": "The structural transitions in SrIrO$_{3}$ are less certain than for other perovskites. \\begin{itemize} \\item The ground state is usually believed to be \\href{current_web_home_dir/AB3C_mC60_15_af_e4f_ef-001}{monoclinic with space group $C2/c$ \\#15} (this structure), however \\item (Schmalle, 1990) found a somewhat disordered room temperature \\href{current_web_home_dir/A2B6C7_cI90_204_e_dg_ac2f-001}{cubic phase}. \\item (Longo, 1971) found that to the right of a line from (700$^\\circ$C, 5\\,GPa) to (1650$^\\circ$, 2\\,GPa) there is a transformation to the \\href{current_web_home_dir/AB3C_oP20_62_c_cd_a-001}{orthorhombic CaTiO$_{3}$ structure}, but \\item (Wang, 2024) found a \\href{current_web_home_dir/AB3C_tP10_123_g_abi_cd-001}{tetragonal double perovskite structure} formed at 1400$^\\circ$C and 6\\,GPa, well into the range where (Longo, 1971) found the orthorhombic structure. This structure is very close to \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite ($E2_{1}$)}, which may well be the structure found at higher pressures and temperatures. \\end{itemize} ~ \\vspace{-0.25in} \n The Greek letters used to designate the phase are arbitrarily assigned in the order of the first publication describing the phases. \n We give the similar compounds in the order ABC$_{3}$, where the ``A'' atoms are on the (4a)/(8f) sites, the ``B'' atoms on the (4e)/(8f) sites, and the ``C'' atoms on the (4e)/(8f)$^{4}$ sites. \n We list quaternary compounds having this structure under the \\href{current_web_home_dir/A3BC2D9_mC60_15_ef_a_f_e4f-001}{Ba$_{3}$CoIr$_{2}$O$_{9}$} prototype.",
+    "legacy": false,
     "notes": "$\\alpha$-SrIrO$_{3}$",
-    "ccdc": null,
-    "icsd": "16295"
+    "comments": "The structural transitions in SrIrO$_{3}$ are less certain than for other perovskites. \\begin{itemize} \\item The ground state is usually believed to be \\href{current_web_home_dir/AB3C_mC60_15_af_e4f_ef-001}{monoclinic with space group $C2/c$ \\#15} (this structure), however \\item (Schmalle, 1990) found a somewhat disordered room temperature \\href{current_web_home_dir/A2B6C7_cI90_204_e_dg_ac2f-001}{cubic phase}. \\item (Longo, 1971) found that to the right of a line from (700$^\\circ$C, 5\\,GPa) to (1650$^\\circ$, 2\\,GPa) there is a transformation to the \\href{current_web_home_dir/AB3C_oP20_62_c_cd_a-001}{orthorhombic CaTiO$_{3}$ structure}, but \\item (Wang, 2024) found a \\href{current_web_home_dir/AB3C_tP10_123_g_abi_cd-001}{tetragonal double perovskite structure} formed at 1400$^\\circ$C and 6\\,GPa, well into the range where (Longo, 1971) found the orthorhombic structure. This structure is very close to \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite ($E2_{1}$)}, which may well be the structure found at higher pressures and temperatures. \\end{itemize} ~ \\vspace{-0.25in} \n The Greek letters used to designate the phase are arbitrarily assigned in the order of the first publication describing the phases. \n We give the similar compounds in the order ABC$_{3}$, where the ``A'' atoms are on the (4a)/(8f) sites, the ``B'' atoms on the (4e)/(8f) sites, and the ``C'' atoms on the (4e)/(8f)$^{4}$ sites. \n We list quaternary compounds having this structure under the \\href{current_web_home_dir/A3BC2D9_mC60_15_ef_a_f_e4f-001}{Ba$_{3}$CoIr$_{2}$O$_{9}$} prototype."
 }

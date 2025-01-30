@@ -1,9 +1,19 @@
 {
     "uid": "9G5F",
+    "label": "A9BC3_hR26_155_3cdef_c_f-001",
+    "alias": "A9BC3_hR26_155_3cdef_c_f-001",
+    "title": "ErNi$_{3}$Al$_{9}$ Structure",
+    "icsd": "105031",
+    "ccdc": null,
     "prototype": "Al9ErNi3",
     "prototype_tex": "Al$_{9}$ErNi$_{3}$",
-    "label": "A9BC3_hR26_155_3cdef_c_f-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hR26",
+    "space_group_number": 155,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -35,17 +45,8 @@
         0.07912,
         0.41832
     ],
-    "strukturbericht": null,
-    "title": "ErNi$_{3}$Al$_{9}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A9BC3_hR26_155_3cdef_c_f-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hR26",
-    "space_group_number": 155,
-    "comments": "DyNi$_{3}$Al$_{9}$ and YNi$_{3}$Al$_{9}$ have additional rare earth atoms on the (1b) (1/2 1/2 1/2) site and aluminum on another (6f) site, with partial occupancy on the rare earth (1b) and (1c) sites as well as the (3d) and both (6f) aluminum sites (Gladyshevskii, 1993, Table 2). \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "105031"
+    "comments": "DyNi$_{3}$Al$_{9}$ and YNi$_{3}$Al$_{9}$ have additional rare earth atoms on the (1b) (1/2 1/2 1/2) site and aluminum on another (6f) site, with partial occupancy on the rare earth (1b) and (1c) sites as well as the (3d) and both (6f) aluminum sites (Gladyshevskii, 1993, Table 2). \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

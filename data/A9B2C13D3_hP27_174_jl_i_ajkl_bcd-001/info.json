@@ -1,9 +1,19 @@
 {
     "uid": "Q3WS",
+    "label": "A9B2C13D3_hP27_174_jl_i_ajkl_bcd-001",
+    "alias": "A9B2C13D3_hP27_174_jl_i_ajkl_bcd-001",
+    "title": "Tl$_{3}$Ga$_{9}$S$_{13}$O$_{2}$ Structure",
+    "icsd": "61256",
+    "ccdc": null,
     "prototype": "Ga9O2S13Tl3",
     "prototype_tex": "Ga$_{9}$O$_{2}$S$_{13}$Tl$_{3}$",
-    "label": "A9B2C13D3_hP27_174_jl_i_ajkl_bcd-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "hP27",
+    "space_group_number": 174,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z5",
@@ -37,17 +47,8 @@
         0.689773,
         0.2554
     ],
-    "strukturbericht": null,
-    "title": "Tl$_{3}$Ga$_{9}$S$_{13}$O$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A9B2C13D3_hP27_174_jl_i_ajkl_bcd-001",
-    "number_of_species": 4,
-    "pearson_symbol": "hP27",
-    "space_group_number": 174,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "61256"
+    "comments": null
 }

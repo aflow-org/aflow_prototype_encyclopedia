@@ -1,9 +1,19 @@
 {
     "uid": "RHYA",
+    "label": "AB2_aP12_1_4a_8a-001",
+    "alias": "AB2_aP12_1_4a_8a",
+    "title": "FeS$_{2}$ ($P1$) Structure",
+    "icsd": "10422",
+    "ccdc": null,
     "prototype": "FeS2",
     "prototype_tex": "FeS$_{2}$",
-    "label": "AB2_aP12_1_4a_8a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "aP12",
+    "space_group_number": 1,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -91,17 +101,8 @@
         0.8842,
         0.3857
     ],
-    "strukturbericht": null,
-    "title": "FeS$_{2}$ ($P1$) Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2_aP12_1_4a_8a",
-    "number_of_species": 2,
-    "pearson_symbol": "aP12",
-    "space_group_number": 1,
-    "comments": "FeS$_{2}$ has been found in at least four forms: \\begin{itemize} \\item a \\href{current_web_home_dir/AB2_aP12_1_4a_8a-001}{triclinic ($P1$ \\#1) phase} (this structure), \\item a low temperature \\href{current_web_home_dir/AB2_oP12_29_a_2a-001}{orthorhombic pyrite phase}, \\item the most commonly observed state, \\href{current_web_home_dir/AB2_cP12_205_a_c-001}{cubic pyrite ($C2$)}, and \\item \\href{current_web_home_dir/AB2_oP6_58_a_g-003}{orthorhombic martensite ($C18$)}. \\end{itemize} ~ \\vspace{-.25in} \n This structure is just a slightly distorted version of \\href{current_web_home_dir/AB2_cP12_205_a_c-001}{pyrite ($C2$)}, with no rotational symmetry whatsoever.",
+    "legacy": false,
     "notes": "Triclinic FeS$_{2}$",
-    "ccdc": null,
-    "icsd": "10422"
+    "comments": "FeS$_{2}$ has been found in at least four forms: \\begin{itemize} \\item a \\href{current_web_home_dir/AB2_aP12_1_4a_8a-001}{triclinic ($P1$ \\#1) phase} (this structure), \\item a low temperature \\href{current_web_home_dir/AB2_oP12_29_a_2a-001}{orthorhombic pyrite phase}, \\item the most commonly observed state, \\href{current_web_home_dir/AB2_cP12_205_a_c-001}{cubic pyrite ($C2$)}, and \\item \\href{current_web_home_dir/AB2_oP6_58_a_g-003}{orthorhombic martensite ($C18$)}. \\end{itemize} ~ \\vspace{-.25in} \n This structure is just a slightly distorted version of \\href{current_web_home_dir/AB2_cP12_205_a_c-001}{pyrite ($C2$)}, with no rotational symmetry whatsoever."
 }

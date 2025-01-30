@@ -1,9 +1,19 @@
 {
     "uid": "FUM3",
+    "label": "A3B4_hP14_176_h_ch-002",
+    "alias": "A3B4_hP14_176_h_ch-002",
+    "title": "Nb$_{3}$Te$_{4}$ Structure",
+    "icsd": "16606",
+    "ccdc": null,
     "prototype": "Nb3Te4",
     "prototype_tex": "Nb$_{3}$Te$_{4}$",
-    "label": "A3B4_hP14_176_h_ch-002",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP14",
+    "space_group_number": 176,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -19,17 +29,8 @@
         0.3389,
         0.2731
     ],
-    "strukturbericht": null,
-    "title": "Nb$_{3}$Te$_{4}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B4_hP14_176_h_ch-002",
-    "number_of_species": 2,
-    "pearson_symbol": "hP14",
-    "space_group_number": 176,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "16606"
+    "comments": null
 }

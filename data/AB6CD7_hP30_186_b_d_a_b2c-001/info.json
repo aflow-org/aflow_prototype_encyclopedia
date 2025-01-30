@@ -1,9 +1,19 @@
 {
     "uid": "TXNW",
+    "label": "AB6CD7_hP30_186_b_d_a_b2c-001",
+    "alias": "AB6CD7_hP30_186_b_d_a_b2c",
+    "title": "LiClO$_{4}\\cdot$3H$_{2}$O ($H4_{18}$) Structure",
+    "icsd": "32534",
+    "ccdc": null,
     "prototype": "ClH6LiO7",
     "prototype_tex": "ClH$_{6}$LiO$_{7}$",
-    "label": "AB6CD7_hP30_186_b_d_a_b2c-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "hP30",
+    "space_group_number": 186,
+    "strukturbericht": "H4_18",
+    "strukturbericht_tex": "$H4_{18}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -31,18 +41,8 @@
         0.263257,
         0.53382
     ],
-    "strukturbericht": "H4_18",
-    "title": "LiClO$_{4}\\cdot$3H$_{2}$O ($H4_{18}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$H4_{18}$",
     "compounds": {},
-    "alias": "AB6CD7_hP30_186_b_d_a_b2c",
-    "number_of_species": 4,
-    "pearson_symbol": "hP30",
-    "space_group_number": 186,
+    "legacy": false,
     "notes": "$H4_{18}$",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "32534"
+    "comments": null
 }

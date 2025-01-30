@@ -1,9 +1,19 @@
 {
     "uid": "8883",
+    "label": "A11B3C2_cI64_197_cdf_e_c-001",
+    "alias": "A11B3C2_cI64_197_cdf_e_c-001",
+    "title": "Hf$_{10}$Ta$_{3}$S$_{3}$ Structure",
+    "icsd": "73743",
+    "ccdc": null,
     "prototype": "Hf10S3Ta3",
     "prototype_tex": "Hf$_{10}$S$_{3}$Ta$_{3}$",
-    "label": "A11B3C2_cI64_197_cdf_e_c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cI64",
+    "space_group_number": 197,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "x1",
         "x2",
@@ -23,17 +33,8 @@
         0.7816,
         0.5671
     ],
-    "strukturbericht": null,
-    "title": "Hf$_{10}$Ta$_{3}$S$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A11B3C2_cI64_197_cdf_e_c-001",
-    "number_of_species": 3,
-    "pearson_symbol": "cI64",
-    "space_group_number": 197,
-    "comments": "The metallic sites are mixed.  While both (Marking, 1993) and (Villars, 2016) assign the Hf II, Hf III and Ta sites as we have, (Marking, 1993) assumes that what we call the Hf I site (their M2 site) is approximately 55\\% hafnium and 45\\% tantalum, making the nominal composition Hf$_{10.1}$Ta$_{2.9}$S$_{3}$.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "73743"
+    "comments": "The metallic sites are mixed.  While both (Marking, 1993) and (Villars, 2016) assign the Hf II, Hf III and Ta sites as we have, (Marking, 1993) assumes that what we call the Hf I site (their M2 site) is approximately 55\\% hafnium and 45\\% tantalum, making the nominal composition Hf$_{10.1}$Ta$_{2.9}$S$_{3}$."
 }

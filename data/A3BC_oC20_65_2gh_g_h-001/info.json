@@ -1,9 +1,19 @@
 {
     "uid": "Q3JB",
+    "label": "A3BC_oC20_65_2gh_g_h-001",
+    "alias": "A3BC_oC20_65_2gh_g_h-001",
+    "title": "SmNiGe$_{3}$ Structure",
+    "icsd": "160309",
+    "ccdc": null,
     "prototype": "Ge3NiSm",
     "prototype_tex": "Ge$_{3}$NiSm",
-    "label": "A3BC_oC20_65_2gh_g_h-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oC20",
+    "space_group_number": 65,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -23,17 +33,8 @@
         0.5568,
         0.8317
     ],
-    "strukturbericht": null,
-    "title": "SmNiGe$_{3}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3BC_oC20_65_2gh_g_h-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oC20",
-    "space_group_number": 65,
-    "comments": "(Mun, 2010) give the structure with the long axis of the unit cell along the c-axis.  AFLOW rotates this so that it points along the x-axis.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "160309"
+    "comments": "(Mun, 2010) give the structure with the long axis of the unit cell along the c-axis.  AFLOW rotates this so that it points along the x-axis."
 }

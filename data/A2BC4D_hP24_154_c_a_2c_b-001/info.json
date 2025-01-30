@@ -1,9 +1,19 @@
 {
     "uid": "8R3H",
+    "label": "A2BC4D_hP24_154_c_a_2c_b-001",
+    "alias": "A2BC4D_hP24_154_c_a_2c_b-001",
+    "title": "RbAg$_{2}$SbS$_{4}$ Structure",
+    "icsd": "82145",
+    "ccdc": null,
     "prototype": "Ag2RbS4Sb",
     "prototype_tex": "Ag$_{2}$RbS$_{4}$Sb",
-    "label": "A2BC4D_hP24_154_c_a_2c_b-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "hP24",
+    "space_group_number": 154,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -33,17 +43,8 @@
         0.6674,
         0.174597
     ],
-    "strukturbericht": null,
-    "title": "RbAg$_{2}$SbS$_{4}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC4D_hP24_154_c_a_2c_b-001",
-    "number_of_species": 4,
-    "pearson_symbol": "hP24",
-    "space_group_number": 154,
-    "comments": "This structure may also be found in the enantiomorphic space group $P3_{1}21$ \\#152.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "82145"
+    "comments": "This structure may also be found in the enantiomorphic space group $P3_{1}21$ \\#152."
 }

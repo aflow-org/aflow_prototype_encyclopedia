@@ -1,9 +1,19 @@
 {
     "uid": "SBCX",
+    "label": "AB5C_tP7_123_b_ci_a-001",
+    "alias": "AB5C_tP7_123_b_ci_a",
+    "title": "HoCoGa$_{5}$ Structure",
+    "icsd": "42427",
+    "ccdc": null,
     "prototype": "CoGa5Ho",
     "prototype_tex": "CoGa$_{5}$Ho",
-    "label": "AB5C_tP7_123_b_ci_a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP7",
+    "space_group_number": 123,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z4"
@@ -13,17 +23,8 @@
         1.61517,
         0.312
     ],
-    "strukturbericht": null,
-    "title": "HoCoGa$_{5}$ Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB5C_tP7_123_b_ci_a",
-    "number_of_species": 3,
-    "pearson_symbol": "tP7",
-    "space_group_number": 123,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "42427"
+    "comments": null
 }

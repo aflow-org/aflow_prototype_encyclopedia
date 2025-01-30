@@ -1,9 +1,19 @@
 {
     "uid": "3HHF",
+    "label": "A8B3C_cI96_206_ce_d_a-001",
+    "alias": "A8B3C_cI96_206_ce_d_a-001",
+    "title": "ZrTe$_{3}$O$_{8}$ Structure",
+    "icsd": "409713",
+    "ccdc": null,
     "prototype": "O8Te3Zr",
     "prototype_tex": "O$_{8}$Te$_{3}$Zr",
-    "label": "A8B3C_cI96_206_ce_d_a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cI96",
+    "space_group_number": 206,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "x2",
         "x3",
@@ -19,17 +29,8 @@
         0.0621,
         0.362
     ],
-    "strukturbericht": null,
-    "title": "ZrTe$_{3}$O$_{8}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A8B3C_cI96_206_ce_d_a-001",
-    "number_of_species": 3,
-    "pearson_symbol": "cI96",
-    "space_group_number": 206,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "409713"
+    "comments": null
 }

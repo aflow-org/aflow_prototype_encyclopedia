@@ -1,9 +1,19 @@
 {
     "uid": "72A0",
+    "label": "A3B2C5_oP40_62_3c_2c_5c-001",
+    "alias": "A3B2C5_oP40_62_3c_2c_5c-001",
+    "title": "Ta$_{2}$Ni$_{3}$Te$_{5}$ Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "Ni3Ta2Te5",
     "prototype_tex": "Ni$_{3}$Ta$_{2}$Te$_{5}$",
-    "label": "A3B2C5_oP40_62_3c_2c_5c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP40",
+    "space_group_number": 62,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -53,17 +63,8 @@
         0.61294,
         0.34214
     ],
-    "strukturbericht": null,
-    "title": "Ta$_{2}$Ni$_{3}$Te$_{5}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B2C5_oP40_62_3c_2c_5c-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oP40",
-    "space_group_number": 62,
-    "comments": "We wish to thank Petra Lipsky, FIZ Karlsruhe - Leibniz-Institut f\\\"{u}r Informationsinfrastruktur, who provided us with the data referenced in (Tremel, 1991). For more information about the FIZ Karlsruhe archive, see \\href{https://icsd.products.fiz-karlsruhe.de}{FIZ Karlsruhe}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "none"
+    "comments": "We wish to thank Petra Lipsky, FIZ Karlsruhe - Leibniz-Institut f\\\"{u}r Informationsinfrastruktur, who provided us with the data referenced in (Tremel, 1991). For more information about the FIZ Karlsruhe archive, see \\href{https://icsd.products.fiz-karlsruhe.de}{FIZ Karlsruhe}."
 }

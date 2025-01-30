@@ -1,9 +1,19 @@
 {
     "uid": "L6M4",
+    "label": "A9B8_oC68_21_acehik2l_4l-001",
+    "alias": "A9B8_oC68_21_acehik2l_4l-001",
+    "title": "Godlevskite (Ni$_{9}$S$_{8}$) Structure",
+    "icsd": "63080",
+    "ccdc": null,
     "prototype": "Ni9S8",
     "prototype_tex": "Ni$_{9}$S$_{8}$",
-    "label": "A9B8_oC68_21_acehik2l_4l-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oC68",
+    "space_group_number": 21,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -57,17 +67,8 @@
         0.61977,
         0.8859
     ],
-    "strukturbericht": null,
-    "title": "Godlevskite (Ni$_{9}$S$_{8}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A9B8_oC68_21_acehik2l_4l-001",
-    "number_of_species": 2,
-    "pearson_symbol": "oC68",
-    "space_group_number": 21,
-    "comments": "(Fleet, 1987) says that the actual composition of the sample is (Ni$_{8.7}$Fe$_{0.3}$)S$_{8}$ with no information about where the iron atoms are located, although the associated ICSD entry states that our Ni-II (2c) (Fleet's (2b)) site is half nickel and half iron.",
+    "legacy": false,
     "notes": "Godlevskite",
-    "ccdc": null,
-    "icsd": "63080"
+    "comments": "(Fleet, 1987) says that the actual composition of the sample is (Ni$_{8.7}$Fe$_{0.3}$)S$_{8}$ with no information about where the iron atoms are located, although the associated ICSD entry states that our Ni-II (2c) (Fleet's (2b)) site is half nickel and half iron."
 }

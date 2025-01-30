@@ -1,9 +1,19 @@
 {
     "uid": "8E2P",
+    "label": "A2B_cP72_205_2d_d-001",
+    "alias": "A2B_cP72_205_2d_d-001",
+    "title": "Hexacyanobenzene (C$_{2}$N) Structure",
+    "icsd": "30814",
+    "ccdc": null,
     "prototype": "C2N",
     "prototype_tex": "C$_{2}$N",
-    "label": "A2B_cP72_205_2d_d-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cP72",
+    "space_group_number": 205,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "x1",
         "y1",
@@ -27,17 +37,8 @@
         0.7456,
         0.9863
     ],
-    "strukturbericht": null,
-    "title": "Hexacyanobenzene (C$_{2}$N) Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B_cP72_205_2d_d-001",
-    "number_of_species": 2,
-    "pearson_symbol": "cP72",
-    "space_group_number": 205,
-    "comments": "We use the ``High angle'' measurements of (Dr\"{u}ck, 1984).",
+    "legacy": false,
     "notes": "Hexacyanobenzene",
-    "ccdc": null,
-    "icsd": "30814"
+    "comments": "We use the ``High angle'' measurements of (Dr\"{u}ck, 1984)."
 }

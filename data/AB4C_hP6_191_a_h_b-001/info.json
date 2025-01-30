@@ -1,9 +1,19 @@
 {
     "uid": "PDN7",
+    "label": "AB4C_hP6_191_a_h_b-001",
+    "alias": "AB4C_hP6_191_a_h_b",
+    "title": "AlB$_{4}$Mg Structure",
+    "icsd": "97224",
+    "ccdc": null,
     "prototype": "AlB4Mg",
     "prototype_tex": "AlB$_{4}$Mg",
-    "label": "AB4C_hP6_191_a_h_b-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP6",
+    "space_group_number": 191,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3"
@@ -13,17 +23,8 @@
         2.20487,
         0.2413
     ],
-    "strukturbericht": null,
-    "title": "AlB$_{4}$Mg Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB4C_hP6_191_a_h_b",
-    "number_of_species": 3,
-    "pearson_symbol": "hP6",
-    "space_group_number": 191,
-    "comments": "Note that Table I of (Margadonna, 2002) mislabels the (1a) and (1b) Wyckoff positions.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "97224"
+    "comments": "Note that Table I of (Margadonna, 2002) mislabels the (1a) and (1b) Wyckoff positions."
 }

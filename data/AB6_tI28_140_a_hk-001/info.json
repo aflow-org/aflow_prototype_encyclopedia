@@ -1,9 +1,19 @@
 {
     "uid": "1Q6T",
+    "label": "AB6_tI28_140_a_hk-001",
+    "alias": "AB6_tI28_140_a_hk",
+    "title": "U$_{6}$Mn ($D2_{c}$) Structure",
+    "icsd": "150486",
+    "ccdc": null,
     "prototype": "MnU6",
     "prototype_tex": "MnU$_{6}$",
-    "label": "AB6_tI28_140_a_hk-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tI28",
+    "space_group_number": 140,
+    "strukturbericht": "D2_c",
+    "strukturbericht_tex": "$D2_{c}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -17,18 +27,8 @@
         0.2141,
         0.1021
     ],
-    "strukturbericht": "D2_c",
-    "title": "U$_{6}$Mn ($D2_{c}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$D2_{c}$",
     "compounds": {},
-    "alias": "AB6_tI28_140_a_hk",
-    "number_of_species": 2,
-    "pearson_symbol": "tI28",
-    "space_group_number": 140,
-    "comments": "This structure is closely related to the \\href{current_web_home_dir/A2BC4_tI28_140_h_a_k-001}{V$_{4}$SiSb$_{2}$ structure}. This can also be identified as a defected version of the \\href{current_web_home_dir/A3B5_tI32_140_ah_bk-001}{$D8_{m}$ W$_{5}$Si$_{3}$ structure}.",
+    "legacy": false,
     "notes": "$D2_{c}$",
-    "ccdc": null,
-    "icsd": "150486"
+    "comments": "This structure is closely related to the \\href{current_web_home_dir/A2BC4_tI28_140_h_a_k-001}{V$_{4}$SiSb$_{2}$ structure}. This can also be identified as a defected version of the \\href{current_web_home_dir/A3B5_tI32_140_ah_bk-001}{$D8_{m}$ W$_{5}$Si$_{3}$ structure}."
 }

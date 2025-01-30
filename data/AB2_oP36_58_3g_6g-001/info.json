@@ -1,9 +1,19 @@
 {
     "uid": "9JBK",
+    "label": "AB2_oP36_58_3g_6g-001",
+    "alias": "AB2_oP36_58_3g_6g-001",
+    "title": "Ta$_{2}$P Structure",
+    "icsd": "87507",
+    "ccdc": null,
     "prototype": "PTa2",
     "prototype_tex": "PTa$_{2}$",
-    "label": "AB2_oP36_58_3g_6g-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP36",
+    "space_group_number": 58,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -49,17 +59,8 @@
         0.87746,
         0.42201
     ],
-    "strukturbericht": null,
-    "title": "Ta$_{2}$P Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2_oP36_58_3g_6g-001",
-    "number_of_species": 2,
-    "pearson_symbol": "oP36",
-    "space_group_number": 58,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "87507"
+    "comments": null
 }

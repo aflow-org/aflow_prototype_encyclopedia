@@ -1,9 +1,19 @@
 {
     "uid": "75K4",
+    "label": "AB2_hP3_191_a_d-001",
+    "alias": "AB2_hP3_191_a_d",
+    "title": "Hexagonal $\\omega$ ($C32$) Structure",
+    "icsd": "99639",
+    "ccdc": null,
     "prototype": "AlB2",
     "prototype_tex": "AlB$_{2}$",
-    "label": "AB2_hP3_191_a_d-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP3",
+    "space_group_number": 191,
+    "strukturbericht": "C32",
+    "strukturbericht_tex": "$C32$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a"
     ],
@@ -11,18 +21,8 @@
         3.005,
         1.08276
     ],
-    "strukturbericht": "C32",
-    "title": "Hexagonal $\\omega$ ($C32$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$C32$",
     "compounds": {},
-    "alias": "AB2_hP3_191_a_d",
-    "number_of_species": 2,
-    "pearson_symbol": "hP3",
-    "space_group_number": 191,
-    "comments": "This is the hexagonal $\\omega$ phase. There is also a \\href{current_web_home_dir/AB2_hP3_164_a_d-001}{trigonal $\\omega$ (C6)} phase. For more details about the $\\omega$ phase and materials which form in the $\\omega$ phase see (Sikka, 1982). \n Many $\\omega$ phase intermetallic alloys are disordered, we list some of the ordered structures here. \n In this structure the B-B distance is smaller than the Al-B distance for every $c/a$ ratio. \n If $c/a$ is small enough the structure looks like a set of inter-penetrating boron triangular planes and aluminium chains. \n If $c/a = 1/\\sqrt{3}$ the Al-Al distance along (001) is the same as the B-B distance in the plane, and the B-B distance in the (001) direction. This value 0.577 is close to the value $\\sqrt{3/8} \\, (\\approx 0.612)$ where the trigonal $\\omega$ phase can transform to the \\href{current_web_home_dir/A_cI2_229_a-001}{body-centered cubic (A2)} lattice, which probably explains the close connection between the $\\omega$ and bcc phases. \n In the current sample (Burkhardt, 2004) the aluminum (1a) site has 10\\% vacancies.",
+    "legacy": false,
     "notes": "$C32$ $\\omega$",
-    "ccdc": null,
-    "icsd": "99639"
+    "comments": "This is the hexagonal $\\omega$ phase. There is also a \\href{current_web_home_dir/AB2_hP3_164_a_d-001}{trigonal $\\omega$ (C6)} phase. For more details about the $\\omega$ phase and materials which form in the $\\omega$ phase see (Sikka, 1982). \n Many $\\omega$ phase intermetallic alloys are disordered, we list some of the ordered structures here. \n In this structure the B-B distance is smaller than the Al-B distance for every $c/a$ ratio. \n If $c/a$ is small enough the structure looks like a set of inter-penetrating boron triangular planes and aluminium chains. \n If $c/a = 1/\\sqrt{3}$ the Al-Al distance along (001) is the same as the B-B distance in the plane, and the B-B distance in the (001) direction. This value 0.577 is close to the value $\\sqrt{3/8} \\, (\\approx 0.612)$ where the trigonal $\\omega$ phase can transform to the \\href{current_web_home_dir/A_cI2_229_a-001}{body-centered cubic (A2)} lattice, which probably explains the close connection between the $\\omega$ and bcc phases. \n In the current sample (Burkhardt, 2004) the aluminum (1a) site has 10\\% vacancies."
 }

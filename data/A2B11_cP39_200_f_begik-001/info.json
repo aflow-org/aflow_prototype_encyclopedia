@@ -1,9 +1,19 @@
 {
     "uid": "8FHP",
+    "label": "A2B11_cP39_200_f_begik-001",
+    "alias": "A2B11_cP39_200_f_aghij",
+    "title": "Mg$_{2}$Zn$_{11}$ ($D8_{c}$) Structure",
+    "icsd": "104898",
+    "ccdc": null,
     "prototype": "Mg2Zn11",
     "prototype_tex": "Mg$_{2}$Zn$_{11}$",
-    "label": "A2B11_cP39_200_f_begik-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cP39",
+    "space_group_number": 200,
+    "strukturbericht": "D8_c",
+    "strukturbericht_tex": "$D8_{c}$",
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "x2",
         "x3",
@@ -21,18 +31,8 @@
         0.757,
         0.343
     ],
-    "strukturbericht": "D8_c",
-    "title": "Mg$_{2}$Zn$_{11}$ ($D8_{c}$) Structure",
-    "part": 2,
-    "legacy": false,
-    "strukturbericht_tex": "$D8_{c}$",
     "compounds": {},
-    "alias": "A2B11_cP39_200_f_aghij",
-    "number_of_species": 2,
-    "pearson_symbol": "cP39",
-    "space_group_number": 200,
+    "legacy": false,
     "notes": "$D8_{c}$",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "104898"
+    "comments": null
 }

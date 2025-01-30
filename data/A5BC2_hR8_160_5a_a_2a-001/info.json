@@ -1,9 +1,19 @@
 {
     "uid": "6V4S",
+    "label": "A5BC2_hR8_160_5a_a_2a-001",
+    "alias": "A5BC2_hR8_160_5a_a_2a-001",
+    "title": "Fe$_{5-\\delta}$GeTe$_{2}$ Structure",
+    "icsd": "130074",
+    "ccdc": null,
     "prototype": "Fe5GeTe2",
     "prototype_tex": "Fe$_{5}$GeTe$_{2}$",
-    "label": "A5BC2_hR8_160_5a_a_2a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hR8",
+    "space_group_number": 160,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -27,17 +37,8 @@
         0.7205,
         0.28243
     ],
-    "strukturbericht": null,
-    "title": "Fe$_{5-\\delta}$GeTe$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A5BC2_hR8_160_5a_a_2a-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hR8",
-    "space_group_number": 160,
-    "comments": "The Fe-III and Fe-V sites are partially occupied, with 89.8\\% and 72.5\\% filling, respectively, so that $\\delta = 0.377$.  The iron atoms may also be replaced by nickel. \n (Stahl, 2018) found that the germanium atoms actually half-fill two sites, one with $z = 0.48493$ and the other with $z = 0.50663$.  In the diagram these two sites will overlap, so we replaced them by a single averaged site. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "130074"
+    "comments": "The Fe-III and Fe-V sites are partially occupied, with 89.8\\% and 72.5\\% filling, respectively, so that $\\delta = 0.377$.  The iron atoms may also be replaced by nickel. \n (Stahl, 2018) found that the germanium atoms actually half-fill two sites, one with $z = 0.48493$ and the other with $z = 0.50663$.  In the diagram these two sites will overlap, so we replaced them by a single averaged site. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

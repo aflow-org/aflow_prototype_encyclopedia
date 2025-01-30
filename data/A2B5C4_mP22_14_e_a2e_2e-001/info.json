@@ -1,9 +1,19 @@
 {
     "uid": "YL8Z",
+    "label": "A2B5C4_mP22_14_e_a2e_2e-001",
+    "alias": "A2B5C4_mP22_14_e_c2e_2e",
+    "title": "Sb$_{4}$O$_{5}$Cl$_{2}$ Structure",
+    "icsd": "2233",
+    "ccdc": null,
     "prototype": "Cl2O5Sb4",
     "prototype_tex": "Cl$_{2}$O$_{5}$Sb$_{4}$",
-    "label": "A2B5C4_mP22_14_e_a2e_2e-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mP22",
+    "space_group_number": 14,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -45,17 +55,8 @@
         0.11695,
         0.70157
     ],
-    "strukturbericht": null,
-    "title": "Sb$_{4}$O$_{5}$Cl$_{2}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B5C4_mP22_14_e_c2e_2e",
-    "number_of_species": 3,
-    "pearson_symbol": "mP22",
-    "space_group_number": 14,
-    "comments": "Previously we used the atomic positions from Table 3 of (S\\\"{a}rnstrand, 1978), but now use the refined values from Table 4. We have also shifted to origin to place an oxygen atom at the origin.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "2233"
+    "comments": "Previously we used the atomic positions from Table 3 of (S\\\"{a}rnstrand, 1978), but now use the refined values from Table 4. We have also shifted to origin to place an oxygen atom at the origin."
 }

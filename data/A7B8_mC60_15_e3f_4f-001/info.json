@@ -1,9 +1,19 @@
 {
     "uid": "L5GZ",
+    "label": "A7B8_mC60_15_e3f_4f-001",
+    "alias": "A7B8_mC60_15_e3f_4f-001",
+    "title": "Monoclinic Pyrrhotite (Fe$_{7}$S$_{8}$) Structure",
+    "icsd": "42491",
+    "ccdc": null,
     "prototype": "Fe7S8",
     "prototype_tex": "Fe$_{7}$S$_{8}$",
-    "label": "A7B8_mC60_15_e3f_4f-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC60",
+    "space_group_number": 15,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -59,17 +69,8 @@
         0.3855,
         0.3826
     ],
-    "strukturbericht": null,
-    "title": "Monoclinic Pyrrhotite (Fe$_{7}$S$_{8}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A7B8_mC60_15_e3f_4f-001",
-    "number_of_species": 2,
-    "pearson_symbol": "mC60",
-    "space_group_number": 15,
-    "comments": "(Tokonami, 1972) say that this is FeS in the \\href{current_web_home_dir/AB_hP4_194_c_a-001}{$B8_{1}$ (NiAs)} structure, with 1/8 of the iron atoms removed in an ordered array.  They gave the structural information in the $F2/d$ setting of space group \\#15.  We used FINDSYM to transform this to the $C2/c$ setting, halving the size of the conventional unit cell from that in the $F2/d$ setting.",
+    "legacy": false,
     "notes": "Monoclinic Pyrrhotite",
-    "ccdc": null,
-    "icsd": "42491"
+    "comments": "(Tokonami, 1972) say that this is FeS in the \\href{current_web_home_dir/AB_hP4_194_c_a-001}{$B8_{1}$ (NiAs)} structure, with 1/8 of the iron atoms removed in an ordered array.  They gave the structural information in the $F2/d$ setting of space group \\#15.  We used FINDSYM to transform this to the $C2/c$ setting, halving the size of the conventional unit cell from that in the $F2/d$ setting."
 }

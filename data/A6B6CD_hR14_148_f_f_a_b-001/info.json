@@ -1,9 +1,19 @@
 {
     "uid": "5954",
+    "label": "A6B6CD_hR14_148_f_f_a_b-001",
+    "alias": "A6B6CD_hR14_148_f_f_b_a",
+    "title": "Ni(H$_{2}$O)$_{6}$SnCl$_{6}$ ($I6_{1}$) Structure",
+    "icsd": "26679",
+    "ccdc": null,
     "prototype": "Cl6(H2O)6NiSn",
     "prototype_tex": "Cl$_{6}$(H$_{2}$O)$_{6}$NiSn",
-    "label": "A6B6CD_hR14_148_f_f_a_b-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "hR14",
+    "space_group_number": 148,
+    "strukturbericht": "I6_1",
+    "strukturbericht_tex": "$I6_{1}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -23,18 +33,8 @@
         0.94,
         0.14001
     ],
-    "strukturbericht": "I6_1",
-    "title": "Ni(H$_{2}$O)$_{6}$SnCl$_{6}$ ($I6_{1}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$I6_{1}$",
     "compounds": {},
-    "alias": "A6B6CD_hR14_148_f_f_b_a",
-    "number_of_species": 4,
-    "pearson_symbol": "hR14",
-    "space_group_number": 148,
-    "comments": "Ni(H$_{2}$O)$_{6}$SnCl$_{6}$ is the prototype for a large class of molecular crystals with the form MG$_{6}$LR$_{6}$, where MG$_{6}$ is a cation and LR$_{6}$ is an anion. (Hermann, 1937) gave this the {\\em Strukturbericht} designation $I6_{1}$.  (Gottfried, 1937) changed the $I$ designations to $J$, so this should have become $J6_{1}$, but it was never referenced in any form in later volumes of {\\em Strukturbericht}.  Since $I6_{1}$ is the only designation for this structure in the literature, we we use it rather than $J1_{6}$.",
+    "legacy": false,
     "notes": "$I6_{1}$",
-    "ccdc": null,
-    "icsd": "26679"
+    "comments": "Ni(H$_{2}$O)$_{6}$SnCl$_{6}$ is the prototype for a large class of molecular crystals with the form MG$_{6}$LR$_{6}$, where MG$_{6}$ is a cation and LR$_{6}$ is an anion. (Hermann, 1937) gave this the {\\em Strukturbericht} designation $I6_{1}$.  (Gottfried, 1937) changed the $I$ designations to $J$, so this should have become $J6_{1}$, but it was never referenced in any form in later volumes of {\\em Strukturbericht}.  Since $I6_{1}$ is the only designation for this structure in the literature, we we use it rather than $J1_{6}$."
 }

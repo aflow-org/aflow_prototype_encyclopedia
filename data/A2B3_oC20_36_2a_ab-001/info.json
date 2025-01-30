@@ -1,9 +1,19 @@
 {
     "uid": "36FH",
+    "label": "A2B3_oC20_36_2a_ab-001",
+    "alias": "A2B3_oC20_36_2a_ab-001",
+    "title": "K$_{2}$S$_{3}$ Structure",
+    "icsd": "1263",
+    "ccdc": null,
     "prototype": "K2S3",
     "prototype_tex": "K$_{2}$S$_{3}$",
-    "label": "A2B3_oC20_36_2a_ab-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oC20",
+    "space_group_number": 36,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -31,17 +41,8 @@
         0.8395,
         0.0
     ],
-    "strukturbericht": null,
-    "title": "K$_{2}$S$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B3_oC20_36_2a_ab-001",
-    "number_of_species": 2,
-    "pearson_symbol": "oC20",
-    "space_group_number": 36,
-    "comments": "Space group $Cmc2_{1}$ allows an arbitrary placement of the origin of the $z$-axis.  Here we follow (B\\\"{o}ttcher, 1977) and set $z_{4} = 0$.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "1263"
+    "comments": "Space group $Cmc2_{1}$ allows an arbitrary placement of the origin of the $z$-axis.  Here we follow (B\\\"{o}ttcher, 1977) and set $z_{4} = 0$."
 }

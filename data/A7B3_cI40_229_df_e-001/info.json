@@ -1,9 +1,19 @@
 {
     "uid": "9SK5",
+    "label": "A7B3_cI40_229_df_e-001",
+    "alias": "A7B3_cI40_229_df_e",
+    "title": "Ir$_{3}$Ge$_{7}$ ($D8_{f}$) Structure",
+    "icsd": "408313",
+    "ccdc": null,
     "prototype": "Ge7Ir3",
     "prototype_tex": "Ge$_{7}$Ir$_{3}$",
-    "label": "A7B3_cI40_229_df_e-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cI40",
+    "space_group_number": 229,
+    "strukturbericht": "D8_f",
+    "strukturbericht_tex": "$D8_{f}$",
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "x2",
         "x3"
@@ -13,18 +23,8 @@
         0.658,
         0.156
     ],
-    "strukturbericht": "D8_f",
-    "title": "Ir$_{3}$Ge$_{7}$ ($D8_{f}$) Structure",
-    "part": 2,
-    "legacy": false,
-    "strukturbericht_tex": "$D8_{f}$",
     "compounds": {},
-    "alias": "A7B3_cI40_229_df_e",
-    "number_of_species": 2,
-    "pearson_symbol": "cI40",
-    "space_group_number": 229,
-    "comments": "Although (Haussermann, 1998) list the prototype for this structure as Ir$_{3}$Ge$_{7}$, that structure is not listed in the ICSD.  We link to the similar Ni$_{3}$Ga$_{7}$ structure. \n The ICSD gives the prototype for this structure as Ru$_{3}$Sn$_{7}$.",
+    "legacy": false,
     "notes": "$D8_{f}$",
-    "ccdc": null,
-    "icsd": "408313"
+    "comments": "Although (Haussermann, 1998) list the prototype for this structure as Ir$_{3}$Ge$_{7}$, that structure is not listed in the ICSD.  We link to the similar Ni$_{3}$Ga$_{7}$ structure. \n The ICSD gives the prototype for this structure as Ru$_{3}$Sn$_{7}$."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "ABT7",
+    "label": "A5B3C15_oP46_30_a2c_bc_a7c-001",
+    "alias": "A5B3C15_oP46_30_a2c_bc_a7c",
+    "title": "Bi$_{5}$Nb$_{3}$O$_{15}$ Structure",
+    "icsd": "245707",
+    "ccdc": null,
     "prototype": "Bi5O15Nb3",
     "prototype_tex": "Bi$_{5}$O$_{15}$Nb$_{3}$",
-    "label": "A5B3C15_oP46_30_a2c_bc_a7c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP46",
+    "space_group_number": 30,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -79,17 +89,8 @@
         0.218,
         0.19
     ],
-    "strukturbericht": null,
-    "title": "Bi$_{5}$Nb$_{3}$O$_{15}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A5B3C15_oP46_30_a2c_bc_a7c",
-    "number_of_species": 3,
-    "pearson_symbol": "oP46",
-    "space_group_number": 30,
-    "comments": "Our previous rendition (Hicks, 2019) of this structure had multiple errors in the CIF.  We have corrected these here. \n Space group $Pnc2$ \\#30 allows an arbitrary choice for the origin of the $z$-axis.  We fix it here by setting $z_{1} = 1/2$.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "245707"
+    "comments": "Our previous rendition (Hicks, 2019) of this structure had multiple errors in the CIF.  We have corrected these here. \n Space group $Pnc2$ \\#30 allows an arbitrary choice for the origin of the $z$-axis.  We fix it here by setting $z_{1} = 1/2$."
 }

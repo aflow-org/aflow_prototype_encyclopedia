@@ -1,9 +1,19 @@
 {
     "uid": "3BZX",
+    "label": "AB3C_tP5_99_b_ac_a-001",
+    "alias": "AB3C_tP5_99_b_ac_a-001",
+    "title": "Room Temperature Tetragonal BaTiO$_{3}$ Structure",
+    "icsd": "130020",
+    "ccdc": null,
     "prototype": "BaO3Ti",
     "prototype_tex": "BaO$_{3}$Ti",
-    "label": "AB3C_tP5_99_b_ac_a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP5",
+    "space_group_number": 99,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -19,17 +29,8 @@
         0.0,
         0.486
     ],
-    "strukturbericht": null,
-    "title": "Room Temperature Tetragonal BaTiO$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB3C_tP5_99_b_ac_a-001",
-    "number_of_species": 3,
-    "pearson_symbol": "tP5",
-    "space_group_number": 99,
-    "comments": "The perovskite BaTiO$_{3}$ undergoes a variety of temperature driven phase transitions. (Shirane, 1957) \n The first three structures are ferroelectric: \\begin{itemize} \\item Below 193K the structure is \\href{current_web_home_dir/AB3C_hR5_160_a_b_a-001}{rhombohedral}. \\item Between 193K and 278K the structure is \\href{current_web_home_dir/AB3C_oC10_38_a_ae_b-002}{orthorhombic}. \\item Between 278K and 393K the structure is tetragonal. This room-temperature form of the material is describe here. \\item Above 393K the compound is a \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite ($E2_{1}$)}. \\end{itemize} ~ \\vspace{-.25in} \n \\href{current_web_home_dir/AB3C_hP30_194_bf_hk_af-001}{Hexagonal BaTiO$_{3}$} can be stabilized by alloying the titanium sites with other transition metals. (Dickson, 1961) The pure structure has been grown at 1853K and cooled to room temperature. (Akimo, 1994) \n This structure has the same space group and occupied Wyckoff positions as \\href{current_web_home_dir/A3BC_tP5_99_ac_b_a-002}{the tetragonal PZT structure}, but the displacements from the cubic perovskite structure are different, so we give this structure its own AFLOW designation. \n Presumably the data for this structure was taken at room temperature. \n Space group $P4/mm$ \\#99 does not specify the origin of the $z$-axis.  We set it by taking $z_{3} = 0$, putting the barium atom at the origin.",
+    "legacy": false,
     "notes": "Tetragonal BaTiO$_{3}$",
-    "ccdc": null,
-    "icsd": "130020"
+    "comments": "The perovskite BaTiO$_{3}$ undergoes a variety of temperature driven phase transitions. (Shirane, 1957) \n The first three structures are ferroelectric: \\begin{itemize} \\item Below 193K the structure is \\href{current_web_home_dir/AB3C_hR5_160_a_b_a-001}{rhombohedral}. \\item Between 193K and 278K the structure is \\href{current_web_home_dir/AB3C_oC10_38_a_ae_b-002}{orthorhombic}. \\item Between 278K and 393K the structure is tetragonal. This room-temperature form of the material is describe here. \\item Above 393K the compound is a \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite ($E2_{1}$)}. \\end{itemize} ~ \\vspace{-.25in} \n \\href{current_web_home_dir/AB3C_hP30_194_bf_hk_af-001}{Hexagonal BaTiO$_{3}$} can be stabilized by alloying the titanium sites with other transition metals. (Dickson, 1961) The pure structure has been grown at 1853K and cooled to room temperature. (Akimo, 1994) \n This structure has the same space group and occupied Wyckoff positions as \\href{current_web_home_dir/A3BC_tP5_99_ac_b_a-002}{the tetragonal PZT structure}, but the displacements from the cubic perovskite structure are different, so we give this structure its own AFLOW designation. \n Presumably the data for this structure was taken at room temperature. \n Space group $P4/mm$ \\#99 does not specify the origin of the $z$-axis.  We set it by taking $z_{3} = 0$, putting the barium atom at the origin."
 }

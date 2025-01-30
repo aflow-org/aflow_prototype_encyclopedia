@@ -1,9 +1,19 @@
 {
     "uid": "15T5",
+    "label": "ABC2_oC32_64_f_d_ef-001",
+    "alias": "ABC2_oC32_64_f_d_ef-001",
+    "title": "NbCoTe$_{2}$ Structure",
+    "icsd": "71196",
+    "ccdc": null,
     "prototype": "CoNbTe2",
     "prototype_tex": "CoNbTe$_{2}$",
-    "label": "ABC2_oC32_64_f_d_ef-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oC32",
+    "space_group_number": 64,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -25,17 +35,8 @@
         0.11235,
         0.25452
     ],
-    "strukturbericht": null,
-    "title": "NbCoTe$_{2}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC2_oC32_64_f_d_ef-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oC32",
-    "space_group_number": 64,
-    "comments": "(Tremel, 1991) does not explicitly list the atomic positions, only the distances between atoms in the crystal.  Rather than converting these distances into Wyckoff coordinates we use the data from the ICSD entry.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "71196"
+    "comments": "(Tremel, 1991) does not explicitly list the atomic positions, only the distances between atoms in the crystal.  Rather than converting these distances into Wyckoff coordinates we use the data from the ICSD entry."
 }

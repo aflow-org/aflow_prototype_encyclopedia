@@ -1,9 +1,19 @@
 {
     "uid": "XSQ7",
+    "label": "AB5_mC24_12_i_g2ij-001",
+    "alias": "AB5_mC24_12_i_g2ij-001",
+    "title": "Pd$_{5}$As Structure",
+    "icsd": "239291",
+    "ccdc": null,
     "prototype": "AsPd5",
     "prototype_tex": "AsPd$_{5}$",
-    "label": "AB5_mC24_12_i_g2ij-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC24",
+    "space_group_number": 12,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -35,17 +45,8 @@
         0.7406,
         0.6744
     ],
-    "strukturbericht": null,
-    "title": "Pd$_{5}$As Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB5_mC24_12_i_g2ij-001",
-    "number_of_species": 2,
-    "pearson_symbol": "mC24",
-    "space_group_number": 12,
-    "comments": "We have shifted the origin of the $z$-axis by $c/2$ from that used by (Kohlman, 2016).  This changes the position of the palladium atoms from the (4h) Wyckoff position to (4g).",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "239291"
+    "comments": "We have shifted the origin of the $z$-axis by $c/2$ from that used by (Kohlman, 2016).  This changes the position of the palladium atoms from the (4h) Wyckoff position to (4g)."
 }

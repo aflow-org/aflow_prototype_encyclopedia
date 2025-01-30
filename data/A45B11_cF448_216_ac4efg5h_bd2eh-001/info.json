@@ -1,9 +1,19 @@
 {
     "uid": "LZ4J",
+    "label": "A45B11_cF448_216_ac4efg5h_bd2eh-001",
+    "alias": "A45B11_cF448_216_bd4efg5h_ac2eh",
+    "title": "Sm$_{11}$Cd$_{45}$ Structure",
+    "icsd": "2246",
+    "ccdc": null,
     "prototype": "Cd45Sm11",
     "prototype_tex": "Cd$_{45}$Sm$_{11}$",
-    "label": "A45B11_cF448_216_ac4efg5h_bd2eh-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cF448",
+    "space_group_number": 216,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "x5",
         "x6",
@@ -49,17 +59,8 @@
         0.6735,
         0.5142
     ],
-    "strukturbericht": null,
-    "title": "Sm$_{11}$Cd$_{45}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A45B11_cF448_216_bd4efg5h_ac2eh",
-    "number_of_species": 2,
-    "pearson_symbol": "cF448",
-    "space_group_number": 216,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "2246"
+    "comments": null
 }

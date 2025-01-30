@@ -1,9 +1,19 @@
 {
     "uid": "XBGP",
+    "label": "A4BC3_tP64_133_2k_h_i2j-001",
+    "alias": "A4BC3_tP64_133_2k_h_i2j-001",
+    "title": "Zr$_{3}$PD$_{3}$ Structure",
+    "icsd": "68531",
+    "ccdc": null,
     "prototype": "H3PZr3",
     "prototype_tex": "H$_{3}$PZr$_{3}$",
-    "label": "A4BC3_tP64_133_2k_h_i2j-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP64",
+    "space_group_number": 133,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -31,17 +41,8 @@
         0.1749,
         0.1338
     ],
-    "strukturbericht": null,
-    "title": "Zr$_{3}$PD$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4BC3_tP64_133_2k_h_i2j-001",
-    "number_of_species": 3,
-    "pearson_symbol": "tP64",
-    "space_group_number": 133,
-    "comments": "The D-I (16k) site has a small number of vacancies (0.4\\%). \n The D-II (16k) site is 44.7\\% occupied. \n Removing all of the deuterium atoms makes this isostructural with \\href{current_web_home_dir/AB3_tP32_133_h_i2j-001}{$\\beta$-V$_{3}$S}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "68531"
+    "comments": "The D-I (16k) site has a small number of vacancies (0.4\\%). \n The D-II (16k) site is 44.7\\% occupied. \n Removing all of the deuterium atoms makes this isostructural with \\href{current_web_home_dir/AB3_tP32_133_h_i2j-001}{$\\beta$-V$_{3}$S}."
 }

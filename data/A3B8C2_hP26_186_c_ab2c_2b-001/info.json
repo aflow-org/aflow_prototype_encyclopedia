@@ -1,9 +1,19 @@
 {
     "uid": "DG1Q",
+    "label": "A3B8C2_hP26_186_c_ab2c_2b-001",
+    "alias": "A3B8C2_hP26_186_c_ab2c_2b",
+    "title": "Zn$_{2}$Mo$_{3}$O$_{8}$ Structure",
+    "icsd": "14321",
+    "ccdc": null,
     "prototype": "Mo3O8Zn2",
     "prototype_tex": "Mo$_{3}$O$_{8}$Zn$_{2}$",
-    "label": "A3B8C2_hP26_186_c_ab2c_2b-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP26",
+    "space_group_number": 186,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -31,17 +41,8 @@
         0.486103,
         0.3639
     ],
-    "strukturbericht": null,
-    "title": "Zn$_{2}$Mo$_{3}$O$_{8}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B8C2_hP26_186_c_ab2c_2b",
-    "number_of_species": 3,
-    "pearson_symbol": "hP26",
-    "space_group_number": 186,
-    "comments": "Space group $P6_{3}mc$ \\#186 does not specify the origin of the $z$-coordinate.  Here we fix it by setting the $z$-coordinate of the molybdenum atom at $z_{5} = 1/4$.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "14321"
+    "comments": "Space group $P6_{3}mc$ \\#186 does not specify the origin of the $z$-coordinate.  Here we fix it by setting the $z$-coordinate of the molybdenum atom at $z_{5} = 1/4$."
 }

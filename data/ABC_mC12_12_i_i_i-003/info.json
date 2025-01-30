@@ -1,9 +1,19 @@
 {
     "uid": "69PJ",
+    "label": "ABC_mC12_12_i_i_i-003",
+    "alias": "ABC_mC12_12_i_i_i-003",
+    "title": "GdCBr Structure",
+    "icsd": "47225",
+    "ccdc": null,
     "prototype": "BrCGd",
     "prototype_tex": "BrCGd",
-    "label": "ABC_mC12_12_i_i_i-003",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mC12",
+    "space_group_number": 12,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -27,17 +37,8 @@
         0.2937,
         0.1501
     ],
-    "strukturbericht": null,
-    "title": "GdCBr Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC_mC12_12_i_i_i-003",
-    "number_of_species": 3,
-    "pearson_symbol": "mC12",
-    "space_group_number": 12,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "47225"
+    "comments": null
 }

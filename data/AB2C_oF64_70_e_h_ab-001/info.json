@@ -1,9 +1,19 @@
 {
     "uid": "1RMB",
+    "label": "AB2C_oF64_70_e_h_ab-001",
+    "alias": "AB2C_oF64_70_e_h_ab-001",
+    "title": "RbVSe$_{2}$ Structure",
+    "icsd": "415479",
+    "ccdc": null,
     "prototype": "RbSe2V",
     "prototype_tex": "RbSe$_{2}$V",
-    "label": "AB2C_oF64_70_e_h_ab-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oF64",
+    "space_group_number": 70,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -21,17 +31,8 @@
         0.87096,
         0.02676
     ],
-    "strukturbericht": null,
-    "title": "RbVSe$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2C_oF64_70_e_h_ab-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oF64",
-    "space_group_number": 70,
-    "comments": "Data for this structure was taken at 153K.  \n We wish to thank Petra Lipsky, FIZ Karlsruhe - Leibniz-Institut f\\\"{u}r Informationsinfrastruktur, who provided us with the data referenced in (Deng, 2005).  For more information about the FIZ Karlsruhe archive, see \\href{https://icsd.products.fiz-karlsruhe.de}{FIZ Karlsruhe}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "415479"
+    "comments": "Data for this structure was taken at 153K.  \n We wish to thank Petra Lipsky, FIZ Karlsruhe - Leibniz-Institut f\\\"{u}r Informationsinfrastruktur, who provided us with the data referenced in (Deng, 2005).  For more information about the FIZ Karlsruhe archive, see \\href{https://icsd.products.fiz-karlsruhe.de}{FIZ Karlsruhe}."
 }

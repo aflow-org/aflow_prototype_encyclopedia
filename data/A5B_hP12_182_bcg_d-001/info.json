@@ -1,9 +1,19 @@
 {
     "uid": "BQ6N",
+    "label": "A5B_hP12_182_bcg_d-001",
+    "alias": "A5B_hP12_182_bcg_d-001",
+    "title": "WAl$_{5}$ Structure",
+    "icsd": "58206",
+    "ccdc": null,
     "prototype": "Al5W",
     "prototype_tex": "Al$_{5}$W",
-    "label": "A5B_hP12_182_bcg_d-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP12",
+    "space_group_number": 182,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x4"
@@ -13,17 +23,8 @@
         1.80681,
         0.666673
     ],
-    "strukturbericht": null,
-    "title": "WAl$_{5}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A5B_hP12_182_bcg_d-001",
-    "number_of_species": 2,
-    "pearson_symbol": "hP12",
-    "space_group_number": 182,
-    "comments": "Although (Adam, 1955) state that 'Spatial considerations rule out space group [$P6_{3}22$ \\#182] and so put this crystal in space group $P6_{3}$ \\#173, their coordinates are in fact consistent with space group $P6_{3}22$. (Cenzual, 1991)",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "58206"
+    "comments": "Although (Adam, 1955) state that 'Spatial considerations rule out space group [$P6_{3}22$ \\#182] and so put this crystal in space group $P6_{3}$ \\#173, their coordinates are in fact consistent with space group $P6_{3}22$. (Cenzual, 1991)"
 }

@@ -1,9 +1,19 @@
 {
     "uid": "ENA6",
+    "label": "AB3_tP32_86_g_3g-001",
+    "alias": "AB3_tP32_86_g_3g",
+    "title": "Ti$_{3}$P Structure",
+    "icsd": "648227",
+    "ccdc": null,
     "prototype": "PTi3",
     "prototype_tex": "PTi$_{3}$",
-    "label": "AB3_tP32_86_g_3g-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tP32",
+    "space_group_number": 86,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -35,17 +45,8 @@
         0.06957,
         0.7593
     ],
-    "strukturbericht": null,
-    "title": "Ti$_{3}$P Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB3_tP32_86_g_3g",
-    "number_of_species": 2,
-    "pearson_symbol": "tP32",
-    "space_group_number": 86,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "648227"
+    "comments": null
 }

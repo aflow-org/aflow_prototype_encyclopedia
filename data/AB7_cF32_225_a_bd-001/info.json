@@ -1,26 +1,26 @@
 {
     "uid": "3APN",
+    "label": "AB7_cF32_225_a_bd-001",
+    "alias": "AB7_cF32_225_b_ad",
+    "title": "$L1_{a}$ (disputed CuPt$_{3}$ Structure)",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "CuPt3",
     "prototype_tex": "CuPt$_{3}$",
-    "label": "AB7_cF32_225_a_bd-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cF32",
+    "space_group_number": 225,
+    "strukturbericht": "L1_a",
+    "strukturbericht_tex": "$L1_{a}$",
+    "part": 3,
+    "parameter_symbols": [
         "a"
     ],
     "parameter_values": [
         5.6
     ],
-    "strukturbericht": "L1_a",
-    "title": "$L1_{a}$ (disputed CuPt$_{3}$ Structure)",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$L1_{a}$",
     "compounds": {},
-    "alias": "AB7_cF32_225_b_ad",
-    "number_of_species": 2,
-    "pearson_symbol": "cF32",
-    "space_group_number": 225,
-    "comments": "According to (Tang, 1951), the (24d) sites have the composition Pt$_{0.8}$Cu$_{0.2}$ in stoichiometric CuPt$_{3}$. Here we use ``Pt'' to specify the atoms on this site.\n (Tang, 1951) states that the crystal structure of CuPt$_{3}$ must be cubic, but (Mshumi, 2014) argue that it is orthorhombic, and is in fact the \\href{current_web_home_dir/AB3_oC8_65_a_bf-001}{$L1_{3}$ structure}. \n (Smithells, 1955) gave this structure the $L1_{a}$ designation as part of his extension of the original {\\em Strukturbericht} labels.  He does note that an alternative orthorhombic structure had been proposed. \n (Smithells, 1955) assigns this structure to space group $F432$ \\#209, but the positions given by (Tang, 1951) are also consistent with $Fm\\overline{3}m$ \\#225, so we assign this structure to the higher symmetry space group. \n (Tang, 1951) does not give the lattice constant, so we use the value estimated by (Smithells, 1955). \n The Wyckoff positions are identical to those of the \\href{current_web_home_dir/A7B_cF32_225_ad_b-001}{Ca$_{7}$Ge structure}.",
+    "legacy": false,
     "notes": "$L1_{a}$, Disputed",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "According to (Tang, 1951), the (24d) sites have the composition Pt$_{0.8}$Cu$_{0.2}$ in stoichiometric CuPt$_{3}$. Here we use ``Pt'' to specify the atoms on this site.\n (Tang, 1951) states that the crystal structure of CuPt$_{3}$ must be cubic, but (Mshumi, 2014) argue that it is orthorhombic, and is in fact the \\href{current_web_home_dir/AB3_oC8_65_a_bf-001}{$L1_{3}$ structure}. \n (Smithells, 1955) gave this structure the $L1_{a}$ designation as part of his extension of the original {\\em Strukturbericht} labels.  He does note that an alternative orthorhombic structure had been proposed. \n (Smithells, 1955) assigns this structure to space group $F432$ \\#209, but the positions given by (Tang, 1951) are also consistent with $Fm\\overline{3}m$ \\#225, so we assign this structure to the higher symmetry space group. \n (Tang, 1951) does not give the lattice constant, so we use the value estimated by (Smithells, 1955). \n The Wyckoff positions are identical to those of the \\href{current_web_home_dir/A7B_cF32_225_ad_b-001}{Ca$_{7}$Ge structure}."
 }

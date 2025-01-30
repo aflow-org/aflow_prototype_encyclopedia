@@ -1,9 +1,19 @@
 {
     "uid": "W7BE",
+    "label": "A2B5CD2_oI40_44_2c_abcde_d_e-001",
+    "alias": "A2B5CD2_oI40_44_2c_abcde_d_e",
+    "title": "Hemimorphite (Zn$_{4}$Si$_{2}$O$_{7}$(OH)$_{2} \\cdot$H$_{2}$O, $S2_{2}$) Structure",
+    "icsd": "100201",
+    "ccdc": null,
     "prototype": "H2O10Si2Zn4",
     "prototype_tex": "H$_{2}$O$_{10}$Si$_{2}$Zn$_{4}$",
-    "label": "A2B5CD2_oI40_44_2c_abcde_d_e-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oI40",
+    "space_group_number": 44,
+    "strukturbericht": "S2_2",
+    "strukturbericht_tex": "$S2_{2}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -49,18 +59,8 @@
         0.6613,
         0.5
     ],
-    "strukturbericht": "S2_2",
-    "title": "Hemimorphite (Zn$_{4}$Si$_{2}$O$_{7}$(OH)$_{2} \\cdot$H$_{2}$O, $S2_{2}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$S2_{2}$",
     "compounds": {},
-    "alias": "A2B5CD2_oI40_44_2c_abcde_d_e",
-    "number_of_species": 4,
-    "pearson_symbol": "oI40",
-    "space_group_number": 44,
-    "comments": "The original (Ito, 1932) determination of this structure did not locate the positions of the hydrogen atoms.  (Hill, 1977) were able to do this, so we use the updated structure as the prototype. \n (Hill, 1977) gives the $z$ coordinates of the atoms on the (2c) sites as 0.0190, 0.0643, and 0.0410, respectively, but this gives unrealistic H-O distances.  Examination of the figures and distance tables shows that we should take $z_{2} = 0.190, z_{3} = 0.643$, and $z_{4} = 0.041$, a conclusion also reached by (Downs, 2003) and the ICSD.",
+    "legacy": false,
     "notes": "$S2_{2}$, Hemimorphite",
-    "ccdc": null,
-    "icsd": "100201"
+    "comments": "The original (Ito, 1932) determination of this structure did not locate the positions of the hydrogen atoms.  (Hill, 1977) were able to do this, so we use the updated structure as the prototype. \n (Hill, 1977) gives the $z$ coordinates of the atoms on the (2c) sites as 0.0190, 0.0643, and 0.0410, respectively, but this gives unrealistic H-O distances.  Examination of the figures and distance tables shows that we should take $z_{2} = 0.190, z_{3} = 0.643$, and $z_{4} = 0.041$, a conclusion also reached by (Downs, 2003) and the ICSD."
 }

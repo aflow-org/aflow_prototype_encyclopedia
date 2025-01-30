@@ -1,9 +1,19 @@
 {
     "uid": "1B5F",
+    "label": "A4BC3D12_hR20_155_ad_b_e_2df-001",
+    "alias": "A4BC3D12_hR20_155_ad_b_e_2df-001",
+    "title": "Huntite [CaMg$_{3}$(CO$_{3}$)$_{4}$] Structure",
+    "icsd": "201729",
+    "ccdc": null,
     "prototype": "C3CaMg3O12",
     "prototype_tex": "C$_{3}$CaMg$_{3}$O$_{12}$",
-    "label": "A4BC3D12_hR20_155_ad_b_e_2df-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "hR20",
+    "space_group_number": 155,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "y3",
@@ -25,17 +35,8 @@
         0.473,
         0.6947
     ],
-    "strukturbericht": null,
-    "title": "Huntite [CaMg$_{3}$(CO$_{3}$)$_{4}$] Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4BC3D12_hR20_155_ad_b_e_2df-001",
-    "number_of_species": 4,
-    "pearson_symbol": "hR20",
-    "space_group_number": 155,
-    "comments": "We have shifted the origin away from that used by (Dollase, 1986): the C-I atom is now on the (1a) Wyckoff position. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "legacy": false,
     "notes": "Huntite",
-    "ccdc": null,
-    "icsd": "201729"
+    "comments": "We have shifted the origin away from that used by (Dollase, 1986): the C-I atom is now on the (1a) Wyckoff position. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

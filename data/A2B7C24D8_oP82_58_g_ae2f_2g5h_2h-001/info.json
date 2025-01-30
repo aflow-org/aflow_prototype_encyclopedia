@@ -1,9 +1,19 @@
 {
     "uid": "APMF",
+    "label": "A2B7C24D8_oP82_58_g_ae2f_2g5h_2h-001",
+    "alias": "A2B7C24D8_oP82_58_g_ae2f_2g5h_2h",
+    "title": "Protoanthophyllite (H$_{2}$Mg$_{7}$Si$_{8}$O$_{24}$) Structure",
+    "icsd": "98791",
+    "ccdc": null,
     "prototype": "H2Mg7O24Si8",
     "prototype_tex": "H$_{2}$Mg$_{7}$O$_{24}$Si$_{8}$",
-    "label": "A2B7C24D8_oP82_58_g_ae2f_2g5h_2h-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oP82",
+    "space_group_number": 58,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -73,17 +83,8 @@
         0.29399,
         0.17095
     ],
-    "strukturbericht": null,
-    "title": "Protoanthophyllite (H$_{2}$Mg$_{7}$Si$_{8}$O$_{24}$) Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B7C24D8_oP82_58_g_ae2f_2g5h_2h",
-    "number_of_species": 4,
-    "pearson_symbol": "oP82",
-    "space_group_number": 58,
-    "comments": "This structure is approximately one-half of the unit cell of \\href{current_web_home_dir/A2B5C22D2E8_oP156_62_d_c2d_2c10d_2c_4d-001}{anthophyllite ($S4_{4}$)}. \n Like anthophyllite, iron is sometimes mixed with magnesium.  For this sample, (Konishi, 2003) found that the Mg-I (2a) site contains 2.5\\% iron, Mg-III (4f) contains 2.1\\%, and Mg-IV (4f) contains 27.7\\% iron. \n Similarly, the silicon sites are have very small amounts of aluminum ($<$ 1\\%), and the (2b) site (1/2 1/2 1/2) is occupied by a sodium atom about 5\\% of the time.  We ignore this later site. \n (Konishi, 2003) give the crystal structure in the $Pnmn$ setting of space group \\#58.  We used findsym to transform this to the standard $Pnnm$ oriention.",
+    "legacy": false,
     "notes": "Protoanthophyllite",
-    "ccdc": null,
-    "icsd": "98791"
+    "comments": "This structure is approximately one-half of the unit cell of \\href{current_web_home_dir/A2B5C22D2E8_oP156_62_d_c2d_2c10d_2c_4d-001}{anthophyllite ($S4_{4}$)}. \n Like anthophyllite, iron is sometimes mixed with magnesium.  For this sample, (Konishi, 2003) found that the Mg-I (2a) site contains 2.5\\% iron, Mg-III (4f) contains 2.1\\%, and Mg-IV (4f) contains 27.7\\% iron. \n Similarly, the silicon sites are have very small amounts of aluminum ($<$ 1\\%), and the (2b) site (1/2 1/2 1/2) is occupied by a sodium atom about 5\\% of the time.  We ignore this later site. \n (Konishi, 2003) give the crystal structure in the $Pnmn$ setting of space group \\#58.  We used findsym to transform this to the standard $Pnnm$ oriention."
 }

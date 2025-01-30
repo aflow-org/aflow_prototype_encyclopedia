@@ -1,9 +1,19 @@
 {
     "uid": "1CBK",
+    "label": "A2B7C2D_oF48_69_g_agl_g_b-001",
+    "alias": "A2B7C2D_oF48_69_g_agl_g_b-001",
+    "title": "SrLa$_{2}$Sc$_{2}$O$_{7}$ Structure",
+    "icsd": "67625",
+    "ccdc": null,
     "prototype": "La2O7Sc2Sr",
     "prototype_tex": "La$_{2}$O$_{7}$Sc$_{2}$Sr",
-    "label": "A2B7C2D_oF48_69_g_agl_g_b-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oF48",
+    "space_group_number": 69,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -21,17 +31,8 @@
         0.0967,
         0.1003
     ],
-    "strukturbericht": null,
-    "title": "SrLa$_{2}$Sc$_{2}$O$_{7}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B7C2D_oF48_69_g_agl_g_b-001",
-    "number_of_species": 4,
-    "pearson_symbol": "oF48",
-    "space_group_number": 69,
-    "comments": "This is a Ruddlesden-Popper structure. \n AFLOW rotates the lattice vectors by 90$^\\circ$ about the y-axis, interchanging the x- and z- directions. \n The site we label Sr I (4b) is actually 50\\% strontium and 50\\% lanthanum, while the site labeled La I (8g) is 75\\% lanthanum and 25\\% strontium. \n \\href{current_web_home_dir/A3B2C7_oF48_69_ag_g_bgl-001}{La$_{3}$Ni$_{2}$O$_{7}$} is a ternary form of this structure.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "67625"
+    "comments": "This is a Ruddlesden-Popper structure. \n AFLOW rotates the lattice vectors by 90$^\\circ$ about the y-axis, interchanging the x- and z- directions. \n The site we label Sr I (4b) is actually 50\\% strontium and 50\\% lanthanum, while the site labeled La I (8g) is 75\\% lanthanum and 25\\% strontium. \n \\href{current_web_home_dir/A3B2C7_oF48_69_ag_g_bgl-001}{La$_{3}$Ni$_{2}$O$_{7}$} is a ternary form of this structure."
 }

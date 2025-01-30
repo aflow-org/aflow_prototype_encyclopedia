@@ -1,9 +1,19 @@
 {
     "uid": "H422",
+    "label": "AB3C4_oP32_33_a_3a_4a-001",
+    "alias": "AB3C4_oP32_33_a_3a_4a",
+    "title": "AsK$_{3}$S$_{4}$ Structure",
+    "icsd": "2314",
+    "ccdc": null,
     "prototype": "AsK3S4",
     "prototype_tex": "AsK$_{3}$S$_{4}$",
-    "label": "AB3C4_oP32_33_a_3a_4a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP32",
+    "space_group_number": 33,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -61,17 +71,8 @@
         0.046,
         0.3761
     ],
-    "strukturbericht": null,
-    "title": "AsK$_{3}$S$_{4}$ Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB3C4_oP32_33_a_3a_4a",
-    "number_of_species": 3,
-    "pearson_symbol": "oP32",
-    "space_group_number": 33,
-    "comments": "Space group $Pna2_{1}$ \\#33 allows an arbitrary origin for the $z$-axis, which is set here by taking $z_{2} = 1/4$.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "2314"
+    "comments": "Space group $Pna2_{1}$ \\#33 allows an arbitrary origin for the $z$-axis, which is set here by taking $z_{2} = 1/4$."
 }

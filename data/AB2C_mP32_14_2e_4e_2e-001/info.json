@@ -1,9 +1,19 @@
 {
     "uid": "QZUF",
+    "label": "AB2C_mP32_14_2e_4e_2e-001",
+    "alias": "AB2C_mP32_14_2e_4e_2e-001",
+    "title": "Lor\\'{a}ndite (TlAsS$_{2}$) Structure",
+    "icsd": "79581",
+    "ccdc": null,
     "prototype": "AsS2Tl",
     "prototype_tex": "AsS$_{2}$Tl",
-    "label": "AB2C_mP32_14_2e_4e_2e-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mP32",
+    "space_group_number": 14,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -63,17 +73,8 @@
         0.9443,
         0.6344
     ],
-    "strukturbericht": null,
-    "title": "Lor\\'{a}ndite (TlAsS$_{2}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2C_mP32_14_2e_4e_2e-001",
-    "number_of_species": 3,
-    "pearson_symbol": "mP32",
-    "space_group_number": 14,
-    "comments": "(Yang, 1994) give the structure in the $P2_{1}/a$ setting of space group \\#14.  We used FINDSYM to transform this to the standard $P2_{1}/c$ setting.",
+    "legacy": false,
     "notes": "Lor\\'{a}ndite",
-    "ccdc": null,
-    "icsd": "79581"
+    "comments": "(Yang, 1994) give the structure in the $P2_{1}/a$ setting of space group \\#14.  We used FINDSYM to transform this to the standard $P2_{1}/c$ setting."
 }

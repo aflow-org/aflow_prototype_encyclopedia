@@ -1,9 +1,19 @@
 {
     "uid": "G1FS",
+    "label": "ABCD4_oP28_62_c_c_c_4c-001",
+    "alias": "ABCD4_oP28_62_c_c_c_4c-001",
+    "title": "Warwickite (FeCoBO$_{4}$) Structure",
+    "icsd": "2931",
+    "ccdc": null,
     "prototype": "BCoFeO4",
     "prototype_tex": "BCoFeO$_{4}$",
-    "label": "ABCD4_oP28_62_c_c_c_4c-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oP28",
+    "space_group_number": 62,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -41,17 +51,8 @@
         0.48881,
         0.11765
     ],
-    "strukturbericht": null,
-    "title": "Warwickite (FeCoBO$_{4}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABCD4_oP28_62_c_c_c_4c-001",
-    "number_of_species": 4,
-    "pearson_symbol": "oP28",
-    "space_group_number": 62,
-    "comments": "(Bertaut, 1950) originally identified the mineral warwickite, but his analysis was not complete.  (Buerger, 1972) and (Venkatakrishnan, 1972) redetermined the structure.  They described it in the $Pnam$ setting of space group \\#62.  We used FINDSYM to change this to the standard $Pnma$ setting, which involved a rotation of the axes. \n The ICSD entry is from (Venkatakrishnan, 1972), with the identical structure also appearing in (Buerger, 1972).",
+    "legacy": false,
     "notes": "Warwickite",
-    "ccdc": null,
-    "icsd": "2931"
+    "comments": "(Bertaut, 1950) originally identified the mineral warwickite, but his analysis was not complete.  (Buerger, 1972) and (Venkatakrishnan, 1972) redetermined the structure.  They described it in the $Pnam$ setting of space group \\#62.  We used FINDSYM to change this to the standard $Pnma$ setting, which involved a rotation of the axes. \n The ICSD entry is from (Venkatakrishnan, 1972), with the identical structure also appearing in (Buerger, 1972)."
 }

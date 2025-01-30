@@ -1,9 +1,19 @@
 {
     "uid": "WVM5",
+    "label": "AB3C3_cF112_227_c_de_f-001",
+    "alias": "AB3C3_cF112_227_c_de_f",
+    "title": "$\\eta$-carbide (Fe$_{3}$W$_{3}$C, $E9_{3}$) Structure",
+    "icsd": "43230",
+    "ccdc": null,
     "prototype": "CFe3W3",
     "prototype_tex": "CFe$_{3}$W$_{3}$",
-    "label": "AB3C3_cF112_227_c_de_f-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cF112",
+    "space_group_number": 227,
+    "strukturbericht": "E9_3",
+    "strukturbericht_tex": "$E9_{3}$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "x3",
         "x4"
@@ -13,18 +23,8 @@
         0.7047,
         0.323
     ],
-    "strukturbericht": "E9_3",
-    "title": "$\\eta$-carbide (Fe$_{3}$W$_{3}$C, $E9_{3}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$E9_{3}$",
     "compounds": {},
-    "alias": "AB3C3_cF112_227_c_de_f",
-    "number_of_species": 3,
-    "pearson_symbol": "cF112",
-    "space_group_number": 227,
-    "comments": "Experimentally, the (48f) site is a random mixture of composition W$_{2/3}$Fe$_{1/3}$.  We use W for this site in the pictures above. \n In many compounds the carbon sites has vacancies, which accounts for the varying stoichiometries in the compounds list.",
+    "legacy": false,
     "notes": "$E9_{3}$, $\\eta$-Carbide",
-    "ccdc": null,
-    "icsd": "43230"
+    "comments": "Experimentally, the (48f) site is a random mixture of composition W$_{2/3}$Fe$_{1/3}$.  We use W for this site in the pictures above. \n In many compounds the carbon sites has vacancies, which accounts for the varying stoichiometries in the compounds list."
 }

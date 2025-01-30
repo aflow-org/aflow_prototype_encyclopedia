@@ -1,9 +1,19 @@
 {
     "uid": "54KB",
+    "label": "A3B_mP8_11_3e_e-001",
+    "alias": "A3B_mP8_11_3e_e",
+    "title": "ZrSe$_{3}$ Structure",
+    "icsd": "652229",
+    "ccdc": null,
     "prototype": "Se3Zr",
     "prototype_tex": "Se$_{3}$Zr",
-    "label": "A3B_mP8_11_3e_e-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mP8",
+    "space_group_number": 11,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -31,17 +41,8 @@
         0.715,
         0.344
     ],
-    "strukturbericht": null,
-    "title": "ZrSe$_{3}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B_mP8_11_3e_e",
-    "number_of_species": 2,
-    "pearson_symbol": "mP8",
-    "space_group_number": 11,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "652229"
+    "comments": null
 }

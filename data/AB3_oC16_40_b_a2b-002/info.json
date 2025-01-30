@@ -1,9 +1,19 @@
 {
     "uid": "8E60",
+    "label": "AB3_oC16_40_b_a2b-002",
+    "alias": "AB3_oC16_40_b_a2b",
+    "title": "Orthorhombic CrO$_{3}$ Structure",
+    "icsd": "24043",
+    "ccdc": null,
     "prototype": "CrO3",
     "prototype_tex": "CrO$_{3}$",
-    "label": "AB3_oC16_40_b_a2b-002",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oC16",
+    "space_group_number": 40,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -27,17 +37,8 @@
         0.222,
         0.0
     ],
-    "strukturbericht": null,
-    "title": "Orthorhombic CrO$_{3}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB3_oC16_40_b_a2b",
-    "number_of_species": 2,
-    "pearson_symbol": "oC16",
-    "space_group_number": 40,
-    "comments": "This is an updated version of the \\href{current_web_home_dir/AB3_oC16_20_a_bc-001}{D0$_{7}$ CrO$_{3}$ structure}. \n (Bystr\\\"{o}m, 1950) give this structure in the $C2cm$ setting of space group \\#40.  We have shifted it to the standard $Ama2$ setting.",
+    "legacy": false,
     "notes": "Orthorhombic CrO$_{3}$",
-    "ccdc": null,
-    "icsd": "24043"
+    "comments": "This is an updated version of the \\href{current_web_home_dir/AB3_oC16_20_a_bc-001}{D0$_{7}$ CrO$_{3}$ structure}. \n (Bystr\\\"{o}m, 1950) give this structure in the $C2cm$ setting of space group \\#40.  We have shifted it to the standard $Ama2$ setting."
 }

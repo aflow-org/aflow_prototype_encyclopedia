@@ -1,9 +1,19 @@
 {
     "uid": "W8GW",
+    "label": "A4B3C8_tI30_139_2e_ae_cdg-002",
+    "alias": "A4B3C8_tI30_139_2e_ae_cdg-002",
+    "title": "Nd$_{4}$Ni$_{3}$O$_{8}$ Structure",
+    "icsd": "173372",
+    "ccdc": null,
     "prototype": "Nd4Ni3O8",
     "prototype_tex": "Nd$_{4}$Ni$_{3}$O$_{8}$",
-    "label": "A4B3C8_tI30_139_2e_ae_cdg-002",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tI30",
+    "space_group_number": 139,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z4",
@@ -19,17 +29,8 @@
         0.1244,
         0.1262
     ],
-    "strukturbericht": null,
-    "title": "Nd$_{4}$Ni$_{3}$O$_{8}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B3C8_tI30_139_2e_ae_cdg-002",
-    "number_of_species": 3,
-    "pearson_symbol": "tI30",
-    "space_group_number": 139,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "173372"
+    "comments": null
 }

@@ -1,25 +1,26 @@
 {
     "uid": "FACW",
+    "label": "A3B3C_cP14_223_c_d_a-001",
+    "alias": "A3B3C_cP14_223_c_d_a-001",
+    "title": "SrB$_{3}$C$_{3}$ Clathrate Structure",
+    "icsd": null,
+    "ccdc": "1949948",
     "prototype": "B3C3Sr",
     "prototype_tex": "B$_{3}$C$_{3}$Sr",
-    "label": "A3B3C_cP14_223_c_d_a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cP14",
+    "space_group_number": 223,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a"
     ],
     "parameter_values": [
         4.609
     ],
-    "strukturbericht": null,
-    "title": "SrB$_{3}$C$_{3}$ Clathrate Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B3C_cP14_223_c_d_a-001",
-    "number_of_species": 3,
-    "pearson_symbol": "cP14",
-    "space_group_number": 223,
-    "ccdc": "1949948",
+    "legacy": false,
     "notes": "Clathrate",
-    "comments": null,
-    "icsd": null
+    "comments": null
 }

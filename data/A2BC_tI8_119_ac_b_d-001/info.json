@@ -1,9 +1,19 @@
 {
     "uid": "4BRY",
+    "label": "A2BC_tI8_119_ac_b_d-001",
+    "alias": "A2BC_tI8_119_ac_b_d-001",
+    "title": "Mn$_{2}$RhSn Tetragonal Heusler Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "Mn2RhSn",
     "prototype_tex": "Mn$_{2}$RhSn",
-    "label": "A2BC_tI8_119_ac_b_d-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tI8",
+    "space_group_number": 119,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a"
     ],
@@ -11,17 +21,8 @@
         4.292,
         1.54217
     ],
-    "strukturbericht": null,
-    "title": "Mn$_{2}$RhSn Tetragonal Heusler Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC_tI8_119_ac_b_d-001",
-    "number_of_species": 3,
-    "pearson_symbol": "tI8",
-    "space_group_number": 119,
-    "comments": "(Alijani, 2013) describe this as a tetragonal inverse Heusler compound. This is likely an idealized version of the structure, as the atoms are all assumed to sit on high-symmetry Wyckoff positions.",
+    "legacy": false,
     "notes": "Tetragonal Inverse Heusler",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "(Alijani, 2013) describe this as a tetragonal inverse Heusler compound. This is likely an idealized version of the structure, as the atoms are all assumed to sit on high-symmetry Wyckoff positions."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "MV4U",
+    "label": "AB_hR6_160_b_b-001",
+    "alias": "AB_hR6_160_b_b",
+    "title": "Millerite (NiS, $B13$) Structure",
+    "icsd": "40054",
+    "ccdc": null,
     "prototype": "NiS",
     "prototype_tex": "NiS",
-    "label": "AB_hR6_160_b_b-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hR6",
+    "space_group_number": 160,
+    "strukturbericht": "B13",
+    "strukturbericht_tex": "$B13$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -19,18 +29,8 @@
         0.7288,
         0.39161
     ],
-    "strukturbericht": "B13",
-    "title": "Millerite (NiS, $B13$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$B13$",
     "compounds": {},
-    "alias": "AB_hR6_160_b_b",
-    "number_of_species": 2,
-    "pearson_symbol": "hR6",
-    "space_group_number": 160,
-    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "legacy": false,
     "notes": "$B13$, Millerite",
-    "ccdc": null,
-    "icsd": "40054"
+    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

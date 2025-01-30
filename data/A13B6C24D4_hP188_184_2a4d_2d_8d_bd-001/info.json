@@ -1,9 +1,19 @@
 {
     "uid": "7PRY",
+    "label": "A13B6C24D4_hP188_184_2a4d_2d_8d_bd-001",
+    "alias": "A13B6C24D4_hP188_184_2a4d_2d_8d_bd-001",
+    "title": "NaTi$_{2}$(PS$_{4}$)$_{3}$ Structure",
+    "icsd": "81997",
+    "ccdc": null,
     "prototype": "NaP3S12Ti2",
     "prototype_tex": "NaP$_{3}$S$_{12}$Ti$_{2}$",
-    "label": "A13B6C24D4_hP188_184_2a4d_2d_8d_bd-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "hP188",
+    "space_group_number": 184,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -107,17 +117,8 @@
         0.0452967,
         0.0094
     ],
-    "strukturbericht": null,
-    "title": "NaTi$_{2}$(PS$_{4}$)$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A13B6C24D4_hP188_184_2a4d_2d_8d_bd-001",
-    "number_of_species": 4,
-    "pearson_symbol": "hP188",
-    "space_group_number": 184,
-    "comments": "None of the sodium sites is even half filled.  The occupations are: Na-I 23\\%, Na-II 35\\%, Na-III 25\\%, Na-IV 10\\%, and Na-V 9\\%. The phosphorous, sulfur, and titanium sites are all filled. \n Space group $P6cc$ \\#184 allows an arbitrary origin for the $z$-axis.  We choose $z_{3} = 0$ for the Ti-I site.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "81997"
+    "comments": "None of the sodium sites is even half filled.  The occupations are: Na-I 23\\%, Na-II 35\\%, Na-III 25\\%, Na-IV 10\\%, and Na-V 9\\%. The phosphorous, sulfur, and titanium sites are all filled. \n Space group $P6cc$ \\#184 allows an arbitrary origin for the $z$-axis.  We choose $z_{3} = 0$ for the Ti-I site."
 }

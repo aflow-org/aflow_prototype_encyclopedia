@@ -1,9 +1,19 @@
 {
     "uid": "ZCCT",
+    "label": "ABC4_oI12_23_a_b_k-001",
+    "alias": "ABC4_oI12_23_a_b_k",
+    "title": "BPS$_{4}$ Structure",
+    "icsd": "24618",
+    "ccdc": null,
     "prototype": "BPS4",
     "prototype_tex": "BPS$_{4}$",
-    "label": "ABC4_oI12_23_a_b_k-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oI12",
+    "space_group_number": 23,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -19,17 +29,8 @@
         0.885,
         0.2
     ],
-    "strukturbericht": null,
-    "title": "BPS$_{4}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC4_oI12_23_a_b_k",
-    "number_of_species": 3,
-    "pearson_symbol": "oI12",
-    "space_group_number": 23,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "24618"
+    "comments": null
 }

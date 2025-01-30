@@ -1,9 +1,19 @@
 {
     "uid": "B9A8",
+    "label": "AB_tI16_141_e_e-001",
+    "alias": "AB_tI16_141_e_e",
+    "title": "MoB ($B_{g}$) Structure",
+    "icsd": "24280",
+    "ccdc": null,
     "prototype": "BMo",
     "prototype_tex": "BMo",
-    "label": "AB_tI16_141_e_e-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tI16",
+    "space_group_number": 141,
+    "strukturbericht": "B_g",
+    "strukturbericht_tex": "$B_{g}$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -15,18 +25,8 @@
         0.227,
         0.071
     ],
-    "strukturbericht": "B_g",
-    "title": "MoB ($B_{g}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$B_{g}$",
     "compounds": {},
-    "alias": "AB_tI16_141_e_e",
-    "number_of_species": 2,
-    "pearson_symbol": "tI16",
-    "space_group_number": 141,
+    "legacy": false,
     "notes": "$B_{g}$",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "24280"
+    "comments": null
 }

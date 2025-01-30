@@ -1,9 +1,19 @@
 {
     "uid": "CV59",
+    "label": "A7B5C6_hP36_193_bj_dg_k-001",
+    "alias": "A7B5C6_hP36_193_bj_dg_k-001",
+    "title": "Yb$_{6}$Ir$_{5}$Ga$_{7}$ Structure",
+    "icsd": "432187",
+    "ccdc": null,
     "prototype": "Ga7Ir5Yb6",
     "prototype_tex": "Ga$_{7}$Ir$_{5}$Yb$_{6}$",
-    "label": "A7B5C6_hP36_193_bj_dg_k-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP36",
+    "space_group_number": 193,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -21,17 +31,8 @@
         0.32716,
         0.44303
     ],
-    "strukturbericht": null,
-    "title": "Yb$_{6}$Ir$_{5}$Ga$_{7}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A7B5C6_hP36_193_bj_dg_k-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hP36",
-    "space_group_number": 193,
-    "comments": "(Seidel, 2017) call this a variant of the \\href{current_web_home_dir/AB2_hP12_194_f_ah-001}{MgZn$_{2}$ hexagonal Laves structure ($C14$)}. \n The ICSD considers VCoSi as the prototype for this structure, but VCoSi and many other compounds with this structure have substantial disorder on all Wyckoff positions.  The structures listed here are the only ordered ones in the ICSD.  We arbitrarily chose Yb$_{6}$Ir$_{5}$Ga$_{7}$ as our prototype.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "432187"
+    "comments": "(Seidel, 2017) call this a variant of the \\href{current_web_home_dir/AB2_hP12_194_f_ah-001}{MgZn$_{2}$ hexagonal Laves structure ($C14$)}. \n The ICSD considers VCoSi as the prototype for this structure, but VCoSi and many other compounds with this structure have substantial disorder on all Wyckoff positions.  The structures listed here are the only ordered ones in the ICSD.  We arbitrarily chose Yb$_{6}$Ir$_{5}$Ga$_{7}$ as our prototype."
 }

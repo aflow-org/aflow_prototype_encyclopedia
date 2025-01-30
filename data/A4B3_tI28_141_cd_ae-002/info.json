@@ -1,9 +1,19 @@
 {
     "uid": "P57T",
+    "label": "A4B3_tI28_141_cd_ae-002",
+    "alias": "A4B3_tI28_141_cd_ae-002",
+    "title": "Paramelaconite (Cu$_{4}$O$_{3}$) Structure",
+    "icsd": "100566",
+    "ccdc": null,
     "prototype": "Cu4O3",
     "prototype_tex": "Cu$_{4}$O$_{3}$",
-    "label": "A4B3_tI28_141_cd_ae-002",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tI28",
+    "space_group_number": 141,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z4"
@@ -13,17 +23,8 @@
         1.70156,
         0.1327
     ],
-    "strukturbericht": null,
-    "title": "Paramelaconite (Cu$_{4}$O$_{3}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B3_tI28_141_cd_ae-002",
-    "number_of_species": 2,
-    "pearson_symbol": "tI28",
-    "space_group_number": 141,
-    "comments": "(O'Keeffe, 1968) indicate that the atom they call O(2) (our O-I) is located at the (4a) Wyckoff position, but give the coordinates of the (4b) Wyckoff position.  The coordinates are correct, however we shift the origin so that the O-I atom is on the (4a) site.  This maps their atom Cu(1) to our Cu-II, and Cu(2) to Cu-I.",
+    "legacy": false,
     "notes": "Paramelaconite",
-    "ccdc": null,
-    "icsd": "100566"
+    "comments": "(O'Keeffe, 1968) indicate that the atom they call O(2) (our O-I) is located at the (4a) Wyckoff position, but give the coordinates of the (4b) Wyckoff position.  The coordinates are correct, however we shift the origin so that the O-I atom is on the (4a) site.  This maps their atom Cu(1) to our Cu-II, and Cu(2) to Cu-I."
 }

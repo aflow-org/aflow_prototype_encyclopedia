@@ -1,9 +1,19 @@
 {
     "uid": "CSJ8",
+    "label": "A9BC2_hP12_191_fm_a_c-001",
+    "alias": "A9BC2_hP12_191_fm_a_c-001",
+    "title": "BaFe$_{2}$Al$_{9}$ Structure",
+    "icsd": "57518",
+    "ccdc": null,
     "prototype": "Al9BaFe2",
     "prototype_tex": "Al$_{9}$BaFe$_{2}$",
-    "label": "A9BC2_hP12_191_fm_a_c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP12",
+    "space_group_number": 191,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x4"
@@ -13,17 +23,8 @@
         0.483831,
         0.212
     ],
-    "strukturbericht": null,
-    "title": "BaFe$_{2}$Al$_{9}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A9BC2_hP12_191_fm_a_c-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hP12",
-    "space_group_number": 191,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "57518"
+    "comments": null
 }

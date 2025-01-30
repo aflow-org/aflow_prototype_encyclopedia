@@ -1,9 +1,19 @@
 {
     "uid": "YUGM",
+    "label": "A3B8_oC22_65_bg_ac2gh-001",
+    "alias": "A3B8_oC22_65_ag_bd2gh",
+    "title": "Nb$_{3}$O$_{7}$F Structure",
+    "icsd": "28461",
+    "ccdc": null,
     "prototype": "FNb3O7",
     "prototype_tex": "FNb$_{3}$O$_{7}$",
-    "label": "A3B8_oC22_65_bg_ac2gh-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oC22",
+    "space_group_number": 65,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -21,17 +31,8 @@
         0.21,
         0.689
     ],
-    "strukturbericht": null,
-    "title": "Nb$_{3}$O$_{7}$F Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B8_oC22_65_ag_bd2gh",
-    "number_of_species": 2,
-    "pearson_symbol": "oC22",
-    "space_group_number": 65,
-    "comments": "(Andersson, 1964) was not able to distinguish between oxygen and fluorine, so it is assumed that the fluorine atoms (or OH radicals) are distributed randomly on the oxygen sites. We follow Andersson and label all the sites as oxygen.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "28461"
+    "comments": "(Andersson, 1964) was not able to distinguish between oxygen and fluorine, so it is assumed that the fluorine atoms (or OH radicals) are distributed randomly on the oxygen sites. We follow Andersson and label all the sites as oxygen."
 }

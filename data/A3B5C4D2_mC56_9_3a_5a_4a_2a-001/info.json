@@ -1,9 +1,19 @@
 {
     "uid": "BT10",
+    "label": "A3B5C4D2_mC56_9_3a_5a_4a_2a-001",
+    "alias": "A3B5C4D2_mC56_9_3a_5a_4a_2a",
+    "title": "Chrysotile [Mg$_{3}$Si$_{2}$O$_{5}$(OH)$_{4}$] Structure",
+    "icsd": "413633",
+    "ccdc": null,
     "prototype": "Mg3O5(OH)4Si2",
     "prototype_tex": "Mg$_{3}$O$_{5}$(OH)$_{4}$Si$_{2}$",
-    "label": "A3B5C4D2_mC56_9_3a_5a_4a_2a-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "mC56",
+    "space_group_number": 9,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -99,17 +109,8 @@
         0.2835,
         0.04
     ],
-    "strukturbericht": null,
-    "title": "Chrysotile [Mg$_{3}$Si$_{2}$O$_{5}$(OH)$_{4}$] Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B5C4D2_mC56_9_3a_5a_4a_2a",
-    "number_of_species": 4,
-    "pearson_symbol": "mC56",
-    "space_group_number": 9,
-    "comments": "Chrysotile is more commonly known as ``white asbestos.'' Chrysotile sheets typically curl into tubular fibers and the crystal structure is difficult to determine.  (Yada, 1967) has a partial list of the experiments performed to determine this structure. \n This structure differs from \\href{current_web_home_dir/A3B5C4D2_mC56_9_3a_5a_4a_2a-001}{(Warren, 1931), $S4_{5}$}, halving the size of the unit cell and removing the inversion site. \n For this prototype the OH molecules are centered on (4a) Wyckoff positions.",
+    "legacy": false,
     "notes": "Chrysotile",
-    "ccdc": null,
-    "icsd": "413633"
+    "comments": "Chrysotile is more commonly known as ``white asbestos.'' Chrysotile sheets typically curl into tubular fibers and the crystal structure is difficult to determine.  (Yada, 1967) has a partial list of the experiments performed to determine this structure. \n This structure differs from \\href{current_web_home_dir/A3B5C4D2_mC56_9_3a_5a_4a_2a-001}{(Warren, 1931), $S4_{5}$}, halving the size of the unit cell and removing the inversion site. \n For this prototype the OH molecules are centered on (4a) Wyckoff positions."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "CJHD",
+    "label": "A3B_oP8_59_ae_b-001",
+    "alias": "A3B_oP8_59_bf_a",
+    "title": "$\\beta$-TiCu$_{3}$ ($D0_{a}$) Structure",
+    "icsd": "197784",
+    "ccdc": null,
     "prototype": "Cu3Ti",
     "prototype_tex": "Cu$_{3}$Ti",
-    "label": "A3B_oP8_59_ae_b-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP8",
+    "space_group_number": 59,
+    "strukturbericht": "D0_a",
+    "strukturbericht_tex": "$D0_{a}$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -21,18 +31,8 @@
         0.495,
         0.826
     ],
-    "strukturbericht": "D0_a",
-    "title": "$\\beta$-TiCu$_{3}$ ($D0_{a}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$D0_{a}$",
     "compounds": {},
-    "alias": "A3B_oP8_59_bf_a",
-    "number_of_species": 2,
-    "pearson_symbol": "oP8",
-    "space_group_number": 59,
-    "comments": "We have been so far unable to obtain the original reference (Karlsson, 1951), and Pearson does not give the exact atomic coordinates. Wyckoff positions have been deduced from the structure of Cu$_{3}$Sb, which Villars (1991) lists as having the TiCu$_{3}$ structure. \n Atomic positions are set to give the approximate nearest-neighbor distances listed in Pearson. \n (Giessen, 1971) says that the (Karlsson, 1951) structure of $\\beta$-TiCu$_{3}$ is mistaken. They do find a metastable $\\beta$-TiCu$_{3}$ phase which has the same space group and Wyckoff positions, but substantially different lattice constants than the original determination for $\\beta$-TiCu$_{3}$. \n The ICSD entry is from (Karlsson, 1951).",
+    "legacy": false,
     "notes": "$D0_{a}$, $\\beta$-TiCu$_{3}$",
-    "ccdc": null,
-    "icsd": "197784"
+    "comments": "We have been so far unable to obtain the original reference (Karlsson, 1951), and Pearson does not give the exact atomic coordinates. Wyckoff positions have been deduced from the structure of Cu$_{3}$Sb, which Villars (1991) lists as having the TiCu$_{3}$ structure. \n Atomic positions are set to give the approximate nearest-neighbor distances listed in Pearson. \n (Giessen, 1971) says that the (Karlsson, 1951) structure of $\\beta$-TiCu$_{3}$ is mistaken. They do find a metastable $\\beta$-TiCu$_{3}$ phase which has the same space group and Wyckoff positions, but substantially different lattice constants than the original determination for $\\beta$-TiCu$_{3}$. \n The ICSD entry is from (Karlsson, 1951)."
 }

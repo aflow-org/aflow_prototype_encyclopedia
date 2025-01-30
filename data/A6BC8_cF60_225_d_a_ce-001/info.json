@@ -1,9 +1,19 @@
 {
     "uid": "4YGB",
+    "label": "A6BC8_cF60_225_d_a_ce-001",
+    "alias": "A6BC8_cF60_225_d_a_ce-001",
+    "title": "Mg$_{6}$MnO$_{8}$ Structure",
+    "icsd": "24710",
+    "ccdc": null,
     "prototype": "Mg6MnO8",
     "prototype_tex": "Mg$_{6}$MnO$_{8}$",
-    "label": "A6BC8_cF60_225_d_a_ce-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cF60",
+    "space_group_number": 225,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "x4"
     ],
@@ -11,17 +21,8 @@
         8.381,
         0.23
     ],
-    "strukturbericht": null,
-    "title": "Mg$_{6}$MnO$_{8}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A6BC8_cF60_225_d_a_ce-001",
-    "number_of_species": 3,
-    "pearson_symbol": "cF60",
-    "space_group_number": 225,
-    "comments": "This can be seen as a distortion of the \\href{current_web_home_dir/AB_cF8_225_a_b-001}{rock salt ($B1$) structure} with four atoms removed.  Adding atoms to the (4b) site and setting $x_{4} = 1/4$ places all of the atoms on the sites of the rock salt crystal.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "24710"
+    "comments": "This can be seen as a distortion of the \\href{current_web_home_dir/AB_cF8_225_a_b-001}{rock salt ($B1$) structure} with four atoms removed.  Adding atoms to the (4b) site and setting $x_{4} = 1/4$ places all of the atoms on the sites of the rock salt crystal."
 }

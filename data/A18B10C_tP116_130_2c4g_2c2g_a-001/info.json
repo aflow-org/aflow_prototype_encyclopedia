@@ -1,9 +1,19 @@
 {
     "uid": "JDN7",
+    "label": "A18B10C_tP116_130_2c4g_2c2g_a-001",
+    "alias": "A18B10C_tP116_130_2c4g_2c2g_a",
+    "title": "Sr(OH)$_{2}$(H$_{2}$O)$_{8}$ Structure",
+    "icsd": "170827",
+    "ccdc": null,
     "prototype": "H18O10Sr",
     "prototype_tex": "H$_{18}$O$_{10}$Sr",
-    "label": "A18B10C_tP116_130_2c4g_2c2g_a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP116",
+    "space_group_number": 130,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -55,17 +65,8 @@
         0.47366,
         0.87655
     ],
-    "strukturbericht": null,
-    "title": "Sr(OH)$_{2}$(H$_{2}$O)$_{8}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A18B10C_tP116_130_2c4g_2c2g_a",
-    "number_of_species": 3,
-    "pearson_symbol": "tP116",
-    "space_group_number": 130,
-    "comments": "This determination of the crystal structure of Sr(OH)$_{2}$(H$_{2}$O)$_{8}$ improves upon the the \\href{current_web_home_dir/A8B2C_tP11_123_r_e_b-001}{structure found by (Natta, 1928)}, which was given the {\\em Strukturbericht} designation $E6_{1}$ by (Hermann, 1937). The new structure quadruples the size of the unit cell, locates the hydrogen atoms, and changes the space group. \n We use the data taken by (Ricci, 2005) at 20K.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "170827"
+    "comments": "This determination of the crystal structure of Sr(OH)$_{2}$(H$_{2}$O)$_{8}$ improves upon the the \\href{current_web_home_dir/A8B2C_tP11_123_r_e_b-001}{structure found by (Natta, 1928)}, which was given the {\\em Strukturbericht} designation $E6_{1}$ by (Hermann, 1937). The new structure quadruples the size of the unit cell, locates the hydrogen atoms, and changes the space group. \n We use the data taken by (Ricci, 2005) at 20K."
 }

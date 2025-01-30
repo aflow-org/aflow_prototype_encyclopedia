@@ -1,9 +1,19 @@
 {
     "uid": "3DEV",
+    "label": "A18B2C3_cF184_227_fg_d_ac-001",
+    "alias": "A18B2C3_cF184_227_fg_d_ac",
+    "title": "Mg$_{3}$Cr$_{2}$Al$_{18}$ Structure",
+    "icsd": "57659",
+    "ccdc": null,
     "prototype": "Al18Cr2Mg3",
     "prototype_tex": "Al$_{18}$Cr$_{2}$Mg$_{3}$",
-    "label": "A18B2C3_cF184_227_fg_d_ac-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cF184",
+    "space_group_number": 227,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "x4",
         "x5",
@@ -15,17 +25,8 @@
         0.5584,
         0.3252
     ],
-    "strukturbericht": null,
-    "title": "Mg$_{3}$Cr$_{2}$Al$_{18}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A18B2C3_cF184_227_fg_d_ac",
-    "number_of_species": 3,
-    "pearson_symbol": "cF184",
-    "space_group_number": 227,
-    "comments": "(Samson, 1958) gives the atomic coordinates in terms of Setting 1 of space group $F\\overline{4}dm$ \\#227.  We have shifted this to the standard Setting 2, where the inversion site of the lattice is at the origin. \n If the (8a), (16c) and (16d) sites are occupied by the same type of atom this becomes the \\href{current_web_home_dir/A22B_cF184_227_cdfg_a-001}{Zn$_{22}$Zr structure}. \n In the ternary compounds LnMX$_{20}$, the rare earth (Ln) metal occupies the (8a) site, the transition metal (M) the (16d) site, and X=Al,Cd,Zn occupies the (16c), (48gf) and (96g) sites. These compounds are sometimes listed under the CeCr$_{2}$Al$_{20}$ prototype.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "57659"
+    "comments": "(Samson, 1958) gives the atomic coordinates in terms of Setting 1 of space group $F\\overline{4}dm$ \\#227.  We have shifted this to the standard Setting 2, where the inversion site of the lattice is at the origin. \n If the (8a), (16c) and (16d) sites are occupied by the same type of atom this becomes the \\href{current_web_home_dir/A22B_cF184_227_cdfg_a-001}{Zn$_{22}$Zr structure}. \n In the ternary compounds LnMX$_{20}$, the rare earth (Ln) metal occupies the (8a) site, the transition metal (M) the (16d) site, and X=Al,Cd,Zn occupies the (16c), (48gf) and (96g) sites. These compounds are sometimes listed under the CeCr$_{2}$Al$_{20}$ prototype."
 }

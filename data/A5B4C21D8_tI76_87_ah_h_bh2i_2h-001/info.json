@@ -1,9 +1,19 @@
 {
     "uid": "M4UL",
+    "label": "A5B4C21D8_tI76_87_ah_h_bh2i_2h-001",
+    "alias": "A5B4C21D8_tI76_87_ah_h_bh2i_2h-001",
+    "title": "Ba$_{5}$Yb$_{8}$Ni$_{4}$O$_{21}$ Structure",
+    "icsd": "80614",
+    "ccdc": null,
     "prototype": "Ba5Ni4O21Yb8",
     "prototype_tex": "Ba$_{5}$Ni$_{4}$O$_{21}$Yb$_{8}$",
-    "label": "A5B4C21D8_tI76_87_ah_h_bh2i_2h-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "tI76",
+    "space_group_number": 87,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -43,17 +53,8 @@
         0.547,
         0.7476
     ],
-    "strukturbericht": null,
-    "title": "Ba$_{5}$Yb$_{8}$Ni$_{4}$O$_{21}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A5B4C21D8_tI76_87_ah_h_bh2i_2h-001",
-    "number_of_species": 4,
-    "pearson_symbol": "tI76",
-    "space_group_number": 87,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "80614"
+    "comments": null
 }

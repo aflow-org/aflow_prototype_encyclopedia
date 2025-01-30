@@ -1,9 +1,19 @@
 {
     "uid": "VN5Q",
+    "label": "A2B7C2_aP44_2_4i_14i_4i-001",
+    "alias": "A2B7C2_aP44_2_4i_14i_4i",
+    "title": "$\\alpha$-Ho$_{2}$Si$_{2}$O$_{7}$ Structure",
+    "icsd": "23619",
+    "ccdc": null,
     "prototype": "Ho2O7Si2",
     "prototype_tex": "Ho$_{2}$O$_{7}$Si$_{2}$",
-    "label": "A2B7C2_aP44_2_4i_14i_4i-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "aP44",
+    "space_group_number": 2,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -151,17 +161,8 @@
         0.3719,
         0.6179
     ],
-    "strukturbericht": null,
-    "title": "$\\alpha$-Ho$_{2}$Si$_{2}$O$_{7}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B7C2_aP44_2_4i_14i_4i",
-    "number_of_species": 3,
-    "pearson_symbol": "aP44",
-    "space_group_number": 2,
+    "legacy": false,
     "notes": "$\\alpha$-Ho$_{2}$Si$_{2}$O$_{7}$",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "23619"
+    "comments": null
 }

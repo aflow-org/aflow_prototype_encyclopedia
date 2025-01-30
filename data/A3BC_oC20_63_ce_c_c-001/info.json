@@ -1,9 +1,19 @@
 {
     "uid": "2P2W",
+    "label": "A3BC_oC20_63_ce_c_c-001",
+    "alias": "A3BC_oC20_63_ce_c_c-001",
+    "title": "SrPdGa$_{3}$ Structure",
+    "icsd": "192026",
+    "ccdc": null,
     "prototype": "Ga3PdSr",
     "prototype_tex": "Ga$_{3}$PdSr",
-    "label": "A3BC_oC20_63_ce_c_c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oC20",
+    "space_group_number": 63,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -21,17 +31,8 @@
         0.76505,
         0.28036
     ],
-    "strukturbericht": null,
-    "title": "SrPdGa$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3BC_oC20_63_ce_c_c-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oC20",
-    "space_group_number": 63,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "192026"
+    "comments": null
 }

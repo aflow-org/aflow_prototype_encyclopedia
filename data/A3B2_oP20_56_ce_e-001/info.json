@@ -1,9 +1,19 @@
 {
     "uid": "HKUU",
+    "label": "A3B2_oP20_56_ce_e-001",
+    "alias": "A3B2_oP20_56_ce_e",
+    "title": "Valentinite (Sb$_{2}$O$_{3}$, $D5_{11}$) Structure",
+    "icsd": "2033",
+    "ccdc": null,
     "prototype": "O3Sb2",
     "prototype_tex": "O$_{3}$Sb$_{2}$",
-    "label": "A3B2_oP20_56_ce_e-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP20",
+    "space_group_number": 56,
+    "strukturbericht": "D5_11",
+    "strukturbericht_tex": "$D5_{11}$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -27,18 +37,8 @@
         0.128,
         0.179
     ],
-    "strukturbericht": "D5_11",
-    "title": "Valentinite (Sb$_{2}$O$_{3}$, $D5_{11}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$D5_{11}$",
     "compounds": {},
-    "alias": "A3B2_oP20_56_ce_e",
-    "number_of_species": 2,
-    "pearson_symbol": "oP20",
-    "space_group_number": 56,
-    "comments": "This is the orthorhombic form of Sb$_{2}$O$_{3}$.  For the cubic form, see the \\href{current_web_home_dir/A3B2_cF80_227_f_e-002}{senarmontite ($D6_{1}$) page}.",
+    "legacy": false,
     "notes": "$D5_{11}$, Valentinite",
-    "ccdc": null,
-    "icsd": "2033"
+    "comments": "This is the orthorhombic form of Sb$_{2}$O$_{3}$.  For the cubic form, see the \\href{current_web_home_dir/A3B2_cF80_227_f_e-002}{senarmontite ($D6_{1}$) page}."
 }

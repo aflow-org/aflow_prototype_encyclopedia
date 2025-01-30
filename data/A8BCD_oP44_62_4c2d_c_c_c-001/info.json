@@ -1,9 +1,19 @@
 {
     "uid": "XAT4",
+    "label": "A8BCD_oP44_62_4c2d_c_c_c-001",
+    "alias": "A8BCD_oP44_62_4c2d_c_c_c",
+    "title": "SbCl$_{5}\\cdot$POCl$_{3}$ Structure",
+    "icsd": "26493",
+    "ccdc": null,
     "prototype": "Cl8OPSb",
     "prototype_tex": "Cl$_{8}$OPSb",
-    "label": "A8BCD_oP44_62_4c2d_c_c_c-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oP44",
+    "space_group_number": 62,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -53,17 +63,8 @@
         0.5383,
         0.0597
     ],
-    "strukturbericht": null,
-    "title": "SbCl$_{5}\\cdot$POCl$_{3}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A8BCD_oP44_62_4c2d_c_c_c",
-    "number_of_species": 4,
-    "pearson_symbol": "oP44",
-    "space_group_number": 62,
-    "comments": "(Lindqvist, 1959) give the data for this structure in setting $Pmnb$ of space group \\#62.  We used FINDSYM to exchange the $a$- and $b$-axes so that the structure is now in the standard $Pnma$ orientation.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "26493"
+    "comments": "(Lindqvist, 1959) give the data for this structure in setting $Pmnb$ of space group \\#62.  We used FINDSYM to exchange the $a$- and $b$-axes so that the structure is now in the standard $Pnma$ orientation."
 }

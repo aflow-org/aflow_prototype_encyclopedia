@@ -1,9 +1,19 @@
 {
     "uid": "4RP0",
+    "label": "A2B5_tI14_87_d_ah-001",
+    "alias": "A2B5_tI14_87_d_ah-001",
+    "title": "Ga$_{2}$Te$_{5}$ Structure",
+    "icsd": "1085",
+    "ccdc": null,
     "prototype": "Ga2Te5",
     "prototype_tex": "Ga$_{2}$Te$_{5}$",
-    "label": "A2B5_tI14_87_d_ah-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tI14",
+    "space_group_number": 87,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -15,17 +25,8 @@
         0.1904,
         0.3318
     ],
-    "strukturbericht": null,
-    "title": "Ga$_{2}$Te$_{5}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B5_tI14_87_d_ah-001",
-    "number_of_species": 2,
-    "pearson_symbol": "tI14",
-    "space_group_number": 87,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "1085"
+    "comments": null
 }

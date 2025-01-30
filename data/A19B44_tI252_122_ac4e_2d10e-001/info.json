@@ -1,9 +1,19 @@
 {
     "uid": "HB2V",
+    "label": "A19B44_tI252_122_ac4e_2d10e-001",
+    "alias": "A19B44_tI252_122_ac4e_2d10e-001",
+    "title": "Ba$_{19}$Li$_{44}$ Structure",
+    "icsd": "249574",
+    "ccdc": null,
     "prototype": "Ba19Li44",
     "prototype_tex": "Ba$_{19}$Li$_{44}$",
-    "label": "A19B44_tI252_122_ac4e_2d10e-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tI252",
+    "space_group_number": 122,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -101,17 +111,8 @@
         0.6708,
         0.0844
     ],
-    "strukturbericht": null,
-    "title": "Ba$_{19}$Li$_{44}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A19B44_tI252_122_ac4e_2d10e-001",
-    "number_of_species": 2,
-    "pearson_symbol": "tI252",
-    "space_group_number": 122,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "249574"
+    "comments": null
 }

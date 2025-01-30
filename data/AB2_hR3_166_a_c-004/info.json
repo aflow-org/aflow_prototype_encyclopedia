@@ -1,9 +1,19 @@
 {
     "uid": "TKCJ",
+    "label": "AB2_hR3_166_a_c-004",
+    "alias": "AB2_hR3_166_a_c-004",
+    "title": "CdCl$_{2}$ Structure",
+    "icsd": "30255",
+    "ccdc": null,
     "prototype": "CdCl2",
     "prototype_tex": "CdCl$_{2}$",
-    "label": "AB2_hR3_166_a_c-004",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hR3",
+    "space_group_number": 166,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2"
@@ -13,17 +23,8 @@
         4.44313,
         0.25
     ],
-    "strukturbericht": null,
-    "title": "CdCl$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2_hR3_166_a_c-004",
-    "number_of_species": 2,
-    "pearson_symbol": "hR3",
-    "space_group_number": 166,
-    "comments": "This is the binary form of the \\href{current_web_home_dir/A_hR3_166_ac-001}{$\\alpha$-Sm ($C19$)} structure. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "30255"
+    "comments": "This is the binary form of the \\href{current_web_home_dir/A_hR3_166_ac-001}{$\\alpha$-Sm ($C19$)} structure. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

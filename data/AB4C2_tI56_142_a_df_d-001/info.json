@@ -1,9 +1,19 @@
 {
     "uid": "EHYC",
+    "label": "AB4C2_tI56_142_a_df_d-001",
+    "alias": "AB4C2_tI56_142_a_df_d-001",
+    "title": "Sr$_{2}$IrO$_{4}$ Structure",
+    "icsd": "78260",
+    "ccdc": null,
     "prototype": "IrO4Sr2",
     "prototype_tex": "IrO$_{4}$Sr$_{2}$",
-    "label": "AB4C2_tI56_142_a_df_d-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tI56",
+    "space_group_number": 142,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -17,17 +27,8 @@
         0.55056,
         0.2012
     ],
-    "strukturbericht": null,
-    "title": "Sr$_{2}$IrO$_{4}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB4C2_tI56_142_a_df_d-001",
-    "number_of_species": 3,
-    "pearson_symbol": "tI56",
-    "space_group_number": 142,
-    "comments": "We use the data taken by (Crawford, 1994) at 295K.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "78260"
+    "comments": "We use the data taken by (Crawford, 1994) at 295K."
 }

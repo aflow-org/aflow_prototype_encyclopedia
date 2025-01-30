@@ -1,9 +1,19 @@
 {
     "uid": "FW8N",
+    "label": "A3BC2_hP12_194_h_a_f-002",
+    "alias": "A3BC2_hP12_194_h_a_f-002",
+    "title": "U$_{2}$Cr$_{3}$Si Structure",
+    "icsd": "626830",
+    "ccdc": null,
     "prototype": "Cr3SiU2",
     "prototype_tex": "Cr$_{3}$SiU$_{2}$",
-    "label": "A3BC2_hP12_194_h_a_f-002",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP12",
+    "space_group_number": 194,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -15,17 +25,8 @@
         0.06246,
         0.833333
     ],
-    "strukturbericht": null,
-    "title": "U$_{2}$Cr$_{3}$Si Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3BC2_hP12_194_h_a_f-002",
-    "number_of_species": 3,
-    "pearson_symbol": "hP12",
-    "space_group_number": 194,
-    "comments": "This is a ternary form of the \\href{current_web_home_dir/AB2_hP12_194_f_ah-001}{$C14$ hexagonal Laves structure}.  The ICSD lists the prototype ac $C14$/MgZn$_{2}$, so we chose U$_{2}$Cr$_{3}$Si as the prototype, as it has a readily available reference. \n \\href{current_web_home_dir/A3BC2_hP12_194_h_a_f-002}{U$_{2}$Cr$_{3}$Si}, AFLOW label A3BC2\\_hP12\\_194\\_h\\_a\\_f-002, and \\href{current_web_home_dir/A2BC3_hP12_194_f_a_h-001}{Ba$_{x}$Pt$_{3}$B$_{2}$}, A2BC3\\_hP12\\_194\\_f\\_a\\_h, occupy the same Wyckoff positions in space group $P6_{3}/mmc$ \\# 194. They differ in the c/a ratio, with U$_{2}$Cr$_{3}$Si having $c/a \\approx 1.6$ and Ba$_{x}$Pt$_{3}$B$_{2}$ $c/a \\approx 0.85$.",
+    "legacy": false,
     "notes": "Ternary Hexagonal Laves",
-    "ccdc": null,
-    "icsd": "626830"
+    "comments": "This is a ternary form of the \\href{current_web_home_dir/AB2_hP12_194_f_ah-001}{$C14$ hexagonal Laves structure}.  The ICSD lists the prototype ac $C14$/MgZn$_{2}$, so we chose U$_{2}$Cr$_{3}$Si as the prototype, as it has a readily available reference. \n \\href{current_web_home_dir/A3BC2_hP12_194_h_a_f-002}{U$_{2}$Cr$_{3}$Si}, AFLOW label A3BC2\\_hP12\\_194\\_h\\_a\\_f-002, and \\href{current_web_home_dir/A2BC3_hP12_194_f_a_h-001}{Ba$_{x}$Pt$_{3}$B$_{2}$}, A2BC3\\_hP12\\_194\\_f\\_a\\_h, occupy the same Wyckoff positions in space group $P6_{3}/mmc$ \\# 194. They differ in the c/a ratio, with U$_{2}$Cr$_{3}$Si having $c/a \\approx 1.6$ and Ba$_{x}$Pt$_{3}$B$_{2}$ $c/a \\approx 0.85$."
 }

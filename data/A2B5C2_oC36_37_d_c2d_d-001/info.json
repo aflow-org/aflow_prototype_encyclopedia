@@ -1,9 +1,19 @@
 {
     "uid": "JE1T",
+    "label": "A2B5C2_oC36_37_d_c2d_d-001",
+    "alias": "A2B5C2_oC36_37_d_c2d_d",
+    "title": "Li$_{2}$Si$_{2}$O$_{5}$ Structure",
+    "icsd": "78562",
+    "ccdc": null,
     "prototype": "Li2O5Si2",
     "prototype_tex": "Li$_{2}$O$_{5}$Si$_{2}$",
-    "label": "A2B5C2_oC36_37_d_c2d_d-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oC36",
+    "space_group_number": 37,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -39,17 +49,8 @@
         0.3448,
         0.0571
     ],
-    "strukturbericht": null,
-    "title": "Li$_{2}$Si$_{2}$O$_{5}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B5C2_oC36_37_d_c2d_d",
-    "number_of_species": 3,
-    "pearson_symbol": "oC36",
-    "space_group_number": 37,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "78562"
+    "comments": null
 }

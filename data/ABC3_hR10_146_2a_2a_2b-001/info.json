@@ -1,9 +1,19 @@
 {
     "uid": "EARG",
+    "label": "ABC3_hR10_146_2a_2a_2b-001",
+    "alias": "ABC3_hR10_146_2a_2a_2b",
+    "title": "FePSe$_{3}$ Structure",
+    "icsd": "16246",
+    "ccdc": null,
     "prototype": "FePSe3",
     "prototype_tex": "FePSe$_{3}$",
-    "label": "ABC3_hR10_146_2a_2a_2b-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hR10",
+    "space_group_number": 146,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -31,17 +41,8 @@
         0.6753,
         0.3849
     ],
-    "strukturbericht": null,
-    "title": "FePSe$_{3}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC3_hR10_146_2a_2a_2b",
-    "number_of_species": 3,
-    "pearson_symbol": "hR10",
-    "space_group_number": 146,
-    "comments": "(Klingen, 1973) also considered the possibility that this structure could be in the centrosymmetric space group $R\\overline{3}$ \\#148. That structure was \\href{current_web_home_dir/ABC3_hR10_148_c_c_f-001}{refined by (Wiedenmann, 1981)}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "16246"
+    "comments": "(Klingen, 1973) also considered the possibility that this structure could be in the centrosymmetric space group $R\\overline{3}$ \\#148. That structure was \\href{current_web_home_dir/ABC3_hR10_148_c_c_f-001}{refined by (Wiedenmann, 1981)}."
 }

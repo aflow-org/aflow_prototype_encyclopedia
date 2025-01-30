@@ -1,9 +1,19 @@
 {
     "uid": "92TS",
+    "label": "A17B3_cI160_204_def2gh_g-001",
+    "alias": "A17B3_cI160_204_def2gh_g-001",
+    "title": "Ru$_{3}$Be$_{17}$ Structure",
+    "icsd": "58735",
+    "ccdc": null,
     "prototype": "Be17Ru3",
     "prototype_tex": "Be$_{17}$Ru$_{3}$",
-    "label": "A17B3_cI160_204_def2gh_g-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cI160",
+    "space_group_number": 204,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "x1",
         "x2",
@@ -33,17 +43,8 @@
         0.614,
         0.8434
     ],
-    "strukturbericht": null,
-    "title": "Ru$_{3}$Be$_{17}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A17B3_cI160_204_def2gh_g-001",
-    "number_of_species": 2,
-    "pearson_symbol": "cI160",
-    "space_group_number": 204,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "58735"
+    "comments": null
 }

@@ -1,9 +1,19 @@
 {
     "uid": "CXFF",
+    "label": "A4BC12D2_oC76_63_eg_c_f3gh_g-001",
+    "alias": "A4BC12D2_oC76_63_eg_c_f3gh_g",
+    "title": "$S0_{4}$ (Staurolite, Fe(OH)$_{2}$Al$_{4}$SiO$_{10}$) Structure ({\\em Obsolete})",
+    "icsd": "46194",
+    "ccdc": null,
     "prototype": "Al4FeO10(OH)2Si",
     "prototype_tex": "Al$_{4}$FeO$_{10}$(OH)$_{2}$Si",
-    "label": "A4BC12D2_oC76_63_eg_c_f3gh_g-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oC76",
+    "space_group_number": 63,
+    "strukturbericht": "S0_4",
+    "strukturbericht_tex": "$S0_{4}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -47,18 +57,8 @@
         0.673,
         4.44089e-16
     ],
-    "strukturbericht": "S0_4",
-    "title": "$S0_{4}$ (Staurolite, Fe(OH)$_{2}$Al$_{4}$SiO$_{10}$) Structure ({\\em Obsolete})",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$S0_{4}$",
     "compounds": {},
-    "alias": "A4BC12D2_oC76_63_eg_c_f3gh_g",
-    "number_of_species": 4,
-    "pearson_symbol": "oC76",
-    "space_group_number": 63,
-    "comments": "This orthorhombic structure of staurolite determined by (N\\'{a}ray-Szab\\'{o}, 1929) was given the {\\em Strukturbericht} designation $S0_{4}$ by (Hermann, 1937).  (Smith, 1968) showed that the true structure is \\href{current_web_home_dir/A5B2C2D10E2_mC84_12_acghj_bdi_2i_5j_j-001}{monoclinic} with $\\beta \\approx 90^\\circ$, rather than orthorhombic, and corrected the chemical composition of the mineral. Accordingly, we have marked this version of the structure as obsolete, but retain it for historical interest. \n We take our data from (Hermann, 1937), who presented it in the $Ccmm$ representation of space group \\#63.  We used findsym to transform the structure to the standard $Cmcm$ representation. \n (Hermann, 1937) also gave this the label $H5_{4}$ in the index. \n One sixth of the oxygen sites listed here should actually be OH ions, but the positions of the hydrogen atoms were not given in (N\\'{a}ray-Szab\\'{o}, 1929) and are labeled as O. \n We take our data from (Hermann, 1937), who presented it in the $Ccmm$ representation of space group \\#63. We used FINDSYM to transform the structure to the standard Cmcm representation. \n (Hermann, 1937) also gave this the label $H5_{4}$ in the index.",
+    "legacy": false,
     "notes": "$S0_{4}$, Staurolite",
-    "ccdc": null,
-    "icsd": "46194"
+    "comments": "This orthorhombic structure of staurolite determined by (N\\'{a}ray-Szab\\'{o}, 1929) was given the {\\em Strukturbericht} designation $S0_{4}$ by (Hermann, 1937).  (Smith, 1968) showed that the true structure is \\href{current_web_home_dir/A5B2C2D10E2_mC84_12_acghj_bdi_2i_5j_j-001}{monoclinic} with $\\beta \\approx 90^\\circ$, rather than orthorhombic, and corrected the chemical composition of the mineral. Accordingly, we have marked this version of the structure as obsolete, but retain it for historical interest. \n We take our data from (Hermann, 1937), who presented it in the $Ccmm$ representation of space group \\#63.  We used findsym to transform the structure to the standard $Cmcm$ representation. \n (Hermann, 1937) also gave this the label $H5_{4}$ in the index. \n One sixth of the oxygen sites listed here should actually be OH ions, but the positions of the hydrogen atoms were not given in (N\\'{a}ray-Szab\\'{o}, 1929) and are labeled as O. \n We take our data from (Hermann, 1937), who presented it in the $Ccmm$ representation of space group \\#63. We used FINDSYM to transform the structure to the standard Cmcm representation. \n (Hermann, 1937) also gave this the label $H5_{4}$ in the index."
 }

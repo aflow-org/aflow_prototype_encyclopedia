@@ -1,9 +1,19 @@
 {
     "uid": "LQ5X",
+    "label": "AB2C_oP16_51_2e_bfi_j-001",
+    "alias": "AB2C_oP16_51_2e_bfi_j-001",
+    "title": "Kenhsuite ($\\gamma$-Hg$_{3}$S$_{2}$Cl$_{2}$) Structure",
+    "icsd": "29252",
+    "ccdc": null,
     "prototype": "Cl2Hg3S2",
     "prototype_tex": "Cl$_{2}$Hg$_{3}$S$_{2}$",
-    "label": "AB2C_oP16_51_2e_bfi_j-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP16",
+    "space_group_number": 51,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -27,17 +37,8 @@
         0.4655,
         0.7471
     ],
-    "strukturbericht": null,
-    "title": "Kenhsuite ($\\gamma$-Hg$_{3}$S$_{2}$Cl$_{2}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2C_oP16_51_2e_bfi_j-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oP16",
-    "space_group_number": 51,
-    "comments": "Hg$_{3}$Cl$_{2}$S$_{2}$ is found in three forms (Carlson, 1967): \\begin{itemize} \\item \\href{current_web_home_dir/A2B3C2_cI28_199_a_b_a-002}{Corderoite ($\\alpha$-Hg$_{3}$Cl$_{2}$S$_{2}$)}, the cubic ground state. \\item \\href{current_web_home_dir/A2B3C2_cP224_223_abcdefk_j3k_il-001}{$\\beta$-Hg$_{3}$Cl$_{2}$S$_{2}$}, which appears above 340$^{\\circ}$C, another cubic phase with a much larger unit cell. \\item \\href{current_web_home_dir/AB2C_oP16_51_2e_bfi_j-001}{Kenhsuite ($\\gamma$-Hg$_{3}$Cl$_{2}$S$_{2}$)}, which on average has an orthorhombic lattice.  This state is apparently metastable. (this structure) \\end{itemize} ~ \\vspace{-.25in} \n (\\v{D}urovi\\v{c}, 1961) found that Kenhsuite was composed of blocks of periodic structure in space group $C2/m$ \\#12, with lattice constants $(a',b',c') = (2a,2b,c)$, where $(a,b,c)$ are the lattice constants given here.  This page shows what \\v{D}urovi\\v{c} refers to as the ``composite structure,'' essentially averaging all of the periodic structures.  The data for this structure was originally given in the $Pbmm$ setting of space group \\#51.  We used FINDSYM to transform it to the standard $Pmma$ setting, which involved a rotation and a translation. \n The Hg-III (4i) site is only half occupied, giving the observed stoichiometry.",
+    "legacy": false,
     "notes": "Kenhsuite",
-    "ccdc": null,
-    "icsd": "29252"
+    "comments": "Hg$_{3}$Cl$_{2}$S$_{2}$ is found in three forms (Carlson, 1967): \\begin{itemize} \\item \\href{current_web_home_dir/A2B3C2_cI28_199_a_b_a-002}{Corderoite ($\\alpha$-Hg$_{3}$Cl$_{2}$S$_{2}$)}, the cubic ground state. \\item \\href{current_web_home_dir/A2B3C2_cP224_223_abcdefk_j3k_il-001}{$\\beta$-Hg$_{3}$Cl$_{2}$S$_{2}$}, which appears above 340$^{\\circ}$C, another cubic phase with a much larger unit cell. \\item \\href{current_web_home_dir/AB2C_oP16_51_2e_bfi_j-001}{Kenhsuite ($\\gamma$-Hg$_{3}$Cl$_{2}$S$_{2}$)}, which on average has an orthorhombic lattice.  This state is apparently metastable. (this structure) \\end{itemize} ~ \\vspace{-.25in} \n (\\v{D}urovi\\v{c}, 1961) found that Kenhsuite was composed of blocks of periodic structure in space group $C2/m$ \\#12, with lattice constants $(a',b',c') = (2a,2b,c)$, where $(a,b,c)$ are the lattice constants given here.  This page shows what \\v{D}urovi\\v{c} refers to as the ``composite structure,'' essentially averaging all of the periodic structures.  The data for this structure was originally given in the $Pbmm$ setting of space group \\#51.  We used FINDSYM to transform it to the standard $Pmma$ setting, which involved a rotation and a translation. \n The Hg-III (4i) site is only half occupied, giving the observed stoichiometry."
 }

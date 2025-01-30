@@ -1,9 +1,19 @@
 {
     "uid": "RDBP",
+    "label": "AB_mC32_15_2ef_2f-001",
+    "alias": "AB_mC32_15_2ef_2f-001",
+    "title": "NSe Structure",
+    "icsd": "14325",
+    "ccdc": null,
     "prototype": "NSe",
     "prototype_tex": "NSe",
-    "label": "AB_mC32_15_2ef_2f-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC32",
+    "space_group_number": 15,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -37,17 +47,8 @@
         0.8012,
         0.9407
     ],
-    "strukturbericht": null,
-    "title": "NSe Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_mC32_15_2ef_2f-001",
-    "number_of_species": 2,
-    "pearson_symbol": "mC32",
-    "space_group_number": 15,
-    "comments": "Selenium nitride explodes when it reaches a temperature of 200$^\\circ$C. \n NSe can also be found in the \\href{current_web_home_dir/AB_mP32_14_4e_4e-004}{sulfur nitride (NS) structure}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "14325"
+    "comments": "Selenium nitride explodes when it reaches a temperature of 200$^\\circ$C. \n NSe can also be found in the \\href{current_web_home_dir/AB_mP32_14_4e_4e-004}{sulfur nitride (NS) structure}."
 }

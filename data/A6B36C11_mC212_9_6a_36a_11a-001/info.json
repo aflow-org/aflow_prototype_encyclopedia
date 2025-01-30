@@ -1,9 +1,19 @@
 {
     "uid": "A3V8",
+    "label": "A6B36C11_mC212_9_6a_36a_11a-001",
+    "alias": "A6B36C11_mC212_9_6a_36a_11a",
+    "title": "Cs$_{6}$W$_{11}$O$_{36}$ Structure",
+    "icsd": "80133",
+    "ccdc": null,
     "prototype": "Cs6O36W11",
     "prototype_tex": "Cs$_{6}$O$_{36}$W$_{11}$",
-    "label": "A6B36C11_mC212_9_6a_36a_11a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mC212",
+    "space_group_number": 9,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -333,17 +343,8 @@
         0.9842,
         0.0
     ],
-    "strukturbericht": null,
-    "title": "Cs$_{6}$W$_{11}$O$_{36}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A6B36C11_mC212_9_6a_36a_11a",
-    "number_of_species": 3,
-    "pearson_symbol": "mC212",
-    "space_group_number": 9,
-    "comments": "(Okada, 1978) placed this in the monoclinic space group $Cc$ \\#9. (Marsh, 1995) determined that their data fit in space group $R\\overline{3}c$ \\#167. \n We changed the atomic coordinates just enough to maintain the $Cc$ space group. \\href{current_web_home_dir/A6B36C11_hR106_167_3c_6f_cef-001}{The symmetrized version may be found here}. \n (Okada, 1978) gave the data for this structure in the $Aa$ setting of space group \\#9. We uesed FINDSYM to transform it to the standard $Cc$ setting.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "80133"
+    "comments": "(Okada, 1978) placed this in the monoclinic space group $Cc$ \\#9. (Marsh, 1995) determined that their data fit in space group $R\\overline{3}c$ \\#167. \n We changed the atomic coordinates just enough to maintain the $Cc$ space group. \\href{current_web_home_dir/A6B36C11_hR106_167_3c_6f_cef-001}{The symmetrized version may be found here}. \n (Okada, 1978) gave the data for this structure in the $Aa$ setting of space group \\#9. We uesed FINDSYM to transform it to the standard $Cc$ setting."
 }

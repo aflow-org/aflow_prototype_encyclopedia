@@ -1,9 +1,19 @@
 {
     "uid": "TWS9",
+    "label": "A2B3_mP30_11_6e_9e-001",
+    "alias": "A2B3_mP30_11_6e_9e-001",
+    "title": "Ho$_{2}$S$_{3}$ Structure",
+    "icsd": "22252",
+    "ccdc": null,
     "prototype": "Ho2S3",
     "prototype_tex": "Ho$_{2}$S$_{3}$",
-    "label": "A2B3_mP30_11_6e_9e-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mP30",
+    "space_group_number": 11,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -75,17 +85,8 @@
         0.6322,
         0.5319
     ],
-    "strukturbericht": null,
-    "title": "Ho$_{2}$S$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B3_mP30_11_6e_9e-001",
-    "number_of_species": 2,
-    "pearson_symbol": "mP30",
-    "space_group_number": 11,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "22252"
+    "comments": null
 }

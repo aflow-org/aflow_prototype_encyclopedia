@@ -1,9 +1,19 @@
 {
     "uid": "HZN6",
+    "label": "ABCD_oP16_18_c_c_c_c-001",
+    "alias": "ABCD_oP16_18_c_c_c_c-001",
+    "title": "Capgaronnite [HgS$\\cdot$Ag(Cl,Br,I)] Structure",
+    "icsd": "66329",
+    "ccdc": null,
     "prototype": "AgClHgS",
     "prototype_tex": "AgClHgS",
-    "label": "ABCD_oP16_18_c_c_c_c-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oP16",
+    "space_group_number": 18,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -37,17 +47,8 @@
         0.114,
         0.468
     ],
-    "strukturbericht": null,
-    "title": "Capgaronnite [HgS$\\cdot$Ag(Cl,Br,I)] Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABCD_oP16_18_c_c_c_c-001",
-    "number_of_species": 4,
-    "pearson_symbol": "oP16",
-    "space_group_number": 18,
-    "comments": "The site we have labeled ``Cl'' is a mixture of chlorine, bromine, and iodine.  We take the structural data from a sample with 82\\% chlorine and 18\\% bromine.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "66329"
+    "comments": "The site we have labeled ``Cl'' is a mixture of chlorine, bromine, and iodine.  We take the structural data from a sample with 82\\% chlorine and 18\\% bromine."
 }

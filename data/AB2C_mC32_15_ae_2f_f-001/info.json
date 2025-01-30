@@ -1,9 +1,19 @@
 {
     "uid": "YUVG",
+    "label": "AB2C_mC32_15_ae_2f_f-001",
+    "alias": "AB2C_mC32_15_ae_2f_f-001",
+    "title": "Miargyrite (AgSbS$_{2}$) Structure",
+    "icsd": "94647",
+    "ccdc": null,
     "prototype": "AgS2Sb",
     "prototype_tex": "AgS$_{2}$Sb",
-    "label": "AB2C_mC32_15_ae_2f_f-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mC32",
+    "space_group_number": 15,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -35,17 +45,8 @@
         0.46642,
         0.37338
     ],
-    "strukturbericht": null,
-    "title": "Miargyrite (AgSbS$_{2}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2C_mC32_15_ae_2f_f-001",
-    "number_of_species": 3,
-    "pearson_symbol": "mC32",
-    "space_group_number": 15,
-    "comments": "We shifted the origin of the structure described by (Effenberger, 2002) so that a silver atom is at the origin, the Wyckoff (4a) site, rather than at (0 1/2 1/2), Wyckoff (4b).",
+    "legacy": false,
     "notes": "Miargyrite",
-    "ccdc": null,
-    "icsd": "94647"
+    "comments": "We shifted the origin of the structure described by (Effenberger, 2002) so that a silver atom is at the origin, the Wyckoff (4a) site, rather than at (0 1/2 1/2), Wyckoff (4b)."
 }

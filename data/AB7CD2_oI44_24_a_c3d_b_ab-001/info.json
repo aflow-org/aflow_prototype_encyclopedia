@@ -1,9 +1,19 @@
 {
     "uid": "Q6TN",
+    "label": "AB7CD2_oI44_24_a_c3d_b_ab-001",
+    "alias": "AB7CD2_oI44_24_a_b3d_c_ac",
+    "title": "Weberite (Na$_{2}$MgAlF$_{7}$) Structure",
+    "icsd": "33512",
+    "ccdc": null,
     "prototype": "AlF7MgNa2",
     "prototype_tex": "AlF$_{7}$MgNa$_{2}$",
-    "label": "AB7CD2_oI44_24_a_c3d_b_ab-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oI44",
+    "space_group_number": 24,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -41,17 +51,8 @@
         0.3885,
         0.3209
     ],
-    "strukturbericht": null,
-    "title": "Weberite (Na$_{2}$MgAlF$_{7}$) Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB7CD2_oI44_24_a_b3d_c_ac",
-    "number_of_species": 4,
-    "pearson_symbol": "oI44",
-    "space_group_number": 24,
+    "legacy": false,
     "notes": "Weberite",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "33512"
+    "comments": null
 }

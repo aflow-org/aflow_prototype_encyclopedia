@@ -1,9 +1,19 @@
 {
     "uid": "WWU9",
+    "label": "ABC3_oP20_54_e_d_cf-001",
+    "alias": "ABC3_oP20_54_e_d_cf",
+    "title": "BiGaO$_{3}$ Structure",
+    "icsd": "171709",
+    "ccdc": null,
     "prototype": "BiGaO3",
     "prototype_tex": "BiGaO$_{3}$",
-    "label": "ABC3_oP20_54_e_d_cf-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP20",
+    "space_group_number": 54,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -25,17 +35,8 @@
         0.7314,
         0.4497
     ],
-    "strukturbericht": null,
-    "title": "BiGaO$_{3}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC3_oP20_54_e_d_cf",
-    "number_of_species": 3,
-    "pearson_symbol": "oP20",
-    "space_group_number": 54,
-    "comments": "The lattice constants for this structure are from (Yusa, 2009), measured at 3.2 GPa.  The authors did not give the atomic positions. These are taken from (Belik, 2006) at ambient pressure and temperature and are assumed to be similar to those at higher pressure. \n The ICSD entry is from (Belik, 2006).",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "171709"
+    "comments": "The lattice constants for this structure are from (Yusa, 2009), measured at 3.2 GPa.  The authors did not give the atomic positions. These are taken from (Belik, 2006) at ambient pressure and temperature and are assumed to be similar to those at higher pressure. \n The ICSD entry is from (Belik, 2006)."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "D4ZH",
+    "label": "A2B_tP6_136_f_a-001",
+    "alias": "A2B_tP6_136_f_a",
+    "title": "Rutile (TiO$_{2}$, $C4$) Structure",
+    "icsd": "80843",
+    "ccdc": null,
     "prototype": "O2Ti",
     "prototype_tex": "O$_{2}$Ti",
-    "label": "A2B_tP6_136_f_a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tP6",
+    "space_group_number": 136,
+    "strukturbericht": "C4",
+    "strukturbericht_tex": "$C4$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2"
@@ -13,18 +23,8 @@
         0.644005,
         0.30496
     ],
-    "strukturbericht": "C4",
-    "title": "Rutile (TiO$_{2}$, $C4$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$C4$",
     "compounds": {},
-    "alias": "A2B_tP6_136_f_a",
-    "number_of_species": 2,
-    "pearson_symbol": "tP6",
-    "space_group_number": 136,
-    "comments": "TiO$_{2}$ can also be found as \\href{current_web_home_dir/A2B_tI12_141_e_a-001}{anatase ($C5$)} and \\href{current_web_home_dir/A2B_oP24_61_2c_c-001}{brookite ($C21$)}.",
+    "legacy": false,
     "notes": "$C4$, Rutile",
-    "ccdc": null,
-    "icsd": "80843"
+    "comments": "TiO$_{2}$ can also be found as \\href{current_web_home_dir/A2B_tI12_141_e_a-001}{anatase ($C5$)} and \\href{current_web_home_dir/A2B_oP24_61_2c_c-001}{brookite ($C21$)}."
 }

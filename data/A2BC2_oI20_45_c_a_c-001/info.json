@@ -1,9 +1,19 @@
 {
     "uid": "LNLG",
+    "label": "A2BC2_oI20_45_c_a_c-001",
+    "alias": "A2BC2_oI20_45_c_b_c",
+    "title": "MnGa$_{2}$Sb$_{2}$ Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "Ga2MnSb2",
     "prototype_tex": "Ga$_{2}$MnSb$_{2}$",
-    "label": "A2BC2_oI20_45_c_a_c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oI20",
+    "space_group_number": 45,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -27,17 +37,8 @@
         0.2704,
         0.474
     ],
-    "strukturbericht": null,
-    "title": "MnGa$_{2}$Sb$_{2}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC2_oI20_45_c_b_c",
-    "number_of_species": 3,
-    "pearson_symbol": "oI20",
-    "space_group_number": 45,
-    "comments": "The Mn site has an occupation of 0.9365. \n We shifted the origin so that the Mn atom is at the (4a) site rather than the (4b) site.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "none"
+    "comments": "The Mn site has an occupation of 0.9365. \n We shifted the origin so that the Mn atom is at the (4a) site rather than the (4b) site."
 }

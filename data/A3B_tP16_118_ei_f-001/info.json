@@ -1,9 +1,19 @@
 {
     "uid": "0ZUR",
+    "label": "A3B_tP16_118_ei_f-001",
+    "alias": "A3B_tP16_118_ei_f",
+    "title": "RuIn$_{3}$ Structure",
+    "icsd": "59518",
+    "ccdc": null,
     "prototype": "In3Ru",
     "prototype_tex": "In$_{3}$Ru",
-    "label": "A3B_tP16_118_ei_f-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tP16",
+    "space_group_number": 118,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -21,17 +31,8 @@
         0.149,
         0.509
     ],
-    "strukturbericht": null,
-    "title": "RuIn$_{3}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B_tP16_118_ei_f",
-    "number_of_species": 2,
-    "pearson_symbol": "tP16",
-    "space_group_number": 118,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "59518"
+    "comments": null
 }

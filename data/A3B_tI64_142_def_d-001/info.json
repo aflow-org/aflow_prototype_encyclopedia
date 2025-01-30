@@ -1,9 +1,19 @@
 {
     "uid": "Q6FW",
+    "label": "A3B_tI64_142_def_d-001",
+    "alias": "A3B_tI64_142_def_d-001",
+    "title": "R$_{1}$ Au$_{3}$Zn Structure",
+    "icsd": "58628",
+    "ccdc": null,
     "prototype": "Au3Zn",
     "prototype_tex": "Au$_{3}$Zn",
-    "label": "A3B_tI64_142_def_d-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tI64",
+    "space_group_number": 142,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -19,17 +29,8 @@
         0.75,
         0.31
     ],
-    "strukturbericht": null,
-    "title": "R$_{1}$ Au$_{3}$Zn Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B_tI64_142_def_d-001",
-    "number_of_species": 2,
-    "pearson_symbol": "tI64",
-    "space_group_number": 142,
-    "comments": "Au$_{3}$Zn is known to exist in three forms, depending upon the exact composition and temperature (Hisatsune, 1998): \\begin{itemize} \\item The \\href{current_web_home_dir/A3B_tI64_142_def_d-001}{tetragonal $R_{1}$ phase} (this structure) is stable below $\\approx 475$K with a composition very nearly stoichiometric. \\item The \\href{current_web_home_dir/A3B_oC32_64_def_d-001}{orthorhombic $R_{2}$ phase} is stable below $\\approx 550$K with a composition range somewhat wider than the $R_{1}$ phase. \\item The tetragonal $H$ phase has the \\href{current_web_home_dir/A3B_tI16_139_cde_e-001}{$D0_{23}$ structure} and is stable at temperatures up to $\\approx 700$K over a considerably wider range of stoichiometries than either the $R_{1}$ or $R_{2}$ phases. \\end{itemize} ~ \\vspace{-.25in} \n (Iwaskai, 1962) gave structure of the $R_{1}$ phase in setting 1 of space group $I4_{1}/acd$ \\#142.  We used FINDSYM to transform this to the standard setting 2. \n (Iwaskai, 1962) gave the lattice constants in kX units.  We used the conversion factor 1 kX = 1.00202{\\AA}. (Wood, 1947)",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "58628"
+    "comments": "Au$_{3}$Zn is known to exist in three forms, depending upon the exact composition and temperature (Hisatsune, 1998): \\begin{itemize} \\item The \\href{current_web_home_dir/A3B_tI64_142_def_d-001}{tetragonal $R_{1}$ phase} (this structure) is stable below $\\approx 475$K with a composition very nearly stoichiometric. \\item The \\href{current_web_home_dir/A3B_oC32_64_def_d-001}{orthorhombic $R_{2}$ phase} is stable below $\\approx 550$K with a composition range somewhat wider than the $R_{1}$ phase. \\item The tetragonal $H$ phase has the \\href{current_web_home_dir/A3B_tI16_139_cde_e-001}{$D0_{23}$ structure} and is stable at temperatures up to $\\approx 700$K over a considerably wider range of stoichiometries than either the $R_{1}$ or $R_{2}$ phases. \\end{itemize} ~ \\vspace{-.25in} \n (Iwaskai, 1962) gave structure of the $R_{1}$ phase in setting 1 of space group $I4_{1}/acd$ \\#142.  We used FINDSYM to transform this to the standard setting 2. \n (Iwaskai, 1962) gave the lattice constants in kX units.  We used the conversion factor 1 kX = 1.00202{\\AA}. (Wood, 1947)"
 }

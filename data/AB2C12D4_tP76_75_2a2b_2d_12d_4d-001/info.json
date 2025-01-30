@@ -1,9 +1,19 @@
 {
     "uid": "MXLF",
+    "label": "AB2C12D4_tP76_75_2a2b_2d_12d_4d-001",
+    "alias": "AB2C12D4_tP76_75_2a2b_2d_12d_4d",
+    "title": "Hexagonal Hollandite (BaRu$_{4}$Cr$_{2}$O$_{12}$) Structure",
+    "icsd": "100578",
+    "ccdc": null,
     "prototype": "BaCr2O12Ru4",
     "prototype_tex": "BaCr$_{2}$O$_{12}$Ru$_{4}$",
-    "label": "AB2C12D4_tP76_75_2a2b_2d_12d_4d-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "tP76",
+    "space_group_number": 75,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -127,17 +137,8 @@
         0.848,
         0.0
     ],
-    "strukturbericht": null,
-    "title": "Hexagonal Hollandite (BaRu$_{4}$Cr$_{2}$O$_{12}$) Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2C12D4_tP76_75_2a2b_2d_12d_4d",
-    "number_of_species": 4,
-    "pearson_symbol": "tP76",
-    "space_group_number": 75,
-    "comments": "This is a superstructure of conventional \\href{current_web_home_dir/AB4C8_mC26_12_a_2i_4i-001}{hollandite}. \n (Cad\\'{e}, 1979) and the ICSD entry omit the coordinates for the O-VI atom.  We have used the values provided by (Villars, 2016). \n Space group $P4$ \\#74 allows for an arbitrary origin of the $z$-axis.  We follow (Villars, 2016) and set $z_{1} = 0$ for the Ba-I atom.  This is a shift of $c/2$ from the origin used by (Cad\\'{e}, 1979).",
+    "legacy": false,
     "notes": "Hexagonal hollandite",
-    "ccdc": null,
-    "icsd": "100578"
+    "comments": "This is a superstructure of conventional \\href{current_web_home_dir/AB4C8_mC26_12_a_2i_4i-001}{hollandite}. \n (Cad\\'{e}, 1979) and the ICSD entry omit the coordinates for the O-VI atom.  We have used the values provided by (Villars, 2016). \n Space group $P4$ \\#74 allows for an arbitrary origin of the $z$-axis.  We follow (Villars, 2016) and set $z_{1} = 0$ for the Ba-I atom.  This is a shift of $c/2$ from the origin used by (Cad\\'{e}, 1979)."
 }

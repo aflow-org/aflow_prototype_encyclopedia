@@ -1,9 +1,19 @@
 {
     "uid": "ZWXH",
+    "label": "A2B_mP6_10_mn_bc-001",
+    "alias": "A2B_mP6_10_mn_bg",
+    "title": "$\\delta$-Pd$_{2}$Cl Structure",
+    "icsd": "421220",
+    "ccdc": null,
     "prototype": "Cl2Pd",
     "prototype_tex": "Cl$_{2}$Pd",
-    "label": "A2B_mP6_10_mn_bc-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mP6",
+    "space_group_number": 10,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -23,17 +33,8 @@
         0.914,
         0.558
     ],
-    "strukturbericht": null,
-    "title": "$\\delta$-Pd$_{2}$Cl Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B_mP6_10_mn_bg",
-    "number_of_species": 2,
-    "pearson_symbol": "mP6",
-    "space_group_number": 10,
-    "comments": "PdCl$_{2}$ is known to exist in four different structures at ambient pressure (Evers, 2010): \\begin{itemize} \\item \\href{current_web_home_dir/A2B_oP6_58_g_a-001}{orthorhombic $\\alpha$-PdCl$_{2}$}, \\item \\href{current_web_home_dir/A2B_hR18_148_2f_f-001}{rhombohedral $\\beta$-PdCl$_{2}$}, \\item \\href{current_web_home_dir/A2B_mP6_14_e_a-001}{monoclinic $\\gamma$-PdCl$_{2}$} , and \\item \\href{current_web_home_dir/A2B_mP6_10_mn_bc-001}{monoclinic $\\delta$-PdCl$_{2}$} (this structure). \\end{itemize} ~ \\vspace{-.25in} \n (Evers, 2010) use the unique-axis c setting of space group $P2/m$ \\#10.  We have switched this to our standard unique-axis b setting.  Data was taken at 793K.",
+    "legacy": false,
     "notes": "$\\delta$-Pd$_{2}$Cl",
-    "ccdc": null,
-    "icsd": "421220"
+    "comments": "PdCl$_{2}$ is known to exist in four different structures at ambient pressure (Evers, 2010): \\begin{itemize} \\item \\href{current_web_home_dir/A2B_oP6_58_g_a-001}{orthorhombic $\\alpha$-PdCl$_{2}$}, \\item \\href{current_web_home_dir/A2B_hR18_148_2f_f-001}{rhombohedral $\\beta$-PdCl$_{2}$}, \\item \\href{current_web_home_dir/A2B_mP6_14_e_a-001}{monoclinic $\\gamma$-PdCl$_{2}$} , and \\item \\href{current_web_home_dir/A2B_mP6_10_mn_bc-001}{monoclinic $\\delta$-PdCl$_{2}$} (this structure). \\end{itemize} ~ \\vspace{-.25in} \n (Evers, 2010) use the unique-axis c setting of space group $P2/m$ \\#10.  We have switched this to our standard unique-axis b setting.  Data was taken at 793K."
 }

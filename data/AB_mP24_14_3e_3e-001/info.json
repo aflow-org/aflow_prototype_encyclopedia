@@ -1,9 +1,19 @@
 {
     "uid": "7TV0",
+    "label": "AB_mP24_14_3e_3e-001",
+    "alias": "AB_mP24_14_3e_3e",
+    "title": "$\\epsilon$-1,2,3,4,5,6-Hexachloro{\\em cyclo}hexane (C$_{6}$Cl$_{6}$) Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "C6Cl6",
     "prototype_tex": "C$_{6}$Cl$_{6}$",
-    "label": "AB_mP24_14_3e_3e-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mP24",
+    "space_group_number": 14,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -51,17 +61,8 @@
         0.13,
         0.892
     ],
-    "strukturbericht": null,
-    "title": "$\\epsilon$-1,2,3,4,5,6-Hexachloro{\\em cyclo}hexane (C$_{6}$Cl$_{6}$) Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_mP24_14_3e_3e",
-    "number_of_species": 2,
-    "pearson_symbol": "mP24",
-    "space_group_number": 14,
-    "comments": "This unit cell contains two \\href{current_web_home_dir/AB_oP48_61_3c_3c-001}{benzene molecules} with every hydrogen replaced by a chlorine atom, causing considerable distortion.  To see this it will be necessary to use a supercell view of at least $2 \\times 1 \\times 2$.",
+    "legacy": false,
     "notes": "$\\epsilon$-Hexachloro{\\em cyclo}hexane",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "This unit cell contains two \\href{current_web_home_dir/AB_oP48_61_3c_3c-001}{benzene molecules} with every hydrogen replaced by a chlorine atom, causing considerable distortion.  To see this it will be necessary to use a supercell view of at least $2 \\times 1 \\times 2$."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "TBT2",
+    "label": "A3B14C2D3E_mP138_3_3c3d6e_42e_6e_3a3b6e_3a3b-001",
+    "alias": "A3B14C2D3E_mP138_3_3c3d6e_42e_6e_3a3b6e_3a3b-001",
+    "title": "Pb$_{3}$TeCo$_{3}$P$_{2}$O$_{14}$ Structure",
+    "icsd": "425850",
+    "ccdc": null,
     "prototype": "Co3O14P2Pb3Te",
     "prototype_tex": "Co$_{3}$O$_{14}$P$_{2}$Pb$_{3}$Te",
-    "label": "A3B14C2D3E_mP138_3_3c3d6e_42e_6e_3a3b6e_3a3b-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "mP138",
+    "space_group_number": 3,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -411,17 +421,8 @@
         0.9047,
         0.2941
     ],
-    "strukturbericht": null,
-    "title": "Pb$_{3}$TeCo$_{3}$P$_{2}$O$_{14}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B14C2D3E_mP138_3_3c3d6e_42e_6e_3a3b6e_3a3b-001",
-    "number_of_species": 5,
-    "pearson_symbol": "mP138",
-    "space_group_number": 3,
-    "comments": "This is a derivative of the \\href{current_web_home_dir/A2B14C3DE3_hP23_150_d_d2g_e_a_f-001}{dugganite/langasite structure}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "425850"
+    "comments": "This is a derivative of the \\href{current_web_home_dir/A2B14C3DE3_hP23_150_d_d2g_e_a_f-001}{dugganite/langasite structure}."
 }

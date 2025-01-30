@@ -1,9 +1,19 @@
 {
     "uid": "5YFD",
+    "label": "A7B12C_hR20_148_ade_2f_b-001",
+    "alias": "A7B12C_hR20_148_ade_2f_b-001",
+    "title": "SrMn$_{7}$O$_{12}$ Structure",
+    "icsd": "252386",
+    "ccdc": null,
     "prototype": "Mn7O12Sr",
     "prototype_tex": "Mn$_{7}$O$_{12}$Sr",
-    "label": "A7B12C_hR20_148_ade_2f_b-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hR20",
+    "space_group_number": 148,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x5",
@@ -23,17 +33,8 @@
         0.0211,
         0.322
     ],
-    "strukturbericht": null,
-    "title": "SrMn$_{7}$O$_{12}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A7B12C_hR20_148_ade_2f_b-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hR20",
-    "space_group_number": 148,
-    "comments": "We use the data for SrMn$_{7}$O$_{12}$ taken at 295K.  Below 265K it undergoes an incommensurate structural transition. (Belik, 2016) \n Some authors use CaMn$_{7}$O$_{12}$ as the prototype. \n At high temperatures CaMn$_{7}$O$_{12}$ and PbMn$_{7}$O$_{12}$ transform into the \\href{current_web_home_dir/A7BC12_cI40_204_bc_a_g-001}{NaMn$_{7}$O$_{12}$ structure}. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "252386"
+    "comments": "We use the data for SrMn$_{7}$O$_{12}$ taken at 295K.  Below 265K it undergoes an incommensurate structural transition. (Belik, 2016) \n Some authors use CaMn$_{7}$O$_{12}$ as the prototype. \n At high temperatures CaMn$_{7}$O$_{12}$ and PbMn$_{7}$O$_{12}$ transform into the \\href{current_web_home_dir/A7BC12_cI40_204_bc_a_g-001}{NaMn$_{7}$O$_{12}$ structure}. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

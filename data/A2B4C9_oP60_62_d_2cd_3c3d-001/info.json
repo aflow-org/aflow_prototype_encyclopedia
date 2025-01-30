@@ -1,9 +1,19 @@
 {
     "uid": "BYQL",
+    "label": "A2B4C9_oP60_62_d_2cd_3c3d-001",
+    "alias": "A2B4C9_oP60_62_d_2cd_3c3d-001",
+    "title": "High pressure Bi$_{2}$Fe$_{4}$O$_{9}$ Structure",
+    "icsd": "186444",
+    "ccdc": null,
     "prototype": "Bi2Fe4O9",
     "prototype_tex": "Bi$_{2}$Fe$_{4}$O$_{9}$",
-    "label": "A2B4C9_oP60_62_d_2cd_3c3d-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP60",
+    "space_group_number": 62,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -63,17 +73,8 @@
         0.621,
         0.1184
     ],
-    "strukturbericht": null,
-    "title": "High pressure Bi$_{2}$Fe$_{4}$O$_{9}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B4C9_oP60_62_d_2cd_3c3d-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oP60",
-    "space_group_number": 62,
-    "comments": "This is the high pressure phase of Bi$_{2}$Fe$_{4}$O$_{9}$, using data taken by (Friedrich, 2012) at 9.4GPa.  Below 6.89GPa it transforms to the \\href{current_web_home_dir/A2B4C9_oP30_55_h_fg_aghi-001}{low pressure Bi$_{2}$Fe$_{4}$O$_{9}$ structure}.",
+    "legacy": false,
     "notes": "HP",
-    "ccdc": null,
-    "icsd": "186444"
+    "comments": "This is the high pressure phase of Bi$_{2}$Fe$_{4}$O$_{9}$, using data taken by (Friedrich, 2012) at 9.4GPa.  Below 6.89GPa it transforms to the \\href{current_web_home_dir/A2B4C9_oP30_55_h_fg_aghi-001}{low pressure Bi$_{2}$Fe$_{4}$O$_{9}$ structure}."
 }

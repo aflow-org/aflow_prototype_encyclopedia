@@ -1,9 +1,19 @@
 {
     "uid": "39CF",
+    "label": "A4BC_cF96_216_efg_e_e-001",
+    "alias": "A4BC_cF96_216_efg_e_e-001",
+    "title": "Gd$_{4}$RhIn Structure",
+    "icsd": "417515",
+    "ccdc": null,
     "prototype": "Gd4InRh",
     "prototype_tex": "Gd$_{4}$InRh",
-    "label": "A4BC_cF96_216_efg_e_e-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cF96",
+    "space_group_number": 216,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "x1",
         "x2",
@@ -19,17 +29,8 @@
         0.19002,
         0.56266
     ],
-    "strukturbericht": null,
-    "title": "Gd$_{4}$RhIn Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4BC_cF96_216_efg_e_e-001",
-    "number_of_species": 3,
-    "pearson_symbol": "cF96",
-    "space_group_number": 216,
-    "comments": "The ICSD gives Dy$_{4}$CoCd as the prototype for this structure, but even (Do\\v{g}an, 2007), which defines that structure, designates Gd$_{4}$RhIn as the prototype, so we use that compound.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "417515"
+    "comments": "The ICSD gives Dy$_{4}$CoCd as the prototype for this structure, but even (Do\\v{g}an, 2007), which defines that structure, designates Gd$_{4}$RhIn as the prototype, so we use that compound."
 }

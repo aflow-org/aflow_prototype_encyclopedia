@@ -1,9 +1,19 @@
 {
     "uid": "EWT8",
+    "label": "A7B4_mC44_12_ac6i_4i-001",
+    "alias": "A7B4_mC44_12_ac6i_4i-001",
+    "title": "Nb$_{7}$P$_{4}$ Structure",
+    "icsd": "41238",
+    "ccdc": null,
     "prototype": "Nb7P4",
     "prototype_tex": "Nb$_{7}$P$_{4}$",
-    "label": "A7B4_mC44_12_ac6i_4i-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC44",
+    "space_group_number": 12,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -55,17 +65,8 @@
         0.0873,
         0.15085
     ],
-    "strukturbericht": null,
-    "title": "Nb$_{7}$P$_{4}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A7B4_mC44_12_ac6i_4i-001",
-    "number_of_species": 2,
-    "pearson_symbol": "mC44",
-    "space_group_number": 12,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "41238"
+    "comments": null
 }

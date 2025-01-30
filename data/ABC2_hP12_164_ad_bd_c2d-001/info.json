@@ -1,9 +1,19 @@
 {
     "uid": "1TV2",
+    "label": "ABC2_hP12_164_ad_bd_c2d-001",
+    "alias": "ABC2_hP12_164_ad_bd_c2d-001",
+    "title": "Bohdanowiczite (AgBiSe$_{2}$) Structure",
+    "icsd": "26519",
+    "ccdc": null,
     "prototype": "AgBiSe2",
     "prototype_tex": "AgBiSe$_{2}$",
-    "label": "ABC2_hP12_164_ad_bd_c2d-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP12",
+    "space_group_number": 164,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -21,17 +31,8 @@
         0.926,
         0.406
     ],
-    "strukturbericht": null,
-    "title": "Bohdanowiczite (AgBiSe$_{2}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC2_hP12_164_ad_bd_c2d-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hP12",
-    "space_group_number": 164,
-    "comments": "This is the ground state of AgBiSe$_{2}$. According to the phase diagram in (Villars, 2018) this transforms into the \\href{current_web_home_dir/ABC2_hR4_166_a_b_c-009}{rhombohedral $\\alpha$-NaFeO$_{2}$ structure at 365$^\\circ$C}.  (Geller, 1959) agree that this is a high-temperature state, but say that it exists between 120$^\\circ$C and 287$^\\circ$C.  Above this temperature they say that AgBiSe$_{2}$ transforms into the \\href{current_web_home_dir/AB_cF8_225_a_b-001}{NaCl ($B1$) structure, with silver and bismuth randomly placed on the ``Na'' site and selenium on the ``Cl'' site}. \n (Geller, 1959) note that the trigonal ground state and the rhombohedral high-temperature state are very close together, with only small changes in the atomic coordinates needed to transform one into the other. \n The \\href{current_web_home_dir/A4BC7_hP12_164_2d_a_bc2d-001}{MnBi$_{4}$Te$_{7}$ structure} occupies the same Wyckoff positions with a different stoichiometry. The ICSD lists AgBiSe$_{2}$ as the prototype for all of these structures, but we have split them to reflect the chemistry of the structures.",
+    "legacy": false,
     "notes": "Bohdanowiczite",
-    "ccdc": null,
-    "icsd": "26519"
+    "comments": "This is the ground state of AgBiSe$_{2}$. According to the phase diagram in (Villars, 2018) this transforms into the \\href{current_web_home_dir/ABC2_hR4_166_a_b_c-009}{rhombohedral $\\alpha$-NaFeO$_{2}$ structure at 365$^\\circ$C}.  (Geller, 1959) agree that this is a high-temperature state, but say that it exists between 120$^\\circ$C and 287$^\\circ$C.  Above this temperature they say that AgBiSe$_{2}$ transforms into the \\href{current_web_home_dir/AB_cF8_225_a_b-001}{NaCl ($B1$) structure, with silver and bismuth randomly placed on the ``Na'' site and selenium on the ``Cl'' site}. \n (Geller, 1959) note that the trigonal ground state and the rhombohedral high-temperature state are very close together, with only small changes in the atomic coordinates needed to transform one into the other. \n The \\href{current_web_home_dir/A4BC7_hP12_164_2d_a_bc2d-001}{MnBi$_{4}$Te$_{7}$ structure} occupies the same Wyckoff positions with a different stoichiometry. The ICSD lists AgBiSe$_{2}$ as the prototype for all of these structures, but we have split them to reflect the chemistry of the structures."
 }

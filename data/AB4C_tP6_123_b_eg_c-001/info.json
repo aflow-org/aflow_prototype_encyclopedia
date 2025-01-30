@@ -1,9 +1,19 @@
 {
     "uid": "416G",
+    "label": "AB4C_tP6_123_b_eg_c-001",
+    "alias": "AB4C_tP6_123_d_eh_a",
+    "title": "TlAlF$_{4}$ ($H0_{8}$) Structure",
+    "icsd": "25615",
+    "ccdc": null,
     "prototype": "AlF4Tl",
     "prototype_tex": "AlF$_{4}$Tl",
-    "label": "AB4C_tP6_123_b_eg_c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP6",
+    "space_group_number": 123,
+    "strukturbericht": "H0_8",
+    "strukturbericht_tex": "$H0_{8}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z4"
@@ -13,18 +23,8 @@
         1.76454,
         0.215
     ],
-    "strukturbericht": "H0_8",
-    "title": "TlAlF$_{4}$ ($H0_{8}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$H0_{8}$",
     "compounds": {},
-    "alias": "AB4C_tP6_123_d_eh_a",
-    "number_of_species": 3,
-    "pearson_symbol": "tP6",
-    "space_group_number": 123,
+    "legacy": false,
     "notes": "$H0_{8}$",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "25615"
+    "comments": null
 }

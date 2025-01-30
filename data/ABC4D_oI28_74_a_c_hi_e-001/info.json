@@ -1,9 +1,19 @@
 {
     "uid": "50N0",
+    "label": "ABC4D_oI28_74_a_c_hi_e-001",
+    "alias": "ABC4D_oI28_74_a_d_hi_e",
+    "title": "LiCuVO$_{4}$ Structure",
+    "icsd": "65677",
+    "ccdc": null,
     "prototype": "CuLiO4V",
     "prototype_tex": "CuLiO$_{4}$V",
-    "label": "ABC4D_oI28_74_a_c_hi_e-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oI28",
+    "space_group_number": 74,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -23,17 +33,8 @@
         0.7352,
         0.4993
     ],
-    "strukturbericht": null,
-    "title": "LiCuVO$_{4}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC4D_oI28_74_a_d_hi_e",
-    "number_of_species": 4,
-    "pearson_symbol": "oI28",
-    "space_group_number": 74,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "65677"
+    "comments": null
 }

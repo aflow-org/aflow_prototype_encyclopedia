@@ -1,9 +1,19 @@
 {
     "uid": "2TGL",
+    "label": "A4BC3_mC32_12_2j_i_ghi-002",
+    "alias": "A4BC3_mC32_12_2j_i_ghi-002",
+    "title": "Sc$_{3}$RhC$_{4}$ Structure",
+    "icsd": "415136",
+    "ccdc": null,
     "prototype": "C4RhSc3",
     "prototype_tex": "C$_{4}$RhSc$_{3}$",
-    "label": "A4BC3_mC32_12_2j_i_ghi-002",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mC32",
+    "space_group_number": 12,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -39,17 +49,8 @@
         0.129,
         0.4205
     ],
-    "strukturbericht": null,
-    "title": "Sc$_{3}$RhC$_{4}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4BC3_mC32_12_2j_i_ghi-002",
-    "number_of_species": 3,
-    "pearson_symbol": "mC32",
-    "space_group_number": 12,
-    "comments": "This is the low temperature structure of Sc$_{3}$RhC$_{4}$.  At room temperature it takes on a slightly distorted version of the \\href{current_web_home_dir/A4BC3_oI16_71_m_a_bf-001}{Sc$_{3}$CoC$_{4}$ structure}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "415136"
+    "comments": "This is the low temperature structure of Sc$_{3}$RhC$_{4}$.  At room temperature it takes on a slightly distorted version of the \\href{current_web_home_dir/A4BC3_oI16_71_m_a_bf-001}{Sc$_{3}$CoC$_{4}$ structure}."
 }

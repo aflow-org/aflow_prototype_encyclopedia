@@ -1,9 +1,19 @@
 {
     "uid": "HY2J",
+    "label": "A2B2C_oP20_19_2a_2a_a-001",
+    "alias": "A2B2C_oP20_19_2a_2a_a",
+    "title": "W\\\"{u}lfingite ($\\epsilon$-Zn(OH)$_{2}$, C31) Structure",
+    "icsd": "50447",
+    "ccdc": null,
     "prototype": "H2O2Zn",
     "prototype_tex": "H$_{2}$O$_{2}$Zn",
-    "label": "A2B2C_oP20_19_2a_2a_a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP20",
+    "space_group_number": 19,
+    "strukturbericht": "C31",
+    "strukturbericht_tex": "$C31$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -43,18 +53,8 @@
         0.64832,
         0.6242
     ],
-    "strukturbericht": "C31",
-    "title": "W\\\"{u}lfingite ($\\epsilon$-Zn(OH)$_{2}$, C31) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$C31$",
     "compounds": {},
-    "alias": "A2B2C_oP20_19_2a_2a_a",
-    "number_of_species": 3,
-    "pearson_symbol": "oP20",
-    "space_group_number": 19,
-    "comments": "(Corey, 1933) originally determined the structure of $\\epsilon$-Zn(OH)$_{2}$, but they were unable to locate the hydrogen atoms.  This structure was given the {\\em Strukturbericht} designation $C31$ by (Gottfried, 1937). \n (Stahl, 1998) located the hydrogen atoms, and found that they did not change the space group, so we use the updated structure as our $C31$ prototype.",
+    "legacy": false,
     "notes": "$C31$, W\\\"{u}lfingite",
-    "ccdc": null,
-    "icsd": "50447"
+    "comments": "(Corey, 1933) originally determined the structure of $\\epsilon$-Zn(OH)$_{2}$, but they were unable to locate the hydrogen atoms.  This structure was given the {\\em Strukturbericht} designation $C31$ by (Gottfried, 1937). \n (Stahl, 1998) located the hydrogen atoms, and found that they did not change the space group, so we use the updated structure as our $C31$ prototype."
 }

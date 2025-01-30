@@ -1,9 +1,19 @@
 {
     "uid": "JZUV",
+    "label": "AB_oI4_44_a_b-001",
+    "alias": "AB_oI4_44_a_b",
+    "title": "High-pressure GaAs Structure",
+    "icsd": "43950",
+    "ccdc": null,
     "prototype": "AsGa",
     "prototype_tex": "AsGa",
-    "label": "AB_oI4_44_a_b-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oI4",
+    "space_group_number": 44,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -17,17 +27,8 @@
         0.0,
         0.425
     ],
-    "strukturbericht": null,
-    "title": "High-pressure GaAs Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_oI4_44_a_b",
-    "number_of_species": 2,
-    "pearson_symbol": "oI4",
-    "space_group_number": 44,
-    "comments": "This is a high-pressure phase of GaAs, stable above 24 GPa. The experimental data used here was taken at a pressure of 28.1 GPa. Without loss of generality we can take $z_{1}=0$. When $a=b$ and $z_{2}=z_{1}+1/4$ this structure becomes the \\href{current_web_home_dir/A_tI4_141_a-001}{$\\beta$-Sn (A5)} structure.",
+    "legacy": false,
     "notes": "$>$ 24 GPa",
-    "ccdc": null,
-    "icsd": "43950"
+    "comments": "This is a high-pressure phase of GaAs, stable above 24 GPa. The experimental data used here was taken at a pressure of 28.1 GPa. Without loss of generality we can take $z_{1}=0$. When $a=b$ and $z_{2}=z_{1}+1/4$ this structure becomes the \\href{current_web_home_dir/A_tI4_141_a-001}{$\\beta$-Sn (A5)} structure."
 }

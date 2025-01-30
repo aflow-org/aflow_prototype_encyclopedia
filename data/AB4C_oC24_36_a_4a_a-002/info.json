@@ -1,9 +1,19 @@
 {
     "uid": "F77P",
+    "label": "AB4C_oC24_36_a_4a_a-002",
+    "alias": "AB4C_oC24_36_a_4a_a-002",
+    "title": "BaZnF$_{4}$ Structure",
+    "icsd": "402925",
+    "ccdc": null,
     "prototype": "BaF4Zn",
     "prototype_tex": "BaF$_{4}$Zn",
-    "label": "AB4C_oC24_36_a_4a_a-002",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oC24",
+    "space_group_number": 36,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -37,17 +47,8 @@
         0.41317,
         0.0
     ],
-    "strukturbericht": null,
-    "title": "BaZnF$_{4}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB4C_oC24_36_a_4a_a-002",
-    "number_of_species": 3,
-    "pearson_symbol": "oC24",
-    "space_group_number": 36,
-    "comments": "We use the data from (Lapasset, 1996) taken at 295K. \n Space group $Cmc2_{1}$ \\#36 allows an arbitrary choice of the origin of the $z$-axis.  Here we set $z_{6} = 0$ for the zinc (2a) site.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "402925"
+    "comments": "We use the data from (Lapasset, 1996) taken at 295K. \n Space group $Cmc2_{1}$ \\#36 allows an arbitrary choice of the origin of the $z$-axis.  Here we set $z_{6} = 0$ for the zinc (2a) site."
 }

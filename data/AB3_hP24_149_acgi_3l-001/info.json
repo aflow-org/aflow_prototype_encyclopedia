@@ -1,9 +1,19 @@
 {
     "uid": "9DMX",
+    "label": "AB3_hP24_149_acgi_3l-001",
+    "alias": "AB3_hP24_149_acgi_3l",
+    "title": "Ti$_{3}$O (Room-Temperature) Structure",
+    "icsd": "36055",
+    "ccdc": null,
     "prototype": "OTi3",
     "prototype_tex": "OTi$_{3}$",
-    "label": "AB3_hP24_149_acgi_3l-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP24",
+    "space_group_number": 149,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -33,17 +43,8 @@
         0.33333,
         0.088
     ],
-    "strukturbericht": null,
-    "title": "Ti$_{3}$O (Room-Temperature) Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB3_hP24_149_acgi_3l",
-    "number_of_species": 2,
-    "pearson_symbol": "hP24",
-    "space_group_number": 149,
+    "legacy": false,
     "notes": "RT",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "36055"
+    "comments": null
 }

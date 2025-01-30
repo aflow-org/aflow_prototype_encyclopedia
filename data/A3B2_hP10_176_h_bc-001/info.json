@@ -1,9 +1,19 @@
 {
     "uid": "1QZH",
+    "label": "A3B2_hP10_176_h_bc-001",
+    "alias": "A3B2_hP10_176_h_bc",
+    "title": "Er$_{3}$Ru$_{2}$ Structure",
+    "icsd": "106615",
+    "ccdc": null,
     "prototype": "Er3Ru2",
     "prototype_tex": "Er$_{3}$Ru$_{2}$",
-    "label": "A3B2_hP10_176_h_bc-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP10",
+    "space_group_number": 176,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -15,17 +25,8 @@
         0.3847,
         0.0915
     ],
-    "strukturbericht": null,
-    "title": "Er$_{3}$Ru$_{2}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B2_hP10_176_h_bc",
-    "number_of_species": 2,
-    "pearson_symbol": "hP10",
-    "space_group_number": 176,
-    "comments": "We have updated the reference for this structure from (Palenzona, 199) in (Hicks, 2019), which does not give the atomic positions, to (Fornasini, 1990), which does.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "106615"
+    "comments": "We have updated the reference for this structure from (Palenzona, 199) in (Hicks, 2019), which does not give the atomic positions, to (Fornasini, 1990), which does."
 }

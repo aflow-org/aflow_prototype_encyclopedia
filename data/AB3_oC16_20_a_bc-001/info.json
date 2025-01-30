@@ -1,9 +1,19 @@
 {
     "uid": "KCMH",
+    "label": "AB3_oC16_20_a_bc-001",
+    "alias": "AB3_oC16_20_a_bc",
+    "title": "$D0_{7}$ (CrO$_{3}$) Structure ({\\em Obsolete})",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "CrO3",
     "prototype_tex": "CrO$_{3}$",
-    "label": "AB3_oC16_20_a_bc-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oC16",
+    "space_group_number": 20,
+    "strukturbericht": "D0_7",
+    "strukturbericht_tex": "$D0_{7}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -23,18 +33,8 @@
         0.83333,
         0.25
     ],
-    "strukturbericht": "D0_7",
-    "title": "$D0_{7}$ (CrO$_{3}$) Structure ({\\em Obsolete})",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$D0_{7}$",
     "compounds": {},
-    "alias": "AB3_oC16_20_a_bc",
-    "number_of_species": 2,
-    "pearson_symbol": "oC16",
-    "space_group_number": 20,
-    "comments": "This is the determination of the orthorhombic structure of CrO$_{3}$ given the $D0_{7}$ structure by (Hermann, 1937). This structure is superceded by the one found by (Bystr\\\"{o}m, 1950), which we call the \\href{current_web_home_dir/AB3_oC16_40_b_a2b-002}{``orthorhombic CrO$_{3}$ phase.''} The current structure has the Cr atom at the center of a distorted oxygen octahedron, while the newer structure as the Cr atom at center of a distorted tetrahedron.",
+    "legacy": false,
     "notes": "$D0_{7}$, ({\\em Obsolete})",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "This is the determination of the orthorhombic structure of CrO$_{3}$ given the $D0_{7}$ structure by (Hermann, 1937). This structure is superceded by the one found by (Bystr\\\"{o}m, 1950), which we call the \\href{current_web_home_dir/AB3_oC16_40_b_a2b-002}{``orthorhombic CrO$_{3}$ phase.''} The current structure has the Cr atom at the center of a distorted oxygen octahedron, while the newer structure as the Cr atom at center of a distorted tetrahedron."
 }

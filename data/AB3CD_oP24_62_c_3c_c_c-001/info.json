@@ -1,9 +1,19 @@
 {
     "uid": "SFSU",
+    "label": "AB3CD_oP24_62_c_3c_c_c-001",
+    "alias": "AB3CD_oP24_62_c_3c_c_c-001",
+    "title": "SrCuYSe$_{3}$ (Eu$_{2}$CuS$_{3}$) Structure",
+    "icsd": "253263",
+    "ccdc": null,
     "prototype": "CuSe3SrY",
     "prototype_tex": "CuSe$_{3}$SrY",
-    "label": "AB3CD_oP24_62_c_3c_c_c-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oP24",
+    "space_group_number": 62,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -37,17 +47,8 @@
         0.00916,
         0.24641
     ],
-    "strukturbericht": null,
-    "title": "SrCuYSe$_{3}$ (Eu$_{2}$CuS$_{3}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB3CD_oP24_62_c_3c_c_c-001",
-    "number_of_species": 4,
-    "pearson_symbol": "oP24",
-    "space_group_number": 62,
-    "comments": "The common prototype for this structure is Eu$_{2}$CuS$_{3}$, but there are as many quaternary compounds with this structure as there are ternaries.  To readily accommodate both classes we must have a quaternary prototype, and we arbitrarily chose SrCuYSe$_{3}$ as the representative. The tenary case can be obtained by changing the ``Cu'' and ``Sr'' labels to the same element in the prototype generator below.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "253263"
+    "comments": "The common prototype for this structure is Eu$_{2}$CuS$_{3}$, but there are as many quaternary compounds with this structure as there are ternaries.  To readily accommodate both classes we must have a quaternary prototype, and we arbitrarily chose SrCuYSe$_{3}$ as the representative. The tenary case can be obtained by changing the ``Cu'' and ``Sr'' labels to the same element in the prototype generator below."
 }

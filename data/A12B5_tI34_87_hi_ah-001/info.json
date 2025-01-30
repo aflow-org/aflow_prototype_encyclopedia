@@ -1,9 +1,19 @@
 {
     "uid": "13WH",
+    "label": "A12B5_tI34_87_hi_ah-001",
+    "alias": "A12B5_tI34_87_hi_ah-001",
+    "title": "Ni$_{12}$P$_{5}$ Structure",
+    "icsd": "108640",
+    "ccdc": null,
     "prototype": "Ni12P5",
     "prototype_tex": "Ni$_{12}$P$_{5}$",
-    "label": "A12B5_tI34_87_hi_ah-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tI34",
+    "space_group_number": 87,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -25,17 +35,8 @@
         0.682,
         0.748
     ],
-    "strukturbericht": null,
-    "title": "Ni$_{12}$P$_{5}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A12B5_tI34_87_hi_ah-001",
-    "number_of_species": 2,
-    "pearson_symbol": "tI34",
-    "space_group_number": 87,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "108640"
+    "comments": null
 }

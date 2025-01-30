@@ -1,9 +1,19 @@
 {
     "uid": "6BL9",
+    "label": "AB6C3_oI20_71_a_el_bf-001",
+    "alias": "AB6C3_oI20_71_a_in_cj",
+    "title": "High-Temperature Cryolite (Na$_{3}$AlF$_{6}$) Structure",
+    "icsd": "74211",
+    "ccdc": null,
     "prototype": "AlF6Na3",
     "prototype_tex": "AlF$_{6}$Na$_{3}$",
-    "label": "AB6C3_oI20_71_a_el_bf-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oI20",
+    "space_group_number": 71,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -21,17 +31,8 @@
         0.2166,
         0.7665
     ],
-    "strukturbericht": null,
-    "title": "High-Temperature Cryolite (Na$_{3}$AlF$_{6}$) Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB6C3_oI20_71_a_in_cj",
-    "number_of_species": 3,
-    "pearson_symbol": "oI20",
-    "space_group_number": 71,
-    "comments": "Cryolite undergoes a phase transition from the \\href{current_web_home_dir/AB6C3_mP20_14_a_3e_be-001}{monoclinic $J2_{6}$ phase}, space group $P2_{1}/c$ \\#14, to this orthorhombic phase at 890K.  We show structural data taken at 900K.",
+    "legacy": false,
     "notes": "HT Cryolite",
-    "ccdc": null,
-    "icsd": "74211"
+    "comments": "Cryolite undergoes a phase transition from the \\href{current_web_home_dir/AB6C3_mP20_14_a_3e_be-001}{monoclinic $J2_{6}$ phase}, space group $P2_{1}/c$ \\#14, to this orthorhombic phase at 890K.  We show structural data taken at 900K."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "KR8A",
+    "label": "A4BC3_oI16_71_m_a_bf-001",
+    "alias": "A4BC3_oI16_71_m_a_bf-001",
+    "title": "Sc$_{3}$CoC$_{4}$ Structure",
+    "icsd": "236393",
+    "ccdc": null,
     "prototype": "C4CoSc3",
     "prototype_tex": "C$_{4}$CoSc$_{3}$",
-    "label": "A4BC3_oI16_71_m_a_bf-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oI16",
+    "space_group_number": 71,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -19,17 +29,8 @@
         0.87513,
         0.66614
     ],
-    "strukturbericht": null,
-    "title": "Sc$_{3}$CoC$_{4}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4BC3_oI16_71_m_a_bf-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oI16",
-    "space_group_number": 71,
-    "comments": "This is the high temperature structure of Sc$_{3}$CoC$_{4}$.  Below 72K it transforms into the \\href{current_web_home_dir/A4BC3_mC32_12_2j_i_ghi-002}{monoclinic Sc$_{3}$RhC$_{4}$ structure}.  Data for the current structure was taken at 293K. \n (Vogt, 2005) found that in Sc$_{3}$IrC$_{4}$ and Sc$_{3}$RhC$_{4}$ the transition metal atom is not exactly on the (2a) site, but instead is on the (4i) Wyckoff position (0,0,$\\pm$0.04), with each site 50\\% occupied.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "236393"
+    "comments": "This is the high temperature structure of Sc$_{3}$CoC$_{4}$.  Below 72K it transforms into the \\href{current_web_home_dir/A4BC3_mC32_12_2j_i_ghi-002}{monoclinic Sc$_{3}$RhC$_{4}$ structure}.  Data for the current structure was taken at 293K. \n (Vogt, 2005) found that in Sc$_{3}$IrC$_{4}$ and Sc$_{3}$RhC$_{4}$ the transition metal atom is not exactly on the (2a) site, but instead is on the (4i) Wyckoff position (0,0,$\\pm$0.04), with each site 50\\% occupied."
 }

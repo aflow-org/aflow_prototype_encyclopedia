@@ -1,9 +1,19 @@
 {
     "uid": "4A1E",
+    "label": "A3B2_tI160_142_3g_abcef-001",
+    "alias": "A3B2_tI160_142_3g_abcef-001",
+    "title": "Tetragonal Be$_{3}$P$_{2}$ Structure",
+    "icsd": "42038",
+    "ccdc": null,
     "prototype": "Be3P2",
     "prototype_tex": "Be$_{3}$P$_{2}$",
-    "label": "A3B2_tI160_142_3g_abcef-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tI160",
+    "space_group_number": 142,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x4",
@@ -33,17 +43,8 @@
         0.129,
         0.059
     ],
-    "strukturbericht": null,
-    "title": "Tetragonal Be$_{3}$P$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B2_tI160_142_3g_abcef-001",
-    "number_of_species": 2,
-    "pearson_symbol": "tI160",
-    "space_group_number": 142,
-    "comments": "Be$_{3}$P$_{2}$ can also be found in the \\href{current_web_home_dir/AB3C6_cI80_206_a_d_e-001}{cubic bixbyite (Mn$_{2}$O$_{3}$) structure}, and has been reported in the \\href{current_web_home_dir/A3B2_cP10_224_d_b-001}{centrosymmetric cubic $D5_{5}$ (Mg$_{3}$P$_{2}$) structure}.",
+    "legacy": false,
     "notes": "Tetragonal Be$_{3}$P$_{2}$",
-    "ccdc": null,
-    "icsd": "42038"
+    "comments": "Be$_{3}$P$_{2}$ can also be found in the \\href{current_web_home_dir/AB3C6_cI80_206_a_d_e-001}{cubic bixbyite (Mn$_{2}$O$_{3}$) structure}, and has been reported in the \\href{current_web_home_dir/A3B2_cP10_224_d_b-001}{centrosymmetric cubic $D5_{5}$ (Mg$_{3}$P$_{2}$) structure}."
 }

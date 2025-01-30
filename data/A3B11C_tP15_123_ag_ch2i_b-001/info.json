@@ -1,9 +1,19 @@
 {
     "uid": "7DQQ",
+    "label": "A3B11C_tP15_123_ag_ch2i_b-001",
+    "alias": "A3B11C_tP15_123_ag_ch2i_b-001",
+    "title": "Ce$_{3}$PdIn$_{11}$ Structure",
+    "icsd": "192619",
+    "ccdc": null,
     "prototype": "Ce3In11Pd",
     "prototype_tex": "Ce$_{3}$In$_{11}$Pd",
-    "label": "A3B11C_tP15_123_ag_ch2i_b-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP15",
+    "space_group_number": 123,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z4",
@@ -19,17 +29,8 @@
         0.4118,
         0.13805
     ],
-    "strukturbericht": null,
-    "title": "Ce$_{3}$PdIn$_{11}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B11C_tP15_123_ag_ch2i_b-001",
-    "number_of_species": 3,
-    "pearson_symbol": "tP15",
-    "space_group_number": 123,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "192619"
+    "comments": null
 }

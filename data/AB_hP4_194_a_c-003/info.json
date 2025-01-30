@@ -1,9 +1,19 @@
 {
     "uid": "CY59",
+    "label": "AB_hP4_194_a_c-003",
+    "alias": "AB_hP4_194_a_c",
+    "title": "LiZn$_{2}$ ($C_{k}$) Structure",
+    "icsd": "104793",
+    "ccdc": null,
     "prototype": "LiZn2",
     "prototype_tex": "LiZn$_{2}$",
-    "label": "AB_hP4_194_a_c-003",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP4",
+    "space_group_number": 194,
+    "strukturbericht": "C_k",
+    "strukturbericht_tex": "$C_{k}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a"
     ],
@@ -11,18 +21,8 @@
         4.362,
         0.575424
     ],
-    "strukturbericht": "C_k",
-    "title": "LiZn$_{2}$ ($C_{k}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$C_{k}$",
     "compounds": {},
-    "alias": "AB_hP4_194_a_c",
-    "number_of_species": 2,
-    "pearson_symbol": "hP4",
-    "space_group_number": 194,
-    "comments": "The actual stoichiometry of this compounds is Li$_{0.8}$Zn$_{2}$, so each (2a) site is only filled 40\\% of the time.  This means that the short (1.26{\\AA}) distance between the lithium atoms shown here is illusionary.",
+    "legacy": false,
     "notes": "$C_{k}$",
-    "ccdc": null,
-    "icsd": "104793"
+    "comments": "The actual stoichiometry of this compounds is Li$_{0.8}$Zn$_{2}$, so each (2a) site is only filled 40\\% of the time.  This means that the short (1.26{\\AA}) distance between the lithium atoms shown here is illusionary."
 }

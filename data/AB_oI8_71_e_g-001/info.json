@@ -1,9 +1,19 @@
 {
     "uid": "2UZJ",
+    "label": "AB_oI8_71_e_g-001",
+    "alias": "AB_oI8_71_g_i",
+    "title": "CsO Structure",
+    "icsd": "25529",
+    "ccdc": null,
     "prototype": "CsO",
     "prototype_tex": "CsO",
-    "label": "AB_oI8_71_e_g-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oI8",
+    "space_group_number": 71,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -17,17 +27,8 @@
         0.75,
         0.38
     ],
-    "strukturbericht": null,
-    "title": "CsO Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_oI8_71_g_i",
-    "number_of_species": 2,
-    "pearson_symbol": "oI8",
-    "space_group_number": 71,
-    "comments": "(Massaliski, 1990) credits the discovery of this structure to (Rengade, 1909), but we have been unable to obtain a copy of this reference. (Downs, 2003) quotes (Wyckoff, 1963) giving an $Immm-oI8$ structure for CsO.  Since this is the same space group and Pearson symbol as found in Massaliski we use Wyckoff's data. \n In the absence of the original article, we provide the ICSD link to the work of (F\\\"{o}ppl, 1957).",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "25529"
+    "comments": "(Massaliski, 1990) credits the discovery of this structure to (Rengade, 1909), but we have been unable to obtain a copy of this reference. (Downs, 2003) quotes (Wyckoff, 1963) giving an $Immm-oI8$ structure for CsO.  Since this is the same space group and Pearson symbol as found in Massaliski we use Wyckoff's data. \n In the absence of the original article, we provide the ICSD link to the work of (F\\\"{o}ppl, 1957)."
 }

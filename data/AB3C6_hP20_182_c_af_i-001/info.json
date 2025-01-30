@@ -1,9 +1,19 @@
 {
     "uid": "A0VJ",
+    "label": "AB3C6_hP20_182_c_af_i-001",
+    "alias": "AB3C6_hP20_182_c_af_i-001",
+    "title": "CoNb$_{3}$S$_{6}$ Structure",
+    "icsd": "42688",
+    "ccdc": null,
     "prototype": "CoNb3S6",
     "prototype_tex": "CoNb$_{3}$S$_{6}$",
-    "label": "AB3C6_hP20_182_c_af_i-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP20",
+    "space_group_number": 182,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -19,17 +29,8 @@
         0.000746667,
         0.3678
     ],
-    "strukturbericht": null,
-    "title": "CoNb$_{3}$S$_{6}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB3C6_hP20_182_c_af_i-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hP20",
-    "space_group_number": 182,
-    "comments": "In many cases the (2c) site is not completely occupied. \n See the discussion about the possible difference in structure between \\href{current_web_home_dir/AB3C6_hP20_173_b_a2b_2c-001}{natural} and synthetic edgarite, FeNb$_{3}$S$_{6}$. \n The ICSD uses FeNb$_{3}$S$_{6}$ as the prototype for both structures.  Here we use CoNb$_{3}$S$_{6}$ to distinguish between the two cases.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "42688"
+    "comments": "In many cases the (2c) site is not completely occupied. \n See the discussion about the possible difference in structure between \\href{current_web_home_dir/AB3C6_hP20_173_b_a2b_2c-001}{natural} and synthetic edgarite, FeNb$_{3}$S$_{6}$. \n The ICSD uses FeNb$_{3}$S$_{6}$ as the prototype for both structures.  Here we use CoNb$_{3}$S$_{6}$ to distinguish between the two cases."
 }

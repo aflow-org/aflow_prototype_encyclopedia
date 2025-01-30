@@ -1,9 +1,19 @@
 {
     "uid": "XRQ1",
+    "label": "A_mP8_10_2m2n-001",
+    "alias": "A_mP8_10_2m2n",
+    "title": "S-carbon Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "C",
     "prototype_tex": "C",
-    "label": "A_mP8_10_2m2n-001",
-    "parameter_symbol": [
+    "number_of_species": 1,
+    "pearson_symbol": "mP8",
+    "space_group_number": 10,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -31,17 +41,8 @@
         0.8681,
         0.4209
     ],
-    "strukturbericht": null,
-    "title": "S-carbon Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A_mP8_10_2m2n",
-    "number_of_species": 1,
-    "pearson_symbol": "mP8",
-    "space_group_number": 10,
-    "comments": "This is a predicted ``superhard'' allotrope of iron.  Shortly after this paper was published, two other papers predicted similar structures, differentiated mainly by an origin shift: \n F-carbon (Tian 2012): the origin is shifted by $\\frac12 \\, \\mathbf{a_3}$. \n  J-carbon (Wang, 2012): the origin is shifted by $\\frac12 \\left(\\mathbf{a_1} + \\mathbf{a_3}\\right)$. \n This is {\\em not} the orthorhombic phase found by (He, 2012), which was also called S-carbon.",
+    "legacy": false,
     "notes": "S-carbon (Theory)",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "This is a predicted ``superhard'' allotrope of iron.  Shortly after this paper was published, two other papers predicted similar structures, differentiated mainly by an origin shift: \n F-carbon (Tian 2012): the origin is shifted by $\\frac12 \\, \\mathbf{a_3}$. \n  J-carbon (Wang, 2012): the origin is shifted by $\\frac12 \\left(\\mathbf{a_1} + \\mathbf{a_3}\\right)$. \n This is {\\em not} the orthorhombic phase found by (He, 2012), which was also called S-carbon."
 }

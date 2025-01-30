@@ -1,9 +1,19 @@
 {
     "uid": "BAJJ",
+    "label": "A2B7C2_tP88_76_4a_14a_4a-001",
+    "alias": "A2B7C2_tP88_76_4a_14a_4a-001",
+    "title": "$\\beta$-Ca$_{2}$P$_{2}$O$_{7}$ Structure",
+    "icsd": "73712",
+    "ccdc": null,
     "prototype": "Ca2O7P2",
     "prototype_tex": "Ca$_{2}$O$_{7}$P$_{2}$",
-    "label": "A2B7C2_tP88_76_4a_14a_4a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP88",
+    "space_group_number": 76,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -143,17 +153,8 @@
         0.6462,
         0.12074
     ],
-    "strukturbericht": null,
-    "title": "$\\beta$-Ca$_{2}$P$_{2}$O$_{7}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B7C2_tP88_76_4a_14a_4a-001",
-    "number_of_species": 3,
-    "pearson_symbol": "tP88",
-    "space_group_number": 76,
-    "comments": "(Felsche, 1970) refers to this as the ``A-RE$_{2}$Si$_{2}$O$_{7}$ structure, where ``RE'' is a rare-earth element. \n This is the low-temperature form of Ca$_{2}$P$_{2}$O$_{7}$. At higher temperatures it transforms into the monoclinic \\href{current_web_home_dir/A2B7C2_mP44_14_2e_7e_2e-001}{$\\alpha$-Ca$_{2}$P$_{2}$O$_{7}$} structure. \n The origin of the $z$-axis in space group $P4_{1}$ \\#76 is not specified.  We fix it by setting $z_{1} = 0$.",
+    "legacy": false,
     "notes": "$\\beta$-Ca$_{2}$P$_{2}$O$_{7}$",
-    "ccdc": null,
-    "icsd": "73712"
+    "comments": "(Felsche, 1970) refers to this as the ``A-RE$_{2}$Si$_{2}$O$_{7}$ structure, where ``RE'' is a rare-earth element. \n This is the low-temperature form of Ca$_{2}$P$_{2}$O$_{7}$. At higher temperatures it transforms into the monoclinic \\href{current_web_home_dir/A2B7C2_mP44_14_2e_7e_2e-001}{$\\alpha$-Ca$_{2}$P$_{2}$O$_{7}$} structure. \n The origin of the $z$-axis in space group $P4_{1}$ \\#76 is not specified.  We fix it by setting $z_{1} = 0$."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "Y0BF",
+    "label": "A2B5C2D3_tI24_139_e_ag_e_be-001",
+    "alias": "A2B5C2D3_tI24_139_e_ag_e_be-001",
+    "title": "Sr$_{3}$Sc$_{2}$O$_{5}$Cl$_{2}$ Structure",
+    "icsd": "115993",
+    "ccdc": null,
     "prototype": "ClO5Sc2Sr3",
     "prototype_tex": "ClO$_{5}$Sc$_{2}$Sr$_{3}$",
-    "label": "A2B5C2D3_tI24_139_e_ag_e_be-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "tI24",
+    "space_group_number": 139,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -19,17 +29,8 @@
         0.65923,
         0.09389
     ],
-    "strukturbericht": null,
-    "title": "Sr$_{3}$Sc$_{2}$O$_{5}$Cl$_{2}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B5C2D3_tI24_139_e_ag_e_be-001",
-    "number_of_species": 4,
-    "pearson_symbol": "tI24",
-    "space_group_number": 139,
-    "comments": "This is a Ruddlesden-Popper phase consisting of alternating rock-salt- and perovskite-like layers. \n This phase was previously discovered by (Su, 2018), but for unknown reasons there was no ICSD entry. \n The ICSD identifies some, but not all, of these structures as quaternary forms of \\href{current_web_home_dir/A7B2C3_tI24_139_aeg_e_be-001}{Rb$_{3}$Mn$_{2}$Cl$_{7}$}. We choose Sr$_{3}$Sc$_{2}$O$_{5}$Cl$_{2}$ for the quaternary prototype structure because of the (Su, 2018) work. ",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "115993"
+    "comments": "This is a Ruddlesden-Popper phase consisting of alternating rock-salt- and perovskite-like layers. \n This phase was previously discovered by (Su, 2018), but for unknown reasons there was no ICSD entry. \n The ICSD identifies some, but not all, of these structures as quaternary forms of \\href{current_web_home_dir/A7B2C3_tI24_139_aeg_e_be-001}{Rb$_{3}$Mn$_{2}$Cl$_{7}$}. We choose Sr$_{3}$Sc$_{2}$O$_{5}$Cl$_{2}$ for the quaternary prototype structure because of the (Su, 2018) work. "
 }

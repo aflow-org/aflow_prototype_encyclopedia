@@ -1,9 +1,19 @@
 {
     "uid": "676C",
+    "label": "A4B_tI10_139_de_a-001",
+    "alias": "A4B_tI10_139_de_a",
+    "title": "$D1_{3}$ (BaAl$_{4}$) Structure",
+    "icsd": "57513",
+    "ccdc": null,
     "prototype": "Al4Ba",
     "prototype_tex": "Al$_{4}$Ba",
-    "label": "A4B_tI10_139_de_a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tI10",
+    "space_group_number": 139,
+    "strukturbericht": "D1_3",
+    "strukturbericht_tex": "$D1_{3}$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3"
@@ -13,18 +23,8 @@
         2.45033,
         0.38
     ],
-    "strukturbericht": "D1_3",
-    "title": "$D1_{3}$ (BaAl$_{4}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$D1_{3}$",
     "compounds": {},
-    "alias": "A4B_tI10_139_de_a",
-    "number_of_species": 2,
-    "pearson_symbol": "tI10",
-    "space_group_number": 139,
-    "comments": "BaAl$_{4}$ is the parent structure of a number of ternary compounds (Shatruk, 2019): \n \\href{current_web_home_dir/A2B2C_tI10_139_d_e_a-003}{ThCr$_{2}$Si$_{2}$}, space group $I4/mmm$ \\#139, with $c/a < 3$. \n \\href{current_web_home_dir/A2B2C_tI10_139_d_e_a-002}{TlCo$_{2}$S$_{2}$}, also in space group $I4/mmm$ \\#139 but with $c/a > 3$. \n \\href{current_web_home_dir/A2BC2_tP10_129_ac_c_bc-001}{CaBe$_{2}$Ge$_{2}$}, space group $P4/nmm$ \\#129. \n \\href{current_web_home_dir/ABC3_tI10_107_a_a_ab-001}{BaNiSn$_{3}$}, space group $I4mm$ \\#107.",
+    "legacy": false,
     "notes": "$D1_{3}$",
-    "ccdc": null,
-    "icsd": "57513"
+    "comments": "BaAl$_{4}$ is the parent structure of a number of ternary compounds (Shatruk, 2019): \n \\href{current_web_home_dir/A2B2C_tI10_139_d_e_a-003}{ThCr$_{2}$Si$_{2}$}, space group $I4/mmm$ \\#139, with $c/a < 3$. \n \\href{current_web_home_dir/A2B2C_tI10_139_d_e_a-002}{TlCo$_{2}$S$_{2}$}, also in space group $I4/mmm$ \\#139 but with $c/a > 3$. \n \\href{current_web_home_dir/A2BC2_tP10_129_ac_c_bc-001}{CaBe$_{2}$Ge$_{2}$}, space group $P4/nmm$ \\#129. \n \\href{current_web_home_dir/ABC3_tI10_107_a_a_ab-001}{BaNiSn$_{3}$}, space group $I4mm$ \\#107."
 }

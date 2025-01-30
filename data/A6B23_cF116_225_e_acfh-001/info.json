@@ -1,9 +1,19 @@
 {
     "uid": "EY4X",
+    "label": "A6B23_cF116_225_e_acfh-001",
+    "alias": "A6B23_cF116_225_e_acfh",
+    "title": "Cr$_{23}$C$_{6}$ ($D8_{4}$) Structure",
+    "icsd": "2837",
+    "ccdc": null,
     "prototype": "C6Cr23",
     "prototype_tex": "C$_{6}$Cr$_{23}$",
-    "label": "A6B23_cF116_225_e_acfh-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cF116",
+    "space_group_number": 225,
+    "strukturbericht": "D8_4",
+    "strukturbericht_tex": "$D8_{4}$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "x3",
         "x4",
@@ -15,18 +25,8 @@
         0.6191,
         0.1699
     ],
-    "strukturbericht": "D8_4",
-    "title": "Cr$_{23}$C$_{6}$ ($D8_{4}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$D8_{4}$",
     "compounds": {},
-    "alias": "A6B23_cF116_225_e_acfh",
-    "number_of_species": 2,
-    "pearson_symbol": "cF116",
-    "space_group_number": 225,
+    "legacy": false,
     "notes": "$D8_{4}$",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "2837"
+    "comments": null
 }

@@ -1,9 +1,19 @@
 {
     "uid": "LJF8",
+    "label": "A3B_hP8_194_h_c-001",
+    "alias": "A3B_hP8_194_h_c",
+    "title": "Ni$_{3}$Sn ($D0_{19}$) Structure",
+    "icsd": "411928",
+    "ccdc": null,
     "prototype": "Ni3Sn",
     "prototype_tex": "Ni$_{3}$Sn",
-    "label": "A3B_hP8_194_h_c-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP8",
+    "space_group_number": 194,
+    "strukturbericht": "D0_19",
+    "strukturbericht_tex": "$D0_{19}$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2"
@@ -13,18 +23,8 @@
         0.802077,
         0.839203
     ],
-    "strukturbericht": "D0_19",
-    "title": "Ni$_{3}$Sn ($D0_{19}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$D0_{19}$",
     "compounds": {},
-    "alias": "A3B_hP8_194_h_c",
-    "number_of_species": 2,
-    "pearson_symbol": "hP8",
-    "space_group_number": 194,
+    "legacy": false,
     "notes": "$D0_{19}$",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "411928"
+    "comments": null
 }

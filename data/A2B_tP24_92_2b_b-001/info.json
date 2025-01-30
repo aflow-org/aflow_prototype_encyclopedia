@@ -1,9 +1,19 @@
 {
     "uid": "WWPP",
+    "label": "A2B_tP24_92_2b_b-001",
+    "alias": "A2B_tP24_92_2b_b-001",
+    "title": "Tetragonal (red) ZnP$_{2}$ Structure",
+    "icsd": "18137",
+    "ccdc": null,
     "prototype": "P2Zn",
     "prototype_tex": "P$_{2}$Zn",
-    "label": "A2B_tP24_92_2b_b-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tP24",
+    "space_group_number": 92,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -29,17 +39,8 @@
         0.634,
         0.0503
     ],
-    "strukturbericht": null,
-    "title": "Tetragonal (red) ZnP$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B_tP24_92_2b_b-001",
-    "number_of_species": 2,
-    "pearson_symbol": "tP24",
-    "space_group_number": 92,
-    "comments": "This structure can also be found in the enantiomorphic space group $P4_{3}2_{1}2$ \\#96. \n Although (White, 1965) describes the structure as orthorhombic in the ``Experimental measurements'' section, it is indeed tetragonal. \n ZnP$_{2}$ can also be found in a \\href{current_web_home_dir/A2B_mP24_14_4e_2e-001}{monoclinic (black) form}.",
+    "legacy": false,
     "notes": "Tetragonal (red) ZnP$_{2}$",
-    "ccdc": null,
-    "icsd": "18137"
+    "comments": "This structure can also be found in the enantiomorphic space group $P4_{3}2_{1}2$ \\#96. \n Although (White, 1965) describes the structure as orthorhombic in the ``Experimental measurements'' section, it is indeed tetragonal. \n ZnP$_{2}$ can also be found in a \\href{current_web_home_dir/A2B_mP24_14_4e_2e-001}{monoclinic (black) form}."
 }

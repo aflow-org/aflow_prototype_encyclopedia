@@ -1,9 +1,19 @@
 {
     "uid": "EE51",
+    "label": "A5B_oC24_63_c2f_c-001",
+    "alias": "A5B_oC24_63_c2f_c",
+    "title": "ZrTe$_{5}$ Structure",
+    "icsd": "85506",
+    "ccdc": null,
     "prototype": "Te5Zr",
     "prototype_tex": "Te$_{5}$Zr",
-    "label": "A5B_oC24_63_c2f_c-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oC24",
+    "space_group_number": 63,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -25,17 +35,8 @@
         0.209,
         0.434
     ],
-    "strukturbericht": null,
-    "title": "ZrTe$_{5}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A5B_oC24_63_c2f_c",
-    "number_of_species": 2,
-    "pearson_symbol": "oC24",
-    "space_group_number": 63,
-    "comments": "We use the data taken at room temperature.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "85506"
+    "comments": "We use the data taken at room temperature."
 }

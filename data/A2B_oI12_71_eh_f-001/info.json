@@ -1,9 +1,19 @@
 {
     "uid": "7HXW",
+    "label": "A2B_oI12_71_eh_f-001",
+    "alias": "A2B_oI12_71_eh_f-001",
+    "title": "UTe$_{2}$ Structure",
+    "icsd": "403519",
+    "ccdc": null,
     "prototype": "Te2U",
     "prototype_tex": "Te$_{2}$U",
-    "label": "A2B_oI12_71_eh_f-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oI12",
+    "space_group_number": 71,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -19,17 +29,8 @@
         0.13473,
         0.25062
     ],
-    "strukturbericht": null,
-    "title": "UTe$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B_oI12_71_eh_f-001",
-    "number_of_species": 2,
-    "pearson_symbol": "oI12",
-    "space_group_number": 71,
-    "comments": "Data for this structure was taken at 2.7K.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "403519"
+    "comments": "Data for this structure was taken at 2.7K."
 }

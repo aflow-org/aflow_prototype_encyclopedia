@@ -1,9 +1,19 @@
 {
     "uid": "AFNT",
+    "label": "AB2_tP24_102_d_2cd-001",
+    "alias": "AB2_tP24_102_d_2cd-001",
+    "title": "S$_{2}$ (S$_{4}$N$_{2}$) Structure",
+    "icsd": "201218",
+    "ccdc": null,
     "prototype": "NS2",
     "prototype_tex": "NS$_{2}$",
-    "label": "AB2_tP24_102_d_2cd-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tP24",
+    "space_group_number": 102,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -31,17 +41,8 @@
         0.1505,
         0.2278
     ],
-    "strukturbericht": null,
-    "title": "S$_{2}$ (S$_{4}$N$_{2}$) Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2_tP24_102_d_2cd-001",
-    "number_of_species": 2,
-    "pearson_symbol": "tP24",
-    "space_group_number": 102,
-    "comments": "Space group $P4_{2}nm \\#102$ does not specify the origin of the $z$-axis.  We fix it by setting $z_{1} = 0$ for the S-I (4c) position.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "201218"
+    "comments": "Space group $P4_{2}nm \\#102$ does not specify the origin of the $z$-axis.  We fix it by setting $z_{1} = 0$ for the S-I (4c) position."
 }

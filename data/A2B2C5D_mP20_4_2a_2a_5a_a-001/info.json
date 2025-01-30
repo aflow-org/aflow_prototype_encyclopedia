@@ -1,9 +1,19 @@
 {
     "uid": "674K",
+    "label": "A2B2C5D_mP20_4_2a_2a_5a_a-001",
+    "alias": "A2B2C5D_mP20_4_2a_2a_5a_a",
+    "title": "Li$_{2}$SO$_{4}\\cdot$H$_{2}$O ($H4_{8}$) Structure",
+    "icsd": "201532",
+    "ccdc": null,
     "prototype": "H2Li2O5S",
     "prototype_tex": "H$_{2}$Li$_{2}$O$_{5}$S",
-    "label": "A2B2C5D_mP20_4_2a_2a_5a_a-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "mP20",
+    "space_group_number": 4,
+    "strukturbericht": "H4_8",
+    "strukturbericht_tex": "$H4_{8}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -75,18 +85,8 @@
         0.0,
         0.79195
     ],
-    "strukturbericht": "H4_8",
-    "title": "Li$_{2}$SO$_{4}\\cdot$H$_{2}$O ($H4_{8}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$H4_{8}$",
     "compounds": {},
-    "alias": "A2B2C5D_mP20_4_2a_2a_5a_a",
-    "number_of_species": 4,
-    "pearson_symbol": "mP20",
-    "space_group_number": 4,
-    "comments": "We use the data from (Lundgren, 1984) at 20K, including the positions of the hydrogen atoms not found in the original $H4_{8}$ structure in (Gottfried, 1937).\n Space group $P2_{1}$ \\#4 allows the $y$ coordinates to have an arbitrary origin.  We follow (Lundgren, 1984) and set the $y$ coordinate of the sulfur atom, $y_{10}$, to zero.",
+    "legacy": false,
     "notes": "$H4_{8}$",
-    "ccdc": null,
-    "icsd": "201532"
+    "comments": "We use the data from (Lundgren, 1984) at 20K, including the positions of the hydrogen atoms not found in the original $H4_{8}$ structure in (Gottfried, 1937).\n Space group $P2_{1}$ \\#4 allows the $y$ coordinates to have an arbitrary origin.  We follow (Lundgren, 1984) and set the $y$ coordinate of the sulfur atom, $y_{10}$, to zero."
 }

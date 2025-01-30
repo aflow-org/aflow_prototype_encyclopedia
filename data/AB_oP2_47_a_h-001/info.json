@@ -1,9 +1,19 @@
 {
     "uid": "JM3Q",
+    "label": "AB_oP2_47_a_h-001",
+    "alias": "AB_oP2_47_a_h-001",
+    "title": "AuMn Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "AuMn",
     "prototype_tex": "AuMn",
-    "label": "AB_oP2_47_a_h-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP2",
+    "space_group_number": 47,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a"
@@ -13,17 +23,8 @@
         1.00955,
         1.04459
     ],
-    "strukturbericht": null,
-    "title": "AuMn Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_oP2_47_a_h-001",
-    "number_of_species": 2,
-    "pearson_symbol": "oP2",
-    "space_group_number": 47,
-    "comments": "(Schubert, 1959) call this ''AuMn (Mn),'' and (Villars, 2018) shows it existing only on the manganese side of the phase diagram, while the gold-rich structure is not well determined.  We present the ordered stoichiometric structure here, based on the comment in (Schubert, 1959) that this is an orthorhombic distortion of the $B2$ structure. \n Above 120K AuMn first transforms into a phase with uncertain structure, and above $\\approx$ 300K it transforms into the \\href{current_web_home_dir/AB_cP2_221_a_b-002}{CsCl ($B2$) structure} (Villars,2018).",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "none"
+    "comments": "(Schubert, 1959) call this ''AuMn (Mn),'' and (Villars, 2018) shows it existing only on the manganese side of the phase diagram, while the gold-rich structure is not well determined.  We present the ordered stoichiometric structure here, based on the comment in (Schubert, 1959) that this is an orthorhombic distortion of the $B2$ structure. \n Above 120K AuMn first transforms into a phase with uncertain structure, and above $\\approx$ 300K it transforms into the \\href{current_web_home_dir/AB_cP2_221_a_b-002}{CsCl ($B2$) structure} (Villars,2018)."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "5R9K",
+    "label": "AB5_mC48_12_2i_ac5i2j-001",
+    "alias": "AB5_mC48_12_2i_ac5i2j",
+    "title": "$D2_{2}$ (MgZn$_{5}$?) Structure ({\\em Problematic})",
+    "icsd": "151403",
+    "ccdc": null,
     "prototype": "MgZn5",
     "prototype_tex": "MgZn$_{5}$",
-    "label": "AB5_mC48_12_2i_ac5i2j-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC48",
+    "space_group_number": 12,
+    "strukturbericht": "D2_2",
+    "strukturbericht_tex": "$D2_{2}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -55,18 +65,8 @@
         0.25,
         0.04167
     ],
-    "strukturbericht": "D2_2",
-    "title": "$D2_{2}$ (MgZn$_{5}$?) Structure ({\\em Problematic})",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$D2_{2}$",
     "compounds": {},
-    "alias": "AB5_mC48_12_2i_ac5i2j",
-    "number_of_species": 2,
-    "pearson_symbol": "mC48",
-    "space_group_number": 12,
-    "comments": "This structure has problems similar to the \\href{current_web_home_dir/AB_oI48_44_6c_abc2de-001}{$B30$ MgZn structure}, and for the same reasons. (Hermann, 1937) assigned this the {\\em Strukturbericht} designation $D2_{2}$, based on the paper of (Tarschish, 1933), who derived it from the hexagonal Laves structure \\href{current_web_home_dir/AB2_hP12_194_f_ah-001}{MgZn$_{2}$ (C14)}, eventually resulting in a 48 atom cell with composition MgZn$_{5}$.  As with MgZn, he assumed that the space group remained $P6_{3}/mmc$ \\#194. \n (McKeehan, 1935) again pointed out that this is impossible. (Hermann, 1937) referenced both papers, giving the space group as $P6_{3}/mmc$ but listing the atomic coordinates enumerated by McKeehan. \n The McKeehan structure has space group $C2/m$ \\#12, with 48 atoms in the conventional cell, and 24 atoms in the primitive cell.  As with $B30$, this agrees with the structure (Parth\\'{e}, 1993) designated as $D2_{2}$. \n It is not clear that any MgZn$_{5}$ compound actually exists.  It does not appear in the assessed Mg-Zn binary phase diagram (Massalski, 1990).  It {\\em may} actually be the \\href{current_web_home_dir/A2B11_cP39_200_f_begik-001}{Mg$_{2}$Zn$_{11}$ $D8_{c}$ structure}, but we have found no literature supporting this claim. \n The ICSD entry is from (Tarschish, 1933).  It gives the atomic positions in space group $P1$ \\#1, but AFLOW finds that the structure is in space group $C2/m$ \\#12, as found from our analysis of (McKeehan, 1935). Unsurprisingly, this structure does not agree with our interpretation of the data.",
+    "legacy": false,
     "notes": "$D2_{2}$, Problematic",
-    "ccdc": null,
-    "icsd": "151403"
+    "comments": "This structure has problems similar to the \\href{current_web_home_dir/AB_oI48_44_6c_abc2de-001}{$B30$ MgZn structure}, and for the same reasons. (Hermann, 1937) assigned this the {\\em Strukturbericht} designation $D2_{2}$, based on the paper of (Tarschish, 1933), who derived it from the hexagonal Laves structure \\href{current_web_home_dir/AB2_hP12_194_f_ah-001}{MgZn$_{2}$ (C14)}, eventually resulting in a 48 atom cell with composition MgZn$_{5}$.  As with MgZn, he assumed that the space group remained $P6_{3}/mmc$ \\#194. \n (McKeehan, 1935) again pointed out that this is impossible. (Hermann, 1937) referenced both papers, giving the space group as $P6_{3}/mmc$ but listing the atomic coordinates enumerated by McKeehan. \n The McKeehan structure has space group $C2/m$ \\#12, with 48 atoms in the conventional cell, and 24 atoms in the primitive cell.  As with $B30$, this agrees with the structure (Parth\\'{e}, 1993) designated as $D2_{2}$. \n It is not clear that any MgZn$_{5}$ compound actually exists.  It does not appear in the assessed Mg-Zn binary phase diagram (Massalski, 1990).  It {\\em may} actually be the \\href{current_web_home_dir/A2B11_cP39_200_f_begik-001}{Mg$_{2}$Zn$_{11}$ $D8_{c}$ structure}, but we have found no literature supporting this claim. \n The ICSD entry is from (Tarschish, 1933).  It gives the atomic positions in space group $P1$ \\#1, but AFLOW finds that the structure is in space group $C2/m$ \\#12, as found from our analysis of (McKeehan, 1935). Unsurprisingly, this structure does not agree with our interpretation of the data."
 }

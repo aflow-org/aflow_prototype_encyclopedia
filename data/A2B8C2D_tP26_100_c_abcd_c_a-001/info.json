@@ -1,9 +1,19 @@
 {
     "uid": "QC0E",
+    "label": "A2B8C2D_tP26_100_c_abcd_c_a-001",
+    "alias": "A2B8C2D_tP26_100_c_abcd_c_a",
+    "title": "Fresnoite (Ba$_{2}$TiSi$_{2}$O$_{8}$) Structure",
+    "icsd": "201844",
+    "ccdc": null,
     "prototype": "Ba2O8Si2Ti",
     "prototype_tex": "Ba$_{2}$O$_{8}$Si$_{2}$Ti",
-    "label": "A2B8C2D_tP26_100_c_abcd_c_a-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "tP26",
+    "space_group_number": 100,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -35,17 +45,8 @@
         0.5772,
         0.3571
     ],
-    "strukturbericht": null,
-    "title": "Fresnoite (Ba$_{2}$TiSi$_{2}$O$_{8}$) Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B8C2D_tP26_100_c_abcd_c_a",
-    "number_of_species": 4,
-    "pearson_symbol": "tP26",
-    "space_group_number": 100,
-    "comments": "Found in the \\href{http://webmineral.com/data/Fresnoite.shtml#.WV1oNnUrKUE}{Big Creek -- Rush Creek sanbornite deposit}, 8 km (5 miles) NE of Trimmer, Fresno Co. California.",
+    "legacy": false,
     "notes": "Fresnoite",
-    "ccdc": null,
-    "icsd": "201844"
+    "comments": "Found in the \\href{http://webmineral.com/data/Fresnoite.shtml#.WV1oNnUrKUE}{Big Creek -- Rush Creek sanbornite deposit}, 8 km (5 miles) NE of Trimmer, Fresno Co. California."
 }

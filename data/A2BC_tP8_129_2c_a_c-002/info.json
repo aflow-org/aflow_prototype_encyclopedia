@@ -1,9 +1,19 @@
 {
     "uid": "K32Y",
+    "label": "A2BC_tP8_129_2c_a_c-002",
+    "alias": "A2BC_tP8_129_2c_a_c-002",
+    "title": "UCoC$_{2}$ Structure",
+    "icsd": "63622",
+    "ccdc": null,
     "prototype": "C2CoU",
     "prototype_tex": "C$_{2}$CoU",
-    "label": "A2BC_tP8_129_2c_a_c-002",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP8",
+    "space_group_number": 129,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -17,17 +27,8 @@
         0.8416,
         0.32082
     ],
-    "strukturbericht": null,
-    "title": "UCoC$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC_tP8_129_2c_a_c-002",
-    "number_of_species": 3,
-    "pearson_symbol": "tP8",
-    "space_group_number": 129,
-    "comments": "(Gem's, 1986) found a small concentration of vacancies on the carbon and cobalt sites: 0.3\\% on Co (2a), 2\\% on C-I (2c), and 3\\% on C-II (2c).",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "63622"
+    "comments": "(Gem's, 1986) found a small concentration of vacancies on the carbon and cobalt sites: 0.3\\% on Co (2a), 2\\% on C-I (2c), and 3\\% on C-II (2c)."
 }

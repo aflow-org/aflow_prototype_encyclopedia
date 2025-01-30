@@ -1,9 +1,19 @@
 {
     "uid": "NDG5",
+    "label": "ABC2D6_mP20_13_e_e_g_3g-001",
+    "alias": "ABC2D6_mP20_13_e_e_g_3g-001",
+    "title": "AgCrP$_{2}$S$_{6}$ Structure",
+    "icsd": "36456",
+    "ccdc": null,
     "prototype": "AgCrP2S6",
     "prototype_tex": "AgCrP$_{2}$S$_{6}$",
-    "label": "ABC2D6_mP20_13_e_e_g_3g-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "mP20",
+    "space_group_number": 13,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -43,17 +53,8 @@
         0.6053,
         0.2421
     ],
-    "strukturbericht": null,
-    "title": "AgCrP$_{2}$S$_{6}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC2D6_mP20_13_e_e_g_3g-001",
-    "number_of_species": 4,
-    "pearson_symbol": "mP20",
-    "space_group_number": 13,
-    "comments": "(Selter, 2021) give the coordinates of this structure in the $P2/a$ setting of space group \\#13.  We used FINDSYM to transform this to the standard $P2/c$ setting. \n (Selter, 2021) does not yet have an ICSD entry.  We list the entry from the earlier work of (Colombet, 1983).",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "36456"
+    "comments": "(Selter, 2021) give the coordinates of this structure in the $P2/a$ setting of space group \\#13.  We used FINDSYM to transform this to the standard $P2/c$ setting. \n (Selter, 2021) does not yet have an ICSD entry.  We list the entry from the earlier work of (Colombet, 1983)."
 }

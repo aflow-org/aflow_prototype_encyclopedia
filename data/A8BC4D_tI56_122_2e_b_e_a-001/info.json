@@ -1,9 +1,19 @@
 {
     "uid": "PGWH",
+    "label": "A8BC4D_tI56_122_2e_b_e_a-001",
+    "alias": "A8BC4D_tI56_122_2e_b_e_a",
+    "title": "NH$_{4}$H$_{2}$PO$_{4}$ Structure",
+    "icsd": "28154",
+    "ccdc": null,
     "prototype": "H6NO4P",
     "prototype_tex": "H$_{6}$NO$_{4}$P",
-    "label": "A8BC4D_tI56_122_2e_b_e_a-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "tI56",
+    "space_group_number": 122,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -29,17 +39,8 @@
         0.6466,
         0.6151
     ],
-    "strukturbericht": null,
-    "title": "NH$_{4}$H$_{2}$PO$_{4}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A8BC4D_tI56_122_2e_b_e_a",
-    "number_of_species": 4,
-    "pearson_symbol": "tI56",
-    "space_group_number": 122,
-    "comments": "NH$_{4}$H$_{2}$PO$_{4}$ and NH$_{4}$H$_{2}$AsO$_{4}$ are usually considered to be isomorphous with the \\href{current_web_home_dir/A4BC4D_tI40_122_e_b_e_a-001}{KH$_{2}$PO$_{4}$ ($H2_{2}$) structure}, but (Khan, 1973) and (Fukami, 1987) were able to locate the hydrogen atoms in the NH$_{4}$ radical so we include this as a new structure. \n As in KH$_{2}$PO$_{4}$ the H-I site, associated with the PO$_{4}$ ion, is 50\\% occupied. \n Below 148K the H-I atoms become locked in place, and NH$_{4}$H$_{2}$PO$_{4}$ distorts in to a \\href{current_web_home_dir/A6BC4D_oP48_19_6a_a_4a_a-001}{orthorhombic ferroelectric phase}. \n The ICSD entry for this structure reverses the x and y coordinates of the H I atoms, placing them on an (8d) site which would be fully occupied. This makes minimal changes to the crystal structure, but we are investigating it further.",
+    "legacy": false,
     "notes": "Paraelectric phase",
-    "ccdc": null,
-    "icsd": "28154"
+    "comments": "NH$_{4}$H$_{2}$PO$_{4}$ and NH$_{4}$H$_{2}$AsO$_{4}$ are usually considered to be isomorphous with the \\href{current_web_home_dir/A4BC4D_tI40_122_e_b_e_a-001}{KH$_{2}$PO$_{4}$ ($H2_{2}$) structure}, but (Khan, 1973) and (Fukami, 1987) were able to locate the hydrogen atoms in the NH$_{4}$ radical so we include this as a new structure. \n As in KH$_{2}$PO$_{4}$ the H-I site, associated with the PO$_{4}$ ion, is 50\\% occupied. \n Below 148K the H-I atoms become locked in place, and NH$_{4}$H$_{2}$PO$_{4}$ distorts in to a \\href{current_web_home_dir/A6BC4D_oP48_19_6a_a_4a_a-001}{orthorhombic ferroelectric phase}. \n The ICSD entry for this structure reverses the x and y coordinates of the H I atoms, placing them on an (8d) site which would be fully occupied. This makes minimal changes to the crystal structure, but we are investigating it further."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "5VT7",
+    "label": "A4B_tI20_88_f_a-001",
+    "alias": "A4B_tI20_88_f_a",
+    "title": "$\\alpha$-ThCl$_{4}$ Structure",
+    "icsd": "6055",
+    "ccdc": null,
     "prototype": "Cl4Th",
     "prototype_tex": "Cl$_{4}$Th",
-    "label": "A4B_tI20_88_f_a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tI20",
+    "space_group_number": 88,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -17,17 +27,8 @@
         0.017,
         0.298
     ],
-    "strukturbericht": null,
-    "title": "$\\alpha$-ThCl$_{4}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B_tI20_88_f_a",
-    "number_of_species": 2,
-    "pearson_symbol": "tI20",
-    "space_group_number": 88,
-    "comments": "$\\alpha$-ThCl$_{4}$ is stable below 405$^{\\circ}$C.  Above that temperature it transforms into \\href{current_web_home_dir/A4B_tI20_141_h_a-001}{$\\beta$-ThCl$_{4}$}. (Mason, 1974)",
+    "legacy": false,
     "notes": "$\\alpha$-ThCl$_{4}$",
-    "ccdc": null,
-    "icsd": "6055"
+    "comments": "$\\alpha$-ThCl$_{4}$ is stable below 405$^{\\circ}$C.  Above that temperature it transforms into \\href{current_web_home_dir/A4B_tI20_141_h_a-001}{$\\beta$-ThCl$_{4}$}. (Mason, 1974)"
 }

@@ -1,9 +1,19 @@
 {
     "uid": "159P",
+    "label": "AB8_oI36_46_b_a3b2c-001",
+    "alias": "AB8_oI36_46_b_a3b2c-001",
+    "title": "CuN$_{8}$ Structure",
+    "icsd": "9713",
+    "ccdc": null,
     "prototype": "CuN8",
     "prototype_tex": "CuN$_{8}$",
-    "label": "AB8_oI36_46_b_a3b2c-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oI36",
+    "space_group_number": 46,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -43,17 +53,8 @@
         0.09,
         0.534
     ],
-    "strukturbericht": null,
-    "title": "CuN$_{8}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB8_oI36_46_b_a3b2c-001",
-    "number_of_species": 2,
-    "pearson_symbol": "oI36",
-    "space_group_number": 46,
-    "comments": "The ICSD puts this into the \\href{current_web_home_dir/ABC_oI36_46_ac_bc_3b-001}{TiFeSi} structure type, but the only thing the two structures share is the space group and the Wyckoff positions occupied. \n (Xu, 2018) only give interatomic distances, not the coordinates.  Fortunately the ICSD entry has atomic coordinates, and we use these.  We have checked these to verify that the structure presented here is in reasonable agreement with these distances.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "9713"
+    "comments": "The ICSD puts this into the \\href{current_web_home_dir/ABC_oI36_46_ac_bc_3b-001}{TiFeSi} structure type, but the only thing the two structures share is the space group and the Wyckoff positions occupied. \n (Xu, 2018) only give interatomic distances, not the coordinates.  Fortunately the ICSD entry has atomic coordinates, and we use these.  We have checked these to verify that the structure presented here is in reasonable agreement with these distances."
 }

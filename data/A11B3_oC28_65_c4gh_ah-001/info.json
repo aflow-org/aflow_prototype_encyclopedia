@@ -1,9 +1,19 @@
 {
     "uid": "2ATW",
+    "label": "A11B3_oC28_65_c4gh_ah-001",
+    "alias": "A11B3_oC28_65_c4gh_ah-001",
+    "title": "Tb$_{3}$Sn$_{7}$ Structure",
+    "icsd": "54357",
+    "ccdc": null,
     "prototype": "Sn7Tb3",
     "prototype_tex": "Sn$_{7}$Tb$_{3}$",
-    "label": "A11B3_oC28_65_c4gh_ah-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oC28",
+    "space_group_number": 65,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -25,17 +35,8 @@
         0.101,
         0.309
     ],
-    "strukturbericht": null,
-    "title": "Tb$_{3}$Sn$_{7}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A11B3_oC28_65_c4gh_ah-001",
-    "number_of_species": 2,
-    "pearson_symbol": "oC28",
-    "space_group_number": 65,
-    "comments": "This is the low temperature phase of Tb$_{3}$Sn$_{7}$. (Palenzona, 1993) describe a high temperature phase but do not give enough information to determine the structure.  \n The Sn-III (80\\%), Sn-IV (13\\%), and Sn-V (7\\%) sites are only partially occupied.  These three Wyckoff positions are very close together, so presumably only one of the sites is occupied at any location in the crystal. \n We shifted the coordinate system so that the Tb-I atom is at the origin and the longest primitive vector is along ${\\bf a}_1$, rather than ${\\bf a}_2$ as given in (Palenzona, 1993).",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "54357"
+    "comments": "This is the low temperature phase of Tb$_{3}$Sn$_{7}$. (Palenzona, 1993) describe a high temperature phase but do not give enough information to determine the structure.  \n The Sn-III (80\\%), Sn-IV (13\\%), and Sn-V (7\\%) sites are only partially occupied.  These three Wyckoff positions are very close together, so presumably only one of the sites is occupied at any location in the crystal. \n We shifted the coordinate system so that the Tb-I atom is at the origin and the longest primitive vector is along ${\\bf a}_1$, rather than ${\\bf a}_2$ as given in (Palenzona, 1993)."
 }

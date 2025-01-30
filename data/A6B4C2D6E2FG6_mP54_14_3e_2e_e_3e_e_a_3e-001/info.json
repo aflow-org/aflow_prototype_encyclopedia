@@ -1,9 +1,19 @@
 {
     "uid": "0UZV",
+    "label": "A6B4C2D6E2FG6_mP54_14_3e_2e_e_3e_e_a_3e-001",
+    "alias": "A6B4C2D6E2FG6_mP54_14_3e_2e_e_3e_e_a_3e",
+    "title": "K$_{2}$Pt(SCN)$_{6} \\cdot$ 2H$_{2}$O Structure",
+    "icsd": "74381",
+    "ccdc": null,
     "prototype": "C6H4K2N6O2PtS6",
     "prototype_tex": "C$_{6}$H$_{4}$K$_{2}$N$_{6}$O$_{2}$PtS$_{6}$",
-    "label": "A6B4C2D6E2FG6_mP54_14_3e_2e_e_3e_e_a_3e-001",
-    "parameter_symbol": [
+    "number_of_species": 7,
+    "pearson_symbol": "mP54",
+    "space_group_number": 14,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -93,17 +103,8 @@
         0.8611,
         0.6813
     ],
-    "strukturbericht": null,
-    "title": "K$_{2}$Pt(SCN)$_{6} \\cdot$ 2H$_{2}$O Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A6B4C2D6E2FG6_mP54_14_3e_2e_e_3e_e_a_3e",
-    "number_of_species": 7,
-    "pearson_symbol": "mP54",
-    "space_group_number": 14,
-    "comments": "This is the hydrated form.  For the anhydrous structure, see \\href{current_web_home_dir/A2BC6_hP9_164_d_a_i-001}{the $H6_{3}$ structure page}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "74381"
+    "comments": "This is the hydrated form.  For the anhydrous structure, see \\href{current_web_home_dir/A2BC6_hP9_164_d_a_i-001}{the $H6_{3}$ structure page}."
 }

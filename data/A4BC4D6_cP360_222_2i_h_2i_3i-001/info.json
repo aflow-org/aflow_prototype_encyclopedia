@@ -1,9 +1,19 @@
 {
     "uid": "7XG8",
+    "label": "A4BC4D6_cP360_222_2i_h_2i_3i-001",
+    "alias": "A4BC4D6_cP360_222_2i_h_2i_3i-001",
+    "title": "Co(H$_{2}$O)$_{2}$(C$_{4}$O$_{4}$) Structure",
+    "icsd": "110022",
+    "ccdc": "187771",
     "prototype": "C4CoH4O6",
     "prototype_tex": "C$_{4}$CoH$_{4}$O$_{6}$",
-    "label": "A4BC4D6_cP360_222_2i_h_2i_3i-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "cP360",
+    "space_group_number": 222,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "y1",
         "x2",
@@ -53,17 +63,8 @@
         0.61842,
         0.2998
     ],
-    "strukturbericht": null,
-    "title": "Co(H$_{2}$O)$_{2}$(C$_{4}$O$_{4}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4BC4D6_cP360_222_2i_h_2i_3i-001",
-    "number_of_species": 4,
-    "pearson_symbol": "cP360",
-    "space_group_number": 222,
-    "ccdc": "187771",
-    "comments": "There is no ICSD entry for (Neeraj, 2002). The ICSD entry is from (Naether, 2002).",
+    "legacy": false,
     "notes": null,
-    "icsd": "110022"
+    "comments": "There is no ICSD entry for (Neeraj, 2002). The ICSD entry is from (Naether, 2002)."
 }

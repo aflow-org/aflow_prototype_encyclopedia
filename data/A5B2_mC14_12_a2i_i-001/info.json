@@ -1,9 +1,19 @@
 {
     "uid": "9H7D",
+    "label": "A5B2_mC14_12_a2i_i-001",
+    "alias": "A5B2_mC14_12_a2i_i",
+    "title": "Au$_{5}$Mn$_{2}$ Structure",
+    "icsd": "144447",
+    "ccdc": null,
     "prototype": "Au5Mn2",
     "prototype_tex": "Au$_{5}$Mn$_{2}$",
-    "label": "A5B2_mC14_12_a2i_i-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC14",
+    "space_group_number": 12,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -27,17 +37,8 @@
         0.57143,
         0.71429
     ],
-    "strukturbericht": null,
-    "title": "Au$_{5}$Mn$_{2}$ Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "A5B2_mC14_12_a2i_i",
-    "number_of_species": 2,
-    "pearson_symbol": "mC14",
-    "space_group_number": 12,
-    "comments": "As noted by (Pearson, 1972), this structure is very nearly cubic close-packed. As such, it is frequently used for cluster expansion models. \n (Humble, 1964) puts this structure in space group $Cc$ \\#5, but the coordinates given are consistent with space group $C2/m$ \\#12.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "144447"
+    "comments": "As noted by (Pearson, 1972), this structure is very nearly cubic close-packed. As such, it is frequently used for cluster expansion models. \n (Humble, 1964) puts this structure in space group $Cc$ \\#5, but the coordinates given are consistent with space group $C2/m$ \\#12."
 }

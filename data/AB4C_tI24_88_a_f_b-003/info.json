@@ -1,9 +1,19 @@
 {
     "uid": "Y9T0",
+    "label": "AB4C_tI24_88_a_f_b-003",
+    "alias": "AB4C_tI24_88_b_f_a",
+    "title": "Scheelite (CaWO$_{4}$, $H0_{4}$) Structure",
+    "icsd": "60547",
+    "ccdc": null,
     "prototype": "CaO4W",
     "prototype_tex": "CaO$_{4}$W",
-    "label": "AB4C_tI24_88_a_f_b-003",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tI24",
+    "space_group_number": 88,
+    "strukturbericht": "H0_4",
+    "strukturbericht_tex": "$H0_{4}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -17,18 +27,8 @@
         0.5038,
         0.2159
     ],
-    "strukturbericht": "H0_4",
-    "title": "Scheelite (CaWO$_{4}$, $H0_{4}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$H0_{4}$",
     "compounds": {},
-    "alias": "AB4C_tI24_88_b_f_a",
-    "number_of_species": 3,
-    "pearson_symbol": "tI24",
-    "space_group_number": 88,
-    "comments": "(Ewald, 1931) originally gave this structure the {\\em Strukturbericht} designation $H4$, but this was changed to $H0_{4}$ in (Gottfried, 1937).",
+    "legacy": false,
     "notes": "$H0_{4}$, Scheelite",
-    "ccdc": null,
-    "icsd": "60547"
+    "comments": "(Ewald, 1931) originally gave this structure the {\\em Strukturbericht} designation $H4$, but this was changed to $H0_{4}$ in (Gottfried, 1937)."
 }

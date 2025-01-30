@@ -1,9 +1,19 @@
 {
     "uid": "FUR0",
+    "label": "AB14C2_tP68_136_f_ce2j2k_fg-001",
+    "alias": "AB14C2_tP68_136_f_ce2j2k_fg",
+    "title": "Nd$_{2}$Fe$_{14}$B Structure",
+    "icsd": "67224",
+    "ccdc": null,
     "prototype": "BFe14Nd2",
     "prototype_tex": "BFe$_{14}$Nd$_{2}$",
-    "label": "AB14C2_tP68_136_f_ce2j2k_fg-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP68",
+    "space_group_number": 136,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -39,17 +49,8 @@
         0.2245,
         0.3735
     ],
-    "strukturbericht": null,
-    "title": "Nd$_{2}$Fe$_{14}$B Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB14C2_tP68_136_f_ce2j2k_fg",
-    "number_of_species": 3,
-    "pearson_symbol": "tP68",
-    "space_group_number": 136,
-    "comments": "In many cases the boron site can be partially occupied with boron or carbon, or have a mixture of boron and carbon.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "67224"
+    "comments": "In many cases the boron site can be partially occupied with boron or carbon, or have a mixture of boron and carbon."
 }

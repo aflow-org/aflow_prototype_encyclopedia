@@ -1,9 +1,19 @@
 {
     "uid": "UMLP",
+    "label": "A2BC_tI32_82_2g_ace_g-001",
+    "alias": "A2BC_tI32_82_2g_ace_g-001",
+    "title": "$\\alpha$-LiNH$_{2}$ Structure",
+    "icsd": "154395",
+    "ccdc": null,
     "prototype": "H2LiN",
     "prototype_tex": "H$_{2}$LiN",
-    "label": "A2BC_tI32_82_2g_ace_g-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tI32",
+    "space_group_number": 82,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -31,17 +41,8 @@
         0.3512,
         0.1278
     ],
-    "strukturbericht": null,
-    "title": "$\\alpha$-LiNH$_{2}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC_tI32_82_2g_ace_g-001",
-    "number_of_species": 3,
-    "pearson_symbol": "tI32",
-    "space_group_number": 82,
-    "comments": "Under pressure LiNH$_{2}$ has at least three phases (Yamawaki, 2014): \\href{current_web_home_dir/A2BC_tI32_82_2g_ace_g-001}{tetragonal $\\alpha$-LiNiH$_{2}$}, or Phase I, the ground state, stable up to 10GPa. (this structure) \\item \\href{current_web_home_dir/A2BC_mC32_15_2f_f_f-001}{Monoclinic Phase II}, stable between 10 and 13 GPa. \\item $\\beta$-LiNH$_{2}$, or Phase III, is stable above 13 GPa.  The structure is very uncertain.  (Yamawaki, 2014) discuss two possible structures: \\href{current_web_home_dir/A2BC_oP32_56_2e_e_e-001}{orthorhombic space group $Pccn$ \\#56} and \\href{current_web_home_dir/A2BC_oI32_45_2c_c_c-001}{body-centered orthorhombic space group $Iba2$ \\#45}.",
+    "legacy": false,
     "notes": "$\\alpha$/Phase I",
-    "ccdc": null,
-    "icsd": "154395"
+    "comments": "Under pressure LiNH$_{2}$ has at least three phases (Yamawaki, 2014): \\href{current_web_home_dir/A2BC_tI32_82_2g_ace_g-001}{tetragonal $\\alpha$-LiNiH$_{2}$}, or Phase I, the ground state, stable up to 10GPa. (this structure) \\item \\href{current_web_home_dir/A2BC_mC32_15_2f_f_f-001}{Monoclinic Phase II}, stable between 10 and 13 GPa. \\item $\\beta$-LiNH$_{2}$, or Phase III, is stable above 13 GPa.  The structure is very uncertain.  (Yamawaki, 2014) discuss two possible structures: \\href{current_web_home_dir/A2BC_oP32_56_2e_e_e-001}{orthorhombic space group $Pccn$ \\#56} and \\href{current_web_home_dir/A2BC_oI32_45_2c_c_c-001}{body-centered orthorhombic space group $Iba2$ \\#45}."
 }

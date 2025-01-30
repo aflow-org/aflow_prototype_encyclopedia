@@ -1,9 +1,19 @@
 {
     "uid": "00JM",
+    "label": "AB2C_tI16_139_e_ce_d-003",
+    "alias": "AB2C_tI16_139_e_ce_d-003",
+    "title": "BaZnSb$_{2}$ Structure",
+    "icsd": "52694",
+    "ccdc": null,
     "prototype": "BaSb2Zn",
     "prototype_tex": "BaSb$_{2}$Zn",
-    "label": "AB2C_tI16_139_e_ce_d-003",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tI16",
+    "space_group_number": 139,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -15,17 +25,8 @@
         0.1202,
         0.3175
     ],
-    "strukturbericht": null,
-    "title": "BaZnSb$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2C_tI16_139_e_ce_d-003",
-    "number_of_species": 3,
-    "pearson_symbol": "tI16",
-    "space_group_number": 139,
-    "comments": "Many authorities designate SrZnBi$_{2}$ as the prototype for this structure.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "52694"
+    "comments": "Many authorities designate SrZnBi$_{2}$ as the prototype for this structure."
 }

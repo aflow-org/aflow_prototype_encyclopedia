@@ -1,9 +1,19 @@
 {
     "uid": "Z34R",
+    "label": "A43B5C17_oC260_63_c8fg6h_cfg_ce3f2h-001",
+    "alias": "A43B5C17_oC260_63_c8fg6h_cfg_ce3f2h",
+    "title": "La$_{43}$Ni$_{17}$Mg$_{5}$ Structure",
+    "icsd": "249963",
+    "ccdc": null,
     "prototype": "La43Mg5Ni17",
     "prototype_tex": "La$_{43}$Mg$_{5}$Ni$_{17}$",
-    "label": "A43B5C17_oC260_63_c8fg6h_cfg_ce3f2h-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oC260",
+    "space_group_number": 63,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -125,17 +135,8 @@
         0.85936,
         0.09067
     ],
-    "strukturbericht": null,
-    "title": "La$_{43}$Ni$_{17}$Mg$_{5}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A43B5C17_oC260_63_c8fg6h_cfg_ce3f2h",
-    "number_of_species": 3,
-    "pearson_symbol": "oC260",
-    "space_group_number": 63,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "249963"
+    "comments": null
 }

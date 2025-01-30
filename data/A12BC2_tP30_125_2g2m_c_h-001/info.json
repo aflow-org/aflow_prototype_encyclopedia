@@ -1,9 +1,19 @@
 {
     "uid": "UYGN",
+    "label": "A12BC2_tP30_125_2g2m_c_h-001",
+    "alias": "A12BC2_tP30_125_2g2m_c_h-001",
+    "title": "Sm$_{2}$NiGa$_{12}$ Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "Ga12NiSm2",
     "prototype_tex": "Ga$_{12}$NiSm$_{2}$",
-    "label": "A12BC2_tP30_125_2g2m_c_h-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP30",
+    "space_group_number": 125,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -25,17 +35,8 @@
         0.572,
         0.5721
     ],
-    "strukturbericht": null,
-    "title": "Sm$_{2}$NiGa$_{12}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A12BC2_tP30_125_2g2m_c_h-001",
-    "number_of_species": 3,
-    "pearson_symbol": "tP30",
-    "space_group_number": 125,
-    "comments": "The ICSD lists Ce$_{2}$CuGa$_{12}$ as the prototype for this structure, but the (Chen, 2000) description of Sm$_{2}$NiGa$_{12}$ predates any description of any other structure with this prototype.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "none"
+    "comments": "The ICSD lists Ce$_{2}$CuGa$_{12}$ as the prototype for this structure, but the (Chen, 2000) description of Sm$_{2}$NiGa$_{12}$ predates any description of any other structure with this prototype."
 }

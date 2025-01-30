@@ -1,9 +1,19 @@
 {
     "uid": "LPJD",
+    "label": "A2B6C_cP36_205_c_d_a-001",
+    "alias": "A2B6C_cP36_205_c_d_a",
+    "title": "Pb(NO$_{3}$)$_{2}$ ($G2_{1}$) Structure",
+    "icsd": "62698",
+    "ccdc": null,
     "prototype": "N2O6Pb",
     "prototype_tex": "N$_{2}$O$_{6}$Pb",
-    "label": "A2B6C_cP36_205_c_d_a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cP36",
+    "space_group_number": 205,
+    "strukturbericht": "G2_1",
+    "strukturbericht_tex": "$G2_{1}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "x2",
         "x3",
@@ -17,18 +27,8 @@
         0.28869,
         0.4773
     ],
-    "strukturbericht": "G2_1",
-    "title": "Pb(NO$_{3}$)$_{2}$ ($G2_{1}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$G2_{1}$",
     "compounds": {},
-    "alias": "A2B6C_cP36_205_c_d_a",
-    "number_of_species": 3,
-    "pearson_symbol": "cP36",
-    "space_group_number": 205,
+    "legacy": false,
     "notes": "$G2_{1}$",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "62698"
+    "comments": null
 }

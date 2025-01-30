@@ -1,9 +1,19 @@
 {
     "uid": "FNF2",
+    "label": "A4B_oI20_74_aeh_e-001",
+    "alias": "A4B_oI20_74_beh_e",
+    "title": "Al$_{4}$U ($D1_{b}$) Structure",
+    "icsd": "240127",
+    "ccdc": null,
     "prototype": "Al4U",
     "prototype_tex": "Al$_{4}$U",
-    "label": "A4B_oI20_74_aeh_e-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oI20",
+    "space_group_number": 74,
+    "strukturbericht": "D1_b",
+    "strukturbericht_tex": "$D1_{b}$",
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -21,18 +31,8 @@
         0.5303,
         0.8017
     ],
-    "strukturbericht": "D1_b",
-    "title": "Al$_{4}$U ($D1_{b}$) Structure",
-    "part": 2,
-    "legacy": false,
-    "strukturbericht_tex": "$D1_{b}$",
     "compounds": {},
-    "alias": "A4B_oI20_74_beh_e",
-    "number_of_species": 2,
-    "pearson_symbol": "oI20",
-    "space_group_number": 74,
-    "comments": "We replaced the rather obscure (Borgstedt, 1989) reference by the modern work of (Tougait, 2004).",
+    "legacy": false,
     "notes": "$D1_{b}$",
-    "ccdc": null,
-    "icsd": "240127"
+    "comments": "We replaced the rather obscure (Borgstedt, 1989) reference by the modern work of (Tougait, 2004)."
 }

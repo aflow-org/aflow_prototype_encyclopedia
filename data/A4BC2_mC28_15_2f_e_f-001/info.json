@@ -1,9 +1,19 @@
 {
     "uid": "ZDTU",
+    "label": "A4BC2_mC28_15_2f_e_f-001",
+    "alias": "A4BC2_mC28_15_2f_e_f-001",
+    "title": "Sm$_{2}$SCl$_{4}$ Structure",
+    "icsd": "89534",
+    "ccdc": null,
     "prototype": "Cl4SSm2",
     "prototype_tex": "Cl$_{4}$SSm$_{2}$",
-    "label": "A4BC2_mC28_15_2f_e_f-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mC28",
+    "space_group_number": 15,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -35,17 +45,8 @@
         0.2074,
         0.07804
     ],
-    "strukturbericht": null,
-    "title": "Sm$_{2}$SCl$_{4}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4BC2_mC28_15_2f_e_f-001",
-    "number_of_species": 3,
-    "pearson_symbol": "mC28",
-    "space_group_number": 15,
-    "comments": "(M\\\"{u}ller, 1993) found Gd$_{2}$SCl$_{4}$ (ICSD, 56742), but that reference is difficult to obtain so we use the later work of (Lissner, 1999) and designate Sm$_{2}$SCl$_{4}$ as the prototype. \n The ICSD lists this as having the Mn$_{5}$C$_{2}$ structure, which is the \\href{current_web_home_dir/A2B5_mC28_15_f_e2f-001}{B$_{2}$Pd$_{5}$ structure} in our system, but, in AFLOW finds the structures different enough to warrant a new prototype.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "89534"
+    "comments": "(M\\\"{u}ller, 1993) found Gd$_{2}$SCl$_{4}$ (ICSD, 56742), but that reference is difficult to obtain so we use the later work of (Lissner, 1999) and designate Sm$_{2}$SCl$_{4}$ as the prototype. \n The ICSD lists this as having the Mn$_{5}$C$_{2}$ structure, which is the \\href{current_web_home_dir/A2B5_mC28_15_f_e2f-001}{B$_{2}$Pd$_{5}$ structure} in our system, but, in AFLOW finds the structures different enough to warrant a new prototype."
 }

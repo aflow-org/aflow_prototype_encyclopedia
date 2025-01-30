@@ -1,9 +1,19 @@
 {
     "uid": "P4UA",
+    "label": "A3B5C2_tP40_128_dh_egh_h-001",
+    "alias": "A3B5C2_tP40_128_dh_egh_h-001",
+    "title": "U$_{2}$Mn$_{3}$Si$_{5}$ Structure",
+    "icsd": "20929",
+    "ccdc": null,
     "prototype": "Mn3Si5U2",
     "prototype_tex": "Mn$_{3}$Si$_{5}$U$_{2}$",
-    "label": "A3B5C2_tP40_128_dh_egh_h-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP40",
+    "space_group_number": 128,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -27,17 +37,8 @@
         0.0704,
         0.2394
     ],
-    "strukturbericht": null,
-    "title": "U$_{2}$Mn$_{3}$Si$_{5}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B5C2_tP40_128_dh_egh_h-001",
-    "number_of_species": 3,
-    "pearson_symbol": "tP40",
-    "space_group_number": 128,
-    "comments": "Some authors refer to this as the Sc$_{2}$Fe$_{3}$Si$_{5}$ type.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "20929"
+    "comments": "Some authors refer to this as the Sc$_{2}$Fe$_{3}$Si$_{5}$ type."
 }

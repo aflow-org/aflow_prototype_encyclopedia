@@ -1,9 +1,19 @@
 {
     "uid": "M6W2",
+    "label": "ABC4D_cP28_198_a_a_ab_a-001",
+    "alias": "ABC4D_cP28_198_a_a_ab_a",
+    "title": "$\\alpha$-Carnegieite (NaAlSiO$_{4}$, $S6_{5}$) Structure",
+    "icsd": "34884",
+    "ccdc": null,
     "prototype": "AlNaO4Si",
     "prototype_tex": "AlNaO$_{4}$Si",
-    "label": "ABC4D_cP28_198_a_a_ab_a-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "cP28",
+    "space_group_number": 198,
+    "strukturbericht": "S6_5",
+    "strukturbericht_tex": "$S6_{5}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "x1",
         "x2",
@@ -23,18 +33,8 @@
         0.644,
         0.0556
     ],
-    "strukturbericht": "S6_5",
-    "title": "$\\alpha$-Carnegieite (NaAlSiO$_{4}$, $S6_{5}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$S6_{5}$",
     "compounds": {},
-    "alias": "ABC4D_cP28_198_a_a_ab_a",
-    "number_of_species": 4,
-    "pearson_symbol": "cP28",
-    "space_group_number": 198,
-    "comments": "This high-temperature form of carnegieite is stable above 970K. \n To our knowledge, the atomic positions of the low temperature $\\beta$-carnegieite structure have not been determined.",
+    "legacy": false,
     "notes": "$S6_{5}$, $\\alpha$-Carnegieite",
-    "ccdc": null,
-    "icsd": "34884"
+    "comments": "This high-temperature form of carnegieite is stable above 970K. \n To our knowledge, the atomic positions of the low temperature $\\beta$-carnegieite structure have not been determined."
 }

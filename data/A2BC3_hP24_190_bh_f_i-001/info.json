@@ -1,9 +1,19 @@
 {
     "uid": "Z6A0",
+    "label": "A2BC3_hP24_190_bh_f_i-001",
+    "alias": "A2BC3_hP24_190_bh_f_i-001",
+    "title": "Er$_{2}$RhSi$_{3}$ Structure",
+    "icsd": "655470",
+    "ccdc": null,
     "prototype": "Er2RhSi3",
     "prototype_tex": "Er$_{2}$RhSi$_{3}$",
-    "label": "A2BC3_hP24_190_bh_f_i-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP24",
+    "space_group_number": 190,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -23,17 +33,8 @@
         0.333,
         0.0
     ],
-    "strukturbericht": null,
-    "title": "Er$_{2}$RhSi$_{3}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC3_hP24_190_bh_f_i-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hP24",
-    "space_group_number": 190,
-    "comments": "(Gladyshevskii, 1992) put Er$_{2}$RhSi$_{3}$ in the \\href{current_web_home_dir/AB3C2_hP24_194_f_k_bh-001}{Lu$_{2}$CoGa$_{3}$ structure} and report that there is little difference between the two forms, however we find significant differences and the ICSD lists the two structures as different varients of Er$_{2}$RhSi$_{3}$.  We will list the two structures under Er$_{2}$RhSi$_{3}$ (space group $P\\overline{6}2c$ \\#190) and Lu$_{2}$CoGa$_{3}$ (space group $P6_{3}/mmc$ \\#194).  The two space groups differ only in that the later group contains the inversion operator.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "655470"
+    "comments": "(Gladyshevskii, 1992) put Er$_{2}$RhSi$_{3}$ in the \\href{current_web_home_dir/AB3C2_hP24_194_f_k_bh-001}{Lu$_{2}$CoGa$_{3}$ structure} and report that there is little difference between the two forms, however we find significant differences and the ICSD lists the two structures as different varients of Er$_{2}$RhSi$_{3}$.  We will list the two structures under Er$_{2}$RhSi$_{3}$ (space group $P\\overline{6}2c$ \\#190) and Lu$_{2}$CoGa$_{3}$ (space group $P6_{3}/mmc$ \\#194).  The two space groups differ only in that the later group contains the inversion operator."
 }

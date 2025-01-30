@@ -1,9 +1,19 @@
 {
     "uid": "AHE7",
+    "label": "A5B_oP24_26_3a3b2c_ab-001",
+    "alias": "A5B_oP24_26_3a3b2c_ab",
+    "title": "TlP$_{5}$ Structure",
+    "icsd": "15021",
+    "ccdc": null,
     "prototype": "P5Tl",
     "prototype_tex": "P$_{5}$Tl",
-    "label": "A5B_oP24_26_3a3b2c_ab-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP24",
+    "space_group_number": 26,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -57,17 +67,8 @@
         0.0963,
         0.5436
     ],
-    "strukturbericht": null,
-    "title": "TlP$_{5}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A5B_oP24_26_3a3b2c_ab",
-    "number_of_species": 2,
-    "pearson_symbol": "oP24",
-    "space_group_number": 26,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "15021"
+    "comments": null
 }

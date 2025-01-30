@@ -1,25 +1,26 @@
 {
     "uid": "62DR",
+    "label": "A3B4_cP7_221_d_ac-001",
+    "alias": "A3B4_cP7_221_d_ac-001",
+    "title": "S$_{3}$U$_{4}$ Structure",
+    "icsd": "38354",
+    "ccdc": null,
     "prototype": "S3U4",
     "prototype_tex": "S$_{3}$U$_{4}$",
-    "label": "A3B4_cP7_221_d_ac-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cP7",
+    "space_group_number": 221,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a"
     ],
     "parameter_values": [
         5.49
     ],
-    "strukturbericht": null,
-    "title": "S$_{3}$U$_{4}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B4_cP7_221_d_ac-001",
-    "number_of_species": 2,
-    "pearson_symbol": "cP7",
-    "space_group_number": 221,
-    "comments": "This is the \\href{current_web_home_dir/AB_cF8_225_a_b-001}{rock salt ($B1$) structure} with the central atom removed in each cube. \n The ICSD entry for this structure uses a = 5.505{\\AA}, but (Zumbush, 1940) states that the correct value is 5.49{\\AA}.  As this is consistent with the S-S and S-U distances given in the paper we use this value.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "38354"
+    "comments": "This is the \\href{current_web_home_dir/AB_cF8_225_a_b-001}{rock salt ($B1$) structure} with the central atom removed in each cube. \n The ICSD entry for this structure uses a = 5.505{\\AA}, but (Zumbush, 1940) states that the correct value is 5.49{\\AA}.  As this is consistent with the S-S and S-U distances given in the paper we use this value."
 }

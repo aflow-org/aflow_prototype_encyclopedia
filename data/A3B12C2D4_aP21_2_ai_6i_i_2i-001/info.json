@@ -1,9 +1,19 @@
 {
     "uid": "L1KQ",
+    "label": "A3B12C2D4_aP21_2_ai_6i_i_2i-001",
+    "alias": "A3B12C2D4_aP21_2_ai_6i_i_2i-001",
+    "title": "Cu$_{3}$(P$_{2}$O$_{6}$OH)$_{2}$ Structure",
+    "icsd": "170128",
+    "ccdc": null,
     "prototype": "Cu3O12(OH)2P4",
     "prototype_tex": "Cu$_{3}$O$_{12}$(OH)$_{2}$P$_{4}$",
-    "label": "A3B12C2D4_aP21_2_ai_6i_i_2i-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "aP21",
+    "space_group_number": 2,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -79,17 +89,8 @@
         0.8439,
         0.8121
     ],
-    "strukturbericht": null,
-    "title": "Cu$_{3}$(P$_{2}$O$_{6}$OH)$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B12C2D4_aP21_2_ai_6i_i_2i-001",
-    "number_of_species": 4,
-    "pearson_symbol": "aP21",
-    "space_group_number": 2,
-    "comments": "The positions of the hydrogen atoms in the OH radicals were not determined. While we list the radical as a separate species, OH I, (Baies, 2005) simply list it as O7. \n The positions of the oxygen atoms in the ICSD entry do not precisely match the positions in Table 2 of (Baies, 2005).",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "170128"
+    "comments": "The positions of the hydrogen atoms in the OH radicals were not determined. While we list the radical as a separate species, OH I, (Baies, 2005) simply list it as O7. \n The positions of the oxygen atoms in the ICSD entry do not precisely match the positions in Table 2 of (Baies, 2005)."
 }

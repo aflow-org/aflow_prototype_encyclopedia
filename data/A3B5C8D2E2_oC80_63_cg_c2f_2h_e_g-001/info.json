@@ -1,9 +1,19 @@
 {
     "uid": "SLYN",
+    "label": "A3B5C8D2E2_oC80_63_cg_c2f_2h_e_g-001",
+    "alias": "A3B5C8D2E2_oC80_63_cg_c2f_2h_e_g-001",
+    "title": "Na$_{3}$V$_{2}$(PO$_{4}$)$_{2}$F$_{3}$ (NVPF) Structure",
+    "icsd": "238515",
+    "ccdc": null,
     "prototype": "F3Na3O8P2V2",
     "prototype_tex": "F$_{3}$Na$_{3}$O$_{8}$P$_{2}$V$_{2}$",
-    "label": "A3B5C8D2E2_oC80_63_cg_c2f_2h_e_g-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "oC80",
+    "space_group_number": 63,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -47,17 +57,8 @@
         0.404,
         0.909
     ],
-    "strukturbericht": null,
-    "title": "Na$_{3}$V$_{2}$(PO$_{4}$)$_{2}$F$_{3}$ (NVPF) Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B5C8D2E2_oC80_63_cg_c2f_2h_e_g-001",
-    "number_of_species": 5,
-    "pearson_symbol": "oC80",
-    "space_group_number": 63,
-    "comments": "\\href{current_web_home_dir/A3B5C8D2E2_oC80_63_cg_c2f_2h_e_g-001}{Na$_{3}$V$_{2}$(PO$_{4}$)$_{2}$F$_{3}$} (this structure) and \\href{current_web_home_dir/A3BC8D2E2_oC64_36_3a_a_4b_b_2a-001}{NaV$_{2}$(PO$_{4}$)$_{2}$F$_{3}$} are repectively the fully charged and uncharged end points of an Na-ion positive electrode material. \n In addition to these structures, (Mukherjee, 2020) synthesized Na$_{3}$V$_{2}$(PO$_{4}$)$_{2}$F$_{3}$ in two new forms: \\href{current_web_home_dir/A3B4C8D2E2_tP76_136_fj_2i_2jk_de_j-001}{a ``flower'' arrangement, NVPF-F} and \\href{current_web_home_dir/A3B3C8D2E2_oP72_58_gh_3g_4h_ef_h-001}{a ``hollow microsphere,'' NVPF-S}. \n In the current example of fully charged Na$_{3}$V$_{2}$(PO$_{4}$)$_{2}$F$_{3}$ the Na II (8f) sites is 80\\% filled and the Na III (8f) site is 20\\% filled, giving the observed stoichiometry. \n (Bianchini, 2015) give the structure in the $Amam$ setting of space group \\#63.  We used AFLOW to transform it to the standard $Cmcm$ setting, which swaps the $a$ and $c$ axes. \n The ICSD entry for this mixes the lattice constants for a previous paper with the Wyckoff positions of the current paper.  We follow the blue entries in Supplimentary Table S1 of (Bianchini, 2015), so our results will not agree exactly with the ICSD.",
+    "legacy": false,
     "notes": "Fully charged NVPF",
-    "ccdc": null,
-    "icsd": "238515"
+    "comments": "\\href{current_web_home_dir/A3B5C8D2E2_oC80_63_cg_c2f_2h_e_g-001}{Na$_{3}$V$_{2}$(PO$_{4}$)$_{2}$F$_{3}$} (this structure) and \\href{current_web_home_dir/A3BC8D2E2_oC64_36_3a_a_4b_b_2a-001}{NaV$_{2}$(PO$_{4}$)$_{2}$F$_{3}$} are repectively the fully charged and uncharged end points of an Na-ion positive electrode material. \n In addition to these structures, (Mukherjee, 2020) synthesized Na$_{3}$V$_{2}$(PO$_{4}$)$_{2}$F$_{3}$ in two new forms: \\href{current_web_home_dir/A3B4C8D2E2_tP76_136_fj_2i_2jk_de_j-001}{a ``flower'' arrangement, NVPF-F} and \\href{current_web_home_dir/A3B3C8D2E2_oP72_58_gh_3g_4h_ef_h-001}{a ``hollow microsphere,'' NVPF-S}. \n In the current example of fully charged Na$_{3}$V$_{2}$(PO$_{4}$)$_{2}$F$_{3}$ the Na II (8f) sites is 80\\% filled and the Na III (8f) site is 20\\% filled, giving the observed stoichiometry. \n (Bianchini, 2015) give the structure in the $Amam$ setting of space group \\#63.  We used AFLOW to transform it to the standard $Cmcm$ setting, which swaps the $a$ and $c$ axes. \n The ICSD entry for this mixes the lattice constants for a previous paper with the Wyckoff positions of the current paper.  We follow the blue entries in Supplimentary Table S1 of (Bianchini, 2015), so our results will not agree exactly with the ICSD."
 }

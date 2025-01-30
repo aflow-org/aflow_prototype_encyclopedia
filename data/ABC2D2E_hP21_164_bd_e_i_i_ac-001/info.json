@@ -1,9 +1,19 @@
 {
     "uid": "1PRT",
+    "label": "ABC2D2E_hP21_164_bd_e_i_i_ac-001",
+    "alias": "ABC2D2E_hP21_164_bd_e_i_i_ac-001",
+    "title": "YCu$_{3}$(OH)$_{6}$Cl$_{3}$ Structure",
+    "icsd": "32385",
+    "ccdc": null,
     "prototype": "Cl3Cu3H6O6Y",
     "prototype_tex": "Cl$_{3}$Cu$_{3}$H$_{6}$O$_{6}$Y",
-    "label": "ABC2D2E_hP21_164_bd_e_i_i_ac-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "hP21",
+    "space_group_number": 164,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -23,17 +33,8 @@
         0.1899,
         0.8624
     ],
-    "strukturbericht": null,
-    "title": "YCu$_{3}$(OH)$_{6}$Cl$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC2D2E_hP21_164_bd_e_i_i_ac-001",
-    "number_of_species": 5,
-    "pearson_symbol": "hP21",
-    "space_group_number": 164,
-    "comments": "The Y-I (1b) site is occupied 95\\% of the time, with the other 5\\% of the yttrium atoms distributed on the Y-II (2c) sites. Thus only one of the triplet of yttrium atoms in the picture will be occupied at any one time, and most of the time it will be the central atom. \n  (Zorko, 2019) give positions for the oxygen atoms which are not consistent with the (6i) Wyckoff positions.  As the difference is slight, we assume that the $x$ and $z$ coordinates are correct and generate the $y$ coordinate from the symmetry operations for the (6i) positions. \n The ICSD entry for this paper instead tries to solve the problem by placing the oxygen atoms on a half-filled (12j) site.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "32385"
+    "comments": "The Y-I (1b) site is occupied 95\\% of the time, with the other 5\\% of the yttrium atoms distributed on the Y-II (2c) sites. Thus only one of the triplet of yttrium atoms in the picture will be occupied at any one time, and most of the time it will be the central atom. \n  (Zorko, 2019) give positions for the oxygen atoms which are not consistent with the (6i) Wyckoff positions.  As the difference is slight, we assume that the $x$ and $z$ coordinates are correct and generate the $y$ coordinate from the symmetry operations for the (6i) positions. \n The ICSD entry for this paper instead tries to solve the problem by placing the oxygen atoms on a half-filled (12j) site."
 }

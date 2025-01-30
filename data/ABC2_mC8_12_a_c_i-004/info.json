@@ -1,9 +1,19 @@
 {
     "uid": "9GYS",
+    "label": "ABC2_mC8_12_a_c_i-004",
+    "alias": "ABC2_mC8_12_a_c_i-004",
+    "title": "Monoclinic NaNiO$_{2}$ Structure",
+    "icsd": "415072",
+    "ccdc": null,
     "prototype": "NaNiO2",
     "prototype_tex": "NaNiO$_{2}$",
-    "label": "ABC2_mC8_12_a_c_i-004",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mC8",
+    "space_group_number": 12,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -19,17 +29,8 @@
         0.9117,
         0.1963
     ],
-    "strukturbericht": null,
-    "title": "Monoclinic NaNiO$_{2}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC2_mC8_12_a_c_i-004",
-    "number_of_species": 3,
-    "pearson_symbol": "mC8",
-    "space_group_number": 12,
-    "comments": "Above 220$^{\\circ}$C NaNiO$_{2}$ transforms into the rhombohedral \\href{current_web_home_dir/ABC2_hR4_166_a_b_c-010}{LiNiO$_{2}$ structure} (Dyer, 1954). \n The AFLOW label algorithm switches the nickel atom from the (2d) Wyckoff position to the (2c) site.  This requires a shift of the lattice vector $\\vec{a}_{3} \\rightarrow \\vec{a}_{3} - \\vec{a}_{1}$.",
+    "legacy": false,
     "notes": "monoclinic",
-    "ccdc": null,
-    "icsd": "415072"
+    "comments": "Above 220$^{\\circ}$C NaNiO$_{2}$ transforms into the rhombohedral \\href{current_web_home_dir/ABC2_hR4_166_a_b_c-010}{LiNiO$_{2}$ structure} (Dyer, 1954). \n The AFLOW label algorithm switches the nickel atom from the (2d) Wyckoff position to the (2c) site.  This requires a shift of the lattice vector $\\vec{a}_{3} \\rightarrow \\vec{a}_{3} - \\vec{a}_{1}$."
 }

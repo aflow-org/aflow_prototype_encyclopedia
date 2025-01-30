@@ -1,9 +1,19 @@
 {
     "uid": "N4MV",
+    "label": "A2BC4_tP28_130_f_c_g-001",
+    "alias": "A2BC4_tP28_130_f_c_g",
+    "title": "CuBi$_{2}$O$_{4}$ Structure",
+    "icsd": "15865",
+    "ccdc": null,
     "prototype": "Bi2CuO4",
     "prototype_tex": "Bi$_{2}$CuO$_{4}$",
-    "label": "A2BC4_tP28_130_f_c_g-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP28",
+    "space_group_number": 130,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -21,17 +31,8 @@
         0.136,
         0.597
     ],
-    "strukturbericht": null,
-    "title": "CuBi$_{2}$O$_{4}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC4_tP28_130_f_c_g",
-    "number_of_species": 3,
-    "pearson_symbol": "tP28",
-    "space_group_number": 130,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "15865"
+    "comments": null
 }

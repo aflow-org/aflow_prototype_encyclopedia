@@ -1,9 +1,19 @@
 {
     "uid": "FUUU",
+    "label": "AB2_tI48_142_d_ef-001",
+    "alias": "AB2_tI48_142_d_ef-001",
+    "title": "$\\alpha$-PdSn$_{2}$ Structure",
+    "icsd": "30235",
+    "ccdc": null,
     "prototype": "PdSn2",
     "prototype_tex": "PdSn$_{2}$",
-    "label": "AB2_tI48_142_d_ef-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tI48",
+    "space_group_number": 142,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -17,17 +27,8 @@
         0.2473,
         0.15839
     ],
-    "strukturbericht": null,
-    "title": "$\\alpha$-PdSn$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2_tI48_142_d_ef-001",
-    "number_of_species": 2,
-    "pearson_symbol": "tI48",
-    "space_group_number": 142,
-    "comments": "This structure is stable up to 600$^\\circ$C. (Villars, 2016) \n PdSn$_{2}$ has also been found in the \\href{current_web_home_dir/AB2_oC24_41_2a_2b-001}{orthorhombic $C_{e}$ structure}. \n The ICSD entry is from (Hellner, 1956), but we use the refined data from (K\\\"{u}nnen, 2000) for this presentation.",
+    "legacy": false,
     "notes": "$\\alpha$-PdSn$_{2}$",
-    "ccdc": null,
-    "icsd": "30235"
+    "comments": "This structure is stable up to 600$^\\circ$C. (Villars, 2016) \n PdSn$_{2}$ has also been found in the \\href{current_web_home_dir/AB2_oC24_41_2a_2b-001}{orthorhombic $C_{e}$ structure}. \n The ICSD entry is from (Hellner, 1956), but we use the refined data from (K\\\"{u}nnen, 2000) for this presentation."
 }

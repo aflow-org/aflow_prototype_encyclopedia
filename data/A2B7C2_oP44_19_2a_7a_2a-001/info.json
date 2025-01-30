@@ -1,9 +1,19 @@
 {
     "uid": "TYGX",
+    "label": "A2B7C2_oP44_19_2a_7a_2a-001",
+    "alias": "A2B7C2_oP44_19_2a_7a_2a-001",
+    "title": "Nd$_{2}$Si$_{2}$O$_{7}$ Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "Nd2O7Si2",
     "prototype_tex": "Nd$_{2}$O$_{7}$Si$_{2}$",
-    "label": "A2B7C2_oP44_19_2a_7a_2a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP44",
+    "space_group_number": 19,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -79,17 +89,8 @@
         0.4748,
         0.9982
     ],
-    "strukturbericht": null,
-    "title": "Nd$_{2}$Si$_{2}$O$_{7}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B7C2_oP44_19_2a_7a_2a-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oP44",
-    "space_group_number": 19,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "none"
+    "comments": null
 }

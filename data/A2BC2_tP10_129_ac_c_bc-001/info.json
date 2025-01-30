@@ -1,9 +1,19 @@
 {
     "uid": "H0MM",
+    "label": "A2BC2_tP10_129_ac_c_bc-001",
+    "alias": "A2BC2_tP10_129_ac_c_bc",
+    "title": "CaBe$_{2}$Ge$_{2}$ Structure",
+    "icsd": "25337",
+    "ccdc": null,
     "prototype": "Be2CaGe2",
     "prototype_tex": "Be$_{2}$CaGe$_{2}$",
-    "label": "A2BC2_tP10_129_ac_c_bc-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP10",
+    "space_group_number": 129,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -17,17 +27,8 @@
         0.249,
         0.868
     ],
-    "strukturbericht": null,
-    "title": "CaBe$_{2}$Ge$_{2}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC2_tP10_129_ac_c_bc",
-    "number_of_species": 3,
-    "pearson_symbol": "tP10",
-    "space_group_number": 129,
-    "comments": "This is a ternary form of the \\href{current_web_home_dir/A4B_tI10_139_de_a-001}{$D1_{3}$ (BaAl$_{4}$) structure}.  The atomic positions are approximately the same as in the conventional cell of BaAl$_{4}$, but the distribution of the atoms on those sites and the resulting relaxation leads to a different structure. \n Space group $P4/nmm$ \\#129 has two settings, but both have the same $z$-axis origin, so either setting will do here.  We chose our standard setting 2.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "25337"
+    "comments": "This is a ternary form of the \\href{current_web_home_dir/A4B_tI10_139_de_a-001}{$D1_{3}$ (BaAl$_{4}$) structure}.  The atomic positions are approximately the same as in the conventional cell of BaAl$_{4}$, but the distribution of the atoms on those sites and the resulting relaxation leads to a different structure. \n Space group $P4/nmm$ \\#129 has two settings, but both have the same $z$-axis origin, so either setting will do here.  We chose our standard setting 2."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "4QXQ",
+    "label": "A10B3_hP26_176_c3h_h-001",
+    "alias": "A10B3_hP26_176_c3h_h-001",
+    "title": "Cu$_{10}$Sb$_{3}$ Structure",
+    "icsd": "44480",
+    "ccdc": null,
     "prototype": "Cu10Sb3",
     "prototype_tex": "Cu$_{10}$Sb$_{3}$",
-    "label": "A10B3_hP26_176_c3h_h-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP26",
+    "space_group_number": 176,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -27,17 +37,8 @@
         0.104,
         0.741
     ],
-    "strukturbericht": null,
-    "title": "Cu$_{10}$Sb$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A10B3_hP26_176_c3h_h-001",
-    "number_of_species": 2,
-    "pearson_symbol": "hP26",
-    "space_group_number": 176,
-    "comments": "(G\\\"{u}nzel, 1958) place this structure in space group $P\\overline{3}$ \\#147 but (Cenzual, 1991) showed that all the atoms have $z$ coordinates which are are either 1/4 or 3/4. In that case there is a six-fold rotation axis, making the space group $P6_3/m$ \\#176. \n (Cenzual, 1991) also note that (G\\\"{u}nzel, 1958) list the $z$ coordinate of the (3d) copper atoms as 1/4, but as seen from the figures it must be 3/4 in their paper, and 1/4 here. ",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "44480"
+    "comments": "(G\\\"{u}nzel, 1958) place this structure in space group $P\\overline{3}$ \\#147 but (Cenzual, 1991) showed that all the atoms have $z$ coordinates which are are either 1/4 or 3/4. In that case there is a six-fold rotation axis, making the space group $P6_3/m$ \\#176. \n (Cenzual, 1991) also note that (G\\\"{u}nzel, 1958) list the $z$ coordinate of the (3d) copper atoms as 1/4, but as seen from the figures it must be 3/4 in their paper, and 1/4 here. "
 }

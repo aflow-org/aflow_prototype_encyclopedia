@@ -1,9 +1,19 @@
 {
     "uid": "QL18",
+    "label": "AB4C_hP18_180_c_k_d-001",
+    "alias": "AB4C_hP18_180_c_k_d-001",
+    "title": "Rhadophane (CePO$_{4}$) Structure",
+    "icsd": "31563",
+    "ccdc": null,
     "prototype": "CeO4P",
     "prototype_tex": "CeO$_{4}$P",
-    "label": "AB4C_hP18_180_c_k_d-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP18",
+    "space_group_number": 180,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -17,17 +27,8 @@
         0.147,
         0.36
     ],
-    "strukturbericht": null,
-    "title": "Rhadophane (CePO$_{4}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB4C_hP18_180_c_k_d-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hP18",
-    "space_group_number": 180,
-    "comments": "This structure can also be found in the enantiomorphic space group $P6_{4}22$ \\#181.",
+    "legacy": false,
     "notes": "Rhadophane",
-    "ccdc": null,
-    "icsd": "31563"
+    "comments": "This structure can also be found in the enantiomorphic space group $P6_{4}22$ \\#181."
 }

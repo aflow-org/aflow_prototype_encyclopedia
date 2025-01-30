@@ -1,9 +1,19 @@
 {
     "uid": "6LGV",
+    "label": "AB2C2_tI10_139_a_e_e-001",
+    "alias": "AB2C2_tI10_139_a_e_e-001",
+    "title": "Na$_{2}$HgO$_{2}$ Structure",
+    "icsd": "25511",
+    "ccdc": null,
     "prototype": "HgNa2O2",
     "prototype_tex": "HgNa$_{2}$O$_{2}$",
-    "label": "AB2C2_tI10_139_a_e_e-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tI10",
+    "space_group_number": 139,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -15,17 +25,8 @@
         0.325,
         0.147
     ],
-    "strukturbericht": null,
-    "title": "Na$_{2}$HgO$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2C2_tI10_139_a_e_e-001",
-    "number_of_species": 3,
-    "pearson_symbol": "tI10",
-    "space_group_number": 139,
-    "comments": "(Hoppe, 1964) give the space group as $I422$ \\#97, but the Wyckoff positions they use are consistent with $I4/mmm$ \\#139, so we use the higher symmetry space group.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "25511"
+    "comments": "(Hoppe, 1964) give the space group as $I422$ \\#97, but the Wyckoff positions they use are consistent with $I4/mmm$ \\#139, so we use the higher symmetry space group."
 }

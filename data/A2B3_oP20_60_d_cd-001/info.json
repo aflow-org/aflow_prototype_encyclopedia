@@ -1,9 +1,19 @@
 {
     "uid": "WEMD",
+    "label": "A2B3_oP20_60_d_cd-001",
+    "alias": "A2B3_oP20_60_d_cd",
+    "title": "Rh$_{2}$O$_{3}$ Structure",
+    "icsd": "15344",
+    "ccdc": null,
     "prototype": "Rh2O3",
     "prototype_tex": "Rh$_{2}$O$_{3}$",
-    "label": "A2B3_oP20_60_d_cd-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP20",
+    "space_group_number": 60,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -27,17 +37,8 @@
         0.3906,
         0.393
     ],
-    "strukturbericht": null,
-    "title": "Rh$_{2}$O$_{3}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B3_oP20_60_d_cd",
-    "number_of_species": 2,
-    "pearson_symbol": "oP20",
-    "space_group_number": 60,
-    "comments": "(Villars, 2016) gives an incorrect link for the primary reference (Parth\\'{e}, 1967).  (Downs, 2003) has the correct reference.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "15344"
+    "comments": "(Villars, 2016) gives an incorrect link for the primary reference (Parth\\'{e}, 1967).  (Downs, 2003) has the correct reference."
 }

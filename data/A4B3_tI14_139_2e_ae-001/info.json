@@ -1,9 +1,19 @@
 {
     "uid": "N44F",
+    "label": "A4B3_tI14_139_2e_ae-001",
+    "alias": "A4B3_tI14_139_2e_ae-001",
+    "title": "Ti$_{3}$Cu$_{4}$ Structure",
+    "icsd": "103134",
+    "ccdc": null,
     "prototype": "Cu4Ti3",
     "prototype_tex": "Cu$_{4}$Ti$_{3}$",
-    "label": "A4B3_tI14_139_2e_ae-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tI14",
+    "space_group_number": 139,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -17,17 +27,8 @@
         0.13,
         0.29
     ],
-    "strukturbericht": null,
-    "title": "Ti$_{3}$Cu$_{4}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B3_tI14_139_2e_ae-001",
-    "number_of_species": 2,
-    "pearson_symbol": "tI14",
-    "space_group_number": 139,
-    "comments": "When c = 7 a, z$_{2}$ = 1/7, z$_{3}$ = 3/7, and z$_{4}$ = 2/7 the atoms are on the sites of the \\href{current_web_home_dir/A_cI2_229_a-001}{bcc lattice}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "103134"
+    "comments": "When c = 7 a, z$_{2}$ = 1/7, z$_{3}$ = 3/7, and z$_{4}$ = 2/7 the atoms are on the sites of the \\href{current_web_home_dir/A_cI2_229_a-001}{bcc lattice}."
 }

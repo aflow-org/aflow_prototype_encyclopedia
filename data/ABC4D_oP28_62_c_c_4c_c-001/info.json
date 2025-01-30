@@ -1,9 +1,19 @@
 {
     "uid": "76MJ",
+    "label": "ABC4D_oP28_62_c_c_4c_c-001",
+    "alias": "ABC4D_oP28_62_c_c_4c_c-001",
+    "title": "Garavellite (FeSbBiS$_{4}$) Structure",
+    "icsd": "155236",
+    "ccdc": null,
     "prototype": "BiFeS4Sb",
     "prototype_tex": "BiFeS$_{4}$Sb",
-    "label": "ABC4D_oP28_62_c_c_4c_c-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oP28",
+    "space_group_number": 62,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -41,17 +51,8 @@
         0.14462,
         0.05404
     ],
-    "strukturbericht": null,
-    "title": "Garavellite (FeSbBiS$_{4}$) Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC4D_oP28_62_c_c_4c_c-001",
-    "number_of_species": 4,
-    "pearson_symbol": "oP28",
-    "space_group_number": 62,
-    "comments": "This is the quaternary form of the binary \\href{current_web_home_dir/A3B4_oP28_62_3c_4c-003}{Eu$_{3}$O$_{4}$} and the ternary \\href{current_web_home_dir/A2BC4_oP28_62_2c_c_4c-001}{Bi$_{2}$PbS$_{4}$}. We chose it for the prototype as it is the earliest such entry in the ICSD.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "155236"
+    "comments": "This is the quaternary form of the binary \\href{current_web_home_dir/A3B4_oP28_62_3c_4c-003}{Eu$_{3}$O$_{4}$} and the ternary \\href{current_web_home_dir/A2BC4_oP28_62_2c_c_4c-001}{Bi$_{2}$PbS$_{4}$}. We chose it for the prototype as it is the earliest such entry in the ICSD."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "VH37",
+    "label": "A2B_hP9_181_i_d-001",
+    "alias": "A2B_hP9_181_j_c",
+    "title": "$\\beta$-SiO$_{2}$ ($C8$) Structure",
+    "icsd": "26430",
+    "ccdc": null,
     "prototype": "O2Si",
     "prototype_tex": "O$_{2}$Si",
-    "label": "A2B_hP9_181_i_d-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP9",
+    "space_group_number": 181,
+    "strukturbericht": "C8",
+    "strukturbericht_tex": "$C8$",
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2"
@@ -13,18 +23,8 @@
         1.09252,
         0.2072
     ],
-    "strukturbericht": "C8",
-    "title": "$\\beta$-SiO$_{2}$ ($C8$) Structure",
-    "part": 2,
-    "legacy": false,
-    "strukturbericht_tex": "$C8$",
     "compounds": {},
-    "alias": "A2B_hP9_181_j_c",
-    "number_of_species": 2,
-    "pearson_symbol": "hP9",
-    "space_group_number": 181,
-    "comments": "This is the high-temperature structure of \\href{current_web_home_dir/A2B_hP9_152_c_a-001}{$\\alpha$-quartz}.  It can also be found in the enantiomorphic space group \\href{current_web_home_dir/A2B_hP9_180_i_d-001}{$P6_{2}22$ \\#180}. \n (Wright, 1981) put the oxygen atoms on half-filled (12k) sites, with pairs of oxygen sites separated by only 0.4{\\AA}.  We approximate the structure here by moving the oxygen atoms to fully-filled (6i) sites. \n The ICSD entry is for the $P6_{2}22$ representation of the structure.",
+    "legacy": false,
     "notes": "$C8$",
-    "ccdc": null,
-    "icsd": "26430"
+    "comments": "This is the high-temperature structure of \\href{current_web_home_dir/A2B_hP9_152_c_a-001}{$\\alpha$-quartz}.  It can also be found in the enantiomorphic space group \\href{current_web_home_dir/A2B_hP9_180_i_d-001}{$P6_{2}22$ \\#180}. \n (Wright, 1981) put the oxygen atoms on half-filled (12k) sites, with pairs of oxygen sites separated by only 0.4{\\AA}.  We approximate the structure here by moving the oxygen atoms to fully-filled (6i) sites. \n The ICSD entry is for the $P6_{2}22$ representation of the structure."
 }

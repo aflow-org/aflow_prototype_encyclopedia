@@ -1,9 +1,19 @@
 {
     "uid": "H691",
+    "label": "AB_oF8_22_a_c-001",
+    "alias": "AB_oF8_22_a_c",
+    "title": "Low temperature FeS Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "FeS",
     "prototype_tex": "FeS",
-    "label": "AB_oF8_22_a_c-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oF8",
+    "space_group_number": 22,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a"
@@ -13,17 +23,8 @@
         0.990433,
         0.937726
     ],
-    "strukturbericht": null,
-    "title": "Low temperature FeS Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_oF8_22_a_c",
-    "number_of_species": 2,
-    "pearson_symbol": "oF8",
-    "space_group_number": 22,
-    "comments": "This is the stable structure of iron sulfide below 242K.  Above that temperature it is in the \\href{current_web_home_dir/AB_cF8_216_a_c-001}{zincblende ($B3$) structure}. (Wintenberger, 1978). \n This data was taken at 81K.  We follow (Villars, 2016) and rearrange the axis, as well as reversing the positions of the iron and sulfur atoms.",
+    "legacy": false,
     "notes": "Below 242K",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "This is the stable structure of iron sulfide below 242K.  Above that temperature it is in the \\href{current_web_home_dir/AB_cF8_216_a_c-001}{zincblende ($B3$) structure}. (Wintenberger, 1978). \n This data was taken at 81K.  We follow (Villars, 2016) and rearrange the axis, as well as reversing the positions of the iron and sulfur atoms."
 }

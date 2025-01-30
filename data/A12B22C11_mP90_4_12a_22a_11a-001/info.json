@@ -1,9 +1,19 @@
 {
     "uid": "PFH2",
+    "label": "A12B22C11_mP90_4_12a_22a_11a-001",
+    "alias": "A12B22C11_mP90_4_12a_22a_11a-001",
+    "title": "D-Sucrose (C$_{12}$H$_{22}$O$_{11}$) Structure",
+    "icsd": null,
+    "ccdc": "1263571",
     "prototype": "C12H22O11",
     "prototype_tex": "C$_{12}$H$_{22}$O$_{11}$",
-    "label": "A12B22C11_mP90_4_12a_22a_11a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mP90",
+    "space_group_number": 4,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -285,17 +295,8 @@
         0.23865,
         0.03981
     ],
-    "strukturbericht": null,
-    "title": "D-Sucrose (C$_{12}$H$_{22}$O$_{11}$) Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A12B22C11_mP90_4_12a_22a_11a-001",
-    "number_of_species": 3,
-    "pearson_symbol": "mP90",
-    "space_group_number": 4,
-    "ccdc": "1263571",
-    "comments": "The full name of this compound is $\\beta$-D-Fructofuranosyl $\\alpha$-D-glucopyranoside. It is a dextrorotatory compound composed of a fructose molecule and a glucose molecule, both C$_{6}$H$_{12}$O$_{6}$, which share one oxygen atom and shed two hydrogen atoms, making the stoichiometry C$_{12}$H$_{22}$O$_{11}$. \n Since this is a \\href{../Tutorials/ChiralSpaceGroups}{chiral compound}, we could invert the structure, taking $(x,y,z) \\rightarrow (-x,-y,-z)$ and transforming D-sucrose into its enantiomer, L-sucrose ($\\beta$-L-Fructofuranosyl $\\alpha$-L-glucopyranoside) which would be levorotatory. Only D-sucrose is found in biological systems. \n We use the data in Table 4 of (Hanson, 1973).",
+    "legacy": false,
     "notes": "D-Sucrose",
-    "icsd": null
+    "comments": "The full name of this compound is $\\beta$-D-Fructofuranosyl $\\alpha$-D-glucopyranoside. It is a dextrorotatory compound composed of a fructose molecule and a glucose molecule, both C$_{6}$H$_{12}$O$_{6}$, which share one oxygen atom and shed two hydrogen atoms, making the stoichiometry C$_{12}$H$_{22}$O$_{11}$. \n Since this is a \\href{../Tutorials/ChiralSpaceGroups}{chiral compound}, we could invert the structure, taking $(x,y,z) \\rightarrow (-x,-y,-z)$ and transforming D-sucrose into its enantiomer, L-sucrose ($\\beta$-L-Fructofuranosyl $\\alpha$-L-glucopyranoside) which would be levorotatory. Only D-sucrose is found in biological systems. \n We use the data in Table 4 of (Hanson, 1973)."
 }

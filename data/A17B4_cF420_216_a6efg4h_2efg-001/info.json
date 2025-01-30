@@ -1,9 +1,19 @@
 {
     "uid": "4E2L",
+    "label": "A17B4_cF420_216_a6efg4h_2efg-001",
+    "alias": "A17B4_cF420_216_a6efg4h_2efg-001",
+    "title": "Li$_{17}$Pb$_{4}$ Structure",
+    "icsd": "107216",
+    "ccdc": null,
     "prototype": "Li17Pb4",
     "prototype_tex": "Li$_{17}$Pb$_{4}$",
-    "label": "A17B4_cF420_216_a6efg4h_2efg-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cF420",
+    "space_group_number": 216,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "x2",
         "x3",
@@ -49,17 +59,8 @@
         0.5943,
         0.2678
     ],
-    "strukturbericht": null,
-    "title": "Li$_{17}$Pb$_{4}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A17B4_cF420_216_a6efg4h_2efg-001",
-    "number_of_species": 2,
-    "pearson_symbol": "cF420",
-    "space_group_number": 216,
-    "comments": "(Goward, 2001) propose this as a replacement for the \\href{current_web_home_dir/A22B5_cF432_196_abcd6efg4h_2efg-001}{Li$_{22}$Si$_{5}$ structure}.  The change in stoichiometry is accounted for by placing extra lithium atoms on the the (4c) site $(1/4 1/4 1/4)$ and an additional (16e) site $(x x x)$, adjusting the stoichiometry to fit Li$_{21}$M$_{5}$ or Li$_{22}$M$_{5}$ as needed.  Phase diagrams quoted in (Villars, 2018) support this change.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "107216"
+    "comments": "(Goward, 2001) propose this as a replacement for the \\href{current_web_home_dir/A22B5_cF432_196_abcd6efg4h_2efg-001}{Li$_{22}$Si$_{5}$ structure}.  The change in stoichiometry is accounted for by placing extra lithium atoms on the the (4c) site $(1/4 1/4 1/4)$ and an additional (16e) site $(x x x)$, adjusting the stoichiometry to fit Li$_{21}$M$_{5}$ or Li$_{22}$M$_{5}$ as needed.  Phase diagrams quoted in (Villars, 2018) support this change."
 }

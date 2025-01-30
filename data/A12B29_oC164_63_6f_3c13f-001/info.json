@@ -1,9 +1,19 @@
 {
     "uid": "V0KX",
+    "label": "A12B29_oC164_63_6f_3c13f-001",
+    "alias": "A12B29_oC164_63_6f_3c13f-001",
+    "title": "Orthorhombic Nb$_{12}$O$_{29}$ Structure",
+    "icsd": "24089",
+    "ccdc": null,
     "prototype": "Nb12O29",
     "prototype_tex": "Nb$_{12}$O$_{29}$",
-    "label": "A12B29_oC164_63_6f_3c13f-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oC164",
+    "space_group_number": 63,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -95,17 +105,8 @@
         0.15,
         0.88
     ],
-    "strukturbericht": null,
-    "title": "Orthorhombic Nb$_{12}$O$_{29}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A12B29_oC164_63_6f_3c13f-001",
-    "number_of_species": 2,
-    "pearson_symbol": "oC164",
-    "space_group_number": 63,
-    "comments": "Nb$_{12}$O$_{29}$ is known to exist in a least two phases (Norin, 1963; Norin, 1966): \\begin{itemize} \\item \\href{current_web_home_dir/A12B29_mC82_12_6i_a14i-001}{a monoclinic phase} and \\item \\href{current_web_home_dir/A12B29_oC164_63_6f_3c13f-001}{an orthorhombic phase} (this structure). \\end{itemize} ~ \\vspace{-.25in} \n (Wadsley, 1961) earlier found that both known phases of Ti$_{2}$Nb$_{12}$O$_{29}$ are isostructural with the corresponding Nb$_{12}$O$_{29}$ phase, but as the titanium and niobium atoms are alloyed on the same site we use the binary Nb$_{12}$O$_{29}$ as the prototype. \n (Norin, 1963) gives the structure of orthorhombic Nb$_{12}$O$_{29}$ in the $Amma$ setting of space group \\#63.  We used FINDSYM to transform it to the standard $Cmcm$ setting.",
+    "legacy": false,
     "notes": "Orthorhombic Phase",
-    "ccdc": null,
-    "icsd": "24089"
+    "comments": "Nb$_{12}$O$_{29}$ is known to exist in a least two phases (Norin, 1963; Norin, 1966): \\begin{itemize} \\item \\href{current_web_home_dir/A12B29_mC82_12_6i_a14i-001}{a monoclinic phase} and \\item \\href{current_web_home_dir/A12B29_oC164_63_6f_3c13f-001}{an orthorhombic phase} (this structure). \\end{itemize} ~ \\vspace{-.25in} \n (Wadsley, 1961) earlier found that both known phases of Ti$_{2}$Nb$_{12}$O$_{29}$ are isostructural with the corresponding Nb$_{12}$O$_{29}$ phase, but as the titanium and niobium atoms are alloyed on the same site we use the binary Nb$_{12}$O$_{29}$ as the prototype. \n (Norin, 1963) gives the structure of orthorhombic Nb$_{12}$O$_{29}$ in the $Amma$ setting of space group \\#63.  We used FINDSYM to transform it to the standard $Cmcm$ setting."
 }

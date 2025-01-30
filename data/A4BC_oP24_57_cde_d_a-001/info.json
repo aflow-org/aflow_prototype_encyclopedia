@@ -1,9 +1,19 @@
 {
     "uid": "JM5X",
+    "label": "A4BC_oP24_57_cde_d_a-001",
+    "alias": "A4BC_oP24_57_cde_d_a",
+    "title": "SrUO$_{4}$ Structure",
+    "icsd": "23196",
+    "ccdc": null,
     "prototype": "O4SrU",
     "prototype_tex": "O$_{4}$SrU",
-    "label": "A4BC_oP24_57_cde_d_a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP24",
+    "space_group_number": 57,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -29,17 +39,8 @@
         0.9193,
         0.081
     ],
-    "strukturbericht": null,
-    "title": "SrUO$_{4}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4BC_oP24_57_cde_d_a",
-    "number_of_species": 3,
-    "pearson_symbol": "oP24",
-    "space_group_number": 57,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "23196"
+    "comments": null
 }

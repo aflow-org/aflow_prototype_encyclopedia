@@ -1,9 +1,19 @@
 {
     "uid": "5EPG",
+    "label": "A3B_hP24_151_3c_2a-001",
+    "alias": "A3B_hP24_151_3c_2a",
+    "title": "CrCl$_{3}$ ($D0_{4}$) Structure",
+    "icsd": "33578",
+    "ccdc": null,
     "prototype": "Cl3Cr",
     "prototype_tex": "Cl$_{3}$Cr",
-    "label": "A3B_hP24_151_3c_2a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP24",
+    "space_group_number": 151,
+    "strukturbericht": "D0_4",
+    "strukturbericht_tex": "$D0_{4}$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -33,18 +43,8 @@
         0.77778,
         0.0731033
     ],
-    "strukturbericht": "D0_4",
-    "title": "CrCl$_{3}$ ($D0_{4}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$D0_{4}$",
     "compounds": {},
-    "alias": "A3B_hP24_151_3c_2a",
-    "number_of_species": 2,
-    "pearson_symbol": "hP24",
-    "space_group_number": 151,
-    "comments": "This structure may also be found in the enantiomorphic space group \\href{current_web_home_dir/A3B_hP24_153_3c_2a-001}{$P3_{2}12$ \\#153}. The ICSD entry for this structure is in that space group.",
+    "legacy": false,
     "notes": "$D0_{4}$",
-    "ccdc": null,
-    "icsd": "33578"
+    "comments": "This structure may also be found in the enantiomorphic space group \\href{current_web_home_dir/A3B_hP24_153_3c_2a-001}{$P3_{2}12$ \\#153}. The ICSD entry for this structure is in that space group."
 }

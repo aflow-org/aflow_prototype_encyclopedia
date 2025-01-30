@@ -1,9 +1,19 @@
 {
     "uid": "2HE4",
+    "label": "AB11C3D_mC128_15_f_ae10f_3f_f-001",
+    "alias": "AB11C3D_mC128_15_f_ae10f_3f_f-001",
+    "title": "MoP$_{3}$SiO$_{11}$ (Monoclinic Model) Structure",
+    "icsd": "202450",
+    "ccdc": null,
     "prototype": "MoO11P3Si",
     "prototype_tex": "MoO$_{11}$P$_{3}$Si",
-    "label": "AB11C3D_mC128_15_f_ae10f_3f_f-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "mC128",
+    "space_group_number": 15,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -107,17 +117,8 @@
         7e-05,
         0.61853
     ],
-    "strukturbericht": null,
-    "title": "MoP$_{3}$SiO$_{11}$ (Monoclinic Model) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB11C3D_mC128_15_f_ae10f_3f_f-001",
-    "number_of_species": 4,
-    "pearson_symbol": "mC128",
-    "space_group_number": 15,
-    "comments": "(Leclaire, 1987) originally proposed that MoP$_{3}$SiO$_{11}$ was in \\href{current_web_home_dir/AB11C3D_mC128_15_f_ae10f_3f_f-001}{the monoclinic structure shown here}.  Later, (Badrtdinov, 2021) placed the compound in the \\href{current_web_home_dir/AB11C3D_hR64_167_c_be3f_f_c-001}{rhombohedral $R\\overline{3}c$ \\#167 space group}.  When we allow a 0.1{\\AA} uncertainty in the atomic positions the monoclinic structure reduces to the rhombohedral structure.  Given this ambiguity we retain both structures in the library.",
+    "legacy": false,
     "notes": "Monoclinic Model",
-    "ccdc": null,
-    "icsd": "202450"
+    "comments": "(Leclaire, 1987) originally proposed that MoP$_{3}$SiO$_{11}$ was in \\href{current_web_home_dir/AB11C3D_mC128_15_f_ae10f_3f_f-001}{the monoclinic structure shown here}.  Later, (Badrtdinov, 2021) placed the compound in the \\href{current_web_home_dir/AB11C3D_hR64_167_c_be3f_f_c-001}{rhombohedral $R\\overline{3}c$ \\#167 space group}.  When we allow a 0.1{\\AA} uncertainty in the atomic positions the monoclinic structure reduces to the rhombohedral structure.  Given this ambiguity we retain both structures in the library."
 }

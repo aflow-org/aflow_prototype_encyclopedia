@@ -1,9 +1,19 @@
 {
     "uid": "69FP",
+    "label": "ABC2_mC96_15_2e2f_3f_6f-001",
+    "alias": "ABC2_mC96_15_2e2f_3f_6f-001",
+    "title": "Smithite (AgAsS$_{2}$) Structure",
+    "icsd": "64984",
+    "ccdc": null,
     "prototype": "AgAsS2",
     "prototype_tex": "AgAsS$_{2}$",
-    "label": "ABC2_mC96_15_2e2f_3f_6f-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mC96",
+    "space_group_number": 15,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -85,17 +95,8 @@
         0.305,
         0.0725
     ],
-    "strukturbericht": null,
-    "title": "Smithite (AgAsS$_{2}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC2_mC96_15_2e2f_3f_6f-001",
-    "number_of_species": 3,
-    "pearson_symbol": "mC96",
-    "space_group_number": 15,
-    "comments": "AgAsS$_{2}$ also occurs as \\href{current_web_home_dir/ABC2_hR24_148_f_f_2f-001}{rhombohedral trechmannite}. \n (Hellner, 1964) gives the structural information in the $A2/a$ setting of space group \\#15.  We used FINDSYM to transform this to the standard $C2/c$ setting.",
+    "legacy": false,
     "notes": "Smithite",
-    "ccdc": null,
-    "icsd": "64984"
+    "comments": "AgAsS$_{2}$ also occurs as \\href{current_web_home_dir/ABC2_hR24_148_f_f_2f-001}{rhombohedral trechmannite}. \n (Hellner, 1964) gives the structural information in the $A2/a$ setting of space group \\#15.  We used FINDSYM to transform this to the standard $C2/c$ setting."
 }

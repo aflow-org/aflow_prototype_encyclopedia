@@ -1,9 +1,19 @@
 {
     "uid": "3VYE",
+    "label": "A_cP240_205_10d-001",
+    "alias": "A_cP240_205_10d",
+    "title": "Simple Cubic C$_{60}$ Buckminsterfullerene Structure",
+    "icsd": "66729",
+    "ccdc": null,
     "prototype": "C",
     "prototype_tex": "C",
-    "label": "A_cP240_205_10d-001",
-    "parameter_symbol": [
+    "number_of_species": 1,
+    "pearson_symbol": "cP240",
+    "space_group_number": 205,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "x1",
         "y1",
@@ -69,17 +79,8 @@
         0.8207,
         0.1186
     ],
-    "strukturbericht": null,
-    "title": "Simple Cubic C$_{60}$ Buckminsterfullerene Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A_cP240_205_10d",
-    "number_of_species": 1,
-    "pearson_symbol": "cP240",
-    "space_group_number": 205,
-    "comments": "This is the experimentally determined structure of C$_{60}$ buckminsterfullerene ({\\em aka} ``buckyballs'') below 249K. Above that temperature the C$_{60}$ molecules are orientationally disordered and set on a face-centered cubic lattice. For computational purposes that structure is approximated by the \\href{current_web_home_dir/A_cF240_202_h2i-001}{FCC C$_{60}$ buckminsterfullerene structure}.",
+    "legacy": false,
     "notes": "Buckminsterfullerene",
-    "ccdc": null,
-    "icsd": "66729"
+    "comments": "This is the experimentally determined structure of C$_{60}$ buckminsterfullerene ({\\em aka} ``buckyballs'') below 249K. Above that temperature the C$_{60}$ molecules are orientationally disordered and set on a face-centered cubic lattice. For computational purposes that structure is approximated by the \\href{current_web_home_dir/A_cF240_202_h2i-001}{FCC C$_{60}$ buckminsterfullerene structure}."
 }

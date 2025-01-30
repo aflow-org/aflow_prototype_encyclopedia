@@ -1,9 +1,19 @@
 {
     "uid": "3J3M",
+    "label": "A5B3_mP32_13_ef4g_ab2g-001",
+    "alias": "A5B3_mP32_13_ef4g_ab2g-001",
+    "title": "Room Temperature V$_{3}$O$_{5}$ Structure",
+    "icsd": "16445",
+    "ccdc": null,
     "prototype": "O5V3",
     "prototype_tex": "O$_{5}$V$_{3}$",
-    "label": "A5B3_mP32_13_ef4g_ab2g-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mP32",
+    "space_group_number": 13,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -55,17 +65,8 @@
         0.99659,
         0.53775
     ],
-    "strukturbericht": null,
-    "title": "Room Temperature V$_{3}$O$_{5}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A5B3_mP32_13_ef4g_ab2g-001",
-    "number_of_species": 2,
-    "pearson_symbol": "mP32",
-    "space_group_number": 13,
-    "comments": "This is the ground state structure of V$_{3}$O$_{5}$.  In the range 423-433K it transforms into \\href{current_web_home_dir/A5B3_mC32_15_e2f_af-003}{oxyvanite}, which is metastable at room temperature (Armbruster, 2009).  V$_{3}$O$_{5}$ can also be found in the metastable form of anosovite, which has the \\href{current_web_home_dir/A2B5C_oC32_63_f_c2f_c-001}{Fe$_{2}$TiO$_{5}$ ($E4_{1}$) structure} (Weber, 2012). \n ({\\AA}sbrink, 1980) places the first two types of vanadium atoms on the (2c) and (2d) Wyckoff positions of space group $P2/c$ \\#13.  We shifted the origin so that these atoms are on the (2a) and (2b) sites.",
+    "legacy": false,
     "notes": "RT",
-    "ccdc": null,
-    "icsd": "16445"
+    "comments": "This is the ground state structure of V$_{3}$O$_{5}$.  In the range 423-433K it transforms into \\href{current_web_home_dir/A5B3_mC32_15_e2f_af-003}{oxyvanite}, which is metastable at room temperature (Armbruster, 2009).  V$_{3}$O$_{5}$ can also be found in the metastable form of anosovite, which has the \\href{current_web_home_dir/A2B5C_oC32_63_f_c2f_c-001}{Fe$_{2}$TiO$_{5}$ ($E4_{1}$) structure} (Weber, 2012). \n ({\\AA}sbrink, 1980) places the first two types of vanadium atoms on the (2c) and (2d) Wyckoff positions of space group $P2/c$ \\#13.  We shifted the origin so that these atoms are on the (2a) and (2b) sites."
 }

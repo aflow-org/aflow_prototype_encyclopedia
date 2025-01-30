@@ -1,9 +1,19 @@
 {
     "uid": "T7TZ",
+    "label": "AB2C4_mC28_8_2a_4a_4a2b-001",
+    "alias": "AB2C4_mC28_8_2a_4a_4a2b-001",
+    "title": "Base-Centered Monoclinic La$_{2}$CuO$_{4}$ Structure",
+    "icsd": "155497",
+    "ccdc": null,
     "prototype": "CuLa2O4",
     "prototype_tex": "CuLa$_{2}$O$_{4}$",
-    "label": "AB2C4_mC28_8_2a_4a_4a2b-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mC28",
+    "space_group_number": 8,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -67,17 +77,8 @@
         0.25,
         0.7496
     ],
-    "strukturbericht": null,
-    "title": "Base-Centered Monoclinic La$_{2}$CuO$_{4}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2C4_mC28_8_2a_4a_4a2b-001",
-    "number_of_species": 3,
-    "pearson_symbol": "mC28",
-    "space_group_number": 8,
-    "comments": "We have found three possible structures for La$_{2}$CuO$_{4}$, the parent compound of the high-temperature cuprate superconductors.  All are distortions of the tetragonal \\href{current_web_home_dir/A4B2C_tI14_139_ce_e_a-001}{K$_{2}$NiF$_{4}$}/\\href{current_web_home_dir/AB2C4_tI14_139_a_e_ce-001}{0201 [(La,Ba)$_{2}$CuO$_{4}$] High-T$_{c}$ Structure}, and reduce to that structure with doping of the lanthanum site: \\begin{itemize} \\item (Longo, 1973) proposed a \\href{current_web_home_dir/AB2C4_oF28_69_a_g_cg-001}{face-centered orthorhombic structure}. \\item Later other workers, including (Reehuis, 2006) and references therein, proposed a \\href{current_web_home_dir/AB2C4_oC28_64_a_f_ef-003}{base-centered orthorhombic structure}. \\item (Reehuis, 2006) found that this \\href{current_web_home_dir/AB2C4_mC28_8_2a_4a_4a2b-001}{base-centered monoclinic structure} was a better fit to their neutron diffraction data. \\end{itemize} ~ \\vspace{-.25in} \n As the two orthorhombic structures are both referenced in the literature, we present them, as well as the more recent monoclinic structure. \n (Reehuis, 2006) gave the structure of the monoclinic phase in the $Bm$, unique axis $a$, setting of space group \\#8.  We used FINDSYM to transform it to the standard $Cm$, unique axis $b$ setting. Although they never give a value, we assume $\\alpha = 90^{\\circ}$, as the other lattice parameters are the same as in the $Cmca$ phase. \n (Rehuis, 2006) made several mistakes in the labeling of the Wyckoff positions in the $Bm11$ section of Table I: \\begin{itemize} \\item The copper sites labeled (4a) are actually (2a). \\item The oxygen sites labeled (4a) are actually (4b). \\end{itemize}",
+    "legacy": false,
     "notes": "BCM La$_{2}$CuO$_{4}$",
-    "ccdc": null,
-    "icsd": "155497"
+    "comments": "We have found three possible structures for La$_{2}$CuO$_{4}$, the parent compound of the high-temperature cuprate superconductors.  All are distortions of the tetragonal \\href{current_web_home_dir/A4B2C_tI14_139_ce_e_a-001}{K$_{2}$NiF$_{4}$}/\\href{current_web_home_dir/AB2C4_tI14_139_a_e_ce-001}{0201 [(La,Ba)$_{2}$CuO$_{4}$] High-T$_{c}$ Structure}, and reduce to that structure with doping of the lanthanum site: \\begin{itemize} \\item (Longo, 1973) proposed a \\href{current_web_home_dir/AB2C4_oF28_69_a_g_cg-001}{face-centered orthorhombic structure}. \\item Later other workers, including (Reehuis, 2006) and references therein, proposed a \\href{current_web_home_dir/AB2C4_oC28_64_a_f_ef-003}{base-centered orthorhombic structure}. \\item (Reehuis, 2006) found that this \\href{current_web_home_dir/AB2C4_mC28_8_2a_4a_4a2b-001}{base-centered monoclinic structure} was a better fit to their neutron diffraction data. \\end{itemize} ~ \\vspace{-.25in} \n As the two orthorhombic structures are both referenced in the literature, we present them, as well as the more recent monoclinic structure. \n (Reehuis, 2006) gave the structure of the monoclinic phase in the $Bm$, unique axis $a$, setting of space group \\#8.  We used FINDSYM to transform it to the standard $Cm$, unique axis $b$ setting. Although they never give a value, we assume $\\alpha = 90^{\\circ}$, as the other lattice parameters are the same as in the $Cmca$ phase. \n (Rehuis, 2006) made several mistakes in the labeling of the Wyckoff positions in the $Bm11$ section of Table I: \\begin{itemize} \\item The copper sites labeled (4a) are actually (2a). \\item The oxygen sites labeled (4a) are actually (4b). \\end{itemize}"
 }

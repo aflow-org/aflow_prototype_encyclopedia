@@ -1,9 +1,19 @@
 {
     "uid": "WYVV",
+    "label": "A7B2_cF144_227_2ef_e-001",
+    "alias": "A7B2_cF144_227_2ef_e-001",
+    "title": "Dy$_{5}$Pd$_{2}$ Structure",
+    "icsd": "103347",
+    "ccdc": null,
     "prototype": "Dy5Pd2",
     "prototype_tex": "Dy$_{5}$Pd$_{2}$",
-    "label": "A7B2_cF144_227_2ef_e-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cF144",
+    "space_group_number": 227,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "x1",
         "x2",
@@ -17,17 +27,8 @@
         0.7275,
         0.3111
     ],
-    "strukturbericht": null,
-    "title": "Dy$_{5}$Pd$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A7B2_cF144_227_2ef_e-001",
-    "number_of_species": 2,
-    "pearson_symbol": "cF144",
-    "space_group_number": 227,
-    "comments": "There is considerable disorder in this structure, with all of the (32e) sites having vacancies: \\begin{itemize} \\item The Dy-I site is 50\\% occupied. \\item The Dy-II site is 12.5\\% occupied \\item The Pd site is 87.5\\% occupied. \\end{itemize} ~ \\vspace{-.25in} \n This gives a composition of Dy$_{2.43}$Pd.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "103347"
+    "comments": "There is considerable disorder in this structure, with all of the (32e) sites having vacancies: \\begin{itemize} \\item The Dy-I site is 50\\% occupied. \\item The Dy-II site is 12.5\\% occupied \\item The Pd site is 87.5\\% occupied. \\end{itemize} ~ \\vspace{-.25in} \n This gives a composition of Dy$_{2.43}$Pd."
 }

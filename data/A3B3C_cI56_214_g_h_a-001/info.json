@@ -1,9 +1,19 @@
 {
     "uid": "4XVN",
+    "label": "A3B3C_cI56_214_g_h_a-001",
+    "alias": "A3B3C_cI56_214_g_h_a",
+    "title": "Ca$_{3}$PI$_{3}$ Structure",
+    "icsd": "9026",
+    "ccdc": null,
     "prototype": "Ca3I3P",
     "prototype_tex": "Ca$_{3}$I$_{3}$P",
-    "label": "A3B3C_cI56_214_g_h_a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cI56",
+    "space_group_number": 214,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "y2",
         "y3"
@@ -13,17 +23,8 @@
         0.108,
         0.384
     ],
-    "strukturbericht": null,
-    "title": "Ca$_{3}$PI$_{3}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B3C_cI56_214_g_h_a",
-    "number_of_species": 3,
-    "pearson_symbol": "cI56",
-    "space_group_number": 214,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "9026"
+    "comments": null
 }

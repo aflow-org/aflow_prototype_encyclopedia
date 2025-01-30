@@ -1,9 +1,19 @@
 {
     "uid": "3HAW",
+    "label": "AB5C_oP28_54_c_cdef_d-001",
+    "alias": "AB5C_oP28_54_c_cdef_d-001",
+    "title": "UMoO$_{5}$ Structure",
+    "icsd": "82460",
+    "ccdc": null,
     "prototype": "MoO5U",
     "prototype_tex": "MoO$_{5}$U",
-    "label": "AB5C_oP28_54_c_cdef_d-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP28",
+    "space_group_number": 54,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -29,17 +39,8 @@
         0.002,
         0.0994
     ],
-    "strukturbericht": null,
-    "title": "UMoO$_{5}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB5C_oP28_54_c_cdef_d-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oP28",
-    "space_group_number": 54,
-    "comments": "(D'yachenko, 1996) present the structure in the $Pbaa$ setting of space group \\#54.  We used FINDSYM to transform this into the standard $Pcca$ setting.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "82460"
+    "comments": "(D'yachenko, 1996) present the structure in the $Pbaa$ setting of space group \\#54.  We used FINDSYM to transform this into the standard $Pcca$ setting."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "7QNH",
+    "label": "AB2C3_oP24_62_c_d_cd-001",
+    "alias": "AB2C3_oP24_62_c_d_cd",
+    "title": "Cubanite (CuFe$_{2}$S$_{3}$, $E9_{e}$) Structure",
+    "icsd": "42104",
+    "ccdc": null,
     "prototype": "CuFe2S3",
     "prototype_tex": "CuFe$_{2}$S$_{3}$",
-    "label": "AB2C3_oP24_62_c_d_cd-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP24",
+    "space_group_number": 62,
+    "strukturbericht": "E9_e",
+    "strukturbericht_tex": "$E9_{e}$",
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -33,18 +43,8 @@
         0.0846,
         0.912
     ],
-    "strukturbericht": "E9_e",
-    "title": "Cubanite (CuFe$_{2}$S$_{3}$, $E9_{e}$) Structure",
-    "part": 2,
-    "legacy": false,
-    "strukturbericht_tex": "$E9_{e}$",
     "compounds": {},
-    "alias": "AB2C3_oP24_62_c_d_cd",
-    "number_of_species": 3,
-    "pearson_symbol": "oP24",
-    "space_group_number": 62,
-    "comments": "(Syma\\'{n}ski, 1974) uses the $Pcmn$ orientation of space group \\#62 to describe this structure.  We have swapped the $\\hat{{\\bf x}}$ and $\\hat{\\bf{z}}$ axis to transform this into the standard $Pnma$ orientation.",
+    "legacy": false,
     "notes": "$E9_{e}$, Cubanite",
-    "ccdc": null,
-    "icsd": "42104"
+    "comments": "(Syma\\'{n}ski, 1974) uses the $Pcmn$ orientation of space group \\#62 to describe this structure.  We have swapped the $\\hat{{\\bf x}}$ and $\\hat{\\bf{z}}$ axis to transform this into the standard $Pnma$ orientation."
 }

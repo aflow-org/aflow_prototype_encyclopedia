@@ -1,9 +1,19 @@
 {
     "uid": "1Q2N",
+    "label": "A3B2C5_mC40_15_ef_f_3ef-001",
+    "alias": "A3B2C5_mC40_15_ef_f_3ef-001",
+    "title": "Lu$_{2}$Co$_{3}$Si$_{5}$ Structure",
+    "icsd": "76349",
+    "ccdc": null,
     "prototype": "Co3Lu2Si5",
     "prototype_tex": "Co$_{3}$Lu$_{2}$Si$_{5}$",
-    "label": "A3B2C5_mC40_15_ef_f_3ef-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mC40",
+    "space_group_number": 15,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -41,17 +51,8 @@
         0.652,
         0.6654
     ],
-    "strukturbericht": null,
-    "title": "Lu$_{2}$Co$_{3}$Si$_{5}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B2C5_mC40_15_ef_f_3ef-001",
-    "number_of_species": 3,
-    "pearson_symbol": "mC40",
-    "space_group_number": 15,
-    "comments": "This is a monoclinic distortion of the \\href{current_web_home_dir/A3B5C2_oI40_72_aj_bfj_j-001}{orthorhombic U$_{2}$Co$_{3}$Si$_{5}$ structure}. (Chabot, 1985)",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "76349"
+    "comments": "This is a monoclinic distortion of the \\href{current_web_home_dir/A3B5C2_oI40_72_aj_bfj_j-001}{orthorhombic U$_{2}$Co$_{3}$Si$_{5}$ structure}. (Chabot, 1985)"
 }

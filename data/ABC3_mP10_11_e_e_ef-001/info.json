@@ -1,9 +1,19 @@
 {
     "uid": "RT35",
+    "label": "ABC3_mP10_11_e_e_ef-001",
+    "alias": "ABC3_mP10_11_e_e_ef",
+    "title": "KClO$_{3}$ ($G0_{6}$) Structure",
+    "icsd": "26408",
+    "ccdc": null,
     "prototype": "ClKO3",
     "prototype_tex": "ClKO$_{3}$",
-    "label": "ABC3_mP10_11_e_e_ef-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mP10",
+    "space_group_number": 11,
+    "strukturbericht": "G0_6",
+    "strukturbericht_tex": "$G0_{6}$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -33,18 +43,8 @@
         0.4639,
         0.6943
     ],
-    "strukturbericht": "G0_6",
-    "title": "KClO$_{3}$ ($G0_{6}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$G0_{6}$",
     "compounds": {},
-    "alias": "ABC3_mP10_11_e_e_ef",
-    "number_of_species": 3,
-    "pearson_symbol": "mP10",
-    "space_group_number": 11,
+    "legacy": false,
     "notes": "$G0_{6}$",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "26408"
+    "comments": null
 }

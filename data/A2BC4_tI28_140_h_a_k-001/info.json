@@ -1,9 +1,19 @@
 {
     "uid": "VENL",
+    "label": "A2BC4_tI28_140_h_a_k-001",
+    "alias": "A2BC4_tI28_140_h_a_k",
+    "title": "V$_{4}$SiSb$_{2}$ Structure",
+    "icsd": "82564",
+    "ccdc": null,
     "prototype": "Sb2SiV4",
     "prototype_tex": "Sb$_{2}$SiV$_{4}$",
-    "label": "A2BC4_tI28_140_h_a_k-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tI28",
+    "space_group_number": 140,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -17,17 +27,8 @@
         0.0852,
         0.20674
     ],
-    "strukturbericht": null,
-    "title": "V$_{4}$SiSb$_{2}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC4_tI28_140_h_a_k",
-    "number_of_species": 3,
-    "pearson_symbol": "tI28",
-    "space_group_number": 140,
-    "comments": "This is the ternary version of the \\href{current_web_home_dir/AB6_tI28_140_a_hk-001}{$D2_{c}$ U$_{6}$Mn structure}.  This can also be identified as a version of the \\href{current_web_home_dir/A3B5_tI32_140_ah_bk-001}{$D8_{m}$ W$_{5}$Si$_{3}$ structure} with defects.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "82564"
+    "comments": "This is the ternary version of the \\href{current_web_home_dir/AB6_tI28_140_a_hk-001}{$D2_{c}$ U$_{6}$Mn structure}.  This can also be identified as a version of the \\href{current_web_home_dir/A3B5_tI32_140_ah_bk-001}{$D8_{m}$ W$_{5}$Si$_{3}$ structure} with defects."
 }

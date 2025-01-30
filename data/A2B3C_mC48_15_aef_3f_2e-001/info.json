@@ -1,9 +1,19 @@
 {
     "uid": "NFQU",
+    "label": "A2B3C_mC48_15_aef_3f_2e-001",
+    "alias": "A2B3C_mC48_15_aef_3f_2e",
+    "title": "$\\alpha$-Na$_{2}$PrO$_{3}$ Structure",
+    "icsd": "154706",
+    "ccdc": null,
     "prototype": "Na2O3Pr",
     "prototype_tex": "Na$_{2}$O$_{3}$Pr",
-    "label": "A2B3C_mC48_15_aef_3f_2e-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mC48",
+    "space_group_number": 15,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -45,17 +55,8 @@
         0.861,
         0.143
     ],
-    "strukturbericht": null,
-    "title": "$\\alpha$-Na$_{2}$PrO$_{3}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B3C_mC48_15_aef_3f_2e",
-    "number_of_species": 3,
-    "pearson_symbol": "mC48",
-    "space_group_number": 15,
-    "comments": "Na$_{2}$PrO$_{3}$ can be found in three forms (Okuma, 2024): \\begin{itemize} \\item As \\href{current_web_home_dir/A2B3C_mC48_15_aef_3f_2e-001}{monoclinic $\\alpha$-Na$_{2}$PrO$_{3}$} (this structure), \\item As orthorhombic $\\beta$-Na$_{2}$PrO$_{3}$, in the \\href{current_web_home_dir/A2B3C_oF96_70_2e_fh_e-001}{$\\beta$-Na$_{2}$PtO$_{3}$ structure}, or \\item As $\\gamma$-Na$_{2}$PrO$_{3}$, in the \\href{current_web_home_dir/A2B3C_oF96_70_2e_fh_e-001}{rock salt ($B1$) structure}, with the sodium and praseodymium mixed on the alkali site. \\end{itemize} ~ \\vspace{-.25in} \n (Hinatsu, 2006) found that the site we have labeled Na-II is actually 2/3 sodium and 1/3 praseodymium, statistically distributed, while the site we label Pr-I is 1/3 sodium and 2/3 praseodymium. \n Some authors use Li$_{2}$SnO$_{3}$ as the prototype for this structure.",
+    "legacy": false,
     "notes": "$\\alpha$-Na$_{2}$PrO$_{3}$",
-    "ccdc": null,
-    "icsd": "154706"
+    "comments": "Na$_{2}$PrO$_{3}$ can be found in three forms (Okuma, 2024): \\begin{itemize} \\item As \\href{current_web_home_dir/A2B3C_mC48_15_aef_3f_2e-001}{monoclinic $\\alpha$-Na$_{2}$PrO$_{3}$} (this structure), \\item As orthorhombic $\\beta$-Na$_{2}$PrO$_{3}$, in the \\href{current_web_home_dir/A2B3C_oF96_70_2e_fh_e-001}{$\\beta$-Na$_{2}$PtO$_{3}$ structure}, or \\item As $\\gamma$-Na$_{2}$PrO$_{3}$, in the \\href{current_web_home_dir/A2B3C_oF96_70_2e_fh_e-001}{rock salt ($B1$) structure}, with the sodium and praseodymium mixed on the alkali site. \\end{itemize} ~ \\vspace{-.25in} \n (Hinatsu, 2006) found that the site we have labeled Na-II is actually 2/3 sodium and 1/3 praseodymium, statistically distributed, while the site we label Pr-I is 1/3 sodium and 2/3 praseodymium. \n Some authors use Li$_{2}$SnO$_{3}$ as the prototype for this structure."
 }

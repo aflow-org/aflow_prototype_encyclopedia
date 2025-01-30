@@ -1,9 +1,19 @@
 {
     "uid": "S6UY",
+    "label": "AB_mC24_12_3i_3i-001",
+    "alias": "AB_mC24_12_3i_3i",
+    "title": "SiAs Structure",
+    "icsd": "43227",
+    "ccdc": null,
     "prototype": "AsSi",
     "prototype_tex": "AsSi",
-    "label": "AB_mC24_12_3i_3i-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC24",
+    "space_group_number": 12,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -39,17 +49,8 @@
         0.0661,
         0.5884
     ],
-    "strukturbericht": null,
-    "title": "SiAs Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_mC24_12_3i_3i",
-    "number_of_species": 2,
-    "pearson_symbol": "mC24",
-    "space_group_number": 12,
-    "comments": "The structures of GaTe and GeAs were apparently determined by (Bryden, 1965) before (Wadsten, 1965) found the structure of SiAs, but they were never published (Pearson, 1964 ; Wadsten, 1965 ; Mead, 1982).  As SiAs was the first published determination of this structure, we use it as the prototype.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "43227"
+    "comments": "The structures of GaTe and GeAs were apparently determined by (Bryden, 1965) before (Wadsten, 1965) found the structure of SiAs, but they were never published (Pearson, 1964 ; Wadsten, 1965 ; Mead, 1982).  As SiAs was the first published determination of this structure, we use it as the prototype."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "CWTN",
+    "label": "AB_tP4_129_a_c-001",
+    "alias": "AB_tP4_129_a_c",
+    "title": "Litharge (tetragonal PbO, $B10$) Structure",
+    "icsd": "62840",
+    "ccdc": null,
     "prototype": "OPb",
     "prototype_tex": "OPb",
-    "label": "AB_tP4_129_a_c-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tP4",
+    "space_group_number": 129,
+    "strukturbericht": "B10",
+    "strukturbericht_tex": "$B10$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2"
@@ -13,18 +23,8 @@
         1.26008,
         0.2368
     ],
-    "strukturbericht": "B10",
-    "title": "Litharge (tetragonal PbO, $B10$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$B10$",
     "compounds": {},
-    "alias": "AB_tP4_129_a_c",
-    "number_of_species": 2,
-    "pearson_symbol": "tP4",
-    "space_group_number": 129,
-    "comments": "This is the tetragonal room temperature form reported by (Boher, 1985), with data taken at 77.6K. They claim a transformation to the \\href{current_web_home_dir/AB_oC8_67_a_g-002}{orthorhombic $\\alpha$-PbO phase} below 77K. See the discuss of the problems with this transition on the \\href{current_web_home_dir/AB_oC8_67_a_g-002}{$\\alpha$-PbO} page. \n  This structure is the binary version of the \\href{current_web_home_dir/A_tP4_129_ac-001}{$A_{d}$ ($\\beta$-Np) structure}.",
+    "legacy": false,
     "notes": "$B10$, Litharge",
-    "ccdc": null,
-    "icsd": "62840"
+    "comments": "This is the tetragonal room temperature form reported by (Boher, 1985), with data taken at 77.6K. They claim a transformation to the \\href{current_web_home_dir/AB_oC8_67_a_g-002}{orthorhombic $\\alpha$-PbO phase} below 77K. See the discuss of the problems with this transition on the \\href{current_web_home_dir/AB_oC8_67_a_g-002}{$\\alpha$-PbO} page. \n  This structure is the binary version of the \\href{current_web_home_dir/A_tP4_129_ac-001}{$A_{d}$ ($\\beta$-Np) structure}."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "5M89",
+    "label": "AB3_hP8_194_c_bf-001",
+    "alias": "AB3_hP8_194_c_bf",
+    "title": "Na$_3$As ($D0_{18}$) Structure",
+    "icsd": "26883",
+    "ccdc": null,
     "prototype": "AsNa3",
     "prototype_tex": "AsNa$_{3}$",
-    "label": "AB3_hP8_194_c_bf-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP8",
+    "space_group_number": 194,
+    "strukturbericht": "D0_18",
+    "strukturbericht_tex": "$D0_{18}$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3"
@@ -13,18 +23,8 @@
         1.76533,
         0.583
     ],
-    "strukturbericht": "D0_18",
-    "title": "Na$_3$As ($D0_{18}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$D0_{18}$",
     "compounds": {},
-    "alias": "AB3_hP8_194_c_bf",
-    "number_of_species": 2,
-    "pearson_symbol": "hP8",
-    "space_group_number": 194,
-    "comments": "(Hafner, 1994) argue that the correct structure for Na$_{3}$As is not this one, but instead the \\href{current_web_home_dir/A3B_hP24_185_ab2c_c-001}{Cu$_{3}$P structure, A3B\\_hP24\\_185\\_ab2c\\_c}, space group $P6_{3}cm$ \\#185.",
+    "legacy": false,
     "notes": "$D0_{18}$",
-    "ccdc": null,
-    "icsd": "26883"
+    "comments": "(Hafner, 1994) argue that the correct structure for Na$_{3}$As is not this one, but instead the \\href{current_web_home_dir/A3B_hP24_185_ab2c_c-001}{Cu$_{3}$P structure, A3B\\_hP24\\_185\\_ab2c\\_c}, space group $P6_{3}cm$ \\#185."
 }

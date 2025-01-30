@@ -1,9 +1,19 @@
 {
     "uid": "29CG",
+    "label": "A2BC8_tI176_110_2b_b_8b-001",
+    "alias": "A2BC8_tI176_110_2b_b_8b",
+    "title": "Be[BH$_{4}$]$_{2}$ Structure",
+    "icsd": "10315",
+    "ccdc": null,
     "prototype": "B2BeH8",
     "prototype_tex": "B$_{2}$BeH$_{8}$",
-    "label": "A2BC8_tI176_110_2b_b_8b-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tI176",
+    "space_group_number": 110,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -77,17 +87,8 @@
         0.0899,
         0.9761
     ],
-    "strukturbericht": null,
-    "title": "Be[BH$_{4}$]$_{2}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC8_tI176_110_2b_b_8b",
-    "number_of_species": 3,
-    "pearson_symbol": "tI176",
-    "space_group_number": 110,
-    "comments": "Space group $I4_{1}cd$ \\#110 allows an arbitary placement of the $z$-axis origin, and we put a beryllium atom there by setting $z_{3} = 0$.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "10315"
+    "comments": "Space group $I4_{1}cd$ \\#110 allows an arbitary placement of the $z$-axis origin, and we put a beryllium atom there by setting $z_{3} = 0$."
 }

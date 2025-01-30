@@ -1,9 +1,19 @@
 {
     "uid": "FD0C",
+    "label": "A2B5_mC28_9_2a_5a-001",
+    "alias": "A2B5_mC28_9_2a_5a-001",
+    "title": "In$_{2}$Te$_{5}$ (I) Structure",
+    "icsd": "501",
+    "ccdc": null,
     "prototype": "In2Te5",
     "prototype_tex": "In$_{2}$Te$_{5}$",
-    "label": "A2B5_mC28_9_2a_5a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC28",
+    "space_group_number": 9,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -57,17 +67,8 @@
         0.8405,
         0.0765
     ],
-    "strukturbericht": null,
-    "title": "In$_{2}$Te$_{5}$ (I) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B5_mC28_9_2a_5a-001",
-    "number_of_species": 2,
-    "pearson_symbol": "mC28",
-    "space_group_number": 9,
-    "comments": "(Sutherland, 1976) found this structure, which we call \\href{current_web_home_dir/A2B5_mC28_9_2a_5a-001}{In$_{2}$Te$_{5}$ (I)}, but later also found evidence of another tetragonal structure in the same sample.  (Walton, 1978) investigated this new structure, which they called \\href{current_web_home_dir/A2B5_mC84_15_3f_e7f-001}{In$_{2}$Te$_{5}$ (II)}.  (Villars, 2018) and others list In$_{2}$Te$_{5}$ (I) as the room temperature structure.",
+    "legacy": false,
     "notes": "In$_{2}$Te$_{5}$ (I)",
-    "ccdc": null,
-    "icsd": "501"
+    "comments": "(Sutherland, 1976) found this structure, which we call \\href{current_web_home_dir/A2B5_mC28_9_2a_5a-001}{In$_{2}$Te$_{5}$ (I)}, but later also found evidence of another tetragonal structure in the same sample.  (Walton, 1978) investigated this new structure, which they called \\href{current_web_home_dir/A2B5_mC84_15_3f_e7f-001}{In$_{2}$Te$_{5}$ (II)}.  (Villars, 2018) and others list In$_{2}$Te$_{5}$ (I) as the room temperature structure."
 }

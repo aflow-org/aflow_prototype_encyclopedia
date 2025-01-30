@@ -1,9 +1,19 @@
 {
     "uid": "RAQG",
+    "label": "ABC2_oP16_54_c_c_f-001",
+    "alias": "ABC2_oP16_54_c_c_f-001",
+    "title": "AgClO$_{2}$ Structure",
+    "icsd": "68486",
+    "ccdc": null,
     "prototype": "AgClO2",
     "prototype_tex": "AgClO$_{2}$",
-    "label": "ABC2_oP16_54_c_c_f-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP16",
+    "space_group_number": 54,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -23,17 +33,8 @@
         0.2274,
         0.1056
     ],
-    "strukturbericht": null,
-    "title": "AgClO$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC2_oP16_54_c_c_f-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oP16",
-    "space_group_number": 54,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "68486"
+    "comments": null
 }

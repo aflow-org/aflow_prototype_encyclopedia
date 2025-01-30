@@ -1,25 +1,26 @@
 {
     "uid": "MH9E",
+    "label": "AB_cI24_220_a_b-001",
+    "alias": "AB_cI24_220_a_b",
+    "title": "Theoretical cI24 AlN Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "AlN",
     "prototype_tex": "AlN",
-    "label": "AB_cI24_220_a_b-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cI24",
+    "space_group_number": 220,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a"
     ],
     "parameter_values": [
         6.2951
     ],
-    "strukturbericht": null,
-    "title": "Theoretical cI24 AlN Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_cI24_220_a_b",
-    "number_of_species": 2,
-    "pearson_symbol": "cI24",
-    "space_group_number": 220,
-    "comments": "AlN naturally occurs in two forms (Liu, 2019): the stable wz-AlN \\href{current_web_home_dir/AB_hP4_186_b_b-001}{wurtzite ($B4$) structure}, and the high-pressure rs-AlN \\href{current_web_home_dir/AB_cF8_225_a_b-001}{rock salt ($B1$) structure}.  A metastable zb-AlN \\href{current_web_home_dir/AB_cF8_216_a_c-001}{zincblende (zb-AlN) structure} can be synthesized via a solid-state reaction. \n (Liu, 2019) used a first-principles evolutionary technique to find four possible metastable phases: one in the \\href{current_web_home_dir/AB_cP16_205_c_c-001}{sc16 structure}, and three novel cubic structures, \\href{current_web_home_dir/AB_cF40_216_ae_be-001}{cF40},\\href{current_web_home_dir/AB_cI16_217_c_c-001}{cI16}, and\\href{current_web_home_dir/AB_cI24_220_a_b-001}{cI24}.",
+    "legacy": false,
     "notes": "Theoretical",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "AlN naturally occurs in two forms (Liu, 2019): the stable wz-AlN \\href{current_web_home_dir/AB_hP4_186_b_b-001}{wurtzite ($B4$) structure}, and the high-pressure rs-AlN \\href{current_web_home_dir/AB_cF8_225_a_b-001}{rock salt ($B1$) structure}.  A metastable zb-AlN \\href{current_web_home_dir/AB_cF8_216_a_c-001}{zincblende (zb-AlN) structure} can be synthesized via a solid-state reaction. \n (Liu, 2019) used a first-principles evolutionary technique to find four possible metastable phases: one in the \\href{current_web_home_dir/AB_cP16_205_c_c-001}{sc16 structure}, and three novel cubic structures, \\href{current_web_home_dir/AB_cF40_216_ae_be-001}{cF40},\\href{current_web_home_dir/AB_cI16_217_c_c-001}{cI16}, and\\href{current_web_home_dir/AB_cI24_220_a_b-001}{cI24}."
 }

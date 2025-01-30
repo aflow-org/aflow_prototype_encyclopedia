@@ -1,9 +1,19 @@
 {
     "uid": "V86P",
+    "label": "A3B_hP24_165_adg_f-001",
+    "alias": "A3B_hP24_165_adg_f",
+    "title": "H$_{3}$Ho Structure",
+    "icsd": "16880",
+    "ccdc": null,
     "prototype": "H3Ho",
     "prototype_tex": "H$_{3}$Ho",
-    "label": "A3B_hP24_165_adg_f-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP24",
+    "space_group_number": 165,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -21,17 +31,8 @@
         0.028,
         0.096
     ],
-    "strukturbericht": null,
-    "title": "H$_{3}$Ho Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B_hP24_165_adg_f",
-    "number_of_species": 2,
-    "pearson_symbol": "hP24",
-    "space_group_number": 165,
-    "comments": "This structure is crystallographically equivalent to \\href{current_web_home_dir/A3B_hP24_165_bdg_f-001}{Cu$_{3}$P ($D0_{21}$)}. We retain it as the prototype for the subclass of this prototype containing hydrogen. \n The data was taken for the deuteride, D$_{3}$Ho.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "16880"
+    "comments": "This structure is crystallographically equivalent to \\href{current_web_home_dir/A3B_hP24_165_bdg_f-001}{Cu$_{3}$P ($D0_{21}$)}. We retain it as the prototype for the subclass of this prototype containing hydrogen. \n The data was taken for the deuteride, D$_{3}$Ho."
 }

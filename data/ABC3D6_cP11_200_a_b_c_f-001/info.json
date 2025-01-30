@@ -1,9 +1,19 @@
 {
     "uid": "4JP4",
+    "label": "ABC3D6_cP11_200_a_b_c_f-001",
+    "alias": "ABC3D6_cP11_200_a_b_c_f-001",
+    "title": "CsHgN$_{3}$O$_{6}$ Structure",
+    "icsd": "28645",
+    "ccdc": null,
     "prototype": "CsHgN3O6",
     "prototype_tex": "CsHgN$_{3}$O$_{6}$",
-    "label": "ABC3D6_cP11_200_a_b_c_f-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "cP11",
+    "space_group_number": 200,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "x4"
     ],
@@ -11,17 +21,8 @@
         5.475,
         0.24
     ],
-    "strukturbericht": null,
-    "title": "CsHgN$_{3}$O$_{6}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC3D6_cP11_200_a_b_c_f-001",
-    "number_of_species": 4,
-    "pearson_symbol": "cP11",
-    "space_group_number": 200,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "28645"
+    "comments": null
 }

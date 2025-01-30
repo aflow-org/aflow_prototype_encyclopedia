@@ -1,9 +1,19 @@
 {
     "uid": "2C04",
+    "label": "ABC4D_oP28_57_d_d_2c2d_d-001",
+    "alias": "ABC4D_oP28_57_d_d_2c2d_d-001",
+    "title": "AgEuTiO$_{4}$ Structure",
+    "icsd": "78720",
+    "ccdc": null,
     "prototype": "AgEuO4Ti",
     "prototype_tex": "AgEuO$_{4}$Ti",
-    "label": "ABC4D_oP28_57_d_d_2c2d_d-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oP28",
+    "space_group_number": 57,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -37,17 +47,8 @@
         0.2662,
         0.0104
     ],
-    "strukturbericht": null,
-    "title": "AgEuTiO$_{4}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC4D_oP28_57_d_d_2c2d_d-001",
-    "number_of_species": 4,
-    "pearson_symbol": "oP28",
-    "space_group_number": 57,
-    "comments": "The ICSD lists (La,Sr)$_{2}$TiO$_{4}$ as the prototype, but we prefer to use an ordered structure.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "78720"
+    "comments": "The ICSD lists (La,Sr)$_{2}$TiO$_{4}$ as the prototype, but we prefer to use an ordered structure."
 }

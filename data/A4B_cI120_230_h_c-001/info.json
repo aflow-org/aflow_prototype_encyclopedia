@@ -1,9 +1,19 @@
 {
     "uid": "V61M",
+    "label": "A4B_cI120_230_h_c-001",
+    "alias": "A4B_cI120_230_h_c-001",
+    "title": "RhBi$_{4}$ Structure",
+    "icsd": "58854",
+    "ccdc": null,
     "prototype": "Bi4Rh",
     "prototype_tex": "Bi$_{4}$Rh",
-    "label": "A4B_cI120_230_h_c-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cI120",
+    "space_group_number": 230,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "x2",
         "y2",
@@ -15,17 +25,8 @@
         0.43,
         0.153
     ],
-    "strukturbericht": null,
-    "title": "RhBi$_{4}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B_cI120_230_h_c-001",
-    "number_of_species": 2,
-    "pearson_symbol": "cI120",
-    "space_group_number": 230,
-    "comments": "(Glagoleva, 1956) give three slightly different values for the location of the bismuth atoms.  We choose their final set of coordinates. The ICSD entry is from the earlier publication (Zhdanov, 1954).",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "58854"
+    "comments": "(Glagoleva, 1956) give three slightly different values for the location of the bismuth atoms.  We choose their final set of coordinates. The ICSD entry is from the earlier publication (Zhdanov, 1954)."
 }

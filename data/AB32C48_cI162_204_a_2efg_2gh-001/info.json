@@ -1,9 +1,19 @@
 {
     "uid": "9AQF",
+    "label": "AB32C48_cI162_204_a_2efg_2gh-001",
+    "alias": "AB32C48_cI162_204_a_2efg_2gh",
+    "title": "Bergman [Mg$_{32}$(Al,Zn)$_{49}$] Structure",
+    "icsd": "57968",
+    "ccdc": null,
     "prototype": "AlMg32Zn48",
     "prototype_tex": "AlMg$_{32}$Zn$_{48}$",
-    "label": "AB32C48_cI162_204_a_2efg_2gh-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cI162",
+    "space_group_number": 204,
+    "strukturbericht": "D8_e",
+    "strukturbericht_tex": "$D8_{e}$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "x2",
         "x3",
@@ -33,18 +43,8 @@
         0.5969,
         0.832
     ],
-    "strukturbericht": "D8_e",
-    "title": "Bergman [Mg$_{32}$(Al,Zn)$_{49}$] Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$D8_{e}$",
     "compounds": {},
-    "alias": "AB32C48_cI162_204_a_2efg_2gh",
-    "number_of_species": 3,
-    "pearson_symbol": "cI162",
-    "space_group_number": 204,
-    "comments": "Most of the sites in this lattice have random occupancy. In particular, according to (Bergman, 1957): The Al-I (2a) site is only occupied 80\\% of the time, the Zn-I (24g) site is occupied by Al 19\\% of the time, the Zn-II (24g) site is occupied by Al 43\\% of the time, and the Zn-III (48h) site is occupied by Al 36\\% of the time. \n The Li$_{20}$Mg$_{6}$Cu$_{13}$Al$_{42}$ structure found by (Pavlyuk, 2019) has all sites fully occupied.",
+    "legacy": false,
     "notes": "$D8_{e}$, Bergman",
-    "ccdc": null,
-    "icsd": "57968"
+    "comments": "Most of the sites in this lattice have random occupancy. In particular, according to (Bergman, 1957): The Al-I (2a) site is only occupied 80\\% of the time, the Zn-I (24g) site is occupied by Al 19\\% of the time, the Zn-II (24g) site is occupied by Al 43\\% of the time, and the Zn-III (48h) site is occupied by Al 36\\% of the time. \n The Li$_{20}$Mg$_{6}$Cu$_{13}$Al$_{42}$ structure found by (Pavlyuk, 2019) has all sites fully occupied."
 }

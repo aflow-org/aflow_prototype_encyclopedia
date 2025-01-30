@@ -1,9 +1,19 @@
 {
     "uid": "TF3J",
+    "label": "A7B2C_mP40_14_7e_2e_e-001",
+    "alias": "A7B2C_mP40_14_7e_2e_e",
+    "title": "K$_{2}$NbF$_{7}$ ($K6_{2}$) Structure",
+    "icsd": "14132",
+    "ccdc": null,
     "prototype": "F7K2Nb",
     "prototype_tex": "F$_{7}$K$_{2}$Nb",
-    "label": "A7B2C_mP40_14_7e_2e_e-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mP40",
+    "space_group_number": 14,
+    "strukturbericht": "K6_2",
+    "strukturbericht_tex": "$K6_{2}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -75,18 +85,8 @@
         0.8712,
         0.0489
     ],
-    "strukturbericht": "K6_2",
-    "title": "K$_{2}$NbF$_{7}$ ($K6_{2}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$K6_{2}$",
     "compounds": {},
-    "alias": "A7B2C_mP40_14_7e_2e_e",
-    "number_of_species": 3,
-    "pearson_symbol": "mP40",
-    "space_group_number": 14,
+    "legacy": false,
     "notes": "$K6_{2}$",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "14132"
+    "comments": null
 }

@@ -1,9 +1,19 @@
 {
     "uid": "W6UW",
+    "label": "AB_hP16_186_2a2b_2a2b-001",
+    "alias": "AB_hP16_186_2a2b_2a2b-001",
+    "title": "$\\delta$-GaSe Structure",
+    "icsd": "2002",
+    "ccdc": null,
     "prototype": "GaSe",
     "prototype_tex": "GaSe",
-    "label": "AB_hP16_186_2a2b_2a2b-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP16",
+    "space_group_number": 186,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -27,17 +37,8 @@
         0.575,
         0.425
     ],
-    "strukturbericht": null,
-    "title": "$\\delta$-GaSe Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_hP16_186_2a2b_2a2b-001",
-    "number_of_species": 2,
-    "pearson_symbol": "hP16",
-    "space_group_number": 186,
-    "comments": "GaSe takes on a variety of structures depending on the stacking of the Ga$_{2}$Se$_{2}$ layers: \\begin{itemize} \\item $\\beta$-GaSe is in space group \\href{current_web_home_dir/AB_hP8_194_f_f-003}{$P6_3/mmc$ \\#194}. \\item $\\gamma$-GaSe is in space group \\href{current_web_home_dir/AB_hR4_160_2a_2a-001}{$R3m$ \\#160}. \\item $\\delta$-GaSe (this structure) is in space group \\href{current_web_home_dir/AB_hP16_186_2a2b_2a2b-001}{$P6_{3}mc$ \\#186}. \\item $\\epsilon$-GaSe is in space group \\href{current_web_home_dir/AB_hP8_187_gh_gh-001}{$P\\overline{6}m2$ \\#187}. \\end{itemize} ~ \\vspace{-.25in} \n The origin of the $z$ coordinates is arbitrary in space group $P6_{3}mc$ \\#186.",
+    "legacy": false,
     "notes": "$\\delta$-GaSe",
-    "ccdc": null,
-    "icsd": "2002"
+    "comments": "GaSe takes on a variety of structures depending on the stacking of the Ga$_{2}$Se$_{2}$ layers: \\begin{itemize} \\item $\\beta$-GaSe is in space group \\href{current_web_home_dir/AB_hP8_194_f_f-003}{$P6_3/mmc$ \\#194}. \\item $\\gamma$-GaSe is in space group \\href{current_web_home_dir/AB_hR4_160_2a_2a-001}{$R3m$ \\#160}. \\item $\\delta$-GaSe (this structure) is in space group \\href{current_web_home_dir/AB_hP16_186_2a2b_2a2b-001}{$P6_{3}mc$ \\#186}. \\item $\\epsilon$-GaSe is in space group \\href{current_web_home_dir/AB_hP8_187_gh_gh-001}{$P\\overline{6}m2$ \\#187}. \\end{itemize} ~ \\vspace{-.25in} \n The origin of the $z$ coordinates is arbitrary in space group $P6_{3}mc$ \\#186."
 }

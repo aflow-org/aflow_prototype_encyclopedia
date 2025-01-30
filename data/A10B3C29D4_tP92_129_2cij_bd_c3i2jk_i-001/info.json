@@ -1,9 +1,19 @@
 {
     "uid": "GVY3",
+    "label": "A10B3C29D4_tP92_129_2cij_bd_c3i2jk_i-001",
+    "alias": "A10B3C29D4_tP92_129_2cij_bd_c3i2jk_i-001",
+    "title": "Nd$_{3}$Ni$_{29}$Si$_{4}$B$_{10}$",
+    "icsd": "86052",
+    "ccdc": null,
     "prototype": "B10Nd3Ni29Si4",
     "prototype_tex": "B$_{10}$Nd$_{3}$Ni$_{29}$Si$_{4}$",
-    "label": "A10B3C29D4_tP92_129_2cij_bd_c3i2jk_i-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "tP92",
+    "space_group_number": 129,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -55,17 +65,8 @@
         0.5909,
         0.3321
     ],
-    "strukturbericht": null,
-    "title": "Nd$_{3}$Ni$_{29}$Si$_{4}$B$_{10}$",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A10B3C29D4_tP92_129_2cij_bd_c3i2jk_i-001",
-    "number_of_species": 4,
-    "pearson_symbol": "tP92",
-    "space_group_number": 129,
-    "comments": "In the experimental sample the Si (8i) site contained 4\\% nickel, and the Ni I (4c) site contained 16.8\\% silicon.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "86052"
+    "comments": "In the experimental sample the Si (8i) site contained 4\\% nickel, and the Ni I (4c) site contained 16.8\\% silicon."
 }

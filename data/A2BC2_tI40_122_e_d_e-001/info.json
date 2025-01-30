@@ -1,9 +1,19 @@
 {
     "uid": "05M4",
+    "label": "A2BC2_tI40_122_e_d_e-001",
+    "alias": "A2BC2_tI40_122_e_d_e",
+    "title": "Mercury Cyanide [Hg(CN)$_{2}$, $F1_{1}$] Structure",
+    "icsd": "412315",
+    "ccdc": null,
     "prototype": "C2HgN2",
     "prototype_tex": "C$_{2}$HgN$_{2}$",
-    "label": "A2BC2_tI40_122_e_d_e-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tI40",
+    "space_group_number": 122,
+    "strukturbericht": "F1_1",
+    "strukturbericht_tex": "$F1_{1}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -25,18 +35,8 @@
         0.5464,
         0.6639
     ],
-    "strukturbericht": "F1_1",
-    "title": "Mercury Cyanide [Hg(CN)$_{2}$, $F1_{1}$] Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$F1_{1}$",
     "compounds": {},
-    "alias": "A2BC2_tI40_122_e_d_e",
-    "number_of_species": 3,
-    "pearson_symbol": "tI40",
-    "space_group_number": 122,
+    "legacy": false,
     "notes": "$F1_{1}$, Mercury Cyanide",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "412315"
+    "comments": null
 }

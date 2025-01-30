@@ -1,9 +1,19 @@
 {
     "uid": "5413",
+    "label": "A2BC2_oP10_34_c_a_c-001",
+    "alias": "A2BC2_oP10_34_c_a_c",
+    "title": "MnF$_{1-x}$(OH)$_{x}$ Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "F1-xHxMnOx",
     "prototype_tex": "F$_{1-x}$H$_{x}$MnO$_{x}$",
-    "label": "A2BC2_oP10_34_c_a_c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP10",
+    "space_group_number": 34,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -27,17 +37,8 @@
         0.1533,
         0.504
     ],
-    "strukturbericht": null,
-    "title": "MnF$_{1-x}$(OH)$_{x}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC2_oP10_34_c_a_c",
-    "number_of_species": 3,
-    "pearson_symbol": "oP10",
-    "space_group_number": 34,
-    "comments": "We use the data (Yahia, 2013) give for $x = 0.399$.  That is, for and (4c) (F/OH) site, 60\\% of the time the (4c) F site are occupied and 40\\% of the time (4c) H and O sites are occupied. Here we show the positions of the oxygen and hydrogen atoms. \n Space group $Pnn2$ \\#34 allows an arbitrary choice of the origin of the $z$-coordinate.  Here we use this to put the manganese atom at the origin, setting $z_{1} = 0$.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "none"
+    "comments": "We use the data (Yahia, 2013) give for $x = 0.399$.  That is, for and (4c) (F/OH) site, 60\\% of the time the (4c) F site are occupied and 40\\% of the time (4c) H and O sites are occupied. Here we show the positions of the oxygen and hydrogen atoms. \n Space group $Pnn2$ \\#34 allows an arbitrary choice of the origin of the $z$-coordinate.  Here we use this to put the manganese atom at the origin, setting $z_{1} = 0$."
 }

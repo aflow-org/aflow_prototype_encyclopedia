@@ -1,9 +1,19 @@
 {
     "uid": "JH5H",
+    "label": "AB_oP32_62_2cd_2cd-001",
+    "alias": "AB_oP32_62_2cd_2cd-001",
+    "title": "Empressite (AgTe) Structure",
+    "icsd": "55237",
+    "ccdc": null,
     "prototype": "AgTe",
     "prototype_tex": "AgTe",
-    "label": "AB_oP32_62_2cd_2cd-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP32",
+    "space_group_number": 62,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -41,17 +51,8 @@
         0.4772,
         0.5999
     ],
-    "strukturbericht": null,
-    "title": "Empressite (AgTe) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_oP32_62_2cd_2cd-001",
-    "number_of_species": 2,
-    "pearson_symbol": "oP32",
-    "space_group_number": 62,
-    "comments": "(Bindi, 2004) give the structural information in the $Pmnb$ setting of space group \\#62.  We used FINDSYM to transform this to the standard $Pnma$ setting.",
+    "legacy": false,
     "notes": "Empressite",
-    "ccdc": null,
-    "icsd": "55237"
+    "comments": "(Bindi, 2004) give the structural information in the $Pmnb$ setting of space group \\#62.  We used FINDSYM to transform this to the standard $Pnma$ setting."
 }

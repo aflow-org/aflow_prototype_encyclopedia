@@ -1,9 +1,19 @@
 {
     "uid": "SDY7",
+    "label": "A2B4C9D2_mC68_9_2a_4a_9a_2a-001",
+    "alias": "A2B4C9D2_mC68_9_2a_4a_9a_2a",
+    "title": "Nacrite [Al$_{2}$Si$_{2}$O$_{5}$(OH)$_{4}$, $S5_{4}$] Structure",
+    "icsd": "250459",
+    "ccdc": null,
     "prototype": "Al2H4O9Si2",
     "prototype_tex": "Al$_{2}$H$_{4}$O$_{9}$Si$_{2}$",
-    "label": "A2B4C9D2_mC68_9_2a_4a_9a_2a-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "mC68",
+    "space_group_number": 9,
+    "strukturbericht": "S5_4",
+    "strukturbericht_tex": "$S5_{4}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -117,18 +127,8 @@
         0.0156,
         0.8093
     ],
-    "strukturbericht": "S5_4",
-    "title": "Nacrite [Al$_{2}$Si$_{2}$O$_{5}$(OH)$_{4}$, $S5_{4}$] Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$S5_{4}$",
     "compounds": {},
-    "alias": "A2B4C9D2_mC68_9_2a_4a_9a_2a",
-    "number_of_species": 4,
-    "pearson_symbol": "mC68",
-    "space_group_number": 9,
-    "comments": "(Herrmann, 1943) gave the nacrite structure determined by (Hendricks, 1939) the {\\em Strukturbericht} symbol $S5_{4}$.  This structure was somewhat uncertain, as Hendricks knew that the structure had space group $Cc$ but could only determine the structure in terms of a pseudo-rhombohedral unit cell.  This led to a tripling of the unit cell compared to that found by (Zhukhlistov, 2008), who was also able to determine the positions of the hydrogen atoms.  We will used the modern structure, noting that we can essentially recover the original structure by tripling the unit cell along the $c$-axis.",
+    "legacy": false,
     "notes": "$S5_{4}$, Nacrite",
-    "ccdc": null,
-    "icsd": "250459"
+    "comments": "(Herrmann, 1943) gave the nacrite structure determined by (Hendricks, 1939) the {\\em Strukturbericht} symbol $S5_{4}$.  This structure was somewhat uncertain, as Hendricks knew that the structure had space group $Cc$ but could only determine the structure in terms of a pseudo-rhombohedral unit cell.  This led to a tripling of the unit cell compared to that found by (Zhukhlistov, 2008), who was also able to determine the positions of the hydrogen atoms.  We will used the modern structure, noting that we can essentially recover the original structure by tripling the unit cell along the $c$-axis."
 }

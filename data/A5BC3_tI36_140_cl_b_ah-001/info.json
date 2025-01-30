@@ -1,9 +1,19 @@
 {
     "uid": "GHEH",
+    "label": "A5BC3_tI36_140_cl_b_ah-001",
+    "alias": "A5BC3_tI36_140_cl_b_ah",
+    "title": "Cs$_{3}$CoCl$_{5}$ ($K3_{1}$) Structure",
+    "icsd": "14087",
+    "ccdc": null,
     "prototype": "Cl5CoCs3",
     "prototype_tex": "Cl$_{5}$CoCs$_{3}$",
-    "label": "A5BC3_tI36_140_cl_b_ah-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tI36",
+    "space_group_number": 140,
+    "strukturbericht": "K3_1",
+    "strukturbericht_tex": "$K3_{1}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x4",
@@ -17,18 +27,8 @@
         0.1421,
         0.15711
     ],
-    "strukturbericht": "K3_1",
-    "title": "Cs$_{3}$CoCl$_{5}$ ($K3_{1}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$K3_{1}$",
     "compounds": {},
-    "alias": "A5BC3_tI36_140_cl_b_ah",
-    "number_of_species": 3,
-    "pearson_symbol": "tI36",
-    "space_group_number": 140,
-    "comments": "We show the structure using the data taken at 4.2K. \n We list the quaternary form of this structure as \\href{current_web_home_dir/AB2C5D_tI36_140_a_h_cl_b-001}{BaLa$_{2}$ZnO$_{5}$}. \n Removing the Cl-II atoms from the (4c) site reduces this to the \\href{current_web_home_dir/A5BC2_tI32_140_bl_a_h-001}{NH$_{4}$Pb$_{2}$Br$_{5}$ ($K3_{4}$) structure}. \n There are many quaternary compounds with this structure.  See the \\href{current_web_home_dir/AB2C5D_tI36_140_a_h_cl_b-001}{BaLa$_{2}$ZnO$_{5}$} prototype for more details.",
+    "legacy": false,
     "notes": "$K3_{1}$",
-    "ccdc": null,
-    "icsd": "14087"
+    "comments": "We show the structure using the data taken at 4.2K. \n We list the quaternary form of this structure as \\href{current_web_home_dir/AB2C5D_tI36_140_a_h_cl_b-001}{BaLa$_{2}$ZnO$_{5}$}. \n Removing the Cl-II atoms from the (4c) site reduces this to the \\href{current_web_home_dir/A5BC2_tI32_140_bl_a_h-001}{NH$_{4}$Pb$_{2}$Br$_{5}$ ($K3_{4}$) structure}. \n There are many quaternary compounds with this structure.  See the \\href{current_web_home_dir/AB2C5D_tI36_140_a_h_cl_b-001}{BaLa$_{2}$ZnO$_{5}$} prototype for more details."
 }

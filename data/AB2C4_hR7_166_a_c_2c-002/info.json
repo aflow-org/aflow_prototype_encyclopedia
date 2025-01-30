@@ -1,9 +1,19 @@
 {
     "uid": "5J2E",
+    "label": "AB2C4_hR7_166_a_c_2c-002",
+    "alias": "AB2C4_hR7_166_a_c_2c-002",
+    "title": "GeSb$_{2}$Te$_{4}$ Structure",
+    "icsd": "30393",
+    "ccdc": null,
     "prototype": "GeSb2Te4",
     "prototype_tex": "GeSb$_{2}$Te$_{4}$",
-    "label": "AB2C4_hR7_166_a_c_2c-002",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hR7",
+    "space_group_number": 166,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -17,17 +27,8 @@
         0.29,
         0.432
     ],
-    "strukturbericht": null,
-    "title": "GeSb$_{2}$Te$_{4}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2C4_hR7_166_a_c_2c-002",
-    "number_of_species": 3,
-    "pearson_symbol": "hR7",
-    "space_group_number": 166,
-    "comments": "This structure is nearly identical to \\href{current_web_home_dir/A2BC4_hR7_166_c_a_2c-002}{MnBi$_{2}$Te$_{4}$}, but the assumed ordering of the tellurium atoms is different in the two cases. \n We use the data from (Agaev, 1966) as reported by (Matsunaga, 2004), however the ICSD entry states that all of the (2c) sites have occupancy Te$_{0.66}$Sb$_{33}$.  We follow (Matsunaga, 2004) and label the first (2c) site as Sb with the other two Te, preserving the stiochiometry. \n The binary form of this structure is \\href{current_web_home_dir/A3B4_hR7_166_ac_2c-002}{Sn$_{4}$P$_{3}$}. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "30393"
+    "comments": "This structure is nearly identical to \\href{current_web_home_dir/A2BC4_hR7_166_c_a_2c-002}{MnBi$_{2}$Te$_{4}$}, but the assumed ordering of the tellurium atoms is different in the two cases. \n We use the data from (Agaev, 1966) as reported by (Matsunaga, 2004), however the ICSD entry states that all of the (2c) sites have occupancy Te$_{0.66}$Sb$_{33}$.  We follow (Matsunaga, 2004) and label the first (2c) site as Sb with the other two Te, preserving the stiochiometry. \n The binary form of this structure is \\href{current_web_home_dir/A3B4_hR7_166_ac_2c-002}{Sn$_{4}$P$_{3}$}. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

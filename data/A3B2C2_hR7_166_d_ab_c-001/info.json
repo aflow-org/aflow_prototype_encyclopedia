@@ -1,9 +1,19 @@
 {
     "uid": "SD1B",
+    "label": "A3B2C2_hR7_166_d_ab_c-001",
+    "alias": "A3B2C2_hR7_166_d_ab_c",
+    "title": "Shandite (Ni$_{3}$Pb$_{2}$S$_{2}$) Structure",
+    "icsd": "417632",
+    "ccdc": null,
     "prototype": "Ni3Pb2S2",
     "prototype_tex": "Ni$_{3}$Pb$_{2}$S$_{2}$",
-    "label": "A3B2C2_hR7_166_d_ab_c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hR7",
+    "space_group_number": 166,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3"
@@ -13,17 +23,8 @@
         2.43539,
         0.725
     ],
-    "strukturbericht": null,
-    "title": "Shandite (Ni$_{3}$Pb$_{2}$S$_{2}$) Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B2C2_hR7_166_d_ab_c",
-    "number_of_species": 3,
-    "pearson_symbol": "hR7",
-    "space_group_number": 166,
+    "legacy": false,
     "notes": "Shandite",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "417632"
+    "comments": null
 }

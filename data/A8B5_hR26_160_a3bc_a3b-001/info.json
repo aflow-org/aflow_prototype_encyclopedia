@@ -1,9 +1,19 @@
 {
     "uid": "X9QA",
+    "label": "A8B5_hR26_160_a3bc_a3b-001",
+    "alias": "A8B5_hR26_160_a3bc_a3b",
+    "title": "Cr$_{5}$Al$_{8}$ ($D8_{10}$) Structure",
+    "icsd": "606753",
+    "ccdc": null,
     "prototype": "Al8Cr5",
     "prototype_tex": "Al$_{8}$Cr$_{5}$",
-    "label": "A8B5_hR26_160_a3bc_a3b-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hR26",
+    "space_group_number": 160,
+    "strukturbericht": "D8_10",
+    "strukturbericht_tex": "$D8_{10}$",
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -45,18 +55,8 @@
         0.967,
         0.339
     ],
-    "strukturbericht": "D8_10",
-    "title": "Cr$_{5}$Al$_{8}$ ($D8_{10}$) Structure",
-    "part": 2,
-    "legacy": false,
-    "strukturbericht_tex": "$D8_{10}$",
     "compounds": {},
-    "alias": "A8B5_hR26_160_a3bc_a3b",
-    "number_of_species": 2,
-    "pearson_symbol": "hR26",
-    "space_group_number": 160,
-    "comments": "(Bradley, 1937) notes that the positions here are very close to the positions of the atoms in the \\href{current_web_home_dir/A5B8_cI52_217_ce_cg-001}{$\\gamma$-brass (Cu$_{5}$Zn$_{8}$, $D8_{2}$) structure}. \n (Mizutani, 2010) classifies this as an ``R-cell'' $\\gamma$-brass.",
+    "legacy": false,
     "notes": "$D8_{10}$",
-    "ccdc": null,
-    "icsd": "606753"
+    "comments": "(Bradley, 1937) notes that the positions here are very close to the positions of the atoms in the \\href{current_web_home_dir/A5B8_cI52_217_ce_cg-001}{$\\gamma$-brass (Cu$_{5}$Zn$_{8}$, $D8_{2}$) structure}. \n (Mizutani, 2010) classifies this as an ``R-cell'' $\\gamma$-brass."
 }

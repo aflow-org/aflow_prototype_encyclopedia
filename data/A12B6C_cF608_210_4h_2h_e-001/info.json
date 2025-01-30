@@ -1,9 +1,19 @@
 {
     "uid": "7K4Q",
+    "label": "A12B6C_cF608_210_4h_2h_e-001",
+    "alias": "A12B6C_cF608_210_4h_2h_e",
+    "title": "Te[OH]$_{6}$ Structure",
+    "icsd": "16435",
+    "ccdc": null,
     "prototype": "H6O6Te",
     "prototype_tex": "H$_{6}$O$_{6}$Te",
-    "label": "A12B6C_cF608_210_4h_2h_e-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cF608",
+    "space_group_number": 210,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "x1",
         "x2",
@@ -47,17 +57,8 @@
         0.4207,
         0.4806
     ],
-    "strukturbericht": null,
-    "title": "Te[OH]$_{6}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A12B6C_cF608_210_4h_2h_e",
-    "number_of_species": 3,
-    "pearson_symbol": "cF608",
-    "space_group_number": 210,
-    "comments": "The hydrogen sites are only half occupied. Presumably this means that there is only one hydrogen atom bound to each oxygen. \n (Kirkpatrick, 1926) originally concluded that Te[OH]$_{6}$ was in \\href{current_web_home_dir/A6B_cF224_228_h_c-001}{space group $Fd\\overline{3}c$ \\#228}, but the did not find the positions of the hydrogen atoms. The current structure appears to be the correct one.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "16435"
+    "comments": "The hydrogen sites are only half occupied. Presumably this means that there is only one hydrogen atom bound to each oxygen. \n (Kirkpatrick, 1926) originally concluded that Te[OH]$_{6}$ was in \\href{current_web_home_dir/A6B_cF224_228_h_c-001}{space group $Fd\\overline{3}c$ \\#228}, but the did not find the positions of the hydrogen atoms. The current structure appears to be the correct one."
 }

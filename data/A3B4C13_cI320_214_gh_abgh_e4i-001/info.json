@@ -1,9 +1,19 @@
 {
     "uid": "1DPD",
+    "label": "A3B4C13_cI320_214_gh_abgh_e4i-001",
+    "alias": "A3B4C13_cI320_214_gh_abgh_e4i-001",
+    "title": "La$_{3}$Rh$_{4}$Sn$_{13}$ Structure",
+    "icsd": "54367",
+    "ccdc": null,
     "prototype": "La3Rh4Sn13",
     "prototype_tex": "La$_{3}$Rh$_{4}$Sn$_{13}$",
-    "label": "A3B4C13_cI320_214_gh_abgh_e4i-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cI320",
+    "space_group_number": 214,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "x3",
         "y4",
@@ -43,17 +53,8 @@
         0.6576,
         0.421
     ],
-    "strukturbericht": null,
-    "title": "La$_{3}$Rh$_{4}$Sn$_{13}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B4C13_cI320_214_gh_abgh_e4i-001",
-    "number_of_species": 3,
-    "pearson_symbol": "cI320",
-    "space_group_number": 214,
-    "comments": "(Bordet, 1991) refers to this as the ``phase I' '' structure of materials with the formula M$_{3}$Rh$_{4}$Sn$_{13}$, with the ``phase I'' structure represented by the centrosymmetric \\href{current_web_home_dir/A4B13C3_cP40_223_e_ak_c-001}{Yb$_{3}$Rh$_{4}$Sn$_{13}$} phase. \n (Villars, 2016) calls this the high-temperature phase of La$_{3}$Rh$_{4}$Sn$_{13}$.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "54367"
+    "comments": "(Bordet, 1991) refers to this as the ``phase I' '' structure of materials with the formula M$_{3}$Rh$_{4}$Sn$_{13}$, with the ``phase I'' structure represented by the centrosymmetric \\href{current_web_home_dir/A4B13C3_cP40_223_e_ak_c-001}{Yb$_{3}$Rh$_{4}$Sn$_{13}$} phase. \n (Villars, 2016) calls this the high-temperature phase of La$_{3}$Rh$_{4}$Sn$_{13}$."
 }

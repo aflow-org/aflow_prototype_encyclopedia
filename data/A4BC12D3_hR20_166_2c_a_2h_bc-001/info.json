@@ -1,9 +1,19 @@
 {
     "uid": "9CFG",
+    "label": "A4BC12D3_hR20_166_2c_a_2h_bc-001",
+    "alias": "A4BC12D3_hR20_166_2c_a_2h_bc-001",
+    "title": "Ba$_{4}$NbRu$_{3}$O$_{12}$ Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "Ba4NbO12Ru3",
     "prototype_tex": "Ba$_{4}$NbO$_{12}$Ru$_{3}$",
-    "label": "A4BC12D3_hR20_166_2c_a_2h_bc-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "hR20",
+    "space_group_number": 166,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -25,17 +35,8 @@
         0.7988,
         0.2823
     ],
-    "strukturbericht": null,
-    "title": "Ba$_{4}$NbRu$_{3}$O$_{12}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4BC12D3_hR20_166_2c_a_2h_bc-001",
-    "number_of_species": 4,
-    "pearson_symbol": "hR20",
-    "space_group_number": 166,
-    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "none"
+    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

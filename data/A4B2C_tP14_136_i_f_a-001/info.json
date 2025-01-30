@@ -1,9 +1,19 @@
 {
     "uid": "U6YK",
+    "label": "A4B2C_tP14_136_i_f_a-001",
+    "alias": "A4B2C_tP14_136_i_g_b",
+    "title": "ZrFe$_{4}$Si$_{2}$ Structure",
+    "icsd": "87172",
+    "ccdc": null,
     "prototype": "Fe4Si2Zr",
     "prototype_tex": "Fe$_{4}$Si$_{2}$Zr",
-    "label": "A4B2C_tP14_136_i_f_a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP14",
+    "space_group_number": 136,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -17,17 +27,8 @@
         0.1532,
         0.592
     ],
-    "strukturbericht": null,
-    "title": "ZrFe$_{4}$Si$_{2}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B2C_tP14_136_i_g_b",
-    "number_of_species": 3,
-    "pearson_symbol": "tP14",
-    "space_group_number": 136,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "87172"
+    "comments": null
 }

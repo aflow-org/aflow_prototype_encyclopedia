@@ -1,9 +1,19 @@
 {
     "uid": "68FX",
+    "label": "A8B2C13_mP46_11_8e_2e_13e-001",
+    "alias": "A8B2C13_mP46_11_8e_2e_13e-001",
+    "title": "$\\beta$-K$_{2}$Bi$_{8}$Se$_{13}$ Structure",
+    "icsd": "84268",
+    "ccdc": null,
     "prototype": "Bi8K2Se13",
     "prototype_tex": "Bi$_{8}$K$_{2}$Se$_{13}$",
-    "label": "A8B2C13_mP46_11_8e_2e_13e-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mP46",
+    "space_group_number": 11,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -107,17 +117,8 @@
         0.6077,
         0.5358
     ],
-    "strukturbericht": null,
-    "title": "$\\beta$-K$_{2}$Bi$_{8}$Se$_{13}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A8B2C13_mP46_11_8e_2e_13e-001",
-    "number_of_species": 3,
-    "pearson_symbol": "mP46",
-    "space_group_number": 11,
-    "comments": "The Bi VIII site is actually 62\\% bismuth and 38\\% potassium, while the K I site is 62\\% potassium and 38\\% bismuth. \n K$_{2}$Bi$_{8}$Se$_{13}$ can also be found in the \\href{current_web_home_dir/A8B2C13_aP23_2_4i_i_a6i-001}{triclinic $\\alpha$ phase}, which has no compositional disorder.",
+    "legacy": false,
     "notes": "$\\beta$-phase",
-    "ccdc": null,
-    "icsd": "84268"
+    "comments": "The Bi VIII site is actually 62\\% bismuth and 38\\% potassium, while the K I site is 62\\% potassium and 38\\% bismuth. \n K$_{2}$Bi$_{8}$Se$_{13}$ can also be found in the \\href{current_web_home_dir/A8B2C13_aP23_2_4i_i_a6i-001}{triclinic $\\alpha$ phase}, which has no compositional disorder."
 }

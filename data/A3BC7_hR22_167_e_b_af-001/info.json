@@ -1,9 +1,19 @@
 {
     "uid": "NS5K",
+    "label": "A3BC7_hR22_167_e_b_af-001",
+    "alias": "A3BC7_hR22_167_e_b_af-001",
+    "title": "ScRh$_{3}$Si$_{7}$ Structure",
+    "icsd": "15243",
+    "ccdc": null,
     "prototype": "Rh3ScSi7",
     "prototype_tex": "Rh$_{3}$ScSi$_{7}$",
-    "label": "A3BC7_hR22_167_e_b_af-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hR22",
+    "space_group_number": 167,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -19,17 +29,8 @@
         0.1708,
         0.5682
     ],
-    "strukturbericht": null,
-    "title": "ScRh$_{3}$Si$_{7}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3BC7_hR22_167_e_b_af-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hR22",
-    "space_group_number": 167,
-    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "15243"
+    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

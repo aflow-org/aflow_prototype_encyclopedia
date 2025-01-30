@@ -1,9 +1,19 @@
 {
     "uid": "WL5U",
+    "label": "AB2C_oC16_63_c_2c_c-001",
+    "alias": "AB2C_oC16_63_c_2c_c",
+    "title": "SrCuO$_{2}$ Structure",
+    "icsd": "77291",
+    "ccdc": null,
     "prototype": "CuO2Sr",
     "prototype_tex": "CuO$_{2}$Sr",
-    "label": "AB2C_oC16_63_c_2c_c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oC16",
+    "space_group_number": 63,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -21,17 +31,8 @@
         0.1792,
         0.33096
     ],
-    "strukturbericht": null,
-    "title": "SrCuO$_{2}$ Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2C_oC16_63_c_2c_c",
-    "number_of_species": 3,
-    "pearson_symbol": "oC16",
-    "space_group_number": 63,
-    "comments": "We use the data from (Matsushita, 1994), but the ICSD is from (Heinau, 1994).",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "77291"
+    "comments": "We use the data from (Matsushita, 1994), but the ICSD is from (Heinau, 1994)."
 }

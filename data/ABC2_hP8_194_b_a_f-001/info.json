@@ -1,9 +1,19 @@
 {
     "uid": "D1PM",
+    "label": "ABC2_hP8_194_b_a_f-001",
+    "alias": "ABC2_hP8_194_b_a_f-001",
+    "title": "NiMoP$_{2}$ Structure",
+    "icsd": "76283",
+    "ccdc": null,
     "prototype": "MoNiP2",
     "prototype_tex": "MoNiP$_{2}$",
-    "label": "ABC2_hP8_194_b_a_f-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP8",
+    "space_group_number": 194,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3"
@@ -13,17 +23,8 @@
         3.37038,
         0.1132
     ],
-    "strukturbericht": null,
-    "title": "NiMoP$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC2_hP8_194_b_a_f-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hP8",
-    "space_group_number": 194,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "76283"
+    "comments": null
 }

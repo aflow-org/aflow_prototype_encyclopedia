@@ -1,9 +1,19 @@
 {
     "uid": "EHW6",
+    "label": "AB4C_oC24_63_c_fg_c-001",
+    "alias": "AB4C_oC24_63_c_fg_c",
+    "title": "Anhydrite (CaSO$_{4}$, $H0_{1}$) Structure",
+    "icsd": "40043",
+    "ccdc": null,
     "prototype": "CaO4Si",
     "prototype_tex": "CaO$_{4}$Si",
-    "label": "AB4C_oC24_63_c_fg_c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oC24",
+    "space_group_number": 63,
+    "strukturbericht": "H0_1",
+    "strukturbericht_tex": "$H0_{1}$",
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -25,18 +35,8 @@
         0.6699,
         0.5162
     ],
-    "strukturbericht": "H0_1",
-    "title": "Anhydrite (CaSO$_{4}$, $H0_{1}$) Structure",
-    "part": 2,
-    "legacy": false,
-    "strukturbericht_tex": "$H0_{1}$",
     "compounds": {},
-    "alias": "AB4C_oC24_63_c_fg_c",
-    "number_of_species": 3,
-    "pearson_symbol": "oC24",
-    "space_group_number": 63,
-    "comments": "(Hawthorne, 1975) give the structure in the $Amma$ setting of space group \\#63. We have transformed this to the standard $Cmcm$ setting. \n The addition of water into the anhydrite crystal transforms it into \\href{current_web_home_dir/AB4C6D_mC48_15_e_2f_3f_e-001}{gypsum}.",
+    "legacy": false,
     "notes": "$H0_{1}$ Anhydrite",
-    "ccdc": null,
-    "icsd": "40043"
+    "comments": "(Hawthorne, 1975) give the structure in the $Amma$ setting of space group \\#63. We have transformed this to the standard $Cmcm$ setting. \n The addition of water into the anhydrite crystal transforms it into \\href{current_web_home_dir/AB4C6D_mC48_15_e_2f_3f_e-001}{gypsum}."
 }

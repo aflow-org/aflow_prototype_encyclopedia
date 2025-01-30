@@ -1,9 +1,19 @@
 {
     "uid": "B1GA",
+    "label": "A4B2C_oP28_62_2cd_2c_c-001",
+    "alias": "A4B2C_oP28_62_2cd_2c_c-001",
+    "title": "Cs$_{2}$CuCl$_{4}$ Structure",
+    "icsd": "36175",
+    "ccdc": null,
     "prototype": "Cl4Cs2Cu",
     "prototype_tex": "Cl$_{4}$Cs$_{2}$Cu",
-    "label": "A4B2C_oP28_62_2cd_2c_c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP28",
+    "space_group_number": 62,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -39,17 +49,8 @@
         0.0,
         0.155
     ],
-    "strukturbericht": null,
-    "title": "Cs$_{2}$CuCl$_{4}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B2C_oP28_62_2cd_2c_c-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oP28",
-    "space_group_number": 62,
-    "comments": "This structure is somewhat similar to \\href{current_web_home_dir/A2B4C_oP28_62_2c_2cd_c-001}{Arcanite (K$_{2}$SO$_{4}$, $H1_{6}$)}, but the ICSD recognizes them as different structure types and AFLOW finds a misfit value of 0.2, sufficiently large to justify making this a new prototype.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "36175"
+    "comments": "This structure is somewhat similar to \\href{current_web_home_dir/A2B4C_oP28_62_2c_2cd_c-001}{Arcanite (K$_{2}$SO$_{4}$, $H1_{6}$)}, but the ICSD recognizes them as different structure types and AFLOW finds a misfit value of 0.2, sufficiently large to justify making this a new prototype."
 }

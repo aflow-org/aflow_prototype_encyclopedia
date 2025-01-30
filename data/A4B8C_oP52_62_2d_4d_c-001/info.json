@@ -1,9 +1,19 @@
 {
     "uid": "1R45",
+    "label": "A4B8C_oP52_62_2d_4d_c-001",
+    "alias": "A4B8C_oP52_62_2d_4d_c-001",
+    "title": "$\\alpha_{H}'$-Ca$_{2}$SiO$_{4}$ Structure",
+    "icsd": "82997",
+    "ccdc": null,
     "prototype": "Ca2O4Si",
     "prototype_tex": "Ca$_{2}$O$_{4}$Si",
-    "label": "A4B8C_oP52_62_2d_4d_c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP52",
+    "space_group_number": 62,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -53,17 +63,8 @@
         0.503,
         0.6495
     ],
-    "strukturbericht": null,
-    "title": "$\\alpha_{H}'$-Ca$_{2}$SiO$_{4}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B8C_oP52_62_2d_4d_c-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oP52",
-    "space_group_number": 62,
-    "comments": "Ca$_{2}$SiO$_{4}$ exists in a variety of structures (Mumme, 1996; Yamnova, 2011): \\begin{itemize} \\item hexagonal $\\alpha$-Ca$_{2}$SiO$_{4}$, stable above $1445^{\\circ}$C. There is some dispute as to whether this occurs in a \\begin{itemize} \\item \\href{current_web_home_dir/A2B4C_hP14_164_abd_di_d-001}{trigonal, space group $P\\overline{3}m1$ \\#164} structure or a \\item \\href{current_web_home_dir/A3B12C_hP32_194_af_2k_c-001}{disordered hexagonal, space group $P6_{3}/mmc$ \\#194} structure. \\end{itemize}  \\item \\href{current_web_home_dir/A4B8C_oP52_62_2d_4d_c-001}{orthorhombic $\\alpha_{H}$'-Ca$_{2}$SiO$_{4}$} (this structure), stable in the range $1160-1425^{\\circ}$C, \\item \\href{current_web_home_dir/A2B4C_oP84_33_6a_12a_3a-001}{orthorhombic $\\alpha_{L}$'-Ca$_{2}$SiO$_{4}$}, stable in the range $690-1160^{\\circ}$C, \\item \\href{current_web_home_dir/A2B4C_mP28_14_2e_4e_e-001}{monoclinic $\\beta$-Ca$_{2}$SiO$_{4}$}, stable in the range $500-690^{\\circ}$C and found in nature as the metastable mineral larnite, and \\item $\\gamma$-Ca$_{2}$SiO$_{4}$, stable below $500^{\\circ}$C, in the \\href{current_web_home_dir/A2B4C_oP28_62_ac_2cd_c-001}{olivine ($S1_{2}$) structure}. \\end{itemize} ~ \\vspace{-.25in} \n We use the neutron scattering data of (Mumme, 1996) taken at 1250$^{\\circ}$C.  Their refinement of the data requires that all of the calcium and oxygen sites are only half filled, {\\em i.e.}, only site of each Ca-Ca and O-O pair in the diagram is filled at any given time.",
+    "legacy": false,
     "notes": "$\\alpha_{H}'$-Ca$_{2}$SiO$_{4}$",
-    "ccdc": null,
-    "icsd": "82997"
+    "comments": "Ca$_{2}$SiO$_{4}$ exists in a variety of structures (Mumme, 1996; Yamnova, 2011): \\begin{itemize} \\item hexagonal $\\alpha$-Ca$_{2}$SiO$_{4}$, stable above $1445^{\\circ}$C. There is some dispute as to whether this occurs in a \\begin{itemize} \\item \\href{current_web_home_dir/A2B4C_hP14_164_abd_di_d-001}{trigonal, space group $P\\overline{3}m1$ \\#164} structure or a \\item \\href{current_web_home_dir/A3B12C_hP32_194_af_2k_c-001}{disordered hexagonal, space group $P6_{3}/mmc$ \\#194} structure. \\end{itemize}  \\item \\href{current_web_home_dir/A4B8C_oP52_62_2d_4d_c-001}{orthorhombic $\\alpha_{H}$'-Ca$_{2}$SiO$_{4}$} (this structure), stable in the range $1160-1425^{\\circ}$C, \\item \\href{current_web_home_dir/A2B4C_oP84_33_6a_12a_3a-001}{orthorhombic $\\alpha_{L}$'-Ca$_{2}$SiO$_{4}$}, stable in the range $690-1160^{\\circ}$C, \\item \\href{current_web_home_dir/A2B4C_mP28_14_2e_4e_e-001}{monoclinic $\\beta$-Ca$_{2}$SiO$_{4}$}, stable in the range $500-690^{\\circ}$C and found in nature as the metastable mineral larnite, and \\item $\\gamma$-Ca$_{2}$SiO$_{4}$, stable below $500^{\\circ}$C, in the \\href{current_web_home_dir/A2B4C_oP28_62_ac_2cd_c-001}{olivine ($S1_{2}$) structure}. \\end{itemize} ~ \\vspace{-.25in} \n We use the neutron scattering data of (Mumme, 1996) taken at 1250$^{\\circ}$C.  Their refinement of the data requires that all of the calcium and oxygen sites are only half filled, {\\em i.e.}, only site of each Ca-Ca and O-O pair in the diagram is filled at any given time."
 }

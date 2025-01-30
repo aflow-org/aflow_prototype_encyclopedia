@@ -1,9 +1,19 @@
 {
     "uid": "LAN3",
+    "label": "AB4C_tP12_124_a_m_c-001",
+    "alias": "AB4C_tP12_124_a_m_c",
+    "title": "Nb$_{4}$CoSi Structure",
+    "icsd": "43233",
+    "ccdc": null,
     "prototype": "CoNb4Si",
     "prototype_tex": "CoNb$_{4}$Si",
-    "label": "AB4C_tP12_124_a_m_c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP12",
+    "space_group_number": 124,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -15,17 +25,8 @@
         0.162,
         0.662
     ],
-    "strukturbericht": null,
-    "title": "Nb$_{4}$CoSi Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB4C_tP12_124_a_m_c",
-    "number_of_species": 3,
-    "pearson_symbol": "tP12",
-    "space_group_number": 124,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "43233"
+    "comments": null
 }

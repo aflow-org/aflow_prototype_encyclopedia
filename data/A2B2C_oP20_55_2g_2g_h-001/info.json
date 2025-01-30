@@ -1,9 +1,19 @@
 {
     "uid": "93YX",
+    "label": "A2B2C_oP20_55_2g_2g_h-001",
+    "alias": "A2B2C_oP20_55_2g_2g_h-001",
+    "title": "ScB$_{2}$C$_{2}$ Structure",
+    "icsd": "23834",
+    "ccdc": null,
     "prototype": "B2C2Sc",
     "prototype_tex": "B$_{2}$C$_{2}$Sc",
-    "label": "A2B2C_oP20_55_2g_2g_h-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP20",
+    "space_group_number": 55,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -33,17 +43,8 @@
         0.1375,
         0.1488
     ],
-    "strukturbericht": null,
-    "title": "ScB$_{2}$C$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B2C_oP20_55_2g_2g_h-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oP20",
-    "space_group_number": 55,
-    "comments": "We have shifted the origin of the $z$-axis by 1/2 c from the published data of (Smith, 1965).",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "23834"
+    "comments": "We have shifted the origin of the $z$-axis by 1/2 c from the published data of (Smith, 1965)."
 }

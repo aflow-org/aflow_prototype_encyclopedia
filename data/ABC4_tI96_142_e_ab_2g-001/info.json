@@ -1,9 +1,19 @@
 {
     "uid": "B2Y6",
+    "label": "ABC4_tI96_142_e_ab_2g-001",
+    "alias": "ABC4_tI96_142_e_ab_2g",
+    "title": "PPrS$_{4}$ Structure",
+    "icsd": "201897",
+    "ccdc": null,
     "prototype": "PPrS4",
     "prototype_tex": "PPrS$_{4}$",
-    "label": "ABC4_tI96_142_e_ab_2g-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tI96",
+    "space_group_number": 142,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -25,17 +35,8 @@
         0.1117,
         0.0025
     ],
-    "strukturbericht": null,
-    "title": "PPrS$_{4}$ Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC4_tI96_142_e_ab_2g",
-    "number_of_species": 3,
-    "pearson_symbol": "tI96",
-    "space_group_number": 142,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "201897"
+    "comments": null
 }

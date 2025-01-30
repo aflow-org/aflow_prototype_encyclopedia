@@ -1,9 +1,19 @@
 {
     "uid": "GXLJ",
+    "label": "A2BC2D9E2_oP64_19_2a_a_2a_9a_2a-001",
+    "alias": "A2BC2D9E2_oP64_19_2a_a_2a_9a_2a-001",
+    "title": "K[Al$_{2}$(PO$_{4}$)$_{2}$F(H$_{2}$O)] Structure",
+    "icsd": null,
+    "ccdc": "2686066",
     "prototype": "Al2FKO9P2",
     "prototype_tex": "Al$_{2}$FKO$_{9}$P$_{2}$",
-    "label": "A2BC2D9E2_oP64_19_2a_a_2a_9a_2a-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "oP64",
+    "space_group_number": 19,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -109,17 +119,8 @@
         0.01783,
         0.13673
     ],
-    "strukturbericht": null,
-    "title": "K[Al$_{2}$(PO$_{4}$)$_{2}$F(H$_{2}$O)] Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC2D9E2_oP64_19_2a_a_2a_9a_2a-001",
-    "number_of_species": 5,
-    "pearson_symbol": "oP64",
-    "space_group_number": 19,
-    "ccdc": "2686066",
-    "comments": "The potassium sites are only half-occupied. \n One of the oxygen atoms must actually be a water molecule, but the hydrogen positions are not given by (Hao, 2024) so we cannot determine which one it is, and so ignore it in the AFLOW labeling and the CIF.",
+    "legacy": false,
     "notes": null,
-    "icsd": null
+    "comments": "The potassium sites are only half-occupied. \n One of the oxygen atoms must actually be a water molecule, but the hydrogen positions are not given by (Hao, 2024) so we cannot determine which one it is, and so ignore it in the AFLOW labeling and the CIF."
 }

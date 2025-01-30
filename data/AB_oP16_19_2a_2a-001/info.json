@@ -1,9 +1,19 @@
 {
     "uid": "MEBJ",
+    "label": "AB_oP16_19_2a_2a-001",
+    "alias": "AB_oP16_19_2a_2a",
+    "title": "NaP Structure",
+    "icsd": "14009",
+    "ccdc": null,
     "prototype": "NaP",
     "prototype_tex": "NaP",
-    "label": "AB_oP16_19_2a_2a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP16",
+    "space_group_number": 19,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -37,17 +47,8 @@
         0.402,
         0.1341
     ],
-    "strukturbericht": null,
-    "title": "NaP Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_oP16_19_2a_2a",
-    "number_of_species": 2,
-    "pearson_symbol": "oP16",
-    "space_group_number": 19,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "14009"
+    "comments": null
 }

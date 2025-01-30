@@ -1,9 +1,19 @@
 {
     "uid": "A8AW",
+    "label": "A4B4C_aP18_2_4i_4i_i-002",
+    "alias": "A4B4C_aP18_2_4i_4i_i-002",
+    "title": "Na$_{4}$SiO$_{4}$ Structure",
+    "icsd": "62594",
+    "ccdc": null,
     "prototype": "Na4O4Si",
     "prototype_tex": "Na$_{4}$O$_{4}$Si",
-    "label": "A4B4C_aP18_2_4i_4i_i-002",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "aP18",
+    "space_group_number": 2,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -73,17 +83,8 @@
         0.2252,
         0.2521
     ],
-    "strukturbericht": null,
-    "title": "Na$_{4}$SiO$_{4}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B4C_aP18_2_4i_4i_i-002",
-    "number_of_species": 3,
-    "pearson_symbol": "aP18",
-    "space_group_number": 2,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "62594"
+    "comments": null
 }

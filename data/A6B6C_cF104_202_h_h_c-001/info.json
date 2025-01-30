@@ -1,9 +1,19 @@
 {
     "uid": "PZB0",
+    "label": "A6B6C_cF104_202_h_h_c-001",
+    "alias": "A6B6C_cF104_202_h_h_c",
+    "title": "KB$_{6}$H$_{6}$ Structure",
+    "icsd": "36148",
+    "ccdc": null,
     "prototype": "B6H6K",
     "prototype_tex": "B$_{6}$H$_{6}$K",
-    "label": "A6B6C_cF104_202_h_h_c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cF104",
+    "space_group_number": 202,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "y2",
         "z2",
@@ -17,17 +27,8 @@
         0.638,
         0.72
     ],
-    "strukturbericht": null,
-    "title": "KB$_{6}$H$_{6}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A6B6C_cF104_202_h_h_c",
-    "number_of_species": 3,
-    "pearson_symbol": "cF104",
-    "space_group_number": 202,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "36148"
+    "comments": null
 }

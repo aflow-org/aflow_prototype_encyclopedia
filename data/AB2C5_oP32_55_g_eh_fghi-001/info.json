@@ -1,9 +1,19 @@
 {
     "uid": "KF2N",
+    "label": "AB2C5_oP32_55_g_eh_fghi-001",
+    "alias": "AB2C5_oP32_55_g_fh_eghi",
+    "title": "HoMn$_{2}$O$_{5}$ Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "HoMn2O5",
     "prototype_tex": "HoMn$_{2}$O$_{5}$",
-    "label": "AB2C5_oP32_55_g_eh_fghi-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP32",
+    "space_group_number": 55,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -39,17 +49,8 @@
         0.78,
         0.75
     ],
-    "strukturbericht": null,
-    "title": "HoMn$_{2}$O$_{5}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2C5_oP32_55_g_fh_eghi",
-    "number_of_species": 3,
-    "pearson_symbol": "oP32",
-    "space_group_number": 55,
-    "comments": "We found no definitive definition for the prototype of the structure XMn$_{2}$O$_{5}$, where X is a rare earth.  (Quezel-Ambrunaz, 1964) has the earliest description of the structure we could find, so we use HoMn$_{2}$O$_{5}$ as the prototype.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "none"
+    "comments": "We found no definitive definition for the prototype of the structure XMn$_{2}$O$_{5}$, where X is a rare earth.  (Quezel-Ambrunaz, 1964) has the earliest description of the structure we could find, so we use HoMn$_{2}$O$_{5}$ as the prototype."
 }

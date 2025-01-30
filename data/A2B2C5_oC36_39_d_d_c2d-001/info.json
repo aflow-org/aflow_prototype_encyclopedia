@@ -1,9 +1,19 @@
 {
     "uid": "GBE5",
+    "label": "A2B2C5_oC36_39_d_d_c2d-001",
+    "alias": "A2B2C5_oC36_39_d_d_c2d-001",
+    "title": "Li$_{2}$(Si${0.25}$Ge$_{0.75}$)$_{2}$O$_{5}$ Structure",
+    "icsd": "26836",
+    "ccdc": null,
     "prototype": "Ge2Li2O5",
     "prototype_tex": "Ge$_{2}$Li$_{2}$O$_{5}$",
-    "label": "A2B2C5_oC36_39_d_d_c2d-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oC36",
+    "space_group_number": 39,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -41,17 +51,8 @@
         0.6335,
         0.56
     ],
-    "strukturbericht": null,
-    "title": "Li$_{2}$(Si${0.25}$Ge$_{0.75}$)$_{2}$O$_{5}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B2C5_oC36_39_d_d_c2d-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oC36",
-    "space_group_number": 39,
-    "comments": "The germanium (8d) sites are actually 75\\% germanium and 25\\% silicon.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "26836"
+    "comments": "The germanium (8d) sites are actually 75\\% germanium and 25\\% silicon."
 }

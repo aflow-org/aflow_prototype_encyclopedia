@@ -1,9 +1,19 @@
 {
     "uid": "7WUP",
+    "label": "A2B3C_oF96_70_2e_fh_e-001",
+    "alias": "A2B3C_oF96_70_2e_fh_e-001",
+    "title": "$\\beta$-Na$_{2}$PtO$_{3}$ Structure",
+    "icsd": "25020",
+    "ccdc": null,
     "prototype": "Na2O3Pt",
     "prototype_tex": "Na$_{2}$O$_{3}$Pt",
-    "label": "A2B3C_oF96_70_2e_fh_e-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oF96",
+    "space_group_number": 70,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -27,17 +37,8 @@
         0.409,
         0.148
     ],
-    "strukturbericht": null,
-    "title": "$\\beta$-Na$_{2}$PtO$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B3C_oF96_70_2e_fh_e-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oF96",
-    "space_group_number": 70,
-    "comments": "Na$_{2}$PtO$_{3}$ can also be found in the $\\alpha$-Na$_{2}$PtO$_{3}$ phase, which has the \\href{current_web_home_dir/A2B3C_mC48_15_aef_3f_2e-001}{Na$_{2}$PrO$_{3}$ structure}.",
+    "legacy": false,
     "notes": "$\\beta$-Na$_{2}$PtO$_{3}$",
-    "ccdc": null,
-    "icsd": "25020"
+    "comments": "Na$_{2}$PtO$_{3}$ can also be found in the $\\alpha$-Na$_{2}$PtO$_{3}$ phase, which has the \\href{current_web_home_dir/A2B3C_mC48_15_aef_3f_2e-001}{Na$_{2}$PrO$_{3}$ structure}."
 }

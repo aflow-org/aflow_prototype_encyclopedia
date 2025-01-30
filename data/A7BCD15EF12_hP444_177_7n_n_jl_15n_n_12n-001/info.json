@@ -1,9 +1,19 @@
 {
     "uid": "TXX6",
+    "label": "A7BCD15EF12_hP444_177_7n_n_jl_15n_n_12n-001",
+    "alias": "A7BCD15EF12_hP444_177_7n_n_jl_15n_n_12n-001",
+    "title": "[Fe(OMe)$_{2}$(proline)]$_{12}$[ClO$_{4}$]$_{12}$ Structure",
+    "icsd": null,
+    "ccdc": "222686",
     "prototype": "C7ClFeH15NO8",
     "prototype_tex": "C$_{7}$ClFeH$_{15}$NO$_{8}$",
-    "label": "A7BCD15EF12_hP444_177_7n_n_jl_15n_n_12n-001",
-    "parameter_symbol": [
+    "number_of_species": 6,
+    "pearson_symbol": "hP444",
+    "space_group_number": 177,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -231,17 +241,8 @@
         0.6898,
         0.8548
     ],
-    "strukturbericht": null,
-    "title": "[Fe(OMe)$_{2}$(proline)]$_{12}$[ClO$_{4}$]$_{12}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A7BCD15EF12_hP444_177_7n_n_jl_15n_n_12n-001",
-    "number_of_species": 6,
-    "pearson_symbol": "hP444",
-    "space_group_number": 177,
-    "ccdc": "222686",
-    "comments": "The oxygen sites labeled O-V through O-XII are only half filled.",
+    "legacy": false,
     "notes": null,
-    "icsd": null
+    "comments": "The oxygen sites labeled O-V through O-XII are only half filled."
 }

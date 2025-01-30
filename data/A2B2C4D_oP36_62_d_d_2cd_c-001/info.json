@@ -1,9 +1,19 @@
 {
     "uid": "7RBD",
+    "label": "A2B2C4D_oP36_62_d_d_2cd_c-001",
+    "alias": "A2B2C4D_oP36_62_d_d_2cd_c",
+    "title": "Topaz (Al$_{2}$SiO$_{4}$F$_{2}$, $S0_{5}$) Structure",
+    "icsd": "55860",
+    "ccdc": null,
     "prototype": "Al2F2O4Si",
     "prototype_tex": "Al$_{2}$F$_{2}$O$_{4}$Si",
-    "label": "A2B2C4D_oP36_62_d_d_2cd_c-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oP36",
+    "space_group_number": 62,
+    "strukturbericht": "S0_5",
+    "strukturbericht_tex": "$S0_{5}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -43,18 +53,8 @@
         0.5923,
         0.711
     ],
-    "strukturbericht": "S0_5",
-    "title": "Topaz (Al$_{2}$SiO$_{4}$F$_{2}$, $S0_{5}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$S0_{5}$",
     "compounds": {},
-    "alias": "A2B2C4D_oP36_62_d_d_2cd_c",
-    "number_of_species": 4,
-    "pearson_symbol": "oP36",
-    "space_group_number": 62,
-    "comments": "The fluorine (8d) site in topaz can have a composition F$_{1-x}$(OH)$_{x}$, where $x < 0.3$. \n We use the data at $T = 298$K from the ``Pax08'' sample in (Komatsu, 2003) with $x = 0.215$. \n The data was presented in the $Pbnm$ setting of space group \\#62.  We used FINDSYM to transform this into the standard $Pnma$ setting. \n (Herman, 1937) gave this the $S0_{5}$ designation, but co-listed it as $H5_{5}$ in the index.",
+    "legacy": false,
     "notes": "$S0_{5}$, Topaz",
-    "ccdc": null,
-    "icsd": "55860"
+    "comments": "The fluorine (8d) site in topaz can have a composition F$_{1-x}$(OH)$_{x}$, where $x < 0.3$. \n We use the data at $T = 298$K from the ``Pax08'' sample in (Komatsu, 2003) with $x = 0.215$. \n The data was presented in the $Pbnm$ setting of space group \\#62.  We used FINDSYM to transform this into the standard $Pnma$ setting. \n (Herman, 1937) gave this the $S0_{5}$ designation, but co-listed it as $H5_{5}$ in the index."
 }

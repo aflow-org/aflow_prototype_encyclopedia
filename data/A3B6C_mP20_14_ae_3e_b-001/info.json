@@ -1,9 +1,19 @@
 {
     "uid": "ZB6P",
+    "label": "A3B6C_mP20_14_ae_3e_b-001",
+    "alias": "A3B6C_mP20_14_ae_3e_b-001",
+    "title": "High Pressure Mn$_{3}$TeO$_{6}$ Double Perovskite Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "Mn3O6Te",
     "prototype_tex": "Mn$_{3}$O$_{6}$Te",
-    "label": "A3B6C_mP20_14_ae_3e_b-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mP20",
+    "space_group_number": 14,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -39,17 +49,8 @@
         0.9244,
         0.8794
     ],
-    "strukturbericht": null,
-    "title": "High Pressure Mn$_{3}$TeO$_{6}$ Double Perovskite Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B6C_mP20_14_ae_3e_b-001",
-    "number_of_species": 3,
-    "pearson_symbol": "mP20",
-    "space_group_number": 14,
-    "comments": "This is a high pressure phase of Mn$_{3}$TeO$_{6}$, prepared 8\\,GPa and 1173\\,K.  The data was taken under ambient conditions. \n The normal state of Mn$_{3}$TeO$_{6}$ is the \\href{current_web_home_dir/A3B6C_hR20_148_f_2f_ab-001}{rhombohedral Mg$_{3}$TeO$_{6}$} structure. \n (Ar\\'{e}valo-L\\'{o}pez, 2019) give the structure in the $P2_{1}/n$ setting of space group \\#14.  We used AFLOW to transform this to the standard $P2_{1}/c$ setting.  This involves a rearrangement of the primitive vectors and shifted the origin from the Te I site to the Mn I site.",
+    "legacy": false,
     "notes": "HP",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "This is a high pressure phase of Mn$_{3}$TeO$_{6}$, prepared 8\\,GPa and 1173\\,K.  The data was taken under ambient conditions. \n The normal state of Mn$_{3}$TeO$_{6}$ is the \\href{current_web_home_dir/A3B6C_hR20_148_f_2f_ab-001}{rhombohedral Mg$_{3}$TeO$_{6}$} structure. \n (Ar\\'{e}valo-L\\'{o}pez, 2019) give the structure in the $P2_{1}/n$ setting of space group \\#14.  We used AFLOW to transform this to the standard $P2_{1}/c$ setting.  This involves a rearrangement of the primitive vectors and shifted the origin from the Te I site to the Mn I site."
 }

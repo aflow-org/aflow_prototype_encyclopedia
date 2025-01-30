@@ -1,9 +1,19 @@
 {
     "uid": "SUXC",
+    "label": "ABC4_tI12_82_a_c_g-001",
+    "alias": "ABC4_tI12_82_a_c_g-001",
+    "title": "InPS$_{4}$ Structure",
+    "icsd": "23612",
+    "ccdc": null,
     "prototype": "InPS4",
     "prototype_tex": "InPS$_{4}$",
-    "label": "ABC4_tI12_82_a_c_g-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tI12",
+    "space_group_number": 82,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -17,17 +27,8 @@
         0.692,
         0.869
     ],
-    "strukturbericht": null,
-    "title": "InPS$_{4}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC4_tI12_82_a_c_g-001",
-    "number_of_species": 3,
-    "pearson_symbol": "tI12",
-    "space_group_number": 82,
-    "comments": "Some references give AlPO$_{4}$ as the prototype for this structure, however this is not related to any AlPO$_{4}$ phase we have found in the literature, so we use InPS$_{4}$ as the prototype. \n The ICSD entry references another article on the same page, but gives the correct structural information.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "23612"
+    "comments": "Some references give AlPO$_{4}$ as the prototype for this structure, however this is not related to any AlPO$_{4}$ phase we have found in the literature, so we use InPS$_{4}$ as the prototype. \n The ICSD entry references another article on the same page, but gives the correct structural information."
 }

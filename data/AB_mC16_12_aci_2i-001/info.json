@@ -1,9 +1,19 @@
 {
     "uid": "7BKU",
+    "label": "AB_mC16_12_aci_2i-001",
+    "alias": "AB_mC16_12_aci_2i-001",
+    "title": "CoGe Structure",
+    "icsd": "43677",
+    "ccdc": null,
     "prototype": "CoGe",
     "prototype_tex": "CoGe",
-    "label": "AB_mC16_12_aci_2i-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC16",
+    "space_group_number": 12,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -27,17 +37,8 @@
         0.433,
         0.74
     ],
-    "strukturbericht": null,
-    "title": "CoGe Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_mC16_12_aci_2i-001",
-    "number_of_species": 2,
-    "pearson_symbol": "mC16",
-    "space_group_number": 12,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "43677"
+    "comments": null
 }

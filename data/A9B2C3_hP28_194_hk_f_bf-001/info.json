@@ -1,9 +1,19 @@
 {
     "uid": "77Z6",
+    "label": "A9B2C3_hP28_194_hk_f_bf-001",
+    "alias": "A9B2C3_hP28_194_hk_f_bf",
+    "title": "Cs$_{3}$Cr$_{2}$Cl$_{9}$ Structure",
+    "icsd": "16706",
+    "ccdc": null,
     "prototype": "Cl9Cr2Cs3",
     "prototype_tex": "Cl$_{9}$Cr$_{2}$Cs$_{3}$",
-    "label": "A9B2C3_hP28_194_hk_f_bf-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP28",
+    "space_group_number": 194,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -21,17 +31,8 @@
         0.824003,
         0.092
     ],
-    "strukturbericht": null,
-    "title": "Cs$_{3}$Cr$_{2}$Cl$_{9}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A9B2C3_hP28_194_hk_f_bf",
-    "number_of_species": 3,
-    "pearson_symbol": "hP28",
-    "space_group_number": 194,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "16706"
+    "comments": null
 }

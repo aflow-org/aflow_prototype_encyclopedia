@@ -1,9 +1,19 @@
 {
     "uid": "GXVQ",
+    "label": "A4BC12_cI34_204_c_a_g-001",
+    "alias": "A4BC12_cI34_204_c_a_g",
+    "title": "LaFe$_{4}$P$_{12}$ Structure",
+    "icsd": "1286",
+    "ccdc": null,
     "prototype": "LaFe4P12",
     "prototype_tex": "LaFe$_{4}$P$_{12}$",
-    "label": "A4BC12_cI34_204_c_a_g-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cI34",
+    "space_group_number": 204,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "y3",
         "z3"
@@ -13,17 +23,8 @@
         0.3539,
         0.1504
     ],
-    "strukturbericht": null,
-    "title": "LaFe$_{4}$P$_{12}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4BC12_cI34_204_c_a_g",
-    "number_of_species": 3,
-    "pearson_symbol": "cI34",
-    "space_group_number": 204,
-    "comments": "This is a \\href{current_web_home_dir/A3B_cI32_204_g_c-001}{filled skutterudite (CoAs$_{3}$, $D0_{2}$) structure}.  Removing the rare-earth atom from the (2a) position leaves the skutterudite structure.",
+    "legacy": false,
     "notes": "Filled Skutterudite",
-    "ccdc": null,
-    "icsd": "1286"
+    "comments": "This is a \\href{current_web_home_dir/A3B_cI32_204_g_c-001}{filled skutterudite (CoAs$_{3}$, $D0_{2}$) structure}.  Removing the rare-earth atom from the (2a) position leaves the skutterudite structure."
 }

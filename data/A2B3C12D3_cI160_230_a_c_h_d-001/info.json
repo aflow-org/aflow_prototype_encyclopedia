@@ -1,9 +1,19 @@
 {
     "uid": "YMRU",
+    "label": "A2B3C12D3_cI160_230_a_c_h_d-001",
+    "alias": "A2B3C12D3_cI160_230_a_c_h_d",
+    "title": "Garnet [$S1_{4}$, Co$_{3}$Al$_{2}$(SiO$_{4}$)$_{3}$] Structure",
+    "icsd": "81358",
+    "ccdc": null,
     "prototype": "Al2Co3O12Si3",
     "prototype_tex": "Al$_{2}$Co$_{3}$O$_{12}$Si$_{3}$",
-    "label": "A2B3C12D3_cI160_230_a_c_h_d-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "cI160",
+    "space_group_number": 230,
+    "strukturbericht": "S1_4",
+    "strukturbericht_tex": "$S1_{4}$",
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "x4",
         "y4",
@@ -15,18 +25,8 @@
         0.4664,
         0.0512
     ],
-    "strukturbericht": "S1_4",
-    "title": "Garnet [$S1_{4}$, Co$_{3}$Al$_{2}$(SiO$_{4}$)$_{3}$] Structure",
-    "part": 2,
-    "legacy": false,
-    "strukturbericht_tex": "$S1_{4}$",
     "compounds": {},
-    "alias": "A2B3C12D3_cI160_230_a_c_h_d",
-    "number_of_species": 4,
-    "pearson_symbol": "cI160",
-    "space_group_number": 230,
-    "comments": "(Ross, 1996) does not explicitly give the positions of the Al and Si atoms, which we take from (Downs, 2003). \n (Ewald, 1937) orginally gave Ca$_3$Al$_2$(SiO$_{4}$)$_3$ garnet the {\\em Strukturbericht} designation $H31$ or $H3_{1}$.  It was reclassified as a silicate and given the designation $S1_{4}$ by (Gottfried, 1937). \n Although the original prototype was Ca$_3$Al$_2$(SiO$_{4}$)$_3$, we have better data for the isostructural Co$_3$Al$_2$(SiO$_{4}$)$_3$ and so use it as our example. \n For pure ternary compounds, see \\href{current_web_home_dir/A5B12C3_cI160_230_ad_h_c-001}{Y$_{3}$Al$_{5}$O$_{12}$ Garnet (YAG)}.",
+    "legacy": false,
     "notes": "$S1_{4}$, Garnet",
-    "ccdc": null,
-    "icsd": "81358"
+    "comments": "(Ross, 1996) does not explicitly give the positions of the Al and Si atoms, which we take from (Downs, 2003). \n (Ewald, 1937) orginally gave Ca$_3$Al$_2$(SiO$_{4}$)$_3$ garnet the {\\em Strukturbericht} designation $H31$ or $H3_{1}$.  It was reclassified as a silicate and given the designation $S1_{4}$ by (Gottfried, 1937). \n Although the original prototype was Ca$_3$Al$_2$(SiO$_{4}$)$_3$, we have better data for the isostructural Co$_3$Al$_2$(SiO$_{4}$)$_3$ and so use it as our example. \n For pure ternary compounds, see \\href{current_web_home_dir/A5B12C3_cI160_230_ad_h_c-001}{Y$_{3}$Al$_{5}$O$_{12}$ Garnet (YAG)}."
 }

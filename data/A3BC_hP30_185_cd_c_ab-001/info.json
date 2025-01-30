@@ -1,9 +1,19 @@
 {
     "uid": "PKFR",
+    "label": "A3BC_hP30_185_cd_c_ab-001",
+    "alias": "A3BC_hP30_185_cd_c_ab",
+    "title": "KNiCl$_{3}$ Structure",
+    "icsd": "10508",
+    "ccdc": null,
     "prototype": "Cl3KNi",
     "prototype_tex": "Cl$_{3}$KNi",
-    "label": "A3BC_hP30_185_cd_c_ab-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP30",
+    "space_group_number": 185,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -29,17 +39,8 @@
         0.5056,
         0.1148
     ],
-    "strukturbericht": null,
-    "title": "KNiCl$_{3}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3BC_hP30_185_cd_c_ab",
-    "number_of_species": 3,
-    "pearson_symbol": "hP30",
-    "space_group_number": 185,
-    "comments": "Space group $P6_{3}cm$ \\#185 allows an arbitary choice of the origin of the $z$-axis.  Here we set $z_{1} = 0$ for the nickel (2a) atoms.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "10508"
+    "comments": "Space group $P6_{3}cm$ \\#185 allows an arbitary choice of the origin of the $z$-axis.  Here we set $z_{1} = 0$ for the nickel (2a) atoms."
 }

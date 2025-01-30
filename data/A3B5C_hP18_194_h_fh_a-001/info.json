@@ -1,9 +1,19 @@
 {
     "uid": "3718",
+    "label": "A3B5C_hP18_194_h_fh_a-001",
+    "alias": "A3B5C_hP18_194_h_fh_a-001",
+    "title": "Disordered YBO$_{3}$ Structure",
+    "icsd": "27931",
+    "ccdc": null,
     "prototype": "BO3Y",
     "prototype_tex": "BO$_{3}$Y",
-    "label": "A3B5C_hP18_194_h_fh_a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP18",
+    "space_group_number": 194,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -17,17 +27,8 @@
         0.23,
         0.024
     ],
-    "strukturbericht": null,
-    "title": "Disordered YBO$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B5C_hP18_194_h_fh_a-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hP18",
-    "space_group_number": 194,
-    "comments": "(Newnham, 1963) found two possible structures for TmBO$_{3}$ and YBO$_{3}$: \\begin{itemize} \\item This structure, with a compact hexagonal cell and partially disordered boron and oxygen atoms, and \\item \\href{current_web_home_dir/AB3C_hP30_193_g_gk_bd-001}{a completely ordered structure with a larger hexagonal cell}. \\end{itemize} ~ \\vspace{-.25in} \n In the current structure only 1/3 of the boron and oxygen (6h) sites are occupied.",
+    "legacy": false,
     "notes": "Disordered YBO$_{3}$",
-    "ccdc": null,
-    "icsd": "27931"
+    "comments": "(Newnham, 1963) found two possible structures for TmBO$_{3}$ and YBO$_{3}$: \\begin{itemize} \\item This structure, with a compact hexagonal cell and partially disordered boron and oxygen atoms, and \\item \\href{current_web_home_dir/AB3C_hP30_193_g_gk_bd-001}{a completely ordered structure with a larger hexagonal cell}. \\end{itemize} ~ \\vspace{-.25in} \n In the current structure only 1/3 of the boron and oxygen (6h) sites are occupied."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "RZ2Y",
+    "label": "A2B2CD8_oC104_64_ef_2f_d_4f2g-001",
+    "alias": "A2B2CD8_oC104_64_ef_2f_d_4f2g-001",
+    "title": "K$_{2}$Ni(MoO$_{4}$)$_{2}$ structure",
+    "icsd": "200310",
+    "ccdc": null,
     "prototype": "K2Mo2NiO8",
     "prototype_tex": "K$_{2}$Mo$_{2}$NiO$_{8}$",
-    "label": "A2B2CD8_oC104_64_ef_2f_d_4f2g-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oC104",
+    "space_group_number": 64,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -57,17 +67,8 @@
         0.3914,
         0.5021
     ],
-    "strukturbericht": null,
-    "title": "K$_{2}$Ni(MoO$_{4}$)$_{2}$ structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B2CD8_oC104_64_ef_2f_d_4f2g-001",
-    "number_of_species": 4,
-    "pearson_symbol": "oC104",
-    "space_group_number": 64,
-    "comments": "We use the data from (Murugan, 2021) taken at 2K, with the following modifications: \n (Murugan, 2021) give the coordinates of the Mo-I, O-I, and O-II atoms in the form $(0 y z)$.  These coordinates give an unreasonable structure.  It became apparent to us that these three positions should have the coordinates $(1/2 y z)$, following (Klevtsova, 1978).  When this change is made the structures from these two papers are quite similar. \n (Murugan, 2021) do not have their structure deposited in the ICSD.  ICSD entry 200310 comes from (Klevtsova, 1978).",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "200310"
+    "comments": "We use the data from (Murugan, 2021) taken at 2K, with the following modifications: \n (Murugan, 2021) give the coordinates of the Mo-I, O-I, and O-II atoms in the form $(0 y z)$.  These coordinates give an unreasonable structure.  It became apparent to us that these three positions should have the coordinates $(1/2 y z)$, following (Klevtsova, 1978).  When this change is made the structures from these two papers are quite similar. \n (Murugan, 2021) do not have their structure deposited in the ICSD.  ICSD entry 200310 comes from (Klevtsova, 1978)."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "KHU7",
+    "label": "AB4C_oP24_33_a_4a_a-001",
+    "alias": "AB4C_oP24_33_a_4a_a-001",
+    "title": "$\\beta$-CuAlCl$_{4}$ Structure",
+    "icsd": "165607",
+    "ccdc": null,
     "prototype": "AlCl4Cu",
     "prototype_tex": "AlCl$_{4}$Cu",
-    "label": "AB4C_oP24_33_a_4a_a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP24",
+    "space_group_number": 33,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -49,17 +59,8 @@
         0.9939,
         0.05994
     ],
-    "strukturbericht": null,
-    "title": "$\\beta$-CuAlCl$_{4}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB4C_oP24_33_a_4a_a-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oP24",
-    "space_group_number": 33,
-    "comments": "This is a meta-stable structure of CuAlCl$_{4}$.  The ground state is the \\href{current_web_home_dir/AB4C_tP12_112_b_n_e-001}{tetragonal $\\alpha$-CuAlCl$_{4}$ structure}.",
+    "legacy": false,
     "notes": "$\\beta$-CuAlCl$_{4}$",
-    "ccdc": null,
-    "icsd": "165607"
+    "comments": "This is a meta-stable structure of CuAlCl$_{4}$.  The ground state is the \\href{current_web_home_dir/AB4C_tP12_112_b_n_e-001}{tetragonal $\\alpha$-CuAlCl$_{4}$ structure}."
 }

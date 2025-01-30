@@ -1,9 +1,19 @@
 {
     "uid": "TEMZ",
+    "label": "A4BC2_oP28_56_cde_a_e-001",
+    "alias": "A4BC2_oP28_56_cde_a_e-001",
+    "title": "Low-temperature Sr$_{2}$SnO$_{4}$ Structure",
+    "icsd": "59760",
+    "ccdc": null,
     "prototype": "O4SnSr2",
     "prototype_tex": "O$_{4}$SnSr$_{2}$",
-    "label": "A4BC2_oP28_56_cde_a_e-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP28",
+    "space_group_number": 56,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -29,17 +39,8 @@
         0.0104,
         0.35341
     ],
-    "strukturbericht": null,
-    "title": "Low-temperature Sr$_{2}$SnO$_{4}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4BC2_oP28_56_cde_a_e-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oP28",
-    "space_group_number": 56,
-    "comments": "We use the 4K data from (Fu, 2002). \n Many sources, including the ICSD, use La$_{2}$CuO$_{4}$ as the prototype for this structure, however (Yamada, 1988) find that that compound is better described as being in the La$_{2}$NiO$_{4}$ structure. \n All of these structures are distortions of the \\href{current_web_home_dir/A4B2C_tI14_139_ce_e_a-001}{K$_{2}$NiF$_{4}$ Ruddlesden-Popper structure}, a tetragonal perovskite phase. \n (Yun, 2022) describe the phase transitions of Sr$_{2}$SnO$_{4}$ with temperature: \\begin{itemize} \\item At 4K it is in this \\href{current_web_home_dir/A4BC2_oP28_56_cde_a_e-001}{low-temperature Sr$_{2}$SnO$_{4}$}, however note that (Fu, 2002) give crystallographic information for this structure up to 300K. \\item At 12K it is observed in the aforementioned \\href{current_web_home_dir/A2BC4_oP28_50_gh_ac_ghm-001}{La$_{2}$NiO$_{4}$ structure}. \\item At 295K it is found in the \\href{current_web_home_dir/AB2C4_oC28_64_a_f_ef-003}{orthorhombic La$_{2}$CuO$_{4}$ structure}, and \n finally, at 593K, it is in the \\href{current_web_home_dir/A4B2C_tI14_139_ce_e_a-001}{K$_{2}$NiF$_{4}$ Ruddlesden-Popper structure}. \\end{itemize} ~ \\vspace{-0.25in} \n The exact experimental situation for these Ruddlesden-Popper derivatives is very uncertain, and we will update this page if and when more information is available.",
+    "legacy": false,
     "notes": "LT",
-    "ccdc": null,
-    "icsd": "59760"
+    "comments": "We use the 4K data from (Fu, 2002). \n Many sources, including the ICSD, use La$_{2}$CuO$_{4}$ as the prototype for this structure, however (Yamada, 1988) find that that compound is better described as being in the La$_{2}$NiO$_{4}$ structure. \n All of these structures are distortions of the \\href{current_web_home_dir/A4B2C_tI14_139_ce_e_a-001}{K$_{2}$NiF$_{4}$ Ruddlesden-Popper structure}, a tetragonal perovskite phase. \n (Yun, 2022) describe the phase transitions of Sr$_{2}$SnO$_{4}$ with temperature: \\begin{itemize} \\item At 4K it is in this \\href{current_web_home_dir/A4BC2_oP28_56_cde_a_e-001}{low-temperature Sr$_{2}$SnO$_{4}$}, however note that (Fu, 2002) give crystallographic information for this structure up to 300K. \\item At 12K it is observed in the aforementioned \\href{current_web_home_dir/A2BC4_oP28_50_gh_ac_ghm-001}{La$_{2}$NiO$_{4}$ structure}. \\item At 295K it is found in the \\href{current_web_home_dir/AB2C4_oC28_64_a_f_ef-003}{orthorhombic La$_{2}$CuO$_{4}$ structure}, and \n finally, at 593K, it is in the \\href{current_web_home_dir/A4B2C_tI14_139_ce_e_a-001}{K$_{2}$NiF$_{4}$ Ruddlesden-Popper structure}. \\end{itemize} ~ \\vspace{-0.25in} \n The exact experimental situation for these Ruddlesden-Popper derivatives is very uncertain, and we will update this page if and when more information is available."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "XBGM",
+    "label": "A24BC_cF104_209_j_a_b-001",
+    "alias": "A24BC_cF104_209_j_a_b",
+    "title": "KPF$_{6}$ Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "F6KP",
     "prototype_tex": "F$_{6}$KP",
-    "label": "A24BC_cF104_209_j_a_b-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cF104",
+    "space_group_number": 209,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "x3",
         "y3",
@@ -15,17 +25,8 @@
         0.609,
         0.165
     ],
-    "strukturbericht": null,
-    "title": "KPF$_{6}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A24BC_cF104_209_j_a_b",
-    "number_of_species": 3,
-    "pearson_symbol": "cF104",
-    "space_group_number": 209,
-    "comments": "The (96j) Wyckoff positions are decorated by F atoms with a site occupation of 0.25, hence the prototype material is KPF$_{6}$ rather than KPF$_{24}$.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "none"
+    "comments": "The (96j) Wyckoff positions are decorated by F atoms with a site occupation of 0.25, hence the prototype material is KPF$_{6}$ rather than KPF$_{24}$."
 }

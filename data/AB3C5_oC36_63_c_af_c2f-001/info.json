@@ -1,9 +1,19 @@
 {
     "uid": "8XTL",
+    "label": "AB3C5_oC36_63_c_af_c2f-001",
+    "alias": "AB3C5_oC36_63_c_af_c2f-001",
+    "title": "CaFe$_{3}$O$_{5}$ Structure",
+    "icsd": "16354",
+    "ccdc": null,
     "prototype": "CaFe3O5",
     "prototype_tex": "CaFe$_{3}$O$_{5}$",
-    "label": "AB3C5_oC36_63_c_af_c2f-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oC36",
+    "space_group_number": 63,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -29,17 +39,8 @@
         0.9048,
         0.135
     ],
-    "strukturbericht": null,
-    "title": "CaFe$_{3}$O$_{5}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB3C5_oC36_63_c_af_c2f-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oC36",
-    "space_group_number": 63,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "16354"
+    "comments": null
 }

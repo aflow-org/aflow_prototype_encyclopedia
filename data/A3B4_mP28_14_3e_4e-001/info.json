@@ -1,9 +1,19 @@
 {
     "uid": "6ZEC",
+    "label": "A3B4_mP28_14_3e_4e-001",
+    "alias": "A3B4_mP28_14_3e_4e-001",
+    "title": "Tl$_{4}$S$_{3}$ Structure",
+    "icsd": "2647",
+    "ccdc": null,
     "prototype": "S3Tl4",
     "prototype_tex": "S$_{3}$Tl$_{4}$",
-    "label": "A3B4_mP28_14_3e_4e-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mP28",
+    "space_group_number": 14,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -57,17 +67,8 @@
         1.54074e-33,
         0.2858
     ],
-    "strukturbericht": null,
-    "title": "Tl$_{4}$S$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B4_mP28_14_3e_4e-001",
-    "number_of_species": 2,
-    "pearson_symbol": "mP28",
-    "space_group_number": 14,
-    "comments": "(Leclerc, 1973) give the structural information in the $P2_{1}/a$ (unique axis c) setting of space group \\#14.  We used FINDSYM to transform this to the $P2_{1}/c$ (unique axis b) setting.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "2647"
+    "comments": "(Leclerc, 1973) give the structural information in the $P2_{1}/a$ (unique axis c) setting of space group \\#14.  We used FINDSYM to transform this to the $P2_{1}/c$ (unique axis b) setting."
 }

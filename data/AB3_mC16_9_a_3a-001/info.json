@@ -1,9 +1,19 @@
 {
     "uid": "QYSB",
+    "label": "AB3_mC16_9_a_3a-001",
+    "alias": "AB3_mC16_9_a_3a",
+    "title": "H$_{3}$Cl (20 GPa) Structure",
+    "icsd": "671645",
+    "ccdc": null,
     "prototype": "ClH3",
     "prototype_tex": "ClH$_{3}$",
-    "label": "AB3_mC16_9_a_3a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC16",
+    "space_group_number": 9,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -39,17 +49,8 @@
         0.32037,
         0.43964
     ],
-    "strukturbericht": null,
-    "title": "H$_{3}$Cl (20 GPa) Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB3_mC16_9_a_3a",
-    "number_of_species": 2,
-    "pearson_symbol": "mC16",
-    "space_group_number": 9,
-    "comments": "This structure was found via first-principles calculations. The data presented here was computed at a pressure of 20 GPa.",
+    "legacy": false,
     "notes": "HP, Theory",
-    "ccdc": null,
-    "icsd": "671645"
+    "comments": "This structure was found via first-principles calculations. The data presented here was computed at a pressure of 20 GPa."
 }

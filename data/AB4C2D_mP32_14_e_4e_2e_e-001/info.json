@@ -1,9 +1,19 @@
 {
     "uid": "SAP5",
+    "label": "AB4C2D_mP32_14_e_4e_2e_e-001",
+    "alias": "AB4C2D_mP32_14_e_4e_2e_e",
+    "title": "KAuBr$_{4}\\cdot$2H$_{2}$O ($H4_{19}$) Structure",
+    "icsd": "61248",
+    "ccdc": null,
     "prototype": "AuBr4(H2O)2K",
     "prototype_tex": "AuBr$_{4}$(H$_{2}$O)$_{2}$K",
-    "label": "AB4C2D_mP32_14_e_4e_2e_e-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "mP32",
+    "space_group_number": 14,
+    "strukturbericht": "H4_19",
+    "strukturbericht_tex": "$H4_{19}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -63,18 +73,8 @@
         0.4723,
         0.749
     ],
-    "strukturbericht": "H4_19",
-    "title": "KAuBr$_{4}\\cdot$2H$_{2}$O ($H4_{19}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$H4_{19}$",
     "compounds": {},
-    "alias": "AB4C2D_mP32_14_e_4e_2e_e",
-    "number_of_species": 4,
-    "pearson_symbol": "mP32",
-    "space_group_number": 14,
-    "comments": "(Cox, 1936) determined lattice constants for KAuBr$_{4}$$\\cdot$H$_{2}$O which were very close to those later found by (Omarni, 1986).  However, Cox {\\em et al.} found that the (100) planes (in our orientation) with odd indices showed very weak diffraction spots.  Neglecting these spots gives a unit cell which has a lattice constant $a$ (in our orientation) which is half the size of that found by Omarni {\\em et al}, and so Pearson symbol mP16.  Fitting this cell into space group $P2_1/c$ \\#14 then required that the gold atom be at the (2a) Wyckoff position and the potassium atom at (2b), while the later paper found that these atoms are slightly displaced from those points. \n The results of (Omarni, 1986) are very close to those of (Cox, 1936) and can indeed reduce to the Cox {\\em et al.} structure by allowing some uncertainty in the atomic positions.  Given this, and the fact that the former reference actually found the correct unit cell, we will use the more modern work as our prototype for {\\em Strukturbericht} symbol $H4_{19}$. \n The positions of the hydrogen atoms in the water molecules were not determined, so we only show the oxygen positions, labeled H$_{2}$O. \n (Omarni, 1986) gave the unit cell and Wyckoff positions in terms of setting $P2_1/n$ of space group \\#14.  Changing this to the standard $P2_1/c$ setting required a rotation of the lattice and a significant rewriting of the primitive vectors. \n The anhydrous form of this compound can be seen at \\href{current_web_home_dir/AB4C_mP24_14_ab_4e_e-001}{KAuBr$_{4}$ (AB4C\\_mP24\\_14\\_ab\\_4e\\_e)}.",
+    "legacy": false,
     "notes": "$H4_{19}$",
-    "ccdc": null,
-    "icsd": "61248"
+    "comments": "(Cox, 1936) determined lattice constants for KAuBr$_{4}$$\\cdot$H$_{2}$O which were very close to those later found by (Omarni, 1986).  However, Cox {\\em et al.} found that the (100) planes (in our orientation) with odd indices showed very weak diffraction spots.  Neglecting these spots gives a unit cell which has a lattice constant $a$ (in our orientation) which is half the size of that found by Omarni {\\em et al}, and so Pearson symbol mP16.  Fitting this cell into space group $P2_1/c$ \\#14 then required that the gold atom be at the (2a) Wyckoff position and the potassium atom at (2b), while the later paper found that these atoms are slightly displaced from those points. \n The results of (Omarni, 1986) are very close to those of (Cox, 1936) and can indeed reduce to the Cox {\\em et al.} structure by allowing some uncertainty in the atomic positions.  Given this, and the fact that the former reference actually found the correct unit cell, we will use the more modern work as our prototype for {\\em Strukturbericht} symbol $H4_{19}$. \n The positions of the hydrogen atoms in the water molecules were not determined, so we only show the oxygen positions, labeled H$_{2}$O. \n (Omarni, 1986) gave the unit cell and Wyckoff positions in terms of setting $P2_1/n$ of space group \\#14.  Changing this to the standard $P2_1/c$ setting required a rotation of the lattice and a significant rewriting of the primitive vectors. \n The anhydrous form of this compound can be seen at \\href{current_web_home_dir/AB4C_mP24_14_ab_4e_e-001}{KAuBr$_{4}$ (AB4C\\_mP24\\_14\\_ab\\_4e\\_e)}."
 }

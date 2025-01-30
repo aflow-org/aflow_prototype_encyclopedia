@@ -1,9 +1,19 @@
 {
     "uid": "CNLR",
+    "label": "AB6C11D6E4_mC112_12_e_gi2j_i5j_2i2j_2j-001",
+    "alias": "AB6C11D6E4_mC112_12_e_gi2j_i5j_2i2j_2j",
+    "title": "Chrysotile [Mg$_{6}$O$_{11}$Si$_{4}$(H$_{2}$O)(OH)$_{6}$, $S4_{5}$] Structure",
+    "icsd": "36225",
+    "ccdc": null,
     "prototype": "(H2O)Mg6O11(OH)6Si4",
     "prototype_tex": "(H$_{2}$O)Mg$_{6}$O$_{11}$(OH)$_{6}$Si$_{4}$",
-    "label": "AB6C11D6E4_mC112_12_e_gi2j_i5j_2i2j_2j-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "mC112",
+    "space_group_number": 12,
+    "strukturbericht": "S4_5",
+    "strukturbericht_tex": "$S4_{5}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -99,18 +109,8 @@
         0.33,
         0.53
     ],
-    "strukturbericht": "S4_5",
-    "title": "Chrysotile [Mg$_{6}$O$_{11}$Si$_{4}$(H$_{2}$O)(OH)$_{6}$, $S4_{5}$] Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$S4_{5}$",
     "compounds": {},
-    "alias": "AB6C11D6E4_mC112_12_e_gi2j_i5j_2i2j_2j",
-    "number_of_species": 5,
-    "pearson_symbol": "mC112",
-    "space_group_number": 12,
-    "comments": "Chrysotile is more commonly known as ``white asbestos.'' Chrysotile sheets typically curl into tubular fibers and the crystal structure is difficult to determine.  (Yada, 1967) has a partial list of the experiments performed to determine this structure. The current structure was given the {\\em Strukturbericht} designation $S4_{5}$ by (Hermann, 1937).  It doubles the unit cell of our other chrysotile structure, \\href{current_web_home_dir/A3B5C4D2_mC56_9_3a_5a_4a_2a-001}{by (Falini, 2004)} and includes an inversion site. \n The structure was originally given in the $I2/m$ setting of space group \\#12.  We used FINDSYM to place it in the standard $C2/m$ setting.",
+    "legacy": false,
     "notes": "$S4_{5}$, Chrysotile",
-    "ccdc": null,
-    "icsd": "36225"
+    "comments": "Chrysotile is more commonly known as ``white asbestos.'' Chrysotile sheets typically curl into tubular fibers and the crystal structure is difficult to determine.  (Yada, 1967) has a partial list of the experiments performed to determine this structure. The current structure was given the {\\em Strukturbericht} designation $S4_{5}$ by (Hermann, 1937).  It doubles the unit cell of our other chrysotile structure, \\href{current_web_home_dir/A3B5C4D2_mC56_9_3a_5a_4a_2a-001}{by (Falini, 2004)} and includes an inversion site. \n The structure was originally given in the $I2/m$ setting of space group \\#12.  We used FINDSYM to place it in the standard $C2/m$ setting."
 }

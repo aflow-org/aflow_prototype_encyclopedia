@@ -1,9 +1,19 @@
 {
     "uid": "422U",
+    "label": "A2B3C5_mC40_12_2i_3i_5i-001",
+    "alias": "A2B3C5_mC40_12_2i_3i_5i-001",
+    "title": "Pr$_{5}$Co$_{2}$Ge$_{4}$ Structure",
+    "icsd": null,
+    "ccdc": "1882993",
     "prototype": "Co2Ge4Pr5",
     "prototype_tex": "Co$_{2}$Ge$_{4}$Pr$_{5}$",
-    "label": "A2B3C5_mC40_12_2i_3i_5i-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mC40",
+    "space_group_number": 12,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -55,17 +65,8 @@
         0.3717,
         0.7705
     ],
-    "strukturbericht": null,
-    "title": "Pr$_{5}$Co$_{2}$Ge$_{4}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B3C5_mC40_12_2i_3i_5i-001",
-    "number_of_species": 3,
-    "pearson_symbol": "mC40",
-    "space_group_number": 12,
-    "ccdc": "1882993",
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": null
+    "comments": null
 }

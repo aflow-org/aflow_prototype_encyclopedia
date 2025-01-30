@@ -1,9 +1,19 @@
 {
     "uid": "WX0M",
+    "label": "AB3C_cP60_201_be_fh_g-001",
+    "alias": "AB3C_cP60_201_be_fh_g",
+    "title": "KSbO$_{3}$ (High-Temperature) Structure",
+    "icsd": "41203",
+    "ccdc": null,
     "prototype": "KO3Sb",
     "prototype_tex": "KO$_{3}$Sb",
-    "label": "AB3C_cP60_201_be_fh_g-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cP60",
+    "space_group_number": 201,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "x2",
         "x3",
@@ -21,17 +31,8 @@
         0.0972,
         0.75
     ],
-    "strukturbericht": null,
-    "title": "KSbO$_{3}$ (High-Temperature) Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB3C_cP60_201_be_fh_g",
-    "number_of_species": 3,
-    "pearson_symbol": "cP60",
-    "space_group_number": 201,
+    "legacy": false,
     "notes": "HT",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "41203"
+    "comments": null
 }

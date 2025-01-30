@@ -1,9 +1,19 @@
 {
     "uid": "Y79W",
+    "label": "A2B3_hP10_194_f_bf-001",
+    "alias": "A2B3_hP10_194_f_bf",
+    "title": "Pt$_{2}$Sn$_{3}$ ($D5_{b}$) Structure",
+    "icsd": "105794",
+    "ccdc": null,
     "prototype": "Pt2Sn3",
     "prototype_tex": "Pt$_{2}$Sn$_{3}$",
-    "label": "A2B3_hP10_194_f_bf-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP10",
+    "space_group_number": 194,
+    "strukturbericht": "D5_b",
+    "strukturbericht_tex": "$D5_{b}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -15,18 +25,8 @@
         0.643,
         0.43
     ],
-    "strukturbericht": "D5_b",
-    "title": "Pt$_{2}$Sn$_{3}$ ($D5_{b}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$D5_{b}$",
     "compounds": {},
-    "alias": "A2B3_hP10_194_f_bf",
-    "number_of_species": 2,
-    "pearson_symbol": "hP10",
-    "space_group_number": 194,
-    "comments": "We were unable to obtain a copy of (Schubert, 1949), and so we use the structural parameters given by (Pearson, 1958), using (Wood, 1947) to convert the $kX$ units used by Pearson into {\\AA}ngstr\\\"{o}m units.",
+    "legacy": false,
     "notes": "$D5_{b}$",
-    "ccdc": null,
-    "icsd": "105794"
+    "comments": "We were unable to obtain a copy of (Schubert, 1949), and so we use the structural parameters given by (Pearson, 1958), using (Wood, 1947) to convert the $kX$ units used by Pearson into {\\AA}ngstr\\\"{o}m units."
 }

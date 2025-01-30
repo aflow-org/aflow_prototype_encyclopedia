@@ -1,9 +1,19 @@
 {
     "uid": "PYMC",
+    "label": "AB22C23D2E2_oP200_62_c_11d_3c10d_d_d-001",
+    "alias": "AB22C23D2E2_oP200_62_c_11d_3c10d_d_d",
+    "title": "Autunite {Ca[(UO$_{2}$)(PO$_{4}$)]$_{2}$(H$_{2}$O)$_{11}$} Structure",
+    "icsd": "96812",
+    "ccdc": null,
     "prototype": "CaH22O23P2U2",
     "prototype_tex": "CaH$_{22}$O$_{23}$P$_{2}$U$_{2}$",
-    "label": "AB22C23D2E2_oP200_62_c_11d_3c10d_d_d-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "oP200",
+    "space_group_number": 62,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -167,17 +177,8 @@
         0.0412,
         0.2498
     ],
-    "strukturbericht": null,
-    "title": "Autunite {Ca[(UO$_{2}$)(PO$_{4}$)]$_{2}$(H$_{2}$O)$_{11}$} Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB22C23D2E2_oP200_62_c_11d_3c10d_d_d",
-    "number_of_species": 5,
-    "pearson_symbol": "oP200",
-    "space_group_number": 62,
-    "comments": "Autunite, Ca(UO$_{2}$)$_{2}$(PO$_{4}$)$_{2}$$\\cdot$nH$_{2}$O, is found in three varieties: \n Naturally occurring autunite, with $n > 10$, and \n partially dehydrated \\href{current_web_home_dir/AB4C6DE_tP26_129_c_j_2ci_a_c-001}{meta-autunite (I)} ($6 \\le n \\le 10$). \n Further dehydration in the laboratory produces meta-autunite (II). \n The original determination of the autunite structure designated \\href{current_web_home_dir/AB2C2_tI10_139_a_d_e-003}{$H5_{9}$ by (Herrmann, 1941)} was a tetragonal structure, none of the positions of the oxygen atom or water molecules was determined.  (Locock, 2003) find a pseudo-tetragaonal ($a \\approx 2c$) unit cell which doubles the size of the original cell.  They were able to locate all of the atoms in the structure. \n (Locock, 2003) found the (4c) calcium site to be occupied only 86\\% of the time.",
+    "legacy": false,
     "notes": "Autunite",
-    "ccdc": null,
-    "icsd": "96812"
+    "comments": "Autunite, Ca(UO$_{2}$)$_{2}$(PO$_{4}$)$_{2}$$\\cdot$nH$_{2}$O, is found in three varieties: \n Naturally occurring autunite, with $n > 10$, and \n partially dehydrated \\href{current_web_home_dir/AB4C6DE_tP26_129_c_j_2ci_a_c-001}{meta-autunite (I)} ($6 \\le n \\le 10$). \n Further dehydration in the laboratory produces meta-autunite (II). \n The original determination of the autunite structure designated \\href{current_web_home_dir/AB2C2_tI10_139_a_d_e-003}{$H5_{9}$ by (Herrmann, 1941)} was a tetragonal structure, none of the positions of the oxygen atom or water molecules was determined.  (Locock, 2003) find a pseudo-tetragaonal ($a \\approx 2c$) unit cell which doubles the size of the original cell.  They were able to locate all of the atoms in the structure. \n (Locock, 2003) found the (4c) calcium site to be occupied only 86\\% of the time."
 }

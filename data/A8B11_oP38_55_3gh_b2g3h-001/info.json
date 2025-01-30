@@ -1,9 +1,19 @@
 {
     "uid": "6FNW",
+    "label": "A8B11_oP38_55_3gh_b2g3h-001",
+    "alias": "A8B11_oP38_55_g3h_a3g2h",
+    "title": "Ru$_{11}$B$_{8}$ Structure",
+    "icsd": "43663",
+    "ccdc": null,
     "prototype": "B8Ru11",
     "prototype_tex": "B$_{8}$Ru$_{11}$",
-    "label": "A8B11_oP38_55_3gh_b2g3h-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP38",
+    "space_group_number": 55,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -49,17 +59,8 @@
         0.1686,
         0.174
     ],
-    "strukturbericht": null,
-    "title": "Ru$_{11}$B$_{8}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A8B11_oP38_55_g3h_a3g2h",
-    "number_of_species": 2,
-    "pearson_symbol": "oP38",
-    "space_group_number": 55,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "43663"
+    "comments": null
 }

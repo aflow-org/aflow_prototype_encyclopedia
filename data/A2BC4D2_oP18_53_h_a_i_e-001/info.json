@@ -1,9 +1,19 @@
 {
     "uid": "UFSK",
+    "label": "A2BC4D2_oP18_53_h_a_i_e-001",
+    "alias": "A2BC4D2_oP18_53_h_a_i_e",
+    "title": "Eriochalcite (CuCl$_{2}\\cdot$2H$_{2}$O, $C45$) Structure",
+    "icsd": "40290",
+    "ccdc": null,
     "prototype": "Cl2CuH4O2",
     "prototype_tex": "Cl$_{2}$CuH$_{4}$O$_{2}$",
-    "label": "A2BC4D2_oP18_53_h_a_i_e-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oP18",
+    "space_group_number": 53,
+    "strukturbericht": "C45",
+    "strukturbericht_tex": "$C45$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -25,18 +35,8 @@
         0.064,
         0.099
     ],
-    "strukturbericht": "C45",
-    "title": "Eriochalcite (CuCl$_{2}\\cdot$2H$_{2}$O, $C45$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$C45$",
     "compounds": {},
-    "alias": "A2BC4D2_oP18_53_h_a_i_e",
-    "number_of_species": 4,
-    "pearson_symbol": "oP18",
-    "space_group_number": 53,
+    "legacy": false,
     "notes": "$C45$, Eriochalcite",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "40290"
+    "comments": null
 }

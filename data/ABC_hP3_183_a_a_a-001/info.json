@@ -1,9 +1,19 @@
 {
     "uid": "Q8EL",
+    "label": "ABC_hP3_183_a_a_a-001",
+    "alias": "ABC_hP3_183_a_a_a",
+    "title": "AuCN Structure",
+    "icsd": "165175",
+    "ccdc": null,
     "prototype": "AuCN",
     "prototype_tex": "AuCN",
-    "label": "ABC_hP3_183_a_a_a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP3",
+    "space_group_number": 183,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -17,17 +27,8 @@
         0.0,
         0.618
     ],
-    "strukturbericht": null,
-    "title": "AuCN Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC_hP3_183_a_a_a",
-    "number_of_species": 3,
-    "pearson_symbol": "hP3",
-    "space_group_number": 183,
-    "comments": "We use the data taken by (Hibble, 2004) at 300K. \n Space group $P6mm$ \\#183 allows an arbitrary choice for the origin of the $z$-axis.  Here we set the origin so that $z_{2} = 0$ for the carbon (1a) site.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "165175"
+    "comments": "We use the data taken by (Hibble, 2004) at 300K. \n Space group $P6mm$ \\#183 allows an arbitrary choice for the origin of the $z$-axis.  Here we set the origin so that $z_{2} = 0$ for the carbon (1a) site."
 }

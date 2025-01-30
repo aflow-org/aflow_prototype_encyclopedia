@@ -1,9 +1,19 @@
 {
     "uid": "S2CY",
+    "label": "AB_oC8_65_g_j-001",
+    "alias": "AB_oC8_65_j_g",
+    "title": "$\\alpha$-IrV Structure",
+    "icsd": "104590",
+    "ccdc": null,
     "prototype": "IrV",
     "prototype_tex": "IrV",
-    "label": "AB_oC8_65_g_j-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oC8",
+    "space_group_number": 65,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -17,17 +27,8 @@
         0.22,
         0.72
     ],
-    "strukturbericht": null,
-    "title": "$\\alpha$-IrV Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_oC8_65_j_g",
-    "number_of_species": 2,
-    "pearson_symbol": "oC8",
-    "space_group_number": 65,
+    "legacy": false,
     "notes": "$\\alpha$-IrV",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "104590"
+    "comments": null
 }

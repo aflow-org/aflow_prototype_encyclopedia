@@ -1,9 +1,19 @@
 {
     "uid": "R0C0",
+    "label": "A2B_tI6_139_d_a-001",
+    "alias": "A2B_tI6_139_d_a",
+    "title": "ThH$_{2}$ ($L'2_{b}$) Structure",
+    "icsd": "24623",
+    "ccdc": null,
     "prototype": "H2Th",
     "prototype_tex": "H$_{2}$Th",
-    "label": "A2B_tI6_139_d_a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tI6",
+    "space_group_number": 139,
+    "strukturbericht": "L'2_b",
+    "strukturbericht_tex": "$L'2_{b}$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a"
     ],
@@ -11,18 +21,8 @@
         4.1,
         1.22683
     ],
-    "strukturbericht": "L'2_b",
-    "title": "ThH$_{2}$ ($L'2_{b}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$L'2_{b}$",
     "compounds": {},
-    "alias": "A2B_tI6_139_d_a",
-    "number_of_species": 2,
-    "pearson_symbol": "tI6",
-    "space_group_number": 139,
-    "comments": "This structure was given the extended {\\em Strukturbericht} label $L'2_{b}$ by (Pearson, 1967).  It did not appear in the original {\\em Strukturbericht} volumes.  We had previously followed (Villars, 1991) and (Westbrook, 1995) and gave it the label $L'2$, however this conflicts with the label for the \\href{current_web_home_dir/AB_tI4_139_a_b-002}{$L'2_{0}$ ``martensite'' structure}, so we will now use the original label.",
+    "legacy": false,
     "notes": "$L'2_{b}$",
-    "ccdc": null,
-    "icsd": "24623"
+    "comments": "This structure was given the extended {\\em Strukturbericht} label $L'2_{b}$ by (Pearson, 1967).  It did not appear in the original {\\em Strukturbericht} volumes.  We had previously followed (Villars, 1991) and (Westbrook, 1995) and gave it the label $L'2$, however this conflicts with the label for the \\href{current_web_home_dir/AB_tI4_139_a_b-002}{$L'2_{0}$ ``martensite'' structure}, so we will now use the original label."
 }

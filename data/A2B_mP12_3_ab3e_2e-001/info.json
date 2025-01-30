@@ -1,9 +1,19 @@
 {
     "uid": "QAF3",
+    "label": "A2B_mP12_3_ab3e_2e-001",
+    "alias": "A2B_mP12_3_bc3e_2e",
+    "title": "Predicted SiO$_{2}$ ($P2$) Structure",
+    "icsd": "75669",
+    "ccdc": null,
     "prototype": "O2Si",
     "prototype_tex": "O$_{2}$Si",
-    "label": "A2B_mP12_3_ab3e_2e-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mP12",
+    "space_group_number": 3,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -49,17 +59,8 @@
         0.58564,
         0.88098
     ],
-    "strukturbericht": null,
-    "title": "Predicted SiO$_{2}$ ($P2$) Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B_mP12_3_bc3e_2e",
-    "number_of_species": 2,
-    "pearson_symbol": "mP12",
-    "space_group_number": 3,
-    "comments": "This structure is the result of simulations of SiO$_{2}$ structures from a potential fitted to the H$_{6}$Si$_{2}$O$_{7}$ molecule. As such we do not believe it has been seen in nature. It does, however, describe a structure in space group $P2$ \\#3.",
+    "legacy": false,
     "notes": "Predicted",
-    "ccdc": null,
-    "icsd": "75669"
+    "comments": "This structure is the result of simulations of SiO$_{2}$ structures from a potential fitted to the H$_{6}$Si$_{2}$O$_{7}$ molecule. As such we do not believe it has been seen in nature. It does, however, describe a structure in space group $P2$ \\#3."
 }

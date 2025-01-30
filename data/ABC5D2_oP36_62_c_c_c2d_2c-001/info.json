@@ -1,9 +1,19 @@
 {
     "uid": "W9F8",
+    "label": "ABC5D2_oP36_62_c_c_c2d_2c-001",
+    "alias": "ABC5D2_oP36_62_c_c_c2d_2c-001",
+    "title": "BaCuSm$_{2}$O$_{5}$ Structure",
+    "icsd": "49812",
+    "ccdc": null,
     "prototype": "BaCuO5Sm2",
     "prototype_tex": "BaCuO$_{5}$Sm$_{2}$",
-    "label": "ABC5D2_oP36_62_c_c_c2d_2c-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oP36",
+    "space_group_number": 62,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -45,17 +55,8 @@
         0.006,
         0.851
     ],
-    "strukturbericht": null,
-    "title": "BaCuSm$_{2}$O$_{5}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC5D2_oP36_62_c_c_c2d_2c-001",
-    "number_of_species": 4,
-    "pearson_symbol": "oP36",
-    "space_group_number": 62,
-    "comments": "Some authors designate BaCuY$_{2}$O$_{5}$ as the prototype for this structure.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "49812"
+    "comments": "Some authors designate BaCuY$_{2}$O$_{5}$ as the prototype for this structure."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "QQ21",
+    "label": "ABCD8E3_oP112_62_d_2c_d_4c6d_3d-001",
+    "alias": "ABCD8E3_oP112_62_d_2c_d_4c6d_3d",
+    "title": "Epididymite (BeHNaO$_{8}$Si$_{3}$, $S4_{7}$) Structure",
+    "icsd": "160817",
+    "ccdc": null,
     "prototype": "BeHNaO8Si3",
     "prototype_tex": "BeHNaO$_{8}$Si$_{3}$",
-    "label": "ABCD8E3_oP112_62_d_2c_d_4c6d_3d-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "oP112",
+    "space_group_number": 62,
+    "strukturbericht": "S4_7",
+    "strukturbericht_tex": "$S4_{7}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -103,18 +113,8 @@
         0.13741,
         0.30525
     ],
-    "strukturbericht": "S4_7",
-    "title": "Epididymite (BeHNaO$_{8}$Si$_{3}$, $S4_{7}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$S4_{7}$",
     "compounds": {},
-    "alias": "ABCD8E3_oP112_62_d_2c_d_4c6d_3d",
-    "number_of_species": 5,
-    "pearson_symbol": "oP112",
-    "space_group_number": 62,
-    "comments": "(Ito, 1934)'s original determination of the epididymite structure, designated as $S4_{7}$ by (Gottfried, 1937), was flawed, even in the author's estimation.  In particular, both the Si-O and Si-Be distances are very small, with Si-Be less than 1{\\AA}. \n Ito and many later authors assumed that the hydrogen atoms formed OH radicals, but (Gatta, 2008) found that the hydrogen atoms were actually a part of a water molecule. \n Since the (Ito, 1934) structure is not even suitable for starting first-principles calculations and the (Gatta, 2008) structure maintains the $Pnma$ \\#62 space group, we have dropped the former and designate the later as $S4_{7}$. \n Epididymite and its diomorph, \\href{current_web_home_dir/A2B4C2D17E6_mC124_15_f_2f_f_e8f_3f-001}{eudidymite}, are two forms of hydrated sodium beryllium silicate which are stable under ambient conditions. (Gatta, 2008)",
+    "legacy": false,
     "notes": "$S4_{7}$, Epididymite",
-    "ccdc": null,
-    "icsd": "160817"
+    "comments": "(Ito, 1934)'s original determination of the epididymite structure, designated as $S4_{7}$ by (Gottfried, 1937), was flawed, even in the author's estimation.  In particular, both the Si-O and Si-Be distances are very small, with Si-Be less than 1{\\AA}. \n Ito and many later authors assumed that the hydrogen atoms formed OH radicals, but (Gatta, 2008) found that the hydrogen atoms were actually a part of a water molecule. \n Since the (Ito, 1934) structure is not even suitable for starting first-principles calculations and the (Gatta, 2008) structure maintains the $Pnma$ \\#62 space group, we have dropped the former and designate the later as $S4_{7}$. \n Epididymite and its diomorph, \\href{current_web_home_dir/A2B4C2D17E6_mC124_15_f_2f_f_e8f_3f-001}{eudidymite}, are two forms of hydrated sodium beryllium silicate which are stable under ambient conditions. (Gatta, 2008)"
 }

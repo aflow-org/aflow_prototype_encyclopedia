@@ -1,9 +1,19 @@
 {
     "uid": "15LF",
+    "label": "A22B5_oF216_43_11b_a2b-001",
+    "alias": "A22B5_oF216_43_11b_a2b-001",
+    "title": "Al$_{22}$Mo$_{5}$ Structure",
+    "icsd": "400888",
+    "ccdc": null,
     "prototype": "Al22Mo5",
     "prototype_tex": "Al$_{22}$Mo$_{5}$",
-    "label": "A22B5_oF216_43_11b_a2b-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oF216",
+    "space_group_number": 43,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -93,17 +103,8 @@
         0.03721,
         0.7637
     ],
-    "strukturbericht": null,
-    "title": "Al$_{22}$Mo$_{5}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A22B5_oF216_43_11b_a2b-001",
-    "number_of_species": 2,
-    "pearson_symbol": "oF216",
-    "space_group_number": 43,
-    "comments": "Space group $Fdd2$ \\#43 allows an arbitrary choice of the origin of the $z$-axis.  Here we follow (Grin, 1995) and set $z_{1} = 0$ for the Mo-I atom.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "400888"
+    "comments": "Space group $Fdd2$ \\#43 allows an arbitrary choice of the origin of the $z$-axis.  Here we follow (Grin, 1995) and set $z_{1} = 0$ for the Mo-I atom."
 }

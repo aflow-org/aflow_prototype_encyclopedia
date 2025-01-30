@@ -1,9 +1,19 @@
 {
     "uid": "7JBJ",
+    "label": "A3B_oC64_66_kl2m_acl-001",
+    "alias": "A3B_oC64_66_kl2m_bdl",
+    "title": "$\\beta$-ThI$_{3}$ Structure",
+    "icsd": "32681",
+    "ccdc": null,
     "prototype": "I3Th",
     "prototype_tex": "I$_{3}$Th",
-    "label": "A3B_oC64_66_kl2m_acl-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oC64",
+    "space_group_number": 66,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -35,17 +45,8 @@
         0.8867,
         0.3708
     ],
-    "strukturbericht": null,
-    "title": "$\\beta$-ThI$_{3}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B_oC64_66_kl2m_bdl",
-    "number_of_species": 2,
-    "pearson_symbol": "oC64",
-    "space_group_number": 66,
-    "comments": "Our original entry (Hicks, 2019) reversed the a and b axis.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "32681"
+    "comments": "Our original entry (Hicks, 2019) reversed the a and b axis."
 }

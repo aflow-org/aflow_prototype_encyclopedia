@@ -1,9 +1,19 @@
 {
     "uid": "HJWV",
+    "label": "A7BC4_cP96_218_bcefi_ad_ei-001",
+    "alias": "A7BC4_cP96_218_bcefi_ad_ei-001",
+    "title": "Li$_{7}$MnN$_{4}$ Structure",
+    "icsd": "154076",
+    "ccdc": null,
     "prototype": "Li7MnN4",
     "prototype_tex": "Li$_{7}$MnN$_{4}$",
-    "label": "A7BC4_cP96_218_bcefi_ad_ei-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cP96",
+    "space_group_number": 218,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "x5",
         "x6",
@@ -27,17 +37,8 @@
         0.3811,
         0.1085
     ],
-    "strukturbericht": null,
-    "title": "Li$_{7}$MnN$_{4}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A7BC4_cP96_218_bcefi_ad_ei-001",
-    "number_of_species": 3,
-    "pearson_symbol": "cP96",
-    "space_group_number": 218,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "154076"
+    "comments": null
 }

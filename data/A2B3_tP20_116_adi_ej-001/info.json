@@ -1,9 +1,19 @@
 {
     "uid": "RJFD",
+    "label": "A2B3_tP20_116_adi_ej-001",
+    "alias": "A2B3_tP20_116_bci_fj",
+    "title": "Ru$_{2}$Sn$_{3}$ Structure",
+    "icsd": "105994",
+    "ccdc": null,
     "prototype": "Ru2Sn3",
     "prototype_tex": "Ru$_{2}$Sn$_{3}$",
-    "label": "A2B3_tP20_116_adi_ej-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tP20",
+    "space_group_number": 116,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -21,17 +31,8 @@
         0.716,
         0.082
     ],
-    "strukturbericht": null,
-    "title": "Ru$_{2}$Sn$_{3}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B3_tP20_116_bci_fj",
-    "number_of_species": 2,
-    "pearson_symbol": "tP20",
-    "space_group_number": 116,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "105994"
+    "comments": null
 }

@@ -1,9 +1,19 @@
 {
     "uid": "M9HY",
+    "label": "A3BC_mP20_14_3e_e_e-001",
+    "alias": "A3BC_mP20_14_3e_e_e",
+    "title": "Sanguite (KCuCl$_{3}$) Structure",
+    "icsd": "15590",
+    "ccdc": null,
     "prototype": "Cl3CuK",
     "prototype_tex": "Cl$_{3}$CuK",
-    "label": "A3BC_mP20_14_3e_e_e-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mP20",
+    "space_group_number": 14,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -45,17 +55,8 @@
         0.17081,
         0.44308
     ],
-    "strukturbericht": null,
-    "title": "Sanguite (KCuCl$_{3}$) Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3BC_mP20_14_3e_e_e",
-    "number_of_species": 3,
-    "pearson_symbol": "mP20",
-    "space_group_number": 14,
+    "legacy": false,
     "notes": "Sanguite",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "15590"
+    "comments": null
 }

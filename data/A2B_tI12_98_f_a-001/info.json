@@ -1,9 +1,19 @@
 {
     "uid": "G4QQ",
+    "label": "A2B_tI12_98_f_a-001",
+    "alias": "A2B_tI12_98_f_a",
+    "title": "CdAs$_{2}$ Structure",
+    "icsd": "609931",
+    "ccdc": null,
     "prototype": "As2Cd",
     "prototype_tex": "As$_{2}$Cd",
-    "label": "A2B_tI12_98_f_a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tI12",
+    "space_group_number": 98,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2"
@@ -13,17 +23,8 @@
         0.58795,
         0.44
     ],
-    "strukturbericht": null,
-    "title": "CdAs$_{2}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B_tI12_98_f_a",
-    "number_of_species": 2,
-    "pearson_symbol": "tI12",
-    "space_group_number": 98,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "609931"
+    "comments": null
 }

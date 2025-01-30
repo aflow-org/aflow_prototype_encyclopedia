@@ -1,9 +1,19 @@
 {
     "uid": "KAKD",
+    "label": "A4BC2_tI28_120_i_a_h-001",
+    "alias": "A4BC2_tI28_120_i_d_e",
+    "title": "KAu$_{4}$Sn$_{2}$ Structure",
+    "icsd": "58522",
+    "ccdc": null,
     "prototype": "Au4KSn4",
     "prototype_tex": "Au$_{4}$KSn$_{4}$",
-    "label": "A4BC2_tI28_120_i_a_h-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tI28",
+    "space_group_number": 120,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -19,17 +29,8 @@
         0.6575,
         0.3351
     ],
-    "strukturbericht": null,
-    "title": "KAu$_{4}$Sn$_{2}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4BC2_tI28_120_i_d_e",
-    "number_of_species": 3,
-    "pearson_symbol": "tI28",
-    "space_group_number": 120,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "58522"
+    "comments": null
 }

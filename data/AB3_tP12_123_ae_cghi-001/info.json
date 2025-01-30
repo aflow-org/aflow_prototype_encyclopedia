@@ -1,9 +1,19 @@
 {
     "uid": "U1FT",
+    "label": "AB3_tP12_123_ae_cghi-001",
+    "alias": "AB3_tP12_123_ae_cghi-001",
+    "title": "AuMn$_{3}$ Structure",
+    "icsd": "150552",
+    "ccdc": null,
     "prototype": "AuMn3",
     "prototype_tex": "AuMn$_{3}$",
-    "label": "AB3_tP12_123_ae_cghi-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tP12",
+    "space_group_number": 123,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z4",
@@ -17,17 +27,8 @@
         0.333,
         0.833
     ],
-    "strukturbericht": null,
-    "title": "AuMn$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB3_tP12_123_ae_cghi-001",
-    "number_of_species": 2,
-    "pearson_symbol": "tP12",
-    "space_group_number": 123,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "150552"
+    "comments": null
 }

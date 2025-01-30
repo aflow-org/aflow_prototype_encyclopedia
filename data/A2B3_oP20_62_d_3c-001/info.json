@@ -1,9 +1,19 @@
 {
     "uid": "GCVK",
+    "label": "A2B3_oP20_62_d_3c-001",
+    "alias": "A2B3_oP20_62_d_3c-001",
+    "title": "K$_{2}$Te$_{3}$ Structure",
+    "icsd": "2453",
+    "ccdc": null,
     "prototype": "K2Te3",
     "prototype_tex": "K$_{2}$Te$_{3}$",
-    "label": "A2B3_oP20_62_d_3c-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP20",
+    "space_group_number": 62,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -31,17 +41,8 @@
         0.0303,
         0.2892
     ],
-    "strukturbericht": null,
-    "title": "K$_{2}$Te$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B3_oP20_62_d_3c-001",
-    "number_of_species": 2,
-    "pearson_symbol": "oP20",
-    "space_group_number": 62,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "2453"
+    "comments": null
 }

@@ -1,9 +1,19 @@
 {
     "uid": "G2BV",
+    "label": "AB6C3_mP20_14_a_3e_be-001",
+    "alias": "AB6C3_mP20_14_a_3e_de",
+    "title": "Cryolite (Na$_{3}$AlF$_{6}$, $J2_{6}$) Structure",
+    "icsd": "74200",
+    "ccdc": null,
     "prototype": "AlF6Na3",
     "prototype_tex": "AlF$_{6}$Na$_{3}$",
-    "label": "AB6C3_mP20_14_a_3e_be-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mP20",
+    "space_group_number": 14,
+    "strukturbericht": "J2_6",
+    "strukturbericht_tex": "$J2_{6}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -39,18 +49,8 @@
         0.5508,
         0.9879
     ],
-    "strukturbericht": "J2_6",
-    "title": "Cryolite (Na$_{3}$AlF$_{6}$, $J2_{6}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$J2_{6}$",
     "compounds": {},
-    "alias": "AB6C3_mP20_14_a_3e_de",
-    "number_of_species": 3,
-    "pearson_symbol": "mP20",
-    "space_group_number": 14,
-    "comments": "Cryolite undergoes a phase transition to \\href{current_web_home_dir/AB6C3_oI20_71_a_el_bf-001}{an orthorhombic $Immm$ \\#71 phase} at 890K.  Here we use structural data taken at 295K. \n (Yang, 1993) gives the Wyckoff positions for the orientation $P2_1/n$ of space group \\#14.  We used FINDSYM to change this to the standard $P2_1/c$ orientation.  This included a change in the primitive vectors and the shift of the sodium atom on the (1b) site to the (1d) site.",
+    "legacy": false,
     "notes": "$J2_{6}$, RT Cryolite",
-    "ccdc": null,
-    "icsd": "74200"
+    "comments": "Cryolite undergoes a phase transition to \\href{current_web_home_dir/AB6C3_oI20_71_a_el_bf-001}{an orthorhombic $Immm$ \\#71 phase} at 890K.  Here we use structural data taken at 295K. \n (Yang, 1993) gives the Wyckoff positions for the orientation $P2_1/n$ of space group \\#14.  We used FINDSYM to change this to the standard $P2_1/c$ orientation.  This included a change in the primitive vectors and the shift of the sodium atom on the (1b) site to the (1d) site."
 }

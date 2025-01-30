@@ -1,9 +1,19 @@
 {
     "uid": "ZUNT",
+    "label": "AB2C3D2_tP16_90_c_f_ce_e-001",
+    "alias": "AB2C3D2_tP16_90_c_f_ce_e",
+    "title": "$G7_{5}$ (PbCO$_{3}\\cdot$PbCl$_{2}$, Phosgenite) ({\\em Obsolete}) Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "CCl2O3Pb2",
     "prototype_tex": "CCl$_{2}$O$_{3}$Pb$_{2}$",
-    "label": "AB2C3D2_tP16_90_c_f_ce_e-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "tP16",
+    "space_group_number": 90,
+    "strukturbericht": "G7_5",
+    "strukturbericht_tex": "$G7_{5}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -21,18 +31,8 @@
         0.34,
         0.24
     ],
-    "strukturbericht": "G7_5",
-    "title": "$G7_{5}$ (PbCO$_{3}\\cdot$PbCl$_{2}$, Phosgenite) ({\\em Obsolete}) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$G7_{5}$",
     "compounds": {},
-    "alias": "AB2C3D2_tP16_90_c_f_ce_e",
-    "number_of_species": 4,
-    "pearson_symbol": "tP16",
-    "space_group_number": 90,
-    "comments": "(Onotaro, 1934) made an early determination of the structure of phosgenite, and (Gottfried, 1937) assigned it the {\\em Strukturbericht} designation $G7_{5}$. However, the ``proposed structure [was] based on photographic data and partly on steric considerations'' (Giuseppetti, 1974). Subsequent investigations showed that the true phosgenite structure \\href{current_web_home_dir/AB2C3D2_tP32_127_g_eh_gk_k-001}{was in space group $P4/mbm$ \\#127}.  We list the original structure here as part of the historical record.",
+    "legacy": false,
     "notes": "$G7_{5}$, Phosgenite ({\\em Obsolete})",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "(Onotaro, 1934) made an early determination of the structure of phosgenite, and (Gottfried, 1937) assigned it the {\\em Strukturbericht} designation $G7_{5}$. However, the ``proposed structure [was] based on photographic data and partly on steric considerations'' (Giuseppetti, 1974). Subsequent investigations showed that the true phosgenite structure \\href{current_web_home_dir/AB2C3D2_tP32_127_g_eh_gk_k-001}{was in space group $P4/mbm$ \\#127}.  We list the original structure here as part of the historical record."
 }

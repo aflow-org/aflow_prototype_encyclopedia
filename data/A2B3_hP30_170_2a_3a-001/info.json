@@ -1,9 +1,19 @@
 {
     "uid": "G6GN",
+    "label": "A2B3_hP30_170_2a_3a-001",
+    "alias": "A2B3_hP30_170_2a_3a",
+    "title": "Al$_{2}$S$_{3}$ Structure",
+    "icsd": "300213",
+    "ccdc": null,
     "prototype": "Al2S3",
     "prototype_tex": "Al$_{2}$S$_{3}$",
-    "label": "A2B3_hP30_170_2a_3a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP30",
+    "space_group_number": 170,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -41,17 +51,8 @@
         0.0064,
         0.66177
     ],
-    "strukturbericht": null,
-    "title": "Al$_{2}$S$_{3}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B3_hP30_170_2a_3a",
-    "number_of_species": 2,
-    "pearson_symbol": "hP30",
-    "space_group_number": 170,
-    "comments": "This structure is the enantiomorph of the \\href{current_web_home_dir/A2B3_hP30_169_2a_3a-001}{Al$_{2}$S$_{3}$ (A2B3\\_hP30\\_169\\_2a\\_3a) structure}. The ICSD information is for that space group. \n Space group $P6_{5}$ \\#170 allows an arbitary choice for the origin of the $z$-axis.  We set this by taking $z_{4} = 0$ for the S-I site.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "300213"
+    "comments": "This structure is the enantiomorph of the \\href{current_web_home_dir/A2B3_hP30_169_2a_3a-001}{Al$_{2}$S$_{3}$ (A2B3\\_hP30\\_169\\_2a\\_3a) structure}. The ICSD information is for that space group. \n Space group $P6_{5}$ \\#170 allows an arbitary choice for the origin of the $z$-axis.  We set this by taking $z_{4} = 0$ for the S-I site."
 }

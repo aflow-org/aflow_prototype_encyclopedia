@@ -1,9 +1,19 @@
 {
     "uid": "YKEJ",
+    "label": "A2B_mC48_15_4f_2f-001",
+    "alias": "A2B_mC48_15_4f_2f-001",
+    "title": "$\\alpha$-SnF$_{2}$ Structure",
+    "icsd": "308",
+    "ccdc": null,
     "prototype": "F2Sn",
     "prototype_tex": "F$_{2}$Sn",
-    "label": "A2B_mC48_15_4f_2f-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC48",
+    "space_group_number": 15,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -51,17 +61,8 @@
         0.2325,
         0.1867
     ],
-    "strukturbericht": null,
-    "title": "$\\alpha$-SnF$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B_mC48_15_4f_2f-001",
-    "number_of_species": 2,
-    "pearson_symbol": "mC48",
-    "space_group_number": 15,
-    "comments": "SnF$_{2}$ is found in three structures: \\begin{itemize} \\item \\href{current_web_home_dir/A2B_mC48_15_4f_2f-001}{monoclinic $\\alpha$-SnF$_{2}$} (this structure), the ground state \\item \\href{current_web_home_dir/A2B_oP12_19_2a_a-002}{orthorhombic $\\beta$-SnF$_{2}$}, formed from $\\gamma$-SnF$_{2}$ on cooling below $67^{\\circ}$C, and \\item tetragonal $\\gamma$-SnF$_{2}$, produced by heating $\\alpha$-SnF$_{2}$ above $180^{\\circ}C$, forming in the \\href{current_web_home_dir/A2B_tP12_92_b_a-002}{$\\alpha$-TeO$_{2}$ structure}. \\end{itemize}",
+    "legacy": false,
     "notes": "$\\alpha$-SnF$_{2}$",
-    "ccdc": null,
-    "icsd": "308"
+    "comments": "SnF$_{2}$ is found in three structures: \\begin{itemize} \\item \\href{current_web_home_dir/A2B_mC48_15_4f_2f-001}{monoclinic $\\alpha$-SnF$_{2}$} (this structure), the ground state \\item \\href{current_web_home_dir/A2B_oP12_19_2a_a-002}{orthorhombic $\\beta$-SnF$_{2}$}, formed from $\\gamma$-SnF$_{2}$ on cooling below $67^{\\circ}$C, and \\item tetragonal $\\gamma$-SnF$_{2}$, produced by heating $\\alpha$-SnF$_{2}$ above $180^{\\circ}C$, forming in the \\href{current_web_home_dir/A2B_tP12_92_b_a-002}{$\\alpha$-TeO$_{2}$ structure}. \\end{itemize}"
 }

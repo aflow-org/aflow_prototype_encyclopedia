@@ -1,9 +1,19 @@
 {
     "uid": "BD46",
+    "label": "A2B2C4D_tP18_132_e_i_o_b-001",
+    "alias": "A2B2C4D_tP18_132_e_i_o_d",
+    "title": "Rb$_{2}$TiCu$_{2}$S$_{4}$ Structure",
+    "icsd": "280644",
+    "ccdc": null,
     "prototype": "Cu2Rb2S4Ti",
     "prototype_tex": "Cu$_{2}$Rb$_{2}$S$_{4}$Ti",
-    "label": "A2B2C4D_tP18_132_e_i_o_b-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "tP18",
+    "space_group_number": 132,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -17,17 +27,8 @@
         0.76316,
         0.34803
     ],
-    "strukturbericht": null,
-    "title": "Rb$_{2}$TiCu$_{2}$S$_{4}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B2C4D_tP18_132_e_i_o_d",
-    "number_of_species": 4,
-    "pearson_symbol": "tP18",
-    "space_group_number": 132,
-    "comments": "The atomic positions for this structure are not given in the main text. We take them from the \\href{https://icsd.products.fiz-karlsruhe.de}{ICSD Entry}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "280644"
+    "comments": "The atomic positions for this structure are not given in the main text. We take them from the \\href{https://icsd.products.fiz-karlsruhe.de}{ICSD Entry}."
 }

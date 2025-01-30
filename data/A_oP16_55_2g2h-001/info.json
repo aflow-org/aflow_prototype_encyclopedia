@@ -1,9 +1,19 @@
 {
     "uid": "QPSD",
+    "label": "A_oP16_55_2g2h-001",
+    "alias": "A_oP16_55_2g2h",
+    "title": "R-carbon Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "C",
     "prototype_tex": "C",
-    "label": "A_oP16_55_2g2h-001",
-    "parameter_symbol": [
+    "number_of_species": 1,
+    "pearson_symbol": "oP16",
+    "space_group_number": 55,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -29,17 +39,8 @@
         0.5704,
         0.8926
     ],
-    "strukturbericht": null,
-    "title": "R-carbon Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A_oP16_55_2g2h",
-    "number_of_species": 1,
-    "pearson_symbol": "oP16",
-    "space_group_number": 55,
-    "comments": "This is a predicted ``superhard'' allotrope of carbon.  Shortly after this paper was published, another paper predicted a similar phase, called ``H-Carbon'' (He, 2012a; He, 2012b).  The similarity between the two structures can be seen by shifting the origin by $\\frac12 \\mathbf{a_1}$.  Other sources (Zhao, 2012) refer to this structure as ``O-Carbon.''",
+    "legacy": false,
     "notes": "R-carbon (Theory)",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "This is a predicted ``superhard'' allotrope of carbon.  Shortly after this paper was published, another paper predicted a similar phase, called ``H-Carbon'' (He, 2012a; He, 2012b).  The similarity between the two structures can be seen by shifting the origin by $\\frac12 \\mathbf{a_1}$.  Other sources (Zhao, 2012) refer to this structure as ``O-Carbon.''"
 }

@@ -1,9 +1,19 @@
 {
     "uid": "776H",
+    "label": "A3B9CD9_hP44_186_c_3c_b_cd-001",
+    "alias": "A3B9CD9_hP44_186_c_3c_b_cd",
+    "title": "Nd(BrO$_{3}$)$_{3}\\cdot$9H$_{2}$O ($G2_{2}$) Structure",
+    "icsd": "26601",
+    "ccdc": null,
     "prototype": "Br(H2O)9NdO9",
     "prototype_tex": "Br(H$_{2}$O)$_{9}$NdO$_{9}$",
-    "label": "A3B9CD9_hP44_186_c_3c_b_cd-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "hP44",
+    "space_group_number": 186,
+    "strukturbericht": "G2_2",
+    "strukturbericht_tex": "$G2_{2}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -39,18 +49,8 @@
         0.364997,
         0.75
     ],
-    "strukturbericht": "G2_2",
-    "title": "Nd(BrO$_{3}$)$_{3}\\cdot$9H$_{2}$O ($G2_{2}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$G2_{2}$",
     "compounds": {},
-    "alias": "A3B9CD9_hP44_186_c_3c_b_cd",
-    "number_of_species": 4,
-    "pearson_symbol": "hP44",
-    "space_group_number": 186,
-    "comments": "The positions of the hydrogen atoms in the water molecules were not determined, so we only provide the oxygen atom positions (labeled as H$_{2}$O).",
+    "legacy": false,
     "notes": "$G2_{2}$, Enneahydrate",
-    "ccdc": null,
-    "icsd": "26601"
+    "comments": "The positions of the hydrogen atoms in the water molecules were not determined, so we only provide the oxygen atom positions (labeled as H$_{2}$O)."
 }

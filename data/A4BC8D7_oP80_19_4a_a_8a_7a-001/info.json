@@ -1,9 +1,19 @@
 {
     "uid": "RRH1",
+    "label": "A4BC8D7_oP80_19_4a_a_8a_7a-001",
+    "alias": "A4BC8D7_oP80_19_4a_a_8a_7a-001",
+    "title": "Ca-Malate-dihydrate (CaC$_{4}$H$_{4}$O$_{5}\\cdot$2H$_{2}$O) Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "C4CaH8O7",
     "prototype_tex": "C$_{4}$CaH$_{8}$O$_{7}$",
-    "label": "A4BC8D7_oP80_19_4a_a_8a_7a-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oP80",
+    "space_group_number": 19,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -133,17 +143,8 @@
         0.2889,
         0.8991
     ],
-    "strukturbericht": null,
-    "title": "Ca-Malate-dihydrate (CaC$_{4}$H$_{4}$O$_{5}\\cdot$2H$_{2}$O) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4BC8D7_oP80_19_4a_a_8a_7a-001",
-    "number_of_species": 4,
-    "pearson_symbol": "oP80",
-    "space_group_number": 19,
+    "legacy": false,
     "notes": "Ca-Malate-dihydrate",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "none"
+    "comments": null
 }

@@ -1,9 +1,19 @@
 {
     "uid": "UPGR",
+    "label": "ABC3_mC20_12_g_i_ij-001",
+    "alias": "ABC3_mC20_12_g_i_ij",
+    "title": "MnPS$_{3}$ Structure",
+    "icsd": "61391",
+    "ccdc": null,
     "prototype": "MnPS3",
     "prototype_tex": "MnPS$_{3}$",
-    "label": "ABC3_mC20_12_g_i_ij-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mC20",
+    "space_group_number": 12,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -31,17 +41,8 @@
         0.1612,
         0.2516
     ],
-    "strukturbericht": null,
-    "title": "MnPS$_{3}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC3_mC20_12_g_i_ij",
-    "number_of_species": 3,
-    "pearson_symbol": "mC20",
-    "space_group_number": 12,
-    "comments": "FePS$_{3}$ is often used as the prototype for this structure, but (Ouvrard, 1985) lists MnPS$_{3}$ first, so we use that compound.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "61391"
+    "comments": "FePS$_{3}$ is often used as the prototype for this structure, but (Ouvrard, 1985) lists MnPS$_{3}$ first, so we use that compound."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "QP0Q",
+    "label": "AB_hP12_194_cf_de-001",
+    "alias": "AB_hP12_194_df_ce",
+    "title": "Covellite (CuS, $B18$) Structure",
+    "icsd": "41975",
+    "ccdc": null,
     "prototype": "CuS",
     "prototype_tex": "CuS",
-    "label": "AB_hP12_194_cf_de-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP12",
+    "space_group_number": 194,
+    "strukturbericht": "B18",
+    "strukturbericht_tex": "$B18$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -15,18 +25,8 @@
         0.4363,
         0.60724
     ],
-    "strukturbericht": "B18",
-    "title": "Covellite (CuS, $B18$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$B18$",
     "compounds": {},
-    "alias": "AB_hP12_194_df_ce",
-    "number_of_species": 2,
-    "pearson_symbol": "hP12",
-    "space_group_number": 194,
-    "comments": "We did not find an ICSD entry for (Ohmasa, 1977), so we one from (Kalbskopf, 1975) which is quoated our source paper.",
+    "legacy": false,
     "notes": "$B18$, Covellite",
-    "ccdc": null,
-    "icsd": "41975"
+    "comments": "We did not find an ICSD entry for (Ohmasa, 1977), so we one from (Kalbskopf, 1975) which is quoated our source paper."
 }

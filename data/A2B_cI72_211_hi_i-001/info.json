@@ -1,9 +1,19 @@
 {
     "uid": "NT1Y",
+    "label": "A2B_cI72_211_hi_i-001",
+    "alias": "A2B_cI72_211_hi_i",
+    "title": "Hypothetical Cubic SiO$_{2}$ Structure",
+    "icsd": "170506",
+    "ccdc": null,
     "prototype": "O2Si",
     "prototype_tex": "O$_{2}$Si",
-    "label": "A2B_cI72_211_hi_i-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cI72",
+    "space_group_number": 211,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "y1",
         "y2",
@@ -15,17 +25,8 @@
         0.15866,
         0.38235
     ],
-    "strukturbericht": null,
-    "title": "Hypothetical Cubic SiO$_{2}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B_cI72_211_hi_i",
-    "number_of_species": 2,
-    "pearson_symbol": "cI72",
-    "space_group_number": 211,
-    "comments": "This is a hypothetical cubic structure for SiO$_{2}$.  We use the data from the 1\\_158.cif file provided in the supplementary information of (Foster, 2004).",
+    "legacy": false,
     "notes": "Theory",
-    "ccdc": null,
-    "icsd": "170506"
+    "comments": "This is a hypothetical cubic structure for SiO$_{2}$.  We use the data from the 1\\_158.cif file provided in the supplementary information of (Foster, 2004)."
 }

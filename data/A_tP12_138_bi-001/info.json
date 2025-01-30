@@ -1,9 +1,19 @@
 {
     "uid": "HZJ9",
+    "label": "A_tP12_138_bi-001",
+    "alias": "A_tP12_138_bi",
+    "title": "C (T12 Group IV) Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "C",
     "prototype_tex": "C",
-    "label": "A_tP12_138_bi-001",
-    "parameter_symbol": [
+    "number_of_species": 1,
+    "pearson_symbol": "tP12",
+    "space_group_number": 138,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -15,17 +25,8 @@
         0.086,
         0.107
     ],
-    "strukturbericht": null,
-    "title": "C (T12 Group IV) Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A_tP12_138_bi",
-    "number_of_species": 1,
-    "pearson_symbol": "tP12",
-    "space_group_number": 138,
-    "comments": "This is a tetragonal allotrope of the diamond structure found computationally in C, Si, and Ge. The authors state ``the T12 polymorph naturally accounts for the experimental $d$ spacings and Raman spectra of synthesized metastable Ge and Si-XIII phases with long-puzzling unknown structures, respectively.''",
+    "legacy": false,
     "notes": "T12, Theory",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "This is a tetragonal allotrope of the diamond structure found computationally in C, Si, and Ge. The authors state ``the T12 polymorph naturally accounts for the experimental $d$ spacings and Raman spectra of synthesized metastable Ge and Si-XIII phases with long-puzzling unknown structures, respectively.''"
 }

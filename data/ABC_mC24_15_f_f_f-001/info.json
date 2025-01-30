@@ -1,9 +1,19 @@
 {
     "uid": "SL80",
+    "label": "ABC_mC24_15_f_f_f-001",
+    "alias": "ABC_mC24_15_f_f_f-001",
+    "title": "Pampaloite (AuSbTe) Structure",
+    "icsd": "133712",
+    "ccdc": null,
     "prototype": "AuSbTe",
     "prototype_tex": "AuSbTe",
-    "label": "ABC_mC24_15_f_f_f-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mC24",
+    "space_group_number": 15,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -33,17 +43,8 @@
         0.3407,
         0.14532
     ],
-    "strukturbericht": null,
-    "title": "Pampaloite (AuSbTe) Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC_mC24_15_f_f_f-001",
-    "number_of_species": 3,
-    "pearson_symbol": "mC24",
-    "space_group_number": 15,
+    "legacy": false,
     "notes": "Pampaloite",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "133712"
+    "comments": null
 }

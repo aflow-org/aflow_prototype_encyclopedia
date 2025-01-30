@@ -1,9 +1,19 @@
 {
     "uid": "E9RV",
+    "label": "AB_hP8_194_ac_f-004",
+    "alias": "AB_hP8_194_ad_f",
+    "title": "AsTi ($B_{i}$) Structure",
+    "icsd": "16773",
+    "ccdc": null,
     "prototype": "AsTi",
     "prototype_tex": "AsTi",
-    "label": "AB_hP8_194_ac_f-004",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP8",
+    "space_group_number": 194,
+    "strukturbericht": "B_i",
+    "strukturbericht_tex": "$B_{i}$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3"
@@ -13,18 +23,8 @@
         3.37363,
         0.625
     ],
-    "strukturbericht": "B_i",
-    "title": "AsTi ($B_{i}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$B_{i}$",
     "compounds": {},
-    "alias": "AB_hP8_194_ad_f",
-    "number_of_species": 2,
-    "pearson_symbol": "hP8",
-    "space_group_number": 194,
+    "legacy": false,
     "notes": "$B_{i}$",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "16773"
+    "comments": null
 }

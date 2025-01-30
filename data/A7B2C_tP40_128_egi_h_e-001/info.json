@@ -1,9 +1,19 @@
 {
     "uid": "YX16",
+    "label": "A7B2C_tP40_128_egi_h_e-001",
+    "alias": "A7B2C_tP40_128_egi_h_e",
+    "title": "FeCu$_{2}$Al$_{7}$ ($E9_{a}$) Structure",
+    "icsd": "57677",
+    "ccdc": null,
     "prototype": "Al7Cu2Fe",
     "prototype_tex": "Al$_{7}$Cu$_{2}$Fe",
-    "label": "A7B2C_tP40_128_egi_h_e-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP40",
+    "space_group_number": 128,
+    "strukturbericht": "E9_a",
+    "strukturbericht_tex": "$E9_{a}$",
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -27,18 +37,8 @@
         0.42,
         0.1
     ],
-    "strukturbericht": "E9_a",
-    "title": "FeCu$_{2}$Al$_{7}$ ($E9_{a}$) Structure",
-    "part": 2,
-    "legacy": false,
-    "strukturbericht_tex": "$E9_{a}$",
     "compounds": {},
-    "alias": "A7B2C_tP40_128_egi_h_e",
-    "number_of_species": 3,
-    "pearson_symbol": "tP40",
-    "space_group_number": 128,
-    "comments": "Our original (Hicks, 2019) CIF for this structure has incorrect $z$-coordinates for the Al I and Fe I atoms.   We have corrected the errors with this release.",
+    "legacy": false,
     "notes": "$E9_{a}$",
-    "ccdc": null,
-    "icsd": "57677"
+    "comments": "Our original (Hicks, 2019) CIF for this structure has incorrect $z$-coordinates for the Al I and Fe I atoms.   We have corrected the errors with this release."
 }

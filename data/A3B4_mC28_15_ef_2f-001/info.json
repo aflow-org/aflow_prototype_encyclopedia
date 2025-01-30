@@ -1,9 +1,19 @@
 {
     "uid": "XJ9R",
+    "label": "A3B4_mC28_15_ef_2f-001",
+    "alias": "A3B4_mC28_15_ef_2f-001",
+    "title": "Monoclinic Ni$_{4}$B$_{3}$ Structure",
+    "icsd": "24308",
+    "ccdc": null,
     "prototype": "B3Ni4",
     "prototype_tex": "B$_{3}$Ni$_{4}$",
-    "label": "A3B4_mC28_15_ef_2f-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC28",
+    "space_group_number": 15,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -35,17 +45,8 @@
         0.0695,
         0.7136
     ],
-    "strukturbericht": null,
-    "title": "Monoclinic Ni$_{4}$B$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B4_mC28_15_ef_2f-001",
-    "number_of_species": 2,
-    "pearson_symbol": "mC28",
-    "space_group_number": 15,
-    "comments": "Ni$_{4}$B$_{3}$ is found in two forms (Rundqvist, 1967): \\begin{itemize} \\item An \\href{current_web_home_dir/A3B4_oP28_62_3c_4c-001}{orthorhombic structure}, and \\item this \\href{current_web_home_dir/A3B4_mC28_15_ef_2f-001}{monoclinic structure}. \\end{itemize} ~ \\vspace{-.25in} \n While the monoclinic structure is stoichiometric, with chains of boron atoms, the composition of the orthorhombic phase is Ni$_{4}$B$_{3-x}$, with vacancies on the boron sites.  The exact phase depends on the stoichiometry.",
+    "legacy": false,
     "notes": "Monoclinic Ni$_{4}$B$_{3}$",
-    "ccdc": null,
-    "icsd": "24308"
+    "comments": "Ni$_{4}$B$_{3}$ is found in two forms (Rundqvist, 1967): \\begin{itemize} \\item An \\href{current_web_home_dir/A3B4_oP28_62_3c_4c-001}{orthorhombic structure}, and \\item this \\href{current_web_home_dir/A3B4_mC28_15_ef_2f-001}{monoclinic structure}. \\end{itemize} ~ \\vspace{-.25in} \n While the monoclinic structure is stoichiometric, with chains of boron atoms, the composition of the orthorhombic phase is Ni$_{4}$B$_{3-x}$, with vacancies on the boron sites.  The exact phase depends on the stoichiometry."
 }

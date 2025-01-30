@@ -1,9 +1,19 @@
 {
     "uid": "83MZ",
+    "label": "A_cI16_206_c-001",
+    "alias": "A_cI16_206_c",
+    "title": "BC8 (Si) Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "Si",
     "prototype_tex": "Si",
-    "label": "A_cI16_206_c-001",
-    "parameter_symbol": [
+    "number_of_species": 1,
+    "pearson_symbol": "cI16",
+    "space_group_number": 206,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "x1"
     ],
@@ -11,17 +21,8 @@
         4.1197,
         0.1001
     ],
-    "strukturbericht": null,
-    "title": "BC8 (Si) Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "A_cI16_206_c",
-    "number_of_species": 1,
-    "pearson_symbol": "cI16",
-    "space_group_number": 206,
-    "comments": "This is a tetragonally bonded structure which packs more efficiently than diamond. See (Crain, 1995) and references therein. The reference compound chosen here, found in (Wentorf, 1963), is stable in the range 11-16 GPa. ",
+    "legacy": false,
     "notes": "BC8 Si",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "This is a tetragonally bonded structure which packs more efficiently than diamond. See (Crain, 1995) and references therein. The reference compound chosen here, found in (Wentorf, 1963), is stable in the range 11-16 GPa. "
 }

@@ -1,9 +1,19 @@
 {
     "uid": "UWQ4",
+    "label": "A2B3C2_cP224_223_abcdefk_j3k_il-001",
+    "alias": "A2B3C2_cP224_223_abcdefk_j3k_il-001",
+    "title": "$\\beta$-Hg$_{3}$S$_{2}$Cl$_{2}$ Structure",
+    "icsd": "83407",
+    "ccdc": null,
     "prototype": "Cl2Hg3S2",
     "prototype_tex": "Cl$_{2}$Hg$_{3}$S$_{2}$",
-    "label": "A2B3C2_cP224_223_abcdefk_j3k_il-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cP224",
+    "space_group_number": 223,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "x6",
         "x7",
@@ -37,17 +47,8 @@
         0.133,
         0.3668
     ],
-    "strukturbericht": null,
-    "title": "$\\beta$-Hg$_{3}$S$_{2}$Cl$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B3C2_cP224_223_abcdefk_j3k_il-001",
-    "number_of_species": 3,
-    "pearson_symbol": "cP224",
-    "space_group_number": 223,
-    "comments": "Hg$_{3}$Cl$_{2}$S$_{2}$ is found in three forms (Carlson, 1967): \\begin{itemize} \\item \\href{current_web_home_dir/A2B3C2_cI28_199_a_b_a-002}{Corderoite ($\\alpha$-Hg$_{3}$Cl$_{2}$S$_{2}$)}, the cubic ground state. \\item \\href{current_web_home_dir/A2B3C2_cP224_223_abcdefk_j3k_il-001}{$\\beta$-Hg$_{3}$Cl$_{2}$S$_{2}$}, which appears above 340$^{\\circ}$C, another cubic phase with a much larger unit cell. (this structure) \\item \\href{current_web_home_dir/AB2C_oP16_51_2e_bfi_j-001}{Kenhsuite ($\\gamma$-Hg$_{3}$Cl$_{2}$S$_{2}$)}, which on average has an orthorhombic lattice.  This state is apparently metastable. \\end{itemize}",
+    "legacy": false,
     "notes": "$\\beta$-Hg$_{3}$S$_{2}$Cl$_{2}$",
-    "ccdc": null,
-    "icsd": "83407"
+    "comments": "Hg$_{3}$Cl$_{2}$S$_{2}$ is found in three forms (Carlson, 1967): \\begin{itemize} \\item \\href{current_web_home_dir/A2B3C2_cI28_199_a_b_a-002}{Corderoite ($\\alpha$-Hg$_{3}$Cl$_{2}$S$_{2}$)}, the cubic ground state. \\item \\href{current_web_home_dir/A2B3C2_cP224_223_abcdefk_j3k_il-001}{$\\beta$-Hg$_{3}$Cl$_{2}$S$_{2}$}, which appears above 340$^{\\circ}$C, another cubic phase with a much larger unit cell. (this structure) \\item \\href{current_web_home_dir/AB2C_oP16_51_2e_bfi_j-001}{Kenhsuite ($\\gamma$-Hg$_{3}$Cl$_{2}$S$_{2}$)}, which on average has an orthorhombic lattice.  This state is apparently metastable. \\end{itemize}"
 }

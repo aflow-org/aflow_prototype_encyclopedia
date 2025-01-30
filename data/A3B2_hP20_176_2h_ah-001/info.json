@@ -1,9 +1,19 @@
 {
     "uid": "X9DF",
+    "label": "A3B2_hP20_176_2h_ah-001",
+    "alias": "A3B2_hP20_176_2h_ah",
+    "title": "Th$_{7}$S$_{12}$ (D8$_{k}$) Structure",
+    "icsd": "30644",
+    "ccdc": null,
     "prototype": "S12Th7",
     "prototype_tex": "S$_{12}$Th$_{7}$",
-    "label": "A3B2_hP20_176_2h_ah-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP20",
+    "space_group_number": 176,
+    "strukturbericht": "D8_k",
+    "strukturbericht_tex": "$D8_{k}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -23,18 +33,8 @@
         0.235,
         0.0
     ],
-    "strukturbericht": "D8_k",
-    "title": "Th$_{7}$S$_{12}$ (D8$_{k}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$D8_{k}$",
     "compounds": {},
-    "alias": "A3B2_hP20_176_2h_ah",
-    "number_of_species": 2,
-    "pearson_symbol": "hP20",
-    "space_group_number": 176,
-    "comments": "The Th (2a) site is half-filled. \n (Zachariasen, 1949) gives the lattice constants in kX units.  We used the conversion factor of 1.00202 from (Woods, 1947) to convert this to {\\AA}ngstroms.  The ICSD entry uses kX units.",
+    "legacy": false,
     "notes": "$D8_{k}$",
-    "ccdc": null,
-    "icsd": "30644"
+    "comments": "The Th (2a) site is half-filled. \n (Zachariasen, 1949) gives the lattice constants in kX units.  We used the conversion factor of 1.00202 from (Woods, 1947) to convert this to {\\AA}ngstroms.  The ICSD entry uses kX units."
 }

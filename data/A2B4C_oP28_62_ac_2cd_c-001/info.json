@@ -1,9 +1,19 @@
 {
     "uid": "V88M",
+    "label": "A2B4C_oP28_62_ac_2cd_c-001",
+    "alias": "A2B4C_oP28_62_ac_2cd_c",
+    "title": "Forsterite (Mg$_{2}$SiO$_{4}$, $S1_{2}$) Structure",
+    "icsd": "64744",
+    "ccdc": null,
     "prototype": "Mg2O4Si",
     "prototype_tex": "Mg$_{2}$O$_{4}$Si",
-    "label": "A2B4C_oP28_62_ac_2cd_c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP28",
+    "space_group_number": 62,
+    "strukturbericht": "S1_2",
+    "strukturbericht_tex": "$S1_{2}$",
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -35,18 +45,8 @@
         0.0331,
         0.2777
     ],
-    "strukturbericht": "S1_2",
-    "title": "Forsterite (Mg$_{2}$SiO$_{4}$, $S1_{2}$) Structure",
-    "part": 2,
-    "legacy": false,
-    "strukturbericht_tex": "$S1_{2}$",
     "compounds": {},
-    "alias": "A2B4C_oP28_62_ac_2cd_c",
-    "number_of_species": 3,
-    "pearson_symbol": "oP28",
-    "space_group_number": 62,
-    "comments": "This structure is the magnesium end-point of olivine, (Mg,Fe)$_{2}$SiO$_{4}$. \n We use the structural data taken by (Hazen, 1976) at 23${^\\circ}$C. \n For olivine structures where the (2a) and (2c) sites have different species, see \\href{current_web_home_dir/ABC4D_oP28_62_c_a_2cd_c-001}{the monticellite structure page}. \n (Hazen, 1976) reports the structure in the $Pbnm$ setting of space group \\#62. We have transformed this into the standard $Pnma$ setting. ",
+    "legacy": false,
     "notes": "$S1_{2}$, Forsterite",
-    "ccdc": null,
-    "icsd": "64744"
+    "comments": "This structure is the magnesium end-point of olivine, (Mg,Fe)$_{2}$SiO$_{4}$. \n We use the structural data taken by (Hazen, 1976) at 23${^\\circ}$C. \n For olivine structures where the (2a) and (2c) sites have different species, see \\href{current_web_home_dir/ABC4D_oP28_62_c_a_2cd_c-001}{the monticellite structure page}. \n (Hazen, 1976) reports the structure in the $Pbnm$ setting of space group \\#62. We have transformed this into the standard $Pnma$ setting. "
 }

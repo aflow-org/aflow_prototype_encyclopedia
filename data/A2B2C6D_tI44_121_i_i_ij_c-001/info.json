@@ -1,9 +1,19 @@
 {
     "uid": "USSD",
+    "label": "A2B2C6D_tI44_121_i_i_ij_c-001",
+    "alias": "A2B2C6D_tI44_121_i_i_ij_c",
+    "title": "SrCu$_{2}$(BO$_{3}$)$_{2}$ Structure",
+    "icsd": "80592",
+    "ccdc": null,
     "prototype": "B2Cu2O6Sr",
     "prototype_tex": "B$_{2}$Cu$_{2}$O$_{6}$Sr",
-    "label": "A2B2C6D_tI44_121_i_i_ij_c-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "tI44",
+    "space_group_number": 121,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -29,17 +39,8 @@
         0.1456,
         0.254
     ],
-    "strukturbericht": null,
-    "title": "SrCu$_{2}$(BO$_{3}$)$_{2}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B2C6D_tI44_121_i_i_ij_c",
-    "number_of_species": 4,
-    "pearson_symbol": "tI44",
-    "space_group_number": 121,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "80592"
+    "comments": null
 }

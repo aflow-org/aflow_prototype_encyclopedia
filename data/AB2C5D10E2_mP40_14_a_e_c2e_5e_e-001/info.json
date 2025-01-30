@@ -1,9 +1,19 @@
 {
     "uid": "Y16F",
+    "label": "AB2C5D10E2_mP40_14_a_e_c2e_5e_e-001",
+    "alias": "AB2C5D10E2_mP40_14_a_e_c2e_5e_e-001",
+    "title": "Monoclinic Averievite [(CsCl)Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$] Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "ClCsCu5O2(VO4)2",
     "prototype_tex": "ClCsCu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$",
-    "label": "AB2C5D10E2_mP40_14_a_e_c2e_5e_e-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "mP40",
+    "space_group_number": 14,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -69,17 +79,8 @@
         0.5096,
         0.1669
     ],
-    "strukturbericht": null,
-    "title": "Monoclinic Averievite [(CsCl)Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$] Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2C5D10E2_mP40_14_a_e_c2e_5e_e-001",
-    "number_of_species": 5,
-    "pearson_symbol": "mP40",
-    "space_group_number": 14,
-    "comments": "Averievite is characterized by the presence of a backbone composed of Cu$_{5}$O$_{2}$ clusters and either VO$_{4}$ or PO$_{4}$ tetrahedra. The exact structure depends on atoms added to the backbone.  We have included several averievite structures in the Encyclopedia: \\begin{itemize} \\item \\href{current_web_home_dir/A5B10C2_mP68_14_5e_10e_2e-001}{Stoiberite}, Cu$_{5}$(VO$_{4}$)$_{2}$, \\item \\href{current_web_home_dir/A18B15C10D2_hP45_164_ij_abcdei_2di_d-001}{(ClCu)$_{2}$Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$}, \\item \\href{current_web_home_dir/A2B7C10D2_hP21_143_2a_2abcd_2b2c2d_bc-001}{Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$$\\cdot$CuCl$_{2}$}, \\item \\href{current_web_home_dir/AB3C5D10E2_hP21_164_a_bc_de_2di_d-001}{(CsCl)Cu$_{5}$O$_{2}$(PO$_{4}$)$_{2}$}, \\item \\href{current_web_home_dir/AB2C5D10E2_mP40_14_a_e_c2e_5e_e-001}{Monoclinic (CsCl)Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$} (this structure), \\item \\href{current_web_home_dir/A2B7C10D20E4_hP86_147_ae_c2g_d3g_2d6g_dg-001}{Trigonal (CsCl)Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$}, and \\item \\href{current_web_home_dir/AB5C2D10E2_mC80_15_e_e2f_f_5f_f-001}{(KBr)Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$}. \\end{itemize} ~ \\vspace{-.25in} \n See (Starov, 1997), (Botana, 2018), and (Kornyakov, 2021) for more information. \n The Cs (4e) site is only 50\\% occupied, so there is only one cesium atom in any primitive cell. \n The sample described here was obtained at 295K by (Botana, 2018).  At 400K they find a trigonal structure quite similar to \\href{current_web_home_dir/AB3C5D10E2_hP21_164_a_bc_de_2di_d-001}{(CsCl)Cu$_{5}$O$_{2}$(PO$_{4}$)$_{2}$} which differs from the \\href{current_web_home_dir/A2B7C10D20E4_hP86_147_ae_c2g_d3g_2d6g_dg-001}{trigonal structure} described by (Kornyakov, 2021).",
+    "legacy": false,
     "notes": "Averievite",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "Averievite is characterized by the presence of a backbone composed of Cu$_{5}$O$_{2}$ clusters and either VO$_{4}$ or PO$_{4}$ tetrahedra. The exact structure depends on atoms added to the backbone.  We have included several averievite structures in the Encyclopedia: \\begin{itemize} \\item \\href{current_web_home_dir/A5B10C2_mP68_14_5e_10e_2e-001}{Stoiberite}, Cu$_{5}$(VO$_{4}$)$_{2}$, \\item \\href{current_web_home_dir/A18B15C10D2_hP45_164_ij_abcdei_2di_d-001}{(ClCu)$_{2}$Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$}, \\item \\href{current_web_home_dir/A2B7C10D2_hP21_143_2a_2abcd_2b2c2d_bc-001}{Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$$\\cdot$CuCl$_{2}$}, \\item \\href{current_web_home_dir/AB3C5D10E2_hP21_164_a_bc_de_2di_d-001}{(CsCl)Cu$_{5}$O$_{2}$(PO$_{4}$)$_{2}$}, \\item \\href{current_web_home_dir/AB2C5D10E2_mP40_14_a_e_c2e_5e_e-001}{Monoclinic (CsCl)Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$} (this structure), \\item \\href{current_web_home_dir/A2B7C10D20E4_hP86_147_ae_c2g_d3g_2d6g_dg-001}{Trigonal (CsCl)Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$}, and \\item \\href{current_web_home_dir/AB5C2D10E2_mC80_15_e_e2f_f_5f_f-001}{(KBr)Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$}. \\end{itemize} ~ \\vspace{-.25in} \n See (Starov, 1997), (Botana, 2018), and (Kornyakov, 2021) for more information. \n The Cs (4e) site is only 50\\% occupied, so there is only one cesium atom in any primitive cell. \n The sample described here was obtained at 295K by (Botana, 2018).  At 400K they find a trigonal structure quite similar to \\href{current_web_home_dir/AB3C5D10E2_hP21_164_a_bc_de_2di_d-001}{(CsCl)Cu$_{5}$O$_{2}$(PO$_{4}$)$_{2}$} which differs from the \\href{current_web_home_dir/A2B7C10D20E4_hP86_147_ae_c2g_d3g_2d6g_dg-001}{trigonal structure} described by (Kornyakov, 2021)."
 }

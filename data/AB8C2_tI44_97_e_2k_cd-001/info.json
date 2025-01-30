@@ -1,9 +1,19 @@
 {
     "uid": "4HFE",
+    "label": "AB8C2_tI44_97_e_2k_cd-001",
+    "alias": "AB8C2_tI44_97_e_2k_cd",
+    "title": "Ta$_{2}$Se$_{8}$I Structure",
+    "icsd": "35190",
+    "ccdc": null,
     "prototype": "ISe8Ta2",
     "prototype_tex": "ISe$_{8}$Ta$_{2}$",
-    "label": "AB8C2_tI44_97_e_2k_cd-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tI44",
+    "space_group_number": 97,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -25,17 +35,8 @@
         0.1212,
         0.1191
     ],
-    "strukturbericht": null,
-    "title": "Ta$_{2}$Se$_{8}$I Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB8C2_tI44_97_e_2k_cd",
-    "number_of_species": 3,
-    "pearson_symbol": "tI44",
-    "space_group_number": 97,
-    "comments": "The ICSD entry is from (Greissier, 1982).",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "35190"
+    "comments": "The ICSD entry is from (Greissier, 1982)."
 }

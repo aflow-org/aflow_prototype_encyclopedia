@@ -1,9 +1,19 @@
 {
     "uid": "QF4S",
+    "label": "A4BC7D_hP26_186_ac_b_a2c_b-001",
+    "alias": "A4BC7D_hP26_186_ac_b_a2c_b",
+    "title": "Swedenborgite (NaBe$_{4}$SbO$_{7}$, $E9_{2}$) Structure",
+    "icsd": "27599",
+    "ccdc": null,
     "prototype": "Be4NaSbO7",
     "prototype_tex": "Be$_{4}$NaSbO$_{7}$",
-    "label": "A4BC7D_hP26_186_ac_b_a2c_b-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "hP26",
+    "space_group_number": 186,
+    "strukturbericht": "E9_2",
+    "strukturbericht_tex": "$E9_{2}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -31,18 +41,8 @@
         0.496103,
         0.3706
     ],
-    "strukturbericht": "E9_2",
-    "title": "Swedenborgite (NaBe$_{4}$SbO$_{7}$, $E9_{2}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$E9_{2}$",
     "compounds": {},
-    "alias": "A4BC7D_hP26_186_ac_b_a2c_b",
-    "number_of_species": 4,
-    "pearson_symbol": "hP26",
-    "space_group_number": 186,
-    "comments": "The actual composition of the studied sample is (Na$_{0.89}$Ca$_{0.04}$)Be$_{4}$SbO$_{7}$, with the sodium (Na-I) site containing 89\\% sodium, 4\\% calcium, and 7\\% vacancies. \n Space group $P6_{3}mc$ \\#186 does not fix the origin of the $z$-coordinate.  Here the position of the antimony atom (Sb-I) is set so that $z_{4} = 0$. \n The ICSD entry is from (Pauling, 1935).",
+    "legacy": false,
     "notes": "$E9_{2}$, Swedenborgite",
-    "ccdc": null,
-    "icsd": "27599"
+    "comments": "The actual composition of the studied sample is (Na$_{0.89}$Ca$_{0.04}$)Be$_{4}$SbO$_{7}$, with the sodium (Na-I) site containing 89\\% sodium, 4\\% calcium, and 7\\% vacancies. \n Space group $P6_{3}mc$ \\#186 does not fix the origin of the $z$-coordinate.  Here the position of the antimony atom (Sb-I) is set so that $z_{4} = 0$. \n The ICSD entry is from (Pauling, 1935)."
 }

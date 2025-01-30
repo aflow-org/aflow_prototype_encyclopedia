@@ -1,9 +1,19 @@
 {
     "uid": "8C3Q",
+    "label": "A4B2C2DE2_tI22_139_2e_e_d_a_c-001",
+    "alias": "A4B2C2DE2_tI22_139_2e_e_d_a_c-001",
+    "title": "Ba$_{2}$Ti$_{2}$Fe$_{2}$As$_{4}$O Structure",
+    "icsd": "263018",
+    "ccdc": null,
     "prototype": "As4Ba2Fe2OTi2",
     "prototype_tex": "As$_{4}$Ba$_{2}$Fe$_{2}$OTi$_{2}$",
-    "label": "A4B2C2DE2_tI22_139_2e_e_d_a_c-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "tI22",
+    "space_group_number": 139,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z4",
@@ -17,17 +27,8 @@
         0.5645,
         0.1321
     ],
-    "strukturbericht": null,
-    "title": "Ba$_{2}$Ti$_{2}$Fe$_{2}$As$_{4}$O Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B2C2DE2_tI22_139_2e_e_d_a_c-001",
-    "number_of_species": 5,
-    "pearson_symbol": "tI22",
-    "space_group_number": 139,
-    "comments": "(Sun, 2012) consider this to be intergrown layers of BaFe$_{2}$As$_{2}$, which has the \\href{current_web_home_dir/A2B2C_tI10_139_d_e_a-003}{ThCr$_{2}$Si$_{2}$} structure, and \\href{current_web_home_dir/A2BCD2_tP6_123_h_a_b_e-001}{BaTi$_{2}$As$_{2}$O}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "263018"
+    "comments": "(Sun, 2012) consider this to be intergrown layers of BaFe$_{2}$As$_{2}$, which has the \\href{current_web_home_dir/A2B2C_tI10_139_d_e_a-003}{ThCr$_{2}$Si$_{2}$} structure, and \\href{current_web_home_dir/A2BCD2_tP6_123_h_a_b_e-001}{BaTi$_{2}$As$_{2}$O}."
 }

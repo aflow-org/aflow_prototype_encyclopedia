@@ -1,9 +1,19 @@
 {
     "uid": "1FWE",
+    "label": "A5B4_mP18_14_a2e_2e-001",
+    "alias": "A5B4_mP18_14_a2e_2e-001",
+    "title": "Luberoite (Pt$_{5}$Se$_{4}$) Structure",
+    "icsd": "87926",
+    "ccdc": null,
     "prototype": "Pt5Se4",
     "prototype_tex": "Pt$_{5}$Se$_{4}$",
-    "label": "A5B4_mP18_14_a2e_2e-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mP18",
+    "space_group_number": 14,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -39,17 +49,8 @@
         0.968,
         0.859
     ],
-    "strukturbericht": null,
-    "title": "Luberoite (Pt$_{5}$Se$_{4}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A5B4_mP18_14_a2e_2e-001",
-    "number_of_species": 2,
-    "pearson_symbol": "mP18",
-    "space_group_number": 14,
+    "legacy": false,
     "notes": "Luberoite",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "87926"
+    "comments": null
 }

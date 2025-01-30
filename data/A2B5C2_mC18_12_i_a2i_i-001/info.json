@@ -1,9 +1,19 @@
 {
     "uid": "JYHJ",
+    "label": "A2B5C2_mC18_12_i_a2i_i-001",
+    "alias": "A2B5C2_mC18_12_i_a2i_i",
+    "title": "K$_{2}$Ti$_{2}$O$_{5}$ Structure",
+    "icsd": "36097",
+    "ccdc": null,
     "prototype": "K2O5Ti2",
     "prototype_tex": "K$_{2}$O$_{5}$Ti$_{2}$",
-    "label": "A2B5C2_mC18_12_i_a2i_i-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mC18",
+    "space_group_number": 12,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -31,17 +41,8 @@
         0.8505,
         0.0928
     ],
-    "strukturbericht": null,
-    "title": "K$_{2}$Ti$_{2}$O$_{5}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B5C2_mC18_12_i_a2i_i",
-    "number_of_species": 3,
-    "pearson_symbol": "mC18",
-    "space_group_number": 12,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "36097"
+    "comments": null
 }

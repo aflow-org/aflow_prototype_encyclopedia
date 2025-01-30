@@ -1,9 +1,19 @@
 {
     "uid": "QAEL",
+    "label": "ABC4D_oP56_61_c_c_4c_c-001",
+    "alias": "ABC4D_oP56_61_c_c_4c_c-001",
+    "title": "$\\beta$-AgCuPO$_{4}$ Structure",
+    "icsd": "35590",
+    "ccdc": null,
     "prototype": "AgCuO4P",
     "prototype_tex": "AgCuO$_{4}$P",
-    "label": "ABC4D_oP56_61_c_c_4c_c-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oP56",
+    "space_group_number": 61,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -55,17 +65,8 @@
         0.39025,
         0.4012
     ],
-    "strukturbericht": null,
-    "title": "$\\beta$-AgCuPO$_{4}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC4D_oP56_61_c_c_4c_c-001",
-    "number_of_species": 4,
-    "pearson_symbol": "oP56",
-    "space_group_number": 61,
-    "comments": "Below $575^{\\circ}$ this transforms into the \\href{current_web_home_dir/ABC4D_mP28_14_e_e_4e_e-001}{$\\alpha$-AgCuPO$_{4}$ structure}. (Quarton, 1983).",
+    "legacy": false,
     "notes": "$\\beta$-AgCuPO$_{4}$",
-    "ccdc": null,
-    "icsd": "35590"
+    "comments": "Below $575^{\\circ}$ this transforms into the \\href{current_web_home_dir/ABC4D_mP28_14_e_e_4e_e-001}{$\\alpha$-AgCuPO$_{4}$ structure}. (Quarton, 1983)."
 }

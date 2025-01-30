@@ -1,9 +1,19 @@
 {
     "uid": "EVKH",
+    "label": "A4BC2D_oP32_62_2cd_a_2c_b-001",
+    "alias": "A4BC2D_oP32_62_2cd_b_2c_a",
+    "title": "$E3_{5}$ (K$_{2}$SnCl$_{4}\\cdot$H$_{2}$O) Structure",
+    "icsd": "15971",
+    "ccdc": null,
     "prototype": "Cl4(H2O)K2Sn",
     "prototype_tex": "Cl$_{4}$(H$_{2}$O)K$_{2}$Sn",
-    "label": "A4BC2D_oP32_62_2cd_a_2c_b-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oP32",
+    "space_group_number": 62,
+    "strukturbericht": "E3_5",
+    "strukturbericht_tex": "$E3_{5}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -35,18 +45,8 @@
         0.96,
         0.62
     ],
-    "strukturbericht": "E3_5",
-    "title": "$E3_{5}$ (K$_{2}$SnCl$_{4}\\cdot$H$_{2}$O) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$E3_{5}$",
     "compounds": {},
-    "alias": "A4BC2D_oP32_62_2cd_b_2c_a",
-    "number_of_species": 4,
-    "pearson_symbol": "oP32",
-    "space_group_number": 62,
-    "comments": "This is the version of the structure given in (Hermann, 1939) as the $E3_{5}$ structure.  \n (Kamenar, 1962) proposed \\href{current_web_home_dir/A4BC2D_oP32_62_2cd_c_d_c-001}{a somewhat different version of the structure for this crystal}. \n A later refinement of the \\href{current_web_home_dir/A4B2C2DE_oP40_62_2cd_2c_d_c_c-001}{structure by (Ye, 2013)} located the hydrogen atoms and is otherwise in agreement with (Kamenar, 1962). \n (Brasseur, 1939) did not locate hydrogen atoms in the water molecules and so we only give the positions of the oxygen atoms. \n (Brasseur, 1939) gives the crystal structure and atomic positions in the $Pbnm$ setting of space group \\#62.  We have used FINDSYM to show the structure in the standard $Pnma$ setting.",
+    "legacy": false,
     "notes": "$E3_{5}$",
-    "ccdc": null,
-    "icsd": "15971"
+    "comments": "This is the version of the structure given in (Hermann, 1939) as the $E3_{5}$ structure.  \n (Kamenar, 1962) proposed \\href{current_web_home_dir/A4BC2D_oP32_62_2cd_c_d_c-001}{a somewhat different version of the structure for this crystal}. \n A later refinement of the \\href{current_web_home_dir/A4B2C2DE_oP40_62_2cd_2c_d_c_c-001}{structure by (Ye, 2013)} located the hydrogen atoms and is otherwise in agreement with (Kamenar, 1962). \n (Brasseur, 1939) did not locate hydrogen atoms in the water molecules and so we only give the positions of the oxygen atoms. \n (Brasseur, 1939) gives the crystal structure and atomic positions in the $Pbnm$ setting of space group \\#62.  We have used FINDSYM to show the structure in the standard $Pnma$ setting."
 }

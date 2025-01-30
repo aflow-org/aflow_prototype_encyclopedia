@@ -1,9 +1,19 @@
 {
     "uid": "0H5D",
+    "label": "A2B2C7_oC88_64_ef_df_3f2g-001",
+    "alias": "A2B2C7_oC88_64_ef_df_3f2g",
+    "title": "Na$_{2}$Mo$_{2}$O$_{7}$ Structure",
+    "icsd": "24041",
+    "ccdc": null,
     "prototype": "Mo2Na2O7",
     "prototype_tex": "Mo$_{2}$Na$_{2}$O$_{7}$",
-    "label": "A2B2C7_oC88_64_ef_df_3f2g-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oC88",
+    "space_group_number": 64,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -49,17 +59,8 @@
         0.99,
         0.34
     ],
-    "strukturbericht": null,
-    "title": "Na$_{2}$Mo$_{2}$O$_{7}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B2C7_oC88_64_ef_df_3f2g",
-    "number_of_species": 3,
-    "pearson_symbol": "oC88",
-    "space_group_number": 64,
-    "comments": "(Lindqvist, 1950) gives data for the prototype compound, Na$_{2}$Mo$_{2}$O$_{7}$, but the ICSD entry lists the compound ad Na$_{2}$W$_{2}$O$_{7}$.  Otherwise the data matches exactly with the prototype, so we use that ICSD entry here.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "24041"
+    "comments": "(Lindqvist, 1950) gives data for the prototype compound, Na$_{2}$Mo$_{2}$O$_{7}$, but the ICSD entry lists the compound ad Na$_{2}$W$_{2}$O$_{7}$.  Otherwise the data matches exactly with the prototype, so we use that ICSD entry here."
 }

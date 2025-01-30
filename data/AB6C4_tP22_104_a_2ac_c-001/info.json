@@ -1,9 +1,19 @@
 {
     "uid": "Z85J",
+    "label": "AB6C4_tP22_104_a_2ac_c-001",
+    "alias": "AB6C4_tP22_104_a_2ac_c",
+    "title": "Tl$_{4}$HgI$_{6}$ Structure",
+    "icsd": "250133",
+    "ccdc": null,
     "prototype": "HgI6Tl4",
     "prototype_tex": "HgI$_{6}$Tl$_{4}$",
-    "label": "AB6C4_tP22_104_a_2ac_c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP22",
+    "space_group_number": 104,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -29,17 +39,8 @@
         0.8588,
         0.036
     ],
-    "strukturbericht": null,
-    "title": "Tl$_{4}$HgI$_{6}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB6C4_tP22_104_a_2ac_c",
-    "number_of_species": 3,
-    "pearson_symbol": "tP22",
-    "space_group_number": 104,
-    "comments": "The I-II (2a) site is only occupied 92\\% of the time.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "250133"
+    "comments": "The I-II (2a) site is only occupied 92\\% of the time."
 }

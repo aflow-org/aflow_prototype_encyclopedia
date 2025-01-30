@@ -1,9 +1,19 @@
 {
     "uid": "01SA",
+    "label": "A8B7C6_hP126_176_2h3i_acd6h_3i-001",
+    "alias": "A8B7C6_hP126_176_2h3i_acd6h_3i-001",
+    "title": "Nb$_{7}$Rh$_{6}$B$_{8}$ Structure",
+    "icsd": "263043",
+    "ccdc": null,
     "prototype": "B8Nb7Rh6",
     "prototype_tex": "B$_{8}$Nb$_{7}$Rh$_{6}$",
-    "label": "A8B7C6_hP126_176_2h3i_acd6h_3i-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP126",
+    "space_group_number": 176,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x4",
@@ -79,17 +89,8 @@
         0.26456,
         0.4682
     ],
-    "strukturbericht": null,
-    "title": "Nb$_{7}$Rh$_{6}$B$_{8}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A8B7C6_hP126_176_2h3i_acd6h_3i-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hP126",
-    "space_group_number": 176,
-    "comments": "(Zheng, 2012) place the Nb-I (their Nb3) atom on the (2b) Wyckoff position, but give the coordinates for the (2a) position.  We assume that the coordinates are correct. This assessment agrees with the ICSD entry.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "263043"
+    "comments": "(Zheng, 2012) place the Nb-I (their Nb3) atom on the (2b) Wyckoff position, but give the coordinates for the (2a) position.  We assume that the coordinates are correct. This assessment agrees with the ICSD entry."
 }

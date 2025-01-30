@@ -1,9 +1,19 @@
 {
     "uid": "TV0E",
+    "label": "A_cF240_202_h2i-001",
+    "alias": "A_cF240_202_h2i",
+    "title": "FCC C$_{60}$ Buckminsterfullerene Structure",
+    "icsd": "74523",
+    "ccdc": null,
     "prototype": "C",
     "prototype_tex": "C",
-    "label": "A_cF240_202_h2i-001",
-    "parameter_symbol": [
+    "number_of_species": 1,
+    "pearson_symbol": "cF240",
+    "space_group_number": 202,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "y1",
         "z1",
@@ -25,17 +35,8 @@
         0.052,
         0.665
     ],
-    "strukturbericht": null,
-    "title": "FCC C$_{60}$ Buckminsterfullerene Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A_cF240_202_h2i",
-    "number_of_species": 1,
-    "pearson_symbol": "cF240",
-    "space_group_number": 202,
-    "comments": "This is an {\\em approximate} representation of the structure of C$_{60}$ buckminsterfullerene. As noted by the authors, ``a careful analysis of the intensity data reveals that the molecules must pack in an uncorrelated array, in full agreement with the results from most previous diffraction and spectroscopic determinations.'' \n The C$_{60}$ molecules are centered on the sites of an fcc lattice. \n Below 249K there is a transition to a \\href{current_web_home_dir/A_cP240_205_10d-001}{simple cubic phase of C$_{60}$}.",
+    "legacy": false,
     "notes": "Buckminsterfullerene",
-    "ccdc": null,
-    "icsd": "74523"
+    "comments": "This is an {\\em approximate} representation of the structure of C$_{60}$ buckminsterfullerene. As noted by the authors, ``a careful analysis of the intensity data reveals that the molecules must pack in an uncorrelated array, in full agreement with the results from most previous diffraction and spectroscopic determinations.'' \n The C$_{60}$ molecules are centered on the sites of an fcc lattice. \n Below 249K there is a transition to a \\href{current_web_home_dir/A_cP240_205_10d-001}{simple cubic phase of C$_{60}$}."
 }

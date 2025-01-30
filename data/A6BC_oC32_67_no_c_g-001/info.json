@@ -1,9 +1,19 @@
 {
     "uid": "PLRV",
+    "label": "A6BC_oC32_67_no_c_g-001",
+    "alias": "A6BC_oC32_67_no_c_g-001",
+    "title": "RbPaF$_{6}$ (V) Structure",
+    "icsd": "36078",
+    "ccdc": null,
     "prototype": "RbPaF6",
     "prototype_tex": "RbPaF$_{6}$",
-    "label": "A6BC_oC32_67_no_c_g-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oC32",
+    "space_group_number": 67,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -25,17 +35,8 @@
         0.5559,
         0.2476
     ],
-    "strukturbericht": null,
-    "title": "RbPaF$_{6}$ (V) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A6BC_oC32_67_no_c_g-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oC32",
-    "space_group_number": 67,
-    "comments": "(Burns, 1968) assign the protactinium atom to the (4b) Wyckoff site, but give coordinates for the (4e) site.  We use these coordinates and assign the Wyckoff position appropriately. The axis orientation has been adjusted by AFLOW.",
+    "legacy": false,
     "notes": "RbPaF$_{6}$ (V)",
-    "ccdc": null,
-    "icsd": "36078"
+    "comments": "(Burns, 1968) assign the protactinium atom to the (4b) Wyckoff site, but give coordinates for the (4e) site.  We use these coordinates and assign the Wyckoff position appropriately. The axis orientation has been adjusted by AFLOW."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "G7WP",
+    "label": "AB8C2_tP11_123_a_ehi_g-003",
+    "alias": "AB8C2_tP11_123_a_ehi_g-003",
+    "title": "Ho$_{2}$CoGa$_{8}$ Structure",
+    "icsd": "198243",
+    "ccdc": null,
     "prototype": "CoGa8Ho2",
     "prototype_tex": "CoGa$_{8}$Ho$_{2}$",
-    "label": "AB8C2_tP11_123_a_ehi_g-003",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP11",
+    "space_group_number": 123,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -17,17 +27,8 @@
         0.2933,
         0.1189
     ],
-    "strukturbericht": null,
-    "title": "Ho$_{2}$CoGa$_{8}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB8C2_tP11_123_a_ehi_g-003",
-    "number_of_species": 3,
-    "pearson_symbol": "tP11",
-    "space_group_number": 123,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "198243"
+    "comments": null
 }

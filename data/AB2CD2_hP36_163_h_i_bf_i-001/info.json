@@ -1,9 +1,19 @@
 {
     "uid": "JLGL",
+    "label": "AB2CD2_hP36_163_h_i_bf_i-001",
+    "alias": "AB2CD2_hP36_163_h_i_bf_i",
+    "title": "KAg(CN)$_{2}$ ($F5_{10}$) Structure",
+    "icsd": "30275",
+    "ccdc": null,
     "prototype": "AgC2KN2",
     "prototype_tex": "AgC$_{2}$KN$_{2}$",
-    "label": "AB2CD2_hP36_163_h_i_bf_i-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "hP36",
+    "space_group_number": 163,
+    "strukturbericht": "F5_10",
+    "strukturbericht_tex": "$F5_{10}$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -27,18 +37,8 @@
         0.365,
         0.083
     ],
-    "strukturbericht": "F5_10",
-    "title": "KAg(CN)$_{2}$ ($F5_{10}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$F5_{10}$",
     "compounds": {},
-    "alias": "AB2CD2_hP36_163_h_i_bf_i",
-    "number_of_species": 4,
-    "pearson_symbol": "hP36",
-    "space_group_number": 163,
+    "legacy": false,
     "notes": "$F5_{10}$",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "30275"
+    "comments": null
 }

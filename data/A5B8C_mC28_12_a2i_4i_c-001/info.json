@@ -1,9 +1,19 @@
 {
     "uid": "AFXE",
+    "label": "A5B8C_mC28_12_a2i_4i_c-001",
+    "alias": "A5B8C_mC28_12_a2i_4i_c-001",
+    "title": "TlCr$_{5}$Se$_{8}$ Structure",
+    "icsd": "78157",
+    "ccdc": null,
     "prototype": "Cr5Se8Tl",
     "prototype_tex": "Cr$_{5}$Se$_{8}$Tl",
-    "label": "A5B8C_mC28_12_a2i_4i_c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mC28",
+    "space_group_number": 12,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -39,17 +49,8 @@
         0.26395,
         0.34921
     ],
-    "strukturbericht": null,
-    "title": "TlCr$_{5}$Se$_{8}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A5B8C_mC28_12_a2i_4i_c-001",
-    "number_of_species": 3,
-    "pearson_symbol": "mC28",
-    "space_group_number": 12,
-    "comments": "The chromium atoms may be replaced with arbitrary amounts of vanadium.  We used the data for the stoichiometric compound. \n The data for CsCr$_{5}$S$_{8}$ was taken much earlier, and so it could be used as the prototype, but the data for TlCr$_{5}$Se$_{8}$ is more accessible. \n There is no ICSD or CCDC entry for (Maier, 2015), so we link to the earlier work of (Bensch, 1994).",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "78157"
+    "comments": "The chromium atoms may be replaced with arbitrary amounts of vanadium.  We used the data for the stoichiometric compound. \n The data for CsCr$_{5}$S$_{8}$ was taken much earlier, and so it could be used as the prototype, but the data for TlCr$_{5}$Se$_{8}$ is more accessible. \n There is no ICSD or CCDC entry for (Maier, 2015), so we link to the earlier work of (Bensch, 1994)."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "DUCH",
+    "label": "A2BC2D6_mP22_14_e_a_e_3e-001",
+    "alias": "A2BC2D6_mP22_14_e_a_e_3e-001",
+    "title": "Juangodoyite [Na$_{2}$Cu(CO$_{3}$)$_{2}$] Structure",
+    "icsd": "60858",
+    "ccdc": null,
     "prototype": "C2CuNa2O6",
     "prototype_tex": "C$_{2}$CuNa$_{2}$O$_{6}$",
-    "label": "A2BC2D6_mP22_14_e_a_e_3e-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "mP22",
+    "space_group_number": 14,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -45,17 +55,8 @@
         0.83579,
         0.0964
     ],
-    "strukturbericht": null,
-    "title": "Juangodoyite [Na$_{2}$Cu(CO$_{3}$)$_{2}$] Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC2D6_mP22_14_e_a_e_3e-001",
-    "number_of_species": 4,
-    "pearson_symbol": "mP22",
-    "space_group_number": 14,
-    "comments": "(Maslen, 1986) give the structure in the $P2_1/a$ setting of space group \\#14.  We used FINDSYM to transform this to the standard $P2_{1}/c$ setting.",
+    "legacy": false,
     "notes": "Juangodoyite",
-    "ccdc": null,
-    "icsd": "60858"
+    "comments": "(Maslen, 1986) give the structure in the $P2_1/a$ setting of space group \\#14.  We used FINDSYM to transform this to the standard $P2_{1}/c$ setting."
 }

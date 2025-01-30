@@ -1,9 +1,19 @@
 {
     "uid": "QEXW",
+    "label": "ABC3_cP20_198_a_a_b-001",
+    "alias": "ABC3_cP20_198_a_a_b",
+    "title": "Sodium Chlorate (NaClO$_{3}$, $G0_{3}$) Structure",
+    "icsd": "16714",
+    "ccdc": null,
     "prototype": "NaClO3",
     "prototype_tex": "NaClO$_{3}$",
-    "label": "ABC3_cP20_198_a_a_b-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cP20",
+    "space_group_number": 198,
+    "strukturbericht": "G0_3",
+    "strukturbericht_tex": "$G0_{3}$",
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "x1",
         "x2",
@@ -19,18 +29,8 @@
         0.592,
         0.5
     ],
-    "strukturbericht": "G0_3",
-    "title": "Sodium Chlorate (NaClO$_{3}$, $G0_{3}$) Structure",
-    "part": 2,
-    "legacy": false,
-    "strukturbericht_tex": "$G0_{3}$",
     "compounds": {},
-    "alias": "ABC3_cP20_198_a_a_b",
-    "number_of_species": 3,
-    "pearson_symbol": "cP20",
-    "space_group_number": 198,
+    "legacy": false,
     "notes": "Sodium Chlorate",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "16714"
+    "comments": null
 }

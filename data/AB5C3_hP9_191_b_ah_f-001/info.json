@@ -1,9 +1,19 @@
 {
     "uid": "F3TR",
+    "label": "AB5C3_hP9_191_b_ah_f-001",
+    "alias": "AB5C3_hP9_191_b_ah_f-001",
+    "title": "KV$_{3}$Sb$_{5}$ Structure",
+    "icsd": "31838",
+    "ccdc": null,
     "prototype": "KSb5V3",
     "prototype_tex": "KSb$_{5}$V$_{3}$",
-    "label": "AB5C3_hP9_191_b_ah_f-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP9",
+    "space_group_number": 191,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z4"
@@ -13,17 +23,8 @@
         1.63435,
         0.74677
     ],
-    "strukturbericht": null,
-    "title": "KV$_{3}$Sb$_{5}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB5C3_hP9_191_b_ah_f-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hP9",
-    "space_group_number": 191,
-    "comments": "(Ortiz, 2019) found that their KV$_{3}$Sb$_{5}$ samples were potassium deficient, with 8-15\\% vacancies on the (1a) potassium site. Both CsV$_{3}$Sb$_{5}$ and RbV$_{3}$Sb$_{5}$ were stoichiometric.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "31838"
+    "comments": "(Ortiz, 2019) found that their KV$_{3}$Sb$_{5}$ samples were potassium deficient, with 8-15\\% vacancies on the (1a) potassium site. Both CsV$_{3}$Sb$_{5}$ and RbV$_{3}$Sb$_{5}$ were stoichiometric."
 }

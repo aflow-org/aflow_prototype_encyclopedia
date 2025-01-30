@@ -1,9 +1,19 @@
 {
     "uid": "LX4R",
+    "label": "AB_hP6_144_a_a-001",
+    "alias": "AB_hP6_144_a_a",
+    "title": "ZnTe (high-pressure) Structure",
+    "icsd": "80076",
+    "ccdc": null,
     "prototype": "TeZn",
     "prototype_tex": "TeZn",
-    "label": "AB_hP6_144_a_a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP6",
+    "space_group_number": 144,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -23,17 +33,8 @@
         0.32,
         0.0
     ],
-    "strukturbericht": null,
-    "title": "ZnTe (high-pressure) Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_hP6_144_a_a",
-    "number_of_species": 2,
-    "pearson_symbol": "hP6",
-    "space_group_number": 144,
-    "comments": "This structure was determined at 11.5 GPa. \n This structure can also be found in the enantiomorphic space group $P3_{2}$ \\#145.",
+    "legacy": false,
     "notes": "HP",
-    "ccdc": null,
-    "icsd": "80076"
+    "comments": "This structure was determined at 11.5 GPa. \n This structure can also be found in the enantiomorphic space group $P3_{2}$ \\#145."
 }

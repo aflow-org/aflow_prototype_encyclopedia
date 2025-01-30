@@ -1,9 +1,19 @@
 {
     "uid": "DU5A",
+    "label": "A13B4_mC102_8_17a11b_8a2b-001",
+    "alias": "A13B4_mC102_8_17a11b_8a2b",
+    "title": "Monoclinic Co$_{4}$Al$_{13}$ Structure",
+    "icsd": "57599",
+    "ccdc": null,
     "prototype": "Al13Co4",
     "prototype_tex": "Al$_{13}$Co$_{4}$",
-    "label": "A13B4_mC102_8_17a11b_8a2b-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC102",
+    "space_group_number": 8,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -193,17 +203,8 @@
         0.229,
         0.278
     ],
-    "strukturbericht": null,
-    "title": "Monoclinic Co$_{4}$Al$_{13}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A13B4_mC102_8_17a11b_8a2b",
-    "number_of_species": 2,
-    "pearson_symbol": "mC102",
-    "space_group_number": 8,
-    "comments": "Following (Hudd, 1962), the Al-IV and Al-XIII sites are occupied 30\\% of the time, while the occupation of Al-VI, Al-IX, Al-XIV, and Al-XVII is 70\\%.  This gives a nominal occupation of Al$_{91}$Co$_{30}$, though the authors state the actual composition is Al$_{68.3}$Co$_{24.4}$. \n Space group $Cm$ \\#8 allows an arbitrary choice for the origin of the $z$-axis.  We follow (Hudd, 1962) and set $z_{26} = 0$. \n If we allow the rather large uncertainty of 0.3{\\AA} in the atomic positions, FINDSYM sets the symmetry as $C2/m$ \\#12.  That crystal has the \\href{current_web_home_dir/A13B4_mC102_12_ah8i5j_4ij-001}{Al$_{13}$Fe$_{4}$} prototype. \n Co$_{4}$ has also been observed in a \\href{current_web_home_dir/A13B4_oP102_31_17a11b_8a2b-001}{orthorhombic structure}.",
+    "legacy": false,
     "notes": "Monoclinic",
-    "ccdc": null,
-    "icsd": "57599"
+    "comments": "Following (Hudd, 1962), the Al-IV and Al-XIII sites are occupied 30\\% of the time, while the occupation of Al-VI, Al-IX, Al-XIV, and Al-XVII is 70\\%.  This gives a nominal occupation of Al$_{91}$Co$_{30}$, though the authors state the actual composition is Al$_{68.3}$Co$_{24.4}$. \n Space group $Cm$ \\#8 allows an arbitrary choice for the origin of the $z$-axis.  We follow (Hudd, 1962) and set $z_{26} = 0$. \n If we allow the rather large uncertainty of 0.3{\\AA} in the atomic positions, FINDSYM sets the symmetry as $C2/m$ \\#12.  That crystal has the \\href{current_web_home_dir/A13B4_mC102_12_ah8i5j_4ij-001}{Al$_{13}$Fe$_{4}$} prototype. \n Co$_{4}$ has also been observed in a \\href{current_web_home_dir/A13B4_oP102_31_17a11b_8a2b-001}{orthorhombic structure}."
 }

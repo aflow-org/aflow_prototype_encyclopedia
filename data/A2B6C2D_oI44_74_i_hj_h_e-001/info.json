@@ -1,9 +1,19 @@
 {
     "uid": "XWSU",
+    "label": "A2B6C2D_oI44_74_i_hj_h_e-001",
+    "alias": "A2B6C2D_oI44_74_h_ij_i_e",
+    "title": "Zn(NH$_{3}$)$_{2}$Cl$_{2}$ ($E1_{2}$) Structure",
+    "icsd": "140642",
+    "ccdc": null,
     "prototype": "Cl2N2H6Zn",
     "prototype_tex": "Cl$_{2}$N$_{2}$H$_{6}$Zn",
-    "label": "A2B6C2D_oI44_74_i_hj_h_e-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oI44",
+    "space_group_number": 74,
+    "strukturbericht": "E1_2",
+    "strukturbericht_tex": "$E1_{2}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -33,18 +43,8 @@
         0.524,
         0.166
     ],
-    "strukturbericht": "E1_2",
-    "title": "Zn(NH$_{3}$)$_{2}$Cl$_{2}$ ($E1_{2}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$E1_{2}$",
     "compounds": {},
-    "alias": "A2B6C2D_oI44_74_h_ij_i_e",
-    "number_of_species": 4,
-    "pearson_symbol": "oI44",
-    "space_group_number": 74,
-    "comments": "(Iv\\v{s}i\\'{c}, 2019) studied this system at 100K and were able to located the hydrogen atoms.  The positions of the other atoms are similar to those in earlier works such as (Yamaguchi, 1981) and the space group is unchanged, so we use this as the prototype for the $E1_{2}$ label.",
+    "legacy": false,
     "notes": "$E1_{2}$",
-    "ccdc": null,
-    "icsd": "140642"
+    "comments": "(Iv\\v{s}i\\'{c}, 2019) studied this system at 100K and were able to located the hydrogen atoms.  The positions of the other atoms are similar to those in earlier works such as (Yamaguchi, 1981) and the space group is unchanged, so we use this as the prototype for the $E1_{2}$ label."
 }

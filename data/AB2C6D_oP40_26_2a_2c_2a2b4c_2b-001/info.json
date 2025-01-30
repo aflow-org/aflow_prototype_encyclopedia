@@ -1,9 +1,19 @@
 {
     "uid": "LDXU",
+    "label": "AB2C6D_oP40_26_2a_2c_2a2b4c_2b-001",
+    "alias": "AB2C6D_oP40_26_2a_2c_2a2b4c_2b-001",
+    "title": "Low Temperature SmBaMn$_{2}$O$_{6}$ Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "BaMn2O6Sm",
     "prototype_tex": "BaMn$_{2}$O$_{6}$Sm",
-    "label": "AB2C6D_oP40_26_2a_2c_2a2b4c_2b-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oP40",
+    "space_group_number": 26,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -81,17 +91,8 @@
         0.7383,
         0.6437
     ],
-    "strukturbericht": null,
-    "title": "Low Temperature SmBaMn$_{2}$O$_{6}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2C6D_oP40_26_2a_2c_2a2b4c_2b-001",
-    "number_of_species": 4,
-    "pearson_symbol": "oP40",
-    "space_group_number": 26,
-    "comments": "SmBaMn$_{2}$O$_{6}$ undergoes several structural and magnetic phase transitions with changing temperature (Sagayama, 2014; Chen, 2019): \\begin{itemize} \\item Below 190K the structure is in \\href{current_web_home_dir/AB2C6D_oP40_26_2a_2c_2a2b4c_2b-001}{a polar orthorhombic phase with space group $Pmc2_{1}$ \\#26} (this structure). \\item Between 190K and 362 K the structure is in \\href{current_web_home_dir/AB2C6D_oP80_62_2c_2d_2c5d_d-001}{a non-polar orthorhombic phase with space group $Pnma$ \\#62}. \\item Above 362 K the structure is in \\href{current_web_home_dir/AB2C6D_oC40_65_g_n_ijklm_h-001}{quadrupled perovskite orthorhombic phase with space group $Cmmm$ \\#65}. \\item In the high temperature phase the samarium and barium sites may be disordered, in which case the system is in the \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite ($E2_{1}$) structure}. \\end{itemize} ~ \\vspace{-.25in} \n Here we use the structural information from (Sagayama, 2019) at 150K. \n (Sagayama, 2019) give the structure of this phase in the $P2_{1}am$ setting of space group \\#26.  We used FINDSYM to transform this into the standard $Pmc2_1$ setting.",
+    "legacy": false,
     "notes": "LT",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "SmBaMn$_{2}$O$_{6}$ undergoes several structural and magnetic phase transitions with changing temperature (Sagayama, 2014; Chen, 2019): \\begin{itemize} \\item Below 190K the structure is in \\href{current_web_home_dir/AB2C6D_oP40_26_2a_2c_2a2b4c_2b-001}{a polar orthorhombic phase with space group $Pmc2_{1}$ \\#26} (this structure). \\item Between 190K and 362 K the structure is in \\href{current_web_home_dir/AB2C6D_oP80_62_2c_2d_2c5d_d-001}{a non-polar orthorhombic phase with space group $Pnma$ \\#62}. \\item Above 362 K the structure is in \\href{current_web_home_dir/AB2C6D_oC40_65_g_n_ijklm_h-001}{quadrupled perovskite orthorhombic phase with space group $Cmmm$ \\#65}. \\item In the high temperature phase the samarium and barium sites may be disordered, in which case the system is in the \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite ($E2_{1}$) structure}. \\end{itemize} ~ \\vspace{-.25in} \n Here we use the structural information from (Sagayama, 2019) at 150K. \n (Sagayama, 2019) give the structure of this phase in the $P2_{1}am$ setting of space group \\#26.  We used FINDSYM to transform this into the standard $Pmc2_1$ setting."
 }

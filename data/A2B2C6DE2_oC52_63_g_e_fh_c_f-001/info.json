@@ -1,9 +1,19 @@
 {
     "uid": "RZ26",
+    "label": "A2B2C6DE2_oC52_63_g_e_fh_c_f-001",
+    "alias": "A2B2C6DE2_oC52_63_g_e_fh_c_f",
+    "title": "Cu$_{2}$Pb(SeO$_{3}$)$_{2}$Br$_{2}$ Structure",
+    "icsd": "130954",
+    "ccdc": null,
     "prototype": "Br2Cu2O6PbSe2",
     "prototype_tex": "Br$_{2}$Cu$_{2}$O$_{6}$PbSe$_{2}$",
-    "label": "A2B2C6DE2_oC52_63_g_e_fh_c_f-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "oC52",
+    "space_group_number": 63,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -35,17 +45,8 @@
         0.8602,
         0.4531
     ],
-    "strukturbericht": null,
-    "title": "Cu$_{2}$Pb(SeO$_{3}$)$_{2}$Br$_{2}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B2C6DE2_oC52_63_g_e_fh_c_f",
-    "number_of_species": 5,
-    "pearson_symbol": "oC52",
-    "space_group_number": 63,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "130954"
+    "comments": null
 }

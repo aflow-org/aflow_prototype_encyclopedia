@@ -1,9 +1,19 @@
 {
     "uid": "F86A",
+    "label": "A8B7C6_hP21_175_ck_aj_k-001",
+    "alias": "A8B7C6_hP21_175_ck_aj_k",
+    "title": "Nb$_{7}$Ru$_{6}$B$_{8}$ Structure",
+    "icsd": "263041",
+    "ccdc": null,
     "prototype": "B8Nb7Ru6",
     "prototype_tex": "B$_{8}$Nb$_{7}$Ru$_{6}$",
-    "label": "A8B7C6_hP21_175_ck_aj_k-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP21",
+    "space_group_number": 175,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -23,17 +33,8 @@
         0.15405,
         0.51373
     ],
-    "strukturbericht": null,
-    "title": "Nb$_{7}$Ru$_{6}$B$_{8}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A8B7C6_hP21_175_ck_aj_k",
-    "number_of_species": 3,
-    "pearson_symbol": "hP21",
-    "space_group_number": 175,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "263041"
+    "comments": null
 }

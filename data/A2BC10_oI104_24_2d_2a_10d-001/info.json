@@ -1,9 +1,19 @@
 {
     "uid": "S3L7",
+    "label": "A2BC10_oI104_24_2d_2a_10d-001",
+    "alias": "A2BC10_oI104_24_2d_2a_10d-001",
+    "title": "K$_{2}$PdSe$_{10}$ Structure",
+    "icsd": "71947",
+    "ccdc": null,
     "prototype": "K2PdSe10",
     "prototype_tex": "K$_{2}$PdSe$_{10}$",
-    "label": "A2BC10_oI104_24_2d_2a_10d-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oI104",
+    "space_group_number": 24,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -89,17 +99,8 @@
         0.26364,
         0.93216
     ],
-    "strukturbericht": null,
-    "title": "K$_{2}$PdSe$_{10}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC10_oI104_24_2d_2a_10d-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oI104",
-    "space_group_number": 24,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "71947"
+    "comments": null
 }

@@ -1,9 +1,19 @@
 {
     "uid": "C2PK",
+    "label": "A4B_tP10_114_e_a-001",
+    "alias": "A4B_tP10_114_e_a",
+    "title": "Pd$_{4}$Se Structure",
+    "icsd": "23864",
+    "ccdc": null,
     "prototype": "Pd4Se",
     "prototype_tex": "Pd$_{4}$Se",
-    "label": "A4B_tP10_114_e_a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tP10",
+    "space_group_number": 114,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -17,17 +27,8 @@
         0.768,
         0.846
     ],
-    "strukturbericht": null,
-    "title": "Pd$_{4}$Se Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B_tP10_114_e_a",
-    "number_of_species": 2,
-    "pearson_symbol": "tP10",
-    "space_group_number": 114,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "23864"
+    "comments": null
 }

@@ -1,9 +1,19 @@
 {
     "uid": "80KE",
+    "label": "A6BC2_hP9_162_k_a_d-001",
+    "alias": "A6BC2_hP9_162_k_a_d",
+    "title": "Rosiaite (PbSb$_{2}$O$_{6}$) Structure",
+    "icsd": "81387",
+    "ccdc": null,
     "prototype": "O6PbSb2",
     "prototype_tex": "O$_{6}$PbSb$_{2}$",
-    "label": "A6BC2_hP9_162_k_a_d-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP9",
+    "space_group_number": 162,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -15,17 +25,8 @@
         0.377,
         0.2965
     ],
-    "strukturbericht": null,
-    "title": "Rosiaite (PbSb$_{2}$O$_{6}$) Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A6BC2_hP9_162_k_a_d",
-    "number_of_species": 3,
-    "pearson_symbol": "hP9",
-    "space_group_number": 162,
-    "comments": "This is the ternary form of the \\href{current_web_home_dir/AB2_hP9_162_ad_k-001}{$L'3_{2}$ ($\\beta$-V$_{2}$N) structure}.",
+    "legacy": false,
     "notes": "Rosiaite",
-    "ccdc": null,
-    "icsd": "81387"
+    "comments": "This is the ternary form of the \\href{current_web_home_dir/AB2_hP9_162_ad_k-001}{$L'3_{2}$ ($\\beta$-V$_{2}$N) structure}."
 }

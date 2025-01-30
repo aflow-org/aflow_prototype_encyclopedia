@@ -1,9 +1,19 @@
 {
     "uid": "FT02",
+    "label": "A2B4C2D12E3_oF184_43_b_2b_b_6b_ab-001",
+    "alias": "A2B4C2D12E3_oF184_43_b_2b_b_6b_ab",
+    "title": "Natrolite (Na$_{2}$Al$_{2}$Si$_{3}$O$_{10}\\cdot$2H$_{2}$O, $S6_{10}$) Structure",
+    "icsd": "201651",
+    "ccdc": null,
     "prototype": "Al2H4O12Si3",
     "prototype_tex": "Al$_{2}$H$_{4}$O$_{12}$Si$_{3}$",
-    "label": "A2B4C2D12E3_oF184_43_b_2b_b_6b_ab-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "oF184",
+    "space_group_number": 43,
+    "strukturbericht": "S6_10",
+    "strukturbericht_tex": "$S6_{10}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -81,18 +91,8 @@
         0.0967,
         0.1231
     ],
-    "strukturbericht": "S6_10",
-    "title": "Natrolite (Na$_{2}$Al$_{2}$Si$_{3}$O$_{10}\\cdot$2H$_{2}$O, $S6_{10}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$S6_{10}$",
     "compounds": {},
-    "alias": "A2B4C2D12E3_oF184_43_b_2b_b_6b_ab",
-    "number_of_species": 5,
-    "pearson_symbol": "oF184",
-    "space_group_number": 43,
-    "comments": "We use the data from the sample that (Kirfel, 1984) call Crystal II. The origin has been arbitrarily set so that $z_{1} = 0$.",
+    "legacy": false,
     "notes": "$S6_{10}$, Natrolite",
-    "ccdc": null,
-    "icsd": "201651"
+    "comments": "We use the data from the sample that (Kirfel, 1984) call Crystal II. The origin has been arbitrarily set so that $z_{1} = 0$."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "8BR1",
+    "label": "A2BC2_oC20_36_b_a_b-001",
+    "alias": "A2BC2_oC20_36_b_a_b",
+    "title": "Si$_{2}$N$_{2}$O Structure",
+    "icsd": "34025",
+    "ccdc": null,
     "prototype": "N2OSi2",
     "prototype_tex": "N$_{2}$OSi$_{2}$",
-    "label": "A2BC2_oC20_36_b_a_b-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oC20",
+    "space_group_number": 36,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -29,17 +39,8 @@
         0.6509,
         0.2898
     ],
-    "strukturbericht": null,
-    "title": "Si$_{2}$N$_{2}$O Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC2_oC20_36_b_a_b",
-    "number_of_species": 3,
-    "pearson_symbol": "oC20",
-    "space_group_number": 36,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "34025"
+    "comments": null
 }

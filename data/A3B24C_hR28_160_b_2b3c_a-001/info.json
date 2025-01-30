@@ -1,9 +1,19 @@
 {
     "uid": "8TMQ",
+    "label": "A3B24C_hR28_160_b_2b3c_a-001",
+    "alias": "A3B24C_hR28_160_b_2b3c_a",
+    "title": "SbI$_{3}$S$_{24}$ Structure",
+    "icsd": "14200",
+    "ccdc": null,
     "prototype": "I3S24Sb",
     "prototype_tex": "I$_{3}$S$_{24}$Sb",
-    "label": "A3B24C_hR28_160_b_2b3c_a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hR28",
+    "space_group_number": 160,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -43,17 +53,8 @@
         0.6267,
         0.7609
     ],
-    "strukturbericht": null,
-    "title": "SbI$_{3}$S$_{24}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B24C_hR28_160_b_2b3c_a",
-    "number_of_species": 3,
-    "pearson_symbol": "hR28",
-    "space_group_number": 160,
-    "comments": "Since there are three S$_{8}$ molecules in this structure, (Bjorvatten, 1963) refer to it as SbI$_{3}$:3S$_{8}$. \n Space group $R3m$ \\#160 does not fix the zero of the $z$-axis.  Here it is set to coincide with the plane of the iodine atoms.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "14200"
+    "comments": "Since there are three S$_{8}$ molecules in this structure, (Bjorvatten, 1963) refer to it as SbI$_{3}$:3S$_{8}$. \n Space group $R3m$ \\#160 does not fix the zero of the $z$-axis.  Here it is set to coincide with the plane of the iodine atoms."
 }

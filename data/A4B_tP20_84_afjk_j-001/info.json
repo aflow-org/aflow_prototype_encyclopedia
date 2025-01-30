@@ -1,9 +1,19 @@
 {
     "uid": "L3AR",
+    "label": "A4B_tP20_84_afjk_j-001",
+    "alias": "A4B_tP20_84_afjk_j-001",
+    "title": "Cu$_{4}$Pd Structure",
+    "icsd": "103087",
+    "ccdc": null,
     "prototype": "Cu4Pd",
     "prototype_tex": "Cu$_{4}$Pd",
-    "label": "A4B_tP20_84_afjk_j-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tP20",
+    "space_group_number": 84,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -25,17 +35,8 @@
         0.3,
         0.25
     ],
-    "strukturbericht": null,
-    "title": "Cu$_{4}$Pd Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B_tP20_84_afjk_j-001",
-    "number_of_species": 2,
-    "pearson_symbol": "tP20",
-    "space_group_number": 84,
-    "comments": "Above $476^{\\circ}$C Cu$_{4}$Pd is completely disordered, with the atoms placed randomly on the sites of the \\href{current_web_home_dir/A_cF4_225_a-001}{face-centered cubic ($A1$) structure}.  Below that temperature it takes on this ordered tetragonal structure. (Geisler, 1954). \n The value of 0.25 for $z_{5}$ is not given in (Geisler, 1954), but we infer it from the description of the cell as a decoration of the face-centered cubic lattice.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "103087"
+    "comments": "Above $476^{\\circ}$C Cu$_{4}$Pd is completely disordered, with the atoms placed randomly on the sites of the \\href{current_web_home_dir/A_cF4_225_a-001}{face-centered cubic ($A1$) structure}.  Below that temperature it takes on this ordered tetragonal structure. (Geisler, 1954). \n The value of 0.25 for $z_{5}$ is not given in (Geisler, 1954), but we infer it from the description of the cell as a decoration of the face-centered cubic lattice."
 }

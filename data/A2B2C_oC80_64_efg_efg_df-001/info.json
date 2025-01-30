@@ -1,9 +1,19 @@
 {
     "uid": "BJ3W",
+    "label": "A2B2C_oC80_64_efg_efg_df-001",
+    "alias": "A2B2C_oC80_64_efg_efg_df",
+    "title": "MgB$_{2}$C$_{2}$ Structure",
+    "icsd": "79587",
+    "ccdc": null,
     "prototype": "B2C2Mg",
     "prototype_tex": "B$_{2}$C$_{2}$Mg",
-    "label": "A2B2C_oC80_64_efg_efg_df-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oC80",
+    "space_group_number": 64,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -43,17 +53,8 @@
         0.675,
         0.7231
     ],
-    "strukturbericht": null,
-    "title": "MgB$_{2}$C$_{2}$ Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B2C_oC80_64_efg_efg_df",
-    "number_of_species": 3,
-    "pearson_symbol": "oC80",
-    "space_group_number": 64,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "79587"
+    "comments": null
 }

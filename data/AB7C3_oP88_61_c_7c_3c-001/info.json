@@ -1,9 +1,19 @@
 {
     "uid": "WLBF",
+    "label": "AB7C3_oP88_61_c_7c_3c-001",
+    "alias": "AB7C3_oP88_61_c_7c_3c-001",
+    "title": "CuMo$_{3}$I$_{7}$ Structure",
+    "icsd": "404377",
+    "ccdc": null,
     "prototype": "CuI7Mo3",
     "prototype_tex": "CuI$_{7}$Mo$_{3}$",
-    "label": "AB7C3_oP88_61_c_7c_3c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP88",
+    "space_group_number": 61,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -79,17 +89,8 @@
         0.50117,
         0.06826
     ],
-    "strukturbericht": null,
-    "title": "CuMo$_{3}$I$_{7}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB7C3_oP88_61_c_7c_3c-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oP88",
-    "space_group_number": 61,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "404377"
+    "comments": null
 }

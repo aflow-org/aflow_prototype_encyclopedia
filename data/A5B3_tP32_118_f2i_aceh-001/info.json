@@ -1,9 +1,19 @@
 {
     "uid": "DCPJ",
+    "label": "A5B3_tP32_118_f2i_aceh-001",
+    "alias": "A5B3_tP32_118_g2i_aceh",
+    "title": "Ir$_{3}$Ga$_{5}$ Structure",
+    "icsd": "103761",
+    "ccdc": null,
     "prototype": "Ga5Ir3",
     "prototype_tex": "Ga$_{5}$Ir$_{3}$",
-    "label": "A5B3_tP32_118_f2i_aceh-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tP32",
+    "space_group_number": 118,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -29,17 +39,8 @@
         0.3,
         0.65
     ],
-    "strukturbericht": null,
-    "title": "Ir$_{3}$Ga$_{5}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A5B3_tP32_118_g2i_aceh",
-    "number_of_species": 2,
-    "pearson_symbol": "tP32",
-    "space_group_number": 118,
-    "comments": "In our original publication (Hicks, 2019) the iridium atoms on the (2d) site were inadvertantly placed on the (3c) site.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "103761"
+    "comments": "In our original publication (Hicks, 2019) the iridium atoms on the (2d) site were inadvertantly placed on the (3c) site."
 }

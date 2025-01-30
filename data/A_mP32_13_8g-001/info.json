@@ -1,9 +1,19 @@
 {
     "uid": "Y7J6",
+    "label": "A_mP32_13_8g-001",
+    "alias": "A_mP32_13_8g-001",
+    "title": "Rosick\\'{y}ite ($\\gamma$-monoclinic Sulfur) Structure",
+    "icsd": "66517",
+    "ccdc": null,
     "prototype": "S",
     "prototype_tex": "S",
-    "label": "A_mP32_13_8g-001",
-    "parameter_symbol": [
+    "number_of_species": 1,
+    "pearson_symbol": "mP32",
+    "space_group_number": 13,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -63,17 +73,8 @@
         0.1271,
         0.3294
     ],
-    "strukturbericht": null,
-    "title": "Rosick\\'{y}ite ($\\gamma$-monoclinic Sulfur) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A_mP32_13_8g-001",
-    "number_of_species": 1,
-    "pearson_symbol": "mP32",
-    "space_group_number": 13,
-    "comments": "We take the name of this structure from (Donohue, 1976), which occurs naturally as the mineral rosick\\'{y}ite. (Donohue, 1976; Downs, 2003)  The sulfur atoms form eight-atom rings, just like \\href{current_web_home_dir/A_oF128_70_4h-001}{$\\alpha$ sulfur ($A16$)} and \\href{current_web_home_dir/A_mP64_14_16e-002}{$\\beta$-monoclinic sulfur}.",
+    "legacy": false,
     "notes": "Rosick\\'{y}ite",
-    "ccdc": null,
-    "icsd": "66517"
+    "comments": "We take the name of this structure from (Donohue, 1976), which occurs naturally as the mineral rosick\\'{y}ite. (Donohue, 1976; Downs, 2003)  The sulfur atoms form eight-atom rings, just like \\href{current_web_home_dir/A_oF128_70_4h-001}{$\\alpha$ sulfur ($A16$)} and \\href{current_web_home_dir/A_mP64_14_16e-002}{$\\beta$-monoclinic sulfur}."
 }

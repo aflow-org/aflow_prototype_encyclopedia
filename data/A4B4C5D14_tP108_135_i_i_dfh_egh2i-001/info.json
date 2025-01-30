@@ -1,9 +1,19 @@
 {
     "uid": "55HD",
+    "label": "A4B4C5D14_tP108_135_i_i_dfh_egh2i-001",
+    "alias": "A4B4C5D14_tP108_135_i_i_dfh_egh2i-001",
+    "title": "Bi$_{4}$Fe$_{5}$O$_{13}$F Structure",
+    "icsd": "236370",
+    "ccdc": null,
     "prototype": "Bi4FFe5O13",
     "prototype_tex": "Bi$_{4}$FFe$_{5}$O$_{13}$",
-    "label": "A4B4C5D14_tP108_135_i_i_dfh_egh2i-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "tP108",
+    "space_group_number": 135,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -49,17 +59,8 @@
         0.876,
         0.5858
     ],
-    "strukturbericht": null,
-    "title": "Bi$_{4}$Fe$_{5}$O$_{13}$F Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B4C5D14_tP108_135_i_i_dfh_egh2i-001",
-    "number_of_species": 4,
-    "pearson_symbol": "tP108",
-    "space_group_number": 135,
-    "comments": "The O-I (8e) and F-I (16i) sites are only 1/4 occupied.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "236370"
+    "comments": "The O-I (8e) and F-I (16i) sites are only 1/4 occupied."
 }

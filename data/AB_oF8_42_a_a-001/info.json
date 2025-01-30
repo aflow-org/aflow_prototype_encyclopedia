@@ -1,9 +1,19 @@
 {
     "uid": "0Q2T",
+    "label": "AB_oF8_42_a_a-001",
+    "alias": "AB_oF8_42_a_a",
+    "title": "BN (High-pressure, high-temperature) Structure",
+    "icsd": "20946",
+    "ccdc": null,
     "prototype": "BN",
     "prototype_tex": "BN",
-    "label": "AB_oF8_42_a_a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oF8",
+    "space_group_number": 42,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -17,17 +27,8 @@
         0.0,
         0.333
     ],
-    "strukturbericht": null,
-    "title": "BN (High-pressure, high-temperature) Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_oF8_42_a_a",
-    "number_of_species": 2,
-    "pearson_symbol": "oF8",
-    "space_group_number": 42,
+    "legacy": false,
     "notes": "HP",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "20946"
+    "comments": null
 }

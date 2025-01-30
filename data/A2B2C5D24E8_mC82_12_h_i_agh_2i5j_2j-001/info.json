@@ -1,9 +1,19 @@
 {
     "uid": "BQ7Y",
+    "label": "A2B2C5D24E8_mC82_12_h_i_agh_2i5j_2j-001",
+    "alias": "A2B2C5D24E8_mC82_12_h_i_agh_2i5j_2j",
+    "title": "Tremolite (Ca$_{2}$Mg$_{5}$Si$_{8}$O$_{22}$(OH)$_{2}$ $S4_{2}$) Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "Ca2H2Mg5O24Si8",
     "prototype_tex": "Ca$_{2}$H$_{2}$Mg$_{5}$O$_{24}$Si$_{8}$",
-    "label": "A2B2C5D24E8_mC82_12_h_i_agh_2i5j_2j-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "mC82",
+    "space_group_number": 12,
+    "strukturbericht": "S4_2",
+    "strukturbericht_tex": "$S4_{2}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -75,18 +85,8 @@
         0.6711,
         0.1953
     ],
-    "strukturbericht": "S4_2",
-    "title": "Tremolite (Ca$_{2}$Mg$_{5}$Si$_{8}$O$_{22}$(OH)$_{2}$ $S4_{2}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$S4_{2}$",
     "compounds": {},
-    "alias": "A2B2C5D24E8_mC82_12_h_i_agh_2i5j_2j",
-    "number_of_species": 5,
-    "pearson_symbol": "mC82",
-    "space_group_number": 12,
-    "comments": "There is no entry for (Merli, 2000) in the ICSD or CCDC, but the CIF can be downloaded \\href{http://rruff.geo.arizona.edu/AMS/download.php?id=02444.cif&down=cif}{from the American Mineralogist Crystal Structure Database}.",
+    "legacy": false,
     "notes": "$S4_{2}$, Tremolite",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "There is no entry for (Merli, 2000) in the ICSD or CCDC, but the CIF can be downloaded \\href{http://rruff.geo.arizona.edu/AMS/download.php?id=02444.cif&down=cif}{from the American Mineralogist Crystal Structure Database}."
 }

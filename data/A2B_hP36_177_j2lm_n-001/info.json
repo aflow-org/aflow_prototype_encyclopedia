@@ -1,9 +1,19 @@
 {
     "uid": "XNAH",
+    "label": "A2B_hP36_177_j2lm_n-001",
+    "alias": "A2B_hP36_177_j2lm_n",
+    "title": "Hypothetical Hexagonal SiO$_{2}$ Structure",
+    "icsd": "170519",
+    "ccdc": null,
     "prototype": "O2Si",
     "prototype_tex": "O$_{2}$Si",
-    "label": "A2B_hP36_177_j2lm_n-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP36",
+    "space_group_number": 177,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -25,17 +35,8 @@
         0.86952,
         0.16458
     ],
-    "strukturbericht": null,
-    "title": "Hypothetical Hexagonal SiO$_{2}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B_hP36_177_j2lm_n",
-    "number_of_species": 2,
-    "pearson_symbol": "hP36",
-    "space_group_number": 177,
-    "comments": "This is a hypothetical hexagonal structure for SiO$_{2}$.  We use the data from the 1\\_200.cif file provided in the supplementary information of (Foster, 2004).",
+    "legacy": false,
     "notes": "Theory",
-    "ccdc": null,
-    "icsd": "170519"
+    "comments": "This is a hypothetical hexagonal structure for SiO$_{2}$.  We use the data from the 1\\_200.cif file provided in the supplementary information of (Foster, 2004)."
 }

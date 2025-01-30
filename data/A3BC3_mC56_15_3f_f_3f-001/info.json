@@ -1,9 +1,19 @@
 {
     "uid": "HRK9",
+    "label": "A3BC3_mC56_15_3f_f_3f-001",
+    "alias": "A3BC3_mC56_15_3f_f_3f-001",
+    "title": "Xanthoconite (Ag$_{3}$AsS$_{3}$) Structure",
+    "icsd": "36352",
+    "ccdc": null,
     "prototype": "Ag3AsS3",
     "prototype_tex": "Ag$_{3}$AsS$_{3}$",
-    "label": "A3BC3_mC56_15_3f_f_3f-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mC56",
+    "space_group_number": 15,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -57,17 +67,8 @@
         0.3948,
         0.3588
     ],
-    "strukturbericht": null,
-    "title": "Xanthoconite (Ag$_{3}$AsS$_{3}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3BC3_mC56_15_3f_f_3f-001",
-    "number_of_species": 3,
-    "pearson_symbol": "mC56",
-    "space_group_number": 15,
-    "comments": "Ag$_{3}$AsS$_{3}$ can also be found in the \\href{current_web_home_dir/A3BC3_hR14_161_b_a_b-001}{rhombohedral proustite structure}. (Villars, 2018) shows phase diagrams with xanthoconite at 150$^\\circ$C and proustite at 350$^\\circ$C, but (Engel, 1968) state that ``[xanthoconite] is obviously more unstable than proustite.''",
+    "legacy": false,
     "notes": "Xanthoconite",
-    "ccdc": null,
-    "icsd": "36352"
+    "comments": "Ag$_{3}$AsS$_{3}$ can also be found in the \\href{current_web_home_dir/A3BC3_hR14_161_b_a_b-001}{rhombohedral proustite structure}. (Villars, 2018) shows phase diagrams with xanthoconite at 150$^\\circ$C and proustite at 350$^\\circ$C, but (Engel, 1968) state that ``[xanthoconite] is obviously more unstable than proustite.''"
 }

@@ -1,9 +1,19 @@
 {
     "uid": "QLCJ",
+    "label": "AB_oP16_62_2c_2c-002",
+    "alias": "AB_oP16_62_2c_2c-002",
+    "title": "ThNi Structure",
+    "icsd": "105403",
+    "ccdc": null,
     "prototype": "NiTh",
     "prototype_tex": "NiTh",
-    "label": "AB_oP16_62_2c_2c-002",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP16",
+    "space_group_number": 62,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -29,17 +39,8 @@
         0.0344,
         0.7479
     ],
-    "strukturbericht": null,
-    "title": "ThNi Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_oP16_62_2c_2c-002",
-    "number_of_species": 2,
-    "pearson_symbol": "oP16",
-    "space_group_number": 62,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "105403"
+    "comments": null
 }

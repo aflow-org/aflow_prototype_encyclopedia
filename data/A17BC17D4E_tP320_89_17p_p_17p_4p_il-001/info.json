@@ -1,9 +1,19 @@
 {
     "uid": "HZJM",
+    "label": "A17BC17D4E_tP320_89_17p_p_17p_4p_il-001",
+    "alias": "A17BC17D4E_tP320_89_17p_p_17p_4p_il-001",
+    "title": "(CH)$_{17}$FeO$_{4}$Pt Structure ({\\em Revised})",
+    "icsd": null,
+    "ccdc": "863010",
     "prototype": "C17FeH17O4Pt",
     "prototype_tex": "C$_{17}$FeH$_{17}$O$_{4}$Pt",
-    "label": "A17BC17D4E_tP320_89_17p_p_17p_4p_il-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "tP320",
+    "space_group_number": 89,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -249,17 +259,8 @@
         0.8768,
         0.8623
     ],
-    "strukturbericht": null,
-    "title": "(CH)$_{17}$FeO$_{4}$Pt Structure ({\\em Revised})",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A17BC17D4E_tP320_89_17p_p_17p_4p_il-001",
-    "number_of_species": 5,
-    "pearson_symbol": "tP320",
-    "space_group_number": 89,
-    "ccdc": "863010",
-    "comments": "Structures exhibiting space group $P422$ \\#89 are quite rare. According to (Hoffmann, 2014) there are only two entries in the Inorganic Crystal Structure Database with space group \\#89. The current database has a third.  Unfortunately all three structures are incorrectly classified, as they are actually tetragonal. \n This structure was not explicitly referenced in (Tanaka, 2011), but the authors did deposit it in the \\href{https://dx.doi.org/10.1021/ic201012m}{Cambridge Structure Database (ID=863010)}. \n Our \\href{current_web_home_dir/A17BC4D_tP184_89_17p_p_4p_il-001}{original page (Hicks, 2019)} did not include the hydrogen atoms.",
+    "legacy": false,
     "notes": "Hydrogen atoms located",
-    "icsd": null
+    "comments": "Structures exhibiting space group $P422$ \\#89 are quite rare. According to (Hoffmann, 2014) there are only two entries in the Inorganic Crystal Structure Database with space group \\#89. The current database has a third.  Unfortunately all three structures are incorrectly classified, as they are actually tetragonal. \n This structure was not explicitly referenced in (Tanaka, 2011), but the authors did deposit it in the \\href{https://dx.doi.org/10.1021/ic201012m}{Cambridge Structure Database (ID=863010)}. \n Our \\href{current_web_home_dir/A17BC4D_tP184_89_17p_p_4p_il-001}{original page (Hicks, 2019)} did not include the hydrogen atoms."
 }

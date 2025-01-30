@@ -1,9 +1,19 @@
 {
     "uid": "MK0W",
+    "label": "A2B_mC144_9_24a_12a-001",
+    "alias": "A2B_mC144_9_24a_12a",
+    "title": "Monoclinic ($Cc$) Low Tridymite (SiO$_{2}$) Structure",
+    "icsd": "34867",
+    "ccdc": null,
     "prototype": "O2Si",
     "prototype_tex": "O$_{2}$Si",
-    "label": "A2B_mC144_9_24a_12a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC144",
+    "space_group_number": 9,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -231,17 +241,8 @@
         0.291,
         0.5642
     ],
-    "strukturbericht": null,
-    "title": "Monoclinic ($Cc$) Low Tridymite (SiO$_{2}$) Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B_mC144_9_24a_12a",
-    "number_of_species": 2,
-    "pearson_symbol": "mC144",
-    "space_group_number": 9,
+    "legacy": false,
     "notes": "Low Tridymite",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "34867"
+    "comments": null
 }

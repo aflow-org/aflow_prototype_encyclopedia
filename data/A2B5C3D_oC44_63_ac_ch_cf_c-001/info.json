@@ -1,9 +1,19 @@
 {
     "uid": "S4ZE",
+    "label": "A2B5C3D_oC44_63_ac_ch_cf_c-001",
+    "alias": "A2B5C3D_oC44_63_ac_ch_cf_c-001",
+    "title": "Pinalite (Pb$_{3}$WO$_{5}$Cl$_{2}$) Structure",
+    "icsd": "89833",
+    "ccdc": null,
     "prototype": "Cl2O5Pb3W",
     "prototype_tex": "Cl$_{2}$O$_{5}$Pb$_{3}$W",
-    "label": "A2B5C3D_oC44_63_ac_ch_cf_c-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oC44",
+    "space_group_number": 63,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -31,17 +41,8 @@
         0.77,
         0.868
     ],
-    "strukturbericht": null,
-    "title": "Pinalite (Pb$_{3}$WO$_{5}$Cl$_{2}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B5C3D_oC44_63_ac_ch_cf_c-001",
-    "number_of_species": 4,
-    "pearson_symbol": "oC44",
-    "space_group_number": 63,
-    "comments": "(Grice, 2000) give the structure of pinalite in the $Amam$ setting of space group \\#63.  We used FINDSYM to transform this to the standard $Cmcm$ setting.",
+    "legacy": false,
     "notes": "pinalite",
-    "ccdc": null,
-    "icsd": "89833"
+    "comments": "(Grice, 2000) give the structure of pinalite in the $Amam$ setting of space group \\#63.  We used FINDSYM to transform this to the standard $Cmcm$ setting."
 }

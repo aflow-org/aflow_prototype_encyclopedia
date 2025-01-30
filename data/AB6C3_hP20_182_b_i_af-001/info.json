@@ -1,9 +1,19 @@
 {
     "uid": "W0Z9",
+    "label": "AB6C3_hP20_182_b_i_af-001",
+    "alias": "AB6C3_hP20_182_b_i_af-001",
+    "title": "PbTa$_{2}$S$_{6}$ Structure",
+    "icsd": "83037",
+    "ccdc": null,
     "prototype": "PbTa2S6",
     "prototype_tex": "PbTa$_{2}$S$_{6}$",
-    "label": "AB6C3_hP20_182_b_i_af-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP20",
+    "space_group_number": 182,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -19,17 +29,8 @@
         0.337,
         0.1052
     ],
-    "strukturbericht": null,
-    "title": "PbTa$_{2}$S$_{6}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB6C3_hP20_182_b_i_af-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hP20",
-    "space_group_number": 182,
-    "comments": "The ICSD lists the prototype for this system as enargite (in its \\href{current_web_home_dir/AB3C6_hP20_182_c_af_i-001}{$P6_{3}22$ form}), but if that were the case the lead atom would be on the (2c) site rather than the (2b) site. \n (Eppinga, 1980) show a similar structure, but they set $z_{3}$ = 0, which puts the structure in the centrosymmetric space group $P6_{3}/mcm$ \\#193. (Fang, 1996) set $z_{3}$ = -0.002, which is just enough to keep the system in space group $P6_{3}22$ \\#182.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "83037"
+    "comments": "The ICSD lists the prototype for this system as enargite (in its \\href{current_web_home_dir/AB3C6_hP20_182_c_af_i-001}{$P6_{3}22$ form}), but if that were the case the lead atom would be on the (2c) site rather than the (2b) site. \n (Eppinga, 1980) show a similar structure, but they set $z_{3}$ = 0, which puts the structure in the centrosymmetric space group $P6_{3}/mcm$ \\#193. (Fang, 1996) set $z_{3}$ = -0.002, which is just enough to keep the system in space group $P6_{3}22$ \\#182."
 }

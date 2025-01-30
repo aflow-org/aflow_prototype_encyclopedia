@@ -1,9 +1,19 @@
 {
     "uid": "UXGR",
+    "label": "AB4C4_oP36_55_e_2g2h_2g2h-001",
+    "alias": "AB4C4_oP36_55_e_2g2h_2g2h-001",
+    "title": "Ta$_{4}$SiTe$_{4}$ Structure",
+    "icsd": "40207",
+    "ccdc": null,
     "prototype": "SiTa4Te4",
     "prototype_tex": "SiTa$_{4}$Te$_{4}$",
-    "label": "AB4C4_oP36_55_e_2g2h_2g2h-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP36",
+    "space_group_number": 55,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -47,17 +57,8 @@
         0.3345,
         0.1004
     ],
-    "strukturbericht": null,
-    "title": "Ta$_{4}$SiTe$_{4}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB4C4_oP36_55_e_2g2h_2g2h-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oP36",
-    "space_group_number": 55,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "40207"
+    "comments": null
 }

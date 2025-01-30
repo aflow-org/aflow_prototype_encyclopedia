@@ -1,9 +1,19 @@
 {
     "uid": "VZUF",
+    "label": "A2B3C8_hP13_164_d_e_di-001",
+    "alias": "A2B3C8_hP13_164_d_e_di-001",
+    "title": "Pd$_{3}$P$_{2}$S$_{8}$ Structure",
+    "icsd": "255896",
+    "ccdc": null,
     "prototype": "P2Pd3S8",
     "prototype_tex": "P$_{2}$Pd$_{3}$S$_{8}$",
-    "label": "A2B3C8_hP13_164_d_e_di-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP13",
+    "space_group_number": 164,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -19,17 +29,8 @@
         0.178623,
         0.8127
     ],
-    "strukturbericht": null,
-    "title": "Pd$_{3}$P$_{2}$S$_{8}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B3C8_hP13_164_d_e_di-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hP13",
-    "space_group_number": 164,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "255896"
+    "comments": null
 }

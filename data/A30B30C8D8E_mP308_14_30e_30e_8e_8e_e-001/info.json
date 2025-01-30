@@ -1,9 +1,19 @@
 {
     "uid": "6QN7",
+    "label": "A30B30C8D8E_mP308_14_30e_30e_8e_8e_e-001",
+    "alias": "A30B30C8D8E_mP308_14_30e_30e_8e_8e_e-001",
+    "title": "[Zn$_{2}$(Benzoato)$_{4}$(Caffeine)$_{2}$]$\\cdot$2 -- Caffeine (C$_{30}$H$_{30}$N$_{8}$O$_{8}$Zn) Structure",
+    "icsd": null,
+    "ccdc": "687128",
     "prototype": "C30H30N8O8Zn",
     "prototype_tex": "C$_{30}$H$_{30}$N$_{8}$O$_{8}$Zn",
-    "label": "A30B30C8D8E_mP308_14_30e_30e_8e_8e_e-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "mP308",
+    "space_group_number": 14,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -477,17 +487,8 @@
         0.48856,
         0.04111
     ],
-    "strukturbericht": null,
-    "title": "[Zn$_{2}$(Benzoato)$_{4}$(Caffeine)$_{2}$]$\\cdot$2 -- Caffeine (C$_{30}$H$_{30}$N$_{8}$O$_{8}$Zn) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A30B30C8D8E_mP308_14_30e_30e_8e_8e_e-001",
-    "number_of_species": 5,
-    "pearson_symbol": "mP308",
-    "space_group_number": 14,
-    "ccdc": "687128",
-    "comments": "(Findor\\'{a}kov\\'{a}, 2010) present this structure in the $P2_{1}/n$ setting of space group \\#14.  We used FINDSYM to change this to the standard $P2_{1}/c$ setting.",
+    "legacy": false,
     "notes": "Zinc Benzoato Caffeine",
-    "icsd": null
+    "comments": "(Findor\\'{a}kov\\'{a}, 2010) present this structure in the $P2_{1}/n$ setting of space group \\#14.  We used FINDSYM to change this to the standard $P2_{1}/c$ setting."
 }

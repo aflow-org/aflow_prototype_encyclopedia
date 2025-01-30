@@ -1,9 +1,19 @@
 {
     "uid": "1KN8",
+    "label": "A4B2C2D_tI18_139_h_d_e_a-001",
+    "alias": "A4B2C2D_tI18_139_h_d_e_a",
+    "title": "K$_{2}$OsO$_{2}$Cl$_{4}$ ($J1_{5}$) Structure",
+    "icsd": "36231",
+    "ccdc": null,
     "prototype": "Cl4K2O2Os",
     "prototype_tex": "Cl$_{4}$K$_{2}$O$_{2}$Os",
-    "label": "A4B2C2D_tI18_139_h_d_e_a-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "tI18",
+    "space_group_number": 139,
+    "strukturbericht": "J1_5",
+    "strukturbericht_tex": "$J1_{5}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -15,18 +25,8 @@
         0.212,
         0.23
     ],
-    "strukturbericht": "J1_5",
-    "title": "K$_{2}$OsO$_{2}$Cl$_{4}$ ($J1_{5}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$J1_{5}$",
     "compounds": {},
-    "alias": "A4B2C2D_tI18_139_h_d_e_a",
-    "number_of_species": 4,
-    "pearson_symbol": "tI18",
-    "space_group_number": 139,
+    "legacy": false,
     "notes": "$J1_{5}$",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "36231"
+    "comments": null
 }

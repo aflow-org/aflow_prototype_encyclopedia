@@ -1,9 +1,19 @@
 {
     "uid": "7NS2",
+    "label": "A8B2C12D2E_oI50_23_acgk_e_3k_f_b-001",
+    "alias": "A8B2C12D2E_oI50_23_bcfk_i_3k_j_a",
+    "title": "Stannoidite (Cu$_{8}$(Fe,Zn)$_{3}$Sn$_{2}$S$_{12}$) Structure",
+    "icsd": "41894",
+    "ccdc": null,
     "prototype": "Cu8Fe2S12Sn2Zn",
     "prototype_tex": "Cu$_{8}$Fe$_{2}$S$_{12}$Sn$_{2}$Zn",
-    "label": "A8B2C12D2E_oI50_23_acgk_e_3k_f_b-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "oI50",
+    "space_group_number": 23,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -43,17 +53,8 @@
         0.6294,
         0.7512
     ],
-    "strukturbericht": null,
-    "title": "Stannoidite (Cu$_{8}$(Fe,Zn)$_{3}$Sn$_{2}$S$_{12}$) Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A8B2C12D2E_oI50_23_bcfk_i_3k_j_a",
-    "number_of_species": 5,
-    "pearson_symbol": "oI50",
-    "space_group_number": 23,
-    "comments": "The composition of the Zn (2a) site is actually Zn$_{0.85}$Fe$_{0.15}$. Here we assume that it is purely zinc.",
+    "legacy": false,
     "notes": "Stannoidite",
-    "ccdc": null,
-    "icsd": "41894"
+    "comments": "The composition of the Zn (2a) site is actually Zn$_{0.85}$Fe$_{0.15}$. Here we assume that it is purely zinc."
 }

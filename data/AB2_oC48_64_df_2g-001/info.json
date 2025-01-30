@@ -1,9 +1,19 @@
 {
     "uid": "MR28",
+    "label": "AB2_oC48_64_df_2g-001",
+    "alias": "AB2_oC48_64_df_2g-001",
+    "title": "Low Temperature FeSi$_2$ Structure",
+    "icsd": "9119",
+    "ccdc": null,
     "prototype": "FeSi2",
     "prototype_tex": "FeSi$_2$",
-    "label": "AB2_oC48_64_df_2g-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oC48",
+    "space_group_number": 64,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -31,17 +41,8 @@
         0.545,
         0.2279
     ],
-    "strukturbericht": null,
-    "title": "Low Temperature FeSi$_2$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2_oC48_64_df_2g-001",
-    "number_of_species": 2,
-    "pearson_symbol": "oC48",
-    "space_group_number": 64,
-    "comments": "This is the low temperature structure of FeSi$_{2}$.  This transforms to the \\href{current_web_home_dir/AB2_tP3_123_a_h-001}{tetragonal high temperature structure} above 962-1000K, with the exact temperature dependent up on the iron concentration in the high temperature phase. (Villars, 2018)",
+    "legacy": false,
     "notes": "$T < 962$K",
-    "ccdc": null,
-    "icsd": "9119"
+    "comments": "This is the low temperature structure of FeSi$_{2}$.  This transforms to the \\href{current_web_home_dir/AB2_tP3_123_a_h-001}{tetragonal high temperature structure} above 962-1000K, with the exact temperature dependent up on the iron concentration in the high temperature phase. (Villars, 2018)"
 }

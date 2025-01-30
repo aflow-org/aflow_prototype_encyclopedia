@@ -1,9 +1,19 @@
 {
     "uid": "KLNT",
+    "label": "A6BC_hP16_163_i_b_c-001",
+    "alias": "A6BC_hP16_163_i_b_c",
+    "title": "NaSbF$_{4}$(OH)$_{2}$ ($J1_{12}$) Structure",
+    "icsd": "25539",
+    "ccdc": null,
     "prototype": "F6NaSb",
     "prototype_tex": "F$_{6}$NaSb",
-    "label": "A6BC_hP16_163_i_b_c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP16",
+    "space_group_number": 163,
+    "strukturbericht": "J1_12",
+    "strukturbericht_tex": "$J1_{12}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -17,18 +27,8 @@
         0.33,
         0.15
     ],
-    "strukturbericht": "J1_12",
-    "title": "NaSbF$_{4}$(OH)$_{2}$ ($J1_{12}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$J1_{12}$",
     "compounds": {},
-    "alias": "A6BC_hP16_163_i_b_c",
-    "number_of_species": 3,
-    "pearson_symbol": "hP16",
-    "space_group_number": 163,
-    "comments": "The (2i) site, which we show as occupied by fluorine, is actually occupied by a random mixture of fluorine atoms (67\\%) and OH radicals (33\\%). \n Although the replacement of fluorine by OH does not affect the shape of the Sb-(F,OH)$_{6}$ ions, it has a profound effect on the structure, as can be seen by looking at \\href{current_web_home_dir/A6BC_cP32_205_d_a_b-001}{NaSbF$_{6}$} and \\href{current_web_home_dir/AB6C_tP32_86_c_3g_d-001}{NaSb(OH)$_{6}$ ($J1_{11}$)}.",
+    "legacy": false,
     "notes": "$J1_{12}$",
-    "ccdc": null,
-    "icsd": "25539"
+    "comments": "The (2i) site, which we show as occupied by fluorine, is actually occupied by a random mixture of fluorine atoms (67\\%) and OH radicals (33\\%). \n Although the replacement of fluorine by OH does not affect the shape of the Sb-(F,OH)$_{6}$ ions, it has a profound effect on the structure, as can be seen by looking at \\href{current_web_home_dir/A6BC_cP32_205_d_a_b-001}{NaSbF$_{6}$} and \\href{current_web_home_dir/AB6C_tP32_86_c_3g_d-001}{NaSb(OH)$_{6}$ ($J1_{11}$)}."
 }

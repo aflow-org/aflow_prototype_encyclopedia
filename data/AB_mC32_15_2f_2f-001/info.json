@@ -1,9 +1,19 @@
 {
     "uid": "58NH",
+    "label": "AB_mC32_15_2f_2f-001",
+    "alias": "AB_mC32_15_2f_2f-001",
+    "title": "NaSi Structure",
+    "icsd": "43276",
+    "ccdc": null,
     "prototype": "NaSi",
     "prototype_tex": "NaSi",
-    "label": "AB_mC32_15_2f_2f-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC32",
+    "space_group_number": 15,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -39,17 +49,8 @@
         0.213,
         0.837
     ],
-    "strukturbericht": null,
-    "title": "NaSi Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_mC32_15_2f_2f-001",
-    "number_of_species": 2,
-    "pearson_symbol": "mC32",
-    "space_group_number": 15,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "43276"
+    "comments": null
 }

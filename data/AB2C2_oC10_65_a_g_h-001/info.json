@@ -1,9 +1,19 @@
 {
     "uid": "XPEY",
+    "label": "AB2C2_oC10_65_a_g_h-001",
+    "alias": "AB2C2_oC10_65_a_g_h-001",
+    "title": "Mn$_{2}$AlB$_{2}$ Structure",
+    "icsd": "25518",
+    "ccdc": null,
     "prototype": "AlB2Mn2",
     "prototype_tex": "AlB$_{2}$Mn$_{2}$",
-    "label": "AB2C2_oC10_65_a_g_h-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oC10",
+    "space_group_number": 65,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -17,17 +27,8 @@
         0.209,
         0.355
     ],
-    "strukturbericht": null,
-    "title": "Mn$_{2}$AlB$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2C2_oC10_65_a_g_h-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oC10",
-    "space_group_number": 65,
-    "comments": "(Becher, 1966) give the space group as $C222$ \\#20, but their Wyckoff positions are obviously from space group $Cmmm$ \\#65, a result which was confirmed by (Ade, 2015).",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "25518"
+    "comments": "(Becher, 1966) give the space group as $C222$ \\#20, but their Wyckoff positions are obviously from space group $Cmmm$ \\#65, a result which was confirmed by (Ade, 2015)."
 }

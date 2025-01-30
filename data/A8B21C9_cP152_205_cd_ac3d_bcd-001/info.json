@@ -1,9 +1,19 @@
 {
     "uid": "RF85",
+    "label": "A8B21C9_cP152_205_cd_ac3d_bcd-001",
+    "alias": "A8B21C9_cP152_205_cd_ac3d_bcd-001",
+    "title": "Al$_{8}$Pb$_{9}$O$_{21}$ Structure",
+    "icsd": "24393",
+    "ccdc": null,
     "prototype": "Al8O21Pb9",
     "prototype_tex": "Al$_{8}$O$_{21}$Pb$_{9}$",
-    "label": "A8B21C9_cP152_205_cd_ac3d_bcd-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cP152",
+    "space_group_number": 205,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "x3",
         "x4",
@@ -45,17 +55,8 @@
         0.9587,
         0.3751
     ],
-    "strukturbericht": null,
-    "title": "Al$_{8}$Pb$_{9}$O$_{21}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A8B21C9_cP152_205_cd_ac3d_bcd-001",
-    "number_of_species": 3,
-    "pearson_symbol": "cP152",
-    "space_group_number": 205,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "24393"
+    "comments": null
 }

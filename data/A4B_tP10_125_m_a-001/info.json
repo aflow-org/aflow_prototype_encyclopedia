@@ -1,9 +1,19 @@
 {
     "uid": "0BXW",
+    "label": "A4B_tP10_125_m_a-001",
+    "alias": "A4B_tP10_125_m_a",
+    "title": "PtPb$_{4}$ ($D1_{d}$) Structure",
+    "icsd": "648397",
+    "ccdc": null,
     "prototype": "Pb4Pt",
     "prototype_tex": "Pb$_{4}$Pt",
-    "label": "A4B_tP10_125_m_a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tP10",
+    "space_group_number": 125,
+    "strukturbericht": "D1_d",
+    "strukturbericht_tex": "$D1_{d}$",
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -15,18 +25,8 @@
         0.075,
         0.255
     ],
-    "strukturbericht": "D1_d",
-    "title": "PtPb$_{4}$ ($D1_{d}$) Structure",
-    "part": 2,
-    "legacy": false,
-    "strukturbericht_tex": "$D1_{d}$",
     "compounds": {},
-    "alias": "A4B_tP10_125_m_a",
-    "number_of_species": 2,
-    "pearson_symbol": "tP10",
-    "space_group_number": 125,
-    "comments": "(R\\\"{o}sler, 1951) give the structure in setting 1 of space group $P4/nbm$ \\#125.  We have shifted this to our standard setting 2. \n (Pearson, 1958) states that this structure is related to \\href{current_web_home_dir/A2B_tI12_140_h_a-001}{$C16$ khatyrkite (Al$_{2}$Cu)}.",
+    "legacy": false,
     "notes": "$D1_{d}$",
-    "ccdc": null,
-    "icsd": "648397"
+    "comments": "(R\\\"{o}sler, 1951) give the structure in setting 1 of space group $P4/nbm$ \\#125.  We have shifted this to our standard setting 2. \n (Pearson, 1958) states that this structure is related to \\href{current_web_home_dir/A2B_tI12_140_h_a-001}{$C16$ khatyrkite (Al$_{2}$Cu)}."
 }

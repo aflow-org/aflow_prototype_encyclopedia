@@ -1,9 +1,19 @@
 {
     "uid": "ZN0T",
+    "label": "A2B6CD8_oP34_31_2a_2a2b_a_4a2b-001",
+    "alias": "A2B6CD8_oP34_31_2a_2a2b_a_4a2b",
+    "title": "Mg(ClO$_{4}$)$_{2}\\cdot$6H$_{2}$O ($H4_{11}$) Structure",
+    "icsd": "24250",
+    "ccdc": null,
     "prototype": "Ca2(H2O)6MgO8",
     "prototype_tex": "Ca$_{2}$(H$_{2}$O)$_{6}$MgO$_{8}$",
-    "label": "A2B6CD8_oP34_31_2a_2a2b_a_4a2b-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oP34",
+    "space_group_number": 31,
+    "strukturbericht": "H4_11",
+    "strukturbericht_tex": "$H4_{11}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -73,18 +83,8 @@
         0.53056,
         0.90833
     ],
-    "strukturbericht": "H4_11",
-    "title": "Mg(ClO$_{4}$)$_{2}\\cdot$6H$_{2}$O ($H4_{11}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$H4_{11}$",
     "compounds": {},
-    "alias": "A2B6CD8_oP34_31_2a_2a2b_a_4a2b",
-    "number_of_species": 4,
-    "pearson_symbol": "oP34",
-    "space_group_number": 31,
-    "comments": "(Gottfried, 1937) writes $z_{13} = 0.408$ for the coordinate of the (H$_{2}$O-II) molecule, but the value given by West is $z_{13} = 0$, which gives a symmetric arrangement of water molecules around the chlorine atom.",
+    "legacy": false,
     "notes": "$H4_{11}$",
-    "ccdc": null,
-    "icsd": "24250"
+    "comments": "(Gottfried, 1937) writes $z_{13} = 0.408$ for the coordinate of the (H$_{2}$O-II) molecule, but the value given by West is $z_{13} = 0$, which gives a symmetric arrangement of water molecules around the chlorine atom."
 }

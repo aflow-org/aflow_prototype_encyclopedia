@@ -1,9 +1,19 @@
 {
     "uid": "NF0B",
+    "label": "A5B12_oP68_60_c2d_6d-001",
+    "alias": "A5B12_oP68_60_c2d_6d",
+    "title": "Cr$_{5}$O$_{12}$ Structure",
+    "icsd": "24299",
+    "ccdc": null,
     "prototype": "Cr5O12",
     "prototype_tex": "Cr$_{5}$O$_{12}$",
-    "label": "A5B12_oP68_60_c2d_6d-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP68",
+    "space_group_number": 60,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -63,17 +73,8 @@
         0.4894,
         0.3625
     ],
-    "strukturbericht": null,
-    "title": "Cr$_{5}$O$_{12}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A5B12_oP68_60_c2d_6d",
-    "number_of_species": 2,
-    "pearson_symbol": "oP68",
-    "space_group_number": 60,
-    "comments": "(Wilhelmi, 1965) describes this as a distorted face-centered cubic lattice of oxygen atoms with the chromium atoms in interstitial sites.  One can very clearly see the CrO$_{4}$ tetrahedra and CrO$_{6}$ octahedra, indicating the presence of both Cr$^{+2}$ and Cr$^{+3}$ ions.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "24299"
+    "comments": "(Wilhelmi, 1965) describes this as a distorted face-centered cubic lattice of oxygen atoms with the chromium atoms in interstitial sites.  One can very clearly see the CrO$_{4}$ tetrahedra and CrO$_{6}$ octahedra, indicating the presence of both Cr$^{+2}$ and Cr$^{+3}$ ions."
 }

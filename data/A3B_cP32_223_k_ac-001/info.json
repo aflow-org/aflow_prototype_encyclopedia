@@ -1,9 +1,19 @@
 {
     "uid": "4UMV",
+    "label": "A3B_cP32_223_k_ac-001",
+    "alias": "A3B_cP32_223_k_ac-001",
+    "title": "$\\beta$-UH$_{3}$ Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "H3U",
     "prototype_tex": "H$_{3}$U",
-    "label": "A3B_cP32_223_k_ac-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cP32",
+    "space_group_number": 223,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "y3",
         "z3"
@@ -13,17 +23,8 @@
         0.156,
         0.313
     ],
-    "strukturbericht": null,
-    "title": "$\\beta$-UH$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B_cP32_223_k_ac-001",
-    "number_of_species": 2,
-    "pearson_symbol": "cP32",
-    "space_group_number": 223,
-    "comments": "UH$_{3}$ exists in two different structures, both with space group $Pm\\overline{3}n$ \\#223 (Halevy, 2004). \n $\\alpha$-UH$_{3}$ forms in the \\href{current_web_home_dir/A3B_cP8_223_c_a-001}{Cr$_{3}$Si ($A15$) structure}, but rapidly transforms into the ground state $\\beta$-UH$_{3}$ structure shown here. \n In this case, all of the uranium atoms sit on the sites of the $A15$ structure, with the hydrogens in the interstitials.",
+    "legacy": false,
     "notes": "$\\beta$-UH$_{3}$",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "UH$_{3}$ exists in two different structures, both with space group $Pm\\overline{3}n$ \\#223 (Halevy, 2004). \n $\\alpha$-UH$_{3}$ forms in the \\href{current_web_home_dir/A3B_cP8_223_c_a-001}{Cr$_{3}$Si ($A15$) structure}, but rapidly transforms into the ground state $\\beta$-UH$_{3}$ structure shown here. \n In this case, all of the uranium atoms sit on the sites of the $A15$ structure, with the hydrogens in the interstitials."
 }

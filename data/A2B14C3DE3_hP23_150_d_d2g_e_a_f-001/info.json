@@ -1,9 +1,19 @@
 {
     "uid": "8A06",
+    "label": "A2B14C3DE3_hP23_150_d_d2g_e_a_f-001",
+    "alias": "A2B14C3DE3_hP23_150_d_d2g_e_a_f-001",
+    "title": "Dugganite (Pb$_{3}$Zn$_{3}$TeAs$_{2}$O$_{14}$) Structure",
+    "icsd": "85574",
+    "ccdc": null,
     "prototype": "As2O14Pb3TeZn3",
     "prototype_tex": "As$_{2}$O$_{14}$Pb$_{3}$TeZn$_{3}$",
-    "label": "A2B14C3DE3_hP23_150_d_d2g_e_a_f-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "hP23",
+    "space_group_number": 150,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -31,17 +41,8 @@
         0.2,
         0.339
     ],
-    "strukturbericht": null,
-    "title": "Dugganite (Pb$_{3}$Zn$_{3}$TeAs$_{2}$O$_{14}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B14C3DE3_hP23_150_d_d2g_e_a_f-001",
-    "number_of_species": 5,
-    "pearson_symbol": "hP23",
-    "space_group_number": 150,
-    "comments": "Some authors use langasite, Ca$_{3}$Ga$_{2}$Ge$_{4}$O$_{14}$ or La$_{3}$Ga$_{4}$(Ga,Si)$_{4}$O$_{14}$, as the prototype for this structure, however in langasite the (1a) and (3f) Wyckoff positions are a mixture of gallium and germanium atoms (Dudka, 2013).  None of the Wyckoff positions in dugganite are disordered, so we use it as the prototype.",
+    "legacy": false,
     "notes": "Dugganite",
-    "ccdc": null,
-    "icsd": "85574"
+    "comments": "Some authors use langasite, Ca$_{3}$Ga$_{2}$Ge$_{4}$O$_{14}$ or La$_{3}$Ga$_{4}$(Ga,Si)$_{4}$O$_{14}$, as the prototype for this structure, however in langasite the (1a) and (3f) Wyckoff positions are a mixture of gallium and germanium atoms (Dudka, 2013).  None of the Wyckoff positions in dugganite are disordered, so we use it as the prototype."
 }

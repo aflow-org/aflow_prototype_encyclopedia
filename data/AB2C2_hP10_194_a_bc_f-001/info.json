@@ -1,9 +1,19 @@
 {
     "uid": "6X9E",
+    "label": "AB2C2_hP10_194_a_bc_f-001",
+    "alias": "AB2C2_hP10_194_a_bc_f",
+    "title": "Na$_{0.74}$CoO$_{2}$ Structure",
+    "icsd": "50301",
+    "ccdc": null,
     "prototype": "CoNa0.74O2",
     "prototype_tex": "CoNa$_{0.74}$O$_{2}$",
-    "label": "AB2C2_hP10_194_a_bc_f-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP10",
+    "space_group_number": 194,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z4"
@@ -13,17 +23,8 @@
         3.80669,
         0.5913
     ],
-    "strukturbericht": null,
-    "title": "Na$_{0.74}$CoO$_{2}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2C2_hP10_194_a_bc_f",
-    "number_of_species": 3,
-    "pearson_symbol": "hP10",
-    "space_group_number": 194,
-    "comments": "Na$_{0.74}$CoO$_{2}$ is a high figure-of-merit thermoelectric (Sk, 2019). The sodium sites are only partial filled, with the Na-I (2b) site having 21\\% occupancy while the Na-II (2c) site is at 51\\%. ",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "50301"
+    "comments": "Na$_{0.74}$CoO$_{2}$ is a high figure-of-merit thermoelectric (Sk, 2019). The sodium sites are only partial filled, with the Na-I (2b) site having 21\\% occupancy while the Na-II (2c) site is at 51\\%. "
 }

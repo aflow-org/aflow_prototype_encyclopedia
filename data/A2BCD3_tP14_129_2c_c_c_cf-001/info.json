@@ -1,9 +1,19 @@
 {
     "uid": "8TD3",
+    "label": "A2BCD3_tP14_129_2c_c_c_cf-001",
+    "alias": "A2BCD3_tP14_129_2c_c_c_cf-001",
+    "title": "Ba$_{2}$InO$_{3}$F Structure",
+    "icsd": "79261",
+    "ccdc": null,
     "prototype": "Ba2FInO3",
     "prototype_tex": "Ba$_{2}$FInO$_{3}$",
-    "label": "A2BCD3_tP14_129_2c_c_c_cf-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "tP14",
+    "space_group_number": 129,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -23,17 +33,8 @@
         0.9113,
         0.2521
     ],
-    "strukturbericht": null,
-    "title": "Ba$_{2}$InO$_{3}$F Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BCD3_tP14_129_2c_c_c_cf-001",
-    "number_of_species": 4,
-    "pearson_symbol": "tP14",
-    "space_group_number": 129,
-    "comments": "The ICSD places this in the \\href{current_web_home_dir/ABC4D_tP14_129_c_c_2cf_c-001}{AgLaTiO$_{4}$ structure type}. We find it more logical to separate the MO$_{3}$H (M = metal, H = halogen) compounds from the MO$_{4}$ compounds.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "79261"
+    "comments": "The ICSD places this in the \\href{current_web_home_dir/ABC4D_tP14_129_c_c_2cf_c-001}{AgLaTiO$_{4}$ structure type}. We find it more logical to separate the MO$_{3}$H (M = metal, H = halogen) compounds from the MO$_{4}$ compounds."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "V85G",
+    "label": "A2B_aP6_2_2i_i-001",
+    "alias": "A2B_aP6_2_2i_i",
+    "title": "P$_{2}$I$_{4}$ Structure",
+    "icsd": "36293",
+    "ccdc": null,
     "prototype": "I4P2",
     "prototype_tex": "I$_{4}$P$_{2}$",
-    "label": "A2B_aP6_2_2i_i-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "aP6",
+    "space_group_number": 2,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -37,17 +47,8 @@
         0.361,
         0.537
     ],
-    "strukturbericht": null,
-    "title": "P$_{2}$I$_{4}$ Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B_aP6_2_2i_i",
-    "number_of_species": 2,
-    "pearson_symbol": "aP6",
-    "space_group_number": 2,
-    "comments": "The ICSD entry for this structure has a much different value for $\\beta$ than what appears in the published work.  At the present time we do not have a resolution to this problem",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "36293"
+    "comments": "The ICSD entry for this structure has a much different value for $\\beta$ than what appears in the published work.  At the present time we do not have a resolution to this problem"
 }

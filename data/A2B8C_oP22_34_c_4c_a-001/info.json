@@ -1,9 +1,19 @@
 {
     "uid": "7UTD",
+    "label": "A2B8C_oP22_34_c_4c_a-001",
+    "alias": "A2B8C_oP22_34_c_4c_a",
+    "title": "TiAl$_{2}$Br$_{8}$ Structure",
+    "icsd": "39243",
+    "ccdc": null,
     "prototype": "Al2Br8Ti",
     "prototype_tex": "Al$_{2}$Br$_{8}$Ti",
-    "label": "A2B8C_oP22_34_c_4c_a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP22",
+    "space_group_number": 34,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -45,17 +55,8 @@
         0.6459,
         0.513
     ],
-    "strukturbericht": null,
-    "title": "TiAl$_{2}$Br$_{8}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B8C_oP22_34_c_4c_a",
-    "number_of_species": 3,
-    "pearson_symbol": "oP22",
-    "space_group_number": 34,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "39243"
+    "comments": null
 }

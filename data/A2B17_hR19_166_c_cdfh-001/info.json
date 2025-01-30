@@ -1,9 +1,19 @@
 {
     "uid": "PZ2T",
+    "label": "A2B17_hR19_166_c_cdfh-001",
+    "alias": "A2B17_hR19_166_c_cdfh-001",
+    "title": "Th$_{2}$Zn$_{17}$ Structure",
+    "icsd": "20238",
+    "ccdc": null,
     "prototype": "Th2Zn17",
     "prototype_tex": "Th$_{2}$Zn$_{17}$",
-    "label": "A2B17_hR19_166_c_cdfh-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hR19",
+    "space_group_number": 166,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -21,17 +31,8 @@
         0.66667,
         0.16667
     ],
-    "strukturbericht": null,
-    "title": "Th$_{2}$Zn$_{17}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B17_hR19_166_c_cdfh-001",
-    "number_of_species": 2,
-    "pearson_symbol": "hR19",
-    "space_group_number": 166,
-    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "20238"
+    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

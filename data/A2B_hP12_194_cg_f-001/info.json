@@ -1,9 +1,19 @@
 {
     "uid": "3KTM",
+    "label": "A2B_hP12_194_cg_f-001",
+    "alias": "A2B_hP12_194_cg_f",
+    "title": "$\\beta$-Tridymite (SiO$_{2}$, $C10$) Structure",
+    "icsd": "200478",
+    "ccdc": null,
     "prototype": "O2Si",
     "prototype_tex": "O$_{2}$Si",
-    "label": "A2B_hP12_194_cg_f-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP12",
+    "space_group_number": 194,
+    "strukturbericht": "C10",
+    "strukturbericht_tex": "$C10$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2"
@@ -13,18 +23,8 @@
         1.63698,
         0.062
     ],
-    "strukturbericht": "C10",
-    "title": "$\\beta$-Tridymite (SiO$_{2}$, $C10$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$C10$",
     "compounds": {},
-    "alias": "A2B_hP12_194_cg_f",
-    "number_of_species": 2,
-    "pearson_symbol": "hP12",
-    "space_group_number": 194,
+    "legacy": false,
     "notes": "$C10$, $\\beta$-Tridymite",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "200478"
+    "comments": null
 }

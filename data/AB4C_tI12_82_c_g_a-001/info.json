@@ -1,9 +1,19 @@
 {
     "uid": "C601",
+    "label": "AB4C_tI12_82_c_g_a-001",
+    "alias": "AB4C_tI12_82_c_g_a",
+    "title": "BPO$_{4}$ ($H0_{7}$) Structure",
+    "icsd": "55082",
+    "ccdc": null,
     "prototype": "BO4P",
     "prototype_tex": "BO$_{4}$P",
-    "label": "AB4C_tI12_82_c_g_a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tI12",
+    "space_group_number": 82,
+    "strukturbericht": "H0_7",
+    "strukturbericht_tex": "$H0_{7}$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -17,18 +27,8 @@
         0.2579,
         0.1271
     ],
-    "strukturbericht": "H0_7",
-    "title": "BPO$_{4}$ ($H0_{7}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$H0_{7}$",
     "compounds": {},
-    "alias": "AB4C_tI12_82_c_g_a",
-    "number_of_species": 3,
-    "pearson_symbol": "tI12",
-    "space_group_number": 82,
+    "legacy": false,
     "notes": "$H0_{7}$",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "55082"
+    "comments": null
 }

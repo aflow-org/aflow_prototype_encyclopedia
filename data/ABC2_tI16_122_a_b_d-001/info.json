@@ -1,9 +1,19 @@
 {
     "uid": "XWJF",
+    "label": "ABC2_tI16_122_a_b_d-001",
+    "alias": "ABC2_tI16_122_a_b_d",
+    "title": "Chalcopyrite (CuFeS$_{2}$, $E1_{1}$) Structure",
+    "icsd": "2518",
+    "ccdc": null,
     "prototype": "CuFeS2",
     "prototype_tex": "CuFeS$_{2}$",
-    "label": "ABC2_tI16_122_a_b_d-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tI16",
+    "space_group_number": 122,
+    "strukturbericht": "E1_1",
+    "strukturbericht_tex": "$E1_{1}$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3"
@@ -13,18 +23,8 @@
         1.97069,
         0.2574
     ],
-    "strukturbericht": "E1_1",
-    "title": "Chalcopyrite (CuFeS$_{2}$, $E1_{1}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$E1_{1}$",
     "compounds": {},
-    "alias": "ABC2_tI16_122_a_b_d",
-    "number_of_species": 3,
-    "pearson_symbol": "tI16",
-    "space_group_number": 122,
-    "comments": "When $c = 2 a$ and $x_{3} = 1/8$ the atoms are on the sites of \\href{current_web_home_dir/A_cF8_227_a-001}{the diamond ($A4$) structure}. In that case if we replace the Fe atoms by Cu we get \\href{current_web_home_dir/AB_cF8_216_a_c-001}{the zincblende ($B3$) structure}.",
+    "legacy": false,
     "notes": "$E1_{1}$, Chalcopyrite",
-    "ccdc": null,
-    "icsd": "2518"
+    "comments": "When $c = 2 a$ and $x_{3} = 1/8$ the atoms are on the sites of \\href{current_web_home_dir/A_cF8_227_a-001}{the diamond ($A4$) structure}. In that case if we replace the Fe atoms by Cu we get \\href{current_web_home_dir/AB_cF8_216_a_c-001}{the zincblende ($B3$) structure}."
 }

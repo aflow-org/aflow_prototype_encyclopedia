@@ -1,9 +1,19 @@
 {
     "uid": "QANU",
+    "label": "A2B3C2D8_mP30_14_e_ae_e_4e-001",
+    "alias": "A2B3C2D8_mP30_14_e_ce_e_4e",
+    "title": "Azurite [Cu$_{3}$(CO$_{3}$)$_{2}$(OH)$_{2}$, $G7_{4}$] Structure",
+    "icsd": "182324",
+    "ccdc": null,
     "prototype": "C2Cu3H2O8",
     "prototype_tex": "C$_{2}$Cu$_{3}$H$_{2}$O$_{8}$",
-    "label": "A2B3C2D8_mP30_14_e_ae_e_4e-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "mP30",
+    "space_group_number": 14,
+    "strukturbericht": "G7_4",
+    "strukturbericht_tex": "$G7_{4}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -57,18 +67,8 @@
         0.7949,
         0.2935
     ],
-    "strukturbericht": "G7_4",
-    "title": "Azurite [Cu$_{3}$(CO$_{3}$)$_{2}$(OH)$_{2}$, $G7_{4}$] Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$G7_{4}$",
     "compounds": {},
-    "alias": "A2B3C2D8_mP30_14_e_ce_e_4e",
-    "number_of_species": 4,
-    "pearson_symbol": "mP30",
-    "space_group_number": 14,
-    "comments": "(Rule, 2011) actually present two possible structures for azurite: \\begin{itemize} \\item the current structure, with space group $P2_1/c$ \\#14, is identical to the structure designated $G7_{4}$ by (Hermann, 1937) except that the OH radical is now separated into the O(IV) and H atom sites, and \\item a structure with the same unit cell dimensions but without an inversion site, leading to space group $P2_1$ \\#4. \\end{itemize} ~ \\vspace{-.25in} \n The difference between the two structures is extremely small, and we choose to use the traditional structure. \n Structural information was taken from powder diffraction data at 1.28K.",
+    "legacy": false,
     "notes": "$G7_{4}$, Azurite",
-    "ccdc": null,
-    "icsd": "182324"
+    "comments": "(Rule, 2011) actually present two possible structures for azurite: \\begin{itemize} \\item the current structure, with space group $P2_1/c$ \\#14, is identical to the structure designated $G7_{4}$ by (Hermann, 1937) except that the OH radical is now separated into the O(IV) and H atom sites, and \\item a structure with the same unit cell dimensions but without an inversion site, leading to space group $P2_1$ \\#4. \\end{itemize} ~ \\vspace{-.25in} \n The difference between the two structures is extremely small, and we choose to use the traditional structure. \n Structural information was taken from powder diffraction data at 1.28K."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "71TL",
+    "label": "A3B12C_cP128_205_d_4d_c-001",
+    "alias": "A3B12C_cP128_205_d_4d_c-001",
+    "title": "Room-Temperature Y(BH$_{4}$)$_{3}$ Structure",
+    "icsd": "167702",
+    "ccdc": null,
     "prototype": "B3H12Y",
     "prototype_tex": "B$_{3}$H$_{12}$Y",
-    "label": "A3B12C_cP128_205_d_4d_c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cP128",
+    "space_group_number": 205,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "x1",
         "x2",
@@ -41,17 +51,8 @@
         0.1626,
         0.8961
     ],
-    "strukturbericht": null,
-    "title": "Room-Temperature Y(BH$_{4}$)$_{3}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B12C_cP128_205_d_4d_c-001",
-    "number_of_species": 3,
-    "pearson_symbol": "cP128",
-    "space_group_number": 205,
-    "comments": "Y(BH$_{4}$)$_{3}$ his been observed in three phases (Frommen, 2010): \\begin{itemize} \\item This \\href{current_web_home_dir/A3B12C_cP128_205_d_4d_c-001}{room temperature cubic phase}, stable up to 473K, \\item A (metastable?) orthorhombic phase, found in the 473-520K range, whose structure has not been determined, and \\item A \\href{current_web_home_dir/A3B12C_cF128_226_c_i_b-001}{high temperature cubic phase}. \\end{itemize} ~ \\vspace{-.25in} \n This sample used deuterium, and the data was taken at 293K.",
+    "legacy": false,
     "notes": "RT",
-    "ccdc": null,
-    "icsd": "167702"
+    "comments": "Y(BH$_{4}$)$_{3}$ his been observed in three phases (Frommen, 2010): \\begin{itemize} \\item This \\href{current_web_home_dir/A3B12C_cP128_205_d_4d_c-001}{room temperature cubic phase}, stable up to 473K, \\item A (metastable?) orthorhombic phase, found in the 473-520K range, whose structure has not been determined, and \\item A \\href{current_web_home_dir/A3B12C_cF128_226_c_i_b-001}{high temperature cubic phase}. \\end{itemize} ~ \\vspace{-.25in} \n This sample used deuterium, and the data was taken at 293K."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "7W3W",
+    "label": "A3B_tI8_139_ad_b-001",
+    "alias": "A3B_tI8_139_bd_a",
+    "title": "Al$_{3}$Ti ($D0_{22}$) Structure",
+    "icsd": "58189",
+    "ccdc": null,
     "prototype": "Al3Ti",
     "prototype_tex": "Al$_{3}$Ti",
-    "label": "A3B_tI8_139_ad_b-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tI8",
+    "space_group_number": 139,
+    "strukturbericht": "D0_22",
+    "strukturbericht_tex": "$D0_{22}$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a"
     ],
@@ -11,18 +21,8 @@
         3.8537,
         2.22744
     ],
-    "strukturbericht": "D0_22",
-    "title": "Al$_{3}$Ti ($D0_{22}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$D0_{22}$",
     "compounds": {},
-    "alias": "A3B_tI8_139_bd_a",
-    "number_of_species": 2,
-    "pearson_symbol": "tI8",
-    "space_group_number": 139,
-    "comments": "When $c=2a$ the atoms are on the sites of a face-centered cubic lattice. When $c/a=1/\\sqrt{2}$, this becomes the cubic \\href{current_web_home_dir/AB3_cF16_225_a_bc-001}{$D0_{3}$ structure.}",
+    "legacy": false,
     "notes": "$D0_{22}$",
-    "ccdc": null,
-    "icsd": "58189"
+    "comments": "When $c=2a$ the atoms are on the sites of a face-centered cubic lattice. When $c/a=1/\\sqrt{2}$, this becomes the cubic \\href{current_web_home_dir/AB3_cF16_225_a_bc-001}{$D0_{3}$ structure.}"
 }

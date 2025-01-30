@@ -1,9 +1,19 @@
 {
     "uid": "MYP4",
+    "label": "A_oF128_70_4h-001",
+    "alias": "A_oF128_70_4h",
+    "title": "$\\alpha$-S ($A16$) Structure",
+    "icsd": "63082",
+    "ccdc": null,
     "prototype": "S",
     "prototype_tex": "S",
-    "label": "A_oF128_70_4h-001",
-    "parameter_symbol": [
+    "number_of_species": 1,
+    "pearson_symbol": "oF128",
+    "space_group_number": 70,
+    "strukturbericht": "A16",
+    "strukturbericht_tex": "$A16$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -37,18 +47,8 @@
         0.21405,
         0.09239
     ],
-    "strukturbericht": "A16",
-    "title": "$\\alpha$-S ($A16$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$A16$",
     "compounds": {},
-    "alias": "A_oF128_70_4h",
-    "number_of_species": 1,
-    "pearson_symbol": "oF128",
-    "space_group_number": 70,
+    "legacy": false,
     "notes": "$A16$, $\\alpha$-S",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "63082"
+    "comments": null
 }

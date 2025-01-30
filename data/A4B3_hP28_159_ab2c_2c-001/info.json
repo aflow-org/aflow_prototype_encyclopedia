@@ -1,9 +1,19 @@
 {
     "uid": "9UA2",
+    "label": "A4B3_hP28_159_ab2c_2c-001",
+    "alias": "A4B3_hP28_159_ab2c_2c",
+    "title": "Nierite ($\\alpha$-Si$_{3}$N$_{4}$) Structure",
+    "icsd": "79797",
+    "ccdc": null,
     "prototype": "N4Si3",
     "prototype_tex": "N$_{4}$Si$_{3}$",
-    "label": "A4B3_hP28_159_ab2c_2c-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP28",
+    "space_group_number": 159,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -39,17 +49,8 @@
         0.252,
         0.9832
     ],
-    "strukturbericht": null,
-    "title": "Nierite ($\\alpha$-Si$_{3}$N$_{4}$) Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B3_hP28_159_ab2c_2c",
-    "number_of_species": 2,
-    "pearson_symbol": "hP28",
-    "space_group_number": 159,
-    "comments": "Nierite can also be found as \\href{current_web_home_dir/A4B3_hP14_176_ch_h-001}{hexagonal $\\beta$-Si$_{3}$N$_{4}$}. \n The data for this structure was taken at 300K.",
+    "legacy": false,
     "notes": "Nierite",
-    "ccdc": null,
-    "icsd": "79797"
+    "comments": "Nierite can also be found as \\href{current_web_home_dir/A4B3_hP14_176_ch_h-001}{hexagonal $\\beta$-Si$_{3}$N$_{4}$}. \n The data for this structure was taken at 300K."
 }

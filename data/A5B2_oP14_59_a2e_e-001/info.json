@@ -1,9 +1,19 @@
 {
     "uid": "KZMB",
+    "label": "A5B2_oP14_59_a2e_e-001",
+    "alias": "A5B2_oP14_59_a2f_f",
+    "title": "Shcherbinaite (V$_{2}$O$_{5}$) Structure ({\\em Revised})",
+    "icsd": "60767",
+    "ccdc": null,
     "prototype": "O5V2",
     "prototype_tex": "O$_{5}$V$_{2}$",
-    "label": "A5B2_oP14_59_a2e_e-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP14",
+    "space_group_number": 59,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -27,17 +37,8 @@
         0.39882,
         0.109
     ],
-    "strukturbericht": null,
-    "title": "Shcherbinaite (V$_{2}$O$_{5}$) Structure ({\\em Revised})",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A5B2_oP14_59_a2f_f",
-    "number_of_species": 2,
-    "pearson_symbol": "oP14",
-    "space_group_number": 59,
-    "comments": "An earlier version of this structure found by (Ketelaar, 1936) \\href{current_web_home_dir/A5B2_oP14_31_a2b_b-001}{was given the $D8_{7}$} {\\em Strukturbericht} designation in (Gottfried, 1938). It was later realized that this structure had a rather unexpected arrangement of vanadium atoms, and the structure was revised by (Enjalbert, 1986) and others.",
+    "legacy": false,
     "notes": "Shcherbinaite ({\\em Revised})",
-    "ccdc": null,
-    "icsd": "60767"
+    "comments": "An earlier version of this structure found by (Ketelaar, 1936) \\href{current_web_home_dir/A5B2_oP14_31_a2b_b-001}{was given the $D8_{7}$} {\\em Strukturbericht} designation in (Gottfried, 1938). It was later realized that this structure had a rather unexpected arrangement of vanadium atoms, and the structure was revised by (Enjalbert, 1986) and others."
 }

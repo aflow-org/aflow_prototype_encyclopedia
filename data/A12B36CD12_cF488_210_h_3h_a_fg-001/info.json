@@ -1,9 +1,19 @@
 {
     "uid": "X29X",
+    "label": "A12B36CD12_cF488_210_h_3h_a_fg-001",
+    "alias": "A12B36CD12_cF488_210_h_3h_a_fg",
+    "title": "MgB$_{12}$H$_{12}$[H$_{2}$O]$_{12}$ Structure",
+    "icsd": "413594",
+    "ccdc": null,
     "prototype": "B12H36MgO12",
     "prototype_tex": "B$_{12}$H$_{36}$MgO$_{12}$",
-    "label": "A12B36CD12_cF488_210_h_3h_a_fg-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "cF488",
+    "space_group_number": 210,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "x2",
         "y3",
@@ -37,17 +47,8 @@
         0.5347,
         0.2125
     ],
-    "strukturbericht": null,
-    "title": "MgB$_{12}$H$_{12}$[H$_{2}$O]$_{12}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A12B36CD12_cF488_210_h_3h_a_fg",
-    "number_of_species": 4,
-    "pearson_symbol": "cF488",
-    "space_group_number": 210,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "413594"
+    "comments": null
 }

@@ -1,9 +1,19 @@
 {
     "uid": "0VM9",
+    "label": "A4B_hP15_144_4a_a-001",
+    "alias": "A4B_hP15_144_4a_a",
+    "title": "IrGe$_{4}$ Structure",
+    "icsd": "197310",
+    "ccdc": null,
     "prototype": "Ge4Ir",
     "prototype_tex": "Ge$_{4}$Ir",
-    "label": "A4B_hP15_144_4a_a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP15",
+    "space_group_number": 144,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -41,17 +51,8 @@
         0.0008,
         0.5062
     ],
-    "strukturbericht": null,
-    "title": "IrGe$_{4}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B_hP15_144_4a_a",
-    "number_of_species": 2,
-    "pearson_symbol": "hP15",
-    "space_group_number": 144,
-    "comments": "This structure can also be found in the enantiomorphic space group $P3_{2}$ ~ \\# 145.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "197310"
+    "comments": "This structure can also be found in the enantiomorphic space group $P3_{2}$ ~ \\# 145."
 }

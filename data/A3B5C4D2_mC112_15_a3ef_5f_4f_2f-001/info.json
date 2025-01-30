@@ -1,9 +1,19 @@
 {
     "uid": "RDRH",
+    "label": "A3B5C4D2_mC112_15_a3ef_5f_4f_2f-001",
+    "alias": "A3B5C4D2_mC112_15_a3ef_5f_4f_2f",
+    "title": "Clinochlore [Mg$_{3}$(Mg$_{2}$Al)(Si$_{3}$Al)O$_{10}$(OH)$_{8}$, $S5_{5}$] Structure",
+    "icsd": "26850",
+    "ccdc": null,
     "prototype": "Mg3O5(OH)4Si2",
     "prototype_tex": "Mg$_{3}$O$_{5}$(OH)$_{4}$Si$_{2}$",
-    "label": "A3B5C4D2_mC112_15_a3ef_5f_4f_2f-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "mC112",
+    "space_group_number": 15,
+    "strukturbericht": "S5_5",
+    "strukturbericht_tex": "$S5_{5}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -93,18 +103,8 @@
         0.16667,
         0.906
     ],
-    "strukturbericht": "S5_5",
-    "title": "Clinochlore [Mg$_{3}$(Mg$_{2}$Al)(Si$_{3}$Al)O$_{10}$(OH)$_{8}$, $S5_{5}$] Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$S5_{5}$",
     "compounds": {},
-    "alias": "A3B5C4D2_mC112_15_a3ef_5f_4f_2f",
-    "number_of_species": 4,
-    "pearson_symbol": "mC112",
-    "space_group_number": 15,
-    "comments": "We follow the interpretation of (McMurchy, 1934) as given by (Downs, 2003): We have labeled ``Mg (4e)'' are actually 2/3 magnesium and 1/3 aluminum, and the sites we have labeled ``Si (8f)'' are 3/4 silicon and 1/4 aluminum. This does not exactly match the ICSD entry.",
+    "legacy": false,
     "notes": "$S5_{5}$, Clinochlore",
-    "ccdc": null,
-    "icsd": "26850"
+    "comments": "We follow the interpretation of (McMurchy, 1934) as given by (Downs, 2003): We have labeled ``Mg (4e)'' are actually 2/3 magnesium and 1/3 aluminum, and the sites we have labeled ``Si (8f)'' are 3/4 silicon and 1/4 aluminum. This does not exactly match the ICSD entry."
 }

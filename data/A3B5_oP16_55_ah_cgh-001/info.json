@@ -1,9 +1,19 @@
 {
     "uid": "WXAV",
+    "label": "A3B5_oP16_55_ah_cgh-001",
+    "alias": "A3B5_oP16_55_ch_agh",
+    "title": "Rh$_{5}$Ge$_{3}$ Structure",
+    "icsd": "53891",
+    "ccdc": null,
     "prototype": "Ge3Rh5",
     "prototype_tex": "Ge$_{3}$Rh$_{5}$",
-    "label": "A3B5_oP16_55_ah_cgh-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP16",
+    "space_group_number": 55,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -25,17 +35,8 @@
         0.33,
         0.393
     ],
-    "strukturbericht": null,
-    "title": "Rh$_{5}$Ge$_{3}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B5_oP16_55_ch_agh",
-    "number_of_species": 2,
-    "pearson_symbol": "oP16",
-    "space_group_number": 55,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "53891"
+    "comments": null
 }

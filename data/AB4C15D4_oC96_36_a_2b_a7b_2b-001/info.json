@@ -1,9 +1,19 @@
 {
     "uid": "8N75",
+    "label": "AB4C15D4_oC96_36_a_2b_a7b_2b-001",
+    "alias": "AB4C15D4_oC96_36_a_2b_a7b_2b-001",
+    "title": "Low Temperature BaBi$_{4}$Ti$_{4}$O$_{15}$ Structure",
+    "icsd": "150928",
+    "ccdc": null,
     "prototype": "BaBi4O15Ti4",
     "prototype_tex": "BaBi$_{4}$O$_{15}$Ti$_{4}$",
-    "label": "AB4C15D4_oC96_36_a_2b_a7b_2b-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oC96",
+    "space_group_number": 36,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -87,17 +97,8 @@
         0.251,
         0.296
     ],
-    "strukturbericht": null,
-    "title": "Low Temperature BaBi$_{4}$Ti$_{4}$O$_{15}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB4C15D4_oC96_36_a_2b_a7b_2b-001",
-    "number_of_species": 4,
-    "pearson_symbol": "oC96",
-    "space_group_number": 36,
-    "comments": "Aurivillius phases are layered tetragonal materials with composition (Me$'_{2}$O$_{2}$)$^{2+}$(Me$_{m-1}$R$_{m}$O$_{3m+1}$)$^{2-}$ (Me$_{m-1}$Me$'_{2}$R$_{m}$O$_{3(m+1)}$), where Me and Me' are metals and R is a transition metal with a charge of +4 or +5. (Subbaro, 1962) \n Data for this structure was taken at room temperature.  Above 700K this transforms into the tetragonal \\href{current_web_home_dir/AB4C15D4_tI48_139_a_2e_bd2e2g_2e-001}{high temperature $m = 4$ Aurivillius} structure.\n The ICSD entry for this structure states that the actual composition of what we call the Ba I site is Ba$_{0.26}$Bi$_{0.74}$, and the composition of our Bi II site is Ba$_{0.37}$Bi$_{0.74}$. We have arbitrarily labeled the first of these sites Ba and the second Bi so that the AFLOW label mimics the composition of the structure. \n (Kennedy, 2003) give the structural information in the $A2_{1}am$ setting of space group \\# 36. We used FINDSYM to transform this to the standard $Cmc2_{1}$ setting.",
+    "legacy": false,
     "notes": "RT",
-    "ccdc": null,
-    "icsd": "150928"
+    "comments": "Aurivillius phases are layered tetragonal materials with composition (Me$'_{2}$O$_{2}$)$^{2+}$(Me$_{m-1}$R$_{m}$O$_{3m+1}$)$^{2-}$ (Me$_{m-1}$Me$'_{2}$R$_{m}$O$_{3(m+1)}$), where Me and Me' are metals and R is a transition metal with a charge of +4 or +5. (Subbaro, 1962) \n Data for this structure was taken at room temperature.  Above 700K this transforms into the tetragonal \\href{current_web_home_dir/AB4C15D4_tI48_139_a_2e_bd2e2g_2e-001}{high temperature $m = 4$ Aurivillius} structure.\n The ICSD entry for this structure states that the actual composition of what we call the Ba I site is Ba$_{0.26}$Bi$_{0.74}$, and the composition of our Bi II site is Ba$_{0.37}$Bi$_{0.74}$. We have arbitrarily labeled the first of these sites Ba and the second Bi so that the AFLOW label mimics the composition of the structure. \n (Kennedy, 2003) give the structural information in the $A2_{1}am$ setting of space group \\# 36. We used FINDSYM to transform this to the standard $Cmc2_{1}$ setting."
 }

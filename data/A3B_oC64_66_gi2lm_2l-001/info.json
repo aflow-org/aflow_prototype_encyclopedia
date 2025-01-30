@@ -1,9 +1,19 @@
 {
     "uid": "DQEU",
+    "label": "A3B_oC64_66_gi2lm_2l-001",
+    "alias": "A3B_oC64_66_gi2lm_2l",
+    "title": "H$_{3}$S (60 GPa) Structure",
+    "icsd": "291500",
+    "ccdc": null,
     "prototype": "H3S",
     "prototype_tex": "H$_{3}$S",
-    "label": "A3B_oC64_66_gi2lm_2l-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oC64",
+    "space_group_number": 66,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -39,17 +49,8 @@
         0.66798,
         0.24948
     ],
-    "strukturbericht": null,
-    "title": "H$_{3}$S (60 GPa) Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B_oC64_66_gi2lm_2l",
-    "number_of_species": 2,
-    "pearson_symbol": "oC64",
-    "space_group_number": 66,
-    "comments": "This structure was found by first-principles electronic structure calculations and is predicted to be the stable structure of H$_{3}$S for pressures between 40 and 90 GPa. The data presented here was computed at 60 GPa. \n (Hicks, 2019) had a transcription error in the position of the S-I atom.  We have corrected that here.",
+    "legacy": false,
     "notes": "HP, Theory",
-    "ccdc": null,
-    "icsd": "291500"
+    "comments": "This structure was found by first-principles electronic structure calculations and is predicted to be the stable structure of H$_{3}$S for pressures between 40 and 90 GPa. The data presented here was computed at 60 GPa. \n (Hicks, 2019) had a transcription error in the position of the S-I atom.  We have corrected that here."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "QHX2",
+    "label": "AB3_tI32_121_f_g2i-001",
+    "alias": "AB3_tI32_121_g_f2i",
+    "title": "$\\alpha$-V$_{3}$S Structure",
+    "icsd": "26515",
+    "ccdc": null,
     "prototype": "SV3",
     "prototype_tex": "SV$_{3}$",
-    "label": "AB3_tI32_121_f_g2i-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tI32",
+    "space_group_number": 121,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -23,17 +33,8 @@
         0.2,
         0.25
     ],
-    "strukturbericht": null,
-    "title": "$\\alpha$-V$_{3}$S Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB3_tI32_121_g_f2i",
-    "number_of_species": 2,
-    "pearson_symbol": "tI32",
-    "space_group_number": 121,
-    "comments": "$\\alpha$-V$_{3}$S is stable above 950$^{\\circ}$C, but metastable at 25$^{\\circ}$C, where this data was taken. \n Below 825$^{\\circ}$C the system transforms to the \\href{current_web_home_dir/AB3_tP32_133_h_i2j-001}{$\\beta$-V$_{3}$S structure}. \n We have shifted the origin by 1/2 c $\\hat{z}$ from that used by (Pedersen, 1959).",
+    "legacy": false,
     "notes": "$\\alpha$-V$_{3}$S (HT)",
-    "ccdc": null,
-    "icsd": "26515"
+    "comments": "$\\alpha$-V$_{3}$S is stable above 950$^{\\circ}$C, but metastable at 25$^{\\circ}$C, where this data was taken. \n Below 825$^{\\circ}$C the system transforms to the \\href{current_web_home_dir/AB3_tP32_133_h_i2j-001}{$\\beta$-V$_{3}$S structure}. \n We have shifted the origin by 1/2 c $\\hat{z}$ from that used by (Pedersen, 1959)."
 }

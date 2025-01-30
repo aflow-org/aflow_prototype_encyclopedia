@@ -1,9 +1,19 @@
 {
     "uid": "R3Z7",
+    "label": "A6B2C_hP9_150_ef_d_a-001",
+    "alias": "A6B2C_hP9_150_ef_d_a-001",
+    "title": "$\\beta$-Na$_{2}$ThF$_{6}$ Structure",
+    "icsd": "418148",
+    "ccdc": null,
     "prototype": "F6Na2Th",
     "prototype_tex": "F$_{6}$Na$_{2}$Th",
-    "label": "A6B2C_hP9_150_ef_d_a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP9",
+    "space_group_number": 150,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -17,17 +27,8 @@
         0.618,
         0.251
     ],
-    "strukturbericht": null,
-    "title": "$\\beta$-Na$_{2}$ThF$_{6}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A6B2C_hP9_150_ef_d_a-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hP9",
-    "space_group_number": 150,
-    "comments": "When $z_{2} = 1/2$ this transforms into $\\delta$-Na$_{2}$ThF$_{6}$ which has the hexagonal \\href{current_web_home_dir/A6B2C_hP9_189_fg_c_b-001}{$\\beta_{1}$-K$_{2}$UF$_{6}$ structure}. \n We use the data from (Grzechnik, 2007) taken at 100K and ambient pressure.",
+    "legacy": false,
     "notes": "$\\beta$-Na$_{2}$ThF$_{6}$",
-    "ccdc": null,
-    "icsd": "418148"
+    "comments": "When $z_{2} = 1/2$ this transforms into $\\delta$-Na$_{2}$ThF$_{6}$ which has the hexagonal \\href{current_web_home_dir/A6B2C_hP9_189_fg_c_b-001}{$\\beta_{1}$-K$_{2}$UF$_{6}$ structure}. \n We use the data from (Grzechnik, 2007) taken at 100K and ambient pressure."
 }

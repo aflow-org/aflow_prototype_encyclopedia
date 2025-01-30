@@ -1,9 +1,19 @@
 {
     "uid": "79Y1",
+    "label": "AB6C2D_mC40_12_ac_gh4i_j_bd-001",
+    "alias": "AB6C2D_mC40_12_ad_gh4i_j_bc",
+    "title": "Sr$_{2}$NiTeO$_{6}$ Structure",
+    "icsd": "91792",
+    "ccdc": null,
     "prototype": "NiO6Sr2Te",
     "prototype_tex": "NiO$_{6}$Sr$_{2}$Te",
-    "label": "AB6C2D_mC40_12_ac_gh4i_j_bd-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "mC40",
+    "space_group_number": 12,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -41,17 +51,8 @@
         0.751,
         0.249
     ],
-    "strukturbericht": null,
-    "title": "Sr$_{2}$NiTeO$_{6}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB6C2D_mC40_12_ad_gh4i_j_bc",
-    "number_of_species": 4,
-    "pearson_symbol": "mC40",
-    "space_group_number": 12,
-    "comments": "At high temperatures Sr$_{2}$NiTeO$_{6}$ transforms into the \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite $E2_{1}$ structure}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "91792"
+    "comments": "At high temperatures Sr$_{2}$NiTeO$_{6}$ transforms into the \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite $E2_{1}$ structure}."
 }

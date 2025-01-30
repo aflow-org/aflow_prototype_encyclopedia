@@ -1,9 +1,19 @@
 {
     "uid": "TJ2T",
+    "label": "A3B10_cI52_229_e_fh-001",
+    "alias": "A3B10_cI52_229_e_fh",
+    "title": "$\\gamma$-brass (Fe$_{3}$Zn$_{10}$, $D8_{1}$) Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "Fe3Zn10",
     "prototype_tex": "Fe$_{3}$Zn$_{10}$",
-    "label": "A3B10_cI52_229_e_fh-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cI52",
+    "space_group_number": 229,
+    "strukturbericht": "D8_1",
+    "strukturbericht_tex": "$D8_{1}$",
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "x1",
         "x2",
@@ -15,18 +25,8 @@
         0.13505,
         0.3045
     ],
-    "strukturbericht": "D8_1",
-    "title": "$\\gamma$-brass (Fe$_{3}$Zn$_{10}$, $D8_{1}$) Structure",
-    "part": 2,
-    "legacy": false,
-    "strukturbericht_tex": "$D8_{1}$",
     "compounds": {},
-    "alias": "A3B10_cI52_229_e_fh",
-    "number_of_species": 2,
-    "pearson_symbol": "cI52",
-    "space_group_number": 229,
-    "comments": "Adding another atom at the origin changes this to the \\href{current_web_home_dir/A2B7_cI54_229_e_afh-001}{$L2_{2}$ structure}. \n The $D8_{1}$ structure is defined in (Pearson, 1958) quoting (Schramm, 1938). More recent investigations such as (Johansson, 1968), (Brandon, 1974) and (Yu, 2005) find that $\\gamma$-Fe$_{3}$Zn$_{10}$ forms in the \\href{current_web_home_dir/A5B8_cI52_217_ce_cg-001}{$D8_{2}$ structure}, with Fe atoms on one (8c) site, Zn atoms on the other (8e) site and the (24g) sites, and a 50-50 alloy of Fe and Zn on the other (8e) site. \n We use Brandon's data, mapping (12g) $\\rightarrow$ (12e), (24g) $\\rightarrow$ (24h), and averaging the two (8e) sites to produce the (12e) coordinate here. \n (Mizutani, 2010) classifies this as an ``I-cell'' $\\gamma$-brass.",
+    "legacy": false,
     "notes": "$D8_{1}$, $\\gamma$-Brass",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "Adding another atom at the origin changes this to the \\href{current_web_home_dir/A2B7_cI54_229_e_afh-001}{$L2_{2}$ structure}. \n The $D8_{1}$ structure is defined in (Pearson, 1958) quoting (Schramm, 1938). More recent investigations such as (Johansson, 1968), (Brandon, 1974) and (Yu, 2005) find that $\\gamma$-Fe$_{3}$Zn$_{10}$ forms in the \\href{current_web_home_dir/A5B8_cI52_217_ce_cg-001}{$D8_{2}$ structure}, with Fe atoms on one (8c) site, Zn atoms on the other (8e) site and the (24g) sites, and a 50-50 alloy of Fe and Zn on the other (8e) site. \n We use Brandon's data, mapping (12g) $\\rightarrow$ (12e), (24g) $\\rightarrow$ (24h), and averaging the two (8e) sites to produce the (12e) coordinate here. \n (Mizutani, 2010) classifies this as an ``I-cell'' $\\gamma$-brass."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "3N5K",
+    "label": "A5BC_oP28_62_3cd_c_c-001",
+    "alias": "A5BC_oP28_62_3cd_c_c",
+    "title": "VOSO$_{4}$ Structure",
+    "icsd": "24101",
+    "ccdc": null,
     "prototype": "O5SV",
     "prototype_tex": "O$_{5}$SV",
-    "label": "A5BC_oP28_62_3cd_c_c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP28",
+    "space_group_number": 62,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -39,17 +49,8 @@
         0.5733,
         0.2569
     ],
-    "strukturbericht": null,
-    "title": "VOSO$_{4}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A5BC_oP28_62_3cd_c_c",
-    "number_of_species": 3,
-    "pearson_symbol": "oP28",
-    "space_group_number": 62,
-    "comments": "This structure consists of distorted SO$_{4}$ tetrahedra linked to distorted VO$_{6}$ tetrahedra.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "24101"
+    "comments": "This structure consists of distorted SO$_{4}$ tetrahedra linked to distorted VO$_{6}$ tetrahedra."
 }

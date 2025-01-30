@@ -1,9 +1,19 @@
 {
     "uid": "L3ZV",
+    "label": "AB4_mP10_14_a_2e-001",
+    "alias": "AB4_mP10_14_a_2e-001",
+    "title": "CdP$_{4}$ Structure",
+    "icsd": "25605",
+    "ccdc": null,
     "prototype": "CdP4",
     "prototype_tex": "CdP$_{4}$",
-    "label": "AB4_mP10_14_a_2e-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mP10",
+    "space_group_number": 14,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -27,17 +37,8 @@
         0.897,
         0.597
     ],
-    "strukturbericht": null,
-    "title": "CdP$_{4}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB4_mP10_14_a_2e-001",
-    "number_of_species": 2,
-    "pearson_symbol": "mP10",
-    "space_group_number": 14,
-    "comments": "(Krebs, 1956) give distances in kX. We follow (Wood, 1947) and convert this to {\\AA}ngstroms by multiplying their distances by 1.00202. \n This is the low temperature form OsP$_{4}$ and RuP$_{4}$ (Fl\\\"{o}rke, 1982).  For the high temperature form see the \\href{current_web_home_dir/AB4_mC20_15_e_2f-001}{CrP$_{4}$ structure}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "25605"
+    "comments": "(Krebs, 1956) give distances in kX. We follow (Wood, 1947) and convert this to {\\AA}ngstroms by multiplying their distances by 1.00202. \n This is the low temperature form OsP$_{4}$ and RuP$_{4}$ (Fl\\\"{o}rke, 1982).  For the high temperature form see the \\href{current_web_home_dir/AB4_mC20_15_e_2f-001}{CrP$_{4}$ structure}."
 }

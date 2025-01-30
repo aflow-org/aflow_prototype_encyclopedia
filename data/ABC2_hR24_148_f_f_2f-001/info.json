@@ -1,9 +1,19 @@
 {
     "uid": "3VWQ",
+    "label": "ABC2_hR24_148_f_f_2f-001",
+    "alias": "ABC2_hR24_148_f_f_2f-001",
+    "title": "Trechmannite (AgAsS$_{2}$) Structure",
+    "icsd": "18101",
+    "ccdc": null,
     "prototype": "AgAsS2",
     "prototype_tex": "AgAsS$_{2}$",
-    "label": "ABC2_hR24_148_f_f_2f-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hR24",
+    "space_group_number": 148,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -35,17 +45,8 @@
         0.8538,
         0.6533
     ],
-    "strukturbericht": null,
-    "title": "Trechmannite (AgAsS$_{2}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC2_hR24_148_f_f_2f-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hR24",
-    "space_group_number": 148,
-    "comments": "AgAsS$_{2}$ also occurs as \\href{current_web_home_dir/ABC2_mC96_15_2e2f_3f_6f-001}{orthorhombic smithite}. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "legacy": false,
     "notes": "Trechmannite",
-    "ccdc": null,
-    "icsd": "18101"
+    "comments": "AgAsS$_{2}$ also occurs as \\href{current_web_home_dir/ABC2_mC96_15_2e2f_3f_6f-001}{orthorhombic smithite}. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

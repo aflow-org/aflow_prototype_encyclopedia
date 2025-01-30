@@ -1,9 +1,19 @@
 {
     "uid": "MUZR",
+    "label": "A7B5C3D6_mP168_14_14e_10e_6e_12e-001",
+    "alias": "A7B5C3D6_mP168_14_14e_10e_6e_12e-001",
+    "title": "Monoclinic 2-4-6 Trinitrotoluene (C$_{7}$H$_{5}$N$_{3}$O$_{6}$) Structure",
+    "icsd": null,
+    "ccdc": "227799",
     "prototype": "C7H5N3O6",
     "prototype_tex": "C$_{7}$H$_{5}$N$_{3}$O$_{6}$",
-    "label": "A7B5C3D6_mP168_14_14e_10e_6e_12e-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "mP168",
+    "space_group_number": 14,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -267,17 +277,8 @@
         0.97994,
         0.83917
     ],
-    "strukturbericht": null,
-    "title": "Monoclinic 2-4-6 Trinitrotoluene (C$_{7}$H$_{5}$N$_{3}$O$_{6}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A7B5C3D6_mP168_14_14e_10e_6e_12e-001",
-    "number_of_species": 4,
-    "pearson_symbol": "mP168",
-    "space_group_number": 14,
-    "ccdc": "227799",
-    "comments": "The solid form of 2-4-6 Trinitrotoluene (TNT) has two polymorphs (Vrcelj, 2003): \\begin{itemize} \\item This low temperature \\href{current_web_home_dir/A7B5C3D6_mP168_14_14e_10e_6e_12e-001}{monoclinic structure}, and \\item the somewhat higher temperature \\href{current_web_home_dir/A7B5C3D6_oP168_29_14a_10a_6a_12a-001}{orthorhombic structure}. \\end{itemize} ~ \\vspace{-.25in} \n Both can be prepared at room temperature, from ethyl acetate and ethanol solutions, respectively. \n Data for the monoclinic phase was taken at 100K. \n (Vrcelj, 2003) gave the structure for the monoclinic phase in the $P2_{1}/a$ setting of space group \\#14.  We used FINDSYM to translate this to the standard $P2_{1}/c$ setting.",
+    "legacy": false,
     "notes": "2-4-6 Trinitrotoluene",
-    "icsd": null
+    "comments": "The solid form of 2-4-6 Trinitrotoluene (TNT) has two polymorphs (Vrcelj, 2003): \\begin{itemize} \\item This low temperature \\href{current_web_home_dir/A7B5C3D6_mP168_14_14e_10e_6e_12e-001}{monoclinic structure}, and \\item the somewhat higher temperature \\href{current_web_home_dir/A7B5C3D6_oP168_29_14a_10a_6a_12a-001}{orthorhombic structure}. \\end{itemize} ~ \\vspace{-.25in} \n Both can be prepared at room temperature, from ethyl acetate and ethanol solutions, respectively. \n Data for the monoclinic phase was taken at 100K. \n (Vrcelj, 2003) gave the structure for the monoclinic phase in the $P2_{1}/a$ setting of space group \\#14.  We used FINDSYM to translate this to the standard $P2_{1}/c$ setting."
 }

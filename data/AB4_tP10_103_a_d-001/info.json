@@ -1,9 +1,19 @@
 {
     "uid": "MRXL",
+    "label": "AB4_tP10_103_a_d-001",
+    "alias": "AB4_tP10_103_a_d",
+    "title": "High Temperature NbTe$_{4}$ Structure",
+    "icsd": "65129",
+    "ccdc": null,
     "prototype": "NbTe4",
     "prototype_tex": "NbTe$_{4}$",
-    "label": "AB4_tP10_103_a_d-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tP10",
+    "space_group_number": 103,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -19,17 +29,8 @@
         0.3276,
         0.242
     ],
-    "strukturbericht": null,
-    "title": "High Temperature NbTe$_{4}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB4_tP10_103_a_d",
-    "number_of_species": 2,
-    "pearson_symbol": "tP10",
-    "space_group_number": 103,
-    "comments": "This is the high-temperature phase of NbTe$_{4}$.  Below 520$^\\circ$C it transforms into \\href{current_web_home_dir/AB4_tP10_124_a_m-001}{a centrosymmetric structure}. \n Space group $P4cc$ \\#103 has no inversion site and allows an arbitary origin for the $z$-axis.  We fix this by setting $z_{1} = 0$ for the niobium site.",
+    "legacy": false,
     "notes": "HT",
-    "ccdc": null,
-    "icsd": "65129"
+    "comments": "This is the high-temperature phase of NbTe$_{4}$.  Below 520$^\\circ$C it transforms into \\href{current_web_home_dir/AB4_tP10_124_a_m-001}{a centrosymmetric structure}. \n Space group $P4cc$ \\#103 has no inversion site and allows an arbitary origin for the $z$-axis.  We fix this by setting $z_{1} = 0$ for the niobium site."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "0HCF",
+    "label": "A2BC2D2_tI14_139_e_a_c_e-001",
+    "alias": "A2BC2D2_tI14_139_e_a_c_e-001",
+    "title": "Sr$_{2}$CuO$_{2}$Cl$_{2}$ Structure",
+    "icsd": "67067",
+    "ccdc": null,
     "prototype": "Cl2CuO2Sr2",
     "prototype_tex": "Cl$_{2}$CuO$_{2}$Sr$_{2}$",
-    "label": "A2BC2D2_tI14_139_e_a_c_e-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "tI14",
+    "space_group_number": 139,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -15,17 +25,8 @@
         0.18309,
         0.39259
     ],
-    "strukturbericht": null,
-    "title": "Sr$_{2}$CuO$_{2}$Cl$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC2D2_tI14_139_e_a_c_e-001",
-    "number_of_species": 4,
-    "pearson_symbol": "tI14",
-    "space_group_number": 139,
-    "comments": "This is the quaternary form of the \\href{current_web_home_dir/A4B2C_tI14_139_ce_e_a-001}{K$_{2}$NiF$_{4}$ structure}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "67067"
+    "comments": "This is the quaternary form of the \\href{current_web_home_dir/A4B2C_tI14_139_ce_e_a-001}{K$_{2}$NiF$_{4}$ structure}."
 }

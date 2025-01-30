@@ -1,9 +1,19 @@
 {
     "uid": "07TT",
+    "label": "A4BCD2_oP32_55_ghi_e_f_gh-001",
+    "alias": "A4BCD2_oP32_55_ghi_f_e_gh",
+    "title": "K$_{2}$HgCl$_{4}\\cdot$H$_{2}$O ($E3_{4}$) Structure",
+    "icsd": "10296",
+    "ccdc": null,
     "prototype": "Cl4(H2O)HgK2",
     "prototype_tex": "Cl$_{4}$(H$_{2}$O)HgK$_{2}$",
-    "label": "A4BCD2_oP32_55_ghi_e_f_gh-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oP32",
+    "space_group_number": 55,
+    "strukturbericht": "E3_4",
+    "strukturbericht_tex": "$E3_{4}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -39,18 +49,8 @@
         0.686,
         0.252
     ],
-    "strukturbericht": "E3_4",
-    "title": "K$_{2}$HgCl$_{4}\\cdot$H$_{2}$O ($E3_{4}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$E3_{4}$",
     "compounds": {},
-    "alias": "A4BCD2_oP32_55_ghi_f_e_gh",
-    "number_of_species": 4,
-    "pearson_symbol": "oP32",
-    "space_group_number": 55,
-    "comments": "The positions of the hydrogen atoms in the water molecules have not been determined.",
+    "legacy": false,
     "notes": "$E3_{4}$",
-    "ccdc": null,
-    "icsd": "10296"
+    "comments": "The positions of the hydrogen atoms in the water molecules have not been determined."
 }

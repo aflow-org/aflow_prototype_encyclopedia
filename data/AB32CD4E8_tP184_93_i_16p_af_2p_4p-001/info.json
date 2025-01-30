@@ -1,9 +1,19 @@
 {
     "uid": "PSUB",
+    "label": "AB32CD4E8_tP184_93_i_16p_af_2p_4p-001",
+    "alias": "AB32CD4E8_tP184_93_i_16p_af_2p_4p",
+    "title": "AsPh$_{4}$CeS$_{8}$P$_{4}$Me$_{8}$ Structure",
+    "icsd": null,
+    "ccdc": "1112344",
     "prototype": "AsC32CeP4S8",
     "prototype_tex": "AsC$_{32}$CeP$_{4}$S$_{8}$",
-    "label": "AB32CD4E8_tP184_93_i_16p_af_2p_4p-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "tP184",
+    "space_group_number": 93,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -145,17 +155,8 @@
         0.418,
         0.7912
     ],
-    "strukturbericht": null,
-    "title": "AsPh$_{4}$CeS$_{8}$P$_{4}$Me$_{8}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB32CD4E8_tP184_93_i_16p_af_2p_4p",
-    "number_of_species": 5,
-    "pearson_symbol": "tP184",
-    "space_group_number": 93,
-    "ccdc": "1112344",
-    "comments": "Structures exhibiting space group $P4_{2}22$ \\#93 are quite rare. A search of the Inorganic Crystal Structure Database does not find an entry with space group \\#93. \n The hydrogen atoms are not included in this prototype. \n The abbreviation Ph represents Phenyl and Me represents Methyl.",
+    "legacy": false,
     "notes": null,
-    "icsd": null
+    "comments": "Structures exhibiting space group $P4_{2}22$ \\#93 are quite rare. A search of the Inorganic Crystal Structure Database does not find an entry with space group \\#93. \n The hydrogen atoms are not included in this prototype. \n The abbreviation Ph represents Phenyl and Me represents Methyl."
 }

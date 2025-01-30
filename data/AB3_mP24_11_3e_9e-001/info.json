@@ -1,9 +1,19 @@
 {
     "uid": "4LKF",
+    "label": "AB3_mP24_11_3e_9e-001",
+    "alias": "AB3_mP24_11_3e_9e-001",
+    "title": "NbSe$_{3}$ Structure",
+    "icsd": "76579",
+    "ccdc": null,
     "prototype": "NbSe3",
     "prototype_tex": "NbSe$_{3}$",
-    "label": "AB3_mP24_11_3e_9e-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mP24",
+    "space_group_number": 11,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -63,17 +73,8 @@
         0.6684,
         0.5766
     ],
-    "strukturbericht": null,
-    "title": "NbSe$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB3_mP24_11_3e_9e-001",
-    "number_of_species": 2,
-    "pearson_symbol": "mP24",
-    "space_group_number": 11,
-    "comments": "We use the structure data taken by (Hodeau, 1978) at 100K.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "76579"
+    "comments": "We use the structure data taken by (Hodeau, 1978) at 100K."
 }

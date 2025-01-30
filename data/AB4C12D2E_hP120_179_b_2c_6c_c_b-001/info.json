@@ -1,9 +1,19 @@
 {
     "uid": "1CPH",
+    "label": "AB4C12D2E_hP120_179_b_2c_6c_c_b-001",
+    "alias": "AB4C12D2E_hP120_179_b_2c_6c_c_b-001",
+    "title": "Sc(H$_{2}$O)$_{2}$[BP$_{2}$O$_{8}$]$\\cdot$H$_{2}$O Structure",
+    "icsd": "416075",
+    "ccdc": null,
     "prototype": "BH4O12P2Sc",
     "prototype_tex": "BH$_{4}$O$_{12}$P$_{2}$Sc",
-    "label": "AB4C12D2E_hP120_179_b_2c_6c_c_b-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "hP120",
+    "space_group_number": 179,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -69,17 +79,8 @@
         0.16872,
         0.5842
     ],
-    "strukturbericht": null,
-    "title": "Sc(H$_{2}$O)$_{2}$[BP$_{2}$O$_{8}$]$\\cdot$H$_{2}$O Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB4C12D2E_hP120_179_b_2c_6c_c_b-001",
-    "number_of_species": 5,
-    "pearson_symbol": "hP120",
-    "space_group_number": 179,
-    "comments": "The O-VI (12c) site, actually a water molecule with undetermined hydrogen positions, is only occupied 50\\% of the time. \n There is also a ``dehydrated'' form, Sc(H$_{2}$O)$_{2}$[BP$_{2}$O$_{8}$], where these water molecules are not present. \n This structure can also be found in the enantiomorphic space group $P6_{1}22$ \\#178.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "416075"
+    "comments": "The O-VI (12c) site, actually a water molecule with undetermined hydrogen positions, is only occupied 50\\% of the time. \n There is also a ``dehydrated'' form, Sc(H$_{2}$O)$_{2}$[BP$_{2}$O$_{8}$], where these water molecules are not present. \n This structure can also be found in the enantiomorphic space group $P6_{1}22$ \\#178."
 }

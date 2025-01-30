@@ -1,9 +1,19 @@
 {
     "uid": "T96Y",
+    "label": "AB3_mC16_15_e_af-001",
+    "alias": "AB3_mC16_15_e_cf",
+    "title": "H$_{3}$Cl (50 GPa) Structure",
+    "icsd": "671644",
+    "ccdc": null,
     "prototype": "ClH3",
     "prototype_tex": "ClH$_{3}$",
-    "label": "AB3_mC16_15_e_af-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC16",
+    "space_group_number": 15,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -23,17 +33,8 @@
         0.318,
         0.331
     ],
-    "strukturbericht": null,
-    "title": "H$_{3}$Cl (50 GPa) Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB3_mC16_15_e_cf",
-    "number_of_species": 2,
-    "pearson_symbol": "mC16",
-    "space_group_number": 15,
-    "comments": "This structure was found via first-principles calculations. The data presented here was computed at a pressure of 50 GPa.",
+    "legacy": false,
     "notes": "HP, Theory",
-    "ccdc": null,
-    "icsd": "671644"
+    "comments": "This structure was found via first-principles calculations. The data presented here was computed at a pressure of 50 GPa."
 }

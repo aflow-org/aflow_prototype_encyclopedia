@@ -1,9 +1,19 @@
 {
     "uid": "S9HM",
+    "label": "A4B3_oP56_62_8c_6c-001",
+    "alias": "A4B3_oP56_62_8c_6c",
+    "title": "Mo$_{4}$P$_{3}$ Structure",
+    "icsd": "43237",
+    "ccdc": null,
     "prototype": "Mo4P3",
     "prototype_tex": "Mo$_{4}$P$_{3}$",
-    "label": "A4B3_oP56_62_8c_6c-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP56",
+    "space_group_number": 62,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -69,17 +79,8 @@
         0.1994,
         0.7941
     ],
-    "strukturbericht": null,
-    "title": "Mo$_{4}$P$_{3}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B3_oP56_62_8c_6c",
-    "number_of_species": 2,
-    "pearson_symbol": "oP56",
-    "space_group_number": 62,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "43237"
+    "comments": null
 }

@@ -1,9 +1,19 @@
 {
     "uid": "GZNE",
+    "label": "ABC2_aP16_1_4a_4a_8a-001",
+    "alias": "ABC2_aP16_1_4a_4a_8a",
+    "title": "AsKSe$_{2}$ ($P1$) Structure",
+    "icsd": "65297",
+    "ccdc": null,
     "prototype": "AsKSe2",
     "prototype_tex": "AsKSe$_{2}$",
-    "label": "ABC2_aP16_1_4a_4a_8a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "aP16",
+    "space_group_number": 1,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -115,17 +125,8 @@
         0.569,
         0.7448
     ],
-    "strukturbericht": null,
-    "title": "AsKSe$_{2}$ ($P1$) Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC2_aP16_1_4a_4a_8a",
-    "number_of_species": 3,
-    "pearson_symbol": "aP16",
-    "space_group_number": 1,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "65297"
+    "comments": null
 }

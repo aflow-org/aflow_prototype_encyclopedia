@@ -1,9 +1,19 @@
 {
     "uid": "C55J",
+    "label": "AB4C_mP12_11_e_2ef_e-001",
+    "alias": "AB4C_mP12_11_e_2ef_e-001",
+    "title": "SbAsO$_{2}$ Structure",
+    "icsd": "23316",
+    "ccdc": null,
     "prototype": "AsO4Sb",
     "prototype_tex": "AsO$_{4}$Sb",
-    "label": "AB4C_mP12_11_e_2ef_e-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mP12",
+    "space_group_number": 11,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -37,17 +47,8 @@
         0.0625,
         0.7153
     ],
-    "strukturbericht": null,
-    "title": "SbAsO$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB4C_mP12_11_e_2ef_e-001",
-    "number_of_species": 3,
-    "pearson_symbol": "mP12",
-    "space_group_number": 11,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "23316"
+    "comments": null
 }

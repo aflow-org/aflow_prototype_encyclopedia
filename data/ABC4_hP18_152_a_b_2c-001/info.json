@@ -1,9 +1,19 @@
 {
     "uid": "P55Q",
+    "label": "ABC4_hP18_152_a_b_2c-001",
+    "alias": "ABC4_hP18_152_a_b_2c-001",
+    "title": "Alarsite (AlAsO$_{4}$) Structure",
+    "icsd": "33832",
+    "ccdc": null,
     "prototype": "AlAsO4",
     "prototype_tex": "AlAsO$_{4}$",
-    "label": "ABC4_hP18_152_a_b_2c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP18",
+    "space_group_number": 152,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -27,17 +37,8 @@
         0.2837,
         0.880403
     ],
-    "strukturbericht": null,
-    "title": "Alarsite (AlAsO$_{4}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC4_hP18_152_a_b_2c-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hP18",
-    "space_group_number": 152,
-    "comments": "This structure may also be found in the enantiomorphic space group $P3_{2}21$ \\#154.",
+    "legacy": false,
     "notes": "Alarsite",
-    "ccdc": null,
-    "icsd": "33832"
+    "comments": "This structure may also be found in the enantiomorphic space group $P3_{2}21$ \\#154."
 }

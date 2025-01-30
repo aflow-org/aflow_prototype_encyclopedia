@@ -1,9 +1,19 @@
 {
     "uid": "8791",
+    "label": "A3BC_hP30_178_bc_b_a-001",
+    "alias": "A3BC_hP30_178_bc_b_a-001",
+    "title": "CsCuCl$_{3}$ Structure",
+    "icsd": "78435",
+    "ccdc": null,
     "prototype": "Cl3CsCu",
     "prototype_tex": "Cl$_{3}$CsCu",
-    "label": "A3BC_hP30_178_bc_b_a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP30",
+    "space_group_number": 178,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -23,17 +33,8 @@
         0.2119,
         0.2424
     ],
-    "strukturbericht": null,
-    "title": "CsCuCl$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3BC_hP30_178_bc_b_a-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hP30",
-    "space_group_number": 178,
-    "comments": "(Christy, 1994) call this a ``hexagonal perovskite'' structure. \n This chiral structure can also be found in the enantiomorphic space group $P6_{5}22$ \\#179. (Kousaka, 2014). \n We use the data taken at ambient pressure.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "78435"
+    "comments": "(Christy, 1994) call this a ``hexagonal perovskite'' structure. \n This chiral structure can also be found in the enantiomorphic space group $P6_{5}22$ \\#179. (Kousaka, 2014). \n We use the data taken at ambient pressure."
 }

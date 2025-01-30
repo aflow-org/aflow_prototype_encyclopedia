@@ -1,9 +1,19 @@
 {
     "uid": "UFMT",
+    "label": "A2BC4_hR42_161_2b_b_4b-001",
+    "alias": "A2BC4_hR42_161_2b_b_4b",
+    "title": "$\\alpha$-BaB$_{2}$O$_{4}$ (Low Temperature) Structure",
+    "icsd": "30885",
+    "ccdc": null,
     "prototype": "B2BaO4",
     "prototype_tex": "B$_{2}$BaO$_{4}$",
-    "label": "A2BC4_hR42_161_2b_b_4b-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hR42",
+    "space_group_number": 161,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -53,17 +63,8 @@
         0.2212,
         0.5047
     ],
-    "strukturbericht": null,
-    "title": "$\\alpha$-BaB$_{2}$O$_{4}$ (Low Temperature) Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC4_hR42_161_2b_b_4b",
-    "number_of_species": 3,
-    "pearson_symbol": "hR42",
-    "space_group_number": 161,
-    "comments": "This is the low-temperature structure.  Heating to temperatures between 100-400$^{\\circ}$C it transforms into \\href{current_web_home_dir/A2BC4_hR42_167_f_ac_2f-001}{$\\beta$-BaB$_{2}$O$_{4}$}. The principle difference between the two forms is the lack of inversion symmetry in the low-temperature structure.",
+    "legacy": false,
     "notes": "$\\alpha$-BaB$_{2}$O$_{4}$",
-    "ccdc": null,
-    "icsd": "30885"
+    "comments": "This is the low-temperature structure.  Heating to temperatures between 100-400$^{\\circ}$C it transforms into \\href{current_web_home_dir/A2BC4_hR42_167_f_ac_2f-001}{$\\beta$-BaB$_{2}$O$_{4}$}. The principle difference between the two forms is the lack of inversion symmetry in the low-temperature structure."
 }

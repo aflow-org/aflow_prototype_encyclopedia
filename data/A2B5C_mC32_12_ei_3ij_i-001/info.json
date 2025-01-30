@@ -1,9 +1,19 @@
 {
     "uid": "H100",
+    "label": "A2B5C_mC32_12_ei_3ij_i-001",
+    "alias": "A2B5C_mC32_12_ei_3ij_i-001",
+    "title": "Dolerophanite [Cu$_{2}$O(SO$_{4}$)] Structure",
+    "icsd": "34649",
+    "ccdc": null,
     "prototype": "Cu2O5S",
     "prototype_tex": "Cu$_{2}$O$_{5}$S",
-    "label": "A2B5C_mC32_12_ei_3ij_i-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mC32",
+    "space_group_number": 12,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -41,17 +51,8 @@
         0.6892,
         0.757
     ],
-    "strukturbericht": null,
-    "title": "Dolerophanite [Cu$_{2}$O(SO$_{4}$)] Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B5C_mC32_12_ei_3ij_i-001",
-    "number_of_species": 3,
-    "pearson_symbol": "mC32",
-    "space_group_number": 12,
+    "legacy": false,
     "notes": "Dolerophanite",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "34649"
+    "comments": null
 }

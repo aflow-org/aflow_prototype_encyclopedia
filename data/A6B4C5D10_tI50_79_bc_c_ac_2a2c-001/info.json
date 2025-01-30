@@ -1,9 +1,19 @@
 {
     "uid": "Z81J",
+    "label": "A6B4C5D10_tI50_79_bc_c_ac_2a2c-001",
+    "alias": "A6B4C5D10_tI50_79_bc_c_ac_2a2c-001",
+    "title": "K$_{5}$Fe$_{4}$Ag$_{6}$Te$_{10}$ Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "Ag6Fe4K5Te10",
     "prototype_tex": "Ag$_{6}$Fe$_{4}$K$_{5}$Te$_{10}$",
-    "label": "A6B4C5D10_tI50_79_bc_c_ac_2a2c-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "tI50",
+    "space_group_number": 79,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -49,17 +59,8 @@
         0.78865,
         0.79997
     ],
-    "strukturbericht": null,
-    "title": "K$_{5}$Fe$_{4}$Ag$_{6}$Te$_{10}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A6B4C5D10_tI50_79_bc_c_ac_2a2c-001",
-    "number_of_species": 4,
-    "pearson_symbol": "tI50",
-    "space_group_number": 79,
-    "comments": "Measurements at room temperature find K(Fe$_{0.8}$Ag$_{1.2}$)Te$_{2}$ to be isostructural with BaFe$_{2}$As$_{2}$, which has the \\href{current_web_home_dir/A2B2C_tI10_139_d_e_a-002}{TlCo$_{2}$S$_{2}$ structure}, but at 260\\,K (Song, 2019) find that the silver and iron atoms order into this structure. \n Even though this was published in 2019 there is no other confirmation of this structure that we could find in the literature, and there is no ICSD or CCDC entry.  Nevertheless we present this as an example of a structure in space group $I4$ \\#79, which is underrepresented in the Encyclopedia.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "none"
+    "comments": "Measurements at room temperature find K(Fe$_{0.8}$Ag$_{1.2}$)Te$_{2}$ to be isostructural with BaFe$_{2}$As$_{2}$, which has the \\href{current_web_home_dir/A2B2C_tI10_139_d_e_a-002}{TlCo$_{2}$S$_{2}$ structure}, but at 260\\,K (Song, 2019) find that the silver and iron atoms order into this structure. \n Even though this was published in 2019 there is no other confirmation of this structure that we could find in the literature, and there is no ICSD or CCDC entry.  Nevertheless we present this as an example of a structure in space group $I4$ \\#79, which is underrepresented in the Encyclopedia."
 }

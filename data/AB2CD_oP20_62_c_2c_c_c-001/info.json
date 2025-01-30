@@ -1,9 +1,19 @@
 {
     "uid": "C8QD",
+    "label": "AB2CD_oP20_62_c_2c_c_c-001",
+    "alias": "AB2CD_oP20_62_c_2c_c_c-001",
+    "title": "CuBiSeCl$_{2}$ Structure",
+    "icsd": "716551",
+    "ccdc": null,
     "prototype": "BiCl2CuSe",
     "prototype_tex": "BiCl$_{2}$CuSe",
-    "label": "AB2CD_oP20_62_c_2c_c_c-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oP20",
+    "space_group_number": 62,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -33,17 +43,8 @@
         0.76059,
         0.19425
     ],
-    "strukturbericht": null,
-    "title": "CuBiSeCl$_{2}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2CD_oP20_62_c_2c_c_c-001",
-    "number_of_species": 4,
-    "pearson_symbol": "oP20",
-    "space_group_number": 62,
-    "comments": "The ICSD lists under the \\href{current_web_home_dir/A3B2_oP20_62_3c_2c-003}{ottemannite (Sn$_{2}$S$_{3}$) structure}, but ottemannite is binary and forms chains while CuBiSeCl$_{2}$ is quaternary and forms layers, so we have established a new prototype.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "716551"
+    "comments": "The ICSD lists under the \\href{current_web_home_dir/A3B2_oP20_62_3c_2c-003}{ottemannite (Sn$_{2}$S$_{3}$) structure}, but ottemannite is binary and forms chains while CuBiSeCl$_{2}$ is quaternary and forms layers, so we have established a new prototype."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "0898",
+    "label": "A2B_mC12_5_2c_c-001",
+    "alias": "A2B_mC12_5_2c_c",
+    "title": "NbAs$_{2}$ Structure",
+    "icsd": "18143",
+    "ccdc": null,
     "prototype": "As2Nb",
     "prototype_tex": "As$_{2}$Nb",
-    "label": "A2B_mC12_5_2c_c-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC12",
+    "space_group_number": 5,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -33,17 +43,8 @@
         0.5,
         0.3844
     ],
-    "strukturbericht": null,
-    "title": "NbAs$_{2}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B_mC12_5_2c_c",
-    "number_of_species": 2,
-    "pearson_symbol": "mC12",
-    "space_group_number": 5,
-    "comments": "The zero of the $y$-axis can be chosen arbitrarily in space group $C2$ \\#5.  Here we choose it so that $y_{3} = \\frac12$ for the niobium atom.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "18143"
+    "comments": "The zero of the $y$-axis can be chosen arbitrarily in space group $C2$ \\#5.  Here we choose it so that $y_{3} = \\frac12$ for the niobium atom."
 }

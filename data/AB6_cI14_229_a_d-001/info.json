@@ -1,25 +1,26 @@
 {
     "uid": "N2LT",
+    "label": "AB6_cI14_229_a_d-001",
+    "alias": "AB6_cI14_229_a_d-001",
+    "title": "High Pressure Cubic CaH$_{6}$ Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "CaH6",
     "prototype_tex": "CaH$_{6}$",
-    "label": "AB6_cI14_229_a_d-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cI14",
+    "space_group_number": 229,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a"
     ],
     "parameter_values": [
         3.501
     ],
-    "strukturbericht": null,
-    "title": "High Pressure Cubic CaH$_{6}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB6_cI14_229_a_d-001",
-    "number_of_species": 2,
-    "pearson_symbol": "cI14",
-    "space_group_number": 229,
-    "comments": "(Wang, 2012) predict this structure to become superconducting with a critical temperature of 220-235K at a 150 GPa.  (Ma, 2022) later synthesized the material and found $T_{c} = 215$K at 172 GPa. We show the structure at the lattice constant predicted by (Wang, 2012) for a pressure of 150 GPa.",
+    "legacy": false,
     "notes": "HP",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "(Wang, 2012) predict this structure to become superconducting with a critical temperature of 220-235K at a 150 GPa.  (Ma, 2022) later synthesized the material and found $T_{c} = 215$K at 172 GPa. We show the structure at the lattice constant predicted by (Wang, 2012) for a pressure of 150 GPa."
 }

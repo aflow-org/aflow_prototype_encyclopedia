@@ -1,9 +1,19 @@
 {
     "uid": "5BWB",
+    "label": "ABC4_mP12_13_e_a_2g-001",
+    "alias": "ABC4_mP12_13_e_a_2g",
+    "title": "Sylvanite (AgAuTe$_{4}$, $E1_{b}$) Structure",
+    "icsd": "30874",
+    "ccdc": null,
     "prototype": "AgAuTe4",
     "prototype_tex": "AgAuTe$_{4}$",
-    "label": "ABC4_mP12_13_e_a_2g-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mP12",
+    "space_group_number": 13,
+    "strukturbericht": "E1_b",
+    "strukturbericht_tex": "$E1_{b}$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -29,18 +39,8 @@
         0.4045,
         0.2366
     ],
-    "strukturbericht": "E1_b",
-    "title": "Sylvanite (AgAuTe$_{4}$, $E1_{b}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$E1_{b}$",
     "compounds": {},
-    "alias": "ABC4_mP12_13_e_a_2g",
-    "number_of_species": 3,
-    "pearson_symbol": "mP12",
-    "space_group_number": 13,
+    "legacy": false,
     "notes": "$E1_{b}$, Sylvanite",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "30874"
+    "comments": null
 }

@@ -1,9 +1,19 @@
 {
     "uid": "8UWB",
+    "label": "ABC_oP12_29_a_a_a-001",
+    "alias": "ABC_oP12_29_a_a_a",
+    "title": "Cobaltite (CoAsS) Structure",
+    "icsd": "69129",
+    "ccdc": null,
     "prototype": "AsCoS",
     "prototype_tex": "AsCoS",
-    "label": "ABC_oP12_29_a_a_a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP12",
+    "space_group_number": 29,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -31,17 +41,8 @@
         0.86871,
         0.37996
     ],
-    "strukturbericht": null,
-    "title": "Cobaltite (CoAsS) Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC_oP12_29_a_a_a",
-    "number_of_species": 3,
-    "pearson_symbol": "oP12",
-    "space_group_number": 29,
+    "legacy": false,
     "notes": "Colbaltite",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "69129"
+    "comments": null
 }

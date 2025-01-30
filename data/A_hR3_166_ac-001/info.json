@@ -1,9 +1,19 @@
 {
     "uid": "MPB6",
+    "label": "A_hR3_166_ac-001",
+    "alias": "A_hR3_166_ac",
+    "title": "$\\alpha$-Sm ($C19$) Structure",
+    "icsd": "76031",
+    "ccdc": null,
     "prototype": "Sm",
     "prototype_tex": "Sm",
-    "label": "A_hR3_166_ac-001",
-    "parameter_symbol": [
+    "number_of_species": 1,
+    "pearson_symbol": "hR3",
+    "space_group_number": 166,
+    "strukturbericht": "C19",
+    "strukturbericht_tex": "$C19$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2"
@@ -13,18 +23,8 @@
         7.25049,
         0.22222
     ],
-    "strukturbericht": "C19",
-    "title": "$\\alpha$-Sm ($C19$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$C19$",
     "compounds": {},
-    "alias": "A_hR3_166_ac",
-    "number_of_species": 1,
-    "pearson_symbol": "hR3",
-    "space_group_number": 166,
-    "comments": "This is also the proposed ground state of lithium as described in (Overhauser, 1984). \n Binary compounds with this structure are listed using \\href{current_web_home_dir/AB2_hR3_166_a_c-004}{CdCl$_{2}$} as the prototype. \n This is a close-packed system, with stacking ABCBCACAB, in contrast to the ABAB stacking of the hexagonal close-packed structure and the ABCABC stacking of the face-centered cubic structure. \n Hexagonal settings for rhombohedral structures can be obtained with the option {\\tt --hex}.",
+    "legacy": false,
     "notes": "$C19$, $\\alpha$-Sm",
-    "ccdc": null,
-    "icsd": "76031"
+    "comments": "This is also the proposed ground state of lithium as described in (Overhauser, 1984). \n Binary compounds with this structure are listed using \\href{current_web_home_dir/AB2_hR3_166_a_c-004}{CdCl$_{2}$} as the prototype. \n This is a close-packed system, with stacking ABCBCACAB, in contrast to the ABAB stacking of the hexagonal close-packed structure and the ABCABC stacking of the face-centered cubic structure. \n Hexagonal settings for rhombohedral structures can be obtained with the option {\\tt --hex}."
 }

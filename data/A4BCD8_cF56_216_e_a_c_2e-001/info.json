@@ -1,9 +1,19 @@
 {
     "uid": "1XJV",
+    "label": "A4BCD8_cF56_216_e_a_c_2e-001",
+    "alias": "A4BCD8_cF56_216_e_a_c_2e-001",
+    "title": "LiGaCr$_{4}$O$_{8}$ Structure",
+    "icsd": "259392",
+    "ccdc": null,
     "prototype": "Cr4GaLiO8",
     "prototype_tex": "Cr$_{4}$GaLiO$_{8}$",
-    "label": "A4BCD8_cF56_216_e_a_c_2e-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "cF56",
+    "space_group_number": 216,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "x3",
         "x4",
@@ -15,17 +25,8 @@
         0.864,
         0.3825
     ],
-    "strukturbericht": null,
-    "title": "LiGaCr$_{4}$O$_{8}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4BCD8_cF56_216_e_a_c_2e-001",
-    "number_of_species": 4,
-    "pearson_symbol": "cF56",
-    "space_group_number": 216,
-    "comments": "This structure can be regarded as a \\href{current_web_home_dir/A2BC4_cF56_227_c_b_e-001}{distorted spinel structure}, or a \\href{current_web_home_dir/AB4C8_cF52_216_a_e_2e-001}{filled GaMo$_{4}$S$_{8}$ structure}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "259392"
+    "comments": "This structure can be regarded as a \\href{current_web_home_dir/A2BC4_cF56_227_c_b_e-001}{distorted spinel structure}, or a \\href{current_web_home_dir/AB4C8_cF52_216_a_e_2e-001}{filled GaMo$_{4}$S$_{8}$ structure}."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "X52Z",
+    "label": "A2B_oP24_55_2g2h_gh-001",
+    "alias": "A2B_oP24_55_2g2h_gh",
+    "title": "GeAs$_{2}$ Structure",
+    "icsd": "23872",
+    "ccdc": null,
     "prototype": "As2Ge",
     "prototype_tex": "As$_{2}$Ge",
-    "label": "A2B_oP24_55_2g2h_gh-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP24",
+    "space_group_number": 55,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -37,17 +47,8 @@
         0.2664,
         0.2015
     ],
-    "strukturbericht": null,
-    "title": "GeAs$_{2}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B_oP24_55_2g2h_gh",
-    "number_of_species": 2,
-    "pearson_symbol": "oP24",
-    "space_group_number": 55,
-    "comments": "The original report of this structure (Hicks, 2019) referenced a paper that did not contain the details of the structure.  We now reference the correct structure.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "23872"
+    "comments": "The original report of this structure (Hicks, 2019) referenced a paper that did not contain the details of the structure.  We now reference the correct structure."
 }

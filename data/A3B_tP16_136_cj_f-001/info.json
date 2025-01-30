@@ -1,9 +1,19 @@
 {
     "uid": "YFFG",
+    "label": "A3B_tP16_136_cj_f-001",
+    "alias": "A3B_tP16_136_cj_f-001",
+    "title": "IrIn$_{3}$ Structure",
+    "icsd": "407548",
+    "ccdc": null,
     "prototype": "In3Ir",
     "prototype_tex": "In$_{3}$Ir",
-    "label": "A3B_tP16_136_cj_f-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tP16",
+    "space_group_number": 136,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -17,17 +27,8 @@
         0.15178,
         0.25556
     ],
-    "strukturbericht": null,
-    "title": "IrIn$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B_tP16_136_cj_f-001",
-    "number_of_species": 2,
-    "pearson_symbol": "tP16",
-    "space_group_number": 136,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "407548"
+    "comments": null
 }

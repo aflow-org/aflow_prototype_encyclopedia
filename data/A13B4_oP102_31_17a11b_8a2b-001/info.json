@@ -1,9 +1,19 @@
 {
     "uid": "DHFF",
+    "label": "A13B4_oP102_31_17a11b_8a2b-001",
+    "alias": "A13B4_oP102_31_17a11b_8a2b",
+    "title": "Orthorhombic Co$_{4}$Al$_{13}$ Structure (Approximate Quasicrystal)",
+    "icsd": "104638",
+    "ccdc": null,
     "prototype": "Al13Co4",
     "prototype_tex": "Al$_{13}$Co$_{4}$",
-    "label": "A13B4_oP102_31_17a11b_8a2b-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP102",
+    "space_group_number": 31,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -191,17 +201,8 @@
         0.5969,
         0.0984
     ],
-    "strukturbericht": null,
-    "title": "Orthorhombic Co$_{4}$Al$_{13}$ Structure (Approximate Quasicrystal)",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A13B4_oP102_31_17a11b_8a2b",
-    "number_of_species": 2,
-    "pearson_symbol": "oP102",
-    "space_group_number": 31,
-    "comments": "(Addou, 2009) consider this as an ``approximate of the decagonal Al-Ni-Co quasicrystal.'' \n Co$_{4}$ has also been observed in a \\href{current_web_home_dir/A13B4_mC102_8_17a11b_8a2b-001}{monoclinic structure} which has a large number of vacancies on the aluminum sites. \n Space group $Pmn2_{1}$ \\#31 allows an arbitrary choice for the origin of the $z$-axis.  We follow (Grin, 1994) and set the $z_{25} = 0$. \n If we allow the rather large uncertainty of 0.6{\\AA} in the atomic positions, FINDSYM sets the symmetry as $Pnnm$ \\#58.",
+    "legacy": false,
     "notes": "Approximate Quasicrystal",
-    "ccdc": null,
-    "icsd": "104638"
+    "comments": "(Addou, 2009) consider this as an ``approximate of the decagonal Al-Ni-Co quasicrystal.'' \n Co$_{4}$ has also been observed in a \\href{current_web_home_dir/A13B4_mC102_8_17a11b_8a2b-001}{monoclinic structure} which has a large number of vacancies on the aluminum sites. \n Space group $Pmn2_{1}$ \\#31 allows an arbitrary choice for the origin of the $z$-axis.  We follow (Grin, 1994) and set the $z_{25} = 0$. \n If we allow the rather large uncertainty of 0.6{\\AA} in the atomic positions, FINDSYM sets the symmetry as $Pnnm$ \\#58."
 }

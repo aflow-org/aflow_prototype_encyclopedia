@@ -1,9 +1,19 @@
 {
     "uid": "6J8K",
+    "label": "A16B4C16D_cF296_219_eh_e_eh_a-001",
+    "alias": "A16B4C16D_cF296_219_eh_e_eh_a-001",
+    "title": "Sn[Co(CO)$_{4}$]$_{4}$ Structure",
+    "icsd": "67320",
+    "ccdc": null,
     "prototype": "C16Co4O16Sn",
     "prototype_tex": "C$_{16}$Co$_{4}$O$_{16}$Sn",
-    "label": "A16B4C16D_cF296_219_eh_e_eh_a-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "cF296",
+    "space_group_number": 219,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "x2",
         "x3",
@@ -27,17 +37,8 @@
         0.5427,
         0.391
     ],
-    "strukturbericht": null,
-    "title": "Sn[Co(CO)$_{4}$]$_{4}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A16B4C16D_cF296_219_eh_e_eh_a-001",
-    "number_of_species": 4,
-    "pearson_symbol": "cF296",
-    "space_group_number": 219,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "67320"
+    "comments": null
 }

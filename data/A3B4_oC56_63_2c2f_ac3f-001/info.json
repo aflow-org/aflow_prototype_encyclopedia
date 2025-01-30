@@ -1,9 +1,19 @@
 {
     "uid": "J9UY",
+    "label": "A3B4_oC56_63_2c2f_ac3f-001",
+    "alias": "A3B4_oC56_63_2c2f_ac3f-001",
+    "title": "Nb$_{4}$As$_{3}$ Structure",
+    "icsd": "15032",
+    "ccdc": null,
     "prototype": "As3Nb4",
     "prototype_tex": "As$_{3}$Nb$_{4}$",
-    "label": "A3B4_oC56_63_2c2f_ac3f-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oC56",
+    "space_group_number": 63,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -39,17 +49,8 @@
         0.33177,
         0.02848
     ],
-    "strukturbericht": null,
-    "title": "Nb$_{4}$As$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B4_oC56_63_2c2f_ac3f-001",
-    "number_of_species": 2,
-    "pearson_symbol": "oC56",
-    "space_group_number": 63,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "15032"
+    "comments": null
 }

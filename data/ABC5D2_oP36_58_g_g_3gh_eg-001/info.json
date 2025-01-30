@@ -1,9 +1,19 @@
 {
     "uid": "YE34",
+    "label": "ABC5D2_oP36_58_g_g_3gh_eg-001",
+    "alias": "ABC5D2_oP36_58_g_g_3gh_eg",
+    "title": "Adamite [Zn$_{2}$(AsO$_{4}$)(OH), $H2_7$] Structure",
+    "icsd": "34868",
+    "ccdc": null,
     "prototype": "AsHO5Zn2",
     "prototype_tex": "AsHO$_{5}$Zn$_{2}$",
-    "label": "ABC5D2_oP36_58_g_g_3gh_eg-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oP36",
+    "space_group_number": 58,
+    "strukturbericht": "H2_7",
+    "strukturbericht_tex": "$H2_7$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -45,18 +55,8 @@
         0.3615,
         0.2778
     ],
-    "strukturbericht": "H2_7",
-    "title": "Adamite [Zn$_{2}$(AsO$_{4}$)(OH), $H2_7$] Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$H2_7$",
     "compounds": {},
-    "alias": "ABC5D2_oP36_58_g_g_3gh_eg",
-    "number_of_species": 4,
-    "pearson_symbol": "oP36",
-    "space_group_number": 58,
-    "comments": "This structure was originally determined by (Kokorous, 1937) and designated $H2_{7}$ by (Gottfried, 1940).  (Hill, 1976) refined the structure, including the positions of the hydrogen atoms in the OH radical.",
+    "legacy": false,
     "notes": "$H2_7$, Adamite",
-    "ccdc": null,
-    "icsd": "34868"
+    "comments": "This structure was originally determined by (Kokorous, 1937) and designated $H2_{7}$ by (Gottfried, 1940).  (Hill, 1976) refined the structure, including the positions of the hydrogen atoms in the OH radical."
 }

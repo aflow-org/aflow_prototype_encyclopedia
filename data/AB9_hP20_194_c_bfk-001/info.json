@@ -1,9 +1,19 @@
 {
     "uid": "B62K",
+    "label": "AB9_hP20_194_c_bfk-001",
+    "alias": "AB9_hP20_194_c_bfk-001",
+    "title": "CeH$_{9}$ Structure",
+    "icsd": "684706",
+    "ccdc": null,
     "prototype": "CeH9",
     "prototype_tex": "CeH$_{9}$",
-    "label": "AB9_hP20_194_c_bfk-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP20",
+    "space_group_number": 194,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -17,17 +27,8 @@
         0.156003,
         0.562
     ],
-    "strukturbericht": null,
-    "title": "CeH$_{9}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB9_hP20_194_c_bfk-001",
-    "number_of_species": 2,
-    "pearson_symbol": "hP20",
-    "space_group_number": 194,
-    "comments": "(Li, 2019) found CeH$_{9}$ stable above 100 GPa in space group $P6_{3}/mmc$ \\#194.  The atomic structure shown here is taken from their first-principles calculations. \n The ICSD entry is from the slightly later work of (Salke, 2019).",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "684706"
+    "comments": "(Li, 2019) found CeH$_{9}$ stable above 100 GPa in space group $P6_{3}/mmc$ \\#194.  The atomic structure shown here is taken from their first-principles calculations. \n The ICSD entry is from the slightly later work of (Salke, 2019)."
 }

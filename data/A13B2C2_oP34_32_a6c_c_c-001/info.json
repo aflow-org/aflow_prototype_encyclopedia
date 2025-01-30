@@ -1,9 +1,19 @@
 {
     "uid": "16XX",
+    "label": "A13B2C2_oP34_32_a6c_c_c-001",
+    "alias": "A13B2C2_oP34_32_a6c_c_c",
+    "title": "Re$_{2}$O$_{5}$(SO$_{4}$)$_{2}$ Structure",
+    "icsd": "421956",
+    "ccdc": null,
     "prototype": "O13Re2S2",
     "prototype_tex": "O$_{13}$Re$_{2}$S$_{2}$",
-    "label": "A13B2C2_oP34_32_a6c_c_c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP34",
+    "space_group_number": 32,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -63,17 +73,8 @@
         0.8235,
         0.4147
     ],
-    "strukturbericht": null,
-    "title": "Re$_{2}$O$_{5}$(SO$_{4}$)$_{2}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A13B2C2_oP34_32_a6c_c_c",
-    "number_of_species": 3,
-    "pearson_symbol": "oP34",
-    "space_group_number": 32,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "421956"
+    "comments": null
 }

@@ -1,9 +1,19 @@
 {
     "uid": "VJ5B",
+    "label": "A_tP4_136_f-001",
+    "alias": "A_tP4_136_f",
+    "title": "$\\gamma$-N Structure",
+    "icsd": "24891",
+    "ccdc": null,
     "prototype": "N",
     "prototype_tex": "N",
-    "label": "A_tP4_136_f-001",
-    "parameter_symbol": [
+    "number_of_species": 1,
+    "pearson_symbol": "tP4",
+    "space_group_number": 136,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1"
@@ -13,17 +23,8 @@
         1.29113,
         0.098
     ],
-    "strukturbericht": null,
-    "title": "$\\gamma$-N Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "A_tP4_136_f",
-    "number_of_species": 1,
-    "pearson_symbol": "tP4",
-    "space_group_number": 136,
-    "comments": "Solid nitrogen is found in three forms (Mills, 1969; Donohue, 1974): \\begin{itemize} \\item The ground state $\\alpha$-N structure, stable below 35.6K, found either in a \\href{current_web_home_dir/A_cP8_205_c-001}{centrosymmetric} or a \\href{current_web_home_dir/A_cP8_198_2a-001}{non-centrosymmetric} cubic structure. \\item The hexagonal $\\beta$-phase, which has freely rotating N$_{2}$ molecules and is stable up to the melting point, and \\item High-pressure \\href{current_web_home_dir/A_tP4_136_f-001}{$\\gamma$-N}, stable above 355 MPa. \\end{itemize} ~ \\vspace{-.25in} \n We use the data from (Mills, 1969) taken at 415 MPa and 20.5K.",
+    "legacy": false,
     "notes": "$\\gamma$-N",
-    "ccdc": null,
-    "icsd": "24891"
+    "comments": "Solid nitrogen is found in three forms (Mills, 1969; Donohue, 1974): \\begin{itemize} \\item The ground state $\\alpha$-N structure, stable below 35.6K, found either in a \\href{current_web_home_dir/A_cP8_205_c-001}{centrosymmetric} or a \\href{current_web_home_dir/A_cP8_198_2a-001}{non-centrosymmetric} cubic structure. \\item The hexagonal $\\beta$-phase, which has freely rotating N$_{2}$ molecules and is stable up to the melting point, and \\item High-pressure \\href{current_web_home_dir/A_tP4_136_f-001}{$\\gamma$-N}, stable above 355 MPa. \\end{itemize} ~ \\vspace{-.25in} \n We use the data from (Mills, 1969) taken at 415 MPa and 20.5K."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "WPN9",
+    "label": "A_cF32_227_e-001",
+    "alias": "A_cF32_227_e-001",
+    "title": "T-Carbon Structure",
+    "icsd": "689215",
+    "ccdc": null,
     "prototype": "C",
     "prototype_tex": "C",
-    "label": "A_cF32_227_e-001",
-    "parameter_symbol": [
+    "number_of_species": 1,
+    "pearson_symbol": "cF32",
+    "space_group_number": 227,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "x1"
     ],
@@ -11,17 +21,8 @@
         7.52,
         0.4456
     ],
-    "strukturbericht": null,
-    "title": "T-Carbon Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A_cF32_227_e-001",
-    "number_of_species": 1,
-    "pearson_symbol": "cF32",
-    "space_group_number": 227,
-    "comments": "This was predicted by (Sheng, 2011) and found experimentally by (Xu, 2020) and others. \n The ICSD entry is from (Kang, 2020), who gave the atomic positions in terms of setting 1 of space group $Fd\\overline{3}m$ \\#227.  We used FINDSYM to change this to the standard setting 2.",
+    "legacy": false,
     "notes": "T-Carbon",
-    "ccdc": null,
-    "icsd": "689215"
+    "comments": "This was predicted by (Sheng, 2011) and found experimentally by (Xu, 2020) and others. \n The ICSD entry is from (Kang, 2020), who gave the atomic positions in terms of setting 1 of space group $Fd\\overline{3}m$ \\#227.  We used FINDSYM to change this to the standard setting 2."
 }

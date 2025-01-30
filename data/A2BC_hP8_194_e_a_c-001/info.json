@@ -1,9 +1,19 @@
 {
     "uid": "DG69",
+    "label": "A2BC_hP8_194_e_a_c-001",
+    "alias": "A2BC_hP8_194_e_a_c-001",
+    "title": "SnTaS$_{2}$ Structure",
+    "icsd": "100387",
+    "ccdc": null,
     "prototype": "S2SnTa",
     "prototype_tex": "S$_{2}$SnTa",
-    "label": "A2BC_hP8_194_e_a_c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP8",
+    "space_group_number": 194,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3"
@@ -13,17 +23,8 @@
         5.27427,
         0.16
     ],
-    "strukturbericht": null,
-    "title": "SnTaS$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC_hP8_194_e_a_c-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hP8",
-    "space_group_number": 194,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "100387"
+    "comments": null
 }

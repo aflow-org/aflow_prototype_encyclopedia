@@ -1,9 +1,19 @@
 {
     "uid": "3NUA",
+    "label": "A5B3C16_cP96_222_ce_d_fi-001",
+    "alias": "A5B3C16_cP96_222_ce_d_fi",
+    "title": "Ce$_{5}$Mo$_{3}$O$_{16}$ Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "Ce5Mo3O16",
     "prototype_tex": "Ce$_{5}$Mo$_{3}$O$_{16}$",
-    "label": "A5B3C16_cP96_222_ce_d_fi-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cP96",
+    "space_group_number": 222,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "x3",
         "x4",
@@ -19,17 +29,8 @@
         0.166,
         0.625
     ],
-    "strukturbericht": null,
-    "title": "Ce$_{5}$Mo$_{3}$O$_{16}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A5B3C16_cP96_222_ce_d_fi",
-    "number_of_species": 3,
-    "pearson_symbol": "cP96",
-    "space_group_number": 222,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "none"
+    "comments": null
 }

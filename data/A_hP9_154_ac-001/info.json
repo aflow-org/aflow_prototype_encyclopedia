@@ -1,9 +1,19 @@
 {
     "uid": "GAZQ",
+    "label": "A_hP9_154_ac-001",
+    "alias": "A_hP9_154_bc",
+    "title": "S-II Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "S",
     "prototype_tex": "S",
-    "label": "A_hP9_154_ac-001",
-    "parameter_symbol": [
+    "number_of_species": 1,
+    "pearson_symbol": "hP9",
+    "space_group_number": 154,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -19,17 +29,8 @@
         0.534,
         0.551
     ],
-    "strukturbericht": null,
-    "title": "S-II Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A_hP9_154_bc",
-    "number_of_species": 1,
-    "pearson_symbol": "hP9",
-    "space_group_number": 154,
-    "comments": "The S-II phase is found when sulfur is heated and pressurized above 3 GPa. This data was taken at 5.8 GPa and 800K.",
+    "legacy": false,
     "notes": "S-II (HP,HT)",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "The S-II phase is found when sulfur is heated and pressurized above 3 GPa. This data was taken at 5.8 GPa and 800K."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "R1HF",
+    "label": "A3B40CD12_cP112_224_d_e3k_a_k-001",
+    "alias": "A3B40CD12_cP112_224_d_e3k_a_k",
+    "title": "PW$_{12}$O$_{40}\\cdot$3H$_{3}$O Structure",
+    "icsd": "90637",
+    "ccdc": null,
     "prototype": "(H3O)3O40PW12",
     "prototype_tex": "(H$_{3}$O)$_{3}$O$_{40}$PW$_{12}$",
-    "label": "A3B40CD12_cP112_224_d_e3k_a_k-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "cP112",
+    "space_group_number": 224,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "x3",
         "x4",
@@ -27,17 +37,8 @@
         0.4636,
         0.2579
     ],
-    "strukturbericht": null,
-    "title": "PW$_{12}$O$_{40}\\cdot$3H$_{3}$O Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B40CD12_cP112_224_d_e3k_a_k",
-    "number_of_species": 4,
-    "pearson_symbol": "cP112",
-    "space_group_number": 224,
-    "comments": "This is a partially dehydrated version of \\href{current_web_home_dir/A29B40CD12_cF656_227_ae2fg_e3g_b_g-001}{H$_{3}$PW$_{12}$O$_{40}$ $\\cdot$ 29H$_{2}$O ($H4_{21}$)} and \\href{current_web_home_dir/A5B40CD12_cP116_224_bd_e3k_a_k-001}{H$_{3}$PW$_{12}$O$_{40}$ $\\cdot$ 5H$_{2}$O ($H4_{16}$)} or \\href{current_web_home_dir/A27B52CD12_cP184_224_dl_eh3k_a_k-001}{H$_{3}$PW$_{12}$O$_{40}$ $\\cdot$ 6H$_{2}$O}. The six H$_{5}$O$_{2}^+$ ions of the later structure have been replaced by three H$_{3}$O$^+$ ions. \n The ICSD entry classifies the H$_{3}$O$^+$ ions as oxygen atoms, labeling them ``O5.''",
+    "legacy": false,
     "notes": "Phosphoric Acid",
-    "ccdc": null,
-    "icsd": "90637"
+    "comments": "This is a partially dehydrated version of \\href{current_web_home_dir/A29B40CD12_cF656_227_ae2fg_e3g_b_g-001}{H$_{3}$PW$_{12}$O$_{40}$ $\\cdot$ 29H$_{2}$O ($H4_{21}$)} and \\href{current_web_home_dir/A5B40CD12_cP116_224_bd_e3k_a_k-001}{H$_{3}$PW$_{12}$O$_{40}$ $\\cdot$ 5H$_{2}$O ($H4_{16}$)} or \\href{current_web_home_dir/A27B52CD12_cP184_224_dl_eh3k_a_k-001}{H$_{3}$PW$_{12}$O$_{40}$ $\\cdot$ 6H$_{2}$O}. The six H$_{5}$O$_{2}^+$ ions of the later structure have been replaced by three H$_{3}$O$^+$ ions. \n The ICSD entry classifies the H$_{3}$O$^+$ ions as oxygen atoms, labeling them ``O5.''"
 }

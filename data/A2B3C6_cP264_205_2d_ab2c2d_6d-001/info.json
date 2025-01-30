@@ -1,9 +1,19 @@
 {
     "uid": "Q2JD",
+    "label": "A2B3C6_cP264_205_2d_ab2c2d_6d-001",
+    "alias": "A2B3C6_cP264_205_2d_ab2c2d_6d",
+    "title": "Ca$_{3}$Al$_{2}$O$_{6}$ Structure",
+    "icsd": "1841",
+    "ccdc": null,
     "prototype": "Al2Ca3O6",
     "prototype_tex": "Al$_{2}$Ca$_{3}$O$_{6}$",
-    "label": "A2B3C6_cP264_205_2d_ab2c2d_6d-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cP264",
+    "space_group_number": 205,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "x3",
         "x4",
@@ -73,17 +83,8 @@
         0.9896,
         0.9758
     ],
-    "strukturbericht": null,
-    "title": "Ca$_{3}$Al$_{2}$O$_{6}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B3C6_cP264_205_2d_ab2c2d_6d",
-    "number_of_species": 3,
-    "pearson_symbol": "cP264",
-    "space_group_number": 205,
-    "comments": "This is a redetermination of the \\href{current_web_home_dir/A2B3C6_cP33_221_cd_ag_fh-001}{$E9_{1}$ (Ca$_{3}$Al$_{2}$O$_{6}$) structure}. The lattice constant of the new unit cell is twice the original, giving a volume eight times larger.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "1841"
+    "comments": "This is a redetermination of the \\href{current_web_home_dir/A2B3C6_cP33_221_cd_ag_fh-001}{$E9_{1}$ (Ca$_{3}$Al$_{2}$O$_{6}$) structure}. The lattice constant of the new unit cell is twice the original, giving a volume eight times larger."
 }

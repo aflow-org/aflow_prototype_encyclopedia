@@ -1,9 +1,19 @@
 {
     "uid": "AY9W",
+    "label": "A2B3_tP20_102_2c_b2c-001",
+    "alias": "A2B3_tP20_102_2c_b2c",
+    "title": "Gd$_{3}$Al$_{2}$ Structure",
+    "icsd": "57869",
+    "ccdc": null,
     "prototype": "Al2Gd3",
     "prototype_tex": "Al$_{2}$Gd$_{3}$",
-    "label": "A2B3_tP20_102_2c_b2c-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tP20",
+    "space_group_number": 102,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -29,17 +39,8 @@
         0.205,
         0.725
     ],
-    "strukturbericht": null,
-    "title": "Gd$_{3}$Al$_{2}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B3_tP20_102_2c_b2c",
-    "number_of_species": 2,
-    "pearson_symbol": "tP20",
-    "space_group_number": 102,
-    "comments": "We have added the reference to (Baenziger, 1964), which has the description of this structure. \n Space group $P4_{2}nm$ \\#102 allows an arbitary placement of the origin of the $z$-axis.  We choose this so that $z_{1} = 1/2$ for the Gd-I atom. This represents a shift of $0.017 c$ from the origin of (Baenziger, 1964). \n (Buschow, 1965) says that the prototype for this structure is Zr$_{3}$Al$_{2}$, but note that there is a competing Zr$_{3}$Al$_{2}$ structure in \\href{current_web_home_dir/A2B3_tP20_136_j_dfg-001}{in the centrosymmetric space group $P4_{2}/mnm$ \\#136}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "57869"
+    "comments": "We have added the reference to (Baenziger, 1964), which has the description of this structure. \n Space group $P4_{2}nm$ \\#102 allows an arbitary placement of the origin of the $z$-axis.  We choose this so that $z_{1} = 1/2$ for the Gd-I atom. This represents a shift of $0.017 c$ from the origin of (Baenziger, 1964). \n (Buschow, 1965) says that the prototype for this structure is Zr$_{3}$Al$_{2}$, but note that there is a competing Zr$_{3}$Al$_{2}$ structure in \\href{current_web_home_dir/A2B3_tP20_136_j_dfg-001}{in the centrosymmetric space group $P4_{2}/mnm$ \\#136}."
 }

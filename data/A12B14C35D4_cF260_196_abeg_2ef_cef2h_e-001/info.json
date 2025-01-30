@@ -1,9 +1,19 @@
 {
     "uid": "JELG",
+    "label": "A12B14C35D4_cF260_196_abeg_2ef_cef2h_e-001",
+    "alias": "A12B14C35D4_cF260_196_abeg_2ef_cef2h_e-001",
+    "title": "Ca$_{14}$Zn$_{6}$Al$_{10}$O$_{35}$ Structure",
+    "icsd": "50292",
+    "ccdc": null,
     "prototype": "Al10Ca14O35Zn6",
     "prototype_tex": "Al$_{10}$Ca$_{14}$O$_{35}$Zn$_{6}$",
-    "label": "A12B14C35D4_cF260_196_abeg_2ef_cef2h_e-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "cF260",
+    "space_group_number": 196,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "x4",
         "x5",
@@ -37,17 +47,8 @@
         0.2554,
         0.5696
     ],
-    "strukturbericht": null,
-    "title": "Ca$_{14}$Zn$_{6}$Al$_{10}$O$_{35}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A12B14C35D4_cF260_196_abeg_2ef_cef2h_e-001",
-    "number_of_species": 4,
-    "pearson_symbol": "cF260",
-    "space_group_number": 196,
-    "comments": "All of the sites labeled ``aluminum'' are actual 5 parts aluminum and 1 part zinc, giving the observed stoichiometry.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "50292"
+    "comments": "All of the sites labeled ``aluminum'' are actual 5 parts aluminum and 1 part zinc, giving the observed stoichiometry."
 }

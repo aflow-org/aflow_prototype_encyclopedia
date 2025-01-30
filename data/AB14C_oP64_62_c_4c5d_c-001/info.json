@@ -1,9 +1,19 @@
 {
     "uid": "LZG8",
+    "label": "AB14C_oP64_62_c_4c5d_c-001",
+    "alias": "AB14C_oP64_62_c_4c5d_c-001",
+    "title": "CdSnP$_{14}$ (HgPbP$_{14}$) Structure",
+    "icsd": "42976",
+    "ccdc": null,
     "prototype": "CdP14Sn",
     "prototype_tex": "CdP$_{14}$Sn",
-    "label": "AB14C_oP64_62_c_4c5d_c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP64",
+    "space_group_number": 62,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -67,17 +77,8 @@
         0.0433,
         0.1393
     ],
-    "strukturbericht": null,
-    "title": "CdSnP$_{14}$ (HgPbP$_{14}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB14C_oP64_62_c_4c5d_c-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oP64",
-    "space_group_number": 62,
-    "comments": "Although (Krebs, 1958) first described this structure for HgPbP$_{14}$, but their data is very approximate, so we use the refinement made by (Scholz, 1987).  They give the Wyckoff positions for CdSnP$_{14}$, so we use that as our prototype.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "42976"
+    "comments": "Although (Krebs, 1958) first described this structure for HgPbP$_{14}$, but their data is very approximate, so we use the refinement made by (Scholz, 1987).  They give the Wyckoff positions for CdSnP$_{14}$, so we use that as our prototype."
 }

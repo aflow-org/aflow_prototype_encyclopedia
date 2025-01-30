@@ -1,9 +1,19 @@
 {
     "uid": "37DH",
+    "label": "A2BC_oC8_38_d_b_a-001",
+    "alias": "A2BC_oC8_38_e_a_b",
+    "title": "C$_{2}$CeNi Structure",
+    "icsd": "20397",
+    "ccdc": null,
     "prototype": "C2CeNi",
     "prototype_tex": "C$_{2}$CeNi",
-    "label": "A2BC_oC8_38_d_b_a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oC8",
+    "space_group_number": 38,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -21,17 +31,8 @@
         0.345,
         0.7914
     ],
-    "strukturbericht": null,
-    "title": "C$_{2}$CeNi Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC_oC8_38_e_a_b",
-    "number_of_species": 3,
-    "pearson_symbol": "oC8",
-    "space_group_number": 38,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "20397"
+    "comments": null
 }

@@ -1,9 +1,19 @@
 {
     "uid": "7BKZ",
+    "label": "A10B7_oC68_64_f2g_adef-001",
+    "alias": "A10B7_oC68_64_f2g_adef-001",
+    "title": "Zr$_{7}$Ni$_{10}$ Structure",
+    "icsd": "240191",
+    "ccdc": null,
     "prototype": "Ni10Zr7",
     "prototype_tex": "Ni$_{10}$Zr$_{7}$",
-    "label": "A10B7_oC68_64_f2g_adef-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oC68",
+    "space_group_number": 64,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -37,17 +47,8 @@
         0.79157,
         0.00833
     ],
-    "strukturbericht": null,
-    "title": "Zr$_{7}$Ni$_{10}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A10B7_oC68_64_f2g_adef-001",
-    "number_of_species": 2,
-    "pearson_symbol": "oC68",
-    "space_group_number": 64,
-    "comments": "(Kirkpatrick, 1962) originally placed this structure in space group $Aba2$ \\#41, and early structure compilations such as (Pearson, 1967) quote this structure.  (Joubert, 1977) showed that the structure has an inversion site and placed the system in space group $Cmca$ \\#64.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "240191"
+    "comments": "(Kirkpatrick, 1962) originally placed this structure in space group $Aba2$ \\#41, and early structure compilations such as (Pearson, 1967) quote this structure.  (Joubert, 1977) showed that the structure has an inversion site and placed the system in space group $Cmca$ \\#64."
 }

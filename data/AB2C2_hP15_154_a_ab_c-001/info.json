@@ -1,9 +1,19 @@
 {
     "uid": "3CT8",
+    "label": "AB2C2_hP15_154_a_ab_c-001",
+    "alias": "AB2C2_hP15_154_a_ab_c-001",
+    "title": "EuIr$_{2}$P$_{2}$ Structure",
+    "icsd": "73530",
+    "ccdc": null,
     "prototype": "EuIr2P2",
     "prototype_tex": "EuIr$_{2}$P$_{2}$",
-    "label": "AB2C2_hP15_154_a_ab_c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP15",
+    "space_group_number": 154,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -23,17 +33,8 @@
         0.8833,
         0.959097
     ],
-    "strukturbericht": null,
-    "title": "EuIr$_{2}$P$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2C2_hP15_154_a_ab_c-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hP15",
-    "space_group_number": 154,
-    "comments": "We shifted the origin used by (Lux, 1993) so that the europium atoms are on a (3a) Wyckoff position.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "73530"
+    "comments": "We shifted the origin used by (Lux, 1993) so that the europium atoms are on a (3a) Wyckoff position."
 }

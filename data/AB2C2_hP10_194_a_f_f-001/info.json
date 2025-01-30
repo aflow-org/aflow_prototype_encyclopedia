@@ -1,9 +1,19 @@
 {
     "uid": "PL9Q",
+    "label": "AB2C2_hP10_194_a_f_f-001",
+    "alias": "AB2C2_hP10_194_a_f_f",
+    "title": "EuIn$_{2}$P$_{2}$ Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "EuIn2P2",
     "prototype_tex": "EuIn$_{2}$P$_{2}$",
-    "label": "AB2C2_hP10_194_a_f_f-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP10",
+    "space_group_number": 194,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -15,17 +25,8 @@
         0.82845,
         0.10706
     ],
-    "strukturbericht": null,
-    "title": "EuIn$_{2}$P$_{2}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2C2_hP10_194_a_f_f",
-    "number_of_species": 3,
-    "pearson_symbol": "hP10",
-    "space_group_number": 194,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "none"
+    "comments": null
 }

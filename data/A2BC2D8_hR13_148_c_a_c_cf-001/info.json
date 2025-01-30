@@ -1,9 +1,19 @@
 {
     "uid": "VJPX",
+    "label": "A2BC2D8_hR13_148_c_a_c_cf-001",
+    "alias": "A2BC2D8_hR13_148_c_a_c_cf-001",
+    "title": "BaNi$_{2}$As$_{2}$O$_{8}$ Structure",
+    "icsd": "27014",
+    "ccdc": null,
     "prototype": "As2BaNi2O8",
     "prototype_tex": "As$_{2}$BaNi$_{2}$O$_{8}$",
-    "label": "A2BC2D8_hR13_148_c_a_c_cf-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "hR13",
+    "space_group_number": 148,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -23,17 +33,8 @@
         0.441,
         0.785
     ],
-    "strukturbericht": null,
-    "title": "BaNi$_{2}$As$_{2}$O$_{8}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC2D8_hR13_148_c_a_c_cf-001",
-    "number_of_species": 4,
-    "pearson_symbol": "hR13",
-    "space_group_number": 148,
-    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "27014"
+    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

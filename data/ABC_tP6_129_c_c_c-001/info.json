@@ -1,9 +1,19 @@
 {
     "uid": "QTMD",
+    "label": "ABC_tP6_129_c_c_c-001",
+    "alias": "ABC_tP6_129_c_c_c-001",
+    "title": "CaGaN Structure",
+    "icsd": "2027",
+    "ccdc": null,
     "prototype": "CaGaN",
     "prototype_tex": "CaGaN",
-    "label": "ABC_tP6_129_c_c_c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP6",
+    "space_group_number": 129,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -17,17 +27,8 @@
         0.0839,
         0.33
     ],
-    "strukturbericht": null,
-    "title": "CaGaN Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC_tP6_129_c_c_c-001",
-    "number_of_species": 3,
-    "pearson_symbol": "tP6",
-    "space_group_number": 129,
-    "comments": "There are two prototypes with the AFLOW label ABC\\_tP6\\_129\\_c\\_c\\_c: \\begin{itemize} \\item \\href{current_web_home_dir/ABC_tP6_129_c_c_c-001}{CaGaN} (this structure), with c/a $\\approx$ 2.1, and \\item \\href{current_web_home_dir/ABC_tP6_129_c_c_c-002}{TaMoN}, with c/a $\\approx$ 2.5. \\end{itemize} ~ \\vspace{-0.25in} \n (Verdier, 1974) give the atomic coordinates in setting 1 of space group $P4/nmm$ \\#129.  We shifted the origin to place the system in our standard setting 2.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "2027"
+    "comments": "There are two prototypes with the AFLOW label ABC\\_tP6\\_129\\_c\\_c\\_c: \\begin{itemize} \\item \\href{current_web_home_dir/ABC_tP6_129_c_c_c-001}{CaGaN} (this structure), with c/a $\\approx$ 2.1, and \\item \\href{current_web_home_dir/ABC_tP6_129_c_c_c-002}{TaMoN}, with c/a $\\approx$ 2.5. \\end{itemize} ~ \\vspace{-0.25in} \n (Verdier, 1974) give the atomic coordinates in setting 1 of space group $P4/nmm$ \\#129.  We shifted the origin to place the system in our standard setting 2."
 }

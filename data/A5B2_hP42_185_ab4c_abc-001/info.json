@@ -1,9 +1,19 @@
 {
     "uid": "04LT",
+    "label": "A5B2_hP42_185_ab4c_abc-001",
+    "alias": "A5B2_hP42_185_ab4c_abc-001",
+    "title": "Stibiopalladinite (Pd$_{5}$Sb$_{2}$) Structure",
+    "icsd": "648776",
+    "ccdc": null,
     "prototype": "Pd5Sb2",
     "prototype_tex": "Pd$_{5}$Sb$_{2}$",
-    "label": "A5B2_hP42_185_ab4c_abc-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP42",
+    "space_group_number": 185,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -39,17 +49,8 @@
         0.661,
         0.018
     ],
-    "strukturbericht": null,
-    "title": "Stibiopalladinite (Pd$_{5}$Sb$_{2}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A5B2_hP42_185_ab4c_abc-001",
-    "number_of_species": 2,
-    "pearson_symbol": "hP42",
-    "space_group_number": 185,
+    "legacy": false,
     "notes": "Stibiopalladinite",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "648776"
+    "comments": null
 }

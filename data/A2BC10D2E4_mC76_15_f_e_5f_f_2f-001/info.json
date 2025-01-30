@@ -1,9 +1,19 @@
 {
     "uid": "8J4A",
+    "label": "A2BC10D2E4_mC76_15_f_e_5f_f_2f-001",
+    "alias": "A2BC10D2E4_mC76_15_f_e_5f_f_2f",
+    "title": "Muscovite (KH$_{2}$Al$_{3}$Si$_{3}$O$_{12}$, $S5_{1}$) Structure",
+    "icsd": "17049",
+    "ccdc": null,
     "prototype": "Al3H2KO12Si3",
     "prototype_tex": "Al$_{3}$H$_{2}$KO$_{12}$Si$_{3}$",
-    "label": "A2BC10D2E4_mC76_15_f_e_5f_f_2f-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "mC76",
+    "space_group_number": 15,
+    "strukturbericht": "S5_1",
+    "strukturbericht_tex": "$S5_{1}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -71,18 +81,8 @@
         0.9298,
         0.3646
     ],
-    "strukturbericht": "S5_1",
-    "title": "Muscovite (KH$_{2}$Al$_{3}$Si$_{3}$O$_{12}$, $S5_{1}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$S5_{1}$",
     "compounds": {},
-    "alias": "A2BC10D2E4_mC76_15_f_e_5f_f_2f",
-    "number_of_species": 5,
-    "pearson_symbol": "mC76",
-    "space_group_number": 15,
-    "comments": "The sites we label Si-I and Si-II are actually approximately 75\\% silicon and 25\\% aluminum, but trace elements such as manganese can appear on both sites.  In addition, the potassium site (K) can be alloyed with small amounts of sodium, and the aluminum site (Al) with iron.  These trace elements give muscovite a variety of colors.  The sample studied by (Richardson, 1982) was pink.",
+    "legacy": false,
     "notes": "$S5_{1}$, Muscovite",
-    "ccdc": null,
-    "icsd": "17049"
+    "comments": "The sites we label Si-I and Si-II are actually approximately 75\\% silicon and 25\\% aluminum, but trace elements such as manganese can appear on both sites.  In addition, the potassium site (K) can be alloyed with small amounts of sodium, and the aluminum site (Al) with iron.  These trace elements give muscovite a variety of colors.  The sample studied by (Richardson, 1982) was pink."
 }

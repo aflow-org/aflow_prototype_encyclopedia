@@ -1,9 +1,19 @@
 {
     "uid": "S9KY",
+    "label": "A14BC11D_oP108_19_14a_a_11a_a-001",
+    "alias": "A14BC11D_oP108_19_14a_a_11a_a",
+    "title": "Morenosite (NiSO$_{4}\\cdot$7H$_{2}$O, $H4_{12}$) Structure",
+    "icsd": "84569",
+    "ccdc": null,
     "prototype": "H14NiO11S",
     "prototype_tex": "H$_{14}$NiO$_{11}$S",
-    "label": "A14BC11D_oP108_19_14a_a_11a_a-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oP108",
+    "space_group_number": 19,
+    "strukturbericht": "H4_12",
+    "strukturbericht_tex": "$H4_{12}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -175,18 +185,8 @@
         0.7226,
         0.1809
     ],
-    "strukturbericht": "H4_12",
-    "title": "Morenosite (NiSO$_{4}\\cdot$7H$_{2}$O, $H4_{12}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$H4_{12}$",
     "compounds": {},
-    "alias": "A14BC11D_oP108_19_14a_a_11a_a",
-    "number_of_species": 4,
-    "pearson_symbol": "oP108",
-    "space_group_number": 19,
-    "comments": "We use the structure from the 25K neutron data taken by (Ptasiewicz-Bak, 1997).",
+    "legacy": false,
     "notes": "$H4_{12}$, Morenosite",
-    "ccdc": null,
-    "icsd": "84569"
+    "comments": "We use the structure from the 25K neutron data taken by (Ptasiewicz-Bak, 1997)."
 }

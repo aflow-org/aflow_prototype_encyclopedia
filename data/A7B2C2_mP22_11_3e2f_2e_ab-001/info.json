@@ -1,9 +1,19 @@
 {
     "uid": "3RSG",
+    "label": "A7B2C2_mP22_11_3e2f_2e_ab-001",
+    "alias": "A7B2C2_mP22_11_3e2f_2e_ab",
+    "title": "y-Y$_{2}$Si$_{2}$O$_{7}$ Structure",
+    "icsd": "28004",
+    "ccdc": null,
     "prototype": "O7Si2Y2",
     "prototype_tex": "O$_{7}$Si$_{2}$Y$_{2}$",
-    "label": "A7B2C2_mP22_11_3e2f_2e_ab-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mP22",
+    "space_group_number": 11,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -47,17 +57,8 @@
         0.09,
         0.264
     ],
-    "strukturbericht": null,
-    "title": "y-Y$_{2}$Si$_{2}$O$_{7}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A7B2C2_mP22_11_3e2f_2e_ab",
-    "number_of_species": 3,
-    "pearson_symbol": "mP22",
-    "space_group_number": 11,
-    "comments": "(Becerro, 2003) found that the NMR spectrum of y-Y$_{2}$Si$_{2}$O$_{7}$ showed only one peak for yttrium.  If that is the case, then this crystal structure is incorrect.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "28004"
+    "comments": "(Becerro, 2003) found that the NMR spectrum of y-Y$_{2}$Si$_{2}$O$_{7}$ showed only one peak for yttrium.  If that is the case, then this crystal structure is incorrect."
 }

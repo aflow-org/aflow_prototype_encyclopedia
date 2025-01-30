@@ -1,9 +1,19 @@
 {
     "uid": "HFAT",
+    "label": "AB9C4_tP28_85_c_a2g_g-001",
+    "alias": "AB9C4_tP28_85_c_a2g_g-001",
+    "title": "CaV$_{4}$O$_{9}$ Structure",
+    "icsd": "2556",
+    "ccdc": null,
     "prototype": "CaO9V4",
     "prototype_tex": "CaO$_{9}$V$_{4}$",
-    "label": "AB9C4_tP28_85_c_a2g_g-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP28",
+    "space_group_number": 85,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -31,17 +41,8 @@
         0.5366,
         0.1256
     ],
-    "strukturbericht": null,
-    "title": "CaV$_{4}$O$_{9}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB9C4_tP28_85_c_a2g_g-001",
-    "number_of_species": 3,
-    "pearson_symbol": "tP28",
-    "space_group_number": 85,
-    "comments": "AFLOW moves the origin so that the published O I sited is moved from the (2b) Wyckoff position to the (2a) site.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "2556"
+    "comments": "AFLOW moves the origin so that the published O I sited is moved from the (2b) Wyckoff position to the (2a) site."
 }

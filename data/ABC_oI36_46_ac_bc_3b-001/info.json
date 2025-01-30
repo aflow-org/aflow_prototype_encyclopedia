@@ -1,9 +1,19 @@
 {
     "uid": "7FJR",
+    "label": "ABC_oI36_46_ac_bc_3b-001",
+    "alias": "ABC_oI36_46_ac_bc_3b",
+    "title": "TiFeSi Structure",
+    "icsd": "41157",
+    "ccdc": null,
     "prototype": "FeSiTi",
     "prototype_tex": "FeSiTi",
-    "label": "ABC_oI36_46_ac_bc_3b-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oI36",
+    "space_group_number": 46,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -43,17 +53,8 @@
         0.8325,
         0.9952
     ],
-    "strukturbericht": null,
-    "title": "TiFeSi Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC_oI36_46_ac_bc_3b",
-    "number_of_species": 3,
-    "pearson_symbol": "oI36",
-    "space_group_number": 46,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "41157"
+    "comments": null
 }

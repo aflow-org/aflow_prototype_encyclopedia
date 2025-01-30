@@ -1,9 +1,19 @@
 {
     "uid": "W8MF",
+    "label": "A23B6_cF116_225_ad2f_e-001",
+    "alias": "A23B6_cF116_225_bd2f_e",
+    "title": "Th$_{6}$Mn$_{23}$ ($D8_{a}$) Structure",
+    "icsd": "104987",
+    "ccdc": null,
     "prototype": "Mn23Th6",
     "prototype_tex": "Mn$_{23}$Th$_{6}$",
-    "label": "A23B6_cF116_225_ad2f_e-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cF116",
+    "space_group_number": 225,
+    "strukturbericht": "D8_a",
+    "strukturbericht_tex": "$D8_{a}$",
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "x3",
         "x4",
@@ -15,18 +25,8 @@
         0.678,
         0.878
     ],
-    "strukturbericht": "D8_a",
-    "title": "Th$_{6}$Mn$_{23}$ ($D8_{a}$) Structure",
-    "part": 2,
-    "legacy": false,
-    "strukturbericht_tex": "$D8_{a}$",
     "compounds": {},
-    "alias": "A23B6_cF116_225_bd2f_e",
-    "number_of_species": 2,
-    "pearson_symbol": "cF116",
-    "space_group_number": 225,
-    "comments": "We have moved the ternary compounds with this structure to the \\href{current_web_home_dir/A16B6C7_cF116_225_2f_e_ad-001}{Mg$_{6}$Si$_{7}$Cu$_{16}$ page}.",
+    "legacy": false,
     "notes": "$D8_{a}$",
-    "ccdc": null,
-    "icsd": "104987"
+    "comments": "We have moved the ternary compounds with this structure to the \\href{current_web_home_dir/A16B6C7_cF116_225_2f_e_ad-001}{Mg$_{6}$Si$_{7}$Cu$_{16}$ page}."
 }

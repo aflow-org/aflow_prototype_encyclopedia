@@ -1,9 +1,19 @@
 {
     "uid": "SEQF",
+    "label": "A_mP84_13_21g-001",
+    "alias": "A_mP84_13_21g",
+    "title": "Monoclinic (Hittorf's) Phosphorus Structure",
+    "icsd": "29273",
+    "ccdc": null,
     "prototype": "P",
     "prototype_tex": "P",
-    "label": "A_mP84_13_21g-001",
-    "parameter_symbol": [
+    "number_of_species": 1,
+    "pearson_symbol": "mP84",
+    "space_group_number": 13,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -141,17 +151,8 @@
         0.03262,
         0.05692
     ],
-    "strukturbericht": null,
-    "title": "Monoclinic (Hittorf's) Phosphorus Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "A_mP84_13_21g",
-    "number_of_species": 1,
-    "pearson_symbol": "mP84",
-    "space_group_number": 13,
-    "comments": "Phosphorus is found in at least three forms: \\begin{itemize} \\item \\href{current_web_home_dir/A_oC8_64_f-002}{Black phosphorus, {\\em Strukturbericht} $A17$}, \\item \\href{current_web_home_dir/A_mP84_13_21g-001}{Monoclinic Hittorf's phosphorus},  (this structure) and \\item \\href{current_web_home_dir/A_aP24_2_12i-001}{Low temperature triclinic ``white'' phosphorus}, stable below 197K. \\end{itemize}",
+    "legacy": false,
     "notes": "Hittorf's Phosphorus",
-    "ccdc": null,
-    "icsd": "29273"
+    "comments": "Phosphorus is found in at least three forms: \\begin{itemize} \\item \\href{current_web_home_dir/A_oC8_64_f-002}{Black phosphorus, {\\em Strukturbericht} $A17$}, \\item \\href{current_web_home_dir/A_mP84_13_21g-001}{Monoclinic Hittorf's phosphorus},  (this structure) and \\item \\href{current_web_home_dir/A_aP24_2_12i-001}{Low temperature triclinic ``white'' phosphorus}, stable below 197K. \\end{itemize}"
 }

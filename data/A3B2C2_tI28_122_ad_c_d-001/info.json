@@ -1,9 +1,19 @@
 {
     "uid": "1YSS",
+    "label": "A3B2C2_tI28_122_ad_c_d-001",
+    "alias": "A3B2C2_tI28_122_ad_c_d-001",
+    "title": "Mn$_{1.4}$PtSn Structure",
+    "icsd": "11061",
+    "ccdc": null,
     "prototype": "Mn1.4PtSn",
     "prototype_tex": "Mn$_{1.4}$PtSn",
-    "label": "A3B2C2_tI28_122_ad_c_d-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tI28",
+    "space_group_number": 122,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -17,17 +27,8 @@
         0.7282,
         0.27875
     ],
-    "strukturbericht": null,
-    "title": "Mn$_{1.4}$PtSn Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B2C2_tI28_122_ad_c_d-001",
-    "number_of_species": 3,
-    "pearson_symbol": "tI28",
-    "space_group_number": 122,
-    "comments": "(Vir, 2019) found that the Mn (4a) site (in the layer with the platinum (8c) atoms) has 20\\% vacancies, giving the noted departure from the nominal Mn$_{3}$Pt$_{2}$Sn$_{2}$ stoichiometry.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "11061"
+    "comments": "(Vir, 2019) found that the Mn (4a) site (in the layer with the platinum (8c) atoms) has 20\\% vacancies, giving the noted departure from the nominal Mn$_{3}$Pt$_{2}$Sn$_{2}$ stoichiometry."
 }

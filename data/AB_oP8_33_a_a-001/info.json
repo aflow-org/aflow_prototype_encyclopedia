@@ -1,9 +1,19 @@
 {
     "uid": "8Z7Q",
+    "label": "AB_oP8_33_a_a-001",
+    "alias": "AB_oP8_33_a_a",
+    "title": "Modderite (CoAs) Structure",
+    "icsd": "48027",
+    "ccdc": null,
     "prototype": "AsCo",
     "prototype_tex": "AsCo",
-    "label": "AB_oP8_33_a_a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP8",
+    "space_group_number": 33,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -25,17 +35,8 @@
         0.7003,
         0.25
     ],
-    "strukturbericht": null,
-    "title": "Modderite (CoAs) Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_oP8_33_a_a",
-    "number_of_species": 2,
-    "pearson_symbol": "oP8",
-    "space_group_number": 33,
-    "comments": "Space group $Pna2_{1}$ \\#33 allows an arbitrary origin for the $z$-axis, which is set here by taking $z_{2} = 1/4$. \n When $z_{1} = z_{2} =1/4$, the space group becomes $Pnma$ \\#62 and the structure is equivalent to \\href{current_web_home_dir/AB_oP8_62_c_c-002}{MnP ($B31$)}. \n (Lyman, 1984) sets $z_{1}$ = 0.2506, so this condition is almost fulfilled. \n (Lyman, 1984) lists both space groups for both CoAs and FeAs, and prefers the MnP structure for these compounds. \n AFLOW also places this structure in space group $Pnma$, and only predicts the lower symmetry structure if we lower the native tolerance using \n aflow -{-}proto=AB\\_oP8\\_33\\_a\\_a -{-}tolerance=0.001 -{-}params=a,b/,c/a,x$_{1}$,y$_{1}$,z$_{1}$,x$_{2}$,y$_{2}$,z$_{2}$ .",
+    "legacy": false,
     "notes": "Modderite",
-    "ccdc": null,
-    "icsd": "48027"
+    "comments": "Space group $Pna2_{1}$ \\#33 allows an arbitrary origin for the $z$-axis, which is set here by taking $z_{2} = 1/4$. \n When $z_{1} = z_{2} =1/4$, the space group becomes $Pnma$ \\#62 and the structure is equivalent to \\href{current_web_home_dir/AB_oP8_62_c_c-002}{MnP ($B31$)}. \n (Lyman, 1984) sets $z_{1}$ = 0.2506, so this condition is almost fulfilled. \n (Lyman, 1984) lists both space groups for both CoAs and FeAs, and prefers the MnP structure for these compounds. \n AFLOW also places this structure in space group $Pnma$, and only predicts the lower symmetry structure if we lower the native tolerance using \n aflow -{-}proto=AB\\_oP8\\_33\\_a\\_a -{-}tolerance=0.001 -{-}params=a,b/,c/a,x$_{1}$,y$_{1}$,z$_{1}$,x$_{2}$,y$_{2}$,z$_{2}$ ."
 }

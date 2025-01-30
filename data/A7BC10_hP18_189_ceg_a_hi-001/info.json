@@ -1,9 +1,19 @@
 {
     "uid": "16HD",
+    "label": "A7BC10_hP18_189_ceg_a_hi-001",
+    "alias": "A7BC10_hP18_189_ceg_a_hi-001",
+    "title": "Hexagonal Au$_{7}$P$_{10}$I Structure",
+    "icsd": "12162",
+    "ccdc": null,
     "prototype": "Au7IP10",
     "prototype_tex": "Au$_{7}$IP$_{10}$",
-    "label": "A7BC10_hP18_189_ceg_a_hi-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP18",
+    "space_group_number": 189,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -21,17 +31,8 @@
         0.373,
         0.698
     ],
-    "strukturbericht": null,
-    "title": "Hexagonal Au$_{7}$P$_{10}$I Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A7BC10_hP18_189_ceg_a_hi-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hP18",
-    "space_group_number": 189,
-    "comments": "There is some controversy about the structure of Au$_{7}$P$_{10}$I.  (Binnewies, 1978) put it in the hexagonal \\href{current_web_home_dir/A7BC10_hP18_189_ceg_a_hi-001}{$P\\overline{6}2m$ \\#189 space group}, but (Jeitschko, 1979) place it in the \\href{current_web_home_dir/A7BC10_hP18_162_ceg_a_hk-001}{trigonal $P\\overline{3}1m$ \\#162 space group}.  The structures are distinct, and to our knowledge the dispute has not been resolved, so we present both structures. \n We have shifted the origin, moving the iodine atoms from the (1b) to (1a) Wyckoff positions.",
+    "legacy": false,
     "notes": "Hexagonal Au$_{7}$P$_{10}$I",
-    "ccdc": null,
-    "icsd": "12162"
+    "comments": "There is some controversy about the structure of Au$_{7}$P$_{10}$I.  (Binnewies, 1978) put it in the hexagonal \\href{current_web_home_dir/A7BC10_hP18_189_ceg_a_hi-001}{$P\\overline{6}2m$ \\#189 space group}, but (Jeitschko, 1979) place it in the \\href{current_web_home_dir/A7BC10_hP18_162_ceg_a_hk-001}{trigonal $P\\overline{3}1m$ \\#162 space group}.  The structures are distinct, and to our knowledge the dispute has not been resolved, so we present both structures. \n We have shifted the origin, moving the iodine atoms from the (1b) to (1a) Wyckoff positions."
 }

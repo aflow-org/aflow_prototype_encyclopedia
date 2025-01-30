@@ -1,9 +1,19 @@
 {
     "uid": "BWRM",
+    "label": "A17B10_oP54_55_a3g5h_3g2h-001",
+    "alias": "A17B10_oP54_55_a3g5h_3g2h-001",
+    "title": "Nb$_{8}$P$_{5}$ Structure",
+    "icsd": "15054",
+    "ccdc": null,
     "prototype": "Nb8P5",
     "prototype_tex": "Nb$_{8}$P$_{5}$",
-    "label": "A17B10_oP54_55_a3g5h_3g2h-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP54",
+    "space_group_number": 55,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -65,17 +75,8 @@
         0.2862,
         0.259
     ],
-    "strukturbericht": null,
-    "title": "Nb$_{8}$P$_{5}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A17B10_oP54_55_a3g5h_3g2h-001",
-    "number_of_species": 2,
-    "pearson_symbol": "oP54",
-    "space_group_number": 55,
-    "comments": "The Nb-IV (4g) site is only occupied 50\\% of the time.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "15054"
+    "comments": "The Nb-IV (4g) site is only occupied 50\\% of the time."
 }

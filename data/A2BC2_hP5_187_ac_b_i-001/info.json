@@ -1,9 +1,19 @@
 {
     "uid": "AJFU",
+    "label": "A2BC2_hP5_187_ac_b_i-001",
+    "alias": "A2BC2_hP5_187_ac_b_i-001",
+    "title": "Ti$_{2}$InB$_{2}$ Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "B2InTi2",
     "prototype_tex": "B$_{2}$InTi$_{2}$",
-    "label": "A2BC2_hP5_187_ac_b_i-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP5",
+    "space_group_number": 187,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z4"
@@ -13,17 +23,8 @@
         2.57294,
         0.1982
     ],
-    "strukturbericht": null,
-    "title": "Ti$_{2}$InB$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC2_hP5_187_ac_b_i-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hP5",
-    "space_group_number": 187,
-    "comments": "(Wang, 2019) synthesized Ti$_{2}$InB$_{2}$ and found it was in space group $P\\overline{6}m2$ \\#187, but did not give experimental positions of the atoms.  Instead we use their computational results. \n We shifted the origin of the (Wang, 2019) primitive cell so that one of the boron atoms is at the origin.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "none"
+    "comments": "(Wang, 2019) synthesized Ti$_{2}$InB$_{2}$ and found it was in space group $P\\overline{6}m2$ \\#187, but did not give experimental positions of the atoms.  Instead we use their computational results. \n We shifted the origin of the (Wang, 2019) primitive cell so that one of the boron atoms is at the origin."
 }

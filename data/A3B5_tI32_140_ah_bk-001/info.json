@@ -1,9 +1,19 @@
 {
     "uid": "4K4U",
+    "label": "A3B5_tI32_140_ah_bk-001",
+    "alias": "A3B5_tI32_140_ah_bk",
+    "title": "W$_{5}$Si$_{3}$ ($D8_{m}$) Structure",
+    "icsd": "73331",
+    "ccdc": null,
     "prototype": "Si3W5",
     "prototype_tex": "Si$_{3}$W$_{5}$",
-    "label": "A3B5_tI32_140_ah_bk-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tI32",
+    "space_group_number": 140,
+    "strukturbericht": "D8_m",
+    "strukturbericht_tex": "$D8_{m}$",
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -17,18 +27,8 @@
         0.074,
         0.223
     ],
-    "strukturbericht": "D8_m",
-    "title": "W$_{5}$Si$_{3}$ ($D8_{m}$) Structure",
-    "part": 2,
-    "legacy": false,
-    "strukturbericht_tex": "$D8_{m}$",
     "compounds": {},
-    "alias": "A3B5_tI32_140_ah_bk",
-    "number_of_species": 2,
-    "pearson_symbol": "tI32",
-    "space_group_number": 140,
-    "comments": "(Pearson, 1958) refers to this as the ``T1 phase.'' \n Removing the atoms from the (4b) site transforms this into the \\href{current_web_home_dir/AB6_tI28_140_a_hk-001}{$D2_{c}$ U$_{6}$Mn structure} or the \\href{current_web_home_dir/A2BC4_tI28_140_h_a_k-001}{V$_{4}$SiSb$_{2}$ structure}.",
+    "legacy": false,
     "notes": "$D8_{m}$",
-    "ccdc": null,
-    "icsd": "73331"
+    "comments": "(Pearson, 1958) refers to this as the ``T1 phase.'' \n Removing the atoms from the (4b) site transforms this into the \\href{current_web_home_dir/AB6_tI28_140_a_hk-001}{$D2_{c}$ U$_{6}$Mn structure} or the \\href{current_web_home_dir/A2BC4_tI28_140_h_a_k-001}{V$_{4}$SiSb$_{2}$ structure}."
 }

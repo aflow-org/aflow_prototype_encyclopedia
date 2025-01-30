@@ -1,9 +1,19 @@
 {
     "uid": "SHYT",
+    "label": "AB_hP4_194_c_d-001",
+    "alias": "AB_hP4_194_c_d",
+    "title": "BN ($B_{k}$) Structure",
+    "icsd": "24644",
+    "ccdc": null,
     "prototype": "BN",
     "prototype_tex": "BN",
-    "label": "AB_hP4_194_c_d-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP4",
+    "space_group_number": 194,
+    "strukturbericht": "B_k",
+    "strukturbericht_tex": "$B_{k}$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a"
     ],
@@ -11,18 +21,8 @@
         2.504,
         2.66022
     ],
-    "strukturbericht": "B_k",
-    "title": "BN ($B_{k}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$B_{k}$",
     "compounds": {},
-    "alias": "AB_hP4_194_c_d",
-    "number_of_species": 2,
-    "pearson_symbol": "hP4",
-    "space_group_number": 194,
-    "comments": "This is the corrected boron nitride structure found by (Pease, 1950) and (Pease, 1952). See further discussion on the \\href{current_web_home_dir/AB_hP4_186_b_a-001}{$B12$} page.",
+    "legacy": false,
     "notes": "$B_{k}$",
-    "ccdc": null,
-    "icsd": "24644"
+    "comments": "This is the corrected boron nitride structure found by (Pease, 1950) and (Pease, 1952). See further discussion on the \\href{current_web_home_dir/AB_hP4_186_b_a-001}{$B12$} page."
 }

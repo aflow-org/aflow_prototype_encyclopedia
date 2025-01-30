@@ -1,9 +1,19 @@
 {
     "uid": "06EV",
+    "label": "A3BC2_oP48_50_3m_m_2m-001",
+    "alias": "A3BC2_oP48_50_3m_m_2m",
+    "title": "$\\alpha$-Tl$_{2}$TeO$_{3}$ Structure",
+    "icsd": "240675",
+    "ccdc": null,
     "prototype": "O3TeTl2",
     "prototype_tex": "O$_{3}$TeTl$_{2}$",
-    "label": "A3BC2_oP48_50_3m_m_2m-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP48",
+    "space_group_number": 50,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -49,17 +59,8 @@
         0.00412,
         0.2439
     ],
-    "strukturbericht": null,
-    "title": "$\\alpha$-Tl$_{2}$TeO$_{3}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3BC2_oP48_50_3m_m_2m",
-    "number_of_species": 3,
-    "pearson_symbol": "oP48",
-    "space_group_number": 50,
-    "comments": "This is the high-temperature structure of Tl$_{2}$TeO$_{3}$.  Below 440$^{\\circ}$C it transforms into the monoclinic \\href{current_web_home_dir/A3BC2_mP24_14_3e_e_2e-001}{$\\beta $Tl$_{2}$TeO$_{3}$ structure}, but remains metastable at 25$^{\\circ}$C, where this data was taken. (Rieger, 2007).",
+    "legacy": false,
     "notes": "$\\alpha$-Tl$_{2}$TeO$_{3}$",
-    "ccdc": null,
-    "icsd": "240675"
+    "comments": "This is the high-temperature structure of Tl$_{2}$TeO$_{3}$.  Below 440$^{\\circ}$C it transforms into the monoclinic \\href{current_web_home_dir/A3BC2_mP24_14_3e_e_2e-001}{$\\beta $Tl$_{2}$TeO$_{3}$ structure}, but remains metastable at 25$^{\\circ}$C, where this data was taken. (Rieger, 2007)."
 }

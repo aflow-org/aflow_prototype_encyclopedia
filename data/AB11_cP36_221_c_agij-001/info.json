@@ -1,9 +1,19 @@
 {
     "uid": "2EDD",
+    "label": "AB11_cP36_221_c_agij-001",
+    "alias": "AB11_cP36_221_c_agij",
+    "title": "BaHg$_{11}$ ($D2_{e}$) Structure",
+    "icsd": "58656",
+    "ccdc": null,
     "prototype": "BaHg11",
     "prototype_tex": "BaHg$_{11}$",
-    "label": "AB11_cP36_221_c_agij-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cP36",
+    "space_group_number": 221,
+    "strukturbericht": "D2_e",
+    "strukturbericht_tex": "$D2_{e}$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "x3",
         "y4",
@@ -15,18 +25,8 @@
         0.225,
         0.115
     ],
-    "strukturbericht": "D2_e",
-    "title": "BaHg$_{11}$ ($D2_{e}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$D2_{e}$",
     "compounds": {},
-    "alias": "AB11_cP36_221_c_agij",
-    "number_of_species": 2,
-    "pearson_symbol": "cP36",
-    "space_group_number": 221,
-    "comments": "(Pearson, 1972) state that this structure occurs in ``a number of Hg and Cd phases with Group I or IIA metals or rare earths.''  We lists those which we have found in the literature.",
+    "legacy": false,
     "notes": "$D2_{e}$",
-    "ccdc": null,
-    "icsd": "58656"
+    "comments": "(Pearson, 1972) state that this structure occurs in ``a number of Hg and Cd phases with Group I or IIA metals or rare earths.''  We lists those which we have found in the literature."
 }

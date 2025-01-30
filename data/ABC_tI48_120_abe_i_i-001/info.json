@@ -1,9 +1,19 @@
 {
     "uid": "ZUB8",
+    "label": "ABC_tI48_120_abe_i_i-001",
+    "alias": "ABC_tI48_120_abe_i_i-001",
+    "title": "$\\alpha$-MgAgSb Structure",
+    "icsd": "187151",
+    "ccdc": null,
     "prototype": "AgMgSb",
     "prototype_tex": "AgMgSb",
-    "label": "ABC_tI48_120_abe_i_i-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tI48",
+    "space_group_number": 120,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -25,17 +35,8 @@
         0.4749,
         0.1203
     ],
-    "strukturbericht": null,
-    "title": "$\\alpha$-MgAgSb Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC_tI48_120_abe_i_i-001",
-    "number_of_species": 3,
-    "pearson_symbol": "tI48",
-    "space_group_number": 120,
-    "comments": "MgAgSb is found in three forms (Kirkham, 2012; Mi, 2017): \\begin{itemize} \\item $\\alpha$-MgAgSb (this phase), the tetragonal ground state phase. \\item $\\beta$-MgAgSb takes on the \\href{current_web_home_dir/ABC_tP6_129_c_a_c-001}{matlockite ($E0_{1}$ structure}, which can be considered as a ternary form of \\href{current_web_home_dir/A2B_tP6_129_ac_c-001}{Cu$_{2}$Sb ($C38$)}. \\item $\\gamma$-MgAgSb is in the cubic \\href{current_web_home_dir/ABC_cF12_216_a_c_b-001}{half-Heusler ($C1_{b}$)} structure. \\end{itemize} ~ \\vspace{-.25in} \n The range of stability of these structures is rather uncertain.  The $\\alpha$-phase exists below 300$^{\\circ}$C, the $\\beta$-phase is observed in the range 300-395$^{\\circ}$C, and $\\gamma$-MgAgSb is found at all temperatures above 27$^{\\circ}$C.",
+    "legacy": false,
     "notes": "$\\alpha$-MgAgSb",
-    "ccdc": null,
-    "icsd": "187151"
+    "comments": "MgAgSb is found in three forms (Kirkham, 2012; Mi, 2017): \\begin{itemize} \\item $\\alpha$-MgAgSb (this phase), the tetragonal ground state phase. \\item $\\beta$-MgAgSb takes on the \\href{current_web_home_dir/ABC_tP6_129_c_a_c-001}{matlockite ($E0_{1}$ structure}, which can be considered as a ternary form of \\href{current_web_home_dir/A2B_tP6_129_ac_c-001}{Cu$_{2}$Sb ($C38$)}. \\item $\\gamma$-MgAgSb is in the cubic \\href{current_web_home_dir/ABC_cF12_216_a_c_b-001}{half-Heusler ($C1_{b}$)} structure. \\end{itemize} ~ \\vspace{-.25in} \n The range of stability of these structures is rather uncertain.  The $\\alpha$-phase exists below 300$^{\\circ}$C, the $\\beta$-phase is observed in the range 300-395$^{\\circ}$C, and $\\gamma$-MgAgSb is found at all temperatures above 27$^{\\circ}$C."
 }

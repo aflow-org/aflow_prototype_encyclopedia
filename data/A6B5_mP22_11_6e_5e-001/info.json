@@ -1,9 +1,19 @@
 {
     "uid": "H63U",
+    "label": "A6B5_mP22_11_6e_5e-001",
+    "alias": "A6B5_mP22_11_6e_5e-001",
+    "title": "Pt$_{6}$Si$_{5}$ Structure",
+    "icsd": "43283",
+    "ccdc": null,
     "prototype": "Pt6Si5",
     "prototype_tex": "Pt$_{6}$Si$_{5}$",
-    "label": "A6B5_mP22_11_6e_5e-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mP22",
+    "space_group_number": 11,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -59,17 +69,8 @@
         0.748,
         0.574
     ],
-    "strukturbericht": null,
-    "title": "Pt$_{6}$Si$_{5}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A6B5_mP22_11_6e_5e-001",
-    "number_of_species": 2,
-    "pearson_symbol": "mP22",
-    "space_group_number": 11,
-    "comments": "Our rendition of this structure swaps the x- and z-axis used by (Gohle, 1964).",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "43283"
+    "comments": "Our rendition of this structure swaps the x- and z-axis used by (Gohle, 1964)."
 }

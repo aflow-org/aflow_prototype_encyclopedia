@@ -1,9 +1,19 @@
 {
     "uid": "1TUW",
+    "label": "A2B_tI12_141_e_a-001",
+    "alias": "A2B_tI12_141_e_a",
+    "title": "Anatase (TiO$_{2}$, $C5$) Structure",
+    "icsd": "63711",
+    "ccdc": null,
     "prototype": "O2Ti",
     "prototype_tex": "O$_{2}$Ti",
-    "label": "A2B_tI12_141_e_a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tI12",
+    "space_group_number": 141,
+    "strukturbericht": "C5",
+    "strukturbericht_tex": "$C5$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2"
@@ -13,18 +23,8 @@
         2.51361,
         0.0836
     ],
-    "strukturbericht": "C5",
-    "title": "Anatase (TiO$_{2}$, $C5$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$C5$",
     "compounds": {},
-    "alias": "A2B_tI12_141_e_a",
-    "number_of_species": 2,
-    "pearson_symbol": "tI12",
-    "space_group_number": 141,
-    "comments": "TiO$_{2}$ can also be found as \\href{current_web_home_dir/A2B_tP6_136_f_a-001}{rutile ($C4$)} and \\href{current_web_home_dir/A2B_oP24_61_2c_c-001}{brookite ($C21$)}. \n (Howard, 1991) gives the positions of the atoms in terms of setting 1 of space group $I4_{1}/amd$ \\#141. Previously, when we translated this to our standard setting 2 we entered an incorrect position for the oxygen z coordinate, giving incorrect Ti-O bond lengths and angles. This has been corrected in the current version of the CIF and the POSCAR.",
+    "legacy": false,
     "notes": "$C5$, Anatase",
-    "ccdc": null,
-    "icsd": "63711"
+    "comments": "TiO$_{2}$ can also be found as \\href{current_web_home_dir/A2B_tP6_136_f_a-001}{rutile ($C4$)} and \\href{current_web_home_dir/A2B_oP24_61_2c_c-001}{brookite ($C21$)}. \n (Howard, 1991) gives the positions of the atoms in terms of setting 1 of space group $I4_{1}/amd$ \\#141. Previously, when we translated this to our standard setting 2 we entered an incorrect position for the oxygen z coordinate, giving incorrect Ti-O bond lengths and angles. This has been corrected in the current version of the CIF and the POSCAR."
 }

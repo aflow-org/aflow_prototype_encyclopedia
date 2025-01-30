@@ -1,9 +1,19 @@
 {
     "uid": "LS62",
+    "label": "A2B2C_tI10_139_d_e_a-003",
+    "alias": "A2B2C_tI10_139_d_e_a",
+    "title": "ThCr$_{2}$Si$_{2}$ Structure",
+    "icsd": "18157",
+    "ccdc": null,
     "prototype": "Cr2Si2Th",
     "prototype_tex": "Cr$_{2}$Si$_{2}$Th",
-    "label": "A2B2C_tI10_139_d_e_a-003",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tI10",
+    "space_group_number": 139,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3"
@@ -13,17 +23,8 @@
         2.61613,
         0.374
     ],
-    "strukturbericht": null,
-    "title": "ThCr$_{2}$Si$_{2}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B2C_tI10_139_d_e_a",
-    "number_of_species": 3,
-    "pearson_symbol": "tI10",
-    "space_group_number": 139,
-    "comments": "(Shatruk, 2019) refers to this as ``the perovskite of intermetallics.'' The list of compounds below is by no means complete. \n This is a ternary form of the \\href{current_web_home_dir/A4B_tI10_139_de_a-001}{$D1_{3}$ (BaAl$_{4}$) structure}. \n The structures generally identified as having prototype ThCr$_{2}$Si$_{2}$ actually divide up into two distinct regions, based on $c/a$ ratio.  We assign structures with $c/a \\le 3$ to the ThCr$_{2}$Si$_{2}$ structure, and those with $c/a > 3$ to the \\href{current_web_home_dir/A2B2C_tI10_139_d_e_a-002}{TlCo$_{2}$S$_{2}$ structure}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "18157"
+    "comments": "(Shatruk, 2019) refers to this as ``the perovskite of intermetallics.'' The list of compounds below is by no means complete. \n This is a ternary form of the \\href{current_web_home_dir/A4B_tI10_139_de_a-001}{$D1_{3}$ (BaAl$_{4}$) structure}. \n The structures generally identified as having prototype ThCr$_{2}$Si$_{2}$ actually divide up into two distinct regions, based on $c/a$ ratio.  We assign structures with $c/a \\le 3$ to the ThCr$_{2}$Si$_{2}$ structure, and those with $c/a > 3$ to the \\href{current_web_home_dir/A2B2C_tI10_139_d_e_a-002}{TlCo$_{2}$S$_{2}$ structure}."
 }

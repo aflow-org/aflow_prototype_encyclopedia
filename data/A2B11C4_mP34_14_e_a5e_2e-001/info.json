@@ -1,9 +1,19 @@
 {
     "uid": "1LFJ",
+    "label": "A2B11C4_mP34_14_e_a5e_2e-001",
+    "alias": "A2B11C4_mP34_14_e_a5e_2e-001",
+    "title": "Cr$_{2}$Te$_{4}$O$_{11}$",
+    "icsd": "1",
+    "ccdc": null,
     "prototype": "Cr2O11Te4",
     "prototype_tex": "Cr$_{2}$O$_{11}$Te$_{4}$",
-    "label": "A2B11C4_mP34_14_e_a5e_2e-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mP34",
+    "space_group_number": 14,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -63,17 +73,8 @@
         0.8618,
         0.0842
     ],
-    "strukturbericht": null,
-    "title": "Cr$_{2}$Te$_{4}$O$_{11}$",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B11C4_mP34_14_e_a5e_2e-001",
-    "number_of_species": 3,
-    "pearson_symbol": "mP34",
-    "space_group_number": 14,
-    "comments": "(Meunier, 1976) set z$_{6}$ = 0.624, but the ICSD entry sets z$_{6}$ = 0.644.  The former choice agrees with the values in the paper, so we use it. \n (Meunier, 1976) put what we call the O I atom on the (2d) Wyckoff position, (1/2 0 1/2).  The AFLOW label scheme moves this to the (2a) site.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "1"
+    "comments": "(Meunier, 1976) set z$_{6}$ = 0.624, but the ICSD entry sets z$_{6}$ = 0.644.  The former choice agrees with the values in the paper, so we use it. \n (Meunier, 1976) put what we call the O I atom on the (2d) Wyckoff position, (1/2 0 1/2).  The AFLOW label scheme moves this to the (2a) site."
 }

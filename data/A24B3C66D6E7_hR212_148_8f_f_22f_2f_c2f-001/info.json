@@ -1,9 +1,19 @@
 {
     "uid": "VMDG",
+    "label": "A24B3C66D6E7_hR212_148_8f_f_22f_2f_c2f-001",
+    "alias": "A24B3C66D6E7_hR212_148_8f_f_22f_2f_c2f-001",
+    "title": "Sn$_{14}$Cl$_{6}$(CH$_{2}$SiMe$_{3}$)$_{12}$ Structure",
+    "icsd": null,
+    "ccdc": "1589223",
     "prototype": "C24Cl3H66Si6Sn7",
     "prototype_tex": "C$_{24}$Cl$_{3}$H$_{66}$Si$_{6}$Sn$_{7}$",
-    "label": "A24B3C66D6E7_hR212_148_8f_f_22f_2f_c2f-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "hR212",
+    "space_group_number": 148,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -223,17 +233,8 @@
         0.51712,
         0.6433
     ],
-    "strukturbericht": null,
-    "title": "Sn$_{14}$Cl$_{6}$(CH$_{2}$SiMe$_{3}$)$_{12}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A24B3C66D6E7_hR212_148_8f_f_22f_2f_c2f-001",
-    "number_of_species": 5,
-    "pearson_symbol": "hR212",
-    "space_group_number": 148,
-    "ccdc": "1589223",
-    "comments": "Me == methyl group == CH$_{3}$",
+    "legacy": false,
     "notes": null,
-    "icsd": null
+    "comments": "Me == methyl group == CH$_{3}$"
 }

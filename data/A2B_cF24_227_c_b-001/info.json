@@ -1,26 +1,26 @@
 {
     "uid": "8YL7",
+    "label": "A2B_cF24_227_c_b-001",
+    "alias": "A2B_cF24_227_d_a",
+    "title": "Cu$_{2}$Mg Cubic Laves ($C15$) Structure",
+    "icsd": "108388",
+    "ccdc": null,
     "prototype": "Cu2Mg",
     "prototype_tex": "Cu$_{2}$Mg",
-    "label": "A2B_cF24_227_c_b-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cF24",
+    "space_group_number": 227,
+    "strukturbericht": "C15",
+    "strukturbericht_tex": "$C15$",
+    "part": 1,
+    "parameter_symbols": [
         "a"
     ],
     "parameter_values": [
         7.02
     ],
-    "strukturbericht": "C15",
-    "title": "Cu$_{2}$Mg Cubic Laves ($C15$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$C15$",
     "compounds": {},
-    "alias": "A2B_cF24_227_d_a",
-    "number_of_species": 2,
-    "pearson_symbol": "cF24",
-    "space_group_number": 227,
+    "legacy": false,
     "notes": "$C15$, Cubic Laves",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "108388"
+    "comments": null
 }

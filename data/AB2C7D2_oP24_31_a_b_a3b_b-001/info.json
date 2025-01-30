@@ -1,9 +1,19 @@
 {
     "uid": "WL10",
+    "label": "AB2C7D2_oP24_31_a_b_a3b_b-001",
+    "alias": "AB2C7D2_oP24_31_a_b_a3b_b-001",
+    "title": "Clinobarylite (BaBe$_{2}$Si$_{2}$O$_{7}$) Structure",
+    "icsd": "263133",
+    "ccdc": null,
     "prototype": "BaBe2O7Si2",
     "prototype_tex": "BaBe$_{2}$O$_{7}$Si$_{2}$",
-    "label": "AB2C7D2_oP24_31_a_b_a3b_b-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oP24",
+    "space_group_number": 31,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -51,17 +61,8 @@
         0.67528,
         0.0692
     ],
-    "strukturbericht": null,
-    "title": "Clinobarylite (BaBe$_{2}$Si$_{2}$O$_{7}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2C7D2_oP24_31_a_b_a3b_b-001",
-    "number_of_species": 4,
-    "pearson_symbol": "oP24",
-    "space_group_number": 31,
-    "comments": "This is a quaternary form of the \\href{current_web_home_dir/A4B7C_oP24_31_2b_a3b_a-001}{B$_{4}$SrO$_{7}$ structure}.",
+    "legacy": false,
     "notes": "Clinobarylite",
-    "ccdc": null,
-    "icsd": "263133"
+    "comments": "This is a quaternary form of the \\href{current_web_home_dir/A4B7C_oP24_31_2b_a3b_a-001}{B$_{4}$SrO$_{7}$ structure}."
 }

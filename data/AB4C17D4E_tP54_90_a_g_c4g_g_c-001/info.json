@@ -1,9 +1,19 @@
 {
     "uid": "61ZR",
+    "label": "AB4C17D4E_tP54_90_a_g_c4g_g_c-001",
+    "alias": "AB4C17D4E_tP54_90_a_g_c4g_g_c",
+    "title": "BaCu$_{4}$[VO][PO$_{4}$]$_{4}$ Structure",
+    "icsd": "406667",
+    "ccdc": null,
     "prototype": "BaCu4O17P4V",
     "prototype_tex": "BaCu$_{4}$O$_{17}$P$_{4}$V",
-    "label": "AB4C17D4E_tP54_90_a_g_c4g_g_c-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "tP54",
+    "space_group_number": 90,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -51,17 +61,8 @@
         0.8114,
         0.2609
     ],
-    "strukturbericht": null,
-    "title": "BaCu$_{4}$[VO][PO$_{4}$]$_{4}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB4C17D4E_tP54_90_a_g_c4g_g_c",
-    "number_of_species": 5,
-    "pearson_symbol": "tP54",
-    "space_group_number": 90,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "406667"
+    "comments": null
 }

@@ -1,9 +1,19 @@
 {
     "uid": "XFHX",
+    "label": "AB4_tP10_124_a_m-001",
+    "alias": "AB4_tP10_124_a_m",
+    "title": "Room Temperature NbTe$_{4}$ Structure",
+    "icsd": "43282",
+    "ccdc": null,
     "prototype": "NbTe4",
     "prototype_tex": "NbTe$_{4}$",
-    "label": "AB4_tP10_124_a_m-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tP10",
+    "space_group_number": 124,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -15,17 +25,8 @@
         0.1425,
         0.3361
     ],
-    "strukturbericht": null,
-    "title": "Room Temperature NbTe$_{4}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB4_tP10_124_a_m",
-    "number_of_species": 2,
-    "pearson_symbol": "tP10",
-    "space_group_number": 124,
-    "comments": "This is the room-temperature phase of NbTe4$_{4}$.  Above 520$^\\circ$C it transforms into \\href{current_web_home_dir/AB4_tP10_103_a_d-001}{a non-centrosymmetric structure}.",
+    "legacy": false,
     "notes": "RT",
-    "ccdc": null,
-    "icsd": "43282"
+    "comments": "This is the room-temperature phase of NbTe4$_{4}$.  Above 520$^\\circ$C it transforms into \\href{current_web_home_dir/AB4_tP10_103_a_d-001}{a non-centrosymmetric structure}."
 }

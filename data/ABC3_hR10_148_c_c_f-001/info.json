@@ -1,9 +1,19 @@
 {
     "uid": "CFP9",
+    "label": "ABC3_hR10_148_c_c_f-001",
+    "alias": "ABC3_hR10_148_c_c_f-001",
+    "title": "FePSe$_{3}$ Structure",
+    "icsd": "86272",
+    "ccdc": null,
     "prototype": "FePSe3",
     "prototype_tex": "FePSe$_{3}$",
-    "label": "ABC3_hR10_148_c_c_f-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hR10",
+    "space_group_number": 148,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -21,17 +31,8 @@
         0.2408,
         0.5917
     ],
-    "strukturbericht": null,
-    "title": "FePSe$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC3_hR10_148_c_c_f-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hR10",
-    "space_group_number": 148,
-    "comments": "We use the data taken by (Wiedenmann, 1981) at 15K, while the ICSD entry used their data at 154K. \n (Klingen, 1973) placed this structure in the non-centrosymmetric \\href{current_web_home_dir/ABC3_hR10_146_2a_2a_2b-001}{space group $R3$ \\#146}. \n For quaternary compounds in this structure, see \\href{current_web_home_dir/A2B6CD_hR10_146_2a_2b_a_a-001}{Li$_{2}$ZrTeO$_{6}$}. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "86272"
+    "comments": "We use the data taken by (Wiedenmann, 1981) at 15K, while the ICSD entry used their data at 154K. \n (Klingen, 1973) placed this structure in the non-centrosymmetric \\href{current_web_home_dir/ABC3_hR10_146_2a_2a_2b-001}{space group $R3$ \\#146}. \n For quaternary compounds in this structure, see \\href{current_web_home_dir/A2B6CD_hR10_146_2a_2b_a_a-001}{Li$_{2}$ZrTeO$_{6}$}. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

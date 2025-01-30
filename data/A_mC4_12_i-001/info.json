@@ -1,9 +1,19 @@
 {
     "uid": "M3W6",
+    "label": "A_mC4_12_i-001",
+    "alias": "A_mC4_12_i",
+    "title": "$\\alpha$-O$_{2}$ Structure",
+    "icsd": "173933",
+    "ccdc": null,
     "prototype": "O",
     "prototype_tex": "O",
-    "label": "A_mC4_12_i-001",
-    "parameter_symbol": [
+    "number_of_species": 1,
+    "pearson_symbol": "mC4",
+    "space_group_number": 12,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -19,17 +29,8 @@
         0.894,
         0.961
     ],
-    "strukturbericht": null,
-    "title": "$\\alpha$-O$_{2}$ Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "A_mC4_12_i",
-    "number_of_species": 1,
-    "pearson_symbol": "mC4",
-    "space_group_number": 12,
+    "legacy": false,
     "notes": "$\\alpha$-O$_{2}$",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "173933"
+    "comments": null
 }

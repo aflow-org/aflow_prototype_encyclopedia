@@ -1,9 +1,19 @@
 {
     "uid": "2691",
+    "label": "A2B_mC24_12_4i_2i-004",
+    "alias": "A2B_mC24_12_4i_2i-004",
+    "title": "Nb$_{2}$Se Structure",
+    "icsd": "26183",
+    "ccdc": null,
     "prototype": "Nb2Se",
     "prototype_tex": "Nb$_{2}$Se",
-    "label": "A2B_mC24_12_4i_2i-004",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC24",
+    "space_group_number": 12,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -39,17 +49,8 @@
         0.5747,
         0.1843
     ],
-    "strukturbericht": null,
-    "title": "Nb$_{2}$Se Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B_mC24_12_4i_2i-004",
-    "number_of_species": 2,
-    "pearson_symbol": "mC24",
-    "space_group_number": 12,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "26183"
+    "comments": null
 }

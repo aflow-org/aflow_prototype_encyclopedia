@@ -1,9 +1,19 @@
 {
     "uid": "X0K9",
+    "label": "A2B3C8_oP26_55_h_ag_2g2h-001",
+    "alias": "A2B3C8_oP26_55_h_ag_2g2h",
+    "title": "Nb$_{2}$Pd$_{3}$Se$_{8}$ Structure",
+    "icsd": "49523",
+    "ccdc": null,
     "prototype": "Nb2Pd3Se8",
     "prototype_tex": "Nb$_{2}$Pd$_{3}$Se$_{8}$",
-    "label": "A2B3C8_oP26_55_h_ag_2g2h-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP26",
+    "space_group_number": 55,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -37,17 +47,8 @@
         0.28335,
         0.25032
     ],
-    "strukturbericht": null,
-    "title": "Nb$_{2}$Pd$_{3}$Se$_{8}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B3C8_oP26_55_h_ag_2g2h",
-    "number_of_species": 3,
-    "pearson_symbol": "oP26",
-    "space_group_number": 55,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "49523"
+    "comments": null
 }

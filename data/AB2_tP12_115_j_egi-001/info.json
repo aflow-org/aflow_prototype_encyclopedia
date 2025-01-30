@@ -1,9 +1,19 @@
 {
     "uid": "RJ86",
+    "label": "AB2_tP12_115_j_egi-001",
+    "alias": "AB2_tP12_115_j_egi",
+    "title": "Orange (averaged) HgI$_{2}$ Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "HgI2",
     "prototype_tex": "HgI$_{2}$",
-    "label": "AB2_tP12_115_j_egi-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tP12",
+    "space_group_number": 115,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -21,17 +31,8 @@
         0.24918,
         0.74945
     ],
-    "strukturbericht": null,
-    "title": "Orange (averaged) HgI$_{2}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2_tP12_115_j_egi",
-    "number_of_species": 2,
-    "pearson_symbol": "tP12",
-    "space_group_number": 115,
-    "comments": "HgI$_{2}$ can be found in a variety of forms (Gumi\\'{n}ski, 1997): \\begin{itemize} \\item The ground state, \\href{current_web_home_dir/AB2_tP6_137_a_d-001}{coccinite}, also known as red or $\\alpha$-HgI$_{2}$ and given the {\\em Strukturbericht} designation $C13$.  It is stable up to 135$^\\circ$C. \\item At higher temperatures this transforms into yellow or $\\beta$-HgI$_{2}$ in the \\href{current_web_home_dir/A2B_oC12_36_2a_a-001}{HgBr$_{2}$ ($C24$) structure}.  This is stable up to the melting point at 258$^\\circ$C. \\item (Schwarzenbach, 1969) studied the metastable \\href{current_web_home_dir/AB2_tI48_141_h_2eg-001}{orange HgI$_{2}$} body-centered tetragonal ($I4_{1}/amd$ \\#141) phase. This structure was refined by (Hostettler, 2002). \\item (Hostettler, 2002) also found a \\href{current_web_home_dir/AB2_tP24_137_g_cdf-001}{second orange HgI$_{2}$ phase} in a simple tetragonal ($P4_{2}/nmc$ \\#137) cell. \\item The last two structures differ by stacking order. (Hostettler, 2002) used them to produce an \\href{current_web_home_dir/AB2_tP12_115_j_egi-001}{averaged   orange HgI$_{2}$ structure} (this structure), space group $P\\overline{4}m2$ \\#115. \\end{itemize} ~ \\vspace{-.25in} \n This structure is an ``average'' of the Orange I and Orange II structures.  The averaging procedure places the iodine I atoms only 0.36{\\AA} apart, so this is not a physical structure.  We retain it as an example of a structure in space group $P\\overline{4}m2$ \\#115.",
+    "legacy": false,
     "notes": "`Averaged' Orange HgI$_{2}$",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "HgI$_{2}$ can be found in a variety of forms (Gumi\\'{n}ski, 1997): \\begin{itemize} \\item The ground state, \\href{current_web_home_dir/AB2_tP6_137_a_d-001}{coccinite}, also known as red or $\\alpha$-HgI$_{2}$ and given the {\\em Strukturbericht} designation $C13$.  It is stable up to 135$^\\circ$C. \\item At higher temperatures this transforms into yellow or $\\beta$-HgI$_{2}$ in the \\href{current_web_home_dir/A2B_oC12_36_2a_a-001}{HgBr$_{2}$ ($C24$) structure}.  This is stable up to the melting point at 258$^\\circ$C. \\item (Schwarzenbach, 1969) studied the metastable \\href{current_web_home_dir/AB2_tI48_141_h_2eg-001}{orange HgI$_{2}$} body-centered tetragonal ($I4_{1}/amd$ \\#141) phase. This structure was refined by (Hostettler, 2002). \\item (Hostettler, 2002) also found a \\href{current_web_home_dir/AB2_tP24_137_g_cdf-001}{second orange HgI$_{2}$ phase} in a simple tetragonal ($P4_{2}/nmc$ \\#137) cell. \\item The last two structures differ by stacking order. (Hostettler, 2002) used them to produce an \\href{current_web_home_dir/AB2_tP12_115_j_egi-001}{averaged   orange HgI$_{2}$ structure} (this structure), space group $P\\overline{4}m2$ \\#115. \\end{itemize} ~ \\vspace{-.25in} \n This structure is an ``average'' of the Orange I and Orange II structures.  The averaging procedure places the iodine I atoms only 0.36{\\AA} apart, so this is not a physical structure.  We retain it as an example of a structure in space group $P\\overline{4}m2$ \\#115."
 }

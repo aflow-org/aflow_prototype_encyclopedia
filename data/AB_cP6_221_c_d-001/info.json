@@ -1,25 +1,26 @@
 {
     "uid": "H75X",
+    "label": "AB_cP6_221_c_d-001",
+    "alias": "AB_cP6_221_c_d",
+    "title": "NbO Structure",
+    "icsd": "14338",
+    "ccdc": null,
     "prototype": "NbO",
     "prototype_tex": "NbO",
-    "label": "AB_cP6_221_c_d-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cP6",
+    "space_group_number": 221,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a"
     ],
     "parameter_values": [
         4.2101
     ],
-    "strukturbericht": null,
-    "title": "NbO Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_cP6_221_c_d",
-    "number_of_species": 2,
-    "pearson_symbol": "cP6",
-    "space_group_number": 221,
-    "comments": "This is the \\href{current_web_home_dir/AB_cF8_225_a_b-001}{NaCl ($B1$) structure} with 25\\% ordered vacancies on both the Na and Cl sites. \n At times we incorrectly referred to this structure as NaO.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "14338"
+    "comments": "This is the \\href{current_web_home_dir/AB_cF8_225_a_b-001}{NaCl ($B1$) structure} with 25\\% ordered vacancies on both the Na and Cl sites. \n At times we incorrectly referred to this structure as NaO."
 }

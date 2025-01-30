@@ -1,9 +1,19 @@
 {
     "uid": "EHTG",
+    "label": "ABC_oP24_61_c_c_c-001",
+    "alias": "ABC_oP24_61_c_c_c",
+    "title": "COCl Structure",
+    "icsd": null,
+    "ccdc": "1226359",
     "prototype": "CClO",
     "prototype_tex": "CClO",
-    "label": "ABC_oP24_61_c_c_c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP24",
+    "space_group_number": 61,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -31,17 +41,8 @@
         0.23,
         0.05
     ],
-    "strukturbericht": null,
-    "title": "COCl Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC_oP24_61_c_c_c",
-    "number_of_species": 3,
-    "pearson_symbol": "oP24",
-    "space_group_number": 61,
-    "ccdc": "1226359",
-    "comments": "(Groth, 1962) are not confident about the atomic positions, saying that ``The computed values for the oxalyl chloride molecule \\dots [are probably] less reliable than those listed for the bromide molecule [COBr].'' In fact, we have not been able to reconcile their crystal structure for COBr with the distances between the atoms, so we have left that structure out of the database at this time.",
+    "legacy": false,
     "notes": null,
-    "icsd": null
+    "comments": "(Groth, 1962) are not confident about the atomic positions, saying that ``The computed values for the oxalyl chloride molecule \\dots [are probably] less reliable than those listed for the bromide molecule [COBr].'' In fact, we have not been able to reconcile their crystal structure for COBr with the distances between the atoms, so we have left that structure out of the database at this time."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "FV74",
+    "label": "AB4C_tP12_112_b_n_e-001",
+    "alias": "AB4C_tP12_112_b_n_e",
+    "title": "$\\alpha$-CuAlCl$_{4}$ Structure",
+    "icsd": "165608",
+    "ccdc": null,
     "prototype": "AlCl4Cu",
     "prototype_tex": "AlCl$_{4}$Cu",
-    "label": "AB4C_tP12_112_b_n_e-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP12",
+    "space_group_number": 112,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -17,17 +27,8 @@
         0.2761,
         0.6295
     ],
-    "strukturbericht": null,
-    "title": "$\\alpha$-CuAlCl$_{4}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB4C_tP12_112_b_n_e",
-    "number_of_species": 3,
-    "pearson_symbol": "tP12",
-    "space_group_number": 112,
-    "comments": "This is the ground state structure of CuAlCl$_{4}$.  There is also a metastable \\href{current_web_home_dir/AB4C_oP24_33_a_4a_a-001}{orthorhombic $\\beta$-CuAlCl$_{4}$ structure}. \n The lattice parameters and coordinates of the Wyckoff positions have been inferred from the distance and angular data in (Martin, 1998). \n The ICSD entry from (Martin, 1998) refers to the related compound $\\alpha$-CuAlBr$_{4}$.",
+    "legacy": false,
     "notes": "$\\alpha$-CuAlCl$_{4}$",
-    "ccdc": null,
-    "icsd": "165608"
+    "comments": "This is the ground state structure of CuAlCl$_{4}$.  There is also a metastable \\href{current_web_home_dir/AB4C_oP24_33_a_4a_a-001}{orthorhombic $\\beta$-CuAlCl$_{4}$ structure}. \n The lattice parameters and coordinates of the Wyckoff positions have been inferred from the distance and angular data in (Martin, 1998). \n The ICSD entry from (Martin, 1998) refers to the related compound $\\alpha$-CuAlBr$_{4}$."
 }

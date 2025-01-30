@@ -1,9 +1,19 @@
 {
     "uid": "JBSJ",
+    "label": "A2B3C2D2_tI18_139_e_ad_c_e-001",
+    "alias": "A2B3C2D2_tI18_139_e_ad_c_e-001",
+    "title": "Sr$_{2}$Mn$_{3}$As$_{2}$O$_{2}$ Structure",
+    "icsd": "81798",
+    "ccdc": null,
     "prototype": "As2Mn3O2Sr2",
     "prototype_tex": "As$_{2}$Mn$_{3}$O$_{2}$Sr$_{2}$",
-    "label": "A2B3C2D2_tI18_139_e_ad_c_e-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "tI18",
+    "space_group_number": 139,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z4",
@@ -15,17 +25,8 @@
         0.1696,
         0.4135
     ],
-    "strukturbericht": null,
-    "title": "Sr$_{2}$Mn$_{3}$As$_{2}$O$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B3C2D2_tI18_139_e_ad_c_e-001",
-    "number_of_species": 4,
-    "pearson_symbol": "tI18",
-    "space_group_number": 139,
-    "comments": "We use the data taken by (Brock, 1996) at 275K.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "81798"
+    "comments": "We use the data taken by (Brock, 1996) at 275K."
 }

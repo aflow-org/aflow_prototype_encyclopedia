@@ -1,9 +1,19 @@
 {
     "uid": "CG4B",
+    "label": "ABC2_hP8_164_d_d_cd-001",
+    "alias": "ABC2_hP8_164_d_d_cd-001",
+    "title": "Nukundamite [(Cu$_{1-x}$Fe$_{x}$)$_{4}$S$_{4}$] Structure",
+    "icsd": "100727",
+    "ccdc": null,
     "prototype": "Cu1-xFexS4",
     "prototype_tex": "Cu$_{1-x}$Fe$_{x}$S$_{4}$",
-    "label": "ABC2_hP8_164_d_d_cd-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP8",
+    "space_group_number": 164,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -19,17 +29,8 @@
         0.421,
         0.6391
     ],
-    "strukturbericht": null,
-    "title": "Nukundamite [(Cu$_{1-x}$Fe$_{x}$)$_{4}$S$_{4}$] Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC2_hP8_164_d_d_cd-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hP8",
-    "space_group_number": 164,
-    "comments": "The sample studied here has x = 0.1525.  Presumably the copper and iron atoms are evenly distributed on each site, but for illustrative purposes we label the first (2d) site ``Cu'' and the second ``Fe.'' In reality both sites have the approximate composition Cu$_{0.8475}$Fe$_{0.1525}$.",
+    "legacy": false,
     "notes": "Nukundamite",
-    "ccdc": null,
-    "icsd": "100727"
+    "comments": "The sample studied here has x = 0.1525.  Presumably the copper and iron atoms are evenly distributed on each site, but for illustrative purposes we label the first (2d) site ``Cu'' and the second ``Fe.'' In reality both sites have the approximate composition Cu$_{0.8475}$Fe$_{0.1525}$."
 }

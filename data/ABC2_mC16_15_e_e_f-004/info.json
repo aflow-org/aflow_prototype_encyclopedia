@@ -1,9 +1,19 @@
 {
     "uid": "G8C6",
+    "label": "ABC2_mC16_15_e_e_f-004",
+    "alias": "ABC2_mC16_15_e_e_f",
+    "title": "KFeS$_{2}$ ($F5_{a}$) Structure",
+    "icsd": "202380",
+    "ccdc": null,
     "prototype": "FeKS2",
     "prototype_tex": "FeKS$_{2}$",
-    "label": "ABC2_mC16_15_e_e_f-004",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mC16",
+    "space_group_number": 15,
+    "strukturbericht": "F5_a",
+    "strukturbericht_tex": "$F5_{a}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -25,18 +35,8 @@
         0.8598,
         0.2852
     ],
-    "strukturbericht": "F5_a",
-    "title": "KFeS$_{2}$ ($F5_{a}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$F5_{a}$",
     "compounds": {},
-    "alias": "ABC2_mC16_15_e_e_f",
-    "number_of_species": 3,
-    "pearson_symbol": "mC16",
-    "space_group_number": 15,
-    "comments": "This structure forms cages of Fe atoms surrounded by tetrahedra of S atoms.",
+    "legacy": false,
     "notes": "$F5_{a}$",
-    "ccdc": null,
-    "icsd": "202380"
+    "comments": "This structure forms cages of Fe atoms surrounded by tetrahedra of S atoms."
 }

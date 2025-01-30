@@ -1,9 +1,19 @@
 {
     "uid": "Z6KJ",
+    "label": "AB2C4D_oP32_34_ab_abc_4c_c-001",
+    "alias": "AB2C4D_oP32_34_ab_abc_4c_c-001",
+    "title": "K$_{2}$AgSbS$_{4}$ Structure",
+    "icsd": "82144",
+    "ccdc": null,
     "prototype": "AgK2S4Sb",
     "prototype_tex": "AgK$_{2}$S$_{4}$Sb",
-    "label": "AB2C4D_oP32_34_ab_abc_4c_c-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oP32",
+    "space_group_number": 34,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -57,17 +67,8 @@
         0.7254,
         0.4485
     ],
-    "strukturbericht": null,
-    "title": "K$_{2}$AgSbS$_{4}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2C4D_oP32_34_ab_abc_4c_c-001",
-    "number_of_species": 4,
-    "pearson_symbol": "oP32",
-    "space_group_number": 34,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "82144"
+    "comments": null
 }

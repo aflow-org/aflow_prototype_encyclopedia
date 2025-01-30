@@ -1,9 +1,19 @@
 {
     "uid": "67TW",
+    "label": "A4BC_oP24_55_4g_h_h-001",
+    "alias": "A4BC_oP24_55_4g_h_h-001",
+    "title": "YCrB$_{4}$ Structure",
+    "icsd": "101057",
+    "ccdc": null,
     "prototype": "B4CrY",
     "prototype_tex": "B$_{4}$CrY",
-    "label": "A4BC_oP24_55_4g_h_h-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP24",
+    "space_group_number": 55,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -37,17 +47,8 @@
         0.125,
         0.15
     ],
-    "strukturbericht": null,
-    "title": "YCrB$_{4}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4BC_oP24_55_4g_h_h-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oP24",
-    "space_group_number": 55,
-    "comments": "We have shifted the origin so that the boron atoms are in the $z = 0$ plane.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "101057"
+    "comments": "We have shifted the origin so that the boron atoms are in the $z = 0$ plane."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "QDL0",
+    "label": "A7B2_oP72_19_14a_4a-001",
+    "alias": "A7B2_oP72_19_14a_4a-001",
+    "title": "Re$_{2}$ (VII) O$_{7}$ Structure",
+    "icsd": "15217",
+    "ccdc": null,
     "prototype": "O7Re2",
     "prototype_tex": "O$_{7}$Re$_{2}$",
-    "label": "A7B2_oP72_19_14a_4a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP72",
+    "space_group_number": 19,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -121,17 +131,8 @@
         0.13646,
         0.808
     ],
-    "strukturbericht": null,
-    "title": "Re$_{2}$ (VII) O$_{7}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A7B2_oP72_19_14a_4a-001",
-    "number_of_species": 2,
-    "pearson_symbol": "oP72",
-    "space_group_number": 19,
-    "comments": "Nominally the rhenium atom has a +7 charge.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "15217"
+    "comments": "Nominally the rhenium atom has a +7 charge."
 }

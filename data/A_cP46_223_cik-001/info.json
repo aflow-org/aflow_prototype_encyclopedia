@@ -1,9 +1,19 @@
 {
     "uid": "VFEB",
+    "label": "A_cP46_223_cik-001",
+    "alias": "A_cP46_223_dik",
+    "title": "Si$_{46}$ Clathrate Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "Si",
     "prototype_tex": "Si",
-    "label": "A_cP46_223_cik-001",
-    "parameter_symbol": [
+    "number_of_species": 1,
+    "pearson_symbol": "cP46",
+    "space_group_number": 223,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "x2",
         "y3",
@@ -15,17 +25,8 @@
         0.3077,
         0.1172
     ],
-    "strukturbericht": null,
-    "title": "Si$_{46}$ Clathrate Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "A_cP46_223_dik",
-    "number_of_species": 1,
-    "pearson_symbol": "cP46",
-    "space_group_number": 223,
-    "comments": "Silicon clathrates are open structures of pentagonal dodecahedra connected so that all of the silicon atoms have sp3 bonding. In nature these structures are stabilized by alkali impurity atoms. This structure and the \\href{current_web_home_dir/A_cF136_227_aeg-001}{Si$_{34}$ structure} are proposed ``pure'' silicon clathrate structures. \n For more information about these structures and their possible stability, see (Adams, 1994). \n This is a theoretical description of a possible silicon clathrate crystal. (Pauling, 1952) showed that the oxygen atoms in Cl$_{2}$$\\cdot$10H$_{2}$O (ICSD 29340) have similar positions to the chlorine atoms in this structure.",
+    "legacy": false,
     "notes": "Clathrate",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "Silicon clathrates are open structures of pentagonal dodecahedra connected so that all of the silicon atoms have sp3 bonding. In nature these structures are stabilized by alkali impurity atoms. This structure and the \\href{current_web_home_dir/A_cF136_227_aeg-001}{Si$_{34}$ structure} are proposed ``pure'' silicon clathrate structures. \n For more information about these structures and their possible stability, see (Adams, 1994). \n This is a theoretical description of a possible silicon clathrate crystal. (Pauling, 1952) showed that the oxygen atoms in Cl$_{2}$$\\cdot$10H$_{2}$O (ICSD 29340) have similar positions to the chlorine atoms in this structure."
 }

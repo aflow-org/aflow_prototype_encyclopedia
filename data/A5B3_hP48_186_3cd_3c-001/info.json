@@ -1,9 +1,19 @@
 {
     "uid": "XPM6",
+    "label": "A5B3_hP48_186_3cd_3c-001",
+    "alias": "A5B3_hP48_186_3cd_3c-001",
+    "title": "Ca$_{5}$Pb$_{3}$ Structure",
+    "icsd": "58922",
+    "ccdc": null,
     "prototype": "Ca5Pb3",
     "prototype_tex": "Ca$_{5}$Pb$_{3}$",
-    "label": "A5B3_hP48_186_3cd_3c-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP48",
+    "space_group_number": 186,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -41,17 +51,8 @@
         -9.25186e-18,
         0.0
     ],
-    "strukturbericht": null,
-    "title": "Ca$_{5}$Pb$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A5B3_hP48_186_3cd_3c-001",
-    "number_of_species": 2,
-    "pearson_symbol": "hP48",
-    "space_group_number": 186,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "58922"
+    "comments": null
 }

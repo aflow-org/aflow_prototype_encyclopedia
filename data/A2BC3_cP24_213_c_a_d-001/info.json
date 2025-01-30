@@ -1,9 +1,19 @@
 {
     "uid": "SRH0",
+    "label": "A2BC3_cP24_213_c_a_d-001",
+    "alias": "A2BC3_cP24_213_c_a_d",
+    "title": "Al$_{2}$Mo$_{3}$C Structure",
+    "icsd": "42917",
+    "ccdc": null,
     "prototype": "Al2CMo3",
     "prototype_tex": "Al$_{2}$CMo$_{3}$",
-    "label": "A2BC3_cP24_213_c_a_d-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cP24",
+    "space_group_number": 213,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "x2",
         "y3"
@@ -13,17 +23,8 @@
         0.061,
         0.206
     ],
-    "strukturbericht": null,
-    "title": "Al$_{2}$Mo$_{3}$C Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC3_cP24_213_c_a_d",
-    "number_of_species": 3,
-    "pearson_symbol": "cP24",
-    "space_group_number": 213,
-    "comments": "This is a ``filled'' \\href{current_web_home_dir/A_cP20_213_cd-001}{$\\beta$-Mn (A13) structure}, with the aluminum and molybdenum atoms almost exactly on the sites of the manganese atoms in A13. \n This structure may also be found in the enantiomorphic space group $P4_{3}32$ \\#212.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "42917"
+    "comments": "This is a ``filled'' \\href{current_web_home_dir/A_cP20_213_cd-001}{$\\beta$-Mn (A13) structure}, with the aluminum and molybdenum atoms almost exactly on the sites of the manganese atoms in A13. \n This structure may also be found in the enantiomorphic space group $P4_{3}32$ \\#212."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "F5HF",
+    "label": "A4B_oP10_58_2g_a-001",
+    "alias": "A4B_oP10_58_2g_a-001",
+    "title": "CrB$_{4}$ Structure",
+    "icsd": "144116",
+    "ccdc": null,
     "prototype": "B4Cr",
     "prototype_tex": "B$_{4}$Cr",
-    "label": "A4B_oP10_58_2g_a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP10",
+    "space_group_number": 58,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -21,17 +31,8 @@
         0.2236,
         0.3209
     ],
-    "strukturbericht": null,
-    "title": "CrB$_{4}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B_oP10_58_2g_a-001",
-    "number_of_species": 2,
-    "pearson_symbol": "oP10",
-    "space_group_number": 58,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "144116"
+    "comments": null
 }

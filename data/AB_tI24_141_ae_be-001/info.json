@@ -1,9 +1,19 @@
 {
     "uid": "1GTY",
+    "label": "AB_tI24_141_ae_be-001",
+    "alias": "AB_tI24_141_ae_be-001",
+    "title": "$\\beta$-LiSn Structure",
+    "icsd": "107516",
+    "ccdc": null,
     "prototype": "LiSn",
     "prototype_tex": "LiSn",
-    "label": "AB_tI24_141_ae_be-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tI24",
+    "space_group_number": 141,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -15,17 +25,8 @@
         0.707,
         0.5467
     ],
-    "strukturbericht": null,
-    "title": "$\\beta$-LiSn Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_tI24_141_ae_be-001",
-    "number_of_species": 2,
-    "pearson_symbol": "tI24",
-    "space_group_number": 141,
-    "comments": "This is apparently the high-temperature structure of LiSn.  Below 470K LiSn is in the \\href{current_web_home_dir/AB_mP6_10_bn_cm-001}{monoclinic $\\alpha$-LiSn structure} (Villars, 2018).\n We have shifted the origin so that a lithium atom is on the (4a) site.",
+    "legacy": false,
     "notes": "$\\beta$-LiSn",
-    "ccdc": null,
-    "icsd": "107516"
+    "comments": "This is apparently the high-temperature structure of LiSn.  Below 470K LiSn is in the \\href{current_web_home_dir/AB_mP6_10_bn_cm-001}{monoclinic $\\alpha$-LiSn structure} (Villars, 2018).\n We have shifted the origin so that a lithium atom is on the (4a) site."
 }

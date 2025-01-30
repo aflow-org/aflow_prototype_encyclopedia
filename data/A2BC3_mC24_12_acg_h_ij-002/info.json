@@ -1,9 +1,19 @@
 {
     "uid": "R3L4",
+    "label": "A2BC3_mC24_12_acg_h_ij-002",
+    "alias": "A2BC3_mC24_12_acg_h_ij-002",
+    "title": "Li$_{2}$MnO$_{3}$ Structure",
+    "icsd": "202639",
+    "ccdc": null,
     "prototype": "Li2MnO3",
     "prototype_tex": "Li$_{2}$MnO$_{3}$",
-    "label": "A2BC3_mC24_12_acg_h_ij-002",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mC24",
+    "space_group_number": 12,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -29,17 +39,8 @@
         0.82119,
         0.7233
     ],
-    "strukturbericht": null,
-    "title": "Li$_{2}$MnO$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC3_mC24_12_acg_h_ij-002",
-    "number_of_species": 3,
-    "pearson_symbol": "mC24",
-    "space_group_number": 12,
-    "comments": "This seems to be the consensus structure for these compounds.  Others place them in space group $C2/c$ \\#15, possibly with a doubled unit cell.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "202639"
+    "comments": "This seems to be the consensus structure for these compounds.  Others place them in space group $C2/c$ \\#15, possibly with a doubled unit cell."
 }

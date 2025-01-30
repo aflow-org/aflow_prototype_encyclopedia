@@ -1,9 +1,19 @@
 {
     "uid": "XT4M",
+    "label": "AB_oF8_69_a_b-001",
+    "alias": "AB_oF8_69_a_b",
+    "title": "TlF ($B24$) Structure ({\\em Obsolete})",
+    "icsd": "30268",
+    "ccdc": null,
     "prototype": "FTl",
     "prototype_tex": "FTl",
-    "label": "AB_oF8_69_a_b-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oF8",
+    "space_group_number": 69,
+    "strukturbericht": "B24",
+    "strukturbericht_tex": "$B24$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a"
@@ -13,18 +23,8 @@
         0.851974,
         0.903783
     ],
-    "strukturbericht": "B24",
-    "title": "TlF ($B24$) Structure ({\\em Obsolete})",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$B24$",
     "compounds": {},
-    "alias": "AB_oF8_69_a_b",
-    "number_of_species": 2,
-    "pearson_symbol": "oF8",
-    "space_group_number": 69,
-    "comments": "Although this is the $B24$ structure defined in {\\em Strukturbericht}, it is not the currently accepted structure for TlF. See (Berastegui, 2000) and the \\href{current_web_home_dir/AB_oP8_57_d_d-001}{TlF-II} page. The current structure is a slight distortion of \\href{current_web_home_dir/AB_cF8_225_a_b-001}{rock salt ($B1$)}.",
+    "legacy": false,
     "notes": "$B24$, ({\\em Obsolete})",
-    "ccdc": null,
-    "icsd": "30268"
+    "comments": "Although this is the $B24$ structure defined in {\\em Strukturbericht}, it is not the currently accepted structure for TlF. See (Berastegui, 2000) and the \\href{current_web_home_dir/AB_oP8_57_d_d-001}{TlF-II} page. The current structure is a slight distortion of \\href{current_web_home_dir/AB_cF8_225_a_b-001}{rock salt ($B1$)}."
 }

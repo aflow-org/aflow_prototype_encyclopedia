@@ -1,9 +1,19 @@
 {
     "uid": "KFCF",
+    "label": "A3B_oP4_25_abc_d-001",
+    "alias": "A3B_oP4_25_abc_d-001",
+    "title": "Dyscrasite (Ag$_{3.15}$Sb$_{0.85}$) Structure",
+    "icsd": "64698",
+    "ccdc": null,
     "prototype": "Ag3Sb",
     "prototype_tex": "Ag$_{3}$Sb",
-    "label": "A3B_oP4_25_abc_d-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP4",
+    "space_group_number": 25,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -21,17 +31,8 @@
         0.48792,
         0.81496
     ],
-    "strukturbericht": null,
-    "title": "Dyscrasite (Ag$_{3.15}$Sb$_{0.85}$) Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B_oP4_25_abc_d-001",
-    "number_of_species": 2,
-    "pearson_symbol": "oP4",
-    "space_group_number": 25,
-    "comments": "We have reordered the Wyckoff positions of this structure to match the AFLOW standard.  What (Scott, 1976) designated as the Sb (1a) site is now (1d).  That site is actually 85\\% antimony and 15\\% silver. \n Space group $Pmm2$ \\#25 allows an arbitary choice of the origin of the $z$-axis.  We set $z_{1} = 0$ for the (1a) site.",
+    "legacy": false,
     "notes": "Dyscrasite",
-    "ccdc": null,
-    "icsd": "64698"
+    "comments": "We have reordered the Wyckoff positions of this structure to match the AFLOW standard.  What (Scott, 1976) designated as the Sb (1a) site is now (1d).  That site is actually 85\\% antimony and 15\\% silver. \n Space group $Pmm2$ \\#25 allows an arbitary choice of the origin of the $z$-axis.  We set $z_{1} = 0$ for the (1a) site."
 }

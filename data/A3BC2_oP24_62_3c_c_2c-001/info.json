@@ -1,9 +1,19 @@
 {
     "uid": "WK7H",
+    "label": "A3BC2_oP24_62_3c_c_2c-001",
+    "alias": "A3BC2_oP24_62_3c_c_2c-001",
+    "title": "K$_{2}$CuCl$_{3}$ Structure",
+    "icsd": "30656",
+    "ccdc": null,
     "prototype": "Cl3CuK2",
     "prototype_tex": "Cl$_{3}$CuK$_{2}$",
-    "label": "A3BC2_oP24_62_3c_c_2c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP24",
+    "space_group_number": 62,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -37,17 +47,8 @@
         0.512,
         0.827
     ],
-    "strukturbericht": null,
-    "title": "K$_{2}$CuCl$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3BC2_oP24_62_3c_c_2c-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oP24",
-    "space_group_number": 62,
-    "comments": "(Brink, 1949) present the structure in the $Pnam$ setting of space group \\#62.  We used FINDSYM to convert this to the standard $Pnma$ setting.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "30656"
+    "comments": "(Brink, 1949) present the structure in the $Pnam$ setting of space group \\#62.  We used FINDSYM to convert this to the standard $Pnma$ setting."
 }

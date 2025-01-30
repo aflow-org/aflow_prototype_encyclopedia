@@ -1,9 +1,19 @@
 {
     "uid": "H8PR",
+    "label": "AB6C2_mC18_12_a_3i_i-004",
+    "alias": "AB6C2_mC18_12_a_3i_i",
+    "title": "Ta$_{2}$PdSe$_{6}$ Structure",
+    "icsd": "61005",
+    "ccdc": null,
     "prototype": "PdSe6Ta2",
     "prototype_tex": "PdSe$_{6}$Ta$_{2}$",
-    "label": "AB6C2_mC18_12_a_3i_i-004",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mC18",
+    "space_group_number": 12,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -31,17 +41,8 @@
         0.39023,
         0.07022
     ],
-    "strukturbericht": null,
-    "title": "Ta$_{2}$PdSe$_{6}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB6C2_mC18_12_a_3i_i",
-    "number_of_species": 3,
-    "pearson_symbol": "mC18",
-    "space_group_number": 12,
-    "comments": "(Keszler, 1985) gave the structure in the $I2/m$ setting of space group \\#12.  We used FINDSYM to change this to the standard $C2/m$ setting.  Because of this change our primitive vectors are linear combinations of the original ones, and the lattice has been rotated.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "61005"
+    "comments": "(Keszler, 1985) gave the structure in the $I2/m$ setting of space group \\#12.  We used FINDSYM to change this to the standard $C2/m$ setting.  Because of this change our primitive vectors are linear combinations of the original ones, and the lattice has been rotated."
 }

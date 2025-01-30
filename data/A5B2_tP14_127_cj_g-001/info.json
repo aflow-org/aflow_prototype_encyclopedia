@@ -1,9 +1,19 @@
 {
     "uid": "BAHM",
+    "label": "A5B2_tP14_127_cj_g-001",
+    "alias": "A5B2_tP14_127_cj_g-001",
+    "title": "Mn$_{2}$Hg$_{5}$ Structure",
+    "icsd": "104324",
+    "ccdc": null,
     "prototype": "Hg5Mn2",
     "prototype_tex": "Hg$_{5}$Mn$_{2}$",
-    "label": "A5B2_tP14_127_cj_g-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tP14",
+    "space_group_number": 127,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -17,17 +27,8 @@
         0.063,
         0.204
     ],
-    "strukturbericht": null,
-    "title": "Mn$_{2}$Hg$_{5}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A5B2_tP14_127_cj_g-001",
-    "number_of_species": 2,
-    "pearson_symbol": "tP14",
-    "space_group_number": 127,
-    "comments": "We shifted the origin of the $c$-axis by $c/2$ from that used by (de Wet, 1961).",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "104324"
+    "comments": "We shifted the origin of the $c$-axis by $c/2$ from that used by (de Wet, 1961)."
 }

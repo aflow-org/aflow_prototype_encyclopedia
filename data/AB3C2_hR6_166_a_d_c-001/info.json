@@ -1,9 +1,19 @@
 {
     "uid": "NAW4",
+    "label": "AB3C2_hR6_166_a_d_c-001",
+    "alias": "AB3C2_hR6_166_a_d_c-001",
+    "title": "Y$_{2}$Rh$_{3}$Ga Structure",
+    "icsd": "432339",
+    "ccdc": null,
     "prototype": "GaRh3Y2",
     "prototype_tex": "GaRh$_{3}$Y$_{2}$",
-    "label": "AB3C2_hR6_166_a_d_c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hR6",
+    "space_group_number": 166,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2"
@@ -13,17 +23,8 @@
         2.123676,
         0.36984
     ],
-    "strukturbericht": null,
-    "title": "Y$_{2}$Rh$_{3}$Ga Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB3C2_hR6_166_a_d_c-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hR6",
-    "space_group_number": 166,
-    "comments": "(Seidel, 2017) call this a rhombohedral Laves phase, a ternary varient of the \\href{current_web_home_dir/AB2_hP12_194_f_ah-001}{MgZn$_{2}$ hexagonal Laves phase ($C14$)}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "432339"
+    "comments": "(Seidel, 2017) call this a rhombohedral Laves phase, a ternary varient of the \\href{current_web_home_dir/AB2_hP12_194_f_ah-001}{MgZn$_{2}$ hexagonal Laves phase ($C14$)}."
 }

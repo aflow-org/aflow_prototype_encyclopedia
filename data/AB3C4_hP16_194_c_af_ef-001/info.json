@@ -1,9 +1,19 @@
 {
     "uid": "53FU",
+    "label": "AB3C4_hP16_194_c_af_ef-001",
+    "alias": "AB3C4_hP16_194_c_af_ef",
+    "title": "AlN$_{3}$Ti$_{4}$ Structure",
+    "icsd": "190338",
+    "ccdc": null,
     "prototype": "AlN3Ti4",
     "prototype_tex": "AlN$_{3}$Ti$_{4}$",
-    "label": "AB3C4_hP16_194_c_af_ef-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP16",
+    "space_group_number": 194,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -17,17 +27,8 @@
         0.605,
         0.0539
     ],
-    "strukturbericht": null,
-    "title": "AlN$_{3}$Ti$_{4}$ Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB3C4_hP16_194_c_af_ef",
-    "number_of_species": 3,
-    "pearson_symbol": "hP16",
-    "space_group_number": 194,
-    "comments": "This is a so-called MAX phase. For more information, see (Radovic, 2013). \n The nitrogen (2a) site is only occupied 86\\% of the time. \n We use the data from (Barsoum, 2000) taken at 298K. This is a slight shift from our previous report (Mehl, 2017).",
+    "legacy": false,
     "notes": "MAX Phase",
-    "ccdc": null,
-    "icsd": "190338"
+    "comments": "This is a so-called MAX phase. For more information, see (Radovic, 2013). \n The nitrogen (2a) site is only occupied 86\\% of the time. \n We use the data from (Barsoum, 2000) taken at 298K. This is a slight shift from our previous report (Mehl, 2017)."
 }

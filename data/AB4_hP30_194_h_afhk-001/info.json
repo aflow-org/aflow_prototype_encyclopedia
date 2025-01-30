@@ -1,9 +1,19 @@
 {
     "uid": "JAJR",
+    "label": "AB4_hP30_194_h_afhk-001",
+    "alias": "AB4_hP30_194_h_afhk-001",
+    "title": "BaLi$_{4}$ Structure",
+    "icsd": "409902",
+    "ccdc": null,
     "prototype": "BaLi4",
     "prototype_tex": "BaLi$_{4}$",
-    "label": "AB4_hP30_194_h_afhk-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP30",
+    "space_group_number": 194,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -21,17 +31,8 @@
         0.1645,
         0.566
     ],
-    "strukturbericht": null,
-    "title": "BaLi$_{4}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB4_hP30_194_h_afhk-001",
-    "number_of_species": 2,
-    "pearson_symbol": "hP30",
-    "space_group_number": 194,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "409902"
+    "comments": null
 }

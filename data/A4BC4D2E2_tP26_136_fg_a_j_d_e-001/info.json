@@ -1,9 +1,19 @@
 {
     "uid": "40BA",
+    "label": "A4BC4D2E2_tP26_136_fg_a_j_d_e-001",
+    "alias": "A4BC4D2E2_tP26_136_fg_a_j_d_e",
+    "title": "K$_{2}$CuCl$_{4}$ $\\cdot$ 2H$_{2}$O ($H4_{1}$) Structure",
+    "icsd": "16052",
+    "ccdc": null,
     "prototype": "Cl4CuH4K2O2",
     "prototype_tex": "Cl$_{4}$CuH$_{4}$K$_{2}$O$_{2}$",
-    "label": "A4BC4D2E2_tP26_136_fg_a_j_d_e-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "tP26",
+    "space_group_number": 136,
+    "strukturbericht": "H4_1",
+    "strukturbericht_tex": "$H4_{1}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -21,18 +31,8 @@
         0.0739,
         0.3178
     ],
-    "strukturbericht": "H4_1",
-    "title": "K$_{2}$CuCl$_{4}$ $\\cdot$ 2H$_{2}$O ($H4_{1}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$H4_{1}$",
     "compounds": {},
-    "alias": "A4BC4D2E2_tP26_136_fg_a_j_d_e",
-    "number_of_species": 5,
-    "pearson_symbol": "tP26",
-    "space_group_number": 136,
+    "legacy": false,
     "notes": "$H4_{1}$",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "16052"
+    "comments": null
 }

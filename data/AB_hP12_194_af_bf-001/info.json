@@ -1,9 +1,19 @@
 {
     "uid": "Q5G8",
+    "label": "AB_hP12_194_af_bf-001",
+    "alias": "AB_hP12_194_af_bf",
+    "title": "CMo Structure",
+    "icsd": "44987",
+    "ccdc": null,
     "prototype": "CMo",
     "prototype_tex": "CMo",
-    "label": "AB_hP12_194_af_bf-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP12",
+    "space_group_number": 194,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -15,17 +25,8 @@
         0.166,
         0.583
     ],
-    "strukturbericht": null,
-    "title": "CMo Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_hP12_194_af_bf",
-    "number_of_species": 2,
-    "pearson_symbol": "hP12",
-    "space_group_number": 194,
-    "comments": "Note that all of the atoms sit on close packed $<$$0001$$>$ planes. The stacking sequence may be written: \\begin{center} \\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|} \\hline Atom & Mo-II & C-II & C-I & C-II & Mo-II & Mo-I & Mo-II & C-II & C-I & C-II & Mo-II & Mo-I \\\\ \\hline Position & B & C & A & B & C & A & C & B & A & C & B & A \\\\ \\hline \\end{tabular} \\end{center} ~ \\vspace{-.25in} \n Thus the Mo-II atoms and all of the C atoms are always in an fcc-like local environment, while the Mo-I atoms are in an hcp-like local environment. Like \\href{current_web_home_dir/AB3C4_hP16_194_c_af_ef-001}{AlN$_{3}$Ti$_{4}$}, this is a MAX phase. For more information, see (Radovic, 2013).",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "44987"
+    "comments": "Note that all of the atoms sit on close packed $<$$0001$$>$ planes. The stacking sequence may be written: \\begin{center} \\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|} \\hline Atom & Mo-II & C-II & C-I & C-II & Mo-II & Mo-I & Mo-II & C-II & C-I & C-II & Mo-II & Mo-I \\\\ \\hline Position & B & C & A & B & C & A & C & B & A & C & B & A \\\\ \\hline \\end{tabular} \\end{center} ~ \\vspace{-.25in} \n Thus the Mo-II atoms and all of the C atoms are always in an fcc-like local environment, while the Mo-I atoms are in an hcp-like local environment. Like \\href{current_web_home_dir/AB3C4_hP16_194_c_af_ef-001}{AlN$_{3}$Ti$_{4}$}, this is a MAX phase. For more information, see (Radovic, 2013)."
 }

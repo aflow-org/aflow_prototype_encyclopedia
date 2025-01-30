@@ -1,9 +1,19 @@
 {
     "uid": "H0F1",
+    "label": "A_mP4_4_2a-001",
+    "alias": "A_mP4_4_2a",
+    "title": "High-pressure Te Structure",
+    "icsd": "52501",
+    "ccdc": null,
     "prototype": "Te",
     "prototype_tex": "Te",
-    "label": "A_mP4_4_2a-001",
-    "parameter_symbol": [
+    "number_of_species": 1,
+    "pearson_symbol": "mP4",
+    "space_group_number": 4,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -27,17 +37,8 @@
         0.0,
         0.02
     ],
-    "strukturbericht": null,
-    "title": "High-pressure Te Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "A_mP4_4_2a",
-    "number_of_species": 1,
-    "pearson_symbol": "mP4",
-    "space_group_number": 4,
-    "comments": "This is a high-pressure phase of tellurium, stable in the 4-7 GPa range. The ground state of Te appears to be in the \\href{current_web_home_dir/A_hP3_152_a-001}{$\\gamma$Se ($A8$)} structure. \n We use the data taken by (Aoki, 1980) at 4.5 GPa.",
+    "legacy": false,
     "notes": "4-7 GPa",
-    "ccdc": null,
-    "icsd": "52501"
+    "comments": "This is a high-pressure phase of tellurium, stable in the 4-7 GPa range. The ground state of Te appears to be in the \\href{current_web_home_dir/A_hP3_152_a-001}{$\\gamma$Se ($A8$)} structure. \n We use the data taken by (Aoki, 1980) at 4.5 GPa."
 }

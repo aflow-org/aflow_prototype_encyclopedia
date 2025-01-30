@@ -1,9 +1,19 @@
 {
     "uid": "G8V5",
+    "label": "A5BC2_mC64_15_5f_f_2f-001",
+    "alias": "A5BC2_mC64_15_5f_f_2f",
+    "title": "Y$_{2}$SiO$_{5}$ (RE$_{2}$SiO$_{5}$ X2) Structure",
+    "icsd": "27003",
+    "ccdc": null,
     "prototype": "O5SiY2",
     "prototype_tex": "O$_{5}$SiY$_{2}$",
-    "label": "A5BC2_mC64_15_5f_f_2f-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mC64",
+    "space_group_number": 15,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -63,17 +73,8 @@
         0.872,
         0.553
     ],
-    "strukturbericht": null,
-    "title": "Y$_{2}$SiO$_{5}$ (RE$_{2}$SiO$_{5}$ X2) Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A5BC2_mC64_15_5f_f_2f",
-    "number_of_species": 3,
-    "pearson_symbol": "mC64",
-    "space_group_number": 15,
-    "comments": "Compounds of the form RESiO$_{5}$ (RE = Rare Earth and related elements) crystallize in one of two forms (Wang, 2001 and Tian, 2016): \n \\href{current_web_home_dir/A2B5C_mP32_14_2e_5e_e-001}{X1, space group $P2_1/c$ \\#14, for rare earths between lanthanum and gadolinium}, and X2, this structure, for the later rare earths. Dysprosium, yttrium and ytterbium compounds exist in both structures. \n This is the high temperature phase of Y$_{2}$SiO$_{5}$. Below 1190$^{\\circ}$C it transforms into the X1 phase. \n The ICSD entry is from (Michel, 1967).",
+    "legacy": false,
     "notes": "``X2'' Structure",
-    "ccdc": null,
-    "icsd": "27003"
+    "comments": "Compounds of the form RESiO$_{5}$ (RE = Rare Earth and related elements) crystallize in one of two forms (Wang, 2001 and Tian, 2016): \n \\href{current_web_home_dir/A2B5C_mP32_14_2e_5e_e-001}{X1, space group $P2_1/c$ \\#14, for rare earths between lanthanum and gadolinium}, and X2, this structure, for the later rare earths. Dysprosium, yttrium and ytterbium compounds exist in both structures. \n This is the high temperature phase of Y$_{2}$SiO$_{5}$. Below 1190$^{\\circ}$C it transforms into the X1 phase. \n The ICSD entry is from (Michel, 1967)."
 }

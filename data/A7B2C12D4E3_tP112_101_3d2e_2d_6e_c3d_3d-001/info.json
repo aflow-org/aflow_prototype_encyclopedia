@@ -1,9 +1,19 @@
 {
     "uid": "PWFX",
+    "label": "A7B2C12D4E3_tP112_101_3d2e_2d_6e_c3d_3d-001",
+    "alias": "A7B2C12D4E3_tP112_101_3d2e_2d_6e_c3d_3d-001",
+    "title": "[(CH$_{3}$)$_{4}$N][Cu$_{2}$(NCS)$_{3}$] Structure",
+    "icsd": "172434",
+    "ccdc": null,
     "prototype": "C7Cu2H12N4S3",
     "prototype_tex": "C$_{7}$Cu$_{2}$H$_{12}$N$_{4}$S$_{3}$",
-    "label": "A7B2C12D4E3_tP112_101_3d2e_2d_6e_c3d_3d-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "tP112",
+    "space_group_number": 101,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -105,17 +115,8 @@
         0.4348,
         0.2125
     ],
-    "strukturbericht": null,
-    "title": "[(CH$_{3}$)$_{4}$N][Cu$_{2}$(NCS)$_{3}$] Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A7B2C12D4E3_tP112_101_3d2e_2d_6e_c3d_3d-001",
-    "number_of_species": 5,
-    "pearson_symbol": "tP112",
-    "space_group_number": 101,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "172434"
+    "comments": null
 }

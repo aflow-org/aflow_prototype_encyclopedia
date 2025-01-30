@@ -1,9 +1,19 @@
 {
     "uid": "BRA8",
+    "label": "AB5_oP24_62_c_3cd-001",
+    "alias": "AB5_oP24_62_c_3cd-001",
+    "title": "SrZn$_{5}$ Structure",
+    "icsd": "106115",
+    "ccdc": null,
     "prototype": "SrZn5",
     "prototype_tex": "SrZn$_{5}$",
-    "label": "AB5_oP24_62_c_3cd-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP24",
+    "space_group_number": 62,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -35,17 +45,8 @@
         0.5,
         0.65
     ],
-    "strukturbericht": null,
-    "title": "SrZn$_{5}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB5_oP24_62_c_3cd-001",
-    "number_of_species": 2,
-    "pearson_symbol": "oP24",
-    "space_group_number": 62,
-    "comments": "(Baenziger, 1956) give this structure in the $Pmcn$ setting of space group \\#62.  We used FINDSYM to place it in the standard $Pnma$ setting. \n At high temperatures SrZn$_{5}$ transforms into the  \\href{current_web_home_dir/AB5_hP6_191_a_cg-001}{CaCu$_{5}$ ($D2_{d}$) structure}. (Wendorff, 2007) \n This is the binary form of the \\href{current_web_home_dir/A2B3C_oP24_62_d_3c_c-001}{SrAu$_{3}$Al$_{2}$ structure}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "106115"
+    "comments": "(Baenziger, 1956) give this structure in the $Pmcn$ setting of space group \\#62.  We used FINDSYM to place it in the standard $Pnma$ setting. \n At high temperatures SrZn$_{5}$ transforms into the  \\href{current_web_home_dir/AB5_hP6_191_a_cg-001}{CaCu$_{5}$ ($D2_{d}$) structure}. (Wendorff, 2007) \n This is the binary form of the \\href{current_web_home_dir/A2B3C_oP24_62_d_3c_c-001}{SrAu$_{3}$Al$_{2}$ structure}."
 }

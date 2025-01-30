@@ -1,9 +1,19 @@
 {
     "uid": "AWUK",
+    "label": "A2B4C_oP28_19_2a_4a_a-001",
+    "alias": "A2B4C_oP28_19_2a_4a_a-001",
+    "title": "Selenic Acid (H$_{2}$SeO$_{3}$) Structure",
+    "icsd": "38432",
+    "ccdc": null,
     "prototype": "H2O4Se",
     "prototype_tex": "H$_{2}$O$_{4}$Se",
-    "label": "A2B4C_oP28_19_2a_4a_a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP28",
+    "space_group_number": 19,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -55,17 +65,8 @@
         0.209,
         0.577
     ],
-    "strukturbericht": null,
-    "title": "Selenic Acid (H$_{2}$SeO$_{3}$) Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B4C_oP28_19_2a_4a_a-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oP28",
-    "space_group_number": 19,
-    "comments": "Not to be confused with \\href{current_web_home_dir/A2B3C_oP24_19_2a_3a_a-001}{selenious acid, H$_{2}$SeO$_{3}$}. \n Data taken at 10K by (Moodenbaugh, 1983), refining the structur found by (Bailey, 1951)..",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "38432"
+    "comments": "Not to be confused with \\href{current_web_home_dir/A2B3C_oP24_19_2a_3a_a-001}{selenious acid, H$_{2}$SeO$_{3}$}. \n Data taken at 10K by (Moodenbaugh, 1983), refining the structur found by (Bailey, 1951).."
 }

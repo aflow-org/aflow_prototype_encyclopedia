@@ -1,9 +1,19 @@
 {
     "uid": "8379",
+    "label": "AB_hR2_160_a_a-002",
+    "alias": "AB_hR2_160_a_a-002",
+    "title": "GeTe Structure",
+    "icsd": "159907",
+    "ccdc": null,
     "prototype": "GeTe",
     "prototype_tex": "GeTe",
-    "label": "AB_hR2_160_a_a-002",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hR2",
+    "space_group_number": 160,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -15,17 +25,8 @@
         0.0,
         0.521
     ],
-    "strukturbericht": null,
-    "title": "GeTe Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_hR2_160_a_a-002",
-    "number_of_species": 2,
-    "pearson_symbol": "hR2",
-    "space_group_number": 160,
-    "comments": "This is a distortion of the \\href{current_web_home_dir/AB_cF8_225_a_b-001}{rock salt ($B1$) structure}, and GeTe undergoes a phase transition to the rock salt structure above 300$^{\\circ}$C.  When $\\alpha = 60^{\\circ} (c/a = \\sqrt{6})$ and $z_{2}-z_{1} = 1/2$ this becomes the rock salt structure. \n Space group $R3m$ \\#160 does not specify the origin of the $z$-axis. Here we arbitrarily set $z_{1} = 0$. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "159907"
+    "comments": "This is a distortion of the \\href{current_web_home_dir/AB_cF8_225_a_b-001}{rock salt ($B1$) structure}, and GeTe undergoes a phase transition to the rock salt structure above 300$^{\\circ}$C.  When $\\alpha = 60^{\\circ} (c/a = \\sqrt{6})$ and $z_{2}-z_{1} = 1/2$ this becomes the rock salt structure. \n Space group $R3m$ \\#160 does not specify the origin of the $z$-axis. Here we arbitrarily set $z_{1} = 0$. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

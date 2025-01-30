@@ -1,9 +1,19 @@
 {
     "uid": "7P5Q",
+    "label": "AB2C2_oI10_71_a_e_f-002",
+    "alias": "AB2C2_oI10_71_a_e_f-002",
+    "title": "Li$_{2}$CuO$_{2}$ Structure",
+    "icsd": "67204",
+    "ccdc": null,
     "prototype": "CuLi2O2",
     "prototype_tex": "CuLi$_{2}$O$_{2}$",
-    "label": "AB2C2_oI10_71_a_e_f-002",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oI10",
+    "space_group_number": 71,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -17,17 +27,8 @@
         0.2869,
         0.8577
     ],
-    "strukturbericht": null,
-    "title": "Li$_{2}$CuO$_{2}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2C2_oI10_71_a_e_f-002",
-    "number_of_species": 3,
-    "pearson_symbol": "oI10",
-    "space_group_number": 71,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "67204"
+    "comments": null
 }

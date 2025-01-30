@@ -1,9 +1,19 @@
 {
     "uid": "BL96",
+    "label": "A3BC_hP10_188_k_a_c-001",
+    "alias": "A3BC_hP10_188_k_c_a",
+    "title": "LiScI$_{3}$ Structure",
+    "icsd": "73339",
+    "ccdc": null,
     "prototype": "I3LiSc",
     "prototype_tex": "I$_{3}$LiSc",
-    "label": "A3BC_hP10_188_k_a_c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP10",
+    "space_group_number": 188,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -15,17 +25,8 @@
         0.32923,
         0.33982
     ],
-    "strukturbericht": null,
-    "title": "LiScI$_{3}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3BC_hP10_188_k_c_a",
-    "number_of_species": 3,
-    "pearson_symbol": "hP10",
-    "space_group_number": 188,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "73339"
+    "comments": null
 }

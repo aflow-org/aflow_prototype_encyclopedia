@@ -1,9 +1,19 @@
 {
     "uid": "FZF0",
+    "label": "ABC3_hR10_161_a_a_b-001",
+    "alias": "ABC3_hR10_161_a_a_b",
+    "title": "Ferroelectric LiNbO$_{3}$ Structure",
+    "icsd": "81243",
+    "ccdc": null,
     "prototype": "LiNbO3",
     "prototype_tex": "LiNbO$_{3}$",
-    "label": "ABC3_hR10_161_a_a_b-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hR10",
+    "space_group_number": 161,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -21,17 +31,8 @@
         0.14093,
         0.36263
     ],
-    "strukturbericht": null,
-    "title": "Ferroelectric LiNbO$_{3}$ Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC3_hR10_161_a_a_b",
-    "number_of_species": 3,
-    "pearson_symbol": "hR10",
-    "space_group_number": 161,
-    "comments": "This is the ferroelectric phase of LiNbO$_{3}$, which is stable below 1430K. There is also a \\href{current_web_home_dir/ABC3_hR10_167_a_b_e-001}{high-temperature paraelectric phase}. \n In the special case $c/a = \\sqrt{6}, z_{1} = 1/4, z_{2} = 0, x_{3} = 1/2, y_{3} = 0, z_{3} = 0$ this reduces to a double unit cell version of the \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite ($E2_{1}$) structure}. This sets the angle between the rhombohedral primitive vectors to 60$^{\\circ}$. Experimentally the value is about 56$^{\\circ}$.",
+    "legacy": false,
     "notes": "Ferroelectric",
-    "ccdc": null,
-    "icsd": "81243"
+    "comments": "This is the ferroelectric phase of LiNbO$_{3}$, which is stable below 1430K. There is also a \\href{current_web_home_dir/ABC3_hR10_167_a_b_e-001}{high-temperature paraelectric phase}. \n In the special case $c/a = \\sqrt{6}, z_{1} = 1/4, z_{2} = 0, x_{3} = 1/2, y_{3} = 0, z_{3} = 0$ this reduces to a double unit cell version of the \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite ($E2_{1}$) structure}. This sets the angle between the rhombohedral primitive vectors to 60$^{\\circ}$. Experimentally the value is about 56$^{\\circ}$."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "BVCU",
+    "label": "AB_oC16_63_g_2c-001",
+    "alias": "AB_oC16_63_g_2c-001",
+    "title": "NaHg Structure",
+    "icsd": "104326",
+    "ccdc": null,
     "prototype": "HgNa",
     "prototype_tex": "HgNa",
-    "label": "AB_oC16_63_g_2c-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oC16",
+    "space_group_number": 63,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -21,17 +31,8 @@
         0.212,
         0.088
     ],
-    "strukturbericht": null,
-    "title": "NaHg Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_oC16_63_g_2c-001",
-    "number_of_species": 2,
-    "pearson_symbol": "oC16",
-    "space_group_number": 63,
-    "comments": "(Nielsen, 1954) give the coordinates of the (4c) Na atoms as (0 y 3/4), but this gives Na-Hg distances which are too small.  Using (0 y 1/4) with the given values of $y$ gives reasonable distances in agreement with those reported in the reference. \n The ICSD entry has the correct coordinates.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "104326"
+    "comments": "(Nielsen, 1954) give the coordinates of the (4c) Na atoms as (0 y 3/4), but this gives Na-Hg distances which are too small.  Using (0 y 1/4) with the given values of $y$ gives reasonable distances in agreement with those reported in the reference. \n The ICSD entry has the correct coordinates."
 }

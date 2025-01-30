@@ -1,9 +1,19 @@
 {
     "uid": "PQWK",
+    "label": "AB_hP12_189_fg_eh-001",
+    "alias": "AB_hP12_189_fg_eh-001",
+    "title": "NaO Structure",
+    "icsd": "25526",
+    "ccdc": null,
     "prototype": "NaO",
     "prototype_tex": "NaO",
-    "label": "AB_hP12_189_fg_eh-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP12",
+    "space_group_number": 189,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -19,17 +29,8 @@
         0.632,
         0.168
     ],
-    "strukturbericht": null,
-    "title": "NaO Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_hP12_189_fg_eh-001",
-    "number_of_species": 2,
-    "pearson_symbol": "hP12",
-    "space_group_number": 189,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "25526"
+    "comments": null
 }

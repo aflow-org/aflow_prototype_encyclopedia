@@ -1,9 +1,19 @@
 {
     "uid": "77VH",
+    "label": "AB4C3_oI32_46_b_2bc_bc-001",
+    "alias": "AB4C3_oI32_46_b_2bc_bc-001",
+    "title": "Room Temperature AgC$_{4}$N$_{3}$ Structure",
+    "icsd": "43823",
+    "ccdc": null,
     "prototype": "AgC4N3",
     "prototype_tex": "AgC$_{4}$N$_{3}$",
-    "label": "AB4C3_oI32_46_b_2bc_bc-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oI32",
+    "space_group_number": 46,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -41,17 +51,8 @@
         0.686,
         0.271
     ],
-    "strukturbericht": null,
-    "title": "Room Temperature AgC$_{4}$N$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB4C3_oI32_46_b_2bc_bc-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oI32",
-    "space_group_number": 46,
-    "comments": "This is the room temperature structure of AgC$_{4}$N$_{3}$.  Around 100K it undergoes a significatn change in structure which does not change the space group or Wyckoff positions. (Hodgson, 2014).  This can be found on the \\href{current_web_home_dir/AB4C3_oI32_46_b_2bc_bc-002}{low temperature AgC$_{4}$N$_{3}$ structure} page. \n In chemical literature this is often referred to as Ag(tcm), where tcm is an abbreviation for tricyanomethanide. \n (Konnert, 2014) swapped the $x$- and $z$-axes compared to the standard setting of space group $Ima2$ \\#46.  We used AFLOW to transform this to the standard orientation.",
+    "legacy": false,
     "notes": "Room Temperature",
-    "ccdc": null,
-    "icsd": "43823"
+    "comments": "This is the room temperature structure of AgC$_{4}$N$_{3}$.  Around 100K it undergoes a significatn change in structure which does not change the space group or Wyckoff positions. (Hodgson, 2014).  This can be found on the \\href{current_web_home_dir/AB4C3_oI32_46_b_2bc_bc-002}{low temperature AgC$_{4}$N$_{3}$ structure} page. \n In chemical literature this is often referred to as Ag(tcm), where tcm is an abbreviation for tricyanomethanide. \n (Konnert, 2014) swapped the $x$- and $z$-axes compared to the standard setting of space group $Ima2$ \\#46.  We used AFLOW to transform this to the standard orientation."
 }

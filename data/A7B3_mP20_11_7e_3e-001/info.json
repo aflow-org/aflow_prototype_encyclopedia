@@ -1,9 +1,19 @@
 {
     "uid": "YDAL",
+    "label": "A7B3_mP20_11_7e_3e-001",
+    "alias": "A7B3_mP20_11_7e_3e-001",
+    "title": "Li$_{7}$Sn$_{3}$ Structure",
+    "icsd": "104785",
+    "ccdc": null,
     "prototype": "Li7Sn3",
     "prototype_tex": "Li$_{7}$Sn$_{3}$",
-    "label": "A7B3_mP20_11_7e_3e-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mP20",
+    "space_group_number": 11,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -55,17 +65,8 @@
         0.8021,
         0.5682
     ],
-    "strukturbericht": null,
-    "title": "Li$_{7}$Sn$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A7B3_mP20_11_7e_3e-001",
-    "number_of_species": 2,
-    "pearson_symbol": "mP20",
-    "space_group_number": 11,
-    "comments": "(M\\\"{u}ller, 1974) gives this structure in the ``unique axis-$c$'' setting of space group $P2_{1}/m$ \\#11.  We used FINDSYM to transform this to the standard ``unique axis-$b$'' setting.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "104785"
+    "comments": "(M\\\"{u}ller, 1974) gives this structure in the ``unique axis-$c$'' setting of space group $P2_{1}/m$ \\#11.  We used FINDSYM to transform this to the standard ``unique axis-$b$'' setting."
 }

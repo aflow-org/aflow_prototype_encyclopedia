@@ -1,9 +1,19 @@
 {
     "uid": "LGPW",
+    "label": "AB4_oC20_68_a_i-001",
+    "alias": "AB4_oC20_68_a_i",
+    "title": "PdSn$_{4}$ Structure",
+    "icsd": "413280",
+    "ccdc": null,
     "prototype": "PdSn4",
     "prototype_tex": "PdSn$_{4}$",
-    "label": "AB4_oC20_68_a_i-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oC20",
+    "space_group_number": 68,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -19,17 +29,8 @@
         0.9187,
         0.0801
     ],
-    "strukturbericht": null,
-    "title": "PdSn$_{4}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB4_oC20_68_a_i",
-    "number_of_species": 2,
-    "pearson_symbol": "oC20",
-    "space_group_number": 68,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "413280"
+    "comments": null
 }

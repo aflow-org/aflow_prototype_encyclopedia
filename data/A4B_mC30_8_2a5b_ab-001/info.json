@@ -1,9 +1,19 @@
 {
     "uid": "10PS",
+    "label": "A4B_mC30_8_2a5b_ab-001",
+    "alias": "A4B_mC30_8_2a5b_ab-001",
+    "title": "Al$_{4}$W Structure",
+    "icsd": "58205",
+    "ccdc": null,
     "prototype": "Al4W",
     "prototype_tex": "Al$_{4}$W",
-    "label": "A4B_mC30_8_2a5b_ab-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC30",
+    "space_group_number": 8,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -63,17 +73,8 @@
         0.637,
         0.669
     ],
-    "strukturbericht": null,
-    "title": "Al$_{4}$W Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B_mC30_8_2a5b_ab-001",
-    "number_of_species": 2,
-    "pearson_symbol": "mC30",
-    "space_group_number": 8,
-    "comments": "Space group $Cm$ \\#8 allows arbitrary origins for the $x$ and $z$ coordinates.  Here we use this to place the W-I atom at the origin.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "58205"
+    "comments": "Space group $Cm$ \\#8 allows arbitrary origins for the $x$ and $z$ coordinates.  Here we use this to place the W-I atom at the origin."
 }

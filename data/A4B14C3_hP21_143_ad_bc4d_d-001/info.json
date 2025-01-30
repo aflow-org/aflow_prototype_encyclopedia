@@ -1,9 +1,19 @@
 {
     "uid": "TY99",
+    "label": "A4B14C3_hP21_143_ad_bc4d_d-001",
+    "alias": "A4B14C3_hP21_143_bd_ac4d_d",
+    "title": "Simpsonite (Ta$_{3}$Al$_{4}$O$_{13}$[OH]) Structure",
+    "icsd": "67673",
+    "ccdc": null,
     "prototype": "Al4O14Ta3",
     "prototype_tex": "Al$_{4}$O$_{14}$Ta$_{3}$",
-    "label": "A4B14C3_hP21_143_ad_bc4d_d-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP21",
+    "space_group_number": 143,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -53,17 +63,8 @@
         0.609033,
         0.806
     ],
-    "strukturbericht": null,
-    "title": "Simpsonite (Ta$_{3}$Al$_{4}$O$_{13}$[OH]) Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B14C3_hP21_143_bd_ac4d_d",
-    "number_of_species": 3,
-    "pearson_symbol": "hP21",
-    "space_group_number": 143,
-    "comments": "The OH molecule is centered on the (1c) site, however it is only listed as O in this prototype. \n Space group $P3$ \\#143 allows an arbitary origin for the $z$-axis, here we set it so the $z_{1} = 0$ for the O-I atom.",
+    "legacy": false,
     "notes": "Simpsonite",
-    "ccdc": null,
-    "icsd": "67673"
+    "comments": "The OH molecule is centered on the (1c) site, however it is only listed as O in this prototype. \n Space group $P3$ \\#143 allows an arbitary origin for the $z$-axis, here we set it so the $z_{1} = 0$ for the O-I atom."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "8N0K",
+    "label": "A3B3C_mP28_14_3e_3e_e-001",
+    "alias": "A3B3C_mP28_14_3e_3e_e-001",
+    "title": "Pyrostilpnite (Ag$_{3}$SbS$_{3}$) Structure",
+    "icsd": "17780",
+    "ccdc": null,
     "prototype": "Ag3S3Sb",
     "prototype_tex": "Ag$_{3}$S$_{3}$Sb",
-    "label": "A3B3C_mP28_14_3e_3e_e-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mP28",
+    "space_group_number": 14,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -57,17 +67,8 @@
         0.05211,
         0.42576
     ],
-    "strukturbericht": null,
-    "title": "Pyrostilpnite (Ag$_{3}$SbS$_{3}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B3C_mP28_14_3e_3e_e-001",
-    "number_of_species": 3,
-    "pearson_symbol": "mP28",
-    "space_group_number": 14,
-    "comments": "Ag$_{3}$SbS$_{3}$ can also be found as the mineral pyrargyrite, which has the \\href{current_web_home_dir/A3BC3_hR14_161_b_a_b-001}{proustite (Ag$_{3}$AsS$_{3}$) structure}.",
+    "legacy": false,
     "notes": "Pyrostilpnite",
-    "ccdc": null,
-    "icsd": "17780"
+    "comments": "Ag$_{3}$SbS$_{3}$ can also be found as the mineral pyrargyrite, which has the \\href{current_web_home_dir/A3BC3_hR14_161_b_a_b-001}{proustite (Ag$_{3}$AsS$_{3}$) structure}."
 }

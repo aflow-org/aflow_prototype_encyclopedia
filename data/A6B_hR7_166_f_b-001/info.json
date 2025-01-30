@@ -1,9 +1,19 @@
 {
     "uid": "N45M",
+    "label": "A6B_hR7_166_f_b-001",
+    "alias": "A6B_hR7_166_g_a",
+    "title": "CaC$_{6}$ Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "CaC6",
     "prototype_tex": "CaC$_{6}$",
-    "label": "A6B_hR7_166_f_b-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hR7",
+    "space_group_number": 166,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2"
@@ -13,17 +23,8 @@
         3.13251,
         0.66667
     ],
-    "strukturbericht": null,
-    "title": "CaC$_{6}$ Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "A6B_hR7_166_g_a",
-    "number_of_species": 2,
-    "pearson_symbol": "hR7",
-    "space_group_number": 166,
-    "comments": "Superconducting structure, $T_{c} = 11.5$K. \n (Emery, 2005) completely described the structure, but and referenced an upcoming paper fully detailing there methods, but we have found no reference to this paper, and ICSD entry, or a CCDC entry. \n Hexagonal settings of rhombohedral structures can be obtained with the option {\\tt --hex}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "none"
+    "comments": "Superconducting structure, $T_{c} = 11.5$K. \n (Emery, 2005) completely described the structure, but and referenced an upcoming paper fully detailing there methods, but we have found no reference to this paper, and ICSD entry, or a CCDC entry. \n Hexagonal settings of rhombohedral structures can be obtained with the option {\\tt --hex}."
 }

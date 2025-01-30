@@ -1,9 +1,19 @@
 {
     "uid": "NFNJ",
+    "label": "A11B16C5_cP64_208_bfh_adm_ce-001",
+    "alias": "A11B16C5_cP64_208_bfh_adm_ce-001",
+    "title": "Na$_{11}$U$_{5}$O$_{16}$ Structure",
+    "icsd": "15137",
+    "ccdc": null,
     "prototype": "Na11O16U5",
     "prototype_tex": "Na$_{11}$O$_{16}$U$_{5}$",
-    "label": "A11B16C5_cP64_208_bfh_adm_ce-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cP64",
+    "space_group_number": 208,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "x7",
         "x8",
@@ -17,17 +27,8 @@
         0.25,
         0.52
     ],
-    "strukturbericht": null,
-    "title": "Na$_{11}$U$_{5}$O$_{16}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A11B16C5_cP64_208_bfh_adm_ce-001",
-    "number_of_species": 3,
-    "pearson_symbol": "cP64",
-    "space_group_number": 208,
-    "comments": "(Bartram, 1970) say the atoms were ``arbitrarily placed'' at the Wyckoff positions listed, with $z_{8} = 0$.  This gives a U$_{1}$-O$_{3}$ distance of 2.38{\\AA}.  They then set $z_{8} = -0.02$ ($0.52$ using our origin), giving a distance of 2.19{\\AA}, which they consider ``more reasonable,'' but the other U-O distances remain at 2.39{\\AA}.  If we find a refinement of this structure we will update this page.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "15137"
+    "comments": "(Bartram, 1970) say the atoms were ``arbitrarily placed'' at the Wyckoff positions listed, with $z_{8} = 0$.  This gives a U$_{1}$-O$_{3}$ distance of 2.38{\\AA}.  They then set $z_{8} = -0.02$ ($0.52$ using our origin), giving a distance of 2.19{\\AA}, which they consider ``more reasonable,'' but the other U-O distances remain at 2.39{\\AA}.  If we find a refinement of this structure we will update this page."
 }

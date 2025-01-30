@@ -1,9 +1,19 @@
 {
     "uid": "AE3Q",
+    "label": "AB3C_hP30_193_g_gk_bd-001",
+    "alias": "AB3C_hP30_193_g_gk_bd-001",
+    "title": "Ordered TmBO$_{3}$ Structure",
+    "icsd": "27942",
+    "ccdc": null,
     "prototype": "BO3Tm",
     "prototype_tex": "BO$_{3}$Tm",
-    "label": "AB3C_hP30_193_g_gk_bd-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP30",
+    "space_group_number": 193,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -19,17 +29,8 @@
         0.333267,
         0.383
     ],
-    "strukturbericht": null,
-    "title": "Ordered TmBO$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB3C_hP30_193_g_gk_bd-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hP30",
-    "space_group_number": 193,
-    "comments": "(Newnham, 1963) found two possible structures for TmBO$_{3}$ and YBO$_{3}$: \\begin{itemize} \\item A compact hexagonal cell with \\href{current_web_home_dir/A3B5C_hP18_194_h_fh_a-001}{partially disordered boron and oxygen atoms}, and \\item this structure, which has a larger hexagonal cell but completely ordered atoms. \\end{itemize} ~ \\vspace{-.25in} \n There are several problems with this structure: \\begin{itemize} \\item The ICSD entry 27942 places this structure in space group $P\\overline{6}c2$ \\#188 even though the positions are such that the structure can be resolved in the higher symmetry $P6_{3}/mcm$ space group, and \\item the positions of the O I atoms are such that the O-O distance is less than 1{\\AA}. \\item The ICSD entry gives what seem to be reasonable O-O distances, so we use those coordinates, using AFLOW to transform the structure into space group $P6_{3}/mcm$. \\end{itemize}.",
+    "legacy": false,
     "notes": "Ordered YBO$_{3}$",
-    "ccdc": null,
-    "icsd": "27942"
+    "comments": "(Newnham, 1963) found two possible structures for TmBO$_{3}$ and YBO$_{3}$: \\begin{itemize} \\item A compact hexagonal cell with \\href{current_web_home_dir/A3B5C_hP18_194_h_fh_a-001}{partially disordered boron and oxygen atoms}, and \\item this structure, which has a larger hexagonal cell but completely ordered atoms. \\end{itemize} ~ \\vspace{-.25in} \n There are several problems with this structure: \\begin{itemize} \\item The ICSD entry 27942 places this structure in space group $P\\overline{6}c2$ \\#188 even though the positions are such that the structure can be resolved in the higher symmetry $P6_{3}/mcm$ space group, and \\item the positions of the O I atoms are such that the O-O distance is less than 1{\\AA}. \\item The ICSD entry gives what seem to be reasonable O-O distances, so we use those coordinates, using AFLOW to transform the structure into space group $P6_{3}/mcm$. \\end{itemize}."
 }

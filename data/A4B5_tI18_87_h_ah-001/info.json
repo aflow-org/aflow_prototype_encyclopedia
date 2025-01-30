@@ -1,9 +1,19 @@
 {
     "uid": "E7DL",
+    "label": "A4B5_tI18_87_h_ah-001",
+    "alias": "A4B5_tI18_87_h_ah",
+    "title": "Ti$_{5}$Te$_{4}$ Structure",
+    "icsd": "15451",
+    "ccdc": null,
     "prototype": "Te4Ti5",
     "prototype_tex": "Te$_{4}$Ti$_{5}$",
-    "label": "A4B5_tI18_87_h_ah-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tI18",
+    "space_group_number": 87,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -19,17 +29,8 @@
         0.3752,
         0.6856
     ],
-    "strukturbericht": null,
-    "title": "Ti$_{5}$Te$_{4}$ Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B5_tI18_87_h_ah",
-    "number_of_species": 2,
-    "pearson_symbol": "tI18",
-    "space_group_number": 87,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "15451"
+    "comments": null
 }

@@ -1,9 +1,19 @@
 {
     "uid": "1EYW",
+    "label": "AB3_mP16_10_mn_3m3n-001",
+    "alias": "AB3_mP16_10_mn_3m3n",
+    "title": "H$_{3}$Cl (400 GPa) Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "ClH3",
     "prototype_tex": "ClH$_{3}$",
-    "label": "AB3_mP16_10_mn_3m3n-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mP16",
+    "space_group_number": 10,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -47,17 +57,8 @@
         0.938,
         0.569
     ],
-    "strukturbericht": null,
-    "title": "H$_{3}$Cl (400 GPa) Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB3_mP16_10_mn_3m3n",
-    "number_of_species": 2,
-    "pearson_symbol": "mP16",
-    "space_group_number": 10,
-    "comments": "This structure was found via first-principles calculations.  The data presented here was computed at a pressure of 400~GPa. \n (Zeng, 2017) do not provide a value for $\\beta$, so it is assumed to be near $90^\\circ$. Using exactly $90^\\circ$ results in space group $Pnnm$ \\#58, so we set $\\beta =91^\\circ$, yielding the proposed space group $P2/m$ \\#10.",
+    "legacy": false,
     "notes": "HP, Theory",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "This structure was found via first-principles calculations.  The data presented here was computed at a pressure of 400~GPa. \n (Zeng, 2017) do not provide a value for $\\beta$, so it is assumed to be near $90^\\circ$. Using exactly $90^\\circ$ results in space group $Pnnm$ \\#58, so we set $\\beta =91^\\circ$, yielding the proposed space group $P2/m$ \\#10."
 }

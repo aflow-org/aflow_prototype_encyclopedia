@@ -1,26 +1,26 @@
 {
     "uid": "02WQ",
+    "label": "AB2C_cF16_225_a_c_b-001",
+    "alias": "AB2C_cF16_225_a_c_b",
+    "title": "Heusler (Cu$_{2}$AlMn, $L2_{1}$) Structure",
+    "icsd": "607008",
+    "ccdc": null,
     "prototype": "AlCu2Mn",
     "prototype_tex": "AlCu$_{2}$Mn",
-    "label": "AB2C_cF16_225_a_c_b-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cF16",
+    "space_group_number": 225,
+    "strukturbericht": "L2_1",
+    "strukturbericht_tex": "$L2_{1}$",
+    "part": 1,
+    "parameter_symbols": [
         "a"
     ],
     "parameter_values": [
         5.95
     ],
-    "strukturbericht": "L2_1",
-    "title": "Heusler (Cu$_{2}$AlMn, $L2_{1}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$L2_{1}$",
     "compounds": {},
-    "alias": "AB2C_cF16_225_a_c_b",
-    "number_of_species": 3,
-    "pearson_symbol": "cF16",
-    "space_group_number": 225,
-    "comments": "All of the atoms are located on the sites of a body-centered cubic lattice. If we replace the Mn atom by another copper atom, the structure reduces to the crystallographically equivalent \\href{current_web_home_dir/AB3_cF16_225_a_bc-001}{$D0_{3}$ (BiF$_{3}$) structure}. \n If we replace one of the copper atoms by any fourth species we get the \\href{current_web_home_dir/ABCD_cF16_216_a_b_c_d-001}{the ``quaternary-Heusler,'' LiMgAuSn}. \n Also see the \\href{current_web_home_dir/ABC_cF12_216_a_c_b-001}{$C1_{b}$ (AsAgMg) ``half\u2013Heusler'' structure}. \n The ICSD entry is from (Heusler, 1934).  It is identical to the structure describe by (Bradley, 1934) except for a small change in the lattice constant.",
+    "legacy": false,
     "notes": "$L2_{1}$, Heusler",
-    "ccdc": null,
-    "icsd": "607008"
+    "comments": "All of the atoms are located on the sites of a body-centered cubic lattice. If we replace the Mn atom by another copper atom, the structure reduces to the crystallographically equivalent \\href{current_web_home_dir/AB3_cF16_225_a_bc-001}{$D0_{3}$ (BiF$_{3}$) structure}. \n If we replace one of the copper atoms by any fourth species we get the \\href{current_web_home_dir/ABCD_cF16_216_a_b_c_d-001}{the ``quaternary-Heusler,'' LiMgAuSn}. \n Also see the \\href{current_web_home_dir/ABC_cF12_216_a_c_b-001}{$C1_{b}$ (AsAgMg) ``half\u2013Heusler'' structure}. \n The ICSD entry is from (Heusler, 1934).  It is identical to the structure describe by (Bradley, 1934) except for a small change in the lattice constant."
 }

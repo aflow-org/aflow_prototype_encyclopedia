@@ -1,9 +1,19 @@
 {
     "uid": "3WXK",
+    "label": "A2B7_oC36_65_gj_achipq-001",
+    "alias": "A2B7_oC36_65_gj_achipq-001",
+    "title": "Li$_{7}$Ge$_{2}$ Structure",
+    "icsd": "42063",
+    "ccdc": null,
     "prototype": "Ge2Li7",
     "prototype_tex": "Ge$_{2}$Li$_{7}$",
-    "label": "A2B7_oC36_65_gj_achipq-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oC36",
+    "space_group_number": 65,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -29,17 +39,8 @@
         0.681,
         0.159
     ],
-    "strukturbericht": null,
-    "title": "Li$_{7}$Ge$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B7_oC36_65_gj_achipq-001",
-    "number_of_species": 2,
-    "pearson_symbol": "oC36",
-    "space_group_number": 65,
-    "comments": "We have shifted the origin by 1/2 ({\\bf a}$_{1}$ + {\\bf a}$_{2}$) from that used by (Hopf, 1972).",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "42063"
+    "comments": "We have shifted the origin by 1/2 ({\\bf a}$_{1}$ + {\\bf a}$_{2}$) from that used by (Hopf, 1972)."
 }

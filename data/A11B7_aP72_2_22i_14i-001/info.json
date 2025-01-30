@@ -1,9 +1,19 @@
 {
     "uid": "C9KZ",
+    "label": "A11B7_aP72_2_22i_14i-001",
+    "alias": "A11B7_aP72_2_22i_14i-001",
+    "title": "Pentacene (C$_{11}$H$_{7}$) Structure",
+    "icsd": null,
+    "ccdc": "1818858",
     "prototype": "C11H7",
     "prototype_tex": "C$_{11}$H$_{7}$",
-    "label": "A11B7_aP72_2_22i_14i-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "aP72",
+    "space_group_number": 2,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -235,17 +245,8 @@
         0.087,
         0.482
     ],
-    "strukturbericht": null,
-    "title": "Pentacene (C$_{11}$H$_{7}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A11B7_aP72_2_22i_14i-001",
-    "number_of_species": 2,
-    "pearson_symbol": "aP72",
-    "space_group_number": 2,
-    "ccdc": "1818858",
-    "comments": "The CCSD entry has a CIF with the lattice constants but no atomic positions.",
+    "legacy": false,
     "notes": "Pentacene",
-    "icsd": null
+    "comments": "The CCSD entry has a CIF with the lattice constants but no atomic positions."
 }

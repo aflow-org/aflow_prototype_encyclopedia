@@ -1,9 +1,19 @@
 {
     "uid": "TBPX",
+    "label": "A6B4C16D_oP108_27_abcd4e_4e_16e_e-001",
+    "alias": "A6B4C16D_oP108_27_abcd4e_4e_16e_e",
+    "title": "Ca$_{4}$Al$_{6}$O$_{16}$S Structure",
+    "icsd": "80361",
+    "ccdc": null,
     "prototype": "Al6Ca4O16S",
     "prototype_tex": "Al$_{6}$Ca$_{4}$O$_{16}$S",
-    "label": "A6B4C16D_oP108_27_abcd4e_4e_16e_e-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oP108",
+    "space_group_number": 27,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -171,17 +181,8 @@
         0.2487,
         0.98218
     ],
-    "strukturbericht": null,
-    "title": "Ca$_{4}$Al$_{6}$O$_{16}$S Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A6B4C16D_oP108_27_abcd4e_4e_16e_e",
-    "number_of_species": 4,
-    "pearson_symbol": "oP108",
-    "space_group_number": 27,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "80361"
+    "comments": null
 }

@@ -1,9 +1,19 @@
 {
     "uid": "PUFU",
+    "label": "ABC2_hP4_164_a_b_d-001",
+    "alias": "ABC2_hP4_164_a_b_d",
+    "title": "Zlatogorite (CuNiSb$_{2}$) Structure",
+    "icsd": "134019",
+    "ccdc": null,
     "prototype": "CuNiSb2",
     "prototype_tex": "CuNiSb$_{2}$",
-    "label": "ABC2_hP4_164_a_b_d-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP4",
+    "space_group_number": 164,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3"
@@ -13,17 +23,8 @@
         1.26777,
         0.271
     ],
-    "strukturbericht": null,
-    "title": "Zlatogorite (CuNiSb$_{2}$) Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC2_hP4_164_a_b_d",
-    "number_of_species": 3,
-    "pearson_symbol": "hP4",
-    "space_group_number": 164,
-    "comments": "Although we use the data from (Kift, 2010), the ICSD entry is from (Skaggs, 2020).",
+    "legacy": false,
     "notes": "Zlatogorite",
-    "ccdc": null,
-    "icsd": "134019"
+    "comments": "Although we use the data from (Kift, 2010), the ICSD entry is from (Skaggs, 2020)."
 }

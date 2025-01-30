@@ -1,9 +1,19 @@
 {
     "uid": "WTTR",
+    "label": "A5B11CD8E_aP26_1_5a_11a_a_8a_a-001",
+    "alias": "A5B11CD8E_aP26_1_5a_11a_a_8a_a",
+    "title": "NaC$_{5}$H$_{11}$O$_{8}$S Structure",
+    "icsd": null,
+    "ccdc": "1471425",
     "prototype": "C5H11NaO8S",
     "prototype_tex": "C$_{5}$H$_{11}$NaO$_{8}$S",
-    "label": "A5B11CD8E_aP26_1_5a_11a_a_8a_a-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "aP26",
+    "space_group_number": 1,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -175,17 +185,8 @@
         0.02789,
         0.47548
     ],
-    "strukturbericht": null,
-    "title": "NaC$_{5}$H$_{11}$O$_{8}$S Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A5B11CD8E_aP26_1_5a_11a_a_8a_a",
-    "number_of_species": 5,
-    "pearson_symbol": "aP26",
-    "space_group_number": 1,
-    "ccdc": "1471425",
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": null
+    "comments": null
 }

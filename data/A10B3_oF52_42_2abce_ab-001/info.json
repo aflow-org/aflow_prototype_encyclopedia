@@ -1,9 +1,19 @@
 {
     "uid": "TH7F",
+    "label": "A10B3_oF52_42_2abce_ab-001",
+    "alias": "A10B3_oF52_42_2abce_ab",
+    "title": "W$_{3}$O$_{10}$ (WO$_{3} \\cdot \\frac13$H$_{2}$O) Structure",
+    "icsd": "15514",
+    "ccdc": null,
     "prototype": "O10W3",
     "prototype_tex": "O$_{10}$W$_{3}$",
-    "label": "A10B3_oF52_42_2abce_ab-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oF52",
+    "space_group_number": 42,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -33,17 +43,8 @@
         0.11,
         0.07
     ],
-    "strukturbericht": null,
-    "title": "W$_{3}$O$_{10}$ (WO$_{3} \\cdot \\frac13$H$_{2}$O) Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A10B3_oF52_42_2abce_ab",
-    "number_of_species": 2,
-    "pearson_symbol": "oF52",
-    "space_group_number": 42,
-    "comments": "The designation of this structure is somewhat confusing.  (Gerand, 1981) call this structure WO$_{3}$$\\cdot$$\\frac13$H$_{2}$O, more properly written as W$_{3}$O$_{9}$$\\cdot$H$_{2}$O, but they do not give the positions of the hydrogen atoms, which are presumably associated with the O-V [O(2) in (Gerand, 1981)] atoms.  Without further guidance we have left the hydrogens out of this study.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "15514"
+    "comments": "The designation of this structure is somewhat confusing.  (Gerand, 1981) call this structure WO$_{3}$$\\cdot$$\\frac13$H$_{2}$O, more properly written as W$_{3}$O$_{9}$$\\cdot$H$_{2}$O, but they do not give the positions of the hydrogen atoms, which are presumably associated with the O-V [O(2) in (Gerand, 1981)] atoms.  Without further guidance we have left the hydrogens out of this study."
 }

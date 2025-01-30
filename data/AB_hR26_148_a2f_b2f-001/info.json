@@ -1,9 +1,19 @@
 {
     "uid": "5EQ4",
+    "label": "AB_hR26_148_a2f_b2f-001",
+    "alias": "AB_hR26_148_b2f_a2f",
+    "title": "PdAl Structure",
+    "icsd": "58112",
+    "ccdc": null,
     "prototype": "AlPd",
     "prototype_tex": "AlPd",
-    "label": "AB_hR26_148_a2f_b2f-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hR26",
+    "space_group_number": 148,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -35,17 +45,8 @@
         0.248,
         0.402
     ],
-    "strukturbericht": null,
-    "title": "PdAl Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_hR26_148_b2f_a2f",
-    "number_of_species": 2,
-    "pearson_symbol": "hR26",
-    "space_group_number": 148,
-    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "58112"
+    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

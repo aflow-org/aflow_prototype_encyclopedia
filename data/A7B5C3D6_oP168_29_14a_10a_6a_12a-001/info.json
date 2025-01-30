@@ -1,9 +1,19 @@
 {
     "uid": "EY4Y",
+    "label": "A7B5C3D6_oP168_29_14a_10a_6a_12a-001",
+    "alias": "A7B5C3D6_oP168_29_14a_10a_6a_12a-001",
+    "title": "Orthorhombic 2-4-6 Trinitrotoluene (C$_{7}$H$_{5}$N$_{3}$O$_{6}$) Structure",
+    "icsd": null,
+    "ccdc": "227800",
     "prototype": "C7H5N3O6",
     "prototype_tex": "C$_{7}$H$_{5}$N$_{3}$O$_{6}$",
-    "label": "A7B5C3D6_oP168_29_14a_10a_6a_12a-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oP168",
+    "space_group_number": 29,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -265,17 +275,8 @@
         0.7372,
         0.5125
     ],
-    "strukturbericht": null,
-    "title": "Orthorhombic 2-4-6 Trinitrotoluene (C$_{7}$H$_{5}$N$_{3}$O$_{6}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A7B5C3D6_oP168_29_14a_10a_6a_12a-001",
-    "number_of_species": 4,
-    "pearson_symbol": "oP168",
-    "space_group_number": 29,
-    "ccdc": "227800",
-    "comments": "The solid form of 2-4-6 Trinitrotoluene (TNT) has two polymorphs (Vrcelj, 2003): \\begin{itemize} \\item The low temperature \\href{current_web_home_dir/A7B5C3D6_mP168_14_14e_10e_6e_12e-001}{monoclinic structure}, and \\item this somewhat higher temperature \\href{current_web_home_dir/A7B5C3D6_oP168_29_14a_10a_6a_12a-001}{orthorhombic structure}. \\end{itemize} ~ \\vspace{-.25in} \n Both can be prepared at room temperature, from ethyl acetate and ethanol solutions, respectively. \n Data for the orthorhombic phase was taken at 123K.",
+    "legacy": false,
     "notes": "2-4-6 Trinitrotoluene",
-    "icsd": null
+    "comments": "The solid form of 2-4-6 Trinitrotoluene (TNT) has two polymorphs (Vrcelj, 2003): \\begin{itemize} \\item The low temperature \\href{current_web_home_dir/A7B5C3D6_mP168_14_14e_10e_6e_12e-001}{monoclinic structure}, and \\item this somewhat higher temperature \\href{current_web_home_dir/A7B5C3D6_oP168_29_14a_10a_6a_12a-001}{orthorhombic structure}. \\end{itemize} ~ \\vspace{-.25in} \n Both can be prepared at room temperature, from ethyl acetate and ethanol solutions, respectively. \n Data for the orthorhombic phase was taken at 123K."
 }

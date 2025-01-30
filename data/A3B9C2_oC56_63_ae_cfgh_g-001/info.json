@@ -1,9 +1,19 @@
 {
     "uid": "1YQJ",
+    "label": "A3B9C2_oC56_63_ae_cfgh_g-001",
+    "alias": "A3B9C2_oC56_63_ae_cfgh_g-001",
+    "title": "Y$_{2}$Ga$_{9}$Co$_{3}$ Structure",
+    "icsd": "623242",
+    "ccdc": null,
     "prototype": "Co3Ga9Y2",
     "prototype_tex": "Co$_{3}$Ga$_{9}$Y$_{2}$",
-    "label": "A3B9C2_oC56_63_ae_cfgh_g-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oC56",
+    "space_group_number": 63,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -35,17 +45,8 @@
         0.1677,
         0.5715
     ],
-    "strukturbericht": null,
-    "title": "Y$_{2}$Ga$_{9}$Co$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B9C2_oC56_63_ae_cfgh_g-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oC56",
-    "space_group_number": 63,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "623242"
+    "comments": null
 }

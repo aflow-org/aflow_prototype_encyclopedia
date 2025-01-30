@@ -1,9 +1,19 @@
 {
     "uid": "MZR4",
+    "label": "ABC15D6E_oC192_64_d_e_3f6g_3g_e-001",
+    "alias": "ABC15D6E_oC192_64_d_e_3f6g_3g_e-001",
+    "title": "Zektzerite (NaLiZrSi$_{6}$O$_{15}$) Structure",
+    "icsd": "100631",
+    "ccdc": null,
     "prototype": "LiNaO15Si6Zr",
     "prototype_tex": "LiNaO$_{15}$Si$_{6}$Zr",
-    "label": "ABC15D6E_oC192_64_d_e_3f6g_3g_e-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "oC192",
+    "space_group_number": 64,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -85,17 +95,8 @@
         0.19281,
         0.54143
     ],
-    "strukturbericht": null,
-    "title": "Zektzerite (NaLiZrSi$_{6}$O$_{15}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC15D6E_oC192_64_d_e_3f6g_3g_e-001",
-    "number_of_species": 5,
-    "pearson_symbol": "oC192",
-    "space_group_number": 64,
+    "legacy": false,
     "notes": "Zektzerite",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "100631"
+    "comments": null
 }

@@ -1,9 +1,19 @@
 {
     "uid": "A5YT",
+    "label": "ABC2D5_oP36_55_g_g_adh_3g2h-001",
+    "alias": "ABC2D5_oP36_55_g_g_adh_3g2h-001",
+    "title": "Ludwigite (Mg$_{2}$FeBO$_{5}$) Structure",
+    "icsd": "87761",
+    "ccdc": null,
     "prototype": "BFeMg2O5",
     "prototype_tex": "BFeMg$_{2}$O$_{5}$",
-    "label": "ABC2D5_oP36_55_g_g_adh_3g2h-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "oP36",
+    "space_group_number": 55,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -45,17 +55,8 @@
         0.1092,
         0.6424
     ],
-    "strukturbericht": null,
-    "title": "Ludwigite (Mg$_{2}$FeBO$_{5}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC2D5_oP36_55_g_g_adh_3g2h-001",
-    "number_of_species": 4,
-    "pearson_symbol": "oP36",
-    "space_group_number": 55,
-    "comments": "The stoichiometry of the metallic atoms should not be taken as exact, {\\em e.g.}, the actual composition of the reference compound is Mg$_{1.76}$Fe$_{1.22}$Al$_{0.02}$BO$_{5}$. (Irwin, 1999) \n The Mg-I (2a) site has the composition Mg$_{0.99}$Fe$_{0.01}$, the Mg-II (2d) site Fe$_{0.557}$Mg$_{0.443}$, the Mg-III (2g) site Mg$_{0.99}$Fe$_{0.01}$, and the Fe-I (4h) site Fe$_{0.92}$Al$_{0.08}$.",
+    "legacy": false,
     "notes": "Ludwigite",
-    "ccdc": null,
-    "icsd": "87761"
+    "comments": "The stoichiometry of the metallic atoms should not be taken as exact, {\\em e.g.}, the actual composition of the reference compound is Mg$_{1.76}$Fe$_{1.22}$Al$_{0.02}$BO$_{5}$. (Irwin, 1999) \n The Mg-I (2a) site has the composition Mg$_{0.99}$Fe$_{0.01}$, the Mg-II (2d) site Fe$_{0.557}$Mg$_{0.443}$, the Mg-III (2g) site Mg$_{0.99}$Fe$_{0.01}$, and the Fe-I (4h) site Fe$_{0.92}$Al$_{0.08}$."
 }

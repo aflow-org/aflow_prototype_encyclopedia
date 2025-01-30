@@ -1,9 +1,19 @@
 {
     "uid": "CH2B",
+    "label": "A14B3C5_tP44_94_c3g_ad_bg-001",
+    "alias": "A14B3C5_tP44_94_c3g_ad_bg",
+    "title": "Na$_{5}$Fe$_{3}$F$_{14}$ Structure",
+    "icsd": "15928",
+    "ccdc": null,
     "prototype": "F14Fe3Na5",
     "prototype_tex": "F$_{14}$Fe$_{3}$Na$_{5}$",
-    "label": "A14B3C5_tP44_94_c3g_ad_bg-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP44",
+    "space_group_number": 94,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -39,17 +49,8 @@
         0.7348,
         0.7403
     ],
-    "strukturbericht": null,
-    "title": "Na$_{5}$Fe$_{3}$F$_{14}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A14B3C5_tP44_94_c3g_ad_bg",
-    "number_of_species": 3,
-    "pearson_symbol": "tP44",
-    "space_group_number": 94,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "15928"
+    "comments": null
 }

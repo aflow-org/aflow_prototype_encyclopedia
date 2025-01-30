@@ -1,9 +1,19 @@
 {
     "uid": "4Z2U",
+    "label": "A45B7_mC104_12_a8i7j_cij-001",
+    "alias": "A45B7_mC104_12_a8i7j_cij-001",
+    "title": "Al$_{45}$V$_{7}$ Structure",
+    "icsd": "58204",
+    "ccdc": null,
     "prototype": "Al45V7",
     "prototype_tex": "Al$_{45}$V$_{7}$",
-    "label": "A45B7_mC104_12_a8i7j_cij-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mC104",
+    "space_group_number": 12,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -99,17 +109,8 @@
         0.327,
         0.0816
     ],
-    "strukturbericht": null,
-    "title": "Al$_{45}$V$_{7}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A45B7_mC104_12_a8i7j_cij-001",
-    "number_of_species": 2,
-    "pearson_symbol": "mC104",
-    "space_group_number": 12,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "58204"
+    "comments": null
 }

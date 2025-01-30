@@ -1,9 +1,19 @@
 {
     "uid": "VYK4",
+    "label": "A2B_mP12_13_2g_ef-001",
+    "alias": "A2B_mP12_13_2g_ef",
+    "title": "H$_{2}$S (15 GPa) Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "H2S",
     "prototype_tex": "H$_{2}$S",
-    "label": "A2B_mP12_13_2g_ef-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mP12",
+    "space_group_number": 13,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -31,17 +41,8 @@
         0.273,
         0.772
     ],
-    "strukturbericht": null,
-    "title": "H$_{2}$S (15 GPa) Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B_mP12_13_2g_ef",
-    "number_of_species": 2,
-    "pearson_symbol": "mP12",
-    "space_group_number": 13,
-    "comments": "This structure was found by first-principles electronic structure calculations and is predicted to be the stable structure of H$_{2}$S in the range $10 - 30$~GPa, which does not agree with the experimental phase diagram (Shimizu, 1995).  The data presented here was computed at 15~GPa.",
+    "legacy": false,
     "notes": "HP, Theory",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "This structure was found by first-principles electronic structure calculations and is predicted to be the stable structure of H$_{2}$S in the range $10 - 30$~GPa, which does not agree with the experimental phase diagram (Shimizu, 1995).  The data presented here was computed at 15~GPa."
 }

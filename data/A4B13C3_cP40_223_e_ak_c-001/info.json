@@ -1,9 +1,19 @@
 {
     "uid": "GYST",
+    "label": "A4B13C3_cP40_223_e_ak_c-001",
+    "alias": "A4B13C3_cP40_223_e_ak_c-001",
+    "title": "Yb$_{3}$Rh$_{4}$Sn$_{13}$ Structure",
+    "icsd": "105936",
+    "ccdc": null,
     "prototype": "Rh4Sn13Yb3",
     "prototype_tex": "Rh$_{4}$Sn$_{13}$Yb$_{3}$",
-    "label": "A4B13C3_cP40_223_e_ak_c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cP40",
+    "space_group_number": 223,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "y4",
         "z4"
@@ -13,17 +23,8 @@
         0.84667,
         0.3057
     ],
-    "strukturbericht": null,
-    "title": "Yb$_{3}$Rh$_{4}$Sn$_{13}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B13C3_cP40_223_e_ak_c-001",
-    "number_of_species": 3,
-    "pearson_symbol": "cP40",
-    "space_group_number": 223,
-    "comments": "(Bordet, 1991) refers to this as ``phase $I$'' of structures with the formula M$_{3}$Rh$_{4}$Sn$_{13}$, with the ``phase $I'$'' structure represented by the non-centrosymmetric \\href{current_web_home_dir/A3B4C13_cI320_214_gh_abgh_e4i-001}{La$_{3}$Rh$_{4}$Sn$_{13}$} phase.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "105936"
+    "comments": "(Bordet, 1991) refers to this as ``phase $I$'' of structures with the formula M$_{3}$Rh$_{4}$Sn$_{13}$, with the ``phase $I'$'' structure represented by the non-centrosymmetric \\href{current_web_home_dir/A3B4C13_cI320_214_gh_abgh_e4i-001}{La$_{3}$Rh$_{4}$Sn$_{13}$} phase."
 }

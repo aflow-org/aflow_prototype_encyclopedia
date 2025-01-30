@@ -1,9 +1,19 @@
 {
     "uid": "BMKB",
+    "label": "AB2C8D2_tI104_142_a_f_2g_e-001",
+    "alias": "AB2C8D2_tI104_142_a_f_2g_e-001",
+    "title": "BaCo$_{2}$V$_{2}$O$_{8}$ Structure",
+    "icsd": "60580",
+    "ccdc": null,
     "prototype": "BaCo2O8V2",
     "prototype_tex": "BaCo$_{2}$O$_{8}$V$_{2}$",
-    "label": "AB2C8D2_tI104_142_a_f_2g_e-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "tI104",
+    "space_group_number": 142,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -27,17 +37,8 @@
         0.087,
         0.347
     ],
-    "strukturbericht": null,
-    "title": "BaCo$_{2}$V$_{2}$O$_{8}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2C8D2_tI104_142_a_f_2g_e-001",
-    "number_of_species": 4,
-    "pearson_symbol": "tI104",
-    "space_group_number": 142,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "60580"
+    "comments": null
 }

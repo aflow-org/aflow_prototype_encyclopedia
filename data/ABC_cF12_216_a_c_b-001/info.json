@@ -1,26 +1,26 @@
 {
     "uid": "3BJR",
+    "label": "ABC_cF12_216_a_c_b-001",
+    "alias": "ABC_cF12_216_b_c_a",
+    "title": "Half\u2013Heusler (AgAsMg, $C1_{b}$) Structure",
+    "icsd": "43819",
+    "ccdc": null,
     "prototype": "AgAsMg",
     "prototype_tex": "AgAsMg",
-    "label": "ABC_cF12_216_a_c_b-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cF12",
+    "space_group_number": 216,
+    "strukturbericht": "C1_b",
+    "strukturbericht_tex": "$C1_{b}$",
+    "part": 1,
+    "parameter_symbols": [
         "a"
     ],
     "parameter_values": [
         6.24
     ],
-    "strukturbericht": "C1_b",
-    "title": "Half\u2013Heusler (AgAsMg, $C1_{b}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$C1_{b}$",
     "compounds": {},
-    "alias": "ABC_cF12_216_b_c_a",
-    "number_of_species": 3,
-    "pearson_symbol": "cF12",
-    "space_group_number": 216,
-    "comments": "All of the atoms are located on the sites of a body-centered cubic lattice. This is sometimes called the ``half\u2013Heusler'' structure because it is identical to the \\href{current_web_home_dir/AB2C_cF16_225_a_c_b-001}{$L2_{1}$ (Heusler) structure, Cu$_{2}$AlMn} with half of the copper atoms missing. The Mg and Ag atoms form a \\href{current_web_home_dir/AB_cF8_225_a_b-001}{rock salt ($B1$) structure}, while the As and either the Mg or Ag atoms form a \\href{current_web_home_dir/AB_cF8_216_a_c-001}{zincblende ($B3$) structure}. If the atoms on the (4a) and (4c) sites are identical, this reduces to the \\href{current_web_home_dir/AB2_cF12_225_a_c-001}{fluorite ($C1$) structure}. \n Other related structures may be found on the \\href{current_web_home_dir/ABCD_cF16_216_a_b_c_d-001}{quaternary Heusler page}.",
+    "legacy": false,
     "notes": "$C1_{b}$, Half-Heusler",
-    "ccdc": null,
-    "icsd": "43819"
+    "comments": "All of the atoms are located on the sites of a body-centered cubic lattice. This is sometimes called the ``half\u2013Heusler'' structure because it is identical to the \\href{current_web_home_dir/AB2C_cF16_225_a_c_b-001}{$L2_{1}$ (Heusler) structure, Cu$_{2}$AlMn} with half of the copper atoms missing. The Mg and Ag atoms form a \\href{current_web_home_dir/AB_cF8_225_a_b-001}{rock salt ($B1$) structure}, while the As and either the Mg or Ag atoms form a \\href{current_web_home_dir/AB_cF8_216_a_c-001}{zincblende ($B3$) structure}. If the atoms on the (4a) and (4c) sites are identical, this reduces to the \\href{current_web_home_dir/AB2_cF12_225_a_c-001}{fluorite ($C1$) structure}. \n Other related structures may be found on the \\href{current_web_home_dir/ABCD_cF16_216_a_b_c_d-001}{quaternary Heusler page}."
 }

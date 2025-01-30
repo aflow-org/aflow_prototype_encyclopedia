@@ -1,9 +1,19 @@
 {
     "uid": "89U5",
+    "label": "AB3C_aP30_2_3i_9i_3i-001",
+    "alias": "AB3C_aP30_2_3i_9i_3i",
+    "title": "Wollastonite (CaSiO$_{3}$) Structure",
+    "icsd": "33702",
+    "ccdc": null,
     "prototype": "CaO3Si",
     "prototype_tex": "CaO$_{3}$Si",
-    "label": "AB3C_aP30_2_3i_9i_3i-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "aP30",
+    "space_group_number": 2,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -109,17 +119,8 @@
         0.7235,
         0.056
     ],
-    "strukturbericht": null,
-    "title": "Wollastonite (CaSiO$_{3}$) Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB3C_aP30_2_3i_9i_3i",
-    "number_of_species": 3,
-    "pearson_symbol": "aP30",
-    "space_group_number": 2,
-    "comments": "(Barnick, 1936) found a \\href{current_web_home_dir/AB3C_mP60_14_3e_9e_3e-001}{monoclinic structure for wollastonite}, but that structure is now referred to as parawollastonite, with the current triclinic structure receiving the original name.",
+    "legacy": false,
     "notes": "Wollastonite",
-    "ccdc": null,
-    "icsd": "33702"
+    "comments": "(Barnick, 1936) found a \\href{current_web_home_dir/AB3C_mP60_14_3e_9e_3e-001}{monoclinic structure for wollastonite}, but that structure is now referred to as parawollastonite, with the current triclinic structure receiving the original name."
 }

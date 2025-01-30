@@ -1,9 +1,19 @@
 {
     "uid": "KLZ3",
+    "label": "A4B_oP20_62_4c_c-001",
+    "alias": "A4B_oP20_62_4c_c-001",
+    "title": "Au$_{4}$Zr Structure",
+    "icsd": "58631",
+    "ccdc": null,
     "prototype": "Au4Zr",
     "prototype_tex": "Au$_{4}$Zr",
-    "label": "A4B_oP20_62_4c_c-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP20",
+    "space_group_number": 62,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -33,17 +43,8 @@
         0.83333,
         0.4
     ],
-    "strukturbericht": null,
-    "title": "Au$_{4}$Zr Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B_oP20_62_4c_c-001",
-    "number_of_species": 2,
-    "pearson_symbol": "oP20",
-    "space_group_number": 62,
-    "comments": "(Stolz, 1952) give this structure in the $Pbnm$ setting of space group \\#62.  We used FINDSYM to transform this to the standard $Pnma$ setting. \n They also gave distances in ``kX'' units.  We used the factor 1.00202 to convert kX to {\\AA}ngstr\\\"{o}ms. (Wood, 1947)",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "58631"
+    "comments": "(Stolz, 1952) give this structure in the $Pbnm$ setting of space group \\#62.  We used FINDSYM to transform this to the standard $Pnma$ setting. \n They also gave distances in ``kX'' units.  We used the factor 1.00202 to convert kX to {\\AA}ngstr\\\"{o}ms. (Wood, 1947)"
 }

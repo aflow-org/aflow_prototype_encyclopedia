@@ -1,9 +1,19 @@
 {
     "uid": "43KD",
+    "label": "AB4C_oP24_19_a_4a_a-001",
+    "alias": "AB4C_oP24_19_a_4a_a",
+    "title": "NaAlCl$_{4}$ Structure",
+    "icsd": "8117",
+    "ccdc": null,
     "prototype": "AlCl4Na",
     "prototype_tex": "AlCl$_{4}$Na",
-    "label": "AB4C_oP24_19_a_4a_a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP24",
+    "space_group_number": 19,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -49,17 +59,8 @@
         0.31122,
         0.37466
     ],
-    "strukturbericht": null,
-    "title": "NaAlCl$_{4}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB4C_oP24_19_a_4a_a",
-    "number_of_species": 3,
-    "pearson_symbol": "oP24",
-    "space_group_number": 19,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "8117"
+    "comments": null
 }

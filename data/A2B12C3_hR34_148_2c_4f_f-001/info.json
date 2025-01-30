@@ -1,9 +1,19 @@
 {
     "uid": "GHH0",
+    "label": "A2B12C3_hR34_148_2c_4f_f-001",
+    "alias": "A2B12C3_hR34_148_2c_4f_f-001",
+    "title": "Mikasaite (Rhombohedral Fe$_{2}$(SO$_{4}$)$_{3}$) Structure",
+    "icsd": "22368",
+    "ccdc": null,
     "prototype": "Fe2O12S3",
     "prototype_tex": "Fe$_{2}$O$_{12}$S$_{3}$",
-    "label": "A2B12C3_hR34_148_2c_4f_f-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hR34",
+    "space_group_number": 148,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -45,17 +55,8 @@
         0.75154,
         0.45884
     ],
-    "strukturbericht": null,
-    "title": "Mikasaite (Rhombohedral Fe$_{2}$(SO$_{4}$)$_{3}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B12C3_hR34_148_2c_4f_f-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hR34",
-    "space_group_number": 148,
-    "comments": "Fe$_{2}$O$_{12}$S$_{3}$ also forms a \\href{current_web_home_dir/A2B12C3_mP68_14_2e_12e_3e-001}{monoclinic crystal}. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
+    "legacy": false,
     "notes": "Mikasaite",
-    "ccdc": null,
-    "icsd": "22368"
+    "comments": "Fe$_{2}$O$_{12}$S$_{3}$ also forms a \\href{current_web_home_dir/A2B12C3_mP68_14_2e_12e_3e-001}{monoclinic crystal}. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "BW3Z",
+    "label": "A2B_mP24_14_4e_2e-001",
+    "alias": "A2B_mP24_14_4e_2e-001",
+    "title": "Monoclinic (black) ZnP$_{2}$ Structure",
+    "icsd": "60011",
+    "ccdc": null,
     "prototype": "P2Zn",
     "prototype_tex": "P$_{2}$Zn",
-    "label": "A2B_mP24_14_4e_2e-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mP24",
+    "space_group_number": 14,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -51,17 +61,8 @@
         0.09647,
         0.38197
     ],
-    "strukturbericht": null,
-    "title": "Monoclinic (black) ZnP$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B_mP24_14_4e_2e-001",
-    "number_of_species": 2,
-    "pearson_symbol": "mP24",
-    "space_group_number": 14,
-    "comments": "An earlier version of this structure by (Hegyi, 1963) had zinc-zinc bonds which are not observed in other Zn-P or Zn-As structures.  We use the structure of (Fleet, 1984), which is also the one used in (Villars, 2018). \n ZnP$_{2}$ can also be found in a \\href{current_web_home_dir/A2B_tP24_92_2b_b-001}{tetragonal (red) form}.",
+    "legacy": false,
     "notes": "Monoclinic (black) ZnP$_{2}$",
-    "ccdc": null,
-    "icsd": "60011"
+    "comments": "An earlier version of this structure by (Hegyi, 1963) had zinc-zinc bonds which are not observed in other Zn-P or Zn-As structures.  We use the structure of (Fleet, 1984), which is also the one used in (Villars, 2018). \n ZnP$_{2}$ can also be found in a \\href{current_web_home_dir/A2B_tP24_92_2b_b-001}{tetragonal (red) form}."
 }

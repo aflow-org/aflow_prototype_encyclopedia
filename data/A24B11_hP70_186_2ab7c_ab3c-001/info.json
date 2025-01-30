@@ -1,9 +1,19 @@
 {
     "uid": "D6S6",
+    "label": "A24B11_hP70_186_2ab7c_ab3c-001",
+    "alias": "A24B11_hP70_186_2ab7c_ab3c-001",
+    "title": "Ce$_{24}$Co$_{11}$ Structure",
+    "icsd": "102101",
+    "ccdc": null,
     "prototype": "Ce24Co11",
     "prototype_tex": "Ce$_{24}$Co$_{11}$",
-    "label": "A24B11_hP70_186_2ab7c_ab3c-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP70",
+    "space_group_number": 186,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -61,17 +71,8 @@
         0.4819,
         0.929
     ],
-    "strukturbericht": null,
-    "title": "Ce$_{24}$Co$_{11}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A24B11_hP70_186_2ab7c_ab3c-001",
-    "number_of_species": 2,
-    "pearson_symbol": "hP70",
-    "space_group_number": 186,
-    "comments": "Space group $P6_{3}mc$ \\#186 allows an arbitrary placement of the origin of the $z$-axis.  Here we set $z_{6} = 0$.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "102101"
+    "comments": "Space group $P6_{3}mc$ \\#186 allows an arbitrary placement of the origin of the $z$-axis.  Here we set $z_{6} = 0$."
 }

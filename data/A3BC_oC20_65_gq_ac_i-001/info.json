@@ -1,9 +1,19 @@
 {
     "uid": "KTDY",
+    "label": "A3BC_oC20_65_gq_ac_i-001",
+    "alias": "A3BC_oC20_65_gq_ac_i-001",
+    "title": "RhMnBi$_{3}$ Structure",
+    "icsd": "130688",
+    "ccdc": null,
     "prototype": "Bi3MnRh",
     "prototype_tex": "Bi$_{3}$MnRh",
-    "label": "A3BC_oC20_65_gq_ac_i-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oC20",
+    "space_group_number": 65,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -21,17 +31,8 @@
         0.12399,
         0.19449
     ],
-    "strukturbericht": null,
-    "title": "RhMnBi$_{3}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3BC_oC20_65_gq_ac_i-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oC20",
-    "space_group_number": 65,
-    "comments": "AFLOW rotates the lattice by 90$^\\circ$ about the z-axis compared to the reported structure.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "130688"
+    "comments": "AFLOW rotates the lattice by 90$^\\circ$ about the z-axis compared to the reported structure."
 }

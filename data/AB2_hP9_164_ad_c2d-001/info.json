@@ -1,9 +1,19 @@
 {
     "uid": "Z07R",
+    "label": "AB2_hP9_164_ad_c2d-001",
+    "alias": "AB2_hP9_164_bd_c2d",
+    "title": "$\\delta_{H}^{II}$-NW$_{2}$ Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "NW2",
     "prototype_tex": "NW$_{2}$",
-    "label": "AB2_hP9_164_ad_c2d-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP9",
+    "space_group_number": 164,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -19,17 +29,8 @@
         0.77263,
         0.89403
     ],
-    "strukturbericht": null,
-    "title": "$\\delta_{H}^{II}$-NW$_{2}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2_hP9_164_bd_c2d",
-    "number_of_species": 2,
-    "pearson_symbol": "hP9",
-    "space_group_number": 164,
-    "comments": "Khitrova and Pinkser put this structure in space group $P3$ \\#147, but the Wyckoff positions used are identical with space group $P3m1$ \\#164, so we assign this to the higher symmetry space group.",
+    "legacy": false,
     "notes": "$\\delta_{H}^{II}$-NW$_{2}$",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "Khitrova and Pinkser put this structure in space group $P3$ \\#147, but the Wyckoff positions used are identical with space group $P3m1$ \\#164, so we assign this to the higher symmetry space group."
 }

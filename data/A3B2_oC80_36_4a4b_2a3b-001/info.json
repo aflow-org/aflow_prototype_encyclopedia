@@ -1,9 +1,19 @@
 {
     "uid": "5H38",
+    "label": "A3B2_oC80_36_4a4b_2a3b-001",
+    "alias": "A3B2_oC80_36_4a4b_2a3b",
+    "title": "Ni$_{3}$Si$_{2}$ Structure",
+    "icsd": "43561",
+    "ccdc": null,
     "prototype": "Ni3Si2",
     "prototype_tex": "Ni$_{3}$Si$_{2}$",
-    "label": "A3B2_oC80_36_4a4b_2a3b-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oC80",
+    "space_group_number": 36,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -79,17 +89,8 @@
         0.343,
         0.92
     ],
-    "strukturbericht": null,
-    "title": "Ni$_{3}$Si$_{2}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B2_oC80_36_4a4b_2a3b",
-    "number_of_species": 2,
-    "pearson_symbol": "oC80",
-    "space_group_number": 36,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "43561"
+    "comments": null
 }

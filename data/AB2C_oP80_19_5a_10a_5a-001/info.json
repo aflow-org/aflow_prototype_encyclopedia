@@ -1,9 +1,19 @@
 {
     "uid": "K9SN",
+    "label": "AB2C_oP80_19_5a_10a_5a-001",
+    "alias": "AB2C_oP80_19_5a_10a_5a",
+    "title": "$\\beta$-Arabinose (CO$_{2}$H)$_{20}$ Structure",
+    "icsd": null,
+    "ccdc": "1100220",
     "prototype": "CH2O",
     "prototype_tex": "CH$_{2}$O",
-    "label": "AB2C_oP80_19_5a_10a_5a-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP80",
+    "space_group_number": 19,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -133,17 +143,8 @@
         0.9632,
         0.711
     ],
-    "strukturbericht": null,
-    "title": "$\\beta$-Arabinose (CO$_{2}$H)$_{20}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2C_oP80_19_5a_10a_5a",
-    "number_of_species": 3,
-    "pearson_symbol": "oP80",
-    "space_group_number": 19,
-    "ccdc": "1100220",
-    "comments": "The CIF provided by the CCDC uses a non-standard setting of space group $P2_{1}2_{1}2_{1}$ \\#19, but uses the coordinates provided by (Hordvick, 1961). This produces a somewhat different structure than we present.  We find no evidence that (Hordvick, 1961) used a non-standard setting, and our interatomic distances agree with the published numbers, so we will use the standard setting.",
+    "legacy": false,
     "notes": "$\\beta$-Arabinose",
-    "icsd": null
+    "comments": "The CIF provided by the CCDC uses a non-standard setting of space group $P2_{1}2_{1}2_{1}$ \\#19, but uses the coordinates provided by (Hordvick, 1961). This produces a somewhat different structure than we present.  We find no evidence that (Hordvick, 1961) used a non-standard setting, and our interatomic distances agree with the published numbers, so we will use the standard setting."
 }

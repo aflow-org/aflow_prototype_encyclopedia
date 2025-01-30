@@ -1,9 +1,19 @@
 {
     "uid": "TNC0",
+    "label": "A3B6C_mP40_14_3e_6e_e-001",
+    "alias": "A3B6C_mP40_14_3e_6e_e-001",
+    "title": "Propanal (C$_{3}$H$_{6}$O) Structure",
+    "icsd": null,
+    "ccdc": "2112476",
     "prototype": "C3H6O",
     "prototype_tex": "C$_{3}$H$_{6}$O",
-    "label": "A3B6C_mP40_14_3e_6e_e-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mP40",
+    "space_group_number": 14,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -75,17 +85,8 @@
         0.63345,
         0.92141
     ],
-    "strukturbericht": null,
-    "title": "Propanal (C$_{3}$H$_{6}$O) Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B6C_mP40_14_3e_6e_e-001",
-    "number_of_species": 3,
-    "pearson_symbol": "mP40",
-    "space_group_number": 14,
-    "ccdc": "2112476",
-    "comments": "(Maynard-Casely, 2022) gave the data for this structure in the $P2_{1}/a$ setting of space group \\#14.  We used AFLOW to transform it into the standard $P2_{1}/c$ setting. \n This sample of propanal melted at 164\\,K. Structural determination was performed at 100\\,K.",
+    "legacy": false,
     "notes": "Propanal",
-    "icsd": null
+    "comments": "(Maynard-Casely, 2022) gave the data for this structure in the $P2_{1}/a$ setting of space group \\#14.  We used AFLOW to transform it into the standard $P2_{1}/c$ setting. \n This sample of propanal melted at 164\\,K. Structural determination was performed at 100\\,K."
 }

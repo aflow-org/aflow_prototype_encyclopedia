@@ -1,9 +1,19 @@
 {
     "uid": "XX75",
+    "label": "A2B_cP12_212_c_a-001",
+    "alias": "A2B_cP12_212_c_a",
+    "title": "SrSi$_{2}$ Structure",
+    "icsd": "24145",
+    "ccdc": null,
     "prototype": "Si2Sr",
     "prototype_tex": "Si$_{2}$Sr",
-    "label": "A2B_cP12_212_c_a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cP12",
+    "space_group_number": 212,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "x2"
     ],
@@ -11,17 +21,8 @@
         6.54,
         0.428
     ],
-    "strukturbericht": null,
-    "title": "SrSi$_{2}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B_cP12_212_c_a",
-    "number_of_species": 2,
-    "pearson_symbol": "cP12",
-    "space_group_number": 212,
-    "comments": "This structure may also be found in the enantiomorphic space group $P4_{1}32$ \\#213.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "24145"
+    "comments": "This structure may also be found in the enantiomorphic space group $P4_{1}32$ \\#213."
 }

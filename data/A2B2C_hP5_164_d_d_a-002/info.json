@@ -1,9 +1,19 @@
 {
     "uid": "FG79",
+    "label": "A2B2C_hP5_164_d_d_a-002",
+    "alias": "A2B2C_hP5_164_d_d_a",
+    "title": "Ce$_{2}$O$_{2}$S Structure",
+    "icsd": "31639",
+    "ccdc": null,
     "prototype": "Ce2O2S",
     "prototype_tex": "Ce$_{2}$O$_{2}$S",
-    "label": "A2B2C_hP5_164_d_d_a-002",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP5",
+    "space_group_number": 164,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -15,17 +25,8 @@
         0.29,
         0.64
     ],
-    "strukturbericht": null,
-    "title": "Ce$_{2}$O$_{2}$S Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B2C_hP5_164_d_d_a",
-    "number_of_species": 3,
-    "pearson_symbol": "hP5",
-    "space_group_number": 164,
-    "comments": "This is the ternary form of the \\href{current_web_home_dir/A2B3_hP5_164_d_ad-001}{$D5_{2}$ La$_{2}$O$_{3}$} and the \\href{current_web_home_dir/A3B2_hP5_164_ad_d-001}{$D5_{13}$ Al$_{3}$Ni$_{2}$} structures.  We have separated it from the parents because of the large number of compounds involved. \n Authors after (Zachariasen, 1949) often use CaAl$_{2}$Si$_{2}$ as the prototype for this structure.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "31639"
+    "comments": "This is the ternary form of the \\href{current_web_home_dir/A2B3_hP5_164_d_ad-001}{$D5_{2}$ La$_{2}$O$_{3}$} and the \\href{current_web_home_dir/A3B2_hP5_164_ad_d-001}{$D5_{13}$ Al$_{3}$Ni$_{2}$} structures.  We have separated it from the parents because of the large number of compounds involved. \n Authors after (Zachariasen, 1949) often use CaAl$_{2}$Si$_{2}$ as the prototype for this structure."
 }

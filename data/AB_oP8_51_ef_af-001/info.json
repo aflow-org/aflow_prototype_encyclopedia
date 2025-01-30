@@ -1,9 +1,19 @@
 {
     "uid": "TKGJ",
+    "label": "AB_oP8_51_ef_af-001",
+    "alias": "AB_oP8_51_ef_af-001",
+    "title": "High-Pressure CuBi Structure",
+    "icsd": "253703",
+    "ccdc": null,
     "prototype": "BiCu",
     "prototype_tex": "BiCu",
-    "label": "AB_oP8_51_ef_af-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP8",
+    "space_group_number": 51,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -19,17 +29,8 @@
         0.2602,
         0.919
     ],
-    "strukturbericht": null,
-    "title": "High-Pressure CuBi Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_oP8_51_ef_af-001",
-    "number_of_species": 2,
-    "pearson_symbol": "oP8",
-    "space_group_number": 51,
-    "comments": "This is a high-pressure phase of CuBi, prepared at $P = 5$ GPa and $T = 720$ K.  Under ambient conditions CuBi is in the \\href{current_web_home_dir/AB_cF8_225_a_b-001}{rock salt ($B1$)} structure.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "253703"
+    "comments": "This is a high-pressure phase of CuBi, prepared at $P = 5$ GPa and $T = 720$ K.  Under ambient conditions CuBi is in the \\href{current_web_home_dir/AB_cF8_225_a_b-001}{rock salt ($B1$)} structure."
 }

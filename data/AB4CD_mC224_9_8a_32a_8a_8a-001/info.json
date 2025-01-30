@@ -1,9 +1,19 @@
 {
     "uid": "L704",
+    "label": "AB4CD_mC224_9_8a_32a_8a_8a-001",
+    "alias": "AB4CD_mC224_9_8a_32a_8a_8a-001",
+    "title": "$\\alpha$-LiZnPO$_{4}$ Structure",
+    "icsd": "65764",
+    "ccdc": null,
     "prototype": "LiO4PZn",
     "prototype_tex": "LiO$_{4}$PZn",
-    "label": "AB4CD_mC224_9_8a_32a_8a_8a-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "mC224",
+    "space_group_number": 9,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -351,17 +361,8 @@
         0.5341,
         0.2151
     ],
-    "strukturbericht": null,
-    "title": "$\\alpha$-LiZnPO$_{4}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB4CD_mC224_9_8a_32a_8a_8a-001",
-    "number_of_species": 4,
-    "pearson_symbol": "mC224",
-    "space_group_number": 9,
-    "comments": "LiZnPO$_{4}$ has been observed in a variety of structures. We list those which have know crystal structures: \\begin{itemize} \\item \\href{current_web_home_dir/AB4CD_mC224_9_8a_32a_8a_8a-001}{$\\alpha$-LiZnPO$_{4}$} (this structure) \\item \\href{current_web_home_dir/AB4CD_oP28_33_a_4a_a_a-001}{$\\delta_{1}$-LiZnPO$_{4}$}, and  \\item \\href{current_web_home_dir/AB4CD_hR42_146_2b_8b_2b_2b-001}{rhombohedral LiZnPO$_{4}$}. \\end{itemize}",
+    "legacy": false,
     "notes": "$\\alpha$-LiZnPO$_{4}$",
-    "ccdc": null,
-    "icsd": "65764"
+    "comments": "LiZnPO$_{4}$ has been observed in a variety of structures. We list those which have know crystal structures: \\begin{itemize} \\item \\href{current_web_home_dir/AB4CD_mC224_9_8a_32a_8a_8a-001}{$\\alpha$-LiZnPO$_{4}$} (this structure) \\item \\href{current_web_home_dir/AB4CD_oP28_33_a_4a_a_a-001}{$\\delta_{1}$-LiZnPO$_{4}$}, and  \\item \\href{current_web_home_dir/AB4CD_hR42_146_2b_8b_2b_2b-001}{rhombohedral LiZnPO$_{4}$}. \\end{itemize}"
 }

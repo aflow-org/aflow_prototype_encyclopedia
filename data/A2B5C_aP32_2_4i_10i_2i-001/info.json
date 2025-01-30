@@ -1,9 +1,19 @@
 {
     "uid": "4TPV",
+    "label": "A2B5C_aP32_2_4i_10i_2i-001",
+    "alias": "A2B5C_aP32_2_4i_10i_2i",
+    "title": "Kyanite (Al$_{2}$SiO$_{5}$, $S0_{1}$) Structure",
+    "icsd": "83450",
+    "ccdc": null,
     "prototype": "Al2O5Si",
     "prototype_tex": "Al$_{2}$O$_{5}$Si",
-    "label": "A2B5C_aP32_2_4i_10i_2i-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "aP32",
+    "space_group_number": 2,
+    "strukturbericht": "S0_1",
+    "strukturbericht_tex": "$S0_{1}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -115,18 +125,8 @@
         0.33168,
         0.18937
     ],
-    "strukturbericht": "S0_1",
-    "title": "Kyanite (Al$_{2}$SiO$_{5}$, $S0_{1}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$S0_{1}$",
     "compounds": {},
-    "alias": "A2B5C_aP32_2_4i_10i_2i",
-    "number_of_species": 3,
-    "pearson_symbol": "aP32",
-    "space_group_number": 2,
-    "comments": "Three crystal polymorphs of Al$_{2}$SiO$_{5}$ have been characterized, all with Al octahedra and chains of edge-sharing SiO$_{6}$ tetrahedra: \\begin{itemize} \\item \\href{current_web_home_dir/A2B5C_aP32_2_4i_10i_2i-001}{kyanite ($S0_{1}$), space group $P\\overline{1}$ \\#2} (this structure), \\item \\href{current_web_home_dir/A2B5C_oP32_58_eg_3gh_g-001}{andalusite ($S0_{2}$), space group $Pnnm$ \\#58}, and \\item \\href{current_web_home_dir/A2B5C_oP32_62_ac_3cd_c-001}{sillimanite ($S0_{3}$), space group $Pnma$ \\#62}. \\end{itemize} ~ \\vspace{-.25in} \n (Ewald, 1931) originally gave kyanite the {\\em Strukturbericht} designation $H5_{1}$, but this was changed to $S0_{1}$ in (Hermann, 1937). \n We use the ambient pressure data of (Yang, 1997).",
+    "legacy": false,
     "notes": "$S0_{1}$, Kyanite",
-    "ccdc": null,
-    "icsd": "83450"
+    "comments": "Three crystal polymorphs of Al$_{2}$SiO$_{5}$ have been characterized, all with Al octahedra and chains of edge-sharing SiO$_{6}$ tetrahedra: \\begin{itemize} \\item \\href{current_web_home_dir/A2B5C_aP32_2_4i_10i_2i-001}{kyanite ($S0_{1}$), space group $P\\overline{1}$ \\#2} (this structure), \\item \\href{current_web_home_dir/A2B5C_oP32_58_eg_3gh_g-001}{andalusite ($S0_{2}$), space group $Pnnm$ \\#58}, and \\item \\href{current_web_home_dir/A2B5C_oP32_62_ac_3cd_c-001}{sillimanite ($S0_{3}$), space group $Pnma$ \\#62}. \\end{itemize} ~ \\vspace{-.25in} \n (Ewald, 1931) originally gave kyanite the {\\em Strukturbericht} designation $H5_{1}$, but this was changed to $S0_{1}$ in (Hermann, 1937). \n We use the ambient pressure data of (Yang, 1997)."
 }

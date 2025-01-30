@@ -1,9 +1,19 @@
 {
     "uid": "KX5G",
+    "label": "AB_hR10_160_5a_5a-001",
+    "alias": "AB_hR10_160_5a_5a",
+    "title": "Moissanite-15R (SiC, $B7$) Structure",
+    "icsd": "24168",
+    "ccdc": null,
     "prototype": "CSi",
     "prototype_tex": "CSi",
-    "label": "AB_hR10_160_5a_5a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hR10",
+    "space_group_number": 160,
+    "strukturbericht": "B7",
+    "strukturbericht_tex": "$B7$",
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -31,18 +41,8 @@
         0.65,
         0.91667
     ],
-    "strukturbericht": "B7",
-    "title": "Moissanite-15R (SiC, $B7$) Structure",
-    "part": 2,
-    "legacy": false,
-    "strukturbericht_tex": "$B7$",
     "compounds": {},
-    "alias": "AB_hR10_160_5a_5a",
-    "number_of_species": 2,
-    "pearson_symbol": "hR10",
-    "space_group_number": 160,
-    "comments": "(Ewald, 1931) and (Thibault, 1944) both call this structure ``Type I $\\alpha$-silicon carbide.'' The atomic positions are not well determined. We follow (Thibault, 1944) and assume that the (0001) planes of carbon atoms are equally spaced, and that each carbon atom has a silicon atom at a distance of $c/20$ along the $z$ axis.",
+    "legacy": false,
     "notes": "$B7$, 15R Moissanite",
-    "ccdc": null,
-    "icsd": "24168"
+    "comments": "(Ewald, 1931) and (Thibault, 1944) both call this structure ``Type I $\\alpha$-silicon carbide.'' The atomic positions are not well determined. We follow (Thibault, 1944) and assume that the (0001) planes of carbon atoms are equally spaced, and that each carbon atom has a silicon atom at a distance of $c/20$ along the $z$ axis."
 }

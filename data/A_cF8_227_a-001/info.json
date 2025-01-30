@@ -1,26 +1,26 @@
 {
     "uid": "X5M8",
+    "label": "A_cF8_227_a-001",
+    "alias": "A_cF8_227_a",
+    "title": "Diamond ($A4$) Structure",
+    "icsd": "53779",
+    "ccdc": null,
     "prototype": "C",
     "prototype_tex": "C",
-    "label": "A_cF8_227_a-001",
-    "parameter_symbol": [
+    "number_of_species": 1,
+    "pearson_symbol": "cF8",
+    "space_group_number": 227,
+    "strukturbericht": "A4",
+    "strukturbericht_tex": "$A4$",
+    "part": 1,
+    "parameter_symbols": [
         "a"
     ],
     "parameter_values": [
         3.55
     ],
-    "strukturbericht": "A4",
-    "title": "Diamond ($A4$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$A4$",
     "compounds": {},
-    "alias": "A_cF8_227_a",
-    "number_of_species": 1,
-    "pearson_symbol": "cF8",
-    "space_group_number": 227,
-    "comments": "This is the first crystal structure to be determined by X-ray diffraction.",
+    "legacy": false,
     "notes": "$A4$, Diamond",
-    "ccdc": null,
-    "icsd": "53779"
+    "comments": "This is the first crystal structure to be determined by X-ray diffraction."
 }

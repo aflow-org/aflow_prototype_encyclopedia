@@ -1,9 +1,19 @@
 {
     "uid": "2343",
+    "label": "A11B3_mP56_14_11e_3e-001",
+    "alias": "A11B3_mP56_14_11e_3e",
+    "title": "Cs$_{11}$O$_{3}$ Structure",
+    "icsd": "1077",
+    "ccdc": null,
     "prototype": "Cs11O3",
     "prototype_tex": "Cs$_{11}$O$_{3}$",
-    "label": "A11B3_mP56_14_11e_3e-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "mP56",
+    "space_group_number": 14,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -99,17 +109,8 @@
         0.7036,
         0.6346
     ],
-    "strukturbericht": null,
-    "title": "Cs$_{11}$O$_{3}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A11B3_mP56_14_11e_3e",
-    "number_of_species": 2,
-    "pearson_symbol": "mP56",
-    "space_group_number": 14,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "1077"
+    "comments": null
 }

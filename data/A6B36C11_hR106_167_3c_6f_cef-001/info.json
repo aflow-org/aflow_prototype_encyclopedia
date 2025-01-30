@@ -1,9 +1,19 @@
 {
     "uid": "0MQ1",
+    "label": "A6B36C11_hR106_167_3c_6f_cef-001",
+    "alias": "A6B36C11_hR106_167_3c_6f_cef-001",
+    "title": "Cs$_{6}$W$_{11}$O$_{36}$ Structure",
+    "icsd": "80133",
+    "ccdc": null,
     "prototype": "Cs6O36W11",
     "prototype_tex": "Cs$_{6}$O$_{36}$W$_{11}$",
-    "label": "A6B36C11_hR106_167_3c_6f_cef-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hR106",
+    "space_group_number": 167,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -63,17 +73,8 @@
         0.65788,
         0.62488
     ],
-    "strukturbericht": null,
-    "title": "Cs$_{6}$W$_{11}$O$_{36}$ Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "A6B36C11_hR106_167_3c_6f_cef-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hR106",
-    "space_group_number": 167,
-    "comments": "(Okada, 1978) placed this in the monoclinic space group $Cc$ \\#9. (Marsh, 1995) determined that their data fit in space group $R\\overline{3}c$ \\#167, and we show that refinement here. \n \\href{current_web_home_dir/A6B36C11_mC212_9_6a_36a_11a-001}{The original orientation may be found here}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "80133"
+    "comments": "(Okada, 1978) placed this in the monoclinic space group $Cc$ \\#9. (Marsh, 1995) determined that their data fit in space group $R\\overline{3}c$ \\#167, and we show that refinement here. \n \\href{current_web_home_dir/A6B36C11_mC212_9_6a_36a_11a-001}{The original orientation may be found here}."
 }

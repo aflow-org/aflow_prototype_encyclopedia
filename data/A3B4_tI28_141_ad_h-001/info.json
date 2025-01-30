@@ -1,9 +1,19 @@
 {
     "uid": "KP7A",
+    "label": "A3B4_tI28_141_ad_h-001",
+    "alias": "A3B4_tI28_141_ad_h",
+    "title": "Haussmannite (Mn$_{3}$O$_{4}$) Structure",
+    "icsd": "68174",
+    "ccdc": null,
     "prototype": "Mn3O4",
     "prototype_tex": "Mn$_{3}$O$_{4}$",
-    "label": "A3B4_tI28_141_ad_h-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tI28",
+    "space_group_number": 141,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "y3",
@@ -15,17 +25,8 @@
         0.0278,
         0.2589
     ],
-    "strukturbericht": null,
-    "title": "Haussmannite (Mn$_{3}$O$_{4}$) Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B4_tI28_141_ad_h",
-    "number_of_species": 2,
-    "pearson_symbol": "tI28",
-    "space_group_number": 141,
+    "legacy": false,
     "notes": "Haussmannite",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "68174"
+    "comments": null
 }

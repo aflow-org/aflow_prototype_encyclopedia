@@ -1,9 +1,19 @@
 {
     "uid": "6V19",
+    "label": "AB3CD7E_tP52_78_a_3a_a_7a_a-001",
+    "alias": "AB3CD7E_tP52_78_a_3a_a_7a_a-001",
+    "title": "La(HCO$_{2}$)(SO$_{4}$)(H$_{2}$O) Structure",
+    "icsd": "248863",
+    "ccdc": null,
     "prototype": "CH3LaO7S",
     "prototype_tex": "CH$_{3}$LaO$_{7}$S",
-    "label": "AB3CD7E_tP52_78_a_3a_a_7a_a-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "tP52",
+    "space_group_number": 78,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -89,17 +99,8 @@
         0.25024,
         0.95025
     ],
-    "strukturbericht": null,
-    "title": "La(HCO$_{2}$)(SO$_{4}$)(H$_{2}$O) Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB3CD7E_tP52_78_a_3a_a_7a_a-001",
-    "number_of_species": 5,
-    "pearson_symbol": "tP52",
-    "space_group_number": 78,
-    "comments": "This left-handed (l-) chiral structure can also be found as a right-handed structure (d-) in the enantiomorphic space group $P4_{1}$ \\#76.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "248863"
+    "comments": "This left-handed (l-) chiral structure can also be found as a right-handed structure (d-) in the enantiomorphic space group $P4_{1}$ \\#76."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "QUVT",
+    "label": "AB12C6_tP76_85_2c_6g_3g-001",
+    "alias": "AB12C6_tP76_85_2c_6g_3g-001",
+    "title": "BaRu$_{6}$O$_{12}$ Structure",
+    "icsd": "61387",
+    "ccdc": null,
     "prototype": "BaO12Ru6",
     "prototype_tex": "BaO$_{12}$Ru$_{6}$",
-    "label": "AB12C6_tP76_85_2c_6g_3g-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tP76",
+    "space_group_number": 85,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -69,17 +79,8 @@
         0.0973,
         0.9205
     ],
-    "strukturbericht": null,
-    "title": "BaRu$_{6}$O$_{12}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB12C6_tP76_85_2c_6g_3g-001",
-    "number_of_species": 3,
-    "pearson_symbol": "tP76",
-    "space_group_number": 85,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "61387"
+    "comments": null
 }

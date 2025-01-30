@@ -1,9 +1,19 @@
 {
     "uid": "LH7J",
+    "label": "A2BCD3E6_cF208_203_e_c_d_f_g-001",
+    "alias": "A2BCD3E6_cF208_203_e_c_d_f_g",
+    "title": "Pyrochlore (Na$_{3}$Co(CO$_{3}$)$_{2}$Cl) Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "C2ClCoNa3O6",
     "prototype_tex": "C$_{2}$ClCoNa$_{3}$O$_{6}$",
-    "label": "A2BCD3E6_cF208_203_e_c_d_f_g-001",
-    "parameter_symbol": [
+    "number_of_species": 5,
+    "pearson_symbol": "cF208",
+    "space_group_number": 203,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "x3",
         "x4",
@@ -19,17 +29,8 @@
         0.7665,
         0.8531
     ],
-    "strukturbericht": null,
-    "title": "Pyrochlore (Na$_{3}$Co(CO$_{3}$)$_{2}$Cl) Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BCD3E6_cF208_203_e_c_d_f_g",
-    "number_of_species": 5,
-    "pearson_symbol": "cF208",
-    "space_group_number": 203,
-    "comments": "This structure was suggested to us by Prof. Joel Helton, United States Naval Academy. This is a pyrochlore-like antiferromagnet, which we loosely define as a structure with magnetic ions on the corners of corner-sharing tetrahedra. \n We use the structural data taken by (Fu, 2013) at 3.7K",
+    "legacy": false,
     "notes": "Pyrochlore",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "This structure was suggested to us by Prof. Joel Helton, United States Naval Academy. This is a pyrochlore-like antiferromagnet, which we loosely define as a structure with magnetic ions on the corners of corner-sharing tetrahedra. \n We use the structural data taken by (Fu, 2013) at 3.7K"
 }

@@ -1,9 +1,19 @@
 {
     "uid": "3QUZ",
+    "label": "A3B_hR12_166_ach_bc-001",
+    "alias": "A3B_hR12_166_ach_bc-001",
+    "title": "NbBe$_{3}$ Structure",
+    "icsd": "58723",
+    "ccdc": null,
     "prototype": "Be3Nb",
     "prototype_tex": "Be$_{3}$Nb",
-    "label": "A3B_hR12_166_ach_bc-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hR12",
+    "space_group_number": 166,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -19,17 +29,8 @@
         0.9142,
         0.4262
     ],
-    "strukturbericht": null,
-    "title": "NbBe$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A3B_hR12_166_ach_bc-001",
-    "number_of_species": 2,
-    "pearson_symbol": "hR12",
-    "space_group_number": 166,
-    "comments": "The ICSD uses PuNi$_{3}$ as the prototype for this structure. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "58723"
+    "comments": "The ICSD uses PuNi$_{3}$ as the prototype for this structure. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

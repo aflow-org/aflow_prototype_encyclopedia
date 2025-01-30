@@ -1,9 +1,19 @@
 {
     "uid": "BZC9",
+    "label": "A7B_hP24_187_ah2j2kn_j-001",
+    "alias": "A7B_hP24_187_ai2j2kn_j",
+    "title": "Cs$_{7}$O Structure",
+    "icsd": "111",
+    "ccdc": null,
     "prototype": "Cs7O",
     "prototype_tex": "Cs$_{7}$O",
-    "label": "A7B_hP24_187_ah2j2kn_j-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP24",
+    "space_group_number": 187,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -27,17 +37,8 @@
         0.18643,
         0.21992
     ],
-    "strukturbericht": null,
-    "title": "Cs$_{7}$O Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A7B_hP24_187_ai2j2kn_j",
-    "number_of_species": 2,
-    "pearson_symbol": "hP24",
-    "space_group_number": 187,
-    "comments": "This structure is composed of Cs$_{11}$O$_{3}$ molecules, similar to the building blocks of the \\href{current_web_home_dir/A11B3_mP56_14_11e_3e-001}{Cs$_{11}$O$_{3}$ structure}, interlaced with cesium atoms which have approximately the same spacing as in bcc-Cs. \n Lattice constant data was given at $-150^{\\circ}$C, while the atomic positions were given at $-175^{\\circ}$C.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "111"
+    "comments": "This structure is composed of Cs$_{11}$O$_{3}$ molecules, similar to the building blocks of the \\href{current_web_home_dir/A11B3_mP56_14_11e_3e-001}{Cs$_{11}$O$_{3}$ structure}, interlaced with cesium atoms which have approximately the same spacing as in bcc-Cs. \n Lattice constant data was given at $-150^{\\circ}$C, while the atomic positions were given at $-175^{\\circ}$C."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "KSW9",
+    "label": "AB6_oP28_29_a_6a-001",
+    "alias": "AB6_oP28_29_a_6a",
+    "title": "Mercury (II) Azide [Hg(N$_{3}$)$_{2}$] Structure",
+    "icsd": "21029",
+    "ccdc": null,
     "prototype": "HgN6",
     "prototype_tex": "HgN$_{6}$",
-    "label": "AB6_oP28_29_a_6a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP28",
+    "space_group_number": 29,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -55,17 +65,8 @@
         0.7,
         0.172
     ],
-    "strukturbericht": null,
-    "title": "Mercury (II) Azide [Hg(N$_{3}$)$_{2}$] Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB6_oP28_29_a_6a",
-    "number_of_species": 2,
-    "pearson_symbol": "oP28",
-    "space_group_number": 29,
+    "legacy": false,
     "notes": "Mercury (II) Azide",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "21029"
+    "comments": null
 }

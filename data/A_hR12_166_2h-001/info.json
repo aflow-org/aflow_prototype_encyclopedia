@@ -1,9 +1,19 @@
 {
     "uid": "1Y2H",
+    "label": "A_hR12_166_2h-001",
+    "alias": "A_hR12_166_2h",
+    "title": "$\\alpha$-B (R-12) Structure",
+    "icsd": "26487",
+    "ccdc": null,
     "prototype": "B",
     "prototype_tex": "B",
-    "label": "A_hR12_166_2h-001",
-    "parameter_symbol": [
+    "number_of_species": 1,
+    "pearson_symbol": "hR12",
+    "space_group_number": 166,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -19,17 +29,8 @@
         0.7794,
         0.3677
     ],
-    "strukturbericht": null,
-    "title": "$\\alpha$-B (R-12) Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "A_hR12_166_2h",
-    "number_of_species": 1,
-    "pearson_symbol": "hR12",
-    "space_group_number": 166,
-    "comments": "This is a metastable phase of boron, also known as rhombohedral-12 boron (Donohue, 1982).  It is the simplest known phase (the ground state, $\\beta$-B, has 105 atoms in the primitive cell). \n Note the relationship between the icosahedra in this structure, \\href{current_web_home_dir/A_hR105_166_ac9h4i-001}{$\\beta$-B} and \\href{current_web_home_dir/A_tP50_134_a2m2n-001}{T-50 B}. \n Hexagonal settings for rhombohedral structures can be obtained with the option {\\tt --hex}.",
+    "legacy": false,
     "notes": "R-105 $\\alpha$-Boron",
-    "ccdc": null,
-    "icsd": "26487"
+    "comments": "This is a metastable phase of boron, also known as rhombohedral-12 boron (Donohue, 1982).  It is the simplest known phase (the ground state, $\\beta$-B, has 105 atoms in the primitive cell). \n Note the relationship between the icosahedra in this structure, \\href{current_web_home_dir/A_hR105_166_ac9h4i-001}{$\\beta$-B} and \\href{current_web_home_dir/A_tP50_134_a2m2n-001}{T-50 B}. \n Hexagonal settings for rhombohedral structures can be obtained with the option {\\tt --hex}."
 }

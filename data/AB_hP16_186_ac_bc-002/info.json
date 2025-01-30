@@ -1,9 +1,19 @@
 {
     "uid": "VW80",
+    "label": "AB_hP16_186_ac_bc-002",
+    "alias": "AB_hP16_186_ac_bc-002",
+    "title": "Low Temperature Nb$_{1-x}$S Structure",
+    "icsd": "15679",
+    "ccdc": null,
     "prototype": "NbS",
     "prototype_tex": "NbS",
-    "label": "AB_hP16_186_ac_bc-002",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP16",
+    "space_group_number": 186,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -23,17 +33,8 @@
         0.8364,
         0.25
     ],
-    "strukturbericht": null,
-    "title": "Low Temperature Nb$_{1-x}$S Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_hP16_186_ac_bc-002",
-    "number_of_species": 2,
-    "pearson_symbol": "hP16",
-    "space_group_number": 186,
-    "comments": "This is the low-temperature structure of sulfur-rich NbS, tempered at $\\approx 650^\\circ$C from the high-temperature phase, which takes on the \\href{http://www.aflow.org/AB_oP8_62_c_c-002.html}{orthorhombic MnP ($B31$) structure}. The metal-rich form, Nb$_{1+x}$S, is in the \\href{http://www.aflow.org/AB_hP4_194_c_a.html}{NiAs ($B8_{1}$) structure}. \n (Kadijk, 1969) give the occupancy of the Nb (2a) site as 68\\%, making the stoichiometry of this sample Nb$_{0.92}$S. \n Space group $P6_{3}mc \\#186$ does not define the origin of the $z$-axis.  Here we follow (Kadijk, 1969) and set $z_{1} = 0$ for the Nb-I site. \n While (Kadijk, 1969) set x$_{4}$=0.1634 for the S II site, the ICSD entry uses x$_{4}$=-0.1634.  Using the former value gives unusual voids in the crystal structure which are not found with the later value.  Accordingly we use the ICSD value -0.1634.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "15679"
+    "comments": "This is the low-temperature structure of sulfur-rich NbS, tempered at $\\approx 650^\\circ$C from the high-temperature phase, which takes on the \\href{http://www.aflow.org/AB_oP8_62_c_c-002.html}{orthorhombic MnP ($B31$) structure}. The metal-rich form, Nb$_{1+x}$S, is in the \\href{http://www.aflow.org/AB_hP4_194_c_a.html}{NiAs ($B8_{1}$) structure}. \n (Kadijk, 1969) give the occupancy of the Nb (2a) site as 68\\%, making the stoichiometry of this sample Nb$_{0.92}$S. \n Space group $P6_{3}mc \\#186$ does not define the origin of the $z$-axis.  Here we follow (Kadijk, 1969) and set $z_{1} = 0$ for the Nb-I site. \n While (Kadijk, 1969) set x$_{4}$=0.1634 for the S II site, the ICSD entry uses x$_{4}$=-0.1634.  Using the former value gives unusual voids in the crystal structure which are not found with the later value.  Accordingly we use the ICSD value -0.1634."
 }

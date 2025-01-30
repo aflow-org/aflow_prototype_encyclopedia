@@ -1,9 +1,19 @@
 {
     "uid": "1SSV",
+    "label": "AB3_hP24_194_cf_abdk-001",
+    "alias": "AB3_hP24_194_cf_abdk-001",
+    "title": "CeNi$_{3}$ Structure",
+    "icsd": "102230",
+    "ccdc": null,
     "prototype": "CeNi3",
     "prototype_tex": "CeNi$_{3}$",
-    "label": "AB3_hP24_194_cf_abdk-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP24",
+    "space_group_number": 194,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z5",
@@ -17,17 +27,8 @@
         0.833403,
         0.12715
     ],
-    "strukturbericht": null,
-    "title": "CeNi$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB3_hP24_194_cf_abdk-001",
-    "number_of_species": 2,
-    "pearson_symbol": "hP24",
-    "space_group_number": 194,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "102230"
+    "comments": null
 }

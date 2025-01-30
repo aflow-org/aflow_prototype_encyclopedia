@@ -1,9 +1,19 @@
 {
     "uid": "MVBJ",
+    "label": "A7B3_hP40_163_e2i_i-001",
+    "alias": "A7B3_hP40_163_e2i_i-001",
+    "title": "Si$_{2}$Te$_{3}$ Structure",
+    "icsd": "30071",
+    "ccdc": null,
     "prototype": "Si2Te3",
     "prototype_tex": "Si$_{2}$Te$_{3}$",
-    "label": "A7B3_hP40_163_e2i_i-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP40",
+    "space_group_number": 163,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -31,17 +41,8 @@
         0.0067,
         0.118
     ],
-    "strukturbericht": null,
-    "title": "Si$_{2}$Te$_{3}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A7B3_hP40_163_e2i_i-001",
-    "number_of_species": 2,
-    "pearson_symbol": "hP40",
-    "space_group_number": 163,
-    "comments": "All of the silicon sites are only partially occupied:  Si-I (4c) is 47\\% filled, Si-II (12i) 18\\%, and Si-III (12i) 33\\%.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "30071"
+    "comments": "All of the silicon sites are only partially occupied:  Si-I (4c) is 47\\% filled, Si-II (12i) 18\\%, and Si-III (12i) 33\\%."
 }

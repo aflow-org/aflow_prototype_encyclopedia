@@ -1,9 +1,19 @@
 {
     "uid": "FFAL",
+    "label": "A2B2C7D2_hP26_188_i_h_cl_ab-001",
+    "alias": "A2B2C7D2_hP26_188_i_h_cl_ab-001",
+    "title": "Sr$_{2}$Be$_{2}$B$_{2}$O$_{7}$ Structure",
+    "icsd": "79025",
+    "ccdc": null,
     "prototype": "B2Be2O7Sr2",
     "prototype_tex": "B$_{2}$Be$_{2}$O$_{7}$Sr$_{2}$",
-    "label": "A2B2C7D2_hP26_188_i_h_cl_ab-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "hP26",
+    "space_group_number": 188,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z4",
@@ -21,17 +31,8 @@
         0.606803,
         0.6382
     ],
-    "strukturbericht": null,
-    "title": "Sr$_{2}$Be$_{2}$B$_{2}$O$_{7}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B2C7D2_hP26_188_i_h_cl_ab-001",
-    "number_of_species": 4,
-    "pearson_symbol": "hP26",
-    "space_group_number": 188,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "79025"
+    "comments": null
 }

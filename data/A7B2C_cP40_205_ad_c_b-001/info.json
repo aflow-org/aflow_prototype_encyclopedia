@@ -1,9 +1,19 @@
 {
     "uid": "NTUQ",
+    "label": "A7B2C_cP40_205_ad_c_b-001",
+    "alias": "A7B2C_cP40_205_bd_c_a",
+    "title": "ZrP$_{2}$O$_{7}$ ($K6_{1}$) High-Temperature Structure",
+    "icsd": "30272",
+    "ccdc": null,
     "prototype": "P2O7Zr",
     "prototype_tex": "P$_{2}$O$_{7}$Zr",
-    "label": "A7B2C_cP40_205_ad_c_b-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "cP40",
+    "space_group_number": 205,
+    "strukturbericht": "K6_1",
+    "strukturbericht_tex": "$K6_{1}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "x3",
         "x4",
@@ -17,18 +27,8 @@
         0.718,
         0.958
     ],
-    "strukturbericht": "K6_1",
-    "title": "ZrP$_{2}$O$_{7}$ ($K6_{1}$) High-Temperature Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$K6_{1}$",
     "compounds": {},
-    "alias": "A7B2C_cP40_205_bd_c_a",
-    "number_of_species": 3,
-    "pearson_symbol": "cP40",
-    "space_group_number": 205,
-    "comments": "This is the high temperature form of all the structures listed.  The low temperature structure depends on the composition.  Below 290$^{\\circ}$C ZrP$_{2}$O$_{7}$ transforms to an orthorhombic structure, space group $Pbca$ \\#61, with 136 unique crystallographic positions and 1080 atomic sites.  See (Birkedal, 2006) and (Stinton, 2006) for more details.",
+    "legacy": false,
     "notes": "$K6_{1}$",
-    "ccdc": null,
-    "icsd": "30272"
+    "comments": "This is the high temperature form of all the structures listed.  The low temperature structure depends on the composition.  Below 290$^{\\circ}$C ZrP$_{2}$O$_{7}$ transforms to an orthorhombic structure, space group $Pbca$ \\#61, with 136 unique crystallographic positions and 1080 atomic sites.  See (Birkedal, 2006) and (Stinton, 2006) for more details."
 }

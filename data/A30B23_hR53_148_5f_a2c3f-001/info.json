@@ -1,9 +1,19 @@
 {
     "uid": "DB0A",
+    "label": "A30B23_hR53_148_5f_a2c3f-001",
+    "alias": "A30B23_hR53_148_5f_a2c3f-001",
+    "title": "Mg$_{23}$Al$_{30}$ Structure",
+    "icsd": "57965",
+    "ccdc": null,
     "prototype": "Al30Mg23",
     "prototype_tex": "Al$_{30}$Mg$_{23}$",
-    "label": "A30B23_hR53_148_5f_a2c3f-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hR53",
+    "space_group_number": 148,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -63,17 +73,8 @@
         0.69151,
         0.06993
     ],
-    "strukturbericht": null,
-    "title": "Mg$_{23}$Al$_{30}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A30B23_hR53_148_5f_a2c3f-001",
-    "number_of_species": 2,
-    "pearson_symbol": "hR53",
-    "space_group_number": 148,
-    "comments": "(Samson, 1968) finds that the stoichiometry of this system is closer to Mg$_{22}$Al$_{31}$ than Mg$_{23}$Al$_{30}$, so there must be some substitutional disorder in this structure. \n We have shifted the origin so that the first magnesium atom is at (1a) (0 0 0) instead of (1b) (0 0 1/2). \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "57965"
+    "comments": "(Samson, 1968) finds that the stoichiometry of this system is closer to Mg$_{22}$Al$_{31}$ than Mg$_{23}$Al$_{30}$, so there must be some substitutional disorder in this structure. \n We have shifted the origin so that the first magnesium atom is at (1a) (0 0 0) instead of (1b) (0 0 1/2). \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

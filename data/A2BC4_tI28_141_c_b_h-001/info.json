@@ -1,9 +1,19 @@
 {
     "uid": "763J",
+    "label": "A2BC4_tI28_141_c_b_h-001",
+    "alias": "A2BC4_tI28_141_c_b_h-001",
+    "title": "CuCr$_{2}$O$_{4}$ Structure",
+    "icsd": "84378",
+    "ccdc": null,
     "prototype": "Cr2CuO4",
     "prototype_tex": "Cr$_{2}$CuO$_{4}$",
-    "label": "A2BC4_tI28_141_c_b_h-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "tI28",
+    "space_group_number": 141,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "y3",
@@ -15,17 +25,8 @@
         0.5262,
         0.2551
     ],
-    "strukturbericht": null,
-    "title": "CuCr$_{2}$O$_{4}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2BC4_tI28_141_c_b_h-001",
-    "number_of_species": 3,
-    "pearson_symbol": "tI28",
-    "space_group_number": 141,
-    "comments": "This is a tetragonal distortion of the \\href{current_web_home_dir/A2BC4_cF56_227_c_b_e-001}{spinel ($H1_{1}$) structure}.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "84378"
+    "comments": "This is a tetragonal distortion of the \\href{current_web_home_dir/A2BC4_cF56_227_c_b_e-001}{spinel ($H1_{1}$) structure}."
 }

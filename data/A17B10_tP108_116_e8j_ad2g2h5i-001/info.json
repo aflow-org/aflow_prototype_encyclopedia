@@ -1,9 +1,19 @@
 {
     "uid": "D8JE",
+    "label": "A17B10_tP108_116_e8j_ad2g2h5i-001",
+    "alias": "A17B10_tP108_116_e8j_ad2g2h5i-001",
+    "title": "Rh$_{10}$Ga$_{17}$ Structure",
+    "icsd": "103949",
+    "ccdc": null,
     "prototype": "Ga17Rh10",
     "prototype_tex": "Ga$_{17}$Rh$_{10}$",
-    "label": "A17B10_tP108_116_e8j_ad2g2h5i-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tP108",
+    "space_group_number": 116,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x3",
@@ -79,17 +89,8 @@
         0.735,
         0.0147
     ],
-    "strukturbericht": null,
-    "title": "Rh$_{10}$Ga$_{17}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A17B10_tP108_116_e8j_ad2g2h5i-001",
-    "number_of_species": 2,
-    "pearson_symbol": "tP108",
-    "space_group_number": 116,
-    "comments": "We have shifted the origin used by (Vollenkle, 1967) to place the Rh I atom on the (2a) site rather than the (2b) site.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "103949"
+    "comments": "We have shifted the origin used by (Vollenkle, 1967) to place the Rh I atom on the (2a) site rather than the (2b) site."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "6BNK",
+    "label": "ABC4_hP18_189_f_g_fgj-001",
+    "alias": "ABC4_hP18_189_f_g_fgj-001",
+    "title": "CsCrF$_{4}$ Structure",
+    "icsd": "2278",
+    "ccdc": null,
     "prototype": "CrCsF4",
     "prototype_tex": "CrCsF$_{4}$",
-    "label": "ABC4_hP18_189_f_g_fgj-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "hP18",
+    "space_group_number": 189,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x1",
@@ -23,17 +33,8 @@
         0.15968,
         0.43654
     ],
-    "strukturbericht": null,
-    "title": "CsCrF$_{4}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC4_hP18_189_f_g_fgj-001",
-    "number_of_species": 3,
-    "pearson_symbol": "hP18",
-    "space_group_number": 189,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "2278"
+    "comments": null
 }

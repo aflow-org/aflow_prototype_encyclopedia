@@ -1,9 +1,19 @@
 {
     "uid": "7BEE",
+    "label": "A21B13_hP136_183_abc3d6e2f_2ab3d5e-001",
+    "alias": "A21B13_hP136_183_abc3d6e2f_2ab3d5e-001",
+    "title": "Ta$_{21}$Te$_{13}$ Structure",
+    "icsd": "91811",
+    "ccdc": null,
     "prototype": "Ta21Te13",
     "prototype_tex": "Ta$_{21}$Te$_{13}$",
-    "label": "A21B13_hP136_183_abc3d6e2f_2ab3d5e-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP136",
+    "space_group_number": 183,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -103,17 +113,8 @@
         0.428,
         0.681
     ],
-    "strukturbericht": null,
-    "title": "Ta$_{21}$Te$_{13}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A21B13_hP136_183_abc3d6e2f_2ab3d5e-001",
-    "number_of_species": 2,
-    "pearson_symbol": "hP136",
-    "space_group_number": 183,
-    "comments": "This is a hexagonal {\\em approximate} of the quasicrystal dodecagonal tantalum telluride (dd-Ta$_{1.6}$Te) structure.  It may be useful as a starting point for first-principles calculations. \n Space group $P6mm$ \\#183 does not specify the origin of the $z$-axis.  We use the values of (Conrad, 2000). (Villars, 2006) sets $z_{2} = 0$ for the Te-I site.",
+    "legacy": false,
     "notes": "Approx. quasicrystal",
-    "ccdc": null,
-    "icsd": "91811"
+    "comments": "This is a hexagonal {\\em approximate} of the quasicrystal dodecagonal tantalum telluride (dd-Ta$_{1.6}$Te) structure.  It may be useful as a starting point for first-principles calculations. \n Space group $P6mm$ \\#183 does not specify the origin of the $z$-axis.  We use the values of (Conrad, 2000). (Villars, 2006) sets $z_{2} = 0$ for the Te-I site."
 }

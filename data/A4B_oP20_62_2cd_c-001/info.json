@@ -1,9 +1,19 @@
 {
     "uid": "8U8B",
+    "label": "A4B_oP20_62_2cd_c-001",
+    "alias": "A4B_oP20_62_2cd_c",
+    "title": "MgB$_{4}$ Structure",
+    "icsd": "23460",
+    "ccdc": null,
     "prototype": "B4Mg",
     "prototype_tex": "B$_{4}$Mg",
-    "label": "A4B_oP20_62_2cd_c-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP20",
+    "space_group_number": 62,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -31,17 +41,8 @@
         0.0579,
         0.06543
     ],
-    "strukturbericht": null,
-    "title": "MgB$_{4}$ Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B_oP20_62_2cd_c",
-    "number_of_species": 2,
-    "pearson_symbol": "oP20",
-    "space_group_number": 62,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "23460"
+    "comments": null
 }

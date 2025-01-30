@@ -1,9 +1,19 @@
 {
     "uid": "J7V3",
+    "label": "A2B3_cP60_212_acd_bce-001",
+    "alias": "A2B3_cP60_212_bcd_ace",
+    "title": "$\\gamma$-Fe$_{2}$O$_{3}$ ($D5_{7}$) Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "Fe2O3",
     "prototype_tex": "Fe$_{2}$O$_{3}$",
-    "label": "A2B3_cP60_212_acd_bce-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "cP60",
+    "space_group_number": 212,
+    "strukturbericht": "D5_7",
+    "strukturbericht_tex": "$D5_{7}$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "x3",
         "x4",
@@ -21,18 +31,8 @@
         0.629,
         0.129
     ],
-    "strukturbericht": "D5_7",
-    "title": "$\\gamma$-Fe$_{2}$O$_{3}$ ($D5_{7}$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$D5_{7}$",
     "compounds": {},
-    "alias": "A2B3_cP60_212_bcd_ace",
-    "number_of_species": 2,
-    "pearson_symbol": "cP60",
-    "space_group_number": 212,
-    "comments": "(Hermann, 1937) gives $\\gamma$-Al$_{2}$O$_{3}$ as the prototype for {\\em Strukturbericht} $D5_{7}$, but states that the data for $\\gamma$-Fe$_{2}$O$_{3}$ is more reliable and presents the data for the later compound, which we use as the prototype. \n More information about the Al$_{2}$O$_{3}$ compounds can be found on the \\href{current_web_home_dir/A2B3_hR10_167_c_e-001}{corundum ($D5_{1}$) page}. \n This is a \\href{current_web_home_dir/AB_cF8_225_a_b-001}{rock-salt ($B1$) structure with defects}.  \n This structure can also be expressed in the enantiomorphic space group $P4_{1}32$ \\#213.",
+    "legacy": false,
     "notes": "$D5_{7}$, $\\gamma$-Fe$_{2}$O$_{3}$",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "(Hermann, 1937) gives $\\gamma$-Al$_{2}$O$_{3}$ as the prototype for {\\em Strukturbericht} $D5_{7}$, but states that the data for $\\gamma$-Fe$_{2}$O$_{3}$ is more reliable and presents the data for the later compound, which we use as the prototype. \n More information about the Al$_{2}$O$_{3}$ compounds can be found on the \\href{current_web_home_dir/A2B3_hR10_167_c_e-001}{corundum ($D5_{1}$) page}. \n This is a \\href{current_web_home_dir/AB_cF8_225_a_b-001}{rock-salt ($B1$) structure with defects}.  \n This structure can also be expressed in the enantiomorphic space group $P4_{1}32$ \\#213."
 }

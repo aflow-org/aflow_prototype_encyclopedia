@@ -1,9 +1,19 @@
 {
     "uid": "2B7C",
+    "label": "ABC30DE20F2_oP220_29_a_a_30a_a_20a_2a-001",
+    "alias": "ABC30DE20F2_oP220_29_a_a_30a_a_20a_2a",
+    "title": "Low Temperature (NH$_{3}$CH$_{3}$)Al(SO$_{4}$)$_{2}$ $\\cdot$ 12H$_{2}$O Structure",
+    "icsd": "108970",
+    "ccdc": null,
     "prototype": "AlCH30NO20S2",
     "prototype_tex": "AlCH$_{30}$NO$_{20}$S$_{2}$",
-    "label": "ABC30DE20F2_oP220_29_a_a_30a_a_20a_2a-001",
-    "parameter_symbol": [
+    "number_of_species": 6,
+    "pearson_symbol": "oP220",
+    "space_group_number": 29,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -343,17 +353,8 @@
         0.581,
         0.085
     ],
-    "strukturbericht": null,
-    "title": "Low Temperature (NH$_{3}$CH$_{3}$)Al(SO$_{4}$)$_{2}$ $\\cdot$ 12H$_{2}$O Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC30DE20F2_oP220_29_a_a_30a_a_20a_2a",
-    "number_of_species": 6,
-    "pearson_symbol": "oP220",
-    "space_group_number": 29,
-    "comments": "The alums have the general formula AB(XO$_{4}$)$_{2}$ $\\cdot$ 12H$_{2}$O, where A is a monovalent ion, B is a trivalent ion, and X is a chalcogen.  In most cases atom B is aluminum and atom X is sulfur, leading to the name alum. \n All alums have their room-temperature form in space group $Pa\\overline{3}$ \\#205, but the bonding between the A and B ions and the XO$_{4}$ complex can be quite different. \n (Lipson, 1935abc) described three general forms of alum based on the sizes of the monovalent ions. Each of these forms was given a {\\em Strukturbericht} designation by (Gottfried, 1937): \\begin{itemize} \\item \\href{current_web_home_dir/AB24CD28E2_cP224_205_a_4d_b_2c4d_c-001}{$\\alpha$-alum, with intermediate sized ions, prototype KAl(SO$_{4}$)$_{2}$ $\\cdot$ 12H$_{2}$O, $H4_{13}$}, \\item \\href{current_web_home_dir/AB2C36D2E20F2_cP252_205_a_c_6d_c_c3d_c-001}{$\\beta$-alum, with large ions, prototype (NH$_{3}$CH$_{3}$)Al(SO$_{4}$)$_{2}$ $\\cdot$ 12H$_{2}$O, $H4_{14}$}, and \\item \\href{current_web_home_dir/AB24CD20E2_cP192_205_a_4d_b_c3d_c-001}{$\\gamma$-alum, with small ions, prototype NaAl(SO$_{4}$)$_{2}$ $\\cdot$ 12H$_{2}$O, $H4_{15}$}. \\end{itemize} ~ \\vspace{-.25in} \n This classification scheme is not compete, {\\em e.g.}, (Ledsham, 1968) points out that \\href{current_web_home_dir/AB12CD8E2_cP96_205_a_2d_b_cd_c-001}{NaCr(SO$_{4}$)$_{2}$ $\\cdot$ 12H$_{2}$O} does not fit into any of these categories, and that the actual structure depends on the combination of monovalent and trivalent ions. \n As noted above, the $Pa\\overline{3}$ structures of alum are the room temperature form.  As the temperature decreases the alum structure may transform.  For example, in the temperature range 150-170K the $\\beta$-alum (NH$_{3}$CH$_{3}$)Al(SO$_{4}$)$_{2}$ $\\cdot$ 12H$_{2}$O \\href{current_web_home_dir/ABC30DE20F2_oP220_29_a_a_30a_a_20a_2a-001}{transforms into this orthorhombic structure} with fully ordered NH$_{3}$CH$_{3}$ ions. \n The data presented here was taken at 113K.",
+    "legacy": false,
     "notes": "LT Alum",
-    "ccdc": null,
-    "icsd": "108970"
+    "comments": "The alums have the general formula AB(XO$_{4}$)$_{2}$ $\\cdot$ 12H$_{2}$O, where A is a monovalent ion, B is a trivalent ion, and X is a chalcogen.  In most cases atom B is aluminum and atom X is sulfur, leading to the name alum. \n All alums have their room-temperature form in space group $Pa\\overline{3}$ \\#205, but the bonding between the A and B ions and the XO$_{4}$ complex can be quite different. \n (Lipson, 1935abc) described three general forms of alum based on the sizes of the monovalent ions. Each of these forms was given a {\\em Strukturbericht} designation by (Gottfried, 1937): \\begin{itemize} \\item \\href{current_web_home_dir/AB24CD28E2_cP224_205_a_4d_b_2c4d_c-001}{$\\alpha$-alum, with intermediate sized ions, prototype KAl(SO$_{4}$)$_{2}$ $\\cdot$ 12H$_{2}$O, $H4_{13}$}, \\item \\href{current_web_home_dir/AB2C36D2E20F2_cP252_205_a_c_6d_c_c3d_c-001}{$\\beta$-alum, with large ions, prototype (NH$_{3}$CH$_{3}$)Al(SO$_{4}$)$_{2}$ $\\cdot$ 12H$_{2}$O, $H4_{14}$}, and \\item \\href{current_web_home_dir/AB24CD20E2_cP192_205_a_4d_b_c3d_c-001}{$\\gamma$-alum, with small ions, prototype NaAl(SO$_{4}$)$_{2}$ $\\cdot$ 12H$_{2}$O, $H4_{15}$}. \\end{itemize} ~ \\vspace{-.25in} \n This classification scheme is not compete, {\\em e.g.}, (Ledsham, 1968) points out that \\href{current_web_home_dir/AB12CD8E2_cP96_205_a_2d_b_cd_c-001}{NaCr(SO$_{4}$)$_{2}$ $\\cdot$ 12H$_{2}$O} does not fit into any of these categories, and that the actual structure depends on the combination of monovalent and trivalent ions. \n As noted above, the $Pa\\overline{3}$ structures of alum are the room temperature form.  As the temperature decreases the alum structure may transform.  For example, in the temperature range 150-170K the $\\beta$-alum (NH$_{3}$CH$_{3}$)Al(SO$_{4}$)$_{2}$ $\\cdot$ 12H$_{2}$O \\href{current_web_home_dir/ABC30DE20F2_oP220_29_a_a_30a_a_20a_2a-001}{transforms into this orthorhombic structure} with fully ordered NH$_{3}$CH$_{3}$ ions. \n The data presented here was taken at 113K."
 }

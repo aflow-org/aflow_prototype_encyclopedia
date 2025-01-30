@@ -1,9 +1,19 @@
 {
     "uid": "L8SE",
+    "label": "A5BC4_oP160_61_10c_2c_8c-001",
+    "alias": "A5BC4_oP160_61_10c_2c_8c-001",
+    "title": "Room Temperature Bornite (Cu$_{5}$FeS$_{4}$) Structure",
+    "icsd": "130921",
+    "ccdc": null,
     "prototype": "Cu5FeS4",
     "prototype_tex": "Cu$_{5}$FeS$_{4}$",
-    "label": "A5BC4_oP160_61_10c_2c_8c-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oP160",
+    "space_group_number": 61,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -133,17 +143,8 @@
         0.2579,
         0.2515
     ],
-    "strukturbericht": null,
-    "title": "Room Temperature Bornite (Cu$_{5}$FeS$_{4}$) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A5BC4_oP160_61_10c_2c_8c-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oP160",
-    "space_group_number": 61,
-    "comments": "Bornite can take on several forms at different temperatures (Martinelli, 2018): \\begin{itemize} \\item At temperatures above 508K it is cubic with an ``anti''-\\href{current_web_home_dir/AB2_cF12_225_a_c-001}{fluorite ($C1)$ structure}. \\item From 443K to 508K it becomes a \\href{current_web_home_dir/A7B_cF256_225_f2k_ce-001}{a supercell of an anti-fluorite structure}. \\item Below 443K it becomes orthorhombic, \\href{current_web_home_dir/A5BC4_oP160_61_10c_2c_8c-001}{in the $Pbca$ \\#61 space group} (this structure). \\item As temperatures drop into the 50-70K range it transforms in to the non-centrosymmetric \\href{current_web_home_dir/A5BC4_oP160_29_20a_4a_16a-001}{$Pca2_{1}$ \\#29 space group}. \\end{itemize} ~ \\vspace{-.25in} \n In all of these cases the sulfur atoms form a face-centered or nearly face-centered cubic lattice.\n Data for this room-temperature structure was taken at 275K.",
+    "legacy": false,
     "notes": "RT Bornite",
-    "ccdc": null,
-    "icsd": "130921"
+    "comments": "Bornite can take on several forms at different temperatures (Martinelli, 2018): \\begin{itemize} \\item At temperatures above 508K it is cubic with an ``anti''-\\href{current_web_home_dir/AB2_cF12_225_a_c-001}{fluorite ($C1)$ structure}. \\item From 443K to 508K it becomes a \\href{current_web_home_dir/A7B_cF256_225_f2k_ce-001}{a supercell of an anti-fluorite structure}. \\item Below 443K it becomes orthorhombic, \\href{current_web_home_dir/A5BC4_oP160_61_10c_2c_8c-001}{in the $Pbca$ \\#61 space group} (this structure). \\item As temperatures drop into the 50-70K range it transforms in to the non-centrosymmetric \\href{current_web_home_dir/A5BC4_oP160_29_20a_4a_16a-001}{$Pca2_{1}$ \\#29 space group}. \\end{itemize} ~ \\vspace{-.25in} \n In all of these cases the sulfur atoms form a face-centered or nearly face-centered cubic lattice.\n Data for this room-temperature structure was taken at 275K."
 }

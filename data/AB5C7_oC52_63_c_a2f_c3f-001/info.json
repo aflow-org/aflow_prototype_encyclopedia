@@ -1,9 +1,19 @@
 {
     "uid": "KAT1",
+    "label": "AB5C7_oC52_63_c_a2f_c3f-001",
+    "alias": "AB5C7_oC52_63_c_a2f_c3f-001",
+    "title": "CaFe$_{5}$O$_{7}$ Structure",
+    "icsd": "16356",
+    "ccdc": null,
     "prototype": "CaFe5O7",
     "prototype_tex": "CaFe$_{5}$O$_{7}$",
-    "label": "AB5C7_oC52_63_c_a2f_c3f-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "oC52",
+    "space_group_number": 63,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -37,17 +47,8 @@
         0.643,
         0.468
     ],
-    "strukturbericht": null,
-    "title": "CaFe$_{5}$O$_{7}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB5C7_oC52_63_c_a2f_c3f-001",
-    "number_of_species": 3,
-    "pearson_symbol": "oC52",
-    "space_group_number": 63,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "16356"
+    "comments": null
 }

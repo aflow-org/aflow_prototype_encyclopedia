@@ -1,9 +1,19 @@
 {
     "uid": "1G0H",
+    "label": "AB2_hP12_143_ad_bc2d-001",
+    "alias": "AB2_hP12_143_cd_ab2d",
+    "title": "Trigonal MoS$_{2}$ Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "MoS2",
     "prototype_tex": "MoS$_{2}$",
-    "label": "AB2_hP12_143_ad_bc2d-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP12",
+    "space_group_number": 143,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -35,17 +45,8 @@
         0.3333,
         0.75
     ],
-    "strukturbericht": null,
-    "title": "Trigonal MoS$_{2}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2_hP12_143_cd_ab2d",
-    "number_of_species": 2,
-    "pearson_symbol": "hP12",
-    "space_group_number": 143,
-    "comments": "MoS$_{2}$ exists naturally in two forms: a \\href{current_web_home_dir/AB2_hR3_160_a_2a-001}{rhombohedral structure} and \\href{current_web_home_dir/AB2_hP6_194_c_f-001}{the hexagonal structure, molybdenite, {\\em Strukturbericht} $C7$}.  The two structures differ due to the stacking of the MoS$_{2}$ layers. \n Depending on the preparation method, MoS$_{2}$ can exist in other forms, including this trigonal structure. \n Space group $P3$ \\# 143 allows an arbitrary choice of the origin of the z-axis.  Here we choose z$_{1}$ = 1/2 for the Mo I site.",
+    "legacy": false,
     "notes": "Trigonal MoS$_{2}$",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "MoS$_{2}$ exists naturally in two forms: a \\href{current_web_home_dir/AB2_hR3_160_a_2a-001}{rhombohedral structure} and \\href{current_web_home_dir/AB2_hP6_194_c_f-001}{the hexagonal structure, molybdenite, {\\em Strukturbericht} $C7$}.  The two structures differ due to the stacking of the MoS$_{2}$ layers. \n Depending on the preparation method, MoS$_{2}$ can exist in other forms, including this trigonal structure. \n Space group $P3$ \\# 143 allows an arbitrary choice of the origin of the z-axis.  Here we choose z$_{1}$ = 1/2 for the Mo I site."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "VMNQ",
+    "label": "AB4_tI10_87_a_h-001",
+    "alias": "AB4_tI10_87_a_h",
+    "title": "Ni$_{4}$Mo ($D1_{a}$) Structure",
+    "icsd": "105047",
+    "ccdc": null,
     "prototype": "MoNi4",
     "prototype_tex": "MoNi$_{4}$",
-    "label": "AB4_tI10_87_a_h-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tI10",
+    "space_group_number": 87,
+    "strukturbericht": "D1_a",
+    "strukturbericht_tex": "$D1_{a}$",
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "c/a",
         "x2",
@@ -15,18 +25,8 @@
         0.4,
         0.8
     ],
-    "strukturbericht": "D1_a",
-    "title": "Ni$_{4}$Mo ($D1_{a}$) Structure",
-    "part": 1,
-    "legacy": false,
-    "strukturbericht_tex": "$D1_{a}$",
     "compounds": {},
-    "alias": "AB4_tI10_87_a_h",
-    "number_of_species": 2,
-    "pearson_symbol": "tI10",
-    "space_group_number": 87,
+    "legacy": false,
     "notes": "$D1_{a}$",
-    "ccdc": null,
-    "comments": null,
-    "icsd": "105047"
+    "comments": null
 }

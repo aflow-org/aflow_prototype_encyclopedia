@@ -1,9 +1,19 @@
 {
     "uid": "T76D",
+    "label": "A3BC2_mC24_12_ij_g_hi-001",
+    "alias": "A3BC2_mC24_12_ij_h_gi",
+    "title": "LiOH$\\cdot$H$_{2}$O ($B36$) Structure",
+    "icsd": "9138",
+    "ccdc": null,
     "prototype": "H3LiO2",
     "prototype_tex": "H$_{3}$LiO$_{2}$",
-    "label": "A3BC2_mC24_12_ij_g_hi-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mC24",
+    "space_group_number": 12,
+    "strukturbericht": "B36",
+    "strukturbericht_tex": "$B36$",
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -33,18 +43,8 @@
         0.618,
         0.29
     ],
-    "strukturbericht": "B36",
-    "title": "LiOH$\\cdot$H$_{2}$O ($B36$) Structure",
-    "part": 3,
-    "legacy": false,
-    "strukturbericht_tex": "$B36$",
     "compounds": {},
-    "alias": "A3BC2_mC24_12_ij_h_gi",
-    "number_of_species": 3,
-    "pearson_symbol": "mC24",
-    "space_group_number": 12,
-    "comments": "The structure given in {\\em Strukturbericht} (Herrmann, 1943) does not list the hydrogen positions, instead giving positions for Li, OH and H$_{2}$O. (Alcock, 1971) found the hydrogen positions.",
+    "legacy": false,
     "notes": "$B36$",
-    "ccdc": null,
-    "icsd": "9138"
+    "comments": "The structure given in {\\em Strukturbericht} (Herrmann, 1943) does not list the hydrogen positions, instead giving positions for Li, OH and H$_{2}$O. (Alcock, 1971) found the hydrogen positions."
 }

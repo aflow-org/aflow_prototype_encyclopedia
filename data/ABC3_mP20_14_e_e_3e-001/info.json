@@ -1,9 +1,19 @@
 {
     "uid": "WCMH",
+    "label": "ABC3_mP20_14_e_e_3e-001",
+    "alias": "ABC3_mP20_14_e_e_3e-001",
+    "title": "HgMnO$_{3}$ HP1 Structure",
+    "icsd": "17092",
+    "ccdc": null,
     "prototype": "HgMnO3",
     "prototype_tex": "HgMnO$_{3}$",
-    "label": "ABC3_mP20_14_e_e_3e-001",
-    "parameter_symbol": [
+    "number_of_species": 3,
+    "pearson_symbol": "mP20",
+    "space_group_number": 14,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -45,17 +55,8 @@
         0.467,
         0.358
     ],
-    "strukturbericht": null,
-    "title": "HgMnO$_{3}$ HP1 Structure",
-    "part": 5,
-    "legacy": false,
     "compounds": {},
-    "alias": "ABC3_mP20_14_e_e_3e-001",
-    "number_of_species": 3,
-    "pearson_symbol": "mP20",
-    "space_group_number": 14,
-    "comments": "This is a high-pressure structure, formed at 18GPa and 1473K.  At 20GPa it transforms into the \\href{current_web_home_dir/AB3C_hR10_167_b_e_a-001}{PrNiO$_{3}$ perovskite structure}. \n The current sample was found to have a N\\'{e}el temperature of 32K, and the structural parameters were determined under ambient conditions. \n The ICSD puts this under the high-pressure \\href{current_web_home_dir/A3B2_mP20_14_3e_2e-001}{Pb$_{2}$O$_{3}$ structure} prototype, but the bonding of the metallic atoms to the oxygens is different in the two cases.",
+    "legacy": false,
     "notes": "HP-1",
-    "ccdc": null,
-    "icsd": "17092"
+    "comments": "This is a high-pressure structure, formed at 18GPa and 1473K.  At 20GPa it transforms into the \\href{current_web_home_dir/AB3C_hR10_167_b_e_a-001}{PrNiO$_{3}$ perovskite structure}. \n The current sample was found to have a N\\'{e}el temperature of 32K, and the structural parameters were determined under ambient conditions. \n The ICSD puts this under the high-pressure \\href{current_web_home_dir/A3B2_mP20_14_3e_2e-001}{Pb$_{2}$O$_{3}$ structure} prototype, but the bonding of the metallic atoms to the oxygens is different in the two cases."
 }

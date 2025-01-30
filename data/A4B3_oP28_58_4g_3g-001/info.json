@@ -1,9 +1,19 @@
 {
     "uid": "B01P",
+    "label": "A4B3_oP28_58_4g_3g-001",
+    "alias": "A4B3_oP28_58_4g_3g",
+    "title": "In$_{4}$Se$_{3}$ Structure",
+    "icsd": "2601",
+    "ccdc": null,
     "prototype": "In4Se3",
     "prototype_tex": "In$_{4}$Se$_{3}$",
-    "label": "A4B3_oP28_58_4g_3g-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP28",
+    "space_group_number": 58,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -41,17 +51,8 @@
         0.4239,
         0.156
     ],
-    "strukturbericht": null,
-    "title": "In$_{4}$Se$_{3}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4B3_oP28_58_4g_3g",
-    "number_of_species": 2,
-    "pearson_symbol": "oP28",
-    "space_group_number": 58,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "2601"
+    "comments": null
 }

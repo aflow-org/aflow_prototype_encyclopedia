@@ -1,9 +1,19 @@
 {
     "uid": "CPSQ",
+    "label": "AB_oP2_25_a_b-001",
+    "alias": "AB_oP2_25_b_a",
+    "title": "High-pressure CdTe Structure",
+    "icsd": "108237",
+    "ccdc": null,
     "prototype": "CdTe",
     "prototype_tex": "CdTe",
-    "label": "AB_oP2_25_a_b-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oP2",
+    "space_group_number": 25,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 1,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -17,17 +27,8 @@
         0.25,
         0.0
     ],
-    "strukturbericht": null,
-    "title": "High-pressure CdTe Structure",
-    "part": 1,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_oP2_25_b_a",
-    "number_of_species": 2,
-    "pearson_symbol": "oP2",
-    "space_group_number": 25,
-    "comments": "This is a high-pressure phase of CdTe. We use the data given for a pressure of 19.3 GPa. \n Space group $Pmm2$ \\#25 allows are arbritary origin in the $z$-direction.  Here we chose it to put the tellurium atom at the origin.",
+    "legacy": false,
     "notes": "19.3 GPa",
-    "ccdc": null,
-    "icsd": "108237"
+    "comments": "This is a high-pressure phase of CdTe. We use the data given for a pressure of 19.3 GPa. \n Space group $Pmm2$ \\#25 allows are arbritary origin in the $z$-direction.  Here we chose it to put the tellurium atom at the origin."
 }

@@ -1,9 +1,19 @@
 {
     "uid": "K2V9",
+    "label": "AB_tI4_119_c_a-001",
+    "alias": "AB_tI4_119_c_a",
+    "title": "GaSb (II) Structure",
+    "icsd": "none",
+    "ccdc": null,
     "prototype": "GaSb",
     "prototype_tex": "GaSb",
-    "label": "AB_tI4_119_c_a-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "tI4",
+    "space_group_number": 119,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a"
     ],
@@ -11,17 +21,8 @@
         5.479,
         0.558496
     ],
-    "strukturbericht": null,
-    "title": "GaSb (II) Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB_tI4_119_c_a",
-    "number_of_species": 2,
-    "pearson_symbol": "tI4",
-    "space_group_number": 119,
-    "comments": "This is the high-pressure phase of GaSb, stable above 60 kBar.  The ground state of GaSb has the \\href{current_web_home_dir/AB_cF8_216_a_c-001}{zincblende ($B3$) structure}. This sample remained metastable after cooling to 90K and releasing the pressure. \n If the atomic species are identical this becomes the \\href{current_web_home_dir/A_tI4_141_a-001}{$\\beta$-Sn ($A5$) structure}.",
+    "legacy": false,
     "notes": "$P > 60$kBar",
-    "ccdc": null,
-    "icsd": "none"
+    "comments": "This is the high-pressure phase of GaSb, stable above 60 kBar.  The ground state of GaSb has the \\href{current_web_home_dir/AB_cF8_216_a_c-001}{zincblende ($B3$) structure}. This sample remained metastable after cooling to 90K and releasing the pressure. \n If the atomic species are identical this becomes the \\href{current_web_home_dir/A_tI4_141_a-001}{$\\beta$-Sn ($A5$) structure}."
 }

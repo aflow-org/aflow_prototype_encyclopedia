@@ -1,9 +1,19 @@
 {
     "uid": "X7PG",
+    "label": "A4BC4D_tP10_123_gh_a_i_d-001",
+    "alias": "A4BC4D_tP10_123_gh_a_i_d",
+    "title": "CaRbFe$_{4}$As$_{4}$ (Superconducting) Structure",
+    "icsd": "252344",
+    "ccdc": null,
     "prototype": "As4CaFe4Rb",
     "prototype_tex": "As$_{4}$CaFe$_{4}$Rb",
-    "label": "A4BC4D_tP10_123_gh_a_i_d-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "tP10",
+    "space_group_number": 123,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z3",
@@ -17,17 +27,8 @@
         0.1193,
         0.2246
     ],
-    "strukturbericht": null,
-    "title": "CaRbFe$_{4}$As$_{4}$ (Superconducting) Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A4BC4D_tP10_123_gh_a_i_d",
-    "number_of_species": 4,
-    "pearson_symbol": "tP10",
-    "space_group_number": 123,
-    "comments": "These compounds form a family of stoichiometric superconductors with transition temperatures $T_{c}$ ranging from 26-37K.",
+    "legacy": false,
     "notes": "Superconductor",
-    "ccdc": null,
-    "icsd": "252344"
+    "comments": "These compounds form a family of stoichiometric superconductors with transition temperatures $T_{c}$ ranging from 26-37K."
 }

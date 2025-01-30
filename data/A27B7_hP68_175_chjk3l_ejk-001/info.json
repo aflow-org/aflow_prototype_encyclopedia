@@ -1,9 +1,19 @@
 {
     "uid": "V9AH",
+    "label": "A27B7_hP68_175_chjk3l_ejk-001",
+    "alias": "A27B7_hP68_175_chjk3l_ejk-001",
+    "title": "Ag$_{51}$Gd$_{14}$ Structure",
+    "icsd": "9085",
+    "ccdc": null,
     "prototype": "Ag51Gd14",
     "prototype_tex": "Ag$_{51}$Gd$_{14}$",
-    "label": "A27B7_hP68_175_chjk3l_ejk-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP68",
+    "space_group_number": 175,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z2",
@@ -49,17 +59,8 @@
         0.1049,
         0.3305
     ],
-    "strukturbericht": null,
-    "title": "Ag$_{51}$Gd$_{14}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A27B7_hP68_175_chjk3l_ejk-001",
-    "number_of_species": 2,
-    "pearson_symbol": "hP68",
-    "space_group_number": 175,
-    "comments": "This is often referred to as Ag$_{3.6}$Gd.  Sources such as (Wang, 2008) list this as Ag$_{51}$Gd$_{14}$, but the exact stoichiometry depends on the occupation of the Ag-III (6j) site.  If this site is half-filled we get the preferred stoichiometry.  The Al (6j) sites are quite close together, forming a hexagon of side 1.57{\\AA} with second neighbors at 2.72{\\AA}.  When the site is half filled it is likely that the three silver atoms form a triangle with side 2.57{\\AA} in one of the two allow orientations.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "9085"
+    "comments": "This is often referred to as Ag$_{3.6}$Gd.  Sources such as (Wang, 2008) list this as Ag$_{51}$Gd$_{14}$, but the exact stoichiometry depends on the occupation of the Ag-III (6j) site.  If this site is half-filled we get the preferred stoichiometry.  The Al (6j) sites are quite close together, forming a hexagon of side 1.57{\\AA} with second neighbors at 2.72{\\AA}.  When the site is half filled it is likely that the three silver atoms form a triangle with side 2.57{\\AA} in one of the two allow orientations."
 }

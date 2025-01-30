@@ -1,9 +1,19 @@
 {
     "uid": "R3D2",
+    "label": "A2B4CD4_hP66_181_k_2k_f_2k-001",
+    "alias": "A2B4CD4_hP66_181_k_2k_f_2k-001",
+    "title": "Co[Au(CN)$_{2}$]$_{2}$ Structure",
+    "icsd": "41197",
+    "ccdc": null,
     "prototype": "Au2C4CoN4",
     "prototype_tex": "Au$_{2}$C$_{4}$CoN$_{4}$",
-    "label": "A2B4CD4_hP66_181_k_2k_f_2k-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "hP66",
+    "space_group_number": 181,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -43,17 +53,8 @@
         0.2895,
         0.2361
     ],
-    "strukturbericht": null,
-    "title": "Co[Au(CN)$_{2}$]$_{2}$ Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B4CD4_hP66_181_k_2k_f_2k-001",
-    "number_of_species": 4,
-    "pearson_symbol": "hP66",
-    "space_group_number": 181,
-    "comments": "We follow (Abrahams, 1982) and put this structure in space group $P6_{4}22$ \\#181.  (Villars, 2006) give the structure in the enantiomorphic space group $P6_{2}22$ \\#180. The latter paper uses 0.0058 instead of 0.00058 for one of the coordinates of the gold atoms.  This change does not affect the distances between atoms published in (Abrahams, 1982), so we do not know which is correct.  We use 0.00058.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "41197"
+    "comments": "We follow (Abrahams, 1982) and put this structure in space group $P6_{4}22$ \\#181.  (Villars, 2006) give the structure in the enantiomorphic space group $P6_{2}22$ \\#180. The latter paper uses 0.0058 instead of 0.00058 for one of the coordinates of the gold atoms.  This change does not affect the distances between atoms published in (Abrahams, 1982), so we do not know which is correct.  We use 0.00058."
 }

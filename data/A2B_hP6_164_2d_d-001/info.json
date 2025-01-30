@@ -1,9 +1,19 @@
 {
     "uid": "TVVQ",
+    "label": "A2B_hP6_164_2d_d-001",
+    "alias": "A2B_hP6_164_2d_d-001",
+    "title": "$\\beta$-CuI (Keen-Hull) Structure",
+    "icsd": "78429",
+    "ccdc": null,
     "prototype": "CuI",
     "prototype_tex": "CuI",
-    "label": "A2B_hP6_164_2d_d-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "hP6",
+    "space_group_number": 164,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 4,
+    "parameter_symbols": [
         "a",
         "c/a",
         "z1",
@@ -17,17 +27,8 @@
         0.8786,
         0.242
     ],
-    "strukturbericht": null,
-    "title": "$\\beta$-CuI (Keen-Hull) Structure",
-    "part": 4,
-    "legacy": false,
     "compounds": {},
-    "alias": "A2B_hP6_164_2d_d-001",
-    "number_of_species": 2,
-    "pearson_symbol": "hP6",
-    "space_group_number": 164,
-    "comments": "Copper(I) iodide can be found in three forms (Keen, 1995): \\begin{itemize} \\item $\\alpha$-CuI is stable above $673\\pm8$K, and is in the \\href{current_web_home_dir/AB8_cF36_225_a_f-001}{$\\delta$-Bi$_{2}$O$_{3}$ structure}, with the iodine atoms on the (2a) Wyckoff positions and the copper atoms occupying 1/8 of the (32f) positions. \\item $\\gamma$-CuI (marshite) is the ground state, stable below $643\\pm2$K, and is also in the $\\delta$-Bi$_{2}$O$_{3}$ structure. \\item In the intermediate temperature range $\\beta$-CuI is generally agreed to be trigonal or hexagonal, but the exact structure is under dispute: \\begin{itemize} \\item (Kurdyumova, 1961) placed it in \\href{current_web_home_dir/AB_hP12_156_3a2bc_3a2bc-001}{trigonal space group $P3m1$ \\#156}.  Their unit cell is three times larger than the standard cell for this structure, and is now considered erroneous. (Abrahams, 2008). \\item (B\\\"{u}hrer, 1977) placed it in \\href{current_web_home_dir/A2B_hP6_187_gi_ad-001}{hexagonal space group $P\\overline{6}m2$ \\#187}, with the copper atoms partially occupying two sites. \\item (Sakuma, 1988) placed it in \\href{current_web_home_dir/AB_hP4_156_ab_ab-001}{trigonal space group $P3m1$ \\#156} with a smaller unit cell than (Kurdyumova, 1961) and no disorder on the copper sites. \\item (Keen, 1994) placed it in \\href{current_web_home_dir/A2B_hP6_164_2d_d-001}{trigonal space group $P\\overline{3}m1$ \\#164} (this structure), with a unit cell similar to (B\\\"{u}hrer, 1977) and (Sakuma, 1988).  Like the former paper, the oxygen positions are disordered. \\end{itemize} \\end{itemize} ~ \\vspace{-.25in} \n The data from (Keen, 1994) was taken at 655K.  \n The copper sites are only partially occupied:  Cu-I (2d) is 85.1\\% filled, with the remaining 14.9\\% of the copper atoms going on the Cu-II (2d) site.",
+    "legacy": false,
     "notes": "$\\beta$-CuI (Keen-Hull)",
-    "ccdc": null,
-    "icsd": "78429"
+    "comments": "Copper(I) iodide can be found in three forms (Keen, 1995): \\begin{itemize} \\item $\\alpha$-CuI is stable above $673\\pm8$K, and is in the \\href{current_web_home_dir/AB8_cF36_225_a_f-001}{$\\delta$-Bi$_{2}$O$_{3}$ structure}, with the iodine atoms on the (2a) Wyckoff positions and the copper atoms occupying 1/8 of the (32f) positions. \\item $\\gamma$-CuI (marshite) is the ground state, stable below $643\\pm2$K, and is also in the $\\delta$-Bi$_{2}$O$_{3}$ structure. \\item In the intermediate temperature range $\\beta$-CuI is generally agreed to be trigonal or hexagonal, but the exact structure is under dispute: \\begin{itemize} \\item (Kurdyumova, 1961) placed it in \\href{current_web_home_dir/AB_hP12_156_3a2bc_3a2bc-001}{trigonal space group $P3m1$ \\#156}.  Their unit cell is three times larger than the standard cell for this structure, and is now considered erroneous. (Abrahams, 2008). \\item (B\\\"{u}hrer, 1977) placed it in \\href{current_web_home_dir/A2B_hP6_187_gi_ad-001}{hexagonal space group $P\\overline{6}m2$ \\#187}, with the copper atoms partially occupying two sites. \\item (Sakuma, 1988) placed it in \\href{current_web_home_dir/AB_hP4_156_ab_ab-001}{trigonal space group $P3m1$ \\#156} with a smaller unit cell than (Kurdyumova, 1961) and no disorder on the copper sites. \\item (Keen, 1994) placed it in \\href{current_web_home_dir/A2B_hP6_164_2d_d-001}{trigonal space group $P\\overline{3}m1$ \\#164} (this structure), with a unit cell similar to (B\\\"{u}hrer, 1977) and (Sakuma, 1988).  Like the former paper, the oxygen positions are disordered. \\end{itemize} \\end{itemize} ~ \\vspace{-.25in} \n The data from (Keen, 1994) was taken at 655K.  \n The copper sites are only partially occupied:  Cu-I (2d) is 85.1\\% filled, with the remaining 14.9\\% of the copper atoms going on the Cu-II (2d) site."
 }

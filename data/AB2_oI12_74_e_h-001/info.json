@@ -1,9 +1,19 @@
 {
     "uid": "237T",
+    "label": "AB2_oI12_74_e_h-001",
+    "alias": "AB2_oI12_74_e_h",
+    "title": "CeCu$_{2}$ Structure",
+    "icsd": "102124",
+    "ccdc": null,
     "prototype": "CeCu2",
     "prototype_tex": "CeCu$_{2}$",
-    "label": "AB2_oI12_74_e_h-001",
-    "parameter_symbol": [
+    "number_of_species": 2,
+    "pearson_symbol": "oI12",
+    "space_group_number": 74,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 3,
+    "parameter_symbols": [
         "a",
         "b/a",
         "c/a",
@@ -19,17 +29,8 @@
         0.051,
         0.1648
     ],
-    "strukturbericht": null,
-    "title": "CeCu$_{2}$ Structure",
-    "part": 3,
-    "legacy": false,
     "compounds": {},
-    "alias": "AB2_oI12_74_e_h",
-    "number_of_species": 2,
-    "pearson_symbol": "oI12",
-    "space_group_number": 74,
-    "ccdc": null,
-    "comments": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "102124"
+    "comments": null
 }

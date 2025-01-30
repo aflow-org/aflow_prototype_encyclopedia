@@ -1,9 +1,19 @@
 {
     "uid": "19XK",
+    "label": "A5BCD6_cF416_228_eg_c_b_h-001",
+    "alias": "A5BCD6_cF416_228_eg_c_b_h",
+    "title": "CuCrCl$_{5}$[NH$_{3}$]$_{6}$ Structure",
+    "icsd": "22076",
+    "ccdc": null,
     "prototype": "Cl5CrCuH18N6",
     "prototype_tex": "Cl$_{5}$CrCuH$_{18}$N$_{6}$",
-    "label": "A5BCD6_cF416_228_eg_c_b_h-001",
-    "parameter_symbol": [
+    "number_of_species": 4,
+    "pearson_symbol": "cF416",
+    "space_group_number": 228,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 2,
+    "parameter_symbols": [
         "a",
         "x3",
         "y4",
@@ -19,17 +29,8 @@
         0.68,
         0.28
     ],
-    "strukturbericht": null,
-    "title": "CuCrCl$_{5}$[NH$_{3}$]$_{6}$ Structure",
-    "part": 2,
-    "legacy": false,
     "compounds": {},
-    "alias": "A5BCD6_cF416_228_eg_c_b_h",
-    "number_of_species": 4,
-    "pearson_symbol": "cF416",
-    "space_group_number": 228,
-    "comments": "The nitrogen atoms in this structure actually represent NH$_{3}$ complexes centered on the (192h) Wyckoff positions.",
-    "ccdc": null,
+    "legacy": false,
     "notes": null,
-    "icsd": "22076"
+    "comments": "The nitrogen atoms in this structure actually represent NH$_{3}$ complexes centered on the (192h) Wyckoff positions."
 }
