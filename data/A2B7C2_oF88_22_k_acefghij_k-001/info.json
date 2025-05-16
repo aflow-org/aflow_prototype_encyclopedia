@@ -1,7 +1,9 @@
 {
     "uid": "71CA",
     "label": "A2B7C2_oF88_22_k_acefghij_k-001",
-    "alias": "A2B7C2_oF88_22_k_bdefghij_k",
+    "alias": [
+        "A2B7C2_oF88_22_k_bdefghij_k"
+    ],
     "title": "Predicted Phase IV Cd$_{2}$Re$_{2}$O$_{7}$ Structure",
     "icsd": "none",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "J45L",
     "label": "ABC6D2_mC40_15_e_e_3f_f-002",
-    "alias": "ABC6D2_mC40_15_e_e_3f_f.S4_1",
+    "alias": [
+        "ABC6D2_mC40_15_e_e_3f_f.S4_1"
+    ],
     "title": "Diopside [CaMg(SiO$_{3}$)$_{2}$, $S4_{1}$] Structure",
     "icsd": "12128",
     "ccdc": null,

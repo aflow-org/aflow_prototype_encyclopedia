@@ -1,7 +1,9 @@
 {
     "uid": "T892",
     "label": "A2BC2_tI20_79_c_2a_c-001",
-    "alias": "A2BC2_tI20_79_c_2a_c",
+    "alias": [
+        "A2BC2_tI20_79_c_2a_c"
+    ],
     "title": "TlZn$_{2}$Sb$_{2}$ Structure",
     "icsd": "76499",
     "ccdc": null,

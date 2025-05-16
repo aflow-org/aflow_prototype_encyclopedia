@@ -1,7 +1,9 @@
 {
     "uid": "9JE2",
     "label": "AB_oP4_59_a_b-001",
-    "alias": "AB_oP4_59_a_b",
+    "alias": [
+        "AB_oP4_59_a_b"
+    ],
     "title": "Vulcanite (CuTe) Structure",
     "icsd": "42591",
     "ccdc": null,

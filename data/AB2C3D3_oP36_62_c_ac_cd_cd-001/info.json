@@ -1,7 +1,9 @@
 {
     "uid": "4QUY",
     "label": "AB2C3D3_oP36_62_c_ac_cd_cd-001",
-    "alias": "AB2C3D3_oP36_62_c_ac_cd_cd",
+    "alias": [
+        "AB2C3D3_oP36_62_c_ac_cd_cd"
+    ],
     "title": "Atacamite (Cu$_{2}$(OH)$_{3}$Cl) Structure",
     "icsd": "61252",
     "ccdc": null,

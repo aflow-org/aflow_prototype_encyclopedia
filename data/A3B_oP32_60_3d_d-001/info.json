@@ -1,7 +1,9 @@
 {
     "uid": "S00Q",
     "label": "A3B_oP32_60_3d_d-001",
-    "alias": "A3B_oP32_60_3d_d",
+    "alias": [
+        "A3B_oP32_60_3d_d"
+    ],
     "title": "$\\beta$-WO$_{3}$ Structure",
     "icsd": "50729",
     "ccdc": null,

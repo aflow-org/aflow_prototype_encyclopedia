@@ -1,7 +1,9 @@
 {
     "uid": "BX6K",
     "label": "ABC2_oC16_67_a_g_bg-001",
-    "alias": "ABC2_oC16_67_b_g_ag",
+    "alias": [
+        "ABC2_oC16_67_b_g_ag"
+    ],
     "title": "HoCuP$_{2}$ Structure",
     "icsd": "94443",
     "ccdc": null,

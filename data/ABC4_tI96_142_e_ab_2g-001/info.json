@@ -1,7 +1,9 @@
 {
     "uid": "B2Y6",
     "label": "ABC4_tI96_142_e_ab_2g-001",
-    "alias": "ABC4_tI96_142_e_ab_2g",
+    "alias": [
+        "ABC4_tI96_142_e_ab_2g"
+    ],
     "title": "PPrS$_{4}$ Structure",
     "icsd": "201897",
     "ccdc": null,

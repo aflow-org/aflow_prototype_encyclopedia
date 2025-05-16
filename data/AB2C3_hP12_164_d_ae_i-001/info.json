@@ -1,7 +1,9 @@
 {
     "uid": "DCW7",
     "label": "AB2C3_hP12_164_d_ae_i-001",
-    "alias": "AB2C3_hP12_164_d_ae_i",
+    "alias": [
+        "AB2C3_hP12_164_d_ae_i"
+    ],
     "title": "Jacutingaite (Pt$_{2}$HgSe$_{3}$) Structure",
     "icsd": "185808",
     "ccdc": null,

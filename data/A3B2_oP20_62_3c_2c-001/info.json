@@ -1,7 +1,9 @@
 {
     "uid": "1WMN",
     "label": "A3B2_oP20_62_3c_2c-001",
-    "alias": "A3B2_oP20_62_3c_2c",
+    "alias": [
+        "A3B2_oP20_62_3c_2c"
+    ],
     "title": "Stibnite (Sb$_{2}$S$_{3}$, $D5_{8}$) Structure",
     "icsd": "171850",
     "ccdc": null,

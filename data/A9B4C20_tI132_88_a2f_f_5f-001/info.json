@@ -1,7 +1,9 @@
 {
     "uid": "JMG5",
     "label": "A9B4C20_tI132_88_a2f_f_5f-001",
-    "alias": "A9B4C20_tI132_88_a2f_f_5f",
+    "alias": [
+        "A9B4C20_tI132_88_a2f_f_5f"
+    ],
     "title": "Na$_{4}$Ge$_{9}$O$_{20}$ Structure",
     "icsd": "24087",
     "ccdc": null,

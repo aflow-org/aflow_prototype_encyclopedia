@@ -1,7 +1,9 @@
 {
     "uid": "1BVC",
     "label": "A25B21_hR92_167_b2e3f_e3f-001",
-    "alias": "A25B21_hR92_167_b2e3f_e3f",
+    "alias": [
+        "A25B21_hR92_167_b2e3f_e3f"
+    ],
     "title": "Zr$_{21}$Re$_{25}$ Structure",
     "icsd": "105909",
     "ccdc": null,

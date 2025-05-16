@@ -1,7 +1,9 @@
 {
     "uid": "GH4J",
     "label": "AB_oP8_62_c_c-003",
-    "alias": "AB_oP8_62_c_c.FeB",
+    "alias": [
+        "AB_oP8_62_c_c.FeB"
+    ],
     "title": "FeB ($B27$) Structure",
     "icsd": "33577",
     "ccdc": null,

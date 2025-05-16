@@ -1,7 +1,9 @@
 {
     "uid": "12L3",
     "label": "A3B2_oP20_52_de_cd-001",
-    "alias": "A3B2_oP20_52_de_cd",
+    "alias": [
+        "A3B2_oP20_52_de_cd"
+    ],
     "title": "Sr$_{2}$Bi$_{3}$ Structure",
     "icsd": "164987",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "9U6F",
     "label": "A3B_cI32_204_g_c-001",
-    "alias": "A3B_cI32_204_g_c",
+    "alias": [
+        "A3B_cI32_204_g_c"
+    ],
     "title": "Skutterudite (CoAs$_{3}$, $D0_{2}$) Structure",
     "icsd": "9188",
     "ccdc": null,

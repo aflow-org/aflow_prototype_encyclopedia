@@ -1,7 +1,9 @@
 {
     "uid": "SENW",
     "label": "A4B2C_tI14_139_ce_e_a-001",
-    "alias": "A4B2C_tI14_139_ce_e_a",
+    "alias": [
+        "A4B2C_tI14_139_ce_e_a"
+    ],
     "title": "K$_{2}$NiF$_{4}$ Structure",
     "icsd": "15576",
     "ccdc": null,

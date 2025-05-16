@@ -1,7 +1,9 @@
 {
     "uid": "L0GQ",
     "label": "AB3C4_oP16_31_a_ab_2ab-001",
-    "alias": "AB3C4_oP16_31_a_ab_2ab",
+    "alias": [
+        "AB3C4_oP16_31_a_ab_2ab"
+    ],
     "title": "Enargite (AsCu$_{3}$S$_{4}$, $H2_{5}$) Structure",
     "icsd": "14285",
     "ccdc": null,

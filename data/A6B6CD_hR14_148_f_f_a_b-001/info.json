@@ -1,7 +1,9 @@
 {
     "uid": "5954",
     "label": "A6B6CD_hR14_148_f_f_a_b-001",
-    "alias": "A6B6CD_hR14_148_f_f_b_a",
+    "alias": [
+        "A6B6CD_hR14_148_f_f_b_a"
+    ],
     "title": "Ni(H$_{2}$O)$_{6}$SnCl$_{6}$ ($I6_{1}$) Structure",
     "icsd": "26679",
     "ccdc": null,

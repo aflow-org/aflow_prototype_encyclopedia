@@ -1,7 +1,9 @@
 {
     "uid": "CAYJ",
     "label": "AB4C2_oP28_62_c_4c_2c-001",
-    "alias": "AB4C2_oP28_62_c_4c_2c",
+    "alias": [
+        "AB4C2_oP28_62_c_4c_2c"
+    ],
     "title": "Berthierite (FeSb$_{2}$S$_{4}$, $E3_{3}$) Structure",
     "icsd": "185792",
     "ccdc": null,

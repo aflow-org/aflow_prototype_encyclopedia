@@ -1,7 +1,9 @@
 {
     "uid": "H9NP",
     "label": "AB3C2D_hR7_160_a_b_2a_a-001",
-    "alias": "AB3C2D_hR7_160_a_b_2a_a",
+    "alias": [
+        "AB3C2D_hR7_160_a_b_2a_a"
+    ],
     "title": "Cronstedtite {Fe(Fe,Si)[(OH)$_{2}$O]O$_{3}$OH, $S5_{7}$} Structure",
     "icsd": "161270",
     "ccdc": null,

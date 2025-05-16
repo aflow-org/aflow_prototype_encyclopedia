@@ -1,7 +1,9 @@
 {
     "uid": "0HDN",
     "label": "AB_cF32_227_c_d-001",
-    "alias": "AB_cF32_227_c_d",
+    "alias": [
+        "AB_cF32_227_c_d"
+    ],
     "title": "Cubic CuPt [$L1_{3}(I)$, $D4$] Structure",
     "icsd": "none",
     "ccdc": null,

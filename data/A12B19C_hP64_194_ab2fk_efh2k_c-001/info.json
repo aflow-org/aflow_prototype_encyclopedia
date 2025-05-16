@@ -1,7 +1,9 @@
 {
     "uid": "5L5V",
     "label": "A12B19C_hP64_194_ab2fk_efh2k_c-001",
-    "alias": "A12B19C_hP64_194_ab2fk_efh2k_d",
+    "alias": [
+        "A12B19C_hP64_194_ab2fk_efh2k_d"
+    ],
     "title": "Magnetoplumbite (PbFe$_{12}$O$_{19}$) Structure",
     "icsd": "36259",
     "ccdc": null,

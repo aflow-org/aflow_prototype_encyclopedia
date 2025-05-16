@@ -1,7 +1,9 @@
 {
     "uid": "UEMM",
     "label": "AB_hP12_164_c2d_c2d-001",
-    "alias": "AB_hP12_164_c2d_c2d",
+    "alias": [
+        "AB_hP12_164_c2d_c2d"
+    ],
     "title": "Nevskite (BiSe) Structure",
     "icsd": "79019",
     "ccdc": null,

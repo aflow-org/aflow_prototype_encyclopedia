@@ -1,7 +1,9 @@
 {
     "uid": "HPJW",
     "label": "A3B_tP16_130_cf_c-001",
-    "alias": "A3B_tP16_130_cf_c",
+    "alias": [
+        "A3B_tP16_130_cf_c"
+    ],
     "title": "$\\alpha$-WO$_{3}$ Structure",
     "icsd": "50732",
     "ccdc": null,

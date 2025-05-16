@@ -1,7 +1,9 @@
 {
     "uid": "1G0H",
     "label": "AB2_hP12_143_ad_bc2d-001",
-    "alias": "AB2_hP12_143_cd_ab2d",
+    "alias": [
+        "AB2_hP12_143_cd_ab2d"
+    ],
     "title": "Trigonal MoS$_{2}$ Structure",
     "icsd": "none",
     "ccdc": null,

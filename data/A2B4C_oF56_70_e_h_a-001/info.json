@@ -1,7 +1,9 @@
 {
     "uid": "8CBQ",
     "label": "A2B4C_oF56_70_e_h_a-001",
-    "alias": "A2B4C_oF56_70_g_h_a",
+    "alias": [
+        "A2B4C_oF56_70_g_h_a"
+    ],
     "title": "Thenardite [Na$_{2}$SO$_{4}$ (V), $H1_{7}$] Structure",
     "icsd": "2895",
     "ccdc": null,

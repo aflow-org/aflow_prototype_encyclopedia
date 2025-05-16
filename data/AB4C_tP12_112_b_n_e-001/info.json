@@ -1,7 +1,9 @@
 {
     "uid": "FV74",
     "label": "AB4C_tP12_112_b_n_e-001",
-    "alias": "AB4C_tP12_112_b_n_e",
+    "alias": [
+        "AB4C_tP12_112_b_n_e"
+    ],
     "title": "$\\alpha$-CuAlCl$_{4}$ Structure",
     "icsd": "165608",
     "ccdc": null,

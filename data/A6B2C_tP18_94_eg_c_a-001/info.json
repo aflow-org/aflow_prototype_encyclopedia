@@ -1,7 +1,9 @@
 {
     "uid": "1ZGT",
     "label": "A6B2C_tP18_94_eg_c_a-001",
-    "alias": "A6B2C_tP18_94_eg_c_a",
+    "alias": [
+        "A6B2C_tP18_94_eg_c_a"
+    ],
     "title": "Li$_{2}$MoF$_{6}$ Structure",
     "icsd": "23173",
     "ccdc": null,

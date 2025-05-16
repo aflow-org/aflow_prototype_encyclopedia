@@ -1,7 +1,9 @@
 {
     "uid": "RJ86",
     "label": "AB2_tP12_115_j_egi-001",
-    "alias": "AB2_tP12_115_j_egi",
+    "alias": [
+        "AB2_tP12_115_j_egi"
+    ],
     "title": "Orange (averaged) HgI$_{2}$ Structure",
     "icsd": "none",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "D6BJ",
     "label": "ABC3_oP40_17_abcd_2e_abcd4e-001",
-    "alias": "ABC3_oP40_17_abcd_2e_abcd4e",
+    "alias": [
+        "ABC3_oP40_17_abcd_2e_abcd4e"
+    ],
     "title": "Ferroelectric NaNbO$_{3}$ $P222_{1}$ Lueshite Perovskite Structure",
     "icsd": "76432",
     "ccdc": null,

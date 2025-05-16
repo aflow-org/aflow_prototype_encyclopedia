@@ -1,7 +1,9 @@
 {
     "uid": "3BJR",
     "label": "ABC_cF12_216_a_c_b-001",
-    "alias": "ABC_cF12_216_b_c_a",
+    "alias": [
+        "ABC_cF12_216_b_c_a"
+    ],
     "title": "Half\u2013Heusler (AgAsMg, $C1_{b}$) Structure",
     "icsd": "43819",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "XNAH",
     "label": "A2B_hP36_177_j2lm_n-001",
-    "alias": "A2B_hP36_177_j2lm_n",
+    "alias": [
+        "A2B_hP36_177_j2lm_n"
+    ],
     "title": "Hypothetical Hexagonal SiO$_{2}$ Structure",
     "icsd": "170519",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "J7L1",
     "label": "A2B3C4D_oP40_62_d_cd_2cd_c-001",
-    "alias": "A2B3C4D_oP40_62_d_cd_2cd_c",
+    "alias": [
+        "A2B3C4D_oP40_62_d_cd_2cd_c"
+    ],
     "title": "Norbergite [Mg(F,OH)$_{2}\\cdot$ Mg$_{2}$SiO$_{6}$, $S0_{7}$] Structure",
     "icsd": "15203",
     "ccdc": null,

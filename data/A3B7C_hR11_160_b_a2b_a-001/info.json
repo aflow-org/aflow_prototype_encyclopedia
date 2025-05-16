@@ -1,7 +1,9 @@
 {
     "uid": "JN4A",
     "label": "A3B7C_hR11_160_b_a2b_a-001",
-    "alias": "A3B7C_hR11_160_b_a2b_a",
+    "alias": [
+        "A3B7C_hR11_160_b_a2b_a"
+    ],
     "title": "Fe$_{3}$PO$_{7}$ Structure",
     "icsd": "36207",
     "ccdc": null,

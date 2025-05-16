@@ -1,7 +1,9 @@
 {
     "uid": "HL9W",
     "label": "A5BC2_tI32_140_bl_a_h-001",
-    "alias": "A5BC2_tI32_140_bl_a_h",
+    "alias": [
+        "A5BC2_tI32_140_bl_a_h"
+    ],
     "title": "(NH$_{4}$)Pb$_{2}$Br$_{5}$ ($K3_{4}$) Structure ({\\em Erroneous})",
     "icsd": "26662",
     "ccdc": null,

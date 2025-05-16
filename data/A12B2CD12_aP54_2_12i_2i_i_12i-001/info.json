@@ -1,7 +1,9 @@
 {
     "uid": "6GLF",
     "label": "A12B2CD12_aP54_2_12i_2i_i_12i-001",
-    "alias": "A12B2CD12_aP54_2_12i_2i_i_12i",
+    "alias": [
+        "A12B2CD12_aP54_2_12i_2i_i_12i"
+    ],
     "title": "Ni(NO$_{3}$)(H$_{2}$O)$_{3}$ Structure",
     "icsd": "9127",
     "ccdc": null,

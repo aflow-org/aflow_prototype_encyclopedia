@@ -1,7 +1,9 @@
 {
     "uid": "416G",
     "label": "AB4C_tP6_123_b_eg_c-001",
-    "alias": "AB4C_tP6_123_d_eh_a",
+    "alias": [
+        "AB4C_tP6_123_d_eh_a"
+    ],
     "title": "TlAlF$_{4}$ ($H0_{8}$) Structure",
     "icsd": "25615",
     "ccdc": null,

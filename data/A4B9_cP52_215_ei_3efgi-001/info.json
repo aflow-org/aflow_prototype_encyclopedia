@@ -1,7 +1,9 @@
 {
     "uid": "TRNX",
     "label": "A4B9_cP52_215_ei_3efgi-001",
-    "alias": "A4B9_cP52_215_ei_3efgi",
+    "alias": [
+        "A4B9_cP52_215_ei_3efgi"
+    ],
     "title": "$\\gamma$-brass (Cu$_{9}$Al$_{4}$, $D8_{3}$) Structure",
     "icsd": "1625",
     "ccdc": null,

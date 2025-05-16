@@ -1,7 +1,9 @@
 {
     "uid": "BFE0",
     "label": "AB_tI16_140_ab_h-001",
-    "alias": "AB_tI16_140_ab_h",
+    "alias": [
+        "AB_tI16_140_ab_h"
+    ],
     "title": "$\\beta$-SeTl ($B37$) Structure",
     "icsd": "30219",
     "ccdc": null,

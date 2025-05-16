@@ -1,7 +1,9 @@
 {
     "uid": "KA1Q",
     "label": "AB5C2_oC32_63_a_cef_g-001",
-    "alias": "AB5C2_oC32_63_a_cef_g",
+    "alias": [
+        "AB5C2_oC32_63_a_cef_g"
+    ],
     "title": "Refined Tl$_{2}$AlF$_{5}$ Structure",
     "icsd": "109365",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "JTSA",
     "label": "AB2_oC12_36_a_2a-002",
-    "alias": "AB2_oC12_36_a_2a",
+    "alias": [
+        "AB2_oC12_36_a_2a"
+    ],
     "title": "MoP$_{2}$ Structure",
     "icsd": "43331",
     "ccdc": null,

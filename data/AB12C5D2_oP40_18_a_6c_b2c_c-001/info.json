@@ -1,7 +1,9 @@
 {
     "uid": "5HSN",
     "label": "AB12C5D2_oP40_18_a_6c_b2c_c-001",
-    "alias": "AB12C5D2_oP40_18_a_6c_b2c_c",
+    "alias": [
+        "AB12C5D2_oP40_18_a_6c_b2c_c"
+    ],
     "title": "Diamminetriamidodizinc Chloride ([Zn$_{2}$(NH$_{3}$)$_{2}$(NH$_{2}$)$_{3}$]Cl) Structure",
     "icsd": "31831",
     "ccdc": null,

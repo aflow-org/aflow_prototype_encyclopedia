@@ -1,7 +1,9 @@
 {
     "uid": "3F7M",
     "label": "AB27CD3_cP32_221_a_dij_b_c-001",
-    "alias": "AB27CD3_cP32_221_a_dij_b_c",
+    "alias": [
+        "AB27CD3_cP32_221_a_dij_b_c"
+    ],
     "title": "Model of Austenite Structure (cP32)",
     "icsd": "none",
     "ccdc": null,

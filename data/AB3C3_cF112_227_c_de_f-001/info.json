@@ -1,7 +1,9 @@
 {
     "uid": "WVM5",
     "label": "AB3C3_cF112_227_c_de_f-001",
-    "alias": "AB3C3_cF112_227_c_de_f",
+    "alias": [
+        "AB3C3_cF112_227_c_de_f"
+    ],
     "title": "$\\eta$-carbide (Fe$_{3}$W$_{3}$C, $E9_{3}$) Structure",
     "icsd": "43230",
     "ccdc": null,

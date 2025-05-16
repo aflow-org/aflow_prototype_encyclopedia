@@ -1,7 +1,9 @@
 {
     "uid": "MULK",
     "label": "A_mC24_15_2e2f-001",
-    "alias": "A_mC24_15_2e2f",
+    "alias": [
+        "A_mC24_15_2e2f"
+    ],
     "title": "H-III (300 GPa) Structure",
     "icsd": "none",
     "ccdc": null,

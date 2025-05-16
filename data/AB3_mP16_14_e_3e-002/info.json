@@ -1,7 +1,9 @@
 {
     "uid": "3XCA",
     "label": "AB3_mP16_14_e_3e-002",
-    "alias": "AB3_mP16_14_e_3e",
+    "alias": [
+        "AB3_mP16_14_e_3e"
+    ],
     "title": "``$P2_1/c$''-B$_{2}$H$_{6}$ Structure",
     "icsd": "none",
     "ccdc": null,

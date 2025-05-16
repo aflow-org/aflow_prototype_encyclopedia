@@ -1,7 +1,9 @@
 {
     "uid": "4M8A",
     "label": "AB2C_cF16_216_a_bc_d-001",
-    "alias": "AB2C_cF16_216_b_ad_c",
+    "alias": [
+        "AB2C_cF16_216_b_ad_c"
+    ],
     "title": "Hg$_{2}$TiCu Inverse Heusler Structure",
     "icsd": "102972",
     "ccdc": null,

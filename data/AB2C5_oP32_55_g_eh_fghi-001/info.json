@@ -1,7 +1,9 @@
 {
     "uid": "KF2N",
     "label": "AB2C5_oP32_55_g_eh_fghi-001",
-    "alias": "AB2C5_oP32_55_g_fh_eghi",
+    "alias": [
+        "AB2C5_oP32_55_g_fh_eghi"
+    ],
     "title": "HoMn$_{2}$O$_{5}$ Structure",
     "icsd": "none",
     "ccdc": null,

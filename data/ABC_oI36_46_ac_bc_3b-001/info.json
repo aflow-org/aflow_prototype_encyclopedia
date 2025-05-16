@@ -1,7 +1,9 @@
 {
     "uid": "7FJR",
     "label": "ABC_oI36_46_ac_bc_3b-001",
-    "alias": "ABC_oI36_46_ac_bc_3b",
+    "alias": [
+        "ABC_oI36_46_ac_bc_3b"
+    ],
     "title": "TiFeSi Structure",
     "icsd": "41157",
     "ccdc": null,

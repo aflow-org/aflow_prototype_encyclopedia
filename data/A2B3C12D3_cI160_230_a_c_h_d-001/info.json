@@ -1,7 +1,9 @@
 {
     "uid": "YMRU",
     "label": "A2B3C12D3_cI160_230_a_c_h_d-001",
-    "alias": "A2B3C12D3_cI160_230_a_c_h_d",
+    "alias": [
+        "A2B3C12D3_cI160_230_a_c_h_d"
+    ],
     "title": "Garnet [$S1_{4}$, Co$_{3}$Al$_{2}$(SiO$_{4}$)$_{3}$] Structure",
     "icsd": "81358",
     "ccdc": null,

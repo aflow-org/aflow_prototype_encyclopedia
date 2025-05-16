@@ -1,7 +1,9 @@
 {
     "uid": "5CQR",
     "label": "A2BC_tP16_76_2a_a_a-001",
-    "alias": "A2BC_tP16_76_2a_a_a",
+    "alias": [
+        "A2BC_tP16_76_2a_a_a"
+    ],
     "title": "LaRhC$_{2}$ Structure",
     "icsd": "100986",
     "ccdc": null,

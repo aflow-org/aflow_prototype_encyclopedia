@@ -1,7 +1,9 @@
 {
     "uid": "9L36",
     "label": "A2B_oP24_62_4c_2c-001",
-    "alias": "A2B_oP24_62_4c_2c",
+    "alias": [
+        "A2B_oP24_62_4c_2c"
+    ],
     "title": "Cs$_{2}$Sb Structure",
     "icsd": "92474",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "7UTD",
     "label": "A2B8C_oP22_34_c_4c_a-001",
-    "alias": "A2B8C_oP22_34_c_4c_a",
+    "alias": [
+        "A2B8C_oP22_34_c_4c_a"
+    ],
     "title": "TiAl$_{2}$Br$_{8}$ Structure",
     "icsd": "39243",
     "ccdc": null,

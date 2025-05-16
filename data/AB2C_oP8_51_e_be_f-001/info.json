@@ -1,7 +1,9 @@
 {
     "uid": "LY1V",
     "label": "AB2C_oP8_51_e_be_f-001",
-    "alias": "AB2C_oP8_51_e_be_f",
+    "alias": [
+        "AB2C_oP8_51_e_be_f"
+    ],
     "title": "Parkerite (Ni$_{3}$Bi$_{2}$S$_{4}$) Structure",
     "icsd": "70052",
     "ccdc": null,

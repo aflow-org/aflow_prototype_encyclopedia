@@ -1,7 +1,9 @@
 {
     "uid": "50N0",
     "label": "ABC4D_oI28_74_a_c_hi_e-001",
-    "alias": "ABC4D_oI28_74_a_d_hi_e",
+    "alias": [
+        "ABC4D_oI28_74_a_d_hi_e"
+    ],
     "title": "LiCuVO$_{4}$ Structure",
     "icsd": "65677",
     "ccdc": null,

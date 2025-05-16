@@ -1,7 +1,9 @@
 {
     "uid": "KM59",
     "label": "A9B3C_hP26_194_hk_h_a-001",
-    "alias": "A9B3C_hP26_194_hk_h_a",
+    "alias": [
+        "A9B3C_hP26_194_hk_h_a"
+    ],
     "title": "Al$_{9}$Mn$_{3}$Si ($E9_{c}$) Structure",
     "icsd": "76249",
     "ccdc": null,

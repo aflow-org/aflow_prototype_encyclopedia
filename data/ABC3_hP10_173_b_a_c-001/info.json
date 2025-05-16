@@ -1,7 +1,9 @@
 {
     "uid": "DF6Y",
     "label": "ABC3_hP10_173_b_a_c-001",
-    "alias": "ABC3_hP10_173_b_a_c",
+    "alias": [
+        "ABC3_hP10_173_b_a_c"
+    ],
     "title": "$\\alpha$-LiIO$_{3}$ Structure",
     "icsd": "14377",
     "ccdc": null,

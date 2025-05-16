@@ -1,7 +1,9 @@
 {
     "uid": "QDTB",
     "label": "AB4C4D4E_mC56_15_e_2f_2f_2f_a-001",
-    "alias": "AB4C4D4E_mC56_15_e_2f_2f_2f_a",
+    "alias": [
+        "AB4C4D4E_mC56_15_e_2f_2f_2f_a"
+    ],
     "title": "BaNi(CN)$_{4}\\cdot$4H$_{2}$O ($H4_{22}$) Structure",
     "icsd": "15002",
     "ccdc": null,

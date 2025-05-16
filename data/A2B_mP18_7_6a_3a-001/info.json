@@ -1,7 +1,9 @@
 {
     "uid": "34FL",
     "label": "A2B_mP18_7_6a_3a-001",
-    "alias": "A2B_mP18_7_6a_3a",
+    "alias": [
+        "A2B_mP18_7_6a_3a"
+    ],
     "title": "BaAs$_{2}$ Structure",
     "icsd": "414139",
     "ccdc": null,

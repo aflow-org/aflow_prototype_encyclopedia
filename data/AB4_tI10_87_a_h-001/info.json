@@ -1,7 +1,9 @@
 {
     "uid": "VMNQ",
     "label": "AB4_tI10_87_a_h-001",
-    "alias": "AB4_tI10_87_a_h",
+    "alias": [
+        "AB4_tI10_87_a_h"
+    ],
     "title": "Ni$_{4}$Mo ($D1_{a}$) Structure",
     "icsd": "105047",
     "ccdc": null,

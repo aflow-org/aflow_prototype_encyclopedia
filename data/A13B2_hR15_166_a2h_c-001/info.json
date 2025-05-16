@@ -1,7 +1,9 @@
 {
     "uid": "PZDF",
     "label": "A13B2_hR15_166_a2h_c-001",
-    "alias": "A13B2_hR15_166_b2h_c",
+    "alias": [
+        "A13B2_hR15_166_b2h_c"
+    ],
     "title": "B$_{13}$C$_{2}$ ``B$_{4}$C'' ($D1_{g}$) Structure",
     "icsd": "612566",
     "ccdc": null,

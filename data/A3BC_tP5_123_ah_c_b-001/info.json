@@ -1,7 +1,9 @@
 {
     "uid": "5MRT",
     "label": "A3BC_tP5_123_ah_c_b-001",
-    "alias": "A3BC_tP5_123_cg_a_d",
+    "alias": [
+        "A3BC_tP5_123_cg_a_d"
+    ],
     "title": "NH$_{4}$HgCl$_{3}$ ($E2_{5}$) Structure",
     "icsd": "15962",
     "ccdc": null,

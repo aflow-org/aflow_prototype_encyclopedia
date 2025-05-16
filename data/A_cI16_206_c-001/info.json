@@ -1,7 +1,9 @@
 {
     "uid": "83MZ",
     "label": "A_cI16_206_c-001",
-    "alias": "A_cI16_206_c",
+    "alias": [
+        "A_cI16_206_c"
+    ],
     "title": "BC8 (Si) Structure",
     "icsd": "none",
     "ccdc": null,

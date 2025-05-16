@@ -1,7 +1,9 @@
 {
     "uid": "0VRY",
     "label": "ABC_tP6_129_c_a_c-001",
-    "alias": "ABC_tP6_129_c_a_c",
+    "alias": [
+        "ABC_tP6_129_c_a_c"
+    ],
     "title": "Matlockite ($E0_{1}$, PbFCl) Structure",
     "icsd": "82884",
     "ccdc": null,

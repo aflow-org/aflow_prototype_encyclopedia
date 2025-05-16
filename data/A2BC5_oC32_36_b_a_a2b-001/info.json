@@ -1,7 +1,9 @@
 {
     "uid": "ZATP",
     "label": "A2BC5_oC32_36_b_a_a2b-001",
-    "alias": "A2BC5_oC32_36_b_a_a2b",
+    "alias": [
+        "A2BC5_oC32_36_b_a_a2b"
+    ],
     "title": "Bi$_{2}$GeO$_{5}$ Structure",
     "icsd": "49685",
     "ccdc": null,

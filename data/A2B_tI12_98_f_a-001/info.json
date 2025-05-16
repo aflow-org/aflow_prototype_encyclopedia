@@ -1,7 +1,9 @@
 {
     "uid": "G4QQ",
     "label": "A2B_tI12_98_f_a-001",
-    "alias": "A2B_tI12_98_f_a",
+    "alias": [
+        "A2B_tI12_98_f_a"
+    ],
     "title": "CdAs$_{2}$ Structure",
     "icsd": "609931",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "3V7H",
     "label": "A_hP1_191_a-001",
-    "alias": "A_hP1_191_a",
+    "alias": [
+        "A_hP1_191_a"
+    ],
     "title": "Simple Hexagonal (HgSn$_{6-10}$ $A_{f}$) Structure",
     "icsd": "639211",
     "ccdc": null,

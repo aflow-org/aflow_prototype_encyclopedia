@@ -1,7 +1,9 @@
 {
     "uid": "VJ5B",
     "label": "A_tP4_136_f-001",
-    "alias": "A_tP4_136_f",
+    "alias": [
+        "A_tP4_136_f"
+    ],
     "title": "$\\gamma$-N Structure",
     "icsd": "24891",
     "ccdc": null,

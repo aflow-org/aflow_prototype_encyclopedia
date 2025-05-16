@@ -1,7 +1,9 @@
 {
     "uid": "0H5D",
     "label": "A2B2C7_oC88_64_ef_df_3f2g-001",
-    "alias": "A2B2C7_oC88_64_ef_df_3f2g",
+    "alias": [
+        "A2B2C7_oC88_64_ef_df_3f2g"
+    ],
     "title": "Na$_{2}$Mo$_{2}$O$_{7}$ Structure",
     "icsd": "24041",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "K8N1",
     "label": "AB2C_oC16_40_a_2b_b-001",
-    "alias": "AB2C_oC16_40_a_2b_b",
+    "alias": [
+        "AB2C_oC16_40_a_2b_b"
+    ],
     "title": "K$_{2}$CdPb Structure",
     "icsd": "10041",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "5RVU",
     "label": "A3B_hP8_185_c_a-001",
-    "alias": "A3B_hP8_185_c_a",
+    "alias": [
+        "A3B_hP8_185_c_a"
+    ],
     "title": "$\\beta$-RuCl$_{3}$ Structure",
     "icsd": "22092",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "Q6TN",
     "label": "AB7CD2_oI44_24_a_c3d_b_ab-001",
-    "alias": "AB7CD2_oI44_24_a_b3d_c_ac",
+    "alias": [
+        "AB7CD2_oI44_24_a_b3d_c_ac"
+    ],
     "title": "Weberite (Na$_{2}$MgAlF$_{7}$) Structure",
     "icsd": "33512",
     "ccdc": null,

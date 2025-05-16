@@ -1,7 +1,9 @@
 {
     "uid": "USY5",
     "label": "AB2_oP6_58_a_g-003",
-    "alias": "AB2_oP6_58_a_g.FeS2",
+    "alias": [
+        "AB2_oP6_58_a_g.FeS2"
+    ],
     "title": "Marcasite (FeS$_{2}$, $C18$) Structure",
     "icsd": "109374",
     "ccdc": null,

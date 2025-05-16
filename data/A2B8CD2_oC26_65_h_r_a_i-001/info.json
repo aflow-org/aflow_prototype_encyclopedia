@@ -1,7 +1,9 @@
 {
     "uid": "5BTF",
     "label": "A2B8CD2_oC26_65_h_r_a_i-001",
-    "alias": "A2B8CD2_oC26_65_h_r_a_i",
+    "alias": [
+        "A2B8CD2_oC26_65_h_r_a_i"
+    ],
     "title": "Mg(NH$_{3}$)$_{2}$Cl$_{2}$ ($E1_{3}$) Structure",
     "icsd": "202459",
     "ccdc": null,

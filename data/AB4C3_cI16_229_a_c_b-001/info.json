@@ -1,7 +1,9 @@
 {
     "uid": "YRPB",
     "label": "AB4C3_cI16_229_a_c_b-001",
-    "alias": "AB4C3_cI16_229_a_c_b",
+    "alias": [
+        "AB4C3_cI16_229_a_c_b"
+    ],
     "title": "Model of Ferrite Structure (cI16)",
     "icsd": "none",
     "ccdc": null,

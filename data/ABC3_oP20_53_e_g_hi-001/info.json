@@ -1,7 +1,9 @@
 {
     "uid": "SET9",
     "label": "ABC3_oP20_53_e_g_hi-001",
-    "alias": "ABC3_oP20_53_e_g_hi",
+    "alias": [
+        "ABC3_oP20_53_e_g_hi"
+    ],
     "title": "$Pmna$ CuBrSe$_{3}$ Structure",
     "icsd": "10129",
     "ccdc": null,

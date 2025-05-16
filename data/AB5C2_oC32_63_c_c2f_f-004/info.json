@@ -1,7 +1,9 @@
 {
     "uid": "FETU",
     "label": "AB5C2_oC32_63_c_c2f_f-004",
-    "alias": "AB5C2_oC32_63_c_c2f_f",
+    "alias": [
+        "AB5C2_oC32_63_c_c2f_f"
+    ],
     "title": "Ta$_{2}$NiS$_{5}$ Structure",
     "icsd": "61147",
     "ccdc": null,

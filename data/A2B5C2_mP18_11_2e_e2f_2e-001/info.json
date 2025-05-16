@@ -1,7 +1,9 @@
 {
     "uid": "YYGA",
     "label": "A2B5C2_mP18_11_2e_e2f_2e-001",
-    "alias": "A2B5C2_mP18_11_2e_e2f_2e",
+    "alias": [
+        "A2B5C2_mP18_11_2e_e2f_2e"
+    ],
     "title": "K$_{2}$S$_{2}$O$_{5}$ ($K0_{1}$) Structure",
     "icsd": "60025",
     "ccdc": null,

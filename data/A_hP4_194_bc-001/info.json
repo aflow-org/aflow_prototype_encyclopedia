@@ -1,7 +1,9 @@
 {
     "uid": "W4SC",
     "label": "A_hP4_194_bc-001",
-    "alias": "A_hP4_194_bc",
+    "alias": [
+        "A_hP4_194_bc"
+    ],
     "title": "Hexagonal Graphite ($A9$) Structure",
     "icsd": "76767",
     "ccdc": null,

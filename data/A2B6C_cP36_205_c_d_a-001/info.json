@@ -1,7 +1,9 @@
 {
     "uid": "LPJD",
     "label": "A2B6C_cP36_205_c_d_a-001",
-    "alias": "A2B6C_cP36_205_c_d_a",
+    "alias": [
+        "A2B6C_cP36_205_c_d_a"
+    ],
     "title": "Pb(NO$_{3}$)$_{2}$ ($G2_{1}$) Structure",
     "icsd": "62698",
     "ccdc": null,

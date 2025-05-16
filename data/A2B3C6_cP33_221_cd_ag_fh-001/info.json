@@ -1,7 +1,9 @@
 {
     "uid": "TZEN",
     "label": "A2B3C6_cP33_221_cd_ag_fh-001",
-    "alias": "A2B3C6_cP33_221_cd_ag_fh",
+    "alias": [
+        "A2B3C6_cP33_221_cd_ag_fh"
+    ],
     "title": "Ca$_{3}$Al$_{2}$O$_{6}$ ($E9_{1}$) Structure",
     "icsd": "151369",
     "ccdc": null,

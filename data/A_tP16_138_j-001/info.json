@@ -1,7 +1,9 @@
 {
     "uid": "ZBJR",
     "label": "A_tP16_138_j-001",
-    "alias": "A_tP16_138_j",
+    "alias": [
+        "A_tP16_138_j"
+    ],
     "title": "Cl ($A18$) Structure ({\\em Obsolete})",
     "icsd": "22406",
     "ccdc": null,

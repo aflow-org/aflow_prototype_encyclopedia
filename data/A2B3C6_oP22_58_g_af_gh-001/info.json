@@ -1,7 +1,9 @@
 {
     "uid": "59YW",
     "label": "A2B3C6_oP22_58_g_af_gh-001",
-    "alias": "A2B3C6_oP22_58_g_af_gh",
+    "alias": [
+        "A2B3C6_oP22_58_g_af_gh"
+    ],
     "title": "Kotoite (Mg$_{3}$(BO$_{3}$)$_{2}$) Structure",
     "icsd": "24036",
     "ccdc": null,

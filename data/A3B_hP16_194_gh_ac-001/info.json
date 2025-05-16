@@ -1,7 +1,9 @@
 {
     "uid": "7D2A",
     "label": "A3B_hP16_194_gh_ac-001",
-    "alias": "A3B_hP16_194_gh_ac",
+    "alias": [
+        "A3B_hP16_194_gh_ac"
+    ],
     "title": "Ni$_{3}$Ti ($D0_{24}$) Structure",
     "icsd": "30216",
     "ccdc": null,

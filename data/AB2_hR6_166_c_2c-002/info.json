@@ -1,7 +1,9 @@
 {
     "uid": "85MW",
     "label": "AB2_hR6_166_c_2c-002",
-    "alias": "AB2_hR6_166_c_2c",
+    "alias": [
+        "AB2_hR6_166_c_2c"
+    ],
     "title": "CaSi$_{2}$ ($C12$) Structure",
     "icsd": "32006",
     "ccdc": null,

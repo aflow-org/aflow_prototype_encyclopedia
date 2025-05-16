@@ -1,7 +1,9 @@
 {
     "uid": "MK1H",
     "label": "A2B_hP9_180_i_d-001",
-    "alias": "A2B_hP9_180_j_c",
+    "alias": [
+        "A2B_hP9_180_j_c"
+    ],
     "title": "$\\beta$-SiO$_{2}$ ($C8$) Structure",
     "icsd": "26430",
     "ccdc": null,

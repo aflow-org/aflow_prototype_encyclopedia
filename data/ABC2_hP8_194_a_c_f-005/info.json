@@ -1,7 +1,9 @@
 {
     "uid": "Y6AL",
     "label": "ABC2_hP8_194_a_c_f-005",
-    "alias": "ABC2_hP8_194_a_c_f",
+    "alias": [
+        "ABC2_hP8_194_a_c_f"
+    ],
     "title": "Hexagonal Delafossite (CuFeO$_{2}$) Structure",
     "icsd": "60845",
     "ccdc": null,

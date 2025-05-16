@@ -1,7 +1,9 @@
 {
     "uid": "HTHS",
     "label": "A4B6C_hP11_143_ad_2d_b-001",
-    "alias": "A4B6C_hP11_143_bd_2d_a",
+    "alias": [
+        "A4B6C_hP11_143_bd_2d_a"
+    ],
     "title": "ScRh$_{6}$P$_{4}$ Structure",
     "icsd": "182778",
     "ccdc": null,

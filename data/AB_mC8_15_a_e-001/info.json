@@ -1,7 +1,9 @@
 {
     "uid": "HRJX",
     "label": "AB_mC8_15_a_e-001",
-    "alias": "AB_mC8_15_c_e",
+    "alias": [
+        "AB_mC8_15_c_e"
+    ],
     "title": "Tenorite (CuO, $B26$) Structure",
     "icsd": "16025",
     "ccdc": null,

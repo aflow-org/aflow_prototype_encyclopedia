@@ -1,7 +1,9 @@
 {
     "uid": "6EYJ",
     "label": "A2B_oP12_62_2c_c-001",
-    "alias": "A2B_oP12_62_2c_c.Co2Si",
+    "alias": [
+        "A2B_oP12_62_2c_c.Co2Si"
+    ],
     "title": "Co$_{2}$Si ($C37$) Structure",
     "icsd": "44858",
     "ccdc": null,

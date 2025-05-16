@@ -1,7 +1,9 @@
 {
     "uid": "6CGG",
     "label": "A2B_hP9_150_ef_ad-001",
-    "alias": "A2B_hP9_150_ef_bd",
+    "alias": [
+        "A2B_hP9_150_ef_bd"
+    ],
     "title": "Original Fe$_{2}$P ($C22$) Structure",
     "icsd": "none",
     "ccdc": null,

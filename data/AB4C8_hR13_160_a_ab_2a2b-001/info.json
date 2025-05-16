@@ -1,7 +1,9 @@
 {
     "uid": "5V5H",
     "label": "AB4C8_hR13_160_a_ab_2a2b-001",
-    "alias": "AB4C8_hR13_160_a_ab_2a2b",
+    "alias": [
+        "AB4C8_hR13_160_a_ab_2a2b"
+    ],
     "title": "Low Temperature GaMo$_{4}$S$_{8}$ Structure",
     "icsd": "33995",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "QCQG",
     "label": "AB8C2_tP22_124_a_n_h-001",
-    "alias": "AB8C2_tP22_124_a_n_h",
+    "alias": [
+        "AB8C2_tP22_124_a_n_h"
+    ],
     "title": "CaO$_{2}$(H$_{2}$O)$_{8}$ Structure",
     "icsd": "38168",
     "ccdc": null,

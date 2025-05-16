@@ -1,7 +1,9 @@
 {
     "uid": "0XN3",
     "label": "AB3C9D_hP28_143_2a_2d_6d_bc-001",
-    "alias": "AB3C9D_hP28_143_2a_2d_6d_bc",
+    "alias": [
+        "AB3C9D_hP28_143_2a_2d_6d_bc"
+    ],
     "title": "$P3$ La$_{3}$BWO$_{9}$ Structure",
     "icsd": "8360",
     "ccdc": null,

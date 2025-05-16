@@ -1,7 +1,9 @@
 {
     "uid": "4PSJ",
     "label": "A2B3_mP20_14_2e_3e-002",
-    "alias": "A2B3_mP20_14_2e_3e",
+    "alias": [
+        "A2B3_mP20_14_2e_3e"
+    ],
     "title": "Orpiment (As$_{2}$S$_{3}$, $D5_{f}$) Structure",
     "icsd": "25792",
     "ccdc": null,

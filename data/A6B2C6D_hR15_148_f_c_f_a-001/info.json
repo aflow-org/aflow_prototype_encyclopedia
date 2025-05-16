@@ -1,7 +1,9 @@
 {
     "uid": "FKGA",
     "label": "A6B2C6D_hR15_148_f_c_f_a-001",
-    "alias": "A6B2C6D_hR15_148_f_c_f_a",
+    "alias": [
+        "A6B2C6D_hR15_148_f_c_f_a"
+    ],
     "title": "K$_{2}$Sn(OH)$_{6}$ ($H6_{2}$) Structure",
     "icsd": "92465",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "H8PR",
     "label": "AB6C2_mC18_12_a_3i_i-004",
-    "alias": "AB6C2_mC18_12_a_3i_i",
+    "alias": [
+        "AB6C2_mC18_12_a_3i_i"
+    ],
     "title": "Ta$_{2}$PdSe$_{6}$ Structure",
     "icsd": "61005",
     "ccdc": null,

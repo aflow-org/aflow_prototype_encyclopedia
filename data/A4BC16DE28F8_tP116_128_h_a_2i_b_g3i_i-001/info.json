@@ -1,7 +1,9 @@
 {
     "uid": "DPWF",
     "label": "A4BC16DE28F8_tP116_128_h_a_2i_b_g3i_i-001",
-    "alias": "A4BC16DE28F8_tP116_128_h_a_2i_b_g3i_i",
+    "alias": [
+        "A4BC16DE28F8_tP116_128_h_a_2i_b_g3i_i"
+    ],
     "title": "Apophyllite (KCa$_{4}$Si$_{8}$O$_{20}$F$\\cdot$8H$_{2}$O, $S5_{2}$) Structure",
     "icsd": "24954",
     "ccdc": null,

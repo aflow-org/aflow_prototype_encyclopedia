@@ -1,7 +1,9 @@
 {
     "uid": "3QP3",
     "label": "AB_cF40_216_ae_be-001",
-    "alias": "AB_cF40_216_de_ce",
+    "alias": [
+        "AB_cF40_216_de_ce"
+    ],
     "title": "Theoretical cF40 AlN Structure",
     "icsd": "none",
     "ccdc": null,

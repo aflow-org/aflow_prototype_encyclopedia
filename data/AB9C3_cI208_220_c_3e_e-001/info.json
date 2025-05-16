@@ -1,7 +1,9 @@
 {
     "uid": "2BX1",
     "label": "AB9C3_cI208_220_c_3e_e-001",
-    "alias": "AB9C3_cI208_220_c_3e_e",
+    "alias": [
+        "AB9C3_cI208_220_c_3e_e"
+    ],
     "title": "Al(PO$_{3}$)$_{3}$ ($G5_{2}$) Structure",
     "icsd": "26759",
     "ccdc": null,

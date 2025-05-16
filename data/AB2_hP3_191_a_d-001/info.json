@@ -1,7 +1,9 @@
 {
     "uid": "75K4",
     "label": "AB2_hP3_191_a_d-001",
-    "alias": "AB2_hP3_191_a_d",
+    "alias": [
+        "AB2_hP3_191_a_d"
+    ],
     "title": "Hexagonal $\\omega$ ($C32$) Structure",
     "icsd": "99639",
     "ccdc": null,

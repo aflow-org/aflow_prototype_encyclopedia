@@ -1,7 +1,9 @@
 {
     "uid": "RQCB",
     "label": "A2B_hP9_147_g_ad-001",
-    "alias": "A2B_hP9_147_g_ad",
+    "alias": [
+        "A2B_hP9_147_g_ad"
+    ],
     "title": "$\\gamma$-AgZn ($B_{b}$) Structure",
     "icsd": "none",
     "ccdc": null,

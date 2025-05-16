@@ -1,7 +1,9 @@
 {
     "uid": "6UK2",
     "label": "A2B_hP9_189_fg_ad-001",
-    "alias": "A2B_hP9_189_fg_bc",
+    "alias": [
+        "A2B_hP9_189_fg_bc"
+    ],
     "title": "Barringerite (Revised Fe$_{2}$P, $C22$) Crystal Structure",
     "icsd": "200529",
     "ccdc": null,

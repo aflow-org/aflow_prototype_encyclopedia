@@ -1,7 +1,9 @@
 {
     "uid": "8LH0",
     "label": "A17B15_cP64_207_acfk_eij-001",
-    "alias": "A17B15_cP64_207_acfk_eij",
+    "alias": [
+        "A17B15_cP64_207_acfk_eij"
+    ],
     "title": "Palladseite (Pd$_{17}$Se$_{15}$) Structure",
     "icsd": "none",
     "ccdc": null,

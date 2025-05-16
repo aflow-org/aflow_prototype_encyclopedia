@@ -1,7 +1,9 @@
 {
     "uid": "SV6X",
     "label": "A3B4_cF56_227_ad_e-001",
-    "alias": "A3B4_cF56_227_ad_e",
+    "alias": [
+        "A3B4_cF56_227_ad_e"
+    ],
     "title": "Spinel (Co$_{3}$O$_{4}$, $D7_{2}$) Structure",
     "icsd": "24210",
     "ccdc": null,

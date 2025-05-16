@@ -1,7 +1,9 @@
 {
     "uid": "EDTK",
     "label": "AB5CD_mC32_15_e_e2f_e_a-001",
-    "alias": "AB5CD_mC32_15_e_e2f_e_b",
+    "alias": [
+        "AB5CD_mC32_15_e_e2f_e_b"
+    ],
     "title": "Titanite (CaTiSiO$_{5}$, $S0_{6}$) Structure",
     "icsd": "159337",
     "ccdc": null,

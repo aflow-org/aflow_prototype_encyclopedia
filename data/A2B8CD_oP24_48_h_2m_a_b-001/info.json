@@ -1,7 +1,9 @@
 {
     "uid": "7YK7",
     "label": "A2B8CD_oP24_48_h_2m_a_b-001",
-    "alias": "A2B8CD_oP24_48_k_2m_d_b",
+    "alias": [
+        "A2B8CD_oP24_48_k_2m_d_b"
+    ],
     "title": "$\\alpha$-RbPr[MoO$_{4}$]$_{2}$ Structure",
     "icsd": "6290",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "WHNY",
     "label": "A3B_tI32_82_3g_g-001",
-    "alias": "A3B_tI32_82_3g_g",
+    "alias": [
+        "A3B_tI32_82_3g_g"
+    ],
     "title": "Ni$_{3}$P ($D0_{e}$) Structure",
     "icsd": "626503",
     "ccdc": null,

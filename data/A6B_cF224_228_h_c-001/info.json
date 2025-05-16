@@ -1,7 +1,9 @@
 {
     "uid": "MSL9",
     "label": "A6B_cF224_228_h_c-001",
-    "alias": "A6B_cF224_228_h_c",
+    "alias": [
+        "A6B_cF224_228_h_c"
+    ],
     "title": "Te[OH]$_{6}$ Structure ({\\em Obsolete})",
     "icsd": "none",
     "ccdc": null,

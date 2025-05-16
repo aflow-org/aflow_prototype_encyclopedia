@@ -1,7 +1,9 @@
 {
     "uid": "C7EQ",
     "label": "A5B8CD12_oC104_41_a2b_4b_a_6b-001",
-    "alias": "A5B8CD12_oC104_41_a2b_4b_a_6b",
+    "alias": [
+        "A5B8CD12_oC104_41_a2b_4b_a_6b"
+    ],
     "title": "Santite (KB$_{5}$O$_{8}\\cdot$4H$_{2}$O, $K3_{5}$) Structure",
     "icsd": "18211",
     "ccdc": null,

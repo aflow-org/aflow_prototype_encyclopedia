@@ -1,7 +1,9 @@
 {
     "uid": "UFSK",
     "label": "A2BC4D2_oP18_53_h_a_i_e-001",
-    "alias": "A2BC4D2_oP18_53_h_a_i_e",
+    "alias": [
+        "A2BC4D2_oP18_53_h_a_i_e"
+    ],
     "title": "Eriochalcite (CuCl$_{2}\\cdot$2H$_{2}$O, $C45$) Structure",
     "icsd": "40290",
     "ccdc": null,

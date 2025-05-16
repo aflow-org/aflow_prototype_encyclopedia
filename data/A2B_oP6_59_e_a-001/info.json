@@ -1,7 +1,9 @@
 {
     "uid": "BRW1",
     "label": "A2B_oP6_59_e_a-001",
-    "alias": "A2B_oP6_59_f_a",
+    "alias": [
+        "A2B_oP6_59_f_a"
+    ],
     "title": "RuB$_{2}$ Structure",
     "icsd": "615356",
     "ccdc": null,

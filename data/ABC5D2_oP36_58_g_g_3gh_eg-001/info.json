@@ -1,7 +1,9 @@
 {
     "uid": "YE34",
     "label": "ABC5D2_oP36_58_g_g_3gh_eg-001",
-    "alias": "ABC5D2_oP36_58_g_g_3gh_eg",
+    "alias": [
+        "ABC5D2_oP36_58_g_g_3gh_eg"
+    ],
     "title": "Adamite [Zn$_{2}$(AsO$_{4}$)(OH), $H2_7$] Structure",
     "icsd": "34868",
     "ccdc": null,

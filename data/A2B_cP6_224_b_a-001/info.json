@@ -1,7 +1,9 @@
 {
     "uid": "WUJH",
     "label": "A2B_cP6_224_b_a-001",
-    "alias": "A2B_cP6_224_b_a",
+    "alias": [
+        "A2B_cP6_224_b_a"
+    ],
     "title": "Cuprite (Cu$_{2}$O, $C3$) Structure",
     "icsd": "52043",
     "ccdc": null,

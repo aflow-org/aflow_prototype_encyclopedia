@@ -1,7 +1,9 @@
 {
     "uid": "3YA6",
     "label": "ABC3_oC80_36_2ab_2ab_2a5b-001",
-    "alias": "ABC3_oC80_36_2ab_2ab_2a5b",
+    "alias": [
+        "ABC3_oC80_36_2ab_2ab_2a5b"
+    ],
     "title": "$\\alpha$-Potassium Nitrate (KNO$_{3}$) Structure II",
     "icsd": "281552",
     "ccdc": null,

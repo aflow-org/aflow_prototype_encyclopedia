@@ -1,7 +1,9 @@
 {
     "uid": "N16Y",
     "label": "AB3C_oP80_61_2c_6c_2c-001",
-    "alias": "AB3C_oP80_61_2c_6c_2c",
+    "alias": [
+        "AB3C_oP80_61_2c_6c_2c"
+    ],
     "title": "Enstatite (MgSiO$_{3}$, $S4_{3}$) Structure",
     "icsd": "77344",
     "ccdc": null,

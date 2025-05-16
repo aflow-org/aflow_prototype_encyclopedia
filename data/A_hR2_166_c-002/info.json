@@ -1,7 +1,9 @@
 {
     "uid": "NXUA",
     "label": "A_hR2_166_c-002",
-    "alias": "A_hR2_166_c.C",
+    "alias": [
+        "A_hR2_166_c.C"
+    ],
     "title": "Rhombohedral Graphite Structure",
     "icsd": "31829",
     "ccdc": null,

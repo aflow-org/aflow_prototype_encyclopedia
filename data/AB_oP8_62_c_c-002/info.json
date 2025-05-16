@@ -1,7 +1,9 @@
 {
     "uid": "36ZK",
     "label": "AB_oP8_62_c_c-002",
-    "alias": "AB_oP8_62_c_c.MnP",
+    "alias": [
+        "AB_oP8_62_c_c.MnP"
+    ],
     "title": "MnP ($B31$) Structure",
     "icsd": "76091",
     "ccdc": null,

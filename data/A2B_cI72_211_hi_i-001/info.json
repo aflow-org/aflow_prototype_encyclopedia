@@ -1,7 +1,9 @@
 {
     "uid": "NT1Y",
     "label": "A2B_cI72_211_hi_i-001",
-    "alias": "A2B_cI72_211_hi_i",
+    "alias": [
+        "A2B_cI72_211_hi_i"
+    ],
     "title": "Hypothetical Cubic SiO$_{2}$ Structure",
     "icsd": "170506",
     "ccdc": null,

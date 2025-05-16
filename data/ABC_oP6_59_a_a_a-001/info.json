@@ -1,7 +1,9 @@
 {
     "uid": "Z1TY",
     "label": "ABC_oP6_59_a_a_a-001",
-    "alias": "ABC_oP6_59_a_a_a",
+    "alias": [
+        "ABC_oP6_59_a_a_a"
+    ],
     "title": "CNCl Structure",
     "icsd": "16660",
     "ccdc": null,

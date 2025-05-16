@@ -1,7 +1,9 @@
 {
     "uid": "TH7F",
     "label": "A10B3_oF52_42_2abce_ab-001",
-    "alias": "A10B3_oF52_42_2abce_ab",
+    "alias": [
+        "A10B3_oF52_42_2abce_ab"
+    ],
     "title": "W$_{3}$O$_{10}$ (WO$_{3} \\cdot \\frac13$H$_{2}$O) Structure",
     "icsd": "15514",
     "ccdc": null,

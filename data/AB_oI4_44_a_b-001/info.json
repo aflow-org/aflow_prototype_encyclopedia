@@ -1,7 +1,9 @@
 {
     "uid": "JZUV",
     "label": "AB_oI4_44_a_b-001",
-    "alias": "AB_oI4_44_a_b",
+    "alias": [
+        "AB_oI4_44_a_b"
+    ],
     "title": "High-pressure GaAs Structure",
     "icsd": "43950",
     "ccdc": null,

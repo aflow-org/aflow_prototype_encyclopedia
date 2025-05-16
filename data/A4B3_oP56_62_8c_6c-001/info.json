@@ -1,7 +1,9 @@
 {
     "uid": "S9HM",
     "label": "A4B3_oP56_62_8c_6c-001",
-    "alias": "A4B3_oP56_62_8c_6c",
+    "alias": [
+        "A4B3_oP56_62_8c_6c"
+    ],
     "title": "Mo$_{4}$P$_{3}$ Structure",
     "icsd": "43237",
     "ccdc": null,

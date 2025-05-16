@@ -1,7 +1,9 @@
 {
     "uid": "MYRE",
     "label": "ABC6D15_oC46_38_b_b_2a2d_2ab4d2e-001",
-    "alias": "ABC6D15_oC46_38_b_b_2a2d_2ab4d2e",
+    "alias": [
+        "ABC6D15_oC46_38_b_b_2a2d_2ab4d2e"
+    ],
     "title": "NaNb$_{6}$O$_{15}$F Structure",
     "icsd": "24109",
     "ccdc": null,

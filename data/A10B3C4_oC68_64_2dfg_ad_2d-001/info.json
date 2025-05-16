@@ -1,7 +1,9 @@
 {
     "uid": "XC67",
     "label": "A10B3C4_oC68_64_2dfg_ad_2d-001",
-    "alias": "A10B3C4_oC68_64_2dfg_ad_2d",
+    "alias": [
+        "A10B3C4_oC68_64_2dfg_ad_2d"
+    ],
     "title": "Base-centered Orthorhombic Sr$_{4}$Ru$_{3}$O$_{10}$ Structure",
     "icsd": "96729",
     "ccdc": null,

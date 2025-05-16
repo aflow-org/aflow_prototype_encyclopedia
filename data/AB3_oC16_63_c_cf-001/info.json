@@ -1,7 +1,9 @@
 {
     "uid": "EW0Y",
     "label": "AB3_oC16_63_c_cf-001",
-    "alias": "AB3_oC16_63_c_cf",
+    "alias": [
+        "AB3_oC16_63_c_cf"
+    ],
     "title": "Re$_{3}$B Structure",
     "icsd": "43662",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "Z85J",
     "label": "AB6C4_tP22_104_a_2ac_c-001",
-    "alias": "AB6C4_tP22_104_a_2ac_c",
+    "alias": [
+        "AB6C4_tP22_104_a_2ac_c"
+    ],
     "title": "Tl$_{4}$HgI$_{6}$ Structure",
     "icsd": "250133",
     "ccdc": null,

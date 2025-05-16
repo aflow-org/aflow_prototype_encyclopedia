@@ -1,7 +1,9 @@
 {
     "uid": "6BL9",
     "label": "AB6C3_oI20_71_a_el_bf-001",
-    "alias": "AB6C3_oI20_71_a_in_cj",
+    "alias": [
+        "AB6C3_oI20_71_a_in_cj"
+    ],
     "title": "High-Temperature Cryolite (Na$_{3}$AlF$_{6}$) Structure",
     "icsd": "74211",
     "ccdc": null,

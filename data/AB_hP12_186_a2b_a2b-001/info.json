@@ -1,7 +1,9 @@
 {
     "uid": "NYRK",
     "label": "AB_hP12_186_a2b_a2b-001",
-    "alias": "AB_hP12_186_a2b_a2b",
+    "alias": [
+        "AB_hP12_186_a2b_a2b"
+    ],
     "title": "Moissanite-6H SiC ($B6$) Structure",
     "icsd": "156190",
     "ccdc": null,

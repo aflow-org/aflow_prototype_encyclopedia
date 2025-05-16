@@ -1,7 +1,9 @@
 {
     "uid": "TQ0B",
     "label": "A2BCD2_hP18_180_f_c_b_i-001",
-    "alias": "A2BCD2_hP18_180_f_c_b_i",
+    "alias": [
+        "A2BCD2_hP18_180_f_c_b_i"
+    ],
     "title": "Hg$_{2}$O$_{2}$NaI Structure",
     "icsd": "14125",
     "ccdc": null,

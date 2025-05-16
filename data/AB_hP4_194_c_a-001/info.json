@@ -1,7 +1,9 @@
 {
     "uid": "Y3TN",
     "label": "AB_hP4_194_c_a-001",
-    "alias": "AB_hP4_194_c_a",
+    "alias": [
+        "AB_hP4_194_c_a"
+    ],
     "title": "Nickeline (NiAs, $B8_{1}$) Structure",
     "icsd": "61104",
     "ccdc": null,

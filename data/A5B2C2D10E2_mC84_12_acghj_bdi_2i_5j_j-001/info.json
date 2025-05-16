@@ -1,7 +1,9 @@
 {
     "uid": "QHVX",
     "label": "A5B2C2D10E2_mC84_12_acghj_bdi_2i_5j_j-001",
-    "alias": "A5B2C10D2E2_mC84_12_acghj_bdi_5j_2i_j",
+    "alias": [
+        "A5B2C10D2E2_mC84_12_acghj_bdi_5j_2i_j"
+    ],
     "title": "Staurolite (H$_{2}$Al$_{5}$Fe$_{2}$Si$_{2}$O$_{12}$) Structure",
     "icsd": "22051",
     "ccdc": null,

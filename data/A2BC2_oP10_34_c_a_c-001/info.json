@@ -1,7 +1,9 @@
 {
     "uid": "5413",
     "label": "A2BC2_oP10_34_c_a_c-001",
-    "alias": "A2BC2_oP10_34_c_a_c",
+    "alias": [
+        "A2BC2_oP10_34_c_a_c"
+    ],
     "title": "MnF$_{1-x}$(OH)$_{x}$ Structure",
     "icsd": "none",
     "ccdc": null,

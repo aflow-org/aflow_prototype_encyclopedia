@@ -1,7 +1,9 @@
 {
     "uid": "RBZR",
     "label": "AB2_hP9_162_ad_k-001",
-    "alias": "AB2_hP9_162_ad_k",
+    "alias": [
+        "AB2_hP9_162_ad_k"
+    ],
     "title": "$\\beta$-V$_{2}$N ($L'3_{2}$) Structure",
     "icsd": "8236",
     "ccdc": null,

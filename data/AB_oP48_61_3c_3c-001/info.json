@@ -1,7 +1,9 @@
 {
     "uid": "PWJE",
     "label": "AB_oP48_61_3c_3c-001",
-    "alias": "AB_oP48_61_3c_3c",
+    "alias": [
+        "AB_oP48_61_3c_3c"
+    ],
     "title": "Benzene Structure",
     "icsd": null,
     "ccdc": "725244",

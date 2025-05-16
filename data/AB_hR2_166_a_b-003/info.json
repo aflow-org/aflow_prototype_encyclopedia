@@ -1,7 +1,9 @@
 {
     "uid": "HA1H",
     "label": "AB_hR2_166_a_b-003",
-    "alias": "AB_hR2_166_a_b.KSH",
+    "alias": [
+        "AB_hR2_166_a_b.KSH"
+    ],
     "title": "KSH ($B22$) Structure",
     "icsd": "27820",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "P53L",
     "label": "A2B_hP9_152_c_a-001",
-    "alias": "A2B_hP9_152_c_a",
+    "alias": [
+        "A2B_hP9_152_c_a"
+    ],
     "title": "$\\alpha$-Quartz (low Quartz) Structure",
     "icsd": "67121",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "2SQ0",
     "label": "AB3_mC16_12_g_ij-001",
-    "alias": "AB3_mC16_12_g_ij",
+    "alias": [
+        "AB3_mC16_12_g_ij"
+    ],
     "title": "AlCl$_{3}$ Structure",
     "icsd": "39566",
     "ccdc": null,

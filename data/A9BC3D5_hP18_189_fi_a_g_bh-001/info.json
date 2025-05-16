@@ -1,7 +1,9 @@
 {
     "uid": "0WD7",
     "label": "A9BC3D5_hP18_189_fi_a_g_bh-001",
-    "alias": "A9BC3D5_hP18_189_fi_a_g_bh",
+    "alias": [
+        "A9BC3D5_hP18_189_fi_a_g_bh"
+    ],
     "title": "$\\pi$-FeMg$_{3}$Al$_{9}$Si$_{5}$ Structure",
     "icsd": "96905",
     "ccdc": null,

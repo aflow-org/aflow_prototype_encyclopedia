@@ -1,7 +1,9 @@
 {
     "uid": "U6YK",
     "label": "A4B2C_tP14_136_i_f_a-001",
-    "alias": "A4B2C_tP14_136_i_g_b",
+    "alias": [
+        "A4B2C_tP14_136_i_g_b"
+    ],
     "title": "ZrFe$_{4}$Si$_{2}$ Structure",
     "icsd": "87172",
     "ccdc": null,

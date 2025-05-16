@@ -1,7 +1,9 @@
 {
     "uid": "T9UP",
     "label": "A3B6C_mP20_4_3a_6a_a-001",
-    "alias": "A3B6C_mP20_4_3a_6a_a",
+    "alias": [
+        "A3B6C_mP20_4_3a_6a_a"
+    ],
     "title": "Ca$_{3}$UO$_{6}$ Structure",
     "icsd": "23200",
     "ccdc": null,

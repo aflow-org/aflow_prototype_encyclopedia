@@ -1,7 +1,9 @@
 {
     "uid": "1KN8",
     "label": "A4B2C2D_tI18_139_h_d_e_a-001",
-    "alias": "A4B2C2D_tI18_139_h_d_e_a",
+    "alias": [
+        "A4B2C2D_tI18_139_h_d_e_a"
+    ],
     "title": "K$_{2}$OsO$_{2}$Cl$_{4}$ ($J1_{5}$) Structure",
     "icsd": "36231",
     "ccdc": null,

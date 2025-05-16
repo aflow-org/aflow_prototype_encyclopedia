@@ -1,7 +1,9 @@
 {
     "uid": "C9G2",
     "label": "AB_tP2_123_a_d-002",
-    "alias": "AB_tP2_123_a_d.CuTi",
+    "alias": [
+        "AB_tP2_123_a_d.CuTi"
+    ],
     "title": "$\\delta$-CuTi ($L2_{a}$) Structure",
     "icsd": "103127",
     "ccdc": null,

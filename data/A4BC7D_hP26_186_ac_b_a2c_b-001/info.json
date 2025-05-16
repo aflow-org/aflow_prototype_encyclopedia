@@ -1,7 +1,9 @@
 {
     "uid": "QF4S",
     "label": "A4BC7D_hP26_186_ac_b_a2c_b-001",
-    "alias": "A4BC7D_hP26_186_ac_b_a2c_b",
+    "alias": [
+        "A4BC7D_hP26_186_ac_b_a2c_b"
+    ],
     "title": "Swedenborgite (NaBe$_{4}$SbO$_{7}$, $E9_{2}$) Structure",
     "icsd": "27599",
     "ccdc": null,

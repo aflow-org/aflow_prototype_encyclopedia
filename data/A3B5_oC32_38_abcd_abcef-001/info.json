@@ -1,7 +1,9 @@
 {
     "uid": "0NF7",
     "label": "A3B5_oC32_38_abcd_abcef-001",
-    "alias": "A3B5_oC32_38_abce_abcdf",
+    "alias": [
+        "A3B5_oC32_38_abce_abcdf"
+    ],
     "title": "Ta$_{3}$Ti$_{5}$ (BCC SQS-16) Structure",
     "icsd": "none",
     "ccdc": null,

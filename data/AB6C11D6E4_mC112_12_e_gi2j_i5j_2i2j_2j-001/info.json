@@ -1,7 +1,9 @@
 {
     "uid": "CNLR",
     "label": "AB6C11D6E4_mC112_12_e_gi2j_i5j_2i2j_2j-001",
-    "alias": "AB6C11D6E4_mC112_12_e_gi2j_i5j_2i2j_2j",
+    "alias": [
+        "AB6C11D6E4_mC112_12_e_gi2j_i5j_2i2j_2j"
+    ],
     "title": "Chrysotile [Mg$_{6}$O$_{11}$Si$_{4}$(H$_{2}$O)(OH)$_{6}$, $S4_{5}$] Structure",
     "icsd": "36225",
     "ccdc": null,

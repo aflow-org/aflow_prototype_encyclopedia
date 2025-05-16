@@ -1,7 +1,9 @@
 {
     "uid": "HKUU",
     "label": "A3B2_oP20_56_ce_e-001",
-    "alias": "A3B2_oP20_56_ce_e",
+    "alias": [
+        "A3B2_oP20_56_ce_e"
+    ],
     "title": "Valentinite (Sb$_{2}$O$_{3}$, $D5_{11}$) Structure",
     "icsd": "2033",
     "ccdc": null,

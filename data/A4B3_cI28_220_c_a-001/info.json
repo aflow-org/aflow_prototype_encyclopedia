@@ -1,7 +1,9 @@
 {
     "uid": "JM9C",
     "label": "A4B3_cI28_220_c_a-001",
-    "alias": "A4B3_cI28_220_c_a",
+    "alias": [
+        "A4B3_cI28_220_c_a"
+    ],
     "title": "Th$_{3}$P$_{4}$ ($D7_{3}$) Structure",
     "icsd": "648207",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "R7N6",
     "label": "A_tP50_134_a2m2n-001",
-    "alias": "A_tP50_134_b2m2n",
+    "alias": [
+        "A_tP50_134_b2m2n"
+    ],
     "title": "T-50 B ($A_{g}$) Structure",
     "icsd": "26636",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "KX5G",
     "label": "AB_hR10_160_5a_5a-001",
-    "alias": "AB_hR10_160_5a_5a",
+    "alias": [
+        "AB_hR10_160_5a_5a"
+    ],
     "title": "Moissanite-15R (SiC, $B7$) Structure",
     "icsd": "24168",
     "ccdc": null,

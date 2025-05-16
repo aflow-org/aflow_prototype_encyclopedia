@@ -1,7 +1,9 @@
 {
     "uid": "K9AG",
     "label": "A2B_mP6_14_e_a-001",
-    "alias": "A2B_mP6_14_e_a",
+    "alias": [
+        "A2B_mP6_14_e_a"
+    ],
     "title": "$\\gamma$-PdCl$_{2}$ Structure",
     "icsd": "421221",
     "ccdc": null,

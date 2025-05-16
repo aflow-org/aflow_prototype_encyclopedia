@@ -1,7 +1,9 @@
 {
     "uid": "SC3Z",
     "label": "AB2C2_tI10_139_a_d_e-003",
-    "alias": "AB2C2_tI10_139_a_d_e",
+    "alias": [
+        "AB2C2_tI10_139_a_d_e"
+    ],
     "title": "$H5_{9}$ [Autunite Ca(UO$_{2}$)$_{2}$(PO$_{4}$)$_{2}\\cdot 10 \\frac{1}{2}$H$_{2}$O] Structure ({\\em Obsolete})",
     "icsd": "33193",
     "ccdc": null,

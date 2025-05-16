@@ -1,7 +1,9 @@
 {
     "uid": "WEUP",
     "label": "AB3C2_cI96_206_c_e_ad-001",
-    "alias": "AB3C2_cI96_206_c_e_ad",
+    "alias": [
+        "AB3C2_cI96_206_c_e_ad"
+    ],
     "title": "AlLi$_{3}$N$_{2}$ ($E9_{d}$) Structure",
     "icsd": "25565",
     "ccdc": null,

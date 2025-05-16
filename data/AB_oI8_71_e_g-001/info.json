@@ -1,7 +1,9 @@
 {
     "uid": "2UZJ",
     "label": "AB_oI8_71_e_g-001",
-    "alias": "AB_oI8_71_g_i",
+    "alias": [
+        "AB_oI8_71_g_i"
+    ],
     "title": "CsO Structure",
     "icsd": "25529",
     "ccdc": null,

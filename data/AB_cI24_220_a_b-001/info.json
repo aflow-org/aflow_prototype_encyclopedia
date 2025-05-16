@@ -1,7 +1,9 @@
 {
     "uid": "MH9E",
     "label": "AB_cI24_220_a_b-001",
-    "alias": "AB_cI24_220_a_b",
+    "alias": [
+        "AB_cI24_220_a_b"
+    ],
     "title": "Theoretical cI24 AlN Structure",
     "icsd": "none",
     "ccdc": null,

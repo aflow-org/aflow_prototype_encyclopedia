@@ -1,7 +1,9 @@
 {
     "uid": "CXFF",
     "label": "A4BC12D2_oC76_63_eg_c_f3gh_g-001",
-    "alias": "A4BC12D2_oC76_63_eg_c_f3gh_g",
+    "alias": [
+        "A4BC12D2_oC76_63_eg_c_f3gh_g"
+    ],
     "title": "$S0_{4}$ (Staurolite, Fe(OH)$_{2}$Al$_{4}$SiO$_{10}$) Structure ({\\em Obsolete})",
     "icsd": "46194",
     "ccdc": null,

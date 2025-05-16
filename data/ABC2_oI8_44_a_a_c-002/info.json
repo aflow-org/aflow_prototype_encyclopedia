@@ -1,7 +1,9 @@
 {
     "uid": "VTNW",
     "label": "ABC2_oI8_44_a_a_c-002",
-    "alias": "ABC2_oI8_44_a_a_d",
+    "alias": [
+        "ABC2_oI8_44_a_a_d"
+    ],
     "title": "AgNO$_{2}$ ($F5_{12}$) Structure",
     "icsd": "24378",
     "ccdc": null,

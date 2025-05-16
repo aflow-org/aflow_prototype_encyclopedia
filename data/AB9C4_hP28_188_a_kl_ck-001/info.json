@@ -1,7 +1,9 @@
 {
     "uid": "2DJ4",
     "label": "AB9C4_hP28_188_a_kl_ck-001",
-    "alias": "AB9C4_hP28_188_e_kl_ak",
+    "alias": [
+        "AB9C4_hP28_188_e_kl_ak"
+    ],
     "title": "BaSi$_{4}$O$_{9}$ ($S3_{2}$) Structure",
     "icsd": "80067",
     "ccdc": null,

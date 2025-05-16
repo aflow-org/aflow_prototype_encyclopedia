@@ -1,7 +1,9 @@
 {
     "uid": "TXNW",
     "label": "AB6CD7_hP30_186_b_d_a_b2c-001",
-    "alias": "AB6CD7_hP30_186_b_d_a_b2c",
+    "alias": [
+        "AB6CD7_hP30_186_b_d_a_b2c"
+    ],
     "title": "LiClO$_{4}\\cdot$3H$_{2}$O ($H4_{18}$) Structure",
     "icsd": "32534",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "8ZWK",
     "label": "A2BCD12E3_mC76_15_f_e_a_6f_ef-001",
-    "alias": "A2BCD12E3_mC76_15_f_e_b_6f_ef",
+    "alias": [
+        "A2BCD12E3_mC76_15_f_e_b_6f_ef"
+    ],
     "title": "Alluaudite [NaMnFe$_{2}$(PO$_{4}$)$_{3}$] Structure",
     "icsd": "15241",
     "ccdc": null,

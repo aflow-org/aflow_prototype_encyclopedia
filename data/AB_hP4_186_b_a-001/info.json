@@ -1,7 +1,9 @@
 {
     "uid": "QUDC",
     "label": "AB_hP4_186_b_a-001",
-    "alias": "AB_hP4_186_b_a",
+    "alias": [
+        "AB_hP4_186_b_a"
+    ],
     "title": "Original BN ($B12$) Structure ({\\em Obsolete})",
     "icsd": "none",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "VYK4",
     "label": "A2B_mP12_13_2g_ef-001",
-    "alias": "A2B_mP12_13_2g_ef",
+    "alias": [
+        "A2B_mP12_13_2g_ef"
+    ],
     "title": "H$_{2}$S (15 GPa) Structure",
     "icsd": "none",
     "ccdc": null,

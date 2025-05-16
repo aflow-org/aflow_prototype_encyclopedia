@@ -1,7 +1,9 @@
 {
     "uid": "0898",
     "label": "A2B_mC12_5_2c_c-001",
-    "alias": "A2B_mC12_5_2c_c",
+    "alias": [
+        "A2B_mC12_5_2c_c"
+    ],
     "title": "NbAs$_{2}$ Structure",
     "icsd": "18143",
     "ccdc": null,

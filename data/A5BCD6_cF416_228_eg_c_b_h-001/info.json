@@ -1,7 +1,9 @@
 {
     "uid": "19XK",
     "label": "A5BCD6_cF416_228_eg_c_b_h-001",
-    "alias": "A5BCD6_cF416_228_eg_c_b_h",
+    "alias": [
+        "A5BCD6_cF416_228_eg_c_b_h"
+    ],
     "title": "CuCrCl$_{5}$[NH$_{3}$]$_{6}$ Structure",
     "icsd": "22076",
     "ccdc": null,

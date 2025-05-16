@@ -1,7 +1,9 @@
 {
     "uid": "B01P",
     "label": "A4B3_oP28_58_4g_3g-001",
-    "alias": "A4B3_oP28_58_4g_3g",
+    "alias": [
+        "A4B3_oP28_58_4g_3g"
+    ],
     "title": "In$_{4}$Se$_{3}$ Structure",
     "icsd": "2601",
     "ccdc": null,

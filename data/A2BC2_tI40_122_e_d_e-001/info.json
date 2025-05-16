@@ -1,7 +1,9 @@
 {
     "uid": "05M4",
     "label": "A2BC2_tI40_122_e_d_e-001",
-    "alias": "A2BC2_tI40_122_e_d_e",
+    "alias": [
+        "A2BC2_tI40_122_e_d_e"
+    ],
     "title": "Mercury Cyanide [Hg(CN)$_{2}$, $F1_{1}$] Structure",
     "icsd": "412315",
     "ccdc": null,

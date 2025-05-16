@@ -1,7 +1,9 @@
 {
     "uid": "V88M",
     "label": "A2B4C_oP28_62_ac_2cd_c-001",
-    "alias": "A2B4C_oP28_62_ac_2cd_c",
+    "alias": [
+        "A2B4C_oP28_62_ac_2cd_c"
+    ],
     "title": "Forsterite (Mg$_{2}$SiO$_{4}$, $S1_{2}$) Structure",
     "icsd": "64744",
     "ccdc": null,

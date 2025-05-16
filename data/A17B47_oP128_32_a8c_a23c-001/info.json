@@ -1,7 +1,9 @@
 {
     "uid": "484W",
     "label": "A17B47_oP128_32_a8c_a23c-001",
-    "alias": "A17B47_oP128_32_a8c_a23c",
+    "alias": [
+        "A17B47_oP128_32_a8c_a23c"
+    ],
     "title": "Mo$_{17}$O$_{47}$ Structure",
     "icsd": "28333",
     "ccdc": null,

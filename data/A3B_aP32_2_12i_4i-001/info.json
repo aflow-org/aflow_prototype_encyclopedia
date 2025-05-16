@@ -1,7 +1,9 @@
 {
     "uid": "9JTN",
     "label": "A3B_aP32_2_12i_4i-001",
-    "alias": "A3B_aP32_2_12i_4i",
+    "alias": [
+        "A3B_aP32_2_12i_4i"
+    ],
     "title": "$\\delta$-WO$_{3}$ Structure",
     "icsd": "1620",
     "ccdc": null,

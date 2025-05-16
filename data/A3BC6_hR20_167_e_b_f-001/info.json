@@ -1,7 +1,9 @@
 {
     "uid": "YFN8",
     "label": "A3BC6_hR20_167_e_b_f-001",
-    "alias": "A3BC6_hR20_167_e_b_f",
+    "alias": [
+        "A3BC6_hR20_167_e_b_f"
+    ],
     "title": "CrCl$_{3}$(H$_{2}$O)$_{6}$ ($J2_{2}$) Structure",
     "icsd": "26138",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "VBLW",
     "label": "AB24CD20E2_cP192_205_a_4d_b_c3d_c-001",
-    "alias": "AB24CD20E2_cP192_205_a_4d_b_c3d_c",
+    "alias": [
+        "AB24CD20E2_cP192_205_a_4d_b_c3d_c"
+    ],
     "title": "$\\gamma$-Alum [AlNa(SO$_{4}$)$_{2}$ $\\cdot$ 12H$_{2}$O, $H4_{15}$] Structure",
     "icsd": "15368",
     "ccdc": null,

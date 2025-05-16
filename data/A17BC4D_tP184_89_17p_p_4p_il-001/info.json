@@ -1,7 +1,9 @@
 {
     "uid": "EK6P",
     "label": "A17BC4D_tP184_89_17p_p_4p_il-001",
-    "alias": "A17BC4D_tP184_89_17p_p_4p_io",
+    "alias": [
+        "A17BC4D_tP184_89_17p_p_4p_io"
+    ],
     "title": "(CH)$_{17}$FeO$_{4}$Pt Structure (Original Page)",
     "icsd": null,
     "ccdc": "863010",

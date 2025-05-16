@@ -1,7 +1,9 @@
 {
     "uid": "BQR4",
     "label": "A3B3C_hP14_176_h_h_c-001",
-    "alias": "A3B3C_hP14_176_h_h_c",
+    "alias": [
+        "A3B3C_hP14_176_h_h_c"
+    ],
     "title": "TlFe$_{3}$Te$_{3}$ Structure",
     "icsd": "100352",
     "ccdc": null,

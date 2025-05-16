@@ -1,7 +1,9 @@
 {
     "uid": "Y7TL",
     "label": "A5B7_tI24_107_ac_abd-001",
-    "alias": "A5B7_tI24_107_ac_abd",
+    "alias": [
+        "A5B7_tI24_107_ac_abd"
+    ],
     "title": "Co$_{5}$Ge$_{7}$ Structure",
     "icsd": "197263",
     "ccdc": null,

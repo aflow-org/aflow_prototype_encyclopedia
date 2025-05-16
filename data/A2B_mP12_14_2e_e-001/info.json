@@ -1,7 +1,9 @@
 {
     "uid": "5CSN",
     "label": "A2B_mP12_14_2e_e-001",
-    "alias": "A2B_mP12_14_2e_e",
+    "alias": [
+        "A2B_mP12_14_2e_e"
+    ],
     "title": "Baddeleyite (ZrO$_{2}$, $C43$) Structure",
     "icsd": "62993",
     "ccdc": null,

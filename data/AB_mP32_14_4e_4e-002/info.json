@@ -1,7 +1,9 @@
 {
     "uid": "R9YN",
     "label": "AB_mP32_14_4e_4e-002",
-    "alias": "AB_mP32_14_4e_4e.realgar",
+    "alias": [
+        "AB_mP32_14_4e_4e.realgar"
+    ],
     "title": "Realgar (AsS, $B_{l}$) Structure",
     "icsd": "24661",
     "ccdc": null,

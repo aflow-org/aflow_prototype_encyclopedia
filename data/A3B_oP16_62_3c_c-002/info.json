@@ -1,7 +1,9 @@
 {
     "uid": "DE18",
     "label": "A3B_oP16_62_3c_c-002",
-    "alias": "A3B_oP16_62_3c_c",
+    "alias": [
+        "A3B_oP16_62_3c_c"
+    ],
     "title": "NH$_{4}$I$_{3}$ (D0$_{16}$) Structure",
     "icsd": "22128",
     "ccdc": null,

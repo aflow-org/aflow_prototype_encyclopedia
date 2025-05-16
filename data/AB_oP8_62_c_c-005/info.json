@@ -1,7 +1,9 @@
 {
     "uid": "P0GV",
     "label": "AB_oP8_62_c_c-005",
-    "alias": "AB_oP8_62_c_c.FeAs",
+    "alias": [
+        "AB_oP8_62_c_c.FeAs"
+    ],
     "title": "Westerveldite (FeAs, $B14$) Structure",
     "icsd": "42451",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "2K92",
     "label": "A5B21C24D12_hR62_166_a2c_ehi_fg2h_i-001",
-    "alias": "A5B21C24D12_hR62_166_a2c_ehi_fg2h_i",
+    "alias": [
+        "A5B21C24D12_hR62_166_a2c_ehi_fg2h_i"
+    ],
     "title": "Chabazite (Ca$_{1.4}$Sr$_{0.3}$Al$_{3.8}$Si$_{8.3}$O$_{24}\\cdot$13H$_{2}$O, $S3_4$ (I)) Structure",
     "icsd": "32553",
     "ccdc": null,

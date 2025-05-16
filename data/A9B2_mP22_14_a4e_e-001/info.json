@@ -1,7 +1,9 @@
 {
     "uid": "T95J",
     "label": "A9B2_mP22_14_a4e_e-001",
-    "alias": "A9B2_mP22_14_a4e_e",
+    "alias": [
+        "A9B2_mP22_14_a4e_e"
+    ],
     "title": "Co$_{2}$Al$_{9}$ ($D8_{d}$) Structure",
     "icsd": "57598",
     "ccdc": null,

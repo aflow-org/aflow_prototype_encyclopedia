@@ -1,7 +1,9 @@
 {
     "uid": "4TPV",
     "label": "A2B5C_aP32_2_4i_10i_2i-001",
-    "alias": "A2B5C_aP32_2_4i_10i_2i",
+    "alias": [
+        "A2B5C_aP32_2_4i_10i_2i"
+    ],
     "title": "Kyanite (Al$_{2}$SiO$_{5}$, $S0_{1}$) Structure",
     "icsd": "83450",
     "ccdc": null,

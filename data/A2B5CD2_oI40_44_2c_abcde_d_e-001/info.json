@@ -1,7 +1,9 @@
 {
     "uid": "W7BE",
     "label": "A2B5CD2_oI40_44_2c_abcde_d_e-001",
-    "alias": "A2B5CD2_oI40_44_2c_abcde_d_e",
+    "alias": [
+        "A2B5CD2_oI40_44_2c_abcde_d_e"
+    ],
     "title": "Hemimorphite (Zn$_{4}$Si$_{2}$O$_{7}$(OH)$_{2} \\cdot$H$_{2}$O, $S2_{2}$) Structure",
     "icsd": "100201",
     "ccdc": null,

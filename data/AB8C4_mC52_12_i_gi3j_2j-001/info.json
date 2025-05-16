@@ -1,7 +1,9 @@
 {
     "uid": "JF0M",
     "label": "AB8C4_mC52_12_i_gi3j_2j-001",
-    "alias": "AB8C4_mC52_12_i_gi3j_2j",
+    "alias": [
+        "AB8C4_mC52_12_i_gi3j_2j"
+    ],
     "title": "Sanidine (KAlSi$_{3}$O$_{8}$, $S6_{7}$) Structure",
     "icsd": "202476",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "4YG0",
     "label": "A2B3_oC40_39_2d_2c2d-001",
-    "alias": "A2B3_oC40_39_2d_2c2d",
+    "alias": [
+        "A2B3_oC40_39_2d_2c2d"
+    ],
     "title": "Ta$_{3}$S$_{2}$ Structure",
     "icsd": "71143",
     "ccdc": null,

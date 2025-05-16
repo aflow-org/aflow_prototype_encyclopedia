@@ -1,7 +1,9 @@
 {
     "uid": "YUGM",
     "label": "A3B8_oC22_65_bg_ac2gh-001",
-    "alias": "A3B8_oC22_65_ag_bd2gh",
+    "alias": [
+        "A3B8_oC22_65_ag_bd2gh"
+    ],
     "title": "Nb$_{3}$O$_{7}$F Structure",
     "icsd": "28461",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "5M89",
     "label": "AB3_hP8_194_c_bf-001",
-    "alias": "AB3_hP8_194_c_bf",
+    "alias": [
+        "AB3_hP8_194_c_bf"
+    ],
     "title": "Na$_3$As ($D0_{18}$) Structure",
     "icsd": "26883",
     "ccdc": null,

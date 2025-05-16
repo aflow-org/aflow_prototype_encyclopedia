@@ -1,7 +1,9 @@
 {
     "uid": "4GNV",
     "label": "A2B_oP12_62_2c_c-004",
-    "alias": "A2B_oP12_62_2c_c.SrH2",
+    "alias": [
+        "A2B_oP12_62_2c_c.SrH2"
+    ],
     "title": "SrH$_{2}$ ($C29$) Structure",
     "icsd": "69077",
     "ccdc": null,

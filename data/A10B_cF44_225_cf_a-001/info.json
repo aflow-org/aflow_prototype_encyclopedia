@@ -1,7 +1,9 @@
 {
     "uid": "8F2Q",
     "label": "A10B_cF44_225_cf_a-001",
-    "alias": "A10B_cF44_225_cf_b",
+    "alias": [
+        "A10B_cF44_225_cf_b"
+    ],
     "title": "LaH$_{10}$ High-T$_{c}$ Superconductor Structure",
     "icsd": "none",
     "ccdc": null,

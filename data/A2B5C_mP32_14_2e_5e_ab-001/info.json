@@ -1,7 +1,9 @@
 {
     "uid": "E7S8",
     "label": "A2B5C_mP32_14_2e_5e_ab-001",
-    "alias": "A2B5C_mP32_14_2e_5e_ab",
+    "alias": [
+        "A2B5C_mP32_14_2e_5e_ab"
+    ],
     "title": "Ca$_{2}$UO$_{5}$ Structure",
     "icsd": "23198",
     "ccdc": null,

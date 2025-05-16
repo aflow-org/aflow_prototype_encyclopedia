@@ -1,7 +1,9 @@
 {
     "uid": "G3EF",
     "label": "AB3C6_cI80_206_a_d_e-001",
-    "alias": "AB3C6_cI80_206_b_d_e",
+    "alias": [
+        "AB3C6_cI80_206_b_d_e"
+    ],
     "title": "Bixbyite (Mn$_{2}$O$_{3}$, $D5_{3}$) Structure",
     "icsd": "30237",
     "ccdc": null,

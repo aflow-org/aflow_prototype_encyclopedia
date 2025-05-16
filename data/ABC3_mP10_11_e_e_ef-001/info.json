@@ -1,7 +1,9 @@
 {
     "uid": "RT35",
     "label": "ABC3_mP10_11_e_e_ef-001",
-    "alias": "ABC3_mP10_11_e_e_ef",
+    "alias": [
+        "ABC3_mP10_11_e_e_ef"
+    ],
     "title": "KClO$_{3}$ ($G0_{6}$) Structure",
     "icsd": "26408",
     "ccdc": null,

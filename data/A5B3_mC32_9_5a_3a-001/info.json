@@ -1,7 +1,9 @@
 {
     "uid": "9173",
     "label": "A5B3_mC32_9_5a_3a-001",
-    "alias": "A5B3_mC32_9_5a_3a",
+    "alias": [
+        "A5B3_mC32_9_5a_3a"
+    ],
     "title": "$\\alpha$-P$_{3}$N$_{5}$ Structure",
     "icsd": "236555",
     "ccdc": null,

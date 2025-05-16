@@ -1,7 +1,9 @@
 {
     "uid": "KYLC",
     "label": "AB3_oP16_62_c_cd-001",
-    "alias": "AB3_oP16_62_c_cd",
+    "alias": [
+        "AB3_oP16_62_c_cd"
+    ],
     "title": "Cementite (Fe$_{3}$C, $D0_{11}$) Structure",
     "icsd": "16593",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "0R9R",
     "label": "A2B2C7_cF88_227_c_d_af-001",
-    "alias": "A2B2C7_cF88_227_c_d_af",
+    "alias": [
+        "A2B2C7_cF88_227_c_d_af"
+    ],
     "title": "Pyrochlore Iridate (Eu$_{2}$Ir$_{2}$O$_{7}$, $E8_{1}$) Structure",
     "icsd": "135031",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "7NVJ",
     "label": "A7B8_oP120_60_7d_8d-001",
-    "alias": "A7B8_oP120_60_7d_8d",
+    "alias": [
+        "A7B8_oP120_60_7d_8d"
+    ],
     "title": "$\\beta$-Toluene Structure",
     "icsd": "none",
     "ccdc": null,

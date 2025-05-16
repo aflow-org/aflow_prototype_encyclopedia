@@ -1,7 +1,9 @@
 {
     "uid": "LLDQ",
     "label": "A16B2C_hP19_164_2d2i_d_a-001",
-    "alias": "A16B2C_hP19_164_2d2i_d_b",
+    "alias": [
+        "A16B2C_hP19_164_2d2i_d_b"
+    ],
     "title": "Predicted Li$_{2}$MgH$_{16}$ 300 GPa Structure",
     "icsd": "none",
     "ccdc": null,

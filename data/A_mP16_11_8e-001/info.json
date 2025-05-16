@@ -1,7 +1,9 @@
 {
     "uid": "2MX7",
     "label": "A_mP16_11_8e-001",
-    "alias": "A_mP16_11_8e",
+    "alias": [
+        "A_mP16_11_8e"
+    ],
     "title": "$\\alpha$-Pu Structure",
     "icsd": "43335",
     "ccdc": null,

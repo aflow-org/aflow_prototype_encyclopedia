@@ -1,7 +1,9 @@
 {
     "uid": "CPSQ",
     "label": "AB_oP2_25_a_b-001",
-    "alias": "AB_oP2_25_b_a",
+    "alias": [
+        "AB_oP2_25_b_a"
+    ],
     "title": "High-pressure CdTe Structure",
     "icsd": "108237",
     "ccdc": null,

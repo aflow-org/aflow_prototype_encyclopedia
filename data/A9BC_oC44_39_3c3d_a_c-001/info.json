@@ -1,7 +1,9 @@
 {
     "uid": "5ZH7",
     "label": "A9BC_oC44_39_3c3d_a_c-001",
-    "alias": "A9BC_oC44_39_3c3d_a_c",
+    "alias": [
+        "A9BC_oC44_39_3c3d_a_c"
+    ],
     "title": "VPCl$_{9}$ Structure",
     "icsd": "1047",
     "ccdc": null,

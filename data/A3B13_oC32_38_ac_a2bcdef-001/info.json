@@ -1,7 +1,9 @@
 {
     "uid": "A2U8",
     "label": "A3B13_oC32_38_ac_a2bcdef-001",
-    "alias": "A3B13_oC32_38_ac_a2bcdef",
+    "alias": [
+        "A3B13_oC32_38_ac_a2bcdef"
+    ],
     "title": "Ta$_{3}$Ti$_{13}$ (BCC SQS-16) Structure",
     "icsd": "none",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "HEYH",
     "label": "A2B4C_oP28_62_2c_2cd_c-001",
-    "alias": "A2B4C_oP28_62_2c_2cd_c",
+    "alias": [
+        "A2B4C_oP28_62_2c_2cd_c"
+    ],
     "title": "Arcanite (K$_{2}$SO$_{4}$, $H1_{6}$) Structure",
     "icsd": "2827",
     "ccdc": null,

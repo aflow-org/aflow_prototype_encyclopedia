@@ -1,7 +1,9 @@
 {
     "uid": "0ZUR",
     "label": "A3B_tP16_118_ei_f-001",
-    "alias": "A3B_tP16_118_ei_f",
+    "alias": [
+        "A3B_tP16_118_ei_f"
+    ],
     "title": "RuIn$_{3}$ Structure",
     "icsd": "59518",
     "ccdc": null,

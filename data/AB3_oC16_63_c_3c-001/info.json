@@ -1,7 +1,9 @@
 {
     "uid": "DPFG",
     "label": "AB3_oC16_63_c_3c-001",
-    "alias": "AB3_oC16_63_c_3c",
+    "alias": [
+        "AB3_oC16_63_c_3c"
+    ],
     "title": "Mn$_{3}$As (D0$_{d}$) Structure",
     "icsd": "40437",
     "ccdc": null,

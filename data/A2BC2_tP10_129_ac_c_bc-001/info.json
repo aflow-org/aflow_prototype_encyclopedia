@@ -1,7 +1,9 @@
 {
     "uid": "H0MM",
     "label": "A2BC2_tP10_129_ac_c_bc-001",
-    "alias": "A2BC2_tP10_129_ac_c_bc",
+    "alias": [
+        "A2BC2_tP10_129_ac_c_bc"
+    ],
     "title": "CaBe$_{2}$Ge$_{2}$ Structure",
     "icsd": "25337",
     "ccdc": null,

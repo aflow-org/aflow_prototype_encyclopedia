@@ -1,7 +1,9 @@
 {
     "uid": "L4VZ",
     "label": "A2B3C9D3E_mC144_15_2f_abcef_9f_3f_de-001",
-    "alias": "A2B3C9D3E_mC144_15_2f_bcdef_9f_3f_ae",
+    "alias": [
+        "A2B3C9D3E_mC144_15_2f_bcdef_9f_3f_ae"
+    ],
     "title": "Catapleiite (Na$_{2}$ZrSi$_{3}$O$_{9}\\cdot$2H$_{2}$O) Structure",
     "icsd": "20267",
     "ccdc": null,

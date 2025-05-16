@@ -1,7 +1,9 @@
 {
     "uid": "WH80",
     "label": "AB_mP32_14_4e_4e-001",
-    "alias": "AB_mP32_14_4e_4e.pararealgar",
+    "alias": [
+        "AB_mP32_14_4e_4e.pararealgar"
+    ],
     "title": "Pararealgar (AsS) Structure",
     "icsd": "80125",
     "ccdc": null,

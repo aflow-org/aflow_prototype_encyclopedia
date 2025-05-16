@@ -1,7 +1,9 @@
 {
     "uid": "7MHE",
     "label": "A3B_cP8_223_c_a-001",
-    "alias": "A3B_cP8_223_c_a",
+    "alias": [
+        "A3B_cP8_223_c_a"
+    ],
     "title": "Cr$_{3}$Si ($A15$) Structure",
     "icsd": "53218",
     "ccdc": null,

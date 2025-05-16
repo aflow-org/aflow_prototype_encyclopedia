@@ -1,7 +1,9 @@
 {
     "uid": "5B3E",
     "label": "A3B_oP16_57_a2d_d-001",
-    "alias": "A3B_oP16_57_a2d_d",
+    "alias": [
+        "A3B_oP16_57_a2d_d"
+    ],
     "title": "$D0_{10}$ (WO$_{3}$) Structure ({\\em Obsolete})",
     "icsd": "none",
     "ccdc": null,

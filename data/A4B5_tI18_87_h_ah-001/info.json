@@ -1,7 +1,9 @@
 {
     "uid": "E7DL",
     "label": "A4B5_tI18_87_h_ah-001",
-    "alias": "A4B5_tI18_87_h_ah",
+    "alias": [
+        "A4B5_tI18_87_h_ah"
+    ],
     "title": "Ti$_{5}$Te$_{4}$ Structure",
     "icsd": "15451",
     "ccdc": null,

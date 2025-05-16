@@ -1,7 +1,9 @@
 {
     "uid": "X4K0",
     "label": "AB_hP2_187_a_d-001",
-    "alias": "AB_hP2_187_d_a",
+    "alias": [
+        "AB_hP2_187_d_a"
+    ],
     "title": "Tungsten Carbide (WC, $B_{h}$) Structure",
     "icsd": "15406",
     "ccdc": null,

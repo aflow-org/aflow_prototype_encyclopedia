@@ -1,7 +1,9 @@
 {
     "uid": "858V",
     "label": "A9B2C9_hP40_176_hi_f_hi-001",
-    "alias": "A9B2C9_hP40_176_hi_f_hi",
+    "alias": [
+        "A9B2C9_hP40_176_hi_f_hi"
+    ],
     "title": "Fe$_{2}$(CO)$_{9}$ ($F4_{1}$) Structure",
     "icsd": "6010",
     "ccdc": null,

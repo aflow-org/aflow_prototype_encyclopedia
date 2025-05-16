@@ -1,7 +1,9 @@
 {
     "uid": "0VYM",
     "label": "A5B3_tP32_130_cg_cf-001",
-    "alias": "A5B3_tP32_130_cg_cf",
+    "alias": [
+        "A5B3_tP32_130_cg_cf"
+    ],
     "title": "Ba$_{5}$Si$_{3}$ Structure",
     "icsd": "409377",
     "ccdc": null,

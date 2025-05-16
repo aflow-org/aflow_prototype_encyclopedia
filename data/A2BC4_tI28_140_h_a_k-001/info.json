@@ -1,7 +1,9 @@
 {
     "uid": "VENL",
     "label": "A2BC4_tI28_140_h_a_k-001",
-    "alias": "A2BC4_tI28_140_h_a_k",
+    "alias": [
+        "A2BC4_tI28_140_h_a_k"
+    ],
     "title": "V$_{4}$SiSb$_{2}$ Structure",
     "icsd": "82564",
     "ccdc": null,

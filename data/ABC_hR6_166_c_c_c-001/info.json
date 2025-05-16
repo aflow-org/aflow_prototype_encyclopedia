@@ -1,7 +1,9 @@
 {
     "uid": "YTD1",
     "label": "ABC_hR6_166_c_c_c-001",
-    "alias": "ABC_hR6_166_c_c_c",
+    "alias": [
+        "ABC_hR6_166_c_c_c"
+    ],
     "title": "SmSI Structure",
     "icsd": "59202",
     "ccdc": null,

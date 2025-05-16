@@ -1,7 +1,9 @@
 {
     "uid": "JS41",
     "label": "A4B2C3_tP72_77_8d_ab2c2d_6d-001",
-    "alias": "A4B2C3_tP72_77_8d_ab2c2d_6d",
+    "alias": [
+        "A4B2C3_tP72_77_8d_ab2c2d_6d"
+    ],
     "title": "Gwihabaite (NH$_{4}$NO$_{3}$ V) Structure",
     "icsd": "27453",
     "ccdc": null,

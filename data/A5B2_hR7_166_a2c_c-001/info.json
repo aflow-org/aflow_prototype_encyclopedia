@@ -1,7 +1,9 @@
 {
     "uid": "WZKM",
     "label": "A5B2_hR7_166_a2c_c-001",
-    "alias": "A5B2_hR7_166_a2c_c",
+    "alias": [
+        "A5B2_hR7_166_a2c_c"
+    ],
     "title": "Mo$_{2}$B$_{5}$ ($D8_{i}$) Structure",
     "icsd": "24282",
     "ccdc": null,

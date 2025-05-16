@@ -1,7 +1,9 @@
 {
     "uid": "0HGH",
     "label": "A6B2CD6E_cP64_208_m_ad_b_m_c-001",
-    "alias": "A6B2CD6E_cP64_208_m_ad_b_m_c",
+    "alias": [
+        "A6B2CD6E_cP64_208_m_ad_b_m_c"
+    ],
     "title": "Cs$_{2}$ZnFe[CN]$_{6}$ Structure",
     "icsd": "none",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "RUSN",
     "label": "A_hR1_166_a-001",
-    "alias": "A_hR1_166_a.beta-Po",
+    "alias": [
+        "A_hR1_166_a.beta-Po"
+    ],
     "title": "$\\beta$-Po ($A_i$) Structure",
     "icsd": "649161",
     "ccdc": null,

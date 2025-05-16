@@ -1,7 +1,9 @@
 {
     "uid": "8B57",
     "label": "AB8C2_oC22_35_a_ab3d_d-002",
-    "alias": "AB8C2_oC22_35_a_ab3e_e",
+    "alias": [
+        "AB8C2_oC22_35_a_ab3e_e"
+    ],
     "title": "V$_{2}$MoO$_{8}$ Structure",
     "icsd": "25378",
     "ccdc": null,

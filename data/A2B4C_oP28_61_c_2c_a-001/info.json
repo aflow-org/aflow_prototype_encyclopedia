@@ -1,7 +1,9 @@
 {
     "uid": "NDWA",
     "label": "A2B4C_oP28_61_c_2c_a-001",
-    "alias": "A2B4C_oP28_61_c_2c_a",
+    "alias": [
+        "A2B4C_oP28_61_c_2c_a"
+    ],
     "title": "Ca$_{2}$RuO$_{4}$ Structure",
     "icsd": "291033",
     "ccdc": null,

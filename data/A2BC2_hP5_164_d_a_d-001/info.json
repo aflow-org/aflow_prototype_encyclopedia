@@ -1,7 +1,9 @@
 {
     "uid": "N2MR",
     "label": "A2BC2_hP5_164_d_a_d-001",
-    "alias": "A2BC2_hP5_164_d_a_d",
+    "alias": [
+        "A2BC2_hP5_164_d_a_d"
+    ],
     "title": "Brucite [Mg(OH)$_{2}$] Structure",
     "icsd": "79031",
     "ccdc": null,

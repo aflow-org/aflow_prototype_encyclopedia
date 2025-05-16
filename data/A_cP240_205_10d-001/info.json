@@ -1,7 +1,9 @@
 {
     "uid": "3VYE",
     "label": "A_cP240_205_10d-001",
-    "alias": "A_cP240_205_10d",
+    "alias": [
+        "A_cP240_205_10d"
+    ],
     "title": "Simple Cubic C$_{60}$ Buckminsterfullerene Structure",
     "icsd": "66729",
     "ccdc": null,

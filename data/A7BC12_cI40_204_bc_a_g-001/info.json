@@ -1,7 +1,9 @@
 {
     "uid": "M5NA",
     "label": "A7BC12_cI40_204_bc_a_g-001",
-    "alias": "A7BC12_cI40_204_bc_a_g",
+    "alias": [
+        "A7BC12_cI40_204_bc_a_g"
+    ],
     "title": "NaMn$_{7}$O$_{12}$ Structure",
     "icsd": "154189",
     "ccdc": null,

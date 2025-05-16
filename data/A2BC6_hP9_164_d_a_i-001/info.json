@@ -1,7 +1,9 @@
 {
     "uid": "F3SY",
     "label": "A2BC6_hP9_164_d_a_i-001",
-    "alias": "A2BC6_hP9_164_d_a_i",
+    "alias": [
+        "A2BC6_hP9_164_d_a_i"
+    ],
     "title": "K$_{2}$Pt(SCN)$_{6}$ ($H6_{3}$) Structure",
     "icsd": "35511",
     "ccdc": null,

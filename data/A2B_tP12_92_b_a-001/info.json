@@ -1,7 +1,9 @@
 {
     "uid": "VHRN",
     "label": "A2B_tP12_92_b_a-001",
-    "alias": "A2B_tP12_92_b_a",
+    "alias": [
+        "A2B_tP12_92_b_a"
+    ],
     "title": "$\\alpha$-Cristobalite (SiO$_{2}$, low, $C30$) Structure",
     "icsd": "47221",
     "ccdc": null,

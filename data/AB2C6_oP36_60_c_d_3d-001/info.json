@@ -1,7 +1,9 @@
 {
     "uid": "ZB5U",
     "label": "AB2C6_oP36_60_c_d_3d-001",
-    "alias": "AB2C6_oP36_60_c_d_3d",
+    "alias": [
+        "AB2C6_oP36_60_c_d_3d"
+    ],
     "title": "Columbite (FeNb$_{2}$O$_{4}$, $E5_{1}$) Structure",
     "icsd": "201962",
     "ccdc": null,

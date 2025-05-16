@@ -1,7 +1,9 @@
 {
     "uid": "FF5Q",
     "label": "AB2_oP6_58_a_g-002",
-    "alias": "AB2_oP6_58_a_g.eta-Fe2C",
+    "alias": [
+        "AB2_oP6_58_a_g.eta-Fe2C"
+    ],
     "title": "$\\eta$-Fe$_{2}$C Structure",
     "icsd": "76826",
     "ccdc": null,

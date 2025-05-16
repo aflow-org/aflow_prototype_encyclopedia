@@ -1,7 +1,9 @@
 {
     "uid": "KM4R",
     "label": "A2B7_cI54_229_e_afh-001",
-    "alias": "A2B7_cI54_229_e_afh",
+    "alias": [
+        "A2B7_cI54_229_e_afh"
+    ],
     "title": "Sb$_{2}$Tl$_{7}$ ($L2_{2}$) Structure",
     "icsd": "41816",
     "ccdc": null,

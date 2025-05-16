@@ -1,7 +1,9 @@
 {
     "uid": "QVN8",
     "label": "AB3_mC32_8_4a_12a-001",
-    "alias": "AB3_mC32_8_4a_12a",
+    "alias": [
+        "AB3_mC32_8_4a_12a"
+    ],
     "title": "TaTi$_{3}$-I (BCC SQS-16) Structure",
     "icsd": "none",
     "ccdc": null,

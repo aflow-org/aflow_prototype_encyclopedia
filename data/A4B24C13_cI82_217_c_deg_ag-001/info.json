@@ -1,7 +1,9 @@
 {
     "uid": "5PAV",
     "label": "A4B24C13_cI82_217_c_deg_ag-001",
-    "alias": "A4B24C13_cI82_217_c_deg_ag",
+    "alias": [
+        "A4B24C13_cI82_217_c_deg_ag"
+    ],
     "title": "Tennantite (Cu$_{12}$As$_{4}$S$_{13}$) Structure",
     "icsd": "403458",
     "ccdc": null,

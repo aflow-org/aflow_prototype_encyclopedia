@@ -1,7 +1,9 @@
 {
     "uid": "Q1UZ",
     "label": "ABC4_cF24_216_a_b_e-001",
-    "alias": "ABC4_cF24_216_b_a_e",
+    "alias": [
+        "ABC4_cF24_216_b_a_e"
+    ],
     "title": "High-Temperature Cubic KClO$_{4}$ ($H0_{5}$) Structure",
     "icsd": "33562",
     "ccdc": null,

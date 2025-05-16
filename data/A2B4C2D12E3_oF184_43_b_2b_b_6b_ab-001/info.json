@@ -1,7 +1,9 @@
 {
     "uid": "FT02",
     "label": "A2B4C2D12E3_oF184_43_b_2b_b_6b_ab-001",
-    "alias": "A2B4C2D12E3_oF184_43_b_2b_b_6b_ab",
+    "alias": [
+        "A2B4C2D12E3_oF184_43_b_2b_b_6b_ab"
+    ],
     "title": "Natrolite (Na$_{2}$Al$_{2}$Si$_{3}$O$_{10}\\cdot$2H$_{2}$O, $S6_{10}$) Structure",
     "icsd": "201651",
     "ccdc": null,

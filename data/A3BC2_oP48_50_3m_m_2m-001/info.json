@@ -1,7 +1,9 @@
 {
     "uid": "06EV",
     "label": "A3BC2_oP48_50_3m_m_2m-001",
-    "alias": "A3BC2_oP48_50_3m_m_2m",
+    "alias": [
+        "A3BC2_oP48_50_3m_m_2m"
+    ],
     "title": "$\\alpha$-Tl$_{2}$TeO$_{3}$ Structure",
     "icsd": "240675",
     "ccdc": null,

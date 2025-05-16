@@ -1,7 +1,9 @@
 {
     "uid": "7QNH",
     "label": "AB2C3_oP24_62_c_d_cd-001",
-    "alias": "AB2C3_oP24_62_c_d_cd",
+    "alias": [
+        "AB2C3_oP24_62_c_d_cd"
+    ],
     "title": "Cubanite (CuFe$_{2}$S$_{3}$, $E9_{e}$) Structure",
     "icsd": "42104",
     "ccdc": null,

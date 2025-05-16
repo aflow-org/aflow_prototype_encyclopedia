@@ -1,7 +1,9 @@
 {
     "uid": "4WTF",
     "label": "A3B4_mC14_12_ai_2i-001",
-    "alias": "A3B4_mC14_12_ai_2i",
+    "alias": [
+        "A3B4_mC14_12_ai_2i"
+    ],
     "title": "$\\delta$-Ni$_{3}$Sn$_{4}$ ($D7_{a}$) Structure",
     "icsd": "105364",
     "ccdc": null,

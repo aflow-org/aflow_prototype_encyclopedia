@@ -1,7 +1,9 @@
 {
     "uid": "7VYN",
     "label": "A_oF8_70_a-001",
-    "alias": "A_oF8_70_a",
+    "alias": [
+        "A_oF8_70_a"
+    ],
     "title": "$\\gamma$-Pu Structure",
     "icsd": "44866",
     "ccdc": null,

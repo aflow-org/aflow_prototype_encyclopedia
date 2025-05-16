@@ -1,7 +1,9 @@
 {
     "uid": "MZYE",
     "label": "A2BC4_cF56_227_c_b_e-001",
-    "alias": "A2BC4_cF56_227_d_a_e",
+    "alias": [
+        "A2BC4_cF56_227_d_a_e"
+    ],
     "title": "Spinel (Al$_{2}$MgO$_{4}$, $H1_{1}$) Structure",
     "icsd": "26485",
     "ccdc": null,

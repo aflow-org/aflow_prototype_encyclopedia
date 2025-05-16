@@ -1,7 +1,9 @@
 {
     "uid": "7FZR",
     "label": "A2B_oC24_64_2f_f-001",
-    "alias": "A2B_oC24_64_2f_f",
+    "alias": [
+        "A2B_oC24_64_2f_f"
+    ],
     "title": "H$_{2}$S (170 GPa) Structure",
     "icsd": "none",
     "ccdc": null,

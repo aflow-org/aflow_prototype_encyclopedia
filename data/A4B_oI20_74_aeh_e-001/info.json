@@ -1,7 +1,9 @@
 {
     "uid": "FNF2",
     "label": "A4B_oI20_74_aeh_e-001",
-    "alias": "A4B_oI20_74_beh_e",
+    "alias": [
+        "A4B_oI20_74_beh_e"
+    ],
     "title": "Al$_{4}$U ($D1_{b}$) Structure",
     "icsd": "240127",
     "ccdc": null,

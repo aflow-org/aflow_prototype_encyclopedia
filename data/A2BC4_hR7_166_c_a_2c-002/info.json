@@ -1,7 +1,9 @@
 {
     "uid": "MU2V",
     "label": "A2BC4_hR7_166_c_a_2c-002",
-    "alias": "A2BC4_hR7_166_c_a_2c",
+    "alias": [
+        "A2BC4_hR7_166_c_a_2c"
+    ],
     "title": "MnBi$_{2}$Te$_{4}$ Structure",
     "icsd": "37566",
     "ccdc": null,

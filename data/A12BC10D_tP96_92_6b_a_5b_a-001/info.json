@@ -1,7 +1,9 @@
 {
     "uid": "JAKV",
     "label": "A12BC10D_tP96_92_6b_a_5b_a-001",
-    "alias": "A12BC10D_tP96_92_6b_a_5b_a",
+    "alias": [
+        "A12BC10D_tP96_92_6b_a_5b_a"
+    ],
     "title": "Retgersite ($\\alpha$-NiSO$_{4}\\cdot$6H$_{2}$O, $H4_{5}$) Structure",
     "icsd": "62051",
     "ccdc": null,

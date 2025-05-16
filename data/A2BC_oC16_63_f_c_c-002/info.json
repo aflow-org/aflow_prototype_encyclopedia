@@ -1,7 +1,9 @@
 {
     "uid": "ECJE",
     "label": "A2BC_oC16_63_f_c_c-002",
-    "alias": "A2BC_oC16_63_f_c_c",
+    "alias": [
+        "A2BC_oC16_63_f_c_c"
+    ],
     "title": "MgCuAl$_{2}$ ($E1_{a}$) Structure",
     "icsd": "415062",
     "ccdc": null,

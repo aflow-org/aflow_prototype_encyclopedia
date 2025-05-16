@@ -1,7 +1,9 @@
 {
     "uid": "6HGL",
     "label": "ABC3_mC10_5_b_a_ac-001",
-    "alias": "ABC3_mC10_5_b_a_ac",
+    "alias": [
+        "ABC3_mC10_5_b_a_ac"
+    ],
     "title": "(Ba,Ca)CO$_{3}$ (``$C2$'') Structure",
     "icsd": "403432",
     "ccdc": null,

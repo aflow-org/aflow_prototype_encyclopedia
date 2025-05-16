@@ -1,7 +1,9 @@
 {
     "uid": "F86A",
     "label": "A8B7C6_hP21_175_ck_aj_k-001",
-    "alias": "A8B7C6_hP21_175_ck_aj_k",
+    "alias": [
+        "A8B7C6_hP21_175_ck_aj_k"
+    ],
     "title": "Nb$_{7}$Ru$_{6}$B$_{8}$ Structure",
     "icsd": "263041",
     "ccdc": null,

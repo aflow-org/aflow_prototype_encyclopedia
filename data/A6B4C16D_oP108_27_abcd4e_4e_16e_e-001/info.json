@@ -1,7 +1,9 @@
 {
     "uid": "TBPX",
     "label": "A6B4C16D_oP108_27_abcd4e_4e_16e_e-001",
-    "alias": "A6B4C16D_oP108_27_abcd4e_4e_16e_e",
+    "alias": [
+        "A6B4C16D_oP108_27_abcd4e_4e_16e_e"
+    ],
     "title": "Ca$_{4}$Al$_{6}$O$_{16}$S Structure",
     "icsd": "80361",
     "ccdc": null,

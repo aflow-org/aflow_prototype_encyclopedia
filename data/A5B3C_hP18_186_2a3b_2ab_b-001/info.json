@@ -1,7 +1,9 @@
 {
     "uid": "KHLK",
     "label": "A5B3C_hP18_186_2a3b_2ab_b-001",
-    "alias": "A5B3C_hP18_186_2a3b_2ab_b",
+    "alias": [
+        "A5B3C_hP18_186_2a3b_2ab_b"
+    ],
     "title": "Al$_{5}$C$_{3}$N ($E9_{4}$) Structure",
     "icsd": "14398",
     "ccdc": null,

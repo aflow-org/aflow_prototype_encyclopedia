@@ -1,7 +1,9 @@
 {
     "uid": "729N",
     "label": "AB11CD3_cP16_221_a_dg_b_c-001",
-    "alias": "AB11CD3_cP16_221_a_dg_b_c",
+    "alias": [
+        "AB11CD3_cP16_221_a_dg_b_c"
+    ],
     "title": "Model of Ferrite Structure (cP16)",
     "icsd": "none",
     "ccdc": null,

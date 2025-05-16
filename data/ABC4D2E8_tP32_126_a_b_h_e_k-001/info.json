@@ -1,7 +1,9 @@
 {
     "uid": "EW36",
     "label": "ABC4D2E8_tP32_126_a_b_h_e_k-001",
-    "alias": "ABC4D2E8_tP32_126_a_b_h_e_k",
+    "alias": [
+        "ABC4D2E8_tP32_126_a_b_h_e_k"
+    ],
     "title": "Ag[Co(NH$_{3}$)$_{2}$(NO$_{2}$)$_{4}$] ($J1_{9}$) Structure",
     "icsd": "26767",
     "ccdc": null,

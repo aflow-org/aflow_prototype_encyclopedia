@@ -1,7 +1,9 @@
 {
     "uid": "L33F",
     "label": "ABC2_hR24_167_e_e_2e-001",
-    "alias": "ABC2_hR24_167_e_e_2e",
+    "alias": [
+        "ABC2_hR24_167_e_e_2e"
+    ],
     "title": "KBO$_{2}$ ($F5_{13}$) Structure",
     "icsd": "16005",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "NG7F",
     "label": "AB2_tI6_139_a_e-001",
-    "alias": "AB2_tI6_139_a_e",
+    "alias": [
+        "AB2_tI6_139_a_e"
+    ],
     "title": "MoSi$_{2}$ ($C11_{b}$) Structure",
     "icsd": "85756",
     "ccdc": null,

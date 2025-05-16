@@ -1,7 +1,9 @@
 {
     "uid": "YL8Z",
     "label": "A2B5C4_mP22_14_e_a2e_2e-001",
-    "alias": "A2B5C4_mP22_14_e_c2e_2e",
+    "alias": [
+        "A2B5C4_mP22_14_e_c2e_2e"
+    ],
     "title": "Sb$_{4}$O$_{5}$Cl$_{2}$ Structure",
     "icsd": "2233",
     "ccdc": null,

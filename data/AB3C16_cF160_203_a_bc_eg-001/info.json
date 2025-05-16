@@ -1,7 +1,9 @@
 {
     "uid": "HAGZ",
     "label": "AB3C16_cF160_203_a_bc_eg-001",
-    "alias": "AB3C16_cF160_203_a_bc_eg",
+    "alias": [
+        "AB3C16_cF160_203_a_bc_eg"
+    ],
     "title": "Rb$_{3}$AsSe$_{16}$ Structure",
     "icsd": "405959",
     "ccdc": null,

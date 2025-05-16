@@ -1,7 +1,9 @@
 {
     "uid": "MYP4",
     "label": "A_oF128_70_4h-001",
-    "alias": "A_oF128_70_4h",
+    "alias": [
+        "A_oF128_70_4h"
+    ],
     "title": "$\\alpha$-S ($A16$) Structure",
     "icsd": "63082",
     "ccdc": null,

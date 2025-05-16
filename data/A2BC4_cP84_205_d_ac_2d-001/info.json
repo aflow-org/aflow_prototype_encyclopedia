@@ -1,7 +1,9 @@
 {
     "uid": "TZRB",
     "label": "A2BC4_cP84_205_d_ac_2d-001",
-    "alias": "A2BC4_cP84_205_d_ac_2d",
+    "alias": [
+        "A2BC4_cP84_205_d_ac_2d"
+    ],
     "title": "CaB$_{2}$O$_{4}$ (IV) Structure",
     "icsd": "23241",
     "ccdc": null,

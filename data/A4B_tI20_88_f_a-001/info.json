@@ -1,7 +1,9 @@
 {
     "uid": "5VT7",
     "label": "A4B_tI20_88_f_a-001",
-    "alias": "A4B_tI20_88_f_a",
+    "alias": [
+        "A4B_tI20_88_f_a"
+    ],
     "title": "$\\alpha$-ThCl$_{4}$ Structure",
     "icsd": "6055",
     "ccdc": null,

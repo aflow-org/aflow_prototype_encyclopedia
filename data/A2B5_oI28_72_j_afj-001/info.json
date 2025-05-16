@@ -1,7 +1,9 @@
 {
     "uid": "AB10",
     "label": "A2B5_oI28_72_j_afj-001",
-    "alias": "A2B5_oI28_72_j_bfj",
+    "alias": [
+        "A2B5_oI28_72_j_bfj"
+    ],
     "title": "Ga$_{2}$Mg$_{5}$ ($D8_{g}$) Structure",
     "icsd": "103794",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "XP6Z",
     "label": "A3B3C2_hP16_187_jk_jk_ak-001",
-    "alias": "A3B3C2_hP16_187_jk_jk_ck",
+    "alias": [
+        "A3B3C2_hP16_187_jk_jk_ck"
+    ],
     "title": "Cr-233 Quasi-One-Dimensional Superconductor (K$_{2}$Cr$_{3}$As$_{3}$) Structure",
     "icsd": "35909",
     "ccdc": null,

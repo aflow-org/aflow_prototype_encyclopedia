@@ -1,7 +1,9 @@
 {
     "uid": "443S",
     "label": "A4B5_hP18_193_bg_dg-001",
-    "alias": "A4B5_hP18_193_bg_dg",
+    "alias": [
+        "A4B5_hP18_193_bg_dg"
+    ],
     "title": "Ti$_{5}$Ga$_{4}$ Structure",
     "icsd": "103997",
     "ccdc": null,

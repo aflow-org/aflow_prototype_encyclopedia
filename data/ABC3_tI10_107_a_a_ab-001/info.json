@@ -1,7 +1,9 @@
 {
     "uid": "N3SR",
     "label": "ABC3_tI10_107_a_a_ab-001",
-    "alias": "ABC3_tI10_107_a_a_ab",
+    "alias": [
+        "ABC3_tI10_107_a_a_ab"
+    ],
     "title": "BaNiSn$_{3}$ Structure",
     "icsd": "58662",
     "ccdc": null,

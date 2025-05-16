@@ -1,7 +1,9 @@
 {
     "uid": "M1VB",
     "label": "AB2_hP72_192_m_j2kl-001",
-    "alias": "AB2_hP72_192_m_j2kl",
+    "alias": [
+        "AB2_hP72_192_m_j2kl"
+    ],
     "title": "AlPO$_{4}$ Structure",
     "icsd": "62772",
     "ccdc": null,

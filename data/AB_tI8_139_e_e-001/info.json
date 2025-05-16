@@ -1,7 +1,9 @@
 {
     "uid": "T1KN",
     "label": "AB_tI8_139_e_e-001",
-    "alias": "AB_tI8_139_e_e",
+    "alias": [
+        "AB_tI8_139_e_e"
+    ],
     "title": "Calomel (Hg$_{2}$Cl$_{2}$, $D3_{1}$) Structure",
     "icsd": "65441",
     "ccdc": null,

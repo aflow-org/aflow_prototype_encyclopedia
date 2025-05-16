@@ -1,7 +1,9 @@
 {
     "uid": "P5PQ",
     "label": "AB3_mC32_8_4a_4a4b-001",
-    "alias": "AB3_mC32_8_4a_4a4b",
+    "alias": [
+        "AB3_mC32_8_4a_4a4b"
+    ],
     "title": "TaTi$_{3}$-II (BCC SQS-16) Structure",
     "icsd": "none",
     "ccdc": null,

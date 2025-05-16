@@ -1,7 +1,9 @@
 {
     "uid": "YAHB",
     "label": "A4B3_hR7_166_2c_ac-001",
-    "alias": "A4B3_hR7_166_2c_ac",
+    "alias": [
+        "A4B3_hR7_166_2c_ac"
+    ],
     "title": "Al$_{4}$C$_{3}$ ($D7_{1}$) Structure",
     "icsd": "66751",
     "ccdc": null,

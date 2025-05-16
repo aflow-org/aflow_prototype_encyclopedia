@@ -1,7 +1,9 @@
 {
     "uid": "R5TJ",
     "label": "A13BC18D20E5_cF228_216_ah_c_gh_2eh_be-001",
-    "alias": "A13BC18D20E5_cF228_216_dh_b_fh_2eh_ce",
+    "alias": [
+        "A13BC18D20E5_cF228_216_dh_b_fh_2eh_ce"
+    ],
     "title": "Zunyite [Al$_{13}$(OH,F)$_{18}$Si$_{5}$O$_{20}$Cl ($S0_{8}$)] Structure",
     "icsd": "15745",
     "ccdc": null,

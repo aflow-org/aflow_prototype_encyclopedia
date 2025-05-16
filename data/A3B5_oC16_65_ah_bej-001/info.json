@@ -1,7 +1,9 @@
 {
     "uid": "36DL",
     "label": "A3B5_oC16_65_ah_bej-001",
-    "alias": "A3B5_oC16_65_ah_bej",
+    "alias": [
+        "A3B5_oC16_65_ah_bej"
+    ],
     "title": "Ga$_{3}$Pt$_{5}$ Structure",
     "icsd": "103927",
     "ccdc": null,

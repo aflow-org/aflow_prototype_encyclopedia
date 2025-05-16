@@ -1,7 +1,9 @@
 {
     "uid": "M9HY",
     "label": "A3BC_mP20_14_3e_e_e-001",
-    "alias": "A3BC_mP20_14_3e_e_e",
+    "alias": [
+        "A3BC_mP20_14_3e_e_e"
+    ],
     "title": "Sanguite (KCuCl$_{3}$) Structure",
     "icsd": "15590",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "29CG",
     "label": "A2BC8_tI176_110_2b_b_8b-001",
-    "alias": "A2BC8_tI176_110_2b_b_8b",
+    "alias": [
+        "A2BC8_tI176_110_2b_b_8b"
+    ],
     "title": "Be[BH$_{4}$]$_{2}$ Structure",
     "icsd": "10315",
     "ccdc": null,

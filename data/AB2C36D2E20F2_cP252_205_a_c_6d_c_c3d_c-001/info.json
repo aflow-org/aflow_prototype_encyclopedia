@@ -1,7 +1,9 @@
 {
     "uid": "SFC7",
     "label": "AB2C36D2E20F2_cP252_205_a_c_6d_c_c3d_c-001",
-    "alias": "AB2C36D2E20F2_cP252_205_a_c_6d_c_c3d_c",
+    "alias": [
+        "AB2C36D2E20F2_cP252_205_a_c_6d_c_c3d_c"
+    ],
     "title": "$\\beta$-Alum [Al(NH$_{3}$CH$_{3}$)$_{2}$(SO$_{4}$)$_{2}$ $\\cdot$ 12H$_{2}$O, $H4_{14}$] Structure",
     "icsd": "77599",
     "ccdc": null,

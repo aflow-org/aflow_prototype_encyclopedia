@@ -1,7 +1,9 @@
 {
     "uid": "386R",
     "label": "A6B_oC28_63_efg_c-001",
-    "alias": "A6B_oC28_63_efg_c",
+    "alias": [
+        "A6B_oC28_63_efg_c"
+    ],
     "title": "MnAl$_{6}$ ($D2_{h}$) Structure",
     "icsd": "57973",
     "ccdc": null,

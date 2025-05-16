@@ -1,7 +1,9 @@
 {
     "uid": "3APN",
     "label": "AB7_cF32_225_a_bd-001",
-    "alias": "AB7_cF32_225_b_ad",
+    "alias": [
+        "AB7_cF32_225_b_ad"
+    ],
     "title": "$L1_{a}$ (disputed CuPt$_{3}$ Structure)",
     "icsd": "none",
     "ccdc": null,

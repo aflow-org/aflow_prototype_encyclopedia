@@ -1,7 +1,9 @@
 {
     "uid": "QDSV",
     "label": "A2B_cF24_227_c_a-001",
-    "alias": "A2B_cF24_227_c_a",
+    "alias": [
+        "A2B_cF24_227_c_a"
+    ],
     "title": "Ideal $\\beta$-Cristobalite (SiO$_{2}$, $C9$) Structure",
     "icsd": "35536",
     "ccdc": null,

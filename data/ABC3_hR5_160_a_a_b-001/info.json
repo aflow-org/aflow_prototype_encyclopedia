@@ -1,7 +1,9 @@
 {
     "uid": "0ZSQ",
     "label": "ABC3_hR5_160_a_a_b-001",
-    "alias": "ABC3_hR5_160_a_a_b.KBrO3",
+    "alias": [
+        "ABC3_hR5_160_a_a_b.KBrO3"
+    ],
     "title": "KBrO$_{3}$ ($G0_{7}$) Structure",
     "icsd": "47173",
     "ccdc": null,

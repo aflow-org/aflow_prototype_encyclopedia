@@ -1,7 +1,9 @@
 {
     "uid": "12DH",
     "label": "ABC_hP36_175_jk_jk_jk-001",
-    "alias": "ABC_hP36_175_jk_jk_jk",
+    "alias": [
+        "ABC_hP36_175_jk_jk_jk"
+    ],
     "title": "Mg[NH] Structure",
     "icsd": "261304",
     "ccdc": null,

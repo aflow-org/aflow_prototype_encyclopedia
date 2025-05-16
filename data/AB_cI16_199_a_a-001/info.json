@@ -1,7 +1,9 @@
 {
     "uid": "TFMD",
     "label": "AB_cI16_199_a_a-001",
-    "alias": "AB_cI16_199_a_a",
+    "alias": [
+        "AB_cI16_199_a_a"
+    ],
     "title": "CoU ($B_{a}$) Structure",
     "icsd": "102712",
     "ccdc": null,

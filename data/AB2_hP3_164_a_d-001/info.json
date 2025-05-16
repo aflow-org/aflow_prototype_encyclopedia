@@ -1,7 +1,9 @@
 {
     "uid": "32EZ",
     "label": "AB2_hP3_164_a_d-001",
-    "alias": "AB2_hP3_164_a_d",
+    "alias": [
+        "AB2_hP3_164_a_d"
+    ],
     "title": "$\\omega$ Phase (CdI$_{2}$, $C6$) Structure",
     "icsd": "53983",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "LH7J",
     "label": "A2BCD3E6_cF208_203_e_c_d_f_g-001",
-    "alias": "A2BCD3E6_cF208_203_e_c_d_f_g",
+    "alias": [
+        "A2BCD3E6_cF208_203_e_c_d_f_g"
+    ],
     "title": "Pyrochlore (Na$_{3}$Co(CO$_{3}$)$_{2}$Cl) Structure",
     "icsd": "none",
     "ccdc": null,

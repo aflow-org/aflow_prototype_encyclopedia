@@ -1,7 +1,9 @@
 {
     "uid": "R06D",
     "label": "AB_tI8_141_a_b-001",
-    "alias": "AB_tI8_141_a_b",
+    "alias": [
+        "AB_tI8_141_a_b"
+    ],
     "title": "NbP (``40'') Structure",
     "icsd": "76027",
     "ccdc": null,

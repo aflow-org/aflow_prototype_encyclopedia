@@ -1,7 +1,9 @@
 {
     "uid": "U620",
     "label": "A3B_tP32_114_3e_e-001",
-    "alias": "A3B_tP32_114_3e_e",
+    "alias": [
+        "A3B_tP32_114_3e_e"
+    ],
     "title": "SeO$_{3}$ Structure",
     "icsd": "none",
     "ccdc": null,

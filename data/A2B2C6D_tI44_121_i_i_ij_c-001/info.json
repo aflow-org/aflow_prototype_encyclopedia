@@ -1,7 +1,9 @@
 {
     "uid": "USSD",
     "label": "A2B2C6D_tI44_121_i_i_ij_c-001",
-    "alias": "A2B2C6D_tI44_121_i_i_ij_c",
+    "alias": [
+        "A2B2C6D_tI44_121_i_i_ij_c"
+    ],
     "title": "SrCu$_{2}$(BO$_{3}$)$_{2}$ Structure",
     "icsd": "80592",
     "ccdc": null,

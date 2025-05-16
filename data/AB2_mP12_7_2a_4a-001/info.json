@@ -1,7 +1,9 @@
 {
     "uid": "G433",
     "label": "AB2_mP12_7_2a_4a-001",
-    "alias": "AB2_mP12_7_2a_4a",
+    "alias": [
+        "AB2_mP12_7_2a_4a"
+    ],
     "title": "Calaverite (AuTe$_{2}$) Structure",
     "icsd": "30905",
     "ccdc": null,

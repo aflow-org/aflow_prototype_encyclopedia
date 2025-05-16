@@ -1,7 +1,9 @@
 {
     "uid": "GSD1",
     "label": "A2B_oP12_62_2c_c-003",
-    "alias": "A2B_oP12_62_2c_c.PbCl2",
+    "alias": [
+        "A2B_oP12_62_2c_c.PbCl2"
+    ],
     "title": "Cotunnite (PbCl$_{2}$, $C23$) Structure",
     "icsd": "43344",
     "ccdc": null,

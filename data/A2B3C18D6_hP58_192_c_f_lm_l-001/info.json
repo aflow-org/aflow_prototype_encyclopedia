@@ -1,7 +1,9 @@
 {
     "uid": "52T5",
     "label": "A2B3C18D6_hP58_192_c_f_lm_l-001",
-    "alias": "A2B3C18D6_hP58_192_c_f_lm_l",
+    "alias": [
+        "A2B3C18D6_hP58_192_c_f_lm_l"
+    ],
     "title": "Beryl (Be$_{3}$Al$_{2}$Si$_{6}$O$_{18}$, $S3_{1}$) Structure",
     "icsd": "202090",
     "ccdc": null,

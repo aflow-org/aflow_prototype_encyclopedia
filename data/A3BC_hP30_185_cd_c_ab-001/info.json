@@ -1,7 +1,9 @@
 {
     "uid": "PKFR",
     "label": "A3BC_hP30_185_cd_c_ab-001",
-    "alias": "A3BC_hP30_185_cd_c_ab",
+    "alias": [
+        "A3BC_hP30_185_cd_c_ab"
+    ],
     "title": "KNiCl$_{3}$ Structure",
     "icsd": "10508",
     "ccdc": null,

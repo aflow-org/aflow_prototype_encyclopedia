@@ -1,7 +1,9 @@
 {
     "uid": "MTF0",
     "label": "A_mC16_12_4i-001",
-    "alias": "A_mC16_12_4i",
+    "alias": [
+        "A_mC16_12_4i"
+    ],
     "title": "M-carbon Structure",
     "icsd": "182760",
     "ccdc": null,

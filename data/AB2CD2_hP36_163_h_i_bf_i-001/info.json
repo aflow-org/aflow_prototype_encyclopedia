@@ -1,7 +1,9 @@
 {
     "uid": "JLGL",
     "label": "AB2CD2_hP36_163_h_i_bf_i-001",
-    "alias": "AB2CD2_hP36_163_h_i_bf_i",
+    "alias": [
+        "AB2CD2_hP36_163_h_i_bf_i"
+    ],
     "title": "KAg(CN)$_{2}$ ($F5_{10}$) Structure",
     "icsd": "30275",
     "ccdc": null,

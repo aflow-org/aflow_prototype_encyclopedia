@@ -1,7 +1,9 @@
 {
     "uid": "DLX0",
     "label": "A4B7C_oP24_31_2b_a3b_a-001",
-    "alias": "A4B7C_oP24_31_2b_a3b_a",
+    "alias": [
+        "A4B7C_oP24_31_2b_a3b_a"
+    ],
     "title": "B$_{4}$SrO$_{7}$ Structure",
     "icsd": "27404",
     "ccdc": null,

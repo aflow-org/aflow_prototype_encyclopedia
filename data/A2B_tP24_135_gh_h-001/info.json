@@ -1,7 +1,9 @@
 {
     "uid": "YNQK",
     "label": "A2B_tP24_135_gh_h-001",
-    "alias": "A2B_tP24_135_gh_h",
+    "alias": [
+        "A2B_tP24_135_gh_h"
+    ],
     "title": "Downeyite ($\\alpha$-SeO$_{2}$, $C47$) Structure",
     "icsd": "72367",
     "ccdc": null,

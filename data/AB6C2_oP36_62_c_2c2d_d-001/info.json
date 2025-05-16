@@ -1,7 +1,9 @@
 {
     "uid": "07R8",
     "label": "AB6C2_oP36_62_c_2c2d_d-001",
-    "alias": "AB6C2_oP36_62_c_2c2d_d",
+    "alias": [
+        "AB6C2_oP36_62_c_2c2d_d"
+    ],
     "title": "Rynersonite (Orthorhombic CaTa$_{2}$O$_{6}$) Structure",
     "icsd": "24091",
     "ccdc": null,

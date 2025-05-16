@@ -1,7 +1,9 @@
 {
     "uid": "B4JD",
     "label": "AB3_tP4_123_a_ce-001",
-    "alias": "AB3_tP4_123_a_ce",
+    "alias": [
+        "AB3_tP4_123_a_ce"
+    ],
     "title": "CuTi$_{3}$ ($L6_{0}$) Structure",
     "icsd": "103130",
     "ccdc": null,

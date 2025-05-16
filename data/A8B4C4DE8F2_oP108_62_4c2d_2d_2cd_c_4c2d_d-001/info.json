@@ -1,7 +1,9 @@
 {
     "uid": "BH4W",
     "label": "A8B4C4DE8F2_oP108_62_4c2d_2d_2cd_c_4c2d_d-001",
-    "alias": "A8B4C4DE8F2_oP108_62_4c2d_2d_2cd_c_4c2d_d",
+    "alias": [
+        "A8B4C4DE8F2_oP108_62_4c2d_2d_2cd_c_4c2d_d"
+    ],
     "title": "K$_{4}$[Mo(CN)$_{8}$]$\\cdot$ 2H$_{2}$O ($F2_{1}$) Structure",
     "icsd": "none",
     "ccdc": null,

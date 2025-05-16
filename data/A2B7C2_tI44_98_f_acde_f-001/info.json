@@ -1,7 +1,9 @@
 {
     "uid": "XLYF",
     "label": "A2B7C2_tI44_98_f_acde_f-001",
-    "alias": "A2B7C2_tI44_98_f_bcde_f",
+    "alias": [
+        "A2B7C2_tI44_98_f_bcde_f"
+    ],
     "title": "Phase III Cd$_{2}$Re$_{2}$O$_{7}$ Structure",
     "icsd": "none",
     "ccdc": null,

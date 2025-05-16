@@ -1,7 +1,9 @@
 {
     "uid": "6BKE",
     "label": "A2B_tP12_92_b_a-002",
-    "alias": "A2B_tP12_92_b_a.TeO2",
+    "alias": [
+        "A2B_tP12_92_b_a.TeO2"
+    ],
     "title": "Paratellurite ($\\alpha$TeO$_{2}$) Structure",
     "icsd": "202792",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "G18C",
     "label": "A_aP4_2_aci-001",
-    "alias": "A_aP4_2_aci",
+    "alias": [
+        "A_aP4_2_aci"
+    ],
     "title": "Cf Structure",
     "icsd": "52913",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "RDRH",
     "label": "A3B5C4D2_mC112_15_a3ef_5f_4f_2f-001",
-    "alias": "A3B5C4D2_mC112_15_a3ef_5f_4f_2f",
+    "alias": [
+        "A3B5C4D2_mC112_15_a3ef_5f_4f_2f"
+    ],
     "title": "Clinochlore [Mg$_{3}$(Mg$_{2}$Al)(Si$_{3}$Al)O$_{10}$(OH)$_{8}$, $S5_{5}$] Structure",
     "icsd": "26850",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "4HFE",
     "label": "AB8C2_tI44_97_e_2k_cd-001",
-    "alias": "AB8C2_tI44_97_e_2k_cd",
+    "alias": [
+        "AB8C2_tI44_97_e_2k_cd"
+    ],
     "title": "Ta$_{2}$Se$_{8}$I Structure",
     "icsd": "35190",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "09UM",
     "label": "AB2_oP12_29_a_2a-001",
-    "alias": "AB2_oP12_29_a_2a",
+    "alias": [
+        "AB2_oP12_29_a_2a"
+    ],
     "title": "Low Temperature Pyrite (FeS$_{2}$) Structure",
     "icsd": "none",
     "ccdc": null,

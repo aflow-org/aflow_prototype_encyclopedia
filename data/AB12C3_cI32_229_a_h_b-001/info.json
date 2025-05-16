@@ -1,7 +1,9 @@
 {
     "uid": "L6PB",
     "label": "AB12C3_cI32_229_a_h_b-001",
-    "alias": "AB12C3_cI32_229_a_h_b",
+    "alias": [
+        "AB12C3_cI32_229_a_h_b"
+    ],
     "title": "Model of Austenite Structure (cI32)",
     "icsd": "none",
     "ccdc": null,

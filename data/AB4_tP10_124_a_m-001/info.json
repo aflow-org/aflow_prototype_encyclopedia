@@ -1,7 +1,9 @@
 {
     "uid": "XFHX",
     "label": "AB4_tP10_124_a_m-001",
-    "alias": "AB4_tP10_124_a_m",
+    "alias": [
+        "AB4_tP10_124_a_m"
+    ],
     "title": "Room Temperature NbTe$_{4}$ Structure",
     "icsd": "43282",
     "ccdc": null,

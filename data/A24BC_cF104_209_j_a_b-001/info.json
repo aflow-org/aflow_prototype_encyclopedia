@@ -1,7 +1,9 @@
 {
     "uid": "XBGM",
     "label": "A24BC_cF104_209_j_a_b-001",
-    "alias": "A24BC_cF104_209_j_a_b",
+    "alias": [
+        "A24BC_cF104_209_j_a_b"
+    ],
     "title": "KPF$_{6}$ Structure",
     "icsd": "none",
     "ccdc": null,

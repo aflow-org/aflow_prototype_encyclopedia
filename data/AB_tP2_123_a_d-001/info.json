@@ -1,7 +1,9 @@
 {
     "uid": "9JUZ",
     "label": "AB_tP2_123_a_d-001",
-    "alias": "AB_tP2_123_a_d",
+    "alias": [
+        "AB_tP2_123_a_d"
+    ],
     "title": "CuAu(I) ($L1_{0}$) Structure",
     "icsd": "42574",
     "ccdc": null,

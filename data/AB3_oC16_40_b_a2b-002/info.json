@@ -1,7 +1,9 @@
 {
     "uid": "8E60",
     "label": "AB3_oC16_40_b_a2b-002",
-    "alias": "AB3_oC16_40_b_a2b",
+    "alias": [
+        "AB3_oC16_40_b_a2b"
+    ],
     "title": "Orthorhombic CrO$_{3}$ Structure",
     "icsd": "24043",
     "ccdc": null,

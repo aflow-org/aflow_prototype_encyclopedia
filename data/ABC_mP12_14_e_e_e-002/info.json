@@ -1,7 +1,9 @@
 {
     "uid": "RH3X",
     "label": "ABC_mP12_14_e_e_e-002",
-    "alias": "ABC_mP12_14_e_e_e",
+    "alias": [
+        "ABC_mP12_14_e_e_e"
+    ],
     "title": "Arsenopyrite (FeAsS, $E0_{7}$) Structure",
     "icsd": "185809",
     "ccdc": null,

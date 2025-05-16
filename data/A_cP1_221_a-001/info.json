@@ -1,7 +1,9 @@
 {
     "uid": "NG7Y",
     "label": "A_cP1_221_a-001",
-    "alias": "A_cP1_221_a",
+    "alias": [
+        "A_cP1_221_a"
+    ],
     "title": "$\\alpha$-Po ($A_{h}$, simple cubic) Structure",
     "icsd": "655031",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "2B54",
     "label": "A2B3C_oC12_65_h_ah_b-001",
-    "alias": "A2B3C_oC12_65_h_bh_a",
+    "alias": [
+        "A2B3C_oC12_65_h_bh_a"
+    ],
     "title": "Li$_{2}$PrO$_{3}$ Structure",
     "icsd": "154704",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "D0DK",
     "label": "A2B4C_mP28_14_abe_4e_e-001",
-    "alias": "A2B4C_mP28_14_abe_4e_e",
+    "alias": [
+        "A2B4C_mP28_14_abe_4e_e"
+    ],
     "title": "Monoclinic Cu$_{2}$OSeO$_{3}$ Structure",
     "icsd": "60653",
     "ccdc": null,

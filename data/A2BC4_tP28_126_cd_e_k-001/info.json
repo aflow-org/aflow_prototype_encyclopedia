@@ -1,7 +1,9 @@
 {
     "uid": "4WPC",
     "label": "A2BC4_tP28_126_cd_e_k-001",
-    "alias": "A2BC4_tP28_126_cd_e_k",
+    "alias": [
+        "A2BC4_tP28_126_cd_e_k"
+    ],
     "title": "BiAl$_{2}$S$_{4}$ Structure",
     "icsd": "408439",
     "ccdc": null,

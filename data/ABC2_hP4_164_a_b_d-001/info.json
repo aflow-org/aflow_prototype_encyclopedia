@@ -1,7 +1,9 @@
 {
     "uid": "PUFU",
     "label": "ABC2_hP4_164_a_b_d-001",
-    "alias": "ABC2_hP4_164_a_b_d",
+    "alias": [
+        "ABC2_hP4_164_a_b_d"
+    ],
     "title": "Zlatogorite (CuNiSb$_{2}$) Structure",
     "icsd": "134019",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "SQAX",
     "label": "A3B_hP12_191_gl_f-001",
-    "alias": "A3B_hP12_191_gl_f",
+    "alias": [
+        "A3B_hP12_191_gl_f"
+    ],
     "title": "Hexagonal WO$_{3}$ Structure",
     "icsd": "32001",
     "ccdc": null,

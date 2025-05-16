@@ -1,7 +1,9 @@
 {
     "uid": "MRXL",
     "label": "AB4_tP10_103_a_d-001",
-    "alias": "AB4_tP10_103_a_d",
+    "alias": [
+        "AB4_tP10_103_a_d"
+    ],
     "title": "High Temperature NbTe$_{4}$ Structure",
     "icsd": "65129",
     "ccdc": null,

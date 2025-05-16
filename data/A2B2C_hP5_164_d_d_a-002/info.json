@@ -1,7 +1,9 @@
 {
     "uid": "FG79",
     "label": "A2B2C_hP5_164_d_d_a-002",
-    "alias": "A2B2C_hP5_164_d_d_a",
+    "alias": [
+        "A2B2C_hP5_164_d_d_a"
+    ],
     "title": "Ce$_{2}$O$_{2}$S Structure",
     "icsd": "31639",
     "ccdc": null,

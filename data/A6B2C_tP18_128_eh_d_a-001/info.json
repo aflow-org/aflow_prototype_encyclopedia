@@ -1,7 +1,9 @@
 {
     "uid": "AD9M",
     "label": "A6B2C_tP18_128_eh_d_a-001",
-    "alias": "A6B2C_tP18_128_eh_d_a",
+    "alias": [
+        "A6B2C_tP18_128_eh_d_a"
+    ],
     "title": "Phase II K$_{2}$SnCl$_{6}$ Structure",
     "icsd": "1669",
     "ccdc": null,

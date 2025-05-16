@@ -1,7 +1,9 @@
 {
     "uid": "RJFD",
     "label": "A2B3_tP20_116_adi_ej-001",
-    "alias": "A2B3_tP20_116_bci_fj",
+    "alias": [
+        "A2B3_tP20_116_bci_fj"
+    ],
     "title": "Ru$_{2}$Sn$_{3}$ Structure",
     "icsd": "105994",
     "ccdc": null,

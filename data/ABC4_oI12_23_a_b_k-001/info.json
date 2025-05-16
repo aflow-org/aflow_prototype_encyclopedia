@@ -1,7 +1,9 @@
 {
     "uid": "ZCCT",
     "label": "ABC4_oI12_23_a_b_k-001",
-    "alias": "ABC4_oI12_23_a_b_k",
+    "alias": [
+        "ABC4_oI12_23_a_b_k"
+    ],
     "title": "BPS$_{4}$ Structure",
     "icsd": "24618",
     "ccdc": null,

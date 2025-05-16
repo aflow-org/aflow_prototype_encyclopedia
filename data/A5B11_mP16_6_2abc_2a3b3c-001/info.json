@@ -1,7 +1,9 @@
 {
     "uid": "EUM5",
     "label": "A5B11_mP16_6_2abc_2a3b3c-001",
-    "alias": "A5B11_mP16_6_2abc_2a3b3c",
+    "alias": [
+        "A5B11_mP16_6_2abc_2a3b3c"
+    ],
     "title": "Ta$_{5}$Ti$_{11}$ (BCC SQS-16) Structure",
     "icsd": "none",
     "ccdc": null,

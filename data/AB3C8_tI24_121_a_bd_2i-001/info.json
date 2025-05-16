@@ -1,7 +1,9 @@
 {
     "uid": "FR9M",
     "label": "AB3C8_tI24_121_a_bd_2i-001",
-    "alias": "AB3C8_tI24_121_a_bd_2i",
+    "alias": [
+        "AB3C8_tI24_121_a_bd_2i"
+    ],
     "title": "K$_{3}$CrO$_{8}$ Structure",
     "icsd": "9356",
     "ccdc": null,

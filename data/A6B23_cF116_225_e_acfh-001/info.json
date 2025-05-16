@@ -1,7 +1,9 @@
 {
     "uid": "EY4X",
     "label": "A6B23_cF116_225_e_acfh-001",
-    "alias": "A6B23_cF116_225_e_acfh",
+    "alias": [
+        "A6B23_cF116_225_e_acfh"
+    ],
     "title": "Cr$_{23}$C$_{6}$ ($D8_{4}$) Structure",
     "icsd": "2837",
     "ccdc": null,

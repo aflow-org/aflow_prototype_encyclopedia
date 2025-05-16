@@ -1,7 +1,9 @@
 {
     "uid": "ZLA7",
     "label": "A2BC2D_oC24_67_m_a_n_g-001",
-    "alias": "A2BC2D_oC24_67_m_a_n_g",
+    "alias": [
+        "A2BC2D_oC24_67_m_a_n_g"
+    ],
     "title": "NH$_{4}$H$_{2}$PO$_{2}$ ($F5_{7}$) Structure",
     "icsd": "26929",
     "ccdc": null,

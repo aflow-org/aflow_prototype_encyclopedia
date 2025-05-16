@@ -1,7 +1,9 @@
 {
     "uid": "G353",
     "label": "A2B_oP12_17_abe_e-001",
-    "alias": "A2B_oP12_17_abe_e",
+    "alias": [
+        "A2B_oP12_17_abe_e"
+    ],
     "title": "$\\alpha$-Naumannite (Ag$_{2}$Se) Structure",
     "icsd": "43242",
     "ccdc": null,

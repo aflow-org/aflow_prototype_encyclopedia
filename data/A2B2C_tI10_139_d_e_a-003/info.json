@@ -1,7 +1,9 @@
 {
     "uid": "LS62",
     "label": "A2B2C_tI10_139_d_e_a-003",
-    "alias": "A2B2C_tI10_139_d_e_a",
+    "alias": [
+        "A2B2C_tI10_139_d_e_a"
+    ],
     "title": "ThCr$_{2}$Si$_{2}$ Structure",
     "icsd": "18157",
     "ccdc": null,

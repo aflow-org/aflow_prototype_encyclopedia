@@ -1,7 +1,9 @@
 {
     "uid": "H1TU",
     "label": "AB3C7D_hP24_173_a_c_b2c_b-001",
-    "alias": "AB3C7D_hP24_173_a_c_b2c_b",
+    "alias": [
+        "AB3C7D_hP24_173_a_c_b2c_b"
+    ],
     "title": "La$_{3}$CuSiS$_{7}$ Structure",
     "icsd": "23519",
     "ccdc": null,

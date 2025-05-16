@@ -1,7 +1,9 @@
 {
     "uid": "JS9R",
     "label": "A_oC8_64_f-001",
-    "alias": "A_oC8_64_f.alpha-Ga",
+    "alias": [
+        "A_oC8_64_f.alpha-Ga"
+    ],
     "title": "$\\alpha$-Ga ($A11$) Structure",
     "icsd": "43388",
     "ccdc": null,

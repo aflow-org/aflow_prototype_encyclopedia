@@ -1,7 +1,9 @@
 {
     "uid": "SCRS",
     "label": "A2B7C2_tP88_78_4a_14a_4a-001",
-    "alias": "A2B7C2_tP88_78_4a_14a_4a",
+    "alias": [
+        "A2B7C2_tP88_78_4a_14a_4a"
+    ],
     "title": "Sr$_{2}$As$_{2}$O$_{7}$ Structure",
     "icsd": "190008",
     "ccdc": null,

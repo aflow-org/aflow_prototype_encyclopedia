@@ -1,7 +1,9 @@
 {
     "uid": "RZ74",
     "label": "AB2_oF48_70_e_ef-001",
-    "alias": "AB2_oF48_70_f_fg",
+    "alias": [
+        "AB2_oF48_70_f_fg"
+    ],
     "title": "Mn$_{2}$B ($D1_{f}$) Structure",
     "icsd": "86398",
     "ccdc": null,

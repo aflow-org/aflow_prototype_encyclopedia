@@ -1,7 +1,9 @@
 {
     "uid": "QLZ6",
     "label": "A2BC_tP32_86_2g_g_g-001",
-    "alias": "A2BC_tP32_86_2g_g_g",
+    "alias": [
+        "A2BC_tP32_86_2g_g_g"
+    ],
     "title": "PNCl$_{2}$ ($E1_{4}$) Structure",
     "icsd": "33711",
     "ccdc": null,

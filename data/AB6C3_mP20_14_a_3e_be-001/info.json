@@ -1,7 +1,9 @@
 {
     "uid": "G2BV",
     "label": "AB6C3_mP20_14_a_3e_be-001",
-    "alias": "AB6C3_mP20_14_a_3e_de",
+    "alias": [
+        "AB6C3_mP20_14_a_3e_de"
+    ],
     "title": "Cryolite (Na$_{3}$AlF$_{6}$, $J2_{6}$) Structure",
     "icsd": "74200",
     "ccdc": null,

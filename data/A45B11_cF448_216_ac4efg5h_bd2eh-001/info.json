@@ -1,7 +1,9 @@
 {
     "uid": "LZ4J",
     "label": "A45B11_cF448_216_ac4efg5h_bd2eh-001",
-    "alias": "A45B11_cF448_216_bd4efg5h_ac2eh",
+    "alias": [
+        "A45B11_cF448_216_bd4efg5h_ac2eh"
+    ],
     "title": "Sm$_{11}$Cd$_{45}$ Structure",
     "icsd": "2246",
     "ccdc": null,

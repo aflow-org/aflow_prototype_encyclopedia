@@ -1,7 +1,9 @@
 {
     "uid": "Q425",
     "label": "AB_hP4_194_c_a-003",
-    "alias": "AB_hP4_194_c_a.Fe2N",
+    "alias": [
+        "AB_hP4_194_c_a.Fe2N"
+    ],
     "title": "$L'3_{0}$ (approximate Fe$_{2}$N) Structure",
     "icsd": "none",
     "ccdc": null,

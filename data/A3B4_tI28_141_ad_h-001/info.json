@@ -1,7 +1,9 @@
 {
     "uid": "KP7A",
     "label": "A3B4_tI28_141_ad_h-001",
-    "alias": "A3B4_tI28_141_ad_h",
+    "alias": [
+        "A3B4_tI28_141_ad_h"
+    ],
     "title": "Haussmannite (Mn$_{3}$O$_{4}$) Structure",
     "icsd": "68174",
     "ccdc": null,

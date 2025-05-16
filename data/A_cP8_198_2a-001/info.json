@@ -1,7 +1,9 @@
 {
     "uid": "VHKA",
     "label": "A_cP8_198_2a-001",
-    "alias": "A_cP8_198_2a",
+    "alias": [
+        "A_cP8_198_2a"
+    ],
     "title": "$\\alpha$-N ($P2_{1}3$) Structure",
     "icsd": "27249",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "CJHD",
     "label": "A3B_oP8_59_ae_b-001",
-    "alias": "A3B_oP8_59_bf_a",
+    "alias": [
+        "A3B_oP8_59_bf_a"
+    ],
     "title": "$\\beta$-TiCu$_{3}$ ($D0_{a}$) Structure",
     "icsd": "197784",
     "ccdc": null,

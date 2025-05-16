@@ -1,7 +1,9 @@
 {
     "uid": "XPSY",
     "label": "ABC2_oP16_62_c_c_2c-002",
-    "alias": "ABC2_oP16_62_c_c_2c",
+    "alias": [
+        "ABC2_oP16_62_c_c_2c"
+    ],
     "title": "Diaspore (AlOOH, $E0_{2}$) Structure",
     "icsd": "29344",
     "ccdc": null,

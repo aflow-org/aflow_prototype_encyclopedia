@@ -1,7 +1,9 @@
 {
     "uid": "F5BG",
     "label": "A_tI2_139_a-001",
-    "alias": "A_tI2_139_a.In",
+    "alias": [
+        "A_tI2_139_a.In"
+    ],
     "title": "In ($A6$) Structure",
     "icsd": "639810",
     "ccdc": null,

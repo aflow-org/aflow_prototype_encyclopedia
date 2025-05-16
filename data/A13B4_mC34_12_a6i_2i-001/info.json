@@ -1,7 +1,9 @@
 {
     "uid": "XT4N",
     "label": "A13B4_mC34_12_a6i_2i-001",
-    "alias": "A13B4_mC34_12_b6i_2i",
+    "alias": [
+        "A13B4_mC34_12_b6i_2i"
+    ],
     "title": "Os$_{4}$Al$_{13}$ Structure",
     "icsd": "58110",
     "ccdc": null,

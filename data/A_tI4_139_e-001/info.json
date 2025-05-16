@@ -1,7 +1,9 @@
 {
     "uid": "ZSDQ",
     "label": "A_tI4_139_e-001",
-    "alias": "A_tI4_139_e",
+    "alias": [
+        "A_tI4_139_e"
+    ],
     "title": "Hypothetical BCT5 Si Structure",
     "icsd": "none",
     "ccdc": null,

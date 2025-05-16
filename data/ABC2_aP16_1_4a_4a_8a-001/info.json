@@ -1,7 +1,9 @@
 {
     "uid": "GZNE",
     "label": "ABC2_aP16_1_4a_4a_8a-001",
-    "alias": "ABC2_aP16_1_4a_4a_8a",
+    "alias": [
+        "ABC2_aP16_1_4a_4a_8a"
+    ],
     "title": "AsKSe$_{2}$ ($P1$) Structure",
     "icsd": "65297",
     "ccdc": null,

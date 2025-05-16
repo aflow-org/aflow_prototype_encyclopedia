@@ -1,7 +1,9 @@
 {
     "uid": "1EYW",
     "label": "AB3_mP16_10_mn_3m3n-001",
-    "alias": "AB3_mP16_10_mn_3m3n",
+    "alias": [
+        "AB3_mP16_10_mn_3m3n"
+    ],
     "title": "H$_{3}$Cl (400 GPa) Structure",
     "icsd": "none",
     "ccdc": null,

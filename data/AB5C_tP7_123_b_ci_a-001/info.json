@@ -1,7 +1,9 @@
 {
     "uid": "SBCX",
     "label": "AB5C_tP7_123_b_ci_a-001",
-    "alias": "AB5C_tP7_123_b_ci_a",
+    "alias": [
+        "AB5C_tP7_123_b_ci_a"
+    ],
     "title": "HoCoGa$_{5}$ Structure",
     "icsd": "42427",
     "ccdc": null,

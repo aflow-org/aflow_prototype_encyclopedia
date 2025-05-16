@@ -1,7 +1,9 @@
 {
     "uid": "K9SN",
     "label": "AB2C_oP80_19_5a_10a_5a-001",
-    "alias": "AB2C_oP80_19_5a_10a_5a",
+    "alias": [
+        "AB2C_oP80_19_5a_10a_5a"
+    ],
     "title": "$\\beta$-Arabinose (CO$_{2}$H)$_{20}$ Structure",
     "icsd": null,
     "ccdc": "1100220",

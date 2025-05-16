@@ -1,7 +1,9 @@
 {
     "uid": "YUU3",
     "label": "A_tP12_96_ab-001",
-    "alias": "A_tP12_96_ab",
+    "alias": [
+        "A_tP12_96_ab"
+    ],
     "title": "``ST12'' Structure of Si",
     "icsd": "16954",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "40BA",
     "label": "A4BC4D2E2_tP26_136_fg_a_j_d_e-001",
-    "alias": "A4BC4D2E2_tP26_136_fg_a_j_d_e",
+    "alias": [
+        "A4BC4D2E2_tP26_136_fg_a_j_d_e"
+    ],
     "title": "K$_{2}$CuCl$_{4}$ $\\cdot$ 2H$_{2}$O ($H4_{1}$) Structure",
     "icsd": "16052",
     "ccdc": null,

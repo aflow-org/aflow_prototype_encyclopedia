@@ -1,7 +1,9 @@
 {
     "uid": "QYSB",
     "label": "AB3_mC16_9_a_3a-001",
-    "alias": "AB3_mC16_9_a_3a",
+    "alias": [
+        "AB3_mC16_9_a_3a"
+    ],
     "title": "H$_{3}$Cl (20 GPa) Structure",
     "icsd": "671645",
     "ccdc": null,

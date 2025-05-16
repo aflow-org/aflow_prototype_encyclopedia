@@ -1,7 +1,9 @@
 {
     "uid": "XBH3",
     "label": "AB5C2_oC32_20_a_2abc_c-001",
-    "alias": "AB5C2_oC32_20_b_a2bc_c",
+    "alias": [
+        "AB5C2_oC32_20_b_a2bc_c"
+    ],
     "title": "K3$_{3}$ (Tl$_{2}$AlF$_{5}$) Structure",
     "icsd": "25616",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "GFQ6",
     "label": "A3B14C5_tP44_128_ac_ehi_bg-001",
-    "alias": "A3B14C5_tP44_128_ac_ehi_bg",
+    "alias": [
+        "A3B14C5_tP44_128_ac_ehi_bg"
+    ],
     "title": "Chiolite (Na$_{5}$Al$_{3}$F$_{14}$, $K7_{5}$) Structure",
     "icsd": "26419",
     "ccdc": null,

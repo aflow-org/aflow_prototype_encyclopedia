@@ -1,7 +1,9 @@
 {
     "uid": "FZF0",
     "label": "ABC3_hR10_161_a_a_b-001",
-    "alias": "ABC3_hR10_161_a_a_b",
+    "alias": [
+        "ABC3_hR10_161_a_a_b"
+    ],
     "title": "Ferroelectric LiNbO$_{3}$ Structure",
     "icsd": "81243",
     "ccdc": null,

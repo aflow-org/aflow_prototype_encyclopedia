@@ -1,7 +1,9 @@
 {
     "uid": "P3HQ",
     "label": "ABC3_oP20_33_a_a_3a-001",
-    "alias": "ABC3_oP20_33_a_a_3a",
+    "alias": [
+        "ABC3_oP20_33_a_a_3a"
+    ],
     "title": "$\\gamma$-LiIO$_{3}$ Structure",
     "icsd": "41199",
     "ccdc": null,

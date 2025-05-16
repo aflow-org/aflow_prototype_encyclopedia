@@ -1,7 +1,9 @@
 {
     "uid": "6VR8",
     "label": "A8B_tI18_139_deh_a-001",
-    "alias": "A8B_tI18_139_deh_a",
+    "alias": [
+        "A8B_tI18_139_deh_a"
+    ],
     "title": "Fe$_{8}$N ($D2_{g}$) Structure",
     "icsd": "654562",
     "ccdc": null,

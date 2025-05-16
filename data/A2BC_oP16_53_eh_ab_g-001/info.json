@@ -1,7 +1,9 @@
 {
     "uid": "DCYY",
     "label": "A2BC_oP16_53_eh_ab_g-001",
-    "alias": "A2BC_oP16_53_eh_ab_g",
+    "alias": [
+        "A2BC_oP16_53_eh_ab_g"
+    ],
     "title": "NH$_{4}$HF$_{2}$ ($F5_{8}$) Structure",
     "icsd": "28893",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "QC4Q",
     "label": "AB3C_tI20_139_ab_eh_d-001",
-    "alias": "AB3C_tI20_139_ab_eh_d",
+    "alias": [
+        "AB3C_tI20_139_ab_eh_d"
+    ],
     "title": "AuCsCl$_{3}$ ($K7_{6}$) Structure",
     "icsd": "26161",
     "ccdc": null,

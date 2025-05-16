@@ -1,7 +1,9 @@
 {
     "uid": "SP8Q",
     "label": "A3BC3D_tP64_106_3c_c_3c_c-001",
-    "alias": "A3BC3D_tP64_106_3c_c_3c_c",
+    "alias": [
+        "A3BC3D_tP64_106_3c_c_3c_c"
+    ],
     "title": "NaZn[OH]$_{3}$ Structure",
     "icsd": "66975",
     "ccdc": null,

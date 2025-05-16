@@ -1,7 +1,9 @@
 {
     "uid": "RB2M",
     "label": "A3B_hP8_173_c_b-001",
-    "alias": "A3B_hP8_173_c_b",
+    "alias": [
+        "A3B_hP8_173_c_b"
+    ],
     "title": "PI$_{3}$ Structure",
     "icsd": "311",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "P2LA",
     "label": "A3B_hR4_160_b_a-001",
-    "alias": "A3B_hR4_160_b_a",
+    "alias": [
+        "A3B_hR4_160_b_a"
+    ],
     "title": "H$_{3}$S (130 GPa) Structure",
     "icsd": "291501",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "AQ0J",
     "label": "A5B3_hP16_193_dg_g-001",
-    "alias": "A5B3_hP16_193_dg_g",
+    "alias": [
+        "A5B3_hP16_193_dg_g"
+    ],
     "title": "Mavlyanovite (Mn$_{5}$Si$_{3}$, $D8_{8}$) Structure",
     "icsd": "24359",
     "ccdc": null,

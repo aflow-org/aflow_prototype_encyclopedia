@@ -1,7 +1,9 @@
 {
     "uid": "H6D5",
     "label": "AB2C_oP16_62_c_2c_c-001",
-    "alias": "AB2C_oP16_62_c_2c_c",
+    "alias": [
+        "AB2C_oP16_62_c_2c_c"
+    ],
     "title": "Chalcostibite (CuSbS$_{2}$, $F5_{6}$) Structure",
     "icsd": "171051",
     "ccdc": null,

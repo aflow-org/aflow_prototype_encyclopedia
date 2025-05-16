@@ -1,7 +1,9 @@
 {
     "uid": "HU31",
     "label": "A2B_oP6_58_g_a-001",
-    "alias": "A2B_oP6_58_g_a",
+    "alias": [
+        "A2B_oP6_58_g_a"
+    ],
     "title": "$\\alpha$-PdCl$_{2}$ ($C50$) Structure",
     "icsd": "421213",
     "ccdc": null,

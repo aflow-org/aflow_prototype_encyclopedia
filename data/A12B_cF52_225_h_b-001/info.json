@@ -1,7 +1,9 @@
 {
     "uid": "JTKK",
     "label": "A12B_cF52_225_h_b-001",
-    "alias": "A12B_cF52_225_i_a",
+    "alias": [
+        "A12B_cF52_225_i_a"
+    ],
     "title": "UB$_{12}$ ($D2_{f}$) Structure",
     "icsd": "24705",
     "ccdc": null,

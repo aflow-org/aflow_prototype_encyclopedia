@@ -1,7 +1,9 @@
 {
     "uid": "GKJM",
     "label": "A6B_cP7_221_e_b-001",
-    "alias": "A6B_cP7_221_f_a",
+    "alias": [
+        "A6B_cP7_221_f_a"
+    ],
     "title": "CaB$_{6}$ ($D2_{1}$) Structure",
     "icsd": "26753",
     "ccdc": null,

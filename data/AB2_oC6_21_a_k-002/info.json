@@ -1,7 +1,9 @@
 {
     "uid": "DD5U",
     "label": "AB2_oC6_21_a_k-002",
-    "alias": "AB2_oC6_21_a_k.HoSb2",
+    "alias": [
+        "AB2_oC6_21_a_k.HoSb2"
+    ],
     "title": "HoSb$_{2}$ Structure",
     "icsd": "26220",
     "ccdc": null,

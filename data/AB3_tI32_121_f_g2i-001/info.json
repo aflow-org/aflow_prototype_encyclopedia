@@ -1,7 +1,9 @@
 {
     "uid": "QHX2",
     "label": "AB3_tI32_121_f_g2i-001",
-    "alias": "AB3_tI32_121_g_f2i",
+    "alias": [
+        "AB3_tI32_121_g_f2i"
+    ],
     "title": "$\\alpha$-V$_{3}$S Structure",
     "icsd": "26515",
     "ccdc": null,

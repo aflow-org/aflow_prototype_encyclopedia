@@ -1,7 +1,9 @@
 {
     "uid": "Q0QA",
     "label": "A2B6C6D_cP60_205_c_d_d_a-001",
-    "alias": "A2B6C6D_cP60_205_c_d_d_a",
+    "alias": [
+        "A2B6C6D_cP60_205_c_d_d_a"
+    ],
     "title": "Zn(BrO$_{3}$)$_{2}$ $\\cdot$ 6H$_{2}$O ($J1_{10}$) Structure",
     "icsd": "15981",
     "ccdc": null,

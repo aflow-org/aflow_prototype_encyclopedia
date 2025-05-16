@@ -1,7 +1,9 @@
 {
     "uid": "EE51",
     "label": "A5B_oC24_63_c2f_c-001",
-    "alias": "A5B_oC24_63_c2f_c",
+    "alias": [
+        "A5B_oC24_63_c2f_c"
+    ],
     "title": "ZrTe$_{5}$ Structure",
     "icsd": "85506",
     "ccdc": null,

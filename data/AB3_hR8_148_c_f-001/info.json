@@ -1,7 +1,9 @@
 {
     "uid": "TZC0",
     "label": "AB3_hR8_148_c_f-001",
-    "alias": "AB3_hR8_148_c_f",
+    "alias": [
+        "AB3_hR8_148_c_f"
+    ],
     "title": "BiI$_{3}$ ($D0_{5}$) Structure",
     "icsd": "36182",
     "ccdc": null,

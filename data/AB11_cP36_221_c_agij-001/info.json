@@ -1,7 +1,9 @@
 {
     "uid": "2EDD",
     "label": "AB11_cP36_221_c_agij-001",
-    "alias": "AB11_cP36_221_c_agij",
+    "alias": [
+        "AB11_cP36_221_c_agij"
+    ],
     "title": "BaHg$_{11}$ ($D2_{e}$) Structure",
     "icsd": "58656",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "TBHL",
     "label": "A31B20_tI204_140_b2gh3m_ac2fh3l-001",
-    "alias": "A31B20_tI204_140_b2gh3m_ac2fh3l",
+    "alias": [
+        "A31B20_tI204_140_b2gh3m_ac2fh3l"
+    ],
     "title": "Pu$_{31}$Rh$_{20}$ Structure",
     "icsd": "1111",
     "ccdc": null,

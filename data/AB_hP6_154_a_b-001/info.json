@@ -1,7 +1,9 @@
 {
     "uid": "A3TK",
     "label": "AB_hP6_154_a_b-001",
-    "alias": "AB_hP6_154_a_b",
+    "alias": [
+        "AB_hP6_154_a_b"
+    ],
     "title": "Cinnabar (HgS, $B9$) Structure",
     "icsd": "70054",
     "ccdc": null,

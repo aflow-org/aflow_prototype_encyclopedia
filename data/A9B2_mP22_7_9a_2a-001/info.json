@@ -1,7 +1,9 @@
 {
     "uid": "2DRY",
     "label": "A9B2_mP22_7_9a_2a-001",
-    "alias": "A9B2_mP22_7_9a_2a",
+    "alias": [
+        "A9B2_mP22_7_9a_2a"
+    ],
     "title": "Rh$_{2}$Ga$_{9}$ Structure",
     "icsd": "414305",
     "ccdc": null,

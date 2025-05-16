@@ -1,7 +1,9 @@
 {
     "uid": "S26L",
     "label": "A2BC4_oP84_33_6a_3a_12a-001",
-    "alias": "A2BC4_oP84_33_6a_3a_12a",
+    "alias": [
+        "A2BC4_oP84_33_6a_3a_12a"
+    ],
     "title": "CaB$_{2}$O$_{4}$ (III) Structure",
     "icsd": "23240",
     "ccdc": null,

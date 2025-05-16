@@ -1,7 +1,9 @@
 {
     "uid": "WQGS",
     "label": "A3B2_hR5_155_e_c-001",
-    "alias": "A3B2_hR5_155_e_c",
+    "alias": [
+        "A3B2_hR5_155_e_c"
+    ],
     "title": "Hazelwoodite (Ni$_{3}$S$_{2}$, $D5_{e}$) Structure",
     "icsd": "23114",
     "ccdc": null,

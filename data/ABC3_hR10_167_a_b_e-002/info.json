@@ -1,7 +1,9 @@
 {
     "uid": "UVUF",
     "label": "ABC3_hR10_167_a_b_e-002",
-    "alias": "ABC3_hR10_167_a_b_e.CaCO3",
+    "alias": [
+        "ABC3_hR10_167_a_b_e.CaCO3"
+    ],
     "title": "Calcite (CaCO$_{3}$, $G0_{1}$) Structure",
     "icsd": "40107",
     "ccdc": null,

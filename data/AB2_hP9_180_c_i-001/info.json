@@ -1,7 +1,9 @@
 {
     "uid": "3K6M",
     "label": "AB2_hP9_180_c_i-001",
-    "alias": "AB2_hP9_180_d_j",
+    "alias": [
+        "AB2_hP9_180_d_j"
+    ],
     "title": "CrSi$_{2}$ ($C40$) Structure",
     "icsd": "161434",
     "ccdc": null,

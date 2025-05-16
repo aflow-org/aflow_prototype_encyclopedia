@@ -1,7 +1,9 @@
 {
     "uid": "AK18",
     "label": "A3B5_tI32_140_ah_cl-001",
-    "alias": "A3B5_tI32_140_ah_cl",
+    "alias": [
+        "A3B5_tI32_140_ah_cl"
+    ],
     "title": "Cr$_{5}$B$_{3}$ ($D8_{l}$) Structure",
     "icsd": "27124",
     "ccdc": null,

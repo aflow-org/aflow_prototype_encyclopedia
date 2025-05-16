@@ -1,7 +1,9 @@
 {
     "uid": "BEEG",
     "label": "AB4C8_cF52_216_a_e_2e-001",
-    "alias": "AB4C8_cF52_216_a_e_2e",
+    "alias": [
+        "AB4C8_cF52_216_a_e_2e"
+    ],
     "title": "Room Temperature GaMo$_{4}$S$_{8}$ Structure",
     "icsd": "49566",
     "ccdc": null,

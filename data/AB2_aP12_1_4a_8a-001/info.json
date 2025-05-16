@@ -1,7 +1,9 @@
 {
     "uid": "RHYA",
     "label": "AB2_aP12_1_4a_8a-001",
-    "alias": "AB2_aP12_1_4a_8a",
+    "alias": [
+        "AB2_aP12_1_4a_8a"
+    ],
     "title": "FeS$_{2}$ ($P1$) Structure",
     "icsd": "10422",
     "ccdc": null,

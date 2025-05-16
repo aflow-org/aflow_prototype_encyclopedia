@@ -1,7 +1,9 @@
 {
     "uid": "EUHG",
     "label": "A4BC4_tP18_137_g_a_g-001",
-    "alias": "A4BC4_tP18_137_g_b_g",
+    "alias": [
+        "A4BC4_tP18_137_g_b_g"
+    ],
     "title": "CeCo$_{4}$B$_{4}$ Structure",
     "icsd": "654433",
     "ccdc": null,

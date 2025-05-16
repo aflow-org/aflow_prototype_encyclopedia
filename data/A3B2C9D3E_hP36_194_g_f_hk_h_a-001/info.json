@@ -1,7 +1,9 @@
 {
     "uid": "6TN8",
     "label": "A3B2C9D3E_hP36_194_g_f_hk_h_a-001",
-    "alias": "A3B2C9D3E_hP36_194_g_f_hk_h_a",
+    "alias": [
+        "A3B2C9D3E_hP36_194_g_f_hk_h_a"
+    ],
     "title": "$S3_{4}$(II) (Catapleiite, Na$_{2}$Zr(SiO$_{3}$)$_{3} \\cdot$H$_{2}$O) Structure ({\\em Obsolete})",
     "icsd": "none",
     "ccdc": null,

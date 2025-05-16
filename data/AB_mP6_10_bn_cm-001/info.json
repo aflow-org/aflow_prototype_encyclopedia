@@ -1,7 +1,9 @@
 {
     "uid": "QVV1",
     "label": "AB_mP6_10_bn_cm-001",
-    "alias": "AB_mP6_10_en_am",
+    "alias": [
+        "AB_mP6_10_en_am"
+    ],
     "title": "$\\alpha$-LiSn Structure",
     "icsd": "104782",
     "ccdc": null,

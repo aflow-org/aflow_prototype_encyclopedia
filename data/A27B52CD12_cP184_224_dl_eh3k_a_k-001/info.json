@@ -1,7 +1,9 @@
 {
     "uid": "XBJQ",
     "label": "A27B52CD12_cP184_224_dl_eh3k_a_k-001",
-    "alias": "A27B52CD12_cP184_224_dl_eh3k_a_k",
+    "alias": [
+        "A27B52CD12_cP184_224_dl_eh3k_a_k"
+    ],
     "title": "Dodecatungstophosphoric Acid Hexahydrate (H$_{3}$PW$_{12}$O$_{40}\\cdot$6H$_{2}$O) Structure",
     "icsd": "904",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "DUC7",
     "label": "A2B_oF24_43_b_a-001",
-    "alias": "A2B_oF24_43_b_a",
+    "alias": [
+        "A2B_oF24_43_b_a"
+    ],
     "title": "Cs$_{2}$Se Structure",
     "icsd": "41687",
     "ccdc": null,

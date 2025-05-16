@@ -1,7 +1,9 @@
 {
     "uid": "E914",
     "label": "AB_oP8_57_d_d-001",
-    "alias": "AB_oP8_57_d_d",
+    "alias": [
+        "AB_oP8_57_d_d"
+    ],
     "title": "TlF-II Structure",
     "icsd": "90992",
     "ccdc": null,

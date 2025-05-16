@@ -1,7 +1,9 @@
 {
     "uid": "G325",
     "label": "AB4C_mP24_14_e_4e_e-002",
-    "alias": "AB4C_mP24_14_e_4e_e",
+    "alias": [
+        "AB4C_mP24_14_e_4e_e"
+    ],
     "title": "Monasite (LaPO$_{4}$) Structure",
     "icsd": "79747",
     "ccdc": null,

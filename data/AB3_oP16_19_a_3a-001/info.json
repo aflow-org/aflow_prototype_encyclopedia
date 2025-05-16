@@ -1,7 +1,9 @@
 {
     "uid": "WTE4",
     "label": "AB3_oP16_19_a_3a-001",
-    "alias": "AB3_oP16_19_a_3a",
+    "alias": [
+        "AB3_oP16_19_a_3a"
+    ],
     "title": "H$_{3}$Cl (100 GPa) Structure",
     "icsd": "679353",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "3N5K",
     "label": "A5BC_oP28_62_3cd_c_c-001",
-    "alias": "A5BC_oP28_62_3cd_c_c",
+    "alias": [
+        "A5BC_oP28_62_3cd_c_c"
+    ],
     "title": "VOSO$_{4}$ Structure",
     "icsd": "24101",
     "ccdc": null,

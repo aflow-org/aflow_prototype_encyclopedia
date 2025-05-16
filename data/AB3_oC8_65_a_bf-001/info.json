@@ -1,7 +1,9 @@
 {
     "uid": "JBK1",
     "label": "AB3_oC8_65_a_bf-001",
-    "alias": "AB3_oC8_65_a_bf",
+    "alias": [
+        "AB3_oC8_65_a_bf"
+    ],
     "title": "CdPt$_{3}$ (``New'' $L1_{3}$) Structure",
     "icsd": "none",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "NK1T",
     "label": "AB3_cP4_221_a_c-001",
-    "alias": "AB3_cP4_221_a_c",
+    "alias": [
+        "AB3_cP4_221_a_c"
+    ],
     "title": "Bogdanovite (Cu$_{3}$Au, $L1_{2}$) Structure",
     "icsd": "42587",
     "ccdc": null,

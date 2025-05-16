@@ -1,7 +1,9 @@
 {
     "uid": "KXWJ",
     "label": "AB_tP16_84_cej_k-001",
-    "alias": "AB_tP16_84_cej_k",
+    "alias": [
+        "AB_tP16_84_cej_k"
+    ],
     "title": "Vysotskite (PdS, $B34$) Structure",
     "icsd": "22429",
     "ccdc": null,

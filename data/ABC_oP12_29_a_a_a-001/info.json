@@ -1,7 +1,9 @@
 {
     "uid": "8UWB",
     "label": "ABC_oP12_29_a_a_a-001",
-    "alias": "ABC_oP12_29_a_a_a",
+    "alias": [
+        "ABC_oP12_29_a_a_a"
+    ],
     "title": "Cobaltite (CoAsS) Structure",
     "icsd": "69129",
     "ccdc": null,

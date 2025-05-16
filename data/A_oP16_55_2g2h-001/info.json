@@ -1,7 +1,9 @@
 {
     "uid": "QPSD",
     "label": "A_oP16_55_2g2h-001",
-    "alias": "A_oP16_55_2g2h",
+    "alias": [
+        "A_oP16_55_2g2h"
+    ],
     "title": "R-carbon Structure",
     "icsd": "none",
     "ccdc": null,

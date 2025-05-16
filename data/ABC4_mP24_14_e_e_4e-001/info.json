@@ -1,7 +1,9 @@
 {
     "uid": "8H0D",
     "label": "ABC4_mP24_14_e_e_4e-001",
-    "alias": "ABC4_mP24_14_e_e_4e",
+    "alias": [
+        "ABC4_mP24_14_e_e_4e"
+    ],
     "title": "AgMnO$_{4}$ (H0$_{9}$) Structure",
     "icsd": "30932",
     "ccdc": null,

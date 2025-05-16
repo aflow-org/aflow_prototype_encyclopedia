@@ -1,7 +1,9 @@
 {
     "uid": "WCJU",
     "label": "A2BCD6_hR10_148_c_a_b_f-001",
-    "alias": "A2BCD6_hR10_148_c_a_b_f",
+    "alias": [
+        "A2BCD6_hR10_148_c_a_b_f"
+    ],
     "title": "Dolomite [MgCa(CO$_{3}$)$_{2}$, $G1_{1}$ Structure",
     "icsd": "40968",
     "ccdc": null,

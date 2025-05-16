@@ -1,7 +1,9 @@
 {
     "uid": "TY99",
     "label": "A4B14C3_hP21_143_ad_bc4d_d-001",
-    "alias": "A4B14C3_hP21_143_bd_ac4d_d",
+    "alias": [
+        "A4B14C3_hP21_143_bd_ac4d_d"
+    ],
     "title": "Simpsonite (Ta$_{3}$Al$_{4}$O$_{13}$[OH]) Structure",
     "icsd": "67673",
     "ccdc": null,

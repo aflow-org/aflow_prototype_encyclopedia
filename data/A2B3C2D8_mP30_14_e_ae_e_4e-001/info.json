@@ -1,7 +1,9 @@
 {
     "uid": "QANU",
     "label": "A2B3C2D8_mP30_14_e_ae_e_4e-001",
-    "alias": "A2B3C2D8_mP30_14_e_ce_e_4e",
+    "alias": [
+        "A2B3C2D8_mP30_14_e_ce_e_4e"
+    ],
     "title": "Azurite [Cu$_{3}$(CO$_{3}$)$_{2}$(OH)$_{2}$, $G7_{4}$] Structure",
     "icsd": "182324",
     "ccdc": null,

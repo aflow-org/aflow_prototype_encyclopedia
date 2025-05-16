@@ -1,7 +1,9 @@
 {
     "uid": "93P7",
     "label": "AB_cP8_198_a_a-002",
-    "alias": "AB_cP8_198_a_a.FeSi",
+    "alias": [
+        "AB_cP8_198_a_a.FeSi"
+    ],
     "title": "FeSi ($B20$) Structure",
     "icsd": "5250",
     "ccdc": null,

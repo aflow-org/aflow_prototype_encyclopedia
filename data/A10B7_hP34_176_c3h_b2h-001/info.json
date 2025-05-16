@@ -1,7 +1,9 @@
 {
     "uid": "L6DT",
     "label": "A10B7_hP34_176_c3h_b2h-001",
-    "alias": "A10B7_hP34_176_c3h_b2h",
+    "alias": [
+        "A10B7_hP34_176_c3h_b2h"
+    ],
     "title": "Rh$_{20}$Si$_{13}$ Structure",
     "icsd": "43241",
     "ccdc": null,

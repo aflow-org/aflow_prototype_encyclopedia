@@ -1,7 +1,9 @@
 {
     "uid": "SRH0",
     "label": "A2BC3_cP24_213_c_a_d-001",
-    "alias": "A2BC3_cP24_213_c_a_d",
+    "alias": [
+        "A2BC3_cP24_213_c_a_d"
+    ],
     "title": "Al$_{2}$Mo$_{3}$C Structure",
     "icsd": "42917",
     "ccdc": null,

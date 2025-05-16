@@ -1,7 +1,9 @@
 {
     "uid": "2JVM",
     "label": "A2B_mC12_12_2i_i-004",
-    "alias": "A2B_mC12_12_2i_i",
+    "alias": [
+        "A2B_mC12_12_2i_i"
+    ],
     "title": "CaC$_{2}$-III Structure",
     "icsd": "54188",
     "ccdc": null,

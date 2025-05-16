@@ -1,7 +1,9 @@
 {
     "uid": "JMLC",
     "label": "A7B2C2_mC44_15_e3f_f_f-001",
-    "alias": "A7B2C2_mC44_15_e3f_f_f",
+    "alias": [
+        "A7B2C2_mC44_15_e3f_f_f"
+    ],
     "title": "$\\alpha$-Zn$_{2}$V$_{2}$O$_{7}$ Structure",
     "icsd": "2886",
     "ccdc": null,

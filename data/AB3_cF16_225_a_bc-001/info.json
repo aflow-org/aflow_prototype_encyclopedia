@@ -1,7 +1,9 @@
 {
     "uid": "KFY2",
     "label": "AB3_cF16_225_a_bc-001",
-    "alias": "AB3_cF16_225_a_bc",
+    "alias": [
+        "AB3_cF16_225_a_bc"
+    ],
     "title": "BiF$_{3}$ ($D0_{3}$) Structure",
     "icsd": "25567",
     "ccdc": null,

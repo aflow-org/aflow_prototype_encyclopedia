@@ -1,7 +1,9 @@
 {
     "uid": "PD3R",
     "label": "A2B6C3_oP44_62_2c_2c2d_3c-001",
-    "alias": "A2B6C3_oP44_62_2c_2c2d_3c",
+    "alias": [
+        "A2B6C3_oP44_62_2c_2c2d_3c"
+    ],
     "title": "K$_{2}$S$_{3}$O$_{6}$ ($K5_{1}$) Structure",
     "icsd": "8200",
     "ccdc": null,

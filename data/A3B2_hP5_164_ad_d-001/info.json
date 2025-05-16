@@ -1,7 +1,9 @@
 {
     "uid": "EUFT",
     "label": "A3B2_hP5_164_ad_d-001",
-    "alias": "A3B2_hP5_164_ad_d",
+    "alias": [
+        "A3B2_hP5_164_ad_d"
+    ],
     "title": "Al$_{3}$Ni$_{2}$ ($D5_{13}$) Structure",
     "icsd": "107937",
     "ccdc": null,

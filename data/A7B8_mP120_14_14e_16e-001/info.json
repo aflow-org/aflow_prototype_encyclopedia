@@ -1,7 +1,9 @@
 {
     "uid": "NQ3P",
     "label": "A7B8_mP120_14_14e_16e-001",
-    "alias": "A7B8_mP120_14_14e_16e",
+    "alias": [
+        "A7B8_mP120_14_14e_16e"
+    ],
     "title": "$\\alpha$-Toluene (C$_{7}$H$_{8}$) Structure",
     "icsd": "none",
     "ccdc": "725245",

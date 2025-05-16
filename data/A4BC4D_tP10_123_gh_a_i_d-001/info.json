@@ -1,7 +1,9 @@
 {
     "uid": "X7PG",
     "label": "A4BC4D_tP10_123_gh_a_i_d-001",
-    "alias": "A4BC4D_tP10_123_gh_a_i_d",
+    "alias": [
+        "A4BC4D_tP10_123_gh_a_i_d"
+    ],
     "title": "CaRbFe$_{4}$As$_{4}$ (Superconducting) Structure",
     "icsd": "252344",
     "ccdc": null,

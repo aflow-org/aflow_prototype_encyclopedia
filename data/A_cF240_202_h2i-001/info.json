@@ -1,7 +1,9 @@
 {
     "uid": "TV0E",
     "label": "A_cF240_202_h2i-001",
-    "alias": "A_cF240_202_h2i",
+    "alias": [
+        "A_cF240_202_h2i"
+    ],
     "title": "FCC C$_{60}$ Buckminsterfullerene Structure",
     "icsd": "74523",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "JRUG",
     "label": "A2BC4D_tI16_121_d_a_i_b-001",
-    "alias": "A2BC4D_tI16_121_d_a_i_b",
+    "alias": [
+        "A2BC4D_tI16_121_d_a_i_b"
+    ],
     "title": "Stannite (Cu$_{2}$FeS$_{4}$Sn, $H2_{6}$) Structure",
     "icsd": "26721",
     "ccdc": null,

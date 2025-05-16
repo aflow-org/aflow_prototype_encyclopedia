@@ -1,7 +1,9 @@
 {
     "uid": "B529",
     "label": "ABC_oI12_71_e_h_f-001",
-    "alias": "ABC_oI12_71_h_j_g",
+    "alias": [
+        "ABC_oI12_71_h_j_g"
+    ],
     "title": "NbPS Structure",
     "icsd": "16075",
     "ccdc": null,

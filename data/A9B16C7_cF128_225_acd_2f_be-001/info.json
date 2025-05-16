@@ -1,7 +1,9 @@
 {
     "uid": "FENM",
     "label": "A9B16C7_cF128_225_acd_2f_be-001",
-    "alias": "A9B16C7_cF128_225_acd_2f_be",
+    "alias": [
+        "A9B16C7_cF128_225_acd_2f_be"
+    ],
     "title": "Model of Ferrite Structure (cF128)",
     "icsd": "none",
     "ccdc": null,

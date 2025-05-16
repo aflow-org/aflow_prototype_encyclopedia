@@ -1,7 +1,9 @@
 {
     "uid": "ZJ0C",
     "label": "A2B_oP24_61_2c_c-001",
-    "alias": "A2B_oP24_61_2c_c",
+    "alias": [
+        "A2B_oP24_61_2c_c"
+    ],
     "title": "Brookite (TiO$_{2}$, $C21$) Structure",
     "icsd": "36408",
     "ccdc": null,

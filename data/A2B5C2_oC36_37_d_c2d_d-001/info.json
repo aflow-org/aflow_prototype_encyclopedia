@@ -1,7 +1,9 @@
 {
     "uid": "JE1T",
     "label": "A2B5C2_oC36_37_d_c2d_d-001",
-    "alias": "A2B5C2_oC36_37_d_c2d_d",
+    "alias": [
+        "A2B5C2_oC36_37_d_c2d_d"
+    ],
     "title": "Li$_{2}$Si$_{2}$O$_{5}$ Structure",
     "icsd": "78562",
     "ccdc": null,

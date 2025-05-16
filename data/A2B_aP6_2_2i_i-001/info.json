@@ -1,7 +1,9 @@
 {
     "uid": "V85G",
     "label": "A2B_aP6_2_2i_i-001",
-    "alias": "A2B_aP6_2_2i_i",
+    "alias": [
+        "A2B_aP6_2_2i_i"
+    ],
     "title": "P$_{2}$I$_{4}$ Structure",
     "icsd": "36293",
     "ccdc": null,

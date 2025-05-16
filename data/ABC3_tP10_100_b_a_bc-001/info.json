@@ -1,7 +1,9 @@
 {
     "uid": "80PK",
     "label": "ABC3_tP10_100_b_a_bc-001",
-    "alias": "ABC3_tP10_100_b_a_bc",
+    "alias": [
+        "ABC3_tP10_100_b_a_bc"
+    ],
     "title": "NH$_{4}$NO$_{3}$ II ($G0_{9}$) Structure",
     "icsd": "none",
     "ccdc": null,

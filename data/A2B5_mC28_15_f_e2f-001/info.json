@@ -1,7 +1,9 @@
 {
     "uid": "CZ5K",
     "label": "A2B5_mC28_15_f_e2f-001",
-    "alias": "A2B5_mC28_15_f_e2f",
+    "alias": [
+        "A2B5_mC28_15_f_e2f"
+    ],
     "title": "B$_{2}$Pd$_{5}$ Structure",
     "icsd": "43513",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "6BD5",
     "label": "AB3_hP4_187_a_bh-001",
-    "alias": "AB3_hP4_187_e_fh",
+    "alias": [
+        "AB3_hP4_187_e_fh"
+    ],
     "title": "Re$_{3}$N Structure",
     "icsd": "169884",
     "ccdc": null,

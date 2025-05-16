@@ -1,7 +1,9 @@
 {
     "uid": "WLS6",
     "label": "AB_oP4_51_e_f-001",
-    "alias": "AB_oP4_51_e_f",
+    "alias": [
+        "AB_oP4_51_e_f"
+    ],
     "title": "$\\beta$'-AuCd ($B19$) Structure",
     "icsd": "58409",
     "ccdc": null,

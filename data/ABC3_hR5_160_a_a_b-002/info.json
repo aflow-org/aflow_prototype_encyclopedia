@@ -1,7 +1,9 @@
 {
     "uid": "V4KY",
     "label": "ABC3_hR5_160_a_a_b-002",
-    "alias": "ABC3_hR5_160_a_a_b",
+    "alias": [
+        "ABC3_hR5_160_a_a_b"
+    ],
     "title": "$\\gamma$-Potassium Nitrate (KNO$_{3}$) Structure",
     "icsd": "384",
     "ccdc": null,

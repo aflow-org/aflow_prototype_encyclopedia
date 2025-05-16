@@ -1,7 +1,9 @@
 {
     "uid": "1P80",
     "label": "A2B3_tI160_142_deg_3g-001",
-    "alias": "A2B3_tI160_142_deg_3g",
+    "alias": [
+        "A2B3_tI160_142_deg_3g"
+    ],
     "title": "Cd$_{3}$As$_{2}$ Structure",
     "icsd": "238075",
     "ccdc": null,

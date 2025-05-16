@@ -1,7 +1,9 @@
 {
     "uid": "2HX1",
     "label": "A6BC2_hP9_164_i_a_d-001",
-    "alias": "A6BC2_hP9_164_i_a_d",
+    "alias": [
+        "A6BC2_hP9_164_i_a_d"
+    ],
     "title": " K$_{2}$GeF$_{6}$ (J1$_{13}$) Structure",
     "icsd": "24026",
     "ccdc": null,

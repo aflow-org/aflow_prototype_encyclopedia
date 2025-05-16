@@ -1,7 +1,9 @@
 {
     "uid": "575A",
     "label": "ABC4_tP12_125_a_b_m-001",
-    "alias": "ABC4_tP12_125_a_b_m",
+    "alias": [
+        "ABC4_tP12_125_a_b_m"
+    ],
     "title": "KCeSe$_{4}$ Structure",
     "icsd": "67656",
     "ccdc": null,

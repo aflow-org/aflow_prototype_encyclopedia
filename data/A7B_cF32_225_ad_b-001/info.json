@@ -1,7 +1,9 @@
 {
     "uid": "CAN8",
     "label": "A7B_cF32_225_ad_b-001",
-    "alias": "A7B_cF32_225_bd_a",
+    "alias": [
+        "A7B_cF32_225_bd_a"
+    ],
     "title": "Ca$_{7}$Ge Structure",
     "icsd": "43321",
     "ccdc": null,

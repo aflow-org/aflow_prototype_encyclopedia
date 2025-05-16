@@ -1,7 +1,9 @@
 {
     "uid": "FUR0",
     "label": "AB14C2_tP68_136_f_ce2j2k_fg-001",
-    "alias": "AB14C2_tP68_136_f_ce2j2k_fg",
+    "alias": [
+        "AB14C2_tP68_136_f_ce2j2k_fg"
+    ],
     "title": "Nd$_{2}$Fe$_{14}$B Structure",
     "icsd": "67224",
     "ccdc": null,

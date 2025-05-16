@@ -1,7 +1,9 @@
 {
     "uid": "4K4U",
     "label": "A3B5_tI32_140_ah_bk-001",
-    "alias": "A3B5_tI32_140_ah_bk",
+    "alias": [
+        "A3B5_tI32_140_ah_bk"
+    ],
     "title": "W$_{5}$Si$_{3}$ ($D8_{m}$) Structure",
     "icsd": "73331",
     "ccdc": null,

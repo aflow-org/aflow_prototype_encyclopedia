@@ -1,7 +1,9 @@
 {
     "uid": "X9AR",
     "label": "ABC2_mC8_8_a_a_b-001",
-    "alias": "ABC2_mC8_8_a_a_b",
+    "alias": [
+        "ABC2_mC8_8_a_a_b"
+    ],
     "title": "$F5_{11}$ (KNO$_{2}$) Structure ({\\em Obsolete})",
     "icsd": "26764",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "FX47",
     "label": "A2B12C6D_hP21_150_d_2g_ef_a-001",
-    "alias": "A2B12C6D_hP21_150_d_2g_ef_a",
+    "alias": [
+        "A2B12C6D_hP21_150_d_2g_ef_a"
+    ],
     "title": "SrCl$_{2}\\cdot$(H$_{2}$O)$_{6}$ Structure",
     "icsd": "59143",
     "ccdc": null,

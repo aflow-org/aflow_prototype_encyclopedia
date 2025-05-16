@@ -1,7 +1,9 @@
 {
     "uid": "N4MV",
     "label": "A2BC4_tP28_130_f_c_g-001",
-    "alias": "A2BC4_tP28_130_f_c_g",
+    "alias": [
+        "A2BC4_tP28_130_f_c_g"
+    ],
     "title": "CuBi$_{2}$O$_{4}$ Structure",
     "icsd": "15865",
     "ccdc": null,

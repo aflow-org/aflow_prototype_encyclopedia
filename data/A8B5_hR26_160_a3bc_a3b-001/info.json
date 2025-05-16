@@ -1,7 +1,9 @@
 {
     "uid": "X9QA",
     "label": "A8B5_hR26_160_a3bc_a3b-001",
-    "alias": "A8B5_hR26_160_a3bc_a3b",
+    "alias": [
+        "A8B5_hR26_160_a3bc_a3b"
+    ],
     "title": "Cr$_{5}$Al$_{8}$ ($D8_{10}$) Structure",
     "icsd": "606753",
     "ccdc": null,

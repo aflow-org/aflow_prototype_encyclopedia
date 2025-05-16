@@ -1,7 +1,9 @@
 {
     "uid": "0T4U",
     "label": "ABC_hP9_189_f_bc_g-003",
-    "alias": "ABC_hP9_189_g_ad_f",
+    "alias": [
+        "ABC_hP9_189_g_ad_f"
+    ],
     "title": "ZrNiAl Structure",
     "icsd": "152131",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "QP0Q",
     "label": "AB_hP12_194_cf_de-001",
-    "alias": "AB_hP12_194_df_ce",
+    "alias": [
+        "AB_hP12_194_df_ce"
+    ],
     "title": "Covellite (CuS, $B18$) Structure",
     "icsd": "41975",
     "ccdc": null,

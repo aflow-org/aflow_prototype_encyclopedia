@@ -1,7 +1,9 @@
 {
     "uid": "MVX2",
     "label": "A15B4_cI76_220_ae_c-001",
-    "alias": "A15B4_cI76_220_ae_c",
+    "alias": [
+        "A15B4_cI76_220_ae_c"
+    ],
     "title": "Cu$_{15}$Si$_{4}$ ($D8_{6}$) Structure",
     "icsd": "629165",
     "ccdc": null,

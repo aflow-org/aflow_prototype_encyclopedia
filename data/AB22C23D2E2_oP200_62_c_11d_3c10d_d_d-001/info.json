@@ -1,7 +1,9 @@
 {
     "uid": "PYMC",
     "label": "AB22C23D2E2_oP200_62_c_11d_3c10d_d_d-001",
-    "alias": "AB22C23D2E2_oP200_62_c_11d_3c10d_d_d",
+    "alias": [
+        "AB22C23D2E2_oP200_62_c_11d_3c10d_d_d"
+    ],
     "title": "Autunite {Ca[(UO$_{2}$)(PO$_{4}$)]$_{2}$(H$_{2}$O)$_{11}$} Structure",
     "icsd": "96812",
     "ccdc": null,

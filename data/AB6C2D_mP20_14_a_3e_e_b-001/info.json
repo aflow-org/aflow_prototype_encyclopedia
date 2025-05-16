@@ -1,7 +1,9 @@
 {
     "uid": "QXEE",
     "label": "AB6C2D_mP20_14_a_3e_e_b-001",
-    "alias": "AB6C2D_mP20_14_a_3e_e_d",
+    "alias": [
+        "AB6C2D_mP20_14_a_3e_e_d"
+    ],
     "title": "Sr$_{2}$MnTeO$_{6}$ Structure",
     "icsd": "none",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "9Z5M",
     "label": "A3B7_oP40_62_cd_3c2d-001",
-    "alias": "A3B7_oP40_62_cd_3c2d",
+    "alias": [
+        "A3B7_oP40_62_cd_3c2d"
+    ],
     "title": "C$_{3}$Cr$_{7}$ ($D10_{1}$) Structure",
     "icsd": "76799",
     "ccdc": null,

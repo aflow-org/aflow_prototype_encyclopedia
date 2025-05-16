@@ -1,7 +1,9 @@
 {
     "uid": "QP36",
     "label": "AB6C2D_tI20_87_a_eh_d_b-001",
-    "alias": "AB6C2D_tI20_87_a_eh_d_b",
+    "alias": [
+        "AB6C2D_tI20_87_a_eh_d_b"
+    ],
     "title": "Sr$_{2}$NiWO$_{6}$ Structure",
     "icsd": "91791",
     "ccdc": null,

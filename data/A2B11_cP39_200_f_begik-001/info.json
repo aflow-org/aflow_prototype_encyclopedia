@@ -1,7 +1,9 @@
 {
     "uid": "8FHP",
     "label": "A2B11_cP39_200_f_begik-001",
-    "alias": "A2B11_cP39_200_f_aghij",
+    "alias": [
+        "A2B11_cP39_200_f_aghij"
+    ],
     "title": "Mg$_{2}$Zn$_{11}$ ($D8_{c}$) Structure",
     "icsd": "104898",
     "ccdc": null,

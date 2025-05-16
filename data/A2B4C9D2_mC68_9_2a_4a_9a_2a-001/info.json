@@ -1,7 +1,9 @@
 {
     "uid": "SDY7",
     "label": "A2B4C9D2_mC68_9_2a_4a_9a_2a-001",
-    "alias": "A2B4C9D2_mC68_9_2a_4a_9a_2a",
+    "alias": [
+        "A2B4C9D2_mC68_9_2a_4a_9a_2a"
+    ],
     "title": "Nacrite [Al$_{2}$Si$_{2}$O$_{5}$(OH)$_{4}$, $S5_{4}$] Structure",
     "icsd": "250459",
     "ccdc": null,

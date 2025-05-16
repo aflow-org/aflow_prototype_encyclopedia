@@ -1,7 +1,9 @@
 {
     "uid": "QAF3",
     "label": "A2B_mP12_3_ab3e_2e-001",
-    "alias": "A2B_mP12_3_bc3e_2e",
+    "alias": [
+        "A2B_mP12_3_bc3e_2e"
+    ],
     "title": "Predicted SiO$_{2}$ ($P2$) Structure",
     "icsd": "75669",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "8TMQ",
     "label": "A3B24C_hR28_160_b_2b3c_a-001",
-    "alias": "A3B24C_hR28_160_b_2b3c_a",
+    "alias": [
+        "A3B24C_hR28_160_b_2b3c_a"
+    ],
     "title": "SbI$_{3}$S$_{24}$ Structure",
     "icsd": "14200",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "92JU",
     "label": "A2B4CD_tI16_82_ac_g_b_d-001",
-    "alias": "A2BCD4_tI16_82_ac_b_d_g",
+    "alias": [
+        "A2BCD4_tI16_82_ac_b_d_g"
+    ],
     "title": "Kesterite [Cu$_{2}$(Zn,Fe)SnS$_{4}$] Structure",
     "icsd": "5096",
     "ccdc": null,

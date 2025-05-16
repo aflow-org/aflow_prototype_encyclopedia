@@ -1,7 +1,9 @@
 {
     "uid": "BJ3W",
     "label": "A2B2C_oC80_64_efg_efg_df-001",
-    "alias": "A2B2C_oC80_64_efg_efg_df",
+    "alias": [
+        "A2B2C_oC80_64_efg_efg_df"
+    ],
     "title": "MgB$_{2}$C$_{2}$ Structure",
     "icsd": "79587",
     "ccdc": null,

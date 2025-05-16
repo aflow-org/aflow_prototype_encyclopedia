@@ -1,7 +1,9 @@
 {
     "uid": "CXQX",
     "label": "AB4C_oP24_62_c_2cd_c-001",
-    "alias": "AB4C_oP24_62_c_2cd_c",
+    "alias": [
+        "AB4C_oP24_62_c_2cd_c"
+    ],
     "title": "Barite (BaSO$_{4}$, $H0_{2}$) Structure",
     "icsd": "16904",
     "ccdc": null,

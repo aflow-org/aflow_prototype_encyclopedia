@@ -1,7 +1,9 @@
 {
     "uid": "69JP",
     "label": "A2BC4_oP28_50_gh_ac_ghm-001",
-    "alias": "A2BC4_oP28_50_ij_ac_ijm",
+    "alias": [
+        "A2BC4_oP28_50_ij_ac_ijm"
+    ],
     "title": "Orthorhombic La$_{2}$NiO$_{4}$ Structure",
     "icsd": "201940",
     "ccdc": null,

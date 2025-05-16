@@ -1,7 +1,9 @@
 {
     "uid": "SHYT",
     "label": "AB_hP4_194_c_d-001",
-    "alias": "AB_hP4_194_c_d",
+    "alias": [
+        "AB_hP4_194_c_d"
+    ],
     "title": "BN ($B_{k}$) Structure",
     "icsd": "24644",
     "ccdc": null,

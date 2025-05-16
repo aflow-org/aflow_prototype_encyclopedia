@@ -1,7 +1,9 @@
 {
     "uid": "3454",
     "label": "AB5_cF24_216_a_ce-001",
-    "alias": "AB5_cF24_216_a_ce",
+    "alias": [
+        "AB5_cF24_216_a_ce"
+    ],
     "title": "AuBe$_{5}$ ($C15_{b}$) Structure",
     "icsd": "611643",
     "ccdc": null,

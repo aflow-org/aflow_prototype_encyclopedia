@@ -1,7 +1,9 @@
 {
     "uid": "2L05",
     "label": "AB4C_mP24_14_ab_4e_e-001",
-    "alias": "AB4C_mP24_14_ab_4e_e",
+    "alias": [
+        "AB4C_mP24_14_ab_4e_e"
+    ],
     "title": "Anhydrous KAuBr$_{4}$ Structure",
     "icsd": "280033",
     "ccdc": null,

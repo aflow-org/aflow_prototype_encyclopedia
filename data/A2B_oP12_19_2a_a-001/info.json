@@ -1,7 +1,9 @@
 {
     "uid": "LU1L",
     "label": "A2B_oP12_19_2a_a-001",
-    "alias": "A2B_oP12_19_2a_a",
+    "alias": [
+        "A2B_oP12_19_2a_a"
+    ],
     "title": "Nauminnite (Ag$_{2}$Se II) Structure",
     "icsd": "15213",
     "ccdc": null,

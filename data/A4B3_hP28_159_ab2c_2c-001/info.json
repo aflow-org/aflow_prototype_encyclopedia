@@ -1,7 +1,9 @@
 {
     "uid": "9UA2",
     "label": "A4B3_hP28_159_ab2c_2c-001",
-    "alias": "A4B3_hP28_159_ab2c_2c",
+    "alias": [
+        "A4B3_hP28_159_ab2c_2c"
+    ],
     "title": "Nierite ($\\alpha$-Si$_{3}$N$_{4}$) Structure",
     "icsd": "79797",
     "ccdc": null,

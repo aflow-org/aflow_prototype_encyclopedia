@@ -1,7 +1,9 @@
 {
     "uid": "Z6H8",
     "label": "AB3C_oP20_62_c_3c_c-001",
-    "alias": "AB3C_oP20_62_c_3c_c",
+    "alias": [
+        "AB3C_oP20_62_c_3c_c"
+    ],
     "title": "(NH$_{4}$)CdCl$_{3}$ ($E2_{4}$) Structure",
     "icsd": "28829",
     "ccdc": null,

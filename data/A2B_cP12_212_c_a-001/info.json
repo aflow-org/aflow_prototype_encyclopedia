@@ -1,7 +1,9 @@
 {
     "uid": "XX75",
     "label": "A2B_cP12_212_c_a-001",
-    "alias": "A2B_cP12_212_c_a",
+    "alias": [
+        "A2B_cP12_212_c_a"
+    ],
     "title": "SrSi$_{2}$ Structure",
     "icsd": "24145",
     "ccdc": null,

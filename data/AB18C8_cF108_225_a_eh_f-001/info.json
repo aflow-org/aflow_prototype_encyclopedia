@@ -1,7 +1,9 @@
 {
     "uid": "VR5Q",
     "label": "AB18C8_cF108_225_a_eh_f-001",
-    "alias": "AB18C8_cF108_225_a_eh_f",
+    "alias": [
+        "AB18C8_cF108_225_a_eh_f"
+    ],
     "title": "Model of Austenite Structure (cF108)",
     "icsd": "none",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "83J5",
     "label": "A2BC6D_cF40_225_c_a_e_b-001",
-    "alias": "A2BC6D_cF40_225_c_a_e_b",
+    "alias": [
+        "A2BC6D_cF40_225_c_a_e_b"
+    ],
     "title": "Double Perovskite (Ba$_{2}$MnWO$_{6}$) Structure",
     "icsd": "51613",
     "ccdc": null,

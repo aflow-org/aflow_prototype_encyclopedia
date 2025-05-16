@@ -1,7 +1,9 @@
 {
     "uid": "E23Q",
     "label": "ABC2_mP16_14_e_e_2e-004",
-    "alias": "ABC2_mP16_14_e_e_2e",
+    "alias": [
+        "ABC2_mP16_14_e_e_2e"
+    ],
     "title": "Manganite ($\\gamma$-MnO(OH), $E0_{6}$) Structure",
     "icsd": "109600",
     "ccdc": null,

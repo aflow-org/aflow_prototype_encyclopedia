@@ -1,7 +1,9 @@
 {
     "uid": "4LGD",
     "label": "A3B_oI32_23_ef2k_k-001",
-    "alias": "A3B_oI32_23_ij2k_k",
+    "alias": [
+        "A3B_oI32_23_ij2k_k"
+    ],
     "title": "H$_{3}$S (5 GPa) Structure",
     "icsd": "none",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "3JDV",
     "label": "A3BC2_cI48_214_f_a_e-001",
-    "alias": "A3BC2_cI48_214_f_a_e",
+    "alias": [
+        "A3BC2_cI48_214_f_a_e"
+    ],
     "title": "Petzite (Ag$_{3}$AuTe$_{2}$) Structure",
     "icsd": "27539",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "CBWE",
     "label": "A2B7C2_oC88_40_abc_2b6c_a3b-001",
-    "alias": "A2B7C2_oC88_40_abc_2b6c_a3b",
+    "alias": [
+        "A2B7C2_oC88_40_abc_2b6c_a3b"
+    ],
     "title": "Rb$_{2}$Mo$_{2}$O$_{7}$ Structure",
     "icsd": "249126",
     "ccdc": null,

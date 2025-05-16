@@ -1,7 +1,9 @@
 {
     "uid": "2SVA",
     "label": "ABC3_oP20_30_2a_c_3c-001",
-    "alias": "ABC3_oP20_30_2a_c_3c",
+    "alias": [
+        "ABC3_oP20_30_2a_c_3c"
+    ],
     "title": "$Pnc2$ CuBrSe$_{3}$ Structure",
     "icsd": "71309",
     "ccdc": null,

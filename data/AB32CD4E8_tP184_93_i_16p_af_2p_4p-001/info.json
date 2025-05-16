@@ -1,7 +1,9 @@
 {
     "uid": "PSUB",
     "label": "AB32CD4E8_tP184_93_i_16p_af_2p_4p-001",
-    "alias": "AB32CD4E8_tP184_93_i_16p_af_2p_4p",
+    "alias": [
+        "AB32CD4E8_tP184_93_i_16p_af_2p_4p"
+    ],
     "title": "AsPh$_{4}$CeS$_{8}$P$_{4}$Me$_{8}$ Structure",
     "icsd": null,
     "ccdc": "1112344",

@@ -1,7 +1,9 @@
 {
     "uid": "2B7C",
     "label": "ABC30DE20F2_oP220_29_a_a_30a_a_20a_2a-001",
-    "alias": "ABC30DE20F2_oP220_29_a_a_30a_a_20a_2a",
+    "alias": [
+        "ABC30DE20F2_oP220_29_a_a_30a_a_20a_2a"
+    ],
     "title": "Low Temperature (NH$_{3}$CH$_{3}$)Al(SO$_{4}$)$_{2}$ $\\cdot$ 12H$_{2}$O Structure",
     "icsd": "108970",
     "ccdc": null,

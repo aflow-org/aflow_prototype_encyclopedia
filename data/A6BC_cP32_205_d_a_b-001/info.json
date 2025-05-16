@@ -1,7 +1,9 @@
 {
     "uid": "N7XD",
     "label": "A6BC_cP32_205_d_a_b-001",
-    "alias": "A6BC_cP32_205_d_b_a",
+    "alias": [
+        "A6BC_cP32_205_d_b_a"
+    ],
     "title": "NaSbF$_{6}$ Structure",
     "icsd": "25538",
     "ccdc": null,

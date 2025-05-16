@@ -1,7 +1,9 @@
 {
     "uid": "KSW9",
     "label": "AB6_oP28_29_a_6a-001",
-    "alias": "AB6_oP28_29_a_6a",
+    "alias": [
+        "AB6_oP28_29_a_6a"
+    ],
     "title": "Mercury (II) Azide [Hg(N$_{3}$)$_{2}$] Structure",
     "icsd": "21029",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "PCHF",
     "label": "A2B_oC12_38_de_ab-001",
-    "alias": "A2B_oC12_38_de_ab",
+    "alias": [
+        "A2B_oC12_38_de_ab"
+    ],
     "title": "Au$_{2}$V Structure",
     "icsd": "58614",
     "ccdc": null,

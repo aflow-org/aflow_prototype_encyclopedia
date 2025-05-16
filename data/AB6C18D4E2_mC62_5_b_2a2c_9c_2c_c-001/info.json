@@ -1,7 +1,9 @@
 {
     "uid": "74YK",
     "label": "AB6C18D4E2_mC62_5_b_2a2c_9c_2c_c-001",
-    "alias": "AB6C18D4E2_mC62_5_a_2b2c_9c_2c_c",
+    "alias": [
+        "AB6C18D4E2_mC62_5_a_2b2c_9c_2c_c"
+    ],
     "title": "Rb$_{2}$CaCu$_{6}$(PO$_{4}$)$_{4}$O$_{2}$ Structure",
     "icsd": "403504",
     "ccdc": null,

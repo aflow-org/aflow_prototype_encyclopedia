@@ -1,7 +1,9 @@
 {
     "uid": "C57U",
     "label": "AB_hP6_183_c_ab-001",
-    "alias": "AB_hP6_183_c_ab",
+    "alias": [
+        "AB_hP6_183_c_ab"
+    ],
     "title": "CrFe$_{3}$NiSn$_{5}$ Structure",
     "icsd": "151719",
     "ccdc": null,

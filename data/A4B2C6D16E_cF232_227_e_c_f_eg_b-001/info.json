@@ -1,7 +1,9 @@
 {
     "uid": "Y05P",
     "label": "A4B2C6D16E_cF232_227_e_c_f_eg_b-001",
-    "alias": "A4B2C6D16E_cF232_227_e_d_f_eg_a",
+    "alias": [
+        "A4B2C6D16E_cF232_227_e_d_f_eg_a"
+    ],
     "title": "$H5_{6}$ [Tychite, Na$_{6}$Mg$_{2}$SO$_{4}$(CO$_{3}$)$_{4}$)] Structure ({\\em Obsolete})",
     "icsd": "27792",
     "ccdc": null,

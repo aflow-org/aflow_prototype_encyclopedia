@@ -1,7 +1,9 @@
 {
     "uid": "QSNP",
     "label": "A2B3_tP20_136_j_dfg-001",
-    "alias": "A2B3_tP20_136_j_dfg",
+    "alias": [
+        "A2B3_tP20_136_j_dfg"
+    ],
     "title": "Zr$_{3}$Al$_{2}$ Structure",
     "icsd": "58231",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "Y171",
     "label": "A2BC4D_tP16_127_g_c_j_b-001",
-    "alias": "A2BC4D_tP16_127_h_d_i_a",
+    "alias": [
+        "A2BC4D_tP16_127_h_d_i_a"
+    ],
     "title": "Pd(NH$_{3}$)$_{4}$Cl$_{2}\\cdot$H$_{2}$O ($H4_{9}$) Structure",
     "icsd": "15990",
     "ccdc": null,

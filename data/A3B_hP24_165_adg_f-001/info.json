@@ -1,7 +1,9 @@
 {
     "uid": "V86P",
     "label": "A3B_hP24_165_adg_f-001",
-    "alias": "A3B_hP24_165_adg_f",
+    "alias": [
+        "A3B_hP24_165_adg_f"
+    ],
     "title": "H$_{3}$Ho Structure",
     "icsd": "16880",
     "ccdc": null,

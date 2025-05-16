@@ -1,7 +1,9 @@
 {
     "uid": "HY2J",
     "label": "A2B2C_oP20_19_2a_2a_a-001",
-    "alias": "A2B2C_oP20_19_2a_2a_a",
+    "alias": [
+        "A2B2C_oP20_19_2a_2a_a"
+    ],
     "title": "W\\\"{u}lfingite ($\\epsilon$-Zn(OH)$_{2}$, C31) Structure",
     "icsd": "50447",
     "ccdc": null,

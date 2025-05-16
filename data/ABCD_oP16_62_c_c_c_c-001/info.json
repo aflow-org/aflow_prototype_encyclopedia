@@ -1,7 +1,9 @@
 {
     "uid": "N0R6",
     "label": "ABCD_oP16_62_c_c_c_c-001",
-    "alias": "ABCD_oP16_62_c_c_c_c",
+    "alias": [
+        "ABCD_oP16_62_c_c_c_c"
+    ],
     "title": "NH$_{4}$ClBrI ($F5_{14}$) Structure",
     "icsd": "30202",
     "ccdc": null,

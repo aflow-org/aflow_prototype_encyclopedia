@@ -1,7 +1,9 @@
 {
     "uid": "44A7",
     "label": "A2BC4_oP28_60_d_c_2d-001",
-    "alias": "A2BC4_oP28_60_d_c_2d",
+    "alias": [
+        "A2BC4_oP28_60_d_c_2d"
+    ],
     "title": "$E3_{2}$ (CaB$_{2}$O$_{4}$ I) Structure",
     "icsd": "34641",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "HK1Y",
     "label": "ABC4_mC24_12_i_i_4i-001",
-    "alias": "ABC4_mC24_12_i_i_4i",
+    "alias": [
+        "ABC4_mC24_12_i_i_4i"
+    ],
     "title": "AlNbO$_{4}$ Structure",
     "icsd": "184515",
     "ccdc": null,

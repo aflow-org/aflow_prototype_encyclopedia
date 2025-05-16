@@ -1,7 +1,9 @@
 {
     "uid": "3XYE",
     "label": "A4B3_oI14_71_ef_af-001",
-    "alias": "A4B3_oI14_71_gh_cg",
+    "alias": [
+        "A4B3_oI14_71_gh_cg"
+    ],
     "title": "Ta$_{3}$B$_{4}$ ($D7_{b}$) Structure",
     "icsd": "44589",
     "ccdc": null,

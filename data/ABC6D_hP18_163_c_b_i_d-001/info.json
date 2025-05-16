@@ -1,7 +1,9 @@
 {
     "uid": "8D1V",
     "label": "ABC6D_hP18_163_c_b_i_d-001",
-    "alias": "ABC6D_hP18_163_d_b_i_c",
+    "alias": [
+        "ABC6D_hP18_163_d_b_i_c"
+    ],
     "title": "Colquiriite (LiCaAlF$_{6}$) Structure",
     "icsd": "150332",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "0GA4",
     "label": "AB3C2_hP24_194_f_k_bh-001",
-    "alias": "AB3C2_hP24_194_f_k_bh",
+    "alias": [
+        "AB3C2_hP24_194_f_k_bh"
+    ],
     "title": "Lu$_{2}$CoGa$_{3}$ Structure",
     "icsd": "300248",
     "ccdc": null,

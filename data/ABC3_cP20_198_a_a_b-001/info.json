@@ -1,7 +1,9 @@
 {
     "uid": "QEXW",
     "label": "ABC3_cP20_198_a_a_b-001",
-    "alias": "ABC3_cP20_198_a_a_b",
+    "alias": [
+        "ABC3_cP20_198_a_a_b"
+    ],
     "title": "Sodium Chlorate (NaClO$_{3}$, $G0_{3}$) Structure",
     "icsd": "16714",
     "ccdc": null,

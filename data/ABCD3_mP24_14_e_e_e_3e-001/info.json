@@ -1,7 +1,9 @@
 {
     "uid": "KV55",
     "label": "ABCD3_mP24_14_e_e_e_3e-001",
-    "alias": "ABCD3_mP24_14_e_e_e_3e",
+    "alias": [
+        "ABCD3_mP24_14_e_e_e_3e"
+    ],
     "title": "Nahcolite (NaHCO$_{3}$, $G0_{12}$) Structure",
     "icsd": "23868",
     "ccdc": null,

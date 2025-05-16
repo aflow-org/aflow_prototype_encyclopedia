@@ -1,7 +1,9 @@
 {
     "uid": "XV4Y",
     "label": "A9B3C2_hP28_176_hi_af_f-001",
-    "alias": "A9B3C2_hP28_176_hi_af_f",
+    "alias": [
+        "A9B3C2_hP28_176_hi_af_f"
+    ],
     "title": "K$_{3}$W$_{2}$Cl$_{9}$ ($K7_{1}$) Structure",
     "icsd": "16760",
     "ccdc": null,

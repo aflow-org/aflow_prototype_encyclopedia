@@ -1,7 +1,9 @@
 {
     "uid": "Q5KE",
     "label": "AB2_tI48_122_cd_2e-001",
-    "alias": "AB2_tI48_122_cd_2e",
+    "alias": [
+        "AB2_tI48_122_cd_2e"
+    ],
     "title": "NaS$_{2}$ Structure",
     "icsd": "2586",
     "ccdc": null,

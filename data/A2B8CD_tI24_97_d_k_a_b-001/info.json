@@ -1,7 +1,9 @@
 {
     "uid": "FH59",
     "label": "A2B8CD_tI24_97_d_k_a_b-001",
-    "alias": "A2B8CD_tI24_97_d_k_a_b",
+    "alias": [
+        "A2B8CD_tI24_97_d_k_a_b"
+    ],
     "title": "NaGdCu$_{2}$F$_{8}$ Structure",
     "icsd": "none",
     "ccdc": null,

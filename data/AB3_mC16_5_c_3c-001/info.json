@@ -1,7 +1,9 @@
 {
     "uid": "RSL8",
     "label": "AB3_mC16_5_c_3c-001",
-    "alias": "AB3_mC16_5_c_3c",
+    "alias": [
+        "AB3_mC16_5_c_3c"
+    ],
     "title": "$D0_{15}$ (AlCl$_{3}$) Structure ({\\em Obsolete})",
     "icsd": "none",
     "ccdc": null,

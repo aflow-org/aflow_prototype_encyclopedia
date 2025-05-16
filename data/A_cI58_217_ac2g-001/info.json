@@ -1,7 +1,9 @@
 {
     "uid": "SV19",
     "label": "A_cI58_217_ac2g-001",
-    "alias": "A_cI58_217_ac2g",
+    "alias": [
+        "A_cI58_217_ac2g"
+    ],
     "title": "$\\alpha$-Mn ($A12$) Structure",
     "icsd": "42743",
     "ccdc": null,

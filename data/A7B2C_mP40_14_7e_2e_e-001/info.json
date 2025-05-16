@@ -1,7 +1,9 @@
 {
     "uid": "TF3J",
     "label": "A7B2C_mP40_14_7e_2e_e-001",
-    "alias": "A7B2C_mP40_14_7e_2e_e",
+    "alias": [
+        "A7B2C_mP40_14_7e_2e_e"
+    ],
     "title": "K$_{2}$NbF$_{7}$ ($K6_{2}$) Structure",
     "icsd": "14132",
     "ccdc": null,

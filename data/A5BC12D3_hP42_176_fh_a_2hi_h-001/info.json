@@ -1,7 +1,9 @@
 {
     "uid": "KHCK",
     "label": "A5BC12D3_hP42_176_fh_a_2hi_h-001",
-    "alias": "A5BC12D3_hP42_176_fh_a_2hi_h",
+    "alias": [
+        "A5BC12D3_hP42_176_fh_a_2hi_h"
+    ],
     "title": "Fluorapatite [Ca$_{5}$F(PO$_{4}$)$_{3}$, $H5_{7}$] Structure",
     "icsd": "137670",
     "ccdc": null,

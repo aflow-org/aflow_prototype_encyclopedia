@@ -1,7 +1,9 @@
 {
     "uid": "QQ21",
     "label": "ABCD8E3_oP112_62_d_2c_d_4c6d_3d-001",
-    "alias": "ABCD8E3_oP112_62_d_2c_d_4c6d_3d",
+    "alias": [
+        "ABCD8E3_oP112_62_d_2c_d_4c6d_3d"
+    ],
     "title": "Epididymite (BeHNaO$_{8}$Si$_{3}$, $S4_{7}$) Structure",
     "icsd": "160817",
     "ccdc": null,

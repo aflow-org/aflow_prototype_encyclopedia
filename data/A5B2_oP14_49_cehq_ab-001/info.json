@@ -1,7 +1,9 @@
 {
     "uid": "XVUH",
     "label": "A5B2_oP14_49_cehq_ab-001",
-    "alias": "A5B2_oP14_49_dehq_ab",
+    "alias": [
+        "A5B2_oP14_49_dehq_ab"
+    ],
     "title": "$\\beta$-Ta$_{2}$O$_{5}$ Structure",
     "icsd": "95462",
     "ccdc": null,

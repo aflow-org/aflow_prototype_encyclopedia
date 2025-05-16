@@ -1,7 +1,9 @@
 {
     "uid": "YTPF",
     "label": "AB2_oP6_58_a_g-001",
-    "alias": "AB2_oP6_58_a_g.CaCl2",
+    "alias": [
+        "AB2_oP6_58_a_g.CaCl2"
+    ],
     "title": "Hydrophilite (CaCl$_{2}$, $C35$) Structure",
     "icsd": "26686",
     "ccdc": null,

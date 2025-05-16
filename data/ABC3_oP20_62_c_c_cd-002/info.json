@@ -1,7 +1,9 @@
 {
     "uid": "8RDG",
     "label": "ABC3_oP20_62_c_c_cd-002",
-    "alias": "ABC3_oP20_62_c_c_cd.N.NH4.O",
+    "alias": [
+        "ABC3_oP20_62_c_c_cd.N.NH4.O"
+    ],
     "title": "NH$_{4}$NO$_{3}$ III ($G0_{10}$) Structure",
     "icsd": "26665",
     "ccdc": null,

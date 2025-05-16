@@ -1,7 +1,9 @@
 {
     "uid": "WS3B",
     "label": "A8BC3D6_hP18_189_agh_b_f_i-001",
-    "alias": "A8BC3D6_hP18_189_bfh_a_g_i",
+    "alias": [
+        "A8BC3D6_hP18_189_bfh_a_g_i"
+    ],
     "title": "$\\pi$-FeMg$_{3}$Al$_{8}$Si$_{6}$ ($E9_{b}$) Structure",
     "icsd": "21740",
     "ccdc": null,

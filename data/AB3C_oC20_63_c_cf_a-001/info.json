@@ -1,7 +1,9 @@
 {
     "uid": "BCSA",
     "label": "AB3C_oC20_63_c_cf_a-001",
-    "alias": "AB3C_oC20_63_c_cf_a",
+    "alias": [
+        "AB3C_oC20_63_c_cf_a"
+    ],
     "title": "Post-perovskite (MgSiO$_{3}$) Structure",
     "icsd": "158959",
     "ccdc": null,

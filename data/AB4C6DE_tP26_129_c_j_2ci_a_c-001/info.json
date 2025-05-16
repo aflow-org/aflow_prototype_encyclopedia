@@ -1,7 +1,9 @@
 {
     "uid": "VQBJ",
     "label": "AB4C6DE_tP26_129_c_j_2ci_a_c-001",
-    "alias": "AB4C6DE_tP26_129_c_j_2ci_a_c",
+    "alias": [
+        "AB4C6DE_tP26_129_c_j_2ci_a_c"
+    ],
     "title": "Meta-autunite (I) [Ca(UO$_{2}$)$_{2}$(PO$_{4}$)$_{2}\\cdot$6H$_{2}$O, $H5_{10}$] Structure",
     "icsd": "none",
     "ccdc": null,

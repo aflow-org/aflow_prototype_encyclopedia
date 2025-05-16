@@ -1,7 +1,9 @@
 {
     "uid": "ACQJ",
     "label": "ABC2_tP4_123_a_d_e-001",
-    "alias": "ABC2_tP4_123_d_a_f",
+    "alias": [
+        "ABC2_tP4_123_d_a_f"
+    ],
     "title": "CaCuO$_{2}$ Structure",
     "icsd": "65066",
     "ccdc": null,

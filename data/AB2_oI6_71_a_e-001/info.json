@@ -1,7 +1,9 @@
 {
     "uid": "EKX0",
     "label": "AB2_oI6_71_a_e-001",
-    "alias": "AB2_oI6_71_a_g",
+    "alias": [
+        "AB2_oI6_71_a_g"
+    ],
     "title": "MoPt$_{2}$ Structure",
     "icsd": "105070",
     "ccdc": null,

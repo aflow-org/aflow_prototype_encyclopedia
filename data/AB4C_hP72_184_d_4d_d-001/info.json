@@ -1,7 +1,9 @@
 {
     "uid": "72JS",
     "label": "AB4C_hP72_184_d_4d_d-001",
-    "alias": "AB4C_hP72_184_d_4d_d",
+    "alias": [
+        "AB4C_hP72_184_d_4d_d"
+    ],
     "title": "Al[PO$_{4}$] (Framework type AFI) Structure",
     "icsd": "91671",
     "ccdc": null,

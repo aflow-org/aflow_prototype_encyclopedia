@@ -1,7 +1,9 @@
 {
     "uid": "MZYC",
     "label": "A2B3C7D_oP13_47_k_cj_aijl_f-001",
-    "alias": "A2B3C7D_oP13_47_t_aq_eqrs_h",
+    "alias": [
+        "A2B3C7D_oP13_47_t_aq_eqrs_h"
+    ],
     "title": "1212C [YBa$_{2}$Cu$_{3}$O$_{7-x}$] High-$T_{c}$ Structure",
     "icsd": "62943",
     "ccdc": null,

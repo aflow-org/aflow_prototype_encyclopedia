@@ -1,7 +1,9 @@
 {
     "uid": "3RSG",
     "label": "A7B2C2_mP22_11_3e2f_2e_ab-001",
-    "alias": "A7B2C2_mP22_11_3e2f_2e_ab",
+    "alias": [
+        "A7B2C2_mP22_11_3e2f_2e_ab"
+    ],
     "title": "y-Y$_{2}$Si$_{2}$O$_{7}$ Structure",
     "icsd": "28004",
     "ccdc": null,

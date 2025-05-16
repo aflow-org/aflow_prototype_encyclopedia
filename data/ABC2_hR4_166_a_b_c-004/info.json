@@ -1,7 +1,9 @@
 {
     "uid": "Y8C3",
     "label": "ABC2_hR4_166_a_b_c-004",
-    "alias": "ABC2_hR4_166_a_b_c.CuFeO2",
+    "alias": [
+        "ABC2_hR4_166_a_b_c.CuFeO2"
+    ],
     "title": "Rhombohedral Delafossite (CuFeO$_{2}$) Structure",
     "icsd": "31918",
     "ccdc": null,
