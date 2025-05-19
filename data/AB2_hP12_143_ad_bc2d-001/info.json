@@ -5,7 +5,7 @@
         "AB2_hP12_143_cd_ab2d"
     ],
     "title": "Trigonal MoS$_{2}$ Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "MoS2",
     "prototype_tex": "MoS$_{2}$",
