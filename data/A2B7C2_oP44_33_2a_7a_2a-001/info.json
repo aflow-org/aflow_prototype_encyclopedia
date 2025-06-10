@@ -1,9 +1,11 @@
 {
     "uid": "9ZSV",
     "label": "A2B7C2_oP44_33_2a_7a_2a-001",
-    "alias": "A2B7C2_oP44_33_2a_7a_2a",
+    "alias": [
+        "A2B7C2_oP44_33_2a_7a_2a"
+    ],
     "title": "Possible $\\delta$-Gd$_{2}$Si$_{2}$O$_{7}$ Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "Gd2O7Si2",
     "prototype_tex": "Gd$_{2}$O$_{7}$Si$_{2}$",

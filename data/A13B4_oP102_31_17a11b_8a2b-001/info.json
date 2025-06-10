@@ -1,7 +1,9 @@
 {
     "uid": "DHFF",
     "label": "A13B4_oP102_31_17a11b_8a2b-001",
-    "alias": "A13B4_oP102_31_17a11b_8a2b",
+    "alias": [
+        "A13B4_oP102_31_17a11b_8a2b"
+    ],
     "title": "Orthorhombic Co$_{4}$Al$_{13}$ Structure (Approximate Quasicrystal)",
     "icsd": "104638",
     "ccdc": null,

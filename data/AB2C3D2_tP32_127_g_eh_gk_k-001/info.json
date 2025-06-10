@@ -1,7 +1,9 @@
 {
     "uid": "URTV",
     "label": "AB2C3D2_tP32_127_g_eh_gk_k-001",
-    "alias": "AB2C3D2_tP32_127_g_eh_gk_k",
+    "alias": [
+        "AB2C3D2_tP32_127_g_eh_gk_k"
+    ],
     "title": "Phosgenite [Pb$_{2}$Cl$_{2}$(CO$_{3}$)] Structure",
     "icsd": "4240",
     "ccdc": null,

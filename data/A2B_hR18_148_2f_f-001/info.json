@@ -1,7 +1,9 @@
 {
     "uid": "8GMP",
     "label": "A2B_hR18_148_2f_f-001",
-    "alias": "A2B_hR18_148_2f_f",
+    "alias": [
+        "A2B_hR18_148_2f_f"
+    ],
     "title": "$\\beta$-PdCl$_{2}$ Structure",
     "icsd": "404624",
     "ccdc": null,

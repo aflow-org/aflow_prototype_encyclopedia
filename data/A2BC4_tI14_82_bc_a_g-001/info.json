@@ -1,7 +1,9 @@
 {
     "uid": "S1AD",
     "label": "A2BC4_tI14_82_bc_a_g-001",
-    "alias": "A2BC4_tI14_82_bc_a_g",
+    "alias": [
+        "A2BC4_tI14_82_bc_a_g"
+    ],
     "title": "CdAl$_{2}$S$_{4}$ ($E3$) Structure",
     "icsd": "25634",
     "ccdc": null,

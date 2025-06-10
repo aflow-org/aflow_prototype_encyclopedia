@@ -1,7 +1,9 @@
 {
     "uid": "6TQK",
     "label": "A3B_tI24_119_a2i_bf-001",
-    "alias": "A3B_tI24_119_b2i_af",
+    "alias": [
+        "A3B_tI24_119_b2i_af"
+    ],
     "title": "RbGa$_{3}$ Structure",
     "icsd": "103943",
     "ccdc": null,

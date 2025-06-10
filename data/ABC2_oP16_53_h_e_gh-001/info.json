@@ -1,7 +1,9 @@
 {
     "uid": "AVNP",
     "label": "ABC2_oP16_53_h_e_gh-001",
-    "alias": "ABC2_oP16_53_h_e_gh",
+    "alias": [
+        "ABC2_oP16_53_h_e_gh"
+    ],
     "title": "TaNiTe$_{2}$ Structure",
     "icsd": "71063",
     "ccdc": null,

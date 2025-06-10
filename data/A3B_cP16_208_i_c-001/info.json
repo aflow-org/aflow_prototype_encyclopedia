@@ -1,7 +1,9 @@
 {
     "uid": "CCPW",
     "label": "A3B_cP16_208_i_c-001",
-    "alias": "A3B_cP16_208_j_b",
+    "alias": [
+        "A3B_cP16_208_j_b"
+    ],
     "title": "H$_{3}$P Structure",
     "icsd": "24498",
     "ccdc": null,

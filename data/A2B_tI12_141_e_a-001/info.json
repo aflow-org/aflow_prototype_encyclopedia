@@ -1,7 +1,9 @@
 {
     "uid": "1TUW",
     "label": "A2B_tI12_141_e_a-001",
-    "alias": "A2B_tI12_141_e_a",
+    "alias": [
+        "A2B_tI12_141_e_a"
+    ],
     "title": "Anatase (TiO$_{2}$, $C5$) Structure",
     "icsd": "63711",
     "ccdc": null,

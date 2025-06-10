@@ -1,7 +1,9 @@
 {
     "uid": "DA98",
     "label": "A2B_hP18_190_gh_bf-001",
-    "alias": "A2B_hP18_190_gh_bf",
+    "alias": [
+        "A2B_hP18_190_gh_bf"
+    ],
     "title": "Li$_{2}$Sb Structure",
     "icsd": "100020",
     "ccdc": null,

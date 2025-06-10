@@ -1,7 +1,9 @@
 {
     "uid": "LRN3",
     "label": "AB_mP16_14_2e_2e-002",
-    "alias": "AB_mP16_14_2e_2e",
+    "alias": [
+        "AB_mP16_14_2e_2e"
+    ],
     "title": "LiAs Structure",
     "icsd": "26472",
     "ccdc": null,

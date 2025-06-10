@@ -1,9 +1,11 @@
 {
     "uid": "WZBC",
     "label": "A16B2C_cF152_227_eg_c_b-001",
-    "alias": "A16B2C_cF152_227_eg_d_a",
+    "alias": [
+        "A16B2C_cF152_227_eg_d_a"
+    ],
     "title": "Predicted Li$_{2}$MgH$_{16}$ High-T$_{c}$ Superconductor (250 GPa) Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "H16Li2Mg",
     "prototype_tex": "H$_{16}$Li$_{2}$Mg",

@@ -1,7 +1,9 @@
 {
     "uid": "0Q2T",
     "label": "AB_oF8_42_a_a-001",
-    "alias": "AB_oF8_42_a_a",
+    "alias": [
+        "AB_oF8_42_a_a"
+    ],
     "title": "BN (High-pressure, high-temperature) Structure",
     "icsd": "20946",
     "ccdc": null,

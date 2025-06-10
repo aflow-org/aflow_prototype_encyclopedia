@@ -1,7 +1,9 @@
 {
     "uid": "X9DF",
     "label": "A3B2_hP20_176_2h_ah-001",
-    "alias": "A3B2_hP20_176_2h_ah",
+    "alias": [
+        "A3B2_hP20_176_2h_ah"
+    ],
     "title": "Th$_{7}$S$_{12}$ (D8$_{k}$) Structure",
     "icsd": "30644",
     "ccdc": null,

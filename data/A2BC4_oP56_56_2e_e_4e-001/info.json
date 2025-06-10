@@ -1,7 +1,9 @@
 {
     "uid": "ZD64",
     "label": "A2BC4_oP56_56_2e_e_4e-001",
-    "alias": "A2BC4_oP56_56_2e_e_4e",
+    "alias": [
+        "A2BC4_oP56_56_2e_e_4e"
+    ],
     "title": "Calciborite (CaB$_{2}$O$_{4}$ II) Structure",
     "icsd": "20097",
     "ccdc": null,

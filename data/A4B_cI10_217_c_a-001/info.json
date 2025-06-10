@@ -1,7 +1,9 @@
 {
     "uid": "WBME",
     "label": "A4B_cI10_217_c_a-001",
-    "alias": "A4B_cI10_217_c_a",
+    "alias": [
+        "A4B_cI10_217_c_a"
+    ],
     "title": "SiF$_{4}$ ($D1_{2}$) Structure",
     "icsd": "14122",
     "ccdc": null,

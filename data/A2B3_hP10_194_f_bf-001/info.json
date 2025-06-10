@@ -1,7 +1,9 @@
 {
     "uid": "Y79W",
     "label": "A2B3_hP10_194_f_bf-001",
-    "alias": "A2B3_hP10_194_f_bf",
+    "alias": [
+        "A2B3_hP10_194_f_bf"
+    ],
     "title": "Pt$_{2}$Sn$_{3}$ ($D5_{b}$) Structure",
     "icsd": "105794",
     "ccdc": null,

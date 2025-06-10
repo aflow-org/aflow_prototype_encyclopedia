@@ -1,7 +1,9 @@
 {
     "uid": "XT4M",
     "label": "AB_oF8_69_a_b-001",
-    "alias": "AB_oF8_69_a_b",
+    "alias": [
+        "AB_oF8_69_a_b"
+    ],
     "title": "TlF ($B24$) Structure ({\\em Obsolete})",
     "icsd": "30268",
     "ccdc": null,

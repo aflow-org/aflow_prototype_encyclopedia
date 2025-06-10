@@ -1,7 +1,9 @@
 {
     "uid": "KAKD",
     "label": "A4BC2_tI28_120_i_a_h-001",
-    "alias": "A4BC2_tI28_120_i_d_e",
+    "alias": [
+        "A4BC2_tI28_120_i_d_e"
+    ],
     "title": "KAu$_{4}$Sn$_{2}$ Structure",
     "icsd": "58522",
     "ccdc": null,

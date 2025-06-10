@@ -1,7 +1,9 @@
 {
     "uid": "0WEU",
     "label": "A3B11C3_cP68_201_be_efh_g-001",
-    "alias": "A3B11C3_cP68_201_be_efh_g",
+    "alias": [
+        "A3B11C3_cP68_201_be_efh_g"
+    ],
     "title": "Bi$_{3}$Ru$_{3}$O$_{11}$ Structure",
     "icsd": "4194",
     "ccdc": null,

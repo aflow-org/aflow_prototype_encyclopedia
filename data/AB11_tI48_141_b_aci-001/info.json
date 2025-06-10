@@ -1,7 +1,9 @@
 {
     "uid": "EV03",
     "label": "AB11_tI48_141_b_aci-001",
-    "alias": "AB11_tI48_141_a_bdi",
+    "alias": [
+        "AB11_tI48_141_a_bdi"
+    ],
     "title": "BaCd$_{11}$ Structure",
     "icsd": "150492",
     "ccdc": null,

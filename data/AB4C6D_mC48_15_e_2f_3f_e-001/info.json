@@ -1,7 +1,9 @@
 {
     "uid": "8924",
     "label": "AB4C6D_mC48_15_e_2f_3f_e-001",
-    "alias": "AB4C6D_mC48_15_e_2f_3f_e",
+    "alias": [
+        "AB4C6D_mC48_15_e_2f_3f_e"
+    ],
     "title": "Gypsum (CaSO$_{4}\\cdot$2H$_{2}$O, $H4_{6}$) Structure",
     "icsd": "161622",
     "ccdc": null,

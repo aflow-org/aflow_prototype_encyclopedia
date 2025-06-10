@@ -1,7 +1,9 @@
 {
     "uid": "NDBQ",
     "label": "A2B_oC24_20_abc_c-001",
-    "alias": "A2B_oC24_20_abc_c",
+    "alias": [
+        "A2B_oC24_20_abc_c"
+    ],
     "title": "Orthorhombic (High) Tridymite (SiO$_{2}$) Structure",
     "icsd": "15321",
     "ccdc": null,

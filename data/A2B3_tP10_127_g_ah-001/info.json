@@ -1,7 +1,9 @@
 {
     "uid": "6QGS",
     "label": "A2B3_tP10_127_g_ah-001",
-    "alias": "A2B3_tP10_127_g_ah",
+    "alias": [
+        "A2B3_tP10_127_g_ah"
+    ],
     "title": "Si$_{2}$U$_{3}$ ($D5_{a}$) Structure",
     "icsd": "73695",
     "ccdc": null,

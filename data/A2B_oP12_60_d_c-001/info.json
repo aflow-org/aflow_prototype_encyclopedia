@@ -1,7 +1,9 @@
 {
     "uid": "5GP6",
     "label": "A2B_oP12_60_d_c-001",
-    "alias": "A2B_oP12_60_d_c.Fe2N",
+    "alias": [
+        "A2B_oP12_60_d_c.Fe2N"
+    ],
     "title": "$\\zeta$-Fe$_{2}$N Structure",
     "icsd": "81732",
     "ccdc": null,

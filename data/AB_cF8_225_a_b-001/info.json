@@ -1,7 +1,9 @@
 {
     "uid": "Q53X",
     "label": "AB_cF8_225_a_b-001",
-    "alias": "AB_cF8_225_a_b",
+    "alias": [
+        "AB_cF8_225_a_b"
+    ],
     "title": "Rock Salt/Halite (NaCl, $B1$) Structure",
     "icsd": "240598",
     "ccdc": null,

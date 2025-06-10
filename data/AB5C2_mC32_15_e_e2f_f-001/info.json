@@ -1,7 +1,9 @@
 {
     "uid": "YFLU",
     "label": "AB5C2_mC32_15_e_e2f_f-001",
-    "alias": "AB5C2_mC32_15_e_e2f_f",
+    "alias": [
+        "AB5C2_mC32_15_e_e2f_f"
+    ],
     "title": "Ta$_{2}$NiSe$_{5}$ Structure",
     "icsd": "61148",
     "ccdc": null,

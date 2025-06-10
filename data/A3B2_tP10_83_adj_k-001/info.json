@@ -1,7 +1,9 @@
 {
     "uid": "FCWX",
     "label": "A3B2_tP10_83_adj_k-001",
-    "alias": "A3B2_tP10_83_adk_j",
+    "alias": [
+        "A3B2_tP10_83_adk_j"
+    ],
     "title": "Ti$_{2}$Ga$_{3}$ Structure",
     "icsd": "197271",
     "ccdc": null,

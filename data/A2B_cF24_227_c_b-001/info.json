@@ -1,7 +1,9 @@
 {
     "uid": "8YL7",
     "label": "A2B_cF24_227_c_b-001",
-    "alias": "A2B_cF24_227_d_a",
+    "alias": [
+        "A2B_cF24_227_d_a"
+    ],
     "title": "Cu$_{2}$Mg Cubic Laves ($C15$) Structure",
     "icsd": "108388",
     "ccdc": null,

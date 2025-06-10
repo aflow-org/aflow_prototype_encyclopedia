@@ -1,7 +1,9 @@
 {
     "uid": "WEMD",
     "label": "A2B3_oP20_60_d_cd-001",
-    "alias": "A2B3_oP20_60_d_cd",
+    "alias": [
+        "A2B3_oP20_60_d_cd"
+    ],
     "title": "Rh$_{2}$O$_{3}$ Structure",
     "icsd": "15344",
     "ccdc": null,

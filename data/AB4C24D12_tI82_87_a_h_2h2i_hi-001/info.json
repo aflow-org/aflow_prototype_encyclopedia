@@ -1,7 +1,9 @@
 {
     "uid": "8NAD",
     "label": "AB4C24D12_tI82_87_a_h_2h2i_hi-001",
-    "alias": "AB4C24D12_tI82_87_a_h_2h2i_hi",
+    "alias": [
+        "AB4C24D12_tI82_87_a_h_2h2i_hi"
+    ],
     "title": "Marialite Scapolite [Na$_{4}$Cl(AlSi$_{3}$)$_{3}$O$_{24}$, $S6_{4}$] Structure",
     "icsd": "9502",
     "ccdc": null,

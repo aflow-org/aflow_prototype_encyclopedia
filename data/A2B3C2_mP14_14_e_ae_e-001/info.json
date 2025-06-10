@@ -1,7 +1,9 @@
 {
     "uid": "AR8A",
     "label": "A2B3C2_mP14_14_e_ae_e-001",
-    "alias": "A2B3C2_mP14_14_e_ae_e",
+    "alias": [
+        "A2B3C2_mP14_14_e_ae_e"
+    ],
     "title": "HgCl$_{2}\\cdot$2HgO Structure",
     "icsd": "35648",
     "ccdc": null,

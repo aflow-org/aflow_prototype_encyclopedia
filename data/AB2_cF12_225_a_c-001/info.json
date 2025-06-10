@@ -1,7 +1,9 @@
 {
     "uid": "8VXQ",
     "label": "AB2_cF12_225_a_c-001",
-    "alias": "AB2_cF12_225_a_c",
+    "alias": [
+        "AB2_cF12_225_a_c"
+    ],
     "title": "Fluorite (CaF$_{2}$, $C1$) Structure",
     "icsd": "44937",
     "ccdc": null,

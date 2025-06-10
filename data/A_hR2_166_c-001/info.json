@@ -1,7 +1,9 @@
 {
     "uid": "F2V5",
     "label": "A_hR2_166_c-001",
-    "alias": "A_hR2_166_c.alpha-As",
+    "alias": [
+        "A_hR2_166_c.alpha-As"
+    ],
     "title": "$\\alpha$-As ($A7$) Structure",
     "icsd": "16517",
     "ccdc": null,

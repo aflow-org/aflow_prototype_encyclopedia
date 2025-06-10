@@ -1,7 +1,9 @@
 {
     "uid": "YX16",
     "label": "A7B2C_tP40_128_egi_h_e-001",
-    "alias": "A7B2C_tP40_128_egi_h_e",
+    "alias": [
+        "A7B2C_tP40_128_egi_h_e"
+    ],
     "title": "FeCu$_{2}$Al$_{7}$ ($E9_{a}$) Structure",
     "icsd": "57677",
     "ccdc": null,

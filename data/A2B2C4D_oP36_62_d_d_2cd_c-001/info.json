@@ -1,7 +1,9 @@
 {
     "uid": "7RBD",
     "label": "A2B2C4D_oP36_62_d_d_2cd_c-001",
-    "alias": "A2B2C4D_oP36_62_d_d_2cd_c",
+    "alias": [
+        "A2B2C4D_oP36_62_d_d_2cd_c"
+    ],
     "title": "Topaz (Al$_{2}$SiO$_{4}$F$_{2}$, $S0_{5}$) Structure",
     "icsd": "55860",
     "ccdc": null,

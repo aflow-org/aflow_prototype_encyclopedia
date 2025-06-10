@@ -1,9 +1,11 @@
 {
     "uid": "XBGM",
     "label": "A24BC_cF104_209_j_a_b-001",
-    "alias": "A24BC_cF104_209_j_a_b",
+    "alias": [
+        "A24BC_cF104_209_j_a_b"
+    ],
     "title": "KPF$_{6}$ Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "F6KP",
     "prototype_tex": "F$_{6}$KP",

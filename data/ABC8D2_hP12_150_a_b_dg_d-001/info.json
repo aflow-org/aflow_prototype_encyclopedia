@@ -1,7 +1,9 @@
 {
     "uid": "SDL2",
     "label": "ABC8D2_hP12_150_a_b_dg_d-001",
-    "alias": "ABC8D2_hP12_150_b_a_dg_d",
+    "alias": [
+        "ABC8D2_hP12_150_b_a_dg_d"
+    ],
     "title": "Steklite [KAl(SO$_{4}$)$_{2}$, $H3_{2}$] Structure",
     "icsd": "60170",
     "ccdc": null,

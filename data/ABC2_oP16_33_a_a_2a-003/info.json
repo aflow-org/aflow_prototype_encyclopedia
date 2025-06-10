@@ -1,7 +1,9 @@
 {
     "uid": "9S7L",
     "label": "ABC2_oP16_33_a_a_2a-003",
-    "alias": "ABC2_oP16_33_a_a_2a",
+    "alias": [
+        "ABC2_oP16_33_a_a_2a"
+    ],
     "title": "LiGaO$_{2}$ Structure",
     "icsd": "18152",
     "ccdc": null,

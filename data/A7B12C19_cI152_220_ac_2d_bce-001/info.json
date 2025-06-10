@@ -1,7 +1,9 @@
 {
     "uid": "L8NP",
     "label": "A7B12C19_cI152_220_ac_2d_bce-001",
-    "alias": "A7B12C19_cI152_220_bc_2d_ace",
+    "alias": [
+        "A7B12C19_cI152_220_bc_2d_ace"
+    ],
     "title": "Mayenite (12 CaO$\\cdot$7Al$_{2}$O$_{3}$, $K7_4$, C12A7) Structure",
     "icsd": "24100",
     "ccdc": null,

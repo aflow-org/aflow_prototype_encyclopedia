@@ -1,7 +1,9 @@
 {
     "uid": "VV4N",
     "label": "A_mC34_12_ah3i2j-001",
-    "alias": "A_mC34_12_ah3i2j",
+    "alias": [
+        "A_mC34_12_ah3i2j"
+    ],
     "title": "$\\beta$-Pu Structure",
     "icsd": "43336",
     "ccdc": null,

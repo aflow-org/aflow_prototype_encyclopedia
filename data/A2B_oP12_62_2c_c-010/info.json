@@ -1,7 +1,9 @@
 {
     "uid": "NJ0X",
     "label": "A2B_oP12_62_2c_c-010",
-    "alias": "A2B_oP12_62_2c_c.SrBr2",
+    "alias": [
+        "A2B_oP12_62_2c_c.SrBr2"
+    ],
     "title": "$C53$ (SrBr$_{2}$) Structure ({\\em Obsolete})",
     "icsd": "15972",
     "ccdc": null,

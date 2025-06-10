@@ -1,7 +1,9 @@
 {
     "uid": "DG1Q",
     "label": "A3B8C2_hP26_186_c_ab2c_2b-001",
-    "alias": "A3B8C2_hP26_186_c_ab2c_2b",
+    "alias": [
+        "A3B8C2_hP26_186_c_ab2c_2b"
+    ],
     "title": "Zn$_{2}$Mo$_{3}$O$_{8}$ Structure",
     "icsd": "14321",
     "ccdc": null,

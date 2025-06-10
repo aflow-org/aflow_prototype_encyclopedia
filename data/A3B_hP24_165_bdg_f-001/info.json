@@ -1,7 +1,9 @@
 {
     "uid": "Z2X0",
     "label": "A3B_hP24_165_bdg_f-001",
-    "alias": "A3B_hP24_165_bdg_f",
+    "alias": [
+        "A3B_hP24_165_bdg_f"
+    ],
     "title": "Cu$_{3}$P ($D0_{21}$) Structure",
     "icsd": "198370",
     "ccdc": null,

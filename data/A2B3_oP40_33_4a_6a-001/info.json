@@ -1,7 +1,9 @@
 {
     "uid": "SGA3",
     "label": "A2B3_oP40_33_4a_6a-001",
-    "alias": "A2B3_oP40_33_4a_6a",
+    "alias": [
+        "A2B3_oP40_33_4a_6a"
+    ],
     "title": "$\\kappa$ alumina (Al$_{2}$O$_{3}$) Structure",
     "icsd": "84375",
     "ccdc": null,

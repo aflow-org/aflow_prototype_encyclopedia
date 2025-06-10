@@ -1,7 +1,9 @@
 {
     "uid": "84Y3",
     "label": "A_cP8_205_c-001",
-    "alias": "A_cP8_205_c",
+    "alias": [
+        "A_cP8_205_c"
+    ],
     "title": "$\\alpha$-N ($Pa\\overline{3}$) Structure",
     "icsd": "28179",
     "ccdc": null,

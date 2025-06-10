@@ -1,7 +1,9 @@
 {
     "uid": "8SJC",
     "label": "A12BC4_cP34_195_2j_ab_2e-001",
-    "alias": "A12BC4_cP34_195_2j_ab_2e",
+    "alias": [
+        "A12BC4_cP34_195_2j_ab_2e"
+    ],
     "title": "PrRu$_{4}$P$_{12}$ Structure",
     "icsd": "55834",
     "ccdc": null,

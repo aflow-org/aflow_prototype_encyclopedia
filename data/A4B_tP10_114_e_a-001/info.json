@@ -1,7 +1,9 @@
 {
     "uid": "C2PK",
     "label": "A4B_tP10_114_e_a-001",
-    "alias": "A4B_tP10_114_e_a",
+    "alias": [
+        "A4B_tP10_114_e_a"
+    ],
     "title": "Pd$_{4}$Se Structure",
     "icsd": "23864",
     "ccdc": null,

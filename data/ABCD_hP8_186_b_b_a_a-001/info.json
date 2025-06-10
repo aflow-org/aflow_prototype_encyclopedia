@@ -1,7 +1,9 @@
 {
     "uid": "R9CA",
     "label": "ABCD_hP8_186_b_b_a_a-001",
-    "alias": "ABCD_hP8_186_b_b_a_a",
+    "alias": [
+        "ABCD_hP8_186_b_b_a_a"
+    ],
     "title": "Cd(OH)Cl ($E0_{3}$) Structure",
     "icsd": "91087",
     "ccdc": null,

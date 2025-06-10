@@ -1,7 +1,9 @@
 {
     "uid": "PN0D",
     "label": "A2BC2_oF40_22_ej_ac_fi-001",
-    "alias": "A2BC2_oF40_22_fi_ad_gh",
+    "alias": [
+        "A2BC2_oF40_22_fi_ad_gh"
+    ],
     "title": "CeRu$_{2}$B$_{2}$ Structure",
     "icsd": "40800",
     "ccdc": null,

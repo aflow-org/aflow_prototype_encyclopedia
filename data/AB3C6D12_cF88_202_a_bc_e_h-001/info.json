@@ -1,7 +1,9 @@
 {
     "uid": "G8R0",
     "label": "AB3C6D12_cF88_202_a_bc_e_h-001",
-    "alias": "AB3C6D12_cF88_202_a_bc_e_h",
+    "alias": [
+        "AB3C6D12_cF88_202_a_bc_e_h"
+    ],
     "title": "K$_{3}$Co(NO$_{2}$)$_{6}$ ($J2_{4}$) Structure",
     "icsd": "26746",
     "ccdc": null,

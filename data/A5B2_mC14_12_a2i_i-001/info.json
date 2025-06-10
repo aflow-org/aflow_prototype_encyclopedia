@@ -1,7 +1,9 @@
 {
     "uid": "9H7D",
     "label": "A5B2_mC14_12_a2i_i-001",
-    "alias": "A5B2_mC14_12_a2i_i",
+    "alias": [
+        "A5B2_mC14_12_a2i_i"
+    ],
     "title": "Au$_{5}$Mn$_{2}$ Structure",
     "icsd": "144447",
     "ccdc": null,

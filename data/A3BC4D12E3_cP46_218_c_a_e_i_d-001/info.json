@@ -1,7 +1,9 @@
 {
     "uid": "NYVB",
     "label": "A3BC4D12E3_cP46_218_c_a_e_i_d-001",
-    "alias": "A3BC4D12E3_cP46_218_d_a_e_i_c",
+    "alias": [
+        "A3BC4D12E3_cP46_218_d_a_e_i_c"
+    ],
     "title": "Sodalite [Na$_{4}$(AlSiO$_{4}$)$_{3}$Cl, $S6_{2}$] Structure",
     "icsd": "29443",
     "ccdc": null,

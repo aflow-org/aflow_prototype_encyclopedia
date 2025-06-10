@@ -1,7 +1,9 @@
 {
     "uid": "SUKZ",
     "label": "A3B_mP16_7_6a_2a-001",
-    "alias": "A3B_mP16_7_6a_2a",
+    "alias": [
+        "A3B_mP16_7_6a_2a"
+    ],
     "title": "$\\epsilon$-WO$_{3}$ (low-temperature) Structure",
     "icsd": "84139",
     "ccdc": null,

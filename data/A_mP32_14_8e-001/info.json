@@ -1,7 +1,9 @@
 {
     "uid": "QMXV",
     "label": "A_mP32_14_8e-001",
-    "alias": "A_mP32_14_8e",
+    "alias": [
+        "A_mP32_14_8e"
+    ],
     "title": "$\\beta$-Se ($A_{l}$) Structure",
     "icsd": "24670",
     "ccdc": null,

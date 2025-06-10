@@ -1,7 +1,9 @@
 {
     "uid": "WCPM",
     "label": "A10B2C_hP39_171_5c_c_a-001",
-    "alias": "A10B2C_hP39_171_5c_c_a",
+    "alias": [
+        "A10B2C_hP39_171_5c_c_a"
+    ],
     "title": "Sr[S$_{2}$O$_{6}$][H$_{2}$O]$_{4}$ Structure",
     "icsd": "2933",
     "ccdc": null,

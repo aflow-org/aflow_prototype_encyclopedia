@@ -1,7 +1,9 @@
 {
     "uid": "F4G8",
     "label": "AB_cP16_205_c_c-001",
-    "alias": "AB_cP16_205_c_c",
+    "alias": [
+        "AB_cP16_205_c_c"
+    ],
     "title": "SC16 (CuCl) Structure",
     "icsd": "78271",
     "ccdc": null,

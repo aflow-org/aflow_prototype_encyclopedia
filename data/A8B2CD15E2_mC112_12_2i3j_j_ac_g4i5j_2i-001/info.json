@@ -1,7 +1,9 @@
 {
     "uid": "KYS8",
     "label": "A8B2CD15E2_mC112_12_2i3j_j_ac_g4i5j_2i-001",
-    "alias": "A8B2CD15E2_mC112_12_2i3j_j_ad_g4i5j_2i",
+    "alias": [
+        "A8B2CD15E2_mC112_12_2i3j_j_ad_g4i5j_2i"
+    ],
     "title": "Manganese-leonite [K$_{2}$Mn(SO$_{4}$)$_{2}\\cdot$4H$_{2}$O, $H4_{23}$] Structure",
     "icsd": "92700",
     "ccdc": null,

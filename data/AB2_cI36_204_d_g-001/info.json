@@ -1,7 +1,9 @@
 {
     "uid": "XJC7",
     "label": "AB2_cI36_204_d_g-001",
-    "alias": "AB2_cI36_204_d_g",
+    "alias": [
+        "AB2_cI36_204_d_g"
+    ],
     "title": "Modern $C26$ (NO$_{2}$) Structure",
     "icsd": "201140",
     "ccdc": null,

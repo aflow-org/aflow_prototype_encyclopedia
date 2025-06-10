@@ -1,7 +1,9 @@
 {
     "uid": "BL96",
     "label": "A3BC_hP10_188_k_a_c-001",
-    "alias": "A3BC_hP10_188_k_c_a",
+    "alias": [
+        "A3BC_hP10_188_k_c_a"
+    ],
     "title": "LiScI$_{3}$ Structure",
     "icsd": "73339",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "3DEV",
     "label": "A18B2C3_cF184_227_fg_d_ac-001",
-    "alias": "A18B2C3_cF184_227_fg_d_ac",
+    "alias": [
+        "A18B2C3_cF184_227_fg_d_ac"
+    ],
     "title": "Mg$_{3}$Cr$_{2}$Al$_{18}$ Structure",
     "icsd": "57659",
     "ccdc": null,

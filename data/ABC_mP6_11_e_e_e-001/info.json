@@ -1,9 +1,11 @@
 {
     "uid": "LNCX",
     "label": "ABC_mP6_11_e_e_e-001",
-    "alias": "ABC_mP6_11_e_e_e",
+    "alias": [
+        "ABC_mP6_11_e_e_e"
+    ],
     "title": "YO(OH) Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "HO2Y",
     "prototype_tex": "HO$_{2}$Y",

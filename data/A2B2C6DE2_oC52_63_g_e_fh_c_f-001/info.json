@@ -1,7 +1,9 @@
 {
     "uid": "RZ26",
     "label": "A2B2C6DE2_oC52_63_g_e_fh_c_f-001",
-    "alias": "A2B2C6DE2_oC52_63_g_e_fh_c_f",
+    "alias": [
+        "A2B2C6DE2_oC52_63_g_e_fh_c_f"
+    ],
     "title": "Cu$_{2}$Pb(SeO$_{3}$)$_{2}$Br$_{2}$ Structure",
     "icsd": "130954",
     "ccdc": null,

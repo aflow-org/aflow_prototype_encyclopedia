@@ -1,7 +1,9 @@
 {
     "uid": "PDHZ",
     "label": "A7B3C2_tI24_139_aeg_be_e-001",
-    "alias": "A7B3C2_tI24_139_aeg_be_e",
+    "alias": [
+        "A7B3C2_tI24_139_aeg_be_e"
+    ],
     "title": "Sr$_{3}$Ti$_{2}$O$_{7}$ Structure",
     "icsd": "34629",
     "ccdc": null,

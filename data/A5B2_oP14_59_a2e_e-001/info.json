@@ -1,7 +1,9 @@
 {
     "uid": "KZMB",
     "label": "A5B2_oP14_59_a2e_e-001",
-    "alias": "A5B2_oP14_59_a2f_f",
+    "alias": [
+        "A5B2_oP14_59_a2f_f"
+    ],
     "title": "Shcherbinaite (V$_{2}$O$_{5}$) Structure ({\\em Revised})",
     "icsd": "60767",
     "ccdc": null,

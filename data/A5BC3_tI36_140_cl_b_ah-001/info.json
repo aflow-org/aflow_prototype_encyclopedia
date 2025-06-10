@@ -1,7 +1,9 @@
 {
     "uid": "GHEH",
     "label": "A5BC3_tI36_140_cl_b_ah-001",
-    "alias": "A5BC3_tI36_140_cl_b_ah",
+    "alias": [
+        "A5BC3_tI36_140_cl_b_ah"
+    ],
     "title": "Cs$_{3}$CoCl$_{5}$ ($K3_{1}$) Structure",
     "icsd": "14087",
     "ccdc": null,

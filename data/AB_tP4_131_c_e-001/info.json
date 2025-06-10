@@ -1,7 +1,9 @@
 {
     "uid": "8GEP",
     "label": "AB_tP4_131_c_e-001",
-    "alias": "AB_tP4_131_c_e",
+    "alias": [
+        "AB_tP4_131_c_e"
+    ],
     "title": "Cooperite (PtS, $B17$) Structure",
     "icsd": "654379",
     "ccdc": null,

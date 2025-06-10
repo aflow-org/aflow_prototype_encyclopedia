@@ -1,9 +1,9 @@
 {
     "uid": "2016",
     "label": "AB6C_cF32_225_a_e_b-001",
-    "alias": "AB6C_cF32_225_a_e_b-001",
+    "alias": null,
     "title": "$\\alpha$'-CuZrF$_{6}$ Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "CuF6Zr",
     "prototype_tex": "CuF$_{6}$Zr",

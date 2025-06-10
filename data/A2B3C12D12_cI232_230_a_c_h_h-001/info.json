@@ -1,7 +1,9 @@
 {
     "uid": "LL0W",
     "label": "A2B3C12D12_cI232_230_a_c_h_h-001",
-    "alias": "A2B3C12D12_cI232_230_a_c_h_h",
+    "alias": [
+        "A2B3C12D12_cI232_230_a_c_h_h"
+    ],
     "title": "Ca$_{3}$Al$_{2}$(OH)$_{12}$ ($J2_{3}$) Structure",
     "icsd": "62704",
     "ccdc": null,

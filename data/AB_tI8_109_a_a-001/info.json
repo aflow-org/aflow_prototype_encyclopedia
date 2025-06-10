@@ -1,7 +1,9 @@
 {
     "uid": "M2PT",
     "label": "AB_tI8_109_a_a-001",
-    "alias": "AB_tI8_109_a_a",
+    "alias": [
+        "AB_tI8_109_a_a"
+    ],
     "title": "NbAs Structure",
     "icsd": "16585",
     "ccdc": null,

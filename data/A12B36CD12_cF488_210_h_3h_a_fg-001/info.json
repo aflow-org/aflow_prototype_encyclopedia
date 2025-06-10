@@ -1,7 +1,9 @@
 {
     "uid": "X29X",
     "label": "A12B36CD12_cF488_210_h_3h_a_fg-001",
-    "alias": "A12B36CD12_cF488_210_h_3h_a_fg",
+    "alias": [
+        "A12B36CD12_cF488_210_h_3h_a_fg"
+    ],
     "title": "MgB$_{12}$H$_{12}$[H$_{2}$O]$_{12}$ Structure",
     "icsd": "413594",
     "ccdc": null,

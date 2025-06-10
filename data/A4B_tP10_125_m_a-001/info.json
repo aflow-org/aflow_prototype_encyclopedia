@@ -1,7 +1,9 @@
 {
     "uid": "0BXW",
     "label": "A4B_tP10_125_m_a-001",
-    "alias": "A4B_tP10_125_m_a",
+    "alias": [
+        "A4B_tP10_125_m_a"
+    ],
     "title": "PtPb$_{4}$ ($D1_{d}$) Structure",
     "icsd": "648397",
     "ccdc": null,

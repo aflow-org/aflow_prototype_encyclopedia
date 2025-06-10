@@ -1,7 +1,9 @@
 {
     "uid": "PZ2V",
     "label": "A2B4C_cP56_198_ab_2a2b_2a-001",
-    "alias": "A2B4C_cP56_198_ab_2a2b_2a",
+    "alias": [
+        "A2B4C_cP56_198_ab_2a2b_2a"
+    ],
     "title": "Cubic Cu$_{2}$OSeO$_{3}$ Structure",
     "icsd": "60652",
     "ccdc": null,

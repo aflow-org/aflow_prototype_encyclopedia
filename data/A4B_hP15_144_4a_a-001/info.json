@@ -1,7 +1,9 @@
 {
     "uid": "0VM9",
     "label": "A4B_hP15_144_4a_a-001",
-    "alias": "A4B_hP15_144_4a_a",
+    "alias": [
+        "A4B_hP15_144_4a_a"
+    ],
     "title": "IrGe$_{4}$ Structure",
     "icsd": "197310",
     "ccdc": null,

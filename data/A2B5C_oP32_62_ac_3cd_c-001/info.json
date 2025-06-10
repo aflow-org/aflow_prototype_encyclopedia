@@ -1,7 +1,9 @@
 {
     "uid": "XCRT",
     "label": "A2B5C_oP32_62_ac_3cd_c-001",
-    "alias": "A2B5C_oP32_62_bc_3cd_c",
+    "alias": [
+        "A2B5C_oP32_62_bc_3cd_c"
+    ],
     "title": "Sillimanite (Al$_{2}$SiO$_{5}$, $S0_{3}$) Structure",
     "icsd": "85200",
     "ccdc": null,

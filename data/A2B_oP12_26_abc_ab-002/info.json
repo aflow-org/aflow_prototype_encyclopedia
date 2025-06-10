@@ -1,7 +1,9 @@
 {
     "uid": "2MYY",
     "label": "A2B_oP12_26_abc_ab-002",
-    "alias": "A2B_oP12_26_abc_ab.SeO2",
+    "alias": [
+        "A2B_oP12_26_abc_ab.SeO2"
+    ],
     "title": "$\\beta$-SeO$_{2}$ Structure",
     "icsd": "99464",
     "ccdc": null,

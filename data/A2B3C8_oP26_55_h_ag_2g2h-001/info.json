@@ -1,7 +1,9 @@
 {
     "uid": "X0K9",
     "label": "A2B3C8_oP26_55_h_ag_2g2h-001",
-    "alias": "A2B3C8_oP26_55_h_ag_2g2h",
+    "alias": [
+        "A2B3C8_oP26_55_h_ag_2g2h"
+    ],
     "title": "Nb$_{2}$Pd$_{3}$Se$_{8}$ Structure",
     "icsd": "49523",
     "ccdc": null,

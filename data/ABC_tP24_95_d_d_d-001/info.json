@@ -1,7 +1,9 @@
 {
     "uid": "8RZF",
     "label": "ABC_tP24_95_d_d_d-001",
-    "alias": "ABC_tP24_95_d_d_d",
+    "alias": [
+        "ABC_tP24_95_d_d_d"
+    ],
     "title": "ThBC Structure",
     "icsd": "2368",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "A9SX",
     "label": "AB2_oP24_28_acd_2c3d-001",
-    "alias": "AB2_oP24_28_acd_2c3d",
+    "alias": [
+        "AB2_oP24_28_acd_2c3d"
+    ],
     "title": "Krennerite (AuTe$_{2}$) Structure",
     "icsd": "612391",
     "ccdc": null,

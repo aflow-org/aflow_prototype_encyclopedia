@@ -1,7 +1,9 @@
 {
     "uid": "F7Y6",
     "label": "AB5_hP6_191_a_cg-001",
-    "alias": "AB5_hP6_191_a_cg",
+    "alias": [
+        "AB5_hP6_191_a_cg"
+    ],
     "title": "CaCu$_{5}$ ($D2_{d}$) Structure",
     "icsd": "58882",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "X5ZH",
     "label": "AB2_hP6_194_c_ad-001",
-    "alias": "AB2_hP6_194_c_ad",
+    "alias": [
+        "AB2_hP6_194_c_ad"
+    ],
     "title": "InNi$_{2}$ ($B8_{2}$) Structure",
     "icsd": "59436",
     "ccdc": null,

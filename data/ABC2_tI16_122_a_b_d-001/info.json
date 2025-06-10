@@ -1,7 +1,9 @@
 {
     "uid": "XWJF",
     "label": "ABC2_tI16_122_a_b_d-001",
-    "alias": "ABC2_tI16_122_a_b_d",
+    "alias": [
+        "ABC2_tI16_122_a_b_d"
+    ],
     "title": "Chalcopyrite (CuFeS$_{2}$, $E1_{1}$) Structure",
     "icsd": "2518",
     "ccdc": null,

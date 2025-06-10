@@ -1,7 +1,9 @@
 {
     "uid": "TDY8",
     "label": "A2B_hP18_180_fj_ac-001",
-    "alias": "A2B_hP18_180_fi_bd",
+    "alias": [
+        "A2B_hP18_180_fi_bd"
+    ],
     "title": "Mg$_{2}$Ni ($C_{a}$) Structure",
     "icsd": "104912",
     "ccdc": null,

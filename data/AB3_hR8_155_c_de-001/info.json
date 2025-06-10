@@ -1,7 +1,9 @@
 {
     "uid": "QG2U",
     "label": "AB3_hR8_155_c_de-001",
-    "alias": "AB3_hR8_155_c_de",
+    "alias": [
+        "AB3_hR8_155_c_de"
+    ],
     "title": "AlF$_{3}$ ($D0_{14}$) Structure",
     "icsd": "30274",
     "ccdc": null,

@@ -1,9 +1,11 @@
 {
     "uid": "KCMH",
     "label": "AB3_oC16_20_a_bc-001",
-    "alias": "AB3_oC16_20_a_bc",
+    "alias": [
+        "AB3_oC16_20_a_bc"
+    ],
     "title": "$D0_{7}$ (CrO$_{3}$) Structure ({\\em Obsolete})",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "CrO3",
     "prototype_tex": "CrO$_{3}$",

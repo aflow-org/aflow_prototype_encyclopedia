@@ -1,7 +1,9 @@
 {
     "uid": "3A9R",
     "label": "AB_hR2_166_a_b-001",
-    "alias": "AB_hR2_166_a_b",
+    "alias": [
+        "AB_hR2_166_a_b"
+    ],
     "title": "Rhombohedral CuPt ($L1_{1}$) Structure",
     "icsd": "107118",
     "ccdc": null,

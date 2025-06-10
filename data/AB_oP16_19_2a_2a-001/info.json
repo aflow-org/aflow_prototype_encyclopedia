@@ -1,7 +1,9 @@
 {
     "uid": "MEBJ",
     "label": "AB_oP16_19_2a_2a-001",
-    "alias": "AB_oP16_19_2a_2a",
+    "alias": [
+        "AB_oP16_19_2a_2a"
+    ],
     "title": "NaP Structure",
     "icsd": "14009",
     "ccdc": null,

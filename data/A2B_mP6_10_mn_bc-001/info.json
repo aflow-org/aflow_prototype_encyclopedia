@@ -1,7 +1,9 @@
 {
     "uid": "ZWXH",
     "label": "A2B_mP6_10_mn_bc-001",
-    "alias": "A2B_mP6_10_mn_bg",
+    "alias": [
+        "A2B_mP6_10_mn_bg"
+    ],
     "title": "$\\delta$-Pd$_{2}$Cl Structure",
     "icsd": "421220",
     "ccdc": null,

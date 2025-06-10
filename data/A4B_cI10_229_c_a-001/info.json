@@ -1,7 +1,9 @@
 {
     "uid": "78LF",
     "label": "A4B_cI10_229_c_a-001",
-    "alias": "A4B_cI10_229_c_a",
+    "alias": [
+        "A4B_cI10_229_c_a"
+    ],
     "title": "$\\beta$-Hg$_{4}$Pt Structure",
     "icsd": "150772",
     "ccdc": null,

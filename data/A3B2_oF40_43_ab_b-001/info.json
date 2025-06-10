@@ -1,7 +1,9 @@
 {
     "uid": "7D48",
     "label": "A3B2_oF40_43_ab_b-001",
-    "alias": "A3B2_oF40_43_ab_b",
+    "alias": [
+        "A3B2_oF40_43_ab_b"
+    ],
     "title": "Zr$_{2}$Al$_{3}$ Structure",
     "icsd": "58233",
     "ccdc": null,

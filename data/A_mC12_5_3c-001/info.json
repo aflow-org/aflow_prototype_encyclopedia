@@ -1,7 +1,9 @@
 {
     "uid": "FECP",
     "label": "A_mC12_5_3c-001",
-    "alias": "A_mC12_5_3c",
+    "alias": [
+        "A_mC12_5_3c"
+    ],
     "title": "$A19$ Po Structure ({\\em Obsolete})",
     "icsd": "31684",
     "ccdc": null,

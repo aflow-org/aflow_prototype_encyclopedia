@@ -1,7 +1,9 @@
 {
     "uid": "S9KY",
     "label": "A14BC11D_oP108_19_14a_a_11a_a-001",
-    "alias": "A14BC11D_oP108_19_14a_a_11a_a",
+    "alias": [
+        "A14BC11D_oP108_19_14a_a_11a_a"
+    ],
     "title": "Morenosite (NiSO$_{4}\\cdot$7H$_{2}$O, $H4_{12}$) Structure",
     "icsd": "84569",
     "ccdc": null,

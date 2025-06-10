@@ -1,7 +1,9 @@
 {
     "uid": "MMVG",
     "label": "AB4C_hR6_166_a_2c_b-001",
-    "alias": "AB4C_hR6_166_b_2c_a",
+    "alias": [
+        "AB4C_hR6_166_b_2c_a"
+    ],
     "title": "CaUO$_{4}$ Structure",
     "icsd": "23195",
     "ccdc": null,

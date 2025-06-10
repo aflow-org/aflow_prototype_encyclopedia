@@ -1,7 +1,9 @@
 {
     "uid": "XHKF",
     "label": "A3BC_mC10_8_ab_a_a-001",
-    "alias": "A3BC_mC10_8_ab_a_a",
+    "alias": [
+        "A3BC_mC10_8_ab_a_a"
+    ],
     "title": "Monoclinic PZT [Pb(Zr$_{x}$Ti$_{1-x}$)O$_{3}$] Structure",
     "icsd": "92061",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "EE97",
     "label": "A12B7C2_hP21_174_2j2k_ajk_cf-001",
-    "alias": "A12B7C2_hP21_174_2j2k_ajk_cf",
+    "alias": [
+        "A12B7C2_hP21_174_2j2k_ajk_cf"
+    ],
     "title": "Fe$_{12}$Zr$_{2}$P$_{7}$ Structure",
     "icsd": "25757",
     "ccdc": null,

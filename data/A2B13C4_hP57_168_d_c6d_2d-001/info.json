@@ -1,7 +1,9 @@
 {
     "uid": "6140",
     "label": "A2B13C4_hP57_168_d_c6d_2d-001",
-    "alias": "A2B13C4_hP57_168_d_c6d_2d",
+    "alias": [
+        "A2B13C4_hP57_168_d_c6d_2d"
+    ],
     "title": "K$_{2}$Ta$_{4}$O$_{9}$F$_{4}$ Structure",
     "icsd": "8204",
     "ccdc": null,

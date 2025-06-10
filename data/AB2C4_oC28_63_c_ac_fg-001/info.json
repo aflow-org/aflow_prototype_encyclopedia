@@ -1,7 +1,9 @@
 {
     "uid": "A786",
     "label": "AB2C4_oC28_63_c_ac_fg-001",
-    "alias": "AB2C4_oC28_63_c_bc_fg",
+    "alias": [
+        "AB2C4_oC28_63_c_bc_fg"
+    ],
     "title": "Na$_{2}$CrO$_{4}$ ($H1_{8}$) Structure",
     "icsd": "76001",
     "ccdc": null,

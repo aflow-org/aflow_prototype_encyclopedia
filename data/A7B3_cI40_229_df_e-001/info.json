@@ -1,7 +1,9 @@
 {
     "uid": "9SK5",
     "label": "A7B3_cI40_229_df_e-001",
-    "alias": "A7B3_cI40_229_df_e",
+    "alias": [
+        "A7B3_cI40_229_df_e"
+    ],
     "title": "Ir$_{3}$Ge$_{7}$ ($D8_{f}$) Structure",
     "icsd": "408313",
     "ccdc": null,

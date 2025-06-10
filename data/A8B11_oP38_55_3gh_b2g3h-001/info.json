@@ -1,7 +1,9 @@
 {
     "uid": "6FNW",
     "label": "A8B11_oP38_55_3gh_b2g3h-001",
-    "alias": "A8B11_oP38_55_g3h_a3g2h",
+    "alias": [
+        "A8B11_oP38_55_g3h_a3g2h"
+    ],
     "title": "Ru$_{11}$B$_{8}$ Structure",
     "icsd": "43663",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "M1ZX",
     "label": "A3B2_cI40_220_d_c-001",
-    "alias": "A3B2_cI40_220_d_c",
+    "alias": [
+        "A3B2_cI40_220_d_c"
+    ],
     "title": "Pu$_{2}$C$_{3}$ ($D5_{c}$) Structure",
     "icsd": "16511",
     "ccdc": null,

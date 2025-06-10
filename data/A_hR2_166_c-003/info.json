@@ -1,7 +1,9 @@
 {
     "uid": "KTH0",
     "label": "A_hR2_166_c-003",
-    "alias": "A_hR2_166_c.beta-O",
+    "alias": [
+        "A_hR2_166_c.beta-O"
+    ],
     "title": "$\\beta$-O$_{2}$ Structure",
     "icsd": "173934",
     "ccdc": null,

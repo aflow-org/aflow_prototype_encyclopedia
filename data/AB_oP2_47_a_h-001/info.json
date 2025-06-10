@@ -1,9 +1,9 @@
 {
     "uid": "JM3Q",
     "label": "AB_oP2_47_a_h-001",
-    "alias": "AB_oP2_47_a_h-001",
+    "alias": null,
     "title": "AuMn Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "AuMn",
     "prototype_tex": "AuMn",

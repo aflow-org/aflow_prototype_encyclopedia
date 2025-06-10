@@ -1,7 +1,9 @@
 {
     "uid": "JDN7",
     "label": "A18B10C_tP116_130_2c4g_2c2g_a-001",
-    "alias": "A18B10C_tP116_130_2c4g_2c2g_a",
+    "alias": [
+        "A18B10C_tP116_130_2c4g_2c2g_a"
+    ],
     "title": "Sr(OH)$_{2}$(H$_{2}$O)$_{8}$ Structure",
     "icsd": "170827",
     "ccdc": null,

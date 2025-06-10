@@ -1,7 +1,9 @@
 {
     "uid": "776H",
     "label": "A3B9CD9_hP44_186_c_3c_b_cd-001",
-    "alias": "A3B9CD9_hP44_186_c_3c_b_cd",
+    "alias": [
+        "A3B9CD9_hP44_186_c_3c_b_cd"
+    ],
     "title": "Nd(BrO$_{3}$)$_{3}\\cdot$9H$_{2}$O ($G2_{2}$) Structure",
     "icsd": "26601",
     "ccdc": null,

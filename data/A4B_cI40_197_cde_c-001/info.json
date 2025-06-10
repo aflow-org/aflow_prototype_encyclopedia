@@ -1,7 +1,9 @@
 {
     "uid": "PBV9",
     "label": "A4B_cI40_197_cde_c-001",
-    "alias": "A4B_cI40_197_cde_c",
+    "alias": [
+        "A4B_cI40_197_cde_c"
+    ],
     "title": "Ga$_{4}$Ni Structure",
     "icsd": "103863",
     "ccdc": null,

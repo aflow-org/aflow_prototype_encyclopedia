@@ -1,7 +1,9 @@
 {
     "uid": "TLFW",
     "label": "A4BC4D_tI40_122_e_b_e_a-001",
-    "alias": "A4BC4D_tI40_122_e_b_e_a",
+    "alias": [
+        "A4BC4D_tI40_122_e_b_e_a"
+    ],
     "title": "KH$_{2}$PO$_{4}$ ($H2_{2}$) Structure",
     "icsd": "201370",
     "ccdc": null,

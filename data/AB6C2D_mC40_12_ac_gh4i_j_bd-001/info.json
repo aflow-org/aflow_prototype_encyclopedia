@@ -1,7 +1,9 @@
 {
     "uid": "79Y1",
     "label": "AB6C2D_mC40_12_ac_gh4i_j_bd-001",
-    "alias": "AB6C2D_mC40_12_ad_gh4i_j_bc",
+    "alias": [
+        "AB6C2D_mC40_12_ad_gh4i_j_bc"
+    ],
     "title": "Sr$_{2}$NiTeO$_{6}$ Structure",
     "icsd": "91792",
     "ccdc": null,

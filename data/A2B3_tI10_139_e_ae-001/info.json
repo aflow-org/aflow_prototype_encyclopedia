@@ -1,7 +1,9 @@
 {
     "uid": "5STC",
     "label": "A2B3_tI10_139_e_ae-001",
-    "alias": "A2B3_tI10_139_e_ae",
+    "alias": [
+        "A2B3_tI10_139_e_ae"
+    ],
     "title": "Au$_{2}$Nb$_{3}$ Structure",
     "icsd": "58559",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "T15Z",
     "label": "A2B3_hP60_194_3fk_cdef2k-001",
-    "alias": "A2B3_hP60_194_3fk_cdef2k",
+    "alias": [
+        "A2B3_hP60_194_3fk_cdef2k"
+    ],
     "title": "$\\beta$-Alumina ($D5_{6}$, Al$_{2}$O$_{3}$) Structure",
     "icsd": "24226",
     "ccdc": null,

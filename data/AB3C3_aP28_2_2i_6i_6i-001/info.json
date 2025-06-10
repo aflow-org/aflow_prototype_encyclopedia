@@ -1,7 +1,9 @@
 {
     "uid": "H1GD",
     "label": "AB3C3_aP28_2_2i_6i_6i-001",
-    "alias": "AB3C3_aP28_2_2i_6i_6i",
+    "alias": [
+        "AB3C3_aP28_2_2i_6i_6i"
+    ],
     "title": "Boric Acid (H$_{3}$BO$_{3}$, $G5_{1}$) Structure",
     "icsd": "52290",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "QHEE",
     "label": "A2B_mC48_15_ae3f_2f-001",
-    "alias": "A2B_mC48_15_ae3f_2f",
+    "alias": [
+        "A2B_mC48_15_ae3f_2f"
+    ],
     "title": "Coesite (SiO$_{2}$) Structure",
     "icsd": "100749",
     "ccdc": null,

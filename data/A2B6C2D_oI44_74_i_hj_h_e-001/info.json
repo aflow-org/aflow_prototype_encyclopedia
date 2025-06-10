@@ -1,7 +1,9 @@
 {
     "uid": "XWSU",
     "label": "A2B6C2D_oI44_74_i_hj_h_e-001",
-    "alias": "A2B6C2D_oI44_74_h_ij_i_e",
+    "alias": [
+        "A2B6C2D_oI44_74_h_ij_i_e"
+    ],
     "title": "Zn(NH$_{3}$)$_{2}$Cl$_{2}$ ($E1_{2}$) Structure",
     "icsd": "140642",
     "ccdc": null,

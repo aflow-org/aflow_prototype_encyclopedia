@@ -1,9 +1,11 @@
 {
     "uid": "H691",
     "label": "AB_oF8_22_a_c-001",
-    "alias": "AB_oF8_22_a_c",
+    "alias": [
+        "AB_oF8_22_a_c"
+    ],
     "title": "Low temperature FeS Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "FeS",
     "prototype_tex": "FeS",

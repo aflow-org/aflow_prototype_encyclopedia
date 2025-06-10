@@ -1,7 +1,9 @@
 {
     "uid": "9AGN",
     "label": "A5B3_oC32_63_cfg_ce-001",
-    "alias": "A5B3_oC32_63_cfg_ce",
+    "alias": [
+        "A5B3_oC32_63_cfg_ce"
+    ],
     "title": "Pd$_{5}$Pu$_{3}$ Structure",
     "icsd": "350",
     "ccdc": null,

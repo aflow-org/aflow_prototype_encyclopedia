@@ -1,9 +1,9 @@
 {
     "uid": "JWKX",
     "label": "ABC2_mC24_12_ah_cg_ij-001",
-    "alias": "ABC2_mC24_12_ah_cg_ij-001",
+    "alias": null,
     "title": "Predicted $\\zeta$-LiAlO$_{2}$ Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "AlLiO2",
     "prototype_tex": "AlLiO$_{2}$",

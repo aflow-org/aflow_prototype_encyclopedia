@@ -1,7 +1,9 @@
 {
     "uid": "8BYU",
     "label": "AB4C2_hR28_166_2c_2c2h_abh-001",
-    "alias": "AB4C2_hR28_166_2c_2c2h_abh",
+    "alias": [
+        "AB4C2_hR28_166_2c_2c2h_abh"
+    ],
     "title": "Rhombohedral CuTi$_{2}$S$_{4}$ Structure",
     "icsd": "170228",
     "ccdc": null,

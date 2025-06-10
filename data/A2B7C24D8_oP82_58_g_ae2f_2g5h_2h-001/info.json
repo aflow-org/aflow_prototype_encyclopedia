@@ -1,7 +1,9 @@
 {
     "uid": "APMF",
     "label": "A2B7C24D8_oP82_58_g_ae2f_2g5h_2h-001",
-    "alias": "A2B7C24D8_oP82_58_g_ae2f_2g5h_2h",
+    "alias": [
+        "A2B7C24D8_oP82_58_g_ae2f_2g5h_2h"
+    ],
     "title": "Protoanthophyllite (H$_{2}$Mg$_{7}$Si$_{8}$O$_{24}$) Structure",
     "icsd": "98791",
     "ccdc": null,

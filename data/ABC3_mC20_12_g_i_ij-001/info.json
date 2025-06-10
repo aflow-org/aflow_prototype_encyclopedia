@@ -1,7 +1,9 @@
 {
     "uid": "UPGR",
     "label": "ABC3_mC20_12_g_i_ij-001",
-    "alias": "ABC3_mC20_12_g_i_ij",
+    "alias": [
+        "ABC3_mC20_12_g_i_ij"
+    ],
     "title": "MnPS$_{3}$ Structure",
     "icsd": "61391",
     "ccdc": null,

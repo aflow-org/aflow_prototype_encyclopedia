@@ -1,7 +1,9 @@
 {
     "uid": "Q8EL",
     "label": "ABC_hP3_183_a_a_a-001",
-    "alias": "ABC_hP3_183_a_a_a",
+    "alias": [
+        "ABC_hP3_183_a_a_a"
+    ],
     "title": "AuCN Structure",
     "icsd": "165175",
     "ccdc": null,

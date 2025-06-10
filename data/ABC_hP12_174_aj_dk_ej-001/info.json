@@ -1,7 +1,9 @@
 {
     "uid": "4BHM",
     "label": "ABC_hP12_174_aj_dk_ej-001",
-    "alias": "ABC_hP12_174_cj_fk_aj",
+    "alias": [
+        "ABC_hP12_174_cj_fk_aj"
+    ],
     "title": "GdSI Structure",
     "icsd": "59203",
     "ccdc": null,

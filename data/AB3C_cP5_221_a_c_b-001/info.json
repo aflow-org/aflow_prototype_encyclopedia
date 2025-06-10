@@ -1,7 +1,9 @@
 {
     "uid": "QUKL",
     "label": "AB3C_cP5_221_a_c_b-001",
-    "alias": "AB3C_cP5_221_a_c_b",
+    "alias": [
+        "AB3C_cP5_221_a_c_b"
+    ],
     "title": "Cubic Perovskite (CaTiO$_{3}$, $E2_{1}$) Structure",
     "icsd": "31865",
     "ccdc": null,

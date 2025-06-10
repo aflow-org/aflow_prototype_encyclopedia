@@ -1,7 +1,9 @@
 {
     "uid": "V35A",
     "label": "AB2C4_tI14_139_a_e_ce-001",
-    "alias": "AB2C4_tI14_139_a_e_ce",
+    "alias": [
+        "AB2C4_tI14_139_a_e_ce"
+    ],
     "title": "0201 [(La,Ba)$_{2}$CuO$_{4}$] High-$T_{c}$ Structure",
     "icsd": "68379",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "HV5V",
     "label": "AB2_hP24_194_ef_fgh-001",
-    "alias": "AB2_hP24_194_ef_fgh",
+    "alias": [
+        "AB2_hP24_194_ef_fgh"
+    ],
     "title": "MgNi$_{2}$ Hexagonal Laves ($C36$) Structure",
     "icsd": "104838",
     "ccdc": null,

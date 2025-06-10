@@ -1,7 +1,9 @@
 {
     "uid": "QV5K",
     "label": "A21B_cI44_229_bdh_a-001",
-    "alias": "A21B_cI44_229_bdh_a",
+    "alias": [
+        "A21B_cI44_229_bdh_a"
+    ],
     "title": "$\\alpha$-AgI ($B23$) Structure",
     "icsd": "33262",
     "ccdc": null,

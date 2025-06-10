@@ -1,7 +1,9 @@
 {
     "uid": "3VYY",
     "label": "A29B40CD12_cF656_227_ae2fg_e3g_b_g-001",
-    "alias": "A29B40CD12_cF656_227_ae2fg_e3g_b_g",
+    "alias": [
+        "A29B40CD12_cF656_227_ae2fg_e3g_b_g"
+    ],
     "title": "H$_{3}$PW$_{12}$O$_{40}\\cdot$29H$_{2}$O ($H4_{21}$) Structure",
     "icsd": "36274",
     "ccdc": null,

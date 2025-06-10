@@ -1,7 +1,9 @@
 {
     "uid": "68SX",
     "label": "A2B3_tP40_137_cdf_3g-001",
-    "alias": "A2B3_tP40_137_cdf_3g",
+    "alias": [
+        "A2B3_tP40_137_cdf_3g"
+    ],
     "title": "Zn$_{3}$P$_{2}$ ($D5_{9}$) Structure",
     "icsd": "26876",
     "ccdc": null,

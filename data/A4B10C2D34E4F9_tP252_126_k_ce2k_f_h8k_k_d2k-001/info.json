@@ -1,7 +1,9 @@
 {
     "uid": "QSJ3",
     "label": "A4B10C2D34E4F9_tP252_126_k_ce2k_f_h8k_k_d2k-001",
-    "alias": "A4B10C2D34E4F9_tP252_126_k_ce2k_f_h8k_k_d2k",
+    "alias": [
+        "A4B10C2D34E4F9_tP252_126_k_ce2k_f_h8k_k_d2k"
+    ],
     "title": "Vesuvianite (Ca$_{10}$Al$_{4}$(Mg,Fe)$_{2}$Si$_{9}$O$_{34}$(OH)$_{4}$, $S2_{3}$) Structure",
     "icsd": "36198",
     "ccdc": null,

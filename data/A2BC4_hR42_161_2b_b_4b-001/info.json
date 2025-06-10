@@ -1,7 +1,9 @@
 {
     "uid": "UFMT",
     "label": "A2BC4_hR42_161_2b_b_4b-001",
-    "alias": "A2BC4_hR42_161_2b_b_4b",
+    "alias": [
+        "A2BC4_hR42_161_2b_b_4b"
+    ],
     "title": "$\\alpha$-BaB$_{2}$O$_{4}$ (Low Temperature) Structure",
     "icsd": "30885",
     "ccdc": null,

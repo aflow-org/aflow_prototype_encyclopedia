@@ -1,7 +1,9 @@
 {
     "uid": "QM6B",
     "label": "AB_cP2_221_a_b-002",
-    "alias": "AB_cP2_221_b_a",
+    "alias": [
+        "AB_cP2_221_b_a"
+    ],
     "title": "CsCl ($B2$) Structure",
     "icsd": "622367",
     "ccdc": null,

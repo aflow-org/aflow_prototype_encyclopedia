@@ -1,7 +1,9 @@
 {
     "uid": "TXPE",
     "label": "ABC3_hR10_167_a_b_e-001",
-    "alias": "ABC3_hR10_167_a_b_e.LiNbO3",
+    "alias": [
+        "ABC3_hR10_167_a_b_e.LiNbO3"
+    ],
     "title": "Paraelectric LiNbO$_{3}$ Structure",
     "icsd": "81240",
     "ccdc": null,

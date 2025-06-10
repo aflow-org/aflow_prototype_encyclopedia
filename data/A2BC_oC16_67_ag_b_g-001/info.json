@@ -1,7 +1,9 @@
 {
     "uid": "08UR",
     "label": "A2BC_oC16_67_ag_b_g-001",
-    "alias": "A2BC_oC16_67_ag_b_g",
+    "alias": [
+        "A2BC_oC16_67_ag_b_g"
+    ],
     "title": "Al$_{2}$CuIr Structure",
     "icsd": "167666",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "5SVW",
     "label": "A8B2CD12E2_mC200_15_8f_2f_ae_2e11f_2f-001",
-    "alias": "A8B2CD12E2_mC200_15_8f_2f_ce_2e11f_2f",
+    "alias": [
+        "A8B2CD12E2_mC200_15_8f_2f_ce_2e11f_2f"
+    ],
     "title": "Manganese-leonite 185K [K$_{2}$Mn(SO$_{4}$)$_{2}\\cdot$4H$_{2}$O] Structure",
     "icsd": "92701",
     "ccdc": null,

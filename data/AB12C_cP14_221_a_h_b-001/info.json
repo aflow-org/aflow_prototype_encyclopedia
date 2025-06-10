@@ -1,7 +1,9 @@
 {
     "uid": "SQ16",
     "label": "AB12C_cP14_221_a_h_b-001",
-    "alias": "AB12C_cP14_221_a_h_b",
+    "alias": [
+        "AB12C_cP14_221_a_h_b"
+    ],
     "title": "Predicted High-Pressure YCaH$_{12}$ Structure",
     "icsd": "686726",
     "ccdc": null,

@@ -1,9 +1,11 @@
 {
     "uid": "N45M",
     "label": "A6B_hR7_166_f_b-001",
-    "alias": "A6B_hR7_166_g_a",
+    "alias": [
+        "A6B_hR7_166_g_a"
+    ],
     "title": "CaC$_{6}$ Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "CaC6",
     "prototype_tex": "CaC$_{6}$",

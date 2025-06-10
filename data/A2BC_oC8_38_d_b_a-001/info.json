@@ -1,7 +1,9 @@
 {
     "uid": "37DH",
     "label": "A2BC_oC8_38_d_b_a-001",
-    "alias": "A2BC_oC8_38_e_a_b",
+    "alias": [
+        "A2BC_oC8_38_e_a_b"
+    ],
     "title": "C$_{2}$CeNi Structure",
     "icsd": "20397",
     "ccdc": null,

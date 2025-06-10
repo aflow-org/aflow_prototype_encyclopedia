@@ -1,7 +1,9 @@
 {
     "uid": "8BR1",
     "label": "A2BC2_oC20_36_b_a_b-001",
-    "alias": "A2BC2_oC20_36_b_a_b",
+    "alias": [
+        "A2BC2_oC20_36_b_a_b"
+    ],
     "title": "Si$_{2}$N$_{2}$O Structure",
     "icsd": "34025",
     "ccdc": null,

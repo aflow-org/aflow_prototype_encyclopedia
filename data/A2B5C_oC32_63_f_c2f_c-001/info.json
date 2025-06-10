@@ -1,7 +1,9 @@
 {
     "uid": "NJWX",
     "label": "A2B5C_oC32_63_f_c2f_c-001",
-    "alias": "A2B5C_oC32_63_f_c2f_c",
+    "alias": [
+        "A2B5C_oC32_63_f_c2f_c"
+    ],
     "title": "Pseudobrookite (Fe$_{2}$TiO$_{5}$, $E4_{1}$) Structure",
     "icsd": "88380",
     "ccdc": null,

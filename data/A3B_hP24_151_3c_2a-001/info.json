@@ -1,7 +1,9 @@
 {
     "uid": "5EPG",
     "label": "A3B_hP24_151_3c_2a-001",
-    "alias": "A3B_hP24_151_3c_2a",
+    "alias": [
+        "A3B_hP24_151_3c_2a"
+    ],
     "title": "CrCl$_{3}$ ($D0_{4}$) Structure",
     "icsd": "33578",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "0UZV",
     "label": "A6B4C2D6E2FG6_mP54_14_3e_2e_e_3e_e_a_3e-001",
-    "alias": "A6B4C2D6E2FG6_mP54_14_3e_2e_e_3e_e_a_3e",
+    "alias": [
+        "A6B4C2D6E2FG6_mP54_14_3e_2e_e_3e_e_a_3e"
+    ],
     "title": "K$_{2}$Pt(SCN)$_{6} \\cdot$ 2H$_{2}$O Structure",
     "icsd": "74381",
     "ccdc": null,

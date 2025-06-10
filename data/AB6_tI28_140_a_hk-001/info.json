@@ -1,7 +1,9 @@
 {
     "uid": "1Q6T",
     "label": "AB6_tI28_140_a_hk-001",
-    "alias": "AB6_tI28_140_a_hk",
+    "alias": [
+        "AB6_tI28_140_a_hk"
+    ],
     "title": "U$_{6}$Mn ($D2_{c}$) Structure",
     "icsd": "150486",
     "ccdc": null,

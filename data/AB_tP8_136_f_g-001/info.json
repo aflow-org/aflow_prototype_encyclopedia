@@ -1,7 +1,9 @@
 {
     "uid": "FJT4",
     "label": "AB_tP8_136_f_g-001",
-    "alias": "AB_tP8_136_g_f",
+    "alias": [
+        "AB_tP8_136_g_f"
+    ],
     "title": "$\\beta$-BeO Structure",
     "icsd": "18147",
     "ccdc": null,

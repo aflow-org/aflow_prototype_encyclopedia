@@ -1,7 +1,9 @@
 {
     "uid": "9ZX1",
     "label": "A6B2C_tP72_103_abc5d_2d_abc-001",
-    "alias": "A6B2C_tP72_103_abc5d_2d_abc",
+    "alias": [
+        "A6B2C_tP72_103_abc5d_2d_abc"
+    ],
     "title": "VSe$_{2}$O$_{6}$ Structure",
     "icsd": "2354",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "HBLG",
     "label": "A2B5C_mP32_14_2e_5e_e-001",
-    "alias": "A2B5C_mP32_14_2e_5e_e",
+    "alias": [
+        "A2B5C_mP32_14_2e_5e_e"
+    ],
     "title": "Gd$_{2}$SiO$_{5}$ (RE$_{2}$SiO$_{5}$ X1) Structure",
     "icsd": "154796",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "Y9T0",
     "label": "AB4C_tI24_88_a_f_b-003",
-    "alias": "AB4C_tI24_88_b_f_a",
+    "alias": [
+        "AB4C_tI24_88_b_f_a"
+    ],
     "title": "Scheelite (CaWO$_{4}$, $H0_{4}$) Structure",
     "icsd": "60547",
     "ccdc": null,

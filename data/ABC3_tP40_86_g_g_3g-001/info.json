@@ -1,7 +1,9 @@
 {
     "uid": "9SQG",
     "label": "ABC3_tP40_86_g_g_3g-001",
-    "alias": "ABC3_tP40_86_g_g_3g",
+    "alias": [
+        "ABC3_tP40_86_g_g_3g"
+    ],
     "title": "$\\beta$-LiIO$_{3}$ Structure",
     "icsd": "2642",
     "ccdc": null,

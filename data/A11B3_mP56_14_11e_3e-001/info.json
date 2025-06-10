@@ -1,7 +1,9 @@
 {
     "uid": "2343",
     "label": "A11B3_mP56_14_11e_3e-001",
-    "alias": "A11B3_mP56_14_11e_3e",
+    "alias": [
+        "A11B3_mP56_14_11e_3e"
+    ],
     "title": "Cs$_{11}$O$_{3}$ Structure",
     "icsd": "1077",
     "ccdc": null,

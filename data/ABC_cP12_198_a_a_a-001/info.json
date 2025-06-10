@@ -1,7 +1,9 @@
 {
     "uid": "VHP8",
     "label": "ABC_cP12_198_a_a_a-001",
-    "alias": "ABC_cP12_198_a_a_a",
+    "alias": [
+        "ABC_cP12_198_a_a_a"
+    ],
     "title": "Ullmanite (NiSSb, $F0_{1}$) Structure",
     "icsd": "44606",
     "ccdc": null,

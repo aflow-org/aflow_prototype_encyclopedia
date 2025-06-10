@@ -1,7 +1,9 @@
 {
     "uid": "77Z6",
     "label": "A9B2C3_hP28_194_hk_f_bf-001",
-    "alias": "A9B2C3_hP28_194_hk_f_bf",
+    "alias": [
+        "A9B2C3_hP28_194_hk_f_bf"
+    ],
     "title": "Cs$_{3}$Cr$_{2}$Cl$_{9}$ Structure",
     "icsd": "16706",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "Y6TF",
     "label": "A_hR105_166_ac9h4i-001",
-    "alias": "A_hR105_166_bc9h4i",
+    "alias": [
+        "A_hR105_166_bc9h4i"
+    ],
     "title": "$\\beta$-B (R-105) Structure",
     "icsd": "14288",
     "ccdc": null,

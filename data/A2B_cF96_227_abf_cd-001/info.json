@@ -1,7 +1,9 @@
 {
     "uid": "UGWY",
     "label": "A2B_cF96_227_abf_cd-001",
-    "alias": "A2B_cF96_227_abf_cd",
+    "alias": [
+        "A2B_cF96_227_abf_cd"
+    ],
     "title": "$D6_{2}$ (Sb$_{2}$O$_{4}$, {\\em Obsolete}) Structure",
     "icsd": "24244",
     "ccdc": null,

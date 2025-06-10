@@ -1,7 +1,9 @@
 {
     "uid": "U8XN",
     "label": "AB30C16D3_cF200_225_a_ej_2f_bc-001",
-    "alias": "AB30C16D3_cF200_225_a_ej_2f_bc",
+    "alias": [
+        "AB30C16D3_cF200_225_a_ej_2f_bc"
+    ],
     "title": "(NH$_{4}$)$_{3}$AlF$_{6}$ ($J2_{1}$) Structure",
     "icsd": "412982",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "5KTQ",
     "label": "AB2_oP6_34_a_c-001",
-    "alias": "AB2_oP6_34_a_c",
+    "alias": [
+        "AB2_oP6_34_a_c"
+    ],
     "title": "FeSb$_{2}$ Structure",
     "icsd": "15003",
     "ccdc": null,

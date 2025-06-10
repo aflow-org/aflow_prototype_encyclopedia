@@ -1,7 +1,9 @@
 {
     "uid": "49UC",
     "label": "A2B_oP24_33_4a_2a-001",
-    "alias": "A2B_oP24_33_4a_2a",
+    "alias": [
+        "A2B_oP24_33_4a_2a"
+    ],
     "title": "Cervantite ($\\alpha$-Sb$_{2}$O$_{4}$) Structure",
     "icsd": "919",
     "ccdc": null,

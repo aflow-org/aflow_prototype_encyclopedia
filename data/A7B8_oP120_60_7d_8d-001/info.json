@@ -1,9 +1,11 @@
 {
     "uid": "7NVJ",
     "label": "A7B8_oP120_60_7d_8d-001",
-    "alias": "A7B8_oP120_60_7d_8d",
+    "alias": [
+        "A7B8_oP120_60_7d_8d"
+    ],
     "title": "$\\beta$-Toluene Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "C7H8",
     "prototype_tex": "C$_{7}$H$_{8}$",

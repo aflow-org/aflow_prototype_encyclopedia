@@ -1,7 +1,9 @@
 {
     "uid": "VX03",
     "label": "A5B2_hP28_194_ahk_ch-001",
-    "alias": "A5B2_hP28_194_ahk_ch",
+    "alias": [
+        "A5B2_hP28_194_ahk_ch"
+    ],
     "title": "Co$_{2}$Al$_{5}$ ($D8_{11}$) Structure",
     "icsd": "57597",
     "ccdc": null,

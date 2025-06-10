@@ -1,7 +1,9 @@
 {
     "uid": "UF5S",
     "label": "AB2CD_oC20_63_a_f_c_c-001",
-    "alias": "AB2CD_oC20_63_b_f_c_c",
+    "alias": [
+        "AB2CD_oC20_63_b_f_c_c"
+    ],
     "title": "ThFe$_{2}$SiC Structure",
     "icsd": "75133",
     "ccdc": null,

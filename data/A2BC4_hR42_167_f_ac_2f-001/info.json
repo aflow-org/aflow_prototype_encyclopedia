@@ -1,7 +1,9 @@
 {
     "uid": "RYPV",
     "label": "A2BC4_hR42_167_f_ac_2f-001",
-    "alias": "A2BC4_hR42_167_f_ac_2f",
+    "alias": [
+        "A2BC4_hR42_167_f_ac_2f"
+    ],
     "title": "$\\beta$-BaB$_{2}$O$_{4}$ (High Temperature) Structure",
     "icsd": "14376",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "VCTW",
     "label": "ABCD_tP8_129_b_c_a_c-001",
-    "alias": "ABCD_tP8_129_b_c_a_c",
+    "alias": [
+        "ABCD_tP8_129_b_c_a_c"
+    ],
     "title": "LaOAgS Structure",
     "icsd": "15530",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "Z0HT",
     "label": "A4BCD6_oP48_33_4a_a_a_6a-001",
-    "alias": "A4BCD6_oP48_33_4a_a_a_6a",
+    "alias": [
+        "A4BCD6_oP48_33_4a_a_a_6a"
+    ],
     "title": "CsB$_{4}$O$_{6}$F Structure",
     "icsd": null,
     "ccdc": "1551261",

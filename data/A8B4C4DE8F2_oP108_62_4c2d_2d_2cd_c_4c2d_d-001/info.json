@@ -1,9 +1,11 @@
 {
     "uid": "BH4W",
     "label": "A8B4C4DE8F2_oP108_62_4c2d_2d_2cd_c_4c2d_d-001",
-    "alias": "A8B4C4DE8F2_oP108_62_4c2d_2d_2cd_c_4c2d_d",
+    "alias": [
+        "A8B4C4DE8F2_oP108_62_4c2d_2d_2cd_c_4c2d_d"
+    ],
     "title": "K$_{4}$[Mo(CN)$_{8}$]$\\cdot$ 2H$_{2}$O ($F2_{1}$) Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "C8H4K4MoN8O2",
     "prototype_tex": "C$_{8}$H$_{4}$K$_{4}$MoN$_{8}$O$_{2}$",

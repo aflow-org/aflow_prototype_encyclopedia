@@ -1,7 +1,9 @@
 {
     "uid": "MFVM",
     "label": "AB2C4D_cP32_198_a_2a_ab_a-001",
-    "alias": "AB2C4D_cP32_198_a_2a_ab_a",
+    "alias": [
+        "AB2C4D_cP32_198_a_2a_ab_a"
+    ],
     "title": "Na$_{2}$CaSiO$_{4}$ ($S6_{6}$) Structure",
     "icsd": "24235",
     "ccdc": null,

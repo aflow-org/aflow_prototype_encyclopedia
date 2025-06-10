@@ -1,7 +1,9 @@
 {
     "uid": "Y0CA",
     "label": "AB_oP8_62_c_c-001",
-    "alias": "AB_oP8_62_c_c.GeS",
+    "alias": [
+        "AB_oP8_62_c_c.GeS"
+    ],
     "title": "GeS ($B16$) Structure",
     "icsd": "38165",
     "ccdc": null,

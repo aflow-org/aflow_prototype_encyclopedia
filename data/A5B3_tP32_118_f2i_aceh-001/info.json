@@ -1,7 +1,9 @@
 {
     "uid": "DCPJ",
     "label": "A5B3_tP32_118_f2i_aceh-001",
-    "alias": "A5B3_tP32_118_g2i_aceh",
+    "alias": [
+        "A5B3_tP32_118_g2i_aceh"
+    ],
     "title": "Ir$_{3}$Ga$_{5}$ Structure",
     "icsd": "103761",
     "ccdc": null,

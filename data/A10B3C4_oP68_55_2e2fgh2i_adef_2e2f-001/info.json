@@ -1,7 +1,9 @@
 {
     "uid": "PEKW",
     "label": "A10B3C4_oP68_55_2e2fgh2i_adef_2e2f-001",
-    "alias": "A10B3C4_oP68_55_2e2fgh2i_adef_2e2f",
+    "alias": [
+        "A10B3C4_oP68_55_2e2fgh2i_adef_2e2f"
+    ],
     "title": "Orthorhombic Sr$_{4}$Ru$_{3}$O$_{10}$ Structure",
     "icsd": "96729",
     "ccdc": null,

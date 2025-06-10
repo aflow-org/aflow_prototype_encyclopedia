@@ -1,9 +1,11 @@
 {
     "uid": "0FK1",
     "label": "AB2_hP9_156_2ab_a2b3c-001",
-    "alias": "AB2_hP9_156_b2c_3a2bc",
+    "alias": [
+        "AB2_hP9_156_b2c_3a2bc"
+    ],
     "title": "CdI$_{2}$ (Polytype 6H$_{1}$) Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "CdI2",
     "prototype_tex": "CdI$_{2}$",

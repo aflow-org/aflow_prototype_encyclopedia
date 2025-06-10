@@ -1,7 +1,9 @@
 {
     "uid": "PDN7",
     "label": "AB4C_hP6_191_a_h_b-001",
-    "alias": "AB4C_hP6_191_a_h_b",
+    "alias": [
+        "AB4C_hP6_191_a_h_b"
+    ],
     "title": "AlB$_{4}$Mg Structure",
     "icsd": "97224",
     "ccdc": null,

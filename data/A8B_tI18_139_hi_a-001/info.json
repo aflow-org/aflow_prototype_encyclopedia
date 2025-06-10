@@ -1,7 +1,9 @@
 {
     "uid": "XTZU",
     "label": "A8B_tI18_139_hi_a-001",
-    "alias": "A8B_tI18_139_hi_a",
+    "alias": [
+        "A8B_tI18_139_hi_a"
+    ],
     "title": "Pt$_{8}$Ti Structure",
     "icsd": "105818",
     "ccdc": null,

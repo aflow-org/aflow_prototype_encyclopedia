@@ -1,7 +1,9 @@
 {
     "uid": "NF0B",
     "label": "A5B12_oP68_60_c2d_6d-001",
-    "alias": "A5B12_oP68_60_c2d_6d",
+    "alias": [
+        "A5B12_oP68_60_c2d_6d"
+    ],
     "title": "Cr$_{5}$O$_{12}$ Structure",
     "icsd": "24299",
     "ccdc": null,

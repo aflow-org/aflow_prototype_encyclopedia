@@ -1,9 +1,11 @@
 {
     "uid": "80PK",
     "label": "ABC3_tP10_100_b_a_bc-001",
-    "alias": "ABC3_tP10_100_b_a_bc",
+    "alias": [
+        "ABC3_tP10_100_b_a_bc"
+    ],
     "title": "NH$_{4}$NO$_{3}$ II ($G0_{9}$) Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "N(NH4)O3",
     "prototype_tex": "N(NH$_{4}$)O$_{3}$",

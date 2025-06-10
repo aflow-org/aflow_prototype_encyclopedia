@@ -1,7 +1,9 @@
 {
     "uid": "NEW2",
     "label": "ABC2_hP8_194_c_a_f-007",
-    "alias": "ABC2_hP8_194_d_a_f",
+    "alias": [
+        "ABC2_hP8_194_d_a_f"
+    ],
     "title": "AlCCr$_{2}$ Structure",
     "icsd": "42918",
     "ccdc": null,

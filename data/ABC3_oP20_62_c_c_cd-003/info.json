@@ -1,7 +1,9 @@
 {
     "uid": "7S19",
     "label": "ABC3_oP20_62_c_c_cd-003",
-    "alias": "ABC3_oP20_62_c_c_cd",
+    "alias": [
+        "ABC3_oP20_62_c_c_cd"
+    ],
     "title": "Aragonite ($G0_{2}$, CaCO$_{3}$) Structure",
     "icsd": "15194",
     "ccdc": null,

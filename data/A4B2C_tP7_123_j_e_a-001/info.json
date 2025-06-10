@@ -1,7 +1,9 @@
 {
     "uid": "3SRH",
     "label": "A4B2C_tP7_123_j_e_a-001",
-    "alias": "A4B2C_tP7_123_j_e_a",
+    "alias": [
+        "A4B2C_tP7_123_j_e_a"
+    ],
     "title": "K$_{2}$PtCl$_{4}$ ($H1_{5}$) Structure",
     "icsd": "2722",
     "ccdc": null,

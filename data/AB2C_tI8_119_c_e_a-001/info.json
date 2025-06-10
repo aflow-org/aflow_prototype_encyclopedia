@@ -1,7 +1,9 @@
 {
     "uid": "J41Y",
     "label": "AB2C_tI8_119_c_e_a-001",
-    "alias": "AB2C_tI8_119_c_e_a",
+    "alias": [
+        "AB2C_tI8_119_c_e_a"
+    ],
     "title": "Tetragonal TlFeS$_{2}$ Structure",
     "icsd": "150822",
     "ccdc": null,

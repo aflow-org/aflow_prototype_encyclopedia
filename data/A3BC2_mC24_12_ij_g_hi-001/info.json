@@ -1,7 +1,9 @@
 {
     "uid": "T76D",
     "label": "A3BC2_mC24_12_ij_g_hi-001",
-    "alias": "A3BC2_mC24_12_ij_h_gi",
+    "alias": [
+        "A3BC2_mC24_12_ij_h_gi"
+    ],
     "title": "LiOH$\\cdot$H$_{2}$O ($B36$) Structure",
     "icsd": "9138",
     "ccdc": null,

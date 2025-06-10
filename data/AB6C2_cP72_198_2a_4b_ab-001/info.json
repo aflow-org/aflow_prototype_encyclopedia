@@ -1,9 +1,9 @@
 {
     "uid": "WBDQ",
     "label": "AB6C2_cP72_198_2a_4b_ab-001",
-    "alias": "AB6C2_cP72_198_2a_4b_ab-001",
+    "alias": null,
     "title": "Low Temperature CsW$_{2}$O$_{6}$ Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "CsO6W2",
     "prototype_tex": "CsO$_{6}$W$_{2}$",

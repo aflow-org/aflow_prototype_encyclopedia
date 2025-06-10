@@ -1,7 +1,9 @@
 {
     "uid": "0J1F",
     "label": "A7B2C2_mC22_12_aij_h_i-001",
-    "alias": "A7B2C2_mC22_12_aij_h_i",
+    "alias": [
+        "A7B2C2_mC22_12_aij_h_i"
+    ],
     "title": "Thortveitite ([Sc,Y]$_{2}$Si$_{2}$O$_{7}$, $S2_{1}$) Structure",
     "icsd": "202633",
     "ccdc": null,

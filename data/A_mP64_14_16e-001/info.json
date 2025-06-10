@@ -1,7 +1,9 @@
 {
     "uid": "TBFR",
     "label": "A_mP64_14_16e-001",
-    "alias": "A_mP64_14_16e",
+    "alias": [
+        "A_mP64_14_16e"
+    ],
     "title": "$\\alpha$-Se ($A_{k}$) Structure",
     "icsd": "36333",
     "ccdc": null,

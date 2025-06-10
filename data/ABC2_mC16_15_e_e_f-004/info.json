@@ -1,7 +1,9 @@
 {
     "uid": "G8C6",
     "label": "ABC2_mC16_15_e_e_f-004",
-    "alias": "ABC2_mC16_15_e_e_f",
+    "alias": [
+        "ABC2_mC16_15_e_e_f"
+    ],
     "title": "KFeS$_{2}$ ($F5_{a}$) Structure",
     "icsd": "202380",
     "ccdc": null,

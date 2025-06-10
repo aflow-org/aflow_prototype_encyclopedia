@@ -1,7 +1,9 @@
 {
     "uid": "LZW5",
     "label": "A_hP2_194_c-001",
-    "alias": "A_hP2_194_c",
+    "alias": [
+        "A_hP2_194_c"
+    ],
     "title": "Hexagonal Close Packed (Mg, $A3$, hcp) Structure",
     "icsd": "608404",
     "ccdc": null,

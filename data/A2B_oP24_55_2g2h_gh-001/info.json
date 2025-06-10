@@ -1,7 +1,9 @@
 {
     "uid": "X52Z",
     "label": "A2B_oP24_55_2g2h_gh-001",
-    "alias": "A2B_oP24_55_2g2h_gh",
+    "alias": [
+        "A2B_oP24_55_2g2h_gh"
+    ],
     "title": "GeAs$_{2}$ Structure",
     "icsd": "23872",
     "ccdc": null,

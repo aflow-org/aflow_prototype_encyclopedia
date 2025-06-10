@@ -1,9 +1,11 @@
 {
     "uid": "7TV0",
     "label": "AB_mP24_14_3e_3e-001",
-    "alias": "AB_mP24_14_3e_3e",
+    "alias": [
+        "AB_mP24_14_3e_3e"
+    ],
     "title": "$\\epsilon$-1,2,3,4,5,6-Hexachloro{\\em cyclo}hexane (C$_{6}$Cl$_{6}$) Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "C6Cl6",
     "prototype_tex": "C$_{6}$Cl$_{6}$",

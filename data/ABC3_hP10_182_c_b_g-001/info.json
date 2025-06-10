@@ -1,7 +1,9 @@
 {
     "uid": "6B26",
     "label": "ABC3_hP10_182_c_b_g-001",
-    "alias": "ABC3_hP10_182_c_b_g",
+    "alias": [
+        "ABC3_hP10_182_c_b_g"
+    ],
     "title": "$E2_{3}$ (LiIO$_{3}$) Structure ({\\em Obsolete})",
     "icsd": "20012",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "LGPW",
     "label": "AB4_oC20_68_a_i-001",
-    "alias": "AB4_oC20_68_a_i",
+    "alias": [
+        "AB4_oC20_68_a_i"
+    ],
     "title": "PdSn$_{4}$ Structure",
     "icsd": "413280",
     "ccdc": null,

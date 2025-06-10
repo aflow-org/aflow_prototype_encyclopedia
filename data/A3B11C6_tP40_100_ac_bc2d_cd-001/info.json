@@ -1,7 +1,9 @@
 {
     "uid": "LZ7C",
     "label": "A3B11C6_tP40_100_ac_bc2d_cd-001",
-    "alias": "A3B11C6_tP40_100_ac_bc2d_cd",
+    "alias": [
+        "A3B11C6_tP40_100_ac_bc2d_cd"
+    ],
     "title": "Ce$_{3}$Si$_{6}$N$_{11}$ Structure",
     "icsd": "401679",
     "ccdc": null,

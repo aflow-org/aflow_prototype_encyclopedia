@@ -1,7 +1,9 @@
 {
     "uid": "4FK1",
     "label": "A2B9C3_hP14_150_d_eg_ad-001",
-    "alias": "A2B9C3_hP14_150_d_eg_ad",
+    "alias": [
+        "A2B9C3_hP14_150_d_eg_ad"
+    ],
     "title": "Cs$_{3}$As$_{2}$Cl$_{9}$ ($K7_{3}$) Structure",
     "icsd": "45733",
     "ccdc": null,

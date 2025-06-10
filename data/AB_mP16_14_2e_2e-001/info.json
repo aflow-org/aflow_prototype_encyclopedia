@@ -1,7 +1,9 @@
 {
     "uid": "HU5N",
     "label": "AB_mP16_14_2e_2e-001",
-    "alias": "AB_mP16_14_2e_2e.ICl",
+    "alias": [
+        "AB_mP16_14_2e_2e.ICl"
+    ],
     "title": "$\\alpha$-ICl Structure",
     "icsd": "26032",
     "ccdc": null,

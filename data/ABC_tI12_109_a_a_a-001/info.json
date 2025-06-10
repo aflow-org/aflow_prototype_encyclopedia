@@ -1,7 +1,9 @@
 {
     "uid": "RTEY",
     "label": "ABC_tI12_109_a_a_a-001",
-    "alias": "ABC_tI12_109_a_a_a",
+    "alias": [
+        "ABC_tI12_109_a_a_a"
+    ],
     "title": "LaPtSi Structure",
     "icsd": "27224",
     "ccdc": null,

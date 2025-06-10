@@ -1,7 +1,9 @@
 {
     "uid": "P6ME",
     "label": "A6BC4D_oP48_19_6a_a_4a_a-001",
-    "alias": "A6BC4D_oP48_19_6a_a_4a_a",
+    "alias": [
+        "A6BC4D_oP48_19_6a_a_4a_a"
+    ],
     "title": "Ferroelectric (NH$_{4}$)H$_{2}$PO$_{4}$ Structure",
     "icsd": "63635",
     "ccdc": null,

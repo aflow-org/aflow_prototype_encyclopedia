@@ -1,7 +1,9 @@
 {
     "uid": "5V2T",
     "label": "A6B2C15D4_mP54_7_6a_2a_15a_4a-001",
-    "alias": "A6B2C15D4_mP54_7_6a_2a_15a_4a",
+    "alias": [
+        "A6B2C15D4_mP54_7_6a_2a_15a_4a"
+    ],
     "title": "Na$_{2}$Ca$_{6}$Si$_{4}$O$_{15}$ Structure",
     "icsd": "256226",
     "ccdc": null,

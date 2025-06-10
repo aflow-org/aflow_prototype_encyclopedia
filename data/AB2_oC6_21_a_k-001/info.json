@@ -1,7 +1,9 @@
 {
     "uid": "6XPU",
     "label": "AB2_oC6_21_a_k-001",
-    "alias": "AB2_oC6_21_a_k",
+    "alias": [
+        "AB2_oC6_21_a_k"
+    ],
     "title": "Ta$_{2}$H Structure",
     "icsd": "41774",
     "ccdc": null,

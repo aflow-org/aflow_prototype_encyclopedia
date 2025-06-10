@@ -1,7 +1,9 @@
 {
     "uid": "Q5G8",
     "label": "AB_hP12_194_af_bf-001",
-    "alias": "AB_hP12_194_af_bf",
+    "alias": [
+        "AB_hP12_194_af_bf"
+    ],
     "title": "CMo Structure",
     "icsd": "44987",
     "ccdc": null,

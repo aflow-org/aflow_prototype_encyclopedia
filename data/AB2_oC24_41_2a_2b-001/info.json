@@ -1,7 +1,9 @@
 {
     "uid": "BVS7",
     "label": "AB2_oC24_41_2a_2b-001",
-    "alias": "AB2_oC24_41_2a_2b",
+    "alias": [
+        "AB2_oC24_41_2a_2b"
+    ],
     "title": "PdSn$_{2}$ ($C_{e}$) Structure",
     "icsd": "105684",
     "ccdc": null,

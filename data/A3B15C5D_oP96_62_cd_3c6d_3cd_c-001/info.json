@@ -1,7 +1,9 @@
 {
     "uid": "3AAY",
     "label": "A3B15C5D_oP96_62_cd_3c6d_3cd_c-001",
-    "alias": "A3B15C5D_oP96_62_cd_3c6d_3cd_c",
+    "alias": [
+        "A3B15C5D_oP96_62_cd_3c6d_3cd_c"
+    ],
     "title": "RhCl$_{2}$(NH$_{3}$)$_{5}$Cl ($J1_{8}$) Structure",
     "icsd": "10199",
     "ccdc": null,

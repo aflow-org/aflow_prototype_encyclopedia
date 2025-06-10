@@ -1,7 +1,9 @@
 {
     "uid": "3KTM",
     "label": "A2B_hP12_194_cg_f-001",
-    "alias": "A2B_hP12_194_cg_f",
+    "alias": [
+        "A2B_hP12_194_cg_f"
+    ],
     "title": "$\\beta$-Tridymite (SiO$_{2}$, $C10$) Structure",
     "icsd": "200478",
     "ccdc": null,

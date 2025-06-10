@@ -1,9 +1,11 @@
 {
     "uid": "Q52R",
     "label": "A4B_cP5_221_bc_a-001",
-    "alias": "A4B_cP5_221_bc_a",
+    "alias": [
+        "A4B_cP5_221_bc_a"
+    ],
     "title": "{\\em Erroneous} $L'1_{0}$ Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "Fe4N",
     "prototype_tex": "Fe$_{4}$N",

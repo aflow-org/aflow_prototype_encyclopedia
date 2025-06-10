@@ -1,7 +1,9 @@
 {
     "uid": "3SX5",
     "label": "A2B12CD6_mC42_12_i_2i2j_a_ij-001",
-    "alias": "A2B12CD6_mC42_12_i_2i2j_a_ij",
+    "alias": [
+        "A2B12CD6_mC42_12_i_2i2j_a_ij"
+    ],
     "title": "Bischofite (MgCl$_{2}\\cdot$6H$_{2}$O, $J1_{7}$) Structure",
     "icsd": "47161",
     "ccdc": null,

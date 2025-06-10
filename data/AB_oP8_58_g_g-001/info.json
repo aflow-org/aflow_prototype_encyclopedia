@@ -1,7 +1,9 @@
 {
     "uid": "A7M6",
     "label": "AB_oP8_58_g_g-001",
-    "alias": "AB_oP8_58_g_g",
+    "alias": [
+        "AB_oP8_58_g_g"
+    ],
     "title": "InS Structure",
     "icsd": "15931",
     "ccdc": null,

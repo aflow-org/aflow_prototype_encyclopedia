@@ -1,7 +1,9 @@
 {
     "uid": "ZN0T",
     "label": "A2B6CD8_oP34_31_2a_2a2b_a_4a2b-001",
-    "alias": "A2B6CD8_oP34_31_2a_2a2b_a_4a2b",
+    "alias": [
+        "A2B6CD8_oP34_31_2a_2a2b_a_4a2b"
+    ],
     "title": "Mg(ClO$_{4}$)$_{2}\\cdot$6H$_{2}$O ($H4_{11}$) Structure",
     "icsd": "24250",
     "ccdc": null,

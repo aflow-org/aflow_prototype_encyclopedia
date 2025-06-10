@@ -1,7 +1,9 @@
 {
     "uid": "MXLF",
     "label": "AB2C12D4_tP76_75_2a2b_2d_12d_4d-001",
-    "alias": "AB2C12D4_tP76_75_2a2b_2d_12d_4d",
+    "alias": [
+        "AB2C12D4_tP76_75_2a2b_2d_12d_4d"
+    ],
     "title": "Hexagonal Hollandite (BaRu$_{4}$Cr$_{2}$O$_{12}$) Structure",
     "icsd": "100578",
     "ccdc": null,

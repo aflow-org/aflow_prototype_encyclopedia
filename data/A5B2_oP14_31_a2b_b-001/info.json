@@ -1,7 +1,9 @@
 {
     "uid": "T4NG",
     "label": "A5B2_oP14_31_a2b_b-001",
-    "alias": "A5B2_oP14_31_a2b_b",
+    "alias": [
+        "A5B2_oP14_31_a2b_b"
+    ],
     "title": "Shcherbinaite ($D8_{7}$, V$_{2}$O$_{5}$) Structure ({\\em Obsolete})",
     "icsd": "15904",
     "ccdc": null,

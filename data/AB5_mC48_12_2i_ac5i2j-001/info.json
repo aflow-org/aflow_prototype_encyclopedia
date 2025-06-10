@@ -1,7 +1,9 @@
 {
     "uid": "5R9K",
     "label": "AB5_mC48_12_2i_ac5i2j-001",
-    "alias": "AB5_mC48_12_2i_ac5i2j",
+    "alias": [
+        "AB5_mC48_12_2i_ac5i2j"
+    ],
     "title": "$D2_{2}$ (MgZn$_{5}$?) Structure ({\\em Problematic})",
     "icsd": "151403",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "8ZQP",
     "label": "A_hR1_166_a-002",
-    "alias": "A_hR1_166_a.alpha-Hg",
+    "alias": [
+        "A_hR1_166_a.alpha-Hg"
+    ],
     "title": "$\\alpha$-Hg (A10) Structure",
     "icsd": "174006",
     "ccdc": null,

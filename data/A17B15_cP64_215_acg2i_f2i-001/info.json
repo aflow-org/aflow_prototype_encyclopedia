@@ -1,9 +1,9 @@
 {
     "uid": "55EV",
     "label": "A17B15_cP64_215_acg2i_f2i-001",
-    "alias": "A17B15_cP64_215_acg2i_f2i-001",
+    "alias": null,
     "title": "Palladseite (Pd$_{17}$Se$_{15}$) Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "Pd17Se15",
     "prototype_tex": "Pd$_{17}$Se$_{15}$",

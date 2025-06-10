@@ -1,7 +1,9 @@
 {
     "uid": "L0WX",
     "label": "AB3_tI32_88_c_df-001",
-    "alias": "AB3_tI32_88_d_cf",
+    "alias": [
+        "AB3_tI32_88_d_cf"
+    ],
     "title": "Copper (I) Azide (CuN$_{3}$) Structure",
     "icsd": "30633",
     "ccdc": null,

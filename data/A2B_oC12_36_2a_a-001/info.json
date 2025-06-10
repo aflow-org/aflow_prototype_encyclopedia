@@ -1,7 +1,9 @@
 {
     "uid": "FWL2",
     "label": "A2B_oC12_36_2a_a-001",
-    "alias": "A2B_oC12_36_2a_a",
+    "alias": [
+        "A2B_oC12_36_2a_a"
+    ],
     "title": "HgBr$_{2}$ ($C24$) Structure",
     "icsd": "30290",
     "ccdc": null,

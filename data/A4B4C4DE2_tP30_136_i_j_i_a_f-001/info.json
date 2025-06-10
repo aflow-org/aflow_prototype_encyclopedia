@@ -1,9 +1,11 @@
 {
     "uid": "6EHC",
     "label": "A4B4C4DE2_tP30_136_i_j_i_a_f-001",
-    "alias": "sigma_tP30_136_bf2ij",
+    "alias": [
+        "sigma_tP30_136_bf2ij"
+    ],
     "title": "$\\sigma$-CrFe ($D8_{b}$) Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "Cr4Fe4Ni4PdRh2",
     "prototype_tex": "Cr$_{4}$Fe$_{4}$Ni$_{4}$PdRh$_{2}$",

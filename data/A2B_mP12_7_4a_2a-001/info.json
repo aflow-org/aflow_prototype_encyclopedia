@@ -1,9 +1,11 @@
 {
     "uid": "UVJS",
     "label": "A2B_mP12_7_4a_2a-001",
-    "alias": "A2B_mP12_7_4a_2a",
+    "alias": [
+        "A2B_mP12_7_4a_2a"
+    ],
     "title": "H$_{2}$S IV Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "H2S",
     "prototype_tex": "H$_{2}$S",

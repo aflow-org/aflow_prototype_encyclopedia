@@ -1,7 +1,9 @@
 {
     "uid": "7W8F",
     "label": "A_cI2_229_a-001",
-    "alias": "A_cI2_229_a",
+    "alias": [
+        "A_cI2_229_a"
+    ],
     "title": "Body-Centered Cubic (W, $A2$, bcc) Structure",
     "icsd": "52538",
     "ccdc": null,

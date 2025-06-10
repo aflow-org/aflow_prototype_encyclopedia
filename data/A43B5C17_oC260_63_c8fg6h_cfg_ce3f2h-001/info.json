@@ -1,7 +1,9 @@
 {
     "uid": "Z34R",
     "label": "A43B5C17_oC260_63_c8fg6h_cfg_ce3f2h-001",
-    "alias": "A43B5C17_oC260_63_c8fg6h_cfg_ce3f2h",
+    "alias": [
+        "A43B5C17_oC260_63_c8fg6h_cfg_ce3f2h"
+    ],
     "title": "La$_{43}$Ni$_{17}$Mg$_{5}$ Structure",
     "icsd": "249963",
     "ccdc": null,

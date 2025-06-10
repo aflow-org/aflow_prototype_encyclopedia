@@ -1,7 +1,9 @@
 {
     "uid": "Z2SB",
     "label": "A3BC_tP5_99_ac_b_a-002",
-    "alias": "A3BC_tP5_99_bc_a_b",
+    "alias": [
+        "A3BC_tP5_99_bc_a_b"
+    ],
     "title": "Tetragonal PZT [Pb(Zr$_{x}$Ti$_{1-x}$)O$_{3}$] Structure",
     "icsd": "92059",
     "ccdc": null,

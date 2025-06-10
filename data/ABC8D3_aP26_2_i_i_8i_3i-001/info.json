@@ -1,7 +1,9 @@
 {
     "uid": "8BAG",
     "label": "ABC8D3_aP26_2_i_i_8i_3i-001",
-    "alias": "ABC8D3_aP26_2_i_i_8i_3i",
+    "alias": [
+        "ABC8D3_aP26_2_i_i_8i_3i"
+    ],
     "title": "Albite (NaAlSi$_{3}$O$_{8}$, $S6_{8}$) Structure",
     "icsd": "201919",
     "ccdc": null,

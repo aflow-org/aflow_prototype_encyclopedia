@@ -1,7 +1,9 @@
 {
     "uid": "6QE7",
     "label": "A3B2_cP20_213_d_c-001",
-    "alias": "A3B2_cP20_213_d_c",
+    "alias": [
+        "A3B2_cP20_213_d_c"
+    ],
     "title": "Mg$_{3}$Ru$_{2}$ Structure",
     "icsd": "260022",
     "ccdc": null,

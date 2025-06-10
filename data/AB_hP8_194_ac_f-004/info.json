@@ -1,7 +1,9 @@
 {
     "uid": "E9RV",
     "label": "AB_hP8_194_ac_f-004",
-    "alias": "AB_hP8_194_ad_f",
+    "alias": [
+        "AB_hP8_194_ad_f"
+    ],
     "title": "AsTi ($B_{i}$) Structure",
     "icsd": "16773",
     "ccdc": null,

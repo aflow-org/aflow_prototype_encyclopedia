@@ -1,7 +1,9 @@
 {
     "uid": "2BUF",
     "label": "A_tI4_141_a-001",
-    "alias": "A_tI4_141_a",
+    "alias": [
+        "A_tI4_141_a"
+    ],
     "title": "$\\beta$-Sn ($A5$) Structure",
     "icsd": "52486",
     "ccdc": null,

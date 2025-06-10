@@ -1,7 +1,9 @@
 {
     "uid": "BLKR",
     "label": "AB2_tI96_88_2f_4f-001",
-    "alias": "AB2_tI96_88_2f_4f",
+    "alias": [
+        "AB2_tI96_88_2f_4f"
+    ],
     "title": "$\\alpha$-NbO$_{2}$ Structure",
     "icsd": "75197",
     "ccdc": null,

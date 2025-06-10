@@ -1,9 +1,11 @@
 {
     "uid": "PC8F",
     "label": "A2B_oP12_26_abc_ab-001",
-    "alias": "A2B_oP12_26_abc_ab.H2S",
+    "alias": [
+        "A2B_oP12_26_abc_ab.H2S"
+    ],
     "title": "H$_{2}$S 70 GPa Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "H2S",
     "prototype_tex": "H$_{2}$S",

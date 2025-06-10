@@ -1,7 +1,9 @@
 {
     "uid": "DCLX",
     "label": "AB13_cF112_226_a_bi-001",
-    "alias": "AB13_cF112_226_a_bi",
+    "alias": [
+        "AB13_cF112_226_a_bi"
+    ],
     "title": "NaZn$_{13}$ ($D2_{3}$) Structure",
     "icsd": "105173",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "BD46",
     "label": "A2B2C4D_tP18_132_e_i_o_b-001",
-    "alias": "A2B2C4D_tP18_132_e_i_o_d",
+    "alias": [
+        "A2B2C4D_tP18_132_e_i_o_d"
+    ],
     "title": "Rb$_{2}$TiCu$_{2}$S$_{4}$ Structure",
     "icsd": "280644",
     "ccdc": null,

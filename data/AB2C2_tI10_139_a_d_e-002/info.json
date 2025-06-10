@@ -1,7 +1,9 @@
 {
     "uid": "5K3T",
     "label": "AB2C2_tI10_139_a_d_e-002",
-    "alias": "AB2C2_tI10_139_a_d_e.Li2CN2",
+    "alias": [
+        "AB2C2_tI10_139_a_d_e.Li2CN2"
+    ],
     "title": "Li$_{2}$CN$_{2}$ Structure",
     "icsd": "200369",
     "ccdc": null,

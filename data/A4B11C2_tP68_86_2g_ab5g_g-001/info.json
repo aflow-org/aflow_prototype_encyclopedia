@@ -1,7 +1,9 @@
 {
     "uid": "8MQB",
     "label": "A4B11C2_tP68_86_2g_ab5g_g-001",
-    "alias": "A4B11C2_tP68_86_2g_ab5g_g",
+    "alias": [
+        "A4B11C2_tP68_86_2g_ab5g_g"
+    ],
     "title": "Nd$_{4}$Re$_{2}$O$_{11}$ Structure",
     "icsd": "15042",
     "ccdc": null,

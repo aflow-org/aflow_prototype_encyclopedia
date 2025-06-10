@@ -1,7 +1,9 @@
 {
     "uid": "JYHJ",
     "label": "A2B5C2_mC18_12_i_a2i_i-001",
-    "alias": "A2B5C2_mC18_12_i_a2i_i",
+    "alias": [
+        "A2B5C2_mC18_12_i_a2i_i"
+    ],
     "title": "K$_{2}$Ti$_{2}$O$_{5}$ Structure",
     "icsd": "36097",
     "ccdc": null,

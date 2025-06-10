@@ -1,7 +1,9 @@
 {
     "uid": "PYBC",
     "label": "A2B_oI12_72_j_a-001",
-    "alias": "A2B_oI12_72_j_a",
+    "alias": [
+        "A2B_oI12_72_j_a"
+    ],
     "title": "SiS$_{2}$ ($C42$) Structure",
     "icsd": "27205",
     "ccdc": null,

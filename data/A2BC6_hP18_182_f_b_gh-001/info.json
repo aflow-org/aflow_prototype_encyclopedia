@@ -1,7 +1,9 @@
 {
     "uid": "6VW9",
     "label": "A2BC6_hP18_182_f_b_gh-001",
-    "alias": "A2BC6_hP18_182_f_b_gh",
+    "alias": [
+        "A2BC6_hP18_182_f_b_gh"
+    ],
     "title": "BaAl$_{2}$O$_{4}$ ($H2_{8}$) Structure",
     "icsd": "15728",
     "ccdc": null,

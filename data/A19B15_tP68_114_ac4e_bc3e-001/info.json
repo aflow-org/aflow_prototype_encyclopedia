@@ -1,7 +1,9 @@
 {
     "uid": "PVAV",
     "label": "A19B15_tP68_114_ac4e_bc3e-001",
-    "alias": "A19B15_tP68_114_bc4e_ac3e",
+    "alias": [
+        "A19B15_tP68_114_bc4e_ac3e"
+    ],
     "title": "C$_{19}$Sc$_{15}$ Structure",
     "icsd": "42631",
     "ccdc": null,

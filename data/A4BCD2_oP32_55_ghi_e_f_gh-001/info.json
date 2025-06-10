@@ -1,7 +1,9 @@
 {
     "uid": "07TT",
     "label": "A4BCD2_oP32_55_ghi_e_f_gh-001",
-    "alias": "A4BCD2_oP32_55_ghi_f_e_gh",
+    "alias": [
+        "A4BCD2_oP32_55_ghi_f_e_gh"
+    ],
     "title": "K$_{2}$HgCl$_{4}\\cdot$H$_{2}$O ($E3_{4}$) Structure",
     "icsd": "10296",
     "ccdc": null,

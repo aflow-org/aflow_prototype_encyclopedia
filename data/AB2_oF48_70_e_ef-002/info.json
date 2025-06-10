@@ -1,7 +1,9 @@
 {
     "uid": "S336",
     "label": "AB2_oF48_70_e_ef-002",
-    "alias": "AB2_oF48_70_g_fg",
+    "alias": [
+        "AB2_oF48_70_g_fg"
+    ],
     "title": "Mg$_{2}$Cu ($C_{b}$) Structure",
     "icsd": "695334",
     "ccdc": null,

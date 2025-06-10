@@ -1,7 +1,9 @@
 {
     "uid": "AHE7",
     "label": "A5B_oP24_26_3a3b2c_ab-001",
-    "alias": "A5B_oP24_26_3a3b2c_ab",
+    "alias": [
+        "A5B_oP24_26_3a3b2c_ab"
+    ],
     "title": "TlP$_{5}$ Structure",
     "icsd": "15021",
     "ccdc": null,

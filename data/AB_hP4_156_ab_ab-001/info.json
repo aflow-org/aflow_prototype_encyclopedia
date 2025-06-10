@@ -1,7 +1,9 @@
 {
     "uid": "1M22",
     "label": "AB_hP4_156_ab_ab-001",
-    "alias": "AB_hP4_156_ab_ab",
+    "alias": [
+        "AB_hP4_156_ab_ab"
+    ],
     "title": "$\\beta$-CuI (Sakuma) Structure",
     "icsd": "84217",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "AYKC",
     "label": "A5B8_cI52_217_ce_cg-001",
-    "alias": "A5B8_cI52_217_ce_cg",
+    "alias": [
+        "A5B8_cI52_217_ce_cg"
+    ],
     "title": "$\\gamma$-Brass (Cu$_{5}$Zn$_{8}$, $D8_{2}$) Structure",
     "icsd": "240667",
     "ccdc": null,

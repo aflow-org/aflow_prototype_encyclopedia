@@ -1,7 +1,9 @@
 {
     "uid": "WNQX",
     "label": "AB4_cP5_215_a_e-001",
-    "alias": "AB4_cP5_215_a_e",
+    "alias": [
+        "AB4_cP5_215_a_e"
+    ],
     "title": "Fe$_{4}$C Structure",
     "icsd": "44729",
     "ccdc": null,

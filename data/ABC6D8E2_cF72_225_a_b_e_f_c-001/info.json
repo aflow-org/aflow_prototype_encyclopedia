@@ -1,7 +1,9 @@
 {
     "uid": "8Y3K",
     "label": "ABC6D8E2_cF72_225_a_b_e_f_c-001",
-    "alias": "ABC6D8E2_cF72_225_b_a_e_f_c",
+    "alias": [
+        "ABC6D8E2_cF72_225_b_a_e_f_c"
+    ],
     "title": "Sulphohalite [Na$_{6}$ClF(SO$_{4}$)$_{2}$, $H5_{8}$] Structure",
     "icsd": "52291",
     "ccdc": null,

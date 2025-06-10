@@ -1,7 +1,9 @@
 {
     "uid": "T8Y7",
     "label": "AB_hR6_160_3a_3a-001",
-    "alias": "AB_hR6_160_3a_3a",
+    "alias": [
+        "AB_hR6_160_3a_3a"
+    ],
     "title": "Moissanite 9R (CSi) Structure",
     "icsd": "37373",
     "ccdc": null,

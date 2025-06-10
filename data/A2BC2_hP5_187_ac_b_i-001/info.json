@@ -1,9 +1,9 @@
 {
     "uid": "AJFU",
     "label": "A2BC2_hP5_187_ac_b_i-001",
-    "alias": "A2BC2_hP5_187_ac_b_i-001",
+    "alias": null,
     "title": "Ti$_{2}$InB$_{2}$ Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "B2InTi2",
     "prototype_tex": "B$_{2}$InTi$_{2}$",

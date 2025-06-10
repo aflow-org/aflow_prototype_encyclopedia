@@ -1,7 +1,9 @@
 {
     "uid": "7M03",
     "label": "A9B3C2_hR28_167_ef_e_c-001",
-    "alias": "A9B3C2_hR28_167_ef_e_c",
+    "alias": [
+        "A9B3C2_hR28_167_ef_e_c"
+    ],
     "title": "Cs$_{3}$Tl$_{2}$Cl$_{9}$ ($K7_{2}$) Structure",
     "icsd": "27849",
     "ccdc": null,

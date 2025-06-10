@@ -1,7 +1,9 @@
 {
     "uid": "JZVB",
     "label": "ABC2_oI8_44_a_a_c-001",
-    "alias": "ABC2_oI8_44_a_a_c",
+    "alias": [
+        "ABC2_oI8_44_a_a_c"
+    ],
     "title": "Ferroelectric NaNO$_{2}$ ($F5_{5}$) Structure",
     "icsd": "15400",
     "ccdc": null,

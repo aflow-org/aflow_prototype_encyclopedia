@@ -1,7 +1,9 @@
 {
     "uid": "0JVV",
     "label": "ABC6D15_oP46_51_f_b_2e2i_cef4i2j-001",
-    "alias": "ABC6D15_oP46_51_f_d_2e2i_aef4i2j",
+    "alias": [
+        "ABC6D15_oP46_51_f_d_2e2i_aef4i2j"
+    ],
     "title": "LiNb$_{6}$O$_{15}$F Structure",
     "icsd": "2910",
     "ccdc": null,

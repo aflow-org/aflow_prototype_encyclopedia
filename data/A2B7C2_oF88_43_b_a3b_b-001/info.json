@@ -1,7 +1,9 @@
 {
     "uid": "D9YZ",
     "label": "A2B7C2_oF88_43_b_a3b_b-001",
-    "alias": "A2B7C2_oF88_43_b_a3b_b",
+    "alias": [
+        "A2B7C2_oF88_43_b_a3b_b"
+    ],
     "title": "Blossite ($\\alpha$-Cu$_{2}$V$_{2}$O$_{7}$) Structure",
     "icsd": "1831",
     "ccdc": null,

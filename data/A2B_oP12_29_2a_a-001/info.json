@@ -1,9 +1,11 @@
 {
     "uid": "UZKW",
     "label": "A2B_oP12_29_2a_a-001",
-    "alias": "A2B_oP12_29_2a_a",
+    "alias": [
+        "A2B_oP12_29_2a_a"
+    ],
     "title": "ZrO$_{2}$ Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "O2Zr",
     "prototype_tex": "O$_{2}$Zr",

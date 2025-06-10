@@ -1,7 +1,9 @@
 {
     "uid": "VXAE",
     "label": "A3B16C20D3_mC168_15_ef_8f_10f_ef-001",
-    "alias": "A3B16C20D3_mC168_15_ef_8f_10f_ef",
+    "alias": [
+        "A3B16C20D3_mC168_15_ef_8f_10f_ef"
+    ],
     "title": "(CdSO$_{4}$)$_{3}\\cdot$8H$_{2}$O ($H4_{20}$) Structure",
     "icsd": "24400",
     "ccdc": null,

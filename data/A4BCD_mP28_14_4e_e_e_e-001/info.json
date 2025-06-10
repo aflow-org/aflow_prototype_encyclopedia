@@ -1,7 +1,9 @@
 {
     "uid": "YLSG",
     "label": "A4BCD_mP28_14_4e_e_e_e-001",
-    "alias": "A4BCD_mP28_14_4e_e_e_e",
+    "alias": [
+        "A4BCD_mP28_14_4e_e_e_e"
+    ],
     "title": "KICl$_{4}\\cdot$H$_{2}$O ($H0_{10}$) Structure",
     "icsd": "18206",
     "ccdc": null,

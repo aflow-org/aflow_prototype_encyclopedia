@@ -1,7 +1,9 @@
 {
     "uid": "N6T3",
     "label": "AB5C_tP14_85_c_cg_a-001",
-    "alias": "AB5C_tP14_85_c_cg_b",
+    "alias": [
+        "AB5C_tP14_85_c_cg_b"
+    ],
     "title": "MoPO$_{5}$ Structure",
     "icsd": "36095",
     "ccdc": null,

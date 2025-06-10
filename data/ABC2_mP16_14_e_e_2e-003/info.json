@@ -1,7 +1,9 @@
 {
     "uid": "JSKP",
     "label": "ABC2_mP16_14_e_e_2e-003",
-    "alias": "ABC2_mP16_14_e_e_2e.KNO2",
+    "alias": [
+        "ABC2_mP16_14_e_e_2e.KNO2"
+    ],
     "title": "KNO$_{2}$ III Structure",
     "icsd": "86117",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "LQ7A",
     "label": "A3B2_cP10_224_d_b-001",
-    "alias": "A3B2_cP10_224_d_b",
+    "alias": [
+        "A3B2_cP10_224_d_b"
+    ],
     "title": "Mg$_{3}$P$_{2}$ ($D5_{5}$) Structure",
     "icsd": "24489",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "PZB0",
     "label": "A6B6C_cF104_202_h_h_c-001",
-    "alias": "A6B6C_cF104_202_h_h_c",
+    "alias": [
+        "A6B6C_cF104_202_h_h_c"
+    ],
     "title": "KB$_{6}$H$_{6}$ Structure",
     "icsd": "36148",
     "ccdc": null,

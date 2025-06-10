@@ -1,9 +1,11 @@
 {
     "uid": "FENM",
     "label": "A9B16C7_cF128_225_acd_2f_be-001",
-    "alias": "A9B16C7_cF128_225_acd_2f_be",
+    "alias": [
+        "A9B16C7_cF128_225_acd_2f_be"
+    ],
     "title": "Model of Ferrite Structure (cF128)",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "Cr9Fe16Ni7",
     "prototype_tex": "Cr$_{9}$Fe$_{16}$Ni$_{7}$",

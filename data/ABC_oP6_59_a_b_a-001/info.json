@@ -1,7 +1,9 @@
 {
     "uid": "DN69",
     "label": "ABC_oP6_59_a_b_a-001",
-    "alias": "ABC_oP6_59_a_b_a",
+    "alias": [
+        "ABC_oP6_59_a_b_a"
+    ],
     "title": "FeOCl ($E0_{5}$) Structure",
     "icsd": "40963",
     "ccdc": null,

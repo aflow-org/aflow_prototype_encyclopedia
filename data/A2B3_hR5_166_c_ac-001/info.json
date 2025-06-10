@@ -1,7 +1,9 @@
 {
     "uid": "NGV5",
     "label": "A2B3_hR5_166_c_ac-001",
-    "alias": "A2B3_hR5_166_c_ac",
+    "alias": [
+        "A2B3_hR5_166_c_ac"
+    ],
     "title": "Bi$_{2}$Te$_{3}$ ($C33$) Structure",
     "icsd": "15753",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "6ZXP",
     "label": "AB_hP24_190_i_afh-001",
-    "alias": "AB_hP24_190_i_afh",
+    "alias": [
+        "AB_hP24_190_i_afh"
+    ],
     "title": "Troilite (FeS) Structure",
     "icsd": "633296",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "M8U7",
     "label": "AB2C8D_oP24_49_e_q_2qr_f-001",
-    "alias": "AB2C8D_oP24_49_g_q_2qr_e",
+    "alias": [
+        "AB2C8D_oP24_49_g_q_2qr_e"
+    ],
     "title": "CsPr(MoO$_{4}$)$_{2}$ Structure",
     "icsd": "9374",
     "ccdc": null,

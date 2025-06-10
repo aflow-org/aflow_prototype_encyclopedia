@@ -1,7 +1,9 @@
 {
     "uid": "QZKW",
     "label": "AB_oP8_62_c_c-004",
-    "alias": "AB_oP8_62_c_c.SnS",
+    "alias": [
+        "AB_oP8_62_c_c.SnS"
+    ],
     "title": "$\\alpha$-SnS ($B29$) Structure",
     "icsd": "24376",
     "ccdc": null,

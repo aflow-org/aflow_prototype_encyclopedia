@@ -1,7 +1,9 @@
 {
     "uid": "WWU9",
     "label": "ABC3_oP20_54_e_d_cf-001",
-    "alias": "ABC3_oP20_54_e_d_cf",
+    "alias": [
+        "ABC3_oP20_54_e_d_cf"
+    ],
     "title": "BiGaO$_{3}$ Structure",
     "icsd": "171709",
     "ccdc": null,

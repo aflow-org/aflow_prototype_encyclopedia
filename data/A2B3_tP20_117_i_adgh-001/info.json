@@ -1,7 +1,9 @@
 {
     "uid": "B48H",
     "label": "A2B3_tP20_117_i_adgh-001",
-    "alias": "A2B3_tP20_117_i_adgh",
+    "alias": [
+        "A2B3_tP20_117_i_adgh"
+    ],
     "title": "$\\beta$-Bi$_{2}$O$_{3}$ ($D5_{12}$) Structure",
     "icsd": "27151",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "G8V5",
     "label": "A5BC2_mC64_15_5f_f_2f-001",
-    "alias": "A5BC2_mC64_15_5f_f_2f",
+    "alias": [
+        "A5BC2_mC64_15_5f_f_2f"
+    ],
     "title": "Y$_{2}$SiO$_{5}$ (RE$_{2}$SiO$_{5}$ X2) Structure",
     "icsd": "27003",
     "ccdc": null,

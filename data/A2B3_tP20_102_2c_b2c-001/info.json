@@ -1,7 +1,9 @@
 {
     "uid": "AY9W",
     "label": "A2B3_tP20_102_2c_b2c-001",
-    "alias": "A2B3_tP20_102_2c_b2c",
+    "alias": [
+        "A2B3_tP20_102_2c_b2c"
+    ],
     "title": "Gd$_{3}$Al$_{2}$ Structure",
     "icsd": "57869",
     "ccdc": null,

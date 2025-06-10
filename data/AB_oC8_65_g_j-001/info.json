@@ -1,7 +1,9 @@
 {
     "uid": "S2CY",
     "label": "AB_oC8_65_g_j-001",
-    "alias": "AB_oC8_65_j_g",
+    "alias": [
+        "AB_oC8_65_j_g"
+    ],
     "title": "$\\alpha$-IrV Structure",
     "icsd": "104590",
     "ccdc": null,

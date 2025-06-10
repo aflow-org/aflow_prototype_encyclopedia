@@ -1,7 +1,9 @@
 {
     "uid": "T9FR",
     "label": "A2B_tP6_137_d_a-001",
-    "alias": "A2B_tP6_137_d_a",
+    "alias": [
+        "A2B_tP6_137_d_a"
+    ],
     "title": "ZrO$_{2}$ (High-temperature) Structure",
     "icsd": "23928",
     "ccdc": null,

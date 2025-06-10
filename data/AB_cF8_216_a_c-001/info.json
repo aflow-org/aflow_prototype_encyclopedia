@@ -1,7 +1,9 @@
 {
     "uid": "TL8Z",
     "label": "AB_cF8_216_a_c-001",
-    "alias": "AB_cF8_216_c_a",
+    "alias": [
+        "AB_cF8_216_c_a"
+    ],
     "title": "Zincblende (ZnAs, $B3$) Structure",
     "icsd": "651457",
     "ccdc": null,

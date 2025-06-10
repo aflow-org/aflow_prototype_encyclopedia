@@ -1,7 +1,9 @@
 {
     "uid": "J6ND",
     "label": "ABC2_hR4_166_a_b_c-001",
-    "alias": "ABC2_hR4_166_a_b_c",
+    "alias": [
+        "ABC2_hR4_166_a_b_c"
+    ],
     "title": "Caswellsilverite (CrNaS$_{2}$, $F5_{1}$) Structure",
     "icsd": "42389",
     "ccdc": null,

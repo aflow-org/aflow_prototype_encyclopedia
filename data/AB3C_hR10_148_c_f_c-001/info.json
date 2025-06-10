@@ -1,7 +1,9 @@
 {
     "uid": "4YUA",
     "label": "AB3C_hR10_148_c_f_c-001",
-    "alias": "AB3C_hR10_148_c_f_c",
+    "alias": [
+        "AB3C_hR10_148_c_f_c"
+    ],
     "title": "Ilmenite (FeTiO$_{3}$, $E2_{2}$) Structure",
     "icsd": "30664",
     "ccdc": null,

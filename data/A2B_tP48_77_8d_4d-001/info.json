@@ -1,7 +1,9 @@
 {
     "uid": "GRWY",
     "label": "A2B_tP48_77_8d_4d-001",
-    "alias": "A2B_tP48_77_8d_4d",
+    "alias": [
+        "A2B_tP48_77_8d_4d"
+    ],
     "title": "H$_{2}$S III Structure",
     "icsd": "27034",
     "ccdc": null,

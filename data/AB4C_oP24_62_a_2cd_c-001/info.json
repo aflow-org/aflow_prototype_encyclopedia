@@ -1,7 +1,9 @@
 {
     "uid": "QVKJ",
     "label": "AB4C_oP24_62_a_2cd_c-001",
-    "alias": "AB4C_oP24_62_a_2cd_c",
+    "alias": [
+        "AB4C_oP24_62_a_2cd_c"
+    ],
     "title": "Chalcocyanite (CuSO$_{4}$) Structure",
     "icsd": "71017",
     "ccdc": null,

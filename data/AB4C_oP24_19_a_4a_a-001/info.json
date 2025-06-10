@@ -1,7 +1,9 @@
 {
     "uid": "43KD",
     "label": "AB4C_oP24_19_a_4a_a-001",
-    "alias": "AB4C_oP24_19_a_4a_a",
+    "alias": [
+        "AB4C_oP24_19_a_4a_a"
+    ],
     "title": "NaAlCl$_{4}$ Structure",
     "icsd": "8117",
     "ccdc": null,

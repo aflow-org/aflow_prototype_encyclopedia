@@ -1,7 +1,9 @@
 {
     "uid": "TJ6A",
     "label": "A3B_oP16_62_cd_c-001",
-    "alias": "A3B_oP16_62_cd_c",
+    "alias": [
+        "A3B_oP16_62_cd_c"
+    ],
     "title": "$\\epsilon$-Al$_{3}$Ni ($D0_{20}$) Structure",
     "icsd": "58040",
     "ccdc": null,

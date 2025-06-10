@@ -1,7 +1,9 @@
 {
     "uid": "P9BG",
     "label": "A2B5C22D2E8_oP156_62_d_c2d_2c10d_2c_4d-001",
-    "alias": "A2B5C22D2E8_oP156_62_d_c2d_2c10d_2c_4d",
+    "alias": [
+        "A2B5C22D2E8_oP156_62_d_c2d_2c10d_2c_4d"
+    ],
     "title": "Anthophyllite (Mg$_{5}$Fe$_{2}$Si$_{8}$O$_{22}$(OH)$_{2}$, $S4_{4}$) Structure",
     "icsd": "40294",
     "ccdc": null,

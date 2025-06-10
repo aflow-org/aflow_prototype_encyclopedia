@@ -1,7 +1,9 @@
 {
     "uid": "53FU",
     "label": "AB3C4_hP16_194_c_af_ef-001",
-    "alias": "AB3C4_hP16_194_c_af_ef",
+    "alias": [
+        "AB3C4_hP16_194_c_af_ef"
+    ],
     "title": "AlN$_{3}$Ti$_{4}$ Structure",
     "icsd": "190338",
     "ccdc": null,

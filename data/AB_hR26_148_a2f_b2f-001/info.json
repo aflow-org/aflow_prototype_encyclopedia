@@ -1,7 +1,9 @@
 {
     "uid": "5EQ4",
     "label": "AB_hR26_148_a2f_b2f-001",
-    "alias": "AB_hR26_148_b2f_a2f",
+    "alias": [
+        "AB_hR26_148_b2f_a2f"
+    ],
     "title": "PdAl Structure",
     "icsd": "58112",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "NKMF",
     "label": "ABC_hP3_187_b_c_e-001",
-    "alias": "ABC_hP3_187_a_d_f",
+    "alias": [
+        "ABC_hP3_187_a_d_f"
+    ],
     "title": "BaPtSb Structure",
     "icsd": "59186",
     "ccdc": null,

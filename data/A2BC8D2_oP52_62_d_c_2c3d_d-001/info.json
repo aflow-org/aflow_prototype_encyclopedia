@@ -1,7 +1,9 @@
 {
     "uid": "APE4",
     "label": "A2BC8D2_oP52_62_d_c_2c3d_d-001",
-    "alias": "A2BC8D2_oP52_62_d_c_2c3d_d",
+    "alias": [
+        "A2BC8D2_oP52_62_d_c_2c3d_d"
+    ],
     "title": "Danburite (CaB$_{2}$Si$_{2}$O$_{8}$, $S6_{3}$) Structure",
     "icsd": "29545",
     "ccdc": null,

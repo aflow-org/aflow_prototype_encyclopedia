@@ -1,7 +1,9 @@
 {
     "uid": "WL5U",
     "label": "AB2C_oC16_63_c_2c_c-001",
-    "alias": "AB2C_oC16_63_c_2c_c",
+    "alias": [
+        "AB2C_oC16_63_c_2c_c"
+    ],
     "title": "SrCuO$_{2}$ Structure",
     "icsd": "77291",
     "ccdc": null,

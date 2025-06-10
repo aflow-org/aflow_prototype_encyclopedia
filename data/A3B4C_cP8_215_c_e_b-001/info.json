@@ -1,7 +1,9 @@
 {
     "uid": "WCVT",
     "label": "A3B4C_cP8_215_c_e_b-001",
-    "alias": "A3B4C_cP8_215_d_e_a",
+    "alias": [
+        "A3B4C_cP8_215_d_e_a"
+    ],
     "title": "Sulvanite (Cu$_{3}$S$_{4}$V, $H2_{4}$) Structure",
     "icsd": "15490",
     "ccdc": null,

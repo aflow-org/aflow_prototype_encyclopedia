@@ -1,7 +1,9 @@
 {
     "uid": "PFBA",
     "label": "A2B2C3D12E4_tI184_142_f_f_be_3g_g-001",
-    "alias": "A2B2C3D12E4_tI184_142_f_f_be_3g_g",
+    "alias": [
+        "A2B2C3D12E4_tI184_142_f_f_be_3g_g"
+    ],
     "title": "Analcime (NaAlSi$_{2}$O$_{6}\\cdot$H$_{2}$O, $S6_{1}$) Structure",
     "icsd": "34874",
     "ccdc": null,

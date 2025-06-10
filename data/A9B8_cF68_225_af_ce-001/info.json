@@ -1,7 +1,9 @@
 {
     "uid": "X1EM",
     "label": "A9B8_cF68_225_af_ce-001",
-    "alias": "A9B8_cF68_225_af_ce",
+    "alias": [
+        "A9B8_cF68_225_af_ce"
+    ],
     "title": "Co$_{9}$S$_{8}$ ($D8_{9}$) Structure",
     "icsd": "23929",
     "ccdc": null,

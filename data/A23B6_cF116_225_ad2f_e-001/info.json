@@ -1,7 +1,9 @@
 {
     "uid": "W8MF",
     "label": "A23B6_cF116_225_ad2f_e-001",
-    "alias": "A23B6_cF116_225_bd2f_e",
+    "alias": [
+        "A23B6_cF116_225_bd2f_e"
+    ],
     "title": "Th$_{6}$Mn$_{23}$ ($D8_{a}$) Structure",
     "icsd": "104987",
     "ccdc": null,

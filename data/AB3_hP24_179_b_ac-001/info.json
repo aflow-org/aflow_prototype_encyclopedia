@@ -1,9 +1,11 @@
 {
     "uid": "45S0",
     "label": "AB3_hP24_179_b_ac-001",
-    "alias": "AB3_hP24_179_b_ac",
+    "alias": [
+        "AB3_hP24_179_b_ac"
+    ],
     "title": "AuF$_{3}$ Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "AuF3",
     "prototype_tex": "AuF$_{3}$",

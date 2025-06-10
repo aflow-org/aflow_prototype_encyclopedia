@@ -1,7 +1,9 @@
 {
     "uid": "2F93",
     "label": "AB2_tP6_137_a_d-001",
-    "alias": "AB2_tP6_137_a_d",
+    "alias": [
+        "AB2_tP6_137_a_d"
+    ],
     "title": "Coccinite (Red HgI$_{2}$, $C13$) Structure",
     "icsd": "241175",
     "ccdc": null,

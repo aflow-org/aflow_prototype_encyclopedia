@@ -1,7 +1,9 @@
 {
     "uid": "XJYL",
     "label": "AB3C_hP20_190_ac_i_f-001",
-    "alias": "AB3C_hP20_190_ac_i_f",
+    "alias": [
+        "AB3C_hP20_190_ac_i_f"
+    ],
     "title": "CsSO$_{3}$ ($K1_{2}$) Structure",
     "icsd": "26895",
     "ccdc": null,

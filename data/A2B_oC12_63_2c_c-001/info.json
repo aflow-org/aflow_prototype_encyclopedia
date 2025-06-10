@@ -1,7 +1,9 @@
 {
     "uid": "HPCM",
     "label": "A2B_oC12_63_2c_c-001",
-    "alias": "A2B_oC12_63_2c_c",
+    "alias": [
+        "A2B_oC12_63_2c_c"
+    ],
     "title": "ZrSi$_{2}$ ($C49$) Structure",
     "icsd": "652610",
     "ccdc": null,

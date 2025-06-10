@@ -1,7 +1,9 @@
 {
     "uid": "M3W6",
     "label": "A_mC4_12_i-001",
-    "alias": "A_mC4_12_i",
+    "alias": [
+        "A_mC4_12_i"
+    ],
     "title": "$\\alpha$-O$_{2}$ Structure",
     "icsd": "173933",
     "ccdc": null,

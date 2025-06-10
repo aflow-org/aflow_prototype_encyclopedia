@@ -1,7 +1,9 @@
 {
     "uid": "VQL6",
     "label": "A4B12C3_cI76_220_c_e_a-001",
-    "alias": "A4B12C3_cI76_220_c_e_a",
+    "alias": [
+        "A4B12C3_cI76_220_c_e_a"
+    ],
     "title": "Eulytine (Bi$_{4}$(SiO$_{4}$)$_{3}$, $S1_{5}$) Structure",
     "icsd": "402349",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "9BKR",
     "label": "A2B_oP12_60_d_c-003",
-    "alias": "A2B_oP12_60_d_c",
+    "alias": [
+        "A2B_oP12_60_d_c"
+    ],
     "title": "$\\alpha$-PbO$_{2}$ Structure",
     "icsd": "32691",
     "ccdc": null,

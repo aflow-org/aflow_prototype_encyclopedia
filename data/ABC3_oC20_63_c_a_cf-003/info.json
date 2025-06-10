@@ -1,7 +1,9 @@
 {
     "uid": "2T8B",
     "label": "ABC3_oC20_63_c_a_cf-003",
-    "alias": "ABC3_oC20_63_c_b_cf",
+    "alias": [
+        "ABC3_oC20_63_c_b_cf"
+    ],
     "title": "V$_{3}$AsC Structure",
     "icsd": "25761",
     "ccdc": null,

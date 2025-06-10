@@ -1,7 +1,9 @@
 {
     "uid": "S4UY",
     "label": "A3B_mP32_14_6e_2e-001",
-    "alias": "A3B_mP32_14_6e_2e",
+    "alias": [
+        "A3B_mP32_14_6e_2e"
+    ],
     "title": "$\\gamma$-WO$_{3}$ Structure",
     "icsd": "50727",
     "ccdc": null,

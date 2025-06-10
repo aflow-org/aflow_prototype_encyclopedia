@@ -1,9 +1,11 @@
 {
     "uid": "HZJ9",
     "label": "A_tP12_138_bi-001",
-    "alias": "A_tP12_138_bi",
+    "alias": [
+        "A_tP12_138_bi"
+    ],
     "title": "C (T12 Group IV) Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "C",
     "prototype_tex": "C",

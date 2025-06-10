@@ -1,7 +1,9 @@
 {
     "uid": "WBGV",
     "label": "AB2C2_oC20_63_c_f_2c-001",
-    "alias": "AB2C2_oC20_63_c_f_2c",
+    "alias": [
+        "AB2C2_oC20_63_c_f_2c"
+    ],
     "title": "Lepidocrocite [$\\gamma$-FeO(OH), $E0_{4}$] Structure",
     "icsd": "108876",
     "ccdc": null,

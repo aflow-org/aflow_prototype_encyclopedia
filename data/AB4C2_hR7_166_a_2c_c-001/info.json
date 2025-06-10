@@ -1,7 +1,9 @@
 {
     "uid": "SFS1",
     "label": "AB4C2_hR7_166_a_2c_c-001",
-    "alias": "AB4C2_hR7_166_a_2c_c",
+    "alias": [
+        "AB4C2_hR7_166_a_2c_c"
+    ],
     "title": "CaCu$_{4}$P$_{2}$ Structure",
     "icsd": "23251",
     "ccdc": null,

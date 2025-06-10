@@ -1,7 +1,9 @@
 {
     "uid": "C601",
     "label": "AB4C_tI12_82_c_g_a-001",
-    "alias": "AB4C_tI12_82_c_g_a",
+    "alias": [
+        "AB4C_tI12_82_c_g_a"
+    ],
     "title": "BPO$_{4}$ ($H0_{7}$) Structure",
     "icsd": "55082",
     "ccdc": null,

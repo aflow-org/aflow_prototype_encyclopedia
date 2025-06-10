@@ -1,7 +1,9 @@
 {
     "uid": "5WH8",
     "label": "ABC6D2_mC40_15_e_e_3f_f-001",
-    "alias": "ABC6D2_mC40_15_e_e_3f_f",
+    "alias": [
+        "ABC6D2_mC40_15_e_e_3f_f"
+    ],
     "title": "Esseneite (CaFeSi$_{2}$O$_{6}$) Structure",
     "icsd": "202160",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "B4LQ",
     "label": "AB_tI4_107_a_a-001",
-    "alias": "AB_tI4_107_a_a",
+    "alias": [
+        "AB_tI4_107_a_a"
+    ],
     "title": "GeP (High-pressure, superconducting) Structure",
     "icsd": "17032",
     "ccdc": null,

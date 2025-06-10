@@ -1,9 +1,9 @@
 {
     "uid": "9CFG",
     "label": "A4BC12D3_hR20_166_2c_a_2h_bc-001",
-    "alias": "A4BC12D3_hR20_166_2c_a_2h_bc-001",
+    "alias": null,
     "title": "Ba$_{4}$NbRu$_{3}$O$_{12}$ Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "Ba4NbO12Ru3",
     "prototype_tex": "Ba$_{4}$NbO$_{12}$Ru$_{3}$",

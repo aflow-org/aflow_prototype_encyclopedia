@@ -1,9 +1,11 @@
 {
     "uid": "GAZQ",
     "label": "A_hP9_154_ac-001",
-    "alias": "A_hP9_154_bc",
+    "alias": [
+        "A_hP9_154_bc"
+    ],
     "title": "S-II Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "S",
     "prototype_tex": "S",

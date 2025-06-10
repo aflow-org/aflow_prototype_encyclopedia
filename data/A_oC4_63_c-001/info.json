@@ -1,7 +1,9 @@
 {
     "uid": "AFG5",
     "label": "A_oC4_63_c-001",
-    "alias": "A_oC4_63_c",
+    "alias": [
+        "A_oC4_63_c"
+    ],
     "title": "$\\alpha$-U ($A20$) Structure",
     "icsd": "106205",
     "ccdc": null,

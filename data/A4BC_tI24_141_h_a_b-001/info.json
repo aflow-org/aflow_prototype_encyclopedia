@@ -1,7 +1,9 @@
 {
     "uid": "0FQT",
     "label": "A4BC_tI24_141_h_a_b-001",
-    "alias": "A4BC_tI24_141_h_b_a",
+    "alias": [
+        "A4BC_tI24_141_h_b_a"
+    ],
     "title": "Zircon (ZrSiO$_{4}$, $S1_{1}$) Structure",
     "icsd": "100239",
     "ccdc": null,

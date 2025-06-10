@@ -1,7 +1,9 @@
 {
     "uid": "7W3W",
     "label": "A3B_tI8_139_ad_b-001",
-    "alias": "A3B_tI8_139_bd_a",
+    "alias": [
+        "A3B_tI8_139_bd_a"
+    ],
     "title": "Al$_{3}$Ti ($D0_{22}$) Structure",
     "icsd": "58189",
     "ccdc": null,

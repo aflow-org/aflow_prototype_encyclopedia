@@ -1,7 +1,9 @@
 {
     "uid": "LX4R",
     "label": "AB_hP6_144_a_a-001",
-    "alias": "AB_hP6_144_a_a",
+    "alias": [
+        "AB_hP6_144_a_a"
+    ],
     "title": "ZnTe (high-pressure) Structure",
     "icsd": "80076",
     "ccdc": null,

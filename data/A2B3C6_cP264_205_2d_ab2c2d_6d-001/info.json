@@ -1,7 +1,9 @@
 {
     "uid": "Q2JD",
     "label": "A2B3C6_cP264_205_2d_ab2c2d_6d-001",
-    "alias": "A2B3C6_cP264_205_2d_ab2c2d_6d",
+    "alias": [
+        "A2B3C6_cP264_205_2d_ab2c2d_6d"
+    ],
     "title": "Ca$_{3}$Al$_{2}$O$_{6}$ Structure",
     "icsd": "1841",
     "ccdc": null,

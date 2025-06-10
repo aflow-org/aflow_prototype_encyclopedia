@@ -1,7 +1,9 @@
 {
     "uid": "L1GH",
     "label": "A8B6C_hR15_148_cf_f_a-001",
-    "alias": "A8B6C_hR15_148_cf_f_a",
+    "alias": [
+        "A8B6C_hR15_148_cf_f_a"
+    ],
     "title": "Li$_{7}$TaO$_{6}$ Structure",
     "icsd": "74949",
     "ccdc": null,

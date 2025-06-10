@@ -1,7 +1,9 @@
 {
     "uid": "ZX49",
     "label": "A16B40C12D6E5_cF316_216_eh_e2g2h_h_f_ae-001",
-    "alias": "A16B40C12D6E5_cF316_216_eh_e2g2h_h_f_be",
+    "alias": [
+        "A16B40C12D6E5_cF316_216_eh_e2g2h_h_f_be"
+    ],
     "title": "Murataite [(Y,Na)$_{6}$(Zn,Fe)$_{5}$Ti$_{12}$O$_{29}$(O,F)$_{10}$F$_{4}$] Structure",
     "icsd": "81595",
     "ccdc": null,

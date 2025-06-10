@@ -1,7 +1,9 @@
 {
     "uid": "S78A",
     "label": "A5B2_hP14_194_abcf_f-001",
-    "alias": "A5B2_hP14_194_abdf_f",
+    "alias": [
+        "A5B2_hP14_194_abdf_f"
+    ],
     "title": "W$_{2}$B$_{5}$ ($D8_{h}$) Structure",
     "icsd": "24283",
     "ccdc": null,

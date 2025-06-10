@@ -1,7 +1,9 @@
 {
     "uid": "EXDQ",
     "label": "A2B3_tP5_115_g_ag-001",
-    "alias": "A2B3_tP5_115_g_ag",
+    "alias": [
+        "A2B3_tP5_115_g_ag"
+    ],
     "title": "Rh$_{3}$P$_{2}$ Structure",
     "icsd": "35626",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "CZNF",
     "label": "A3B_hP8_176_h_c-001",
-    "alias": "A3B_hP8_176_h_c",
+    "alias": [
+        "A3B_hP8_176_h_c"
+    ],
     "title": "UCl$_{3}$ Structure",
     "icsd": "27857",
     "ccdc": null,

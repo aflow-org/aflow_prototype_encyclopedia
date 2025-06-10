@@ -1,7 +1,9 @@
 {
     "uid": "FEUM",
     "label": "A12B_hP13_191_cdei_a-001",
-    "alias": "A12B_hP13_191_cdei_a",
+    "alias": [
+        "A12B_hP13_191_cdei_a"
+    ],
     "title": "$D2_{a}$ (approximate TiBe$_{12}$) Structure",
     "icsd": "58745",
     "ccdc": null,

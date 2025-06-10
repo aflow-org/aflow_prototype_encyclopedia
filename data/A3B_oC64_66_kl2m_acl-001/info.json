@@ -1,7 +1,9 @@
 {
     "uid": "7JBJ",
     "label": "A3B_oC64_66_kl2m_acl-001",
-    "alias": "A3B_oC64_66_kl2m_bdl",
+    "alias": [
+        "A3B_oC64_66_kl2m_bdl"
+    ],
     "title": "$\\beta$-ThI$_{3}$ Structure",
     "icsd": "32681",
     "ccdc": null,

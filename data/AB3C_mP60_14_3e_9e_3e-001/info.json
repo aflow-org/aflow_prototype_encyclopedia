@@ -1,7 +1,9 @@
 {
     "uid": "XADC",
     "label": "AB3C_mP60_14_3e_9e_3e-001",
-    "alias": "AB3C_mP60_14_3e_9e_3e",
+    "alias": [
+        "AB3C_mP60_14_3e_9e_3e"
+    ],
     "title": "Parawollastonite (CaSiO$_{3}$, $S3_{3}$(II)) Structure",
     "icsd": "34908",
     "ccdc": null,

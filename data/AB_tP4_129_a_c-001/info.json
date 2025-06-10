@@ -1,7 +1,9 @@
 {
     "uid": "CWTN",
     "label": "AB_tP4_129_a_c-001",
-    "alias": "AB_tP4_129_a_c",
+    "alias": [
+        "AB_tP4_129_a_c"
+    ],
     "title": "Litharge (tetragonal PbO, $B10$) Structure",
     "icsd": "62840",
     "ccdc": null,

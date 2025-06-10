@@ -1,7 +1,9 @@
 {
     "uid": "MX6R",
     "label": "A22B_cF184_227_cdfg_a-001",
-    "alias": "A22B_cF184_227_cdfg_a",
+    "alias": [
+        "A22B_cF184_227_cdfg_a"
+    ],
     "title": "Zn$_{22}$Zr Structure",
     "icsd": "106238",
     "ccdc": null,

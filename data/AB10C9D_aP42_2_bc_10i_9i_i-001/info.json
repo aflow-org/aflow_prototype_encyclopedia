@@ -1,7 +1,9 @@
 {
     "uid": "NQQF",
     "label": "AB10C9D_aP42_2_bc_10i_9i_i-001",
-    "alias": "AB10C9D_aP42_2_ae_10i_9i_i",
+    "alias": [
+        "AB10C9D_aP42_2_ae_10i_9i_i"
+    ],
     "title": "Chalcanthite (CuSO$_{4}\\cdot$5H$_{2}$O, $H4_{10}$) Structure",
     "icsd": "4305",
     "ccdc": null,

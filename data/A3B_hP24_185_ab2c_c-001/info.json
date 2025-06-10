@@ -1,7 +1,9 @@
 {
     "uid": "L8U5",
     "label": "A3B_hP24_185_ab2c_c-001",
-    "alias": "A3B_hP24_185_ab2c_c",
+    "alias": [
+        "A3B_hP24_185_ab2c_c"
+    ],
     "title": "Cu$_{3}$P Structure",
     "icsd": "15056",
     "ccdc": null,

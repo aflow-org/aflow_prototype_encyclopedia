@@ -1,7 +1,9 @@
 {
     "uid": "88N3",
     "label": "ABC2_tP4_115_a_c_g-001",
-    "alias": "ABC2_tP4_115_a_c_g",
+    "alias": [
+        "ABC2_tP4_115_a_c_g"
+    ],
     "title": "$F6_{1}$ Chalcopyrite (CuFeS$_{2}$) Structure ({\\em Obsolete})",
     "icsd": "27653",
     "ccdc": null,

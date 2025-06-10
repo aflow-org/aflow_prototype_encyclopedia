@@ -1,7 +1,9 @@
 {
     "uid": "2C2N",
     "label": "AB3_oP16_62_c_3c-001",
-    "alias": "AB3_oP16_62_c_3c",
+    "alias": [
+        "AB3_oP16_62_c_3c"
+    ],
     "title": "Molybdite (MoO$_{3}$, $D0_{8}$) Structure",
     "icsd": "158255",
     "ccdc": null,

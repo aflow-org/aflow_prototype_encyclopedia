@@ -1,7 +1,9 @@
 {
     "uid": "VV0Z",
     "label": "A3B_cI8_229_b_a-001",
-    "alias": "A3B_cI8_229_b_a",
+    "alias": [
+        "A3B_cI8_229_b_a"
+    ],
     "title": "High-pressure (200GPa) H$_{3}$S Structure",
     "icsd": "291502",
     "ccdc": null,

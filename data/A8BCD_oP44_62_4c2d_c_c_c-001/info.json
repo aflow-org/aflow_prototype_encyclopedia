@@ -1,7 +1,9 @@
 {
     "uid": "XAT4",
     "label": "A8BCD_oP44_62_4c2d_c_c_c-001",
-    "alias": "A8BCD_oP44_62_4c2d_c_c_c",
+    "alias": [
+        "A8BCD_oP44_62_4c2d_c_c_c"
+    ],
     "title": "SbCl$_{5}\\cdot$POCl$_{3}$ Structure",
     "icsd": "26493",
     "ccdc": null,

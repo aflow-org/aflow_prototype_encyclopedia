@@ -1,7 +1,9 @@
 {
     "uid": "MK0W",
     "label": "A2B_mC144_9_24a_12a-001",
-    "alias": "A2B_mC144_9_24a_12a",
+    "alias": [
+        "A2B_mC144_9_24a_12a"
+    ],
     "title": "Monoclinic ($Cc$) Low Tridymite (SiO$_{2}$) Structure",
     "icsd": "34867",
     "ccdc": null,

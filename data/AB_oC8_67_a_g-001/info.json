@@ -1,7 +1,9 @@
 {
     "uid": "JFD1",
     "label": "AB_oC8_67_a_g-001",
-    "alias": "AB_oC8_67_a_g.FeSe",
+    "alias": [
+        "AB_oC8_67_a_g.FeSe"
+    ],
     "title": "$\\alpha$-FeSe Structure",
     "icsd": "185465",
     "ccdc": null,

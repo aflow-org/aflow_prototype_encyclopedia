@@ -1,7 +1,9 @@
 {
     "uid": "H0F1",
     "label": "A_mP4_4_2a-001",
-    "alias": "A_mP4_4_2a",
+    "alias": [
+        "A_mP4_4_2a"
+    ],
     "title": "High-pressure Te Structure",
     "icsd": "52501",
     "ccdc": null,

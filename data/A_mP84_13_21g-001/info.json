@@ -1,7 +1,9 @@
 {
     "uid": "SEQF",
     "label": "A_mP84_13_21g-001",
-    "alias": "A_mP84_13_21g",
+    "alias": [
+        "A_mP84_13_21g"
+    ],
     "title": "Monoclinic (Hittorf's) Phosphorus Structure",
     "icsd": "29273",
     "ccdc": null,

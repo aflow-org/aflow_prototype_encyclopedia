@@ -1,7 +1,9 @@
 {
     "uid": "1BSH",
     "label": "AB2_tI12_121_ab_i-001",
-    "alias": "AB2_tI12_121_ab_i",
+    "alias": [
+        "AB2_tI12_121_ab_i"
+    ],
     "title": "C17 (Fe$_{2}$B) Structure ({\\em Obsolete})",
     "icsd": "16809",
     "ccdc": null,

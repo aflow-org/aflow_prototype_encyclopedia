@@ -1,7 +1,9 @@
 {
     "uid": "676C",
     "label": "A4B_tI10_139_de_a-001",
-    "alias": "A4B_tI10_139_de_a",
+    "alias": [
+        "A4B_tI10_139_de_a"
+    ],
     "title": "$D1_{3}$ (BaAl$_{4}$) Structure",
     "icsd": "57513",
     "ccdc": null,

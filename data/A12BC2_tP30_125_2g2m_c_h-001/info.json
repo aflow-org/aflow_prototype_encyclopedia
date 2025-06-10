@@ -1,9 +1,9 @@
 {
     "uid": "UYGN",
     "label": "A12BC2_tP30_125_2g2m_c_h-001",
-    "alias": "A12BC2_tP30_125_2g2m_c_h-001",
+    "alias": null,
     "title": "Sm$_{2}$NiGa$_{12}$ Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "Ga12NiSm2",
     "prototype_tex": "Ga$_{12}$NiSm$_{2}$",

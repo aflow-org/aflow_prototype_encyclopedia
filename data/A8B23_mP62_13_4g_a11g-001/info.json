@@ -1,7 +1,9 @@
 {
     "uid": "UWFW",
     "label": "A8B23_mP62_13_4g_a11g-001",
-    "alias": "A8B23_mP62_13_4g_c11g",
+    "alias": [
+        "A8B23_mP62_13_4g_c11g"
+    ],
     "title": "Approximate High Temperature Mo$_{8}$O$_{23}$ Structure",
     "icsd": "202202",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "NF8F",
     "label": "A2B_tI12_141_e_a-002",
-    "alias": "A2B_tI12_141_e_a.ThSi2",
+    "alias": [
+        "A2B_tI12_141_e_a.ThSi2"
+    ],
     "title": "$\\alpha$-ThSi$_{2}$ ($C_{c}$) Structure",
     "icsd": "77320",
     "ccdc": null,

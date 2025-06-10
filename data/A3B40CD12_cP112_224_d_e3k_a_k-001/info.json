@@ -1,7 +1,9 @@
 {
     "uid": "R1HF",
     "label": "A3B40CD12_cP112_224_d_e3k_a_k-001",
-    "alias": "A3B40CD12_cP112_224_d_e3k_a_k",
+    "alias": [
+        "A3B40CD12_cP112_224_d_e3k_a_k"
+    ],
     "title": "PW$_{12}$O$_{40}\\cdot$3H$_{3}$O Structure",
     "icsd": "90637",
     "ccdc": null,

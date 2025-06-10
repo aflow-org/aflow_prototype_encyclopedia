@@ -1,7 +1,9 @@
 {
     "uid": "GK2A",
     "label": "A2B_oP24_61_2c_c-002",
-    "alias": "A2B_oP24_61_2c_c.TeO2",
+    "alias": [
+        "A2B_oP24_61_2c_c.TeO2"
+    ],
     "title": "Tellurite ($\\beta$-TeO$_{2}$, $C52$) Structure",
     "icsd": "26844",
     "ccdc": null,

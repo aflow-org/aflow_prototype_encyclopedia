@@ -1,7 +1,9 @@
 {
     "uid": "KN7L",
     "label": "A2B_oF24_70_e_a-001",
-    "alias": "A2B_oF24_70_e_a",
+    "alias": [
+        "A2B_oF24_70_e_a"
+    ],
     "title": "TiSi$_{2}$ ($C54$) Nowotony Chimney-Ladder Structure",
     "icsd": "1089",
     "ccdc": null,

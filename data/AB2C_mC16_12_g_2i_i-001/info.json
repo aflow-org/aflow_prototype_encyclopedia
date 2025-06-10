@@ -1,7 +1,9 @@
 {
     "uid": "JGDH",
     "label": "AB2C_mC16_12_g_2i_i-001",
-    "alias": "AB2C_mC16_12_g_2i_i",
+    "alias": [
+        "AB2C_mC16_12_g_2i_i"
+    ],
     "title": "Monoclinic FeTlSe$_{2}$ Structure",
     "icsd": "100354",
     "ccdc": null,

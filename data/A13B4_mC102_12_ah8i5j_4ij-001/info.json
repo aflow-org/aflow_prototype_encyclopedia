@@ -1,7 +1,9 @@
 {
     "uid": "U8YR",
     "label": "A13B4_mC102_12_ah8i5j_4ij-001",
-    "alias": "A13B4_mC102_12_dg8i5j_4ij",
+    "alias": [
+        "A13B4_mC102_12_dg8i5j_4ij"
+    ],
     "title": "Al$_{13}$Fe$_{4}$ Structure",
     "icsd": "57795",
     "ccdc": null,

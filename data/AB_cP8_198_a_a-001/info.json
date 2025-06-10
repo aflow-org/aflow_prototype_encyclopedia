@@ -1,7 +1,9 @@
 {
     "uid": "LCVR",
     "label": "AB_cP8_198_a_a-001",
-    "alias": "AB_cP8_198_a_a.alpha-CO",
+    "alias": [
+        "AB_cP8_198_a_a.alpha-CO"
+    ],
     "title": "$\\alpha$-CO ($B21$) Structure",
     "icsd": "26962",
     "ccdc": null,

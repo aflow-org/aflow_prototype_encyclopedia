@@ -1,7 +1,9 @@
 {
     "uid": "DNGY",
     "label": "A2B_oP12_62_2c_c-002",
-    "alias": "A2B_oP12_62_2c_c.HgCl2",
+    "alias": [
+        "A2B_oP12_62_2c_c.HgCl2"
+    ],
     "title": "HgCl$_{2}$ ($C25$) Structure",
     "icsd": "26722",
     "ccdc": null,

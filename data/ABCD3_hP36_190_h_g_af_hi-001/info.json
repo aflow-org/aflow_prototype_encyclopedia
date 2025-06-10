@@ -1,7 +1,9 @@
 {
     "uid": "XFRG",
     "label": "ABCD3_hP36_190_h_g_af_hi-001",
-    "alias": "ABCD3_hP36_190_h_g_af_hi",
+    "alias": [
+        "ABCD3_hP36_190_h_g_af_hi"
+    ],
     "title": "Bastn\\\"{a}site [CeF(CO$_{3}$), $G7_{1}$] Structure",
     "icsd": "72939",
     "ccdc": null,

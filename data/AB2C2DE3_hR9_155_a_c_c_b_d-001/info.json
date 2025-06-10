@@ -1,7 +1,9 @@
 {
     "uid": "Q3TB",
     "label": "AB2C2DE3_hR9_155_a_c_c_b_d-001",
-    "alias": "AB2C2DE3_hR9_155_b_c_c_a_e",
+    "alias": [
+        "AB2C2DE3_hR9_155_b_c_c_a_e"
+    ],
     "title": "KBe$_{2}$BO$_{3}$F$_{2}$ Structure",
     "icsd": "77277",
     "ccdc": null,

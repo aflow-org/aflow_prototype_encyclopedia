@@ -1,7 +1,9 @@
 {
     "uid": "1YM0",
     "label": "A5B6C2_hP13_157_2ac_2c_b-001",
-    "alias": "A5B6C2_hP13_157_2ac_2c_b",
+    "alias": [
+        "A5B6C2_hP13_157_2ac_2c_b"
+    ],
     "title": "Ag$_{5}$Pb$_{2}$O$_{6}$ Structure",
     "icsd": "24038",
     "ccdc": null,

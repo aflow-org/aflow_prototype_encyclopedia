@@ -1,7 +1,9 @@
 {
     "uid": "TWQQ",
     "label": "A2B_oI12_74_h_e-001",
-    "alias": "A2B_oI12_74_h_e",
+    "alias": [
+        "A2B_oI12_74_h_e"
+    ],
     "title": "KHg$_{2}$ Structure",
     "icsd": "104303",
     "ccdc": null,

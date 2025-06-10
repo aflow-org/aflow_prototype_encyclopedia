@@ -1,7 +1,9 @@
 {
     "uid": "MPB6",
     "label": "A_hR3_166_ac-001",
-    "alias": "A_hR3_166_ac",
+    "alias": [
+        "A_hR3_166_ac"
+    ],
     "title": "$\\alpha$-Sm ($C19$) Structure",
     "icsd": "76031",
     "ccdc": null,

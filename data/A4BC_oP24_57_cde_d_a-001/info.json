@@ -1,7 +1,9 @@
 {
     "uid": "JM5X",
     "label": "A4BC_oP24_57_cde_d_a-001",
-    "alias": "A4BC_oP24_57_cde_d_a",
+    "alias": [
+        "A4BC_oP24_57_cde_d_a"
+    ],
     "title": "SrUO$_{4}$ Structure",
     "icsd": "23196",
     "ccdc": null,

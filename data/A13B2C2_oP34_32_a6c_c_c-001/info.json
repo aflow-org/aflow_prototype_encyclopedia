@@ -1,7 +1,9 @@
 {
     "uid": "16XX",
     "label": "A13B2C2_oP34_32_a6c_c_c-001",
-    "alias": "A13B2C2_oP34_32_a6c_c_c",
+    "alias": [
+        "A13B2C2_oP34_32_a6c_c_c"
+    ],
     "title": "Re$_{2}$O$_{5}$(SO$_{4}$)$_{2}$ Structure",
     "icsd": "421956",
     "ccdc": null,

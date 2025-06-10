@@ -1,7 +1,9 @@
 {
     "uid": "QTNQ",
     "label": "A3B_cP16_198_b_a-001",
-    "alias": "A3B_cP16_198_b_a",
+    "alias": [
+        "A3B_cP16_198_b_a"
+    ],
     "title": "Ammonia (NH$_{3}$, $D0_{1}$) Structure",
     "icsd": "84461",
     "ccdc": null,

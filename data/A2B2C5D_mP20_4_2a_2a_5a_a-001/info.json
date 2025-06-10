@@ -1,7 +1,9 @@
 {
     "uid": "674K",
     "label": "A2B2C5D_mP20_4_2a_2a_5a_a-001",
-    "alias": "A2B2C5D_mP20_4_2a_2a_5a_a",
+    "alias": [
+        "A2B2C5D_mP20_4_2a_2a_5a_a"
+    ],
     "title": "Li$_{2}$SO$_{4}\\cdot$H$_{2}$O ($H4_{8}$) Structure",
     "icsd": "201532",
     "ccdc": null,

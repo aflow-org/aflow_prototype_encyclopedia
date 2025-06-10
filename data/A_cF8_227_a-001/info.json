@@ -1,7 +1,9 @@
 {
     "uid": "X5M8",
     "label": "A_cF8_227_a-001",
-    "alias": "A_cF8_227_a",
+    "alias": [
+        "A_cF8_227_a"
+    ],
     "title": "Diamond ($A4$) Structure",
     "icsd": "53779",
     "ccdc": null,

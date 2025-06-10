@@ -1,7 +1,9 @@
 {
     "uid": "EHW6",
     "label": "AB4C_oC24_63_c_fg_c-001",
-    "alias": "AB4C_oC24_63_c_fg_c",
+    "alias": [
+        "AB4C_oC24_63_c_fg_c"
+    ],
     "title": "Anhydrite (CaSO$_{4}$, $H0_{1}$) Structure",
     "icsd": "40043",
     "ccdc": null,

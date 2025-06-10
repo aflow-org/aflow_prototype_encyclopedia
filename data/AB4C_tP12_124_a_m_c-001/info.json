@@ -1,7 +1,9 @@
 {
     "uid": "LAN3",
     "label": "AB4C_tP12_124_a_m_c-001",
-    "alias": "AB4C_tP12_124_a_m_c",
+    "alias": [
+        "AB4C_tP12_124_a_m_c"
+    ],
     "title": "Nb$_{4}$CoSi Structure",
     "icsd": "43233",
     "ccdc": null,

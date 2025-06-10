@@ -1,9 +1,11 @@
 {
     "uid": "TE0L",
     "label": "A_tI8_139_h-001",
-    "alias": "A_tI8_139_h",
+    "alias": [
+        "A_tI8_139_h"
+    ],
     "title": "Hypothetical Tetrahedrally Bonded Carbon with 4-Member Rings Model Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "C",
     "prototype_tex": "C",

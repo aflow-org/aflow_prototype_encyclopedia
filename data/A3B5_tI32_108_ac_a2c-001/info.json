@@ -1,7 +1,9 @@
 {
     "uid": "BY2X",
     "label": "A3B5_tI32_108_ac_a2c-001",
-    "alias": "A3B5_tI32_108_ac_a2c",
+    "alias": [
+        "A3B5_tI32_108_ac_a2c"
+    ],
     "title": "Sr$_{5}$Si$_{3}$ Structure ({\\em Obsolete})",
     "icsd": "15639",
     "ccdc": null,

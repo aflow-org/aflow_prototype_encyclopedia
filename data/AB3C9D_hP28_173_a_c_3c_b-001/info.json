@@ -1,7 +1,9 @@
 {
     "uid": "DVKH",
     "label": "AB3C9D_hP28_173_a_c_3c_b-001",
-    "alias": "AB3C9D_hP28_173_a_c_3c_b",
+    "alias": [
+        "AB3C9D_hP28_173_a_c_3c_b"
+    ],
     "title": "$P6_{3}$ La$_{3}$BWO$_{9}$ Structure",
     "icsd": "8359",
     "ccdc": null,

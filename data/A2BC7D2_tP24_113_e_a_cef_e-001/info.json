@@ -1,7 +1,9 @@
 {
     "uid": "QV01",
     "label": "A2BC7D2_tP24_113_e_a_cef_e-001",
-    "alias": "A2BC7D2_tP24_113_e_a_cef_e",
+    "alias": [
+        "A2BC7D2_tP24_113_e_a_cef_e"
+    ],
     "title": "Akermanite (Ca$_{2}$MgSi$_{2}$O$_{7}$, $S5_{3}$) Structure",
     "icsd": "50065",
     "ccdc": null,

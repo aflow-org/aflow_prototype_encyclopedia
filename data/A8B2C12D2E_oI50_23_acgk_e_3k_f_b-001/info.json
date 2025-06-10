@@ -1,7 +1,9 @@
 {
     "uid": "7NS2",
     "label": "A8B2C12D2E_oI50_23_acgk_e_3k_f_b-001",
-    "alias": "A8B2C12D2E_oI50_23_bcfk_i_3k_j_a",
+    "alias": [
+        "A8B2C12D2E_oI50_23_bcfk_i_3k_j_a"
+    ],
     "title": "Stannoidite (Cu$_{8}$(Fe,Zn)$_{3}$Sn$_{2}$S$_{12}$) Structure",
     "icsd": "41894",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "MJPK",
     "label": "A4B_cP40_205_cd_c-001",
-    "alias": "A4B_cP40_205_cd_c",
+    "alias": [
+        "A4B_cP40_205_cd_c"
+    ],
     "title": "SnI$_{4}$ (D1$_{1}$) Structure",
     "icsd": "38140",
     "ccdc": null,

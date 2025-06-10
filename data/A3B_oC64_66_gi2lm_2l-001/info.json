@@ -1,7 +1,9 @@
 {
     "uid": "DQEU",
     "label": "A3B_oC64_66_gi2lm_2l-001",
-    "alias": "A3B_oC64_66_gi2lm_2l",
+    "alias": [
+        "A3B_oC64_66_gi2lm_2l"
+    ],
     "title": "H$_{3}$S (60 GPa) Structure",
     "icsd": "291500",
     "ccdc": null,

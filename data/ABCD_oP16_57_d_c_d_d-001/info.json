@@ -1,7 +1,9 @@
 {
     "uid": "K4A8",
     "label": "ABCD_oP16_57_d_c_d_d-001",
-    "alias": "ABCD_oP16_57_d_c_d_d",
+    "alias": [
+        "ABCD_oP16_57_d_c_d_d"
+    ],
     "title": "KNCS ($F5_{9}$) Structure",
     "icsd": "67582",
     "ccdc": null,

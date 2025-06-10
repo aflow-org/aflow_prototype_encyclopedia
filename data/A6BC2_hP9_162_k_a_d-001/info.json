@@ -1,7 +1,9 @@
 {
     "uid": "80KE",
     "label": "A6BC2_hP9_162_k_a_d-001",
-    "alias": "A6BC2_hP9_162_k_a_d",
+    "alias": [
+        "A6BC2_hP9_162_k_a_d"
+    ],
     "title": "Rosiaite (PbSb$_{2}$O$_{6}$) Structure",
     "icsd": "81387",
     "ccdc": null,

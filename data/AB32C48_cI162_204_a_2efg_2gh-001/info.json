@@ -1,7 +1,9 @@
 {
     "uid": "9AQF",
     "label": "AB32C48_cI162_204_a_2efg_2gh-001",
-    "alias": "AB32C48_cI162_204_a_2efg_2gh",
+    "alias": [
+        "AB32C48_cI162_204_a_2efg_2gh"
+    ],
     "title": "Bergman [Mg$_{32}$(Al,Zn)$_{49}$] Structure",
     "icsd": "57968",
     "ccdc": null,

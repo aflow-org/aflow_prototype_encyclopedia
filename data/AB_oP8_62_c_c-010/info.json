@@ -1,7 +1,9 @@
 {
     "uid": "4N6D",
     "label": "AB_oP8_62_c_c-010",
-    "alias": "AB_oP8_62_c_c.NiSi",
+    "alias": [
+        "AB_oP8_62_c_c.NiSi"
+    ],
     "title": "$\\eta$-NiSi ($B_{d}$) Structure",
     "icsd": "30626",
     "ccdc": null,

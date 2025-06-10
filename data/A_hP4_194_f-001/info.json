@@ -1,7 +1,9 @@
 {
     "uid": "4AMD",
     "label": "A_hP4_194_f-001",
-    "alias": "A_hP4_194_f",
+    "alias": [
+        "A_hP4_194_f"
+    ],
     "title": "Lonsdaleite (Hexagonal Diamond) Structure",
     "icsd": "66465",
     "ccdc": null,

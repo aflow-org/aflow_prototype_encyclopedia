@@ -1,7 +1,9 @@
 {
     "uid": "GPY3",
     "label": "A3B_hR8_167_e_b-001",
-    "alias": "A3B_hR8_167_e_b",
+    "alias": [
+        "A3B_hR8_167_e_b"
+    ],
     "title": "FeF$_{3}$ ($D0_{12}$) Structure",
     "icsd": "16671",
     "ccdc": null,

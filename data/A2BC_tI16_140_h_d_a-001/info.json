@@ -1,7 +1,9 @@
 {
     "uid": "B7FR",
     "label": "A2BC_tI16_140_h_d_a-001",
-    "alias": "A2BC_tI16_140_h_d_a",
+    "alias": [
+        "A2BC_tI16_140_h_d_a"
+    ],
     "title": "KHF$_{2}$ ($F5_{2}$) Structure",
     "icsd": "18094",
     "ccdc": null,

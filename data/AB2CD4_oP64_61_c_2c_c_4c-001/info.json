@@ -1,7 +1,9 @@
 {
     "uid": "PKYK",
     "label": "AB2CD4_oP64_61_c_2c_c_4c-001",
-    "alias": "AB2CD4_oP64_61_c_2c_c_4c",
+    "alias": [
+        "AB2CD4_oP64_61_c_2c_c_4c"
+    ],
     "title": "Hambergite [Be$_{2}$BO$_{3}$(OH) ($G7_{2}$)] Structure",
     "icsd": "290144",
     "ccdc": null,

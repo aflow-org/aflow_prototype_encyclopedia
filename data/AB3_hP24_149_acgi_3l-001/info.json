@@ -1,7 +1,9 @@
 {
     "uid": "9DMX",
     "label": "AB3_hP24_149_acgi_3l-001",
-    "alias": "AB3_hP24_149_acgi_3l",
+    "alias": [
+        "AB3_hP24_149_acgi_3l"
+    ],
     "title": "Ti$_{3}$O (Room-Temperature) Structure",
     "icsd": "36055",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "KC70",
     "label": "A3B_hP8_158_d_a-001",
-    "alias": "A3B_hP8_158_d_a",
+    "alias": [
+        "A3B_hP8_158_d_a"
+    ],
     "title": "$\\beta$-RuCl$_{3}$ Structure",
     "icsd": "22093",
     "ccdc": null,

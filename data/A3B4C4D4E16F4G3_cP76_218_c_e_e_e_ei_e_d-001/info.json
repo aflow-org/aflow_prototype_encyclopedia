@@ -1,7 +1,9 @@
 {
     "uid": "BCKL",
     "label": "A3B4C4D4E16F4G3_cP76_218_c_e_e_e_ei_e_d-001",
-    "alias": "A3B4C4D4E16F4G3_cP76_218_c_e_e_e_ei_e_d",
+    "alias": [
+        "A3B4C4D4E16F4G3_cP76_218_c_e_e_e_ei_e_d"
+    ],
     "title": "Hauyne [(Na$_{0.5}$Ca$_{0.3}$K$_{0.2}$)$_{8}$(Al$_{6}$Si$_{6}$O$_{24}$)(SO$_{4}$)$_{1.5}$, $S6_{9}$] Structure",
     "icsd": "24441",
     "ccdc": null,

@@ -1,9 +1,9 @@
 {
     "uid": "7K0D",
     "label": "A18B_cF76_225_c2f_a-001",
-    "alias": "A18B_cF76_225_c2f_a-001",
+    "alias": null,
     "title": "High Temperature Cu$_{2}$Se Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "Cu2Se",
     "prototype_tex": "Cu$_{2}$Se",

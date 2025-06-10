@@ -1,7 +1,9 @@
 {
     "uid": "YVPA",
     "label": "AB3C_hP30_150_ef_3g_c2d-001",
-    "alias": "AB3C_hP30_150_ef_3g_c2d",
+    "alias": [
+        "AB3C_hP30_150_ef_3g_c2d"
+    ],
     "title": "KSO$_{3}$ ($K1_{1}$) Structure",
     "icsd": "27580",
     "ccdc": null,

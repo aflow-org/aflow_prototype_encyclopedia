@@ -1,7 +1,9 @@
 {
     "uid": "DS2R",
     "label": "A2BC4D_oF64_43_b_a_2b_a-001",
-    "alias": "A2BC4D_oF64_43_b_a_2b_a",
+    "alias": [
+        "A2BC4D_oF64_43_b_a_2b_a"
+    ],
     "title": "Archerite (KH$_{2}$PO$_{4}$) Structure",
     "icsd": "31151",
     "ccdc": null,

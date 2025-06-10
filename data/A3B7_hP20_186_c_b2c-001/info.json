@@ -1,7 +1,9 @@
 {
     "uid": "VGVG",
     "label": "A3B7_hP20_186_c_b2c-001",
-    "alias": "A3B7_hP20_186_c_b2c",
+    "alias": [
+        "A3B7_hP20_186_c_b2c"
+    ],
     "title": "Fe$_{3}$Th$_{7}$ ($D10_{2}$) Structure",
     "icsd": "108477",
     "ccdc": null,

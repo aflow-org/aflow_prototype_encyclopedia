@@ -1,7 +1,9 @@
 {
     "uid": "RDQF",
     "label": "A2B_tI6_139_e_a-001",
-    "alias": "A2B_tI6_139_e_a",
+    "alias": [
+        "A2B_tI6_139_e_a"
+    ],
     "title": "CaC$_{2}$-I ($C11_{a}$) Structure",
     "icsd": "56164",
     "ccdc": null,

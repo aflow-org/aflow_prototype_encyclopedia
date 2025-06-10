@@ -1,9 +1,11 @@
 {
     "uid": "XRQ1",
     "label": "A_mP8_10_2m2n-001",
-    "alias": "A_mP8_10_2m2n",
+    "alias": [
+        "A_mP8_10_2m2n"
+    ],
     "title": "S-carbon Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "C",
     "prototype_tex": "C",

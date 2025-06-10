@@ -1,7 +1,9 @@
 {
     "uid": "X9YK",
     "label": "A2B_hP6_191_h_e-001",
-    "alias": "A2B_hP6_191_h_e",
+    "alias": [
+        "A2B_hP6_191_h_e"
+    ],
     "title": "Cu$_{2}$Te ($C_{h}$) Structure",
     "icsd": "655706",
     "ccdc": null,

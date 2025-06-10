@@ -1,7 +1,9 @@
 {
     "uid": "MXB3",
     "label": "A7B6_hR13_166_ah_3c-001",
-    "alias": "A7B6_hR13_166_ah_3c",
+    "alias": [
+        "A7B6_hR13_166_ah_3c"
+    ],
     "title": "Fe$_{7}$W$_{6}$ ($D8_{5}$) $\\mu$-phase Structure",
     "icsd": "632620",
     "ccdc": null,

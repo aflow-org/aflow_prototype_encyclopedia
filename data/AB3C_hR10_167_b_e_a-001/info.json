@@ -1,7 +1,9 @@
 {
     "uid": "XMCY",
     "label": "AB3C_hR10_167_b_e_a-001",
-    "alias": "AB3C_hR10_167_b_e_a",
+    "alias": [
+        "AB3C_hR10_167_b_e_a"
+    ],
     "title": "PrNiO$_{3}$ Rhombohedral Perovskite Structure",
     "icsd": "69186",
     "ccdc": null,

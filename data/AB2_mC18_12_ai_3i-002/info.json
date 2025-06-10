@@ -1,7 +1,9 @@
 {
     "uid": "FY6X",
     "label": "AB2_mC18_12_ai_3i-002",
-    "alias": "AB2_mC18_12_ai_3i",
+    "alias": [
+        "AB2_mC18_12_ai_3i"
+    ],
     "title": "NbTe$_{2}$ Structure",
     "icsd": "14389",
     "ccdc": null,

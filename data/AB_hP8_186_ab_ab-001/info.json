@@ -1,7 +1,9 @@
 {
     "uid": "FSH2",
     "label": "AB_hP8_186_ab_ab-001",
-    "alias": "AB_hP8_186_ab_ab",
+    "alias": [
+        "AB_hP8_186_ab_ab"
+    ],
     "title": "Moissanite-4H SiC ($B5$) Structure",
     "icsd": "24170",
     "ccdc": null,

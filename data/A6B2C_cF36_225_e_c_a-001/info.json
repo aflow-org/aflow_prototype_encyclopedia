@@ -1,7 +1,9 @@
 {
     "uid": "L6LF",
     "label": "A6B2C_cF36_225_e_c_a-001",
-    "alias": "A6B2C_cF36_225_e_c_a",
+    "alias": [
+        "A6B2C_cF36_225_e_c_a"
+    ],
     "title": "K$_{2}$PtCl$_{6}$ ($J1_{1}$) Structure",
     "icsd": "31114",
     "ccdc": null,

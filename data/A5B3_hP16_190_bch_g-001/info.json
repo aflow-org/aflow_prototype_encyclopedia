@@ -1,7 +1,9 @@
 {
     "uid": "PJF4",
     "label": "A5B3_hP16_190_bch_g-001",
-    "alias": "A5B3_hP16_190_bdh_g",
+    "alias": [
+        "A5B3_hP16_190_bdh_g"
+    ],
     "title": "$\\alpha$-Sm$_{3}$Ge$_{5}$ (High-temperature) Structure",
     "icsd": "416581",
     "ccdc": null,

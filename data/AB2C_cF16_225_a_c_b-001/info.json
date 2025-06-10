@@ -1,7 +1,9 @@
 {
     "uid": "02WQ",
     "label": "AB2C_cF16_225_a_c_b-001",
-    "alias": "AB2C_cF16_225_a_c_b",
+    "alias": [
+        "AB2C_cF16_225_a_c_b"
+    ],
     "title": "Heusler (Cu$_{2}$AlMn, $L2_{1}$) Structure",
     "icsd": "607008",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "8GWY",
     "label": "A2B2C_mC20_15_ac_f_e-001",
-    "alias": "A2B2C_mC20_15_ad_f_e",
+    "alias": [
+        "A2B2C_mC20_15_ad_f_e"
+    ],
     "title": "Ag$_{2}$PbO$_{2}$ Structure",
     "icsd": "24037",
     "ccdc": null,

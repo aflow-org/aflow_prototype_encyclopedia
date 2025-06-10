@@ -1,7 +1,9 @@
 {
     "uid": "R5TH",
     "label": "ABC2_oI16_71_e_g_fi-001",
-    "alias": "ABC2_oI16_71_g_i_eh",
+    "alias": [
+        "ABC2_oI16_71_g_i_eh"
+    ],
     "title": "CsFeS$_{2}$ (100K) Structure",
     "icsd": "53234",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "54KB",
     "label": "A3B_mP8_11_3e_e-001",
-    "alias": "A3B_mP8_11_3e_e",
+    "alias": [
+        "A3B_mP8_11_3e_e"
+    ],
     "title": "ZrSe$_{3}$ Structure",
     "icsd": "652229",
     "ccdc": null,

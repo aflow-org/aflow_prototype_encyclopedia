@@ -1,7 +1,9 @@
 {
     "uid": "61ZR",
     "label": "AB4C17D4E_tP54_90_a_g_c4g_g_c-001",
-    "alias": "AB4C17D4E_tP54_90_a_g_c4g_g_c",
+    "alias": [
+        "AB4C17D4E_tP54_90_a_g_c4g_g_c"
+    ],
     "title": "BaCu$_{4}$[VO][PO$_{4}$]$_{4}$ Structure",
     "icsd": "406667",
     "ccdc": null,

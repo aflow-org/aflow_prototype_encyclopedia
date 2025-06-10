@@ -1,7 +1,9 @@
 {
     "uid": "1L9R",
     "label": "AB2_tP12_81_adg_2h-001",
-    "alias": "AB2_tP12_81_adg_2h",
+    "alias": [
+        "AB2_tP12_81_adg_2h"
+    ],
     "title": "GeSe$_{2}$ (High Pressure) Structure",
     "icsd": "90957",
     "ccdc": null,

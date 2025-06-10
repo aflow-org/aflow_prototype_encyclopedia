@@ -1,7 +1,9 @@
 {
     "uid": "MV4U",
     "label": "AB_hR6_160_b_b-001",
-    "alias": "AB_hR6_160_b_b",
+    "alias": [
+        "AB_hR6_160_b_b"
+    ],
     "title": "Millerite (NiS, $B13$) Structure",
     "icsd": "40054",
     "ccdc": null,

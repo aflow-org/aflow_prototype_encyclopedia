@@ -1,7 +1,9 @@
 {
     "uid": "8PL6",
     "label": "ABC4_oP12_16_ae_bd_2u-001",
-    "alias": "ABC4_oP12_16_ag_cd_2u",
+    "alias": [
+        "ABC4_oP12_16_ag_cd_2u"
+    ],
     "title": "AlPS$_{4}$ Structure",
     "icsd": "15910",
     "ccdc": null,

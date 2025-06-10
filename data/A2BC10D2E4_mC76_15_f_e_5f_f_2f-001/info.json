@@ -1,7 +1,9 @@
 {
     "uid": "8J4A",
     "label": "A2BC10D2E4_mC76_15_f_e_5f_f_2f-001",
-    "alias": "A2BC10D2E4_mC76_15_f_e_5f_f_2f",
+    "alias": [
+        "A2BC10D2E4_mC76_15_f_e_5f_f_2f"
+    ],
     "title": "Muscovite (KH$_{2}$Al$_{3}$Si$_{3}$O$_{12}$, $S5_{1}$) Structure",
     "icsd": "17049",
     "ccdc": null,

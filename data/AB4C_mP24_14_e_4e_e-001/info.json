@@ -1,7 +1,9 @@
 {
     "uid": "1E0C",
     "label": "AB4C_mP24_14_e_4e_e-001",
-    "alias": "AB4C_mP24_14_e_4e_e.K41",
+    "alias": [
+        "AB4C_mP24_14_e_4e_e.K41"
+    ],
     "title": "Ammonium Persulfate [(NH$_{4}$)SO$_{4}$, $K4_{1}$] Structure",
     "icsd": "4435",
     "ccdc": null,

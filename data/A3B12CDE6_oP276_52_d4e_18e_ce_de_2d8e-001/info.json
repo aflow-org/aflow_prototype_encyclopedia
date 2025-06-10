@@ -1,7 +1,9 @@
 {
     "uid": "40W9",
     "label": "A3B12CDE6_oP276_52_d4e_18e_ce_de_2d8e-001",
-    "alias": "A3B12CDE6_oP276_52_d4e_18e_ce_de_2d8e",
+    "alias": [
+        "A3B12CDE6_oP276_52_d4e_18e_ce_de_2d8e"
+    ],
     "title": "Carnallite [Mg(H$_{2}$O)$_{6}$KCl$_{3}$] Structure",
     "icsd": "64691",
     "ccdc": null,

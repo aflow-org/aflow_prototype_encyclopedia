@@ -1,7 +1,9 @@
 {
     "uid": "CH4P",
     "label": "ABCD_mP16_14_e_e_e_e-001",
-    "alias": "ABCD_mP16_14_e_e_e_e",
+    "alias": [
+        "ABCD_mP16_14_e_e_e_e"
+    ],
     "title": "Cu(OH)Cl Structure",
     "icsd": "91088",
     "ccdc": null,

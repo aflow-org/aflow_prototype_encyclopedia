@@ -1,7 +1,9 @@
 {
     "uid": "G4EJ",
     "label": "AB2_hP6_186_b_ab-001",
-    "alias": "AB2_hP6_186_b_ab",
+    "alias": [
+        "AB2_hP6_186_b_ab"
+    ],
     "title": "C27 (CdI$_{2}$) Structure ({\\em Questionable})",
     "icsd": "38116",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "SD1B",
     "label": "A3B2C2_hR7_166_d_ab_c-001",
-    "alias": "A3B2C2_hR7_166_d_ab_c",
+    "alias": [
+        "A3B2C2_hR7_166_d_ab_c"
+    ],
     "title": "Shandite (Ni$_{3}$Pb$_{2}$S$_{2}$) Structure",
     "icsd": "417632",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "NR43",
     "label": "AB6C_tP32_86_c_3g_d-001",
-    "alias": "AB6C_tP32_86_d_3g_c",
+    "alias": [
+        "AB6C_tP32_86_d_3g_c"
+    ],
     "title": "NaSb(OH)$_{6}$ ($J1_{11}$) Structure",
     "icsd": "4211",
     "ccdc": null,

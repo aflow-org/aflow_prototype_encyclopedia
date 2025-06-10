@@ -1,7 +1,9 @@
 {
     "uid": "F0CN",
     "label": "ABC_hP6_194_c_d_a-001",
-    "alias": "ABC_hP6_194_c_d_a",
+    "alias": [
+        "ABC_hP6_194_c_d_a"
+    ],
     "title": "LiBC Structure",
     "icsd": "78731",
     "ccdc": null,

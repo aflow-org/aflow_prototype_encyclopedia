@@ -1,7 +1,9 @@
 {
     "uid": "CHL9",
     "label": "AB_cF16_227_a_b-001",
-    "alias": "AB_cF16_227_a_b",
+    "alias": [
+        "AB_cF16_227_a_b"
+    ],
     "title": "NaTl ($B32$) Structure",
     "icsd": "645049",
     "ccdc": null,

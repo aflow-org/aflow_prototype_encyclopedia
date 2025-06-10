@@ -1,9 +1,9 @@
 {
     "uid": "J58A",
     "label": "A11B3_mC28_12_a5i_ci-001",
-    "alias": "A11B3_mC28_12_a5i_ci-001",
+    "alias": null,
     "title": "Au$_{11}$Mn$_{3}$ Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "Au11Mn3",
     "prototype_tex": "Au$_{11}$Mn$_{3}$",

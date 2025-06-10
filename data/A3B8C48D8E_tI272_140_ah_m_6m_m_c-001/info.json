@@ -1,9 +1,9 @@
 {
     "uid": "DKUZ",
     "label": "A3B8C48D8E_tI272_140_ah_m_6m_m_c-001",
-    "alias": "A3B8C48D8E_tI272_140_ah_m_6m_m_c-001",
+    "alias": null,
     "title": "Low Temperature Body-Centered Tetragonal CH$_{3}$NH$_{3}$PbBr$_{3}$ Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "Br3CH6NPb",
     "prototype_tex": "Br$_{3}$CH$_{6}$NPb",

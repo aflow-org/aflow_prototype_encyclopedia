@@ -1,7 +1,9 @@
 {
     "uid": "JDL2",
     "label": "A12B_cI26_204_g_a-001",
-    "alias": "A12B_cI26_204_g_a",
+    "alias": [
+        "A12B_cI26_204_g_a"
+    ],
     "title": "Al$_{12}$W Structure",
     "icsd": "58207",
     "ccdc": null,

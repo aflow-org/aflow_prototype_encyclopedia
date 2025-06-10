@@ -1,7 +1,9 @@
 {
     "uid": "KLNT",
     "label": "A6BC_hP16_163_i_b_c-001",
-    "alias": "A6BC_hP16_163_i_b_c",
+    "alias": [
+        "A6BC_hP16_163_i_b_c"
+    ],
     "title": "NaSbF$_{4}$(OH)$_{2}$ ($J1_{12}$) Structure",
     "icsd": "25539",
     "ccdc": null,

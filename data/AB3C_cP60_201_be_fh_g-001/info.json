@@ -1,7 +1,9 @@
 {
     "uid": "WX0M",
     "label": "AB3C_cP60_201_be_fh_g-001",
-    "alias": "AB3C_cP60_201_be_fh_g",
+    "alias": [
+        "AB3C_cP60_201_be_fh_g"
+    ],
     "title": "KSbO$_{3}$ (High-Temperature) Structure",
     "icsd": "41203",
     "ccdc": null,

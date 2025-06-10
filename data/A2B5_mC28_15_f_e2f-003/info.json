@@ -1,7 +1,9 @@
 {
     "uid": "S3CP",
     "label": "A2B5_mC28_15_f_e2f-003",
-    "alias": "A2B5_mC28_15_f_e2f.Nb2O5",
+    "alias": [
+        "A2B5_mC28_15_f_e2f.Nb2O5"
+    ],
     "title": "$\\zeta$-Nb$_{2}$O$_{5}$ (B-Nb$_{2}$O$_{5}$) Structure",
     "icsd": "71317",
     "ccdc": null,

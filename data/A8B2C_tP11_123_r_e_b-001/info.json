@@ -1,9 +1,11 @@
 {
     "uid": "QEVQ",
     "label": "A8B2C_tP11_123_r_e_b-001",
-    "alias": "A8B2C_tP11_123_r_f_a",
+    "alias": [
+        "A8B2C_tP11_123_r_f_a"
+    ],
     "title": "$E6_{1}$ [Sr(OH)$_{2}$(H$_{2}$O)$_{8}$] Structure ({\\em Obsolete})",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "(H2O)8(OH)2Sr",
     "prototype_tex": "(H$_{2}$O)$_{8}$(OH)$_{2}$Sr",

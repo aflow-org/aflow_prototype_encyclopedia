@@ -1,7 +1,9 @@
 {
     "uid": "D3QE",
     "label": "A2B3_hP5_164_d_ad-001",
-    "alias": "A2B3_hP5_164_d_ad",
+    "alias": [
+        "A2B3_hP5_164_d_ad"
+    ],
     "title": "La$_{2}$O$_{3}$ ($D5_{2}$) Structure",
     "icsd": "100204",
     "ccdc": null,

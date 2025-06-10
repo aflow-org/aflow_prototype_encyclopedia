@@ -1,7 +1,9 @@
 {
     "uid": "M6W2",
     "label": "ABC4D_cP28_198_a_a_ab_a-001",
-    "alias": "ABC4D_cP28_198_a_a_ab_a",
+    "alias": [
+        "ABC4D_cP28_198_a_a_ab_a"
+    ],
     "title": "$\\alpha$-Carnegieite (NaAlSiO$_{4}$, $S6_{5}$) Structure",
     "icsd": "34884",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "AJGV",
     "label": "A12B_tI26_139_fij_a-001",
-    "alias": "A12B_tI26_139_fij_a",
+    "alias": [
+        "A12B_tI26_139_fij_a"
+    ],
     "title": "Mn$_{12}$Th ($D2_{b}$) Structure",
     "icsd": "104986",
     "ccdc": null,

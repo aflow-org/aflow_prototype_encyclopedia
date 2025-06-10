@@ -1,7 +1,9 @@
 {
     "uid": "72PY",
     "label": "A3B_hP8_194_af_c-001",
-    "alias": "A3B_hP8_194_af_c",
+    "alias": [
+        "A3B_hP8_194_af_c"
+    ],
     "title": "ReB$_{3}$ Structure",
     "icsd": "24361",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "7K4Q",
     "label": "A12B6C_cF608_210_4h_2h_e-001",
-    "alias": "A12B6C_cF608_210_4h_2h_e",
+    "alias": [
+        "A12B6C_cF608_210_4h_2h_e"
+    ],
     "title": "Te[OH]$_{6}$ Structure",
     "icsd": "16435",
     "ccdc": null,

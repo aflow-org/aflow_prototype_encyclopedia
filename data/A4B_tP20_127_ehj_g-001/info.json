@@ -1,7 +1,9 @@
 {
     "uid": "GQBH",
     "label": "A4B_tP20_127_ehj_g-001",
-    "alias": "A4B_tP20_127_ehj_g",
+    "alias": [
+        "A4B_tP20_127_ehj_g"
+    ],
     "title": "ThB$_{4}$ ($D1_{e}$) Structure",
     "icsd": "615570",
     "ccdc": null,

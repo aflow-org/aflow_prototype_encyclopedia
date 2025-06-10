@@ -1,7 +1,9 @@
 {
     "uid": "WBFX",
     "label": "AB_mP4_11_e_e-001",
-    "alias": "AB_mP4_11_e_e",
+    "alias": [
+        "AB_mP4_11_e_e"
+    ],
     "title": "NiTi Structure",
     "icsd": "157983",
     "ccdc": null,

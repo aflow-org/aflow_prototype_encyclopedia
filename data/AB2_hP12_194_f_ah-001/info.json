@@ -1,7 +1,9 @@
 {
     "uid": "LL0C",
     "label": "AB2_hP12_194_f_ah-001",
-    "alias": "AB2_hP12_194_f_ah",
+    "alias": [
+        "AB2_hP12_194_f_ah"
+    ],
     "title": "MgZn$_{2}$ Hexagonal Laves ($C14$) Structure",
     "icsd": "46006",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "KR2S",
     "label": "AB8C8D_tI72_120_b_2i_2i_c-001",
-    "alias": "AB8C8D_tI72_120_c_2i_2i_b",
+    "alias": [
+        "AB8C8D_tI72_120_c_2i_2i_b"
+    ],
     "title": "BeSO$_{4}\\cdot$4H$_{2}$O ($H4_{3}$) Structure",
     "icsd": "23219",
     "ccdc": null,

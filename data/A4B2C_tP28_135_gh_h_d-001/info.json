@@ -1,7 +1,9 @@
 {
     "uid": "20MM",
     "label": "A4B2C_tP28_135_gh_h_d-001",
-    "alias": "A4B2C_tP28_135_gh_h_d",
+    "alias": [
+        "A4B2C_tP28_135_gh_h_d"
+    ],
     "title": "ZnSb$_{2}$O$_{4}$ Structure",
     "icsd": "647391",
     "ccdc": null,

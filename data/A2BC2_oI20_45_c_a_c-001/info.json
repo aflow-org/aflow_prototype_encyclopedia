@@ -1,9 +1,11 @@
 {
     "uid": "LNLG",
     "label": "A2BC2_oI20_45_c_a_c-001",
-    "alias": "A2BC2_oI20_45_c_b_c",
+    "alias": [
+        "A2BC2_oI20_45_c_b_c"
+    ],
     "title": "MnGa$_{2}$Sb$_{2}$ Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "Ga2MnSb2",
     "prototype_tex": "Ga$_{2}$MnSb$_{2}$",

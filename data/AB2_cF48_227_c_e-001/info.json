@@ -1,7 +1,9 @@
 {
     "uid": "PR5K",
     "label": "AB2_cF48_227_c_e-001",
-    "alias": "AB2_cF48_227_c_e",
+    "alias": [
+        "AB2_cF48_227_c_e"
+    ],
     "title": "Ti$_{2}$C Structure",
     "icsd": "77473",
     "ccdc": null,

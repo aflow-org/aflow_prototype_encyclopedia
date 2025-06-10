@@ -1,7 +1,9 @@
 {
     "uid": "Q18C",
     "label": "A7BCD_oP80_61_7c_c_c_c-001",
-    "alias": "A7BCD_oP80_61_7c_c_c_c",
+    "alias": [
+        "A7BCD_oP80_61_7c_c_c_c"
+    ],
     "title": "(TiCl$_{4}\\cdot$POCl$_{3}$)$_{2}$ Structure",
     "icsd": "27520",
     "ccdc": null,

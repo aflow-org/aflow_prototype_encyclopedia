@@ -1,9 +1,11 @@
 {
     "uid": "3NUA",
     "label": "A5B3C16_cP96_222_ce_d_fi-001",
-    "alias": "A5B3C16_cP96_222_ce_d_fi",
+    "alias": [
+        "A5B3C16_cP96_222_ce_d_fi"
+    ],
     "title": "Ce$_{5}$Mo$_{3}$O$_{16}$ Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "Ce5Mo3O16",
     "prototype_tex": "Ce$_{5}$Mo$_{3}$O$_{16}$",

@@ -1,7 +1,9 @@
 {
     "uid": "X143",
     "label": "A3B4C_cP16_218_c_e_a-001",
-    "alias": "A3B4C_cP16_218_c_e_a",
+    "alias": [
+        "A3B4C_cP16_218_c_e_a"
+    ],
     "title": "Ag$_{3}$(PO$_{4}$) ($H2_{1}$) Structure",
     "icsd": "14000",
     "ccdc": null,

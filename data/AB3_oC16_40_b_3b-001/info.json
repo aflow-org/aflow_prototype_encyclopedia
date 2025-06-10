@@ -1,7 +1,9 @@
 {
     "uid": "WA7J",
     "label": "AB3_oC16_40_b_3b-001",
-    "alias": "AB3_oC16_40_b_3b",
+    "alias": [
+        "AB3_oC16_40_b_3b"
+    ],
     "title": "CeTe$_{3}$ Structure",
     "icsd": "170556",
     "ccdc": null,

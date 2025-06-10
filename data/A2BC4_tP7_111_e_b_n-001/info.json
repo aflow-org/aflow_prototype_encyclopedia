@@ -1,7 +1,9 @@
 {
     "uid": "34W5",
     "label": "A2BC4_tP7_111_e_b_n-001",
-    "alias": "A2BC4_tP7_111_f_a_n",
+    "alias": [
+        "A2BC4_tP7_111_f_a_n"
+    ],
     "title": "$E3_{1}$ ($\\beta$-Ag$_{2}$HgI$_{4}$) Structure",
     "icsd": "30264",
     "ccdc": null,

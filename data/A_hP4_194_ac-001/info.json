@@ -1,7 +1,9 @@
 {
     "uid": "9631",
     "label": "A_hP4_194_ac-001",
-    "alias": "A_hP4_194_ac",
+    "alias": [
+        "A_hP4_194_ac"
+    ],
     "title": "$\\alpha$-La ($A3'$) Structure",
     "icsd": "43573",
     "ccdc": null,

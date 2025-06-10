@@ -1,7 +1,9 @@
 {
     "uid": "QWV1",
     "label": "AB_oC8_63_c_c-001",
-    "alias": "AB_oC8_63_c_c",
+    "alias": [
+        "AB_oC8_63_c_c"
+    ],
     "title": "CrB ($B33$) Structure",
     "icsd": "44250",
     "ccdc": null,

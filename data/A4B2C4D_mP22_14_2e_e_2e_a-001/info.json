@@ -1,7 +1,9 @@
 {
     "uid": "RARL",
     "label": "A4B2C4D_mP22_14_2e_e_2e_a-001",
-    "alias": "A4B2C4D_mP22_14_2e_e_2e_a",
+    "alias": [
+        "A4B2C4D_mP22_14_2e_e_2e_a"
+    ],
     "title": "K$_{2}$Ni(CN)$_{4}$ Structure",
     "icsd": "24099",
     "ccdc": null,

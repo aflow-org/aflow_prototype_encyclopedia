@@ -1,7 +1,9 @@
 {
     "uid": "TJ17",
     "label": "A10B4C3_tI34_139_c2eg_2e_ae-001",
-    "alias": "A10B4C3_tI34_139_c2eg_2e_ae",
+    "alias": [
+        "A10B4C3_tI34_139_c2eg_2e_ae"
+    ],
     "title": "Sr$_{4}$Ti$_{3}$O$_{10}$ Structure",
     "icsd": "34630",
     "ccdc": null,

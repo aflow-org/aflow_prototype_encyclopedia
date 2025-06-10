@@ -1,7 +1,9 @@
 {
     "uid": "1JM3",
     "label": "ABC3_oP40_57_cd_e_cd2e-001",
-    "alias": "ABC3_oP40_57_cd_e_cd2e",
+    "alias": [
+        "ABC3_oP40_57_cd_e_cd2e"
+    ],
     "title": "NaNbO$_{3}$ $Pbcm$ Lueshite Perovskite Structure",
     "icsd": "23239",
     "ccdc": null,

@@ -1,9 +1,11 @@
 {
     "uid": "56NK",
     "label": "AB7_hR16_166_c_c2h-001",
-    "alias": "AB7_hR16_166_c_c2h",
+    "alias": [
+        "AB7_hR16_166_c_c2h"
+    ],
     "title": "TaTi$_{7}$ (BCC SQS-16) Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "TaTi7",
     "prototype_tex": "TaTi$_{7}$",

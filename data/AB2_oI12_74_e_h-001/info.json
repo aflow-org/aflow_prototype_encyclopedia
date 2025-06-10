@@ -1,7 +1,9 @@
 {
     "uid": "237T",
     "label": "AB2_oI12_74_e_h-001",
-    "alias": "AB2_oI12_74_e_h",
+    "alias": [
+        "AB2_oI12_74_e_h"
+    ],
     "title": "CeCu$_{2}$ Structure",
     "icsd": "102124",
     "ccdc": null,

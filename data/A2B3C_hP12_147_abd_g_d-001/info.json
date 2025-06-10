@@ -1,7 +1,9 @@
 {
     "uid": "H9Z3",
     "label": "A2B3C_hP12_147_abd_g_d-001",
-    "alias": "A2B3C_hP12_147_abd_g_d",
+    "alias": [
+        "A2B3C_hP12_147_abd_g_d"
+    ],
     "title": "Na$_{2}$SO$_{3}$ ($G3_{2}$) Structure",
     "icsd": "31816",
     "ccdc": null,

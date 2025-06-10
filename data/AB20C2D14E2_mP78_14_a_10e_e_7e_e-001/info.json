@@ -1,7 +1,9 @@
 {
     "uid": "KT73",
     "label": "AB20C2D14E2_mP78_14_a_10e_e_7e_e-001",
-    "alias": "AB20C2D14E2_mP78_14_a_10e_e_7e_e",
+    "alias": [
+        "AB20C2D14E2_mP78_14_a_10e_e_7e_e"
+    ],
     "title": "Tutton salt [Cu(NH$_{4}$)$_{2}$(SO$_{4}$)$_{2}\\cdot$H$_{2}$O, $H4_{4}$] Structure",
     "icsd": "23187",
     "ccdc": null,

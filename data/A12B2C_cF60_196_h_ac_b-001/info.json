@@ -1,9 +1,11 @@
 {
     "uid": "DJ7F",
     "label": "A12B2C_cF60_196_h_ac_b-001",
-    "alias": "A12B2C_cF60_196_h_bc_a",
+    "alias": [
+        "A12B2C_cF60_196_h_bc_a"
+    ],
     "title": "Cu$_{2}$Fe[CN]$_{6}$ Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "C6Cu2FeN6",
     "prototype_tex": "C$_{6}$Cu$_{2}$FeN$_{6}$",

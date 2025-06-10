@@ -1,7 +1,9 @@
 {
     "uid": "V1SG",
     "label": "A8B2CD12E2_mP100_14_8e_2e_ab_12e_2e-001",
-    "alias": "A8B2CD12E2_mP100_14_8e_2e_ad_12e_2e",
+    "alias": [
+        "A8B2CD12E2_mP100_14_8e_2e_ad_12e_2e"
+    ],
     "title": "Manganese-leonite 110K [K$_{2}$Mn(SO$_{4}$)$_{2}\\cdot$4H$_{2}$O] Structure",
     "icsd": "92702",
     "ccdc": null,

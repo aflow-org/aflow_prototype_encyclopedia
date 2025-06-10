@@ -1,7 +1,9 @@
 {
     "uid": "DCAK",
     "label": "A3B7_tP40_76_3a_7a-001",
-    "alias": "A3B7_tP40_76_3a_7a",
+    "alias": [
+        "A3B7_tP40_76_3a_7a"
+    ],
     "title": "Cs$_{3}$P$_{7}$ Structure",
     "icsd": "62259",
     "ccdc": null,

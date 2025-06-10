@@ -1,7 +1,9 @@
 {
     "uid": "4XVN",
     "label": "A3B3C_cI56_214_g_h_a-001",
-    "alias": "A3B3C_cI56_214_g_h_a",
+    "alias": [
+        "A3B3C_cI56_214_g_h_a"
+    ],
     "title": "Ca$_{3}$PI$_{3}$ Structure",
     "icsd": "9026",
     "ccdc": null,

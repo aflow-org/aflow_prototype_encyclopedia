@@ -1,7 +1,9 @@
 {
     "uid": "DU5A",
     "label": "A13B4_mC102_8_17a11b_8a2b-001",
-    "alias": "A13B4_mC102_8_17a11b_8a2b",
+    "alias": [
+        "A13B4_mC102_8_17a11b_8a2b"
+    ],
     "title": "Monoclinic Co$_{4}$Al$_{13}$ Structure",
     "icsd": "57599",
     "ccdc": null,

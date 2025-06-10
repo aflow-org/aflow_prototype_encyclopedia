@@ -1,7 +1,9 @@
 {
     "uid": "2XGR",
     "label": "AB2_tI48_80_2b_4b-001",
-    "alias": "AB2_tI48_80_2b_4b",
+    "alias": [
+        "AB2_tI48_80_2b_4b"
+    ],
     "title": "$\\beta$-NbO$_{2}$ Structure",
     "icsd": "35181",
     "ccdc": null,

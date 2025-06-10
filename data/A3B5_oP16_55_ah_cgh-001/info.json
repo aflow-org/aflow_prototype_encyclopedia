@@ -1,7 +1,9 @@
 {
     "uid": "WXAV",
     "label": "A3B5_oP16_55_ah_cgh-001",
-    "alias": "A3B5_oP16_55_ch_agh",
+    "alias": [
+        "A3B5_oP16_55_ch_agh"
+    ],
     "title": "Rh$_{5}$Ge$_{3}$ Structure",
     "icsd": "53891",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "EVKH",
     "label": "A4BC2D_oP32_62_2cd_a_2c_b-001",
-    "alias": "A4BC2D_oP32_62_2cd_b_2c_a",
+    "alias": [
+        "A4BC2D_oP32_62_2cd_b_2c_a"
+    ],
     "title": "$E3_{5}$ (K$_{2}$SnCl$_{4}\\cdot$H$_{2}$O) Structure",
     "icsd": "15971",
     "ccdc": null,

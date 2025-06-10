@@ -1,7 +1,9 @@
 {
     "uid": "2PY4",
     "label": "AB3_tP32_133_h_i2j-001",
-    "alias": "AB3_tP32_133_h_i2j",
+    "alias": [
+        "AB3_tP32_133_h_i2j"
+    ],
     "title": "$\\beta$-V$_{3}$S Structure",
     "icsd": "26516",
     "ccdc": null,

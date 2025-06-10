@@ -1,7 +1,9 @@
 {
     "uid": "VTDR",
     "label": "A11B4_cF120_227_acdf_e-001",
-    "alias": "A11B4_cF120_227_acdf_e",
+    "alias": [
+        "A11B4_cF120_227_acdf_e"
+    ],
     "title": "$\\gamma$-Ga$_{2}$O$_{3}$ Structure",
     "icsd": "236276",
     "ccdc": null,

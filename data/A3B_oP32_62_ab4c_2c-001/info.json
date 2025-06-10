@@ -1,7 +1,9 @@
 {
     "uid": "KPH8",
     "label": "A3B_oP32_62_ab4c_2c-001",
-    "alias": "A3B_oP32_62_ab4c_2c",
+    "alias": [
+        "A3B_oP32_62_ab4c_2c"
+    ],
     "title": "Original $\\beta$-WO$_{3}$ Structure ({\\em Obsolete})",
     "icsd": "836",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "S6UY",
     "label": "AB_mC24_12_3i_3i-001",
-    "alias": "AB_mC24_12_3i_3i",
+    "alias": [
+        "AB_mC24_12_3i_3i"
+    ],
     "title": "SiAs Structure",
     "icsd": "43227",
     "ccdc": null,

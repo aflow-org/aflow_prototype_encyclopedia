@@ -1,7 +1,9 @@
 {
     "uid": "TPXT",
     "label": "A_oC24_63_3f-001",
-    "alias": "A_oC24_63_3f",
+    "alias": [
+        "A_oC24_63_3f"
+    ],
     "title": "Si$_{24}$ Clathrate Structure",
     "icsd": "291479",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "D85X",
     "label": "A2B2C_tI10_139_d_e_a-002",
-    "alias": "A2B2C_tI10_139_d_e_a.TlCo2S2",
+    "alias": [
+        "A2B2C_tI10_139_d_e_a.TlCo2S2"
+    ],
     "title": "TlCo$_{2}$S$_{2}$ Structure",
     "icsd": "100438",
     "ccdc": null,

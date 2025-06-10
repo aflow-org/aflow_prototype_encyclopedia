@@ -1,7 +1,9 @@
 {
     "uid": "Z918",
     "label": "A2B6CD7_tP64_77_2d_6d_d_ab6d-001",
-    "alias": "A2B6CD7_tP64_77_2d_6d_d_ab6d",
+    "alias": [
+        "A2B6CD7_tP64_77_2d_6d_d_ab6d"
+    ],
     "title": "Pinnoite (MgB$_{2}$O[OH]$_{6}$) Structure",
     "icsd": "20662",
     "ccdc": null,

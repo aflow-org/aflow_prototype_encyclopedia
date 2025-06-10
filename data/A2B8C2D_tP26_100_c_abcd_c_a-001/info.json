@@ -1,7 +1,9 @@
 {
     "uid": "QC0E",
     "label": "A2B8C2D_tP26_100_c_abcd_c_a-001",
-    "alias": "A2B8C2D_tP26_100_c_abcd_c_a",
+    "alias": [
+        "A2B8C2D_tP26_100_c_abcd_c_a"
+    ],
     "title": "Fresnoite (Ba$_{2}$TiSi$_{2}$O$_{8}$) Structure",
     "icsd": "201844",
     "ccdc": null,

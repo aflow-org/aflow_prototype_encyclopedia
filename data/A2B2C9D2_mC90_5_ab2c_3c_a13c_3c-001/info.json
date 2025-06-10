@@ -1,7 +1,9 @@
 {
     "uid": "Q14S",
     "label": "A2B2C9D2_mC90_5_ab2c_3c_a13c_3c-001",
-    "alias": "A2B2C9D2_mC90_5_ab2c_3c_b13c_3c",
+    "alias": [
+        "A2B2C9D2_mC90_5_ab2c_3c_b13c_3c"
+    ],
     "title": "Bassanite [CaSO$_{4}$(H$_{2}$O)$_{0.5}$, $H4_{7}$] Structure",
     "icsd": "73262",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "PV6C",
     "label": "A3B6CD_tP44_85_acg_3g_bc_d-001",
-    "alias": "A3B6CD_tP44_85_bcg_3g_ac_e",
+    "alias": [
+        "A3B6CD_tP44_85_bcg_3g_ac_e"
+    ],
     "title": "Bromocarnallite ($E2_{6}$, KMg(H$_{2}$O)$_{6}$(Cl,Br)$_{3}$) Structure",
     "icsd": "30220",
     "ccdc": null,

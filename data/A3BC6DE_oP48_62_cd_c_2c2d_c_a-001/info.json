@@ -1,9 +1,9 @@
 {
     "uid": "NPKB",
     "label": "A3BC6DE_oP48_62_cd_c_2c2d_c_a-001",
-    "alias": "A3BC6DE_oP48_62_cd_c_2c2d_c_a-001",
+    "alias": null,
     "title": "Low Temperature Orthorhombic CH$_{3}$NH$_{3}$PbBr$_{3}$ Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "Br3CH6NPb",
     "prototype_tex": "Br$_{3}$CH$_{6}$NPb",

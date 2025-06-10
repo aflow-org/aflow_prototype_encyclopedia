@@ -1,7 +1,9 @@
 {
     "uid": "R0C0",
     "label": "A2B_tI6_139_d_a-001",
-    "alias": "A2B_tI6_139_d_a",
+    "alias": [
+        "A2B_tI6_139_d_a"
+    ],
     "title": "ThH$_{2}$ ($L'2_{b}$) Structure",
     "icsd": "24623",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "PYAM",
     "label": "A6BC3D_hR22_167_f_b_e_a-001",
-    "alias": "A6BC3D_hR22_167_f_b_e_a",
+    "alias": [
+        "A6BC3D_hR22_167_f_b_e_a"
+    ],
     "title": "Rinneite (K$_{3}$NaFeCl$_{6}$) Structure",
     "icsd": "170745",
     "ccdc": null,

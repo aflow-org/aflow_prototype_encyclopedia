@@ -1,9 +1,11 @@
 {
     "uid": "GUN1",
     "label": "AB_tP8_111_n_n-001",
-    "alias": "AB_tP8_111_n_n",
+    "alias": [
+        "AB_tP8_111_n_n"
+    ],
     "title": "VN (Low-temperature) Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "NV",
     "prototype_tex": "NV",

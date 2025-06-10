@@ -1,7 +1,9 @@
 {
     "uid": "4CEX",
     "label": "ABCD_cF16_216_a_b_c_d-001",
-    "alias": "ABCD_cF16_216_c_d_b_a",
+    "alias": [
+        "ABCD_cF16_216_c_d_b_a"
+    ],
     "title": "Quaternary Heusler (LiMgAuSn) Structure",
     "icsd": "16477",
     "ccdc": null,

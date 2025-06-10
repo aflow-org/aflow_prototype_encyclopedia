@@ -1,7 +1,9 @@
 {
     "uid": "YF8N",
     "label": "A_tI2_139_a-002",
-    "alias": "A_tI2_139_a.alpha-Pa",
+    "alias": [
+        "A_tI2_139_a.alpha-Pa"
+    ],
     "title": "Pa ($A_{a}$) Structure",
     "icsd": "648333",
     "ccdc": null,

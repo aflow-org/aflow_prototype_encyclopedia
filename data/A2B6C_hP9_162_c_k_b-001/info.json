@@ -1,9 +1,11 @@
 {
     "uid": "WZ1P",
     "label": "A2B6C_hP9_162_c_k_b-001",
-    "alias": "A2B6C_hP9_162_d_k_a",
+    "alias": [
+        "A2B6C_hP9_162_d_k_a"
+    ],
     "title": "$I1_{3}$ [SrCl$_{2}\\cdot$(H$_{2}$O)$_{6}$] ({\\em Obsolete}) Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "Cl2(H2O)6Sr",
     "prototype_tex": "Cl$_{2}$(H$_{2}$O)$_{6}$Sr",

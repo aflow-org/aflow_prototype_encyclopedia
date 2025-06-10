@@ -1,7 +1,9 @@
 {
     "uid": "4QQ6",
     "label": "A2B_oP12_18_2c_c-001",
-    "alias": "A2B_oP12_18_2c_c",
+    "alias": [
+        "A2B_oP12_18_2c_c"
+    ],
     "title": "$\\gamma$-TeO$_{2}$ Structure ({\\em Erroneous})",
     "icsd": "90733",
     "ccdc": null,

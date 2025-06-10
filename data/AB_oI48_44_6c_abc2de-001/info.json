@@ -1,7 +1,9 @@
 {
     "uid": "WDVJ",
     "label": "AB_oI48_44_6c_abc2de-001",
-    "alias": "AB_oI48_44_6d_ab2cde",
+    "alias": [
+        "AB_oI48_44_6d_ab2cde"
+    ],
     "title": "$B30$ (MgZn?) Structure ({\\em Problematic})",
     "icsd": "151402",
     "ccdc": null,

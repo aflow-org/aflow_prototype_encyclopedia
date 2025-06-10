@@ -1,7 +1,9 @@
 {
     "uid": "MHB8",
     "label": "AB24CD28E2_cP224_205_a_4d_b_2c4d_c-001",
-    "alias": "AB24CD28E2_cP224_205_a_4d_b_2c4d_c",
+    "alias": [
+        "AB24CD28E2_cP224_205_a_4d_b_2c4d_c"
+    ],
     "title": "$\\alpha$-Alum [KAl(SO$_{4}$)$_{2}$ $\\cdot$ 12H$_{2}$O, $H4_{13}$] Structure",
     "icsd": "280547",
     "ccdc": null,

@@ -1,9 +1,11 @@
 {
     "uid": "U3ZM",
     "label": "AB6C_tP16_132_b_io_c-001",
-    "alias": "AB6C_tP16_132_d_io_a",
+    "alias": [
+        "AB6C_tP16_132_d_io_a"
+    ],
     "title": "AgUF$_{6}$ Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "AgF6U",
     "prototype_tex": "AgF$_{6}$U",

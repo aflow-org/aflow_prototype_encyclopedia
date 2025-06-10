@@ -1,7 +1,9 @@
 {
     "uid": "DKTF",
     "label": "A2B17C6_oI100_46_ab_b8c_3c-001",
-    "alias": "A2B17C6_oI100_46_ab_b8c_3c",
+    "alias": [
+        "A2B17C6_oI100_46_ab_b8c_3c"
+    ],
     "title": "Nb$_{2}$Zr$_{6}$O$_{17}$ Structure",
     "icsd": "19039",
     "ccdc": null,

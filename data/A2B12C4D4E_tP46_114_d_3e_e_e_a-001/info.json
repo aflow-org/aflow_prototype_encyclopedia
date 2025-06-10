@@ -1,7 +1,9 @@
 {
     "uid": "PABV",
     "label": "A2B12C4D4E_tP46_114_d_3e_e_e_a-001",
-    "alias": "A2B12C4D4E_tP46_114_d_3e_e_e_a",
+    "alias": [
+        "A2B12C4D4E_tP46_114_d_3e_e_e_a"
+    ],
     "title": "Ag$_{2}$SO$_{4}\\cdot$4NH$_{3}$ ($H4_{17}$) Structure",
     "icsd": "36585",
     "ccdc": null,

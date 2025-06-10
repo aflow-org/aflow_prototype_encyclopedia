@@ -1,7 +1,9 @@
 {
     "uid": "YEJK",
     "label": "A4B3_hP14_176_ch_h-001",
-    "alias": "A4B3_hP14_176_ch_h",
+    "alias": [
+        "A4B3_hP14_176_ch_h"
+    ],
     "title": "$\\beta$-Si$_{3}$N$_{4}$ Structure",
     "icsd": "79798",
     "ccdc": null,

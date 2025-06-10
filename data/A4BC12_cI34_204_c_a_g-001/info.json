@@ -1,7 +1,9 @@
 {
     "uid": "GXVQ",
     "label": "A4BC12_cI34_204_c_a_g-001",
-    "alias": "A4BC12_cI34_204_c_a_g",
+    "alias": [
+        "A4BC12_cI34_204_c_a_g"
+    ],
     "title": "LaFe$_{4}$P$_{12}$ Structure",
     "icsd": "1286",
     "ccdc": null,

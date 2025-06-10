@@ -1,7 +1,9 @@
 {
     "uid": "CSTH",
     "label": "A3B_tI16_139_cde_e-001",
-    "alias": "A3B_tI16_139_cde_e",
+    "alias": [
+        "A3B_tI16_139_cde_e"
+    ],
     "title": "Al$_{3}$Zr ($D0_{23}$) Structure",
     "icsd": "107130",
     "ccdc": null,

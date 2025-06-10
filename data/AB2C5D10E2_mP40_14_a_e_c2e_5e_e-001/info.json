@@ -1,9 +1,9 @@
 {
     "uid": "Y16F",
     "label": "AB2C5D10E2_mP40_14_a_e_c2e_5e_e-001",
-    "alias": "AB2C5D10E2_mP40_14_a_e_c2e_5e_e-001",
+    "alias": null,
     "title": "Monoclinic Averievite [(CsCl)Cu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$] Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "ClCsCu5O2(VO4)2",
     "prototype_tex": "ClCsCu$_{5}$O$_{2}$(VO$_{4}$)$_{2}$",

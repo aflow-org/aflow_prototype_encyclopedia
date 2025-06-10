@@ -1,7 +1,9 @@
 {
     "uid": "0WNV",
     "label": "A7BC3D13_cF192_219_ce_a_d_bh-001",
-    "alias": "A7BC3D13_cF192_219_de_b_c_ah",
+    "alias": [
+        "A7BC3D13_cF192_219_de_b_c_ah"
+    ],
     "title": "Boracite (Mg$_{3}$B$_{7}$ClO$_{13}$) Structure",
     "icsd": "22009",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "EKF2",
     "label": "AB_tP4_129_c_c-001",
-    "alias": "AB_tP4_129_c_c",
+    "alias": [
+        "AB_tP4_129_c_c"
+    ],
     "title": "$\\gamma$-CuTi ($B11$) Structure",
     "icsd": "629389",
     "ccdc": null,

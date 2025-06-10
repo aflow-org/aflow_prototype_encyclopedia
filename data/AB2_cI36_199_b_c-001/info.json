@@ -1,7 +1,9 @@
 {
     "uid": "VGMG",
     "label": "AB2_cI36_199_b_c-001",
-    "alias": "AB2_cI36_199_b_c",
+    "alias": [
+        "AB2_cI36_199_b_c"
+    ],
     "title": "$C26_{a}$ (NO$_{2}$) ({\\em Obsolete}) Structure",
     "icsd": "31175",
     "ccdc": null,

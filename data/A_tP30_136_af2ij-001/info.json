@@ -1,7 +1,9 @@
 {
     "uid": "5T44",
     "label": "A_tP30_136_af2ij-001",
-    "alias": "A_tP30_136_bf2ij",
+    "alias": [
+        "A_tP30_136_bf2ij"
+    ],
     "title": "$\\beta$-U ($A_{b}$) Structure",
     "icsd": "76166",
     "ccdc": null,

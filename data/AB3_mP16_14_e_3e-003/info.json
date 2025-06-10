@@ -1,7 +1,9 @@
 {
     "uid": "WZYX",
     "label": "AB3_mP16_14_e_3e-003",
-    "alias": "AB3_mP16_14_e_3e.beta",
+    "alias": [
+        "AB3_mP16_14_e_3e.beta"
+    ],
     "title": "$\\beta$-B$_{2}$H$_{6}$ Structure",
     "icsd": "15598",
     "ccdc": null,

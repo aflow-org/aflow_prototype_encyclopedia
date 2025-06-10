@@ -1,7 +1,9 @@
 {
     "uid": "ZMXD",
     "label": "AB_hP12_156_3a2bc_3a2bc-001",
-    "alias": "AB_hP12_156_2ab3c_2ab3c",
+    "alias": [
+        "AB_hP12_156_2ab3c_2ab3c"
+    ],
     "title": "$\\beta$-CuI (Kurdyumova) Structure",
     "icsd": "30363",
     "ccdc": null,

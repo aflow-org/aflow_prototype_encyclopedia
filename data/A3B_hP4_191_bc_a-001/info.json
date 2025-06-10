@@ -1,7 +1,9 @@
 {
     "uid": "RYZL",
     "label": "A3B_hP4_191_bc_a-001",
-    "alias": "A3B_hP4_191_bc_a",
+    "alias": [
+        "A3B_hP4_191_bc_a"
+    ],
     "title": "Li$_{3}$N Structure",
     "icsd": "95939",
     "ccdc": null,

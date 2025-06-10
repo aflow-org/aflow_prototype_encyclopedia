@@ -1,7 +1,9 @@
 {
     "uid": "RYUC",
     "label": "AB4CD2_tP16_113_c_f_a_e-001",
-    "alias": "AB4CD2_tP16_113_c_f_a_e",
+    "alias": [
+        "AB4CD2_tP16_113_c_f_a_e"
+    ],
     "title": "Ammonium Chlorite (NH$_{4}$ClO$_{2}$) Structure",
     "icsd": "59921",
     "ccdc": null,

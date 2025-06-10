@@ -1,7 +1,9 @@
 {
     "uid": "88NB",
     "label": "A2BC3_oC24_63_e_c_cg-001",
-    "alias": "A2BC3_oC24_63_e_c_cg",
+    "alias": [
+        "A2BC3_oC24_63_e_c_cg"
+    ],
     "title": "Rasvumite (KFe$_{2}$S$_{3}$) Structure",
     "icsd": "100180",
     "ccdc": null,

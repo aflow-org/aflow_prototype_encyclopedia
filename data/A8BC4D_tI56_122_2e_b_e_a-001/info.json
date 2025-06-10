@@ -1,7 +1,9 @@
 {
     "uid": "PGWH",
     "label": "A8BC4D_tI56_122_2e_b_e_a-001",
-    "alias": "A8BC4D_tI56_122_2e_b_e_a",
+    "alias": [
+        "A8BC4D_tI56_122_2e_b_e_a"
+    ],
     "title": "NH$_{4}$H$_{2}$PO$_{4}$ Structure",
     "icsd": "28154",
     "ccdc": null,

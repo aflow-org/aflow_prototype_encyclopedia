@@ -1,7 +1,9 @@
 {
     "uid": "MALE",
     "label": "AB4_oC20_41_a_2b-001",
-    "alias": "AB4_oC20_41_a_2b",
+    "alias": [
+        "AB4_oC20_41_a_2b"
+    ],
     "title": "PtSn$_{4}$ ($D1_{c}$) Structure",
     "icsd": "105793",
     "ccdc": null,

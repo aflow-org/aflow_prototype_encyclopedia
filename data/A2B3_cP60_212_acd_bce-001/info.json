@@ -1,9 +1,11 @@
 {
     "uid": "J7V3",
     "label": "A2B3_cP60_212_acd_bce-001",
-    "alias": "A2B3_cP60_212_bcd_ace",
+    "alias": [
+        "A2B3_cP60_212_bcd_ace"
+    ],
     "title": "$\\gamma$-Fe$_{2}$O$_{3}$ ($D5_{7}$) Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "Fe2O3",
     "prototype_tex": "Fe$_{2}$O$_{3}$",

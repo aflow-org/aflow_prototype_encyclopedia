@@ -1,7 +1,9 @@
 {
     "uid": "BT10",
     "label": "A3B5C4D2_mC56_9_3a_5a_4a_2a-001",
-    "alias": "A3B5C4D2_mC56_9_3a_5a_4a_2a",
+    "alias": [
+        "A3B5C4D2_mC56_9_3a_5a_4a_2a"
+    ],
     "title": "Chrysotile [Mg$_{3}$Si$_{2}$O$_{5}$(OH)$_{4}$] Structure",
     "icsd": "413633",
     "ccdc": null,

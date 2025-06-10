@@ -1,7 +1,9 @@
 {
     "uid": "H422",
     "label": "AB3C4_oP32_33_a_3a_4a-001",
-    "alias": "AB3C4_oP32_33_a_3a_4a",
+    "alias": [
+        "AB3C4_oP32_33_a_3a_4a"
+    ],
     "title": "AsK$_{3}$S$_{4}$ Structure",
     "icsd": "2314",
     "ccdc": null,

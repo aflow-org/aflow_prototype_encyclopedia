@@ -1,7 +1,9 @@
 {
     "uid": "BZC9",
     "label": "A7B_hP24_187_ah2j2kn_j-001",
-    "alias": "A7B_hP24_187_ai2j2kn_j",
+    "alias": [
+        "A7B_hP24_187_ai2j2kn_j"
+    ],
     "title": "Cs$_{7}$O Structure",
     "icsd": "111",
     "ccdc": null,

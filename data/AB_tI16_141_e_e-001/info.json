@@ -1,7 +1,9 @@
 {
     "uid": "B9A8",
     "label": "AB_tI16_141_e_e-001",
-    "alias": "AB_tI16_141_e_e",
+    "alias": [
+        "AB_tI16_141_e_e"
+    ],
     "title": "MoB ($B_{g}$) Structure",
     "icsd": "24280",
     "ccdc": null,

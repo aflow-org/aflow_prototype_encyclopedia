@@ -1,7 +1,9 @@
 {
     "uid": "Z0S9",
     "label": "A3B_hP24_153_3c_2a-001",
-    "alias": "A3B_hP24_153_3c_2b",
+    "alias": [
+        "A3B_hP24_153_3c_2b"
+    ],
     "title": "CrCl$_{3}$ Structure",
     "icsd": "33578",
     "ccdc": null,

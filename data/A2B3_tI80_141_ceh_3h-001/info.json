@@ -1,7 +1,9 @@
 {
     "uid": "PJGC",
     "label": "A2B3_tI80_141_ceh_3h-001",
-    "alias": "A2B3_tI80_141_ceh_3h",
+    "alias": [
+        "A2B3_tI80_141_ceh_3h"
+    ],
     "title": "$\\beta$-In$_{2}$S$_{3}$ Structure",
     "icsd": "151644",
     "ccdc": null,

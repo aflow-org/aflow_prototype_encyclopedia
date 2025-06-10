@@ -1,7 +1,9 @@
 {
     "uid": "6CWC",
     "label": "AB3_tI16_140_b_ah-001",
-    "alias": "AB3_tI16_140_b_ah",
+    "alias": [
+        "AB3_tI16_140_b_ah"
+    ],
     "title": "$\\alpha$-SiU$_{3}$ ($D0_{c}$) Structure",
     "icsd": "31627",
     "ccdc": null,

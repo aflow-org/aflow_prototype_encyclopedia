@@ -1,7 +1,9 @@
 {
     "uid": "6CGK",
     "label": "AB_hP4_186_b_b-001",
-    "alias": "AB_hP4_186_b_b",
+    "alias": [
+        "AB_hP4_186_b_b"
+    ],
     "title": "Wurtzite (ZnS, $B4$) Structure",
     "icsd": "67453",
     "ccdc": null,

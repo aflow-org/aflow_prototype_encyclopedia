@@ -1,7 +1,9 @@
 {
     "uid": "BYND",
     "label": "A4B3_cI14_229_c_b-001",
-    "alias": "A4B3_cI14_229_c_b",
+    "alias": [
+        "A4B3_cI14_229_c_b"
+    ],
     "title": "Pt$_{3}$O$_{4}$ Structure",
     "icsd": "27836",
     "ccdc": null,

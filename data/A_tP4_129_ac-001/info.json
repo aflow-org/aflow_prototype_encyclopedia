@@ -1,7 +1,9 @@
 {
     "uid": "UNPK",
     "label": "A_tP4_129_ac-001",
-    "alias": "A_tP4_129_ac",
+    "alias": [
+        "A_tP4_129_ac"
+    ],
     "title": "$\\beta$-Np ($A_{d}$) Structure",
     "icsd": "44379",
     "ccdc": null,

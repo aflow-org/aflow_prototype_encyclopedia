@@ -1,7 +1,9 @@
 {
     "uid": "TSNN",
     "label": "AB_oC8_67_a_g-002",
-    "alias": "AB_oC8_67_a_g.PbO",
+    "alias": [
+        "AB_oC8_67_a_g.PbO"
+    ],
     "title": "$\\alpha$-PbO Structure",
     "icsd": "62846",
     "ccdc": null,

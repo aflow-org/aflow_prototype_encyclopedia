@@ -1,7 +1,9 @@
 {
     "uid": "SM1V",
     "label": "A_hP3_152_a-001",
-    "alias": "A_hP3_152_a",
+    "alias": [
+        "A_hP3_152_a"
+    ],
     "title": "$\\gamma$-Se ($A8$) Structure",
     "icsd": "22251",
     "ccdc": null,

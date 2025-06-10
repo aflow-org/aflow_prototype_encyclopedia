@@ -1,7 +1,9 @@
 {
     "uid": "3DRV",
     "label": "A3B_cP4_221_c_b-001",
-    "alias": "A3B_cP4_221_d_a",
+    "alias": [
+        "A3B_cP4_221_d_a"
+    ],
     "title": "$\\alpha$-ReO$_{3}$ ($D0_{9}$) Structure",
     "icsd": "16810",
     "ccdc": null,

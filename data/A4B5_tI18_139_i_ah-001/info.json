@@ -1,7 +1,9 @@
 {
     "uid": "84H6",
     "label": "A4B5_tI18_139_i_ah-001",
-    "alias": "A4B5_tI18_139_i_ah",
+    "alias": [
+        "A4B5_tI18_139_i_ah"
+    ],
     "title": "V$_{4}$Zn$_{5}$ Structure",
     "icsd": "106213",
     "ccdc": null,

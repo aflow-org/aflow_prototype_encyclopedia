@@ -1,7 +1,9 @@
 {
     "uid": "BTF5",
     "label": "A_cI16_220_c-001",
-    "alias": "A_cI16_220_c",
+    "alias": [
+        "A_cI16_220_c"
+    ],
     "title": "High-pressure cI16 Li Structure",
     "icsd": "109012",
     "ccdc": null,

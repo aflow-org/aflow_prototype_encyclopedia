@@ -1,7 +1,9 @@
 {
     "uid": "PNDR",
     "label": "A2B_mC6_12_i_a-001",
-    "alias": "A2B_mC6_12_i_a",
+    "alias": [
+        "A2B_mC6_12_i_a"
+    ],
     "title": "Tolbachite (CuCl$_{2}$) Structure",
     "icsd": "66645",
     "ccdc": null,

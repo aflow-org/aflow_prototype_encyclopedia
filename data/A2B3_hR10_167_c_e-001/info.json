@@ -1,7 +1,9 @@
 {
     "uid": "CBQY",
     "label": "A2B3_hR10_167_c_e-001",
-    "alias": "A2B3_hR10_167_c_e",
+    "alias": [
+        "A2B3_hR10_167_c_e"
+    ],
     "title": "Corundum ($\\alpha$-alumina, Al$_{2}$O$_{3}$, $D5_{1}$) Structure",
     "icsd": "9770",
     "ccdc": null,

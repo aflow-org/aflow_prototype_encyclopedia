@@ -1,9 +1,9 @@
 {
     "uid": "6RE9",
     "label": "AB_mC16_12_2i_2i-003",
-    "alias": "AB_mC16_12_2i_2i-003",
+    "alias": null,
     "title": "$\\gamma$-BiI Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "BiI",
     "prototype_tex": "BiI",

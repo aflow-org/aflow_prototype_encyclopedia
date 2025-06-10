@@ -1,7 +1,9 @@
 {
     "uid": "NZ59",
     "label": "A4B7C2D2_oC60_36_2b_a3b_2a_b-001",
-    "alias": "A4B7C2D2_oC60_36_2b_a3b_2a_b",
+    "alias": [
+        "A4B7C2D2_oC60_36_2b_a3b_2a_b"
+    ],
     "title": "Bertrandite (Be$_{4}$Si$_{2}$O$_{7}$(OH)$_{2}$, $S4_{6}$) Structure",
     "icsd": "64946",
     "ccdc": null,

@@ -1,7 +1,9 @@
 {
     "uid": "H0D0",
     "label": "ABCD3_oI48_73_d_c_c_cf-001",
-    "alias": "ABCD3_oI48_73_d_e_e_ef",
+    "alias": [
+        "ABCD3_oI48_73_d_e_e_ef"
+    ],
     "title": "KAg[CO$_{3}$] Structure",
     "icsd": "409484",
     "ccdc": null,

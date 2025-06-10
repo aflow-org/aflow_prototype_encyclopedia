@@ -1,7 +1,9 @@
 {
     "uid": "ALSR",
     "label": "ABC2_mP8_10_ac_eh_mn-001",
-    "alias": "ABC2_mP8_10_ac_eh_mn",
+    "alias": [
+        "ABC2_mP8_10_ac_eh_mn"
+    ],
     "title": "Muthmannite (AuAgTe$_{2}$) Structure",
     "icsd": "55250",
     "ccdc": null,

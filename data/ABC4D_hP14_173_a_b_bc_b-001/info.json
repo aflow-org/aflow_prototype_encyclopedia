@@ -1,7 +1,9 @@
 {
     "uid": "F86C",
     "label": "ABC4D_hP14_173_a_b_bc_b-001",
-    "alias": "ABC4D_hP14_173_a_b_bc_b",
+    "alias": [
+        "ABC4D_hP14_173_a_b_bc_b"
+    ],
     "title": "LiKSO$_{4}$ ($H1_{4}$) Structure",
     "icsd": "48136",
     "ccdc": null,

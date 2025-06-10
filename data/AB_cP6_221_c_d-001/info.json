@@ -1,7 +1,9 @@
 {
     "uid": "H75X",
     "label": "AB_cP6_221_c_d-001",
-    "alias": "AB_cP6_221_c_d",
+    "alias": [
+        "AB_cP6_221_c_d"
+    ],
     "title": "NbO Structure",
     "icsd": "14338",
     "ccdc": null,

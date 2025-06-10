@@ -1,7 +1,9 @@
 {
     "uid": "NFQU",
     "label": "A2B3C_mC48_15_aef_3f_2e-001",
-    "alias": "A2B3C_mC48_15_aef_3f_2e",
+    "alias": [
+        "A2B3C_mC48_15_aef_3f_2e"
+    ],
     "title": "$\\alpha$-Na$_{2}$PrO$_{3}$ Structure",
     "icsd": "154706",
     "ccdc": null,

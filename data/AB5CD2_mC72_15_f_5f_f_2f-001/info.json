@@ -1,7 +1,9 @@
 {
     "uid": "J4ZX",
     "label": "AB5CD2_mC72_15_f_5f_f_2f-001",
-    "alias": "AB5CD2_mC72_15_f_5f_f_2f",
+    "alias": [
+        "AB5CD2_mC72_15_f_5f_f_2f"
+    ],
     "title": "Pyrophyllite [AlSi$_{2}$O$_{5}$(OH), $S5_{6}$] Structure",
     "icsd": "26742",
     "ccdc": null,

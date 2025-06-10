@@ -1,7 +1,9 @@
 {
     "uid": "X3MC",
     "label": "AB_mP4_6_2a_2b-001",
-    "alias": "AB_mP4_6_2b_2a",
+    "alias": [
+        "AB_mP4_6_2b_2a"
+    ],
     "title": "Tetrataenite (FeNi) Structure",
     "icsd": "56386",
     "ccdc": null,

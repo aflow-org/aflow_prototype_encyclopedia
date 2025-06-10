@@ -1,7 +1,9 @@
 {
     "uid": "0ZM1",
     "label": "A3B2C10D3_aP36_2_be2i_2i_10i_3i-001",
-    "alias": "A3B2C10D3_aP36_2_ah2i_2i_10i_3i",
+    "alias": [
+        "A3B2C10D3_aP36_2_ah2i_2i_10i_3i"
+    ],
     "title": "Co$_{3}$(SeO$_{3}$)$_{3}\\cdot$H$_{2}$O Structure",
     "icsd": "66717",
     "ccdc": null,

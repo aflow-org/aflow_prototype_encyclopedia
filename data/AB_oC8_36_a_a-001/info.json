@@ -1,7 +1,9 @@
 {
     "uid": "SAL5",
     "label": "AB_oC8_36_a_a-001",
-    "alias": "AB_oC8_36_a_a",
+    "alias": [
+        "AB_oC8_36_a_a"
+    ],
     "title": "Low Temperature HCl Structure",
     "icsd": "27037",
     "ccdc": null,

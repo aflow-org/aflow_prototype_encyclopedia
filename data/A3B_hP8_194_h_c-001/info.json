@@ -1,7 +1,9 @@
 {
     "uid": "LJF8",
     "label": "A3B_hP8_194_h_c-001",
-    "alias": "A3B_hP8_194_h_c",
+    "alias": [
+        "A3B_hP8_194_h_c"
+    ],
     "title": "Ni$_{3}$Sn ($D0_{19}$) Structure",
     "icsd": "411928",
     "ccdc": null,

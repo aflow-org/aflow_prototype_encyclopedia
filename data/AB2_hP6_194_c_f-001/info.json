@@ -1,7 +1,9 @@
 {
     "uid": "A8HJ",
     "label": "AB2_hP6_194_c_f-001",
-    "alias": "AB2_hP6_194_c_f",
+    "alias": [
+        "AB2_hP6_194_c_f"
+    ],
     "title": "Molybdenite (MoS$_{2}$, $C7$) Structure",
     "icsd": "105091",
     "ccdc": null,

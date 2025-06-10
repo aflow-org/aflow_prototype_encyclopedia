@@ -1,7 +1,9 @@
 {
     "uid": "X02L",
     "label": "A2B3_oF40_43_b_ab-001",
-    "alias": "A2B3_oF40_43_b_ab",
+    "alias": [
+        "A2B3_oF40_43_b_ab"
+    ],
     "title": "Ag$_{2}$O$_{3}$ Structure",
     "icsd": "59193",
     "ccdc": null,

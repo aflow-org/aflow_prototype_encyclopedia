@@ -1,7 +1,9 @@
 {
     "uid": "XT2J",
     "label": "A2B3_hP20_159_bc_2c-001",
-    "alias": "A2B3_hP20_159_bc_2c",
+    "alias": [
+        "A2B3_hP20_159_bc_2c"
+    ],
     "title": "HP-Bi$_{2}$O$_{3}$ Structure",
     "icsd": "183150",
     "ccdc": null,

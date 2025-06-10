@@ -1,7 +1,9 @@
 {
     "uid": "AVWT",
     "label": "AB2_cF96_227_e_cf-001",
-    "alias": "AB2_cF96_227_e_cf",
+    "alias": [
+        "AB2_cF96_227_e_cf"
+    ],
     "title": "NiTi$_{2}$ Structure",
     "icsd": "105420",
     "ccdc": null,

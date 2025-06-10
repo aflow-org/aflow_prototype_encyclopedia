@@ -1,9 +1,9 @@
 {
     "uid": "YXNP",
     "label": "A4B4C6D13_cI54_217_c_c_d_ag-001",
-    "alias": "A4B4C6D13_cI54_217_c_c_d_ag-001",
+    "alias": null,
     "title": "$\\alpha$-Ba$_{8}$Ga$_{16}$Sn$_{30}$ Clathrate Structure",
-    "icsd": "none",
+    "icsd": null,
     "ccdc": null,
     "prototype": "Ba4Ga8Sn15",
     "prototype_tex": "Ba$_{4}$Ga$_{8}$Sn$_{15}$",

@@ -1,7 +1,9 @@
 {
     "uid": "Z7YH",
     "label": "AB_hP6_191_f_ad-001",
-    "alias": "AB_hP6_191_f_ad",
+    "alias": [
+        "AB_hP6_191_f_ad"
+    ],
     "title": "CoSn ($B35$) Structure",
     "icsd": "55564",
     "ccdc": null,

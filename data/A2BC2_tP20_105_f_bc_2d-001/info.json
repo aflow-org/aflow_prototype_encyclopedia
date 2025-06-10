@@ -1,7 +1,9 @@
 {
     "uid": "W96U",
     "label": "A2BC2_tP20_105_f_bc_2d-001",
-    "alias": "A2BC2_tP20_105_f_ac_2e",
+    "alias": [
+        "A2BC2_tP20_105_f_ac_2e"
+    ],
     "title": "BaGe$_{2}$As$_{2}$ Structure",
     "icsd": "26417",
     "ccdc": null,

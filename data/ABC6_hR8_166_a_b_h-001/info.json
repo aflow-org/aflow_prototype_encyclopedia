@@ -1,7 +1,9 @@
 {
     "uid": "XD6C",
     "label": "ABC6_hR8_166_a_b_h-001",
-    "alias": "ABC6_hR8_166_a_b_h",
+    "alias": [
+        "ABC6_hR8_166_a_b_h"
+    ],
     "title": "$\\beta$-Potassium Nitrate (KNO$_{3}$) Structure",
     "icsd": "385",
     "ccdc": null,

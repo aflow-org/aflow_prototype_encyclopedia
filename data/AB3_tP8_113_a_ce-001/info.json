@@ -1,7 +1,9 @@
 {
     "uid": "0A77",
     "label": "AB3_tP8_113_a_ce-001",
-    "alias": "AB3_tP8_113_a_ce",
+    "alias": [
+        "AB3_tP8_113_a_ce"
+    ],
     "title": "BaS$_{3}$ ($D0_{17}$) Structure",
     "icsd": "70059",
     "ccdc": null,

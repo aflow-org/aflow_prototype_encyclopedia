@@ -1,7 +1,9 @@
 {
     "uid": "4BR9",
     "label": "A6B2C_hP9_164_i_d_a-001",
-    "alias": "A6B2C_hP9_164_i_d_a",
+    "alias": [
+        "A6B2C_hP9_164_i_d_a"
+    ],
     "title": "Bararite [Trigonal (NH$_{4}$)$_{2}$SiF$_{6}$, $J1_{6}$] Structure",
     "icsd": "18027",
     "ccdc": null,

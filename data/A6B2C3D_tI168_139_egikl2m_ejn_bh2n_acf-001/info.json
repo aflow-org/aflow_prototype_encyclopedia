@@ -1,7 +1,9 @@
 {
     "uid": "8AAX",
     "label": "A6B2C3D_tI168_139_egikl2m_ejn_bh2n_acf-001",
-    "alias": "A6B2C3D_tI168_139_egikl2m_ejn_bh2n_acf",
+    "alias": [
+        "A6B2C3D_tI168_139_egikl2m_ejn_bh2n_acf"
+    ],
     "title": "K$_{3}$TlCl$_{6}\\cdot$2H$_{2}$O ($J3_{1}$) Structure",
     "icsd": "31681",
     "ccdc": null,

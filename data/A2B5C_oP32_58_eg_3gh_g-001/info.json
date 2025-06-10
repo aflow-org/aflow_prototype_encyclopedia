@@ -1,7 +1,9 @@
 {
     "uid": "V93J",
     "label": "A2B5C_oP32_58_eg_3gh_g-001",
-    "alias": "A2B5C_oP32_58_eg_3gh_g",
+    "alias": [
+        "A2B5C_oP32_58_eg_3gh_g"
+    ],
     "title": "Andalusite (Al$_{2}$SiO$_{5}$, $S0_{2}$) Structure",
     "icsd": "100395",
     "ccdc": null,

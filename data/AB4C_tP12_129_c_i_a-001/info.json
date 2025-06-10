@@ -1,7 +1,9 @@
 {
     "uid": "G1GD",
     "label": "AB4C_tP12_129_c_i_a-001",
-    "alias": "AB4C_tP12_129_c_i_a",
+    "alias": [
+        "AB4C_tP12_129_c_i_a"
+    ],
     "title": "NH$_{4}$Br ($B25$) Structure",
     "icsd": "26579",
     "ccdc": null,

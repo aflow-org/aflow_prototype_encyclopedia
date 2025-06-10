@@ -1,7 +1,9 @@
 {
     "uid": "21YK",
     "label": "AB2_hP6_194_b_f-001",
-    "alias": "AB2_hP6_194_b_f",
+    "alias": [
+        "AB2_hP6_194_b_f"
+    ],
     "title": "CaIn$_{2}$ Structure",
     "icsd": "619376",
     "ccdc": null,

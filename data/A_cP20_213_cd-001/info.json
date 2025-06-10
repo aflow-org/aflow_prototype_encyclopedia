@@ -1,7 +1,9 @@
 {
     "uid": "4VEQ",
     "label": "A_cP20_213_cd-001",
-    "alias": "A_cP20_213_cd",
+    "alias": [
+        "A_cP20_213_cd"
+    ],
     "title": "$\\beta$-Mn ($A13$) Structure",
     "icsd": "41775",
     "ccdc": null,

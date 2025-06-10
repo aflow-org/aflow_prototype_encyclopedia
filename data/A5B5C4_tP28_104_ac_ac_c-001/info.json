@@ -1,7 +1,9 @@
 {
     "uid": "GFEJ",
     "label": "A5B5C4_tP28_104_ac_ac_c-001",
-    "alias": "A5B5C4_tP28_104_ac_ac_c",
+    "alias": [
+        "A5B5C4_tP28_104_ac_ac_c"
+    ],
     "title": "Ba$_{5}$In$_{4}$Bi$_{5}$ Structure",
     "icsd": "54853",
     "ccdc": null,
