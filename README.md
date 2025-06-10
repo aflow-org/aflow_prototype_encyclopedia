@@ -23,20 +23,31 @@ The data presented here was published in [Computational Materials Science](https
 
 > **The AFLOW Library of Crystallographic Prototypes: Part 2**  
 > D. Hicks, M.J. Mehl, E. Gossett, C. Toher, O. Levy, R.M. Hanson, G.L.W. Hart, and S. Curtarolo  
-> *Computational Materials Science* **161 (Supplement)**, S1-S1011 (2019). 
+> *Computational Materials Science* **161 (Supplement)**, S1-S1011 (2019).  
 > [DOI 10.1016/j.commatsci.2018.10.043](https://doi.org/10.1016/j.commatsci.2018.10.043)
 > | [BibTeX](references/part_02.bib)
 
 > **The AFLOW Library of Crystallographic Prototypes: Part 3**  
 > D. Hicks, M.J. Mehl, M. Esters, C. Oses, O. Levy, G.L.W. Hart, C. Toher, and S. Curtarolo  
-> *Computational Materials Science* **199**, 110450 (2021). 
+> *Computational Materials Science* **199**, 110450 (2021).  
 > [DOI 10.1016/j.commatsci.2021.110450](https://doi.org/10.1016/j.commatsci.2021.110450)
 > | [BibTeX](references/part_03.bib)
 
 > **The AFLOW Library of Crystallographic Prototypes: Part 4**  
 > H. Eckert, S. Divilov, M.J. Mehl, M. Esters, A.C. Zettel, X. Campilongo, D. Hicks, and S. Curtarolo  
-> *Computational Materials Science* **240**, 112988 (2024). 
+> *Computational Materials Science* **240**, 112988 (2024).  
 > [DOI 10.1016/j.commatsci.2024.112988](https://doi.org/10.1016/j.commatsci.2024.112988)
 > | [BibTeX](references/part_04.bib)
 
+## License for this data collection
+   Copyright 2025 M.J. Mehl, H. Eckert, S. Curtarolo
 
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at  
+   [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)  
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
