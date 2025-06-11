@@ -1,9 +1,9 @@
 # AFLOW prototype encyclopedia - data collection
 
-[![Paper](https://img.shields.io/badge/ComMatSci-2024.112988-blue?logo=elsevier&logoColor=white)](https://doi.org/10.1016/j.commatsci.2024.112988)
-[![Paper](https://img.shields.io/badge/ComMatSci-2021.110450-blue?logo=elsevier&logoColor=white)](https://doi.org/10.1016/j.commatsci.2021.110450)
-[![Paper](https://img.shields.io/badge/ComMatSci-2018.10.043-blue?logo=elsevier&logoColor=white)](https://doi.org/10.1016/j.commatsci.2018.10.043)
-[![Paper](https://img.shields.io/badge/ComMatSci-2017.01.017-blue?logo=elsevier&logoColor=white)](https://doi.org/10.1016/j.commatsci.2017.01.017)
+[![Paper](https://img.shields.io/badge/ComMatSci-2024.112988-0B51B1?logo=elsevier&logoColor=white)](https://doi.org/10.1016/j.commatsci.2024.112988)
+[![Paper](https://img.shields.io/badge/ComMatSci-2021.110450-0B51B1?logo=elsevier&logoColor=white)](https://doi.org/10.1016/j.commatsci.2021.110450)
+[![Paper](https://img.shields.io/badge/ComMatSci-2018.10.043-0B51B1?logo=elsevier&logoColor=white)](https://doi.org/10.1016/j.commatsci.2018.10.043)
+[![Paper](https://img.shields.io/badge/ComMatSci-2017.01.017-0B51B1?logo=elsevier&logoColor=white)](https://doi.org/10.1016/j.commatsci.2017.01.017)
 
 
 ## Data Structure
