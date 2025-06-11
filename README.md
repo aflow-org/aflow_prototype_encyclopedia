@@ -7,7 +7,7 @@
 
 
 ## Data Structure
-- the data for each prototype is stored in a subfolder, named after it's label, under `data` 
+- the data for each prototype is stored in a subfolder, named after its label, under `data` 
 - structured information is available in `info.json`
 - `base.bib` contains the citation to the first known report of the original structure
 - `found_in.bib` contains the citation to the report that lead to the inclusion of this prototype into our dataset
