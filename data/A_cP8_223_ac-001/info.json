@@ -1,0 +1,30 @@
+{
+    "uid": "57F4",
+    "label": "A_cP8_223_ac-001",
+    "alias": null,
+    "title": "$\\beta$-F$_{2}$ Structure",
+    "icsd": 15821,
+    "ccdc": 1596505,
+    "prototype": "F2",
+    "prototype_tex": "F$_{2}$",
+    "number_of_species": 1,
+    "pearson_symbol": "cP8",
+    "space_group_number": 223,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
+        "a"
+    ],
+    "parameter_values": [
+        6.67
+    ],
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"$\\gamma$-O$_{2}$"
+    ],
+    "legacy": false,
+    "notes": "$\\beta$-F$_{2}$",
+    "comments": "Below 45.6K this transforms to the ordered monoclinic \\href{current_web_home_dir/A_mC8_15_f-001}{$\\alpha$-F$_{2}$ structure} (Ivlev, 2019). It melts at 53.53K. \n This is an approximate and somewhat misleading structure for $\\beta$-F$_{2}$.  Both fluorine sites are actually F$_{2}$ {\\em molecules} which have random orientation.  Thus there are actually 16 fluorine {\\em atoms} in the unit cell. \n Treating the F$_{2}$ molecules as ``atoms,'' this is isostructural with \\href{current_web_home_dir/A3B_cP8_223_c_a-001}{the $A15$ structure}. \n (Ivlev, 2019) presents (CCDC 1874485) an alternative version of this structure, with partially occupied fixed points for all of the fluorine atoms. This structure does not add much to our understanding, so we will use the simpler version of (Jordan, 1964)."
+}
