@@ -5,27 +5,46 @@
         "AB3_hP8_194_c_bf"
     ],
     "title": "Na$_3$As ($D0_{18}$) Structure",
-    "icsd": "26883",
+    "icsd": 26883,
     "ccdc": null,
     "prototype": "AsNa3",
     "prototype_tex": "AsNa$_{3}$",
     "number_of_species": 2,
     "pearson_symbol": "hP8",
     "space_group_number": 194,
-    "strukturbericht": "D0_18",
+    "strukturbericht": "D018",
     "strukturbericht_tex": "$D0_{18}$",
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z3"
+	"a",
+	"c/a",
+	"z3"
     ],
     "parameter_values": [
-        5.088,
-        1.76533,
-        0.583
+	5.088,
+	1.76533,
+	0.583
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "K$_{3}$As",
+        "K$_{3}$P",
+        "K$_{3}$Sb",
+        "Li$_{3}$As",
+        "Mg$_{3}$Au",
+        "Mg$_{3}$Ir",
+        "Mg$_{3}$Pd",
+        "Mg$_{3}$Pt",
+        "Mg$_{3}$Si",
+        "Na$_{3}$Bi",
+        "Na$_{3}$P",
+        "Na$_{3}$Sb",
+        "Rb$_{3}$As",
+        "Rb$_{3}$Bi",
+        "Rb$_{3}$Sb",
+        "K$_{2}$NaSb"
+    ],
     "legacy": false,
     "notes": "$D0_{18}$",
     "comments": "(Hafner, 1994) argue that the correct structure for Na$_{3}$As is not this one, but instead the \\href{current_web_home_dir/A3B_hP24_185_ab2c_c-001}{Cu$_{3}$P structure, A3B\\_hP24\\_185\\_ab2c\\_c}, space group $P6_{3}cm$ \\#185."

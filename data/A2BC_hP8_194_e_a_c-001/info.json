@@ -3,7 +3,7 @@
     "label": "A2BC_hP8_194_e_a_c-001",
     "alias": null,
     "title": "SnTaS$_{2}$ Structure",
-    "icsd": "100387",
+    "icsd": 100387,
     "ccdc": null,
     "prototype": "S2SnTa",
     "prototype_tex": "S$_{2}$SnTa",
@@ -14,16 +14,22 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z3"
+	"a",
+	"c/a",
+	"z3"
     ],
     "parameter_values": [
-        3.307,
-        5.27427,
-        0.16
+	3.307,
+	5.27427,
+	0.16
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"Bi$_{x}$NbS$_{2}$",
+	"PbNbS$_{2}$",
+	"SnNbS$_{2}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": null

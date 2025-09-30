@@ -5,7 +5,7 @@
         "A2B_mC12_15_f_e"
     ],
     "title": "ThC$_{2}$ (C$_{g}$) Structure",
-    "icsd": "42900",
+    "icsd": 42900,
     "ccdc": null,
     "prototype": "C2Th",
     "prototype_tex": "C$_{2}$Th",
@@ -16,26 +16,31 @@
     "strukturbericht_tex": null,
     "part": 3,
     "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "beta",
-        "y1",
-        "x2",
-        "y2",
-        "z2"
+	"a",
+	"b/a",
+	"c/a",
+	"beta",
+	"y1",
+	"x2",
+	"y2",
+	"z2"
     ],
     "parameter_values": [
-        6.692,
-        0.631052,
-        1.00777,
-        103.12,
-        0.7926,
-        0.7008,
-        0.1326,
-        0.946
+	6.692,
+	0.631052,
+	1.00777,
+	103.12,
+	0.7926,
+	0.7008,
+	0.1326,
+	0.946
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "BaS$_{2}$",
+        "YbS$_{2}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "This is a metastable phase of CaC$_{2}$.  The stable room-temperature phase is in the \\href{current_web_home_dir/A2B_tI6_139_e_a-001}{$C11_{a}$ (A2B\\_tI6\\_139\\_e\\_a) structure}."

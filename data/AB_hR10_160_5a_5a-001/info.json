@@ -5,8 +5,8 @@
         "AB_hR10_160_5a_5a"
     ],
     "title": "Moissanite-15R (SiC, $B7$) Structure",
-    "icsd": "24168",
-    "ccdc": null,
+    "icsd": 24168,
+    "ccdc": 1600216,
     "prototype": "CSi",
     "prototype_tex": "CSi",
     "number_of_species": 2,
@@ -16,35 +16,29 @@
     "strukturbericht_tex": "$B7$",
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x1",
-        "x2",
-        "x3",
-        "x4",
-        "x5",
-        "x6",
-        "x7",
-        "x8",
-        "x9",
-        "x10"
+	"a",
+	"c/a",
+	"x1",
+	"x2",
+	"x3",
+	"x4",
+	"x5",
+	"x6",
+	"x7",
+	"x8",
+	"x9",
+	"x10"
     ],
     "parameter_values": [
-        3.073,
-        12.2681,
-        0.0,
-        0.13333,
-        0.4,
-        0.6,
-        0.86667,
-        0.05,
-        0.18333,
-        0.45,
-        0.65,
-        0.91667
+	3.073,
+	12.2681
     ],
-    "compounds": {},
+    "mineral_name": "moissanite",
+    "minerals": {
+	"moissanite":"CSi"
+    },
+    "compounds": null,
     "legacy": false,
     "notes": "$B7$, 15R Moissanite",
-    "comments": "(Ewald, 1931) and (Thibault, 1944) both call this structure ``Type I $\\alpha$-silicon carbide.'' The atomic positions are not well determined. We follow (Thibault, 1944) and assume that the (0001) planes of carbon atoms are equally spaced, and that each carbon atom has a silicon atom at a distance of $c/20$ along the $z$ axis."
+    "comments": "(Ewald, 1931) and (Thibault, 1944) both call this structure ``Type I $\\alpha$-silicon carbide.'' The atomic positions are not well determined. We follow (Thibault, 1944) and assume that the (0001) planes of carbon atoms are equally spaced, and that each carbon atom has a silicon atom at a distance of c/20 along the $z$ axis."
 }

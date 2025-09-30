@@ -3,7 +3,7 @@
     "label": "AB_hR8_166_2c_abc-001",
     "alias": null,
     "title": "$\\zeta$-Hf$_{4}$N$_{3}$ Structure",
-    "icsd": "23572",
+    "icsd": 23572,
     "ccdc": null,
     "prototype": "Hf4N3",
     "prototype_tex": "Hf$_{4}$N$_{3}$",
@@ -14,20 +14,22 @@
     "strukturbericht_tex": null,
     "part": 5,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z3",
-        "z4",
-        "z5"
+	"a",
+	"c/a",
+	"z3",
+	"z4",
+	"z5"
     ],
     "parameter_values": [
-        3.21282,
-        9.688207,
-        0.125,
-        0.291667,
-        0.416667
+	3.21282,
+	9.688207,
+	0.125,
+	0.291667,
+	0.416667
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": null,
     "comments": "The Hf-N phase diagram has three known phases (Rudy, 1970; Villars, 2023): \\begin{itemize} \\item HfN, stable up to the melting point of 3387$^\\circ$C, is in the \\href{current_web_home_dir/AB_cF8_225_a_b-001}{NaCl ($B1$)} structure. \\item \\href{current_web_home_dir/AB_hR6_166_ac_bc-001}{$\\epsilon$-Hf$_{3}$N$_{2}$} is stable up to 1970$^\\circ$C. \\item \\href{current_web_home_dir/AB_hR8_166_2c_abc-001}{$\\zeta$-Hf$_{4}$N$_{3}$} is stable in the range 1225-2300$^\\circ$C. \\end{itemize} ~ \\vspace{-0.25in} \n The N II (1b) and N III (2c) sites are only 2/3 occupied. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."

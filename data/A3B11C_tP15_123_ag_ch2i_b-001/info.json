@@ -3,7 +3,7 @@
     "label": "A3B11C_tP15_123_ag_ch2i_b-001",
     "alias": null,
     "title": "Ce$_{3}$PdIn$_{11}$ Structure",
-    "icsd": "192619",
+    "icsd": 192619,
     "ccdc": null,
     "prototype": "Ce3In11Pd",
     "prototype_tex": "Ce$_{3}$In$_{11}$Pd",
@@ -14,22 +14,26 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z4",
-        "z5",
-        "z6",
-        "z7"
+	"a",
+	"c/a",
+	"z4",
+	"z5",
+	"z6",
+	"z7"
     ],
     "parameter_values": [
-        4.6896,
-        3.6018,
-        0.72317,
-        0.27797,
-        0.4118,
-        0.13805
+	4.6896,
+	3.6018,
+	0.72317,
+	0.27797,
+	0.4118,
+	0.13805
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"Ce$_{3}$PtIn$_{11}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": null

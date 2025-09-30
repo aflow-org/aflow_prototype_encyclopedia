@@ -4,8 +4,8 @@
     "alias": [
         "AB2_hP72_192_m_j2kl"
     ],
-    "title": "AlPO$_{4}$ Structure",
-    "icsd": "62772",
+    "title": "Disordered (Al,P)O$_{4}$-5 Framework Structure",
+    "icsd": 62772,
     "ccdc": null,
     "prototype": "AlO4P",
     "prototype_tex": "AlO$_{4}$P",
@@ -16,31 +16,33 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x1",
-        "x2",
-        "x3",
-        "x4",
-        "y4",
-        "x5",
-        "y5",
-        "z5"
+	"a",
+	"c/a",
+	"x1",
+	"x2",
+	"x3",
+	"x4",
+	"y4",
+	"x5",
+	"y5",
+	"z5"
     ],
     "parameter_values": [
-        13.7707,
-        0.608459,
-        0.6373,
-        0.7895,
-        0.4221,
-        0.6688,
-        0.5445,
-        0.1221,
-        0.4551,
-        0.686
+	13.7707,
+	0.608459,
+	0.6373,
+	0.7895,
+	0.4221,
+	0.6688,
+	0.5445,
+	0.1221,
+	0.4551,
+	0.686
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
-    "notes": null,
-    "comments": "Here, the metallic (``M'') sites are alloyed, Al$_{0.5}$P$_{0.5}$. The Jmol image represents the M sites with aluminum atoms. Polytypes of this compound also appear in space groups \\href{current_web_home_dir/AB4C_hP72_168_2d_8d_2d-001}{$P6$ \\#168 (AB4C\\_hP72\\_168\\_2d\\_8d\\_2d)} and \\href{current_web_home_dir/AB4C_hP72_184_d_4d_d-001}{$P6_{3}mc$ \\#184 (AB4C\\_hP72\\_184\\_d\\_4d\\_d)}."
+    "notes": "Disordered AlPO$_{4}$-5",
+    "comments": "This is a version of \\href{current_web_home_dir/AB4C_hP72_184_d_4d_d-001}{AlPO$_{4}$-5} with aluminum and phophorous atoms reandomly placed on the metallic sites, changing the space group from polar $P6cc$ \\#184 to centrosymmetric $P6/mcc$ \\#192. We arbitarily label these sites as ``Al.'' \n For information on similar structures see the \\href{current_web_home_dir/Tutorials/SiO2_AlPO4}{SiO$_{2}$ and AlPO$_{4}$ page}."
 }

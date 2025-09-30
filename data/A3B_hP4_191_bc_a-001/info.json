@@ -5,7 +5,7 @@
         "A3B_hP4_191_bc_a"
     ],
     "title": "Li$_{3}$N Structure",
-    "icsd": "95939",
+    "icsd": 95939,
     "ccdc": null,
     "prototype": "Li3N",
     "prototype_tex": "Li$_{3}$N",
@@ -16,14 +16,16 @@
     "strukturbericht_tex": null,
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a"
+	"a",
+	"c/a"
     ],
     "parameter_values": [
-        3.6576,
-        1.05903
+	3.6576,
+	1.05903
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": null,
     "comments": null

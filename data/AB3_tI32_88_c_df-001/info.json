@@ -5,7 +5,7 @@
         "AB3_tI32_88_d_cf"
     ],
     "title": "Copper (I) Azide (CuN$_{3}$) Structure",
-    "icsd": "30633",
+    "icsd": 30633,
     "ccdc": null,
     "prototype": "CuN3",
     "prototype_tex": "CuN$_{3}$",
@@ -16,20 +16,25 @@
     "strukturbericht_tex": null,
     "part": 3,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x3",
-        "y3",
-        "z3"
+	"a",
+	"c/a",
+	"x3",
+	"y3",
+	"z3"
     ],
     "parameter_values": [
-        8.65,
-        0.646243,
-        0.173,
-        0.173,
-        0.875
+	8.65,
+	0.646243,
+	0.173,
+	0.173,
+	0.875
     ],
-    "compounds": {},
+    "mineral_name": "copper (I) azide",
+    "minerals": null,
+    "compounds": [
+        "AgN$_{3}$",
+        "TiN$_{3}$"
+    ],
     "legacy": false,
     "notes": "Copper (I) Azide",
     "comments": "Not to be confused with \\href{current_web_home_dir/AB6_oP28_62_c_6c-001}{Copper (II) Azide, Cu(N$_{3}$)$_{2}$, an explosive}. \n (Wilsdorf, 1948) gave the Wyckoff positions in setting 1 of space group $P4_{1}/a$ \\#88.  We used findsym to translate this to the standard setting 2."

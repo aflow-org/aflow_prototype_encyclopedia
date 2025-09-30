@@ -5,27 +5,33 @@
         "A3B2_cF80_227_f_e"
     ],
     "title": "Senarmontite (D6$_{1}$, Sb$_{2}$O$_{3}$) Structure",
-    "icsd": "1944",
+    "icsd": 1944,
     "ccdc": null,
     "prototype": "O3Sb2",
     "prototype_tex": "O$_{3}$Sb$_{2}$",
     "number_of_species": 2,
     "pearson_symbol": "cF80",
     "space_group_number": 227,
-    "strukturbericht": "D6_1",
+    "strukturbericht": "D61",
     "strukturbericht_tex": "$D6_{1}$",
     "part": 3,
     "parameter_symbols": [
-        "a",
-        "x1",
-        "x2"
+	"a",
+	"x1",
+	"x2"
     ],
     "parameter_values": [
-        11.1519,
-        0.76027,
-        0.93875
+	11.1519,
+	0.76027,
+	0.93875
     ],
-    "compounds": {},
+    "mineral_name": "senarmontite",
+    "minerals": {
+        "arsenolite": "As$_{2}$O$_{3}$"
+    },
+    "compounds": [
+        "As$_{2}$O$_{3}$ (arsenolite)"
+    ],
     "legacy": false,
     "notes": "$D6_{1}$, Senarmontite",
     "comments": "(Ewald, 1931) designated this as {\\em Strukturbericht} $D6_{1}$, however (Parth\\'{e}, 1993) and (Villars, 1991) label this as {\\em Strukturbericht} $D5_{4}$, and Parth\\'{e} uses As$_{2}$O$_{3}$ as the prototype. While this structure obviously fits better with the $D5$ series (A$_{2}$B$_{3}$) than $D6$ (A$_{2}$B$_{4}$), the $D5_{4}$ structure was (inadvertently?) omitted from (Hermann, 1937), which jumps from $D5_{3}$ to $D5_{5}$. We will follow this historical record (Ewald, 1931) here. \n This is the cubic form of Sb$_{2}$O$_{3}$.  For the orthorhombic form see the \\href{current_web_home_dir/A3B2_oP20_56_ce_e-001}{valentinite ($D5_{11}$) structure}. \n (Svensson, 1975) gave the atomic coordinates in setting 1 of space group $Fd\\overline{3}m$ \\#227.  We used FINDSYM to shift the coordinates to the standard setting 2."

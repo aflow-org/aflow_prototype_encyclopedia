@@ -3,8 +3,8 @@
     "label": "AB5C3_hP9_191_b_ah_f-001",
     "alias": null,
     "title": "KV$_{3}$Sb$_{5}$ Structure",
-    "icsd": "31838",
-    "ccdc": null,
+    "icsd": 31838,
+    "ccdc": 2077548,
     "prototype": "KSb5V3",
     "prototype_tex": "KSb$_{5}$V$_{3}$",
     "number_of_species": 3,
@@ -14,17 +14,23 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z4"
+	"a",
+	"c/a",
+	"z4"
     ],
     "parameter_values": [
-        5.4722,
-        1.63435,
-        0.74677
+	5.4722,
+	1.63435,
+	0.74677
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"CsTi$_{3}$Bi$_{5}$",
+	"CsV$_{3}$Sb$_{5}$",
+	"RbV$_{3}$Sb$_{5}$"
+    ],
     "legacy": false,
     "notes": null,
-    "comments": "(Ortiz, 2019) found that their KV$_{3}$Sb$_{5}$ samples were potassium deficient, with 8-15\\% vacancies on the (1a) potassium site. Both CsV$_{3}$Sb$_{5}$ and RbV$_{3}$Sb$_{5}$ were stoichiometric."
+    "comments": "(Ortiz, 2019) found that their KV$_{3}$Sb$_{5}$ samples were potassium deficient, with 8-15\\% vacancies on the (1a) potassium site. Both CsV$_{3}$Sb$_{5}$ and RbV$_{3}$Sb$_{5}$ were stoichiometric. \n This is a \\href{https://en.wikipedia.org/wiki/Trihexagonal_tiling#Kagome_lattice}{kagome structure}."
 }

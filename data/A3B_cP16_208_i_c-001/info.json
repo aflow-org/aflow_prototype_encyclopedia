@@ -5,7 +5,7 @@
         "A3B_cP16_208_j_b"
     ],
     "title": "H$_{3}$P Structure",
-    "icsd": "24498",
+    "icsd": 24498,
     "ccdc": null,
     "prototype": "H3P",
     "prototype_tex": "H$_{3}$P",
@@ -16,14 +16,18 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "x2"
+	"a",
+	"x2"
     ],
     "parameter_values": [
-        6.31,
-        0.684
+	6.31,
+	0.684
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "H$_{3}$As"
+    ],
     "legacy": false,
     "notes": null,
     "comments": null

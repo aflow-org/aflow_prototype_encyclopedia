@@ -5,7 +5,7 @@
         "A3B2_cP20_213_d_c"
     ],
     "title": "Mg$_{3}$Ru$_{2}$ Structure",
-    "icsd": "260022",
+    "icsd": 260022,
     "ccdc": null,
     "prototype": "Mg3Ru2",
     "prototype_tex": "Mg$_{3}$Ru$_{2}$",
@@ -16,16 +16,18 @@
     "strukturbericht_tex": null,
     "part": 3,
     "parameter_symbols": [
-        "a",
-        "x1",
-        "y2"
+	"a",
+	"x1",
+	"y2"
     ],
     "parameter_values": [
-        6.9352,
-        0.07378,
-        0.2051
+	6.9352,
+	0.07378,
+	0.2051
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": null,
     "comments": "This is the binary form of the \\href{current_web_home_dir/A_cP20_213_cd-001}{$\\beta$-Mn ($A13$) structure}. \n This structure may also be found in the enantiomorphic space group $P4_{3}32$ \\#212."

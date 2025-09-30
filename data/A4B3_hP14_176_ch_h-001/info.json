@@ -4,9 +4,9 @@
     "alias": [
         "A4B3_hP14_176_ch_h"
     ],
-    "title": "$\\beta$-Si$_{3}$N$_{4}$ Structure",
-    "icsd": "79798",
-    "ccdc": null,
+    "title": "$\\beta$-Si$_{3}$N$_{4}$ (Nierite) Structure",
+    "icsd": 79798,
+    "ccdc": 1640033,
     "prototype": "N4Si3",
     "prototype_tex": "N$_{4}$Si$_{3}$",
     "number_of_species": 2,
@@ -16,23 +16,27 @@
     "strukturbericht_tex": null,
     "part": 3,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x2",
-        "y2",
-        "x3",
-        "y3"
+	"a",
+	"c/a",
+	"x2",
+	"y2",
+	"x3",
+	"y3"
     ],
     "parameter_values": [
-        7.6093,
-        0.382151,
-        0.329,
-        0.039,
-        0.1742,
-        0.7678
+	7.6093,
+	0.382151,
+	0.329,
+	0.039,
+	0.1742,
+	0.7678
     ],
-    "compounds": {},
+    "mineral_name": "nierite",
+    "minerals": {
+	"nierite":"N$_{4}$Si$_{3}$"
+    },
+    "compounds": null,
     "legacy": false,
     "notes": "$\\beta$-Si$_{3}$N$_{4}$ (Yang, 1995)",
-    "comments": "\\href{current_web_home_dir/A4B3_hP14_173_bc_c-001}{(Forgeng, 1958) and (Grun, 1979) place this structure in space group $P6_{3}$ \\#173}. That structure is nearly indistinguishable from this one. \n Si$_{3}$N$_{4}$ also exists as \\href{current_web_home_dir/A4B3_hP28_159_ab2c_2c-001}{nierite, $\\alpha$-Si$_{3}$N$_{4}$}."
+    "comments": "\\href{current_web_home_dir/A4B3_hP14_173_bc_c-001}{(Forgeng, 1958) and (Grun, 1979) place this structure in space group $P6_{3}$ \\#173}. That structure is nearly indistinguishable from this one, as discussed on that page. \n Si$_{3}$N$_{4}$ also exists as \\href{current_web_home_dir/A4B3_hP28_159_ab2c_2c-001}{$\\alpha$-Si$_{3}$N$_{4}$}."
 }

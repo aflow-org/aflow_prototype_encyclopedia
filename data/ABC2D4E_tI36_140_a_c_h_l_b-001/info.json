@@ -1,0 +1,49 @@
+{
+    "uid": "339X",
+    "label": "ABC2D4E_tI36_140_a_c_h_l_b-001",
+    "alias": null,
+    "title": "K$_{2}$BaPO$_{4}$F",
+    "icsd": 177882,
+    "ccdc": 1848862,
+    "prototype": "BaFK2O4P",
+    "prototype_tex": "BaFK$_{2}$O$_{4}$P",
+    "number_of_species": 5,
+    "pearson_symbol": "tI36",
+    "space_group_number": 140,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
+        "a",
+	"c/a",
+	"x4",
+	"x5",
+	"z5"
+    ],
+    "parameter_values": [
+        7.0264,
+	1.605232,
+	0.17656,
+	0.37404,
+	0.82932
+    ],
+    "mineral_name": null,
+    "minerals": {},
+    "compounds": [
+	"(Ba,Sr)$_{2}$BaGaO$_{4}$F",
+	"(Ca,Sr)$_{2}$BaGaO$_{4}$F",
+	"Ba$_{2}$CsSnS$_{4}$Cl",
+	"Ba$_{2}$KSnS$_{4}$Cl",
+	"Ba$_{2}$NaSnS$_{4}$Cl",
+	"Ba$_{3}$InS$_{4}$Cl",
+	"Ba$_{3}$InSe$_{4}$Cl",
+	"Ho$_{3}$PN$_{4}$O",
+	"K$_{3}$SO$_{4}$F",
+	"K$_{3}$SeO$_{4}$F",
+	"Sr$_{3}$AlO$_{4}$F",
+	"Sr$_{3}$GaO$_{4}$F"
+    ],
+    "legacy": false,
+    "notes": null,
+    "comments": "This is a form of \\href{current_web_home_dir/A5BC3_tI36_140_cl_b_ah-001}{Cs$_{3}$CoCl$_{5}$ (K3$_{1}$)} and \\href{current_web_home_dir/AB2C5D_tI36_140_a_h_cl_b-001}{BaLa$_{2}$ZnO$_{5}$} where the (4a) and (16h) sites contain different species. \n To prevent the proliferation of prototypes we assign both K$_{2}$BaPO$_{4}$F and Sr$_{3}$AlO$_{4}$F structures to this prototype. \n The ICSD assigns all of these to the Cs$_{3}$CoCl$_{5}$ structure type."
+}

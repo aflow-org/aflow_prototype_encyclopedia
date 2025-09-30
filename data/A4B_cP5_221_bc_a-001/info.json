@@ -12,16 +12,18 @@
     "number_of_species": 2,
     "pearson_symbol": "cP5",
     "space_group_number": 221,
-    "strukturbericht": "L'1_0",
+    "strukturbericht": "L'10",
     "strukturbericht_tex": "$L'1_{0}$",
     "part": 3,
     "parameter_symbols": [
-        "a"
+	"a"
     ],
     "parameter_values": [
-        3.79
+	3.79
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "{\\em Erroneous} $L'1_{0}$",
     "comments": "We (Hicks, 2019) accidentally misplaced the nickel atom in the $L'1_{0}$ structure.  The correct structure can be found at \\href{current_web_home_dir/A4B_cP5_221_ac_b-002}{$\\gamma$'-Fe$_{4}$N $L'1_{0}$ page}. \n Despite our error, this is a binary form of the \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite structure (AB3C\\_cP5\\_221\\_a\\_c\\_b)}, {\\em Strukturbericht} designation $E2_{1}$."

@@ -10,10 +10,10 @@
 # The current version of this file is available at
 # https://aflow.org/prototype-encyclopedia/A5BC3_tI36_140_cl_b_ah-001
 
-# Last updated on 2024/08/01
+# Last updated on 2025/08/22
 
-data_Cl20Co4Cs12
-_pd_phase_name Cl20Co4Cs12
+data_Cs3CoCl5
+_pd_phase_name Cs3CoCl5
 _cell_length_a  9.0630000000
 _cell_length_b  9.0630000000
 _cell_length_c  14.4500000000
@@ -68,8 +68,8 @@ loop_
  _atom_site_type_symbol
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
-Cs4 1.0000000000 -0.0000000000 0.0000000000 0.2500000000  Biso 1.0 Cs 4 a
-Co3 1.0000000000 0.0000000000 0.5000000000 0.2500000000  Biso 1.0 Co 4 b
-Cl1 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Cl 4 c
-Cs5 1.0000000000 0.6622500000 0.1622500000 0.0000000000  Biso 1.0 Cs 8 h
+Cs4 1.0000000000 0.0000000000 0.0000000000 0.2500000000  Biso 1.0 Cs  4 a
+Co3 1.0000000000 0.0000000000 0.5000000000 0.2500000000  Biso 1.0 Co  4 b
+Cl1 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Cl  4 c
+Cs5 1.0000000000 0.6622500000 0.1622500000 0.0000000000  Biso 1.0 Cs  8 h
 Cl2 1.0000000000 0.1421000000 0.6421000000 0.1571100000  Biso 1.0 Cl 16 l

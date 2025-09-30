@@ -10,10 +10,10 @@
 # The current version of this file is available at
 # https://aflow.org/prototype-encyclopedia/A2BC2_oF40_22_ej_ac_fi-001
 
-# Last updated on 2024/07/29
+# Last updated on 2025/07/28
 
-data_A2BC2_oF40_22_ej_ac_fi-001
-_pd_phase_name A2BC2_oF40_22_ej_ac_fi-001
+data_CdRu2B2
+_pd_phase_name CeRu2B2
 _cell_length_a  9.0573000000
 _cell_length_b  10.0263000000
 _cell_length_c  6.4861000000

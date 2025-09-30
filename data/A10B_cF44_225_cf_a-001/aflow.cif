@@ -10,10 +10,10 @@
 # The current version of this file is available at
 # https://aflow.org/prototype-encyclopedia/A10B_cF44_225_cf_a-001
 
-# Last updated on 2024/08/01
+# Last updated on 2025/06/26
 
-data_H40La4
-_pd_phase_name H40La4
+data_H10La
+_pd_phase_name H10La
 _cell_length_a  4.7800000000
 _cell_length_b  4.7800000000
 _cell_length_c  4.7800000000
@@ -229,5 +229,5 @@ loop_
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
 La3 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 La 4 a
-H1 1.0000000000 0.2500000000 0.2500000000 0.2500000000  Biso 1.0 H 8 c
-H2 1.0000000000 0.6200000000 0.6200000000 0.6200000000  Biso 1.0 H 32 f
+H1  1.0000000000 0.2500000000 0.2500000000 0.2500000000  Biso 1.0 H  8 c
+H2  1.0000000000 0.6200000000 0.6200000000 0.6200000000  Biso 1.0 H 32 f

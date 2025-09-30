@@ -3,31 +3,38 @@
     "label": "ABC_tP6_129_c_c_c-002",
     "alias": null,
     "title": "TaMoN Structure",
-    "icsd": "100437",
+    "icsd": 100437,
     "ccdc": null,
     "prototype": "MoNTa",
     "prototype_tex": "MoNTa",
-    "number_of_species": 3,
+    "number_of_species": 1,
     "pearson_symbol": "tP6",
     "space_group_number": 129,
     "strukturbericht": null,
     "strukturbericht_tex": null,
     "part": 5,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z1",
-        "z2",
-        "z3"
+	"a",
+	"c/a",
+	"z1",
+	"z2",
+	"z3"
     ],
     "parameter_values": [
-        3.081,
-        2.53165,
-        0.9,
-        0.617,
-        0.335
+	3.081,
+	2.53165,
+	0.9,
+	0.617,
+	0.335
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"CrNbN",
+	"MoNbN",
+	"ReAlSi",
+	"ReGaSi"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "There are two prototypes with the AFLOW label ABC\\_tP6\\_129\\_c\\_c\\_c: \\begin{itemize} \\item \\href{current_web_home_dir/ABC_tP6_129_c_c_c-001}{CaGaN}, with c/a $\\approx$ 2.1, and \\item \\href{current_web_home_dir/ABC_tP6_129_c_c_c-002}{TaMoN} (this structure), with c/a $\\approx$ 2.5. \\end{itemize} ~ \\vspace{-0.25in} \n The ICSD lists TaMoN and similar structures under prototype CaGaN, but the sharp difference in c/a between the two structures is significant enough to warrant a new prototype. \n (Vendl, 1978) gives the atomic coordinates in setting 1 of space group $P4/nmm$ \\#129.  We shifted the origin to place the system in our standard setting 2."

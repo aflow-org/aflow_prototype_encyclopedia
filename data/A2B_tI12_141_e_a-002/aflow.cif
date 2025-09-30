@@ -5,15 +5,16 @@
 # Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
 # Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
 # Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
-# Chemical Composition:  ThSi2 Cc
+
+# Chemical Composition:  ThSi2
 
 # The current version of this file is available at
-# https://aflow.org/prototype-encyclopedia/A2B_tI12_141_e_a-002
+# https://aflow.org/prototype-encyclopedia/A2B_tI12_141_e_a-002 
 
-# Last updated on 2024/08/01
+# Last updated on 2025/06/08
 
-data_Si8Th4
-_pd_phase_name Si8Th4
+data_ThSi2
+_pd_phase_name ThSi2
 _cell_length_a  4.1260000000
 _cell_length_b  4.1260000000
 _cell_length_c  14.3460000000
@@ -68,5 +69,5 @@ loop_
  _atom_site_type_symbol
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
-Th2 1.0000000000 -0.0000000000 0.7500000000 0.1250000000  Biso 1.0 Th 4 a
+Th2 1.0000000000 0.0000000000 0.7500000000 0.1250000000  Biso 1.0 Th 4 a
 Si1 1.0000000000 0.0000000000 0.2500000000 0.2915000000  Biso 1.0 Si 8 e

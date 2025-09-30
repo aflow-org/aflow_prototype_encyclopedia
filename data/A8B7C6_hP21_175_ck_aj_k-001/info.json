@@ -5,7 +5,7 @@
         "A8B7C6_hP21_175_ck_aj_k"
     ],
     "title": "Nb$_{7}$Ru$_{6}$B$_{8}$ Structure",
-    "icsd": "263041",
+    "icsd": 263041,
     "ccdc": null,
     "prototype": "B8Nb7Ru6",
     "prototype_tex": "B$_{8}$Nb$_{7}$Ru$_{6}$",
@@ -16,26 +16,30 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x3",
-        "y3",
-        "x4",
-        "y4",
-        "x5",
-        "y5"
+	"a",
+	"c/a",
+	"x3",
+	"y3",
+	"x4",
+	"y4",
+	"x5",
+	"y5"
     ],
     "parameter_values": [
-        9.506,
-        0.334778,
-        0.08627,
-        0.72292,
-        0.0661,
-        0.221,
-        0.15405,
-        0.51373
+	9.506,
+	0.334778,
+	0.08627,
+	0.72292,
+	0.0661,
+	0.221,
+	0.15405,
+	0.51373
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "Ta$_{7}$Ru$_{6}$B$_{8}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": null

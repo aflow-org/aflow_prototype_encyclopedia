@@ -5,7 +5,7 @@
         "AB2_cF96_227_e_cf"
     ],
     "title": "NiTi$_{2}$ Structure",
-    "icsd": "105420",
+    "icsd": 105420,
     "ccdc": null,
     "prototype": "NiTi2",
     "prototype_tex": "NiTi$_{2}$",
@@ -16,16 +16,34 @@
     "strukturbericht_tex": null,
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "x2",
-        "x3"
+	"a",
+	"x2",
+	"x3"
     ],
     "parameter_values": [
-        11.278,
-        0.215,
-        0.81
+	11.278,
+	0.215,
+	0.81
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "CoHf$_{2}$",
+        "CoTi$_{2}$",
+        "CoZr$_{2}$",
+        "FeTi$_{2}$",
+        "FeZr$_{2}$",
+        "IrHf$_{2}$",
+        "IrSc$_{2}$",
+        "IrZr$_{2}$",
+        "MnHf$_{2}$",
+        "NbCr$_{2}$",
+        "NiSc$_{2}$",
+        "OsHf$_{2}$",
+        "PdSc$_{2}$",
+        "PtHf$_{2}$",
+        "RhHf$_{2}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "We have used the fact that all vectors of the form $(0,\\pm a/2,\\pm a/2)$, $(\\pm a/2,0,\\pm a/2)$, and $(\\pm a/2,\\pm a/2,0)$ are primitive vectors of the face-centered cubic lattice to simplify the positions of some atoms in both lattice and Cartesian coordinates."

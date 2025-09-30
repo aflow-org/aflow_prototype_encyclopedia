@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/AB_tP4_131_c_e-001
 
 # Last updated on 2024/08/01
-data_Pt2S2
-_pd_phase_name Pt2S2
+data_PtS
+_pd_phase_name PtS
 _cell_length_a  3.4700000000
 _cell_length_b  3.4700000000
 _cell_length_c  6.1096000000
@@ -53,4 +53,4 @@ loop_
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
 Pt1 1.0000000000 0.0000000000 0.5000000000 0.0000000000  Biso 1.0 Pt 2 c
-S2 1.0000000000 0.0000000000 0.0000000000 0.2500000000  Biso 1.0 S 2 e
+S2  1.0000000000 0.0000000000 0.0000000000 0.2500000000  Biso 1.0 S  2 e

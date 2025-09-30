@@ -5,7 +5,7 @@
         "A2B_tI24_141_2e_e"
     ],
     "title": "Ga$_{2}$Hf Structure",
-    "icsd": "197276",
+    "icsd": 197276,
     "ccdc": null,
     "prototype": "Ga2Hf",
     "prototype_tex": "Ga$_{2}$Hf",
@@ -16,20 +16,30 @@
     "strukturbericht_tex": null,
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z1",
-        "z2",
-        "z3"
+	"a",
+	"c/a",
+	"z1",
+	"z2",
+	"z3"
     ],
     "parameter_values": [
-        4.046,
-        6.28917,
-        0.125,
-        0.289,
-        0.949
+	4.046,
+	6.28917,
+	0.125,
+	0.289,
+	0.949
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "Al$_{2}$Mg",
+        "Al$_{2}$Ti",
+        "Ga$_{2}$Ti",
+        "In$_{2}$Zr",
+        "Pb$_{2}$Pr",
+        "Pb$_{2}$Pu",
+        "Sn$_{2}$Pu"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "When $z_{1}=1/4$, $z_{2}=5/12$, and $z_{3}=1/12$, the atoms are on the sites of \\href{current_web_home_dir/A_tI2_139_a-001}{indium ($A6$) body-centered tetragonal lattice}.  If, in this case, $c=6a$, the atoms are on the sites of a face-centered cubic lattice, and if $c = 3\\sqrt{2} a$, the atoms are on the site of a body-centered cubic lattice. This lattice is placed with the face-centered cubic lattices because most known structures have $c$ near $6a$."

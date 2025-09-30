@@ -5,7 +5,7 @@
         "A4B3_cI14_229_c_b"
     ],
     "title": "Pt$_{3}$O$_{4}$ Structure",
-    "icsd": "27836",
+    "icsd": 27836,
     "ccdc": null,
     "prototype": "O4Pt3",
     "prototype_tex": "O$_{4}$Pt$_{3}$",
@@ -16,12 +16,14 @@
     "strukturbericht_tex": null,
     "part": 1,
     "parameter_symbols": [
-        "a"
+	"a"
     ],
     "parameter_values": [
-        6.226
+	6.226
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": null,
     "comments": "This is a simple defect superstructure of the \\href{current_web_home_dir/AB_cP2_221_a_b-002}{CsCl ($B2$) structure}. One atom has been removed from a $2 \\times 2 \\times 2$ supercell of CsCl. \n (Muller, 1968) argue that the correct Pt$_{3}$O$_{4}$ structure is \\href{current_web_home_dir/AB4C3_cP16_223_a_e_c-001}{NaPt$_{3}$O$_{4}$ with the sodium sites vacant}. \n We use a = 6.226{\\AA} (Galloni, 1941), but the ICSD entry sets a = 6.238{\\AA}."

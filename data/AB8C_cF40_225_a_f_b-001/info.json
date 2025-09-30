@@ -3,7 +3,7 @@
     "label": "AB8C_cF40_225_a_f_b-001",
     "alias": null,
     "title": "Room Temperature KBD$_{4}$ Structure",
-    "icsd": "99263",
+    "icsd": 99263,
     "ccdc": null,
     "prototype": "BH4K",
     "prototype_tex": "BH$_{4}$K",
@@ -14,14 +14,25 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "x3"
+	"a",
+	"x3"
     ],
     "parameter_values": [
-        6.7074,
-        0.1029
+	6.7074,
+	0.1029
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "CsBD$_{4}$",
+        "CsBH$_{4}$",
+        "KBH$_{4}$",
+        "LaBH$_{8}$",
+        "NaBD$_{4}$",
+        "NaBH$_{4}$",
+        "RbBD$_{4}$",
+        "RbBH$_{4}$"
+    ],
     "legacy": false,
     "notes": "RT",
     "comments": "This is the room-temperature phase of all of these structures. \n Below 70K KBD$_{4}$ transforms into a \\href{current_web_home_dir/AB4C_tP12_137_a_g_b-001}{tetragonal structure with the deuterium atoms forming a tetrahedron around the boron}, but this is not seen for (Cs,Na,Rb)BD$_{4}$ or (Cs,Na,Rb)BH$_{4}$, where the system remains cubic (Renaudin, 2004). \n In all of the ABD$_{4}$ structures the deuterium atoms only occupy half of the (32f) sites.  (Soldate, 1954) suggests that in the H$_{4}$ compounds the hydrogen atoms form a rotating tetrahedra around the boron atoms. \n (Di Cataldo, 2021) predict LaBH$_{8}$ forms in this structure at pressures around 50 GPa, where it would superconduct with $T_{c} = 126$K.  In this case the (32f) sites are fully filled. \n Most authors use NaBH$_{4}$ as the prototype, but since (Renaudin, 2004) provide information on the location of the deuterium atoms we use KBD$_{4}$, with data taken at room temperature, we use this as the prototype."

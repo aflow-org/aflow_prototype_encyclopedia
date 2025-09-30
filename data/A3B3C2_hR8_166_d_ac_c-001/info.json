@@ -1,0 +1,40 @@
+{
+    "uid": "V94K",
+    "label": "A3B3C2_hR8_166_d_ac_c-001",
+    "alias": null,
+    "title": "K$_{3}$Cu$_{3}$P$_{2}$",
+    "icsd": 12163,
+    "ccdc": 1595407,
+    "prototype": "Cu3K3P2",
+    "prototype_tex": "Cu$_{3}$K$_{3}$P$_{2}$",
+    "number_of_species": 3,
+    "pearson_symbol": "hR8",
+    "space_group_number": 166,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
+        "a",
+	"c/a",
+	"x2",
+	"x3"
+    ],
+    "parameter_values": [
+        5.72,
+	3.48427,
+	0.5925,
+	0.2434
+    ],
+    "mineral_name": null,
+    "minerals": {},
+    "compounds": [
+	"K$_{3}$Ag$_{3}$As$_{2}$",
+	"K$_{3}$Au$_{3}$Sb$_{2}$",
+	"K$_{3}$Cu$_{3}$As$_{2}$",
+	"Rb$_{3}$Au$_{3}$Sb$_{2}$",
+	"Rb$_{3}$Cu$_{3}$As$_{2}$"
+    ],
+    "legacy": false,
+    "notes": null,
+    "comments": "The \\href{../../Tutorial/AFLOW_Prototype_Label/index.html#LabelOrder}{AFLOW prototype label protocol} moves the K I atom from the (1b) site, as given in (Savelsberg, 1978) to the (1a) site, shifting all atomic coordinates by ( 0 , 0 , 1/2 c). \n This structure is given in the rhombohedral setting of space group $R\\overline{3}m$ \\#166. The hexagonal setting may be obtained by adding {\\tt --hex} to the aflow command."
+}

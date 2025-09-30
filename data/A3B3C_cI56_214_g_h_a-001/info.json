@@ -5,7 +5,7 @@
         "A3B3C_cI56_214_g_h_a"
     ],
     "title": "Ca$_{3}$PI$_{3}$ Structure",
-    "icsd": "9026",
+    "icsd": 9026,
     "ccdc": null,
     "prototype": "Ca3I3P",
     "prototype_tex": "Ca$_{3}$I$_{3}$P",
@@ -16,16 +16,20 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "y2",
-        "y3"
+	"a",
+	"y2",
+	"y3"
     ],
     "parameter_values": [
-        12.315,
-        0.108,
-        0.384
+	12.315,
+	0.108,
+	0.384
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "Gd$_{3}$CCl$_{3}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": null

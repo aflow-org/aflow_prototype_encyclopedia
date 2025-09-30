@@ -5,7 +5,7 @@
         "AB3_tP32_133_h_i2j"
     ],
     "title": "$\\beta$-V$_{3}$S Structure",
-    "icsd": "26516",
+    "icsd": 26516,
     "ccdc": null,
     "prototype": "SV3",
     "prototype_tex": "SV$_{3}$",
@@ -16,22 +16,26 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x1",
-        "x2",
-        "x3",
-        "x4"
+	"a",
+	"c/a",
+	"x1",
+	"x2",
+	"x3",
+	"x4"
     ],
     "parameter_values": [
-        9.381,
-        0.497069,
-        0.9671,
-        0.8986,
-        0.658,
-        0.0472
+	9.381,
+	0.497069,
+	0.9671,
+	0.8986,
+	0.658,
+	0.0472
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "$\\beta$-Ta$_{3}$P"
+    ],
     "legacy": false,
     "notes": "$\\beta$-V$_{3}$S (LT)",
     "comments": "\\href{current_web_home_dir/AB3_tI32_121_f_g2i-001}{$\\alpha$-V$_{3}$S structure} is metastable in this region, and stable above 950$^\\circ$C. \n $\\beta$-V$_{3}$S is stable below 825$^\\circ$C."

@@ -16,24 +16,26 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "x5",
-        "y5",
-        "z5",
-        "x6",
-        "y6",
-        "z6"
+	"a",
+	"x5",
+	"y5",
+	"z5",
+	"x6",
+	"y6",
+	"z6"
     ],
     "parameter_values": [
-        10.3701,
-        0.057,
-        0.25,
-        0.23,
-        0.235,
-        0.25,
-        0.548
+	10.3701,
+	0.057,
+	0.25,
+	0.23,
+	0.235,
+	0.25,
+	0.548
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": null,
     "comments": null

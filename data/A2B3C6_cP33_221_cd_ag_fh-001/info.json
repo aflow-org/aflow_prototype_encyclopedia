@@ -5,29 +5,31 @@
         "A2B3C6_cP33_221_cd_ag_fh"
     ],
     "title": "Ca$_{3}$Al$_{2}$O$_{6}$ ($E9_{1}$) Structure",
-    "icsd": "151369",
+    "icsd": 151369,
     "ccdc": null,
     "prototype": "Al2Ca3O6",
     "prototype_tex": "Al$_{2}$Ca$_{3}$O$_{6}$",
     "number_of_species": 3,
     "pearson_symbol": "cP33",
     "space_group_number": 221,
-    "strukturbericht": "E9_1",
+    "strukturbericht": "E91",
     "strukturbericht_tex": "$E9_{1}$",
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "x4",
-        "x5",
-        "x6"
+	"a",
+	"x4",
+	"x5",
+	"x6"
     ],
     "parameter_values": [
-        7.624,
-        0.3,
-        0.2,
-        0.2
+	7.624,
+	0.3,
+	0.2,
+	0.2
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "$E9_{1}$",
     "comments": "(Steele, 1929) do not use the standard Wyckoff position notation to describe the atomic positions, so we use the parameters found in (Herman, 1937). An alternative description of the structure places the O-I atoms on the (6e) $(\\pm x,0,0)\\dots$ site rather than the (6f) site. \n (Mondal, 1975) reanalyzed this structure and concluded that the true structure was one where the lattice constant was doubled and contained 264 atoms. See the \\href{current_web_home_dir/A2B3C6_cP264_205_2d_ab2c2d_6d-001}{Ca$_{3}$Al$_{2}$O$_{6}$ (A2B3C6\\_cP264\\_205\\_2d\\_ab2c2d\\_6d) structure} page."

@@ -3,7 +3,7 @@
     "label": "AB3C2_tP6_115_a_bg_g-001",
     "alias": null,
     "title": "Zr$_{2}$CuSb$_{3}$ Structure",
-    "icsd": "93242",
+    "icsd": 93242,
     "ccdc": null,
     "prototype": "CuSb3Zr2",
     "prototype_tex": "CuSb$_{3}$Zr$_{2}$",
@@ -14,18 +14,25 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z3",
-        "z4"
+	"a",
+	"c/a",
+	"z3",
+	"z4"
     ],
     "parameter_values": [
-        3.9404,
-        2.20716,
-        0.3835,
-        0.7315
+	3.9404,
+	2.20716,
+	0.3835,
+	0.7315
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"Hf$_{2}$CuSb$_{3}$",
+	"Hf$_{2}$GaSb$_{3}$",
+	"Ti$_{2}$CuSb$_{3}$",
+	"Zr$_{2}$PdSb$_{3}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": null

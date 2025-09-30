@@ -1,0 +1,53 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL 
+# doi: 10.1016/j.commatsci.2017.01.017 (part 1)
+# doi: 10.1016/j.commatsci.2018.10.043 (part 2)
+# doi: 10.1016/j.commatsci.2021.110450 (part 3)
+# doi: 10.1016/j.commatsci.2024.112988 (part 4)
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/beta-CaC2O4
+
+# Last updated on 2025/06/18
+
+data_beta-CaC2O4
+_pd_phase_name beta-CaC2O4
+_cell_length_a  9.6530000000
+_cell_length_b  7.5150000000
+_cell_length_c  11.4870700000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  147.0550000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P2/m'
+_symmetry_Int_Tables_Number  10
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y,-z
+  3  -x,-y,-z
+  4  x,-y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+C1  1.0000000000 0.0000000000 0.1034000000 0.0000000000  Biso 1.0 C  2 i
+C2  1.0000000000 0.5000000000 0.6037000000 0.0000000000  Biso 1.0 C  2 j
+C3  1.0000000000 0.9973000000 0.0000000000 0.5658000000  Biso 1.0 C  2 m
+Ca4 1.0000000000 0.5898800000 0.0000000000 0.9101800000  Biso 1.0 Ca 2 m
+O5  1.0000000000 0.2163000000 0.0000000000 0.7695000000  Biso 1.0 O  2 m
+O6  1.0000000000 0.1487000000 0.0000000000 0.4666000000  Biso 1.0 O  2 m
+C7  1.0000000000 0.6342000000 0.5000000000 0.5658000000  Biso 1.0 C  2 n
+Ca8 1.0000000000 0.7338100000 0.5000000000 0.9101100000  Biso 1.0 Ca 2 n
+O9  1.0000000000 0.7156000000 0.5000000000 0.5335000000  Biso 1.0 O  2 n
+O10 1.0000000000 0.8227000000 0.5000000000 0.7695000000  Biso 1.0 O  2 n
+O11 1.0000000000 0.5661000000 0.6799000000 0.9525000000  Biso 1.0 O  4 o
+O12 1.0000000000 0.1615000000 0.1796000000 0.0479000000  Biso 1.0 O  4 o

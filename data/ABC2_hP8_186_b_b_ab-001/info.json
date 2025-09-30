@@ -14,22 +14,21 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z1",
-        "z2",
-        "z3",
-        "z4"
+	"a",
+	"c/a",
+	"z1",
+	"z2",
+	"z3",
+	"z4"
     ],
     "parameter_values": [
-        2.806,
-        3.39273,
-        0.11,
-        0.0,
-        0.75,
-        0.39
+	2.806,
+	3.39273,
+	0.11
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "O2-LiCoO$_{2}$",
     "comments": "LiCoO$_{2}$ structures are defined by the stacking arrangement of the edge-shared CoO$_{6}$ octahedra.  In addition, the O3 and O4 structures may have stacking faults. (Yabuuchi, 2013) prepared all of these structures by treating \\href{current_web_home_dir/A2BC2D4_hP18_194_f_a_cd_ef-001}{``OP4''-LiNaCo$_{2}$O$_{4}$} using ion-exchange in aqueous media. \\begin{itemize} \\item In \\href{current_web_home_dir/ABC2_hP8_186_b_b_ab-001}{O2-LiCoO$_{2}$} (this structure) the octahedra are stacked in an alternating cubic/hexagonal arrangement. \\item In O3-LiCoO$_{3}$ the octahedra are stacked in a cubic arrangement, taking on the \\href{current_web_home_dir/ABC2_hR4_166_a_b_c-009}{$\\alpha$-NaFeO$_{2}$} structure. \\item In \\href{current_web_home_dir/ABC2_hP16_186_ab_ab_a3b-001}{O4-LiCoO$_{2}$} the octahedra alternate between O2 and O4. \\end{itemize} ~ \\vspace{-.25in} \n (Delmas, 1982) give the composition of this sample as Li$_{0.93}$CoO$_{1.96}$. They state that the system is in space group $P3m1$ \\#156, but the coordinates they give imply that all of the lithium and cobalt atoms are in equivalent positions, and the space group becomes $P6_{3}mc$ \\#186. \n Space group $P6_{3}mc$ \\#186 does not specify the origin of the $z$-coordinate.  We fix it here by setting $z_{2} = 0$."

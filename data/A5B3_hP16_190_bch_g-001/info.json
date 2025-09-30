@@ -5,7 +5,7 @@
         "A5B3_hP16_190_bdh_g"
     ],
     "title": "$\\alpha$-Sm$_{3}$Ge$_{5}$ (High-temperature) Structure",
-    "icsd": "416581",
+    "icsd": 416581,
     "ccdc": null,
     "prototype": "Ge5Sm3",
     "prototype_tex": "Ge$_{5}$Sm$_{3}$",
@@ -16,20 +16,22 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x3",
-        "x4",
-        "y4"
+	"a",
+	"c/a",
+	"x3",
+	"x4",
+	"y4"
     ],
     "parameter_values": [
-        6.9238,
-        1.22635,
-        0.3313,
-        0.6682,
-        0.0628
+	6.9238,
+	1.22635,
+	0.3313,
+	0.6682,
+	0.0628
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "$\\alpha$-Sm$_{3}$Ge$_{5}$",
     "comments": null

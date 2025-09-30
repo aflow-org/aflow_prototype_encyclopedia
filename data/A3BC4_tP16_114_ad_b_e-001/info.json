@@ -1,0 +1,38 @@
+{
+    "uid": "KJ7L",
+    "label": "A3BC4_tP16_114_ad_b_e-001",
+    "alias": null,
+    "title": "Theoretical $\\delta$-Li$_{3}$PS$_{4}$ Structure",
+    "icsd": null,
+    "ccdc": null,
+    "prototype": "Li3PS4",
+    "prototype_tex": "Li$_{3}$PS$_{4}$",
+    "number_of_species": 3,
+    "pearson_symbol": "tP16",
+    "space_group_number": 114,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
+        "a",
+	"c/a",
+	"z3",
+	"x4",
+	"y4",
+	"z4"
+    ],
+    "parameter_values": [
+        5.807,
+	1.18684,
+	0.0943,
+	0.1756,
+	0.2373,
+	0.3404
+    ],
+    "mineral_name": null,
+    "minerals": {},
+    "compounds": null,
+    "legacy": false,
+    "notes": "$\\delta$-Li$_{3}$PS$_{4}$",
+    "comments": "Li$_{3}$PS$_{4}$ is known to exist in four forms (Homma, 2011): \\begin{itemize} \\item $\\gamma$-Li$_{3}$PS$_{4}$, the ground state, is stable below 573K in the \\href{current_web_home_dir/AB3C4_oP16_31_a_ab_2ab-001}{enargite ($H2_{5}$) structure}. \\item \\href{current_web_home_dir/A4BC4_oP36_62_acd_c_2cd-001}{$\\beta$-Li$_{3}$PS$_{4}$} is stable between 573 and 746K. \\item \\href{current_web_home_dir/A2BC4_oP28_60_d_c_2d-002}{$\\alpha$-Li$_{3}$PS$_{4}$} is stable above 746K. \\item \\href{current_web_home_dir/A3BC4_tP16_114_ad_b_e-001}{$\\delta$-Li$_{3}$PS$_{4}$} (this structure) is a predicted high-pressure phase. \\end{itemize} ~ \\vspace{-.25in} \n This is a computational prediction of the $\\delta$-Li$_{3}$PS$_{4}$ structure, calculated at 10 GPa. \n AFLOW shifts the origin by c/2 along the $\\hat{z}$-axis, moving the Li I atoms from the (2b) to the (2a) Wyckoff positions."
+}

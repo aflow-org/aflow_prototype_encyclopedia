@@ -5,23 +5,42 @@
         "A_cF4_225_a"
     ],
     "title": "Face-Centered Cubic (Cu, $A1$, fcc) Structure",
-    "icsd": "627114",
-    "ccdc": null,
+    "icsd": 627114,
+    "ccdc": 1752327,
     "prototype": "Cu",
     "prototype_tex": "Cu",
     "number_of_species": 1,
+    "elements": [
+	"Cu"
+    ],
     "pearson_symbol": "cF4",
     "space_group_number": 225,
     "strukturbericht": "A1",
     "strukturbericht_tex": "$A1$",
     "part": 1,
     "parameter_symbols": [
-        "a"
+	"a"
     ],
     "parameter_values": [
-        3.6149
+	3.6149
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "Al",
+        "Ag",
+        "Au",
+        "Ce",
+        "Ir",
+        "Ni",
+        "Pb",
+        "Pd",
+        "Pt",
+        "Rh",
+        "Sr",
+        "Tb",
+        "Th"
+    ],
     "legacy": false,
     "notes": "$A1$, fcc lattice",
     "comments": null

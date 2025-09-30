@@ -10,10 +10,10 @@
 # The current version of this file is available at
 # https://aflow.org/prototype-encyclopedia/A2B_mP6_14_e_a-001
 
-# Last updated on 2024/08/01
+# Last updated on 2025/04/01
 
-data_Cl4Pd2
-_pd_phase_name Cl4Pd2
+data_Cl2Pd
+_pd_phase_name Cl2Pd
 _cell_length_a  5.5496000000
 _cell_length_b  3.8608000000
 _cell_length_c  6.4105000000

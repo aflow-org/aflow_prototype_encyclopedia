@@ -5,7 +5,7 @@
         "A3B4_tI28_141_ad_h"
     ],
     "title": "Haussmannite (Mn$_{3}$O$_{4}$) Structure",
-    "icsd": "68174",
+    "icsd": 68174,
     "ccdc": null,
     "prototype": "Mn3O4",
     "prototype_tex": "Mn$_{3}$O$_{4}$",
@@ -16,18 +16,20 @@
     "strukturbericht_tex": null,
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "y3",
-        "z3"
+	"a",
+	"c/a",
+	"y3",
+	"z3"
     ],
     "parameter_values": [
-        5.765,
-        1.63781,
-        0.0278,
-        0.2589
+	5.765,
+	1.63781,
+	0.0278,
+	0.2589
     ],
-    "compounds": {},
+    "mineral_name": "haussmannite",
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "Haussmannite",
     "comments": null

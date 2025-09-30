@@ -3,7 +3,7 @@
     "label": "A2B3_tP20_136_j_cfg-001",
     "alias": null,
     "title": "Na$_{3}$Hg$_{2}$ Structure",
-    "icsd": "104328",
+    "icsd": 104328,
     "ccdc": null,
     "prototype": "Hg2Na3",
     "prototype_tex": "Hg$_{2}$Na$_{3}$",
@@ -14,22 +14,26 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x2",
-        "x3",
-        "x4",
-        "z4"
+	"a",
+	"c/a",
+	"x2",
+	"x3",
+	"x4",
+	"z4"
     ],
     "parameter_values": [
-        8.52,
-        0.915493,
-        0.368,
-        0.21,
-        0.125,
-        0.19
+	8.52,
+	0.915493,
+	0.368,
+	0.21,
+	0.125,
+	0.19
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "Al$_{2}$Zr$_{3}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": null

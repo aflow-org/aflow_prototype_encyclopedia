@@ -16,20 +16,22 @@
     "strukturbericht_tex": "$C22$",
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z2",
-        "x3",
-        "x4"
+	"a",
+	"c/a",
+	"z2",
+	"x3",
+	"x4"
     ],
     "parameter_values": [
-        5.85,
-        0.589744,
-        0.375,
-        0.6,
-        0.26
+	5.85,
+	0.589744,
+	0.375,
+	0.6,
+	0.26
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "$C22$ (Original)",
     "comments": "This is the structure given in {\\em Strukturbericht} Vol. II, apparently from (Friauf, 1930), which we have not been able to locate. As noted by Wyckoff, the structure, which was ``generally accepted for years, has recently been shown to be incorrect.'' (Vol I., 360, also in Hendricks, 1930). The corrected structure, as given in Pearson's Handbook, is given in the revised \\href{current_web_home_dir/A2B_hP9_189_fg_ad-001}{Fe$_{2}$P page}. When $z_{2}$ is set to zero this structure reverts to the revised Fe$_{2}$P structure."

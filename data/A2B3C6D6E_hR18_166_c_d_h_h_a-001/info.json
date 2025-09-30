@@ -1,0 +1,56 @@
+{
+    "uid": "KMG3",
+    "label": "A2B3C6D6E_hR18_166_c_d_h_h_a-001",
+    "alias": null,
+    "title": "Herbertsmithite (Cu$_{3}$Zn(OH)$_{6}$Cl$_{2}$) Structure",
+    "icsd": 425834,
+    "ccdc": 1736040,
+    "prototype": "Cl2Cu3H6O6Zn",
+    "prototype_tex": "Cl$_{2}$Cu$_{3}$H$_{6}$O$_{6}$Zn",
+    "number_of_species": 5,
+    "elements": [
+	"Cl",
+	"Cu",
+	"H",
+	"O",
+	"Zn"
+    ],
+    "pearson_symbol": "hR18",
+    "space_group_number": 166,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
+	"a",
+	"c/a",
+	"x2",
+	"x4",
+	"z4",
+	"x5",
+	"z5"
+    ],
+    "parameter_values": [
+	6.834,
+	2.059555,
+	0.1943,
+	0.138,
+	0.0862,
+	0.2056,
+	0.0612
+    ],
+    "mineral_name": "herbertsmithite",
+    "minerals": {
+	"herbertsmithite":"Cu$_{3}$Zn(OH)$_{6}$Cl$_{2}$",
+        "gillardite":"Cu$_{3}$Ni(OH)$_{6}$Cl$_{2}$",
+        "leverettite":"Cu$_{3}$M(OH)$_{6}$Cl$_{2}$"
+    },
+    "compounds": [
+        "Cu$_{3}$Ni(OH)$_{6}$Cl$_{2}$ (gillardite)",
+        "Cu$_{3}$Mg$_{x}$(OH)$_{6}$Cl$_{2}$",
+        "Cu$_{3}$M(OH)$_{6}$Cl$_{2}$ (leverettite)",
+        "Mg$_{3}$Mn$_{x}$(OH)$_{6}$Cl$_{2}$"
+    ],
+    "legacy": false,
+    "notes": "Herbertsmithite",
+    "comments": "We take the atomic coordinates from the ICSD entry, shifted by c/2 in the z-direction to move the zinc atom from the (1b) to the (1a) site. \n The (3d) site may be only partially occupied. \n The (1a) site in leverettite (ICSD 5329) is an alloy of cobalt, copper, magnesium, manganese and nickel. \n Cu$_{3}$Zn(OH)$_{6}$Cl$_{2}$ can also be found as \\href{current_web_home_dir/A2B3C6D_hP12_164_d_e_i_a-001}{kapellasite}."
+}

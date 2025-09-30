@@ -5,29 +5,38 @@
         "A2BC4D_tI16_121_d_a_i_b"
     ],
     "title": "Stannite (Cu$_{2}$FeS$_{4}$Sn, $H2_{6}$) Structure",
-    "icsd": "26721",
+    "icsd": 26721,
     "ccdc": null,
     "prototype": "Cu2FeS4Sn",
     "prototype_tex": "Cu$_{2}$FeS$_{4}$Sn",
     "number_of_species": 4,
     "pearson_symbol": "tI16",
     "space_group_number": 121,
-    "strukturbericht": "H2_6",
+    "strukturbericht": "H26",
     "strukturbericht_tex": "$H2_{6}$",
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x4",
-        "z4"
+	"a",
+	"c/a",
+	"x4",
+	"z4"
     ],
     "parameter_values": [
-        5.46,
-        1.96429,
-        0.745,
-        0.632
+	5.46,
+	1.96429,
+	0.745,
+	0.632
     ],
-    "compounds": {},
+    "mineral_name": "stannite",
+    "minerals": null,
+    "compounds": [
+        "Cu$_{2}$CdSe$_{4}$Sn",
+        "Cu$_{2}$CoS$_{4}$Sn",
+        "Cu$_{2}$GeHgS$_{4}$",
+        "Cu$_{2}$HgS$_{4}$Sn",
+        "Ag$_{2}$FeS$_{4}$Sn",
+        "Ag$_{2}$KS$_{4}$Sb"
+    ],
     "legacy": false,
     "notes": "$H2_{6}$, Stannite",
     "comments": "If $c=2a$, $x=1/4$, and $z=3/8$, the atoms are on the sites of the \\href{current_web_home_dir/A_cF8_227_a-001}{diamond ($A4$) structure}. If, in addition, the Cu, Fe, and Sn atoms are replaced by a single atom type the crystal reduces to the \\href{current_web_home_dir/AB_cF8_216_a_c-001}{zincblende ($B3$) structure}."

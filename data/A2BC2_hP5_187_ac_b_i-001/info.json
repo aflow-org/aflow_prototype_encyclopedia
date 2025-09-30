@@ -14,16 +14,23 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z4"
+	"a",
+	"c/a",
+	"z4"
     ],
     "parameter_values": [
-        3.0771,
-        2.57294,
-        0.1982
+	3.0771,
+	2.57294,
+	0.1982
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "Hf$_{2}$InB$_{2}$",
+        "Hf$_{2}$SnB$_{2}$",
+        "Zr$_{2}$InB$_{2}$",
+        "Zr$_{2}$TlB$_{2}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "(Wang, 2019) synthesized Ti$_{2}$InB$_{2}$ and found it was in space group $P\\overline{6}m2$ \\#187, but did not give experimental positions of the atoms.  Instead we use their computational results. \n We shifted the origin of the (Wang, 2019) primitive cell so that one of the boron atoms is at the origin."

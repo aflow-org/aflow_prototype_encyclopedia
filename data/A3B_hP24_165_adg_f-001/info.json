@@ -5,7 +5,7 @@
         "A3B_hP24_165_adg_f"
     ],
     "title": "H$_{3}$Ho Structure",
-    "icsd": "16880",
+    "icsd": 16880,
     "ccdc": null,
     "prototype": "H3Ho",
     "prototype_tex": "H$_{3}$Ho",
@@ -16,24 +16,36 @@
     "strukturbericht_tex": null,
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z2",
-        "x3",
-        "x4",
-        "y4",
-        "z4"
+	"a",
+	"c/a",
+	"z2",
+	"x3",
+	"x4",
+	"y4",
+	"z4"
     ],
     "parameter_values": [
-        6.308,
-        1.03995,
-        0.167,
-        0.666,
-        0.356,
-        0.028,
-        0.096
+	6.308,
+	1.03995,
+	0.167,
+	0.666,
+	0.356,
+	0.028,
+	0.096
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "H$_{3}$Dy",
+        "H$_{3}$Er",
+        "H$_{3}$Gd",
+        "H$_{3}$Lu",
+        "H$_{3}$Sm",
+        "H$_{3}$Tb",
+        "H$_{3}$Tm",
+        "H$_{3}$Y",
+        "F$_{3}$La"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "This structure is crystallographically equivalent to \\href{current_web_home_dir/A3B_hP24_165_bdg_f-001}{Cu$_{3}$P ($D0_{21}$)}. We retain it as the prototype for the subclass of this prototype containing hydrogen. \n The data was taken for the deuteride, D$_{3}$Ho."

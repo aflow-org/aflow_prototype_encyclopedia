@@ -5,7 +5,7 @@
         "A2BC4_tI28_140_h_a_k"
     ],
     "title": "V$_{4}$SiSb$_{2}$ Structure",
-    "icsd": "82564",
+    "icsd": 82564,
     "ccdc": null,
     "prototype": "Sb2SiV4",
     "prototype_tex": "Sb$_{2}$SiV$_{4}$",
@@ -16,20 +16,29 @@
     "strukturbericht_tex": null,
     "part": 3,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x2",
-        "x3",
-        "y3"
+	"a",
+	"c/a",
+	"x2",
+	"x3",
+	"y3"
     ],
     "parameter_values": [
-        9.872,
-        0.476803,
-        0.14094,
-        0.0852,
-        0.20674
+	9.872,
+	0.476803,
+	0.14094,
+	0.0852,
+	0.20674
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "Nb$_{4}$SiSb$_{2}$",
+        "Ti$_{4}$CoBi$_{2}$",
+        "Ti$_{4}$CrBi$_{2}$",
+        "Ti$_{4}$FeBi$_{2}$",
+        "Ti$_{4}$MnBi$_{2}$",
+        "Ti$_{4}$NiBi$_{2}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "This is the ternary version of the \\href{current_web_home_dir/AB6_tI28_140_a_hk-001}{$D2_{c}$ U$_{6}$Mn structure}.  This can also be identified as a version of the \\href{current_web_home_dir/A3B5_tI32_140_ah_bk-001}{$D8_{m}$ W$_{5}$Si$_{3}$ structure} with defects."

@@ -3,7 +3,7 @@
     "label": "A4B5C9_hR18_166_2c_a2c_dh-001",
     "alias": null,
     "title": "Ce$_{4}$Ga$_{5}$Rh$_{9}$ Structure",
-    "icsd": "432164",
+    "icsd": 432164,
     "ccdc": null,
     "prototype": "Ce4Ga5Rh9",
     "prototype_tex": "Ce$_{4}$Ga$_{5}$Rh$_{9}$",
@@ -14,26 +14,30 @@
     "strukturbericht_tex": null,
     "part": 5,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x2",
-        "x3",
-        "x4",
-        "x5",
-        "x7",
-        "z7"
+	"a",
+	"c/a",
+	"x2",
+	"x3",
+	"x4",
+	"x5",
+	"x7",
+	"z7"
     ],
     "parameter_values": [
-        5.57198,
-        6.28697,
-        0.54917,
-        0.64629,
-        0.77777,
-        0.88925,
-        0.50215,
-        0.61135
+	5.57198,
+	6.28697,
+	0.54917,
+	0.64629,
+	0.77777,
+	0.88925,
+	0.50215,
+	0.61135
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "Gd$_{4}$Ga$_{5}$Rh$_{9}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "This is a more compact version of \\href{current_web_home_dir/A5B7C12_hR24_166_a2c_b3c_2h-001}{Ce$_{5}$Ga$_{7}$Rh$_{12}$} and \\href{current_web_home_dir/A7B11C18_hR36_166_a3c_b5c_3h-001}{Ce$_{7}$Ga$_{11}$Rh$_{18}$}. \n Aflow moves the Ga I atom from the published (1b) site to the origin (1a) site."

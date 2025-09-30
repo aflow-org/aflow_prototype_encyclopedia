@@ -5,7 +5,7 @@
         "A2B_hP9_189_fg_bc"
     ],
     "title": "Barringerite (Revised Fe$_{2}$P, $C22$) Crystal Structure",
-    "icsd": "200529",
+    "icsd": 200529,
     "ccdc": null,
     "prototype": "Fe2P",
     "prototype_tex": "Fe$_{2}$P",
@@ -16,18 +16,32 @@
     "strukturbericht_tex": "$C22$",
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x3",
-        "x4"
+	"a",
+	"c/a",
+	"x3",
+	"x4"
     ],
     "parameter_values": [
-        5.877,
-        0.584822,
-        0.589,
-        0.256
+	5.877,
+	0.584822,
+	0.589,
+	0.256
     ],
-    "compounds": {},
+    "mineral_name": "barringerite",
+    "minerals": null,
+    "compounds": [
+        "Co$_{2}$As",
+        "Cr$_{2}$As",
+        "Mg$_{2}$In",
+        "Mn$_{2}$P",
+        "Ni$_{2}$P",
+        "Pd$_{2}$As",
+        "Pd$_{2}$Ge",
+        "Pd$_{2}$Si",
+        "Pt$_{2}$Ge",
+        "Pt$_{2}$Si (HT)",
+	"S$_{2}$U"
+    ],
     "legacy": false,
     "notes": "Barringerite, $C22$ (Revised)",
     "comments": "This is not the structure given in (Hermann, 1937) {\\em Strukturbericht} Vol. II, 95. As noted by (Wyckoff, 1963), that structure was ``generally accepted for years, [but] has recently been shown to be incorrect.'' This is the corrected structure, as given in Wyckoff and (Villars, 1991). See the \\href{current_web_home_dir/A2B_hP9_150_ef_ad-001}{original Fe$_{2}$P ($C22$) page} for the {\\em Strukturbericht} version of this crystal. \n This is the binary version of the structure.  There are two possible tenary versions: \\begin{itemize} \\item  The two iron sites are independent, and can be replaced by different atoms.  We put the resulting ternary structures under the \\href{current_web_home_dir/ABC_hP9_189_f_bc_g-003}{ZrNiAl prototype}. \\item The two potassium sites are also independent, that ternary structure can be represented by \\href{current_web_home_dir/A2BC6_hP9_189_c_b_fg-002}{Zr$_{6}$CoAs$_{2}$}. \\end{itemize} ~ \\vspace{-.25in} \n The quaternary version of this structure has different species on all four Wyckoff sites.  We represent this by the \\href{current_web_home_dir/A2B3CD3_hP9_189_c_f_b_g-001}{Tb$_{3}$Mn$_{3}$Ga$_{2}$Si structure}."

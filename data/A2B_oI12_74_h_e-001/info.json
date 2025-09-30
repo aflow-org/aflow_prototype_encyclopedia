@@ -5,7 +5,7 @@
         "A2B_oI12_74_h_e"
     ],
     "title": "KHg$_{2}$ Structure",
-    "icsd": "104303",
+    "icsd": 104303,
     "ccdc": null,
     "prototype": "Hg2K",
     "prototype_tex": "Hg$_{2}$K",
@@ -16,22 +16,28 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "z1",
-        "y2",
-        "z2"
+	"a",
+	"b/a",
+	"c/a",
+	"z1",
+	"y2",
+	"z2"
     ],
     "parameter_values": [
-        5.16,
-        1.56977,
-        1.69961,
-        0.953,
-        0.56,
-        0.663
+	5.16,
+	1.56977,
+	1.69961,
+	0.953,
+	0.56,
+	0.663
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "BaZn$_{2}$",
+        "CaAg$_{2}$",
+        "SrZn$_{2}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": null

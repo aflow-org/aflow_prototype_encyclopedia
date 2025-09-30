@@ -3,7 +3,7 @@
     "label": "A6BC8_cF60_225_d_a_ce-001",
     "alias": null,
     "title": "Mg$_{6}$MnO$_{8}$ Structure",
-    "icsd": "24710",
+    "icsd": 24710,
     "ccdc": null,
     "prototype": "Mg6MnO8",
     "prototype_tex": "Mg$_{6}$MnO$_{8}$",
@@ -14,14 +14,21 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "x4"
+	"a",
+	"x4"
     ],
     "parameter_values": [
-        8.381,
-        0.23
+	8.381,
+	0.23
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"Na$_{6}$CdCl$_{8}$",
+	"Na$_{6}$FeCl$_{8}$",
+	"Na$_{6}$MgCl$_{8}$",
+	"Na$_{6}$MnCl$_{8}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "This can be seen as a distortion of the \\href{current_web_home_dir/AB_cF8_225_a_b-001}{rock salt ($B1$) structure} with four atoms removed.  Adding atoms to the (4b) site and setting $x_{4} = 1/4$ places all of the atoms on the sites of the rock salt crystal."

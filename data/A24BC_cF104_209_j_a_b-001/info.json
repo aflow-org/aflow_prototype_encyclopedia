@@ -16,18 +16,20 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "x3",
-        "y3",
-        "z3"
+	"a",
+	"x3",
+	"y3",
+	"z3"
     ],
     "parameter_values": [
-        7.71,
-        0.543,
-        0.609,
-        0.165
+	7.71,
+	0.543,
+	0.609,
+	0.165
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": null,
     "comments": "The (96j) Wyckoff positions are decorated by F atoms with a site occupation of 0.25, hence the prototype material is KPF$_{6}$ rather than KPF$_{24}$."

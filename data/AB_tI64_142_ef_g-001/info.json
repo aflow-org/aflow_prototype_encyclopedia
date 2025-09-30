@@ -3,7 +3,7 @@
     "label": "AB_tI64_142_ef_g-001",
     "alias": null,
     "title": "NaPb Structure",
-    "icsd": "105156",
+    "icsd": 105156,
     "ccdc": null,
     "prototype": "NaPb",
     "prototype_tex": "NaPb",
@@ -14,24 +14,33 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x1",
-        "x2",
-        "x3",
-        "y3",
-        "z3"
+	"a",
+	"c/a",
+	"x1",
+	"x2",
+	"x3",
+	"y3",
+	"z3"
     ],
     "parameter_values": [
-        10.58,
-        1.67732,
-        0.125,
-        0.875,
-        0.8686,
-        0.3196,
-        0.8117
+	10.58,
+	1.67732,
+	0.125,
+	0.875,
+	0.8686,
+	0.3196,
+	0.8117
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "CsPb",
+        "CsSn",
+        "KPb",
+        "KSn",
+        "RbPb",
+        "RbSn"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "(Marsh, 1953) describe the structure in the first setting of space group $I4_{1}/acd$ \\#142.  We used FINDSYM to translate this into the standard second setting."

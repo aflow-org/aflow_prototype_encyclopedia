@@ -5,8 +5,8 @@
         "AB_hP12_194_df_ce"
     ],
     "title": "Covellite (CuS, $B18$) Structure",
-    "icsd": "41975",
-    "ccdc": null,
+    "icsd": 41975,
+    "ccdc": 1611696,
     "prototype": "CuS",
     "prototype_tex": "CuS",
     "number_of_species": 2,
@@ -16,19 +16,25 @@
     "strukturbericht_tex": "$B18$",
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z3",
-        "z4"
+	"a",
+	"c/a",
+	"z3",
+	"z4"
     ],
     "parameter_values": [
-        3.976,
-        4.12022,
-        0.4363,
-        0.60724
+	3.976,
+	4.12022,
+	0.4363,
+	0.60724
     ],
-    "compounds": {},
+    "mineral_name": "covellite",
+    "minerals": {
+	"covellite":"CuS"
+    },
+    "compounds": [
+        "CuSe"
+    ],
     "legacy": false,
     "notes": "$B18$, Covellite",
-    "comments": "We did not find an ICSD entry for (Ohmasa, 1977), so we one from (Kalbskopf, 1975) which is quoated our source paper."
+    "comments": "We did not find an ICSD entry for (Ohmasa, 1977), so we one from (Kalbskopf, 1975) which is quoated our source paper. \n The \\href{current_web_home_dir/Tutorials/AFLOW_Prototype_Label/index.html#LabelOrder}{AFLOW Prototype Label Protocol} moves the origin so that the Cu I atom is on the (2c) Wyckoff site rathern than the (2d)."
 }

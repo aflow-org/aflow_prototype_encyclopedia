@@ -5,7 +5,7 @@
         "A2B_cP6_224_b_a"
     ],
     "title": "Cuprite (Cu$_{2}$O, $C3$) Structure",
-    "icsd": "52043",
+    "icsd": 52043,
     "ccdc": null,
     "prototype": "Cu2O",
     "prototype_tex": "Cu$_{2}$O",
@@ -16,12 +16,19 @@
     "strukturbericht_tex": "$C3$",
     "part": 1,
     "parameter_symbols": [
-        "a"
+	"a"
     ],
     "parameter_values": [
-        4.267
+	4.267
     ],
-    "compounds": {},
+    "mineral_name": "cuprite",
+    "minerals": {
+	"cuprite": "Cu$_{2}$O"
+    },
+    "compounds": [
+	"Ag$_{2}$O",
+	"Pb$_{2}$O"
+    ],
     "legacy": false,
     "notes": "$C3$, Cuprite",
     "comments": "(Restori, 1986) gives the equilibrium lattice constant of Cu$_{2}$O as $a$=4.627{\\AA}, but gives nearest-neighbor distances which yield a lattice constant of 4.267{\\AA}. Since this value agrees with other sources, including those in (Downs, 2003), we use it. The ICSD entry uses 4.2685{\\AA}."

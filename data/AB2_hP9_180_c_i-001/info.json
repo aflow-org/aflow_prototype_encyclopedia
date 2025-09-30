@@ -5,7 +5,7 @@
         "AB2_hP9_180_d_j"
     ],
     "title": "CrSi$_{2}$ ($C40$) Structure",
-    "icsd": "161434",
+    "icsd": 161434,
     "ccdc": null,
     "prototype": "CrSi2",
     "prototype_tex": "CrSi$_{2}$",
@@ -16,16 +16,27 @@
     "strukturbericht_tex": "$C40$",
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x2"
+	"a",
+	"c/a",
+	"x2"
     ],
     "parameter_values": [
-        4.4276,
-        1.43827,
-        0.16559
+	4.4276,
+	1.43827,
+	0.16559
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "HfSn$_{2}$",
+        "MoSi$_{2}$",
+        "NbGe$_{2}$",
+        "TaGe$_{2}$",
+        "TaSi$_{2}$",
+        "VGe$_{2}$",
+        "VSi$_{2}$",
+        "WSi$_{2}$"
+    ],
     "legacy": false,
     "notes": "$C40$",
     "comments": "This compound can also be found in the enantiomorphic space group $P6_{4}22$ \\#181."

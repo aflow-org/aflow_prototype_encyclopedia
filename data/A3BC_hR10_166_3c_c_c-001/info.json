@@ -1,0 +1,45 @@
+{
+    "uid": "FR7H",
+    "label": "A3BC_hR10_166_3c_c_c-001",
+    "alias": null,
+    "title": "Fe$_{4}$GeTe$_{2}$ Structure",
+    "icsd": null,
+    "ccdc": null,
+    "prototype": "Fe4GeTe2",
+    "prototype_tex": "Fe$_{4}$GeTe$_{2}$",
+    "number_of_species": 3,
+    "elements": [
+        "Fe",
+	"Ge",
+	"Te"
+    ],
+    "pearson_symbol": "hR10",
+    "space_group_number": 166,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
+        "a",
+	"c/a",
+	"x1",
+	"x2",
+	"x3",
+	"x4",
+	"x5"
+    ],
+    "parameter_values": [
+        4.04411,
+	7.20559,
+	0.07791,
+	0.31443,
+	0.39972,
+	0.01179,
+	0.21986
+    ],
+    "mineral_name": null,
+    "minerals": {},
+    "compounds": null,
+    "legacy": false,
+    "notes": null,
+    "comments": "Like \\href{current_web_home_dir/A3BC2_hP12_194_ce_d_f-001}{Fe$_{3}$GeTe$_{2}$} and \\href{current_web_home_dir/A5BC2_hR8_160_5a_a_2a-001}{Fe$_{5}$GeTe$_{2}$} this is a layered van der Waals material. \n (Bera, 2023) give the occupation of the Fe I site as 27.5\\% and the Ge I site as 72.5\\%.  This does not agree with their claimed stoichiometry Fe$_{4.2}$Ge$_{0.8}$Te$_{2}$.  We suspect that this is the occupation for two sites, in which case the occupations for Fe I and Ge I should be 13.75\\% and 36.25\\%, respectively, for a final stoichiometry of Fe$_{4.275}$Ge$_{0.725}$Te$_{2}$, much closer to the claimed value. \n The ideal Fe$_{4}$GeTe$_{2}$ structure can be obtained by eliminating the Fe I atom and replacing the (2c) Ge I sites with a (1a) (0 0 0) site fully occupied by germanium. Such a structure would have the AFLOW label A4BC2\\_hR7\\_166\\_2c\\_a\\_c. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
+}

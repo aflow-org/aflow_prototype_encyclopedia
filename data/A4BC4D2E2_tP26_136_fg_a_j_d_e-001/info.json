@@ -5,35 +5,41 @@
         "A4BC4D2E2_tP26_136_fg_a_j_d_e"
     ],
     "title": "K$_{2}$CuCl$_{4}$ $\\cdot$ 2H$_{2}$O ($H4_{1}$) Structure",
-    "icsd": "16052",
+    "icsd": 16052,
     "ccdc": null,
     "prototype": "Cl4CuH4K2O2",
     "prototype_tex": "Cl$_{4}$CuH$_{4}$K$_{2}$O$_{2}$",
     "number_of_species": 5,
     "pearson_symbol": "tP26",
     "space_group_number": 136,
-    "strukturbericht": "H4_1",
+    "strukturbericht": "H41",
     "strukturbericht_tex": "$H4_{1}$",
     "part": 3,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z3",
-        "x4",
-        "x5",
-        "x6",
-        "z6"
+	"a",
+	"c/a",
+	"z3",
+	"x4",
+	"x5",
+	"x6",
+	"z6"
     ],
     "parameter_values": [
-        7.477,
-        1.06125,
-        0.2484,
-        0.2161,
-        0.7262,
-        0.0739,
-        0.3178
+	7.477,
+	1.06125,
+	0.2484,
+	0.2161,
+	0.7262,
+	0.0739,
+	0.3178
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "Rb$_{2}$CuCl$_{4}$ $\\cdot$ 2H$_{2}$O",
+        "(NH$_{4}$)$_{2}$CuCl$_{4}$ $\\cdot$ 2H$_{2}$O",
+        "(NH$_{4}$)$_{2}$CuBr$_{4}$ $\\cdot$ 2H$_{2}$O"
+    ],
     "legacy": false,
     "notes": "$H4_{1}$",
     "comments": null

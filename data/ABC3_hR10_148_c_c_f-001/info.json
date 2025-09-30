@@ -3,7 +3,7 @@
     "label": "ABC3_hR10_148_c_c_f-001",
     "alias": null,
     "title": "FePSe$_{3}$ Structure",
-    "icsd": "86272",
+    "icsd": 86272,
     "ccdc": null,
     "prototype": "FePSe3",
     "prototype_tex": "FePSe$_{3}$",
@@ -14,24 +14,30 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x1",
-        "x2",
-        "x3",
-        "y3",
-        "z3"
+	"a",
+	"c/a",
+	"x1",
+	"x2",
+	"x3",
+	"y3",
+	"z3"
     ],
     "parameter_values": [
-        6.26199,
-        3.16273,
-        0.8335,
-        0.5514,
-        0.9272,
-        0.2408,
-        0.5917
+	6.26199,
+	3.16273,
+	0.8335,
+	0.5514,
+	0.9272,
+	0.2408,
+	0.5917
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"CrGeTe$_{3}$",
+	"CrSiTe$_{3}$",
+	"MnPSe$_{3}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "We use the data taken by (Wiedenmann, 1981) at 15K, while the ICSD entry used their data at 154K. \n (Klingen, 1973) placed this structure in the non-centrosymmetric \\href{current_web_home_dir/ABC3_hR10_146_2a_2a_2b-001}{space group $R3$ \\#146}. \n For quaternary compounds in this structure, see \\href{current_web_home_dir/A2B6CD_hR10_146_2a_2b_a_a-001}{Li$_{2}$ZrTeO$_{6}$}. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."

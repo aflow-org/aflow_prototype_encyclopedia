@@ -5,29 +5,42 @@
         "AB11_cP36_221_c_agij"
     ],
     "title": "BaHg$_{11}$ ($D2_{e}$) Structure",
-    "icsd": "58656",
+    "icsd": 58656,
     "ccdc": null,
     "prototype": "BaHg11",
     "prototype_tex": "BaHg$_{11}$",
     "number_of_species": 2,
     "pearson_symbol": "cP36",
     "space_group_number": 221,
-    "strukturbericht": "D2_e",
+    "strukturbericht": "D2e",
     "strukturbericht_tex": "$D2_{e}$",
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "x3",
-        "y4",
-        "y5"
+	"a",
+	"x3",
+	"y4",
+	"y5"
     ],
     "parameter_values": [
-        9.6,
-        0.345,
-        0.225,
-        0.115
+	9.6,
+	0.345,
+	0.225,
+	0.115
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "CeCd$_{11}$",
+        "KHg$_{11}$",
+        "LaCd$_{11}$",
+        "NdCd$_{11}$",
+        "PrCd$_{11}$",
+        "PuCd$_{11}$",
+        "RbHg$_{11}$",
+        "SmCd$_{11}$",
+        "SrHg$_{11}$",
+        "Eu(Ag$_{x}$Au$_{11-x}$)"
+    ],
     "legacy": false,
     "notes": "$D2_{e}$",
     "comments": "(Pearson, 1972) state that this structure occurs in ``a number of Hg and Cd phases with Group I or IIA metals or rare earths.''  We lists those which we have found in the literature."

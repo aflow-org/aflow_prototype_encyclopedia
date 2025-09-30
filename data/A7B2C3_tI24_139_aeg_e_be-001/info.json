@@ -3,7 +3,7 @@
     "label": "A7B2C3_tI24_139_aeg_e_be-001",
     "alias": null,
     "title": "Rb$_{3}$Mn$_{2}$Cl$_{7}$ Structure",
-    "icsd": "9491",
+    "icsd": 9491,
     "ccdc": null,
     "prototype": "Cl7Mn2Rb3",
     "prototype_tex": "Cl$_{7}$Mn$_{2}$Rb$_{3}$",
@@ -14,22 +14,29 @@
     "strukturbericht_tex": null,
     "part": 5,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z3",
-        "z4",
-        "z5",
-        "z6"
+	"a",
+	"c/a",
+	"z3",
+	"z4",
+	"z5",
+	"z6"
     ],
     "parameter_values": [
-        5.089,
-        5.137748,
-        0.295,
-        0.4,
-        0.18,
-        0.1
+	5.089,
+	5.137748,
+	0.295,
+	0.400,
+	0.180,
+	0.100
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "Cs$_{3}$Ca$_{2}$Cl$_{7}$",
+        "Cs$_{3}$Mg$_{2}$Cl$_{7}$",
+        "K$_{3}$Mn$_{2}$Cl$_{7}$",
+        "Rb$_{3}$Mn$_{2}$Br$_{7}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "Quaternary compounds with this structure are listed under the \\href{current_web_home_dir/A2B5C2D3_tI24_139_e_ag_e_be-001}{Sr$_{3}$Sc$_{2}$O$_{5}$Cl$_{2}$} prototype.  The ICSD list some, but not all, of those structures under the Rb$_{3}$Mn$_{2}$Cl$_{7}$ structure type."

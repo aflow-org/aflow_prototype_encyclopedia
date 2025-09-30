@@ -3,7 +3,7 @@
     "label": "A2BC2D2_tI14_139_e_a_c_e-001",
     "alias": null,
     "title": "Sr$_{2}$CuO$_{2}$Cl$_{2}$ Structure",
-    "icsd": "67067",
+    "icsd": 67067,
     "ccdc": null,
     "prototype": "Cl2CuO2Sr2",
     "prototype_tex": "Cl$_{2}$CuO$_{2}$Sr$_{2}$",
@@ -14,18 +14,25 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z3",
-        "z4"
+	"a",
+	"c/a",
+	"z3",
+	"z4"
     ],
     "parameter_values": [
-        3.9716,
-        3.93106,
-        0.18309,
-        0.39259
+	3.9716,
+	3.93106,
+	0.18309,
+	0.39259
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"Ca$_{2}$CuO$_{2}$Cl$_{2}$",
+	"Na$_{2}$Fe$_{2}$Se$_{2}$O",
+	"Na$_{2}$Ti$_{2}$As$_{2}$O",
+        "Na$_{2}$Ti$_{2}$Sb$_{2}$O"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "This is the quaternary form of the \\href{current_web_home_dir/A4B2C_tI14_139_ce_e_a-001}{K$_{2}$NiF$_{4}$ structure}."

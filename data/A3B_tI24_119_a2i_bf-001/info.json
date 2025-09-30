@@ -5,7 +5,7 @@
         "A3B_tI24_119_b2i_af"
     ],
     "title": "RbGa$_{3}$ Structure",
-    "icsd": "103943",
+    "icsd": 103943,
     "ccdc": null,
     "prototype": "Ga3Rb",
     "prototype_tex": "Ga$_{3}$Rb",
@@ -16,24 +16,29 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z3",
-        "x4",
-        "z4",
-        "x5",
-        "z5"
+	"a",
+	"c/a",
+	"z3",
+	"x4",
+	"z4",
+	"x5",
+	"z5"
     ],
     "parameter_values": [
-        6.315,
-        2.3753,
-        0.872,
-        0.2068,
-        0.7229,
-        0.3067,
-        0.8917
+	6.315,
+	2.3753,
+	0.872,
+	0.2068,
+	0.7229,
+	0.3067,
+	0.8917
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "CsGa$_{3}$",
+        "KGa$_{3}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": null

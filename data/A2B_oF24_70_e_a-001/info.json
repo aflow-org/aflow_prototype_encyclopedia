@@ -5,7 +5,7 @@
         "A2B_oF24_70_e_a"
     ],
     "title": "TiSi$_{2}$ ($C54$) Nowotony Chimney-Ladder Structure",
-    "icsd": "1089",
+    "icsd": 1089,
     "ccdc": null,
     "prototype": "Si2Ti",
     "prototype_tex": "Si$_{2}$Ti",
@@ -16,18 +16,25 @@
     "strukturbericht_tex": "$C54$",
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "x2"
+	"a",
+	"b/a",
+	"c/a",
+	"x2"
     ],
     "parameter_values": [
-        8.2671,
-        0.580615,
-        1.03428,
-        0.4615
+	8.2671,
+	0.580615,
+	1.03428,
+	0.4615
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "RuAl$_{2}$",
+        "RuGa$_{2}$",
+        "TiGe$_{2}$",
+        "ZrSn$_{2}$"
+    ],
     "legacy": false,
     "notes": "$C54$",
     "comments": "This is the simplest example of a ``Nowotny chimney-ladder structure'' (Pearson, 1970), T$_{n}$X$_{m}$, where ``T'' is a transition metal, ``X'' is a row III or IV metal (or semiconductor), and $1.25 \\le m/n {<} 2$.  The transition metal atoms are arranged similarly to the atoms in the \\href{current_web_home_dir/A_tI4_141_a-001}{$\\beta$-Sn ($A5$)}."

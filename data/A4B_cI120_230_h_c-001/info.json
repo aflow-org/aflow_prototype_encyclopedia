@@ -3,7 +3,7 @@
     "label": "A4B_cI120_230_h_c-001",
     "alias": null,
     "title": "RhBi$_{4}$ Structure",
-    "icsd": "58854",
+    "icsd": 58854,
     "ccdc": null,
     "prototype": "Bi4Rh",
     "prototype_tex": "Bi$_{4}$Rh",
@@ -14,18 +14,20 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "x2",
-        "y2",
-        "z2"
+	"a",
+	"x2",
+	"y2",
+	"z2"
     ],
     "parameter_values": [
-        14.928,
-        0.024,
-        0.43,
-        0.153
+	14.928,
+	0.024,
+	0.43,
+	0.153
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": null,
     "comments": "(Glagoleva, 1956) give three slightly different values for the location of the bismuth atoms.  We choose their final set of coordinates. The ICSD entry is from the earlier publication (Zhdanov, 1954)."

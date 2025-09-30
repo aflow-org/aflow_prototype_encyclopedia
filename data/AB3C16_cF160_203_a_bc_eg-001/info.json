@@ -5,7 +5,7 @@
         "AB3C16_cF160_203_a_bc_eg"
     ],
     "title": "Rb$_{3}$AsSe$_{16}$ Structure",
-    "icsd": "405959",
+    "icsd": 405959,
     "ccdc": null,
     "prototype": "AsRb3Se16",
     "prototype_tex": "AsRb$_{3}$Se$_{16}$",
@@ -16,20 +16,22 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "x4",
-        "x5",
-        "y5",
-        "z5"
+	"a",
+	"x4",
+	"x5",
+	"y5",
+	"z5"
     ],
     "parameter_values": [
-        16.66,
-        0.20516,
-        0.51201,
-        0.111,
-        0.92978
+	16.66,
+	0.20516,
+	0.51201,
+	0.111,
+	0.92978
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": null,
     "comments": null

@@ -3,7 +3,7 @@
     "label": "A2B3C2_cI28_199_a_b_a-002",
     "alias": null,
     "title": "Corderoite ($\\alpha$-Hg$_{3}$S$_{2}$Cl$_{2}$) Structure",
-    "icsd": "27399",
+    "icsd": 27399,
     "ccdc": null,
     "prototype": "Cl2Hg3S2",
     "prototype_tex": "Cl$_{2}$Hg$_{3}$S$_{2}$",
@@ -14,18 +14,30 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "x1",
-        "x2",
-        "x3"
+	"a",
+	"x1",
+	"x2",
+	"x3"
     ],
     "parameter_values": [
-        8.94,
-        0.26,
-        0.02,
-        0.4
+	8.94,
+	0.26,
+	0.02,
+	0.4
     ],
-    "compounds": {},
+    "mineral_name": "corderoite",
+    "minerals": null,
+    "compounds": [
+        "Hg$_{3}$S$_{2}$F$_{2}$",
+        "Hg$_{3}$S$_{2}$I$_{2}$",
+        "Hg$_{3}$Se$_{2}$F$_{2}$",
+        "Hg$_{3}$Se$_{2}$Cl$_{2}$",
+        "Hg$_{3}$Te$_{2}$Br$_{2}$",
+        "Hg$_{3}$Te$_{2}$Cl$_{2}$",
+        "K$_{2}$Pb$_{2}$O$_{3}$",
+        "K$_{2}$Sn$_{2}$O$_{3}$",
+        "Pd$_{3}$S$_{2}$Bi$_{2}$"
+    ],
     "legacy": false,
     "notes": "Corderoite",
     "comments": "Hg$_{3}$Cl$_{2}$S$_{2}$ is found in three forms (Carlson, 1967): \\begin{itemize} \\item \\href{current_web_home_dir/A2B3C2_cI28_199_a_b_a-002}{Corderoite ($\\alpha$-Hg$_{3}$Cl$_{2}$S$_{2}$)}, the cubic ground state. (this structure) \\item \\href{current_web_home_dir/A2B3C2_cP224_223_abcdefk_j3k_il-001}{$\\beta$-Hg$_{3}$Cl$_{2}$S$_{2}$}, which appears above 340$^{\\circ}$C, another cubic phase with a much larger unit cell. \\item \\href{current_web_home_dir/AB2C_oP16_51_2e_bfi_j-001}{Kenhsuite ($\\gamma$-Hg$_{3}$Cl$_{2}$S$_{2}$)}, which on average has an orthorhombic lattice.  This state is apparently metastable. \\end{itemize} ~ \\vspace{-.25in} \n Corderoite is a cubic variant of the \\href{current_web_home_dir/AB2C_oP8_51_e_be_f-001}{parkerite (Ni$_{3}$Bi$_{2}$S$_{2}$) structure}."

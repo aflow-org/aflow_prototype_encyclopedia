@@ -3,7 +3,7 @@
     "label": "A2B3_cP20_213_c_d-001",
     "alias": null,
     "title": "Co$_{8}$Zn$_{9}$Mn$_{3}$ Structure",
-    "icsd": "19272",
+    "icsd": 19272,
     "ccdc": null,
     "prototype": "Co8Mn3Zn9",
     "prototype_tex": "Co$_{8}$Mn$_{3}$Zn$_{9}$",
@@ -14,16 +14,18 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "x1",
-        "y2"
+	"a",
+	"x1",
+	"y2"
     ],
     "parameter_values": [
-        6.3593,
-        0.06522,
-        0.20299
+	6.3593,
+	0.06522,
+	0.20299
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": null,
     "comments": "The composition of the site we label ``Co (8c)'' is actually Co$_{7.616}$Mn$_{0.834}$, and the site labeled ``Zn (12d)'' is Zn$_{8.7756}$Co$_{0.684}$Mn$_{2.448}$. (Bocarsly, 2019) \n Many other compositions are observed. \n We use the synchrotron data taken by (Bocarsly, 2019) at 100K. \n This structure can also be found in the enantiomorphic space group $P4_{3}32$ \\#212."

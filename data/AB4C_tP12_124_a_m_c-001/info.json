@@ -5,7 +5,7 @@
         "AB4C_tP12_124_a_m_c"
     ],
     "title": "Nb$_{4}$CoSi Structure",
-    "icsd": "43233",
+    "icsd": 43233,
     "ccdc": null,
     "prototype": "CoNb4Si",
     "prototype_tex": "CoNb$_{4}$Si",
@@ -16,18 +16,23 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x3",
-        "y3"
+	"a",
+	"c/a",
+	"x3",
+	"y3"
     ],
     "parameter_values": [
-        6.189,
-        0.816449,
-        0.162,
-        0.662
+	6.189,
+	0.816449,
+	0.162,
+	0.662
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "Nb$_{4}$FeSi",
+        "Nb$_{4}$NiSi"
+    ],
     "legacy": false,
     "notes": null,
     "comments": null

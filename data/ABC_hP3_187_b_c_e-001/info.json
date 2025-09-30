@@ -5,7 +5,7 @@
         "ABC_hP3_187_a_d_f"
     ],
     "title": "BaPtSb Structure",
-    "icsd": "59186",
+    "icsd": 59186,
     "ccdc": null,
     "prototype": "BaPtSb",
     "prototype_tex": "BaPtSb",
@@ -16,14 +16,30 @@
     "strukturbericht_tex": null,
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a"
+	"a",
+	"c/a"
     ],
     "parameter_values": [
-        4.535,
-        1.07696
+	4.535,
+	1.07696
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "AsKZn",
+        "PtSbSr",
+        "DyPPt",
+        "GdPPt",
+        "KSbZn",
+        "LuPPt",
+        "PPtSm",
+        "PPtTb",
+        "PPtTm",
+        "PPtY",
+        "PPtYb",
+        "LiBaSi",
+        "KZnAs"
+    ],
     "legacy": false,
     "notes": null,
     "comments": null

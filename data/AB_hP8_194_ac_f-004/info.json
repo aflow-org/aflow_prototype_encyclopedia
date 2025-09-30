@@ -5,27 +5,42 @@
         "AB_hP8_194_ad_f"
     ],
     "title": "AsTi ($B_{i}$) Structure",
-    "icsd": "16773",
+    "icsd": 16773,
     "ccdc": null,
     "prototype": "AsTi",
     "prototype_tex": "AsTi",
     "number_of_species": 2,
     "pearson_symbol": "hP8",
     "space_group_number": 194,
-    "strukturbericht": "B_i",
+    "strukturbericht": "Bi",
     "strukturbericht_tex": "$B_{i}$",
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z3"
+	"a",
+	"c/a",
+	"z3"
     ],
     "parameter_values": [
-        3.64,
-        3.37363,
-        0.625
+	3.64,
+	3.37363,
+	0.625
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "AsHf",
+        "AsZr",
+        "CMo",
+        "CRe",
+        "CSTi$_{2}$",
+        "CSZr$_{2}$",
+        "NNb",
+        "NW",
+        "PTi",
+        "PZr",
+        "STi",
+        "(Ta$_{0.75}$Mn$_{0.25}$)N"
+    ],
     "legacy": false,
     "notes": "$B_{i}$",
     "comments": null

@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/AB_hP12_194_cf_de-001
 
 # Last updated on 2024/08/01
-data_Cu6S6
-_pd_phase_name Cu6S6
+data_CuS
+_pd_phase_name CuS
 _cell_length_a  3.9760000000
 _cell_length_b  3.9760000000
 _cell_length_c  16.3820000000
@@ -61,6 +61,6 @@ loop_
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
 Cu1 1.0000000000 0.3333333333 0.6666666667 0.2500000000  Biso 1.0 Cu 2 c
-S3 1.0000000000 0.3333333333 0.6666666667 0.7500000000  Biso 1.0 S 2 d
-S4 1.0000000000 0.0000033333 0.9999966667 0.5637000000  Biso 1.0 S 4 e
+S3  1.0000000000 0.3333333333 0.6666666667 0.7500000000  Biso 1.0 S 2 d
+S4  1.0000000000 0.0000000000 0.0000000000 0.5637000000  Biso 1.0 S 4 e
 Cu2 1.0000000000 0.3333333333 0.6666666667 0.6072400000  Biso 1.0 Cu 4 f

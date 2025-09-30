@@ -5,8 +5,8 @@
         "AB_hR6_160_b_b"
     ],
     "title": "Millerite (NiS, $B13$) Structure",
-    "icsd": "40054",
-    "ccdc": null,
+    "icsd": 40054,
+    "ccdc": 1609971,
     "prototype": "NiS",
     "prototype_tex": "NiS",
     "number_of_species": 2,
@@ -16,22 +16,29 @@
     "strukturbericht_tex": "$B13$",
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x1",
-        "z1",
-        "x2",
-        "z2"
+	"a",
+	"c/a",
+	"x1",
+	"z1",
+	"x2",
+	"z2"
     ],
     "parameter_values": [
-        9.61897,
-        0.327466,
-        0.00019,
-        0.26362,
-        0.7288,
-        0.39161
+	9.61897,
+	0.327466,
+	0.00019,
+	0.26362,
+	0.7288,
+	0.39161
     ],
-    "compounds": {},
+    "mineral_name": "millerite",
+    "minerals": {
+	"millerite":"NiS"
+    },
+    "compounds": [
+        "$\\beta$-FeS",
+        "NiSe"
+    ],
     "legacy": false,
     "notes": "$B13$, Millerite",
     "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."

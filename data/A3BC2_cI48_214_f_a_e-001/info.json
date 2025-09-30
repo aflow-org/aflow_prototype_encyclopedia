@@ -5,7 +5,7 @@
         "A3BC2_cI48_214_f_a_e"
     ],
     "title": "Petzite (Ag$_{3}$AuTe$_{2}$) Structure",
-    "icsd": "27539",
+    "icsd": 27539,
     "ccdc": null,
     "prototype": "Ag3AuTe2",
     "prototype_tex": "Ag$_{3}$AuTe$_{2}$",
@@ -16,16 +16,18 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "x2",
-        "x3"
+	"a",
+	"x2",
+	"x3"
     ],
     "parameter_values": [
-        10.38,
-        0.766,
-        0.365
+	10.38,
+	0.766,
+	0.365
     ],
-    "compounds": {},
+    "mineral_name": "petzite",
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "Petzite",
     "comments": null

@@ -5,29 +5,38 @@
         "AB_tI16_141_e_e"
     ],
     "title": "MoB ($B_{g}$) Structure",
-    "icsd": "24280",
+    "icsd": 24280,
     "ccdc": null,
     "prototype": "BMo",
     "prototype_tex": "BMo",
     "number_of_species": 2,
     "pearson_symbol": "tI16",
     "space_group_number": 141,
-    "strukturbericht": "B_g",
+    "strukturbericht": "Bg",
     "strukturbericht_tex": "$B_{g}$",
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z1",
-        "z2"
+	"a",
+	"c/a",
+	"z1",
+	"z2"
     ],
     "parameter_values": [
-        3.105,
-        5.46538,
-        0.227,
-        0.071
+	3.105,
+	5.46538,
+	0.227,
+	0.071
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "BCr",
+        "BW",
+        "GaZr",
+        "B$_{5}$Re$_{3}$V$_{2}$",
+        "Co$_{3}$Er$_{5}$Ni$_{2}$",
+        "Ga$_{3}$Hf$_{2}$Sc"
+    ],
     "legacy": false,
     "notes": "$B_{g}$",
     "comments": null

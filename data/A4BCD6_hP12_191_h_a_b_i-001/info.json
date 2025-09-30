@@ -3,7 +3,7 @@
     "label": "A4BCD6_hP12_191_h_a_b_i-001",
     "alias": null,
     "title": "Lucabindiite (KAs$_{4}$O$_{6}$Cl) Structure",
-    "icsd": "65205",
+    "icsd": 65205,
     "ccdc": null,
     "prototype": "As4ClKO6",
     "prototype_tex": "As$_{4}$ClKO$_{6}$",
@@ -14,18 +14,25 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z3",
-        "z4"
+	"a",
+	"c/a",
+	"z3",
+	"z4"
     ],
     "parameter_values": [
-        5.252,
-        1.69078,
-        0.20533,
-        0.3136
+	5.252,
+	1.69078,
+	0.20533,
+	0.3136
     ],
-    "compounds": {},
+    "mineral_name": "lucabindiite",
+    "minerals": null,
+    "compounds": [
+        "KAs$_{4}$O$_{6}$Br",
+        "KAs$_{4}$O$_{6}$I",
+        "NH$_{4}$As$_{4}$O$_{6}$Br",
+        "NH$_{4}$As$_{4}$O$_{6}$I"
+    ],
     "legacy": false,
     "notes": "Lucabindiite",
     "comments": "(Pertlik, 1988) puts this in the non-centrosymmetric space group $P622$ \\#177.  The only Wyckoff position in this space group which is not centrosymmetric is the general point, (12n).  All the other Wyckoff positions have counterparts in the centrosymmetric space group $P6/mmm$ \\#191, as shown here."

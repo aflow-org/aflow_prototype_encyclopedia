@@ -5,8 +5,8 @@
         "A_cI2_229_a"
     ],
     "title": "Body-Centered Cubic (W, $A2$, bcc) Structure",
-    "icsd": "52538",
-    "ccdc": null,
+    "icsd": 52538,
+    "ccdc": 1617278,
     "prototype": "W",
     "prototype_tex": "W",
     "number_of_species": 1,
@@ -16,12 +16,28 @@
     "strukturbericht_tex": "$A2$",
     "part": 1,
     "parameter_symbols": [
-        "a"
+	"a"
     ],
     "parameter_values": [
-        3.155
+	3.155
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "Li (RT)",
+        "Na",
+        "K",
+        "V",
+        "Cr",
+        "Fe",
+        "Rb",
+        "Nb",
+        "Mo",
+        "Cs",
+        "Ba",
+        "Eu",
+        "Ta"
+    ],
     "legacy": false,
     "notes": "$A2$, bcc lattice",
     "comments": "Although more accurate measurements of the lattice constant of tungsten are available, (Davey, 1925) is chosen because of the unique experimental technique. The ICSD entry is from the later work of (Hartmann, 1931)."

@@ -14,20 +14,24 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "x2",
-        "x3",
-        "x5",
-        "z5"
+	"a",
+	"x2",
+	"x3",
+	"x5",
+	"z5"
     ],
     "parameter_values": [
-        11.586,
-        0.6849,
-        0.86558,
-        0.91549,
-        0.64887
+	11.586,
+	0.6849,
+	0.86558,
+	0.91549,
+	0.64887
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"Ba$_{8}$Ga$_{16}$Ge$_{30}$"
+    ],
     "legacy": false,
     "notes": "$\\alpha$-Ba$_{8}$Ga$_{16}$Sn$_{30}$ Clathrate",
     "comments": "There is a considerable amount of disorder in this system: \\begin{itemize} \\item The (2a) site is 84.2\\% tin and 15.8\\% gallium.  We label it Sn. \\item The first (8c) site is pure barium, labeled Ba. \\item The second (8c) site is 76.6\\% gallium and 23.4\\% tin, and is labeled Ga. \\item The (12d) site is 81.60\\% tin and 18.4\\% gallium.  We label this as germanium, Ge, since that is another possible component of this compound and to avoid confusion with the other tin/gallium sites. \\item The (24g) site is 68.6\\% gallium and 31.4\\% tin, and is labeled Sn. \\end{itemize} ~ \\vspace{-.25in} \n The occupation of each of the Sn/Ga sites can be varied during crystal growth, and controls the semiconducting behavior of the sample (Avila, 2006). \n (Aliva, 2008) showed that this compound also exists as \\href{current_web_home_dir/A13B3C8D12_cP72_223_ak_c_i_k-001}{$\\beta$-Ba$_{8}$Ga$_{16}$Sn$_{30}$}, another clathrate structure."

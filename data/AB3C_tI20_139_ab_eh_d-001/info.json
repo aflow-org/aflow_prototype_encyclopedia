@@ -5,29 +5,33 @@
         "AB3C_tI20_139_ab_eh_d"
     ],
     "title": "AuCsCl$_{3}$ ($K7_{6}$) Structure",
-    "icsd": "26161",
+    "icsd": 26161,
     "ccdc": null,
     "prototype": "AuCl3Cs",
     "prototype_tex": "AuCl$_{3}$Cs",
     "number_of_species": 3,
     "pearson_symbol": "tI20",
     "space_group_number": 139,
-    "strukturbericht": "K7_6",
+    "strukturbericht": "K76",
     "strukturbericht_tex": "$K7_{6}$",
     "part": 3,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z4",
-        "x5"
+	"a",
+	"c/a",
+	"z4",
+	"x5"
     ],
     "parameter_values": [
-        7.49,
-        1.45127,
-        0.288,
-        0.228
+	7.49,
+	1.45127,
+	0.288,
+	0.228
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "AgAuCs$_{2}$Cl$_{6}$"
+    ],
     "legacy": false,
     "notes": "$K7_{6}$",
     "comments": null

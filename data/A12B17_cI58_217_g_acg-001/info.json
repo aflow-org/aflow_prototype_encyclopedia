@@ -3,7 +3,7 @@
     "label": "A12B17_cI58_217_g_acg-001",
     "alias": null,
     "title": "Mg$_{17}$Al$_{12}$ Structure",
-    "icsd": "23607",
+    "icsd": 23607,
     "ccdc": null,
     "prototype": "Al12Mg17",
     "prototype_tex": "Al$_{12}$Mg$_{17}$",
@@ -14,22 +14,24 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "x2",
-        "x3",
-        "z3",
-        "x4",
-        "z4"
+	"a",
+	"x2",
+	"x3",
+	"z3",
+	"x4",
+	"z4"
     ],
     "parameter_values": [
-        10.543,
-        0.324,
-        0.0954,
-        0.2725,
-        0.3582,
-        0.0393
+	10.543,
+	0.324,
+	0.0954,
+	0.2725,
+	0.3582,
+	0.0393
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": null,
     "comments": "This is a binary form of \\href{current_web_home_dir/A_cI58_217_ac2g-001}{$\\alpha$-Mn ($A12$)}."

@@ -5,27 +5,41 @@
         "A3B_hP16_194_gh_ac"
     ],
     "title": "Ni$_{3}$Ti ($D0_{24}$) Structure",
-    "icsd": "30216",
+    "icsd": 30216,
     "ccdc": null,
     "prototype": "Ni3Ti",
     "prototype_tex": "Ni$_{3}$Ti",
     "number_of_species": 2,
     "pearson_symbol": "hP16",
     "space_group_number": 194,
-    "strukturbericht": "D0_24",
+    "strukturbericht": "D024",
     "strukturbericht_tex": "$D0_{24}$",
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x4"
+	"a",
+	"c/a",
+	"x4"
     ],
     "parameter_values": [
-        5.096,
-        1.62951,
-        0.83333
+	5.096,
+	1.62951,
+	0.83333
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "Al$_{3}$Dy",
+        "Al$_{3}$Ru",
+        "Co$_{3}$Ti",
+        "Ni$_{3}$Ti",
+        "Pd$_{3}$Hf",
+        "Pd$_{3}$Np",
+        "Pd$_{3}$Th",
+        "Pd$_{3}$Ti",
+        "Pd$_{3}$Zr",
+        "Pt$_{3}$Hf",
+        "Pt$_{3}$Zr"
+    ],
     "legacy": false,
     "notes": "$D0_{24}$",
     "comments": "The internal coordinate $x_{4}$ was not determined in any reference we could find.  We follow (Villars, 2016) and the ICSD and set $x_{4} = -1/6$, which places the niobium atoms in line with the Ti atoms in the $z = 1/4$ and $z = 3/4$ planes. This is not required by symmetry, and it is likely that the actual value of $x_{4}$ will be close, but not equal to, $-1/6$."

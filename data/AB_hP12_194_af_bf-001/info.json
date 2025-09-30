@@ -5,7 +5,7 @@
         "AB_hP12_194_af_bf"
     ],
     "title": "CMo Structure",
-    "icsd": "44987",
+    "icsd": 44987,
     "ccdc": null,
     "prototype": "CMo",
     "prototype_tex": "CMo",
@@ -16,18 +16,41 @@
     "strukturbericht_tex": null,
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z3",
-        "z4"
+	"a",
+	"c/a",
+	"z3",
+	"z4"
     ],
     "parameter_values": [
-        3.01,
-        4.85382,
-        0.166,
-        0.583
+	3.01,
+	4.85382,
+	0.166,
+	0.583
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "CRe",
+        "BaGaGe",
+        "CaGaGe",
+        "CaGaSn",
+        "CeNiP",
+        "DyNiP",
+        "GaGeSr",
+        "GdNiP",
+        "HoNiP",
+        "LiNiP",
+        "LuNiP",
+        "LuNiP",
+        "NdNiP",
+        "NiPPr",
+        "NiPTb",
+        "NiPTm",
+        "NiPY",
+        "C$_{2}$GeTi$_{3}$",
+        "C$_{2}$SiTi$_{3}$",
+        "C$_{2}$AlTi$_{3}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "Note that all of the atoms sit on close packed $<$$0001$$>$ planes. The stacking sequence may be written: \\begin{center} \\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|} \\hline Atom & Mo-II & C-II & C-I & C-II & Mo-II & Mo-I & Mo-II & C-II & C-I & C-II & Mo-II & Mo-I \\\\ \\hline Position & B & C & A & B & C & A & C & B & A & C & B & A \\\\ \\hline \\end{tabular} \\end{center} ~ \\vspace{-.25in} \n Thus the Mo-II atoms and all of the C atoms are always in an fcc-like local environment, while the Mo-I atoms are in an hcp-like local environment. Like \\href{current_web_home_dir/AB3C4_hP16_194_c_af_ef-001}{AlN$_{3}$Ti$_{4}$}, this is a MAX phase. For more information, see (Radovic, 2013)."

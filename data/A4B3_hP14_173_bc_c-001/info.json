@@ -4,9 +4,9 @@
     "alias": [
         "A4B3_hP14_173_bc_c"
     ],
-    "title": "$\\beta$-Si$_{3}$N$_{4}$ Structure",
-    "icsd": null,
-    "ccdc": null,
+    "title": "$\\beta$-Si$_{3}$N$_{4}$ (Nierite) Structure",
+    "icsd": 644690,
+    "ccdc": 2138539,
     "prototype": "N4Si3",
     "prototype_tex": "N$_{4}$Si$_{3}$",
     "number_of_species": 2,
@@ -16,29 +16,35 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z1",
-        "x2",
-        "y2",
-        "z2",
-        "x3",
-        "y3",
-        "z3"
+	"a",
+	"c/a",
+	"z1",
+	"x2",
+	"y2",
+	"z2",
+	"x3",
+	"y3",
+	"z3"
     ],
     "parameter_values": [
-        7.603,
-        0.382612,
-        0.0,
-        0.3284,
-        0.0313,
-        0.05,
-        0.2314,
-        0.4063,
-        0.013
+	7.595,
+	0.382133,
+	0.2608,
+	0.3294,
+	0.2996,
+	0.2628,
+	0.1744,
+	0.4058,
+	0.25
     ],
-    "compounds": {},
+    "mineral_name": "nierite",
+    "minerals": {
+	"nierite":"N$_{4}$Si$_{3}$"
+    },
+    "compounds": [
+        "Nb$_{3}$Te$_{4}$"
+    ],
     "legacy": false,
-    "notes": "$\\beta$-Si$_{3}$N$_{4}$ (Forgeng, 1958)",
-    "comments": "\\href{current_web_home_dir/A4B3_hP14_176_ch_h-001}{(Yang, 1995) places this structure in space group $P6_{3}/m$ \\#176}. His structure is nearly indistinguishable from this one. \n Si$_{3}$N$_{4}$ also exists as \\href{current_web_home_dir/A4B3_hP28_159_ab2c_2c-001}{nierite, $\\alpha$-Si$_{3}$N$_{4}$}. \n Space group $P6_3$ \\#173 allows an arbitrary choice for the origin of the $z$-axis.  We use this to set $z_{1} = 0$ for the N-I site."
+    "notes": "$\\beta$-Si$_{3}$N$_{4}$",
+    "comments": "We have substantially revised this page. Originally, we used the reference (Forgeng, 1958), found in (Villars, 2013).  This is duplicated by (Lartigue, 1985), referenced in (Villars, 2024).  However neither of the quoted references actually have the atomic coordinates, with (Villars, 2024) stating ``cell parameters determined and structure type assigned.'' \n (Gr\\\"{u}n, 1979) presents essentially the same structure with fully determined structure parameters, so we now use it as the reference. \n \\href{current_web_home_dir/A4B3_hP14_176_ch_h-001}{(Yang, 1995) places this structure in space group $P6_{3}/m$ \\#176}. His structure is nearly indistinguishable from this one. The only difference is that the Yang {\\em et al.} assign z$_{1}$ = z$_{2}$ = z$_{3}$ = 1/4, changing the space grop from polar $P6_{3}$ \\#173 to centrosymmetri $P6_{3}/m$ \\# 176. This involves moving the N II atom by 0.18{\\AA} and the Si I atom by 0.03{\\AA}, so the difference in the two structures is minimal. \n Si$_{3}$N$_{4}$ also exists as \\href{current_web_home_dir/A4B3_hP28_159_ab2c_2c-001}{$\\alpha$-Si$_{3}$N$_{4}$}. \n Space group $P6_{3}$ \\#173 is \\href{../Tutorials/SpaceGroupDistribution/index.html#Polar}{polar} and so allows an arbitrary choice for the origin of the $z$-axis.  We follow (Gr\\\"{u}n, 1979) and set z$_{1}$ = 1/4 for the N-I site."
 }

@@ -16,18 +16,20 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "x4",
-        "y4",
-        "z4"
+	"a",
+	"x4",
+	"y4",
+	"z4"
     ],
     "parameter_values": [
-        9.98,
-        0.25,
-        0.0625,
-        4.44089e-16
+	9.98,
+	0.25,
+	0.0625,
+	4.44089e-16
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": null,
     "comments": "The sites we have labeled as carbon are actually a 50-50 mixture of carbon and nitrogen. \n This structure is taken from (Villars, 2013), repeated in \\href{https://materials.springer.com/isp/crystallographic/docs/sd_1902947}{(Villars, 2023)}. Our print versions of (Rigamonti, 1937) gives a structure consistent with the \\href{current_web_home_dir/A6B2C_cF36_225_e_c_a-001}{K$_{2}$PtCl$_{6}$ ($J1_{1}$)} prototype."

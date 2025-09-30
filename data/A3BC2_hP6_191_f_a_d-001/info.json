@@ -1,0 +1,33 @@
+{
+    "uid": "WHA0",
+    "label": "A3BC2_hP6_191_f_a_d-001",
+    "alias": null,
+    "title": "Ti$_{2}$TaN$_{3}$ Structure",
+    "icsd": 186418,
+    "ccdc": 1695583,
+    "prototype": "N3TaTi2",
+    "prototype_tex": "N$_{3}$TaTi$_{2}$",
+    "number_of_species": 3,
+    "pearson_symbol": "hP6",
+    "space_group_number": 191,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
+        "a",
+	"c/a"
+    ],
+    "parameter_values": [
+        5.000,
+	0.5706
+    ],
+    "mineral_name": null,
+    "minerals": {},
+    "compounds": [
+	"U$_{2}$TiH$_{3}$"
+    ],
+    "legacy": false,
+    "notes": null,
+    "comments": "This is the ternary form of \\href{current_web_home_dir/AB_hP6_191_f_ad-001}{CoSn ($B35$)}.  The ICSD lists it under the CoSn/NTa structure type."
+}
+

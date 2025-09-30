@@ -16,16 +16,18 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a"
+	"a",
+	"b/a",
+	"c/a"
     ],
     "parameter_values": [
-        5.54,
-        0.990433,
-        0.937726
+	5.54,
+	0.990433,
+	0.937726
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "Below 242K",
     "comments": "This is the stable structure of iron sulfide below 242K.  Above that temperature it is in the \\href{current_web_home_dir/AB_cF8_216_a_c-001}{zincblende ($B3$) structure}. (Wintenberger, 1978). \n This data was taken at 81K.  We follow (Villars, 2016) and rearrange the axis, as well as reversing the positions of the iron and sulfur atoms."

@@ -3,7 +3,7 @@
     "label": "A4B3C8_tI30_139_2e_ae_cdg-002",
     "alias": null,
     "title": "Nd$_{4}$Ni$_{3}$O$_{8}$ Structure",
-    "icsd": "173372",
+    "icsd": 173372,
     "ccdc": null,
     "prototype": "Nd4Ni3O8",
     "prototype_tex": "Nd$_{4}$Ni$_{3}$O$_{8}$",
@@ -14,22 +14,27 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z4",
-        "z5",
-        "z6",
-        "z7"
+	"a",
+	"c/a",
+	"z4",
+	"z5",
+	"z6",
+	"z7"
     ],
     "parameter_values": [
-        3.9146,
-        6.46163,
-        0.4343,
-        0.2982,
-        0.1244,
-        0.1262
+	3.9146,
+	6.46163,
+	0.4343,
+	0.2982,
+	0.1244,
+	0.1262
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"La$_{4}$Ni$_{3}$O$_{8}$",
+	"Pr$_{4}$Ni$_{3}$O$_{8}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": null

@@ -5,7 +5,7 @@
         "A_cI16_220_c"
     ],
     "title": "High-pressure cI16 Li Structure",
-    "icsd": "109012",
+    "icsd": 109012,
     "ccdc": null,
     "prototype": "Li",
     "prototype_tex": "Li",
@@ -16,14 +16,18 @@
     "strukturbericht_tex": null,
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "x1"
+	"a",
+	"x1"
     ],
     "parameter_values": [
-        5.2716,
-        0.049
+	5.2716,
+	0.049
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "Na (under pressure)"
+    ],
     "legacy": false,
     "notes": "38.9 GPa",
     "comments": "This is a high-pressure phase of lithium. We use the data from (Hanfland, 2000) at 38.9 GPa. When $x_{1} = 0$ this becomes a \\href{current_web_home_dir/A_cI2_229_a-001}{body-centered cubic ($A2$) system}. \n We have used the fact that all vectors of the form $(\\pm a/2 \\hat{x} \\pm a/2 \\hat{y} \\pm a/2 \\hat{z})$ are primitive vectors of the body-centered cubic lattice to simplify the positions of some atoms in both lattice and Cartesian coordinates. \n The ICSD entry was recorded at 45 GPa."

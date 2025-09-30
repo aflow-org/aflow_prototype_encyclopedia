@@ -1,0 +1,64 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+
+# Chemical Composition:  AlPO4-11
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/AB4C_oI120_46_b2c_2b9c_b2c-001 
+
+# Last updated on 2025/03/11
+
+data_AlPO4-11
+_pd_phase_name AlPO4-11
+_cell_length_a  18.4821000000
+_cell_length_b  13.5336000000
+_cell_length_c  8.3703000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Ima2'
+_symmetry_Int_Tables_Number  46
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  x+1/2,-y,z
+  4  -x+1/2,y,z
+  5  x+1/2,y+1/2,z+1/2
+  6  -x+1/2,-y+1/2,z+1/2
+  7  x,-y+1/2,z+1/2
+  8  -x,y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Al1 1.0000000000 0.2500000000 0.8500000000 0.8150000000  Biso 1.0 Al 4 b
+O4  1.0000000000 0.2500000000 0.8600000000 0.0240000000  Biso 1.0 O  4 b
+O5  1.0000000000 0.2500000000 0.7620000000 0.2340000000  Biso 1.0 O  4 b
+P15 1.0000000000 0.2500000000 0.8570000000 0.1850000000  Biso 1.0 P  4 b
+Al2 1.0000000000 0.5350000000 0.6340000000 0.3010000000  Biso 1.0 Al 8 c
+Al3 1.0000000000 0.1020000000 0.9490000000 0.3170000000  Biso 1.0 Al 8 c
+O6  1.0000000000 0.5390000000 0.6430000000 0.5000000000  Biso 1.0 O  8 c
+O7  1.0000000000 0.1050000000 0.9450000000 0.5170000000  Biso 1.0 O  8 c
+O8  1.0000000000 0.5680000000 0.7420000000 0.7430000000  Biso 1.0 O  8 c
+O9  1.0000000000 0.0880000000 0.0680000000 0.2520000000  Biso 1.0 O  8 c
+O10 1.0000000000 0.0910000000 0.0570000000 0.7430000000  Biso 1.0 O  8 c
+O11 1.0000000000 0.4550000000 0.6180000000 0.7320000000  Biso 1.0 O  8 c
+O12 1.0000000000 0.4540000000 0.6250000000 0.2360000000  Biso 1.0 O  8 c
+O13 1.0000000000 0.1790000000 0.9130000000 0.2320000000  Biso 1.0 O  8 c
+O14 1.0000000000 0.1770000000 0.9090000000 0.7370000000  Biso 1.0 O  8 c
+P16 1.0000000000 0.5250000000 0.6430000000 0.6820000000  Biso 1.0 P  8 c
+P17 1.0000000000 0.1040000000 0.9530000000 0.6940000000  Biso 1.0 P  8 c

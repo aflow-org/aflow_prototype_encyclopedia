@@ -5,7 +5,7 @@
         "A4BC4D_tP10_123_gh_a_i_d"
     ],
     "title": "CaRbFe$_{4}$As$_{4}$ (Superconducting) Structure",
-    "icsd": "252344",
+    "icsd": 252344,
     "ccdc": null,
     "prototype": "As4CaFe4Rb",
     "prototype_tex": "As$_{4}$CaFe$_{4}$Rb",
@@ -16,20 +16,34 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z3",
-        "z4",
-        "z5"
+	"a",
+	"c/a",
+	"z3",
+	"z4",
+	"z5"
     ],
     "parameter_values": [
-        3.8757,
-        3.38107,
-        0.3336,
-        0.1193,
-        0.2246
+	3.8757,
+	3.38107,
+	0.3336,
+	0.1193,
+	0.2246
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "BaCsFe$_{4}$As$_{4}$",
+        "BaKFe$_{4}$As$_{4}$",
+        "BaRbFe$_{4}$As$_{4}$",
+        "CaCsFe$_{4}$As$_{4}$",
+        "CaKFe$_{4}$As$_{4}$",
+        "EuCsFe$_{4}$As$_{4}$",
+        "EuKFe$_{4}$As$_{4}$",
+        "EuRbFe$_{4}$As$_{4}$",
+        "SrCsFe$_{4}$As$_{4}$",
+        "SrKFe$_{4}$As$_{4}$",
+        "SrRbFe$_{4}$As$_{4}$"
+    ],
     "legacy": false,
     "notes": "Superconductor",
     "comments": "These compounds form a family of stoichiometric superconductors with transition temperatures $T_{c}$ ranging from 26-37K."

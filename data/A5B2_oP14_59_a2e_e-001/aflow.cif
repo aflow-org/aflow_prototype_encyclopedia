@@ -10,10 +10,10 @@
 # The current version of this file is available at
 # https://aflow.org/prototype-encyclopedia/A5B2_oP14_59_a2e_e-001
 
-# Last updated on 2024/08/01
+# Last updated on 2025/07/17
 
-data_O10V4
-_pd_phase_name O10V4
+data_O5V2
+_pd_phase_name O5V2
 _cell_length_a  3.5640000000
 _cell_length_b  11.5120000000
 _cell_length_c  4.3680000000

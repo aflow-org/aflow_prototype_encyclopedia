@@ -3,7 +3,7 @@
     "label": "AB2C2_oC10_65_a_g_h-001",
     "alias": null,
     "title": "Mn$_{2}$AlB$_{2}$ Structure",
-    "icsd": "25518",
+    "icsd": 25518,
     "ccdc": null,
     "prototype": "AlB2Mn2",
     "prototype_tex": "AlB$_{2}$Mn$_{2}$",
@@ -14,20 +14,25 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "x2",
-        "x3"
+	"a",
+	"b/a",
+	"c/a",
+	"x2",
+	"x3"
     ],
     "parameter_values": [
-        11.08,
-        0.263538,
-        0.26083,
-        0.209,
-        0.355
+	11.08,
+	0.263538,
+	0.26083,
+	0.209,
+	0.355
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"Cr$_{2}$AlB$_{2}$",
+	"Fe$_{2}$AlB$_{2}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "(Becher, 1966) give the space group as $C222$ \\#20, but their Wyckoff positions are obviously from space group $Cmmm$ \\#65, a result which was confirmed by (Ade, 2015)."

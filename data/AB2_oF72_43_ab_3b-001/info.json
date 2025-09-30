@@ -1,0 +1,64 @@
+{
+    "uid": "4KUZ",
+    "label": "AB2_oF72_43_ab_3b-001",
+    "alias": [
+        "AB2_oF72_43_ab_3b"
+    ],
+    "title": "GeS$_{2}$ ($C44$) Structure",
+    "icsd": 31685,
+    "ccdc": 1605683,
+    "prototype": "GeS2",
+    "prototype_tex": "GeS$_{2}$",
+    "number_of_species": 2,
+    "elements": [
+	"Ge",
+	"S"
+    ],
+    "pearson_symbol": "oF72",
+    "space_group_number": 43,
+    "strukturbericht": "C44",
+    "strukturbericht_tex": "$C44$",
+    "part": 1,
+    "parameter_symbols": [
+	"a",
+	"b/a",
+	"c/a",
+	"z1",
+	"x2",
+	"y2",
+	"z2",
+	"x3",
+	"y3",
+	"z3",
+	"x4",
+	"y4",
+	"z4",
+	"x5",
+	"y5",
+	"z5"
+    ],
+    "parameter_values": [
+	11.66,
+	1.91595,
+	0.58834,
+	0.12500,
+	0.13889,
+	0.02222,
+	0.08056,
+	0.18333,
+	0.15278,
+	-0.01389,
+	0.81667,
+	0.06250,
+	0.12500,
+	0.72222
+    ],
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "GeSe$_{2}$"
+    ],
+    "legacy": false,
+    "notes": "$C44$",
+    "comments": null
+}

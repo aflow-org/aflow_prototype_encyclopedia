@@ -5,7 +5,7 @@
         "ABC_oP6_59_a_a_a"
     ],
     "title": "CNCl Structure",
-    "icsd": "16660",
+    "icsd": 16660,
     "ccdc": null,
     "prototype": "CClN",
     "prototype_tex": "CClN",
@@ -16,22 +16,24 @@
     "strukturbericht_tex": null,
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "z1",
-        "z2",
-        "z3"
+	"a",
+	"b/a",
+	"c/a",
+	"z1",
+	"z2",
+	"z3"
     ],
     "parameter_values": [
-        5.68,
-        0.700704,
-        1.01056,
-        0.1499,
-        0.4237,
-        0.6255
+	5.68,
+	0.700704,
+	1.01056,
+	0.1499,
+	0.4237,
+	0.6255
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": null,
     "comments": null

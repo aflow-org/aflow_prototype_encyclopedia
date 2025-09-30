@@ -5,8 +5,8 @@
         "A_tP16_138_j"
     ],
     "title": "Cl ($A18$) Structure ({\\em Obsolete})",
-    "icsd": "22406",
-    "ccdc": null,
+    "icsd": 22406,
+    "ccdc": 1599150,
     "prototype": "Cl",
     "prototype_tex": "Cl",
     "number_of_species": 1,
@@ -16,20 +16,22 @@
     "strukturbericht_tex": "$A18$",
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x1",
-        "y1",
-        "z1"
+	"a",
+	"c/a",
+	"x1",
+	"y1",
+	"z1"
     ],
     "parameter_values": [
-        8.56,
-        0.714953,
-        0.375,
-        0.917,
-        0.857
+	8.56,
+	0.714953,
+	0.375,
+	0.917,
+	0.857
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "$A18$",
     "comments": "As given, this structure has a Cl-Cl bond distance of 1.82{\\AA}, far too small for chlorine. The structure was eventually reanalyzed, and found to be similar to \\href{current_web_home_dir/A_oC8_64_f-003}{molecular iodine ($A14$)}. See (Donohue, 1982, p. 396) for details. We retain this structure for its historical interest. Note that all atoms are on the general sites of space group $P4_{2}/ncm$ \\#138."

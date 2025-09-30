@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/AB2C_cF16_225_a_c_b-001
 
 # Last updated on 2024/08/01
-data_Al4Cu8Mn4
-_pd_phase_name Al4Cu8Mn4
+data_AlCu2Mn
+_pd_phase_name AlCu2Mn
 _cell_length_a  5.9500000000
 _cell_length_b  5.9500000000
 _cell_length_c  5.9500000000

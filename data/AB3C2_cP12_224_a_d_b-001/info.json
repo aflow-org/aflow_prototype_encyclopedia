@@ -3,23 +3,27 @@
     "label": "AB3C2_cP12_224_a_d_b-001",
     "alias": null,
     "title": "Henryite [(Ag$_{1.48}$Cu$_{1.44}$Fe$_{0.32}$)Te$_{2}$] Structure",
-    "icsd": "239361",
-    "ccdc": null,
+    "icsd": 239361,
+    "ccdc": 1710367,
     "prototype": "(Ag1.48Cu1.44Fe0.32)Te2",
     "prototype_tex": "(Ag$_{1.48}$Cu$_{1.44}$Fe$_{0.32}$)Te$_{2}$",
-    "number_of_species": 3,
+    "number_of_species": 4,
     "pearson_symbol": "cP12",
     "space_group_number": 224,
     "strukturbericht": null,
     "strukturbericht_tex": null,
     "part": 5,
     "parameter_symbols": [
-        "a"
+	"a"
     ],
     "parameter_values": [
-        6.09935
+	6.09935
     ],
-    "compounds": {},
+    "mineral_name": "henryite",
+    "minerals": {
+	"henryite": "(Ag$_{1.48}$Cu$_{1.44}$Fe$_{0.32}$)Te$_{2}$"
+    },
+    "compounds": null,
     "legacy": false,
     "notes": "Henryite",
     "comments": "The ICSD entries for (Bindi, 2014, ICSD 23936) and (Cohen-Addad, 1971 ICSD 5165) are identical except for the rounding of the site occupation.  We reference the newer version as it is more accessible to the user. \n The (2a) and (6d) sites are 37\\% silver, 48\\% copper, and 0.8\\% iron, giving the observed stoichiometry. \n We arbitrarily assign silver to the (2a) site and copper to the (6c) cite. \n Both papers put the structure in space group $Fd\\overline{3}c$ \\#228, with the atoms occupying the (16a), (32c), and (48d) sites, however these sites are identical to the (2a), (4b) and (6d) sites of space group $Pn\\overline{3}m$ \\#224 with $a_{224} = 1/2 a_{228}$.  AFLOW favors the smaller unit cell, so we assign this structure to space group \\#224. \n In addtion, if the (2a) and (6c) sites are fully alloyed, this becomes the \\href{current_web_home_dir/AB2_cF12_225_a_c-001}{fluorite ($C1$)} structure. \n The reported structure can be viewed by clicking the ``load block'' button and entering a value of 12.2\\,{\\AA}ngstr\\\"{o}m."

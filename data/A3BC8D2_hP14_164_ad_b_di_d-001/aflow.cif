@@ -5,15 +5,15 @@
 # Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
 # Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
 # Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
-# Chemical Composition:  K3NaO8S2 aphthitalite / glaserite
+# Chemical Composition:  K3Na(SO4)2 aphthitalite / glaserite
 
 # The current version of this file is available at
 # https://aflow.org/prototype-encyclopedia/A3BC8D2_hP14_164_ad_b_di_d-001
 
 # Last updated on 2024/08/01
 
-data_K3Na1O8S2
-_pd_phase_name K3Na1O8S2
+data_K3NaO8S2
+_pd_phase_name K3NaO8S2
 _cell_length_a  5.6801000000
 _cell_length_b  5.6801000000
 _cell_length_c  7.3090000000
@@ -48,9 +48,9 @@ loop_
  _atom_site_type_symbol
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
-K1 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 K 1 a
+K1  1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 K  1 a
 Na3 1.0000000000 0.0000000000 0.0000000000 0.5000000000  Biso 1.0 Na 1 b
-K2 1.0000000000 0.3333300000 0.6666700000 0.3169000000  Biso 1.0 K 2 d
-O4 1.0000000000 0.3333300000 0.6666700000 0.9684000000  Biso 1.0 O 2 d
-S6 1.0000000000 0.3333300000 0.6666700000 0.7662000000  Biso 1.0 S 2 d
-O5 1.0000000000 0.8073000000 0.1927000000 0.3018000000  Biso 1.0 O 6 i
+K2  1.0000000000 0.3333333333 0.6666666667 0.3169000000  Biso 1.0 K  2 d
+O4  1.0000000000 0.3333333333 0.6666666667 0.9684000000  Biso 1.0 O  2 d
+S6  1.0000000000 0.3333333333 0.6666666667 0.7662000000  Biso 1.0 S  2 d
+O5  1.0000000000 0.8073000000 0.1927000000 0.3018000000  Biso 1.0 O  6 i

@@ -5,7 +5,7 @@
         "AB4C_hP6_191_a_h_b"
     ],
     "title": "AlB$_{4}$Mg Structure",
-    "icsd": "97224",
+    "icsd": 97224,
     "ccdc": null,
     "prototype": "AlB4Mg",
     "prototype_tex": "AlB$_{4}$Mg",
@@ -16,16 +16,18 @@
     "strukturbericht_tex": null,
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z3"
+	"a",
+	"c/a",
+	"z3"
     ],
     "parameter_values": [
-        3.0444,
-        2.20487,
-        0.2413
+	3.0444,
+	2.20487,
+	0.2413
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": null,
     "comments": "Note that Table I of (Margadonna, 2002) mislabels the (1a) and (1b) Wyckoff positions."

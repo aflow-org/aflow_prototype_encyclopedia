@@ -5,25 +5,27 @@
         "A4B_cI10_217_c_a"
     ],
     "title": "SiF$_{4}$ ($D1_{2}$) Structure",
-    "icsd": "14122",
+    "icsd": 14122,
     "ccdc": null,
     "prototype": "F4Si",
     "prototype_tex": "F$_{4}$Si",
     "number_of_species": 2,
     "pearson_symbol": "cI10",
     "space_group_number": 217,
-    "strukturbericht": "D1_2",
+    "strukturbericht": "D12",
     "strukturbericht_tex": "$D1_{2}$",
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "x2"
+	"a",
+	"x2"
     ],
     "parameter_values": [
-        5.4586,
-        0.165
+	5.4586,
+	0.165
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "$D1_{2}$",
     "comments": "We determined the lattice constant for this structure from the internal coordinates and the Si-F bond length given in (Atoji, 1954)."

@@ -5,7 +5,7 @@
         "AB2_oC12_36_a_2a"
     ],
     "title": "MoP$_{2}$ Structure",
-    "icsd": "43331",
+    "icsd": 43331,
     "ccdc": null,
     "prototype": "MoP2",
     "prototype_tex": "MoP$_{2}$",
@@ -16,28 +16,28 @@
     "strukturbericht_tex": null,
     "part": 3,
     "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "y1",
-        "z1",
-        "y2",
-        "z2",
-        "y3",
-        "z3"
+	"a",
+	"b/a",
+	"c/a",
+	"y1",
+	"z1",
+	"y2",
+	"z2",
+	"y3",
+	"z3"
     ],
     "parameter_values": [
-        3.145,
-        3.55612,
-        1.58474,
-        0.0934,
-        0.0,
-        0.294,
-        0.803,
-        0.426,
-        0.121
+	3.145,
+	3.55612,
+	1.58474,
+	0.0934
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "HgBr$_{2}$",
+        "WP$_{2}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "An earlier version of this page had the wrong value for the length $c$.  We have corrected that in this version."

@@ -3,7 +3,7 @@
     "label": "A8B3_cF176_219_eh_abe-001",
     "alias": null,
     "title": "Si$_{3}$Cl$_{8}$ Structure",
-    "icsd": "2767",
+    "icsd": 2767,
     "ccdc": null,
     "prototype": "Cl8Si3",
     "prototype_tex": "Cl$_{8}$Si$_{3}$",
@@ -14,22 +14,24 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "x3",
-        "x4",
-        "x5",
-        "y5",
-        "z5"
+	"a",
+	"x3",
+	"x4",
+	"x5",
+	"y5",
+	"z5"
     ],
     "parameter_values": [
-        17.344,
-        0.18491,
-        0.42237,
-        0.98228,
-        0.88447,
-        0.33188
+	17.344,
+	0.18491,
+	0.42237,
+	0.98228,
+	0.88447,
+	0.33188
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": null,
     "comments": null

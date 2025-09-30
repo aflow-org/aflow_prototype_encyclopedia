@@ -3,7 +3,7 @@
     "label": "A2BC4_tI28_141_c_b_h-001",
     "alias": null,
     "title": "CuCr$_{2}$O$_{4}$ Structure",
-    "icsd": "84378",
+    "icsd": 84378,
     "ccdc": null,
     "prototype": "Cr2CuO4",
     "prototype_tex": "Cr$_{2}$CuO$_{4}$",
@@ -14,18 +14,29 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "y3",
-        "z3"
+	"a",
+	"c/a",
+	"y3",
+	"z3"
     ],
     "parameter_values": [
-        6.0305,
-        1.29049,
-        0.5262,
-        0.2551
+	6.0305,
+	1.29049,
+	0.5262,
+	0.2551
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"CdMn$_{2}$O$_{4}$",
+	"CoMn$_{2}$O$_{4}$",
+	"CuMn$_{2}$O$_{4}$",
+	"FeCr$_{2}$S$_{4}$",
+	"GeCo$_{2}$O$_{4}$",
+	"MgMn$_{2}$O$_{4}$",
+	"NiCr$_{2}$O$_{4}$",
+	"ZnMn$_{2}$O$_{4}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "This is a tetragonal distortion of the \\href{current_web_home_dir/A2BC4_cF56_227_c_b_e-001}{spinel ($H1_{1}$) structure}."

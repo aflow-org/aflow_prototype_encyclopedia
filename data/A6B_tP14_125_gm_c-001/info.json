@@ -3,7 +3,7 @@
     "label": "A6B_tP14_125_gm_c-001",
     "alias": null,
     "title": "PuGa$_{6}$ Structure",
-    "icsd": "103942",
+    "icsd": 103942,
     "ccdc": null,
     "prototype": "Ga6Pu",
     "prototype_tex": "Ga$_{6}$Pu",
@@ -14,20 +14,22 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z2",
-        "x3",
-        "z3"
+	"a",
+	"c/a",
+	"z2",
+	"x3",
+	"z3"
     ],
     "parameter_values": [
-        5.942,
-        1.28189,
-        0.833,
-        0.937,
-        0.65
+	5.942,
+	1.28189,
+	0.833,
+	0.937,
+	0.65
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": null,
     "comments": "(Ellinger, 1965) give the structure of PuGa$_{6}$ in setting 1 of space group $P4/nbm$ \\#125.  We used FINDSYM to put this in the standard setting 2."

@@ -5,7 +5,7 @@
         "A6BC2_hP9_162_k_a_d"
     ],
     "title": "Rosiaite (PbSb$_{2}$O$_{6}$) Structure",
-    "icsd": "81387",
+    "icsd": 81387,
     "ccdc": null,
     "prototype": "O6PbSb2",
     "prototype_tex": "O$_{6}$PbSb$_{2}$",
@@ -16,18 +16,25 @@
     "strukturbericht_tex": null,
     "part": 3,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x3",
-        "z3"
+	"a",
+	"c/a",
+	"x3",
+	"z3"
     ],
     "parameter_values": [
-        5.295,
-        1.01454,
-        0.377,
-        0.2965
+	5.295,
+	1.01454,
+	0.377,
+	0.2965
     ],
-    "compounds": {},
+    "mineral_name": "rosiaite",
+    "minerals": null,
+    "compounds": [
+        "MnSeTeO$_{6}$",
+        "MnSnTeO$_{6}$",
+        "PbTeGeO$_{6}$",
+        "SrIr$_{2}$O$_{6}$"
+    ],
     "legacy": false,
     "notes": "Rosiaite",
     "comments": "This is the ternary form of the \\href{current_web_home_dir/AB2_hP9_162_ad_k-001}{$L'3_{2}$ ($\\beta$-V$_{2}$N) structure}."

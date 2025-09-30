@@ -5,15 +5,16 @@
 # Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
 # Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
 # Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
-# Chemical Composition:  B4CrY
+
+# Chemical Composition:  YCrB4
 
 # The current version of this file is available at
-# https://aflow.org/prototype-encyclopedia/A4BC_oP24_55_4g_h_h-001
+# https://aflow.org/prototype-encyclopedia/A4BC_oP24_55_4g_h_h-001 
 
-# Last updated on 2024/08/01
+# Last updated on 2025/08/14
 
-data_B16C4Y4
-_pd_phase_name B16C4Y4
+data_YCrB4
+_pd_phase_name B4CrY
 _cell_length_a  5.9720000000
 _cell_length_b  11.4600000000
 _cell_length_c  3.4610000000
@@ -44,9 +45,9 @@ loop_
  _atom_site_type_symbol
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
-B1 1.0000000000 0.2800000000 0.3150000000 0.0000000000  Biso 1.0 B 4 g
-B2 1.0000000000 0.3400000000 0.4650000000 0.0000000000  Biso 1.0 B 4 g
-B3 1.0000000000 0.3850000000 0.0500000000 0.0000000000  Biso 1.0 B 4 g
-B4 1.0000000000 0.4850000000 0.1800000000 0.0000000000  Biso 1.0 B 4 g
-C5 1.0000000000 0.1250000000 0.4190000000 0.5000000000  Biso 1.0 C 4 h
-Y6 1.0000000000 0.1250000000 0.1500000000 0.5000000000  Biso 1.0 Y 4 h
+B1  1.0000000000 0.2800000000 0.3150000000 0.0000000000  Biso 1.0 B  4 g
+B2  1.0000000000 0.3400000000 0.4650000000 0.0000000000  Biso 1.0 B  4 g
+B3  1.0000000000 0.3850000000 0.0500000000 0.0000000000  Biso 1.0 B  4 g
+B4  1.0000000000 0.4850000000 0.1800000000 0.0000000000  Biso 1.0 B  4 g
+Cr5 1.0000000000 0.1250000000 0.4190000000 0.5000000000  Biso 1.0 Cr 4 h
+Y6  1.0000000000 0.1250000000 0.1500000000 0.5000000000  Biso 1.0 Y  4 h

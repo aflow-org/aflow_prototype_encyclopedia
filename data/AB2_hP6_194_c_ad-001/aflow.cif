@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/AB2_hP6_194_c_ad-001
 
 # Last updated on 2024/08/01
-data_In2Ni4
-_pd_phase_name In2Ni4
+data_InNi2
+_pd_phase_name InNi2
 _cell_length_a  4.1860000000
 _cell_length_b  4.1860000000
 _cell_length_c  5.1290000000
@@ -60,6 +60,6 @@ loop_
  _atom_site_type_symbol
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
-Ni2 1.0000000000 0.0000033333 0.9999966667 0.0000000000  Biso 1.0 Ni 2 a
+Ni2 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Ni 2 a
 In1 1.0000000000 0.3333333333 0.6666666667 0.2500000000  Biso 1.0 In 2 c
 Ni3 1.0000000000 0.3333333333 0.6666666667 0.7500000000  Biso 1.0 Ni 2 d

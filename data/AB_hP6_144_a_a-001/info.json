@@ -5,7 +5,7 @@
         "AB_hP6_144_a_a"
     ],
     "title": "ZnTe (high-pressure) Structure",
-    "icsd": "80076",
+    "icsd": 80076,
     "ccdc": null,
     "prototype": "TeZn",
     "prototype_tex": "TeZn",
@@ -16,26 +16,27 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x1",
-        "y1",
-        "z1",
-        "x2",
-        "y2",
-        "z2"
+	"a",
+	"c/a",
+	"x1",
+	"y1",
+	"z1",
+	"x2",
+	"y2",
+	"z2"
     ],
     "parameter_values": [
-        4.045,
-        2.30952,
-        0.33,
-        0.16,
-        0.197,
-        0.13,
-        0.32,
-        0.0
+	4.045,
+	2.30952,
+	0.33,
+	0.16,
+	0.197,
+	0.13,
+	0.32
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "HP",
     "comments": "This structure was determined at 11.5 GPa. \n This structure can also be found in the enantiomorphic space group $P3_{2}$ \\#145."

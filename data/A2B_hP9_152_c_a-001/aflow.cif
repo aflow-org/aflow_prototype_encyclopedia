@@ -6,14 +6,15 @@
 # Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
 # Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
 
-# Chemical Composition:  A2B_hP9_152_c_a-001 O2Si quartz
+# Chemical Composition:  SiO2 (alpha quartz)
 
 # The current version of this file is available at
-# https://aflow.org/prototype-encyclopedia/A2B_hP9_152_c_a-001
+# https://aflow.org/prototype-encyclopedia/A2B_hP9_152_c_a-001 
 
-# Last updated on 2024/08/01
-data_O6Si3
-_pd_phase_name O6Si3
+# Last updated on 2025/03/07
+
+data_SiO2
+_pd_phase_name SiO2
 _cell_length_a  4.9140000000
 _cell_length_b  4.9140000000
 _cell_length_c  5.4060000000
@@ -42,5 +43,5 @@ loop_
  _atom_site_type_symbol
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
-Si2 1.0000000000 0.5301000000 -0.0000000000 0.3333333333  Biso 1.0 Si 3 a
-O1 1.0000000000 0.1462000000 0.4130000000 0.8806700000  Biso 1.0 O 6 c
+Si1 1.0000000000 0.4699000000 0.0000000000 0.3333333333  Biso 1.0 Si 3 a
+O2  1.0000000000 0.4130000000 0.2668000000 0.2140000000  Biso 1.0 O  6 c

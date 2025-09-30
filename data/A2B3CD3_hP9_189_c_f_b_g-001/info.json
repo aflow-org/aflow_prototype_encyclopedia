@@ -3,7 +3,7 @@
     "label": "A2B3CD3_hP9_189_c_f_b_g-001",
     "alias": null,
     "title": "Tb$_{3}$Mn$_{3}$Ga$_{2}$Si Structure",
-    "icsd": "99075",
+    "icsd": 99075,
     "ccdc": null,
     "prototype": "Ga2Mn3SiTb3",
     "prototype_tex": "Ga$_{2}$Mn$_{3}$SiTb$_{3}$",
@@ -14,18 +14,26 @@
     "strukturbericht_tex": null,
     "part": 5,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x3",
-        "x4"
+	"a",
+	"c/a",
+	"x3",
+	"x4"
     ],
     "parameter_values": [
-        6.99,
-        0.611445,
-        0.244,
-        0.564
+	6.99,
+	0.611445,
+	0.244,
+	0.564
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "Dy$_{3}$Mn$_{3}$Ga$_{2}$Si",
+        "Er$_{3}$Mn$_{3}$Ga$_{2}$Si",
+        "Ho$_{3}$Mn$_{3}$Ga$_{2}$Si",
+        "Lu$_{3}$Mn$_{3}$Ga$_{2}$Si",
+        "Tm$_{3}$Mn$_{3}$Ga$_{2}$Si"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "This is the quaternary form of \\href{current_web_home_dir/A2B_hP9_189_fg_ad-001}{Barringerite (Fe$_{2}$P)}, \\href{current_web_home_dir/ABC_hP9_189_f_bc_g-003}{ZrNiAl}, and \\href{current_web_home_dir/A2BC6_hP9_189_c_b_fg-002}{Zr$_{6}$CoAs$_{2}$}."

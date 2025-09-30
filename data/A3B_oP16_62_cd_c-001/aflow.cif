@@ -12,8 +12,8 @@
 
 # Last updated on 2024/08/01
 
-data_Al12Ni4
-_pd_phase_name Al12Ni4
+data_Al3Ni
+_pd_phase_name Al3Ni
 _cell_length_a  6.5982000000
 _cell_length_b  7.3515000000
 _cell_length_c  4.8021000000

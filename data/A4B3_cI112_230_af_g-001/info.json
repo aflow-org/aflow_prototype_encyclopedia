@@ -5,7 +5,7 @@
         "A4B3_cI112_230_af_g"
     ],
     "title": "Ga$_{4}$Ni$_{3}$ Structure",
-    "icsd": "103864",
+    "icsd": 103864,
     "ccdc": null,
     "prototype": "Ga4Ni3",
     "prototype_tex": "Ga$_{4}$Ni$_{3}$",
@@ -16,16 +16,16 @@
     "strukturbericht_tex": null,
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "x2",
-        "y3"
+	"a",
+	"x2",
+	"y3"
     ],
     "parameter_values": [
-        11.411,
-        0.0,
-        0.625
+	11.411
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": null,
     "comments": "This is a simple defect superstructure of the \\href{current_web_home_dir/AB_cP2_221_a_b-002}{CsCl ($B2$) structure}. If GaNi $B2$ is expanded into a 128 atom supercell, we can describe it using space group $Ia\\overline{3}d$ \\#230, with Ga atoms on the (16a) and (48f) Wyckoff sites and Ni atoms on the (16b) and (48g) sites. Removing the Ni atoms from the (16b) sites yields this structure."

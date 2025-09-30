@@ -5,7 +5,7 @@
         "ABC2_oI16_23_ab_i_k"
     ],
     "title": "NaFeS$_{2}$ Structure",
-    "icsd": "37026",
+    "icsd": 37026,
     "ccdc": null,
     "prototype": "FeNaS2",
     "prototype_tex": "FeNaS$_{2}$",
@@ -16,24 +16,26 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "x3",
-        "x4",
-        "y4",
-        "z4"
+	"a",
+	"b/a",
+	"c/a",
+	"x3",
+	"x4",
+	"y4",
+	"z4"
     ],
     "parameter_values": [
-        10.83,
-        0.577101,
-        0.498615,
-        0.72,
-        0.885,
-        0.2,
-        0.25
+	10.83,
+	0.577101,
+	0.498615,
+	0.72,
+	0.885,
+	0.2,
+	0.25
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": null,
     "comments": null

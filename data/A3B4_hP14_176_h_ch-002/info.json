@@ -3,7 +3,7 @@
     "label": "A3B4_hP14_176_h_ch-002",
     "alias": null,
     "title": "Nb$_{3}$Te$_{4}$ Structure",
-    "icsd": "16606",
+    "icsd": 16606,
     "ccdc": null,
     "prototype": "Nb3Te4",
     "prototype_tex": "Nb$_{3}$Te$_{4}$",
@@ -14,22 +14,27 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x2",
-        "y2",
-        "x3",
-        "y3"
+	"a",
+	"c/a",
+	"x2",
+	"y2",
+	"x3",
+	"y3"
     ],
     "parameter_values": [
-        10.671,
-        0.341749,
-        0.4886,
-        0.1039,
-        0.3389,
-        0.2731
+	10.671,
+	0.341749,
+	0.4886,
+	0.1039,
+	0.3389,
+	0.2731
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"Nb$_{3}$S$_{4}$",
+	"Nb$_{3}$Se$_{4}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": null

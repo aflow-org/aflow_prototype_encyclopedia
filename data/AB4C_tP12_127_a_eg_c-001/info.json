@@ -3,7 +3,7 @@
     "label": "AB4C_tP12_127_a_eg_c-001",
     "alias": null,
     "title": "RbAlF$_{4}$ II Structure",
-    "icsd": "54121",
+    "icsd": 54121,
     "ccdc": null,
     "prototype": "AlF4Rb",
     "prototype_tex": "AlF$_{4}$Rb",
@@ -14,18 +14,20 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z3",
-        "x4"
+	"a",
+	"c/a",
+	"z3",
+	"x4"
     ],
     "parameter_values": [
-        5.1227,
-        1.22621,
-        0.2224,
-        0.2159
+	5.1227,
+	1.22621,
+	0.2224,
+	0.2159
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "RbAlF$_{4}$ II",
     "comments": "(Bulou, 1982) identify three phases of RbAlF$_{4}$: \\begin{itemize} \\item Above 553K RbAlF$_{4}$ I has the tetragonal \\href{current_web_home_dir/AB4C_tP6_123_b_eg_c-001}{TlAlF$_{4}$ ($H0_{8}$) structure}. \\item Between 282 and 553K RbAlF$_{4}$ II is tetragonal, space group $P4/mbm$ \\#127 (this structure). \\item Below 282K RbAlF$_{4}$ III is orthorhombic, \\href{current_web_home_dir/AB4C_oP24_59_c_efg_ab-001}{space group $Pmmn$ \\#59}. \\end{itemize} ~ \\vspace{-.25in} \n The different structures are distinguished by the tilt of the AlF$_{6}$ octahedra. \n We use Bulou and Nouet's data for RbAlF$_{4}$ II at 293K."

@@ -5,7 +5,7 @@
         "A4B5_tI18_87_h_ah"
     ],
     "title": "Ti$_{5}$Te$_{4}$ Structure",
-    "icsd": "15451",
+    "icsd": 15451,
     "ccdc": null,
     "prototype": "Te4Ti5",
     "prototype_tex": "Te$_{4}$Ti$_{5}$",
@@ -16,22 +16,32 @@
     "strukturbericht_tex": null,
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x2",
-        "y2",
-        "x3",
-        "y3"
+	"a",
+	"c/a",
+	"x2",
+	"y2",
+	"x3",
+	"y3"
     ],
     "parameter_values": [
-        10.164,
-        0.371114,
-        0.2797,
-        0.9411,
-        0.3752,
-        0.6856
+	10.164,
+	0.371114,
+	0.2797,
+	0.9411,
+	0.3752,
+	0.6856
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "Mo$_{5}$As$_{4}$",
+        "Nb$_{5}$Sb$_{4}$",
+        "Nb$_{5}$Se$_{4}$",
+        "Nb$_{5}$Te$_{4}$",
+        "Ta$_{5}$Sb$_{4}$",
+        "V$_{5}$S$_{4}$",
+        "V$_{5}$Se$_{4}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": null

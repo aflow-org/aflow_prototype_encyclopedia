@@ -5,29 +5,31 @@
         "A12B_hP13_191_cdei_a"
     ],
     "title": "$D2_{a}$ (approximate TiBe$_{12}$) Structure",
-    "icsd": "58745",
+    "icsd": 58745,
     "ccdc": null,
     "prototype": "Be12Ti",
     "prototype_tex": "Be$_{12}$Ti",
     "number_of_species": 2,
     "pearson_symbol": "hP13",
     "space_group_number": 191,
-    "strukturbericht": "D2_a",
+    "strukturbericht": "D2a",
     "strukturbericht_tex": "$D2_{a}$",
     "part": 3,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z4",
-        "z5"
+	"a",
+	"c/a",
+	"z4",
+	"z5"
     ],
     "parameter_values": [
-        4.23,
-        1.73286,
-        0.29,
-        0.25
+	4.23,
+	1.73286,
+	0.29,
+	0.25
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "$D2_{a}$",
     "comments": "The structure of TiBe$_{12}$ is not settled.  (Raeuchle, 1952) described the structure as a somewhat disordered supercell containing 48 atoms with lattice constants $a = 29.44${\\AA} and $c = 7.33${\\AA}, but they stated that a `pseudo-cell' existed with dimensions $a = 4.23${\\AA} and $c = 7.33${\\AA}.  This pseudo-cell is described here, and was designated {\\em Strukturbericht} $D2_{a}$ by Smithells (Brandes, 1992).  Rauchle and Rundle suggested that the larger primitive cell was constructed from the multiple pseudo-cells, with the titanium atom alternating between the $(1a)$ and $(1b)$ Wyckoff positions. \n Other experimenters have suggested that the actual structure of TiBe$_{12}$ is tetragonal.  (Jackson, 2016) presents first-principles calculations which suggest that the actual structure is the tetragonal \\href{current_web_home_dir/A12B_tI26_139_fij_a-001}{ThMn$_{12}$ ($D2_{b}$) type}. \n \\href{current_web_home_dir/A6B6C_hP13_191_i_cde_a-002}{HfFe$_{6}$Ge$_{6}$} is the ternary form of this structure."

@@ -3,7 +3,7 @@
     "label": "A8B3C_cI96_206_ce_d_a-001",
     "alias": null,
     "title": "ZrTe$_{3}$O$_{8}$ Structure",
-    "icsd": "409713",
+    "icsd": 409713,
     "ccdc": null,
     "prototype": "O8Te3Zr",
     "prototype_tex": "O$_{8}$Te$_{3}$Zr",
@@ -14,22 +14,24 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "x2",
-        "x3",
-        "x4",
-        "y4",
-        "z4"
+	"a",
+	"x2",
+	"x3",
+	"x4",
+	"y4",
+	"z4"
     ],
     "parameter_values": [
-        11.308,
-        0.1707,
-        0.20642,
-        0.1035,
-        0.0621,
-        0.362
+	11.308,
+	0.1707,
+	0.20642,
+	0.1035,
+	0.0621,
+	0.362
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": null,
     "comments": null

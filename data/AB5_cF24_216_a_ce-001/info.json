@@ -5,26 +5,57 @@
         "AB5_cF24_216_a_ce"
     ],
     "title": "AuBe$_{5}$ ($C15_{b}$) Structure",
-    "icsd": "611643",
+    "icsd": 611643,
     "ccdc": null,
     "prototype": "AuBe5",
     "prototype_tex": "AuBe$_{5}$",
     "number_of_species": 2,
     "pearson_symbol": "cF24",
     "space_group_number": 216,
-    "strukturbericht": "C15_b",
+    "strukturbericht": "C15b",
     "strukturbericht_tex": "$C15_{b}$",
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "x3"
+	"a",
+	"x3"
     ],
     "parameter_values": [
-        6.1,
-        0.625
+	6.1,
+	0.625
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"AuBe$_{5}$",
+	"CaAu$_{5}$",
+	"CeIr$_{5}$",
+	"CoBe$_{5}$",
+	"DyCu$_{5}$",
+	"ErCu$_{5}$",
+	"GdCu$_{5}$",
+	"HfNi$_{5}$",
+	"HoCu$_{5}$",
+	"LuCu$_{5}$",
+	"PaPt$_{5}$",
+	"PdBe$_{5}$",
+	"PtBe$_{5}$",
+	"TbCu$_{5}$",
+	"TmCu$_{5}$",
+	"UCu$_{5}$",
+	"UNi$_{5}$",
+	"UPt$_{5}$",
+	"ZrCo$_{5}$",
+	"ZrCu$_{5}$",
+        "CaAu$_{5}$",
+        "CoBe$_{5}$",
+        "HfNi$_{5}$",
+        "PdBe$_{5}$",
+        "UCu$_{5}$",
+        "UNi$_{5}$",
+        "UPt$_{5}$",
+        "ZrNi$_{5}$"
+    ],
     "legacy": false,
     "notes": "$C15_{b}$",
-    "comments": "The lattice constant for this structure is taken from (Batchelder, 1958), which does not give the internal coordinate for the (16c) site. However, (Baenziger, 1950) assumes that uranium compounds of this type have an internal parameter $x_{3} \\approx 5/8$. (Pearson, 1958) uses this to infer a value of $x_{3} \\approx 5/8$ here as well."
+    "comments": "The lattice constant for this structure is taken from (Batchelder, 1958), which does not give the internal coordinate for the (16c) site. However, (Baenziger, 1950) assumes that uranium compounds of this type have an internal parameter $x_{3} \\approx 5/8$. (Pearson, 1958) uses this to infer a value of $x_{3} \\approx 5/8$ here as well. \n The history of this page is complicated. The original NRL {\\em Crystal Lattice Structure Page} listed \\href{current_web_home_dir/A4BC_cF24_216_e_a_c-001}{Cu$_{4}$MgSn} as the prototype for {\\em Strukturbericht} symbol $C15_{b}$. Later we used AuBe$_{5}$ as the prototype, but included both binary and ternary compounds on the same page.  We have now separated the two."
 }

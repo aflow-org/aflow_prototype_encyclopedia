@@ -1,0 +1,57 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+
+# Chemical Composition:  PrMn7O12
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A7B12C_mC40_12_abcef_2i2j_d-001 
+
+# Last updated on 2025/06/10
+
+data_PrMn7O12
+_pd_phase_name PrMn7O12
+_cell_length_a  10.4851000000
+_cell_length_b  7.3850000000
+_cell_length_c  7.4740000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  134.4970000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'C2/m'
+_symmetry_Int_Tables_Number  12
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y,-z
+  3  -x,-y,-z
+  4  x,-y,z
+  5  x+1/2,y+1/2,z
+  6  -x+1/2,y+1/2,-z
+  7  -x+1/2,-y+1/2,-z
+  8  x+1/2,-y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Mn1  1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Mn 2 a
+Mn2  1.0000000000 0.0000000000 0.5000000000 0.0000000000  Biso 1.0 Mn 2 b
+Mn3  1.0000000000 0.0000000000 0.0000000000 0.5000000000  Biso 1.0 Mn 2 c
+Pr10 1.0000000000 0.0000000000 0.5000000000 0.5000000000  Biso 1.0 Pr 2 d
+Mn4  1.0000000000 0.2500000000 0.2500000000 0.0000000000  Biso 1.0 Mn 4 e
+Mn5  1.0000000000 0.2500000000 0.2500000000 0.5000000000  Biso 1.0 Mn 4 f
+O6   1.0000000000 0.3295000000 0.0000000000 0.0214000000  Biso 1.0 O  4 i
+O7   1.0000000000 0.6778000000 0.0000000000 0.3658000000  Biso 1.0 O  4 i
+O8   1.0000000000 0.0081000000 0.8099000000 0.6815000000  Biso 1.0 O  8 j
+O9   1.0000000000 0.6890000000 0.6747000000 0.1945000000  Biso 1.0 O  8 j

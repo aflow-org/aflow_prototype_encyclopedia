@@ -3,7 +3,7 @@
     "label": "A3B2_oF40_69_hm_fg-001",
     "alias": null,
     "title": "Rb$_{2}$P$_{3}$ Structure",
-    "icsd": "65184",
+    "icsd": 65184,
     "ccdc": null,
     "prototype": "P3Rb2",
     "prototype_tex": "P$_{3}$Rb$_{2}$",
@@ -14,24 +14,28 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "x2",
-        "y3",
-        "y4",
-        "z4"
+	"a",
+	"b/a",
+	"c/a",
+	"x2",
+	"y3",
+	"y4",
+	"z4"
     ],
     "parameter_values": [
-        9.641,
-        1.51737,
-        0.93455,
-        0.282,
-        0.1481,
-        0.0735,
-        0.2068
+	9.641,
+	1.51737,
+	0.93455,
+	0.282,
+	0.1481,
+	0.0735,
+	0.2068
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"Cs$_{2}$P$_{3}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": null

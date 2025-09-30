@@ -6,14 +6,15 @@
 # Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
 # Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
 
-# Chemical Composition:  AB_cF8_216_a_c-001 SZn zincblende B3
+# Chemical Composition:  ZnS (zincblende, sphalerite, B3)
 
 # The current version of this file is available at
-# https://aflow.org/prototype-encyclopedia/AB_cF8_216_a_c-001
+# https://aflow.org/prototype-encyclopedia/AB_cF8_216_a_c-001 
 
-# Last updated on 2024/08/01
-data_S4Zn4
-_pd_phase_name S4Zn4
+# Last updated on 2025/02/17
+
+data_ZnS
+_pd_phase_name ZnS
 _cell_length_a  5.4093000000
 _cell_length_b  5.4093000000
 _cell_length_c  5.4093000000
@@ -132,5 +133,5 @@ loop_
  _atom_site_type_symbol
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
-S1 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 S 4 a
+S1  1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 S  4 a
 Zn2 1.0000000000 0.2500000000 0.2500000000 0.2500000000  Biso 1.0 Zn 4 c

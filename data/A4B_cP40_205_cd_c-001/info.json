@@ -5,7 +5,7 @@
         "A4B_cP40_205_cd_c"
     ],
     "title": "SnI$_{4}$ (D1$_{1}$) Structure",
-    "icsd": "38140",
+    "icsd": 38140,
     "ccdc": null,
     "prototype": "I4Sn",
     "prototype_tex": "I$_{4}$Sn",
@@ -16,22 +16,29 @@
     "strukturbericht_tex": null,
     "part": 3,
     "parameter_symbols": [
-        "a",
-        "x1",
-        "x2",
-        "x3",
-        "y3",
-        "z3"
+	"a",
+	"x1",
+	"x2",
+	"x3",
+	"y3",
+	"z3"
     ],
     "parameter_values": [
-        12.26,
-        0.252,
-        0.125,
-        0.998,
-        0.998,
-        0.252
+	12.26,
+	0.252,
+	0.125,
+	0.998,
+	0.998,
+	0.252
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "SiI$_{4}$",
+        "TiBr$_{4}$",
+        "TiI$_{4}$",
+        "Ni(CO)$_{4}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": null

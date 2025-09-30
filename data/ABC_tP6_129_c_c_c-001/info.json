@@ -3,7 +3,7 @@
     "label": "ABC_tP6_129_c_c_c-001",
     "alias": null,
     "title": "CaGaN Structure",
-    "icsd": "2027",
+    "icsd": 2027,
     "ccdc": null,
     "prototype": "CaGaN",
     "prototype_tex": "CaGaN",
@@ -14,20 +14,25 @@
     "strukturbericht_tex": null,
     "part": 5,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z1",
-        "z2",
-        "z3"
+	"a",
+	"c/a",
+	"z1",
+	"z2",
+	"z3"
     ],
     "parameter_values": [
-        3.57,
-        2.11709,
-        0.6503,
-        0.0839,
-        0.33
+	3.57,
+	2.11709,
+	0.6503,
+	0.0839,
+	0.33
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"EuSnP",
+	"SrSnP"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "There are two prototypes with the AFLOW label ABC\\_tP6\\_129\\_c\\_c\\_c: \\begin{itemize} \\item \\href{current_web_home_dir/ABC_tP6_129_c_c_c-001}{CaGaN} (this structure), with c/a $\\approx$ 2.1, and \\item \\href{current_web_home_dir/ABC_tP6_129_c_c_c-002}{TaMoN}, with c/a $\\approx$ 2.5. \\end{itemize} ~ \\vspace{-0.25in} \n (Verdier, 1974) give the atomic coordinates in setting 1 of space group $P4/nmm$ \\#129.  We shifted the origin to place the system in our standard setting 2."

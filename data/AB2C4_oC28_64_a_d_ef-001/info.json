@@ -3,7 +3,7 @@
     "label": "AB2C4_oC28_64_a_d_ef-001",
     "alias": null,
     "title": "Gd$_{2}$CuO$_{4}$ Structure",
-    "icsd": "75425",
+    "icsd": 75425,
     "ccdc": null,
     "prototype": "CuGd2O4",
     "prototype_tex": "CuGd$_{2}$O$_{4}$",
@@ -14,24 +14,28 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "x2",
-        "y3",
-        "y4",
-        "z4"
+	"a",
+	"b/a",
+	"c/a",
+	"x2",
+	"y3",
+	"y4",
+	"z4"
     ],
     "parameter_values": [
-        11.8864,
-        0.46342,
-        0.463404,
-        0.3495,
-        0.2487,
-        0.224,
-        0.2719
+	11.8864,
+	0.46342,
+	0.463404,
+	0.3495,
+	0.2487,
+	0.224,
+	0.2719
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"Eu$_{2}$CuO$_{4}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "This is a slight orthorhombic distortion of the \\href{current_web_home_dir/AB2C4_tI14_139_a_e_cd-003}{Nd$_{2}$CuO$_{4}$ structure}, and there is some evidence that both Gd$_{2}$CuO$_{4}$ and Eu$_{2}$CuO$_{4}$ transform to the Nd$_{2}$CuO$_{4}$ structure at higher temperatures. \n We did not find an ICSD from (Luo, 1999), so we use the one from the earlier work of (Braden, 1994)."

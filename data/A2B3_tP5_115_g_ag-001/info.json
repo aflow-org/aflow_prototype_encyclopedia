@@ -5,7 +5,7 @@
         "A2B3_tP5_115_g_ag"
     ],
     "title": "Rh$_{3}$P$_{2}$ Structure",
-    "icsd": "35626",
+    "icsd": 35626,
     "ccdc": null,
     "prototype": "P2Rh3",
     "prototype_tex": "P$_{2}$Rh$_{3}$",
@@ -16,18 +16,20 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z2",
-        "z3"
+	"a",
+	"c/a",
+	"z2",
+	"z3"
     ],
     "parameter_values": [
-        3.327,
-        1.84881,
-        0.253,
-        0.6308
+	3.327,
+	1.84881,
+	0.253,
+	0.6308
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": null,
     "comments": null

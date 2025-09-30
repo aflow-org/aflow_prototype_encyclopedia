@@ -3,8 +3,8 @@
     "label": "A6B3C2_hR11_166_3c_ac_c-001",
     "alias": null,
     "title": "Al$_{6}$C$_{3}$N$_{2}$ Structure",
-    "icsd": "654993, 41260",
-    "ccdc": null,
+    "icsd": 654993,
+    "ccdc": 1765795,
     "prototype": "Al6C3N2",
     "prototype_tex": "Al$_{6}$C$_{3}$N$_{2}$",
     "number_of_species": 3,
@@ -14,25 +14,27 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x2",
-        "x3",
-        "x4",
-        "x5",
-        "x6"
+	"a",
+	"c/a",
+	"x2",
+	"x3",
+	"x4",
+	"x5",
+	"x6"
     ],
     "parameter_values": [
-        3.248,
-        12.3245,
-        0.1921,
-        0.3091,
-        0.08565,
-        0.1355,
-        0.2595
+	3.248,
+	12.3245,
+	0.1921,
+	0.3091,
+	0.08565,
+	0.1355,
+	0.2595
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": null,
-    "comments": "The structure presented by (Jeffrey, 1966) has problems similar to those of \\href{current_web_home_dir/A8B3C4_hR15_166_4c_ac_2c-001}{Al$_{8}$C$_{3}$N$_{4}$}.  See that page for a discussion of our resolution of the problems. \n The ICSD is rather confused about this compound.  The entry associated with (Jeffrey, 1996), \\#41260, has the original structure.  Entry \\#654993 gives a structure quite similar to ours, but it is attributed to (Suzuki, 1993), a paper concerning the structure of iron nitride. It is better associated with (Daams, 1993). We list both ICSDs, but consider \\#654993 the correct structure. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
+    "comments": "The structure presented by (Jeffrey, 1966) has problems similar to those of \\href{current_web_home_dir/A8B3C4_hR15_166_4c_ac_2c-001}{Al$_{8}$C$_{3}$N$_{4}$}.  See that page for a discussion of our resolution of the problems. \n The ICSD is rather confused about this compound.  The entry associated with (Jeffrey, 1996), \\#41260, has the original structure.  Entry \\#654993 gives a structure quite similar to ours, but it is attributed to (Suzuki, 1993), a paper concerning the structure of iron nitride. It is better associated with (Daams, 1993). We consider \\#654993 to be the correct structure. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

@@ -5,7 +5,7 @@
         "A_hR12_166_2h"
     ],
     "title": "$\\alpha$-B (R-12) Structure",
-    "icsd": "26487",
+    "icsd": 26487,
     "ccdc": null,
     "prototype": "B",
     "prototype_tex": "B",
@@ -16,22 +16,24 @@
     "strukturbericht_tex": null,
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x1",
-        "z1",
-        "x2",
-        "z2"
+	"a",
+	"c/a",
+	"x1",
+	"z1",
+	"x2",
+	"z2"
     ],
     "parameter_values": [
-        4.908,
-        2.56023,
-        0.9896,
-        0.34271,
-        0.7794,
-        0.3677
+	4.908,
+	2.56023,
+	0.9896,
+	0.34271,
+	0.7794,
+	0.3677
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "R-105 $\\alpha$-Boron",
     "comments": "This is a metastable phase of boron, also known as rhombohedral-12 boron (Donohue, 1982).  It is the simplest known phase (the ground state, $\\beta$-B, has 105 atoms in the primitive cell). \n Note the relationship between the icosahedra in this structure, \\href{current_web_home_dir/A_hR105_166_ac9h4i-001}{$\\beta$-B} and \\href{current_web_home_dir/A_tP50_134_a2m2n-001}{T-50 B}. \n Hexagonal settings for rhombohedral structures can be obtained with the option {\\tt --hex}."

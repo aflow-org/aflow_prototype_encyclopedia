@@ -5,27 +5,47 @@
         "A4B_tI10_139_de_a"
     ],
     "title": "$D1_{3}$ (BaAl$_{4}$) Structure",
-    "icsd": "57513",
+    "icsd": 57513,
     "ccdc": null,
     "prototype": "Al4Ba",
     "prototype_tex": "Al$_{4}$Ba",
     "number_of_species": 2,
     "pearson_symbol": "tI10",
     "space_group_number": 139,
-    "strukturbericht": "D1_3",
+    "strukturbericht": "D13",
     "strukturbericht_tex": "$D1_{3}$",
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z3"
+	"a",
+	"c/a",
+	"z3"
     ],
     "parameter_values": [
-        4.53,
-        2.45033,
-        0.38
+	4.53,
+	2.45033,
+	0.38
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "BaGa$_{4}$",
+        "BaIn$_{4}$",
+        "CaAl$_{4}$",
+        "CaGa$_{4}$",
+        "CeAl$_{4}$",
+        "EuAl$_{4}$",
+        "EuGa$_{4}$",
+        "KIn$_{4}$",
+        "LaAl$_{4}$",
+        "NdAl$_{4}$",
+        "PrAl$_{4}$",
+        "SmAl$_{4}$",
+        "SrAl$_{4}$",
+        "SrGa$_{4}$",
+        "ThZn$_{4}$",
+        "TlGa$_{4}$",
+        "YAl$_{4}$"
+    ],
     "legacy": false,
     "notes": "$D1_{3}$",
     "comments": "BaAl$_{4}$ is the parent structure of a number of ternary compounds (Shatruk, 2019): \n \\href{current_web_home_dir/A2B2C_tI10_139_d_e_a-003}{ThCr$_{2}$Si$_{2}$}, space group $I4/mmm$ \\#139, with $c/a < 3$. \n \\href{current_web_home_dir/A2B2C_tI10_139_d_e_a-002}{TlCo$_{2}$S$_{2}$}, also in space group $I4/mmm$ \\#139 but with $c/a > 3$. \n \\href{current_web_home_dir/A2BC2_tP10_129_ac_c_bc-001}{CaBe$_{2}$Ge$_{2}$}, space group $P4/nmm$ \\#129. \n \\href{current_web_home_dir/ABC3_tI10_107_a_a_ab-001}{BaNiSn$_{3}$}, space group $I4mm$ \\#107."

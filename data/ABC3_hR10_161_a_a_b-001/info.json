@@ -5,7 +5,7 @@
         "ABC3_hR10_161_a_a_b"
     ],
     "title": "Ferroelectric LiNbO$_{3}$ Structure",
-    "icsd": "81243",
+    "icsd": 81243,
     "ccdc": null,
     "prototype": "LiNbO3",
     "prototype_tex": "LiNbO$_{3}$",
@@ -16,24 +16,29 @@
     "strukturbericht_tex": null,
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x1",
-        "x2",
-        "x3",
-        "y3",
-        "z3"
+	"a",
+	"c/a",
+	"x1",
+	"x2",
+	"x3",
+	"y3",
+	"z3"
     ],
     "parameter_values": [
-        5.25417,
-        2.64091,
-        0.2875,
-        0.0128,
-        0.74643,
-        0.14093,
-        0.36263
+	5.25417,
+	2.64091,
+	0.2875,
+	0.0128,
+	0.74643,
+	0.14093,
+	0.36263
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"BiFeO$_{3}$",
+	"CsPbF$_{3}$"
+    ],
     "legacy": false,
     "notes": "Ferroelectric",
     "comments": "This is the ferroelectric phase of LiNbO$_{3}$, which is stable below 1430K. There is also a \\href{current_web_home_dir/ABC3_hR10_167_a_b_e-001}{high-temperature paraelectric phase}. \n In the special case $c/a = \\sqrt{6}, z_{1} = 1/4, z_{2} = 0, x_{3} = 1/2, y_{3} = 0, z_{3} = 0$ this reduces to a double unit cell version of the \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite ($E2_{1}$) structure}. This sets the angle between the rhombohedral primitive vectors to 60$^{\\circ}$. Experimentally the value is about 56$^{\\circ}$."

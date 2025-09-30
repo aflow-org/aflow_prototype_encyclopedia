@@ -5,7 +5,7 @@
         "A6B6C_cF104_202_h_h_c"
     ],
     "title": "KB$_{6}$H$_{6}$ Structure",
-    "icsd": "36148",
+    "icsd": 36148,
     "ccdc": null,
     "prototype": "B6H6K",
     "prototype_tex": "B$_{6}$H$_{6}$K",
@@ -16,20 +16,22 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "y2",
-        "z2",
-        "y3",
-        "z3"
+	"a",
+	"y2",
+	"z2",
+	"y3",
+	"z3"
     ],
     "parameter_values": [
-        10.61,
-        0.5827,
-        0.6359,
-        0.638,
-        0.72
+	10.61,
+	0.5827,
+	0.6359,
+	0.638,
+	0.72
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": null,
     "comments": null

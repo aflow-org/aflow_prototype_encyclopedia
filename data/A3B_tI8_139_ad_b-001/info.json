@@ -5,25 +5,43 @@
         "A3B_tI8_139_bd_a"
     ],
     "title": "Al$_{3}$Ti ($D0_{22}$) Structure",
-    "icsd": "58189",
+    "icsd": 58189,
     "ccdc": null,
     "prototype": "Al3Ti",
     "prototype_tex": "Al$_{3}$Ti",
     "number_of_species": 2,
     "pearson_symbol": "tI8",
     "space_group_number": 139,
-    "strukturbericht": "D0_22",
+    "strukturbericht": "D022",
     "strukturbericht_tex": "$D0_{22}$",
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a"
+	"a",
+	"c/a"
     ],
     "parameter_values": [
-        3.8537,
-        2.22744
+	3.8537,
+	2.22744
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "Al$_{3}$Hf",
+        "Al$_{3-x}$Fe$_{x}$Mo",
+        "Al$_{3}$Nb",
+        "Al$_{3}$Sc",
+        "Al$_{3}$Ta",
+        "Al$_{3}$V",
+        "Ga$_{3}$Hf",
+        "Ga$_{3}$Nb",
+        "Ga$_{3}$Ti",
+        "$\\alpha$-NbPd$_{3}$",
+        "Ni$_{3}$V",
+        "Pd$_{3}$Nb",
+        "Pd$_{3}$Ta",
+        "Pd$_{3}$V",
+        "Pt$_{3}$V"
+    ],
     "legacy": false,
     "notes": "$D0_{22}$",
     "comments": "When $c=2a$ the atoms are on the sites of a face-centered cubic lattice. When $c/a=1/\\sqrt{2}$, this becomes the cubic \\href{current_web_home_dir/AB3_cF16_225_a_bc-001}{$D0_{3}$ structure.}"

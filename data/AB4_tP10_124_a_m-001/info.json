@@ -5,7 +5,7 @@
         "AB4_tP10_124_a_m"
     ],
     "title": "Room Temperature NbTe$_{4}$ Structure",
-    "icsd": "43282",
+    "icsd": 43282,
     "ccdc": null,
     "prototype": "NbTe4",
     "prototype_tex": "NbTe$_{4}$",
@@ -16,18 +16,22 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x2",
-        "y2"
+	"a",
+	"c/a",
+	"x2",
+	"y2"
     ],
     "parameter_values": [
-        6.499,
-        1.05201,
-        0.1425,
-        0.3361
+	6.499,
+	1.05201,
+	0.1425,
+	0.3361
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "TaTe$_{4}$"
+    ],
     "legacy": false,
     "notes": "RT",
     "comments": "This is the room-temperature phase of NbTe4$_{4}$.  Above 520$^\\circ$C it transforms into \\href{current_web_home_dir/AB4_tP10_103_a_d-001}{a non-centrosymmetric structure}."

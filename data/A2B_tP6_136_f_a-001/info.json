@@ -5,7 +5,7 @@
         "A2B_tP6_136_f_a"
     ],
     "title": "Rutile (TiO$_{2}$, $C4$) Structure",
-    "icsd": "80843",
+    "icsd": 80843,
     "ccdc": null,
     "prototype": "O2Ti",
     "prototype_tex": "O$_{2}$Ti",
@@ -16,16 +16,42 @@
     "strukturbericht_tex": "$C4$",
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x2"
+	"a",
+	"c/a",
+	"x2"
     ],
     "parameter_values": [
-        4.5922,
-        0.644005,
-        0.30496
+	4.5922,
+	0.644005,
+	0.30496
     ],
-    "compounds": {},
+    "mineral_name": "rutile",
+    "minerals": {
+        "stishovite": "O$_{2}$Si",
+        "cassiterite": "O$_{2}$Sn"
+    },
+    "compounds": [
+        "CoF$_{2}$",
+        "CrO$_{2}$",
+        "GeO$_{2}$",
+        "IrO$_{2}$",
+        "MgF$_{2}$",
+        "MnF$_{2}$",
+        "MoO$_{2}$",
+        "NTi$_{2}$",
+        "NbO$_{2}$",
+        "NiF$_{2}$",
+        "OsO$_{2}$",
+        "PbO$_{2}$",
+        "RuO$_{2}$",
+        "SiO$_{2}$ (stishovite)",
+        "SnO$_{2}$ (cassiterite)",
+        "TaO$_{2}$",
+        "TeO$_{2}$",
+        "VO$_{2}$ (HT)",
+        "WO$_{2}$",
+        "ZnF$_{2}$"
+    ],
     "legacy": false,
     "notes": "$C4$, Rutile",
     "comments": "TiO$_{2}$ can also be found as \\href{current_web_home_dir/A2B_tI12_141_e_a-001}{anatase ($C5$)} and \\href{current_web_home_dir/A2B_oP24_61_2c_c-001}{brookite ($C21$)}."

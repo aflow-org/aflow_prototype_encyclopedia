@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/AB3_oP16_62_c_cd-001
 
 # Last updated on 2024/08/01
-data_C4Fe12
-_pd_phase_name C4Fe12
+data_CFe3
+_pd_phase_name CFe3
 _cell_length_a  5.0900000000
 _cell_length_b  6.7480000000
 _cell_length_c  4.5230000000
@@ -44,6 +44,6 @@ loop_
  _atom_site_type_symbol
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
-C1 1.0000000000 0.3900000000 0.2500000000 0.0500000000  Biso 1.0 C 4 c
+C1  1.0000000000 0.3900000000 0.2500000000 0.0500000000  Biso 1.0 C  4 c
 Fe2 1.0000000000 0.0360000000 0.2500000000 0.8520000000  Biso 1.0 Fe 4 c
 Fe3 1.0000000000 0.1860000000 0.0630000000 0.3280000000  Biso 1.0 Fe 8 d

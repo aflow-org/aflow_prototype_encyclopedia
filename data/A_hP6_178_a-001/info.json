@@ -5,7 +5,7 @@
         "A_hP6_178_a"
     ],
     "title": "Sc-V (High-Pressure) Structure",
-    "icsd": "153837",
+    "icsd": 153837,
     "ccdc": null,
     "prototype": "Sc",
     "prototype_tex": "Sc",
@@ -16,16 +16,18 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x1"
+	"a",
+	"c/a",
+	"x1"
     ],
     "parameter_values": [
-        2.355,
-        4.43567,
-        0.461
+	2.355,
+	4.43567,
+	0.461
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "Sc-V (HP)",
     "comments": "This high pressure phase of scandium becomes stable at 240 GPa. We use the experimental data at 242 GPa and 297K. This chiral structure could also have been presented in the enantiomorphic space group $P6_{5}22$ \\#179."

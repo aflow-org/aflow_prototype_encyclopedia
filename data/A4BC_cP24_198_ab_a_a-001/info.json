@@ -1,0 +1,45 @@
+{
+    "uid": "KZDN",
+    "label": "A4BC_cP24_198_ab_a_a-001",
+    "alias": null,
+    "title": "$\\beta$-SnWO$_{4}$ Structure",
+    "icsd": 2840,
+    "ccdc": 1592641,
+    "prototype": "O4SnW",
+    "prototype_tex": "O$_{4}$SnW",
+    "number_of_species": 3,
+    "elements": [
+        "O",
+	"Sn",
+	"W"
+    ],
+    "pearson_symbol": "cP24",
+    "space_group_number": 198,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
+	"a",
+	"x1",
+	"x2",
+	"x3",
+	"x4",
+	"y4",
+	"z4"
+    ],
+    "parameter_values": [
+        7.2989,
+	0.3039,
+	0.8416,
+	0.1644,
+	0.8638,
+	0.7729,
+	0.547
+    ],
+    "mineral_name": null,
+    "minerals": {},
+    "compounds": null,
+    "legacy": false,
+    "notes": "$\\beta$SnWO$_{4}$",
+    "comments": "Below 670$^\\circ$ this transforms into the \\href{current_web_home_dir/A4BC_oP24_52_2e_c_d-001}{$\\alpha$-SnWO$_{4}$} structure (Jeitschko, 1972). \n SnWO$_{4}$ melts above 782$^\\circ$C. \n The current sample was heated above 670$^\\circ$C and rapidly quenched. \n The atoms in \\href{current_web_home_dir/AB3C2_cP24_198_a_b_2a-001}{Sn$_{2}$Fe$_{3}$Cl} occupy the same Wyckoff positions, but with different site occupations."
+}

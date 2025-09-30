@@ -3,7 +3,7 @@
     "label": "AB4C_hP18_180_c_k_d-001",
     "alias": null,
     "title": "Rhadophane (CePO$_{4}$) Structure",
-    "icsd": "31563",
+    "icsd": 31563,
     "ccdc": null,
     "prototype": "CeO4P",
     "prototype_tex": "CeO$_{4}$P",
@@ -14,20 +14,24 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x3",
-        "y3",
-        "z3"
+	"a",
+	"c/a",
+	"x3",
+	"y3",
+	"z3"
     ],
     "parameter_values": [
-        7.055,
-        0.912686,
-        0.446,
-        0.147,
-        0.36
+	7.055,
+	0.912686,
+	0.446,
+	0.147,
+	0.36
     ],
-    "compounds": {},
+    "mineral_name": "rhadophane",
+    "minerals": null,
+    "compounds": [
+        "LaPO$_{4}$","NdPO$_{4}$"
+    ],
     "legacy": false,
     "notes": "Rhadophane",
     "comments": "This structure can also be found in the enantiomorphic space group $P6_{4}22$ \\#181."

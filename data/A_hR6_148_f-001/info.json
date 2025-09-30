@@ -3,7 +3,7 @@
     "label": "A_hR6_148_f-001",
     "alias": null,
     "title": "S$_{6}$ ($\\rho$-S) Sulfur Structure",
-    "icsd": "27495",
+    "icsd": 27495,
     "ccdc": null,
     "prototype": "S",
     "prototype_tex": "S",
@@ -14,20 +14,22 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x1",
-        "y1",
-        "z1"
+	"a",
+	"c/a",
+	"x1",
+	"y1",
+	"z1"
     ],
     "parameter_values": [
-        10.8179,
-        0.395637,
-        0.0827,
-        0.8517,
-        0.7491
+	10.8179,
+	0.395637,
+	0.0827,
+	0.8517,
+	0.7491
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "$\\rho$-S",
     "comments": "We follow the notation of (Donohue, 1961) and (Donhoue, 1974) and call this S$_{6}$ sulfur.  Alternative names are: rhombohedral sulfur, trigonal sulfur, Engel's sulfur, Aten's sulfur, $\\epsilon$-sulfur, and $\\rho$-sulfur. (Donohue, 1974) \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."

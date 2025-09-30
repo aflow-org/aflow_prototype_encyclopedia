@@ -5,25 +5,39 @@
         "AB3_tP4_123_a_ce"
     ],
     "title": "CuTi$_{3}$ ($L6_{0}$) Structure",
-    "icsd": "103130",
+    "icsd": 103130,
     "ccdc": null,
     "prototype": "CuTi3",
     "prototype_tex": "CuTi$_{3}$",
     "number_of_species": 2,
     "pearson_symbol": "tP4",
     "space_group_number": 123,
-    "strukturbericht": "L6_0",
+    "strukturbericht": "L60",
     "strukturbericht_tex": "$L6_{0}$",
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a"
+	"a",
+	"c/a"
     ],
     "parameter_values": [
-        4.158,
-        0.864358
+	4.158,
+	0.864358
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "AgZr$_{3}$",
+        "AlPu$_{3}$",
+        "BaBi$_{3}$",
+        "$\\alpha'$CdAu$_{3}$",
+        "CuZr$_{3}$",
+        "DyIn$_{3}$",
+        "GaPu$_{3}$",
+        "InPt$_{3}$",
+        "MnAu$_{3}$",
+        "SrPb$_{3}$",
+        "TlPd$_{3}$"
+    ],
     "legacy": false,
     "notes": "$L6_{0}$",
     "comments": "This is a tetragonal distortion of the \\href{current_web_home_dir/AB3_cP4_221_a_c-001}{$L1_{2}$ (Cu$_{3}$Au) structure}. When $c = a$ the atoms are at the positions of a face-centered cubic lattice. If we replace the Ti-I atom by Cu, then the system reduces to the \\href{current_web_home_dir/AB_tP2_123_a_d-001}{$L1_{0}$ (CuAu) structure}. Interestingly, (Massalski, 1986) lists no stable or metastable structures with composition CuTi$_{3}$. (Bystr\\\"{o}m, 1947) do find a phase of CdAu$_{3}$ which they say has this structure."

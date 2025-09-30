@@ -5,7 +5,7 @@
         "AB5C_tP7_123_b_ci_a"
     ],
     "title": "HoCoGa$_{5}$ Structure",
-    "icsd": "42427",
+    "icsd": 42427,
     "ccdc": null,
     "prototype": "CoGa5Ho",
     "prototype_tex": "CoGa$_{5}$Ho",
@@ -16,16 +16,37 @@
     "strukturbericht_tex": null,
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z4"
+	"a",
+	"c/a",
+	"z4"
     ],
     "parameter_values": [
-        4.207,
-        1.61517,
-        0.312
+	4.207,
+	1.61517,
+	0.312
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "CeRhIn$_{5}$",
+        "CeCoIn$_{5}$",
+        "DyCoGa$_{5}$",
+        "ErCoGa$_{5}$",
+        "GdCoGa$_{5}$",
+        "LuCoGa$_{5}$",
+        "TbCoGa$_{5}$",
+        "TmCoGa$_{5}$",
+        "UCoGa$_{5}$",
+        "YCoGa$_{5}$",
+        "CoIrIn$_{5}$",
+        "CoRhIn$_{5}$",
+        "LaCoIn$_{5}$",
+        "LaIrIn$_{5}$",
+        "LaRhIn$_{5}$",
+        "PrCoIn$_{5}$",
+        "PrIrIn$_{5}$",
+        "PrRhIn$_{5}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": null

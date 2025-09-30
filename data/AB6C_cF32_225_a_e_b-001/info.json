@@ -14,14 +14,16 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "x3"
+	"a",
+	"x3"
     ],
     "parameter_values": [
-        7.95,
-        0.2494
+	7.95,
+	0.2494
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "$\\alpha$'-CuZrF$_{6}$",
     "comments": "CuZrF$_{6}$ exists in four forms, depending on the temperature. Structures below 500K show evidence of a Jahn-Teller distortion. \\begin{itemize} \\item \\href{current_web_home_dir/AB6C_cF32_225_a_e_b-001}{$\\alpha'$-CuZrF$_{6}$} (this structure) is the high temperature cubic form.  Evidence from (Propach, 1978) shows this to be stable above $\\approx 450$K.  We use the lattice constant at 500K. \\item \\href{current_web_home_dir/AB12C_cF56_202_a_h_b-001}{$\\alpha$-CuZrF$_{6}$} is stable above 383K.  The fluorine (6f) sites are doubled, with only one of each pair occupied. We use data taken at 393K. \\item \\href{current_web_home_dir/AB6C_hR8_148_a_f_b-001}{$\\beta$-CuZrF$_{6}$} is stable between 353 and 383K. In this case the Jahn-Teller distortion is locked in, so there are only six fluorine sites, all fully occupied. \\item \\href{current_web_home_dir/AB12C_aP14_2_b_6i_c-001}{$\\gamma$-CuZrF$_{6}$} is stable below 353K.  Again each fluorine site is only half-filled. \\end{itemize} \n Although the other entries for CuZrF$_{6}$ have ICSD entries, the $\\alpha$' phase does not."

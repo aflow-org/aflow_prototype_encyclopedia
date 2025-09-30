@@ -1,0 +1,58 @@
+{
+    "uid": "31E6",
+    "label": "AB2C6_tP18_113_c_2c_3e-001",
+    "alias": null,
+    "title": "Tetragonal FeNb$_{2}$O$_{6}$ Structure",
+    "icsd": 47187,
+    "ccdc": 1614495,
+    "prototype": "FeNb2O6",
+    "prototype_tex": "FeNb$_{2}$O$_{6}$",
+    "number_of_species": 3,
+    "elements": [
+	"Fe",
+	"Nb",
+	"O"
+    ],
+    "pearson_symbol": "tP18",
+    "space_group_number": 113,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
+	"a",
+	"c/a",
+	"z1",
+	"z2",
+	"z3",
+	"x4",
+	"z4",
+	"x5",
+	"z5",
+	"x6",
+	"z6"
+    ],
+    "parameter_values": [
+	4.727,
+	1.950286,
+	0.2441,
+	-0.0804,
+	0.5858,
+	0.2975,
+	0.7975,
+	-0.0886,
+	0.3032,
+	0.8032,
+	0.2559,
+	0.2997,
+	0.7997,
+	0.5798
+    ],
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "Li(Nb,W)O$_{6}$"
+    ],
+    "legacy": false,
+    "notes": "Tetragonal",
+    "comments": "FeNb$_{2}$O$_{6}$ can also be found as \\href{current_web_home_dir/AB2C6_oP36_60_c_d_3d-001}{columbite, $E5_{1}$}. \n The (2c) sites are all combinations of iron and niobium with compositions Fe$_{0.43}$Nb$_{57}$, Fe$_{0.39}$Nb$_{0.61}$ and Fe$_{0.18}$Nb$_{0.82}$, respectively.  We arbitrarily list the first one as Fe and the second and third as Nb to preserve the stoichiometry."
+}

@@ -16,18 +16,20 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "x2",
-        "y2",
-        "z2"
+	"a",
+	"x2",
+	"y2",
+	"z2"
     ],
     "parameter_values": [
-        15.48,
-        0.543,
-        0.638,
-        0.278
+	15.48,
+	0.543,
+	0.638,
+	0.278
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "({\\em Obsolete})",
     "comments": "(Kirckpatrick, 1926) did not find the locations of the hydrogen atoms.  When these were located by (Mullica, 1980) it was found that the true structure is in \\href{current_web_home_dir/A12B6C_cF608_210_4h_2h_e-001}{space group $F4_{1}32$ \\#210}."

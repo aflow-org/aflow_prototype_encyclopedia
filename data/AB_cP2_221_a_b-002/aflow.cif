@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/AB_cP2_221_a_b-002
 
 # Last updated on 2024/08/01
-data_Cl1Cs1
-_pd_phase_name Cl1Cs1
+data_CsCl
+_pd_phase_name CsCl
 _cell_length_a  4.0792500000
 _cell_length_b  4.0792500000
 _cell_length_c  4.0792500000

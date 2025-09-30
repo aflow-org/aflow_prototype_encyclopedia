@@ -1,0 +1,53 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  UMo5O16 (monoclinic)
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A5B16C_mP22_3_a2e_ab7e_b-001
+
+# Last updated on 2024/07/30
+
+data_A5B16C_mP22_3_a2e_ab7e_b-001
+_pd_phase_name A5B16C_mP22_3_a2e_ab7e_b-001
+_cell_length_a  12.2533038137
+_cell_length_b  4.1340000000
+_cell_length_c  7.1823000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  126.0841711920
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P2'
+_symmetry_Int_Tables_Number  3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y,-z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Mo1 1.0000000000 0.0000000000 0.8919000000 0.0000000000  Biso 1.0 Mo 1 a
+O2  1.0000000000 0.0000000000 0.4800000000 0.0000000000  Biso 1.0 O 1 a
+O3  1.0000000000 0.0000000000 0.4990000000 0.5000000000  Biso 1.0 O 1 b
+U4  1.0000000000 0.0000000000 0.0000000000 0.5000000000  Biso 1.0 U 1 b
+Mo5 1.0000000000 0.3199000000 0.8997000000 0.0688000000  Biso 1.0 Mo 2 e
+Mo6 1.0000000000 0.6802000000 0.0939000000 0.4302000000  Biso 1.0 Mo 2 e
+O7  1.0000000000 0.1250000000 0.9930000000 0.9240000000  Biso 1.0 O 2 e
+O8  1.0000000000 0.8770000000 0.9930000000 0.6780000000  Biso 1.0 O 2 e
+O9  1.0000000000 0.2500000000 0.0130000000 0.7500000000  Biso 1.0 O 2 e
+O10 1.0000000000 0.3490000000 0.9590000000 0.3470000000  Biso 1.0 O 2 e
+O11 1.0000000000 0.3200000000 0.4860000000 0.0670000000  Biso 1.0 O 2 e
+O12 1.0000000000 0.6860000000 0.4970000000 0.4370000000  Biso 1.0 O 2 e
+O13 1.0000000000 0.5010000000 0.0010000000 0.1920000000  Biso 1.0 O 2 e

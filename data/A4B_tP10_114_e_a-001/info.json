@@ -5,7 +5,7 @@
         "A4B_tP10_114_e_a"
     ],
     "title": "Pd$_{4}$Se Structure",
-    "icsd": "23864",
+    "icsd": 23864,
     "ccdc": null,
     "prototype": "Pd4Se",
     "prototype_tex": "Pd$_{4}$Se",
@@ -16,20 +16,24 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x2",
-        "y2",
-        "z2"
+	"a",
+	"c/a",
+	"x2",
+	"y2",
+	"z2"
     ],
     "parameter_values": [
-        5.2324,
-        1.07924,
-        0.626,
-        0.768,
-        0.846
+	5.2324,
+	1.07924,
+	0.626,
+	0.768,
+	0.846
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "Pd$_{4}$S"
+    ],
     "legacy": false,
     "notes": null,
     "comments": null

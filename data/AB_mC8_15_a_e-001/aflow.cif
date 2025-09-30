@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/AB_mC8_15_a_e-001
 
 # Last updated on 2024/08/01
-data_Cu4O4
-_pd_phase_name Cu4O4
+data_CuO
+_pd_phase_name CuO
 _cell_length_a  4.6837000000
 _cell_length_b  3.4226000000
 _cell_length_c  7.4969448476
@@ -44,5 +44,5 @@ loop_
  _atom_site_type_symbol
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
-Cu1 1.0000000000 -0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Cu 4 a
-O2 1.0000000000 0.0000000000 0.1684000000 0.2500000000  Biso 1.0 O 4 e
+Cu1 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Cu 4 a
+O2  1.0000000000 0.0000000000 0.1684000000 0.2500000000  Biso 1.0 O  4 e

@@ -16,14 +16,16 @@
     "strukturbericht_tex": null,
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "x1"
+	"a",
+	"x1"
     ],
     "parameter_values": [
-        4.1197,
-        0.1001
+	4.1197,
+	0.1001
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "BC8 Si",
     "comments": "This is a tetragonally bonded structure which packs more efficiently than diamond. See (Crain, 1995) and references therein. The reference compound chosen here, found in (Wentorf, 1963), is stable in the range 11-16 GPa. "

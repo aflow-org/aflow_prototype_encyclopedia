@@ -3,7 +3,7 @@
     "label": "A2B2C_tP10_131_j_l_f-001",
     "alias": null,
     "title": "LaB$_{2}$C$_{2}$ Structure",
-    "icsd": "23300",
+    "icsd": 23300,
     "ccdc": null,
     "prototype": "B2C2La",
     "prototype_tex": "B$_{2}$C$_{2}$La",
@@ -14,18 +14,35 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x2",
-        "x3"
+	"a",
+	"c/a",
+	"x2",
+	"x3"
     ],
     "parameter_values": [
-        3.8218,
-        2.07329,
-        0.274,
-        0.673
+	3.8218,
+	2.07329,
+	0.274,
+	0.673
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"CaB$_{2}$C$_{2}$",
+	"CeB$_{2}$C$_{2}$",
+	"DyB$_{2}$C$_{2}$",
+	"EuB$_{2}$C$_{2}$",
+	"GdB$_{2}$C$_{2}$",
+	"HoB$_{2}$C$_{2}$",
+	"LuB$_{2}$C$_{2}$",
+	"NdB$_{2}$C$_{2}$",
+	"PrB$_{2}$C$_{2}$",
+	"SmB$_{2}$C$_{2}$",
+	"TbB$_{2}$C$_{2}$",
+	"TmB$_{2}$C$_{2}$",
+	"YB$_{2}$C$_{2}$",
+	"YbB$_{2}$C$_{2}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "(Bauer, 1980) placed this structure in space group $P\\overline{4}2c$ \\#112, with lanthanum atoms at the (2a) Wyckoff site, boron at (4h), and carbon at (4i).  (Cenzual, 1991) showed that these Wyckoff positions imply an inversion site not present in $P\\overline{4}2c$, and so the true space group is $P4_{2}/mmc$ \\#131."

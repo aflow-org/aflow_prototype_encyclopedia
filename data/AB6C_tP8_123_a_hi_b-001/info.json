@@ -3,7 +3,7 @@
     "label": "AB6C_tP8_123_a_hi_b-001",
     "alias": null,
     "title": "CePdGa$_{6}$ Structure",
-    "icsd": "240161",
+    "icsd": 240161,
     "ccdc": null,
     "prototype": "CeGa6Pd",
     "prototype_tex": "CeGa$_{6}$Pd",
@@ -14,18 +14,23 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z3",
-        "z4"
+	"a",
+	"c/a",
+	"z3",
+	"z4"
     ],
     "parameter_values": [
-        4.35,
-        1.82115,
-        0.15149,
-        0.32935
+	4.35,
+	1.82115,
+	0.15149,
+	0.32935
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"LaPdGa$_{6}$",
+	"SrAu(Au$_{0.5}$Ga$_{0.5}$)$_{2}$Ga$_{4}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "The \\href{http://materials.springer.com/}{Springer Materials website} gives SrAu(Au$_{0.5}$Ga$_{0.5}$)$_{2}$Ga$_{4}$ as the prototype, but we have chosen to use the stoichiometric CeGa$_{6}$Pd version."

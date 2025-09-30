@@ -3,7 +3,7 @@
     "label": "A5B6_hP22_194_ach_gh-001",
     "alias": null,
     "title": "Hexagonal Ti$_{6}$Sn$_{5}$ Structure",
-    "icsd": "660295",
+    "icsd": 660295,
     "ccdc": null,
     "prototype": "Sn5Ti6",
     "prototype_tex": "Sn$_{5}$Ti$_{6}$",
@@ -14,18 +14,22 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x4",
-        "x5"
+	"a",
+	"c/a",
+	"x4",
+	"x5"
     ],
     "parameter_values": [
-        9.22,
-        0.617137,
-        0.795,
-        0.165
+	9.22,
+	0.617137,
+	0.795,
+	0.165
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"V$_{6}$Ga$_{5}$"
+    ],
     "legacy": false,
     "notes": "Hexagonal",
     "comments": "Hexagonal Ti$_{6}$Sn$_{5}$ coexists with orthorhombic Ti$_{6}$Sn$_{5}$, which takes on the \\href{current_web_home_dir/A6B5_oI44_71_egkl_fghl-001}{Nb$_{6}$Sn$_{5}$ structure}. (Oni, 2014) \n (van Vucht, 1964) state that the Sn-I atom is on the (4b) Wyckoff position, but the coordinates given are for the (2a) position.  This fits with their figure of the structure, although the atoms they label at height ``1/4'' should be at zero and {\\em vice versa}."

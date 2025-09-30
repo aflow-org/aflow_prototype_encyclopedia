@@ -14,16 +14,21 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "x3",
-        "x4"
+	"a",
+	"x3",
+	"x4"
     ],
     "parameter_values": [
-        5.859,
-        0.309,
-        0.384
+	5.859,
+	0.309,
+	0.384
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"Ag$_{2}$Te (HT)",
+	"Cu$_{1.8}$S"
+    ],
     "legacy": false,
     "notes": "HT",
     "comments": "Cu$_{2}$Se exists in two forms: \\begin{itemize} \\item A \\href{current_web_home_dir/A2B_mC144_15_12f_6f-001}{low-temperature layered monoclinic structure}, and \\item this high-temperature (above $\\approx$ 400K) \\href{current_web_home_dir/A18B_cF76_225_c2f_a-001}{highly disordered superionic cubic structure}. \\end{itemize} ~ \\vspace{-.25in} \n The data for the rhombohedral phase was taken at room temperature, while the high temperature structure was examined at 415K. \n All of the copper sites in the high temperature phase are partially occupied, with the copper atoms averaging to the positions of the \\href{current_web_home_dir/AB2_cF12_225_a_c-001}{fluorite ($C1$) structure}. \n The Cu-I (8c) site has 31\\% occupancy; the Cu-II (32f) site has 14\\% occupancy; and the Cu-III (32f) site has 3\\% occupancy."

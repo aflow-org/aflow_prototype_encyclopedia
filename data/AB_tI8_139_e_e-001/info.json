@@ -5,29 +5,33 @@
         "AB_tI8_139_e_e"
     ],
     "title": "Calomel (Hg$_{2}$Cl$_{2}$, $D3_{1}$) Structure",
-    "icsd": "65441",
+    "icsd": 65441,
     "ccdc": null,
     "prototype": "ClHg",
     "prototype_tex": "ClHg",
     "number_of_species": 2,
     "pearson_symbol": "tI8",
     "space_group_number": 139,
-    "strukturbericht": "D3_1",
+    "strukturbericht": "D31",
     "strukturbericht_tex": "$D3_{1}$",
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z1",
-        "z2"
+	"a",
+	"c/a",
+	"z1",
+	"z2"
     ],
     "parameter_values": [
-        4.4795,
-        2.43451,
-        0.3356,
-        0.119
+	4.4795,
+	2.43451,
+	0.3356,
+	0.119
     ],
-    "compounds": {},
+    "mineral_name": "calomel",
+    "minerals": null,
+    "compounds": [
+        "Hg$_{2}$I$_{2}$"
+    ],
     "legacy": false,
     "notes": "$D3_{1}$, Calomel",
     "comments": null

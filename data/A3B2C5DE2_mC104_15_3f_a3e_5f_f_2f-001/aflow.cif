@@ -1,0 +1,62 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+
+# Chemical Composition:  Mg2Si2O5(OH)(H2O)1.86 (Vermiculite)
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A3B2C5DE2_mC104_15_3f_a3e_5f_f_2f-001 
+
+# Last updated on 2025/01/31
+
+data_Mg2Si2O5(OH)(H2O)1.86
+_pd_phase_name Mg2Si2O5(OH)(H2O)1.86
+_cell_length_a  5.3490000000
+_cell_length_b  9.2550000000
+_cell_length_c  28.8900000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  97.1200000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'C2/c'
+_symmetry_Int_Tables_Number  15
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y,-z+1/2
+  3  -x,-y,-z
+  4  x,-y,z+1/2
+  5  x+1/2,y+1/2,z
+  6  -x+1/2,y+1/2,-z+1/2
+  7  -x+1/2,-y+1/2,-z
+  8  x+1/2,-y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Mg4  1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Mg  4 a
+Mg5  1.0000000000 0.0000000000 0.1638000000 0.2500000000  Biso 1.0 Mg  4 e
+Mg6  1.0000000000 0.0000000000 0.4997000000 0.2500000000  Biso 1.0 Mg  4 e
+Mg7  1.0000000000 0.0000000000 0.8332000000 0.2500000000  Biso 1.0 Mg  4 e
+H2O1 1.0000000000 0.3363000000 0.9736000000 0.0397000000  Biso 1.0 H2O 8 f
+H2O2 1.0000000000 0.8515000000 0.8274000000 0.0412000000  Biso 1.0 H2O 8 f
+H2O3 1.0000000000 0.8832000000 0.1520000000 0.0414000000  Biso 1.0 H2O 8 f
+O8   1.0000000000 0.1424000000 0.0039000000 0.2132000000  Biso 1.0 O   8 f
+O9   1.0000000000 0.6410000000 0.1683000000 0.2123000000  Biso 1.0 O   8 f
+O10  1.0000000000 0.3579000000 0.0697000000 0.1338000000  Biso 1.0 O   8 f
+O11  1.0000000000 0.8529000000 0.0964000000 0.1346000000  Biso 1.0 O   8 f
+O12  1.0000000000 0.5593000000 0.3316000000 0.1339000000  Biso 1.0 O   8 f
+OH13 1.0000000000 0.6420000000 0.8380000000 0.2129000000  BisOH 1.0 OH  8 f
+Si14 1.0000000000 0.1042000000 0.9997000000 0.1545000000  Biso 1.0 Si  8 f
+Si15 1.0000000000 0.6026000000 0.1647000000 0.1547000000  Biso 1.0 Si  8 f

@@ -12,8 +12,8 @@
 
 # Last updated on 2024/08/01
 
-data_Fe3Na3O6
-_pd_phase_name Fe3Na3O6
+data_FeNaO2
+_pd_phase_name FeNaO2
 _cell_length_a  3.0250000000
 _cell_length_b  3.0250000000
 _cell_length_c  16.1120000000
@@ -74,4 +74,4 @@ loop_
  _atom_site_Wyckoff_label
 Fe1 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Fe 3 a
 Na2 1.0000000000 0.0000000000 0.0000000000 0.5000000000  Biso 1.0 Na 3 b
-O3 1.0000000000 0.0000000000 0.0000000000 0.2664000000  Biso 1.0 O 6 c
+O3  1.0000000000 0.0000000000 0.0000000000 0.2664000000  Biso 1.0 O  6 c

@@ -3,7 +3,7 @@
     "label": "AB2_hR3_160_a_2a-001",
     "alias": null,
     "title": "Rhombohedral MoS$_{2}$ Structure",
-    "icsd": "43695",
+    "icsd": 43695,
     "ccdc": null,
     "prototype": "MoS2",
     "prototype_tex": "MoS$_{2}$",
@@ -14,20 +14,26 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x1",
-        "x2",
-        "x3"
+	"a",
+	"c/a",
+	"x1",
+	"x2",
+	"x3"
     ],
     "parameter_values": [
-        3.17,
-        5.79812,
-        0.0,
-        0.25,
-        0.41667
+	3.17,
+	5.79812
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"MoN$_{2}$",
+	"NbS$_{2}$",
+	"NbSe$_{2}$",
+	"TaS$_{2}$",
+	"TaSe$_{2}$",
+	"WS$_{2}$"
+    ],
     "legacy": false,
     "notes": "Rhombohedral MoS$_{2}$",
     "comments": "MoS$_{2}$ exists naturally in two forms: this rhombohedral structure, and the \\href{current_web_home_dir/AB2_hP6_194_c_f-001}{the hexagonal structure, molybdenite, {\\em Strukturbericht} $C7$}.  The two structures differ due to the stacking of the MoS$_{2}$ layers. \n Depending on the preparation method, MoS$_{2}$ can exist in other forms, including a \\href{current_web_home_dir/AB2_hP12_143_ad_bc2d-001}{trigonal structure}. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."

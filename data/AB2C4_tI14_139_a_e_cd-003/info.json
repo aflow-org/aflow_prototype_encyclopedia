@@ -3,7 +3,7 @@
     "label": "AB2C4_tI14_139_a_e_cd-003",
     "alias": null,
     "title": "(T') Nd$_{2}$CuO$_{4}$ Structure",
-    "icsd": "69886",
+    "icsd": 69886,
     "ccdc": null,
     "prototype": "CuNd2O4",
     "prototype_tex": "CuNd$_{2}$O$_{4}$",
@@ -14,16 +14,24 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z4"
+	"a",
+	"c/a",
+	"z4"
     ],
     "parameter_values": [
-        3.935,
-        3.08513,
-        0.3516
+	3.935,
+	3.08513,
+	0.3516
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"Eu$_{2}$CuO$_{4}$",
+	"Gd$_{2}$CuO$_{4}$",
+	"La$_{2}$CuO$_{4}$",
+	"Pr$_{2}$CuO$_{4}$",
+	"Sm$_{2}$CuO$_{4}$"
+    ],
     "legacy": false,
     "notes": "(T') Nd$_{2}$CuO$_{4}$",
     "comments": "This is often referred to as the `T'-' phase of the RE$_{2}$CuO$_{4}$ compounds. \n Lattice constants were determined at 80 mK.  The value of $z_{4}$ for the neodymium atom was determined at 0.5K."

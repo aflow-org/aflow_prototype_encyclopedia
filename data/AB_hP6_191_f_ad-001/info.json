@@ -5,8 +5,8 @@
         "AB_hP6_191_f_ad"
     ],
     "title": "CoSn ($B35$) Structure",
-    "icsd": "55564",
-    "ccdc": null,
+    "icsd": 55564,
+    "ccdc": 1619877,
     "prototype": "CoSn",
     "prototype_tex": "CoSn",
     "number_of_species": 2,
@@ -16,15 +16,25 @@
     "strukturbericht_tex": "$B35$",
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a"
+	"a",
+	"c/a"
     ],
     "parameter_values": [
-        5.279,
-        0.806914
+	5.279,
+	0.806914
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "CoGe",
+        "FeGe",
+        "FeSn",
+        "PbRh",
+        "NTa",
+        "PtTl",
+        "InNi"
+    ],
     "legacy": false,
     "notes": "$B35$",
-    "comments": null
+    "comments": "The ternary form of this structure is \\href{current_web_home_dir/A3BC2_hP6_191_f_a_d-001}{Ti$_{2}$TaN$_{3}$}."
 }

@@ -3,7 +3,7 @@
     "label": "A3B2C2_tI28_122_ad_c_d-001",
     "alias": null,
     "title": "Mn$_{1.4}$PtSn Structure",
-    "icsd": "11061",
+    "icsd": 11061,
     "ccdc": null,
     "prototype": "Mn1.4PtSn",
     "prototype_tex": "Mn$_{1.4}$PtSn",
@@ -14,20 +14,22 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z2",
-        "x3",
-        "x4"
+	"a",
+	"c/a",
+	"z2",
+	"x3",
+	"x4"
     ],
     "parameter_values": [
-        6.3651,
-        1.91992,
-        0.23488,
-        0.7282,
-        0.27875
+	6.3651,
+	1.91992,
+	0.23488,
+	0.7282,
+	0.27875
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": null,
     "comments": "(Vir, 2019) found that the Mn (4a) site (in the layer with the platinum (8c) atoms) has 20\\% vacancies, giving the noted departure from the nominal Mn$_{3}$Pt$_{2}$Sn$_{2}$ stoichiometry."

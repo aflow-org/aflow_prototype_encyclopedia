@@ -5,7 +5,7 @@
         "AB_cP6_221_c_d"
     ],
     "title": "NbO Structure",
-    "icsd": "14338",
+    "icsd": 14338,
     "ccdc": null,
     "prototype": "NbO",
     "prototype_tex": "NbO",
@@ -16,12 +16,17 @@
     "strukturbericht_tex": null,
     "part": 1,
     "parameter_symbols": [
-        "a"
+	"a"
     ],
     "parameter_values": [
-        4.2101
+	4.2101
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "NaS",
+        "KS"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "This is the \\href{current_web_home_dir/AB_cF8_225_a_b-001}{NaCl ($B1$) structure} with 25\\% ordered vacancies on both the Na and Cl sites. \n At times we incorrectly referred to this structure as NaO."

@@ -5,8 +5,8 @@
         "AB_tP4_129_a_c"
     ],
     "title": "Litharge (tetragonal PbO, $B10$) Structure",
-    "icsd": "62840",
-    "ccdc": null,
+    "icsd": 62840,
+    "ccdc": 1626021,
     "prototype": "OPb",
     "prototype_tex": "OPb",
     "number_of_species": 2,
@@ -16,16 +16,27 @@
     "strukturbericht_tex": "$B10$",
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z2"
+	"a",
+	"c/a",
+	"z2"
     ],
     "parameter_values": [
-        3.9645,
-        1.26008,
-        0.2368
+	3.9645,
+	1.26008,
+	0.2368
     ],
-    "compounds": {},
+    "mineral_name": "litharge",
+    "minerals": {
+        "litharge": "OPb",
+        "mackinawite": "FeS"
+    },
+    "compounds": [
+        "BiIn",
+        "FeS (mackinawite)",
+        "FeSe",
+        "SnO",
+        "TlF-I"
+    ],
     "legacy": false,
     "notes": "$B10$, Litharge",
     "comments": "This is the tetragonal room temperature form reported by (Boher, 1985), with data taken at 77.6K. They claim a transformation to the \\href{current_web_home_dir/AB_oC8_67_a_g-002}{orthorhombic $\\alpha$-PbO phase} below 77K. See the discuss of the problems with this transition on the \\href{current_web_home_dir/AB_oC8_67_a_g-002}{$\\alpha$-PbO} page. \n  This structure is the binary version of the \\href{current_web_home_dir/A_tP4_129_ac-001}{$A_{d}$ ($\\beta$-Np) structure}."

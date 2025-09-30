@@ -3,7 +3,7 @@
     "label": "A2BC2DE7_tP13_123_g_b_h_c_ahi-001",
     "alias": null,
     "title": "HgBa$_{2}$CaCu$_{2}$O$_{6+\\delta}$ Structure",
-    "icsd": "74142",
+    "icsd": 74142,
     "ccdc": null,
     "prototype": "Ba2CaCu2HgO7",
     "prototype_tex": "Ba$_{2}$CaCu$_{2}$HgO$_{7}$",
@@ -14,22 +14,26 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z4",
-        "z5",
-        "z6",
-        "z7"
+	"a",
+	"c/a",
+	"z4",
+	"z5",
+	"z6",
+	"z7"
     ],
     "parameter_values": [
-        3.8525,
-        3.28415,
-        0.2216,
-        0.3771,
-        0.1565,
-        0.3772
+	3.8525,
+	3.28415,
+	0.2216,
+	0.3771,
+	0.1565,
+	0.3772
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"TlBa$_{2}$CaCu$_{2}$O$_{6+\\delta}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "We use the data of (Huang, 1993) taken at 10K. \n The O-I (1c) site, in the layer with the mercury atoms, is fractionally occupied, with $\\delta = 0.219$ for the present sample. \n (Huang, 1993) refer to the (2i) Wyckoff position for the O-III site, but this should be (4i). \n (Villars, 2016) give TlBa$_{2}$CaCu$_{2}$O$_{6+\\delta}$ as the prototype for this system, but we can find no information for that structure, even in that reference."

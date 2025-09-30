@@ -5,7 +5,7 @@
         "AB2_cF48_227_c_e"
     ],
     "title": "Ti$_{2}$C Structure",
-    "icsd": "77473",
+    "icsd": 77473,
     "ccdc": null,
     "prototype": "CTi2",
     "prototype_tex": "CTi$_{2}$",
@@ -16,14 +16,21 @@
     "strukturbericht_tex": null,
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "x2"
+	"a",
+	"x2"
     ],
     "parameter_values": [
-        8.6,
-        0.245
+	8.6,
+	0.245
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "Ca$_{33}$Ge",
+        "MnBr$_{2}$",
+        "SnS$_{2}$",
+        "TiS$_{2}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "Some sources consider the real prototype of this system to be Ca$_{33}$Ge, with the (32e) sites occupied by calcium atoms and the (16c) sites randomly occupied by calcium and germanium atoms."

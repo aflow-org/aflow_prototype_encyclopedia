@@ -5,7 +5,7 @@
         "A4B_cI10_229_c_a"
     ],
     "title": "$\\beta$-Hg$_{4}$Pt Structure",
-    "icsd": "150772",
+    "icsd": 150772,
     "ccdc": null,
     "prototype": "Hg4Pt",
     "prototype_tex": "Hg$_{4}$Pt",
@@ -16,12 +16,18 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a"
+	"a"
     ],
     "parameter_values": [
-        6.186
+	6.186
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"Hg$_{4}$Ni",
+	"Hg$_{4}$Pd",
+	"Hg$_{4}$U"
+    ],
     "legacy": false,
     "notes": "$\\beta$-Hg$_{4}$Pt",
     "comments": "(Bauer, 1953) give the lattice constant in kX units.  We convert this to {\\AA}ngstr\\\"{o}ms by multiplying that number by 1.00202 (Wood, 1947)."

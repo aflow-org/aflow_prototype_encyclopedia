@@ -3,7 +3,7 @@
     "label": "A3B_tP16_136_cj_f-001",
     "alias": null,
     "title": "IrIn$_{3}$ Structure",
-    "icsd": "407548",
+    "icsd": 407548,
     "ccdc": null,
     "prototype": "In3Ir",
     "prototype_tex": "In$_{3}$Ir",
@@ -14,20 +14,31 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x2",
-        "x3",
-        "z3"
+	"a",
+	"c/a",
+	"x2",
+	"x3",
+	"z3"
     ],
     "parameter_values": [
-        6.9933,
-        1.02824,
-        0.3452,
-        0.15178,
-        0.25556
+	6.9933,
+	1.02824,
+	0.3452,
+	0.15178,
+	0.25556
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"CoGa$_{3}$",
+	"CoIn$_{3}$",
+	"FeGa$_{3}$",
+	"OsGa$_{3}$",
+	"RhGa$_{3}$",
+	"RhIn$_{3}$",
+	"RuGa$_{3}$",
+	"RuIn$_{3}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": null

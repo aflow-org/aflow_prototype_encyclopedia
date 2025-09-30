@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/A_hR1_166_a-002
 
 # Last updated on 2024/08/01
-data_Hg3
-_pd_phase_name Hg3
+data_Hg
+_pd_phase_name Hg
 _cell_length_a  3.4574100000
 _cell_length_b  3.4574100000
 _cell_length_c  6.6634000000

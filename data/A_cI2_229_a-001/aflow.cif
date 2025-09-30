@@ -6,14 +6,14 @@
 # Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
 # Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
 
-# Chemical Composition:  W A2
+# Chemical Composition:  W A2 (bcc crystal)
 
 # The current version of this file is available at
 # https://aflow.org/prototype-encyclopedia/A_cI2_229_a-001
 
 # Last updated on 2024/08/01
-data_W2
-_pd_phase_name W2
+data_W
+_pd_phase_name W
 _cell_length_a  3.1550000000
 _cell_length_b  3.1550000000
 _cell_length_c  3.1550000000

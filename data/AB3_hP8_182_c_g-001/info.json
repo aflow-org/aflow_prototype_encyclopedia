@@ -16,16 +16,20 @@
     "strukturbericht_tex": null,
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x2"
+	"a",
+	"c/a",
+	"x2"
     ],
     "parameter_values": [
-        4.8507,
-        0.866968,
-        0.324903
+	4.8507,
+	0.866968,
+	0.324903
     ],
-    "compounds": {},
+    "mineral_name": "bainite",
+    "minerals": null,
+    "compounds": [
+        "$\\epsilon$-Fe$_{3}$N"
+    ],
     "legacy": false,
     "notes": "Bainite",
     "comments": "Strictly speaking, bainite is a microstructure. However, (Villars, 1991) Vol. II, p. 1894, refers to this crystal structure as upper bainite, and (Villars, 2014) refers to this as bainite."

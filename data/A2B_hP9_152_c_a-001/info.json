@@ -4,8 +4,8 @@
     "alias": [
         "A2B_hP9_152_c_a"
     ],
-    "title": "$\\alpha$-Quartz (low Quartz) Structure",
-    "icsd": "67121",
+    "title": "$\\alpha$ (low) Quartz (SiO$_{2}$) Structure",
+    "icsd": 67121,
     "ccdc": null,
     "prototype": "O2Si",
     "prototype_tex": "O$_{2}$Si",
@@ -16,23 +16,27 @@
     "strukturbericht_tex": null,
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x1",
-        "x2",
-        "y2",
-        "z2"
+	"a",
+	"c/a",
+	"x1",
+	"x2",
+	"y2",
+	"z2"
     ],
     "parameter_values": [
-        4.914,
-        1.10012,
-        0.5301,
-        0.1462,
-        0.413,
-        0.88067
+	4.914,
+	1.100122,
+	0.4699,
+	0.413,
+	0.2668,
+	0.2140
     ],
-    "compounds": {},
+    "mineral_name": "quartz",
+    "minerals": null,
+    "compounds": [
+        "GeO$_{2}$"
+    ],
     "legacy": false,
     "notes": "$\\alpha$-Quartz",
-    "comments": "When $x_{1}=1/2$, $y_{2}=2x_{2}$, and $z_{2}=1/2$ this tranforms into the \\href{current_web_home_dir/A2B_hP9_180_i_d-001}{high $\\beta$-quartz ($C8$)} structure. This structure can also be found in the enantiomorphic space group $P3_{2}21$ \\#154."
+    "comments": "When $x_{1}=1/2$, $y_{2}=2x_{2}$, and $z_{2}=1/2$ this transforms into the \\href{current_web_home_dir/A2B_hP9_180_i_d-001}{high $\\beta$-quartz ($C8$)} structure, with the phase transformation occuring at 573$^{\\circ}$C (Wright, 1981). \n This structure can also be found in the enantiomorphic space group $P3_{2}21$ \\#154. \n More information about SiO$_{2}$ structures can be found in our article on \\href{current_web_home_dir/Tutorials/SiO2_AlPO4}{SiO$_{2}$ and AlPO$_{4}$}."
 }

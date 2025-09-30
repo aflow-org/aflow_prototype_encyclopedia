@@ -12,8 +12,8 @@
 
 # Last updated on 2024/08/01
 
-data_Co24O32
-_pd_phase_name Co24O32
+data_Co3O4
+_pd_phase_name Co3O4
 _cell_length_a  8.0835000000
 _cell_length_b  8.0835000000
 _cell_length_c  8.0835000000
@@ -228,6 +228,6 @@ loop_
  _atom_site_type_symbol
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
-Co1 1.0000000000 0.1250000000 0.1250000000 0.1250000000  Biso 1.0 Co 8 a
+Co1 1.0000000000 0.1250000000 0.1250000000 0.1250000000  Biso 1.0 Co  8 a
 Co2 1.0000000000 0.5000000000 0.5000000000 0.5000000000  Biso 1.0 Co 16 d
-O3 1.0000000000 0.2642000000 0.2642000000 0.2642000000  Biso 1.0 O 32 e
+O3  1.0000000000 0.2642000000 0.2642000000 0.2642000000  Biso 1.0 O  32 e

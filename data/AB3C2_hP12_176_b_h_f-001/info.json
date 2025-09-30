@@ -3,7 +3,7 @@
     "label": "AB3C2_hP12_176_b_h_f-001",
     "alias": null,
     "title": "LaRu$_{3}$Si$_{2}$ Structure",
-    "icsd": "100785",
+    "icsd": 100785,
     "ccdc": null,
     "prototype": "LaRu3Si2",
     "prototype_tex": "LaRu$_{3}$Si$_{2}$",
@@ -14,20 +14,27 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z2",
-        "x3",
-        "y3"
+	"a",
+	"c/a",
+	"z2",
+	"x3",
+	"y3"
     ],
     "parameter_values": [
-        5.676,
-        1.2544,
-        0.5,
-        0.48,
-        0.01
+	5.676,
+	1.2544,
+	0.5,
+	0.48,
+	0.01
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "CeRu$_{3}$Si$_{2}$",
+        "NdRu$_{3}$Si$_{2}$",
+        "ThRu$_{3}$Si$_{2}$",
+        "YRu$_{3}$Si$_{2}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "(Vandenberg, 1980) give the coordinates $z_{2} \\approx 0$ (Si) and $x_{3} \\approx 1/2, y_{3} \\approx 0$ (Ru).  Using these values would make the space group $P6/mmm$ \\#191, with the unit cell half the size of the correct cell.  Accordingly we offset these coordinates slightly, keeping the distances between atoms consistent with the values given by (Vandenberg, 1980)."

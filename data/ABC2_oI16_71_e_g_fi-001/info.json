@@ -5,7 +5,7 @@
         "ABC2_oI16_71_g_i_eh"
     ],
     "title": "CsFeS$_{2}$ (100K) Structure",
-    "icsd": "53234",
+    "icsd": 53234,
     "ccdc": null,
     "prototype": "CsFeS2",
     "prototype_tex": "CsFeS$_{2}$",
@@ -16,24 +16,28 @@
     "strukturbericht_tex": null,
     "part": 3,
     "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "x1",
-        "x2",
-        "y3",
-        "z4"
+	"a",
+	"b/a",
+	"c/a",
+	"x1",
+	"x2",
+	"y3",
+	"z4"
     ],
     "parameter_values": [
-        11.85,
-        0.457384,
-        0.598312,
-        0.67,
-        0.852,
-        0.249,
-        0.744
+	11.85,
+	0.457384,
+	0.598312,
+	0.67,
+	0.852,
+	0.249,
+	0.744
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "RbFeS$_{2}$"
+    ],
     "legacy": false,
     "notes": "Stable above 100K",
     "comments": "This structure is stable at 100K and above.  At 40K the structure is triclinic, with as yet undetermined atomic positions. (Ito, 1985)"

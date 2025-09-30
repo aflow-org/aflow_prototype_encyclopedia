@@ -5,8 +5,8 @@
         "AB_hP6_154_a_b"
     ],
     "title": "Cinnabar (HgS, $B9$) Structure",
-    "icsd": "70054",
-    "ccdc": null,
+    "icsd": 70054,
+    "ccdc": 1631878,
     "prototype": "HgS",
     "prototype_tex": "HgS",
     "number_of_species": 2,
@@ -16,18 +16,24 @@
     "strukturbericht_tex": "$B9$",
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x1",
-        "x2"
+	"a",
+	"c/a",
+	"x1",
+	"x2"
     ],
     "parameter_values": [
-        4.145,
-        2.29095,
-        0.7198,
-        0.4889
+	4.145,
+	2.29095,
+	0.7198,
+	0.4889
     ],
-    "compounds": {},
+    "mineral_name": "cinnabar",
+    "minerals": {
+	"cinnabar":"HgS"
+    },
+    "compounds": [
+        "HgO"
+    ],
     "legacy": false,
     "notes": "$B9$, Cinnabar",
     "comments": "As space group $P3_{1}21$ \\#152 is enantiomorphic to $P3_{2}21$ \\#154, it should be possible to find HgS in that space group as well."

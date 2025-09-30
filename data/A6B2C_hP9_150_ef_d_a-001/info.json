@@ -3,7 +3,7 @@
     "label": "A6B2C_hP9_150_ef_d_a-001",
     "alias": null,
     "title": "$\\beta$-Na$_{2}$ThF$_{6}$ Structure",
-    "icsd": "418148",
+    "icsd": 418148,
     "ccdc": null,
     "prototype": "F6Na2Th",
     "prototype_tex": "F$_{6}$Na$_{2}$Th",
@@ -14,20 +14,24 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z2",
-        "x3",
-        "x4"
+	"a",
+	"c/a",
+	"z2",
+	"x3",
+	"x4"
     ],
     "parameter_values": [
-        5.939,
-        0.642027,
-        0.558,
-        0.618,
-        0.251
+	5.939,
+	0.642027,
+	0.558,
+	0.618,
+	0.251
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"$\\beta_{2}$-K$_{2}$UF$_{6}$"
+    ],
     "legacy": false,
     "notes": "$\\beta$-Na$_{2}$ThF$_{6}$",
     "comments": "When $z_{2} = 1/2$ this transforms into $\\delta$-Na$_{2}$ThF$_{6}$ which has the hexagonal \\href{current_web_home_dir/A6B2C_hP9_189_fg_c_b-001}{$\\beta_{1}$-K$_{2}$UF$_{6}$ structure}. \n We use the data from (Grzechnik, 2007) taken at 100K and ambient pressure."

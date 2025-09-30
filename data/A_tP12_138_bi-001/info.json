@@ -16,18 +16,23 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x2",
-        "z2"
+	"a",
+	"c/a",
+	"x2",
+	"z2"
     ],
     "parameter_values": [
-        3.388,
-        1.7742,
-        0.086,
-        0.107
+	3.388,
+	1.7742,
+	0.086,
+	0.107
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "Ge",
+        "Si"
+    ],
     "legacy": false,
     "notes": "T12, Theory",
     "comments": "This is a tetragonal allotrope of the diamond structure found computationally in C, Si, and Ge. The authors state ``the T12 polymorph naturally accounts for the experimental $d$ spacings and Raman spectra of synthesized metastable Ge and Si-XIII phases with long-puzzling unknown structures, respectively.''"

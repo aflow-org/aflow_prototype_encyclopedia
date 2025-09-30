@@ -1,0 +1,71 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+
+# Chemical Composition:  AlPO4-54
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/AB2_hP108_193_kl_fg2ijl-001 
+
+# Last updated on 2025/02/21
+
+data_AlPO4-54
+_pd_phase_name AlPO4-54
+_cell_length_a  18.5490000000
+_cell_length_b  18.5490000000
+_cell_length_c  8.4040000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  120.0000000000
+_symmetry_space_group_name_H-M  'P6_{3}/mcm'
+_symmetry_Int_Tables_Number  193
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -y,x-y,z
+  3  -x+y,-x,z
+  4  -x,-y,z+1/2
+  5  y,-x+y,z+1/2
+  6  x-y,x,z+1/2
+  7  y,x,-z+1/2
+  8  x-y,-y,-z+1/2
+  9  -x,-x+y,-z+1/2
+  10  -y,-x,-z
+  11  -x+y,y,-z
+  12  x,x-y,-z
+  13  -x,-y,-z
+  14  y,-x+y,-z
+  15  x-y,x,-z
+  16  x,y,-z+1/2
+  17  -y,x-y,-z+1/2
+  18  -x+y,-x,-z+1/2
+  19  -y,-x,z+1/2
+  20  -x+y,y,z+1/2
+  21  x,x-y,z+1/2
+  22  y,x,z
+  23  x-y,-y,z
+  24  -x,-x+y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+O1  1.0000000000 0.5000000000 0.0000000000  0.0000000000  Biso 1.0 O   6 f
+O2  1.0000000000 0.5858000000 0.0000000000  0.2500000000  Biso 1.0 O   6 g
+O3  1.0000000000 0.5930000000 0.1860000000  0.0000000000  Biso 1.0 O  12 i
+O4  1.0000000000 0.2465000000 0.4930000000  0.0000000000  Biso 1.0 O  12 i
+O5  1.0000000000 0.8372000000 0.3428000000  0.2500000000  Biso 1.0 O  12 j
+Al6 1.0000000000 0.5815000000 0.0000000000  0.0533000000  Biso 1.0 Al 12 k
+Al7 1.0000000000 0.1739000000 0.6603000000 -0.0486000000  Biso 1.0 Al 24 l
+O8  1.0000000000 0.0843000000 0.6536000000 -0.0227000000  Biso 1.0 O  24 l

@@ -5,7 +5,7 @@
         "A3B3C2_hP16_187_jk_jk_ck"
     ],
     "title": "Cr-233 Quasi-One-Dimensional Superconductor (K$_{2}$Cr$_{3}$As$_{3}$) Structure",
-    "icsd": "35909",
+    "icsd": 35909,
     "ccdc": null,
     "prototype": "As3Cr3K2",
     "prototype_tex": "As$_{3}$Cr$_{3}$K$_{2}$",
@@ -16,24 +16,31 @@
     "strukturbericht_tex": null,
     "part": 3,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x2",
-        "x3",
-        "x4",
-        "x5",
-        "x6"
+	"a",
+	"c/a",
+	"x2",
+	"x3",
+	"x4",
+	"x5",
+	"x6"
     ],
     "parameter_values": [
-        9.9832,
-        0.423752,
-        0.500567,
-        0.756467,
-        0.834267,
-        0.579367,
-        0.205367
+	9.9832,
+	0.423752,
+	0.500567,
+	0.756467,
+	0.834267,
+	0.579367,
+	0.205367
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "Cs$_{2}$Cr$_{3}$As$_{3}$",
+        "K$_{2}$Mo$_{3}$As$_{3}$",
+        "Rb$_{2}$Cr$_{3}$As$_{3}$",
+        "Rb$_{2}$Mo$_{3}$As$_{3}$"
+    ],
     "legacy": false,
     "notes": "Quasi-1D Superconductor",
     "comments": "Cr-233 designates a class of structures of the form A$_{2}$B$_{2}$As$_{3}$, where the ``A'' atoms form one-dimensional chains.  Several of these compounds have been found to superconduct at temperatures on the order of 5-10K. \n The ICSD entry is for Rb$_{2}$Mo$_{3}$As$_{3}$ from (Zhao, 2020). The ICSD entry lists that as the prototype, but (Bao, 2015) obviously found K$_{2}$Cr$_{3}$As$_{3}$ earlier, so we continue using it as our prototype."

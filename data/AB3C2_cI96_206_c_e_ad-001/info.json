@@ -5,33 +5,42 @@
         "AB3C2_cI96_206_c_e_ad"
     ],
     "title": "AlLi$_{3}$N$_{2}$ ($E9_{d}$) Structure",
-    "icsd": "25565",
+    "icsd": 25565,
     "ccdc": null,
     "prototype": "AlLi3N2",
     "prototype_tex": "AlLi$_{3}$N$_{2}$",
     "number_of_species": 3,
     "pearson_symbol": "cI96",
     "space_group_number": 206,
-    "strukturbericht": "E9_d",
+    "strukturbericht": "E9d",
     "strukturbericht_tex": "$E9_{d}$",
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "x2",
-        "x3",
-        "x4",
-        "y4",
-        "z4"
+	"a",
+	"x2",
+	"x3",
+	"x4",
+	"y4",
+	"z4"
     ],
     "parameter_values": [
-        9.46,
-        0.115,
-        0.205,
-        0.16,
-        0.382,
-        0.11
+	9.46,
+	0.115,
+	0.205,
+	0.16,
+	0.382,
+	0.11
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "GaLi$_{3}$N$_{2}$",
+        "ScLi$_{3}$N$_{2}$",
+        "TiLi$_{3}$N$_{2}$",
+        "ZnLi$_{3}$N$_{2}$",
+        "SiLi$_{3}$N$_{2}$",
+        "GeLi$_{3}$N$_{2}$"
+    ],
     "legacy": false,
     "notes": "$E9_{d}$",
     "comments": null

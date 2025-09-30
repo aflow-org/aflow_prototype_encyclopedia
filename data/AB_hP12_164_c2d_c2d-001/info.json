@@ -5,7 +5,7 @@
         "AB_hP12_164_c2d_c2d"
     ],
     "title": "Nevskite (BiSe) Structure",
-    "icsd": "79019",
+    "icsd": 79019,
     "ccdc": null,
     "prototype": "BiSe",
     "prototype_tex": "BiSe",
@@ -16,26 +16,34 @@
     "strukturbericht_tex": null,
     "part": 3,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z1",
-        "z2",
-        "z3",
-        "z4",
-        "z5",
-        "z6"
+	"a",
+	"c/a",
+	"z1",
+	"z2",
+	"z3",
+	"z4",
+	"z5",
+	"z6"
     ],
     "parameter_values": [
-        4.212,
-        5.44682,
-        0.3727,
-        0.1279,
-        0.0419,
-        0.7959,
-        0.2797,
-        0.5596
+	4.212,
+	5.44682,
+	0.3727,
+	0.1279,
+	0.0419,
+	0.7959,
+	0.2797,
+	0.5596
     ],
-    "compounds": {},
+    "mineral_name": "nevskite",
+    "minerals": {
+        "tsumoite": "BiTe",
+        "ingodite": "Bi(S$_{0.56}$Te$_{0.44})$"
+    },
+    "compounds": [
+        "BiTe (tsumoite)",
+        "Bi(S$_{0.56}$Te$_{0.44}$) (ingodite)"
+    ],
     "legacy": false,
     "notes": "Nevskite",
     "comments": "The site Bi I actually has the composition (Bi$_{0.74}$Se$_{0.26}$), while the site Se II is actuall (Se$_{0.72}$,Bi$_{0.28}$)."

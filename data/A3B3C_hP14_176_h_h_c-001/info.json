@@ -5,7 +5,7 @@
         "A3B3C_hP14_176_h_h_c"
     ],
     "title": "TlFe$_{3}$Te$_{3}$ Structure",
-    "icsd": "100352",
+    "icsd": 100352,
     "ccdc": null,
     "prototype": "Fe3Te3Tl",
     "prototype_tex": "Fe$_{3}$Te$_{3}$Tl",
@@ -16,22 +16,35 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x2",
-        "y2",
-        "x3",
-        "y3"
+	"a",
+	"c/a",
+	"x2",
+	"y2",
+	"x3",
+	"y3"
     ],
     "parameter_values": [
-        9.35,
-        0.451658,
-        0.830003,
-        0.850997,
-        0.954003,
-        0.642997
+	9.35,
+	0.451658,
+	0.830003,
+	0.850997,
+	0.954003,
+	0.642997
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "CrSr$_{3}$N$_{3}$",
+        "CsMo$_{3}$Te$_{3}$",
+        "InMo$_{3}$Se$_{3}$",
+        "InMo$_{3}$Te$_{3}$",
+        "KMo$_{3}$Se$_{3}$",
+        "KMo$_{3}$Te$_{3}$",
+        "NaMo$_{3}$Se$_{3}$",
+        "RbMo$_{3}$Te$_{3}$",
+        "TlMo$_{3}$Se$_{3}$",
+        "TlMo$_{3}$Te$_{3}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": null

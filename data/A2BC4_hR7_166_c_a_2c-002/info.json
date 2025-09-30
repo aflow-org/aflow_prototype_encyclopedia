@@ -5,7 +5,7 @@
         "A2BC4_hR7_166_c_a_2c"
     ],
     "title": "MnBi$_{2}$Te$_{4}$ Structure",
-    "icsd": "37566",
+    "icsd": 37566,
     "ccdc": null,
     "prototype": "Bi2MnTe4",
     "prototype_tex": "Bi$_{2}$MnTe$_{4}$",
@@ -16,20 +16,28 @@
     "strukturbericht_tex": null,
     "part": 3,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x2",
-        "x3",
-        "x4"
+	"a",
+	"c/a",
+	"x2",
+	"x3",
+	"x4"
     ],
     "parameter_values": [
-        4.309,
-        9.44046,
-        0.4247,
-        0.1332,
-        0.294
+	4.309,
+	9.44046,
+	0.4247,
+	0.1332,
+	0.294
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "GeAs$_{2}$Te$_{4}$",
+        "MnSb$_{2}$Te$_{4}$",
+        "SSe$_{2}$Bi$_{4}$",
+        "Bi$_{3}$Se$_{4}$",
+        "Se$_{3}$Bi$_{4}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "We use the data taken at 10K.  Except for the magnetic ordering there is no substantial change in the structure up to room temperature. \n The ICSD entry is from the room-temperature measurements of (Aliev, 2019). \n This structure is nearly identical to \\href{current_web_home_dir/AB2C4_hR7_166_a_c_2c-002}{GeSb$_{2}$Te$_{4}$}, but the ordering of the tellurium atoms is different in the two cases."

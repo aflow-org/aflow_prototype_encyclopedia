@@ -5,8 +5,8 @@
         "A_hP2_194_c"
     ],
     "title": "Hexagonal Close Packed (Mg, $A3$, hcp) Structure",
-    "icsd": "608404",
-    "ccdc": null,
+    "icsd": 608404,
+    "ccdc": 1743051,
     "prototype": "Mg",
     "prototype_tex": "Mg",
     "number_of_species": 1,
@@ -16,14 +16,39 @@
     "strukturbericht_tex": "$A3$",
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a"
+	"a",
+	"c/a"
     ],
     "parameter_values": [
-        3.2093,
-        1.62359
+	3.2093,
+	1.62359
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "Be",
+        "Cd",
+        "Co",
+        "Dy",
+        "Er",
+	"$\\epsilon$-Fe",
+        "Gd",
+        "Hf",
+        "Ho",
+        "Lu",
+        "Os",
+        "Re",
+        "Ru",
+        "Sc",
+        "Tb",
+        "Tc",
+        "Ti",
+        "Tl",
+        "Tm",
+        "Y",
+        "Zn",
+        "Zr"
+    ],
     "legacy": false,
     "notes": "$A3$",
     "comments": "We use the `pure magnesium' lattice constants from (Batchelder, 1957), but the ICSD entry uses the data for Mg$_{0.976}$Al$_{0.024}$."

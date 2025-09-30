@@ -5,15 +5,15 @@
 # Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
 # Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
 # Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
-# Chemical Composition:  ClF3
+# Chemical Composition:  ClF3 (orthorhombic)
 
 # The current version of this file is available at
 # https://aflow.org/prototype-encyclopedia/AB3_oP16_62_c_cd-005
 
 # Last updated on 2024/08/01
 
-data_Cl4F12
-_pd_phase_name Cl4F12
+data_ClF3
+_pd_phase_name ClF3
 _cell_length_a  8.8200000000
 _cell_length_b  6.0900000000
 _cell_length_c  4.5200000000
@@ -45,5 +45,5 @@ loop_
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
 Cl1 1.0000000000 0.1582000000 0.2500000000 0.3790000000  Biso 1.0 Cl 4 c
-F2 1.0000000000 0.0422000000 0.2500000000 0.1010000000  Biso 1.0 F 4 c
-F3 1.0000000000 0.1517000000 0.5315000000 0.3634000000  Biso 1.0 F 8 d
+F2  1.0000000000 0.0422000000 0.2500000000 0.1010000000  Biso 1.0 F  4 c
+F3  1.0000000000 0.1517000000 0.5315000000 0.3634000000  Biso 1.0 F  8 d

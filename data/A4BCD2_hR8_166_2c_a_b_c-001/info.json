@@ -1,0 +1,57 @@
+{
+    "uid": "XPGS",
+    "label": "A4BCD2_hR8_166_2c_a_b_c-001",
+    "alias": null,
+    "title": "CeAuAl$_{4}$Ge$_{2}$ Structure",
+    "icsd": 415287,
+    "ccdc": 1729371,
+    "prototype": "Al4AuCeGe2",
+    "prototype_tex": "Al$_{4}$AuCeGe$_{2}$",
+    "number_of_species": 4,
+    "elements": [
+        "Al",
+	"Au",
+	"Ce",
+	"Ge"
+    ],
+    "pearson_symbol": "hR8",
+    "space_group_number": 166,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
+        "a",
+	"c/a",
+	"x3",
+	"x4",
+	"x5"
+    ],
+    "parameter_values": [
+        4.23842,
+	7.4587108,
+	0.691167,
+	0.082,
+	0.774767
+    ],
+    "mineral_name": null,
+    "minerals": {},
+    "compounds": [
+        "CeAuAl$_{4}$Ge$_{2}$",
+        "CePtAl$_{4}$Ge$_{2}$",
+        "DyAuAl$_{4}$Ge$_{2}$",
+        "ErAuAl$_{4}$Ge$_{2}$",
+        "EuAuAl$_{4}$Ge$_{2}$",
+        "GdAuAl$_{4}$Ge$_{2}$",
+        "GdNiAl$_{4}$Ge$_{2}$",
+        "LuNiAl$_{4}$Ge$_{2}$",
+        "NdAuAl$_{4}$Ge$_{2}$",
+        "PrAuAl$_{4}$Ge$_{2}$",
+        "SmAuAl$_{4}$Ge$_{2}$",
+        "TbAuAl$_{4}$Ge$_{2}$",
+        "TmAuAl$_{4}$Ge$_{2}$",
+        "YNiAl$_{4}$Ge$_{2}$"
+    ],
+    "legacy": false,
+    "notes": null,
+    "comments": "Like \\href{current_web_home_dir/A4BCD2_tP8_123_i_a_b_h-001}{EuAuAl$_{4}$(Au$_{1-x}$Ge$_{x}$)$_{2}$}, the rare earth atoms in this structure have a complex antiferromagnetic ordering at low temperatures (Feng, 2024). \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
+}

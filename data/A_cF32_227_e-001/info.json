@@ -3,7 +3,7 @@
     "label": "A_cF32_227_e-001",
     "alias": null,
     "title": "T-Carbon Structure",
-    "icsd": "689215",
+    "icsd": 689215,
     "ccdc": null,
     "prototype": "C",
     "prototype_tex": "C",
@@ -14,14 +14,16 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "x1"
+	"a",
+	"x1"
     ],
     "parameter_values": [
-        7.52,
-        0.4456
+	7.52,
+	0.4456
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "T-Carbon",
     "comments": "This was predicted by (Sheng, 2011) and found experimentally by (Xu, 2020) and others. \n The ICSD entry is from (Kang, 2020), who gave the atomic positions in terms of setting 1 of space group $Fd\\overline{3}m$ \\#227.  We used FINDSYM to change this to the standard setting 2."

@@ -5,7 +5,7 @@
         "AB2_cP12_205_a_c"
     ],
     "title": "Pyrite (FeS$_{2}$, $C2$) Structure",
-    "icsd": "15012",
+    "icsd": 15012,
     "ccdc": null,
     "prototype": "FeS2",
     "prototype_tex": "FeS$_{2}$",
@@ -16,14 +16,44 @@
     "strukturbericht_tex": "$C2$",
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "x2"
+	"a",
+	"x2"
     ],
     "parameter_values": [
-        5.4179,
-        0.384
+	5.4179,
+	0.384
     ],
-    "compounds": {},
+    "mineral_name": "pyrite",
+    "minerals": {
+        "vaesite":"NiS$_{2}$",
+        "sperrylite":"PtAs$_{2}$"
+    },
+    "compounds": [
+        "AuSb$_{2}$",
+        "CaC$_{2}$",
+        "CoS$_{2}$",
+        "CoSe$_{2}$",
+        "FeS$_{2}$",
+        "MnS$_{2}$",
+        "MnSe$_{2}$",
+        "MnTe$_{2}$",
+        "NiS$_{2}$ (vaesite)",
+        "NiSe$_{2}$",
+        "OsS$_{2}$",
+        "OsSe$_{2}$",
+        "OsTe$_{2}$",
+        "PdAs$_{2}$",
+        "PdSb$_{2}$",
+        "PtAs$_{2}$ (sperrylite)",
+        "PtBi$_{2}$",
+        "PtP$_{2}$",
+        "PtSb$_{2}$",
+        "RhS$_{2}$",
+        "RhSe$_{2}$",
+        "RuS$_{2}$",
+        "RuSe$_{2}$",
+        "RuTe$_{2}$"
+    ],
     "legacy": false,
     "notes": "$C2$, Pyrite",
     "comments": "FeS$_{2}$ has been found in at least four forms: \\begin{itemize} \\item A \\href{current_web_home_dir/AB2_aP12_1_4a_8a-001}{triclinic ($P1$ \\#1) phase}, \\item A low temperature \\href{current_web_home_dir/AB2_oP12_29_a_2a-001}{orthorhombic pyrite phase} (Bayliss, 1977), \\item The most commonly observed state, \\href{current_web_home_dir/AB2_cP12_205_a_c-001}{cubic pyrite ($C2$)} (this structure), and \\item \\href{current_web_home_dir/AB2_oP6_58_a_g-003}{Orthorhombic martensite ($C18$)}. \\end{itemize} ~ \\vspace{-.25in} \n We have rewritten this page to include the original source of the data from (Brostigen, 1969).  Previously we only referenced (Bayliss, 1977)."

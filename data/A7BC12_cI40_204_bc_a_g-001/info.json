@@ -5,7 +5,7 @@
         "A7BC12_cI40_204_bc_a_g"
     ],
     "title": "NaMn$_{7}$O$_{12}$ Structure",
-    "icsd": "154189",
+    "icsd": 154189,
     "ccdc": null,
     "prototype": "Mn7NaO12",
     "prototype_tex": "Mn$_{7}$NaO$_{12}$",
@@ -16,17 +16,21 @@
     "strukturbericht_tex": null,
     "part": 3,
     "parameter_symbols": [
-        "a",
-        "y4",
-        "z4"
+	"a",
+	"y4",
+	"z4"
     ],
     "parameter_values": [
-        7.312,
-        0.3128,
-        0.1829
+	7.312,
+	0.3128,
+	0.1829
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "SrMn$_{7}$O$_{12}$"
+    ],
     "legacy": false,
-    "notes": "Double Perovskite",
-    "comments": "This is a double perovskite structure. It is stable above 3GBar and above room temperature, but is metastable under ambient conditions (Gilioli 2005ab).  The actual composition of the measured sample is Na$_{0.95}$Mn$_{7.05}$O$_{12}$, with the excess manganese displacing some of the sodium atoms on the (2a) site. \n The (6b) and (6c) sites may be populated by two species of atoms. In that case we get the quaternary form of this structure, prototype \\href{current_web_home_dir/AB3C4D12_cI40_204_a_b_c_g-001}{CaCu$_{3}$Mn$_{4}$O$_{12}$}."
+    "notes": "Quadruple Perovskite",
+    "comments": "This is a quadruple perovskite structure. It is stable above 3GBar and above room temperature, but is metastable under ambient conditions (Gilioli 2005ab).  The actual composition of the measured sample is Na$_{0.95}$Mn$_{7.05}$O$_{12}$, with the excess manganese displacing some of the sodium atoms on the (2a) site. \n The (6b) and (6c) sites may be populated by two species of atoms. In that case we get the quaternary form of this structure, prototype \\href{current_web_home_dir/AB3C4D12_cI40_204_a_b_c_g-001}{CaCu$_{3}$Mn$_{4}$O$_{12}$}. \n This structure is the high-temperature parent of many quadrupole perovskites of the form {\\em R}Mn$_{7}$O$_{12}$, where {\\em R} is a rare earth. All of these unit cells are slight distortions of the body-centered cubic cell, as can be seen by clicking on the Wigner-Seitz view button on each page. In the case of NaMn$_{7}$O$_{12}$ the sodium and manganese atoms are on the sites of the \\href{current_web_home_dir/A_cI2_229_a-001}{body-centered cubic lattice}. \n These structures include \\begin{itemize} \\item \\href{current_web_home_dir/A7B12C_mC40_12_abcef_2i2j_d-001}{Monoclinic PrMn$_{7}$O$_{12}$}, which is often the structure at the next highest temperature. \\item \\href{current_web_home_dir/A7B12C_hR20_148_ade_2f_b-001}{Rhombohedral SrMn$_{7}$O$_{12}$}, which is stable at room temperature. \\item \\href{current_web_home_dir/AB7C12_mC40_8_a_3a2b_4a4b-001}{Monoclinic BiMn$_{7}$O$_{12}$}, stable near and below room temperature. \\item \\href{current_web_home_dir/AB7C12_aP20_1_a_7a_12a-001}{Triclinic BiMn$_{7}$O$_{12}$}, stable at low temperatures. \\end{itemize}"
 }

@@ -5,7 +5,7 @@
         "AB_tP8_136_g_f"
     ],
     "title": "$\\beta$-BeO Structure",
-    "icsd": "18147",
+    "icsd": 18147,
     "ccdc": null,
     "prototype": "BeO",
     "prototype_tex": "BeO",
@@ -16,18 +16,22 @@
     "strukturbericht_tex": null,
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x1",
-        "x2"
+	"a",
+	"c/a",
+	"x1",
+	"x2"
     ],
     "parameter_values": [
-        4.75,
-        0.576842,
-        0.836,
-        0.19
+	4.75,
+	0.576842,
+	0.836,
+	0.19
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "ZnO"
+    ],
     "legacy": false,
     "notes": "$\\beta$-BeO",
     "comments": null

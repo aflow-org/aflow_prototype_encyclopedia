@@ -5,7 +5,7 @@
         "AB_cF16_227_a_b"
     ],
     "title": "NaTl ($B32$) Structure",
-    "icsd": "645049",
+    "icsd": 645049,
     "ccdc": null,
     "prototype": "NaTl",
     "prototype_tex": "NaTl",
@@ -16,12 +16,21 @@
     "strukturbericht_tex": "$B32$",
     "part": 1,
     "parameter_symbols": [
-        "a"
+	"a"
     ],
     "parameter_values": [
-        7.483
+	7.483
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "LiAl",
+        "$\\gamma$-LiCd",
+        "LiGa",
+        "LiIn",
+        "$\\delta$''-LiZn",
+        "NaIn"
+    ],
     "legacy": false,
     "notes": "$B32$",
     "comments": "This is an example of a Zintl Phase."

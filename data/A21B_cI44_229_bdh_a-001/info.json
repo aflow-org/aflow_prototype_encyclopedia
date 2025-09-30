@@ -5,8 +5,8 @@
         "A21B_cI44_229_bdh_a"
     ],
     "title": "$\\alpha$-AgI ($B23$) Structure",
-    "icsd": "33262",
-    "ccdc": null,
+    "icsd": 33626,
+    "ccdc": 1606383,
     "prototype": "AgI",
     "prototype_tex": "AgI",
     "number_of_species": 2,
@@ -16,15 +16,20 @@
     "strukturbericht_tex": "$B23$",
     "part": 3,
     "parameter_symbols": [
-        "a",
-        "y4"
+	"a",
+	"y4"
     ],
     "parameter_values": [
-        5.034,
-        0.375
+	5.034,
+	0.375
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "Ag$_{2}$S",
+        "Ag$_{2}$Se"
+    ],
     "legacy": false,
     "notes": "$B23$",
-    "comments": "Under ambient conditions, silver iodide exists as a mixture of \\href{current_web_home_dir/AB_hP4_186_b_b-001}{$\\beta$-AgI, which has the wurtzite ($B4$) structure}, and \\href{current_web_home_dir/AB_cF8_216_a_c-001}{$\\gamma$-AgI, which has the zincblende ($B3$) structure} (Hull, 2004).  Above 420K AgI transforms to this superionic $\\alpha$ phase.  The iodine atom sits at the (2a) site of the bcc lattice of space group $Im\\overline{3}m$ \\#229, while the silver atom is randomly distributed on one of the (6b), (12d), and (24h) Wyckoff sites in each unit cell.  On average, then, each of the 21 Ag sites listed below is occupied only 4.762\\% of the time in any given primitive cell.  This easy transport between sites drives the superionic behavior of $\\alpha$-AgI. Ag$_{2}$S and Ag$_{2}$Se have higher concentrations of silver on each site. \n There is no ICSD entry for (Strock, 1934), so we use that from (Rahlfs, 1936).  The two are identical except for the lattice constant (a = 5.034{\\AA} for Strock, 4.88{\\AA} for Rahlfs."
+    "comments": "Under ambient conditions, silver iodide exists as a mixture of \\href{current_web_home_dir/AB_hP4_186_b_b-001}{$\\beta$-AgI, which has the wurtzite ($B4$) structure}, and \\href{current_web_home_dir/AB_cF8_216_a_c-001}{$\\gamma$-AgI, which has the zincblende ($B3$) structure} (Hull, 2004).  Above 420K AgI transforms to this superionic $\\alpha$ phase.  The iodine atom sits at the (2a) site of the bcc lattice of space group $Im\\overline{3}m$ \\#229, while the silver atom is randomly distributed on one of the (6b), (12d), and (24h) Wyckoff sites in each unit cell.  On average, then, each of the 21 Ag sites listed below is occupied only 4.762\\% of the time in any given primitive cell.  This easy transport between sites drives the superionic behavior of $\\alpha$-AgI. Ag$_{2}$S and Ag$_{2}$Se have higher concentrations of silver on each site. \n There is no ICSD entry for (Strock, 1934), so we use that from (Rahlfs, 1936) for AgS.  The two are otherwise identical except for the lattice constant (a = 5.034{\\AA} for Strock, 4.88{\\AA} for Rahlfs. We still chose AgI over AgS for the prototype label because {\\em Strukturbericht} designated the former as the prototype."
 }

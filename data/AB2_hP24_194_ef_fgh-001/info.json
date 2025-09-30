@@ -5,7 +5,7 @@
         "AB2_hP24_194_ef_fgh"
     ],
     "title": "MgNi$_{2}$ Hexagonal Laves ($C36$) Structure",
-    "icsd": "104838",
+    "icsd": 104838,
     "ccdc": null,
     "prototype": "MgNi2",
     "prototype_tex": "MgNi$_{2}$",
@@ -16,22 +16,35 @@
     "strukturbericht_tex": "$C36$",
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z1",
-        "z2",
-        "z3",
-        "x5"
+	"a",
+	"c/a",
+	"z1",
+	"z2",
+	"z3",
+	"x5"
     ],
     "parameter_values": [
-        4.824,
-        3.28068,
-        0.094,
-        0.84417,
-        0.12514,
-        0.16429
+	4.824,
+	3.28068,
+	0.094,
+	0.84417,
+	0.12514,
+	0.16429
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "CdCu$_{2}$",
+        "HfCr$_{2}$",
+        "HfFe$_{2}$",
+        "HfMo$_{2}$ (HT)",
+        "NbCo$_{2}$",
+        "NbZn$_{2}$",
+        "ScFe$_{2}$",
+        "ThMg$_{2}$ (LT)",
+        "$\\beta$-TiCo$_{2}$",
+        "UPt$_{2}$"
+    ],
     "legacy": false,
     "notes": "$C36$, Hexagonal Laves",
     "comments": "An AFLOW user, Mehdi Noori, identified an inconsistency with this entry and the original reference (Mehl, 2017): the z-value for Mg (I) 4e should have been 0.09400, not 0.04598. This entry has been corrected."

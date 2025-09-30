@@ -4,8 +4,8 @@
     "alias": [
         "AB4C_oC24_20_b_2c_a"
     ],
-    "title": "AlPO$_{4}$ ``low cristobalite type'' Structure",
-    "icsd": "16651",
+    "title": "$\\alpha$ (low) Cristobalite Structure",
+    "icsd": 16651,
     "ccdc": null,
     "prototype": "AlO4P",
     "prototype_tex": "AlO$_{4}$P",
@@ -16,33 +16,37 @@
     "strukturbericht_tex": null,
     "part": 3,
     "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "x1",
-        "y2",
-        "x3",
-        "y3",
-        "z3",
-        "x4",
-        "y4",
-        "z4"
+	"a",
+	"b/a",
+	"c/a",
+	"x1",
+	"y2",
+	"x3",
+	"y3",
+	"z3",
+	"x4",
+	"y4",
+	"z4"
     ],
     "parameter_values": [
-        7.009,
-        1.0,
-        0.999572,
-        0.802,
-        0.694,
-        0.558,
-        0.321,
-        0.422,
-        0.67,
-        0.067,
-        0.191
+	7.009,
+	1,
+	0.999572,
+	0.802,
+	0.694,
+	0.558,
+	0.321,
+	0.422,
+	0.67,
+	0.067,
+	0.191
     ],
-    "compounds": {},
+    "mineral_name": "$\\alpha$ (low) Cristobalite",
+    "minerals": null,
+    "compounds": [
+        "GaPO$_{4}$"
+    ],
     "legacy": false,
-    "notes": "Low Cristobalite Type",
-    "comments": "Aluminum and Gallium Phosphate are closely related to the \\href{current_web_home_dir/A2B_cF24_227_c_a-001}{low cristobalite structure of SiO$_{2}$}. \n The change in symmetry from $Fd\\overline{3}m$ \\#227 in SiO$_{2}$ to $C222_{1}$ \\#20 in AlPO$_{4}$ is caused by the replacement of the silicon atoms by two types of atoms. \n The structure is ``pseudo-tetragonal,'' with $a = b$, but the presence of ordered aluminum and phosphorous atoms reduces the symmetry to orthogonal."
+    "notes": "$\\alpha$ (low) Cristobalite",
+    "comments": "$\\alpha$ aluminum and gallium phosphate are closely related to the \\href{current_web_home_dir/A2B_tP12_92_b_a-001}{$\\alpha$ cristobalite structure of SiO$_{2}$}. \n The change in symmetry from tetragonal space group $P4_{1}2_{1}2$ \\#92 in SiO$_{2}$ to orthorhombic $C222_{1}$ \\#20 in AlPO$_{4}$ is caused by the replacement of the silicon atoms by two types of atoms. \n Near 500K this transforms into the \\href{current_web_home_dir/AB12C_cF56_216_a_h_c-001}{$\\beta$ cristobalite structure} (Hatch, 1994). \n For more information, see our \\href{current_web_home_dir/Tutorials/SiO2_AlPO4}{silica and aluminum phosphate page}. \n This structure is ``pseudo-tetragonal,'' with $a = b$, but the presence of ordered aluminum and phosphorous atoms reduces the symmetry to orthogonal. \n The AFLOW label convention rotates the system by 90$^\\circ$ about the z-axis and shifts the origin of the z-axis by c/4.  This swaps the (4a) and (4b) Wyckoff positions, placing the aluminum atom on the (4a) site."
 }

@@ -5,27 +5,31 @@
         "AB_cI16_199_a_a"
     ],
     "title": "CoU ($B_{a}$) Structure",
-    "icsd": "102712",
+    "icsd": 102712,
     "ccdc": null,
     "prototype": "CoU",
     "prototype_tex": "CoU",
     "number_of_species": 2,
     "pearson_symbol": "cI16",
     "space_group_number": 199,
-    "strukturbericht": "B_a",
+    "strukturbericht": "Ba",
     "strukturbericht_tex": "$B_{a}$",
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "x1",
-        "x2"
+	"a",
+	"x1",
+	"x2"
     ],
     "parameter_values": [
-        6.3557,
-        0.294,
-        0.0347
+	6.3557,
+	0.294,
+	0.0347
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "Ga$_{2}$Pu$_{3}$"
+    ],
     "legacy": false,
     "notes": "$B_{a}$",
     "comments": "When $x_{1}=1/4$ and $x_{2}=0$, or visa versa, this structure reduces to \\href{current_web_home_dir/AB_cP2_221_a_b-002}{CsCl (B2)} with $a_{\\mathrm B2} = a/2$."

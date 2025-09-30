@@ -5,15 +5,16 @@
 # Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
 # Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
 # Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
-# Chemical Composition:  AsFe westerveldite B14
+
+# Chemical Composition:  FeAS (Westerveldite, B14)
 
 # The current version of this file is available at
-# https://aflow.org/prototype-encyclopedia/AB_oP8_62_c_c-005
+# https://aflow.org/prototype-encyclopedia/AB_oP8_62_c_c-005 
 
-# Last updated on 2024/08/01
+# Last updated on 2024/12/21
 
-data_As4Fe4
-_pd_phase_name As4Fe4
+data_FeAS
+_pd_phase_name FeAS
 _cell_length_a  5.4540000000
 _cell_length_b  3.3250000000
 _cell_length_c  6.0290000000

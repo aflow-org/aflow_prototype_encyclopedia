@@ -5,7 +5,7 @@
         "A2B_hP36_177_j2lm_n"
     ],
     "title": "Hypothetical Hexagonal SiO$_{2}$ Structure",
-    "icsd": "170519",
+    "icsd": 170519,
     "ccdc": null,
     "prototype": "O2Si",
     "prototype_tex": "O$_{2}$Si",
@@ -16,29 +16,31 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x1",
-        "x2",
-        "x3",
-        "x4",
-        "x5",
-        "y5",
-        "z5"
+	"a",
+	"c/a",
+	"x1",
+	"x2",
+	"x3",
+	"x4",
+	"x5",
+	"y5",
+	"z5"
     ],
     "parameter_values": [
-        12.7835,
-        0.291063,
-        0.61855,
-        0.39242,
-        0.79257,
-        0.44445,
-        0.52169,
-        0.86952,
-        0.16458
+	12.7835,
+	0.291063,
+	0.61855,
+	0.39242,
+	0.79257,
+	0.44445,
+	0.52169,
+	0.86952,
+	0.16458
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "Theory",
-    "comments": "This is a hypothetical hexagonal structure for SiO$_{2}$.  We use the data from the 1\\_200.cif file provided in the supplementary information of (Foster, 2004)."
+    "comments": "This is a hypothetical hexagonal structure for SiO$_{2}$.  We use the data from the 1\\_200.cif file provided in the supplementary information of (Foster, 2004). \n More information about other real and proposed SiO$_{2}$ and related structures can be found in our article on \\href{current_web_home_dir/Tutorials/SiO2_AlPO4}{SiO$_{2}$ and AlPO$_{4}$}."
 }

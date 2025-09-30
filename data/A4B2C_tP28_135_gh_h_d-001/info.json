@@ -5,7 +5,7 @@
         "A4B2C_tP28_135_gh_h_d"
     ],
     "title": "ZnSb$_{2}$O$_{4}$ Structure",
-    "icsd": "647391",
+    "icsd": 647391,
     "ccdc": null,
     "prototype": "O4Sb2Zn",
     "prototype_tex": "O$_{4}$Sb$_{2}$Zn",
@@ -16,24 +16,38 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x2",
-        "x3",
-        "y3",
-        "x4",
-        "y4"
+	"a",
+	"c/a",
+	"x2",
+	"x3",
+	"y3",
+	"x4",
+	"y4"
     ],
     "parameter_values": [
-        8.4909,
-        0.697205,
-        0.169,
-        0.114,
-        0.386,
-        0.167,
-        0.175
+	8.4909,
+	0.697205,
+	0.169,
+	0.114,
+	0.386,
+	0.167,
+	0.175
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": {
+        "schafarzikite":"FeSb$_{2}$O$_{4}$"
+    },
+    "compounds": [
+	"CoSb$_{2}$O$_{4}$",
+	"CuAs$_{2}$O$_{4}$",
+        "FeSb$_{2}$O$_{4}$ (schafarzikite)",
+	"MgSb$_{2}$O$_{4}$",
+	"MnSb$_{2}$O$_{4}$",
+	"NiAs$_{2}$O$_{4}$",
+	"NiSb$_{2}$O$_{4}$",
+	"SnPb$_{2}$O$_{4}$",
+	"TiSn$_{2}$O$_{4}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "The ICSD assigns these structures to the \\href{current_web_home_dir/A4B3_tP28_135_gh_dh-002}{Pb$_{3}$O$_{4}$-T prototype}. We moved the tenary compounds over to this structure."

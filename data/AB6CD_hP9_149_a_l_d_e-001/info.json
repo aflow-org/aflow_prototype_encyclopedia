@@ -3,7 +3,7 @@
     "label": "AB6CD_hP9_149_a_l_d_e-001",
     "alias": null,
     "title": "PbMnTeO$_{6}$ Structure",
-    "icsd": "5923",
+    "icsd": 5923,
     "ccdc": null,
     "prototype": "MnO6PbTe",
     "prototype_tex": "MnO$_{6}$PbTe",
@@ -14,20 +14,28 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x4",
-        "y4",
-        "z4"
+	"a",
+	"c/a",
+	"x4",
+	"y4",
+	"z4"
     ],
     "parameter_values": [
-        5.101,
-        1.05766,
-        0.71483,
-        0.66857,
-        0.80184
+	5.101,
+	1.05766,
+	0.71483,
+	0.66857,
+	0.80184
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "BaGeTeO$_{6}$",
+        "NaNiIO$_{6}$",
+        "PbGeTeO$_{6}$",
+        "SrGeTeO$_{6}$",
+        "SrMnTeO$_{6}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "In the sample studied by (Kuchugura, 2019) the site we have labeled ``Mn (1f)'' is actually 90.6\\% manganese and 9.4\\% tellurium, while the ``Te (1d)'' site is 90.6\\% tellurium and 9.4\\% manganese. \n The mineral kuranakhite (Xinchun, 1998) also has this composition. While it was tentatively indexed as a body-centered orthorhombic structure, its lattice constants are very close to the trigonal structure described here, indicating that this may be the structure of kuranakhite."

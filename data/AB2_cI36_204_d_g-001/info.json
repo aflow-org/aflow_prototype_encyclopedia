@@ -5,7 +5,7 @@
         "AB2_cI36_204_d_g"
     ],
     "title": "Modern $C26$ (NO$_{2}$) Structure",
-    "icsd": "201140",
+    "icsd": 201140,
     "ccdc": null,
     "prototype": "NO2",
     "prototype_tex": "NO$_{2}$",
@@ -16,18 +16,20 @@
     "strukturbericht_tex": "$C26$",
     "part": 3,
     "parameter_symbols": [
-        "a",
-        "x1",
-        "y2",
-        "z2"
+	"a",
+	"x1",
+	"y2",
+	"z2"
     ],
     "parameter_values": [
-        7.6937,
-        0.38587,
-        0.32597,
-        0.1425
+	7.6937,
+	0.38587,
+	0.32597,
+	0.1425
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "$C26$ or $C26_{b}$",
     "comments": "(Hermann, 1937) listed two possible structures for the low temperature solid cubic phase of NO$_{2}$, which were given {\\em Strukturbericht} designations $C26_{a}$ and $C26_{b}$, the only structures with Roman subscripts in the original series. \n \\href{current_web_home_dir/AB2_cI36_199_b_c-001}{$C26_{a}$ (AB2\\_cI36\\_199\\_b\\_c) was set in space group $I2_{1}3$ \\#199}. Hermann noted that this structure has a very short distance (1.88{\\AA}) between oxygen atoms on different NO$_{2}$ molecules, and that this structure does not form the (NO$_{2}$)$_{2}$ aggregate molecule found in the $C26_{b}$ structure, making ``making this proposed structure very unlikely.'' \n Recognizing this, (Hendricks, 1931) suggested that NO$_{2}$ was actually in space group $I23$ \\#197.  (Hermann, 1997) gave this structure the $C26_{b}$ designation, but noted that based on Hendricks's atomic positions the space group was actually $Im\\overline{3}$ \\#204. \n The modern accepted structure for No$_{2}$, \\href{current_web_home_dir/AB2_cI36_204_d_g-001}{AB2\\_cI36\\_204\\_d\\_g}, is set in space group $Im\\overline{3}$, confirming Hendricks. We follow (Villars, 2005) and give this the $C26$ designation, depreciating the $C26_{b}$ label. \n We used the experimental data for this phase collected at 20K."

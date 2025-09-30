@@ -3,7 +3,7 @@
     "label": "A13B4C4_cF84_216_afg_e_e-001",
     "alias": null,
     "title": "Al$_{13}$Cr$_{4}$Si$_{4}$ Structure",
-    "icsd": "76116",
+    "icsd": 76116,
     "ccdc": null,
     "prototype": "Al13Cr4Si4",
     "prototype_tex": "Al$_{13}$Cr$_{4}$Si$_{4}$",
@@ -14,20 +14,24 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "x2",
-        "x3",
-        "x4",
-        "x5"
+	"a",
+	"x2",
+	"x3",
+	"x4",
+	"x5"
     ],
     "parameter_values": [
-        10.917,
-        0.3421,
-        0.126,
-        0.3103,
-        0.56
+	10.917,
+	0.3421,
+	0.126,
+	0.3103,
+	0.56
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"Al$_{17}$Mn$_{4}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": null

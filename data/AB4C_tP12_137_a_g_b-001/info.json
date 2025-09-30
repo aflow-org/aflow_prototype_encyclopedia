@@ -3,7 +3,7 @@
     "label": "AB4C_tP12_137_a_g_b-001",
     "alias": null,
     "title": "Low Temperature KBD$_{4}$ Structure",
-    "icsd": "99264",
+    "icsd": 99264,
     "ccdc": null,
     "prototype": "BD4K",
     "prototype_tex": "BD$_{4}$K",
@@ -14,18 +14,20 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "y3",
-        "z3"
+	"a",
+	"c/a",
+	"y3",
+	"z3"
     ],
     "parameter_values": [
-        4.636,
-        1.41732,
-        0.54,
-        0.144
+	4.636,
+	1.41732,
+	0.54,
+	0.144
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "LT",
     "comments": "This is the low temperature structure of KBD$_{4}$, stable below 70K, with data taken at 1.5K.  Above that it transforms into the \\href{current_web_home_dir/AB8C_cF40_225_a_f_b-001}{cubic room temperature KBD$_{4}$ structure}, also known as the NaBH$_{4}$ structure."

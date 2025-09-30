@@ -5,7 +5,7 @@
         "A3B_hP8_173_c_b"
     ],
     "title": "PI$_{3}$ Structure",
-    "icsd": "311",
+    "icsd": 311,
     "ccdc": null,
     "prototype": "I3P",
     "prototype_tex": "I$_{3}$P",
@@ -16,22 +16,22 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z1",
-        "x2",
-        "y2",
-        "z2"
+	"a",
+	"c/a",
+	"z1",
+	"x2",
+	"y2",
+	"z2"
     ],
     "parameter_values": [
-        7.133,
-        1.03939,
-        0.0,
-        0.0337033,
-        0.347497,
-        0.146
+	7.133,
+	1.03939
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "HCl$_{3}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "Space group $P6_3$ \\#173 allows an arbitrary choice for the origin of the $z$-axis.  We use this to set $z_{1} = 0$ for the potassium site."

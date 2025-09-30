@@ -6,14 +6,15 @@
 # Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
 # Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
 
-# Chemical Composition:  A2B3_tP10_127_g_ah-001 Si2U3 D5a
+# Chemical Composition:  Si2U3 (D5_a)
 
 # The current version of this file is available at
-# https://aflow.org/prototype-encyclopedia/A2B3_tP10_127_g_ah-001
+# https://aflow.org/prototype-encyclopedia/A2B3_tP10_127_g_ah-001 
 
-# Last updated on 2024/08/01
-data_Si4U6
-_pd_phase_name Si4U6
+# Last updated on 2025/01/28
+
+data_Si2U3
+_pd_phase_name Si2U3
 _cell_length_a  7.3364000000
 _cell_length_b  7.3364000000
 _cell_length_c  3.8900000000
@@ -52,6 +53,6 @@ loop_
  _atom_site_type_symbol
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
-U2 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 U 2 a
-Si1 1.0000000000 0.8841000000 0.3841000000 0.0000000000  Biso 1.0 Si 4 g
-U3 1.0000000000 0.6821000000 0.1821000000 0.5000000000  Biso 1.0 U 4 h
+U1  1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 U  2 a
+Si2 1.0000000000 0.3841000000 0.8841000000 0.0000000000  Biso 1.0 Si 4 g
+U3  1.0000000000 0.1821000000 0.6821000000 0.5000000000  Biso 1.0 U  4 h

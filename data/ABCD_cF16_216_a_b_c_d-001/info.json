@@ -5,7 +5,7 @@
         "ABCD_cF16_216_c_d_b_a"
     ],
     "title": "Quaternary Heusler (LiMgAuSn) Structure",
-    "icsd": "16477",
+    "icsd": 16477,
     "ccdc": null,
     "prototype": "AuLiMgSn",
     "prototype_tex": "AuLiMgSn",
@@ -16,12 +16,29 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a"
+	"a"
     ],
     "parameter_values": [
-        6.465
+	6.465
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "AuLiMgSn",
+	"AlCoMnV",
+	"CoFeMnSi",
+	"CuNiSnTi",
+        "LiMgPdSb",
+        "LiMgPdSn",
+        "LiMgPtSb",
+        "LiMgPtSn",
+        "CuMg$_{2}$Ti",
+        "AuBiLi$_{2}$",
+        "AgLi$_{2}$Sn",
+        "AuLi$_{2}$Sn",
+        "CuHfHg$_{2}$",
+        "MnPd$_{2}$Sn"
+    ],
     "legacy": false,
     "notes": "Quaternary Heusler",
     "comments": "This ``quaternary-Heusler'' structure can be considered as the parent of a wide variety of structures, depending on the occupancy of the (4a), (4b), (4c), and (4d) Wyckoff positions. Consider atoms of type A, B, C, D, distributed in this structure.  We can get: \\begin{center} \\begin{tabular}{|c|c|c|c|c|c|c|} \\hline Structure & {\\em Strukturbericht} & AFLOW Label & (4a) & (4b) & (4c) & (4d) \\\\ \\hline \\hline simple cubic & A$_h$ & \\href{current_web_home_dir/A_cP1_221_a-001}{A\\_cP1\\_221\\_a} & A & A & - & - \\\\ \\hline fcc & A1 & \\href{current_web_home_dir/A_cF4_225_a-001}{A\\_cF4\\_225\\_a} & A & - & - & - \\\\ \\hline bcc & A2 & \\href{current_web_home_dir/A_cI2_229_a-001}{A\\_cI2\\_229\\_a} & A & A & - & - \\\\ \\hline bcc & A2 & \\href{current_web_home_dir/A_cI2_229_a-001}{A\\_cI2\\_229\\_a} & A & A & A & A \\\\ \\hline diamond & A4 & \\href{current_web_home_dir/A_cF8_227_a-001}{A\\_cF8\\_227\\_a} & A & - & A & - \\\\ \\hline NaCl & B1 & \\href{current_web_home_dir/AB_cF8_225_a_b-001}{AB\\_cF8\\_225\\_a\\_b} & A & B & - & - \\\\ \\hline CsCl & B2 & \\href{current_web_home_dir/AB_cP2_221_a_b-002}{AB\\_cP2\\_221\\_a\\_b} & A & A & B & B \\\\ \\hline ZnS (zincblende) & B3 & \\href{current_web_home_dir/AB_cF8_216_a_c-001}{AB\\_cF8\\_216\\_c\\_a} & A & - & B & - \\\\ \\hline BiF$_{3}$ & D0$_3$ & \\href{current_web_home_dir/AB3_cF16_225_a_bc-001}{AB3\\_cF16\\_225\\_a\\_bc} & A & B & B & B \\\\ \\hline NaTl & B32 & \\href{current_web_home_dir/AB_cF16_227_a_b-001}{AB\\_cF16\\_227\\_a\\_b} & A & B & A & B \\\\ \\hline Fluorite & C1 & \\href{current_web_home_dir/AB2_cF12_225_a_c-001}{AB2\\_cF12\\_225\\_a\\_c} & A & - & B & B \\\\ \\hline half-Heusler & C1$_{b}$ & \\href{current_web_home_dir/ABC_cF12_216_a_c_b-001}{ABC\\_cF12\\_216\\_a\\_b\\_c} & A & B & C & - \\\\ \\hline Heusler & L2$_1$ & \\href{current_web_home_dir/AB2C_cF16_225_a_c_b-001}{AB2C\\_cF16\\_225\\_a\\_c\\_b} & A & C & B & B  \\\\ \\hline Inverse-Heusler &  & \\href{current_web_home_dir/AB2C_cF16_216_a_bc_d-001}{AB2C\\_cF16\\_216\\_a\\_bc\\_d} & A & B & B & C  \\\\ \\hline \\end{tabular} \\end{center} ~ \\vspace{-.25in} \n The ordering of this structure is somewhat arbitary.  We will get the same structure if Sn and Mg are on either the (4a)/(4b) or (4c)/(4d) sites with Au and Li on the opposite sites."

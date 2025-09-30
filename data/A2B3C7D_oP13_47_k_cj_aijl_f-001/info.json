@@ -5,8 +5,8 @@
         "A2B3C7D_oP13_47_t_aq_eqrs_h"
     ],
     "title": "1212C [YBa$_{2}$Cu$_{3}$O$_{7-x}$] High-$T_{c}$ Structure",
-    "icsd": "62943",
-    "ccdc": null,
+    "icsd": 62943,
+    "ccdc": 1626100,
     "prototype": "Ba2Cu3O7-xY",
     "prototype_tex": "Ba$_{2}$Cu$_{3}$O$_{7-x}$Y",
     "number_of_species": 4,
@@ -16,26 +16,31 @@
     "strukturbericht_tex": null,
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "x4",
-        "x5",
-        "x6",
-        "x7",
-        "x8"
+	"a",
+	"b/a",
+	"c/a",
+	"x4",
+	"x5",
+	"x6",
+	"x7",
+	"x8"
     ],
     "parameter_values": [
-        11.6687,
-        0.32726,
-        0.332796,
-        0.3771,
-        0.3554,
-        0.1579,
-        0.1844,
-        0.3788
+	11.6687,
+	0.32726,
+	0.332796,
+	0.3771,
+	0.3554,
+	0.1579,
+	0.1844,
+	0.3788
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "GaSr$_{2}$(Y,Ca)Cu$_{2}$O$_{7}$",
+        "DyBa$_{2}$Cu$_{3}$O$_{7-x}$"
+    ],
     "legacy": false,
     "notes": "Cuprate High-$T_{c}$",
     "comments": "This is the superconducting phase of Ba$_{2}$YCu$_{3-x}$O$_{7-y}$.  Above 575$^\\circ$C it transforms into the \\href{current_web_home_dir/A2B3C8D_tP14_123_h_bg_egi_c-001}{tetragonal phase}. (Nakai, 1987) \n The designation 1212C is from (Shaked, 1994). In experiment the Ba (2k) site is 80\\% occupied, and the O (2l) site is 92\\% occupied, so $x$ = 0.16.  Excess oxygen may appear on the (2b) (1/2 0 ) site, {\\em i.e.}, along the long axis. \n AFLOW rotates the lattice taking ($x \\rightarrow y \\rightarrow z \\rightarrow x$) and also shifts the origin to move the single oxygen atom from the (1e) to the (1a) site."

@@ -12,8 +12,8 @@
 
 # Last updated on 2024/08/01
 
-data_Co1Ga8Ho2
-_pd_phase_name Co1Ga8Ho2
+data_CoGa4Ho2
+_pd_phase_name CoGa8Ho2
 _cell_length_a  4.2170000000
 _cell_length_b  4.2170000000
 _cell_length_c  10.9700000000

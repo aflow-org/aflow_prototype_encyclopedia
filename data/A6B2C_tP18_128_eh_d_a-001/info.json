@@ -5,7 +5,7 @@
         "A6B2C_tP18_128_eh_d_a"
     ],
     "title": "Phase II K$_{2}$SnCl$_{6}$ Structure",
-    "icsd": "1669",
+    "icsd": 1669,
     "ccdc": null,
     "prototype": "Cl6K2Sn",
     "prototype_tex": "Cl$_{6}$K$_{2}$Sn",
@@ -16,20 +16,22 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z3",
-        "x4",
-        "y4"
+	"a",
+	"c/a",
+	"z3",
+	"x4",
+	"y4"
     ],
     "parameter_values": [
-        7.0577,
-        1.41383,
-        0.2523,
-        0.2217,
-        0.2511
+	7.0577,
+	1.41383,
+	0.2523,
+	0.2217,
+	0.2511
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "Phase II",
     "comments": "K$_{2}$SnCl$_{6}$ is found in three forms, depending on the temperature: \\begin{itemize} \\item Below 255K it is in the \\href{current_web_home_dir/A6B2C_mP18_14_3e_e_a-001}{monoclinic Phase I structure}. \\item In the range 255-261K it is in the \\href{current_web_home_dir/A6B2C_tP18_128_eh_d_a-001}{tetragonal Phase II structure} (this structure). \\item Above 261K it transforms to Phase III, which has the \\href{current_web_home_dir/A6B2C_cF36_225_e_c_a-001}{K$_{2}$PtCl$_{6}$ ($J1_{1}$) structure}. \\end{itemize} ~ \\vspace{-.25in} \n Data for Phase II was taken at 265K."

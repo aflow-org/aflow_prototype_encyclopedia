@@ -1,0 +1,55 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+
+# Chemical Composition:  BiErGeO5
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/ABCD5_oP64_61_c_c_c_5c-001 
+
+# Last updated on 2025/06/01
+
+data_BiErGeO5
+_pd_phase_name BiErGeO5
+_cell_length_a  5.3140000000
+_cell_length_b  15.1760000000
+_cell_length_c  10.9990000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pbca'
+_symmetry_Int_Tables_Number  61
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z+1/2
+  3  -x,y+1/2,-z+1/2
+  4  x+1/2,-y+1/2,-z
+  5  -x,-y,-z
+  6  x+1/2,y,-z+1/2
+  7  x,-y+1/2,z+1/2
+  8  -x+1/2,y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Bi1 1.0000000000 0.9470000000 0.2400000000 0.1520000000  Biso 1.0 Bi 8 c
+Er2 1.0000000000 0.0120000000 0.0520000000 0.3600000000  Biso 1.0 Er 8 c
+Ge3 1.0000000000 0.0020000000 0.4020000000 0.4060000000  Biso 1.0 Ge 8 c
+O4  1.0000000000 0.0630000000 0.3020000000 0.3350000000  Biso 1.0 O  8 c
+O5  1.0000000000 0.2930000000 0.4370000000 0.4470000000  Biso 1.0 O  8 c
+O6  1.0000000000 0.3090000000 0.1280000000 0.4880000000  Biso 1.0 O  8 c
+O7  1.0000000000 0.2650000000 0.1500000000 0.2370000000  Biso 1.0 O  8 c
+O8  1.0000000000 0.3640000000 0.4860000000 0.1870000000  Biso 1.0 O  8 c

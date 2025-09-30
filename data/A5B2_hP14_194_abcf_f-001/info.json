@@ -5,29 +5,35 @@
         "A5B2_hP14_194_abdf_f"
     ],
     "title": "W$_{2}$B$_{5}$ ($D8_{h}$) Structure",
-    "icsd": "24283",
+    "icsd": 24283,
     "ccdc": null,
     "prototype": "B5W2",
     "prototype_tex": "B$_{5}$W$_{2}$",
     "number_of_species": 2,
     "pearson_symbol": "hP14",
     "space_group_number": 194,
-    "strukturbericht": "D8_h",
+    "strukturbericht": "D8h",
     "strukturbericht_tex": "$D8_{h}$",
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z4",
-        "z5"
+	"a",
+	"c/a",
+	"z4",
+	"z5"
     ],
     "parameter_values": [
-        2.982,
-        4.65124,
-        0.028,
-        0.639
+	2.982,
+	4.65124,
+	0.028,
+	0.639
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "Os$_{2}$B$_{5}$",
+        "Ru$_{2}$B$_{5}$",
+        "Ti$_{2}$B$_{5}$"
+    ],
     "legacy": false,
     "notes": "$D8_{h}$",
     "comments": null

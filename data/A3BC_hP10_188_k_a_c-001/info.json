@@ -5,7 +5,7 @@
         "A3BC_hP10_188_k_c_a"
     ],
     "title": "LiScI$_{3}$ Structure",
-    "icsd": "73339",
+    "icsd": 73339,
     "ccdc": null,
     "prototype": "I3LiSc",
     "prototype_tex": "I$_{3}$LiSc",
@@ -16,18 +16,20 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x3",
-        "y3"
+	"a",
+	"c/a",
+	"x3",
+	"y3"
     ],
     "parameter_values": [
-        7.2861,
-        0.928892,
-        0.32923,
-        0.33982
+	7.2861,
+	0.928892,
+	0.32923,
+	0.33982
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": null,
     "comments": null

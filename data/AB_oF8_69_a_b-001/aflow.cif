@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/AB_oF8_69_a_b-001
 
 # Last updated on 2024/08/01
-data_F4Tl4
-_pd_phase_name F4Tl4
+data_TlF
+_pd_phase_name TlF
 _cell_length_a  6.0800000000
 _cell_length_b  5.1800000000
 _cell_length_c  5.4950000000
@@ -68,5 +68,5 @@ loop_
  _atom_site_type_symbol
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
-F1 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 F 4 a
-Tl2 1.0000000000 -0.0000000000 -0.0000000000 0.5000000000  Biso 1.0 Tl 4 b
+F1  1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 F  4 a
+Tl2 1.0000000000 0.0000000000 0.0000000000 0.5000000000  Biso 1.0 Tl 4 b

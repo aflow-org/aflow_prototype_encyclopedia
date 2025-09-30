@@ -3,7 +3,7 @@
     "label": "A3B4_hP7_191_f_de-001",
     "alias": null,
     "title": "Zr$_{4}$Al$_{3}$ Structure",
-    "icsd": "150529",
+    "icsd": 150529,
     "ccdc": null,
     "prototype": "Al3Zr4",
     "prototype_tex": "Al$_{3}$Zr$_{4}$",
@@ -14,16 +14,20 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z2"
+	"a",
+	"c/a",
+	"z2"
     ],
     "parameter_values": [
-        5.433,
-        0.992085,
-        0.25
+	5.433,
+	0.992085,
+	0.25
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "Hf$_{4}$Al$_{3}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "(Wilson, 1960) place this structure in, using modern notation, space group $P\\overline{6}m2$ \\#187, but (Cenzual, 1991) point out that the given atomic coordinates place the structure in the higher symmetry space group $P6/mmm$ \\#191. We show that structure here."

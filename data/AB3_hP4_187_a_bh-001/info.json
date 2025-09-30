@@ -5,7 +5,7 @@
         "AB3_hP4_187_e_fh"
     ],
     "title": "Re$_{3}$N Structure",
-    "icsd": "169884",
+    "icsd": 169884,
     "ccdc": null,
     "prototype": "NRe3",
     "prototype_tex": "NRe$_{3}$",
@@ -16,16 +16,18 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z3"
+	"a",
+	"c/a",
+	"z3"
     ],
     "parameter_values": [
-        2.8065,
-        2.53412,
-        0.198
+	2.8065,
+	2.53412,
+	0.198
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": null,
     "comments": "The reference presents both experimental findings and the results of density functional theory calculations. We obtain our data from the density functional theory calculations at equilibrium ($P = 0$), which are consistent with the lattice constants found experimentally."

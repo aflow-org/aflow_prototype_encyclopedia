@@ -5,7 +5,7 @@
         "A4B2C_tI14_139_ce_e_a"
     ],
     "title": "K$_{2}$NiF$_{4}$ Structure",
-    "icsd": "15576",
+    "icsd": 15576,
     "ccdc": null,
     "prototype": "F4K2Ni",
     "prototype_tex": "F$_{4}$K$_{2}$Ni",
@@ -16,18 +16,44 @@
     "strukturbericht_tex": null,
     "part": 3,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z3",
-        "z4"
+	"a",
+	"c/a",
+	"z3",
+	"z4"
     ],
     "parameter_values": [
-        4.0,
-        3.2675,
-        0.151,
-        0.352
+	4,
+	3.2675,
+	0.151,
+	0.352
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"Ba$_{2}$SnO$_{4}$",
+	"Ba$_{2}$ZrS$_{4}$",
+	"Ca$_{2}$MnO$_{4}$",
+	"Cs$_{2}$CrCl$_{4}$",
+	"Cs$_{2}$CrF$_{4}$",
+	"Cs$_{2}$CuCl$_{4}$",
+	"Cs$_{2}$CuF$_{4}$",
+	"K$_{2}$CrCl$_{4}$",
+	"K$_{2}$CrF$_{4}$",
+	"K$_{2}$CuCl$_{4}$",
+	"K$_{2}$CuF$_{4}$",
+	"La$_{2}$NiO$_{4}$",
+	"La$_{2}$PdO$_{4}$",
+	"Nd$_{2}$CuO$_{4}$",
+	"Sr$_{2}$IrO$_{4}$",
+	"Sr$_{2}$MnO$_{4}$",
+	"Sr$_{2}$RuO$_{4}$",
+	"Sr$_{2}$SnO$_{4}$",
+	"Sr$_{2}$TiO$_{4}$",
+	"Sr$_{2}$VO$_{4}$",
+	"(Fe,La)$_{2}$SrO$_{4}$",
+	"(Sr,La)$_{2}$AlO$_{4}$",
+	"(Sr,La)$_{2}$CoO$_{4}$"
+    ],
     "legacy": false,
     "notes": "Ruddlesden-Popper",
     "comments": "This is the parent compound of the simplest layered-perovskite Ruddlesden-Popper series (Wikipedia).  The series also includes the \\href{current_web_home_dir/AB2C4_tI14_139_a_e_ce-001}{parent of the high-$T_{c}$ cuprates, (La,Ba)$_{2}$CuO$_{4}$}, but we keep that separate as it represents a new class of materials. \n \\href{current_web_home_dir/A2BC2D2_tI14_139_e_a_c_e-001}{Sr$_{2}$CuO$_{2}$Cl$_{2}$} is the quaternary form of this structure."

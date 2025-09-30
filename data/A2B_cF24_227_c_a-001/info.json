@@ -5,7 +5,7 @@
         "A2B_cF24_227_c_a"
     ],
     "title": "Ideal $\\beta$-Cristobalite (SiO$_{2}$, $C9$) Structure",
-    "icsd": "35536",
+    "icsd": 35536,
     "ccdc": null,
     "prototype": "O2Si",
     "prototype_tex": "O$_{2}$Si",
@@ -16,13 +16,20 @@
     "strukturbericht_tex": "$C9$",
     "part": 1,
     "parameter_symbols": [
-        "a"
+	"a"
     ],
     "parameter_values": [
-        7.166
+	7.166
     ],
-    "compounds": {},
+    "mineral_name": "cristobalite",
+    "minerals": {
+	"cristobalite": "O${2}$Si"
+    },
+    "compounds": [
+	"BeF$_{2}$",
+	"AlPO$_{4}$"
+    ],
     "legacy": false,
     "notes": "$C9$, $\\beta$-Cristobalite",
-    "comments": "This is an idealized version of the high-temperature phase of $\\alpha$-cristobalite originally proposed by (Wyckoff, 1925). \n (Peacor, 1973) concludes that the oxygen atoms partially occupy the (96g) positions in the space group $Fd\\overline{3}m$ \\#227. We average those positions to put the oxygen on the (16c) sites and return to the original structure. \n $\\beta$-cristobalite is also known as ``high'' cristobalite."
+    "comments": "This is an idealized version of the high-temperature phase of $\\beta$-cristobalite originally proposed by (Wyckoff, 1925). \n Below 530K it transforms into the \\href{current_web_home_dir/A2B_tP12_92_b_a-001}{$\\alpha$ cristobalite ($C30$) structure} (Pluth, 1985). \n (Peacor, 1973) concludes that the oxygen atoms partially occupy the (96g) positions in the space group $Fd\\overline{3}m$ \\#227. We average those positions to put the oxygen on the (16c) sites and return to the original structure. \n $\\beta$-cristobalite is also known as ``high'' cristobalite. \n More information about SiO$_{2}$ structures can be found in our article on \\href{current_web_home_dir/Tutorials/SiO2_AlPO4}{SiO$_{2}$ and AlPO$_{4}$}."
 }

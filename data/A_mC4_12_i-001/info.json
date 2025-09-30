@@ -5,8 +5,8 @@
         "A_mC4_12_i"
     ],
     "title": "$\\alpha$-O$_{2}$ Structure",
-    "icsd": "173933",
-    "ccdc": null,
+    "icsd": 173933,
+    "ccdc": 1688830,
     "prototype": "O",
     "prototype_tex": "O",
     "number_of_species": 1,
@@ -16,23 +16,25 @@
     "strukturbericht_tex": null,
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "beta",
-        "x1",
-        "z1"
+	"a",
+	"b/a",
+	"c/a",
+	"beta",
+	"x1",
+	"z1"
     ],
     "parameter_values": [
-        7.6468,
-        0.448946,
-        0.664199,
-        148.505,
-        0.894,
-        0.961
+	7.6468,
+	0.448946,
+	0.664199,
+	148.505,
+	0.894,
+	0.961
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "$\\alpha$-O$_{2}$",
-    "comments": null
+    "comments": "Solid oxygen can be found in the \\href{current_web_home_dir/A_mC4_12_i-001}{$\\alpha$-O$_{2}$ phase} below 24K and in the \\href{current_web_home_dir/A_hR2_166_c-003}{$\\beta$-O$_{2}$} phase between 24 and 44K, with $\\gamma$-O$_{2}$, stable between 44 and 54K, in the \\href{current_web_home_dir/A_cP8_223_ac-001}{$\\beta$-F$_{2}$ structure} (Meier, 1984)."
 }

@@ -3,7 +3,7 @@
     "label": "AB4C_tP24_129_bc_ij_d-001",
     "alias": null,
     "title": "CsFeF$_{4}$ II Structure",
-    "icsd": "62696",
+    "icsd": 62696,
     "ccdc": null,
     "prototype": "CsF4Fe",
     "prototype_tex": "CsF$_{4}$Fe",
@@ -14,24 +14,26 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z2",
-        "y4",
-        "z4",
-        "x5",
-        "z5"
+	"a",
+	"c/a",
+	"z2",
+	"y4",
+	"z4",
+	"x5",
+	"z5"
     ],
     "parameter_values": [
-        7.7874,
-        0.839844,
-        0.5416,
-        0.0,
-        0.9671,
-        0.0202,
-        0.286
+	7.7874,
+	0.839844,
+	0.5416
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "CsMnF$_{4}$",
+        "CsTiF$_{4}$",
+        "CsVF$_{4}$"
+    ],
     "legacy": false,
     "notes": "CsFeF$_{4}$ II",
     "comments": "(Hidaka, 1986) identify two phase transitions in CsFeF$_{4}$: \\begin{itemize} \\item At high temperatures, CsFeF$_{4}$ I has the tetragonal \\href{current_web_home_dir/AB4C_tP6_123_b_eg_c-001}{TlAlF$_{4}$ ($H0_{8}$) structure}. \\item At 475K there is a second-order phase transition to CsFeF$_{4}$ II, tetragonal space group $P4/nmm$ \\#129 (this structure). \\item At 250K there is a second-order phase transition to CsFeF$_{4}$ III, orthorhombic space group $P2_{1}2_{1}2$ \\#18, with the \\href{current_web_home_dir/AB4C_oP24_59_c_efg_ab-001}{RbAlF$_{4}$ III structure}. \\end{itemize} ~ \\vspace{-.25in} \n The different structures are distinguished by the tilt of the FeF$_{6}$ octahedra."

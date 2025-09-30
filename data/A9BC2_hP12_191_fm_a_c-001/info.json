@@ -3,7 +3,7 @@
     "label": "A9BC2_hP12_191_fm_a_c-001",
     "alias": null,
     "title": "BaFe$_{2}$Al$_{9}$ Structure",
-    "icsd": "57518",
+    "icsd": 57518,
     "ccdc": null,
     "prototype": "Al9BaFe2",
     "prototype_tex": "Al$_{9}$BaFe$_{2}$",
@@ -14,16 +14,24 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x4"
+	"a",
+	"c/a",
+	"x4"
     ],
     "parameter_values": [
-        8.04,
-        0.483831,
-        0.212
+	8.04,
+	0.483831,
+	0.212
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"BaFe$_{2}$Al$_{9}$",
+	"BaIr$_{2}$In$_{9}$",
+	"BaNi$_{2}$Al$_{9}$",
+	"CaCo$_{2}$Al$_{9}$",
+	"SrCo$_{2}$Al$_{9}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": null

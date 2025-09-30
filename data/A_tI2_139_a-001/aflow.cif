@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/A_tI2_139_a-001
 
 # Last updated on 2024/08/01
-data_In2
-_pd_phase_name In2
+data_In
+_pd_phase_name In
 _cell_length_a  4.6002000000
 _cell_length_b  4.6002000000
 _cell_length_c  4.9463000000

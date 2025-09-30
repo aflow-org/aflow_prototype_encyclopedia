@@ -5,7 +5,7 @@
         "AB_oP8_58_g_g"
     ],
     "title": "InS Structure",
-    "icsd": "15931",
+    "icsd": 15931,
     "ccdc": null,
     "prototype": "InS",
     "prototype_tex": "InS",
@@ -16,24 +16,26 @@
     "strukturbericht_tex": null,
     "part": 3,
     "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "x1",
-        "y1",
-        "x2",
-        "y2"
+	"a",
+	"b/a",
+	"c/a",
+	"x1",
+	"y1",
+	"x2",
+	"y2"
     ],
     "parameter_values": [
-        4.443,
-        2.39523,
-        0.886788,
-        0.125,
-        0.121,
-        0.995,
-        0.355
+	4.443,
+	2.39523,
+	0.886788,
+	0.125,
+	0.121,
+	0.995,
+	0.355
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": null,
     "comments": null

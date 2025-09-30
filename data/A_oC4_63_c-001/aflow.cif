@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/A_oC4_63_c-001
 
 # Last updated on 2024/08/01
-data_U4
-_pd_phase_name U4
+data_U
+_pd_phase_name U
 _cell_length_a  2.8444000000
 _cell_length_b  5.8689000000
 _cell_length_c  4.9316000000

@@ -12,8 +12,8 @@
 
 # Last updated on 2024/08/01
 
-data_F8Sn4
-_pd_phase_name F8Sn4
+data_F2Sn
+_pd_phase_name F2Sn
 _cell_length_a  4.9889000000
 _cell_length_b  5.1392000000
 _cell_length_c  8.4777000000
@@ -40,6 +40,6 @@ loop_
  _atom_site_type_symbol
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
-F1 1.0000000000 0.5410000000 0.6630000000 0.4960000000  Biso 1.0 F 4 a
-F2 1.0000000000 0.3780000000 0.7020000000 0.8850000000  Biso 1.0 F 4 a
+F1  1.0000000000 0.5410000000 0.6630000000 0.4960000000  Biso 1.0 F  4 a
+F2  1.0000000000 0.3780000000 0.7020000000 0.8850000000  Biso 1.0 F  4 a
 Sn3 1.0000000000 0.2740000000 0.5230000000 0.6300000000  Biso 1.0 Sn 4 a

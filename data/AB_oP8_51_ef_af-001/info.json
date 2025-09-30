@@ -3,8 +3,8 @@
     "label": "AB_oP8_51_ef_af-001",
     "alias": null,
     "title": "High-Pressure CuBi Structure",
-    "icsd": "253703",
-    "ccdc": null,
+    "icsd": 253703,
+    "ccdc": 1927357,
     "prototype": "BiCu",
     "prototype_tex": "BiCu",
     "number_of_species": 2,
@@ -14,22 +14,24 @@
     "strukturbericht_tex": null,
     "part": 5,
     "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "z2",
-        "z3",
-        "z4"
+	"a",
+	"b/a",
+	"c/a",
+	"z2",
+	"z3",
+	"z4"
     ],
     "parameter_values": [
-        5.2075,
-        0.814614,
-        1.51261,
-        0.6816,
-        0.2602,
-        0.919
+	5.2075,
+	0.814614,
+	1.51261,
+	0.6816,
+	0.2602,
+	0.919
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": null,
     "comments": "This is a high-pressure phase of CuBi, prepared at $P = 5$ GPa and $T = 720$ K.  Under ambient conditions CuBi is in the \\href{current_web_home_dir/AB_cF8_225_a_b-001}{rock salt ($B1$)} structure."

@@ -12,8 +12,8 @@
 
 # Last updated on 2024/08/01
 
-data_S18
-_pd_phase_name S18
+data_S6
+_pd_phase_name S6
 _cell_length_a  10.8180000000
 _cell_length_b  10.8180000000
 _cell_length_c  4.2800000000

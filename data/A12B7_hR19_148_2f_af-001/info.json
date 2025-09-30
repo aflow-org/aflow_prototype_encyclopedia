@@ -1,0 +1,51 @@
+{
+    "uid": "6N5Y",
+    "label": "A12B7_hR19_148_2f_af-001",
+    "alias": null,
+    "title": "Sc$_{7}$Cl$_{12}$ Structure",
+    "icsd": 36021,
+    "ccdc": 1607830,
+    "prototype": "Cl12Sc7",
+    "prototype_tex": "Cl$_{12}$Sc$_{7}$",
+    "number_of_species": 2,
+    "elements": [
+	"Cl",
+	"Sc"
+    ],
+    "pearson_symbol": "hR19",
+    "space_group_number": 148,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
+        "a",
+	"x2",
+	"y2",
+	"z2",
+	"x3",
+	"y3",
+	"z3",
+	"x4",
+	"y4",
+	"z4"
+    ],
+    "parameter_values": [
+	12.959,
+	0.680994,
+	0.3317,
+	0.2299,
+	0.5048,
+	0.1312,
+	0.1821,
+	0.8354,
+	0.1606,
+	0.0435,
+	0.6474
+    ],
+    "mineral_name": null,
+    "minerals": {},
+    "compounds": null,
+    "legacy": false,
+    "notes": null,
+    "comments": "We have shifted the origin by 1/2 c $\\hat{z}$, moving the Sc I atom from the (1b) Wyckoff position to the (1a) site."
+}

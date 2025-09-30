@@ -5,7 +5,7 @@
         "AB2C4_tI14_139_a_e_ce"
     ],
     "title": "0201 [(La,Ba)$_{2}$CuO$_{4}$] High-$T_{c}$ Structure",
-    "icsd": "68379",
+    "icsd": 68379,
     "ccdc": null,
     "prototype": "Ba2CuO4",
     "prototype_tex": "Ba$_{2}$CuO$_{4}$",
@@ -16,18 +16,22 @@
     "strukturbericht_tex": null,
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z3",
-        "z4"
+	"a",
+	"c/a",
+	"z3",
+	"z4"
     ],
     "parameter_values": [
-        3.7817,
-        3.50337,
-        0.36075,
-        0.1824
+	3.7817,
+	3.50337,
+	0.36075,
+	0.1824
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "Ba$_{2}$CuO$_{3+\\delta}$"
+    ],
     "legacy": false,
     "notes": "High-$T_{c}$",
     "comments": "The original ``high''-temperature (30K) superconductor found by Bednorz and Mueller. Lanthanum (92.5\\%) and barium (7.5\\%) atoms are distributed randomly on the lanthanum sublattice. The ground state structure of the parent compound, La$_{2}$CuO$_{4}$, is a \\href{current_web_home_dir/AB2C4_oF28_69_a_g_cg-001}{face-centered orthorhombic}, \\href{current_web_home_dir/AB2C4_oC28_64_a_f_ef-003}{base-centered orthorhombic}, or \\href{current_web_home_dir/AB2C4_mC28_8_2a_4a_4a2b-001}{base-centered monoclinic} distortion of this structure."

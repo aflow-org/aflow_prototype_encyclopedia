@@ -12,8 +12,8 @@
 
 # Last updated on 2024/08/01
 
-data_Na2Ni2O4
-_pd_phase_name Na2Ni2O4
+data_NaNiO2
+_pd_phase_name NaNiO2
 _cell_length_a  5.3226000000
 _cell_length_b  2.8451000000
 _cell_length_c  8.9624000000
@@ -45,5 +45,5 @@ loop_
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
 Na1 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Na 2 a
-Ni2 1.0000000000 0.0000000000 -0.0000000000 0.5000000000  Biso 1.0 Ni 2 c
-O3 1.0000000000 0.9117000000 -0.0000000000 0.1963000000  Biso 1.0 O 4 i
+Ni2 1.0000000000 0.0000000000 0.0000000000 0.5000000000  Biso 1.0 Ni 2 c
+O3  1.0000000000 0.9117000000 0.0000000000 0.1963000000  Biso 1.0 O  4 i

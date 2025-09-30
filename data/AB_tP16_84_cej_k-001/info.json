@@ -5,7 +5,7 @@
         "AB_tP16_84_cej_k"
     ],
     "title": "Vysotskite (PdS, $B34$) Structure",
-    "icsd": "22429",
+    "icsd": 22429,
     "ccdc": null,
     "prototype": "PdS",
     "prototype_tex": "PdS",
@@ -16,24 +16,31 @@
     "strukturbericht_tex": "$B34$",
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x3",
-        "y3",
-        "x4",
-        "y4",
-        "z4"
+	"a",
+	"c/a",
+	"x3",
+	"y3",
+	"x4",
+	"y4",
+	"z4"
     ],
     "parameter_values": [
-        6.429,
-        1.02831,
-        0.46779,
-        0.25713,
-        0.19361,
-        0.30754,
-        0.22904
+	6.429,
+	1.02831,
+	0.46779,
+	0.25713,
+	0.19361,
+	0.30754,
+	0.22904
     ],
-    "compounds": {},
+    "mineral_name": "vysotskite",
+    "minerals": {
+        "braggite": "(Ni,Pd,Pt)S"
+    },
+    "compounds": [
+        "PdSe",
+        "(Pt,Pd,Ni)S (braggite)"
+    ],
     "legacy": false,
     "notes": "$B34$",
     "comments": null

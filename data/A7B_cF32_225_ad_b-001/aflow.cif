@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/A7B_cF32_225_ad_b-001
 
 # Last updated on 2024/08/01
-data_Ca28Ge4
-_pd_phase_name Ca28Ge4
+data_Ca7Ge
+_pd_phase_name Ca7Ge
 _cell_length_a  9.4500000000
 _cell_length_b  9.4500000000
 _cell_length_c  9.4500000000
@@ -228,6 +228,6 @@ loop_
  _atom_site_type_symbol
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
-Ca1 1.0000000000 -0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Ca 4 a
-Ge3 1.0000000000 0.5000000000 0.5000000000 0.5000000000  Biso 1.0 Ge 4 b
-Ca2 1.0000000000 -0.0000000000 0.2500000000 0.2500000000  Biso 1.0 Ca 24 d
+Ca1 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Ca  4 a
+Ge3 1.0000000000 0.5000000000 0.5000000000 0.5000000000  Biso 1.0 Ge  4 b
+Ca2 1.0000000000 0.0000000000 0.2500000000 0.2500000000  Biso 1.0 Ca 24 d

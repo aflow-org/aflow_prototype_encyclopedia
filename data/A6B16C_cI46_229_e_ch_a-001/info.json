@@ -3,7 +3,7 @@
     "label": "A6B16C_cI46_229_e_ch_a-001",
     "alias": null,
     "title": "Dy$_{6}$Fe$_{16}$O Structure",
-    "icsd": "9639",
+    "icsd": 9639,
     "ccdc": null,
     "prototype": "Dy6Fe16O",
     "prototype_tex": "Dy$_{6}$Fe$_{16}$O",
@@ -14,16 +14,28 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "x3",
-        "y4"
+	"a",
+	"x3",
+	"y4"
     ],
     "parameter_values": [
-        8.8692,
-        0.28,
-        0.3333
+	8.8692,
+	0.28,
+	0.3333
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"Ba$_{6}$Na$_{16}$N",
+	"Ca$_{6}$Ag$_{16}$N",
+	"Dy$_{6}$Fe$_{16}$O",
+	"Dy$_{6}$Fe$_{16}$O",
+	"Er$_{6}$Fe$_{16}$O",
+	"Gd$_{6}$Fe$_{16}$O",
+	"Ho$_{6}$Fe$_{16}$O",
+	"Tb$_{6}$Fe$_{16}$O",
+	"Y$_{6}$Fe$_{16}$O"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "This is a \\href{current_web_home_dir/A_cI2_229_a-001}{body-centered cubic structure} with vacancies on the octahedral sites adjacent to the oxygen atoms. \n The (2a) site is often only partially occupied, {\\em e.g.}, Ca$_{6}$Ag$_{16}$N was originally thought to be Ag$_{8}$Ca$_{3}$ (Calvert, 1964), but there is some nitrogen present on the (2a) site. (Villars, 2004)"

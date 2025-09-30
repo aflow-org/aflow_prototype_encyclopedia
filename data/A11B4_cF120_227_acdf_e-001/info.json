@@ -5,7 +5,7 @@
         "A11B4_cF120_227_acdf_e"
     ],
     "title": "$\\gamma$-Ga$_{2}$O$_{3}$ Structure",
-    "icsd": "236276",
+    "icsd": 236276,
     "ccdc": null,
     "prototype": "Ga2O3",
     "prototype_tex": "Ga$_{2}$O$_{3}$",
@@ -16,16 +16,18 @@
     "strukturbericht_tex": null,
     "part": 3,
     "parameter_symbols": [
-        "a",
-        "x4",
-        "x5"
+	"a",
+	"x4",
+	"x5"
     ],
     "parameter_values": [
-        8.2376,
-        0.2552,
-        0.368
+	8.2376,
+	0.2552,
+	0.368
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "$\\gamma$-Ga$_{2}$O$_{3}$",
     "comments": "Ga$_{2}$O$_{3}$ exhibits a variety of structures: \\begin{itemize} \\item $\\alpha$Ga$_{2}$O$_{3}$, which has the \\href{current_web_home_dir/A2B3_hR10_167_c_e-001}{corundum ($D5_{1}$) structure} , \\item \\href{current_web_home_dir/A2B3_mC20_12_2i_3i-001}{$\\beta$Ga$_{2}$O$_{3}$}, \\item $\\gamma$Ga$_{2}$O$_{3}$, this structure, and \\item $\\epsilon$Ga$_{2}$O$_{3}$, a structure with many vacancies which can be approximated by the \\href{current_web_home_dir/A2B3_oP40_33_4a_6a-001}{$\\kappa$ alumina structure}. \\end{itemize} \\vspace{-.25in} ~ \n In $\\gamma$Ga$_{2}$O$_{3}$ none of the gallium sites have full occupancy.  Ga-I and Ga-II are 74.1\\% occupied, Ga-III is 6.6\\% occupied, and Ga-IV is only 2.4\\% occupied."

@@ -3,7 +3,7 @@
     "label": "ABC_tP6_129_a_c_b-001",
     "alias": null,
     "title": "LaOF Structure",
-    "icsd": "76427",
+    "icsd": 76427,
     "ccdc": null,
     "prototype": "FLaO",
     "prototype_tex": "FLaO",
@@ -14,16 +14,33 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z3"
+	"a",
+	"c/a",
+	"z3"
     ],
     "parameter_values": [
-        4.083,
-        1.42665,
-        0.778
+	4.083,
+	1.42665,
+	0.778
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "DyOF",
+        "ErOF",
+        "EuOF",
+        "GdOF",
+        "HoOF",
+        "LiMnAs",
+        "LiMnP",
+        "LiMnSb",
+        "NdOF",
+        "PuOF",
+        "PrOF",
+        "SmOF",
+        "TbOF",
+        "YOF"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "The general formula for this compound is XO$_{x}$F$_{3-2x}$.  For $x \\le 1$ the structure is \\href{current_web_home_dir/ABC_tP6_129_a_c_b-001}{tetragonal (LaOF prototype)}, and when $x > 1$ it is \\href{current_web_home_dir/ABC_hR6_166_c_c_c-002}{rhombohedral (YOF prototype)}.  At high temperatures these structures transform into the cubic \\href{current_web_home_dir/AB2_cF12_225_a_c-001}{fluorite ($C1$) structure}, with the anions statistically distributed over the (2c) sites. (Zachariasen, 1951; Petzel, 1993)"

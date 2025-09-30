@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/AB_mP4_11_e_e-001
 
 # Last updated on 2024/08/01
-data_Ni2Ti2
-_pd_phase_name Ni2Ti2
+data_NiTi
+_pd_phase_name NiTi
 _cell_length_a  2.8837000000
 _cell_length_b  4.1062000000
 _cell_length_c  4.6674000000

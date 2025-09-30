@@ -5,23 +5,35 @@
         "A3B2_cP10_224_d_b"
     ],
     "title": "Mg$_{3}$P$_{2}$ ($D5_{5}$) Structure",
-    "icsd": "24489",
+    "icsd": 24489,
     "ccdc": null,
     "prototype": "Mg3P2",
     "prototype_tex": "Mg$_{3}$P$_{2}$",
     "number_of_species": 2,
     "pearson_symbol": "cP10",
     "space_group_number": 224,
-    "strukturbericht": "D5_5",
+    "strukturbericht": "D55",
     "strukturbericht_tex": "$D5_{5}$",
     "part": 3,
     "parameter_symbols": [
-        "a"
+	"a"
     ],
     "parameter_values": [
-        5.9121
+	5.9121
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"Ag$_{2}$O$_{3}$",
+	"Al$_{3}$P$_{2}$",
+	"Be$_{3}$P$_{2}$",
+	"Cd$_{3}$As$_{2}$",
+	"Cd$_{3}$P$_{2}$",
+	"Mg$_{3}$As$_{2}$",
+	"Mg$_{3}$P$_{2}$",
+	"Zn$_{3}$As$_{2}$",
+	"Zn$_{3}$P$_{2}$"
+    ],
     "legacy": false,
     "notes": "$D5_{5}$",
     "comments": "(Parth\\'{e}, 1993) lists As$_{2}$O$_{3}$ as the prototype for $D5_{5}$. \n (Passerini, 1928) gives the atomic positions in setting 1 of space group $Pn\\overline{3}m$ \\#224.  We have shifted this to the standard setting 2."

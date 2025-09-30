@@ -3,7 +3,7 @@
     "label": "A2B3_oC20_64_f_ae-001",
     "alias": null,
     "title": "La$_{2}$Ni$_{3}$ Structure",
-    "icsd": "450",
+    "icsd": 450,
     "ccdc": null,
     "prototype": "La2Ni3",
     "prototype_tex": "La$_{2}$Ni$_{3}$",
@@ -14,22 +14,30 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "y2",
-        "y3",
-        "z3"
+	"a",
+	"b/a",
+	"c/a",
+	"y2",
+	"y3",
+	"z3"
     ],
     "parameter_values": [
-        5.113,
-        1.90319,
-        1.54645,
-        0.419,
-        0.6563,
-        0.094
+	5.113,
+	1.90319,
+	1.54645,
+	0.419,
+	0.6563,
+	0.094
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"K$_{2}$Au$_{3}$",
+	"La$_{2}$Co$_{3}$",
+	"Nd$_{2}$Co$_{3}$",
+	"Rb$_{2}$Au$_{3}$",
+	"GaRh$_{2}$Pr$_{2}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": null

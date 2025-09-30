@@ -3,7 +3,7 @@
     "label": "ABC_tP12_131_k_j_l-001",
     "alias": null,
     "title": "PdTeI Structure",
-    "icsd": "50987",
+    "icsd": 50987,
     "ccdc": null,
     "prototype": "IPdTe",
     "prototype_tex": "IPdTe",
@@ -14,20 +14,22 @@
     "strukturbericht_tex": null,
     "part": 5,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x1",
-        "x2",
-        "x3"
+	"a",
+	"c/a",
+	"x1",
+	"x2",
+	"x3"
     ],
     "parameter_values": [
-        7.821,
-        0.723565,
-        0.2525,
-        0.2435,
-        0.2164
+	7.821,
+	0.723565,
+	0.2525,
+	0.2435,
+	0.2164
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": null,
     "comments": null

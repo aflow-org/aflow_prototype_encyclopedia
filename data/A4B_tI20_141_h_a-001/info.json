@@ -3,7 +3,7 @@
     "label": "A4B_tI20_141_h_a-001",
     "alias": null,
     "title": "$\\beta$-ThCl$_{4}$ Structure",
-    "icsd": "26197",
+    "icsd": 26197,
     "ccdc": null,
     "prototype": "Cl4Th",
     "prototype_tex": "Cl$_{4}$Th",
@@ -14,18 +14,20 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "y2",
-        "z2"
+	"a",
+	"c/a",
+	"y2",
+	"z2"
     ],
     "parameter_values": [
-        8.48,
-        0.879717,
-        0.5633,
-        0.7992
+	8.48,
+	0.879717,
+	0.5633,
+	0.7992
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "$\\beta$-ThCl$_{4}$",
     "comments": "$\\beta$-ThCl$_{4}$ is stable above 405$^\\circ$C.  Below that temperature it transforms into \\href{current_web_home_dir/A4B_tI20_88_f_a-001}{$\\alpha$-ThCl$_{4}$}. (Mason, 1974)"

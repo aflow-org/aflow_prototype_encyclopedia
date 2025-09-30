@@ -5,33 +5,38 @@
         "ABC2_hR24_167_e_e_2e"
     ],
     "title": "KBO$_{2}$ ($F5_{13}$) Structure",
-    "icsd": "16005",
+    "icsd": 16005,
     "ccdc": null,
     "prototype": "BKO2",
     "prototype_tex": "BKO$_{2}$",
     "number_of_species": 3,
     "pearson_symbol": "hR24",
     "space_group_number": 167,
-    "strukturbericht": "F5_13",
+    "strukturbericht": "F513",
     "strukturbericht_tex": "$F5_{13}$",
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x1",
-        "x2",
-        "x3",
-        "x4"
+	"a",
+	"c/a",
+	"x1",
+	"x2",
+	"x3",
+	"x4"
     ],
     "parameter_values": [
-        12.7599,
-        0.575234,
-        0.3611,
-        0.6887,
-        0.4657,
-        0.1416
+	12.7599,
+	0.575234,
+	0.3611,
+	0.6887,
+	0.4657,
+	0.1416
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "NaBO$_{2}$",
+        "NaBS$_{2}$"
+    ],
     "legacy": false,
     "notes": "$F5_{13}$",
     "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."

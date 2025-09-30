@@ -1,0 +1,54 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  Cs3GeTe3
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/ A3BC3_mC56_15_2e2f_f_3f-001
+
+# Last updated on 2024/08/07
+
+data_Cs3GeTe3
+_pd_phase_name Cs3GeTe3
+_cell_length_a  17.0270000000
+_cell_length_b  14.2370000000
+_cell_length_c  10.1040000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  96.7010000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'C2/c'
+_symmetry_Int_Tables_Number  15
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y,-z+1/2
+  3  -x,-y,-z
+  4  x,-y,z+1/2
+  5  x+1/2,y+1/2,z
+  6  -x+1/2,y+1/2,-z+1/2
+  7  -x+1/2,-y+1/2,-z
+  8  x+1/2,-y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Cs1 1.0000000000  0.0000000000 0.3956000000 0.2500000000  Biso 1.0 Cs 4 e
+Cs2 1.0000000000  0.0000000000 0.0823400000 0.2500000000  Biso 1.0 Cs 4 e
+Cs3 1.0000000000  0.7136900000 0.4711800000 0.1822300000  Biso 1.0 Cs 8 f
+Cs4 1.0000000000 -0.0921000000 0.3117800000 0.8736000000  Biso 1.0 Cs 8 f
+Ge5 1.0000000000  0.8174700000 0.2578200000 0.4596900000  Biso 1.0 Ge 8 f
+Te6 1.0000000000  0.8107800000 0.2326700000 0.2037200000  Biso 1.0 Te 8 f
+Te7 1.0000000000  0.8744000000 0.5763100000 0.0207700000  Biso 1.0 Te 8 f
+Te8 1.0000000000 -0.0853800000 0.1370600000 0.5758600000  Biso 1.0 Te 8 f

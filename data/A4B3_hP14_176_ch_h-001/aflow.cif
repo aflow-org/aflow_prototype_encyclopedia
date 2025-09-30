@@ -12,8 +12,8 @@
 
 # Last updated on 2024/08/01
 
-data_N8Si6
-_pd_phase_name N8Si6
+data_N4Si3
+_pd_phase_name N4Si3
 _cell_length_a  7.6093000000
 _cell_length_b  7.6093000000
 _cell_length_c  2.9079000000
@@ -48,6 +48,6 @@ loop_
  _atom_site_type_symbol
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
-N1 1.0000000000 0.3333300000 0.6666700000 0.2500000000  Biso 1.0 N 2 c
-N2 1.0000000000 0.3290000000 0.0390000000 0.2500000000  Biso 1.0 N 6 h
+N1  1.0000000000 0.3333333333 0.6666666667 0.2500000000  Biso 1.0 N  2 c
+N2  1.0000000000 0.3290000000 0.0390000000 0.2500000000  Biso 1.0 N  6 h
 Si3 1.0000000000 0.1742000000 0.7678000000 0.2500000000  Biso 1.0 Si 6 h

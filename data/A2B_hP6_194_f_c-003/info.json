@@ -3,7 +3,7 @@
     "label": "A2B_hP6_194_f_c-003",
     "alias": null,
     "title": "ReB$_{2}$ Structure",
-    "icsd": "421522",
+    "icsd": 421522,
     "ccdc": null,
     "prototype": "B2Re",
     "prototype_tex": "B$_{2}$Re",
@@ -14,16 +14,21 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z2"
+	"a",
+	"c/a",
+	"z2"
     ],
     "parameter_values": [
-        2.9006,
-        2.57791,
-        0.54783
+	2.9006,
+	2.57791,
+	0.54783
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"ReC$_{2}$",
+	"TcB$_{2}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "This is identical to the \\href{current_web_home_dir/A3B_hP8_194_af_c-001}{ReB$_{3}$ structure} with the (2a) boron atoms removed.  (Frotscher, 2010) says that the earlier structure was ``falsely assigned.''"

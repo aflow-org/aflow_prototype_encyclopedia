@@ -3,7 +3,7 @@
     "label": "A7B2_hP9_164_ai_d-001",
     "alias": null,
     "title": "K$_{2}$Hg$_{7}$ Structure",
-    "icsd": "107482",
+    "icsd": 107482,
     "ccdc": null,
     "prototype": "Hg7K2",
     "prototype_tex": "Hg$_{7}$K$_{2}$",
@@ -14,20 +14,24 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z2",
-        "x3",
-        "z3"
+	"a",
+	"c/a",
+	"z2",
+	"x3",
+	"z3"
     ],
     "parameter_values": [
-        6.7175,
-        0.954715,
-        0.851,
-        0.178903,
-        0.3318
+	6.7175,
+	0.954715,
+	0.851,
+	0.178903,
+	0.3318
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"Rb$_{2}$Hg$_{7}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "This is a binary form of the \\href{current_web_home_dir/A6BC2_hP9_164_i_a_d-001}{K$_{2}$GeF$_{6}$ ($J1_{13}$) Structure}."

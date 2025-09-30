@@ -5,26 +5,38 @@
         "ABC4_cF24_216_b_a_e"
     ],
     "title": "High-Temperature Cubic KClO$_{4}$ ($H0_{5}$) Structure",
-    "icsd": "33562",
+    "icsd": 33562,
     "ccdc": null,
     "prototype": "ClKO4",
     "prototype_tex": "ClKO$_{4}$",
     "number_of_species": 3,
     "pearson_symbol": "cF24",
     "space_group_number": 216,
-    "strukturbericht": "H0_5",
+    "strukturbericht": "H05",
     "strukturbericht_tex": "$H0_{5}$",
     "part": 3,
     "parameter_symbols": [
-        "a",
-        "x3"
+	"a",
+	"x3"
     ],
     "parameter_values": [
-        7.485,
-        0.623
+	7.485,
+	0.623
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "AgClO$_{4}$",
+        "BaSO$_{4}$",
+        "CsClO$_{4}$",
+        "KBH$_{4}$",
+        "NH$_{4}$ClO$_{4}$",
+        "NaBH$_{4}$",
+        "NaClO$_{4}$",
+        "RbClO$_{4}$",
+        "TlClO$_{4}$"
+    ],
     "legacy": false,
     "notes": "$H0_{5}$, HT",
-    "comments": "This is the high-temperature phase of the listed perchlorate structures. KClO$_{4}$ transforms from its \\href{current_web_home_dir/AB4C_oP24_62_c_2cd_c-001}{ground-state orthorhombic structure, $H0_{2}$} into this structure at $299.5^{\\circ}$C. The transition temperature for the other compounds range from $155^{\\circ}$C (AgClO$_{4}$) to $308^{\\circ}$C (NaClO$_{4}$). \n The lattice constant for KClO$_{4}$ was measured at $310^{\\circ}$C."
+    "comments": "This is the high-temperature phase of the listed perchlorate structures. KClO$_{4}$ transforms from its \\href{current_web_home_dir/AB4C_oP24_62_c_2cd_c-001}{ground-state orthorhombic structure, $H0_{2}$} into this structure at $299.5^{\\circ}$C. The transition temperature for the other compounds range from $155^{\\circ}$C (AgClO$_{4}$) to $308^{\\circ}$C (NaClO$_{4}$). \n The ICSD lists BaSO$_{4}$ as the structure type, but we prefer KClO$_{4}$ for the prototype as it has a {\\em Strukturbericht} symbol, and use BaSO$_{4}$ as the prototype for the \\href{current_web_home_dir/AB4C_oP24_62_c_2cd_c-001}{orthorhombic $H0_{2}$ structure}. \n The lattice constant for KClO$_{4}$ was measured at $310^{\\circ}$C. \n Previous versions of this page listed EuPtIn$_{4}$ and MgSnCu$_{4}$ under this prototype. This is incorrect, the atoms are on (4a), (4c) and (16e) sites and so belong to the \\href{current_web_home_dir/A4BC_cF24_216_e_a_c-001}{Cu$_{4}$SnMg prototype}."
 }

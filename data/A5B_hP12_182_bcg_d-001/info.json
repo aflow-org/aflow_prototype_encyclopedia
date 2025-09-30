@@ -3,7 +3,7 @@
     "label": "A5B_hP12_182_bcg_d-001",
     "alias": null,
     "title": "WAl$_{5}$ Structure",
-    "icsd": "58206",
+    "icsd": 58206,
     "ccdc": null,
     "prototype": "Al5W",
     "prototype_tex": "Al$_{5}$W",
@@ -14,16 +14,20 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x4"
+	"a",
+	"c/a",
+	"x4"
     ],
     "parameter_values": [
-        4.902,
-        1.80681,
-        0.666673
+	4.902,
+	1.80681,
+	0.666673
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"MoAl$_{5}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "Although (Adam, 1955) state that 'Spatial considerations rule out space group [$P6_{3}22$ \\#182] and so put this crystal in space group $P6_{3}$ \\#173, their coordinates are in fact consistent with space group $P6_{3}22$. (Cenzual, 1991)"

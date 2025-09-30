@@ -5,23 +5,37 @@
         "A3B_cP4_221_d_a"
     ],
     "title": "$\\alpha$-ReO$_{3}$ ($D0_{9}$) Structure",
-    "icsd": "16810",
+    "icsd": 16810,
     "ccdc": null,
     "prototype": "O3Re",
     "prototype_tex": "O$_{3}$Re",
     "number_of_species": 2,
     "pearson_symbol": "cP4",
     "space_group_number": 221,
-    "strukturbericht": "D0_9",
+    "strukturbericht": "D09",
     "strukturbericht_tex": "$D0_{9}$",
     "part": 1,
     "parameter_symbols": [
-        "a"
+	"a"
     ],
     "parameter_values": [
-        3.734
+	3.734
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "AlF$_{3}$",
+        "HfF$_{3}$",
+        "MoF$_{3}$",
+        "NCu$_{3}$",
+        "NNa$_{3}$",
+        "NbF$_{3}$",
+        "PbI$_{3}$",
+        "ScF$_{3}$",
+        "TaF$_{3}$",
+        "UO$_{3}$",
+        "WO$_{3}$"
+    ],
     "legacy": false,
     "notes": "$D0_{9}$, $\\alpha$-ReO$_{3}$",
     "comments": "Placing an atom on the origin, {\\em aka} the (1a) Wyckoff position, transforms this into the \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite ($E2_{1}$) structure}."

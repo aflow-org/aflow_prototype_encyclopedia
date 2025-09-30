@@ -5,33 +5,37 @@
         "ABC3_cP20_198_a_a_b"
     ],
     "title": "Sodium Chlorate (NaClO$_{3}$, $G0_{3}$) Structure",
-    "icsd": "16714",
+    "icsd": 16714,
     "ccdc": null,
     "prototype": "NaClO3",
     "prototype_tex": "NaClO$_{3}$",
     "number_of_species": 3,
     "pearson_symbol": "cP20",
     "space_group_number": 198,
-    "strukturbericht": "G0_3",
+    "strukturbericht": "G03",
     "strukturbericht_tex": "$G0_{3}$",
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "x1",
-        "x2",
-        "x3",
-        "y3",
-        "z3"
+	"a",
+	"x1",
+	"x2",
+	"x3",
+	"y3",
+	"z3"
     ],
     "parameter_values": [
-        6.57,
-        0.417,
-        0.064,
-        0.303,
-        0.592,
-        0.5
+	6.57,
+	0.417,
+	0.064,
+	0.303,
+	0.592,
+	0.5
     ],
-    "compounds": {},
+    "mineral_name": "sodium chlorate",
+    "minerals": null,
+    "compounds": [
+        "NaBrO$_{3}$"
+    ],
     "legacy": false,
     "notes": "Sodium Chlorate",
     "comments": null

@@ -12,8 +12,8 @@
 
 # Last updated on 2024/08/01
 
-data_O10V4
-_pd_phase_name O10V4
+data_O5V2
+_pd_phase_name O5V2
 _cell_length_a  11.4800000000
 _cell_length_b  4.3600000000
 _cell_length_c  3.5500000000

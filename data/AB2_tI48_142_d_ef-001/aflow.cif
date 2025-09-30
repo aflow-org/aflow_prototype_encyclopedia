@@ -12,8 +12,8 @@
 
 # Last updated on 2024/08/01
 
-data_Pd16Sn32
-_pd_phase_name Pd16Sn32
+data_PdSn2
+_pd_phase_name PdSn2
 _cell_length_a  6.4900000000
 _cell_length_b  6.4900000000
 _cell_length_c  24.3270000000

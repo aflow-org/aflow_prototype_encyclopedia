@@ -3,7 +3,7 @@
     "label": "AB2C6D_hP20_163_c_f_i_a-001",
     "alias": null,
     "title": "$\\beta$-Na$_{2}$GeTeO$_{6}$ Structure",
-    "icsd": "88789",
+    "icsd": 88789,
     "ccdc": null,
     "prototype": "GeNa2O6Te",
     "prototype_tex": "GeNa$_{2}$O$_{6}$Te",
@@ -14,22 +14,27 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z3",
-        "x4",
-        "y4",
-        "z4"
+	"a",
+	"c/a",
+	"z3",
+	"x4",
+	"y4",
+	"z4"
     ],
     "parameter_values": [
-        5.0958,
-        2.08652,
-        0.5466,
-        0.0589033,
-        0.706897,
-        0.1455
+	5.0958,
+	2.08652,
+	0.5466,
+	0.0589033,
+	0.706897,
+	0.1455
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"Li$_{2}$MnTeO$_{6}$",
+	"Na$_{2}$SnTeO$_{6}$"
+    ],
     "legacy": false,
     "notes": "$\\beta$-Na$_{2}$GeTeO$_{6}$",
     "comments": "There is also a rhombohedral form of this structure, $\\alpha$-Na$_{2}$GeTeO$_{6}$, \\href{current_web_home_dir/AB3C_hR10_148_c_f_c-001}{in the FeTiO$_{3}$ ($E2_{2}$) structure}.  This is the structure for $\\alpha$-Na$_{2}$GeTeO$_{6}$ given in Woodward, 1999), but the Wyckoff position labeled (12i) is actually (18f). The ICSD entry gives the correct structure."

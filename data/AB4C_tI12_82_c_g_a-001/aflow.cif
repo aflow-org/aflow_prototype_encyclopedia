@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/AB4C_tI12_82_c_g_a-001
 
 # Last updated on 2024/08/01
-data_B2O8P2
-_pd_phase_name B2O8P2
+data_BO4P
+_pd_phase_name BO4P
 _cell_length_a  4.3404000000
 _cell_length_b  4.3404000000
 _cell_length_c  6.6502000000
@@ -45,5 +45,5 @@ loop_
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
 B1 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 B 2 a
-P3 1.0000000000 -0.0000000000 0.5000000000 0.2500000000  Biso 1.0 P 2 c
+P3 1.0000000000 0.0000000000 0.5000000000 0.2500000000  Biso 1.0 P 2 c
 O2 1.0000000000 0.7421000000 0.6405000000 0.3771000000  Biso 1.0 O 8 g

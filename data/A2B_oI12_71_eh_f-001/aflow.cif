@@ -5,15 +5,16 @@
 # Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
 # Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
 # Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
-# Chemical Composition:  Te2U
+
+# Chemical Composition:  UTe2
 
 # The current version of this file is available at
-# https://aflow.org/prototype-encyclopedia/A2B_oI12_71_eh_f-001
+# https://aflow.org/prototype-encyclopedia/A2B_oI12_71_eh_f-001 
 
-# Last updated on 2024/08/01
+# Last updated on 2025/03/22
 
-data_Te8U4
-_pd_phase_name Te8U4
+data_UTe2
+_pd_phase_name UTe2
 _cell_length_a  13.8120000000
 _cell_length_b  6.0860000000
 _cell_length_c  4.1230000000
@@ -52,6 +53,6 @@ loop_
  _atom_site_type_symbol
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
-Te1 1.0000000000 0.7979900000 0.0000000000 -0.0000000000  Biso 1.0 Te 4 e
-U3 1.0000000000 0.1347300000 0.5000000000 -0.0000000000  Biso 1.0 U 4 f
-Te2 1.0000000000 -0.0000000000 0.2506200000 0.5000000000  Biso 1.0 Te 4 h
+Te1 1.0000000000 0.7979900000 0.0000000000 0.0000000000  Biso 1.0 Te 4 e
+U3  1.0000000000 0.1347300000 0.5000000000 0.0000000000  Biso 1.0 U  4 f
+Te2 1.0000000000 0.0000000000 0.2506200000 0.5000000000  Biso 1.0 Te 4 h

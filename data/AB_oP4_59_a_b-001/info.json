@@ -5,7 +5,7 @@
         "AB_oP4_59_a_b"
     ],
     "title": "Vulcanite (CuTe) Structure",
-    "icsd": "42591",
+    "icsd": 42591,
     "ccdc": null,
     "prototype": "CuTe",
     "prototype_tex": "CuTe",
@@ -16,20 +16,22 @@
     "strukturbericht_tex": null,
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "z1",
-        "z2"
+	"a",
+	"b/a",
+	"c/a",
+	"z1",
+	"z2"
     ],
     "parameter_values": [
-        3.15,
-        1.29841,
-        2.20635,
-        0.051,
-        0.277
+	3.15,
+	1.29841,
+	2.20635,
+	0.051,
+	0.277
     ],
-    "compounds": {},
+    "mineral_name": "vulcanite",
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "Vulcanite",
     "comments": "Our data is from (Cameron, 1961), but the ICSD is from (Baranova, 1964)."

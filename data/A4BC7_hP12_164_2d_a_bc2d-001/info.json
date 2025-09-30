@@ -3,7 +3,7 @@
     "label": "A4BC7_hP12_164_2d_a_bc2d-001",
     "alias": null,
     "title": "MnBi$_{4}$Te$_{7}$ Structure",
-    "icsd": "37567",
+    "icsd": 37567,
     "ccdc": null,
     "prototype": "Bi4MnTe7",
     "prototype_tex": "Bi$_{4}$MnTe$_{7}$",
@@ -14,24 +14,32 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z3",
-        "z4",
-        "z5",
-        "z6",
-        "z7"
+	"a",
+	"c/a",
+	"z3",
+	"z4",
+	"z5",
+	"z6",
+	"z7"
     ],
     "parameter_values": [
-        4.355,
-        5.46843,
-        0.7645,
-        0.8446,
-        0.5842,
-        0.3443,
-        0.0645
+	4.355,
+	5.46843,
+	0.7645,
+	0.8446,
+	0.5842,
+	0.3443,
+	0.0645
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "GeAs$_{4}$Te$_{7}$",
+        "GeBi$_{4}$Te$_{7}$",
+        "GeSb$_{4}$Te$_{7}$",
+        "PbBi$_{4}$Te$_{7}$",
+        "SnBi$_{4}$Te$_{7}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "The ICSD says places these compounds under the \\href{current_web_home_dir/ABC2_hP12_164_ad_bd_c2d-001}{Bohdanowiczite (AgBiSe$_{2}$) structure}, which is true in the sense that the same Wyckoff positions are occupied.  We arbitrarily chose MnBi$_{4}$Te$_{7}$ as the prototype for this stoichiometry."

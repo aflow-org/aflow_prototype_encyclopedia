@@ -5,7 +5,7 @@
         "ABC2_tP4_123_d_a_f"
     ],
     "title": "CaCuO$_{2}$ Structure",
-    "icsd": "65066",
+    "icsd": 65066,
     "ccdc": null,
     "prototype": "CaCuO2",
     "prototype_tex": "CaCuO$_{2}$",
@@ -16,14 +16,27 @@
     "strukturbericht_tex": null,
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a"
+	"a",
+	"c/a"
     ],
     "parameter_values": [
-        3.8611,
-        0.82865
+	3.8611,
+	0.82865
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "(Ba,Sr)CuO$_{2}$",
+        "(Sr,La)CuO$_{2}$",
+        "(Sr,Ca)CuO$_{2}$",
+        "LaNiO$_{2}$",
+        "NdNiO$_{2}$",
+        "CsNiF$_{2}$",
+        "KNiF$_{2}$",
+        "LiNiF$_{2}$",
+        "NaNiF$_{2}$",
+        "RbNiF$_{2}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "As noted in (Siegrist, 1988) this is the parent structure of the high-temperature cuprate superconductors. \n (Siegrist, 1988) give the composition of the Ca (1a) site as Ca$_{0.86}$Sr$_{0.14}$. \n We have shifted the origin from the Cu site to the Ca site."

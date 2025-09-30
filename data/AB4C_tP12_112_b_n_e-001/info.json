@@ -5,7 +5,7 @@
         "AB4C_tP12_112_b_n_e"
     ],
     "title": "$\\alpha$-CuAlCl$_{4}$ Structure",
-    "icsd": "165608",
+    "icsd": 165608,
     "ccdc": null,
     "prototype": "AlCl4Cu",
     "prototype_tex": "AlCl$_{4}$Cu",
@@ -16,20 +16,29 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x3",
-        "y3",
-        "z3"
+	"a",
+	"c/a",
+	"x3",
+	"y3",
+	"z3"
     ],
     "parameter_values": [
-        5.4411,
-        1.85863,
-        0.2334,
-        0.2761,
-        0.6295
+	5.4411,
+	1.85863,
+	0.2334,
+	0.2761,
+	0.6295
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "$\\alpha$-CuAlBr$_{4}$",
+        "$\\alpha$-CuAlCl$_{2}$Br$_{2}$",
+        "$\\alpha$-CuAlCl$_{3}$Br",
+        "$\\alpha$-CuAlClBr$_{3}$",
+        "$\\alpha$-CuGaBr$_{4}$",
+        "$\\alpha$-CuGaCl$_{4}$"
+    ],
     "legacy": false,
     "notes": "$\\alpha$-CuAlCl$_{4}$",
     "comments": "This is the ground state structure of CuAlCl$_{4}$.  There is also a metastable \\href{current_web_home_dir/AB4C_oP24_33_a_4a_a-001}{orthorhombic $\\beta$-CuAlCl$_{4}$ structure}. \n The lattice parameters and coordinates of the Wyckoff positions have been inferred from the distance and angular data in (Martin, 1998). \n The ICSD entry from (Martin, 1998) refers to the related compound $\\alpha$-CuAlBr$_{4}$."

@@ -3,7 +3,7 @@
     "label": "ABC_tP3_123_c_a_b-001",
     "alias": null,
     "title": "FeNNi Structure",
-    "icsd": "53505",
+    "icsd": 53505,
     "ccdc": null,
     "prototype": "FeNNi",
     "prototype_tex": "FeNNi",
@@ -14,14 +14,16 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a"
+	"a",
+	"c/a"
     ],
     "parameter_values": [
-        2.83,
-        1.31201
+	2.83,
+	1.31201
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": null,
     "comments": "The structure is inferred from comments made in (Arnott, 1960)."
