@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/A2B3_hR10_167_c_e-001
 
 # Last updated on 2024/08/01
-data_Al12O18
-_pd_phase_name Al12O18
+data_Al2O3
+_pd_phase_name Al2O3
 _cell_length_a  4.7607000000
 _cell_length_b  4.7607000000
 _cell_length_c  12.9947000000
@@ -72,5 +72,5 @@ loop_
  _atom_site_type_symbol
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
-Al1 1.0000000000 -0.0000000000 0.0000000000 0.3521600000  Biso 1.0 Al 12 c
-O2 1.0000000000 0.6939000000 0.0000000000 0.2500000000  Biso 1.0 O 18 e
+Al1 1.0000000000 0.0000000000 0.0000000000 0.3521600000  Biso 1.0 Al 12 c
+O2  1.0000000000 0.6939000000 0.0000000000 0.2500000000  Biso 1.0 O  18 e
