@@ -6,14 +6,14 @@
 # Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
 # Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
 
-# Chemical Composition:  AB2_hP9_162_ad_k-001 NV2 L'32
+# Chemical Composition:  L'32
 
 # The current version of this file is available at
 # https://aflow.org/prototype-encyclopedia/AB2_hP9_162_ad_k-001
 
 # Last updated on 2024/08/01
-data_N3V6
-_pd_phase_name N3V6
+data_NV2
+_pd_phase_name NV2
 _cell_length_a  4.9170000000
 _cell_length_b  4.9170000000
 _cell_length_c  4.5680000000
@@ -49,5 +49,5 @@ loop_
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
 N1 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 N 1 a
-N2 1.0000000000 0.3333300000 0.6666700000 0.5000000000  Biso 1.0 N 2 d
-V3 1.0000000000 0.3250000000 -0.0000000000 0.2720000000  Biso 1.0 V 6 k
+N2 1.0000000000 0.3333333333 0.6666666667 0.5000000000  Biso 1.0 N 2 d
+V3 1.0000000000 0.3250000000 0.0000000000 0.2720000000  Biso 1.0 V 6 k
