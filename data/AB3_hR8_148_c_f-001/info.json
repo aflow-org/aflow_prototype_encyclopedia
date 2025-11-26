@@ -4,9 +4,9 @@
     "alias": [
         "AB3_hR8_148_c_f"
     ],
-    "title": "BiI$_{3}$ ($D0_{5}$) Structure",
+    "title": "Rhombohedral BiI$_{3}$ ($D0_{5}$) Structure",
     "icsd": 36182,
-    "ccdc": null,
+    "ccdc": 1607956,
     "prototype": "BiI3",
     "prototype_tex": "BiI$_{3}$",
     "number_of_species": 2,
@@ -36,12 +36,14 @@
     "compounds": [
         "AsI$_{3}$",
         "BrI$_{3}$",
+        "CmI$_{3}$",
         "CrBr$_{3}$",
         "CrCl$_{3}$",
         "CrI$_{3}$",
         "FeBr$_{3}$",
         "FeCl$_{3}$",
         "RhBr$_{3}$",
+        "RuBr$_{3}$",
         "SbI$_{3}$",
         "ScCl$_{3}$",
 	"TiBr$_{3}$",
@@ -54,5 +56,5 @@
     ],
     "legacy": false,
     "notes": "$D0_{5}$",
-    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
+    "comments": "BiI$_{3}$ has also been reported in a \\href{current_web_home_dir/AB3_hP8_162_c_k-001}{hexagonal (trigonal)} structure. The Bi-I bonds are similar in both structures, with the only difference being the stacing of the layers. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

@@ -1,0 +1,36 @@
+{
+    "uid": "D8KY",
+    "label": "AB3_hP8_162_c_k-001",
+    "alias": null,
+    "title": "Hexagonal BiI$_{3}$ Structure",
+    "icsd": 20676,
+    "ccdc": 1598437,
+    "prototype": "BiI3",
+    "prototype_tex": "BiI$_{3}$",
+    "number_of_species": 2,
+    "pearson_symbol": "hP8",
+    "space_group_number": 162,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
+        "a",
+	"c/a",
+	"x2",
+	"z2"
+    ],
+    "parameter_values": [
+        7.5,
+	0.92,
+	0.6667,
+	0.258
+    ],
+    "mineral_name": null,
+    "minerals": {},
+    "compounds": [
+	"TiCl$_{3}$"
+    ],
+    "legacy": false,
+    "notes": null,
+    "comments": "BiI$_{3}$ has also been reported in the \\href{current_web_home_dir/AB3_hR8_148_c_f-001}{rhombohedral $D0_{5}$ structure}. The Bi-I bonds are similar in both structures, with the only difference being the stacing of the layers. \n Note that although the lattice is hexagonal, the symmetry is trigonal."
+}
