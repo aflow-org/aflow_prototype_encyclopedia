@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/AB_cF16_227_a_b-001
 
 # Last updated on 2024/08/01
-data_Na8Tl8
-_pd_phase_name Na8Tl8
+data_NaTl
+_pd_phase_name NaTl
 _cell_length_a  7.4830000000
 _cell_length_b  7.4830000000
 _cell_length_c  7.4830000000

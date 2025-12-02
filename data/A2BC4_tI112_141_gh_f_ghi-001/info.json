@@ -4,7 +4,7 @@
     "alias": null,
     "title": "Bi$_{2}$CdO$_{4}$ Structure",
     "icsd": 89453,
-    "ccdc": null,
+    "ccdc": 1649125,
     "prototype": "Bi2CdO4",
     "prototype_tex": "Bi$_{2}$CdO$_{4}$",
     "number_of_species": 3,
@@ -43,8 +43,10 @@
     ],
     "mineral_name": null,
     "minerals": null,
-    "compounds": null,
+    "compounds": [
+	"Li$_{2}$WO$_{4}$"
+    ],
     "legacy": false,
     "notes": null,
-    "comments": "(Kirik, 1999) give the coordinates of the oxygen atoms on the (32g) Wyckoff position as (0.1575,0.09252,0.875), however the correct value for x should be 1/4-y = 0.15748.  We made this minor correction to maintain the symmetry.  In practice, the error is less than the measurement error in the sample."
+    "comments": "(Kirik, 1999) give the coordinates of the oxygen atoms on the (32g) Wyckoff position as (0.1575,0.09252,0.875), however the correct value for x should be 1/4-y = 0.15748.  We made this minor correction to maintain the symmetry.  In practice, the error is less than the measurement error in the sample. \n When the bismuth on the (16g) or (16h) site is replaced by another atomic species this becomes the \\href{current_web_home_dir/ABC4D_tI112_141_h_f_ghi_g-001}{quaternary BiYCdO$_{4}$ structure}. Both forms are given the Bi$_{2}$CdO$_{4}$ structure type in the ICSD."
 }

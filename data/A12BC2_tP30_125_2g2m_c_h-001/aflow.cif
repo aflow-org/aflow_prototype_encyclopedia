@@ -12,8 +12,8 @@
 
 # Last updated on 2024/08/01
 
-data_Ga24Ni2Sm4
-_pd_phase_name Ga24Ni2Sm4
+data_Ga12NiSm2
+_pd_phase_name Ca12NiSm2
 _cell_length_a  5.9953000000
 _cell_length_b  5.9953000000
 _cell_length_c  15.4011000000

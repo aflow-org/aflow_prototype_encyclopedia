@@ -5,18 +5,19 @@
 # Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
 # Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
 # Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
-# Chemical Composition:  Bi2CdO4
+
+# Chemical Composition:  BiYCdO4
 
 # The current version of this file is available at
-# https://aflow.org/prototype-encyclopedia/A2BC4_tI112_141_gh_f_ghi-001
+# https://aflow.org/prototype-encyclopedia/ABC4D_tI112_141_h_f_ghi_g-001 
 
-# Last updated on 2024/07/30
+# Last updated on 2025/12/02
 
-data_Bi2CDO4
-_pd_phase_name Bi2CdO4
-_cell_length_a  14.4948000000
-_cell_length_b  14.4948000000
-_cell_length_c  9.3173000000
+data_BiYCdO4
+_pd_phase_name BiYCdO4
+_cell_length_a  14.5900000000
+_cell_length_b  14.5900000000
+_cell_length_c  9.4420000000
 _cell_angle_alpha  90.0000000000
 _cell_angle_beta  90.0000000000
 _cell_angle_gamma  90.0000000000
@@ -68,9 +69,9 @@ loop_
  _atom_site_type_symbol
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
-Cd3 1.0000000000 0.3900000000 0.0000000000 0.0000000000  Biso 1.0 Cd 16 f
-Bi1 1.0000000000 0.1574800000 0.4074800000 0.8750000000  Biso 1.0 Bi 16 g
-O4  1.0000000000 0.6079000000 0.8579000000 0.8750000000  Biso 1.0 O  16 g
-Bi2 1.0000000000 0.0000000000 0.1113000000 0.2225000000  Biso 1.0 Bi 16 h
-O5  1.0000000000 0.0000000000 0.9772000000 0.3017000000  Biso 1.0 O  16 h
-O6  1.0000000000 0.1526000000 0.0252800000 0.1252000000  Biso 1.0 O  32 i
+Cd2 1.0000000000 0.3900300000 0.0000000000 0.0000000000  Biso 1.0 Cd 16 f
+O3  1.0000000000 0.6078300000 0.8578300000 0.8750000000  Biso 1.0 O  16 g
+Y6  1.0000000000 0.1575200000 0.4075200000 0.8750000000  Biso 1.0 Y  16 g
+Bi1 1.0000000000 0.0000000000 0.1113200000 0.2225200000  Biso 1.0 Bi 16 h
+O4  1.0000000000 0.0000000000 0.9772800000 0.3017900000  Biso 1.0 O  16 h
+O5  1.0000000000 0.1526700000 0.0528600000 0.1252800000  Biso 1.0 O  32 i

@@ -4,7 +4,7 @@
     "alias": null,
     "title": "Sr$_{2}$IrO$_{4}$ Structure",
     "icsd": 78260,
-    "ccdc": null,
+    "ccdc": 1638545,
     "prototype": "IrO4Sr2",
     "prototype_tex": "IrO$_{4}$Sr$_{2}$",
     "number_of_species": 3,
@@ -30,11 +30,12 @@
     "mineral_name": null,
     "minerals": null,
     "compounds": [
+        "Ca$_{2}$CrO$_{4}$",
         "Ca$_{2}$MnO$_{4}$",
         "Sr$_{2}$HfO$_{4}$",
         "Sr$_{2}$RhO$_{4}$"
     ],
     "legacy": false,
     "notes": null,
-    "comments": null
+    "comments": "The ICSD uses Ca$_{2}$MnO$_{4}$ to represent this structure type."
 }
