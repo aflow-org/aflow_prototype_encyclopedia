@@ -6,7 +6,7 @@
     ],
     "title": "LaRhC$_{2}$ Structure",
     "icsd": 100986,
-    "ccdc": null,
+    "ccdc": 1626217,
     "prototype": "C2LaRh",
     "prototype_tex": "C$_{2}$LaRh",
     "number_of_species": 3,
@@ -53,5 +53,5 @@
     ],
     "legacy": false,
     "notes": null,
-    "comments": "This structure may also be found in the enantiomorphic space group $P4_{3}$ \\#78.  Oddly we could not find a CCDC deposition number corresponding to ICSD entry 100986."
+    "comments": "This structure may also be found in the enantiomorphic space group $P4_{3}$ \\#78."
 }
