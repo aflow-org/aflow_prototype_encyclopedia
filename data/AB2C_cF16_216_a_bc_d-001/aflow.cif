@@ -12,8 +12,8 @@
 
 # Last updated on 2024/08/01
 
-data_Cu4Hg8Ti4
-_pd_phase_name Cu4Hg8Ti4
+data_CuHg2Ti
+_pd_phase_name CuHg2Ti
 _cell_length_a  6.1549400000
 _cell_length_b  6.1549400000
 _cell_length_c  6.1549400000

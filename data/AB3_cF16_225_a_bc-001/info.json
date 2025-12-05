@@ -4,9 +4,9 @@
     "alias": [
         "AB3_cF16_225_a_bc"
     ],
-    "title": "BiF$_{3}$ ($D0_{3}$) Structure",
+    "title": "Gananite (BiF$_{3}$, $D0_{3}$) Structure",
     "icsd": 25567,
-    "ccdc": null,
+    "ccdc": 1601221,
     "prototype": "BiF3",
     "prototype_tex": "BiF$_{3}$",
     "number_of_species": 2,
@@ -21,8 +21,10 @@
     "parameter_values": [
 	5.853
     ],
-    "mineral_name": null,
-    "minerals": null,
+    "mineral_name": "gananite",
+    "minerals": {
+	"gananite":"BiF$_{3}$"
+    },
     "compounds": [
         "AgLi$_{3}$",
         "AlCu$_{3}$",

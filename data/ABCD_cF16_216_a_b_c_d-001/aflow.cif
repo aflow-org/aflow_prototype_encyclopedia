@@ -10,10 +10,10 @@
 # The current version of this file is available at
 # https://aflow.org/prototype-encyclopedia/ABCD_cF16_216_a_b_c_d-001
 
-# Last updated on 2024/07/18
+# Last updated on 2025/12/05
 
-data_ABCD_cF16_216_a_b_c_d-001
-_pd_phase_name ABCD_cF16_216_a_b_c_d-001
+data_LiMgAuSn
+_pd_phase_name LiMgAuSn
 _cell_length_a  6.4650000000
 _cell_length_b  6.4650000000
 _cell_length_c  6.4650000000
