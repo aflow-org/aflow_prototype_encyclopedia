@@ -6,7 +6,7 @@
     ],
     "title": "Nahcolite (NaHCO$_{3}$, $G0_{12}$) Structure",
     "icsd": 23868,
-    "ccdc": null,
+    "ccdc": 1599938,
     "prototype": "CHNaO3",
     "prototype_tex": "CHNaO$_{3}$",
     "number_of_species": 4,
@@ -64,8 +64,11 @@
 	0.4358
     ],
     "mineral_name": "nacolite",
-    "minerals": null,
+    "minerals": {
+	"nacolite": "CHNaO$_{3}$"
+    },
     "compounds": [
+	"CsHCO$_{3}$",
         "KHCO$_{3}$"
     ],
     "legacy": false,

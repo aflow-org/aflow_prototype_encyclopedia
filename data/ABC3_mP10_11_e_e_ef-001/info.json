@@ -6,7 +6,7 @@
     ],
     "title": "KClO$_{3}$ ($G0_{6}$) Structure",
     "icsd": 26408,
-    "ccdc": null,
+    "ccdc": 1601816,
     "prototype": "ClKO3",
     "prototype_tex": "ClKO$_{3}$",
     "number_of_species": 3,
@@ -47,7 +47,17 @@
     ],
     "mineral_name": null,
     "minerals": null,
-    "compounds": null,
+    "compounds": [
+	"BaSeO$_{3}$",
+	"BaTeO$_{3}$",
+	"CeAsO$_{3}$",
+	"LaAsO$_{3}$",
+	"PbSO$_{3}$",
+	"PbSeO$_{3}$",
+	"RbGeCl$_{3}$",
+	"SrSeO$_{3}$"
+
+    ],
     "legacy": false,
     "notes": "$G0_{6}$",
     "comments": null

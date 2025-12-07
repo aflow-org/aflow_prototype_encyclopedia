@@ -4,7 +4,7 @@
     "alias": null,
     "title": "$\\beta$-LiErO$_{2}$ Structure",
     "icsd": 95380,
-    "ccdc": null,
+    "ccdc": 1654782,
     "prototype": "ErLiO2",
     "prototype_tex": "ErLiO$_{2}$",
     "number_of_species": 3,
@@ -54,6 +54,7 @@
     "compounds": [
         "LiDyO$_{2}$",
         "LiHoO$_{2}$",
+        "LiMoO$_{2}$",
         "LiYO$_{2}$"
     ],
     "legacy": false,

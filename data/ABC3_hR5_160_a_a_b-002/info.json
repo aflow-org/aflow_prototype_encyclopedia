@@ -6,7 +6,7 @@
     ],
     "title": "$\\gamma$-Potassium Nitrate (KNO$_{3}$) Structure",
     "icsd": 384,
-    "ccdc": null,
+    "ccdc": 1590913,
     "prototype": "KNO3",
     "prototype_tex": "KNO$_{3}$",
     "number_of_species": 3,
@@ -30,6 +30,7 @@
     "mineral_name": null,
     "minerals": null,
     "compounds": [
+	"AgNO$_{3}$",
         "NH$_{4}$ClO$_{4}$",
         "BaTiO$_{3}$"
     ],

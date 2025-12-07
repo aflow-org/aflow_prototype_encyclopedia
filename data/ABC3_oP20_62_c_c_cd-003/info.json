@@ -6,7 +6,7 @@
     ],
     "title": "Aragonite ($G0_{2}$, CaCO$_{3}$) Structure",
     "icsd": 15194,
-    "ccdc": null,
+    "ccdc": 1595969,
     "prototype": "CaCO3",
     "prototype_tex": "CaCO$_{3}$",
     "number_of_species": 3,
@@ -45,6 +45,7 @@
     ],
     "mineral_name": "aragonite",
     "minerals": {
+	"aragonite": "CaCO$_{3}$",
         "witherite": "BaCO$_{3}$",
         "bromlite": "(Ba,Ca)CO$_{3}$",
         "magganocalcite": "C(Cu,Mg,Mn)CO$_{3}$",
@@ -55,9 +56,14 @@
     "compounds": [
         "BaCO$_{3}$ (Witherite)",
         "(Ba,Ca)CO$_{3}$ (Bromlite)",
+	"CeBO$_{3}$",
         "(Cu,Mg,Mn)CO$_{3}$ (Manganocalcite)",
+	"EuCO$_{3}$",
+	"LaBO$_{3}$",
         "MnCO$_{3}$ (Rhodochrosite)",
+	"NdBO$_{3}$",
         "PbCO$_{3}$ (Cerussite)",
+	"PrBO$_{3}$",
         "SrCO$_{3}$ (Strontianite)"
     ],
     "legacy": false,

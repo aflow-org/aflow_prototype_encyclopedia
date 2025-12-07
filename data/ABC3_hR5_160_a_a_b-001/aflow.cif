@@ -12,8 +12,8 @@
 
 # Last updated on 2024/08/01
 
-data_Br3K3O9
-_pd_phase_name Br3K3O9
+data_BrKO3
+_pd_phase_name BrKO3
 _cell_length_a  6.0110000000
 _cell_length_b  6.0110000000
 _cell_length_c  8.1520000000
@@ -55,5 +55,5 @@ loop_
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
 Br1 1.0000000000 0.0000000000 0.0000000000 0.4827000000  Biso 1.0 Br 3 a
-K2 1.0000000000 -0.0000000000 -0.0000000000 0.0000000000  Biso 1.0 K 3 a
-O3 1.0000000000 0.1445600000 0.8554400000 0.4002000000  Biso 1.0 O 9 b
+K2  1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 K  3 a
+O3  1.0000000000 0.1445600000 0.8554400000 0.4002000000  Biso 1.0 O  9 b

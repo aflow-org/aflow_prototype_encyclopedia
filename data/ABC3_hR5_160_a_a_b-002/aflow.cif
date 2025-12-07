@@ -5,15 +5,15 @@
 # Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
 # Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
 # Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
-# Chemical Composition:  KNO3
+# Chemical Composition:  gamma KNO3
 
 # The current version of this file is available at
 # https://aflow.org/prototype-encyclopedia/ABC3_hR5_160_a_a_b-002
 
 # Last updated on 2024/08/01
 
-data_K3N3O9
-_pd_phase_name K3N3O9
+data_KNO3
+_pd_phase_name KNO3
 _cell_length_a  5.4870000000
 _cell_length_b  5.4870000000
 _cell_length_c  9.1560000000
@@ -55,5 +55,5 @@ loop_
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
 K1 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 K 3 a
-N2 1.0000000000 -0.0000000000 -0.0000000000 0.4050000000  Biso 1.0 N 3 a
+N2 1.0000000000 0.0000000000 0.0000000000 0.4050000000  Biso 1.0 N 3 a
 O3 1.0000000000 0.1310000000 0.8690000000 0.4340000000  Biso 1.0 O 9 b
