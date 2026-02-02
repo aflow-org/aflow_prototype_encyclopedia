@@ -1,0 +1,53 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+
+# Chemical Composition:  Ca2Fe2O5 (brownmillerite)
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A2B2C5_oP36_62_d_ac_c2d-001 
+
+# Last updated on 2026/02/02
+
+data_Ca2Fe2O5
+_pd_phase_name Ca2Fe2O5
+_cell_length_a  5.4258000000
+_cell_length_b  14.7658000000
+_cell_length_c  5.5974000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pnma'
+_symmetry_Int_Tables_Number  62
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z+1/2
+  3  -x,y+1/2,-z
+  4  x+1/2,-y+1/2,-z+1/2
+  5  -x,-y,-z
+  6  x+1/2,y,-z+1/2
+  7  x,-y+1/2,z
+  8  -x+1/2,y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Fe1 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Fe 4 a
+Fe2 1.0000000000 0.9447000000 0.2500000000 0.9326000000  Biso 1.0 Fe 4 c
+O3  1.0000000000 0.5983000000 0.2500000000 0.8790000000  Biso 1.0 O  4 c
+Ca4 1.0000000000 0.4804000000 0.1088000000 0.0232000000  Biso 1.0 Ca 8 d
+O5  1.0000000000 0.2604000000 0.9827000000 0.2387000000  Biso 1.0 O  8 d
+O6  1.0000000000 0.0255000000 0.1438000000 0.0784000000  Biso 1.0 O  8 d
