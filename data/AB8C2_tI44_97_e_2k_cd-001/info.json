@@ -6,7 +6,7 @@
     ],
     "title": "Ta$_{2}$Se$_{8}$I Structure",
     "icsd": 35190,
-    "ccdc": null,
+    "ccdc": 1607337,
     "prototype": "ISe8Ta2",
     "prototype_tex": "ISe$_{8}$Ta$_{2}$",
     "number_of_species": 3,
@@ -27,7 +27,7 @@
 	"z5"
     ],
     "parameter_values": [
-	9.5317,
+	9.531,
 	1.3388,
 	0.1553,
 	0.0449,
