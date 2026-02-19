@@ -5,8 +5,8 @@
         "A6B_cF224_228_h_c"
     ],
     "title": "Te[OH]$_{6}$ Structure ({\\em Obsolete})",
-    "icsd": null,
-    "ccdc": null,
+    "icsd": 2390,
+    "ccdc": 1592291,
     "prototype": "H6O6Te",
     "prototype_tex": "H$_{6}$O$_{6}$Te",
     "number_of_species": 2,
@@ -32,5 +32,5 @@
     "compounds": null,
     "legacy": false,
     "notes": "({\\em Obsolete})",
-    "comments": "(Kirckpatrick, 1926) did not find the locations of the hydrogen atoms.  When these were located by (Mullica, 1980) it was found that the true structure is in \\href{current_web_home_dir/A12B6C_cF608_210_4h_2h_e-001}{space group $F4_{1}32$ \\#210}."
+    "comments": "(Kirckpatrick, 1926) did not find the locations of the hydrogen atoms.  When these were located by (Mullica, 1980) it was found that the true structure is in \\href{current_web_home_dir/A12B6C_cF608_210_4h_2h_e-001}{space group $F4_{1}32$ \\#210}. \n There is no ICSD entry for (Kirckpatrick, 1926).  The ICSD/CCDC entries provided are from (Falak, 1978)."
 }

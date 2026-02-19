@@ -10,10 +10,10 @@
 # The current version of this file is available at
 # https://aflow.org/prototype-encyclopedia/A6B_cF224_228_h_c-001
 
-# Last updated on 2024/08/01
+# Last updated on 2026/02/15
 
-data_O192Te32
-_pd_phase_name O192Te32
+data_H6O6Te
+_pd_phase_name H606Te
 _cell_length_a  15.4800000000
 _cell_length_b  15.4800000000
 _cell_length_c  15.4800000000
@@ -228,5 +228,5 @@ loop_
  _atom_site_type_symbol
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
-Te2 1.0000000000 0.0000000000 -0.0000000000 0.0000000000  Biso 1.0 Te 32 c
-O1 1.0000000000 0.5430000000 0.6380000000 0.2780000000  Biso 1.0 O 192 h
+Te2 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Te 32 c
+O1  1.0000000000 0.5430000000 0.6380000000 0.2780000000  Biso 1.0 O 192 h
