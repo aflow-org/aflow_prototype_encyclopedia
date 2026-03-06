@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/AB2_oP24_28_acd_2c3d-001
 
 # Last updated on 2024/08/01
-data_Au8Te16
-_pd_phase_name Au8Te16
+data_AuTe2
+_pd_phase_name AuTe2
 _cell_length_a  16.5400000000
 _cell_length_b  8.8200000000
 _cell_length_c  4.4600000000

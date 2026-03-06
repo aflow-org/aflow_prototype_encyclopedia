@@ -1,0 +1,50 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+
+# Chemical Composition:  NiNbTe2
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/ABC2_oP16_28_d_2c_ab2c-001 
+
+# Last updated on 2026/03/06
+
+data_NiNbTe2
+_pd_phase_name NiNbTe2
+_cell_length_a  7.9550000000
+_cell_length_b  6.2580000000
+_cell_length_c  7.2030000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pma2'
+_symmetry_Int_Tables_Number  28
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  x+1/2,-y,z
+  4  -x+1/2,y,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Te1 1.0000000000 0.0000000000 0.0000000000 0.1398000000  Biso 1.0 Te 2 a
+Te2 1.0000000000 0.0000000000 0.5000000000 0.7841000000  Biso 1.0 Te 2 b
+Ni5 1.0000000000 0.2500000000 0.5950000000 0.5810000000  Biso 1.0 Ni 2 c
+Ni6 1.0000000000 0.2500000000 0.8893000000 0.3380000000  Biso 1.0 Ni 2 c
+Te3 1.0000000000 0.2500000000 0.5018000000 0.2360000000  Biso 1.0 Te 2 c
+Te4 1.0000000000 0.2500000000 0.0007000000 0.6840000000  Biso 1.0 Te 2 c
+Nb7 1.0000000000 0.5457000000 0.7572000000 0.4690000000  Biso 1.0 Nb 4 d
