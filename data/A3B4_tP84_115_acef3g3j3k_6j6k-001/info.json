@@ -4,7 +4,7 @@
     "alias": null,
     "title": "Deltalumite ($\\delta$-alumina, Al$_{2}$O$_{3}$) Structure",
     "icsd": 40200,
-    "ccdc": null,
+    "ccdc": 1610105,
     "prototype": "Al2O3",
     "prototype_tex": "Al$_{2}$O$_{3}$",
     "number_of_species": 2,
