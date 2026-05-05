@@ -5,15 +5,15 @@
 # Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
 # Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
 # Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
-# Chemical Composition:  Cl4K2O2Os J15
+# Chemical Composition:  Cl4K2O2Os J1_5
 
 # The current version of this file is available at
 # https://aflow.org/prototype-encyclopedia/A4B2C2D_tI18_139_h_d_e_a-001
 
 # Last updated on 2024/08/01
 
-data_Cl8K4O4Os2
-_pd_phase_name Cl8K4O4Os2
+data_ClK2O2Os
+_pd_phase_name Cl4K202Os
 _cell_length_a  6.9900000000
 _cell_length_b  6.9900000000
 _cell_length_c  8.7500000000
@@ -69,6 +69,6 @@ loop_
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
 Os4 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Os 2 a
-K2 1.0000000000 -0.0000000000 0.5000000000 0.2500000000  Biso 1.0 K 4 d
-O3 1.0000000000 -0.0000000000 0.0000000000 0.2120000000  Biso 1.0 O 4 e
+K2  1.0000000000 0.0000000000 0.5000000000 0.2500000000  Biso 1.0 K  4 d
+O3  1.0000000000 0.0000000000 0.0000000000 0.2120000000  Biso 1.0 O  4 e
 Cl1 1.0000000000 0.2300000000 0.2300000000 0.0000000000  Biso 1.0 Cl 8 h

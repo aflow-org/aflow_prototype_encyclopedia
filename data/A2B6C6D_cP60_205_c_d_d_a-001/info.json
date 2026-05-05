@@ -6,7 +6,7 @@
     ],
     "title": "Zn(BrO$_{3}$)$_{2}$ $\\cdot$ 6H$_{2}$O ($J1_{10}$) Structure",
     "icsd": 15981,
-    "ccdc": null,
+    "ccdc": 1596644,
     "prototype": "Br2(H2O)6O6Zn",
     "prototype_tex": "Br$_{2}$(H$_{2}$O)$_{6}$O$_{6}$Zn",
     "number_of_species": 4,
@@ -37,8 +37,14 @@
     ],
     "mineral_name": null,
     "minerals": null,
-    "compounds": null,
+    "compounds": [
+	"Br$_{2}$(H$_{2}$O)$_{6}$O$_{6}$Co",
+	"Br$_{2}$(H$_{2}$O)$_{6}$O$_{6}$Cu",
+	"Br$_{2}$(H$_{2}$O)$_{6}$O$_{6}$Mg",
+	"Br$_{2}$(H$_{2}$O)$_{6}$O$_{6}$Ni",
+	"Cl$_{2}$(H$_{2}$O)$_{6}$O$_{6}$Ni"
+    ],
     "legacy": false,
     "notes": "$J1_{10}$",
-    "comments": "The positions of the hydrogen atoms in the water molecules were not determined, so we only provide the positions of the oxygen atom (labeled as H$_{2}$O)."
+    "comments": "The positions of the hydrogen atoms in the water molecules were not determined, so we only provide the positions of the oxygen atom (labeled as H$_{2}$O in the CIF and H I below). \n The \\href{current_web_home_dir/A2B12CD12_cP108_205_c_2d_a_2d-001}{Br$_{2}$(H$_{2}$O)$_{6}$O$_{6}$Mg} structure includes the hydrogen positions."
 }

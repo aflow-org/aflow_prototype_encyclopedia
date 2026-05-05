@@ -6,7 +6,7 @@
     ],
     "title": "RhCl$_{2}$(NH$_{3}$)$_{5}$Cl ($J1_{8}$) Structure",
     "icsd": 10199,
-    "ccdc": null,
+    "ccdc": 1595056,
     "prototype": "Cl3H15N5Rh",
     "prototype_tex": "Cl$_{3}$H$_{15}$N$_{5}$Rh",
     "number_of_species": 4,
@@ -108,9 +108,13 @@
     "mineral_name": null,
     "minerals": null,
     "compounds": [
+        "AlBr$_{2}$(NH$_{3}$)$_{5}$Br",
+        "AlCl$_{2}$(NH$_{3}$)$_{5}$Cl",
+        "CoBr$_{2}$(NH$_{3}$)$_{5}$Br",
         "CoCl$_{2}$(NH$_{3}$)$_{5}$Cl",
         "CoI$_{2}$(NH$_{3}$)$_{5}$Cl",
         "CrCl$_{2}$(NH$_{3}$)$_{5}$Cl",
+        "GaCl$_{2}$(NH$_{3}$)$_{5}$Cl",
         "IrCl$_{2}$(NH$_{3}$)$_{5}$Cl",
         "OsCl$_{2}$(NH$_{3}$)$_{5}$Cl",
         "RhBr$_{2}$(NH$_{3}$)$_{5}$Br",
@@ -120,5 +124,5 @@
     ],
     "legacy": false,
     "notes": "$J1_{8}$",
-    "comments": null
+    "comments": "The original $J1_{8}$ entry in (Gottfried, 1937) did not include the positions of the hydrogen atoms."
 }
