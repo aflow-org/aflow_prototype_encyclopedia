@@ -1,40 +1,40 @@
 {
-    "uid": "Y79W",
-    "label": "A2B3_hP10_194_f_bf-001",
-    "alias": [
-        "A2B3_hP10_194_f_bf"
-    ],
-    "title": "Pt$_{2}$Sn$_{3}$ ($D5_{b}$) Structure",
-    "icsd": 105794,
-    "ccdc": null,
-    "prototype": "Pt2Sn3",
-    "prototype_tex": "Pt$_{2}$Sn$_{3}$",
-    "number_of_species": 2,
-    "pearson_symbol": "hP10",
-    "space_group_number": 194,
-    "strukturbericht": "D5b",
-    "strukturbericht_tex": "$D5_{b}$",
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z2",
-	"z3"
-    ],
-    "parameter_values": [
-	4.3608,
-	2.97195,
-	0.643,
-	0.43
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "Pt$_{2}$Si$_{3}$",
-        "InAu$_{2}$Ga$_{2}$",
-        "Au$_{4}$In$_{3}$Sn$_{3}$"
-    ],
-    "legacy": false,
-    "notes": "$D5_{b}$",
-    "comments": "We were unable to obtain a copy of (Schubert, 1949), and so we use the structural parameters given by (Pearson, 1958), using (Wood, 1947) to convert the $kX$ units used by Pearson into {\\AA}ngstr\\\"{o}m units."
+  "uid": "Y79W",
+  "label": "A2B3_hP10_194_f_bf-001",
+  "alias": [
+    "A2B3_hP10_194_f_bf"
+  ],
+  "title": "Pt$_{2}$Sn$_{3}$ ($D5_{b}$) Structure",
+  "icsd": 105794,
+  "ccdc": 1663670,
+  "prototype": "Pt2Sn3",
+  "prototype_tex": "Pt$_{2}$Sn$_{3}$",
+  "number_of_species": 2,
+  "pearson_symbol": "hP10",
+  "space_group_number": 194,
+  "strukturbericht": "D5b",
+  "strukturbericht_tex": "$D5_{b}$",
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z2",
+    "z3"
+  ],
+  "parameter_values": [
+    4.3608,
+    2.97195,
+    0.643,
+    0.43
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Pt$_{2}$Si$_{3}$",
+    "InAu$_{2}$Ga$_{2}$",
+    "Au$_{4}$In$_{3}$Sn$_{3}$"
+  ],
+  "legacy": false,
+  "notes": "$D5_{b}$",
+  "comments": "We were unable to obtain a copy of (Schubert, 1949), and so we use the structural parameters given by (Pearson, 1958), using (Wood, 1947) to convert the $kX$ units used by Pearson into {\\AA}ngstr\\\"{o}m units."
 }

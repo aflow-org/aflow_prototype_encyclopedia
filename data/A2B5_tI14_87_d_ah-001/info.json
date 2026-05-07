@@ -1,34 +1,34 @@
 {
-    "uid": "4RP0",
-    "label": "A2B5_tI14_87_d_ah-001",
-    "alias": null,
-    "title": "Ga$_{2}$Te$_{5}$ Structure",
-    "icsd": 1085,
-    "ccdc": null,
-    "prototype": "Ga2Te5",
-    "prototype_tex": "Ga$_{2}$Te$_{5}$",
-    "number_of_species": 2,
-    "pearson_symbol": "tI14",
-    "space_group_number": 87,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x3",
-	"y3"
-    ],
-    "parameter_values": [
-	7.913,
-	0.865411,
-	0.1904,
-	0.3318
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "4RP0",
+  "label": "A2B5_tI14_87_d_ah-001",
+  "alias": null,
+  "title": "Ga$_{2}$Te$_{5}$ Structure",
+  "icsd": 1085,
+  "ccdc": 1591275,
+  "prototype": "Ga2Te5",
+  "prototype_tex": "Ga$_{2}$Te$_{5}$",
+  "number_of_species": 2,
+  "pearson_symbol": "tI14",
+  "space_group_number": 87,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x3",
+    "y3"
+  ],
+  "parameter_values": [
+    7.913,
+    0.865411,
+    0.1904,
+    0.3318
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

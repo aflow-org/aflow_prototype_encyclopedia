@@ -1,41 +1,41 @@
 {
-    "uid": "SY4M",
-    "label": "A2BC2DE6_tP12_123_h_c_g_b_gi-001",
-    "alias": null,
-    "title": "HgBa$_{2}$CaCu$_{2}$O$_{6}$ (Hg-1212) Structure",
-    "icsd": 75725,
-    "ccdc": null,
-    "prototype": "Ba2CaCu2HgO4",
-    "prototype_tex": "Ba$_{2}$CaCu$_{2}$HgO$_{4}$",
-    "number_of_species": 5,
-    "pearson_symbol": "tP12",
-    "space_group_number": 123,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 5,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z3",
-	"z4",
-	"z5",
-	"z6"
-    ],
-    "parameter_values": [
-	3.8493,
-	3.2853,
-	0.1226,
-	0.343,
-	0.2783,
-	0.1227
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-	"SnSr$_{2}$CaCu$_{2}$O$_{7-x}$",
-	"TlSr$_{2}$PrCu$_{2}$O$_{7-x}$"
-    ],
-    "legacy": false,
-    "notes": "Hg-1212",
-    "comments": "The Hg-$12(n-1)n$, or $n$HBCCO in the notation of (Bacq-Labreuil, 2024), cuprates have the general formula HgBa$_{2}$Ca$_{n-1}$Cu$_{n}$O$_{2n+2+\\delta}$. These are tetragonally-stacked perovskite-like compounds similar to \\href{current_web_home_dir/A2B3C8D_tP14_123_h_bg_egi_c-001}{tetragonal YBa$_{2}$Cu$_{3}$O$_{7}-x$}, and all are superconducting at temperatures near or above 100K.  Although compounds have been structured for $n \\le 16$ (Bacq-Labreuil, 2024) we will limit ourselves to tabluating the first three.  In addition, we will only list the zero-pressure structures and assume perfect stoiciometry.  In practice the can be additional oxygen ($\\delta > 0$) and a deficit of barium. \n We include the structures \\begin{itemize} \\item Hg1201/1HBCCO: \\href{current_web_home_dir/A2BCD4_tP8_123_h_b_a_eg-001}{HgBa$_{2}$CuO$_{4}$}, \\item Hg1212/2HBCCO: \\href{current_web_home_dir/A2BC2DE6_tP12_123_h_c_g_b_gi-001}{HgBa$_{2}$CaCu$_{2}$O$_{6}$} (this structure), and \\item Hg1223/3HBCCO: \\href{current_web_home_dir/A2B2C3DE8_tP16_123_h_h_bg_a_egi-001}{HgBa$_{2}$Ca$_{2}$Cu$_{3}$O$_{8}$} \\end{itemize} ~ \\vspace{-.25in} \n If we replace the calcium atom by copper, this becomes the tetragonal \\href{current_web_home_dir/A2B3C8D_tP14_123_h_bg_egi_c-001}{YBa$_{2}$Cu$_{3-x}$O$_{7-y}$ structure}. In line with this, excess oxygen in this structure most likely can be found on the (2e) (0 1/2 1/2) site. \n (Hunter, 1994) inadvertently state that their O1 (our O II) site is on Wyckoff position (2e).  It is actually at Wyckoff position (4i) as shown here and in the ICSD entry. \n AFLOW shifted the origin of the experimental report of the structure, moving the mercury atom from the (1a) to the (1b) site."
+  "uid": "SY4M",
+  "label": "A2BC2DE6_tP12_123_h_c_g_b_gi-001",
+  "alias": null,
+  "title": "HgBa$_{2}$CaCu$_{2}$O$_{6}$ (Hg-1212) Structure",
+  "icsd": 75725,
+  "ccdc": 1636369,
+  "prototype": "Ba2CaCu2HgO4",
+  "prototype_tex": "Ba$_{2}$CaCu$_{2}$HgO$_{4}$",
+  "number_of_species": 5,
+  "pearson_symbol": "tP12",
+  "space_group_number": 123,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 5,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z3",
+    "z4",
+    "z5",
+    "z6"
+  ],
+  "parameter_values": [
+    3.8493,
+    3.2853,
+    0.1226,
+    0.343,
+    0.2783,
+    0.1227
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "SnSr$_{2}$CaCu$_{2}$O$_{7-x}$",
+    "TlSr$_{2}$PrCu$_{2}$O$_{7-x}$"
+  ],
+  "legacy": false,
+  "notes": "Hg-1212",
+  "comments": "The Hg-$12(n-1)n$, or $n$HBCCO in the notation of (Bacq-Labreuil, 2024), cuprates have the general formula HgBa$_{2}$Ca$_{n-1}$Cu$_{n}$O$_{2n+2+\\delta}$. These are tetragonally-stacked perovskite-like compounds similar to \\href{current_web_home_dir/A2B3C8D_tP14_123_h_bg_egi_c-001}{tetragonal YBa$_{2}$Cu$_{3}$O$_{7}-x$}, and all are superconducting at temperatures near or above 100K.  Although compounds have been structured for $n \\le 16$ (Bacq-Labreuil, 2024) we will limit ourselves to tabluating the first three.  In addition, we will only list the zero-pressure structures and assume perfect stoiciometry.  In practice the can be additional oxygen ($\\delta > 0$) and a deficit of barium. \n We include the structures \\begin{itemize} \\item Hg1201/1HBCCO: \\href{current_web_home_dir/A2BCD4_tP8_123_h_b_a_eg-001}{HgBa$_{2}$CuO$_{4}$}, \\item Hg1212/2HBCCO: \\href{current_web_home_dir/A2BC2DE6_tP12_123_h_c_g_b_gi-001}{HgBa$_{2}$CaCu$_{2}$O$_{6}$} (this structure), and \\item Hg1223/3HBCCO: \\href{current_web_home_dir/A2B2C3DE8_tP16_123_h_h_bg_a_egi-001}{HgBa$_{2}$Ca$_{2}$Cu$_{3}$O$_{8}$} \\end{itemize} ~ \\vspace{-.25in} \n If we replace the calcium atom by copper, this becomes the tetragonal \\href{current_web_home_dir/A2B3C8D_tP14_123_h_bg_egi_c-001}{YBa$_{2}$Cu$_{3-x}$O$_{7-y}$ structure}. In line with this, excess oxygen in this structure most likely can be found on the (2e) (0 1/2 1/2) site. \n (Hunter, 1994) inadvertently state that their O1 (our O II) site is on Wyckoff position (2e).  It is actually at Wyckoff position (4i) as shown here and in the ICSD entry. \n AFLOW shifted the origin of the experimental report of the structure, moving the mercury atom from the (1a) to the (1b) site."
 }

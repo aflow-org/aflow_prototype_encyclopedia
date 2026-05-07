@@ -1,40 +1,40 @@
 {
-    "uid": "QG2U",
-    "label": "AB3_hR8_155_c_de-001",
-    "alias": [
-        "AB3_hR8_155_c_de"
-    ],
-    "title": "AlF$_{3}$ ($D0_{14}$) Structure",
-    "icsd": 30274,
-    "ccdc": null,
-    "prototype": "AlF3",
-    "prototype_tex": "AlF$_{3}$",
-    "number_of_species": 2,
-    "pearson_symbol": "hR8",
-    "space_group_number": 155,
-    "strukturbericht": "D014",
-    "strukturbericht_tex": "$D0_{14}$",
-    "part": 1,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x1",
-	"y2",
-	"y3"
-    ],
-    "parameter_values": [
-	4.91608,
-	2.53341,
-	0.237,
-	0.43,
-	0.07
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "FeF$_{3}$"
-    ],
-    "legacy": false,
-    "notes": "$D0_{14}$",
-    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
+  "uid": "QG2U",
+  "label": "AB3_hR8_155_c_de-001",
+  "alias": [
+    "AB3_hR8_155_c_de"
+  ],
+  "title": "AlF$_{3}$ ($D0_{14}$) Structure",
+  "icsd": 30274,
+  "ccdc": 1604642,
+  "prototype": "AlF3",
+  "prototype_tex": "AlF$_{3}$",
+  "number_of_species": 2,
+  "pearson_symbol": "hR8",
+  "space_group_number": 155,
+  "strukturbericht": "D014",
+  "strukturbericht_tex": "$D0_{14}$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x1",
+    "y2",
+    "y3"
+  ],
+  "parameter_values": [
+    4.91608,
+    2.53341,
+    0.237,
+    0.43,
+    0.07
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "FeF$_{3}$"
+  ],
+  "legacy": false,
+  "notes": "$D0_{14}$",
+  "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

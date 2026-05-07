@@ -1,32 +1,32 @@
 {
-    "uid": "B0YQ",
-    "label": "A3B3C_cI112_230_f_g_a-001",
-    "alias": null,
-    "title": "Ga$_{3}$Ni$_{3}$Zn Structure",
-    "icsd": 103898,
-    "ccdc": 1661829,
-    "prototype": "Ga3Ni3Zn",
-    "prototype_tex": "Ga$_{3}$Ni$_{3}$Zn",
-    "number_of_species": 3,
-    "pearson_symbol": "cI112",
-    "space_group_number": 230,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 5,
-    "parameter_symbols": [
-        "a",
-	"x2",
-	"y3"
-    ],
-    "parameter_values": [
-        11.4302,
-	0.0124,
-	0.3666
-    ],
-    "mineral_name": null,
-    "minerals": {},
-    "compounds": null,
-    "legacy": false,
-    "notes": null,
-    "comments": "This is the tenary form of \\href{current_web_home_dir/A4B3_cI112_230_af_g-001}{Ga$_{4}$Ni$_{3}$}."
+  "uid": "B0YQ",
+  "label": "A3B3C_cI112_230_f_g_a-001",
+  "alias": null,
+  "title": "Ga$_{3}$Ni$_{3}$Zn Structure",
+  "icsd": 103898,
+  "ccdc": 1661829,
+  "prototype": "Ga3Ni3Zn",
+  "prototype_tex": "Ga$_{3}$Ni$_{3}$Zn",
+  "number_of_species": 3,
+  "pearson_symbol": "cI112",
+  "space_group_number": 230,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 5,
+  "parameter_symbols": [
+    "a",
+    "x2",
+    "y3"
+  ],
+  "parameter_values": [
+    11.4302,
+    0.0124,
+    0.3666
+  ],
+  "mineral_name": null,
+  "minerals": {},
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": "This is the tenary form of \\href{current_web_home_dir/A4B3_cI112_230_af_g-001}{Ga$_{4}$Ni$_{3}$}."
 }

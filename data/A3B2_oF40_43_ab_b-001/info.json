@@ -1,52 +1,52 @@
 {
-    "uid": "7D48",
-    "label": "A3B2_oF40_43_ab_b-001",
-    "alias": [
-        "A3B2_oF40_43_ab_b"
-    ],
-    "title": "Zr$_{2}$Al$_{3}$ Structure",
-    "icsd": 58233,
-    "ccdc": null,
-    "prototype": "Al3Zr2",
-    "prototype_tex": "Al$_{3}$Zr$_{2}$",
-    "number_of_species": 2,
-    "pearson_symbol": "oF40",
-    "space_group_number": 43,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"b/a",
-	"c/a",
-	"z1",
-	"x2",
-	"y2",
-	"z2",
-	"x3",
-	"y3",
-	"z3"
-    ],
-    "parameter_values": [
-	13.906,
-	0.690421,
-	0.400547,
-	0.875,
-	0.366,
-	0.685,
-	-1.11022e-16,
-	0.446,
-	0.682,
-	0.5
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "Ga$_{2}$Al$_{3}$",
-        "Ga$_{2}$Zr$_{3}$",
-        "Hf$_{2}$Al$_{3}$"
-    ],
-    "legacy": false,
-    "notes": null,
-    "comments": "The $z=0$ plane is not fixed in space group $Fdd2$ \\#43.  Here it is arbitrarily set so that $z_{3} = 0$ for the zirconium atom."
+  "uid": "7D48",
+  "label": "A3B2_oF40_43_ab_b-001",
+  "alias": [
+    "A3B2_oF40_43_ab_b"
+  ],
+  "title": "Zr$_{2}$Al$_{3}$ Structure",
+  "icsd": 58233,
+  "ccdc": 1622259,
+  "prototype": "Al3Zr2",
+  "prototype_tex": "Al$_{3}$Zr$_{2}$",
+  "number_of_species": 2,
+  "pearson_symbol": "oF40",
+  "space_group_number": 43,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "z1",
+    "x2",
+    "y2",
+    "z2",
+    "x3",
+    "y3",
+    "z3"
+  ],
+  "parameter_values": [
+    13.906,
+    0.690421,
+    0.400547,
+    0.875,
+    0.366,
+    0.685,
+    -1.11022e-16,
+    0.446,
+    0.682,
+    0.5
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Ga$_{2}$Al$_{3}$",
+    "Ga$_{2}$Zr$_{3}$",
+    "Hf$_{2}$Al$_{3}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "The $z=0$ plane is not fixed in space group $Fdd2$ \\#43.  Here it is arbitrarily set so that $z_{3} = 0$ for the zirconium atom."
 }

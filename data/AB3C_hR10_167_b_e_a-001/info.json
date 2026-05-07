@@ -1,38 +1,38 @@
 {
-    "uid": "XMCY",
-    "label": "AB3C_hR10_167_b_e_a-001",
-    "alias": [
-        "AB3C_hR10_167_b_e_a"
-    ],
-    "title": "PrNiO$_{3}$ Rhombohedral Perovskite Structure",
-    "icsd": 69186,
-    "ccdc": null,
-    "prototype": "NiO3Pr",
-    "prototype_tex": "NiO$_{3}$Pr",
-    "number_of_species": 3,
-    "pearson_symbol": "hR10",
-    "space_group_number": 167,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x3"
-    ],
-    "parameter_values": [
-	5.45768,
-	2.40134,
-	0.6946
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "HgMnO$_{3}$",
-        "LaAlO$_{3}$",
-        "LaNiO$_{3}$"
-    ],
-    "legacy": false,
-    "notes": "Rhombohedral Perovskite",
-    "comments": "This structure has the same crystal structure and occupies the same Wyckoff positions as \\href{current_web_home_dir/ABC3_hR10_167_a_b_e-002}{Calcite (CaCO$_{3}$, $G0_{1}$, ABC3\\_hR10\\_167\\_a\\_b\\_e)}, but $c/a$ and $x_{3}$ are different enough to warrant calling this a new structure.\n This is the high-temperature form of PrNiO$_{3}$, and we present the data collected at $500^{\\circ}$C, below which it transforms into the \\href{current_web_home_dir/AB3C_oP20_62_c_cd_a-001}{orthorhombic perovskite structure (AB3C\\_oP20\\_62\\_c\\_cd\\_a)}. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
+  "uid": "XMCY",
+  "label": "AB3C_hR10_167_b_e_a-001",
+  "alias": [
+    "AB3C_hR10_167_b_e_a"
+  ],
+  "title": "PrNiO$_{3}$ Rhombohedral Perovskite Structure",
+  "icsd": 69186,
+  "ccdc": 1631063,
+  "prototype": "NiO3Pr",
+  "prototype_tex": "NiO$_{3}$Pr",
+  "number_of_species": 3,
+  "pearson_symbol": "hR10",
+  "space_group_number": 167,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x3"
+  ],
+  "parameter_values": [
+    5.45768,
+    2.40134,
+    0.6946
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "HgMnO$_{3}$",
+    "LaAlO$_{3}$",
+    "LaNiO$_{3}$"
+  ],
+  "legacy": false,
+  "notes": "Rhombohedral Perovskite",
+  "comments": "This structure has the same crystal structure and occupies the same Wyckoff positions as \\href{current_web_home_dir/ABC3_hR10_167_a_b_e-002}{Calcite (CaCO$_{3}$, $G0_{1}$, ABC3\\_hR10\\_167\\_a\\_b\\_e)}, but $c/a$ and $x_{3}$ are different enough to warrant calling this a new structure.\n This is the high-temperature form of PrNiO$_{3}$, and we present the data collected at $500^{\\circ}$C, below which it transforms into the \\href{current_web_home_dir/AB3C_oP20_62_c_cd_a-001}{orthorhombic perovskite structure (AB3C\\_oP20\\_62\\_c\\_cd\\_a)}. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

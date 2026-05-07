@@ -1,48 +1,48 @@
 {
-    "uid": "CSTH",
-    "label": "A3B_tI16_139_cde_e-001",
-    "alias": [
-        "A3B_tI16_139_cde_e"
-    ],
-    "title": "Al$_{3}$Zr ($D0_{23}$) Structure",
-    "icsd": 107130,
-    "ccdc": null,
-    "prototype": "Al3Zr",
-    "prototype_tex": "Al$_{3}$Zr",
-    "number_of_species": 2,
-    "pearson_symbol": "tI16",
-    "space_group_number": 139,
-    "strukturbericht": "D023",
-    "strukturbericht_tex": "$D0_{23}$",
-    "part": 1,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z3",
-	"z4"
-    ],
-    "parameter_values": [
-	3.9993,
-	4.32151,
-	0.37498,
-	0.11886
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "Al$_{3}$Hf",
-        "Al$_{3}$Zn",
-        "Au$_{3}$Mg",
-        "Ga$_{3}$Zr",
-        "Pd$_{3}$In",
-        "Pd$_{3}$Mg",
-        "Pd$_{3}$Mn",
-        "Pd$_{3}$Tl",
-        "Pt$_{3}$Sb",
-        "Ti$_{3}$Cu",
-        "Zn$_{3}$Ru"
-    ],
-    "legacy": false,
-    "notes": "$D0_{23}$",
-    "comments": "When c=4a, z$_{3}$=3/8 and z$_{4}$=1/8 the atoms are on the sites of \\href{current_web_home_dir/A_cF4_225_a-001}{a face-centered cubic lattice}. This phase can also be described as a set of alternating \\href{current_web_home_dir/AB3_cP4_221_a_c-001}{$L1_{2}$} and \\href{current_web_home_dir/A3B_tI8_139_ad_b-001}{$D0_{22}$ lattices}."
+  "uid": "CSTH",
+  "label": "A3B_tI16_139_cde_e-001",
+  "alias": [
+    "A3B_tI16_139_cde_e"
+  ],
+  "title": "Al$_{3}$Zr ($D0_{23}$) Structure",
+  "icsd": 107130,
+  "ccdc": 1664860,
+  "prototype": "Al3Zr",
+  "prototype_tex": "Al$_{3}$Zr",
+  "number_of_species": 2,
+  "pearson_symbol": "tI16",
+  "space_group_number": 139,
+  "strukturbericht": "D023",
+  "strukturbericht_tex": "$D0_{23}$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z3",
+    "z4"
+  ],
+  "parameter_values": [
+    3.9993,
+    4.32151,
+    0.37498,
+    0.11886
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Al$_{3}$Hf",
+    "Al$_{3}$Zn",
+    "Au$_{3}$Mg",
+    "Ga$_{3}$Zr",
+    "Pd$_{3}$In",
+    "Pd$_{3}$Mg",
+    "Pd$_{3}$Mn",
+    "Pd$_{3}$Tl",
+    "Pt$_{3}$Sb",
+    "Ti$_{3}$Cu",
+    "Zn$_{3}$Ru"
+  ],
+  "legacy": false,
+  "notes": "$D0_{23}$",
+  "comments": "When c=4a, z$_{3}$=3/8 and z$_{4}$=1/8 the atoms are on the sites of \\href{current_web_home_dir/A_cF4_225_a-001}{a face-centered cubic lattice}. This phase can also be described as a set of alternating \\href{current_web_home_dir/AB3_cP4_221_a_c-001}{$L1_{2}$} and \\href{current_web_home_dir/A3B_tI8_139_ad_b-001}{$D0_{22}$ lattices}."
 }

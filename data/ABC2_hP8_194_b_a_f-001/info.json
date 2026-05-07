@@ -1,36 +1,36 @@
 {
-    "uid": "D1PM",
-    "label": "ABC2_hP8_194_b_a_f-001",
-    "alias": null,
-    "title": "NiMoP$_{2}$ Structure",
-    "icsd": 76283,
-    "ccdc": null,
-    "prototype": "MoNiP2",
-    "prototype_tex": "MoNiP$_{2}$",
-    "number_of_species": 3,
-    "pearson_symbol": "hP8",
-    "space_group_number": 194,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z3"
-    ],
-    "parameter_values": [
-	3.329,
-	3.37038,
-	0.1132
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-	"CoMoP$_{2}$",
-	"CoWP$_{2}$",
-	"NiWP$_{2}$"
-    ],
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "D1PM",
+  "label": "ABC2_hP8_194_b_a_f-001",
+  "alias": null,
+  "title": "NiMoP$_{2}$ Structure",
+  "icsd": 76283,
+  "ccdc": 1636890,
+  "prototype": "MoNiP2",
+  "prototype_tex": "MoNiP$_{2}$",
+  "number_of_species": 3,
+  "pearson_symbol": "hP8",
+  "space_group_number": 194,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z3"
+  ],
+  "parameter_values": [
+    3.329,
+    3.37038,
+    0.1132
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "CoMoP$_{2}$",
+    "CoWP$_{2}$",
+    "NiWP$_{2}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

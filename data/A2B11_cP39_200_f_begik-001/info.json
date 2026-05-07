@@ -1,52 +1,52 @@
 {
-    "uid": "8FHP",
-    "label": "A2B11_cP39_200_f_begik-001",
-    "alias": [
-        "A2B11_cP39_200_f_aghij"
-    ],
-    "title": "Mg$_{2}$Zn$_{11}$ ($D8_{c}$) Structure",
-    "icsd": 104898,
-    "ccdc": 1662799,
-    "prototype": "Mg2Zn11",
-    "prototype_tex": "Mg$_{2}$Zn$_{11}$",
-    "number_of_species": 2,
-    "pearson_symbol": "cP39",
-    "space_group_number": 200,
-    "strukturbericht": "D8c",
-    "strukturbericht_tex": "$D8_{c}$",
-    "part": 2,
-    "parameter_symbols": [
-	"a",
-	"x2",
-	"x3",
-	"x4",
-	"x5",
-	"y6",
-	"z6"
-    ],
-    "parameter_values": [
-	8.552,
-	0.765,
-	0.68,
-	0.84,
-	0.778,
-	0.757,
-	0.343
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "Na$_{2}$Cd$_{11}$",
-        "Mg$_{2}$Cu$_{6}$Al$_{5}$",
-        "Mg$_{2}$Cu$_{6}$Ga$_{5}$",
-        "Na$_{2}$Au$_{6}$In$_{5}$",
-        "Sc$_{2}$Co$_{7}$Ga$_{4}$",
-        "K$_{6}$Na$_{14}$CdTl$_{18}$",
-        "K$_{6}$Na$_{14}$HgTl$_{18}$",
-        "K$_{6}$Na$_{14}$MgTl$_{18}$",
-        "K$_{6}$Na$_{14}$ZnTl$_{18}$"
-    ],
-    "legacy": false,
-    "notes": "$D8_{c}$",
-    "comments": null
+  "uid": "8FHP",
+  "label": "A2B11_cP39_200_f_begik-001",
+  "alias": [
+    "A2B11_cP39_200_f_aghij"
+  ],
+  "title": "Mg$_{2}$Zn$_{11}$ ($D8_{c}$) Structure",
+  "icsd": 104898,
+  "ccdc": 1662799,
+  "prototype": "Mg2Zn11",
+  "prototype_tex": "Mg$_{2}$Zn$_{11}$",
+  "number_of_species": 2,
+  "pearson_symbol": "cP39",
+  "space_group_number": 200,
+  "strukturbericht": "D8c",
+  "strukturbericht_tex": "$D8_{c}$",
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "x2",
+    "x3",
+    "x4",
+    "x5",
+    "y6",
+    "z6"
+  ],
+  "parameter_values": [
+    8.552,
+    0.765,
+    0.68,
+    0.84,
+    0.778,
+    0.757,
+    0.343
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Na$_{2}$Cd$_{11}$",
+    "Mg$_{2}$Cu$_{6}$Al$_{5}$",
+    "Mg$_{2}$Cu$_{6}$Ga$_{5}$",
+    "Na$_{2}$Au$_{6}$In$_{5}$",
+    "Sc$_{2}$Co$_{7}$Ga$_{4}$",
+    "K$_{6}$Na$_{14}$CdTl$_{18}$",
+    "K$_{6}$Na$_{14}$HgTl$_{18}$",
+    "K$_{6}$Na$_{14}$MgTl$_{18}$",
+    "K$_{6}$Na$_{14}$ZnTl$_{18}$"
+  ],
+  "legacy": false,
+  "notes": "$D8_{c}$",
+  "comments": null
 }

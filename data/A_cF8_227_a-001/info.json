@@ -1,34 +1,34 @@
 {
-    "uid": "X5M8",
-    "label": "A_cF8_227_a-001",
-    "alias": [
-        "A_cF8_227_a"
-    ],
-    "title": "Diamond ($A4$) Structure",
-    "icsd": 53779,
-    "ccdc": 1618419,
-    "prototype": "C",
-    "prototype_tex": "C",
-    "number_of_species": 1,
-    "pearson_symbol": "cF8",
-    "space_group_number": 227,
-    "strukturbericht": "A4",
-    "strukturbericht_tex": "$A4$",
-    "part": 1,
-    "parameter_symbols": [
-	"a"
-    ],
-    "parameter_values": [
-	3.55
-    ],
-    "mineral_name": "diamond",
-    "minerals": null,
-    "compounds": [
-        "Ge",
-        "Si",
-        "Sn"
-    ],
-    "legacy": false,
-    "notes": "$A4$, Diamond",
-    "comments": "This is the first crystal structure to be determined by X-ray diffraction. \n Carbon can also be found in nature as \\href{current_web_home_dir/A_hP4_194_bc-001}{graphite ($A9$)}, \\href{current_web_home_dir/A_hP4_194_f-001}{lonsdaleite (hexagonal diamond}}, and \\href{current_web_home_dir/A_cP240_205_10d-001}{buckminsterfullerene (C$_{60}$)}."
+  "uid": "X5M8",
+  "label": "A_cF8_227_a-001",
+  "alias": [
+    "A_cF8_227_a"
+  ],
+  "title": "Diamond ($A4$) Structure",
+  "icsd": 53779,
+  "ccdc": 1618419,
+  "prototype": "C",
+  "prototype_tex": "C",
+  "number_of_species": 1,
+  "pearson_symbol": "cF8",
+  "space_group_number": 227,
+  "strukturbericht": "A4",
+  "strukturbericht_tex": "$A4$",
+  "part": 1,
+  "parameter_symbols": [
+    "a"
+  ],
+  "parameter_values": [
+    3.55
+  ],
+  "mineral_name": "diamond",
+  "minerals": null,
+  "compounds": [
+    "Ge",
+    "Si",
+    "Sn"
+  ],
+  "legacy": false,
+  "notes": "$A4$, Diamond",
+  "comments": "This is the first crystal structure to be determined by X-ray diffraction. \n Carbon can also be found in nature as \\href{current_web_home_dir/A_hP4_194_bc-001}{graphite ($A9$)}, \\href{current_web_home_dir/A_hP4_194_f-001}{lonsdaleite (hexagonal diamond}}, and \\href{current_web_home_dir/A_cP240_205_10d-001}{buckminsterfullerene (C$_{60}$)}."
 }

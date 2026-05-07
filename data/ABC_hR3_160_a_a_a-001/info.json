@@ -1,35 +1,35 @@
 {
-    "uid": "V77F",
-    "label": "ABC_hR3_160_a_a_a-001",
-    "alias": [
-        "ABC_hR3_160_a_a_a"
-    ],
-    "title": "Carbonyl Sulphide (COS, F0$_{2}$) Structure",
-    "icsd": 33540,
-    "ccdc": null,
-    "prototype": "COS",
-    "prototype_tex": "COS",
-    "number_of_species": 3,
-    "pearson_symbol": "hR3",
-    "space_group_number": 160,
-    "strukturbericht": "F02",
-    "strukturbericht_tex": "$F0_{2}$",
-    "part": 2,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x1",
-	"x2",
-	"x3"
-    ],
-    "parameter_values": [
-	6.1703,
-	0.949909
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": "$F0_{2}$",
-    "comments": "(Overell, 1982) does not explicitly give the Wyckoff positions.  We infer them from the C-O and C-S bond lengths.  The experimental data was obtained at 90~K."
+  "uid": "V77F",
+  "label": "ABC_hR3_160_a_a_a-001",
+  "alias": [
+    "ABC_hR3_160_a_a_a"
+  ],
+  "title": "Carbonyl Sulphide (COS, F0$_{2}$) Structure",
+  "icsd": 33540,
+  "ccdc": 1606303,
+  "prototype": "COS",
+  "prototype_tex": "COS",
+  "number_of_species": 3,
+  "pearson_symbol": "hR3",
+  "space_group_number": 160,
+  "strukturbericht": "F02",
+  "strukturbericht_tex": "$F0_{2}$",
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x1",
+    "x2",
+    "x3"
+  ],
+  "parameter_values": [
+    6.1703,
+    0.949909
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "$F0_{2}$",
+  "comments": "(Overell, 1982) does not explicitly give the Wyckoff positions.  We infer them from the C-O and C-S bond lengths.  The experimental data was obtained at 90~K."
 }

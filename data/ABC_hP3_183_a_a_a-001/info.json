@@ -1,36 +1,36 @@
 {
-    "uid": "Q8EL",
-    "label": "ABC_hP3_183_a_a_a-001",
-    "alias": [
-        "ABC_hP3_183_a_a_a"
-    ],
-    "title": "AuCN Structure",
-    "icsd": 165175,
-    "ccdc": null,
-    "prototype": "AuCN",
-    "prototype_tex": "AuCN",
-    "number_of_species": 3,
-    "pearson_symbol": "hP3",
-    "space_group_number": 183,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z1",
-	"z2",
-	"z3"
-    ],
-    "parameter_values": [
-	3.3915,
-	1.49568,
-	0.392
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": null,
-    "comments": "We use the data taken by (Hibble, 2004) at 300K. \n Space group $P6mm$ \\#183 allows an arbitrary choice for the origin of the $z$-axis.  Here we set the origin so that $z_{2} = 0$ for the carbon (1a) site."
+  "uid": "Q8EL",
+  "label": "ABC_hP3_183_a_a_a-001",
+  "alias": [
+    "ABC_hP3_183_a_a_a"
+  ],
+  "title": "AuCN Structure",
+  "icsd": 165175,
+  "ccdc": 1681240,
+  "prototype": "AuCN",
+  "prototype_tex": "AuCN",
+  "number_of_species": 3,
+  "pearson_symbol": "hP3",
+  "space_group_number": 183,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z1",
+    "z2",
+    "z3"
+  ],
+  "parameter_values": [
+    3.3915,
+    1.49568,
+    0.392
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": "We use the data taken by (Hibble, 2004) at 300K. \n Space group $P6mm$ \\#183 allows an arbitrary choice for the origin of the $z$-axis.  Here we set the origin so that $z_{2} = 0$ for the carbon (1a) site."
 }

@@ -1,52 +1,52 @@
 {
-    "uid": "JGDH",
-    "label": "AB2C_mC16_12_g_2i_i-001",
-    "alias": [
-        "AB2C_mC16_12_g_2i_i"
-    ],
-    "title": "Monoclinic FeTlSe$_{2}$ Structure",
-    "icsd": 100354,
-    "ccdc": null,
-    "prototype": "FeSe2Tl",
-    "prototype_tex": "FeSe$_{2}$Tl",
-    "number_of_species": 3,
-    "pearson_symbol": "mC16",
-    "space_group_number": 12,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"b/a",
-	"c/a",
-	"beta",
-	"y1",
-	"x2",
-	"z2",
-	"x3",
-	"z3",
-	"x4",
-	"z4"
-    ],
-    "parameter_values": [
-	13.5887,
-	0.404012,
-	0.783835,
-	148.779,
-	0.2493,
-	0.2458,
-	0.7815,
-	0.0876,
-	0.2659,
-	0.5438,
-	0.719
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "FeTlS$_{2}$"
-    ],
-    "legacy": false,
-    "notes": "Monoclinic FeTlSe$_{2}$",
-    "comments": "This is the low temperature structure of FeTlSe$_{2}$/FeTlS$_{2}$.  At high temperatures it transforms to the \\href{current_web_home_dir/AB2C_tI8_119_c_e_a-001}{tetragonal FeTlS$_{2}$ structure}."
+  "uid": "JGDH",
+  "label": "AB2C_mC16_12_g_2i_i-001",
+  "alias": [
+    "AB2C_mC16_12_g_2i_i"
+  ],
+  "title": "Monoclinic FeTlSe$_{2}$ Structure",
+  "icsd": 100354,
+  "ccdc": 1659496,
+  "prototype": "FeSe2Tl",
+  "prototype_tex": "FeSe$_{2}$Tl",
+  "number_of_species": 3,
+  "pearson_symbol": "mC16",
+  "space_group_number": 12,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "beta",
+    "y1",
+    "x2",
+    "z2",
+    "x3",
+    "z3",
+    "x4",
+    "z4"
+  ],
+  "parameter_values": [
+    13.5887,
+    0.404012,
+    0.783835,
+    148.779,
+    0.2493,
+    0.2458,
+    0.7815,
+    0.0876,
+    0.2659,
+    0.5438,
+    0.719
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "FeTlS$_{2}$"
+  ],
+  "legacy": false,
+  "notes": "Monoclinic FeTlSe$_{2}$",
+  "comments": "This is the low temperature structure of FeTlSe$_{2}$/FeTlS$_{2}$.  At high temperatures it transforms to the \\href{current_web_home_dir/AB2C_tI8_119_c_e_a-001}{tetragonal FeTlS$_{2}$ structure}."
 }

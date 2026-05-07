@@ -1,55 +1,55 @@
 {
-    "uid": "G8GD",
-    "label": "A2B_tP30_85_ab2g_cg-001",
-    "alias": [
-        "A2B_tP30_85_ab2g_cg"
-    ],
-    "title": "$\\alpha$-SrBr$_{2}$ Structure",
-    "icsd": 262673,
-    "ccdc": null,
-    "prototype": "Br2Sr",
-    "prototype_tex": "Br$_{2}$Sr",
-    "number_of_species": 2,
-    "pearson_symbol": "tP30",
-    "space_group_number": 85,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z3",
-	"x4",
-	"y4",
-	"z4",
-	"x5",
-	"y5",
-	"z5",
-	"x6",
-	"y6",
-	"z6"
-    ],
-    "parameter_values": [
-	11.6042,
-	0.614484,
-	0.1471,
-	0.6531,
-	0.9589,
-	0.6229,
-	0.8389,
-	0.958,
-	0.0996,
-	0.6057,
-	0.0885,
-	0.2491
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "EuBr${2}$",
-        "$\\alpha$-Se$_{2}$U"
-    ],
-    "legacy": false,
-    "notes": "$\\alpha$-SrBr$_{2}$",
-    "comments": "(Hermann, 1943) originally assigned SrBr$_{2}$ to space group $Pnma$ \\#62, and gave it the \\href{current_web_home_dir/A2B_oP12_62_2c_c-010}{{\\em Strukturbericht} designation $C53$}.  Subsequent investigation showed that the structure should be in space group $P4/n$ \\#85, but this structure was never given a {\\em Strukturbericht} symbol, although (Parth\\'{e}) does list it as $C53$. \n This compound can also be found as $\\beta$-SrBr$_{2}$ in the  \\href{current_web_home_dir/AB2_cF12_225_a_c-001}{fluorite ($C1$) structure}."
+  "uid": "G8GD",
+  "label": "A2B_tP30_85_ab2g_cg-001",
+  "alias": [
+    "A2B_tP30_85_ab2g_cg"
+  ],
+  "title": "$\\alpha$-SrBr$_{2}$ Structure",
+  "icsd": 262673,
+  "ccdc": 1720273,
+  "prototype": "Br2Sr",
+  "prototype_tex": "Br$_{2}$Sr",
+  "number_of_species": 2,
+  "pearson_symbol": "tP30",
+  "space_group_number": 85,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z3",
+    "x4",
+    "y4",
+    "z4",
+    "x5",
+    "y5",
+    "z5",
+    "x6",
+    "y6",
+    "z6"
+  ],
+  "parameter_values": [
+    11.6042,
+    0.614484,
+    0.1471,
+    0.6531,
+    0.9589,
+    0.6229,
+    0.8389,
+    0.958,
+    0.0996,
+    0.6057,
+    0.0885,
+    0.2491
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "EuBr${2}$",
+    "$\\alpha$-Se$_{2}$U"
+  ],
+  "legacy": false,
+  "notes": "$\\alpha$-SrBr$_{2}$",
+  "comments": "(Hermann, 1943) originally assigned SrBr$_{2}$ to space group $Pnma$ \\#62, and gave it the \\href{current_web_home_dir/A2B_oP12_62_2c_c-010}{{\\em Strukturbericht} designation $C53$}.  Subsequent investigation showed that the structure should be in space group $P4/n$ \\#85, but this structure was never given a {\\em Strukturbericht} symbol, although (Parth\\'{e}) does list it as $C53$. \n This compound can also be found as $\\beta$-SrBr$_{2}$ in the  \\href{current_web_home_dir/AB2_cF12_225_a_c-001}{fluorite ($C1$) structure}."
 }

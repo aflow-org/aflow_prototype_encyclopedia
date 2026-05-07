@@ -1,52 +1,52 @@
 {
-    "uid": "YX16",
-    "label": "A7B2C_tP40_128_egi_h_e-001",
-    "alias": [
-        "A7B2C_tP40_128_egi_h_e"
-    ],
-    "title": "FeCu$_{2}$Al$_{7}$ ($E9_{a}$) Structure",
-    "icsd": 57677,
-    "ccdc": null,
-    "prototype": "Al7Cu2Fe",
-    "prototype_tex": "Al$_{7}$Cu$_{2}$Fe",
-    "number_of_species": 3,
-    "pearson_symbol": "tP40",
-    "space_group_number": 128,
-    "strukturbericht": "E9a",
-    "strukturbericht_tex": "$E9_{a}$",
-    "part": 2,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z1",
-	"z2",
-	"x3",
-	"x4",
-	"y4",
-	"x5",
-	"y5",
-	"z5"
-    ],
-    "parameter_values": [
-	6.336,
-	2.34691,
-	0.134,
-	0.2992,
-	0.165,
-	0.278,
-	0.088,
-	0.198,
-	0.42,
-	0.1
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "CoCu$_{2}$Al$_{7}$",
-        "NiCu$_{3}$Al$_{6}$",
-        "T(CoCuAl) -- an alloy with approximate composition Co$_{2}$Cu$_{4.9}$Al$_{17.7}$"
-    ],
-    "legacy": false,
-    "notes": "$E9_{a}$",
-    "comments": "Our original (Hicks, 2019) CIF for this structure has incorrect $z$-coordinates for the Al I and Fe I atoms.   We have corrected the errors with this release."
+  "uid": "YX16",
+  "label": "A7B2C_tP40_128_egi_h_e-001",
+  "alias": [
+    "A7B2C_tP40_128_egi_h_e"
+  ],
+  "title": "FeCu$_{2}$Al$_{7}$ ($E9_{a}$) Structure",
+  "icsd": 57677,
+  "ccdc": 1621725,
+  "prototype": "Al7Cu2Fe",
+  "prototype_tex": "Al$_{7}$Cu$_{2}$Fe",
+  "number_of_species": 3,
+  "pearson_symbol": "tP40",
+  "space_group_number": 128,
+  "strukturbericht": "E9a",
+  "strukturbericht_tex": "$E9_{a}$",
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z1",
+    "z2",
+    "x3",
+    "x4",
+    "y4",
+    "x5",
+    "y5",
+    "z5"
+  ],
+  "parameter_values": [
+    6.336,
+    2.34691,
+    0.134,
+    0.2992,
+    0.165,
+    0.278,
+    0.088,
+    0.198,
+    0.42,
+    0.1
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "CoCu$_{2}$Al$_{7}$",
+    "NiCu$_{3}$Al$_{6}$",
+    "T(CoCuAl) -- an alloy with approximate composition Co$_{2}$Cu$_{4.9}$Al$_{17.7}$"
+  ],
+  "legacy": false,
+  "notes": "$E9_{a}$",
+  "comments": "Our original (Hicks, 2019) CIF for this structure has incorrect $z$-coordinates for the Al I and Fe I atoms.   We have corrected the errors with this release."
 }

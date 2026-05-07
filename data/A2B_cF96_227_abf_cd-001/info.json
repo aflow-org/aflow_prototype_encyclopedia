@@ -1,32 +1,32 @@
 {
-    "uid": "UGWY",
-    "label": "A2B_cF96_227_abf_cd-001",
-    "alias": [
-        "A2B_cF96_227_abf_cd"
-    ],
-    "title": "$D6_{2}$ (Sb$_{2}$O$_{4}$, {\\em Obsolete}) Structure",
-    "icsd": 24244,
-    "ccdc": null,
-    "prototype": "O2Sb",
-    "prototype_tex": "O$_{2}$Sb",
-    "number_of_species": 2,
-    "pearson_symbol": "cF96",
-    "space_group_number": 227,
-    "strukturbericht": "D62",
-    "strukturbericht_tex": "$D6_{2}$",
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"x5"
-    ],
-    "parameter_values": [
-	10.24,
-	0.395
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": "$D6_{2}$ ({\\em Obsolete})",
-    "comments": "Shortly after (Gottfried, 1937) gave this compound the {\\em Strukturbericht} designation $D6_{2}$, (Dihistr\\\"{o}m, 1937) showed that they were actually determining the structure of Sb$_{3}$O$_{6}$OH, making this structure obsolete.  Indeed, (Herrman, 1943) formally withdraws this from the {\\em Strukturbericht} list, saying ``The type and description [in (Gottfried, 1937)] should be deleted, as the radiographs were not based on the supposed substance.'' We present it for its historical interest. \n Modern experiments have determined that SbO$_{2}$ appears as \\href{current_web_home_dir/A2B_oP24_33_4a_2a-001}{cervantite ($\\alpha$-Sb$_{2}$O$_{4}$)} or \\href{current_web_home_dir/A2B_mC24_15_2f_ae-001}{clinocervantite ($\\beta$-Sb$_{2}$O$_{4}$)}."
+  "uid": "UGWY",
+  "label": "A2B_cF96_227_abf_cd-001",
+  "alias": [
+    "A2B_cF96_227_abf_cd"
+  ],
+  "title": "$D6_{2}$ (Sb$_{2}$O$_{4}$, {\\em Obsolete}) Structure",
+  "icsd": 24244,
+  "ccdc": 1600290,
+  "prototype": "O2Sb",
+  "prototype_tex": "O$_{2}$Sb",
+  "number_of_species": 2,
+  "pearson_symbol": "cF96",
+  "space_group_number": 227,
+  "strukturbericht": "D62",
+  "strukturbericht_tex": "$D6_{2}$",
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "x5"
+  ],
+  "parameter_values": [
+    10.24,
+    0.395
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "$D6_{2}$ ({\\em Obsolete})",
+  "comments": "Shortly after (Gottfried, 1937) gave this compound the {\\em Strukturbericht} designation $D6_{2}$, (Dihistr\\\"{o}m, 1937) showed that they were actually determining the structure of Sb$_{3}$O$_{6}$OH, making this structure obsolete.  Indeed, (Herrman, 1943) formally withdraws this from the {\\em Strukturbericht} list, saying ``The type and description [in (Gottfried, 1937)] should be deleted, as the radiographs were not based on the supposed substance.'' We present it for its historical interest. \n Modern experiments have determined that SbO$_{2}$ appears as \\href{current_web_home_dir/A2B_oP24_33_4a_2a-001}{cervantite ($\\alpha$-Sb$_{2}$O$_{4}$)} or \\href{current_web_home_dir/A2B_mC24_15_2f_ae-001}{clinocervantite ($\\beta$-Sb$_{2}$O$_{4}$)}."
 }

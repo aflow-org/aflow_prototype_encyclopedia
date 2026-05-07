@@ -1,40 +1,40 @@
 {
-    "uid": "G1GD",
-    "label": "AB4C_tP12_129_c_i_a-001",
-    "alias": [
-        "AB4C_tP12_129_c_i_a"
-    ],
-    "title": "NH$_{4}$Br ($B25$) Structure",
-    "icsd": 26579,
-    "ccdc": 1601970,
-    "prototype": "BrH4N",
-    "prototype_tex": "BrH$_{4}$N",
-    "number_of_species": 3,
-    "pearson_symbol": "tP12",
-    "space_group_number": 129,
-    "strukturbericht": "B25",
-    "strukturbericht_tex": "$B25$",
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z2",
-	"y3",
-	"z3"
-    ],
-    "parameter_values": [
-	5.826,
-	0.709921,
-	0.48,
-	0.897,
-	0.147
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "NH$_{4}$I"
-    ],
-    "legacy": false,
-    "notes": "$B25$",
-    "comments": "Data was taken at -100$^{\\circ}$C using deuterium.\n The atomic positions were given for setting 1 of space group \\#129.  We have shifted this to setting 2, placing the origin at the inversion site of the structure."
+  "uid": "G1GD",
+  "label": "AB4C_tP12_129_c_i_a-001",
+  "alias": [
+    "AB4C_tP12_129_c_i_a"
+  ],
+  "title": "NH$_{4}$Br ($B25$) Structure",
+  "icsd": 26579,
+  "ccdc": 1601970,
+  "prototype": "BrH4N",
+  "prototype_tex": "BrH$_{4}$N",
+  "number_of_species": 3,
+  "pearson_symbol": "tP12",
+  "space_group_number": 129,
+  "strukturbericht": "B25",
+  "strukturbericht_tex": "$B25$",
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z2",
+    "y3",
+    "z3"
+  ],
+  "parameter_values": [
+    5.826,
+    0.709921,
+    0.48,
+    0.897,
+    0.147
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "NH$_{4}$I"
+  ],
+  "legacy": false,
+  "notes": "$B25$",
+  "comments": "Data was taken at -100$^{\\circ}$C using deuterium.\n The atomic positions were given for setting 1 of space group \\#129.  We have shifted this to setting 2, placing the origin at the inversion site of the structure."
 }

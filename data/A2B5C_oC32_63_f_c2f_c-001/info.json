@@ -1,57 +1,57 @@
 {
-    "uid": "NJWX",
-    "label": "A2B5C_oC32_63_f_c2f_c-001",
-    "alias": [
-        "A2B5C_oC32_63_f_c2f_c"
-    ],
-    "title": "Pseudobrookite (Fe$_{2}$TiO$_{5}$, $E4_{1}$) Structure",
-    "icsd": 88380,
-    "ccdc": null,
-    "prototype": "Fe2O5Ti",
-    "prototype_tex": "Fe$_{2}$O$_{5}$Ti",
-    "number_of_species": 3,
-    "pearson_symbol": "oC32",
-    "space_group_number": 63,
-    "strukturbericht": "E41",
-    "strukturbericht_tex": "$E4_{1}$",
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"b/a",
-	"c/a",
-	"y1",
-	"y2",
-	"y3",
-	"z3",
-	"y4",
-	"z4",
-	"y5",
-	"z5"
-    ],
-    "parameter_values": [
-	3.7318,
-	2.62428,
-	2.67394,
-	0.7617,
-	0.18848,
-	0.1367,
-	0.5649,
-	0.3108,
-	0.0709,
-	0.048,
-	0.1167
-    ],
-    "mineral_name": "pseudobrookite",
-    "minerals": {
-	"pseudobrookite": "Fe$_{2}$O$_{5}$Ti",
-        "anosovite": "O$_{5}$V$_{3}$"
-    },
-    "compounds": [
-        "Fe$_{1+x}$Ti$_{2-x}$O$_{5}$",
-        "Ti$_{2}$MgO$_{5}$",
-        "V$_{3}$O$_{5}$ (anosovite)" 
-    ],
-    "legacy": false,
-    "notes": "$E4_{1}$, Pseudobrookite",
-    "comments": "We use the $x=1$ data from (Guo, 1999).  They find that the site we have labeled Ti I actually has the composition Fe$_{0.722}$Ti$_{0.278}$, while the Fe I site has the composition Fe$_{0.640}$Ti$_{0.360}$, so that the total metallic composition is Fe$_{2}$Ti."
+  "uid": "NJWX",
+  "label": "A2B5C_oC32_63_f_c2f_c-001",
+  "alias": [
+    "A2B5C_oC32_63_f_c2f_c"
+  ],
+  "title": "Pseudobrookite (Fe$_{2}$TiO$_{5}$, $E4_{1}$) Structure",
+  "icsd": 88380,
+  "ccdc": 1648127,
+  "prototype": "Fe2O5Ti",
+  "prototype_tex": "Fe$_{2}$O$_{5}$Ti",
+  "number_of_species": 3,
+  "pearson_symbol": "oC32",
+  "space_group_number": 63,
+  "strukturbericht": "E41",
+  "strukturbericht_tex": "$E4_{1}$",
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "y1",
+    "y2",
+    "y3",
+    "z3",
+    "y4",
+    "z4",
+    "y5",
+    "z5"
+  ],
+  "parameter_values": [
+    3.7318,
+    2.62428,
+    2.67394,
+    0.7617,
+    0.18848,
+    0.1367,
+    0.5649,
+    0.3108,
+    0.0709,
+    0.048,
+    0.1167
+  ],
+  "mineral_name": "pseudobrookite",
+  "minerals": {
+    "pseudobrookite": "Fe$_{2}$O$_{5}$Ti",
+    "anosovite": "O$_{5}$V$_{3}$"
+  },
+  "compounds": [
+    "Fe$_{1+x}$Ti$_{2-x}$O$_{5}$",
+    "Ti$_{2}$MgO$_{5}$",
+    "V$_{3}$O$_{5}$ (anosovite)"
+  ],
+  "legacy": false,
+  "notes": "$E4_{1}$, Pseudobrookite",
+  "comments": "We use the $x=1$ data from (Guo, 1999).  They find that the site we have labeled Ti I actually has the composition Fe$_{0.722}$Ti$_{0.278}$, while the Fe I site has the composition Fe$_{0.640}$Ti$_{0.360}$, so that the total metallic composition is Fe$_{2}$Ti."
 }

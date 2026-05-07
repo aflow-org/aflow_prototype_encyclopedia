@@ -1,34 +1,34 @@
 {
-    "uid": "WWX6",
-    "label": "A10B_cF176_227_cfg_d-001",
-    "alias": null,
-    "title": "Al$_{10}$V Structure",
-    "icsd": 58202,
-    "ccdc": null,
-    "prototype": "Al10V",
-    "prototype_tex": "Al$_{10}$V",
-    "number_of_species": 2,
-    "pearson_symbol": "cF176",
-    "space_group_number": 227,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-	"a",
-	"x3",
-	"x4",
-	"z4"
-    ],
-    "parameter_values": [
-	14.586,
-	0.4843,
-	0.4404,
-	0.6759
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": null,
-    "comments": "(Brown, 1957) gives the structural information in setting 1 of space group $Fd\\overline{3}m$ \\#227.  We shifted the origin by $(a/8$ $a/8$ $a/8)$ to change this to the standard setting 2."
+  "uid": "WWX6",
+  "label": "A10B_cF176_227_cfg_d-001",
+  "alias": null,
+  "title": "Al$_{10}$V Structure",
+  "icsd": 58202,
+  "ccdc": 1622230,
+  "prototype": "Al10V",
+  "prototype_tex": "Al$_{10}$V",
+  "number_of_species": 2,
+  "pearson_symbol": "cF176",
+  "space_group_number": 227,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "x3",
+    "x4",
+    "z4"
+  ],
+  "parameter_values": [
+    14.586,
+    0.4843,
+    0.4404,
+    0.6759
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": "(Brown, 1957) gives the structural information in setting 1 of space group $Fd\\overline{3}m$ \\#227.  We shifted the origin by $(a/8$ $a/8$ $a/8)$ to change this to the standard setting 2."
 }

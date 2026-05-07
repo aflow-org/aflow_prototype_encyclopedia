@@ -1,37 +1,37 @@
 {
-    "uid": "T0MK",
-    "label": "A3B12C_cF128_226_c_i_b-001",
-    "alias": null,
-    "title": "High-Temperature Y(BH$_{4}$)$_{3}$ Structure",
-    "icsd": 167703,
-    "ccdc": 1683596,
-    "prototype": "B3H12Y",
-    "prototype_tex": "B$_{3}$H$_{12}$Y",
-    "number_of_species": 3,
-    "pearson_symbol": "cF128",
-    "space_group_number": 226,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 5,
-    "parameter_symbols": [
-	"a",
-	"y3",
-	"z3"
-    ],
-    "parameter_values": [
-	11.0086,
-	0.4075,
-	0.3104
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "Ce(BH$_{4}$)$_{3}$",
-        "Lu(BH$_{4}$)$_{3}$",
-        "Nd(BH$_{4}$)$_{3}$",
-        "Pr(BH$_{4}$)$_{3}$"
-    ],
-    "legacy": false,
-    "notes": "HT",
-    "comments": "Y(BH$_{4}$)$_{3}$ his been observed in three phases (Frommen, 2010): \\begin{itemize} \\item A \\href{current_web_home_dir/A3B12C_cP128_205_d_4d_c-001}{room temperature cubic phase}, stable up to 473K, \\item A (metastable?) orthorhombic phase, found in the 473-520K range, whose structure has not been determined, and \\item This \\href{current_web_home_dir/A3B12C_cF128_226_c_i_b-001}{high temperature cubic phase}. \\end{itemize} ~ \\vspace{-.25in} \n This sample used deuterium, and was prepared at 475K and 10MPa and then cooled to room temperature."
+  "uid": "T0MK",
+  "label": "A3B12C_cF128_226_c_i_b-001",
+  "alias": null,
+  "title": "High-Temperature Y(BH$_{4}$)$_{3}$ Structure",
+  "icsd": 167703,
+  "ccdc": 1683596,
+  "prototype": "B3H12Y",
+  "prototype_tex": "B$_{3}$H$_{12}$Y",
+  "number_of_species": 3,
+  "pearson_symbol": "cF128",
+  "space_group_number": 226,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 5,
+  "parameter_symbols": [
+    "a",
+    "y3",
+    "z3"
+  ],
+  "parameter_values": [
+    11.0086,
+    0.4075,
+    0.3104
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Ce(BH$_{4}$)$_{3}$",
+    "Lu(BH$_{4}$)$_{3}$",
+    "Nd(BH$_{4}$)$_{3}$",
+    "Pr(BH$_{4}$)$_{3}$"
+  ],
+  "legacy": false,
+  "notes": "HT",
+  "comments": "Y(BH$_{4}$)$_{3}$ his been observed in three phases (Frommen, 2010): \\begin{itemize} \\item A \\href{current_web_home_dir/A3B12C_cP128_205_d_4d_c-001}{room temperature cubic phase}, stable up to 473K, \\item A (metastable?) orthorhombic phase, found in the 473-520K range, whose structure has not been determined, and \\item This \\href{current_web_home_dir/A3B12C_cF128_226_c_i_b-001}{high temperature cubic phase}. \\end{itemize} ~ \\vspace{-.25in} \n This sample used deuterium, and was prepared at 475K and 10MPa and then cooled to room temperature."
 }

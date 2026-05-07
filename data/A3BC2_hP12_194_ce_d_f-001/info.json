@@ -1,37 +1,37 @@
 {
-    "uid": "ANDB",
-    "label": "A3BC2_hP12_194_ce_d_f-001",
-    "alias": null,
-    "title": "Fe$_{3}$GeTe$_{2}$ Structure",
-    "icsd": 415616,
-    "ccdc": 1729580,
-    "prototype": "Fe3GeTe2",
-    "prototype_tex": "Fe$_{3}$GeTe$_{2}$",
-    "number_of_species": 3,
-    "pearson_symbol": "hP12",
-    "space_group_number": 194,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z3",
-	"z4"
-    ],
-    "parameter_values": [
-	3.991,
-	4.09171,
-	0.6718,
-	0.40982
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-	"Fe$_{3}$GaTe$_{2}$",
-	"Ni$_{3}$GeTe$_{2}$"
-    ],
-    "legacy": false,
-    "notes": null,
-    "comments": "(Deiseroth, 2006) note that the Fe (2c) site has 83\\% occupancy, and Ge (2d) 99\\%.  The nearly isostructural compound Ni$_{3}$GeTe$_{2}$ is identical to the parent structure with nickel on the iron sites, except that the Ni (2c) site is split: the (2c) site is 70\\% occupied, and the (2a) (0,0,0) site contains 25\\% nickel."
+  "uid": "ANDB",
+  "label": "A3BC2_hP12_194_ce_d_f-001",
+  "alias": null,
+  "title": "Fe$_{3}$GeTe$_{2}$ Structure",
+  "icsd": 415616,
+  "ccdc": 1729580,
+  "prototype": "Fe3GeTe2",
+  "prototype_tex": "Fe$_{3}$GeTe$_{2}$",
+  "number_of_species": 3,
+  "pearson_symbol": "hP12",
+  "space_group_number": 194,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z3",
+    "z4"
+  ],
+  "parameter_values": [
+    3.991,
+    4.09171,
+    0.6718,
+    0.40982
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Fe$_{3}$GaTe$_{2}$",
+    "Ni$_{3}$GeTe$_{2}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "(Deiseroth, 2006) note that the Fe (2c) site has 83\\% occupancy, and Ge (2d) 99\\%.  The nearly isostructural compound Ni$_{3}$GeTe$_{2}$ is identical to the parent structure with nickel on the iron sites, except that the Ni (2c) site is split: the (2c) site is 70\\% occupied, and the (2a) (0,0,0) site contains 25\\% nickel."
 }

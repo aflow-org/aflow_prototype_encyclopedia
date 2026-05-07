@@ -1,38 +1,38 @@
 {
-    "uid": "MRXL",
-    "label": "AB4_tP10_103_a_d-001",
-    "alias": [
-        "AB4_tP10_103_a_d"
-    ],
-    "title": "High Temperature NbTe$_{4}$ Structure",
-    "icsd": 65129,
-    "ccdc": null,
-    "prototype": "NbTe4",
-    "prototype_tex": "NbTe$_{4}$",
-    "number_of_species": 2,
-    "pearson_symbol": "tP10",
-    "space_group_number": 103,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z1",
-	"x2",
-	"y2",
-	"z2"
-    ],
-    "parameter_values": [
-	6.551,
-	1.04518
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "TaTe$_{4}$"
-    ],
-    "legacy": false,
-    "notes": "HT",
-    "comments": "This is the high-temperature phase of NbTe$_{4}$.  Below 520$^\\circ$C it transforms into \\href{current_web_home_dir/AB4_tP10_124_a_m-001}{a centrosymmetric structure}. \n Space group $P4cc$ \\#103 has no inversion site and allows an arbitary origin for the $z$-axis.  We fix this by setting $z_{1} = 0$ for the niobium site."
+  "uid": "MRXL",
+  "label": "AB4_tP10_103_a_d-001",
+  "alias": [
+    "AB4_tP10_103_a_d"
+  ],
+  "title": "High Temperature NbTe$_{4}$ Structure",
+  "icsd": 65129,
+  "ccdc": 1627275,
+  "prototype": "NbTe4",
+  "prototype_tex": "NbTe$_{4}$",
+  "number_of_species": 2,
+  "pearson_symbol": "tP10",
+  "space_group_number": 103,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z1",
+    "x2",
+    "y2",
+    "z2"
+  ],
+  "parameter_values": [
+    6.551,
+    1.04518
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "TaTe$_{4}$"
+  ],
+  "legacy": false,
+  "notes": "HT",
+  "comments": "This is the high-temperature phase of NbTe$_{4}$.  Below 520$^\\circ$C it transforms into \\href{current_web_home_dir/AB4_tP10_124_a_m-001}{a centrosymmetric structure}. \n Space group $P4cc$ \\#103 has no inversion site and allows an arbitary origin for the $z$-axis.  We fix this by setting $z_{1} = 0$ for the niobium site."
 }

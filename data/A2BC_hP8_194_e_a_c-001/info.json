@@ -1,36 +1,36 @@
 {
-    "uid": "DG69",
-    "label": "A2BC_hP8_194_e_a_c-001",
-    "alias": null,
-    "title": "SnTaS$_{2}$ Structure",
-    "icsd": 100387,
-    "ccdc": null,
-    "prototype": "S2SnTa",
-    "prototype_tex": "S$_{2}$SnTa",
-    "number_of_species": 3,
-    "pearson_symbol": "hP8",
-    "space_group_number": 194,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z3"
-    ],
-    "parameter_values": [
-	3.307,
-	5.27427,
-	0.16
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-	"Bi$_{x}$NbS$_{2}$",
-	"PbNbS$_{2}$",
-	"SnNbS$_{2}$"
-    ],
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "DG69",
+  "label": "A2BC_hP8_194_e_a_c-001",
+  "alias": null,
+  "title": "SnTaS$_{2}$ Structure",
+  "icsd": 100387,
+  "ccdc": 1659523,
+  "prototype": "S2SnTa",
+  "prototype_tex": "S$_{2}$SnTa",
+  "number_of_species": 3,
+  "pearson_symbol": "hP8",
+  "space_group_number": 194,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z3"
+  ],
+  "parameter_values": [
+    3.307,
+    5.27427,
+    0.16
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Bi$_{x}$NbS$_{2}$",
+    "PbNbS$_{2}$",
+    "SnNbS$_{2}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

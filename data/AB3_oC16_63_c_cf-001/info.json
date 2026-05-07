@@ -1,45 +1,45 @@
 {
-    "uid": "EW0Y",
-    "label": "AB3_oC16_63_c_cf-001",
-    "alias": [
-        "AB3_oC16_63_c_cf"
-    ],
-    "title": "Re$_{3}$B Structure",
-    "icsd": 43662,
-    "ccdc": null,
-    "prototype": "BRe3",
-    "prototype_tex": "BRe$_{3}$",
-    "number_of_species": 2,
-    "pearson_symbol": "oC16",
-    "space_group_number": 63,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"b/a",
-	"c/a",
-	"y1",
-	"y2",
-	"y3",
-	"z3"
-    ],
-    "parameter_values": [
-	2.89,
-	3.22249,
-	2.51142,
-	0.744,
-	0.4262,
-	0.1345,
-	0.062
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "BTc$_{3}$",
-        "CoPu$_{3}$"
-    ],
-    "legacy": false,
-    "notes": null,
-    "comments": "This is the parent structure of the ternary \\href{current_web_home_dir/A2BC_oC16_63_f_c_c-002}{MgCuAl$_{2}$ ($E1_{a}$) structure}. There are also ``filled'' versions of this structure, \\href{current_web_home_dir/ABC3_oC20_63_c_a_cf-003}{V$_{3}$AsC} and \\href{current_web_home_dir/AB2CD_oC20_63_a_f_c_c-001}{ThFe$_{2}$SiC}."
+  "uid": "EW0Y",
+  "label": "AB3_oC16_63_c_cf-001",
+  "alias": [
+    "AB3_oC16_63_c_cf"
+  ],
+  "title": "Re$_{3}$B Structure",
+  "icsd": 43662,
+  "ccdc": 1613135,
+  "prototype": "BRe3",
+  "prototype_tex": "BRe$_{3}$",
+  "number_of_species": 2,
+  "pearson_symbol": "oC16",
+  "space_group_number": 63,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "y1",
+    "y2",
+    "y3",
+    "z3"
+  ],
+  "parameter_values": [
+    2.89,
+    3.22249,
+    2.51142,
+    0.744,
+    0.4262,
+    0.1345,
+    0.062
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "BTc$_{3}$",
+    "CoPu$_{3}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "This is the parent structure of the ternary \\href{current_web_home_dir/A2BC_oC16_63_f_c_c-002}{MgCuAl$_{2}$ ($E1_{a}$) structure}. There are also ``filled'' versions of this structure, \\href{current_web_home_dir/ABC3_oC20_63_c_a_cf-003}{V$_{3}$AsC} and \\href{current_web_home_dir/AB2CD_oC20_63_a_f_c_c-001}{ThFe$_{2}$SiC}."
 }

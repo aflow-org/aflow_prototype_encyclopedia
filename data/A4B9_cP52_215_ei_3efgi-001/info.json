@@ -1,53 +1,53 @@
 {
-    "uid": "TRNX",
-    "label": "A4B9_cP52_215_ei_3efgi-001",
-    "alias": [
-        "A4B9_cP52_215_ei_3efgi"
-    ],
-    "title": "$\\gamma$-brass (Cu$_{9}$Al$_{4}$, $D8_{3}$) Structure",
-    "icsd": 1625,
-    "ccdc": null,
-    "prototype": "Al4Cu9",
-    "prototype_tex": "Al$_{4}$Cu$_{9}$",
-    "number_of_species": 2,
-    "pearson_symbol": "cP52",
-    "space_group_number": 215,
-    "strukturbericht": "D83",
-    "strukturbericht_tex": "$D8_{3}$",
-    "part": 2,
-    "parameter_symbols": [
-	"a",
-	"x1",
-	"x2",
-	"x3",
-	"x4",
-	"x5",
-	"x6",
-	"x7",
-	"z7",
-	"x8",
-	"z8"
-    ],
-    "parameter_values": [
-	8.7068,
-	0.1157,
-	0.8296,
-	0.3253,
-	0.6066,
-	0.3534,
-	0.8549,
-	0.8113,
-	0.5332,
-	0.3153,
-	0.0322
-    ],
-    "mineral_name": "$\\gamma$-brass",
-    "minerals": null,
-    "compounds": [
-        "Cu$_{9}$Ga$_{4}$",
-        "InMn$_{3}$"
-    ],
-    "legacy": false,
-    "notes": "$D8_{3}$, $\\gamma$-Brass",
-    "comments": "(Arnberg, 1978) give the Wyckoff positions of the Cu-IV and Cu-V atoms as (6g) $(x,1/2,1/2)$, but give the coordinates in the form $(x,0,0)$ corresponding to the (6f) site. \n (Stokhuyzen, 1974) used (6f) for both types of atoms in the isostructural system Ga$_{9}$Al$_{4}$. \n (Pearson, 1958) places the Cu-IV atoms on a (6f) site and Cu-V on (6g), but does not give explicit coordinates. \n Placing the Cu-V atoms on (6f) sites yields an interatomic distance of 1.8{\\AA}. This contradicts (Arnberg, 1978), who say that the minimum interatomic distance between the Cu-IV and Cu-V atoms is 2.48{\\AA} . Placing the Cu-V atoms on (6g) sites gives this distance, in agreement with (Pearson, 1958), so we make this choice for the crystal structure. \n This is a variety of $\\gamma$-brass comparable to the \\href{current_web_home_dir/A5B8_cI52_217_ce_cg-001}{$D8_{2}$ structure}. In fact, if we \\begin{itemize} \\item Replace the Al and Cu-III atoms by Zn, while setting $x_{4}=x_{1}+1/2$, \\item Replace the Al II and Cu-VI atoms by Zn, with $x_{8} = x_{7} + 1/2$ and $z_{8} = z_{7} + 1/2$, \\item Set $x_{3} = x_{2} + 1/2$ and \\item Set $x_{6} = x_{5} + 1/2$, \\end{itemize} then this structure is identical to $D8_{2} ~ \\gamma$-brass. \n (Pearson, 1958), pp. 252, gives a list of compounds which can take on the $D8_{1}$, $D8_{2}$, or $D8_{3}$ structure, depending on the exact composition. \n (Mizutani, 2010) classifies this as a ``P-cell'' $\\gamma$-brass."
+  "uid": "TRNX",
+  "label": "A4B9_cP52_215_ei_3efgi-001",
+  "alias": [
+    "A4B9_cP52_215_ei_3efgi"
+  ],
+  "title": "$\\gamma$-brass (Cu$_{9}$Al$_{4}$, $D8_{3}$) Structure",
+  "icsd": 1625,
+  "ccdc": 1591705,
+  "prototype": "Al4Cu9",
+  "prototype_tex": "Al$_{4}$Cu$_{9}$",
+  "number_of_species": 2,
+  "pearson_symbol": "cP52",
+  "space_group_number": 215,
+  "strukturbericht": "D83",
+  "strukturbericht_tex": "$D8_{3}$",
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "x1",
+    "x2",
+    "x3",
+    "x4",
+    "x5",
+    "x6",
+    "x7",
+    "z7",
+    "x8",
+    "z8"
+  ],
+  "parameter_values": [
+    8.7068,
+    0.1157,
+    0.8296,
+    0.3253,
+    0.6066,
+    0.3534,
+    0.8549,
+    0.8113,
+    0.5332,
+    0.3153,
+    0.0322
+  ],
+  "mineral_name": "$\\gamma$-brass",
+  "minerals": null,
+  "compounds": [
+    "Cu$_{9}$Ga$_{4}$",
+    "InMn$_{3}$"
+  ],
+  "legacy": false,
+  "notes": "$D8_{3}$, $\\gamma$-Brass",
+  "comments": "(Arnberg, 1978) give the Wyckoff positions of the Cu-IV and Cu-V atoms as (6g) $(x,1/2,1/2)$, but give the coordinates in the form $(x,0,0)$ corresponding to the (6f) site. \n (Stokhuyzen, 1974) used (6f) for both types of atoms in the isostructural system Ga$_{9}$Al$_{4}$. \n (Pearson, 1958) places the Cu-IV atoms on a (6f) site and Cu-V on (6g), but does not give explicit coordinates. \n Placing the Cu-V atoms on (6f) sites yields an interatomic distance of 1.8{\\AA}. This contradicts (Arnberg, 1978), who say that the minimum interatomic distance between the Cu-IV and Cu-V atoms is 2.48{\\AA} . Placing the Cu-V atoms on (6g) sites gives this distance, in agreement with (Pearson, 1958), so we make this choice for the crystal structure. \n This is a variety of $\\gamma$-brass comparable to the \\href{current_web_home_dir/A5B8_cI52_217_ce_cg-001}{$D8_{2}$ structure}. In fact, if we \\begin{itemize} \\item Replace the Al and Cu-III atoms by Zn, while setting $x_{4}=x_{1}+1/2$, \\item Replace the Al II and Cu-VI atoms by Zn, with $x_{8} = x_{7} + 1/2$ and $z_{8} = z_{7} + 1/2$, \\item Set $x_{3} = x_{2} + 1/2$ and \\item Set $x_{6} = x_{5} + 1/2$, \\end{itemize} then this structure is identical to $D8_{2} ~ \\gamma$-brass. \n (Pearson, 1958), pp. 252, gives a list of compounds which can take on the $D8_{1}$, $D8_{2}$, or $D8_{3}$ structure, depending on the exact composition. \n (Mizutani, 2010) classifies this as a ``P-cell'' $\\gamma$-brass."
 }

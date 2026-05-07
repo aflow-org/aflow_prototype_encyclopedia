@@ -1,49 +1,49 @@
 {
-    "uid": "77Z6",
-    "label": "A9B2C3_hP28_194_hk_f_bf-001",
-    "alias": [
-        "A9B2C3_hP28_194_hk_f_bf"
-    ],
-    "title": "Cs$_{3}$Cr$_{2}$Cl$_{9}$ Structure",
-    "icsd": 16706,
-    "ccdc": null,
-    "prototype": "Cl9Cr2Cs3",
-    "prototype_tex": "Cl$_{9}$Cr$_{2}$Cs$_{3}$",
-    "number_of_species": 3,
-    "pearson_symbol": "hP28",
-    "space_group_number": 194,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z2",
-	"z3",
-	"x4",
-	"x5",
-	"z5"
-    ],
-    "parameter_values": [
-	7.22,
-	2.48338,
-	0.837,
-	0.077,
-	0.508003,
-	0.824003,
-	0.092
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "Cs$_{3}$Cr$_{2}$Br$_{9}$",
-        "Mo$_{2}$N$_{3}$Cl$_{9}$",
-        "Rb$_{3}$Mo$_{2}$Br$_{9}$",
-        "Rb$_{3}$Nb$_{2}$Br$_{9}$",
-        "Rb$_{3}$Os$_{2}$Br$_{9}$",
-        "Rb$_{3}$Mo$_{2}$Cl$_{9}$"
-    ],
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "77Z6",
+  "label": "A9B2C3_hP28_194_hk_f_bf-001",
+  "alias": [
+    "A9B2C3_hP28_194_hk_f_bf"
+  ],
+  "title": "Cs$_{3}$Cr$_{2}$Cl$_{9}$ Structure",
+  "icsd": 16706,
+  "ccdc": 1597258,
+  "prototype": "Cl9Cr2Cs3",
+  "prototype_tex": "Cl$_{9}$Cr$_{2}$Cs$_{3}$",
+  "number_of_species": 3,
+  "pearson_symbol": "hP28",
+  "space_group_number": 194,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z2",
+    "z3",
+    "x4",
+    "x5",
+    "z5"
+  ],
+  "parameter_values": [
+    7.22,
+    2.48338,
+    0.837,
+    0.077,
+    0.508003,
+    0.824003,
+    0.092
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Cs$_{3}$Cr$_{2}$Br$_{9}$",
+    "Mo$_{2}$N$_{3}$Cl$_{9}$",
+    "Rb$_{3}$Mo$_{2}$Br$_{9}$",
+    "Rb$_{3}$Nb$_{2}$Br$_{9}$",
+    "Rb$_{3}$Os$_{2}$Br$_{9}$",
+    "Rb$_{3}$Mo$_{2}$Cl$_{9}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

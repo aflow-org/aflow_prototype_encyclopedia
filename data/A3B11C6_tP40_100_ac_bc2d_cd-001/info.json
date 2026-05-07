@@ -1,54 +1,54 @@
 {
-    "uid": "LZ7C",
-    "label": "A3B11C6_tP40_100_ac_bc2d_cd-001",
-    "alias": [
-        "A3B11C6_tP40_100_ac_bc2d_cd"
-    ],
-    "title": "Ce$_{3}$Si$_{6}$N$_{11}$ Structure",
-    "icsd": 401679,
-    "ccdc": null,
-    "prototype": "Ce3N11Si6",
-    "prototype_tex": "Ce$_{3}$N$_{11}$Si$_{6}$",
-    "number_of_species": 3,
-    "pearson_symbol": "tP40",
-    "space_group_number": 100,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z1",
-	"z2",
-	"x3",
-	"z3",
-	"x4",
-	"z4",
-	"x5",
-	"z5",
-	"x6",
-	"y6",
-	"z6",
-	"x7",
-	"y7",
-	"z7",
-	"x8",
-	"y8",
-	"z8"
-    ],
-    "parameter_values": [
-	10.131,
-	0.478433
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "La$_{3}$Si$_{6}$N$_{11}$",
-        "Nd$_{3}$Si$_{6}$N$_{11}$",
-        "Pr$_{3}$Si$_{6}$N$_{11}$",
-        "Sm$_{3}$Si$_{6}$N$_{11}$"
-    ],
-    "legacy": false,
-    "notes": null,
-    "comments": "(Woike, 1995) does not have in ICSD listing for Ce$_{3}$Si$_{6}$N$_{11}$, so we use the one from (Schlieper, 1995). \n Some sites use Sm$_{3}$Si$_{6}$N$_{11}$ as the prototype for this structure."
+  "uid": "LZ7C",
+  "label": "A3B11C6_tP40_100_ac_bc2d_cd-001",
+  "alias": [
+    "A3B11C6_tP40_100_ac_bc2d_cd"
+  ],
+  "title": "Ce$_{3}$Si$_{6}$N$_{11}$ Structure",
+  "icsd": 401679,
+  "ccdc": 1724703,
+  "prototype": "Ce3N11Si6",
+  "prototype_tex": "Ce$_{3}$N$_{11}$Si$_{6}$",
+  "number_of_species": 3,
+  "pearson_symbol": "tP40",
+  "space_group_number": 100,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z1",
+    "z2",
+    "x3",
+    "z3",
+    "x4",
+    "z4",
+    "x5",
+    "z5",
+    "x6",
+    "y6",
+    "z6",
+    "x7",
+    "y7",
+    "z7",
+    "x8",
+    "y8",
+    "z8"
+  ],
+  "parameter_values": [
+    10.131,
+    0.478433
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "La$_{3}$Si$_{6}$N$_{11}$",
+    "Nd$_{3}$Si$_{6}$N$_{11}$",
+    "Pr$_{3}$Si$_{6}$N$_{11}$",
+    "Sm$_{3}$Si$_{6}$N$_{11}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "(Woike, 1995) does not have in ICSD listing for Ce$_{3}$Si$_{6}$N$_{11}$, so we use the one from (Schlieper, 1995). \n Some sites use Sm$_{3}$Si$_{6}$N$_{11}$ as the prototype for this structure."
 }

@@ -1,39 +1,39 @@
 {
-    "uid": "34W5",
-    "label": "A2BC4_tP7_111_e_b_n-001",
-    "alias": [
-        "A2BC4_tP7_111_f_a_n"
-    ],
-    "title": "$E3_{1}$ ($\\beta$-Ag$_{2}$HgI$_{4}$) Structure",
-    "icsd": 30264,
-    "ccdc": null,
-    "prototype": "Ag2HgI4",
-    "prototype_tex": "Ag$_{2}$HgI$_{4}$",
-    "number_of_species": 3,
-    "pearson_symbol": "tP7",
-    "space_group_number": 111,
-    "strukturbericht": "E31",
-    "strukturbericht_tex": "$E3_{1}$",
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x3",
-	"z3"
-    ],
-    "parameter_values": [
-	6.34,
-	1,
-	0.23,
-	0.275
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "CdIn$_{2}$Se$_{4}$",
-        "CuHg$_{2}$I$_{4}$"
-    ],
-    "legacy": false,
-    "notes": "$E3_{1}$, $\\beta$-Ag$_{2}$HgI$_{4}$",
-    "comments": "(Ketelaar, 1931) determined this pseudo-cubic structure for $\\beta$-Ag$_{2}$HgI$_{4}$, and (Hermann, 1937) assigned it the {\\em Strukturbericht} symbol $E3_{1}$. Later, (Browall, 1974) showed that $\\beta$-Ag$_{2}$HgI$_{4}$ takes the \\href{current_web_home_dir/A2BC4_tI14_82_bc_a_g-001}{Al$_{2}$CdS$_{4}$ structure}, which (Pearson, 1967) listed as {\\em Strukturbericht} $E3$. \n The CdIn$_{2}$Se$_{4}$ structure found by (Hahn, 1955) does seem to be in this phase, so we have removed the ``obsolete'' label."
+  "uid": "34W5",
+  "label": "A2BC4_tP7_111_e_b_n-001",
+  "alias": [
+    "A2BC4_tP7_111_f_a_n"
+  ],
+  "title": "$E3_{1}$ ($\\beta$-Ag$_{2}$HgI$_{4}$) Structure",
+  "icsd": 30264,
+  "ccdc": 1604632,
+  "prototype": "Ag2HgI4",
+  "prototype_tex": "Ag$_{2}$HgI$_{4}$",
+  "number_of_species": 3,
+  "pearson_symbol": "tP7",
+  "space_group_number": 111,
+  "strukturbericht": "E31",
+  "strukturbericht_tex": "$E3_{1}$",
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x3",
+    "z3"
+  ],
+  "parameter_values": [
+    6.34,
+    1,
+    0.23,
+    0.275
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "CdIn$_{2}$Se$_{4}$",
+    "CuHg$_{2}$I$_{4}$"
+  ],
+  "legacy": false,
+  "notes": "$E3_{1}$, $\\beta$-Ag$_{2}$HgI$_{4}$",
+  "comments": "(Ketelaar, 1931) determined this pseudo-cubic structure for $\\beta$-Ag$_{2}$HgI$_{4}$, and (Hermann, 1937) assigned it the {\\em Strukturbericht} symbol $E3_{1}$. Later, (Browall, 1974) showed that $\\beta$-Ag$_{2}$HgI$_{4}$ takes the \\href{current_web_home_dir/A2BC4_tI14_82_bc_a_g-001}{Al$_{2}$CdS$_{4}$ structure}, which (Pearson, 1967) listed as {\\em Strukturbericht} $E3$. \n The CdIn$_{2}$Se$_{4}$ structure found by (Hahn, 1955) does seem to be in this phase, so we have removed the ``obsolete'' label."
 }

@@ -1,41 +1,41 @@
 {
-    "uid": "9631",
-    "label": "A_hP4_194_ac-001",
-    "alias": [
-        "A_hP4_194_ac"
-    ],
-    "title": "$\\alpha$-La ($A3'$) Structure",
-    "icsd": 43573,
-    "ccdc": 1613057,
-    "prototype": "La",
-    "prototype_tex": "La",
-    "number_of_species": 1,
-    "pearson_symbol": "hP4",
-    "space_group_number": 194,
-    "strukturbericht": "A3'",
-    "strukturbericht_tex": "$A3'$",
-    "part": 1,
-    "parameter_symbols": [
-	"a",
-	"c/a"
-    ],
-    "parameter_values": [
-	3.77,
-	3.21751
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "Am",
-        "Bk",
-        "Ce",
-        "Cf",
-        "Cm",
-        "Nd",
-        "Pm",
-        "Pr"
-    ],
-    "legacy": false,
-    "notes": "$A3'$, $\\alpha$-La",
-    "comments": "This crystal is close-packed, with stacking ABACABAC$\\dots$, as opposed to ABAB$\\dots$ for the \\href{current_web_home_dir/A_hP2_194_c-001}{hcp ($A3$) structure} and ABCABC$\\dots$ for the \\href{current_web_home_dir/A_cF4_225_a-001}{fcc ($A1$) lattice}. The (2a) crystallographic sites (the A layer) form a simple hexagonal lattice. The (2c) sites (the B and C layers) form an hcp structure."
+  "uid": "9631",
+  "label": "A_hP4_194_ac-001",
+  "alias": [
+    "A_hP4_194_ac"
+  ],
+  "title": "$\\alpha$-La ($A3'$) Structure",
+  "icsd": 43573,
+  "ccdc": 1613057,
+  "prototype": "La",
+  "prototype_tex": "La",
+  "number_of_species": 1,
+  "pearson_symbol": "hP4",
+  "space_group_number": 194,
+  "strukturbericht": "A3'",
+  "strukturbericht_tex": "$A3'$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a"
+  ],
+  "parameter_values": [
+    3.77,
+    3.21751
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Am",
+    "Bk",
+    "Ce",
+    "Cf",
+    "Cm",
+    "Nd",
+    "Pm",
+    "Pr"
+  ],
+  "legacy": false,
+  "notes": "$A3'$, $\\alpha$-La",
+  "comments": "This crystal is close-packed, with stacking ABACABAC$\\dots$, as opposed to ABAB$\\dots$ for the \\href{current_web_home_dir/A_hP2_194_c-001}{hcp ($A3$) structure} and ABCABC$\\dots$ for the \\href{current_web_home_dir/A_cF4_225_a-001}{fcc ($A1$) lattice}. The (2a) crystallographic sites (the A layer) form a simple hexagonal lattice. The (2c) sites (the B and C layers) form an hcp structure."
 }

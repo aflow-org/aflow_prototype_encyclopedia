@@ -1,38 +1,38 @@
 {
-    "uid": "WQGS",
-    "label": "A3B2_hR5_155_e_c-001",
-    "alias": [
-        "A3B2_hR5_155_e_c"
-    ],
-    "title": "Hazelwoodite (Ni$_{3}$S$_{2}$, $D5_{e}$) Structure",
-    "icsd": 23114,
-    "ccdc": null,
-    "prototype": "Ni3S2",
-    "prototype_tex": "Ni$_{3}$S$_{2}$",
-    "number_of_species": 2,
-    "pearson_symbol": "hR5",
-    "space_group_number": 155,
-    "strukturbericht": "D53",
-    "strukturbericht_tex": "$D5_{3}$",
-    "part": 1,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x1",
-	"y2"
-    ],
-    "parameter_values": [
-	5.73296,
-	1.24097,
-	0.2521,
-	0.2449
-    ],
-    "mineral_name": "hazelwoodite",
-    "minerals": null,
-    "compounds": [
-        "Ni$_{3}$Se$_{2}$"
-    ],
-    "legacy": false,
-    "notes": "Hazelwoodite",
-    "comments": "This can be considered as a prototype for a high concentration of ordered vacancies in \\href{current_web_home_dir/A_hP2_194_c-001}{the hcp structure}. We get the ideal hcp atomic positions when z$_{1}$=1/3 and y$_{2}$=1/6, leaving a vacancy at the origin. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
+  "uid": "WQGS",
+  "label": "A3B2_hR5_155_e_c-001",
+  "alias": [
+    "A3B2_hR5_155_e_c"
+  ],
+  "title": "Hazelwoodite (Ni$_{3}$S$_{2}$, $D5_{e}$) Structure",
+  "icsd": 23114,
+  "ccdc": 1599267,
+  "prototype": "Ni3S2",
+  "prototype_tex": "Ni$_{3}$S$_{2}$",
+  "number_of_species": 2,
+  "pearson_symbol": "hR5",
+  "space_group_number": 155,
+  "strukturbericht": "D53",
+  "strukturbericht_tex": "$D5_{3}$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x1",
+    "y2"
+  ],
+  "parameter_values": [
+    5.73296,
+    1.24097,
+    0.2521,
+    0.2449
+  ],
+  "mineral_name": "hazelwoodite",
+  "minerals": null,
+  "compounds": [
+    "Ni$_{3}$Se$_{2}$"
+  ],
+  "legacy": false,
+  "notes": "Hazelwoodite",
+  "comments": "This can be considered as a prototype for a high concentration of ordered vacancies in \\href{current_web_home_dir/A_hP2_194_c-001}{the hcp structure}. We get the ideal hcp atomic positions when z$_{1}$=1/3 and y$_{2}$=1/6, leaving a vacancy at the origin. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

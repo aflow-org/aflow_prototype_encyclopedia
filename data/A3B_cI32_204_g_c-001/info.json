@@ -1,45 +1,45 @@
 {
-    "uid": "9U6F",
-    "label": "A3B_cI32_204_g_c-001",
-    "alias": [
-        "A3B_cI32_204_g_c"
-    ],
-    "title": "Skutterudite (CoAs$_{3}$, $D0_{2}$) Structure",
-    "icsd": 9188,
-    "ccdc": null,
-    "prototype": "As3Co",
-    "prototype_tex": "As$_{3}$Co",
-    "number_of_species": 2,
-    "pearson_symbol": "cI32",
-    "space_group_number": 204,
-    "strukturbericht": "D02",
-    "strukturbericht_tex": "$D0_{2}$",
-    "part": 1,
-    "parameter_symbols": [
-	"a",
-	"y2",
-	"z2"
-    ],
-    "parameter_values": [
-	8.195,
-	0.3431,
-	0.8497
-    ],
-    "mineral_name": "skutterudite",
-    "minerals": null,
-    "compounds": [
-        "(Fe,Ni)As$_{3}$",
-        "IrAs$_{3}$",
-        "RhAs$_{3}$",
-        "CoP$_{3}$",
-        "IrP$_{3}$",
-        "NiP$_{3}$",
-        "PdP$_{3}$",
-        "CoSb$_{3}$",
-        "IrSb$_{3}$",
-        "RhSb$_{3}$"
-    ],
-    "legacy": false,
-    "notes": "$D0_{2}$, Skutterudite",
-    "comments": "Useful skutterudites have iron and nickel alloyed with cobalt. \n We have corrected the lattice constant for this structure."
+  "uid": "9U6F",
+  "label": "A3B_cI32_204_g_c-001",
+  "alias": [
+    "A3B_cI32_204_g_c"
+  ],
+  "title": "Skutterudite (CoAs$_{3}$, $D0_{2}$) Structure",
+  "icsd": 9188,
+  "ccdc": 1594218,
+  "prototype": "As3Co",
+  "prototype_tex": "As$_{3}$Co",
+  "number_of_species": 2,
+  "pearson_symbol": "cI32",
+  "space_group_number": 204,
+  "strukturbericht": "D02",
+  "strukturbericht_tex": "$D0_{2}$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "y2",
+    "z2"
+  ],
+  "parameter_values": [
+    8.195,
+    0.3431,
+    0.8497
+  ],
+  "mineral_name": "skutterudite",
+  "minerals": null,
+  "compounds": [
+    "(Fe,Ni)As$_{3}$",
+    "IrAs$_{3}$",
+    "RhAs$_{3}$",
+    "CoP$_{3}$",
+    "IrP$_{3}$",
+    "NiP$_{3}$",
+    "PdP$_{3}$",
+    "CoSb$_{3}$",
+    "IrSb$_{3}$",
+    "RhSb$_{3}$"
+  ],
+  "legacy": false,
+  "notes": "$D0_{2}$, Skutterudite",
+  "comments": "Useful skutterudites have iron and nickel alloyed with cobalt. \n We have corrected the lattice constant for this structure."
 }

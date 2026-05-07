@@ -1,46 +1,46 @@
 {
-    "uid": "L8NP",
-    "label": "A7B12C19_cI152_220_ac_2d_bce-001",
-    "alias": [
-        "A7B12C19_cI152_220_bc_2d_ace"
-    ],
-    "title": "Mayenite (12 CaO$\\cdot$7Al$_{2}$O$_{3}$, $K7_4$, C12A7) Structure",
-    "icsd": 24100,
-    "ccdc": 1600150,
-    "prototype": "Al14Ca12O33",
-    "prototype_tex": "Al$_{14}$Ca$_{12}$O$_{33}$",
-    "number_of_species": 3,
-    "pearson_symbol": "cI152",
-    "space_group_number": 220,
-    "strukturbericht": "K74",
-    "strukturbericht_tex": "$K7_{4}$",
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"x3",
-	"x4",
-	"x5",
-	"x6",
-	"x7",
-	"y7",
-	"z7"
-    ],
-    "parameter_values": [
-	11.9794,
-	0.9812,
-	0.56481,
-	0.1068,
-	0.0633,
-	0.84946,
-	0.03672,
-	0.94292
-    ],
-    "mineral_name": "mayenite",
-    "minerals": {
-	"mayenite": "Al$_{14}$Ca$_{12}$O$_{33}$"
-    },
-    "compounds": null,
-    "legacy": false,
-    "notes": "$K7_{4}$, Mayenite",
-    "comments": "We present the structure determined by (Boysen, 2007) with data taken at 293K.  This slightly differs from the original determination of (B\\\"{u}ssem, 1936), which was given the $K7_{4}$ designation by (Gottfried, 1938). In the original work, the calcium atoms were thought to be located at a single (24d) site.  Newer findings show that calcium is split between two (24d) sites, with the site we have labeled Ca-I having 87.5\\% of the atoms and Ca-II the remainder, although presumably only one of the two sites is occupied in any pair. \n All studies show that the O-I (12a) site is only partially occupied: if this is occupied 1/6 of the time we get the proper stoichiometry, though (Boysen, 2007) found the occupation was 0.251 at 293K, dropping as the temperature decreased. \n This structure is often referred to in the literature as C12A7 to distinguish it from other CaO/Al$_{2}$O$_{3}$ compounds."
+  "uid": "L8NP",
+  "label": "A7B12C19_cI152_220_ac_2d_bce-001",
+  "alias": [
+    "A7B12C19_cI152_220_bc_2d_ace"
+  ],
+  "title": "Mayenite (12 CaO$\\cdot$7Al$_{2}$O$_{3}$, $K7_4$, C12A7) Structure",
+  "icsd": 24100,
+  "ccdc": 1600150,
+  "prototype": "Al14Ca12O33",
+  "prototype_tex": "Al$_{14}$Ca$_{12}$O$_{33}$",
+  "number_of_species": 3,
+  "pearson_symbol": "cI152",
+  "space_group_number": 220,
+  "strukturbericht": "K74",
+  "strukturbericht_tex": "$K7_{4}$",
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "x3",
+    "x4",
+    "x5",
+    "x6",
+    "x7",
+    "y7",
+    "z7"
+  ],
+  "parameter_values": [
+    11.9794,
+    0.9812,
+    0.56481,
+    0.1068,
+    0.0633,
+    0.84946,
+    0.03672,
+    0.94292
+  ],
+  "mineral_name": "mayenite",
+  "minerals": {
+    "mayenite": "Al$_{14}$Ca$_{12}$O$_{33}$"
+  },
+  "compounds": null,
+  "legacy": false,
+  "notes": "$K7_{4}$, Mayenite",
+  "comments": "We present the structure determined by (Boysen, 2007) with data taken at 293K.  This slightly differs from the original determination of (B\\\"{u}ssem, 1936), which was given the $K7_{4}$ designation by (Gottfried, 1938). In the original work, the calcium atoms were thought to be located at a single (24d) site.  Newer findings show that calcium is split between two (24d) sites, with the site we have labeled Ca-I having 87.5\\% of the atoms and Ca-II the remainder, although presumably only one of the two sites is occupied in any pair. \n All studies show that the O-I (12a) site is only partially occupied: if this is occupied 1/6 of the time we get the proper stoichiometry, though (Boysen, 2007) found the occupation was 0.251 at 293K, dropping as the temperature decreased. \n This structure is often referred to in the literature as C12A7 to distinguish it from other CaO/Al$_{2}$O$_{3}$ compounds."
 }

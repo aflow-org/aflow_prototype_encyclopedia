@@ -1,33 +1,33 @@
 {
-    "uid": "VV0Z",
-    "label": "A3B_cI8_229_b_a-001",
-    "alias": [
-        "A3B_cI8_229_b_a"
-    ],
-    "title": "High-pressure (200GPa) H$_{3}$S Structure",
-    "icsd": 291502,
-    "ccdc": 1723599,
-    "prototype": "H3S",
-    "prototype_tex": "H$_{3}$S",
-    "number_of_species": 2,
-    "pearson_symbol": "cI8",
-    "space_group_number": 229,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 1,
-    "parameter_symbols": [
-	"a"
-    ],
-    "parameter_values": [
-	2.984
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-	"La$_{2}$O$_{3}$",
-	"Nd$_{2}$O$_{3}$"
-    ],
-    "legacy": false,
-    "notes": "200 GPa High-$T_{c}$",
-    "comments": "(Duan, 2014) predicted that this structure of H$_{3}$S would be a conventional superconductor at temperatures above 191 K and a pressure of 200 GPa. (Drozdov, 2015) found a superconductor in the hydrogen-sulfur system at 203 K and pressure near 200 GPa. (Bernstein, 2015) showed that this structure is the ground state of the H–S system near 200 GPa. Both La$_{2}$O$_{3}$ and Nd$_{2}$O$_{3}$ can form in this structure under ambient conditions, but in both cases the oxygen atoms occupy only 50\\% of the (6b) Wyckoff positions. \n We have used the fact that all vectors of the form $(\\pm a/2 \\hat{x} \\pm a/2 \\hat{y} \\pm a/2 \\hat{z})$ are primitive vectors of the body-centered cubic lattice to simplify the positions of some atoms in both lattice and Cartesian coordinates. \n The oxides with this structure have a large number of defects, with the oxygen (6b) sites only partially filled."
+  "uid": "VV0Z",
+  "label": "A3B_cI8_229_b_a-001",
+  "alias": [
+    "A3B_cI8_229_b_a"
+  ],
+  "title": "High-pressure (200GPa) H$_{3}$S Structure",
+  "icsd": 291502,
+  "ccdc": 1723599,
+  "prototype": "H3S",
+  "prototype_tex": "H$_{3}$S",
+  "number_of_species": 2,
+  "pearson_symbol": "cI8",
+  "space_group_number": 229,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 1,
+  "parameter_symbols": [
+    "a"
+  ],
+  "parameter_values": [
+    2.984
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "La$_{2}$O$_{3}$",
+    "Nd$_{2}$O$_{3}$"
+  ],
+  "legacy": false,
+  "notes": "200 GPa High-$T_{c}$",
+  "comments": "(Duan, 2014) predicted that this structure of H$_{3}$S would be a conventional superconductor at temperatures above 191 K and a pressure of 200 GPa. (Drozdov, 2015) found a superconductor in the hydrogen-sulfur system at 203 K and pressure near 200 GPa. (Bernstein, 2015) showed that this structure is the ground state of the H\u2013S system near 200 GPa. Both La$_{2}$O$_{3}$ and Nd$_{2}$O$_{3}$ can form in this structure under ambient conditions, but in both cases the oxygen atoms occupy only 50\\% of the (6b) Wyckoff positions. \n We have used the fact that all vectors of the form $(\\pm a/2 \\hat{x} \\pm a/2 \\hat{y} \\pm a/2 \\hat{z})$ are primitive vectors of the body-centered cubic lattice to simplify the positions of some atoms in both lattice and Cartesian coordinates. \n The oxides with this structure have a large number of defects, with the oxygen (6b) sites only partially filled."
 }

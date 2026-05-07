@@ -1,32 +1,32 @@
 {
-    "uid": "N538",
-    "label": "AB2_tP3_123_a_h-001",
-    "alias": null,
-    "title": "Linzhiite (High Temperature FeSi$_2$) Structure",
-    "icsd": 24360,
-    "ccdc": null,
-    "prototype": "FeSi2",
-    "prototype_tex": "FeSi$_2$",
-    "number_of_species": 2,
-    "pearson_symbol": "tP3",
-    "space_group_number": 123,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z2"
-    ],
-    "parameter_values": [
-	2.684,
-	1.91058,
-	0.27
-    ],
-    "mineral_name": "linzhiite",
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": "962K $< T <$ 1000K",
-    "comments": "This is the high temperature structure of FeSi$_{2}$.  The actual composition is Fe$_{x}$Si$_{2}$ with $x < 1$, and the transition temperature varies with composition between 962 and 1000K. (Villars, 2018) The low temperature structure is \\href{current_web_home_dir/AB2_oC48_64_df_2g-001}{body-centered orthorhombic}."
+  "uid": "N538",
+  "label": "AB2_tP3_123_a_h-001",
+  "alias": null,
+  "title": "Linzhiite (High Temperature FeSi$_2$) Structure",
+  "icsd": 24360,
+  "ccdc": 1600400,
+  "prototype": "FeSi2",
+  "prototype_tex": "FeSi$_2$",
+  "number_of_species": 2,
+  "pearson_symbol": "tP3",
+  "space_group_number": 123,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z2"
+  ],
+  "parameter_values": [
+    2.684,
+    1.91058,
+    0.27
+  ],
+  "mineral_name": "linzhiite",
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "962K $< T <$ 1000K",
+  "comments": "This is the high temperature structure of FeSi$_{2}$.  The actual composition is Fe$_{x}$Si$_{2}$ with $x < 1$, and the transition temperature varies with composition between 962 and 1000K. (Villars, 2018) The low temperature structure is \\href{current_web_home_dir/AB2_oC48_64_df_2g-001}{body-centered orthorhombic}."
 }

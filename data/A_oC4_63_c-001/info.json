@@ -1,46 +1,46 @@
 {
-    "uid": "AFG5",
-    "label": "A_oC4_63_c-001",
-    "alias": [
-        "A_oC4_63_c"
-    ],
-    "title": "$\\alpha$-U ($A20$) Structure",
-    "icsd": 106205,
-    "ccdc": 1664048,
-    "prototype": "U",
-    "prototype_tex": "U",
-    "number_of_species": 1,
-    "pearson_symbol": "oC4",
-    "space_group_number": 63,
-    "strukturbericht": "A20",
-    "strukturbericht_tex": "$A20$",
-    "part": 1,
-    "parameter_symbols": [
-	"a",
-	"b/a",
-	"c/a",
-	"y1"
-    ],
-    "parameter_values": [
-	2.8444,
-	2.06332,
-	1.73379,
-	0.10228
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "Bk",
-        "Ce",
-        "Cf",
-        "Cm",
-        "Dy",
-        "Ge (metastable)",
-        "Tb",
-        "$\\gamma$-Ti",
-        "AgCd (random alloy)"
-    ],
-    "legacy": false,
-    "notes": "$A20$, $\\alpha$-U",
-    "comments": "Uranium has two temperature-driven structural phase transitions (Donohue, 1974): \\begin{itemize} \\item Below 662$^\\circ$C it is in the ground state \\href{current_web_home_dir/A_oC4_63_c-001}{$\\alpha$-U structure ($A20$)}. (this structure) \\item In the range 662-772$^\\circ$C it is in the \\href{current_web_home_dir/A_tP30_136_af2ij-001}{$\\beta$-U structure ($A_{b}$)}. \\item Above 772$^\\circ$C to the melting point at 1135$^\\circ$C it is in the \\href{current_web_home_dir/A_cI2_229_a-001}{body-centered cubic structure ($A2$)}. \\end{itemize} ~ \\vspace{-.25in} \n We show the $\\alpha$-U structure at 4.2K. \n (Vohra, 2001) showed that at pressures above 116 GPa titanium transforms from the hexagonal omega ($C32$) phase to this phase. \n This structure was studied by (Wentzcovitch, 1987) as a possible pathway for the pressure-induced transformation of magnesium from the hcp ($A3$) to the bcc ($A2$) phase. \n Much like the trigonal omega phase (\\href{current_web_home_dir/AB2_hP3_164_a_d-001}{$C6$}), we can generate several high-symmetry structures from this phase with the appropriate choice of parameters: ~ \\vspace{-.25in} \\begin{center} \\begin{tabular}{ccccc} \\\\  \\textbf{Lattice} \\textbf{Parameter} & \\textbf{hcp} & \\textbf{bcc} & \\textbf{fcc} & \\textbf{Simple} \\textbf{Cubic} \\\\ \\hline  $a$ & $a_{hcp}$ & $a_{bcc}$ & $a_{fcc}$ & $\\sqrt{2}a_{sc}$ \\\\  $b$ & $\\sqrt{3}a_{hcp}$ & $\\sqrt{2}a_{bcc}$ & $a_{fcc}$ & $\\sqrt{2}a_{sc}$ \\\\  $c$ & $c_{hcp}$ & $\\sqrt{2}a_{bcc}$ & $a$ & $2 a_{sc}$ \\\\  $y$ & $\\frac16$ & $\\frac14$ & $\\frac14$ & 0 \\\\ {\\em Strukturbericht} & \\href{current_web_home_dir/A_hP2_194_c-001}{$A3$} & \\href{current_web_home_dir/A_cI2_229_a-001}{$A2$} & \\href{current_web_home_dir/A_cF4_225_a-001}{$A1$} & \\href{current_web_home_dir/A_cP1_221_a-001}{$A_{h}$} \\\\ Pearson Symbol & hP2 & cI2 & cF4 & cP1 \\\\ Space group & $P6_{3}/mmc$ & $Im\\overline{3}m$ & $Fm\\overline{3}m$ & $Pm\\overline{3}m$ \\\\ Number & 194 & 229 & 225 & 221 \\end{tabular} \\end{center} ~ \\vspace{-.25in} (This corrects the values of $a$ and $b$ for the simple cubic structure published in (Mehl, 2017).)"
+  "uid": "AFG5",
+  "label": "A_oC4_63_c-001",
+  "alias": [
+    "A_oC4_63_c"
+  ],
+  "title": "$\\alpha$-U ($A20$) Structure",
+  "icsd": 106205,
+  "ccdc": 1664048,
+  "prototype": "U",
+  "prototype_tex": "U",
+  "number_of_species": 1,
+  "pearson_symbol": "oC4",
+  "space_group_number": 63,
+  "strukturbericht": "A20",
+  "strukturbericht_tex": "$A20$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "y1"
+  ],
+  "parameter_values": [
+    2.8444,
+    2.06332,
+    1.73379,
+    0.10228
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Bk",
+    "Ce",
+    "Cf",
+    "Cm",
+    "Dy",
+    "Ge (metastable)",
+    "Tb",
+    "$\\gamma$-Ti",
+    "AgCd (random alloy)"
+  ],
+  "legacy": false,
+  "notes": "$A20$, $\\alpha$-U",
+  "comments": "Uranium has two temperature-driven structural phase transitions (Donohue, 1974): \\begin{itemize} \\item Below 662$^\\circ$C it is in the ground state \\href{current_web_home_dir/A_oC4_63_c-001}{$\\alpha$-U structure ($A20$)}. (this structure) \\item In the range 662-772$^\\circ$C it is in the \\href{current_web_home_dir/A_tP30_136_af2ij-001}{$\\beta$-U structure ($A_{b}$)}. \\item Above 772$^\\circ$C to the melting point at 1135$^\\circ$C it is in the \\href{current_web_home_dir/A_cI2_229_a-001}{body-centered cubic structure ($A2$)}. \\end{itemize} ~ \\vspace{-.25in} \n We show the $\\alpha$-U structure at 4.2K. \n (Vohra, 2001) showed that at pressures above 116 GPa titanium transforms from the hexagonal omega ($C32$) phase to this phase. \n This structure was studied by (Wentzcovitch, 1987) as a possible pathway for the pressure-induced transformation of magnesium from the hcp ($A3$) to the bcc ($A2$) phase. \n Much like the trigonal omega phase (\\href{current_web_home_dir/AB2_hP3_164_a_d-001}{$C6$}), we can generate several high-symmetry structures from this phase with the appropriate choice of parameters: ~ \\vspace{-.25in} \\begin{center} \\begin{tabular}{ccccc} \\\\  \\textbf{Lattice} \\textbf{Parameter} & \\textbf{hcp} & \\textbf{bcc} & \\textbf{fcc} & \\textbf{Simple} \\textbf{Cubic} \\\\ \\hline  $a$ & $a_{hcp}$ & $a_{bcc}$ & $a_{fcc}$ & $\\sqrt{2}a_{sc}$ \\\\  $b$ & $\\sqrt{3}a_{hcp}$ & $\\sqrt{2}a_{bcc}$ & $a_{fcc}$ & $\\sqrt{2}a_{sc}$ \\\\  $c$ & $c_{hcp}$ & $\\sqrt{2}a_{bcc}$ & $a$ & $2 a_{sc}$ \\\\  $y$ & $\\frac16$ & $\\frac14$ & $\\frac14$ & 0 \\\\ {\\em Strukturbericht} & \\href{current_web_home_dir/A_hP2_194_c-001}{$A3$} & \\href{current_web_home_dir/A_cI2_229_a-001}{$A2$} & \\href{current_web_home_dir/A_cF4_225_a-001}{$A1$} & \\href{current_web_home_dir/A_cP1_221_a-001}{$A_{h}$} \\\\ Pearson Symbol & hP2 & cI2 & cF4 & cP1 \\\\ Space group & $P6_{3}/mmc$ & $Im\\overline{3}m$ & $Fm\\overline{3}m$ & $Pm\\overline{3}m$ \\\\ Number & 194 & 229 & 225 & 221 \\end{tabular} \\end{center} ~ \\vspace{-.25in} (This corrects the values of $a$ and $b$ for the simple cubic structure published in (Mehl, 2017).)"
 }

@@ -1,30 +1,30 @@
 {
-    "uid": "C14E",
-    "label": "ABC_tP3_123_c_a_b-001",
-    "alias": null,
-    "title": "FeNNi Structure",
-    "icsd": 53505,
-    "ccdc": null,
-    "prototype": "FeNNi",
-    "prototype_tex": "FeNNi",
-    "number_of_species": 3,
-    "pearson_symbol": "tP3",
-    "space_group_number": 123,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-	"a",
-	"c/a"
-    ],
-    "parameter_values": [
-	2.83,
-	1.31201
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": null,
-    "comments": "The structure is inferred from comments made in (Arnott, 1960)."
+  "uid": "C14E",
+  "label": "ABC_tP3_123_c_a_b-001",
+  "alias": null,
+  "title": "FeNNi Structure",
+  "icsd": 53505,
+  "ccdc": 1618182,
+  "prototype": "FeNNi",
+  "prototype_tex": "FeNNi",
+  "number_of_species": 3,
+  "pearson_symbol": "tP3",
+  "space_group_number": 123,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "c/a"
+  ],
+  "parameter_values": [
+    2.83,
+    1.31201
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": "The structure is inferred from comments made in (Arnott, 1960)."
 }

@@ -1,40 +1,40 @@
 {
-    "uid": "2B54",
-    "label": "A2B3C_oC12_65_h_ah_b-001",
-    "alias": [
-        "A2B3C_oC12_65_h_bh_a"
-    ],
-    "title": "Li$_{2}$PrO$_{3}$ Structure",
-    "icsd": 154704,
-    "ccdc": null,
-    "prototype": "Li2O3Pr",
-    "prototype_tex": "Li$_{2}$O$_{3}$Pr",
-    "number_of_species": 3,
-    "pearson_symbol": "oC12",
-    "space_group_number": 65,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"b/a",
-	"c/a",
-	"x3",
-	"x4"
-    ],
-    "parameter_values": [
-	9.5198,
-	0.467552,
-	0.365817,
-	0.1556,
-	0.3557
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-	"Na$_{2}$PrO$_{3}$"
-    ],
-    "legacy": false,
-    "notes": null,
-    "comments": "Data was taken at 20K."
+  "uid": "2B54",
+  "label": "A2B3C_oC12_65_h_ah_b-001",
+  "alias": [
+    "A2B3C_oC12_65_h_bh_a"
+  ],
+  "title": "Li$_{2}$PrO$_{3}$ Structure",
+  "icsd": 154704,
+  "ccdc": 1671327,
+  "prototype": "Li2O3Pr",
+  "prototype_tex": "Li$_{2}$O$_{3}$Pr",
+  "number_of_species": 3,
+  "pearson_symbol": "oC12",
+  "space_group_number": 65,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "x3",
+    "x4"
+  ],
+  "parameter_values": [
+    9.5198,
+    0.467552,
+    0.365817,
+    0.1556,
+    0.3557
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Na$_{2}$PrO$_{3}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "Data was taken at 20K."
 }

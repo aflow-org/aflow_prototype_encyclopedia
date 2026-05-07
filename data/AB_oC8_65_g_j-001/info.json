@@ -1,42 +1,42 @@
 {
-    "uid": "S2CY",
-    "label": "AB_oC8_65_g_j-001",
-    "alias": [
-        "AB_oC8_65_j_g"
-    ],
-    "title": "$\\alpha$-IrV Structure",
-    "icsd": 104590,
-    "ccdc": 1662502,
-    "prototype": "IrV",
-    "prototype_tex": "IrV",
-    "number_of_species": 2,
-    "pearson_symbol": "oC8",
-    "space_group_number": 65,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 1,
-    "parameter_symbols": [
-	"a",
-	"b/a",
-	"c/a",
-	"x1",
-	"y2"
-    ],
-    "parameter_values": [
-	6.756,
-	0.883807,
-	0.413854,
-	0.22,
-	0.72
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-	"AuNa",
-	"CdTe",
-	"RhV"
-    ],
-    "legacy": false,
-    "notes": "$\\alpha$-IrV",
-    "comments": null
+  "uid": "S2CY",
+  "label": "AB_oC8_65_g_j-001",
+  "alias": [
+    "AB_oC8_65_j_g"
+  ],
+  "title": "$\\alpha$-IrV Structure",
+  "icsd": 104590,
+  "ccdc": 1662502,
+  "prototype": "IrV",
+  "prototype_tex": "IrV",
+  "number_of_species": 2,
+  "pearson_symbol": "oC8",
+  "space_group_number": 65,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "x1",
+    "y2"
+  ],
+  "parameter_values": [
+    6.756,
+    0.883807,
+    0.413854,
+    0.22,
+    0.72
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "AuNa",
+    "CdTe",
+    "RhV"
+  ],
+  "legacy": false,
+  "notes": "$\\alpha$-IrV",
+  "comments": null
 }

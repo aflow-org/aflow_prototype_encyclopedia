@@ -1,42 +1,42 @@
 {
-    "uid": "0WD7",
-    "label": "A9BC3D5_hP18_189_fi_a_g_bh-001",
-    "alias": [
-        "A9BC3D5_hP18_189_fi_a_g_bh"
-    ],
-    "title": "$\\pi$-FeMg$_{3}$Al$_{9}$Si$_{5}$ Structure",
-    "icsd": 96905,
-    "ccdc": null,
-    "prototype": "Al9FeMg3Si5",
-    "prototype_tex": "Al$_{9}$FeMg$_{3}$Si$_{5}$",
-    "number_of_species": 4,
-    "pearson_symbol": "hP18",
-    "space_group_number": 189,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x3",
-	"x4",
-	"z5",
-	"x6",
-	"z6"
-    ],
-    "parameter_values": [
-	6.64,
-	1.19277,
-	0.378,
-	0.43,
-	0.266,
-	0.755,
-	0.236
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": "$\\pi$-FeMg$_{3}$Al$_{9}$Si$_{5}$",
-    "comments": "This is a reanalysis of the \\href{current_web_home_dir/A8BC3D6_hP18_189_agh_b_f_i-001}{$\\pi$-FeMg$_{3}$Al$_{8}$Si$_{6}$ ($E9_{b}$) structure}. The space group and occupied Wyckoff positions are unchanged, but the ordering, stoichiometry, and atomic positions are different."
+  "uid": "0WD7",
+  "label": "A9BC3D5_hP18_189_fi_a_g_bh-001",
+  "alias": [
+    "A9BC3D5_hP18_189_fi_a_g_bh"
+  ],
+  "title": "$\\pi$-FeMg$_{3}$Al$_{9}$Si$_{5}$ Structure",
+  "icsd": 96905,
+  "ccdc": 1656241,
+  "prototype": "Al9FeMg3Si5",
+  "prototype_tex": "Al$_{9}$FeMg$_{3}$Si$_{5}$",
+  "number_of_species": 4,
+  "pearson_symbol": "hP18",
+  "space_group_number": 189,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x3",
+    "x4",
+    "z5",
+    "x6",
+    "z6"
+  ],
+  "parameter_values": [
+    6.64,
+    1.19277,
+    0.378,
+    0.43,
+    0.266,
+    0.755,
+    0.236
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "$\\pi$-FeMg$_{3}$Al$_{9}$Si$_{5}$",
+  "comments": "This is a reanalysis of the \\href{current_web_home_dir/A8BC3D6_hP18_189_agh_b_f_i-001}{$\\pi$-FeMg$_{3}$Al$_{8}$Si$_{6}$ ($E9_{b}$) structure}. The space group and occupied Wyckoff positions are unchanged, but the ordering, stoichiometry, and atomic positions are different."
 }

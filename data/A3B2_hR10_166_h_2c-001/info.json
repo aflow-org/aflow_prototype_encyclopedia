@@ -1,40 +1,40 @@
 {
-    "uid": "KQQW",
-    "label": "A3B2_hR10_166_h_2c-001",
-    "alias": null,
-    "title": "Fe$_{3}$Sn$_{2}$ Structure",
-    "icsd": 71,
-    "ccdc": null,
-    "prototype": "Fe3Sn2",
-    "prototype_tex": "Fe$_{3}$Sn$_{2}$",
-    "number_of_species": 2,
-    "pearson_symbol": "hR10",
-    "space_group_number": 166,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x1",
-	"x2",
-	"x3",
-	"z3"
-    ],
-    "parameter_values": [
-	5.37872,
-	3.6929,
-	0.8961,
-	0.6682,
-	0.3928,
-	0.8748
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-	"V$_{3}$Sb$_{2}$"
-    ],
-    "legacy": false,
-    "notes": null,
-    "comments": "There is no ICSD entry for (Dally, 2021), so we use the one from the earlier work of (Malaman, 1976). \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
+  "uid": "KQQW",
+  "label": "A3B2_hR10_166_h_2c-001",
+  "alias": null,
+  "title": "Fe$_{3}$Sn$_{2}$ Structure",
+  "icsd": 71,
+  "ccdc": 1590696,
+  "prototype": "Fe3Sn2",
+  "prototype_tex": "Fe$_{3}$Sn$_{2}$",
+  "number_of_species": 2,
+  "pearson_symbol": "hR10",
+  "space_group_number": 166,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x1",
+    "x2",
+    "x3",
+    "z3"
+  ],
+  "parameter_values": [
+    5.37872,
+    3.6929,
+    0.8961,
+    0.6682,
+    0.3928,
+    0.8748
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "V$_{3}$Sb$_{2}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "There is no ICSD entry for (Dally, 2021), so we use the one from the earlier work of (Malaman, 1976). \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

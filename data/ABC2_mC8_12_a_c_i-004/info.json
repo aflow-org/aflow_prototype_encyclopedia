@@ -1,53 +1,53 @@
 {
-    "uid": "9GYS",
-    "label": "ABC2_mC8_12_a_c_i-004",
-    "alias": null,
-    "title": "Monoclinic NaNiO$_{2}$ Structure",
-    "icsd": 415072,
-    "ccdc": 1729252,
-    "prototype": "NaNiO2",
-    "prototype_tex": "NaNiO$_{2}$",
-    "number_of_species": 3,
-    "pearson_symbol": "mC8",
-    "space_group_number": 12,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 5,
-    "parameter_symbols": [
-	"a",
-	"b/a",
-	"c/a",
-	"beta",
-	"x3",
-	"z3"
-    ],
-    "parameter_values": [
-	5.3226,
-	0.534532,
-	1.68384,
-	144.293,
-	0.9117,
-	0.1963
-    ],
-    "mineral_name": null,
-    "minerals": {
-	"CuMnO$_{2}$":"crednerite"
-    },
-    "compounds": [
-        "AgCuO$_{2}$",
-        "AgMnO$_{2}$",
-        "CdHgO$_{2}$",
-        "CuMnO$_{2}$ (crednerite)",
-        "LiCuO$_{2}$",
-        "LiMnO$_{2}$",
-	"LiMoO$_{2}$",
-        "NaCoO$_{2}$",
-        "NaCuO$_{2}$",
-        "NaMnO$_{2}$",
-        "NaTiO$_{2}$",
-        "NaVO$_{2}$"
-    ],
-    "legacy": false,
-    "notes": "monoclinic",
-    "comments": "Above 220$^{\\circ}$C NaNiO$_{2}$ transforms into the rhombohedral \\href{current_web_home_dir/ABC2_hR4_166_a_b_c-010}{LiNiO$_{2}$ structure} (Dyer, 1954). \n In the current structure, the AFLOW protocol label algorithm switches the nickel atom from the (2d) Wyckoff position to the (2c) site.  This requires a shift of the lattice vector $\\vec{a}_{3} \\rightarrow \\vec{a}_{3} - \\vec{a}_{1}$."
+  "uid": "9GYS",
+  "label": "ABC2_mC8_12_a_c_i-004",
+  "alias": null,
+  "title": "Monoclinic NaNiO$_{2}$ Structure",
+  "icsd": 415072,
+  "ccdc": 1729252,
+  "prototype": "NaNiO2",
+  "prototype_tex": "NaNiO$_{2}$",
+  "number_of_species": 3,
+  "pearson_symbol": "mC8",
+  "space_group_number": 12,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 5,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "beta",
+    "x3",
+    "z3"
+  ],
+  "parameter_values": [
+    5.3226,
+    0.534532,
+    1.68384,
+    144.293,
+    0.9117,
+    0.1963
+  ],
+  "mineral_name": null,
+  "minerals": {
+    "CuMnO$_{2}$": "crednerite"
+  },
+  "compounds": [
+    "AgCuO$_{2}$",
+    "AgMnO$_{2}$",
+    "CdHgO$_{2}$",
+    "CuMnO$_{2}$ (crednerite)",
+    "LiCuO$_{2}$",
+    "LiMnO$_{2}$",
+    "LiMoO$_{2}$",
+    "NaCoO$_{2}$",
+    "NaCuO$_{2}$",
+    "NaMnO$_{2}$",
+    "NaTiO$_{2}$",
+    "NaVO$_{2}$"
+  ],
+  "legacy": false,
+  "notes": "monoclinic",
+  "comments": "Above 220$^{\\circ}$C NaNiO$_{2}$ transforms into the rhombohedral \\href{current_web_home_dir/ABC2_hR4_166_a_b_c-010}{LiNiO$_{2}$ structure} (Dyer, 1954). \n In the current structure, the AFLOW protocol label algorithm switches the nickel atom from the (2d) Wyckoff position to the (2c) site.  This requires a shift of the lattice vector $\\vec{a}_{3} \\rightarrow \\vec{a}_{3} - \\vec{a}_{1}$."
 }

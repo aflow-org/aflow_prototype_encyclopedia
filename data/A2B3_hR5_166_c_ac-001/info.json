@@ -1,48 +1,48 @@
 {
-    "uid": "NGV5",
-    "label": "A2B3_hR5_166_c_ac-001",
-    "alias": [
-        "A2B3_hR5_166_c_ac"
-    ],
-    "title": "Bi$_{2}$Te$_{3}$ ($C33$) Structure",
-    "icsd": 15753,
-    "ccdc": null,
-    "prototype": "Bi2Te3",
-    "prototype_tex": "Bi$_{2}$Te$_{3}$",
-    "number_of_species": 2,
-    "pearson_symbol": "hR5",
-    "space_group_number": 166,
-    "strukturbericht": "C33",
-    "strukturbericht_tex": "$C33$",
-    "part": 1,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x2",
-	"x3"
-    ],
-    "parameter_values": [
-	4.36913,
-	6.96315,
-	0.399,
-	0.208
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-	"$\\beta$-As$_{2}$Te$_{3}$",
-	"Bi$_{2}$Se$_{3}$",
-	"Ga$_{2}$Te$_{5}$",
-	"In$_{2}$Se$_{3}$",
-	"In$_{2}$Te$_{3}$",
-	"Sb$_{2}$Te$_{3}$",
-	"(Bi,Sm)Te$_{3}$",
-	"(Bi,Tb)Te$_{3}$",
-	"(Bi,Tm)Te$_{3}$",
-	"(Bi,Y)Te$_{3}$",
-	"(Dy,Sb)Te$_{3}$"
-    ],
-    "legacy": false,
-    "notes": "$C33$",
-    "comments": "(Gottfried, 1937) assigns \\href{current_web_home_dir/A2BC2_hR5_166_c_a_c-002}{tetradymite, Bi$_{2}$Te$_{2}$S} as the prototype for {\\em Strukturbericht} symbol $C33$, but (Lange, 1939) shows that this is isostructural with Bi$_{2}$Te$_{3}$, the sulfur atom being replaced by a tellurium atom.  We will therefore retain our original designation. \n Hexagonal settings for rhombohedral structures can be obtained with the option {\\tt --hex}."
+  "uid": "NGV5",
+  "label": "A2B3_hR5_166_c_ac-001",
+  "alias": [
+    "A2B3_hR5_166_c_ac"
+  ],
+  "title": "Bi$_{2}$Te$_{3}$ ($C33$) Structure",
+  "icsd": 15753,
+  "ccdc": 1596451,
+  "prototype": "Bi2Te3",
+  "prototype_tex": "Bi$_{2}$Te$_{3}$",
+  "number_of_species": 2,
+  "pearson_symbol": "hR5",
+  "space_group_number": 166,
+  "strukturbericht": "C33",
+  "strukturbericht_tex": "$C33$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x2",
+    "x3"
+  ],
+  "parameter_values": [
+    4.36913,
+    6.96315,
+    0.399,
+    0.208
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "$\\beta$-As$_{2}$Te$_{3}$",
+    "Bi$_{2}$Se$_{3}$",
+    "Ga$_{2}$Te$_{5}$",
+    "In$_{2}$Se$_{3}$",
+    "In$_{2}$Te$_{3}$",
+    "Sb$_{2}$Te$_{3}$",
+    "(Bi,Sm)Te$_{3}$",
+    "(Bi,Tb)Te$_{3}$",
+    "(Bi,Tm)Te$_{3}$",
+    "(Bi,Y)Te$_{3}$",
+    "(Dy,Sb)Te$_{3}$"
+  ],
+  "legacy": false,
+  "notes": "$C33$",
+  "comments": "(Gottfried, 1937) assigns \\href{current_web_home_dir/A2BC2_hR5_166_c_a_c-002}{tetradymite, Bi$_{2}$Te$_{2}$S} as the prototype for {\\em Strukturbericht} symbol $C33$, but (Lange, 1939) shows that this is isostructural with Bi$_{2}$Te$_{3}$, the sulfur atom being replaced by a tellurium atom.  We will therefore retain our original designation. \n Hexagonal settings for rhombohedral structures can be obtained with the option {\\tt --hex}."
 }

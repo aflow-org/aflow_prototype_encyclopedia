@@ -1,34 +1,34 @@
 {
-    "uid": "K2MJ",
-    "label": "AB3_hP4_164_a_bd-001",
-    "alias": [
-        "AB3_hP4_164_b_ad"
-    ],
-    "title": "$D0_{13}$ (AlCl$_{3}$) Structure ({\\em Obsolete})",
-    "icsd": 155670,
-    "ccdc": null,
-    "prototype": "AlCl3",
-    "prototype_tex": "AlCl$_{3}$",
-    "number_of_species": 2,
-    "pearson_symbol": "hP4",
-    "space_group_number": 164,
-    "strukturbericht": "D013",
-    "strukturbericht_tex": "$D0_{13}$",
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z3"
-    ],
-    "parameter_values": [
-	3.475,
-	2.44999,
-	0.83333
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": "$D0_{13}$ ({\\em Obsolete})",
-    "comments": "This structure was suggested by (Laschkarew, 1930) and designated as {\\em Strukturbericht} $D0_{13}$ by (Hermann, 1937).  However, in the next edition of {\\em Strukturbericht}, (Gottfried, 1937) changed the AlCl$_{3}$ structure to the one found by (Ketellar, 1935), and designated it as \\href{current_web_home_dir/AB3_mC16_5_c_3c-001}{$D0_{15}$}.  Neither of these structures is currently accepted. The accepted structure is \\href{current_web_home_dir/AB3_mC16_12_g_ij-001}{body-centered orthorhombic, space group $C2/m \\#12$}."
+  "uid": "K2MJ",
+  "label": "AB3_hP4_164_a_bd-001",
+  "alias": [
+    "AB3_hP4_164_b_ad"
+  ],
+  "title": "$D0_{13}$ (AlCl$_{3}$) Structure ({\\em Obsolete})",
+  "icsd": 155670,
+  "ccdc": 1672271,
+  "prototype": "AlCl3",
+  "prototype_tex": "AlCl$_{3}$",
+  "number_of_species": 2,
+  "pearson_symbol": "hP4",
+  "space_group_number": 164,
+  "strukturbericht": "D013",
+  "strukturbericht_tex": "$D0_{13}$",
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z3"
+  ],
+  "parameter_values": [
+    3.475,
+    2.44999,
+    0.83333
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "$D0_{13}$ ({\\em Obsolete})",
+  "comments": "This structure was suggested by (Laschkarew, 1930) and designated as {\\em Strukturbericht} $D0_{13}$ by (Hermann, 1937).  However, in the next edition of {\\em Strukturbericht}, (Gottfried, 1937) changed the AlCl$_{3}$ structure to the one found by (Ketellar, 1935), and designated it as \\href{current_web_home_dir/AB3_mC16_5_c_3c-001}{$D0_{15}$}.  Neither of these structures is currently accepted. The accepted structure is \\href{current_web_home_dir/AB3_mC16_12_g_ij-001}{body-centered orthorhombic, space group $C2/m \\#12$}."
 }

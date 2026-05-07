@@ -1,44 +1,44 @@
 {
-    "uid": "M6W2",
-    "label": "ABC4D_cP28_198_a_a_ab_a-001",
-    "alias": [
-        "ABC4D_cP28_198_a_a_ab_a"
-    ],
-    "title": "$\\alpha$-Carnegieite (NaAlSiO$_{4}$, $S6_{5}$) Structure",
-    "icsd": 34884,
-    "ccdc": null,
-    "prototype": "AlNaO4Si",
-    "prototype_tex": "AlNaO$_{4}$Si",
-    "number_of_species": 4,
-    "pearson_symbol": "cP28",
-    "space_group_number": 198,
-    "strukturbericht": "S65",
-    "strukturbericht_tex": "$S6_{5}$",
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"x1",
-	"x2",
-	"x3",
-	"x4",
-	"x5",
-	"y5",
-	"z5"
-    ],
-    "parameter_values": [
-	7.37,
-	0.258,
-	0.744,
-	0.125,
-	-5.55112e-17,
-	0.658,
-	0.644,
-	0.0556
-    ],
-    "mineral_name": "$\\alpha$-carnegieite",
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": "$S6_{5}$, $\\alpha$-Carnegieite",
-    "comments": "This high-temperature form of carnegieite is stable above 970K. \n To our knowledge, the atomic positions of the low temperature $\\beta$-carnegieite structure have not been determined."
+  "uid": "M6W2",
+  "label": "ABC4D_cP28_198_a_a_ab_a-001",
+  "alias": [
+    "ABC4D_cP28_198_a_a_ab_a"
+  ],
+  "title": "$\\alpha$-Carnegieite (NaAlSiO$_{4}$, $S6_{5}$) Structure",
+  "icsd": 34884,
+  "ccdc": 1607157,
+  "prototype": "AlNaO4Si",
+  "prototype_tex": "AlNaO$_{4}$Si",
+  "number_of_species": 4,
+  "pearson_symbol": "cP28",
+  "space_group_number": 198,
+  "strukturbericht": "S65",
+  "strukturbericht_tex": "$S6_{5}$",
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "x1",
+    "x2",
+    "x3",
+    "x4",
+    "x5",
+    "y5",
+    "z5"
+  ],
+  "parameter_values": [
+    7.37,
+    0.258,
+    0.744,
+    0.125,
+    -5.55112e-17,
+    0.658,
+    0.644,
+    0.0556
+  ],
+  "mineral_name": "$\\alpha$-carnegieite",
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "$S6_{5}$, $\\alpha$-Carnegieite",
+  "comments": "This high-temperature form of carnegieite is stable above 970K. \n To our knowledge, the atomic positions of the low temperature $\\beta$-carnegieite structure have not been determined."
 }

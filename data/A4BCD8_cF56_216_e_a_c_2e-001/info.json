@@ -1,39 +1,39 @@
 {
-    "uid": "1XJV",
-    "label": "A4BCD8_cF56_216_e_a_c_2e-001",
-    "alias": null,
-    "title": "LiGaCr$_{4}$O$_{8}$ Structure",
-    "icsd": 259392,
-    "ccdc": null,
-    "prototype": "Cr4GaLiO8",
-    "prototype_tex": "Cr$_{4}$GaLiO$_{8}$",
-    "number_of_species": 4,
-    "pearson_symbol": "cF56",
-    "space_group_number": 216,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-	"a",
-	"x3",
-	"x4",
-	"x5"
-    ],
-    "parameter_values": [
-	8.2401,
-	0.6272,
-	0.864,
-	0.3825
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-	"CuFeCr$_{4}$S$_{8}$",
-	"CuInCr$_{4}$S$_{8}$",
-	"FeInCr$_{4}$S$_{8}$",
-	"LiGaCr$_{4}$S$_{8}$"
-    ],
-    "legacy": false,
-    "notes": null,
-    "comments": "This structure can be regarded as a \\href{current_web_home_dir/A2BC4_cF56_227_c_b_e-001}{distorted spinel structure}, or a \\href{current_web_home_dir/AB4C8_cF52_216_a_e_2e-001}{filled GaMo$_{4}$S$_{8}$ structure}."
+  "uid": "1XJV",
+  "label": "A4BCD8_cF56_216_e_a_c_2e-001",
+  "alias": null,
+  "title": "LiGaCr$_{4}$O$_{8}$ Structure",
+  "icsd": 259392,
+  "ccdc": 1930050,
+  "prototype": "Cr4GaLiO8",
+  "prototype_tex": "Cr$_{4}$GaLiO$_{8}$",
+  "number_of_species": 4,
+  "pearson_symbol": "cF56",
+  "space_group_number": 216,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "x3",
+    "x4",
+    "x5"
+  ],
+  "parameter_values": [
+    8.2401,
+    0.6272,
+    0.864,
+    0.3825
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "CuFeCr$_{4}$S$_{8}$",
+    "CuInCr$_{4}$S$_{8}$",
+    "FeInCr$_{4}$S$_{8}$",
+    "LiGaCr$_{4}$S$_{8}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "This structure can be regarded as a \\href{current_web_home_dir/A2BC4_cF56_227_c_b_e-001}{distorted spinel structure}, or a \\href{current_web_home_dir/AB4C8_cF52_216_a_e_2e-001}{filled GaMo$_{4}$S$_{8}$ structure}."
 }

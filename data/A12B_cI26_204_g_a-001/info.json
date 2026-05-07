@@ -1,39 +1,39 @@
 {
-    "uid": "JDL2",
-    "label": "A12B_cI26_204_g_a-001",
-    "alias": [
-        "A12B_cI26_204_g_a"
-    ],
-    "title": "Al$_{12}$W Structure",
-    "icsd": 58207,
-    "ccdc": null,
-    "prototype": "Al12W",
-    "prototype_tex": "Al$_{12}$W",
-    "number_of_species": 2,
-    "pearson_symbol": "cI26",
-    "space_group_number": 204,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 1,
-    "parameter_symbols": [
-	"a",
-	"y2",
-	"z2"
-    ],
-    "parameter_values": [
-	7.58,
-	0.184,
-	0.691
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "Al$_{12}$Mo",
-        "Al$_{12}$Mn",
-        "Al$_{12}$Re",
-        "Al$_{12}$Te"
-    ],
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "JDL2",
+  "label": "A12B_cI26_204_g_a-001",
+  "alias": [
+    "A12B_cI26_204_g_a"
+  ],
+  "title": "Al$_{12}$W Structure",
+  "icsd": 58207,
+  "ccdc": 1622235,
+  "prototype": "Al12W",
+  "prototype_tex": "Al$_{12}$W",
+  "number_of_species": 2,
+  "pearson_symbol": "cI26",
+  "space_group_number": 204,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "y2",
+    "z2"
+  ],
+  "parameter_values": [
+    7.58,
+    0.184,
+    0.691
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Al$_{12}$Mo",
+    "Al$_{12}$Mn",
+    "Al$_{12}$Re",
+    "Al$_{12}$Te"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

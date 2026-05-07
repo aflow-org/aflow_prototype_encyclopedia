@@ -1,41 +1,41 @@
 {
-    "uid": "QTNQ",
-    "label": "A3B_cP16_198_b_a-001",
-    "alias": [
-        "A3B_cP16_198_b_a"
-    ],
-    "title": "Ammonia (NH$_{3}$, $D0_{1}$) Structure",
-    "icsd": 84461,
-    "ccdc": null,
-    "prototype": "H3N",
-    "prototype_tex": "H$_{3}$N",
-    "number_of_species": 2,
-    "pearson_symbol": "cP16",
-    "space_group_number": 198,
-    "strukturbericht": "D01",
-    "strukturbericht_tex": "$D0_{1}$",
-    "part": 1,
-    "parameter_symbols": [
-	"a",
-	"x1",
-	"x2",
-	"y2",
-	"z2"
-    ],
-    "parameter_values": [
-	5.1305,
-	0.2107,
-	0.3689,
-	0.2671,
-	0.1159
-    ],
-    "mineral_name": "ammonia",
-    "minerals": null,
-    "compounds": [
-        "AsH$_{3}$",
-        "PH$_{3}$"
-    ],
-    "legacy": false,
-    "notes": "$D0_{1}$, Ammonia",
-    "comments": "In the original {\\em Strukturbericht} (Ewald, 1931) gave this structure the symbol $D1$.  Following the revision of the type-$D$ numbering beginning in volume II (Herman, 1937) this should be renamed $D0_{1}$.  We previously used the $D1$ designation, but now list this as $D0_{1}$ for consistency with other $D$-type structures."
+  "uid": "QTNQ",
+  "label": "A3B_cP16_198_b_a-001",
+  "alias": [
+    "A3B_cP16_198_b_a"
+  ],
+  "title": "Ammonia (NH$_{3}$, $D0_{1}$) Structure",
+  "icsd": 84461,
+  "ccdc": 1644462,
+  "prototype": "H3N",
+  "prototype_tex": "H$_{3}$N",
+  "number_of_species": 2,
+  "pearson_symbol": "cP16",
+  "space_group_number": 198,
+  "strukturbericht": "D01",
+  "strukturbericht_tex": "$D0_{1}$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "x1",
+    "x2",
+    "y2",
+    "z2"
+  ],
+  "parameter_values": [
+    5.1305,
+    0.2107,
+    0.3689,
+    0.2671,
+    0.1159
+  ],
+  "mineral_name": "ammonia",
+  "minerals": null,
+  "compounds": [
+    "AsH$_{3}$",
+    "PH$_{3}$"
+  ],
+  "legacy": false,
+  "notes": "$D0_{1}$, Ammonia",
+  "comments": "In the original {\\em Strukturbericht} (Ewald, 1931) gave this structure the symbol $D1$.  Following the revision of the type-$D$ numbering beginning in volume II (Herman, 1937) this should be renamed $D0_{1}$.  We previously used the $D1$ designation, but now list this as $D0_{1}$ for consistency with other $D$-type structures."
 }

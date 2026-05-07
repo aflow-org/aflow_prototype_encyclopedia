@@ -1,37 +1,37 @@
 {
-    "uid": "B7FR",
-    "label": "A2BC_tI16_140_h_d_a-001",
-    "alias": [
-        "A2BC_tI16_140_h_d_a"
-    ],
-    "title": "KHF$_{2}$ ($F5_{2}$) Structure",
-    "icsd": 18094,
-    "ccdc": null,
-    "prototype": "F2HK",
-    "prototype_tex": "F$_{2}$HK",
-    "number_of_species": 3,
-    "pearson_symbol": "tI16",
-    "space_group_number": 140,
-    "strukturbericht": "F52",
-    "strukturbericht_tex": "$F5_{2}$",
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x3"
-    ],
-    "parameter_values": [
-	5.67,
-	1.20106,
-	0.142
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "KN$_{3}$",
-        "CsN$_{3}$"
-    ],
-    "legacy": false,
-    "notes": "$F5_{2}$",
-    "comments": "(Bozorth, 1923) originally determined the lattice constants of KHF$_{2}$ along with the positions of the potassium and fluorine atoms.  He also assumed that the hydrogen atoms were on the (4d) Wyckoff sites.  Both (Peterson, 1952) and (Ibers, 1964) confirmed his data.  All three papers point out that it is possible that the hydrogen atoms are on half-filled (8h) sites, which would reduce to the (4d) site as the $x$ coordinate approached zero. In KN$_{3}$ and CsN$_{3}$ the nitrogen atoms occupy the (4d) and (8h) Wyckoff sites, while the cation occupies the (4a) site."
+  "uid": "B7FR",
+  "label": "A2BC_tI16_140_h_d_a-001",
+  "alias": [
+    "A2BC_tI16_140_h_d_a"
+  ],
+  "title": "KHF$_{2}$ ($F5_{2}$) Structure",
+  "icsd": 18094,
+  "ccdc": 1597651,
+  "prototype": "F2HK",
+  "prototype_tex": "F$_{2}$HK",
+  "number_of_species": 3,
+  "pearson_symbol": "tI16",
+  "space_group_number": 140,
+  "strukturbericht": "F52",
+  "strukturbericht_tex": "$F5_{2}$",
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x3"
+  ],
+  "parameter_values": [
+    5.67,
+    1.20106,
+    0.142
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "KN$_{3}$",
+    "CsN$_{3}$"
+  ],
+  "legacy": false,
+  "notes": "$F5_{2}$",
+  "comments": "(Bozorth, 1923) originally determined the lattice constants of KHF$_{2}$ along with the positions of the potassium and fluorine atoms.  He also assumed that the hydrogen atoms were on the (4d) Wyckoff sites.  Both (Peterson, 1952) and (Ibers, 1964) confirmed his data.  All three papers point out that it is possible that the hydrogen atoms are on half-filled (8h) sites, which would reduce to the (4d) site as the $x$ coordinate approached zero. In KN$_{3}$ and CsN$_{3}$ the nitrogen atoms occupy the (4d) and (8h) Wyckoff sites, while the cation occupies the (4a) site."
 }

@@ -1,36 +1,36 @@
 {
-    "uid": "3SRH",
-    "label": "A4B2C_tP7_123_j_e_a-001",
-    "alias": [
-        "A4B2C_tP7_123_j_e_a"
-    ],
-    "title": "K$_{2}$PtCl$_{4}$ ($H1_{5}$) Structure",
-    "icsd": 2722,
-    "ccdc": null,
-    "prototype": "Cl4K2Pt",
-    "prototype_tex": "Cl$_{4}$K$_{2}$Pt",
-    "number_of_species": 3,
-    "pearson_symbol": "tP7",
-    "space_group_number": 123,
-    "strukturbericht": "H15",
-    "strukturbericht_tex": "$H1_{5}$",
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x3"
-    ],
-    "parameter_values": [
-	7.025,
-	0.589893,
-	0.2324
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "K$_{2}$PdCl$_{4}$"
-    ],
-    "legacy": false,
-    "notes": "$H1_{5}$",
-    "comments": null
+  "uid": "3SRH",
+  "label": "A4B2C_tP7_123_j_e_a-001",
+  "alias": [
+    "A4B2C_tP7_123_j_e_a"
+  ],
+  "title": "K$_{2}$PtCl$_{4}$ ($H1_{5}$) Structure",
+  "icsd": 2722,
+  "ccdc": 1592532,
+  "prototype": "Cl4K2Pt",
+  "prototype_tex": "Cl$_{4}$K$_{2}$Pt",
+  "number_of_species": 3,
+  "pearson_symbol": "tP7",
+  "space_group_number": 123,
+  "strukturbericht": "H15",
+  "strukturbericht_tex": "$H1_{5}$",
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x3"
+  ],
+  "parameter_values": [
+    7.025,
+    0.589893,
+    0.2324
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "K$_{2}$PdCl$_{4}$"
+  ],
+  "legacy": false,
+  "notes": "$H1_{5}$",
+  "comments": null
 }

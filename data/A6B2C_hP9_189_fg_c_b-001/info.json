@@ -1,38 +1,38 @@
 {
-    "uid": "XTDJ",
-    "label": "A6B2C_hP9_189_fg_c_b-001",
-    "alias": null,
-    "title": "$\\beta_{1}$-K$_{2}$UF$_{6}$ Structure",
-    "icsd": 26193,
-    "ccdc": null,
-    "prototype": "F6K2U",
-    "prototype_tex": "F$_{6}$K$_{2}$U",
-    "number_of_species": 3,
-    "pearson_symbol": "hP9",
-    "space_group_number": 189,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x3",
-	"x4"
-    ],
-    "parameter_values": [
-	6.5528,
-	0.572122,
-	0.223,
-	0.662
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-	"K$_{2}$CeF$_{6}$",
-	"K$_{2}$ThF$_{6}$",
-	"$\\delta$-Na$_{2}$UF$_{6}$"
-    ],
-    "legacy": false,
-    "notes": "$\\beta_{1}$-K$_{2}$UF$_{6}$",
-    "comments": "$\\alpha$-K$_{2}$UF$_{6}$ is in the cubic \\href{current_web_home_dir/AB2_cF12_225_a_c-001}{fluorite ($C1$, CaF$_{2}$) structure}, with the potassium and uranium atoms placed randomly on the calcium sites. \n $\\beta_{2}$-K$_{2}$UF$_{6}$ takes on the trigonal \\href{current_web_home_dir/A6B2C_hP9_150_ef_d_a-001}{$\\beta$-Na$_{2}$ThF$_{6}$ structure}."
+  "uid": "XTDJ",
+  "label": "A6B2C_hP9_189_fg_c_b-001",
+  "alias": null,
+  "title": "$\\beta_{1}$-K$_{2}$UF$_{6}$ Structure",
+  "icsd": 26193,
+  "ccdc": 1601624,
+  "prototype": "F6K2U",
+  "prototype_tex": "F$_{6}$K$_{2}$U",
+  "number_of_species": 3,
+  "pearson_symbol": "hP9",
+  "space_group_number": 189,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x3",
+    "x4"
+  ],
+  "parameter_values": [
+    6.5528,
+    0.572122,
+    0.223,
+    0.662
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "K$_{2}$CeF$_{6}$",
+    "K$_{2}$ThF$_{6}$",
+    "$\\delta$-Na$_{2}$UF$_{6}$"
+  ],
+  "legacy": false,
+  "notes": "$\\beta_{1}$-K$_{2}$UF$_{6}$",
+  "comments": "$\\alpha$-K$_{2}$UF$_{6}$ is in the cubic \\href{current_web_home_dir/AB2_cF12_225_a_c-001}{fluorite ($C1$, CaF$_{2}$) structure}, with the potassium and uranium atoms placed randomly on the calcium sites. \n $\\beta_{2}$-K$_{2}$UF$_{6}$ takes on the trigonal \\href{current_web_home_dir/A6B2C_hP9_150_ef_d_a-001}{$\\beta$-Na$_{2}$ThF$_{6}$ structure}."
 }

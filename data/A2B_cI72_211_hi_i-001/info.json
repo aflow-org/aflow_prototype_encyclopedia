@@ -1,36 +1,36 @@
 {
-    "uid": "NT1Y",
-    "label": "A2B_cI72_211_hi_i-001",
-    "alias": [
-        "A2B_cI72_211_hi_i"
-    ],
-    "title": "Hypothetical Cubic SiO$_{2}$ Structure",
-    "icsd": 170506,
-    "ccdc": null,
-    "prototype": "O2Si",
-    "prototype_tex": "O$_{2}$Si",
-    "number_of_species": 2,
-    "pearson_symbol": "cI72",
-    "space_group_number": 211,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-	"a",
-	"y1",
-	"y2",
-	"y3"
-    ],
-    "parameter_values": [
-	9.6888,
-	0.37338,
-	0.15866,
-	0.38235
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": "Theory",
-    "comments": "This is a hypothetical cubic structure for SiO$_{2}$.  We use the data from the 1\\_158.cif file provided in the supplementary information of (Foster, 2004). \n More information about other real and proposed SiO$_{2}$ and related structures can be found in our article on \\href{current_web_home_dir/Tutorials/SiO2_AlPO4}{SiO$_{2}$ and AlPO$_{4}$}."
+  "uid": "NT1Y",
+  "label": "A2B_cI72_211_hi_i-001",
+  "alias": [
+    "A2B_cI72_211_hi_i"
+  ],
+  "title": "Hypothetical Cubic SiO$_{2}$ Structure",
+  "icsd": 170506,
+  "ccdc": 1685978,
+  "prototype": "O2Si",
+  "prototype_tex": "O$_{2}$Si",
+  "number_of_species": 2,
+  "pearson_symbol": "cI72",
+  "space_group_number": 211,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "y1",
+    "y2",
+    "y3"
+  ],
+  "parameter_values": [
+    9.6888,
+    0.37338,
+    0.15866,
+    0.38235
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "Theory",
+  "comments": "This is a hypothetical cubic structure for SiO$_{2}$.  We use the data from the 1\\_158.cif file provided in the supplementary information of (Foster, 2004). \n More information about other real and proposed SiO$_{2}$ and related structures can be found in our article on \\href{current_web_home_dir/Tutorials/SiO2_AlPO4}{SiO$_{2}$ and AlPO$_{4}$}."
 }

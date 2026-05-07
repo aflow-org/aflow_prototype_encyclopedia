@@ -1,38 +1,38 @@
 {
-    "uid": "BDG1",
-    "label": "AB_hP8_194_f_f-003",
-    "alias": null,
-    "title": "$\\beta$-GaSe Structure",
-    "icsd": 41978,
-    "ccdc": null,
-    "prototype": "GaSe",
-    "prototype_tex": "GaSe",
-    "number_of_species": 2,
-    "pearson_symbol": "hP8",
-    "space_group_number": 194,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z1",
-	"z2"
-    ],
-    "parameter_values": [
-	3.752,
-	4.25107,
-	0.18,
-	0.59
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "GaS",
-        "GaTe",
-        "InSe"
-    ],
-    "legacy": false,
-    "notes": "$\\beta$-GaSe",
-    "comments": "GaSe takes on a variety of structures depending on the stacking of the Ga$_{2}$Se$_{2}$ layers: \\begin{itemize} \\item $\\beta$-GaSe (this structure) is in space group \\href{current_web_home_dir/AB_hP8_194_f_f-003}{$P6_3/mmc$ \\#194}. \\item $\\gamma$-GaSe is in space group \\href{current_web_home_dir/AB_hR4_160_2a_2a-001}{$R3m$ \\#160}. \\item $\\delta$-GaSe is in space group \\href{current_web_home_dir/AB_hP16_186_2a2b_2a2b-001}{$P6_{3}mc$ \\#186}. \\item $\\epsilon$-GaSe is in space group \\href{current_web_home_dir/AB_hP8_187_gh_gh-001}{$P\\overline{6}m2$ \\#187}. \\end{itemize}"
+  "uid": "BDG1",
+  "label": "AB_hP8_194_f_f-003",
+  "alias": null,
+  "title": "$\\beta$-GaSe Structure",
+  "icsd": 41978,
+  "ccdc": 1611699,
+  "prototype": "GaSe",
+  "prototype_tex": "GaSe",
+  "number_of_species": 2,
+  "pearson_symbol": "hP8",
+  "space_group_number": 194,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z1",
+    "z2"
+  ],
+  "parameter_values": [
+    3.752,
+    4.25107,
+    0.18,
+    0.59
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "GaS",
+    "GaTe",
+    "InSe"
+  ],
+  "legacy": false,
+  "notes": "$\\beta$-GaSe",
+  "comments": "GaSe takes on a variety of structures depending on the stacking of the Ga$_{2}$Se$_{2}$ layers: \\begin{itemize} \\item $\\beta$-GaSe (this structure) is in space group \\href{current_web_home_dir/AB_hP8_194_f_f-003}{$P6_3/mmc$ \\#194}. \\item $\\gamma$-GaSe is in space group \\href{current_web_home_dir/AB_hR4_160_2a_2a-001}{$R3m$ \\#160}. \\item $\\delta$-GaSe is in space group \\href{current_web_home_dir/AB_hP16_186_2a2b_2a2b-001}{$P6_{3}mc$ \\#186}. \\item $\\epsilon$-GaSe is in space group \\href{current_web_home_dir/AB_hP8_187_gh_gh-001}{$P\\overline{6}m2$ \\#187}. \\end{itemize}"
 }

@@ -1,43 +1,43 @@
 {
-    "uid": "F5HF",
-    "label": "A4B_oP10_58_2g_a-001",
-    "alias": null,
-    "title": "CrB$_{4}$ Structure",
-    "icsd": 144116,
-    "ccdc": null,
-    "prototype": "B4Cr",
-    "prototype_tex": "B$_{4}$Cr",
-    "number_of_species": 2,
-    "pearson_symbol": "oP10",
-    "space_group_number": 58,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 5,
-    "parameter_symbols": [
-	"a",
-	"b/a",
-	"c/a",
-	"x2",
-	"y2",
-	"x3",
-	"y3"
-    ],
-    "parameter_values": [
-	4.7452,
-	1.154093,
-	0.604021,
-	0.1643,
-	0.6331,
-	0.2236,
-	0.3209
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "FeB$_{4}$",
-	"MnB$_{4}$"
-    ],
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "F5HF",
+  "label": "A4B_oP10_58_2g_a-001",
+  "alias": null,
+  "title": "CrB$_{4}$ Structure",
+  "icsd": 144116,
+  "ccdc": 2199348,
+  "prototype": "B4Cr",
+  "prototype_tex": "B$_{4}$Cr",
+  "number_of_species": 2,
+  "pearson_symbol": "oP10",
+  "space_group_number": 58,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 5,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "x2",
+    "y2",
+    "x3",
+    "y3"
+  ],
+  "parameter_values": [
+    4.7452,
+    1.154093,
+    0.604021,
+    0.1643,
+    0.6331,
+    0.2236,
+    0.3209
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "FeB$_{4}$",
+    "MnB$_{4}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

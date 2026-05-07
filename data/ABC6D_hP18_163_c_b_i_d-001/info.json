@@ -1,40 +1,40 @@
 {
-    "uid": "8D1V",
-    "label": "ABC6D_hP18_163_c_b_i_d-001",
-    "alias": [
-        "ABC6D_hP18_163_d_b_i_c"
-    ],
-    "title": "Colquiriite (LiCaAlF$_{6}$) Structure",
-    "icsd": 150332,
-    "ccdc": null,
-    "prototype": "AlCaF6Li",
-    "prototype_tex": "AlCaF$_{6}$Li",
-    "number_of_species": 4,
-    "pearson_symbol": "hP18",
-    "space_group_number": 163,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x4",
-	"y4",
-	"z4"
-    ],
-    "parameter_values": [
-	5.0081,
-	1.92554,
-	0.376697,
-	0.0310033,
-	0.64336
-    ],
-    "mineral_name": "colquiriite",
-    "minerals": null,
-    "compounds": [
-        "LiSrAlF$_{6}$"
-    ],
-    "legacy": false,
-    "notes": "Colquiriite",
-    "comments": "This is the low-temperature standard-pressure structure of LiCaAlF$_{6}$.  We used the data taken at 300K and ambient pressure."
+  "uid": "8D1V",
+  "label": "ABC6D_hP18_163_c_b_i_d-001",
+  "alias": [
+    "ABC6D_hP18_163_d_b_i_c"
+  ],
+  "title": "Colquiriite (LiCaAlF$_{6}$) Structure",
+  "icsd": 150332,
+  "ccdc": 1667512,
+  "prototype": "AlCaF6Li",
+  "prototype_tex": "AlCaF$_{6}$Li",
+  "number_of_species": 4,
+  "pearson_symbol": "hP18",
+  "space_group_number": 163,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x4",
+    "y4",
+    "z4"
+  ],
+  "parameter_values": [
+    5.0081,
+    1.92554,
+    0.376697,
+    0.0310033,
+    0.64336
+  ],
+  "mineral_name": "colquiriite",
+  "minerals": null,
+  "compounds": [
+    "LiSrAlF$_{6}$"
+  ],
+  "legacy": false,
+  "notes": "Colquiriite",
+  "comments": "This is the low-temperature standard-pressure structure of LiCaAlF$_{6}$.  We used the data taken at 300K and ambient pressure."
 }

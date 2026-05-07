@@ -1,47 +1,47 @@
 {
-    "uid": "FNF2",
-    "label": "A4B_oI20_74_aeh_e-001",
-    "alias": [
-        "A4B_oI20_74_beh_e"
-    ],
-    "title": "Al$_{4}$U ($D1_{b}$) Structure",
-    "icsd": 240127,
-    "ccdc": null,
-    "prototype": "Al4U",
-    "prototype_tex": "Al$_{4}$U",
-    "number_of_species": 2,
-    "pearson_symbol": "oI20",
-    "space_group_number": 74,
-    "strukturbericht": "D1b",
-    "strukturbericht_tex": "$D1_{b}$",
-    "part": 2,
-    "parameter_symbols": [
-	"a",
-	"b/a",
-	"c/a",
-	"z2",
-	"z3",
-	"y4",
-	"z4"
-    ],
-    "parameter_values": [
-	4.4014,
-	1.42118,
-	3.11898,
-	0.3891,
-	0.613,
-	0.5303,
-	0.8017
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "Al$_{4}$Gd",
-        "Al$_{4}$Np",
-        "Al$_{4}$Pu",
-        "Ga$_{4}$Pu"
-    ],
-    "legacy": false,
-    "notes": "$D1_{b}$",
-    "comments": "We replaced the rather obscure (Borgstedt, 1989) reference by the modern work of (Tougait, 2004)."
+  "uid": "FNF2",
+  "label": "A4B_oI20_74_aeh_e-001",
+  "alias": [
+    "A4B_oI20_74_beh_e"
+  ],
+  "title": "Al$_{4}$U ($D1_{b}$) Structure",
+  "icsd": 240127,
+  "ccdc": 1710876,
+  "prototype": "Al4U",
+  "prototype_tex": "Al$_{4}$U",
+  "number_of_species": 2,
+  "pearson_symbol": "oI20",
+  "space_group_number": 74,
+  "strukturbericht": "D1b",
+  "strukturbericht_tex": "$D1_{b}$",
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "z2",
+    "z3",
+    "y4",
+    "z4"
+  ],
+  "parameter_values": [
+    4.4014,
+    1.42118,
+    3.11898,
+    0.3891,
+    0.613,
+    0.5303,
+    0.8017
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Al$_{4}$Gd",
+    "Al$_{4}$Np",
+    "Al$_{4}$Pu",
+    "Ga$_{4}$Pu"
+  ],
+  "legacy": false,
+  "notes": "$D1_{b}$",
+  "comments": "We replaced the rather obscure (Borgstedt, 1989) reference by the modern work of (Tougait, 2004)."
 }

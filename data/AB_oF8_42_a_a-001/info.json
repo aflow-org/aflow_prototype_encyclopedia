@@ -1,36 +1,36 @@
 {
-    "uid": "0Q2T",
-    "label": "AB_oF8_42_a_a-001",
-    "alias": [
-        "AB_oF8_42_a_a"
-    ],
-    "title": "BN (High-pressure, high-temperature) Structure",
-    "icsd": 20946,
-    "ccdc": null,
-    "prototype": "BN",
-    "prototype_tex": "BN",
-    "number_of_species": 2,
-    "pearson_symbol": "oF8",
-    "space_group_number": 42,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-	"a",
-	"b/a",
-	"c/a",
-	"z1",
-	"z2"
-    ],
-    "parameter_values": [
-	2.5,
-	1.34,
-	1.736
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": "HP",
-    "comments": null
+  "uid": "0Q2T",
+  "label": "AB_oF8_42_a_a-001",
+  "alias": [
+    "AB_oF8_42_a_a"
+  ],
+  "title": "BN (High-pressure, high-temperature) Structure",
+  "icsd": 20946,
+  "ccdc": 1598669,
+  "prototype": "BN",
+  "prototype_tex": "BN",
+  "number_of_species": 2,
+  "pearson_symbol": "oF8",
+  "space_group_number": 42,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "z1",
+    "z2"
+  ],
+  "parameter_values": [
+    2.5,
+    1.34,
+    1.736
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "HP",
+  "comments": null
 }

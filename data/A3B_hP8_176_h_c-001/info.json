@@ -1,55 +1,55 @@
 {
-    "uid": "CZNF",
-    "label": "A3B_hP8_176_h_c-001",
-    "alias": [
-        "A3B_hP8_176_h_c"
-    ],
-    "title": "UCl$_{3}$ Structure",
-    "icsd": 27857,
-    "ccdc": null,
-    "prototype": "Cl3U",
-    "prototype_tex": "Cl$_{3}$U",
-    "number_of_species": 2,
-    "pearson_symbol": "hP8",
-    "space_group_number": 176,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x2",
-	"y2"
-    ],
-    "parameter_values": [
-	7.428,
-	0.580506,
-	0.375003,
-	0.0829967
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "AcBr$_{3}$",
-        "AgCl$_{3}$",
-        "AmCl$_{3}$",
-        "CeBr$_{3}$",
-        "CeCl$_{3}$",
-        "La(OH)$_{3}$",
-        "LaCl$_{3}$",
-        "NbCl$_{3}$",
-        "Nd(OH)$_{3}$",
-        "NdCl$_{3}$",
-        "NpBr$_{3}$",
-        "NpCl$_{3}$",
-        "$\\alpha$-NpBr$_{3}$",
-        "Pr(OH)$_{3}$",
-        "PrBr$_{3}$",
-        "PrCl$_{3}$",
-        "PuCl$_{3}$",
-        "UBr$_{3}$"
-    ],
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "CZNF",
+  "label": "A3B_hP8_176_h_c-001",
+  "alias": [
+    "A3B_hP8_176_h_c"
+  ],
+  "title": "UCl$_{3}$ Structure",
+  "icsd": 27857,
+  "ccdc": 1603035,
+  "prototype": "Cl3U",
+  "prototype_tex": "Cl$_{3}$U",
+  "number_of_species": 2,
+  "pearson_symbol": "hP8",
+  "space_group_number": 176,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x2",
+    "y2"
+  ],
+  "parameter_values": [
+    7.428,
+    0.580506,
+    0.375003,
+    0.0829967
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "AcBr$_{3}$",
+    "AgCl$_{3}$",
+    "AmCl$_{3}$",
+    "CeBr$_{3}$",
+    "CeCl$_{3}$",
+    "La(OH)$_{3}$",
+    "LaCl$_{3}$",
+    "NbCl$_{3}$",
+    "Nd(OH)$_{3}$",
+    "NdCl$_{3}$",
+    "NpBr$_{3}$",
+    "NpCl$_{3}$",
+    "$\\alpha$-NpBr$_{3}$",
+    "Pr(OH)$_{3}$",
+    "PrBr$_{3}$",
+    "PrCl$_{3}$",
+    "PuCl$_{3}$",
+    "UBr$_{3}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

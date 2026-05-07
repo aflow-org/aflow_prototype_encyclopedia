@@ -1,50 +1,50 @@
 {
-    "uid": "52T5",
-    "label": "A2B3C18D6_hP58_192_c_f_lm_l-001",
-    "alias": [
-        "A2B3C18D6_hP58_192_c_f_lm_l"
-    ],
-    "title": "Beryl (Be$_{3}$Al$_{2}$Si$_{6}$O$_{18}$, $S3_{1}$) Structure",
-    "icsd": 202090,
-    "ccdc": null,
-    "prototype": "Al2Be3O18Si6",
-    "prototype_tex": "Al$_{2}$Be$_{3}$O$_{18}$Si$_{6}$",
-    "number_of_species": 4,
-    "pearson_symbol": "hP58",
-    "space_group_number": 192,
-    "strukturbericht": "S31",
-    "strukturbericht_tex": "$S3_{1}$",
-    "part": 2,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x3",
-	"y3",
-	"x4",
-	"y4",
-	"x5",
-	"y5",
-	"z5"
-    ],
-    "parameter_values": [
-	9.214,
-	0.997829,
-	0.310303,
-	0.236897,
-	0.387603,
-	0.115897,
-	0.498503,
-	0.145597,
-	0.1453
-    ],
-    "mineral_name": "beryl",
-    "minerals": {
-        "indialite": "Al$_{3}$Mg$_{2}$O$_{18}$Si$_{6}$"
-    },
-    "compounds": [
-        "Mg$_{2}$Al$_{3}$Si$_{6}$O$_{18}$ (indialite)"
-    ],
-    "legacy": false,
-    "notes": "$S3_{1}$, Beryl",
-    "comments": "(Morosin, 1972) places oxygen atoms on the (2a) Wyckoff site, with lattice coordinates $(0,0,\\pm\\frac14)$ and an occupation of (0.0991). We follow (Hazen, 1986) and ignore this small contribution to the structure. \n We originally followed (Ewald, 1931) and gave this the {\\em Strukturbericht} designation $G3_{1}$.  However, (Hermann, 1937) relabeled is as $S3_{1}$ to keep it with the rest of the silicate structures."
+  "uid": "52T5",
+  "label": "A2B3C18D6_hP58_192_c_f_lm_l-001",
+  "alias": [
+    "A2B3C18D6_hP58_192_c_f_lm_l"
+  ],
+  "title": "Beryl (Be$_{3}$Al$_{2}$Si$_{6}$O$_{18}$, $S3_{1}$) Structure",
+  "icsd": 202090,
+  "ccdc": 1706686,
+  "prototype": "Al2Be3O18Si6",
+  "prototype_tex": "Al$_{2}$Be$_{3}$O$_{18}$Si$_{6}$",
+  "number_of_species": 4,
+  "pearson_symbol": "hP58",
+  "space_group_number": 192,
+  "strukturbericht": "S31",
+  "strukturbericht_tex": "$S3_{1}$",
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x3",
+    "y3",
+    "x4",
+    "y4",
+    "x5",
+    "y5",
+    "z5"
+  ],
+  "parameter_values": [
+    9.214,
+    0.997829,
+    0.310303,
+    0.236897,
+    0.387603,
+    0.115897,
+    0.498503,
+    0.145597,
+    0.1453
+  ],
+  "mineral_name": "beryl",
+  "minerals": {
+    "indialite": "Al$_{3}$Mg$_{2}$O$_{18}$Si$_{6}$"
+  },
+  "compounds": [
+    "Mg$_{2}$Al$_{3}$Si$_{6}$O$_{18}$ (indialite)"
+  ],
+  "legacy": false,
+  "notes": "$S3_{1}$, Beryl",
+  "comments": "(Morosin, 1972) places oxygen atoms on the (2a) Wyckoff site, with lattice coordinates $(0,0,\\pm\\frac14)$ and an occupation of (0.0991). We follow (Hazen, 1986) and ignore this small contribution to the structure. \n We originally followed (Ewald, 1931) and gave this the {\\em Strukturbericht} designation $G3_{1}$.  However, (Hermann, 1937) relabeled is as $S3_{1}$ to keep it with the rest of the silicate structures."
 }

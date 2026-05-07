@@ -1,46 +1,46 @@
 {
-    "uid": "N2MR",
-    "label": "A2BC2_hP5_164_d_a_d-001",
-    "alias": [
-        "A2BC2_hP5_164_d_a_d"
-    ],
-    "title": "Brucite [Mg(OH)$_{2}$] Structure",
-    "icsd": 79031,
-    "ccdc": null,
-    "prototype": "H2MgO2",
-    "prototype_tex": "H$_{2}$MgO$_{2}$",
-    "number_of_species": 3,
-    "pearson_symbol": "hP5",
-    "space_group_number": 164,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z2",
-	"z3"
-    ],
-    "parameter_values": [
-	3.1498,
-	1.51445,
-	0.413,
-	0.2203
-    ],
-    "mineral_name": "brucite",
-    "minerals": {
-        "portlandite": "CaH$_{2}$",
-        "pyrochroite": "H$_{2}$MnO$_{2}$",
-        "theophrastite": "H$_{2}$NiO$_{2}$"
-    },
-    "compounds": [
-        "Ca(OH)$_{2}$ (Portlandite)",
-        "Fe(OH)$_{2}$",
-        "Mn(OH)$_{2}$ (Pyrochroite)",
-        "Ni(OH)$_{2}$ (Theophrastite)",
-        "$\\beta$-Co(OH)$_{2}$"
-    ],
-    "legacy": false,
-    "notes": "Brucite",
-    "comments": "We used the data from (Catti, 1995) at ambient pressure.  In some Brucite-like materials the hydrogen atoms are displaced to the (6i) Wyckoff positions $(x,-x,z)$ of space group $P3m1$ \\#164, and these sites are 1/3 occupied."
+  "uid": "N2MR",
+  "label": "A2BC2_hP5_164_d_a_d-001",
+  "alias": [
+    "A2BC2_hP5_164_d_a_d"
+  ],
+  "title": "Brucite [Mg(OH)$_{2}$] Structure",
+  "icsd": 79031,
+  "ccdc": 1639294,
+  "prototype": "H2MgO2",
+  "prototype_tex": "H$_{2}$MgO$_{2}$",
+  "number_of_species": 3,
+  "pearson_symbol": "hP5",
+  "space_group_number": 164,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z2",
+    "z3"
+  ],
+  "parameter_values": [
+    3.1498,
+    1.51445,
+    0.413,
+    0.2203
+  ],
+  "mineral_name": "brucite",
+  "minerals": {
+    "portlandite": "CaH$_{2}$",
+    "pyrochroite": "H$_{2}$MnO$_{2}$",
+    "theophrastite": "H$_{2}$NiO$_{2}$"
+  },
+  "compounds": [
+    "Ca(OH)$_{2}$ (Portlandite)",
+    "Fe(OH)$_{2}$",
+    "Mn(OH)$_{2}$ (Pyrochroite)",
+    "Ni(OH)$_{2}$ (Theophrastite)",
+    "$\\beta$-Co(OH)$_{2}$"
+  ],
+  "legacy": false,
+  "notes": "Brucite",
+  "comments": "We used the data from (Catti, 1995) at ambient pressure.  In some Brucite-like materials the hydrogen atoms are displaced to the (6i) Wyckoff positions $(x,-x,z)$ of space group $P3m1$ \\#164, and these sites are 1/3 occupied."
 }

@@ -1,43 +1,43 @@
 {
-    "uid": "TXGA",
-    "label": "A3BC3_hR14_161_b_a_b-001",
-    "alias": null,
-    "title": "Proustite (Ag$_{3}$AsS$_{3}$) Structure",
-    "icsd": 27841,
-    "ccdc": null,
-    "prototype": "Ag3AsS3",
-    "prototype_tex": "Ag$_{3}$AsS$_{3}$",
-    "number_of_species": 3,
-    "pearson_symbol": "hR14",
-    "space_group_number": 161,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x1",
-	"x2",
-	"y2",
-	"z2",
-	"x3",
-	"y3",
-	"z3"
-    ],
-    "parameter_values": [
-	10.74,
-	0.804471
-    ],
-    "mineral_name": "proustite",
-    "minerals": {
-	"proustite": "Ag$_{3}$AsS$_{3}$",
-	"pyrargyrite":"Ag$_{3}$S_{3}$Sb"
-    },
-    "compounds": [
-       "Ag$_{3}$AsSe$_{3}$",
-       "Ag$_{3}$SbS$_{3}$ (pyrargyrite)"
-    ],
-    "legacy": false,
-    "notes": "Proustite",
-    "comments": "Ag$_{3}$AsS$_{3}$ can also be found in the \\href{current_web_home_dir/A3BC3_mC56_15_3f_f_3f-001}{monoclinic xanthoconite structure}. (Villars, 2018) shows phase diagrams with xanthoconite at 150$^{\\circ}$C and proustite at 350$^{\\circ}$C, but (Engel, 1968) state that ``[xanthoconite] is obviously more unstable than proustite.''\n Space group $R3c$ \\#161 allows an arbitrary choice of the origin of the $z$-axis.  Here we set $z_{1} = 0$ for the arsenic atom. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
+  "uid": "TXGA",
+  "label": "A3BC3_hR14_161_b_a_b-001",
+  "alias": null,
+  "title": "Proustite (Ag$_{3}$AsS$_{3}$) Structure",
+  "icsd": 27841,
+  "ccdc": 1603019,
+  "prototype": "Ag3AsS3",
+  "prototype_tex": "Ag$_{3}$AsS$_{3}$",
+  "number_of_species": 3,
+  "pearson_symbol": "hR14",
+  "space_group_number": 161,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x1",
+    "x2",
+    "y2",
+    "z2",
+    "x3",
+    "y3",
+    "z3"
+  ],
+  "parameter_values": [
+    10.74,
+    0.804471
+  ],
+  "mineral_name": "proustite",
+  "minerals": {
+    "proustite": "Ag$_{3}$AsS$_{3}$",
+    "pyrargyrite": "Ag$_{3}$S_{3}$Sb"
+  },
+  "compounds": [
+    "Ag$_{3}$AsSe$_{3}$",
+    "Ag$_{3}$SbS$_{3}$ (pyrargyrite)"
+  ],
+  "legacy": false,
+  "notes": "Proustite",
+  "comments": "Ag$_{3}$AsS$_{3}$ can also be found in the \\href{current_web_home_dir/A3BC3_mC56_15_3f_f_3f-001}{monoclinic xanthoconite structure}. (Villars, 2018) shows phase diagrams with xanthoconite at 150$^{\\circ}$C and proustite at 350$^{\\circ}$C, but (Engel, 1968) state that ``[xanthoconite] is obviously more unstable than proustite.''\n Space group $R3c$ \\#161 allows an arbitrary choice of the origin of the $z$-axis.  Here we set $z_{1} = 0$ for the arsenic atom. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

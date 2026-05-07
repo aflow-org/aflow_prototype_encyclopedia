@@ -1,34 +1,34 @@
 {
-    "uid": "SQAX",
-    "label": "A3B_hP12_191_gl_f-001",
-    "alias": [
-        "A3B_hP12_191_gl_f"
-    ],
-    "title": "Hexagonal WO$_{3}$ Structure",
-    "icsd": 32001,
-    "ccdc": null,
-    "prototype": "O3W",
-    "prototype_tex": "O$_{3}$W",
-    "number_of_species": 2,
-    "pearson_symbol": "hP12",
-    "space_group_number": 191,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x3"
-    ],
-    "parameter_values": [
-	7.298,
-	0.534256,
-	0.212
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": "Hexagonal",
-    "comments": "All stable phases of WO$_{3}$ are distortions of the \\href{current_web_home_dir/A3B_cP4_221_c_b-001}{cubic $\\alpha$-ReO$_{3}$ ($D0_{9}$) phase}. Based on (Woodward, 1997 and Vogt, 1999), the known stable phases and their approximate temperature ranges are: \\begin{itemize} \\item \\href{current_web_home_dir/A3B_tP16_130_cf_c-001}{$\\alpha$-WO$_{3}$ (1010-1170 K) (Vogt, 1999)} \\item \\href{current_web_home_dir/A3B_oP32_60_3d_d-001}{$\\beta$-WO$_{3}$ (600-1170 K) (Vogt, 1999)} \\item \\href{current_web_home_dir/A3B_mP32_14_6e_2e-001}{$\\gamma$-WO$_{3}$ (290-600 K) (Vogt, 1999)} \\item  \\href{current_web_home_dir/A3B_aP32_2_12i_4i-001}{$\\delta$-WO$_{3}$ (230-290 K) (Diehl, 1978)} \\item \\href{current_web_home_dir/A3B_mP16_7_6a_2a-001}{$\\epsilon$-WO$_{3}$ (below 23 K) (Woodward, 1997)} \\end{itemize} ~ \\vspace{-.25in} \n Woodward notes that ``The transition temperatures display large hysteresis effects and universal agreement is not found in the literature.'' \n In addition, several other structures have been proposed and/or found: \\begin{itemize} \\item \\href{current_web_home_dir/A3B_oP16_57_a2d_d-001}{The original $D0_{10}$ structure} (Br\\\"{a}kken, 1931; Hermann, 1937), superseded by $\\delta$-WO$_{3}$ \\item \\href{current_web_home_dir/A3B_oP32_62_ab4c_2c-001}{The original $\\beta$-WO$_{3}$} (Salje, 1977) \\item \\href{current_web_home_dir/A3B_hP12_191_gl_f-001}{Hexagonal WO$_{3}$}, presumably metastable, found by (Gerand, 1979) while dehydrating WO$_{3}$$\\cdot$H$_{2}$O (this structure) \\end{itemize} ~ \\vspace{-.25in} \n (Gerand, 1979) determined the structure of hexagonal WO$_{3}$ by X-ray diffraction of powdered samples.  They found evidence of super-reflection, indicating that the unit cell should be doubled along the $c$-axis, but were unable to determine the shift in atomic positions for the double unit cell.  We report what they called the ``half-cell'' structure."
+  "uid": "SQAX",
+  "label": "A3B_hP12_191_gl_f-001",
+  "alias": [
+    "A3B_hP12_191_gl_f"
+  ],
+  "title": "Hexagonal WO$_{3}$ Structure",
+  "icsd": 32001,
+  "ccdc": 1605913,
+  "prototype": "O3W",
+  "prototype_tex": "O$_{3}$W",
+  "number_of_species": 2,
+  "pearson_symbol": "hP12",
+  "space_group_number": 191,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x3"
+  ],
+  "parameter_values": [
+    7.298,
+    0.534256,
+    0.212
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "Hexagonal",
+  "comments": "All stable phases of WO$_{3}$ are distortions of the \\href{current_web_home_dir/A3B_cP4_221_c_b-001}{cubic $\\alpha$-ReO$_{3}$ ($D0_{9}$) phase}. Based on (Woodward, 1997 and Vogt, 1999), the known stable phases and their approximate temperature ranges are: \\begin{itemize} \\item \\href{current_web_home_dir/A3B_tP16_130_cf_c-001}{$\\alpha$-WO$_{3}$ (1010-1170 K) (Vogt, 1999)} \\item \\href{current_web_home_dir/A3B_oP32_60_3d_d-001}{$\\beta$-WO$_{3}$ (600-1170 K) (Vogt, 1999)} \\item \\href{current_web_home_dir/A3B_mP32_14_6e_2e-001}{$\\gamma$-WO$_{3}$ (290-600 K) (Vogt, 1999)} \\item  \\href{current_web_home_dir/A3B_aP32_2_12i_4i-001}{$\\delta$-WO$_{3}$ (230-290 K) (Diehl, 1978)} \\item \\href{current_web_home_dir/A3B_mP16_7_6a_2a-001}{$\\epsilon$-WO$_{3}$ (below 23 K) (Woodward, 1997)} \\end{itemize} ~ \\vspace{-.25in} \n Woodward notes that ``The transition temperatures display large hysteresis effects and universal agreement is not found in the literature.'' \n In addition, several other structures have been proposed and/or found: \\begin{itemize} \\item \\href{current_web_home_dir/A3B_oP16_57_a2d_d-001}{The original $D0_{10}$ structure} (Br\\\"{a}kken, 1931; Hermann, 1937), superseded by $\\delta$-WO$_{3}$ \\item \\href{current_web_home_dir/A3B_oP32_62_ab4c_2c-001}{The original $\\beta$-WO$_{3}$} (Salje, 1977) \\item \\href{current_web_home_dir/A3B_hP12_191_gl_f-001}{Hexagonal WO$_{3}$}, presumably metastable, found by (Gerand, 1979) while dehydrating WO$_{3}$$\\cdot$H$_{2}$O (this structure) \\end{itemize} ~ \\vspace{-.25in} \n (Gerand, 1979) determined the structure of hexagonal WO$_{3}$ by X-ray diffraction of powdered samples.  They found evidence of super-reflection, indicating that the unit cell should be doubled along the $c$-axis, but were unable to determine the shift in atomic positions for the double unit cell.  We report what they called the ``half-cell'' structure."
 }

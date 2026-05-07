@@ -1,40 +1,40 @@
 {
-    "uid": "QP36",
-    "label": "AB6C2D_tI20_87_a_eh_d_b-001",
-    "alias": [
-        "AB6C2D_tI20_87_a_eh_d_b"
-    ],
-    "title": "Sr$_{2}$NiWO$_{6}$ Structure",
-    "icsd": 91791,
-    "ccdc": null,
-    "prototype": "NiO6Sr2W",
-    "prototype_tex": "NiO$_{6}$Sr$_{2}$W",
-    "number_of_species": 4,
-    "pearson_symbol": "tI20",
-    "space_group_number": 87,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z4",
-	"x5",
-	"y5"
-    ],
-    "parameter_values": [
-	5.5571,
-	1.42396,
-	0.255,
-	0.289,
-	0.227
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "Sr$_{2}$MgWO$_{6}$"
-    ],
-    "legacy": false,
-    "notes": "Double Perovskite",
-    "comments": "This double perovskite crystal is the ground state structure of Sr$_{2}$NiWO$_{6}$.  Above 300$^{\\circ}$C it transforms into the \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite $E2_{1}$ structure}.  \n (Iwanga, 2000) places the strontium atoms on the (4c) Wyckoff position, but gives the coordinates for the (4d) site.  The interatomic distances they give with this structure are consistent with the (4d) site."
+  "uid": "QP36",
+  "label": "AB6C2D_tI20_87_a_eh_d_b-001",
+  "alias": [
+    "AB6C2D_tI20_87_a_eh_d_b"
+  ],
+  "title": "Sr$_{2}$NiWO$_{6}$ Structure",
+  "icsd": 91791,
+  "ccdc": 1651314,
+  "prototype": "NiO6Sr2W",
+  "prototype_tex": "NiO$_{6}$Sr$_{2}$W",
+  "number_of_species": 4,
+  "pearson_symbol": "tI20",
+  "space_group_number": 87,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z4",
+    "x5",
+    "y5"
+  ],
+  "parameter_values": [
+    5.5571,
+    1.42396,
+    0.255,
+    0.289,
+    0.227
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Sr$_{2}$MgWO$_{6}$"
+  ],
+  "legacy": false,
+  "notes": "Double Perovskite",
+  "comments": "This double perovskite crystal is the ground state structure of Sr$_{2}$NiWO$_{6}$.  Above 300$^{\\circ}$C it transforms into the \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite $E2_{1}$ structure}.  \n (Iwanga, 2000) places the strontium atoms on the (4c) Wyckoff position, but gives the coordinates for the (4d) site.  The interatomic distances they give with this structure are consistent with the (4d) site."
 }

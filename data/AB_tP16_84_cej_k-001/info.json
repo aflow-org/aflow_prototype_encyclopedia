@@ -1,47 +1,47 @@
 {
-    "uid": "KXWJ",
-    "label": "AB_tP16_84_cej_k-001",
-    "alias": [
-        "AB_tP16_84_cej_k"
-    ],
-    "title": "Vysotskite (PdS, $B34$) Structure",
-    "icsd": 22429,
-    "ccdc": null,
-    "prototype": "PdS",
-    "prototype_tex": "PdS",
-    "number_of_species": 2,
-    "pearson_symbol": "tP16",
-    "space_group_number": 84,
-    "strukturbericht": "B34",
-    "strukturbericht_tex": "$B34$",
-    "part": 1,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x3",
-	"y3",
-	"x4",
-	"y4",
-	"z4"
-    ],
-    "parameter_values": [
-	6.429,
-	1.02831,
-	0.46779,
-	0.25713,
-	0.19361,
-	0.30754,
-	0.22904
-    ],
-    "mineral_name": "vysotskite",
-    "minerals": {
-        "braggite": "(Ni,Pd,Pt)S"
-    },
-    "compounds": [
-        "PdSe",
-        "(Pt,Pd,Ni)S (braggite)"
-    ],
-    "legacy": false,
-    "notes": "$B34$",
-    "comments": null
+  "uid": "KXWJ",
+  "label": "AB_tP16_84_cej_k-001",
+  "alias": [
+    "AB_tP16_84_cej_k"
+  ],
+  "title": "Vysotskite (PdS, $B34$) Structure",
+  "icsd": 22429,
+  "ccdc": 2185340,
+  "prototype": "PdS",
+  "prototype_tex": "PdS",
+  "number_of_species": 2,
+  "pearson_symbol": "tP16",
+  "space_group_number": 84,
+  "strukturbericht": "B34",
+  "strukturbericht_tex": "$B34$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x3",
+    "y3",
+    "x4",
+    "y4",
+    "z4"
+  ],
+  "parameter_values": [
+    6.429,
+    1.02831,
+    0.46779,
+    0.25713,
+    0.19361,
+    0.30754,
+    0.22904
+  ],
+  "mineral_name": "vysotskite",
+  "minerals": {
+    "braggite": "(Ni,Pd,Pt)S"
+  },
+  "compounds": [
+    "PdSe",
+    "(Pt,Pd,Ni)S (braggite)"
+  ],
+  "legacy": false,
+  "notes": "$B34$",
+  "comments": null
 }

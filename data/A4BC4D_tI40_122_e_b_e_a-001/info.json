@@ -1,51 +1,51 @@
 {
-    "uid": "TLFW",
-    "label": "A4BC4D_tI40_122_e_b_e_a-001",
-    "alias": [
-        "A4BC4D_tI40_122_e_b_e_a"
-    ],
-    "title": "KH$_{2}$PO$_{4}$ ($H2_{2}$) Structure",
-    "icsd": 201370,
-    "ccdc": null,
-    "prototype": "KH2PO4",
-    "prototype_tex": "KH$_{2}$PO$_{4}$",
-    "number_of_species": 4,
-    "pearson_symbol": "tI40",
-    "space_group_number": 122,
-    "strukturbericht": "H22",
-    "strukturbericht_tex": "$H2_{2}$",
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x3",
-	"y3",
-	"z3",
-	"x4",
-	"y4",
-	"z4"
-    ],
-    "parameter_values": [
-	7.4264,
-	0.933292,
-	0.14867,
-	0.22713,
-	0.12266,
-	0.14933,
-	0.08283,
-	0.12675
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "RbH$_{2}$PO$_{4}$",
-        "KH$_{2}$AsO$_{4}$",
-        "RbH$_{2}$AsO$_{4}$",
-        "CsH$_{2}$AsO$_{4}$",
-        "NH$_{4}$H$_{2}$PO$_{4}$",
-        "NH$_{4}$H$_{2}$AsO$_{4}$"
-    ],
-    "legacy": false,
-    "notes": "$H2_{2}$",
-    "comments": "The hydrogen (16e) sites are half-occupied.  Given the closeness of pairs of hydrogen positions presumably only one site in each pair is ever occupied. This partial occupancy gives a structure that differs slightly from the $H2_{2}$ structure described by (Ewald, 1928). There the hydrogen atoms are at their averaged positions, Wyckoff position (8d). \n The x position of the oxygen atom was inadvertantly listed as 0.1933.  We have changed this to the correct value, 0.14933"
+  "uid": "TLFW",
+  "label": "A4BC4D_tI40_122_e_b_e_a-001",
+  "alias": [
+    "A4BC4D_tI40_122_e_b_e_a"
+  ],
+  "title": "KH$_{2}$PO$_{4}$ ($H2_{2}$) Structure",
+  "icsd": 201370,
+  "ccdc": 1706054,
+  "prototype": "KH2PO4",
+  "prototype_tex": "KH$_{2}$PO$_{4}$",
+  "number_of_species": 4,
+  "pearson_symbol": "tI40",
+  "space_group_number": 122,
+  "strukturbericht": "H22",
+  "strukturbericht_tex": "$H2_{2}$",
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x3",
+    "y3",
+    "z3",
+    "x4",
+    "y4",
+    "z4"
+  ],
+  "parameter_values": [
+    7.4264,
+    0.933292,
+    0.14867,
+    0.22713,
+    0.12266,
+    0.14933,
+    0.08283,
+    0.12675
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "RbH$_{2}$PO$_{4}$",
+    "KH$_{2}$AsO$_{4}$",
+    "RbH$_{2}$AsO$_{4}$",
+    "CsH$_{2}$AsO$_{4}$",
+    "NH$_{4}$H$_{2}$PO$_{4}$",
+    "NH$_{4}$H$_{2}$AsO$_{4}$"
+  ],
+  "legacy": false,
+  "notes": "$H2_{2}$",
+  "comments": "The hydrogen (16e) sites are half-occupied.  Given the closeness of pairs of hydrogen positions presumably only one site in each pair is ever occupied. This partial occupancy gives a structure that differs slightly from the $H2_{2}$ structure described by (Ewald, 1928). There the hydrogen atoms are at their averaged positions, Wyckoff position (8d). \n The x position of the oxygen atom was inadvertantly listed as 0.1933.  We have changed this to the correct value, 0.14933"
 }

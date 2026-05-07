@@ -1,36 +1,36 @@
 {
-    "uid": "DY16",
-    "label": "A2B2C_oF20_69_g_f_a-001",
-    "alias": null,
-    "title": "$\\beta$-SrRh$_{2}$As$_{2}$ Structure",
-    "icsd": 417001,
-    "ccdc": null,
-    "prototype": "As2Rh2Sr",
-    "prototype_tex": "As$_{2}$Rh$_{2}$Sr",
-    "number_of_species": 3,
-    "pearson_symbol": "oF20",
-    "space_group_number": 69,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-	"a",
-	"b/a",
-	"c/a",
-	"x3"
-    ],
-    "parameter_values": [
-	11.144,
-	0.515434,
-	0.548726,
-	0.641
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-	"EuRh$_{2}$As$_{2}$"
-    ],
-    "legacy": false,
-    "notes": "$\\beta$-SrRh$_{2}$As$_{2}$",
-    "comments": "SrRh$_{2}$As$_{2}$ is known to have two temperature-driven structural phase transitions (Zinth, 2012): \\begin{itemize} \\item Below 463K it is in the \\href{current_web_home_dir/A2B2C_mP20_14_2e_2e_e-001}{monoclinic $\\alpha$-SrRh$_{2}$As$_{2}$ structure}. \\item In the range 463-555K it is in this \\href{current_web_home_dir/A2B2C_oF20_69_g_f_a-001}{orthorhombic $\\beta$-SrRh$_{2}$As$_{2}$ structure}. \\item Above 555K $\\gamma$-SrRh$_{2}$As$_{2}$ is in the \\href{current_web_home_dir/A2B2C_tI10_139_d_e_a-003}{tetragonal ThCr$_{2}$Si$_{2}$ structure}. \\end{itemize} ~ \\vspace{-.25in} \n (Zinth, 2012) have incorrect Wyckoff symbols for the structure of $\\beta$-SrRh$_{2}$As$_{2}$ in Table IV.  We assume the actual positions are correct, and shift the position of the strontium atom to the origin. \n The ICSD entry is from the earlier work of (Hellman, 2007)."
+  "uid": "DY16",
+  "label": "A2B2C_oF20_69_g_f_a-001",
+  "alias": null,
+  "title": "$\\beta$-SrRh$_{2}$As$_{2}$ Structure",
+  "icsd": 417001,
+  "ccdc": 1730533,
+  "prototype": "As2Rh2Sr",
+  "prototype_tex": "As$_{2}$Rh$_{2}$Sr",
+  "number_of_species": 3,
+  "pearson_symbol": "oF20",
+  "space_group_number": 69,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "x3"
+  ],
+  "parameter_values": [
+    11.144,
+    0.515434,
+    0.548726,
+    0.641
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "EuRh$_{2}$As$_{2}$"
+  ],
+  "legacy": false,
+  "notes": "$\\beta$-SrRh$_{2}$As$_{2}$",
+  "comments": "SrRh$_{2}$As$_{2}$ is known to have two temperature-driven structural phase transitions (Zinth, 2012): \\begin{itemize} \\item Below 463K it is in the \\href{current_web_home_dir/A2B2C_mP20_14_2e_2e_e-001}{monoclinic $\\alpha$-SrRh$_{2}$As$_{2}$ structure}. \\item In the range 463-555K it is in this \\href{current_web_home_dir/A2B2C_oF20_69_g_f_a-001}{orthorhombic $\\beta$-SrRh$_{2}$As$_{2}$ structure}. \\item Above 555K $\\gamma$-SrRh$_{2}$As$_{2}$ is in the \\href{current_web_home_dir/A2B2C_tI10_139_d_e_a-003}{tetragonal ThCr$_{2}$Si$_{2}$ structure}. \\end{itemize} ~ \\vspace{-.25in} \n (Zinth, 2012) have incorrect Wyckoff symbols for the structure of $\\beta$-SrRh$_{2}$As$_{2}$ in Table IV.  We assume the actual positions are correct, and shift the position of the strontium atom to the origin. \n The ICSD entry is from the earlier work of (Hellman, 2007)."
 }

@@ -1,50 +1,50 @@
 {
-    "uid": "386R",
-    "label": "A6B_oC28_63_efg_c-001",
-    "alias": [
-        "A6B_oC28_63_efg_c"
-    ],
-    "title": "MnAl$_{6}$ ($D2_{h}$) Structure",
-    "icsd": 57973,
-    "ccdc": null,
-    "prototype": "Al6Mn",
-    "prototype_tex": "Al$_{6}$Mn",
-    "number_of_species": 2,
-    "pearson_symbol": "oC28",
-    "space_group_number": 63,
-    "strukturbericht": "D2h",
-    "strukturbericht_tex": "$D2_{h}$",
-    "part": 2,
-    "parameter_symbols": [
-	"a",
-	"b/a",
-	"c/a",
-	"y1",
-	"x2",
-	"y3",
-	"z3",
-	"x4",
-	"y4"
-    ],
-    "parameter_values": [
-	7.5551,
-	0.860267,
-	1.17436,
-	0.54314,
-	0.67398,
-	0.13917,
-	0.60039,
-	0.81768,
-	0.21378
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "FeAl$_{6}$",
-        "ReAl$_{6}$",
-        "TcAl$_{6}$"
-    ],
-    "legacy": false,
-    "notes": "$D2_{h}$",
-    "comments": null
+  "uid": "386R",
+  "label": "A6B_oC28_63_efg_c-001",
+  "alias": [
+    "A6B_oC28_63_efg_c"
+  ],
+  "title": "MnAl$_{6}$ ($D2_{h}$) Structure",
+  "icsd": 57973,
+  "ccdc": 1622011,
+  "prototype": "Al6Mn",
+  "prototype_tex": "Al$_{6}$Mn",
+  "number_of_species": 2,
+  "pearson_symbol": "oC28",
+  "space_group_number": 63,
+  "strukturbericht": "D2h",
+  "strukturbericht_tex": "$D2_{h}$",
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "y1",
+    "x2",
+    "y3",
+    "z3",
+    "x4",
+    "y4"
+  ],
+  "parameter_values": [
+    7.5551,
+    0.860267,
+    1.17436,
+    0.54314,
+    0.67398,
+    0.13917,
+    0.60039,
+    0.81768,
+    0.21378
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "FeAl$_{6}$",
+    "ReAl$_{6}$",
+    "TcAl$_{6}$"
+  ],
+  "legacy": false,
+  "notes": "$D2_{h}$",
+  "comments": null
 }

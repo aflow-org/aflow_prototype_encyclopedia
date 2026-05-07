@@ -1,42 +1,42 @@
 {
-    "uid": "FR9M",
-    "label": "AB3C8_tI24_121_a_bd_2i-001",
-    "alias": [
-        "AB3C8_tI24_121_a_bd_2i"
-    ],
-    "title": "K$_{3}$CrO$_{8}$ Structure",
-    "icsd": 9356,
-    "ccdc": null,
-    "prototype": "CrK3O8",
-    "prototype_tex": "CrK$_{3}$O$_{8}$",
-    "number_of_species": 3,
-    "pearson_symbol": "tI24",
-    "space_group_number": 121,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x4",
-	"z4",
-	"x5",
-	"z5"
-    ],
-    "parameter_values": [
-	6.703,
-	1.13859,
-	0.1355,
-	0.1788,
-	0.7079,
-	0.5082
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "Zr$_{3}$GeO$_{8}$"
-    ],
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "FR9M",
+  "label": "AB3C8_tI24_121_a_bd_2i-001",
+  "alias": [
+    "AB3C8_tI24_121_a_bd_2i"
+  ],
+  "title": "K$_{3}$CrO$_{8}$ Structure",
+  "icsd": 9356,
+  "ccdc": 1594365,
+  "prototype": "CrK3O8",
+  "prototype_tex": "CrK$_{3}$O$_{8}$",
+  "number_of_species": 3,
+  "pearson_symbol": "tI24",
+  "space_group_number": 121,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x4",
+    "z4",
+    "x5",
+    "z5"
+  ],
+  "parameter_values": [
+    6.703,
+    1.13859,
+    0.1355,
+    0.1788,
+    0.7079,
+    0.5082
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Zr$_{3}$GeO$_{8}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

@@ -1,44 +1,44 @@
 {
-    "uid": "WBFX",
-    "label": "AB_mP4_11_e_e-001",
-    "alias": [
-        "AB_mP4_11_e_e"
-    ],
-    "title": "NiTi Structure",
-    "icsd": 157983,
-    "ccdc": 1674512,
-    "prototype": "NiTi",
-    "prototype_tex": "NiTi",
-    "number_of_species": 2,
-    "pearson_symbol": "mP4",
-    "space_group_number": 11,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 1,
-    "parameter_symbols": [
-	"a",
-	"b/a",
-	"c/a",
-	"beta",
-	"x1",
-	"z1",
-	"x2",
-	"z2"
-    ],
-    "parameter_values": [
-	2.8837,
-	1.42393,
-	1.61855,
-	97.938,
-	-0.0387,
-	0.8252,
-	0.5887,
-	0.2816
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": null,
-    "comments": "(Sitepu, 2002) give the coordinates in the unique-axis $c$ setting of space group $P2_{1}/m$ \\#11.  We used FINDSYM to transform this to the standard unique-axis $b$ setting. In our original version of this work we inadvertantly used 180$^{\\circ}$ - $\\beta$ rather than $\\beta$, and moved the nickel atoms by 1/2 c along the z-axis.  These errors have been corrected here."
+  "uid": "WBFX",
+  "label": "AB_mP4_11_e_e-001",
+  "alias": [
+    "AB_mP4_11_e_e"
+  ],
+  "title": "NiTi Structure",
+  "icsd": 157983,
+  "ccdc": 1674512,
+  "prototype": "NiTi",
+  "prototype_tex": "NiTi",
+  "number_of_species": 2,
+  "pearson_symbol": "mP4",
+  "space_group_number": 11,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "beta",
+    "x1",
+    "z1",
+    "x2",
+    "z2"
+  ],
+  "parameter_values": [
+    2.8837,
+    1.42393,
+    1.61855,
+    97.938,
+    -0.0387,
+    0.8252,
+    0.5887,
+    0.2816
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": "(Sitepu, 2002) give the coordinates in the unique-axis $c$ setting of space group $P2_{1}/m$ \\#11.  We used FINDSYM to transform this to the standard unique-axis $b$ setting. In our original version of this work we inadvertantly used 180$^{\\circ}$ - $\\beta$ rather than $\\beta$, and moved the nickel atoms by 1/2 c along the z-axis.  These errors have been corrected here."
 }

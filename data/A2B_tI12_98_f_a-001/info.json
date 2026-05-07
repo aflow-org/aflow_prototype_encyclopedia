@@ -1,36 +1,36 @@
 {
-    "uid": "G4QQ",
-    "label": "A2B_tI12_98_f_a-001",
-    "alias": [
-        "A2B_tI12_98_f_a"
-    ],
-    "title": "CdAs$_{2}$ Structure",
-    "icsd": 609931,
-    "ccdc": null,
-    "prototype": "As2Cd",
-    "prototype_tex": "As$_{2}$Cd",
-    "number_of_species": 2,
-    "pearson_symbol": "tI12",
-    "space_group_number": 98,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x2"
-    ],
-    "parameter_values": [
-	7.9534,
-	0.58795,
-	0.44
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "CdAs$_{2-x}$P$_{x}$"
-    ],
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "G4QQ",
+  "label": "A2B_tI12_98_f_a-001",
+  "alias": [
+    "A2B_tI12_98_f_a"
+  ],
+  "title": "CdAs$_{2}$ Structure",
+  "icsd": 609931,
+  "ccdc": 1743785,
+  "prototype": "As2Cd",
+  "prototype_tex": "As$_{2}$Cd",
+  "number_of_species": 2,
+  "pearson_symbol": "tI12",
+  "space_group_number": 98,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x2"
+  ],
+  "parameter_values": [
+    7.9534,
+    0.58795,
+    0.44
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "CdAs$_{2-x}$P$_{x}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

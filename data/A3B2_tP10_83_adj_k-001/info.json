@@ -1,40 +1,40 @@
 {
-    "uid": "FCWX",
-    "label": "A3B2_tP10_83_adj_k-001",
-    "alias": [
-        "A3B2_tP10_83_adk_j"
-    ],
-    "title": "Ti$_{2}$Ga$_{3}$ Structure",
-    "icsd": 197271,
-    "ccdc": null,
-    "prototype": "Ga3Ti2",
-    "prototype_tex": "Ga$_{3}$Ti$_{2}$",
-    "number_of_species": 2,
-    "pearson_symbol": "tP10",
-    "space_group_number": 83,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x3",
-	"y3",
-	"x4",
-	"y4"
-    ],
-    "parameter_values": [
-	6.284,
-	0.638129,
-	0.686,
-	0.891,
-	0.809,
-	0.625
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": null,
-    "comments": "We originally listed this structure as Ti$_{2}$Ge$_{3}$ (Hicks, 2019), but Ti$_{2}$Ga$_{3}$ is the correct compound."
+  "uid": "FCWX",
+  "label": "A3B2_tP10_83_adj_k-001",
+  "alias": [
+    "A3B2_tP10_83_adk_j"
+  ],
+  "title": "Ti$_{2}$Ga$_{3}$ Structure",
+  "icsd": 197271,
+  "ccdc": 1924171,
+  "prototype": "Ga3Ti2",
+  "prototype_tex": "Ga$_{3}$Ti$_{2}$",
+  "number_of_species": 2,
+  "pearson_symbol": "tP10",
+  "space_group_number": 83,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x3",
+    "y3",
+    "x4",
+    "y4"
+  ],
+  "parameter_values": [
+    6.284,
+    0.638129,
+    0.686,
+    0.891,
+    0.809,
+    0.625
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": "We originally listed this structure as Ti$_{2}$Ge$_{3}$ (Hicks, 2019), but Ti$_{2}$Ga$_{3}$ is the correct compound."
 }

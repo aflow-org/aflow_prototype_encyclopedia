@@ -1,44 +1,43 @@
 {
-    "uid": "N6CF",
-    "label": "A4B5C_tI20_87_h_ah_b-001",
-    "alias": null,
-    "title": "Na$_{4}$UO$_{5}$ Structure",
-    "icsd": 22203,
-    "ccdc": 1598983,
-    "prototype": "Na4O5U",
-    "prototype_tex": "Na$_{4}$O$_{5}$U",
-    "number_of_species": 3,
-    "pearson_symbol": "tI20",
-    "space_group_number": 87,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 5,
-    "parameter_symbols": [
-        "a",
-	"c/a",
-	"x3",
-	"y3",
-	"x4",
-	"y4"
-    ],
-    "parameter_values": [
-        7.576,
-	0.612592,
-	0.68,
-	0.919,
-	0.744,
-	0.597
-    ],
-    
-    "mineral_name": null,
-    "minerals": {},
-    "compounds": [
-	"Li$_{4}$NpO$_{5}$",
-	"Li$_{4}$UO$_{5}$",
-	"Na$_{4}$NpO$_{5}$",
-	"Na$_{4}$PuO$_{5}$"
-    ],
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "N6CF",
+  "label": "A4B5C_tI20_87_h_ah_b-001",
+  "alias": null,
+  "title": "Na$_{4}$UO$_{5}$ Structure",
+  "icsd": 22203,
+  "ccdc": 1598983,
+  "prototype": "Na4O5U",
+  "prototype_tex": "Na$_{4}$O$_{5}$U",
+  "number_of_species": 3,
+  "pearson_symbol": "tI20",
+  "space_group_number": 87,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 5,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x3",
+    "y3",
+    "x4",
+    "y4"
+  ],
+  "parameter_values": [
+    7.576,
+    0.612592,
+    0.68,
+    0.919,
+    0.744,
+    0.597
+  ],
+  "mineral_name": null,
+  "minerals": {},
+  "compounds": [
+    "Li$_{4}$NpO$_{5}$",
+    "Li$_{4}$UO$_{5}$",
+    "Na$_{4}$NpO$_{5}$",
+    "Na$_{4}$PuO$_{5}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

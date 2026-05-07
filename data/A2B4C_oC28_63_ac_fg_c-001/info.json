@@ -1,50 +1,50 @@
 {
-    "uid": "0R2K",
-    "label": "A2B4C_oC28_63_ac_fg_c-001",
-    "alias": null,
-    "title": "Na$_{2}$SO$_{4}$ (III) Structure",
-    "icsd": 31687,
-    "ccdc": 1605685,
-    "prototype": "Na2O4S",
-    "prototype_tex": "Na$_{2}$O$_{4}$S",
-    "number_of_species": 3,
-    "elements": [
-	"Na",
-	"O",
-	"S"
-    ],
-    "pearson_symbol": "oC28",
-    "space_group_number": 63,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 5,
-    "parameter_symbols": [
-        "a",
-	"c/a",
-	"y2",
-	"y3",
-	"y4",
-	"z4",
-	"x5",
-	"y5"
-    ],
-    "parameter_values": [
-        5.6,
-	1.598214,
-	1.248214,
-	0.685,
-	0.347,
-	0.25,
-	0.072,
-	0.28,
-	0.947
-    ],
-    "mineral_name": null,
-    "minerals": {},
-    "compounds": [
-        "Na$_{2}$CrO$_{4}$"
-    ],
-    "legacy": false,
-    "notes": "Na$_{2}$SO$_{4}$ III",
-    "comments": "Na$_{2}$SO$_{4}$ forms in many anhydroous phases (Nord, 1973), which we will reference as we update this site. For now we have \\begin{itemize} \\item \\href{current_web_home_dir/A2B4C_oC28_63_ac_fg_c-001}{Na$_{2}$SO$_{4}$ III} (this structure) and \\item \\href{current_web_home_dir/A2B4C_oF56_70_e_h_a-001}{Thenardite (Na$_{2}$SO$_{4}$ V, $H1_{7}$)}. \\end{itemize} ~ \\vspace{-.25in} \n (Frevel, 1940) put this structure in the $Pbnn$ setting of space group \\#52, but AFLOW shows that the positions of the atoms are consistent with the higher symmetry $Cmcm$ \\#63 space group.  Transforming from $Pbnn$ to $Cmcm$ halves the size of the unit cell. \n The date for this structure was taken at room temperature. \n The lattice constants in the ICSD differ slightly (less than 1\\%) from the published values in (Frevel, 1940). Ordinarily we would use the published values, but since there is a space group shift here we decided to use the ICSD values to avoid confusion."
+  "uid": "0R2K",
+  "label": "A2B4C_oC28_63_ac_fg_c-001",
+  "alias": null,
+  "title": "Na$_{2}$SO$_{4}$ (III) Structure",
+  "icsd": 31687,
+  "ccdc": 1605685,
+  "prototype": "Na2O4S",
+  "prototype_tex": "Na$_{2}$O$_{4}$S",
+  "number_of_species": 3,
+  "elements": [
+    "Na",
+    "O",
+    "S"
+  ],
+  "pearson_symbol": "oC28",
+  "space_group_number": 63,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 5,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "y2",
+    "y3",
+    "y4",
+    "z4",
+    "x5",
+    "y5"
+  ],
+  "parameter_values": [
+    5.6,
+    1.598214,
+    1.248214,
+    0.685,
+    0.347,
+    0.25,
+    0.072,
+    0.28,
+    0.947
+  ],
+  "mineral_name": null,
+  "minerals": {},
+  "compounds": [
+    "Na$_{2}$CrO$_{4}$"
+  ],
+  "legacy": false,
+  "notes": "Na$_{2}$SO$_{4}$ III",
+  "comments": "Na$_{2}$SO$_{4}$ forms in many anhydroous phases (Nord, 1973), which we will reference as we update this site. For now we have \\begin{itemize} \\item \\href{current_web_home_dir/A2B4C_oC28_63_ac_fg_c-001}{Na$_{2}$SO$_{4}$ III} (this structure) and \\item \\href{current_web_home_dir/A2B4C_oF56_70_e_h_a-001}{Thenardite (Na$_{2}$SO$_{4}$ V, $H1_{7}$)}. \\end{itemize} ~ \\vspace{-.25in} \n (Frevel, 1940) put this structure in the $Pbnn$ setting of space group \\#52, but AFLOW shows that the positions of the atoms are consistent with the higher symmetry $Cmcm$ \\#63 space group.  Transforming from $Pbnn$ to $Cmcm$ halves the size of the unit cell. \n The date for this structure was taken at room temperature. \n The lattice constants in the ICSD differ slightly (less than 1\\%) from the published values in (Frevel, 1940). Ordinarily we would use the published values, but since there is a space group shift here we decided to use the ICSD values to avoid confusion."
 }

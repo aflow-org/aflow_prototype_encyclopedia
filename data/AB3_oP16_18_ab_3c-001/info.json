@@ -1,45 +1,45 @@
 {
-    "uid": "69TS",
-    "label": "AB3_oP16_18_ab_3c-001",
-    "alias": [
-        "AB3_oP16_18_ab_3c"
-    ],
-    "title": "BaS$_{3}$ (original $D0_{17}$) Structure",
-    "icsd": 26765,
-    "ccdc": null,
-    "prototype": "BaS3",
-    "prototype_tex": "BaS$_{3}$",
-    "number_of_species": 2,
-    "pearson_symbol": "oP16",
-    "space_group_number": 18,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 1,
-    "parameter_symbols": [
-	"a",
-	"b/a",
-	"c/a",
-	"z1",
-	"z2",
-	"x3",
-	"y3",
-	"z3",
-	"x4",
-	"y4",
-	"z4",
-	"x5",
-	"y5",
-	"z5"
-    ],
-    "parameter_values": [
-	8.32,
-	1.15865,
-	0.579327
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": "Original $D0_{17}$",
-    "comments": "(Gottfried, 1938) identified this as the $D0_{17}$ structure, but (Parth\\'{e}, 1993) gave that designation to \\href{current_web_home_dir/AB3_tP8_113_a_ce-001}{$P\\overline{4}2_{1}m$ \\#113 BaS$_{3}$}."
+  "uid": "69TS",
+  "label": "AB3_oP16_18_ab_3c-001",
+  "alias": [
+    "AB3_oP16_18_ab_3c"
+  ],
+  "title": "BaS$_{3}$ (original $D0_{17}$) Structure",
+  "icsd": 26765,
+  "ccdc": 1602149,
+  "prototype": "BaS3",
+  "prototype_tex": "BaS$_{3}$",
+  "number_of_species": 2,
+  "pearson_symbol": "oP16",
+  "space_group_number": 18,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "z1",
+    "z2",
+    "x3",
+    "y3",
+    "z3",
+    "x4",
+    "y4",
+    "z4",
+    "x5",
+    "y5",
+    "z5"
+  ],
+  "parameter_values": [
+    8.32,
+    1.15865,
+    0.579327
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "Original $D0_{17}$",
+  "comments": "(Gottfried, 1938) identified this as the $D0_{17}$ structure, but (Parth\\'{e}, 1993) gave that designation to \\href{current_web_home_dir/AB3_tP8_113_a_ce-001}{$P\\overline{4}2_{1}m$ \\#113 BaS$_{3}$}."
 }

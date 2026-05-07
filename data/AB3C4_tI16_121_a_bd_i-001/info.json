@@ -1,42 +1,42 @@
 {
-    "uid": "3FZ9",
-    "label": "AB3C4_tI16_121_a_bd_i-001",
-    "alias": null,
-    "title": "Luzonite (Cu$_{3}$AsS$_{4}$) Structure",
-    "icsd": 26838,
-    "ccdc": 1602217,
-    "prototype": "AsCu3S4",
-    "prototype_tex": "AsCu$_{3}$S$_{4}$",
-    "number_of_species": 3,
-    "pearson_symbol": "tI16",
-    "space_group_number": 121,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x4",
-	"z4"
-    ],
-    "parameter_values": [
-	5.33,
-	1.98311,
-	0.2442,
-	0.1248
-    ],
-    "mineral_name": "luzonite",
-    "minerals": null,
-    "compounds": [
-	"Ag$_{3}$VO$_{4}$",
-	"Cu$_{3}$SbS$_{4}$",
-	"Cu$_{3}$SbSe$_{4}$",
-	"Cu$_{3}$AsSe$_{4}$",
-	"Cu$_{3}$FeS$_{4}$",
-	"Cu$_{3}$VO$_{4}$",
-	"Si$_{3}$NiP$_{4}$"
-    ],
-    "legacy": false,
-    "notes": "Luzonite",
-    "comments": "The sample studied by (Marumo, 1967) had composition Cu$_{3}$[As$_{0.685}$Sb$_{0.315}$]S$_{4}$. \n Cu$_{3}$AsS$_{4}$ can also be found as orthorhombic \\href{current_web_home_dir/AB3C4_oP16_31_a_ab_2ab-001}{enargite ($H2_{5}$)}. \n this is the ternary form of \\href{current_web_home_dir/A2BC4D_tI16_121_d_a_i_b-001}{stannite (Cu$_{2}$FeS$_{4}$Sn), $H2_{6}$)}."
+  "uid": "3FZ9",
+  "label": "AB3C4_tI16_121_a_bd_i-001",
+  "alias": null,
+  "title": "Luzonite (Cu$_{3}$AsS$_{4}$) Structure",
+  "icsd": 26838,
+  "ccdc": 1602217,
+  "prototype": "AsCu3S4",
+  "prototype_tex": "AsCu$_{3}$S$_{4}$",
+  "number_of_species": 3,
+  "pearson_symbol": "tI16",
+  "space_group_number": 121,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x4",
+    "z4"
+  ],
+  "parameter_values": [
+    5.33,
+    1.98311,
+    0.2442,
+    0.1248
+  ],
+  "mineral_name": "luzonite",
+  "minerals": null,
+  "compounds": [
+    "Ag$_{3}$VO$_{4}$",
+    "Cu$_{3}$SbS$_{4}$",
+    "Cu$_{3}$SbSe$_{4}$",
+    "Cu$_{3}$AsSe$_{4}$",
+    "Cu$_{3}$FeS$_{4}$",
+    "Cu$_{3}$VO$_{4}$",
+    "Si$_{3}$NiP$_{4}$"
+  ],
+  "legacy": false,
+  "notes": "Luzonite",
+  "comments": "The sample studied by (Marumo, 1967) had composition Cu$_{3}$[As$_{0.685}$Sb$_{0.315}$]S$_{4}$. \n Cu$_{3}$AsS$_{4}$ can also be found as orthorhombic \\href{current_web_home_dir/AB3C4_oP16_31_a_ab_2ab-001}{enargite ($H2_{5}$)}. \n this is the ternary form of \\href{current_web_home_dir/A2BC4D_tI16_121_d_a_i_b-001}{stannite (Cu$_{2}$FeS$_{4}$Sn), $H2_{6}$)}."
 }

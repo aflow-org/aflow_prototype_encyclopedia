@@ -1,34 +1,34 @@
 {
-    "uid": "DV64",
-    "label": "AB2C4D_tP16_125_a_cd_m_b-001",
-    "alias": null,
-    "title": "SrFe$_{2}$S$_{4}$ Structure",
-    "icsd": 71096,
-    "ccdc": 1632004,
-    "prototype": "Fe2S4Sr",
-    "prototype_tex": "Fe$_{2}$S$_{4}$Sr",
-    "number_of_species": 4,
-    "pearson_symbol": "tP16",
-    "space_group_number": 125,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x5",
-	"z5"
-    ],
-    "parameter_values": [
-	7.91,
-	0.695322,
-	0.409,
-	0.75
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": null,
-    "comments": "(Boller, 1978) (ICSD 41720) place this structure in space group $P\\overline{4}b2$ \\#117.  If we accept the coordinates of the sulfur atoms as correct, then $x_{S} = y_{S}$ and and the structure is actually in space group $P4/nbm$ \\#125, as shown by (Cenzual, 1991) (ICSD 71096).  We show this configuration here. \n The (2a) strontium site is 75\\% filled, while the (2b) site is 25\\% filled.  If both sites are equally filled this system is in the \\href{current_web_home_dir/AB3_tI16_140_b_ah-001}{SiU$_{3}$ ($D0_{c}$) structure} with space group $I4/mcm$ \\#140. \n We highlight the difference in the strontium sites by replacing the second strontium atom by calcium.  This changes the AFLOW label of the system."
+  "uid": "DV64",
+  "label": "AB2C4D_tP16_125_a_cd_m_b-001",
+  "alias": null,
+  "title": "SrFe$_{2}$S$_{4}$ Structure",
+  "icsd": 71096,
+  "ccdc": 1632004,
+  "prototype": "Fe2S4Sr",
+  "prototype_tex": "Fe$_{2}$S$_{4}$Sr",
+  "number_of_species": 4,
+  "pearson_symbol": "tP16",
+  "space_group_number": 125,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x5",
+    "z5"
+  ],
+  "parameter_values": [
+    7.91,
+    0.695322,
+    0.409,
+    0.75
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": "(Boller, 1978) (ICSD 41720) place this structure in space group $P\\overline{4}b2$ \\#117.  If we accept the coordinates of the sulfur atoms as correct, then $x_{S} = y_{S}$ and and the structure is actually in space group $P4/nbm$ \\#125, as shown by (Cenzual, 1991) (ICSD 71096).  We show this configuration here. \n The (2a) strontium site is 75\\% filled, while the (2b) site is 25\\% filled.  If both sites are equally filled this system is in the \\href{current_web_home_dir/AB3_tI16_140_b_ah-001}{SiU$_{3}$ ($D0_{c}$) structure} with space group $I4/mcm$ \\#140. \n We highlight the difference in the strontium sites by replacing the second strontium atom by calcium.  This changes the AFLOW label of the system."
 }

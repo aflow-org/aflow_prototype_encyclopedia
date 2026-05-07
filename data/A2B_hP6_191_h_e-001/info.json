@@ -1,36 +1,36 @@
 {
-    "uid": "X9YK",
-    "label": "A2B_hP6_191_h_e-001",
-    "alias": [
-        "A2B_hP6_191_h_e"
-    ],
-    "title": "Cu$_{2}$Te ($C_{h}$) Structure",
-    "icsd": 655706,
-    "ccdc": null,
-    "prototype": "Cu2Te",
-    "prototype_tex": "Cu$_{2}$Te",
-    "number_of_species": 2,
-    "pearson_symbol": "hP6",
-    "space_group_number": 191,
-    "strukturbericht": "Ch",
-    "strukturbericht_tex": "$C_{h}$",
-    "part": 1,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z1",
-	"z2"
-    ],
-    "parameter_values": [
-	4.237,
-	1.71041,
-	0.306,
-	0.16
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": "$C_{h}$",
-    "comments": null
+  "uid": "X9YK",
+  "label": "A2B_hP6_191_h_e-001",
+  "alias": [
+    "A2B_hP6_191_h_e"
+  ],
+  "title": "Cu$_{2}$Te ($C_{h}$) Structure",
+  "icsd": 655706,
+  "ccdc": 1765882,
+  "prototype": "Cu2Te",
+  "prototype_tex": "Cu$_{2}$Te",
+  "number_of_species": 2,
+  "pearson_symbol": "hP6",
+  "space_group_number": 191,
+  "strukturbericht": "Ch",
+  "strukturbericht_tex": "$C_{h}$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z1",
+    "z2"
+  ],
+  "parameter_values": [
+    4.237,
+    1.71041,
+    0.306,
+    0.16
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "$C_{h}$",
+  "comments": null
 }

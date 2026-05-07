@@ -1,51 +1,51 @@
 {
-    "uid": "TJ17",
-    "label": "A10B4C3_tI34_139_c2eg_2e_ae-001",
-    "alias": [
-        "A10B4C3_tI34_139_c2eg_2e_ae"
-    ],
-    "title": "Sr$_{4}$Ti$_{3}$O$_{10}$ Structure",
-    "icsd": 34630,
-    "ccdc": null,
-    "prototype": "O10Sr4Ti3",
-    "prototype_tex": "O$_{10}$Sr$_{4}$Ti$_{3}$",
-    "number_of_species": 3,
-    "pearson_symbol": "tI34",
-    "space_group_number": 139,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z3",
-	"z4",
-	"z5",
-	"z6",
-	"z7",
-	"z8"
-    ],
-    "parameter_values": [
-	3.9,
-	7.20513,
-	0.068,
-	0.204,
-	0.432,
-	0.296,
-	0.136,
-	0.136
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "La$_{4}$Ni$_{3}$O$_{10}$",
-        "Sr$_{4}$V$_{3}$O$_{10}$",
-        "K$_{2}$La$_{2}$Ti$_{3}$O$_{10}$",
-        "Li$_{2}$Eu$_{2}$Ti$_{3}$O$_{10}$",
-        "Na$_{2}$Eu$_{2}$Ti$_{3}$O$_{10}$",
-        "Na$_{2}$Sr$_{2}$Nb$_{2}$MnO$_{10}$"
-    ],
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "TJ17",
+  "label": "A10B4C3_tI34_139_c2eg_2e_ae-001",
+  "alias": [
+    "A10B4C3_tI34_139_c2eg_2e_ae"
+  ],
+  "title": "Sr$_{4}$Ti$_{3}$O$_{10}$ Structure",
+  "icsd": 34630,
+  "ccdc": 1607010,
+  "prototype": "O10Sr4Ti3",
+  "prototype_tex": "O$_{10}$Sr$_{4}$Ti$_{3}$",
+  "number_of_species": 3,
+  "pearson_symbol": "tI34",
+  "space_group_number": 139,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z3",
+    "z4",
+    "z5",
+    "z6",
+    "z7",
+    "z8"
+  ],
+  "parameter_values": [
+    3.9,
+    7.20513,
+    0.068,
+    0.204,
+    0.432,
+    0.296,
+    0.136,
+    0.136
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "La$_{4}$Ni$_{3}$O$_{10}$",
+    "Sr$_{4}$V$_{3}$O$_{10}$",
+    "K$_{2}$La$_{2}$Ti$_{3}$O$_{10}$",
+    "Li$_{2}$Eu$_{2}$Ti$_{3}$O$_{10}$",
+    "Na$_{2}$Eu$_{2}$Ti$_{3}$O$_{10}$",
+    "Na$_{2}$Sr$_{2}$Nb$_{2}$MnO$_{10}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

@@ -1,36 +1,36 @@
 {
-    "uid": "1GTY",
-    "label": "AB_tI24_141_ae_be-001",
-    "alias": null,
-    "title": "$\\beta$-LiSn Structure",
-    "icsd": 107516,
-    "ccdc": 1665239,
-    "prototype": "LiSn",
-    "prototype_tex": "LiSn",
-    "number_of_species": 2,
-    "pearson_symbol": "tI24",
-    "space_group_number": 141,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z3",
-	"z4"
-    ],
-    "parameter_values": [
-	4.387,
-	5.81514,
-	0.707,
-	0.5467
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-	"LiGe"
-    ],
-    "legacy": false,
-    "notes": "$\\beta$-LiSn",
-    "comments": "This is apparently the high-temperature structure of LiSn.  Below 470K LiSn is in the \\href{current_web_home_dir/AB_mP6_10_bn_cm-001}{monoclinic $\\alpha$-LiSn structure} (Villars, 2018).\n We have shifted the origin so that a lithium atom is on the (4a) site."
+  "uid": "1GTY",
+  "label": "AB_tI24_141_ae_be-001",
+  "alias": null,
+  "title": "$\\beta$-LiSn Structure",
+  "icsd": 107516,
+  "ccdc": 1665239,
+  "prototype": "LiSn",
+  "prototype_tex": "LiSn",
+  "number_of_species": 2,
+  "pearson_symbol": "tI24",
+  "space_group_number": 141,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z3",
+    "z4"
+  ],
+  "parameter_values": [
+    4.387,
+    5.81514,
+    0.707,
+    0.5467
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "LiGe"
+  ],
+  "legacy": false,
+  "notes": "$\\beta$-LiSn",
+  "comments": "This is apparently the high-temperature structure of LiSn.  Below 470K LiSn is in the \\href{current_web_home_dir/AB_mP6_10_bn_cm-001}{monoclinic $\\alpha$-LiSn structure} (Villars, 2018).\n We have shifted the origin so that a lithium atom is on the (4a) site."
 }

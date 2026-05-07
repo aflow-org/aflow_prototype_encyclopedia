@@ -1,42 +1,42 @@
 {
-    "uid": "J362",
-    "label": "ABC2_oI16_23_ac_e_k-001",
-    "alias": [
-        "ABC2_oI16_23_ab_i_k"
-    ],
-    "title": "NaFeS$_{2}$ Structure",
-    "icsd": 37026,
-    "ccdc": null,
-    "prototype": "FeNaS2",
-    "prototype_tex": "FeNaS$_{2}$",
-    "number_of_species": 3,
-    "pearson_symbol": "oI16",
-    "space_group_number": 23,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-	"a",
-	"b/a",
-	"c/a",
-	"x3",
-	"x4",
-	"y4",
-	"z4"
-    ],
-    "parameter_values": [
-	10.83,
-	0.577101,
-	0.498615,
-	0.72,
-	0.885,
-	0.2,
-	0.25
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "J362",
+  "label": "ABC2_oI16_23_ac_e_k-001",
+  "alias": [
+    "ABC2_oI16_23_ab_i_k"
+  ],
+  "title": "NaFeS$_{2}$ Structure",
+  "icsd": 37026,
+  "ccdc": 1608390,
+  "prototype": "FeNaS2",
+  "prototype_tex": "FeNaS$_{2}$",
+  "number_of_species": 3,
+  "pearson_symbol": "oI16",
+  "space_group_number": 23,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "x3",
+    "x4",
+    "y4",
+    "z4"
+  ],
+  "parameter_values": [
+    10.83,
+    0.577101,
+    0.498615,
+    0.72,
+    0.885,
+    0.2,
+    0.25
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

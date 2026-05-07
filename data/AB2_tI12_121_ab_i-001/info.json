@@ -1,36 +1,36 @@
 {
-    "uid": "1BSH",
-    "label": "AB2_tI12_121_ab_i-001",
-    "alias": [
-        "AB2_tI12_121_ab_i"
-    ],
-    "title": "C17 (Fe$_{2}$B) Structure ({\\em Obsolete})",
-    "icsd": 16809,
-    "ccdc": null,
-    "prototype": "BFe2",
-    "prototype_tex": "BFe$_{2}$",
-    "number_of_species": 2,
-    "pearson_symbol": "tI12",
-    "space_group_number": 121,
-    "strukturbericht": "C17",
-    "strukturbericht_tex": "$C17$",
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x3",
-	"z3"
-    ],
-    "parameter_values": [
-	5.078,
-	0.831627,
-	0.16667,
-	0.2
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": "$C17$ ({\\em Obsolete})",
-    "comments": "(Wever, 1930) placed this structure in space group $I42m$ \\#121, and this was used to designate the structure as $C17$ in (Ewald, 1931).  However, even then it was recognized that changing $z_{3}$ from the value of 0.2 assigned by Wever to 1/4 would add an inversion symmetry to the crystal, change the space group to $I4/mcm$ \\#140, and make the structure look very much like \\href{current_web_home_dir/A2B_tI12_140_h_a-001}{Al$_{2}$Cu, {\\em Strukturbericht} $C16$}. This has become the accepted structure, as in (Kapfenberger, 2006), so the label $C17$ is depreciated.  We retain it here for historical interest."
+  "uid": "1BSH",
+  "label": "AB2_tI12_121_ab_i-001",
+  "alias": [
+    "AB2_tI12_121_ab_i"
+  ],
+  "title": "C17 (Fe$_{2}$B) Structure ({\\em Obsolete})",
+  "icsd": 16809,
+  "ccdc": 1597347,
+  "prototype": "BFe2",
+  "prototype_tex": "BFe$_{2}$",
+  "number_of_species": 2,
+  "pearson_symbol": "tI12",
+  "space_group_number": 121,
+  "strukturbericht": "C17",
+  "strukturbericht_tex": "$C17$",
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x3",
+    "z3"
+  ],
+  "parameter_values": [
+    5.078,
+    0.831627,
+    0.16667,
+    0.2
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "$C17$ ({\\em Obsolete})",
+  "comments": "(Wever, 1930) placed this structure in space group $I42m$ \\#121, and this was used to designate the structure as $C17$ in (Ewald, 1931).  However, even then it was recognized that changing $z_{3}$ from the value of 0.2 assigned by Wever to 1/4 would add an inversion symmetry to the crystal, change the space group to $I4/mcm$ \\#140, and make the structure look very much like \\href{current_web_home_dir/A2B_tI12_140_h_a-001}{Al$_{2}$Cu, {\\em Strukturbericht} $C16$}. This has become the accepted structure, as in (Kapfenberger, 2006), so the label $C17$ is depreciated.  We retain it here for historical interest."
 }

@@ -1,39 +1,39 @@
 {
-    "uid": "416G",
-    "label": "AB4C_tP6_123_b_eg_c-001",
-    "alias": [
-        "AB4C_tP6_123_d_eh_a"
-    ],
-    "title": "TlAlF$_{4}$ ($H0_{8}$) Structure",
-    "icsd": 25615,
-    "ccdc": null,
-    "prototype": "AlF4Tl",
-    "prototype_tex": "AlF$_{4}$Tl",
-    "number_of_species": 3,
-    "pearson_symbol": "tP6",
-    "space_group_number": 123,
-    "strukturbericht": "H08",
-    "strukturbericht_tex": "$H0_{8}$",
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z4"
-    ],
-    "parameter_values": [
-	3.61,
-	1.76454,
-	0.215
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "$\\beta$-RbFeF$_{4}$",
-        "CsFeF$_{4}$",
-        "KAlF$_{4}$",
-        "RbAlF$_{4}$"
-    ],
-    "legacy": false,
-    "notes": "$H0_{8}$",
-    "comments": null
+  "uid": "416G",
+  "label": "AB4C_tP6_123_b_eg_c-001",
+  "alias": [
+    "AB4C_tP6_123_d_eh_a"
+  ],
+  "title": "TlAlF$_{4}$ ($H0_{8}$) Structure",
+  "icsd": 25615,
+  "ccdc": 1601265,
+  "prototype": "AlF4Tl",
+  "prototype_tex": "AlF$_{4}$Tl",
+  "number_of_species": 3,
+  "pearson_symbol": "tP6",
+  "space_group_number": 123,
+  "strukturbericht": "H08",
+  "strukturbericht_tex": "$H0_{8}$",
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z4"
+  ],
+  "parameter_values": [
+    3.61,
+    1.76454,
+    0.215
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "$\\beta$-RbFeF$_{4}$",
+    "CsFeF$_{4}$",
+    "KAlF$_{4}$",
+    "RbAlF$_{4}$"
+  ],
+  "legacy": false,
+  "notes": "$H0_{8}$",
+  "comments": null
 }

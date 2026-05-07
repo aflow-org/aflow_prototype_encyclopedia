@@ -1,49 +1,49 @@
 {
-    "uid": "AB10",
-    "label": "A2B5_oI28_72_j_afj-001",
-    "alias": [
-        "A2B5_oI28_72_j_bfj"
-    ],
-    "title": "Ga$_{2}$Mg$_{5}$ ($D8_{g}$) Structure",
-    "icsd": 103794,
-    "ccdc": null,
-    "prototype": "Ga2Mg5",
-    "prototype_tex": "Ga$_{2}$Mg$_{5}$",
-    "number_of_species": 2,
-    "pearson_symbol": "oI28",
-    "space_group_number": 72,
-    "strukturbericht": "D8g",
-    "strukturbericht_tex": "$D8_{g}$",
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"b/a",
-	"c/a",
-	"x2",
-	"x3",
-	"y3",
-	"x4",
-	"y4"
-    ],
-    "parameter_values": [
-	13.7,
-	0.511679,
-	0.439416,
-	0.76,
-	0.878,
-	0.255,
-	0.77,
-	0.345
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "As$_{2}$Cu$_{5}$",
-        "In$_{2}$Mg$_{5}$",
-        "Tl$_{2}$Mg$_{5}$",
-        "Mn$_{2}$Ge$_{5}$"
-    ],
-    "legacy": false,
-    "notes": "$D8_{g}$",
-    "comments": "We corrected an error in the Mg III (8j) coordinates and shifted the Mg I atoms from the (2b) to the (2a) site."
+  "uid": "AB10",
+  "label": "A2B5_oI28_72_j_afj-001",
+  "alias": [
+    "A2B5_oI28_72_j_bfj"
+  ],
+  "title": "Ga$_{2}$Mg$_{5}$ ($D8_{g}$) Structure",
+  "icsd": 103794,
+  "ccdc": 1661729,
+  "prototype": "Ga2Mg5",
+  "prototype_tex": "Ga$_{2}$Mg$_{5}$",
+  "number_of_species": 2,
+  "pearson_symbol": "oI28",
+  "space_group_number": 72,
+  "strukturbericht": "D8g",
+  "strukturbericht_tex": "$D8_{g}$",
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "x2",
+    "x3",
+    "y3",
+    "x4",
+    "y4"
+  ],
+  "parameter_values": [
+    13.7,
+    0.511679,
+    0.439416,
+    0.76,
+    0.878,
+    0.255,
+    0.77,
+    0.345
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "As$_{2}$Cu$_{5}$",
+    "In$_{2}$Mg$_{5}$",
+    "Tl$_{2}$Mg$_{5}$",
+    "Mn$_{2}$Ge$_{5}$"
+  ],
+  "legacy": false,
+  "notes": "$D8_{g}$",
+  "comments": "We corrected an error in the Mg III (8j) coordinates and shifted the Mg I atoms from the (2b) to the (2a) site."
 }

@@ -1,34 +1,34 @@
 {
-    "uid": "V61M",
-    "label": "A4B_cI120_230_h_c-001",
-    "alias": null,
-    "title": "RhBi$_{4}$ Structure",
-    "icsd": 58854,
-    "ccdc": null,
-    "prototype": "Bi4Rh",
-    "prototype_tex": "Bi$_{4}$Rh",
-    "number_of_species": 2,
-    "pearson_symbol": "cI120",
-    "space_group_number": 230,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-	"a",
-	"x2",
-	"y2",
-	"z2"
-    ],
-    "parameter_values": [
-	14.928,
-	0.024,
-	0.43,
-	0.153
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": null,
-    "comments": "(Glagoleva, 1956) give three slightly different values for the location of the bismuth atoms.  We choose their final set of coordinates. The ICSD entry is from the earlier publication (Zhdanov, 1954)."
+  "uid": "V61M",
+  "label": "A4B_cI120_230_h_c-001",
+  "alias": null,
+  "title": "RhBi$_{4}$ Structure",
+  "icsd": 58854,
+  "ccdc": 1622850,
+  "prototype": "Bi4Rh",
+  "prototype_tex": "Bi$_{4}$Rh",
+  "number_of_species": 2,
+  "pearson_symbol": "cI120",
+  "space_group_number": 230,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "x2",
+    "y2",
+    "z2"
+  ],
+  "parameter_values": [
+    14.928,
+    0.024,
+    0.43,
+    0.153
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": "(Glagoleva, 1956) give three slightly different values for the location of the bismuth atoms.  We choose their final set of coordinates. The ICSD entry is from the earlier publication (Zhdanov, 1954)."
 }

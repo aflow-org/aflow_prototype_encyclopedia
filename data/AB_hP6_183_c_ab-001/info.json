@@ -1,35 +1,35 @@
 {
-    "uid": "C57U",
-    "label": "AB_hP6_183_c_ab-001",
-    "alias": [
-        "AB_hP6_183_c_ab"
-    ],
-    "title": "CrFe$_{3}$NiSn$_{5}$ Structure",
-    "icsd": 151719,
-    "ccdc": null,
-    "prototype": "CrFe3NiSn5",
-    "prototype_tex": "CrFe$_{3}$NiSn$_{5}$",
-    "number_of_species": 2,
-    "pearson_symbol": "hP6",
-    "space_group_number": 183,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z1",
-	"z2",
-	"z3"
-    ],
-    "parameter_values": [
-	5.3168,
-	0.832474
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": null,
-    "comments": "The sites labeled Fe are mixed occupation Fe$_{0.6}$Cr$_{0.2}$Ni$_{0.2}$. The Jmol image represents the M sites with ``Xx'' atoms. \n Space group $P6mm$ \\#183 allows an arbitrary choice for the origin of the $z$-axis.  Here we set the origin so that $z_{1} = 0$ for the Si-I (1a) site."
+  "uid": "C57U",
+  "label": "AB_hP6_183_c_ab-001",
+  "alias": [
+    "AB_hP6_183_c_ab"
+  ],
+  "title": "CrFe$_{3}$NiSn$_{5}$ Structure",
+  "icsd": 151719,
+  "ccdc": 1668536,
+  "prototype": "CrFe3NiSn5",
+  "prototype_tex": "CrFe$_{3}$NiSn$_{5}$",
+  "number_of_species": 2,
+  "pearson_symbol": "hP6",
+  "space_group_number": 183,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z1",
+    "z2",
+    "z3"
+  ],
+  "parameter_values": [
+    5.3168,
+    0.832474
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": "The sites labeled Fe are mixed occupation Fe$_{0.6}$Cr$_{0.2}$Ni$_{0.2}$. The Jmol image represents the M sites with ``Xx'' atoms. \n Space group $P6mm$ \\#183 allows an arbitrary choice for the origin of the $z$-axis.  Here we set the origin so that $z_{1} = 0$ for the Si-I (1a) site."
 }

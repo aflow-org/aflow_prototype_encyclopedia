@@ -1,41 +1,41 @@
 {
-    "uid": "00JM",
-    "label": "AB2C_tI16_139_e_ce_d-003",
-    "alias": null,
-    "title": "BaZnSb$_{2}$ Structure",
-    "icsd": 52694,
-    "ccdc": null,
-    "prototype": "BaSb2Zn",
-    "prototype_tex": "BaSb$_{2}$Zn",
-    "number_of_species": 3,
-    "pearson_symbol": "tI16",
-    "space_group_number": 139,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z3",
-	"z4"
-    ],
-    "parameter_values": [
-	4.584,
-	5.02836,
-	0.1202,
-	0.3175
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-	"BaCdBi$_{2}$",
-	"BaCdSb$_{2}$",
-	"BaMnSb$_{2}$",
-	"BaZnBi$_{2}$",
-	"SrCdBi$_{2}$",
-	"SrZnBi$_{2}$"
-    ],
-    "legacy": false,
-    "notes": null,
-    "comments": "Many authorities designate SrZnBi$_{2}$ as the prototype for this structure."
+  "uid": "00JM",
+  "label": "AB2C_tI16_139_e_ce_d-003",
+  "alias": null,
+  "title": "BaZnSb$_{2}$ Structure",
+  "icsd": 52694,
+  "ccdc": 1617425,
+  "prototype": "BaSb2Zn",
+  "prototype_tex": "BaSb$_{2}$Zn",
+  "number_of_species": 3,
+  "pearson_symbol": "tI16",
+  "space_group_number": 139,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z3",
+    "z4"
+  ],
+  "parameter_values": [
+    4.584,
+    5.02836,
+    0.1202,
+    0.3175
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "BaCdBi$_{2}$",
+    "BaCdSb$_{2}$",
+    "BaMnSb$_{2}$",
+    "BaZnBi$_{2}$",
+    "SrCdBi$_{2}$",
+    "SrZnBi$_{2}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "Many authorities designate SrZnBi$_{2}$ as the prototype for this structure."
 }

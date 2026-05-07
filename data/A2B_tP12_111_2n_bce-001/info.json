@@ -1,40 +1,40 @@
 {
-    "uid": "YKCX",
-    "label": "A2B_tP12_111_2n_bce-001",
-    "alias": [
-        "A2B_tP12_111_2n_adf"
-    ],
-    "title": "MnF$_{2}$ Structure",
-    "icsd": 12167,
-    "ccdc": null,
-    "prototype": "F2Mn",
-    "prototype_tex": "F$_{2}$Mn",
-    "number_of_species": 2,
-    "pearson_symbol": "tP12",
-    "space_group_number": 111,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x4",
-	"z4",
-	"x5",
-	"z5"
-    ],
-    "parameter_values": [
-	5.122,
-	1.02616,
-	0.205,
-	0.78,
-	0.301,
-	0.122
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": null,
-    "comments": "This is the high pressure phase of MnF$_{2}$, with data taken at 200$^\\circ$C and 35 kbar.  At standard temperature and pressure MnF$_{2}$ is in the \\href{current_web_home_dir/A2B_tP6_136_f_a-001}{rutile ($C4$) structure}. \n (Yagi, 1979) consistently refers to space group $P\\overline{4}2m$ as ``\\#113,'' but it is actually \\#111, and the Wyckoff positions are consistent with $P\\overline{4}2m$ \\#111."
+  "uid": "YKCX",
+  "label": "A2B_tP12_111_2n_bce-001",
+  "alias": [
+    "A2B_tP12_111_2n_adf"
+  ],
+  "title": "MnF$_{2}$ Structure",
+  "icsd": 12167,
+  "ccdc": 1595411,
+  "prototype": "F2Mn",
+  "prototype_tex": "F$_{2}$Mn",
+  "number_of_species": 2,
+  "pearson_symbol": "tP12",
+  "space_group_number": 111,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x4",
+    "z4",
+    "x5",
+    "z5"
+  ],
+  "parameter_values": [
+    5.122,
+    1.02616,
+    0.205,
+    0.78,
+    0.301,
+    0.122
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": "This is the high pressure phase of MnF$_{2}$, with data taken at 200$^\\circ$C and 35 kbar.  At standard temperature and pressure MnF$_{2}$ is in the \\href{current_web_home_dir/A2B_tP6_136_f_a-001}{rutile ($C4$) structure}. \n (Yagi, 1979) consistently refers to space group $P\\overline{4}2m$ as ``\\#113,'' but it is actually \\#111, and the Wyckoff positions are consistent with $P\\overline{4}2m$ \\#111."
 }

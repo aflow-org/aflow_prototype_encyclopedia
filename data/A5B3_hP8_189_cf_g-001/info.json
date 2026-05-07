@@ -1,37 +1,37 @@
 {
-    "uid": "K8CX",
-    "label": "A5B3_hP8_189_cf_g-001",
-    "alias": null,
-    "title": "Th$_{3}$Pd$_{5}$ Structure",
-    "icsd": 649755,
-    "ccdc": null,
-    "prototype": "Pd5Th3",
-    "prototype_tex": "Pd$_{5}$Th$_{3}$",
-    "number_of_species": 2,
-    "pearson_symbol": "hP8",
-    "space_group_number": 189,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x2",
-	"x3"
-    ],
-    "parameter_values": [
-	7.162,
-	0.545658,
-	0.75,
-	0.33
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-	"Th$_{3}$Pt$_{5}$",
-	"Yb$_{3}$Ge$_{5}$"
-    ],
-    "legacy": false,
-    "notes": null,
-    "comments": "The ICSD entry uses the data from (Thomson, 1963), but relabels palladium as platinum and puts the thorium atom on the (3f) site with palladium/platinum on the (3g) site.  We use the published data."
+  "uid": "K8CX",
+  "label": "A5B3_hP8_189_cf_g-001",
+  "alias": null,
+  "title": "Th$_{3}$Pd$_{5}$ Structure",
+  "icsd": 649755,
+  "ccdc": 1763878,
+  "prototype": "Pd5Th3",
+  "prototype_tex": "Pd$_{5}$Th$_{3}$",
+  "number_of_species": 2,
+  "pearson_symbol": "hP8",
+  "space_group_number": 189,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x2",
+    "x3"
+  ],
+  "parameter_values": [
+    7.162,
+    0.545658,
+    0.75,
+    0.33
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Th$_{3}$Pt$_{5}$",
+    "Yb$_{3}$Ge$_{5}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "The ICSD entry uses the data from (Thomson, 1963), but relabels palladium as platinum and puts the thorium atom on the (3f) site with palladium/platinum on the (3g) site.  We use the published data."
 }

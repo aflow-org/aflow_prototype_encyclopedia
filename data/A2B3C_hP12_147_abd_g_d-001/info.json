@@ -1,42 +1,42 @@
 {
-    "uid": "H9Z3",
-    "label": "A2B3C_hP12_147_abd_g_d-001",
-    "alias": [
-        "A2B3C_hP12_147_abd_g_d"
-    ],
-    "title": "Na$_{2}$SO$_{3}$ ($G3_{2}$) Structure",
-    "icsd": 31816,
-    "ccdc": 1605775,
-    "prototype": "Na2O3S",
-    "prototype_tex": "Na$_{2}$O$_{3}$S",
-    "number_of_species": 3,
-    "pearson_symbol": "hP12",
-    "space_group_number": 147,
-    "strukturbericht": "G32",
-    "strukturbericht_tex": "$G3_{2}$",
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z3",
-	"z4",
-	"x5",
-	"y5",
-	"z5"
-    ],
-    "parameter_values": [
-	5.441,
-	1.12718,
-	0.67,
-	0.17,
-	0.14,
-	0.4,
-	0.25
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": "$G3_{2}$",
-    "comments": null
+  "uid": "H9Z3",
+  "label": "A2B3C_hP12_147_abd_g_d-001",
+  "alias": [
+    "A2B3C_hP12_147_abd_g_d"
+  ],
+  "title": "Na$_{2}$SO$_{3}$ ($G3_{2}$) Structure",
+  "icsd": 31816,
+  "ccdc": 1605775,
+  "prototype": "Na2O3S",
+  "prototype_tex": "Na$_{2}$O$_{3}$S",
+  "number_of_species": 3,
+  "pearson_symbol": "hP12",
+  "space_group_number": 147,
+  "strukturbericht": "G32",
+  "strukturbericht_tex": "$G3_{2}$",
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z3",
+    "z4",
+    "x5",
+    "y5",
+    "z5"
+  ],
+  "parameter_values": [
+    5.441,
+    1.12718,
+    0.67,
+    0.17,
+    0.14,
+    0.4,
+    0.25
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "$G3_{2}$",
+  "comments": null
 }

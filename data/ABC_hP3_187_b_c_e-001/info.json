@@ -1,46 +1,46 @@
 {
-    "uid": "NKMF",
-    "label": "ABC_hP3_187_b_c_e-001",
-    "alias": [
-        "ABC_hP3_187_a_d_f"
-    ],
-    "title": "BaPtSb Structure",
-    "icsd": 59186,
-    "ccdc": null,
-    "prototype": "BaPtSb",
-    "prototype_tex": "BaPtSb",
-    "number_of_species": 3,
-    "pearson_symbol": "hP3",
-    "space_group_number": 187,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 1,
-    "parameter_symbols": [
-	"a",
-	"c/a"
-    ],
-    "parameter_values": [
-	4.535,
-	1.07696
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "AsKZn",
-        "PtSbSr",
-        "DyPPt",
-        "GdPPt",
-        "KSbZn",
-        "LuPPt",
-        "PPtSm",
-        "PPtTb",
-        "PPtTm",
-        "PPtY",
-        "PPtYb",
-        "LiBaSi",
-        "KZnAs"
-    ],
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "NKMF",
+  "label": "ABC_hP3_187_b_c_e-001",
+  "alias": [
+    "ABC_hP3_187_a_d_f"
+  ],
+  "title": "BaPtSb Structure",
+  "icsd": 59186,
+  "ccdc": 1623052,
+  "prototype": "BaPtSb",
+  "prototype_tex": "BaPtSb",
+  "number_of_species": 3,
+  "pearson_symbol": "hP3",
+  "space_group_number": 187,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a"
+  ],
+  "parameter_values": [
+    4.535,
+    1.07696
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "AsKZn",
+    "PtSbSr",
+    "DyPPt",
+    "GdPPt",
+    "KSbZn",
+    "LuPPt",
+    "PPtSm",
+    "PPtTb",
+    "PPtTm",
+    "PPtY",
+    "PPtYb",
+    "LiBaSi",
+    "KZnAs"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

@@ -1,38 +1,38 @@
 {
-    "uid": "K216",
-    "label": "A2B3C6D_hP12_164_d_e_i_a-001",
-    "alias": null,
-    "title": "Kapellasite (Cu$_{3}$Zn(OH)$_{6}$Cl$_{2}$) Structure",
-    "icsd": 157870,
-    "ccdc": null,
-    "prototype": "Cl2Cu3(OH)6Zn",
-    "prototype_tex": "Cl$_{2}$Cu$_{3}$(OH)$_{6}$Zn",
-    "number_of_species": 4,
-    "pearson_symbol": "hP12",
-    "space_group_number": 164,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z2",
-	"x4",
-	"z4"
-    ],
-    "parameter_values": [
-	6.3,
-	0.91,
-	0.6373,
-	0.1772,
-	0.1546
-    ],
-    "mineral_name": "kapellasite",
-    "minerals": null,
-    "compounds": [
-        "Cu$_{3}$In(OH)$_{6}$Cl$_{2}$"
-    ],
-    "legacy": false,
-    "notes": "Kapellasite",
-    "comments": "Approximately 3\\% of the OH radicals are replace by chlorine atoms.  We use ``O'' to represent all the OH/Cl sites. \n (Krause, 2006) placed the zinc atom at the (1b) Wyckoff position, (0 0 1/2).  We shifted the origin of the structure so that the zinc atom is at the (1a) Wyckoff site. \n Cu$_{3}$Zn(OH)$_{6}$Cl$_{2}$ can also be found as \\href{current_web_home_dir/A2B3C6D6E_hR18_166_c_d_h_h_a-001}{herbertsmithite}."
+  "uid": "K216",
+  "label": "A2B3C6D_hP12_164_d_e_i_a-001",
+  "alias": null,
+  "title": "Kapellasite (Cu$_{3}$Zn(OH)$_{6}$Cl$_{2}$) Structure",
+  "icsd": 157870,
+  "ccdc": 1674400,
+  "prototype": "Cl2Cu3(OH)6Zn",
+  "prototype_tex": "Cl$_{2}$Cu$_{3}$(OH)$_{6}$Zn",
+  "number_of_species": 4,
+  "pearson_symbol": "hP12",
+  "space_group_number": 164,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z2",
+    "x4",
+    "z4"
+  ],
+  "parameter_values": [
+    6.3,
+    0.91,
+    0.6373,
+    0.1772,
+    0.1546
+  ],
+  "mineral_name": "kapellasite",
+  "minerals": null,
+  "compounds": [
+    "Cu$_{3}$In(OH)$_{6}$Cl$_{2}$"
+  ],
+  "legacy": false,
+  "notes": "Kapellasite",
+  "comments": "Approximately 3\\% of the OH radicals are replace by chlorine atoms.  We use ``O'' to represent all the OH/Cl sites. \n (Krause, 2006) placed the zinc atom at the (1b) Wyckoff position, (0 0 1/2).  We shifted the origin of the structure so that the zinc atom is at the (1a) Wyckoff site. \n Cu$_{3}$Zn(OH)$_{6}$Cl$_{2}$ can also be found as \\href{current_web_home_dir/A2B3C6D6E_hR18_166_c_d_h_h_a-001}{herbertsmithite}."
 }

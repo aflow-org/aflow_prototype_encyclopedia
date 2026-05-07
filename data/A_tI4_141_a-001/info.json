@@ -1,34 +1,34 @@
 {
-    "uid": "2BUF",
-    "label": "A_tI4_141_a-001",
-    "alias": [
-        "A_tI4_141_a"
-    ],
-    "title": "$\\beta$-Sn ($A5$) Structure",
-    "icsd": 52486,
-    "ccdc": 1617232,
-    "prototype": "Sn",
-    "prototype_tex": "Sn",
-    "number_of_species": 1,
-    "pearson_symbol": "tI4",
-    "space_group_number": 141,
-    "strukturbericht": "A5",
-    "strukturbericht_tex": "$A5$",
-    "part": 1,
-    "parameter_symbols": [
-	"a",
-	"c/a"
-    ],
-    "parameter_values": [
-	5.8318,
-	0.545612
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "$\\beta$-Ge"
-    ],
-    "legacy": false,
-    "notes": "$A5$, $\\beta$-Sn",
-    "comments": "When $c/a = \\sqrt{2}$ this structure is equivalent to \\href{current_web_home_dir/A_cF8_227_a-001}{diamond ($A4$)}. \n The binary version of this structure is the \\href{current_web_home_dir/AB_tI4_119_c_a-001}{GaSb (II) structure}."
+  "uid": "2BUF",
+  "label": "A_tI4_141_a-001",
+  "alias": [
+    "A_tI4_141_a"
+  ],
+  "title": "$\\beta$-Sn ($A5$) Structure",
+  "icsd": 52486,
+  "ccdc": 1617232,
+  "prototype": "Sn",
+  "prototype_tex": "Sn",
+  "number_of_species": 1,
+  "pearson_symbol": "tI4",
+  "space_group_number": 141,
+  "strukturbericht": "A5",
+  "strukturbericht_tex": "$A5$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a"
+  ],
+  "parameter_values": [
+    5.8318,
+    0.545612
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "$\\beta$-Ge"
+  ],
+  "legacy": false,
+  "notes": "$A5$, $\\beta$-Sn",
+  "comments": "When $c/a = \\sqrt{2}$ this structure is equivalent to \\href{current_web_home_dir/A_cF8_227_a-001}{diamond ($A4$)}. \n The binary version of this structure is the \\href{current_web_home_dir/AB_tI4_119_c_a-001}{GaSb (II) structure}."
 }

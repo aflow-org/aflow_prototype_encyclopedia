@@ -1,45 +1,45 @@
 {
-    "uid": "32SB",
-    "label": "AB3C2_cP24_198_a_b_2a-001",
-    "alias": null,
-    "title": "Sn$_{2}$F$_{3}$Cl Structure",
-    "icsd": 2088,
-    "ccdc": 1592032,
-    "prototype": "ClF3Sn2",
-    "prototype_tex": "ClF$_{3}$Sn$_{2}$",
-    "number_of_species": 3,
-    "elements": [
-	"Cl",
-	"F",
-	"Sn"
-    ],
-    "pearson_symbol": "cP24",
-    "space_group_number": 198,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 5,
-    "parameter_symbols": [
-	"a",
-	"x1",
-	"x2",
-	"x3",
-	"x4",
-	"y4",
-	"z4"
-    ],
-    "parameter_values": [
-	7.84,
-	0.989,
-	0.3176,
-	0.649,
-	0.375,
-	0.135,
-	0.119
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": null,
-    "comments": "Sn$_{2}$F$_{3}$Cl occupies the same Wyckoff positions in space group $P2_{1}3$ \\#198 as \\href{current_web_home_dir/A4BC_cP24_198_ab_a_a-001}{$\\beta$-SnWO$_{4}$}, and the ICSD assigns it to the SnWO$_{4}$ structure type. However the stoichiometry and hence the bonding are different, so we give it a separate AFLOW prototype label."
+  "uid": "32SB",
+  "label": "AB3C2_cP24_198_a_b_2a-001",
+  "alias": null,
+  "title": "Sn$_{2}$F$_{3}$Cl Structure",
+  "icsd": 2088,
+  "ccdc": 1592032,
+  "prototype": "ClF3Sn2",
+  "prototype_tex": "ClF$_{3}$Sn$_{2}$",
+  "number_of_species": 3,
+  "elements": [
+    "Cl",
+    "F",
+    "Sn"
+  ],
+  "pearson_symbol": "cP24",
+  "space_group_number": 198,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 5,
+  "parameter_symbols": [
+    "a",
+    "x1",
+    "x2",
+    "x3",
+    "x4",
+    "y4",
+    "z4"
+  ],
+  "parameter_values": [
+    7.84,
+    0.989,
+    0.3176,
+    0.649,
+    0.375,
+    0.135,
+    0.119
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": "Sn$_{2}$F$_{3}$Cl occupies the same Wyckoff positions in space group $P2_{1}3$ \\#198 as \\href{current_web_home_dir/A4BC_cP24_198_ab_a_a-001}{$\\beta$-SnWO$_{4}$}, and the ICSD assigns it to the SnWO$_{4}$ structure type. However the stoichiometry and hence the bonding are different, so we give it a separate AFLOW prototype label."
 }

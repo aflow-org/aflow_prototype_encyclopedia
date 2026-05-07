@@ -1,42 +1,42 @@
 {
-    "uid": "EW36",
-    "label": "ABC4D2E8_tP32_126_a_b_h_e_k-001",
-    "alias": [
-        "ABC4D2E8_tP32_126_a_b_h_e_k"
-    ],
-    "title": "Ag[Co(NH$_{3}$)$_{2}$(NO$_{2}$)$_{4}$] ($J1_{9}$) Structure",
-    "icsd": 26767,
-    "ccdc": 1602151,
-    "prototype": "AgCoN4(NH3)2O8",
-    "prototype_tex": "AgCoN$_{4}$(NH$_{3}$)$_{2}$O$_{8}$",
-    "number_of_species": 5,
-    "pearson_symbol": "tP32",
-    "space_group_number": 126,
-    "strukturbericht": "J19",
-    "strukturbericht_tex": "$J1_{9}$",
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z3",
-	"x4",
-	"x5",
-	"y5",
-	"z5"
-    ],
-    "parameter_values": [
-	6.67,
-	1.56372,
-	0.53,
-	0.945,
-	0.06,
-	0.97,
-	0.34
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": "$J1_{9}$",
-    "comments": "The positions of the hydrogen atoms in the ammonia molecule are not determined. We only provide the positions of the nitrogen atoms (labeled as NH3). \n (Wells, 1936) gives the lattice coordinates in setting 1 of space group $P4/nnc$ \\#126.  We used FINDSYM to change this to the standard setting 2."
+  "uid": "EW36",
+  "label": "ABC4D2E8_tP32_126_a_b_h_e_k-001",
+  "alias": [
+    "ABC4D2E8_tP32_126_a_b_h_e_k"
+  ],
+  "title": "Ag[Co(NH$_{3}$)$_{2}$(NO$_{2}$)$_{4}$] ($J1_{9}$) Structure",
+  "icsd": 26767,
+  "ccdc": 1602151,
+  "prototype": "AgCoN4(NH3)2O8",
+  "prototype_tex": "AgCoN$_{4}$(NH$_{3}$)$_{2}$O$_{8}$",
+  "number_of_species": 5,
+  "pearson_symbol": "tP32",
+  "space_group_number": 126,
+  "strukturbericht": "J19",
+  "strukturbericht_tex": "$J1_{9}$",
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z3",
+    "x4",
+    "x5",
+    "y5",
+    "z5"
+  ],
+  "parameter_values": [
+    6.67,
+    1.56372,
+    0.53,
+    0.945,
+    0.06,
+    0.97,
+    0.34
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "$J1_{9}$",
+  "comments": "The positions of the hydrogen atoms in the ammonia molecule are not determined. We only provide the positions of the nitrogen atoms (labeled as NH3). \n (Wells, 1936) gives the lattice coordinates in setting 1 of space group $P4/nnc$ \\#126.  We used FINDSYM to change this to the standard setting 2."
 }

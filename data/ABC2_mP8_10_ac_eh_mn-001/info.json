@@ -1,44 +1,44 @@
 {
-    "uid": "ALSR",
-    "label": "ABC2_mP8_10_ac_eh_mn-001",
-    "alias": [
-        "ABC2_mP8_10_ac_eh_mn"
-    ],
-    "title": "Muthmannite (AuAgTe$_{2}$) Structure",
-    "icsd": 55250,
-    "ccdc": null,
-    "prototype": "AgAuTe2",
-    "prototype_tex": "AgAuTe$_{2}$",
-    "number_of_species": 3,
-    "pearson_symbol": "mP8",
-    "space_group_number": 10,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-	"a",
-	"b/a",
-	"c/a",
-	"beta",
-	"x5",
-	"z5",
-	"x6",
-	"z6"
-    ],
-    "parameter_values": [
-	5.1177,
-	0.86109,
-	1.45124,
-	89.979,
-	0.3911,
-	0.24179,
-	0.8723,
-	0.24913
-    ],
-    "mineral_name": "muthmannite",
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": "Muthmannite",
-    "comments": null
+  "uid": "ALSR",
+  "label": "ABC2_mP8_10_ac_eh_mn-001",
+  "alias": [
+    "ABC2_mP8_10_ac_eh_mn"
+  ],
+  "title": "Muthmannite (AuAgTe$_{2}$) Structure",
+  "icsd": 55250,
+  "ccdc": 1619567,
+  "prototype": "AgAuTe2",
+  "prototype_tex": "AgAuTe$_{2}$",
+  "number_of_species": 3,
+  "pearson_symbol": "mP8",
+  "space_group_number": 10,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "beta",
+    "x5",
+    "z5",
+    "x6",
+    "z6"
+  ],
+  "parameter_values": [
+    5.1177,
+    0.86109,
+    1.45124,
+    89.979,
+    0.3911,
+    0.24179,
+    0.8723,
+    0.24913
+  ],
+  "mineral_name": "muthmannite",
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "Muthmannite",
+  "comments": null
 }

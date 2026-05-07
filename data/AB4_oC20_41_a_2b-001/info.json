@@ -1,45 +1,45 @@
 {
-    "uid": "MALE",
-    "label": "AB4_oC20_41_a_2b-001",
-    "alias": [
-        "AB4_oC20_41_a_2b"
-    ],
-    "title": "PtSn$_{4}$ ($D1_{c}$) Structure",
-    "icsd": 105793,
-    "ccdc": null,
-    "prototype": "PtSn4",
-    "prototype_tex": "PtSn$_{4}$",
-    "number_of_species": 2,
-    "pearson_symbol": "oC20",
-    "space_group_number": 41,
-    "strukturbericht": "D1c",
-    "strukturbericht_tex": "$D1_{c}$",
-    "part": 1,
-    "parameter_symbols": [
-	"a",
-	"b/a",
-	"c/a",
-	"z1",
-	"x2",
-	"y2",
-	"z2",
-	"x3",
-	"y3",
-	"z3"
-    ],
-    "parameter_values": [
-	6.3879,
-	1.00485,
-	1.77788
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "AuSn$_{4}$",
-        "IrSn$_{4}$",
-        "PdSn$_{4}$"
-    ],
-    "legacy": false,
-    "notes": "$D1_{c}$",
-    "comments": "The published atomic positions have $x_{2}=y_{3}$, $x_{3}=y_{2}$ and $z_{2}=-z_{3}$. This puts the system into space group $Ccce$ \\#68, very similar to \\href{current_web_home_dir/AB4_oC20_68_a_i-001}{PdSn$_{4}$}. \n To get space group $Aba2$ \\#41 we shifted the $y_{2}$ and $z_{3}$ positions slightly. Even then we could not place this in space group $Aba2$ until we adjusted the tolerance.  The original structure can be recovered using the command: \n aflow -{-}proto=AB4\\_oC20\\_41\\_a\\_2b:Pt:Sn -{-}tolerance=0.001 -{-}params=a,b/a,c/a,x$_{2}$,y$_{2}$,z$_{2}$,x$_{3}$,y$_{3}$,z$_{3}$ \n (Schubert, 1950) give the lattice constants in kX units.  We used the factor of 1.00202{\\AA}/kX from (Wood, 1947) to convert to {\\AA}ngstr\\\"{o}ms."
+  "uid": "MALE",
+  "label": "AB4_oC20_41_a_2b-001",
+  "alias": [
+    "AB4_oC20_41_a_2b"
+  ],
+  "title": "PtSn$_{4}$ ($D1_{c}$) Structure",
+  "icsd": 105793,
+  "ccdc": 1663669,
+  "prototype": "PtSn4",
+  "prototype_tex": "PtSn$_{4}$",
+  "number_of_species": 2,
+  "pearson_symbol": "oC20",
+  "space_group_number": 41,
+  "strukturbericht": "D1c",
+  "strukturbericht_tex": "$D1_{c}$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "z1",
+    "x2",
+    "y2",
+    "z2",
+    "x3",
+    "y3",
+    "z3"
+  ],
+  "parameter_values": [
+    6.3879,
+    1.00485,
+    1.77788
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "AuSn$_{4}$",
+    "IrSn$_{4}$",
+    "PdSn$_{4}$"
+  ],
+  "legacy": false,
+  "notes": "$D1_{c}$",
+  "comments": "The published atomic positions have $x_{2}=y_{3}$, $x_{3}=y_{2}$ and $z_{2}=-z_{3}$. This puts the system into space group $Ccce$ \\#68, very similar to \\href{current_web_home_dir/AB4_oC20_68_a_i-001}{PdSn$_{4}$}. \n To get space group $Aba2$ \\#41 we shifted the $y_{2}$ and $z_{3}$ positions slightly. Even then we could not place this in space group $Aba2$ until we adjusted the tolerance.  The original structure can be recovered using the command: \n aflow -{-}proto=AB4\\_oC20\\_41\\_a\\_2b:Pt:Sn -{-}tolerance=0.001 -{-}params=a,b/a,c/a,x$_{2}$,y$_{2}$,z$_{2}$,x$_{3}$,y$_{3}$,z$_{3}$ \n (Schubert, 1950) give the lattice constants in kX units.  We used the factor of 1.00202{\\AA}/kX from (Wood, 1947) to convert to {\\AA}ngstr\\\"{o}ms."
 }

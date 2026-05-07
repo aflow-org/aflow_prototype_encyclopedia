@@ -1,44 +1,44 @@
 {
-    "uid": "JBSJ",
-    "label": "A2B3C2D2_tI18_139_e_ad_c_e-001",
-    "alias": null,
-    "title": "Sr$_{2}$Mn$_{3}$As$_{2}$O$_{2}$ Structure",
-    "icsd": 81798,
-    "ccdc": null,
-    "prototype": "As2Mn3O2Sr2",
-    "prototype_tex": "As$_{2}$Mn$_{3}$O$_{2}$Sr$_{2}$",
-    "number_of_species": 4,
-    "pearson_symbol": "tI18",
-    "space_group_number": 139,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z4",
-	"z5"
-    ],
-    "parameter_values": [
-	4.1459,
-	4.54883,
-	0.1696,
-	0.4135
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-	"Ba$_{2}$Mn$_{3}$As$_{2}$O$_{2}$",
-	"Ba$_{2}$Mn$_{3}$P$_{2}$O$_{2}$",
-	"Ba$_{2}$Mn$_{3}$Sb$_{2}$O$_{2}$",
-	"La$_{2}$O$_{3}$Fe$_{2}$S$_{2}$",
-	"La$_{2}$O$_{3}$Fe$_{2}$Se$_{2}$",
-	"Sr$_{2}$(Mn$_{2}$Cu)As$_{2}$O$_{2}$",
-	"Sr$_{2}$(MnZn$_{2}$)As$_{2}$O$_{2}$",
-	"Sr$_{2}$Mn$_{3}$Bi$_{2}$O$_{2}$",
-	"Sr$_{2}$Mn$_{3}$Sb$_{2}$O$_{2}$"
-    ],
-    "legacy": false,
-    "notes": null,
-    "comments": "We use the data taken by (Brock, 1996) at 275K."
+  "uid": "JBSJ",
+  "label": "A2B3C2D2_tI18_139_e_ad_c_e-001",
+  "alias": null,
+  "title": "Sr$_{2}$Mn$_{3}$As$_{2}$O$_{2}$ Structure",
+  "icsd": 81798,
+  "ccdc": 1641924,
+  "prototype": "As2Mn3O2Sr2",
+  "prototype_tex": "As$_{2}$Mn$_{3}$O$_{2}$Sr$_{2}$",
+  "number_of_species": 4,
+  "pearson_symbol": "tI18",
+  "space_group_number": 139,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z4",
+    "z5"
+  ],
+  "parameter_values": [
+    4.1459,
+    4.54883,
+    0.1696,
+    0.4135
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Ba$_{2}$Mn$_{3}$As$_{2}$O$_{2}$",
+    "Ba$_{2}$Mn$_{3}$P$_{2}$O$_{2}$",
+    "Ba$_{2}$Mn$_{3}$Sb$_{2}$O$_{2}$",
+    "La$_{2}$O$_{3}$Fe$_{2}$S$_{2}$",
+    "La$_{2}$O$_{3}$Fe$_{2}$Se$_{2}$",
+    "Sr$_{2}$(Mn$_{2}$Cu)As$_{2}$O$_{2}$",
+    "Sr$_{2}$(MnZn$_{2}$)As$_{2}$O$_{2}$",
+    "Sr$_{2}$Mn$_{3}$Bi$_{2}$O$_{2}$",
+    "Sr$_{2}$Mn$_{3}$Sb$_{2}$O$_{2}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "We use the data taken by (Brock, 1996) at 275K."
 }

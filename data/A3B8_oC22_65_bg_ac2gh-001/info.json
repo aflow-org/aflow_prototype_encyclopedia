@@ -1,44 +1,44 @@
 {
-    "uid": "YUGM",
-    "label": "A3B8_oC22_65_bg_ac2gh-001",
-    "alias": [
-        "A3B8_oC22_65_ag_bd2gh"
-    ],
-    "title": "Nb$_{3}$O$_{7}$F Structure",
-    "icsd": 28461,
-    "ccdc": null,
-    "prototype": "FNb3O7",
-    "prototype_tex": "FNb$_{3}$O$_{7}$",
-    "number_of_species": 2,
-    "pearson_symbol": "oC22",
-    "space_group_number": 65,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"b/a",
-	"c/a",
-	"x4",
-	"x5",
-	"x6",
-	"x7"
-    ],
-    "parameter_values": [
-	20.67,
-	0.185438,
-	0.189985,
-	0.6836,
-	0.594,
-	0.21,
-	0.689
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "Nb$_{3}$O$_{7}$(OH)"
-    ],
-    "legacy": false,
-    "notes": null,
-    "comments": "(Andersson, 1964) was not able to distinguish between oxygen and fluorine, so it is assumed that the fluorine atoms (or OH radicals) are distributed randomly on the oxygen sites. We follow Andersson and label all the sites as oxygen."
+  "uid": "YUGM",
+  "label": "A3B8_oC22_65_bg_ac2gh-001",
+  "alias": [
+    "A3B8_oC22_65_ag_bd2gh"
+  ],
+  "title": "Nb$_{3}$O$_{7}$F Structure",
+  "icsd": 28461,
+  "ccdc": 1603517,
+  "prototype": "FNb3O7",
+  "prototype_tex": "FNb$_{3}$O$_{7}$",
+  "number_of_species": 2,
+  "pearson_symbol": "oC22",
+  "space_group_number": 65,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "x4",
+    "x5",
+    "x6",
+    "x7"
+  ],
+  "parameter_values": [
+    20.67,
+    0.185438,
+    0.189985,
+    0.6836,
+    0.594,
+    0.21,
+    0.689
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Nb$_{3}$O$_{7}$(OH)"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "(Andersson, 1964) was not able to distinguish between oxygen and fluorine, so it is assumed that the fluorine atoms (or OH radicals) are distributed randomly on the oxygen sites. We follow Andersson and label all the sites as oxygen."
 }

@@ -1,43 +1,43 @@
 {
-    "uid": "K8N1",
-    "label": "AB2C_oC16_40_a_2b_b-001",
-    "alias": [
-        "AB2C_oC16_40_a_2b_b"
-    ],
-    "title": "K$_{2}$CdPb Structure",
-    "icsd": 10041,
-    "ccdc": null,
-    "prototype": "CdK2Pb",
-    "prototype_tex": "CdK$_{2}$Pb",
-    "number_of_species": 3,
-    "pearson_symbol": "oC16",
-    "space_group_number": 40,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-	"a",
-	"b/a",
-	"c/a",
-	"z1",
-	"y2",
-	"z2",
-	"y3",
-	"z3",
-	"y4",
-	"z4"
-    ],
-    "parameter_values": [
-	6.458,
-	1.33199,
-	1.69635
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "K$_{2}$CdSn"
-    ],
-    "legacy": false,
-    "notes": null,
-    "comments": "Space group $Ama2$ \\#40 allows an arbitrary choice of the origin of the $z$-axis.  We use this to place the cadmium (4a) atom at the origin."
+  "uid": "K8N1",
+  "label": "AB2C_oC16_40_a_2b_b-001",
+  "alias": [
+    "AB2C_oC16_40_a_2b_b"
+  ],
+  "title": "K$_{2}$CdPb Structure",
+  "icsd": 10041,
+  "ccdc": 1594926,
+  "prototype": "CdK2Pb",
+  "prototype_tex": "CdK$_{2}$Pb",
+  "number_of_species": 3,
+  "pearson_symbol": "oC16",
+  "space_group_number": 40,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "z1",
+    "y2",
+    "z2",
+    "y3",
+    "z3",
+    "y4",
+    "z4"
+  ],
+  "parameter_values": [
+    6.458,
+    1.33199,
+    1.69635
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "K$_{2}$CdSn"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "Space group $Ama2$ \\#40 allows an arbitrary choice of the origin of the $z$-axis.  We use this to place the cadmium (4a) atom at the origin."
 }

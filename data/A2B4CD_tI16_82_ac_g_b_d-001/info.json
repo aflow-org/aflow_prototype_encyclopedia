@@ -1,40 +1,40 @@
 {
-    "uid": "92JU",
-    "label": "A2B4CD_tI16_82_ac_g_b_d-001",
-    "alias": [
-        "A2BCD4_tI16_82_ac_b_d_g"
-    ],
-    "title": "Kesterite [Cu$_{2}$(Zn,Fe)SnS$_{4}$] Structure",
-    "icsd": 5096,
-    "ccdc": null,
-    "prototype": "Cu2S4SnZn",
-    "prototype_tex": "Cu$_{2}$S$_{4}$SnZn",
-    "number_of_species": 4,
-    "pearson_symbol": "tI16",
-    "space_group_number": 82,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x5",
-	"y5",
-	"z5"
-    ],
-    "parameter_values": [
-	5.427,
-	2.00313,
-	0.756,
-	0.7566,
-	0.8722
-    ],
-    "mineral_name": "kesterite",
-    "minerals": null,
-    "compounds": [
-        "Cu$_{2}$ZnSnS$_{4}$"
-    ],
-    "legacy": false,
-    "notes": "Kesterite",
-    "comments": "The kesterite structure is related to the \\href{current_web_home_dir/A2BC4D_tI16_121_d_a_i_b-001}{stannite} structure, with differences occurring due to the positioning of the Cu atoms (Hall, 1978). The (2b) Wyckoff position is partially occupied with iron and zinc. We label this site Zn."
+  "uid": "92JU",
+  "label": "A2B4CD_tI16_82_ac_g_b_d-001",
+  "alias": [
+    "A2BCD4_tI16_82_ac_b_d_g"
+  ],
+  "title": "Kesterite [Cu$_{2}$(Zn,Fe)SnS$_{4}$] Structure",
+  "icsd": 5096,
+  "ccdc": 1593167,
+  "prototype": "Cu2S4SnZn",
+  "prototype_tex": "Cu$_{2}$S$_{4}$SnZn",
+  "number_of_species": 4,
+  "pearson_symbol": "tI16",
+  "space_group_number": 82,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x5",
+    "y5",
+    "z5"
+  ],
+  "parameter_values": [
+    5.427,
+    2.00313,
+    0.756,
+    0.7566,
+    0.8722
+  ],
+  "mineral_name": "kesterite",
+  "minerals": null,
+  "compounds": [
+    "Cu$_{2}$ZnSnS$_{4}$"
+  ],
+  "legacy": false,
+  "notes": "Kesterite",
+  "comments": "The kesterite structure is related to the \\href{current_web_home_dir/A2BC4D_tI16_121_d_a_i_b-001}{stannite} structure, with differences occurring due to the positioning of the Cu atoms (Hall, 1978). The (2b) Wyckoff position is partially occupied with iron and zinc. We label this site Zn."
 }

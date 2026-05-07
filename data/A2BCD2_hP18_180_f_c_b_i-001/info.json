@@ -1,36 +1,36 @@
 {
-    "uid": "TQ0B",
-    "label": "A2BCD2_hP18_180_f_c_b_i-001",
-    "alias": [
-        "A2BCD2_hP18_180_f_c_b_i"
-    ],
-    "title": "Hg$_{2}$O$_{2}$NaI Structure",
-    "icsd": 14125,
-    "ccdc": null,
-    "prototype": "Hg2INaO2",
-    "prototype_tex": "Hg$_{2}$INaO$_{2}$",
-    "number_of_species": 4,
-    "pearson_symbol": "hP18",
-    "space_group_number": 180,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z3",
-	"x4"
-    ],
-    "parameter_values": [
-	6.667,
-	1.50802,
-	0.3333,
-	0.1521
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": null,
-    "comments": "This structure can also be found in the enantiomorphic space group $P6_{4}22$ \\#181."
+  "uid": "TQ0B",
+  "label": "A2BCD2_hP18_180_f_c_b_i-001",
+  "alias": [
+    "A2BCD2_hP18_180_f_c_b_i"
+  ],
+  "title": "Hg$_{2}$O$_{2}$NaI Structure",
+  "icsd": 14125,
+  "ccdc": 1595526,
+  "prototype": "Hg2INaO2",
+  "prototype_tex": "Hg$_{2}$INaO$_{2}$",
+  "number_of_species": 4,
+  "pearson_symbol": "hP18",
+  "space_group_number": 180,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z3",
+    "x4"
+  ],
+  "parameter_values": [
+    6.667,
+    1.50802,
+    0.3333,
+    0.1521
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": "This structure can also be found in the enantiomorphic space group $P6_{4}22$ \\#181."
 }

@@ -1,50 +1,50 @@
 {
-    "uid": "TJ6A",
-    "label": "A3B_oP16_62_cd_c-001",
-    "alias": [
-        "A3B_oP16_62_cd_c"
-    ],
-    "title": "$\\epsilon$-Al$_{3}$Ni ($D0_{20}$) Structure",
-    "icsd": 58040,
-    "ccdc": 1622076,
-    "prototype": "Al3Ni",
-    "prototype_tex": "Al$_{3}$Ni",
-    "number_of_species": 2,
-    "pearson_symbol": "oP16",
-    "space_group_number": 62,
-    "strukturbericht": "D020",
-    "strukturbericht_tex": "$D0_{20}$",
-    "part": 2,
-    "parameter_symbols": [
-	"a",
-	"b/a",
-	"c/a",
-	"x1",
-	"z1",
-	"x2",
-	"z2",
-	"x3",
-	"y3",
-	"z3"
-    ],
-    "parameter_values": [
-	6.5982,
-	1.11417,
-	0.727789,
-	0.511,
-	0.415,
-	0.869,
-	0.555,
-	0.674,
-	0.053,
-	0.856
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "In$_{3}$Ir"
-    ],
-    "legacy": false,
-    "notes": "$D0_{20}$",
-    "comments": "The ICSD places \\href{current_web_home_dir/A3B_oP16_62_cd_c-001}{$\\epsilon$-Al$_{3}$Ni ($D0_{20}$)} in the \\href{current_web_home_dir/AB3_oP16_62_c_cd-001}{Fe$_{3}$C ($D0_{11}$)} structure type.  While both structures are in the same space group and have the same occupied Wyckoff positions, the lattice constants are very different, so split these compounds into two classes.  In any case the different {\\em Strukturbericht} entries require two entries in the Encyclopedia."
+  "uid": "TJ6A",
+  "label": "A3B_oP16_62_cd_c-001",
+  "alias": [
+    "A3B_oP16_62_cd_c"
+  ],
+  "title": "$\\epsilon$-Al$_{3}$Ni ($D0_{20}$) Structure",
+  "icsd": 58040,
+  "ccdc": 1622076,
+  "prototype": "Al3Ni",
+  "prototype_tex": "Al$_{3}$Ni",
+  "number_of_species": 2,
+  "pearson_symbol": "oP16",
+  "space_group_number": 62,
+  "strukturbericht": "D020",
+  "strukturbericht_tex": "$D0_{20}$",
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "x1",
+    "z1",
+    "x2",
+    "z2",
+    "x3",
+    "y3",
+    "z3"
+  ],
+  "parameter_values": [
+    6.5982,
+    1.11417,
+    0.727789,
+    0.511,
+    0.415,
+    0.869,
+    0.555,
+    0.674,
+    0.053,
+    0.856
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "In$_{3}$Ir"
+  ],
+  "legacy": false,
+  "notes": "$D0_{20}$",
+  "comments": "The ICSD places \\href{current_web_home_dir/A3B_oP16_62_cd_c-001}{$\\epsilon$-Al$_{3}$Ni ($D0_{20}$)} in the \\href{current_web_home_dir/AB3_oP16_62_c_cd-001}{Fe$_{3}$C ($D0_{11}$)} structure type.  While both structures are in the same space group and have the same occupied Wyckoff positions, the lattice constants are very different, so split these compounds into two classes.  In any case the different {\\em Strukturbericht} entries require two entries in the Encyclopedia."
 }

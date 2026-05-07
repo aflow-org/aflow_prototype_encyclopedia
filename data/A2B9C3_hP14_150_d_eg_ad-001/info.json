@@ -1,44 +1,44 @@
 {
-    "uid": "4FK1",
-    "label": "A2B9C3_hP14_150_d_eg_ad-001",
-    "alias": [
-        "A2B9C3_hP14_150_d_eg_ad"
-    ],
-    "title": "Cs$_{3}$As$_{2}$Cl$_{9}$ ($K7_{3}$) Structure",
-    "icsd": 45733,
-    "ccdc": null,
-    "prototype": "As2Cl9Cs3",
-    "prototype_tex": "As$_{2}$Cl$_{9}$Cs$_{3}$",
-    "number_of_species": 3,
-    "pearson_symbol": "hP14",
-    "space_group_number": 150,
-    "strukturbericht": "K73",
-    "strukturbericht_tex": "$K7_{3}$",
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z2",
-	"z3",
-	"x4",
-	"x5",
-	"y5",
-	"z5"
-    ],
-    "parameter_values": [
-	7.37,
-	1.20896,
-	0.805,
-	0.32,
-	0.480003,
-	0.365003,
-	0.199997,
-	0.325
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": "$K7_{3}$",
-    "comments": null
+  "uid": "4FK1",
+  "label": "A2B9C3_hP14_150_d_eg_ad-001",
+  "alias": [
+    "A2B9C3_hP14_150_d_eg_ad"
+  ],
+  "title": "Cs$_{3}$As$_{2}$Cl$_{9}$ ($K7_{3}$) Structure",
+  "icsd": 45733,
+  "ccdc": 1614356,
+  "prototype": "As2Cl9Cs3",
+  "prototype_tex": "As$_{2}$Cl$_{9}$Cs$_{3}$",
+  "number_of_species": 3,
+  "pearson_symbol": "hP14",
+  "space_group_number": 150,
+  "strukturbericht": "K73",
+  "strukturbericht_tex": "$K7_{3}$",
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z2",
+    "z3",
+    "x4",
+    "x5",
+    "y5",
+    "z5"
+  ],
+  "parameter_values": [
+    7.37,
+    1.20896,
+    0.805,
+    0.32,
+    0.480003,
+    0.365003,
+    0.199997,
+    0.325
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "$K7_{3}$",
+  "comments": null
 }

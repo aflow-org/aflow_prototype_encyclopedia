@@ -1,47 +1,47 @@
 {
-    "uid": "N3SR",
-    "label": "ABC3_tI10_107_a_a_ab-001",
-    "alias": [
-        "ABC3_tI10_107_a_a_ab"
-    ],
-    "title": "BaNiSn$_{3}$ Structure",
-    "icsd": 58662,
-    "ccdc": 1622667,
-    "prototype": "BaNiSn3",
-    "prototype_tex": "BaNiSn$_{3}$",
-    "number_of_species": 3,
-    "pearson_symbol": "tI10",
-    "space_group_number": 107,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z1",
-	"z2",
-	"z3",
-	"z4"
-    ],
-    "parameter_values": [
-	4.82,
-	2.26763
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "BaPdSn$_{3}$",
-        "BaPtSn$_{3}$",
-        "CeCuAl$_{3}$",
-        "EuPdGe$_{3}$",
-        "EuRhGe$_{3}$",
-        "LaOsSb$_{3}$",
-        "SrIrAl$_{3}$",
-        "SrNiSn$_{3}$",
-        "SrPdAl$_{3}$",
-        "SrPtAl$_{3}$"
-    ],
-    "legacy": false,
-    "notes": null,
-    "comments": "This is a ternary form of the \\href{current_web_home_dir/A4B_tI10_139_de_a-001}{$D1_{3}$ (BaAl$_{4}$) structure}.  The atomic positions in both conventional cells are approximately the same, but the distribution of the atoms on those sites and the resulting relaxation leads to a different structure. \n Although (D\\\"{o}rrscheidt, 1978) give the structural information for BaPtSn$_{3}$ before that of BaNiSn$_{3}$, (Shatruk, 2019) and others list BaNiSn$_{3}$ as the prototype for this structure. \n Space group $I4mm$ \\#107 does not specify the origin of the $z$-axis.  (D\\\"{o}rrscheidt, 1978) places the barium atom at the origin."
+  "uid": "N3SR",
+  "label": "ABC3_tI10_107_a_a_ab-001",
+  "alias": [
+    "ABC3_tI10_107_a_a_ab"
+  ],
+  "title": "BaNiSn$_{3}$ Structure",
+  "icsd": 58662,
+  "ccdc": 1622667,
+  "prototype": "BaNiSn3",
+  "prototype_tex": "BaNiSn$_{3}$",
+  "number_of_species": 3,
+  "pearson_symbol": "tI10",
+  "space_group_number": 107,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z1",
+    "z2",
+    "z3",
+    "z4"
+  ],
+  "parameter_values": [
+    4.82,
+    2.26763
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "BaPdSn$_{3}$",
+    "BaPtSn$_{3}$",
+    "CeCuAl$_{3}$",
+    "EuPdGe$_{3}$",
+    "EuRhGe$_{3}$",
+    "LaOsSb$_{3}$",
+    "SrIrAl$_{3}$",
+    "SrNiSn$_{3}$",
+    "SrPdAl$_{3}$",
+    "SrPtAl$_{3}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "This is a ternary form of the \\href{current_web_home_dir/A4B_tI10_139_de_a-001}{$D1_{3}$ (BaAl$_{4}$) structure}.  The atomic positions in both conventional cells are approximately the same, but the distribution of the atoms on those sites and the resulting relaxation leads to a different structure. \n Although (D\\\"{o}rrscheidt, 1978) give the structural information for BaPtSn$_{3}$ before that of BaNiSn$_{3}$, (Shatruk, 2019) and others list BaNiSn$_{3}$ as the prototype for this structure. \n Space group $I4mm$ \\#107 does not specify the origin of the $z$-axis.  (D\\\"{o}rrscheidt, 1978) places the barium atom at the origin."
 }

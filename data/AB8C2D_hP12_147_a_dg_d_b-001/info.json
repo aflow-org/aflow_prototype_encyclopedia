@@ -1,44 +1,44 @@
 {
-    "uid": "PMNP",
-    "label": "AB8C2D_hP12_147_a_dg_d_b-001",
-    "alias": null,
-    "title": "CsV(SO$_{4}$)$_{2}$",
-    "icsd": 73736,
-    "ccdc": 1634498,
-    "prototype": "CsO8S2V",
-    "prototype_tex": "CsO$_{8}$S$_{2}$V",
-    "number_of_species": 4,
-    "pearson_symbol": "hP12",
-    "space_group_number": 147,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 5,
-    "parameter_symbols": [
-        "a",
-	"c/a",
-	"z3",
-	"z4",
-	"x5",
-	"y5",
-	"z5"
-    ],
-    "parameter_values": [
-        4.868,
-	1.80094,
-	0.1434,
-	0.3086,
-	0.7097,
-	0.0704,
-	0.634
-    ],
-    "mineral_name": null,
-    "minerals": {},
-    "compounds": [
-	"CsFe(MoO$_{4}$)$_{2}$",
-	"CsSb(PO$_{4}$)$_{2}$",
-	"RbFe(MoO$_{4}$)$_{2}$"
-    ],
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "PMNP",
+  "label": "AB8C2D_hP12_147_a_dg_d_b-001",
+  "alias": null,
+  "title": "CsV(SO$_{4}$)$_{2}$",
+  "icsd": 73736,
+  "ccdc": 1634498,
+  "prototype": "CsO8S2V",
+  "prototype_tex": "CsO$_{8}$S$_{2}$V",
+  "number_of_species": 4,
+  "pearson_symbol": "hP12",
+  "space_group_number": 147,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 5,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z3",
+    "z4",
+    "x5",
+    "y5",
+    "z5"
+  ],
+  "parameter_values": [
+    4.868,
+    1.80094,
+    0.1434,
+    0.3086,
+    0.7097,
+    0.0704,
+    0.634
+  ],
+  "mineral_name": null,
+  "minerals": {},
+  "compounds": [
+    "CsFe(MoO$_{4}$)$_{2}$",
+    "CsSb(PO$_{4}$)$_{2}$",
+    "RbFe(MoO$_{4}$)$_{2}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

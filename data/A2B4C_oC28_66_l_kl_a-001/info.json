@@ -1,46 +1,46 @@
 {
-    "uid": "QSR1",
-    "label": "A2B4C_oC28_66_l_kl_a-001",
-    "alias": [
-        "A2B4C_oC28_66_l_kl_a"
-    ],
-    "title": "SrAl$_{2}$Se$_{4}$ Structure",
-    "icsd": 49732,
-    "ccdc": null,
-    "prototype": "Al2Se4Sr",
-    "prototype_tex": "Al$_{2}$Se$_{4}$Sr",
-    "number_of_species": 3,
-    "pearson_symbol": "oC28",
-    "space_group_number": 66,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-	"a",
-	"b/a",
-	"c/a",
-	"z2",
-	"x3",
-	"y3",
-	"x4",
-	"y4"
-    ],
-    "parameter_values": [
-	6.2701,
-	1.72567,
-	1.73045,
-	0.833,
-	0.505,
-	0.768,
-	0.237,
-	0.92
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "CaAl$_{2}$Se$_{4}$"
-    ],
-    "legacy": false,
-    "notes": null,
-    "comments": "We have shifted the origin so that the Sr-I atom is at the (4a) Wyckoff position rather than (4b)."
+  "uid": "QSR1",
+  "label": "A2B4C_oC28_66_l_kl_a-001",
+  "alias": [
+    "A2B4C_oC28_66_l_kl_a"
+  ],
+  "title": "SrAl$_{2}$Se$_{4}$ Structure",
+  "icsd": 49732,
+  "ccdc": 1614874,
+  "prototype": "Al2Se4Sr",
+  "prototype_tex": "Al$_{2}$Se$_{4}$Sr",
+  "number_of_species": 3,
+  "pearson_symbol": "oC28",
+  "space_group_number": 66,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "z2",
+    "x3",
+    "y3",
+    "x4",
+    "y4"
+  ],
+  "parameter_values": [
+    6.2701,
+    1.72567,
+    1.73045,
+    0.833,
+    0.505,
+    0.768,
+    0.237,
+    0.92
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "CaAl$_{2}$Se$_{4}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "We have shifted the origin so that the Sr-I atom is at the (4a) Wyckoff position rather than (4b)."
 }

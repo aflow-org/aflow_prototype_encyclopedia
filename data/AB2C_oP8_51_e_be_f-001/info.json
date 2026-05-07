@@ -1,42 +1,42 @@
 {
-    "uid": "LY1V",
-    "label": "AB2C_oP8_51_e_be_f-001",
-    "alias": [
-        "AB2C_oP8_51_e_be_f"
-    ],
-    "title": "Parkerite (Ni$_{3}$Bi$_{2}$S$_{4}$) Structure",
-    "icsd": 70052,
-    "ccdc": null,
-    "prototype": "Bi2Ni3S2",
-    "prototype_tex": "Bi$_{2}$Ni$_{3}$S$_{2}$",
-    "number_of_species": 3,
-    "pearson_symbol": "oP8",
-    "space_group_number": 51,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"b/a",
-	"c/a",
-	"z2",
-	"z3",
-	"z4"
-    ],
-    "parameter_values": [
-	5.545,
-	0.730748,
-	1.03354,
-	0.7423,
-	0.204,
-	0.256
-    ],
-    "mineral_name": "parkerite",
-    "minerals": null,
-    "compounds": [
-        "Ni$_{3}$(Bi,Pb)$_{2}$S$_{4}$"
-    ],
-    "legacy": false,
-    "notes": "Parkerite",
-    "comments": "(Fleet, 1973) states that parkerite is a derivative of the \\href{current_web_home_dir/A3B2C2_hR7_166_d_ab_c-001}{shandite (Ni$_{3}$Pb$_{2}$S$_{2}$) structure}, and changes to shandite if more than 4\\% of the bismuth is replaced by lead. \n The Ni-II (2e) site is occupied 50\\% of the time, given the observed stoichiometry. \n Earlier sources give parkerite a monoclinic structure.  This may be due to an ordering of the nickel atoms at lower temperature.  We follow (Downs, 2003) and use the orthorhombic structure. \n (Fleet, 1973) describes the structure in the $Pmam$ setting of space group \\#51.  We used FINDSYM to transform it to the standard $Pmma$ setting."
+  "uid": "LY1V",
+  "label": "AB2C_oP8_51_e_be_f-001",
+  "alias": [
+    "AB2C_oP8_51_e_be_f"
+  ],
+  "title": "Parkerite (Ni$_{3}$Bi$_{2}$S$_{4}$) Structure",
+  "icsd": 70052,
+  "ccdc": 1631876,
+  "prototype": "Bi2Ni3S2",
+  "prototype_tex": "Bi$_{2}$Ni$_{3}$S$_{2}$",
+  "number_of_species": 3,
+  "pearson_symbol": "oP8",
+  "space_group_number": 51,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "z2",
+    "z3",
+    "z4"
+  ],
+  "parameter_values": [
+    5.545,
+    0.730748,
+    1.03354,
+    0.7423,
+    0.204,
+    0.256
+  ],
+  "mineral_name": "parkerite",
+  "minerals": null,
+  "compounds": [
+    "Ni$_{3}$(Bi,Pb)$_{2}$S$_{4}$"
+  ],
+  "legacy": false,
+  "notes": "Parkerite",
+  "comments": "(Fleet, 1973) states that parkerite is a derivative of the \\href{current_web_home_dir/A3B2C2_hR7_166_d_ab_c-001}{shandite (Ni$_{3}$Pb$_{2}$S$_{2}$) structure}, and changes to shandite if more than 4\\% of the bismuth is replaced by lead. \n The Ni-II (2e) site is occupied 50\\% of the time, given the observed stoichiometry. \n Earlier sources give parkerite a monoclinic structure.  This may be due to an ordering of the nickel atoms at lower temperature.  We follow (Downs, 2003) and use the orthorhombic structure. \n (Fleet, 1973) describes the structure in the $Pmam$ setting of space group \\#51.  We used FINDSYM to transform it to the standard $Pmma$ setting."
 }

@@ -1,51 +1,51 @@
 {
-    "uid": "8CBQ",
-    "label": "A2B4C_oF56_70_e_h_a-001",
-    "alias": [
-        "A2B4C_oF56_70_g_h_a"
-    ],
-    "title": "Thenardite [Na$_{2}$SO$_{4}$ (V), $H1_{7}$] Structure",
-    "icsd": 2895,
-    "ccdc": null,
-    "prototype": "Na2O4S",
-    "prototype_tex": "Na$_{2}$O$_{4}$S",
-    "number_of_species": 3,
-    "pearson_symbol": "oF56",
-    "space_group_number": 70,
-    "strukturbericht": "H17",
-    "strukturbericht_tex": "$H1_{7}$",
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"b/a",
-	"c/a",
-	"x2",
-	"x3",
-	"y3",
-	"z3"
-    ],
-    "parameter_values": [
-	9.817,
-	0.596883,
-	1.25338,
-	0.4414,
-	0.2137,
-	0.9797,
-	0.0572
-    ],
-    "mineral_name": "thenardite",
-    "minerals": null,
-    "compounds": [
-        "Ag$_{2}$SO$_{4}$",
-        "Ag$_{2}$SeO$_{4}$",
-        "Cd$_{2}$SiO$_{4}$",
-        "Cr$_{2}$SO$_{4}$",
-        "Cr$_{2}$SiO$_{4}$",
-	"Hg$_{2}$GeO$_{4}$",
-	"Na$_{2}$MoO$_{4}$",
-	"Na$_{2}$SeO$_{4}$"
-    ],
-    "legacy": false,
-    "notes": "$H1_{7}$, Thenardite",
-    "comments": "Na$_{2}$SO$_{4}$ has eight known anhydrous phases. For now we have \\begin{itemize} \\item \\href{current_web_home_dir/A2B4C_oC28_63_ac_fg_c-001}{Na$_{2}$SO$_{4}$ III} and \\item \\href{current_web_home_dir/A2B4C_oF56_70_e_h_a-001}{Thenardite (Na$_{2}$SO$_{4}$ V, $H1_{7}$)} (this structure). \\end{itemize} ~\\vspace{-.25in} \n  The thenardite phase is ``reported to be stable between 32$^\\circ$C and about 180$^\\circ$C'' (Nord, 1973), however the data reported here was taken on synthetic thenardite at 25$^\\circ$C. \n The AFLOW label protocol moves the sodium atoms from the reported (16g) site to the (16e) site. This involves shifting the axes so that $\\hat{z} \\rightarrow \\hat{x} \\rightarrow \\hat{y} \\rightarrow \\hat{z}$."
+  "uid": "8CBQ",
+  "label": "A2B4C_oF56_70_e_h_a-001",
+  "alias": [
+    "A2B4C_oF56_70_g_h_a"
+  ],
+  "title": "Thenardite [Na$_{2}$SO$_{4}$ (V), $H1_{7}$] Structure",
+  "icsd": 2895,
+  "ccdc": 1592687,
+  "prototype": "Na2O4S",
+  "prototype_tex": "Na$_{2}$O$_{4}$S",
+  "number_of_species": 3,
+  "pearson_symbol": "oF56",
+  "space_group_number": 70,
+  "strukturbericht": "H17",
+  "strukturbericht_tex": "$H1_{7}$",
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "x2",
+    "x3",
+    "y3",
+    "z3"
+  ],
+  "parameter_values": [
+    9.817,
+    0.596883,
+    1.25338,
+    0.4414,
+    0.2137,
+    0.9797,
+    0.0572
+  ],
+  "mineral_name": "thenardite",
+  "minerals": null,
+  "compounds": [
+    "Ag$_{2}$SO$_{4}$",
+    "Ag$_{2}$SeO$_{4}$",
+    "Cd$_{2}$SiO$_{4}$",
+    "Cr$_{2}$SO$_{4}$",
+    "Cr$_{2}$SiO$_{4}$",
+    "Hg$_{2}$GeO$_{4}$",
+    "Na$_{2}$MoO$_{4}$",
+    "Na$_{2}$SeO$_{4}$"
+  ],
+  "legacy": false,
+  "notes": "$H1_{7}$, Thenardite",
+  "comments": "Na$_{2}$SO$_{4}$ has eight known anhydrous phases. For now we have \\begin{itemize} \\item \\href{current_web_home_dir/A2B4C_oC28_63_ac_fg_c-001}{Na$_{2}$SO$_{4}$ III} and \\item \\href{current_web_home_dir/A2B4C_oF56_70_e_h_a-001}{Thenardite (Na$_{2}$SO$_{4}$ V, $H1_{7}$)} (this structure). \\end{itemize} ~\\vspace{-.25in} \n  The thenardite phase is ``reported to be stable between 32$^\\circ$C and about 180$^\\circ$C'' (Nord, 1973), however the data reported here was taken on synthetic thenardite at 25$^\\circ$C. \n The AFLOW label protocol moves the sodium atoms from the reported (16g) site to the (16e) site. This involves shifting the axes so that $\\hat{z} \\rightarrow \\hat{x} \\rightarrow \\hat{y} \\rightarrow \\hat{z}$."
 }

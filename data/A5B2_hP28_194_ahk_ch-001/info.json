@@ -1,43 +1,43 @@
 {
-    "uid": "VX03",
-    "label": "A5B2_hP28_194_ahk_ch-001",
-    "alias": [
-        "A5B2_hP28_194_ahk_ch"
-    ],
-    "title": "Co$_{2}$Al$_{5}$ ($D8_{11}$) Structure",
-    "icsd": 57597,
-    "ccdc": null,
-    "prototype": "Al5Co2",
-    "prototype_tex": "Al$_{5}$Co$_{2}$",
-    "number_of_species": 2,
-    "pearson_symbol": "hP28",
-    "space_group_number": 194,
-    "strukturbericht": "D811",
-    "strukturbericht_tex": "$D8_{11}$",
-    "part": 2,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x3",
-	"x4",
-	"x5",
-	"z5"
-    ],
-    "parameter_values": [
-	7.656,
-	0.991771,
-	0.533003,
-	0.872003,
-	0.196003,
-	0.439
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "Rh$_{2}$Mg$_{5}$",
-        "Pd$_{2}$Mg$_{5}$"
-    ],
-    "legacy": false,
-    "notes": "$D8_{11}$",
-    "comments": "(Newkirk, 1961) puts the Co I atoms at the (2d) Wyckoff sites. We have shifted the origin by $1/2 \\, c \\, \\hat{z}$, which shifts the Co atoms to the (2c) sites."
+  "uid": "VX03",
+  "label": "A5B2_hP28_194_ahk_ch-001",
+  "alias": [
+    "A5B2_hP28_194_ahk_ch"
+  ],
+  "title": "Co$_{2}$Al$_{5}$ ($D8_{11}$) Structure",
+  "icsd": 57597,
+  "ccdc": 1621646,
+  "prototype": "Al5Co2",
+  "prototype_tex": "Al$_{5}$Co$_{2}$",
+  "number_of_species": 2,
+  "pearson_symbol": "hP28",
+  "space_group_number": 194,
+  "strukturbericht": "D811",
+  "strukturbericht_tex": "$D8_{11}$",
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x3",
+    "x4",
+    "x5",
+    "z5"
+  ],
+  "parameter_values": [
+    7.656,
+    0.991771,
+    0.533003,
+    0.872003,
+    0.196003,
+    0.439
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Rh$_{2}$Mg$_{5}$",
+    "Pd$_{2}$Mg$_{5}$"
+  ],
+  "legacy": false,
+  "notes": "$D8_{11}$",
+  "comments": "(Newkirk, 1961) puts the Co I atoms at the (2d) Wyckoff sites. We have shifted the origin by $1/2 \\, c \\, \\hat{z}$, which shifts the Co atoms to the (2c) sites."
 }

@@ -1,32 +1,32 @@
 {
-    "uid": "087H",
-    "label": "AB_oC8_66_a_e-001",
-    "alias": null,
-    "title": "NbD Structure",
-    "icsd": 71093,
-    "ccdc": null,
-    "prototype": "HNb",
-    "prototype_tex": "HNb",
-    "number_of_species": 2,
-    "pearson_symbol": "oC8",
-    "space_group_number": 66,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-	"a",
-	"b/a",
-	"c/a"
-    ],
-    "parameter_values": [
-	3.447,
-	1.40992,
-	1.40992
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": null,
-    "comments": "The deuterium sites in this structure have 5\\% vacancies. \n (Somenkov, 1968) do not actually give the lattice constants for this structure.  They are inferred from the Nb-H and H-H distances given for NbH$_{0.85}$. \n (Somenkov, 1968) described this structure in space group $Pnnn$ \\#48, but the positions given actually for the conventional cell of space group $Cccm$ \\#66. (Cenzual, 1991)"
+  "uid": "087H",
+  "label": "AB_oC8_66_a_e-001",
+  "alias": null,
+  "title": "NbD Structure",
+  "icsd": 71093,
+  "ccdc": 1632002,
+  "prototype": "HNb",
+  "prototype_tex": "HNb",
+  "number_of_species": 2,
+  "pearson_symbol": "oC8",
+  "space_group_number": 66,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a"
+  ],
+  "parameter_values": [
+    3.447,
+    1.40992,
+    1.40992
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": "The deuterium sites in this structure have 5\\% vacancies. \n (Somenkov, 1968) do not actually give the lattice constants for this structure.  They are inferred from the Nb-H and H-H distances given for NbH$_{0.85}$. \n (Somenkov, 1968) described this structure in space group $Pnnn$ \\#48, but the positions given actually for the conventional cell of space group $Cccm$ \\#66. (Cenzual, 1991)"
 }

@@ -1,43 +1,43 @@
 {
-    "uid": "X9AR",
-    "label": "ABC2_mC8_8_a_a_b-001",
-    "alias": [
-        "ABC2_mC8_8_a_a_b"
-    ],
-    "title": "$F5_{11}$ (KNO$_{2}$) Structure ({\\em Obsolete})",
-    "icsd": 26764,
-    "ccdc": 1602148,
-    "prototype": "KNO2",
-    "prototype_tex": "KNO$_{2}$",
-    "number_of_species": 3,
-    "pearson_symbol": "mC8",
-    "space_group_number": 8,
-    "strukturbericht": "F511",
-    "strukturbericht_tex": "$F5_{11}$",
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"b/a",
-	"c/a",
-	"beta",
-	"x1",
-	"z1",
-	"x2",
-	"z2",
-	"x3",
-	"y3",
-	"z3"
-    ],
-    "parameter_values": [
-	7.31,
-	0.682627,
-	0.608755,
-	114.833
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": "$F5_{11}$, ({\\em Obsolete})",
-    "comments": "``The room-temperature structure of KNO$_{2}$ was first considered to have monoclinic symmetry, \\dots, but recent studies have established the structure to be rhombohedral \\dots'' (Rao, 1975).  The $F5_{11}$ structure is thus neither \\href{current_web_home_dir/ABC2_mP16_14_e_e_2e-003}{the ground state structure of KNO$_{2}$} nor the room-temperature structure, which is somewhat disordered with space group $R\\overline{3}m$ \\#166. We present this structure as part of the historical record.\n (Ziegler, 1936) gave this structure in the $Am$ setting of space group \\#8.  We used FINDSYM to transform it to the standard $Cm$ setting, which involved a considerable change in the orientation and length of the primitive lattice vectors."
+  "uid": "X9AR",
+  "label": "ABC2_mC8_8_a_a_b-001",
+  "alias": [
+    "ABC2_mC8_8_a_a_b"
+  ],
+  "title": "$F5_{11}$ (KNO$_{2}$) Structure ({\\em Obsolete})",
+  "icsd": 26764,
+  "ccdc": 1602148,
+  "prototype": "KNO2",
+  "prototype_tex": "KNO$_{2}$",
+  "number_of_species": 3,
+  "pearson_symbol": "mC8",
+  "space_group_number": 8,
+  "strukturbericht": "F511",
+  "strukturbericht_tex": "$F5_{11}$",
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "beta",
+    "x1",
+    "z1",
+    "x2",
+    "z2",
+    "x3",
+    "y3",
+    "z3"
+  ],
+  "parameter_values": [
+    7.31,
+    0.682627,
+    0.608755,
+    114.833
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "$F5_{11}$, ({\\em Obsolete})",
+  "comments": "``The room-temperature structure of KNO$_{2}$ was first considered to have monoclinic symmetry, \\dots, but recent studies have established the structure to be rhombohedral \\dots'' (Rao, 1975).  The $F5_{11}$ structure is thus neither \\href{current_web_home_dir/ABC2_mP16_14_e_e_2e-003}{the ground state structure of KNO$_{2}$} nor the room-temperature structure, which is somewhat disordered with space group $R\\overline{3}m$ \\#166. We present this structure as part of the historical record.\n (Ziegler, 1936) gave this structure in the $Am$ setting of space group \\#8.  We used FINDSYM to transform it to the standard $Cm$ setting, which involved a considerable change in the orientation and length of the primitive lattice vectors."
 }

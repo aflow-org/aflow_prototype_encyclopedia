@@ -1,52 +1,52 @@
 {
-    "uid": "FETU",
-    "label": "AB5C2_oC32_63_c_c2f_f-004",
-    "alias": [
-        "AB5C2_oC32_63_c_c2f_f"
-    ],
-    "title": "Ta$_{2}$NiS$_{5}$ Structure",
-    "icsd": 61147,
-    "ccdc": null,
-    "prototype": "NiS5Ta2",
-    "prototype_tex": "NiS$_{5}$Ta$_{2}$",
-    "number_of_species": 3,
-    "pearson_symbol": "oC32",
-    "space_group_number": 63,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"b/a",
-	"c/a",
-	"y1",
-	"y2",
-	"y3",
-	"z3",
-	"y4",
-	"z4",
-	"y5",
-	"z5"
-    ],
-    "parameter_values": [
-	3.415,
-	3.55666,
-	4.42079,
-	0.69692,
-	0.31968,
-	0.58282,
-	0.13527,
-	0.1485,
-	0.94974,
-	0.22082,
-	0.10879
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "Ta$_{2}$NiSe$_{5}$ (above 328K)"
-    ],
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "FETU",
+  "label": "AB5C2_oC32_63_c_c2f_f-004",
+  "alias": [
+    "AB5C2_oC32_63_c_c2f_f"
+  ],
+  "title": "Ta$_{2}$NiS$_{5}$ Structure",
+  "icsd": 61147,
+  "ccdc": 1624688,
+  "prototype": "NiS5Ta2",
+  "prototype_tex": "NiS$_{5}$Ta$_{2}$",
+  "number_of_species": 3,
+  "pearson_symbol": "oC32",
+  "space_group_number": 63,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "y1",
+    "y2",
+    "y3",
+    "z3",
+    "y4",
+    "z4",
+    "y5",
+    "z5"
+  ],
+  "parameter_values": [
+    3.415,
+    3.55666,
+    4.42079,
+    0.69692,
+    0.31968,
+    0.58282,
+    0.13527,
+    0.1485,
+    0.94974,
+    0.22082,
+    0.10879
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Ta$_{2}$NiSe$_{5}$ (above 328K)"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

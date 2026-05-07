@@ -1,36 +1,36 @@
 {
-    "uid": "KC70",
-    "label": "A3B_hP8_158_d_a-001",
-    "alias": [
-        "A3B_hP8_158_d_a"
-    ],
-    "title": "$\\beta$-RuCl$_{3}$ Structure",
-    "icsd": 22093,
-    "ccdc": 1598881,
-    "prototype": "Cl3Ru",
-    "prototype_tex": "Cl$_{3}$Ru",
-    "number_of_species": 2,
-    "pearson_symbol": "hP8",
-    "space_group_number": 158,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z1",
-	"x2",
-	"y2",
-	"z2"
-    ],
-    "parameter_values": [
-	6.12,
-	0.92451
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": "$\\beta$-RuCl$_{3}$",
-    "comments": "The crystal structure of both $\\alpha$- and $\\beta$-RuCl$_{3}$ is somewhat uncertain: \n $\\alpha$-RuCl$_{3}$ has been reported in the \\href{current_web_home_dir/A3B_hP24_151_3c_2a-001}{trigonal CrCl$_{3}$ ($D0_{4}$) structure} (Fletcher, 1967) and in the \\href{current_web_home_dir/AB3_mC16_12_g_ij-001}{monoclinic AlCl$_{3}$ structure} (Johnson, 2015). \n (Fletcher, 1967) states that the structure of $\\beta$-RuCl$_{3}$ is consistent with the hexagonal space groups $P6_{3}cm$ \\#185, $P6c2$ \\#188, and $P6_{3}/mcm$ \\#193, in addition to the trigonal space group $P3c1$ \\#158, which we present here. We also provide the structure with space group \\#185: \\href{current_web_home_dir/A3B_hP8_185_c_a-001}{hexagonal $\\beta$-RuCl$_{3}$ (A3B\\_hP8\\_185\\_c\\_a-001)}. \n Space group $P3c1$ \\#158 allows an arbitary choice of the origin of the $z$-axis.  Here we set $z_{1} = 0$ for the ruthenium (2a) atoms."
+  "uid": "KC70",
+  "label": "A3B_hP8_158_d_a-001",
+  "alias": [
+    "A3B_hP8_158_d_a"
+  ],
+  "title": "$\\beta$-RuCl$_{3}$ Structure",
+  "icsd": 22093,
+  "ccdc": 1598881,
+  "prototype": "Cl3Ru",
+  "prototype_tex": "Cl$_{3}$Ru",
+  "number_of_species": 2,
+  "pearson_symbol": "hP8",
+  "space_group_number": 158,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z1",
+    "x2",
+    "y2",
+    "z2"
+  ],
+  "parameter_values": [
+    6.12,
+    0.92451
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "$\\beta$-RuCl$_{3}$",
+  "comments": "The crystal structure of both $\\alpha$- and $\\beta$-RuCl$_{3}$ is somewhat uncertain: \n $\\alpha$-RuCl$_{3}$ has been reported in the \\href{current_web_home_dir/A3B_hP24_151_3c_2a-001}{trigonal CrCl$_{3}$ ($D0_{4}$) structure} (Fletcher, 1967) and in the \\href{current_web_home_dir/AB3_mC16_12_g_ij-001}{monoclinic AlCl$_{3}$ structure} (Johnson, 2015). \n (Fletcher, 1967) states that the structure of $\\beta$-RuCl$_{3}$ is consistent with the hexagonal space groups $P6_{3}cm$ \\#185, $P6c2$ \\#188, and $P6_{3}/mcm$ \\#193, in addition to the trigonal space group $P3c1$ \\#158, which we present here. We also provide the structure with space group \\#185: \\href{current_web_home_dir/A3B_hP8_185_c_a-001}{hexagonal $\\beta$-RuCl$_{3}$ (A3B\\_hP8\\_185\\_c\\_a-001)}. \n Space group $P3c1$ \\#158 allows an arbitary choice of the origin of the $z$-axis.  Here we set $z_{1} = 0$ for the ruthenium (2a) atoms."
 }

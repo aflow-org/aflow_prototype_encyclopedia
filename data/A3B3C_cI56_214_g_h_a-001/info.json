@@ -1,36 +1,36 @@
 {
-    "uid": "4XVN",
-    "label": "A3B3C_cI56_214_g_h_a-001",
-    "alias": [
-        "A3B3C_cI56_214_g_h_a"
-    ],
-    "title": "Ca$_{3}$PI$_{3}$ Structure",
-    "icsd": 9026,
-    "ccdc": null,
-    "prototype": "Ca3I3P",
-    "prototype_tex": "Ca$_{3}$I$_{3}$P",
-    "number_of_species": 3,
-    "pearson_symbol": "cI56",
-    "space_group_number": 214,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-	"a",
-	"y2",
-	"y3"
-    ],
-    "parameter_values": [
-	12.315,
-	0.108,
-	0.384
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "Gd$_{3}$CCl$_{3}$"
-    ],
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "4XVN",
+  "label": "A3B3C_cI56_214_g_h_a-001",
+  "alias": [
+    "A3B3C_cI56_214_g_h_a"
+  ],
+  "title": "Ca$_{3}$PI$_{3}$ Structure",
+  "icsd": 9026,
+  "ccdc": 1594096,
+  "prototype": "Ca3I3P",
+  "prototype_tex": "Ca$_{3}$I$_{3}$P",
+  "number_of_species": 3,
+  "pearson_symbol": "cI56",
+  "space_group_number": 214,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "y2",
+    "y3"
+  ],
+  "parameter_values": [
+    12.315,
+    0.108,
+    0.384
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Gd$_{3}$CCl$_{3}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

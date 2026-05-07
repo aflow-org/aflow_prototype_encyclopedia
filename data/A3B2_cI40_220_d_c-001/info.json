@@ -1,53 +1,53 @@
 {
-    "uid": "M1ZX",
-    "label": "A3B2_cI40_220_d_c-001",
-    "alias": [
-        "A3B2_cI40_220_d_c"
-    ],
-    "title": "Pu$_{2}$C$_{3}$ ($D5_{c}$) Structure",
-    "icsd": 16511,
-    "ccdc": null,
-    "prototype": "C3Pu2",
-    "prototype_tex": "C$_{3}$Pu$_{2}$",
-    "number_of_species": 2,
-    "pearson_symbol": "cI40",
-    "space_group_number": 220,
-    "strukturbericht": "D5c",
-    "strukturbericht_tex": "$D5_{c}$",
-    "part": 1,
-    "parameter_symbols": [
-	"a",
-	"x1",
-	"x2"
-    ],
-    "parameter_values": [
-	8.135,
-	0.5492,
-	0.2896
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "Am$_{2}$C$_{3}$",
-        "Ce$_{2}$C$_{3}$",
-        "Dy$_{2}$C$_{3}$",
-        "Ho$_{2}$C$_{3}$",
-        "Hf$_{2}$C$_{3}$",
-        "La$_{2}$C$_{3}$",
-        "Nd$_{2}$C$_{3}$",
-        "Np$_{2}$C$_{3}$",
-        "Pr$_{2}$C$_{3}$",
-        "Pu$_{2}$C$_{3}$",
-        "Sm$_{2}$C$_{3}$",
-        "Th$_{2}$C$_{3}$",
-        "U$_{2}$C$_{3}$",
-        "Y$_{2}$C$_{3}$",
-        "Cs$_{2}$O$_{3}$",
-        "Ru$_{2}$Er$_{3}$",
-        "Rb$_{2}$O$_{3}$",
-        "Ru$_{2}$Y$_{3}$"
-    ],
-    "legacy": false,
-    "notes": "$D5_{c}$",
-    "comments": "We use the data for $^{240}$Pu."
+  "uid": "M1ZX",
+  "label": "A3B2_cI40_220_d_c-001",
+  "alias": [
+    "A3B2_cI40_220_d_c"
+  ],
+  "title": "Pu$_{2}$C$_{3}$ ($D5_{c}$) Structure",
+  "icsd": 16511,
+  "ccdc": 1597085,
+  "prototype": "C3Pu2",
+  "prototype_tex": "C$_{3}$Pu$_{2}$",
+  "number_of_species": 2,
+  "pearson_symbol": "cI40",
+  "space_group_number": 220,
+  "strukturbericht": "D5c",
+  "strukturbericht_tex": "$D5_{c}$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "x1",
+    "x2"
+  ],
+  "parameter_values": [
+    8.135,
+    0.5492,
+    0.2896
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Am$_{2}$C$_{3}$",
+    "Ce$_{2}$C$_{3}$",
+    "Dy$_{2}$C$_{3}$",
+    "Ho$_{2}$C$_{3}$",
+    "Hf$_{2}$C$_{3}$",
+    "La$_{2}$C$_{3}$",
+    "Nd$_{2}$C$_{3}$",
+    "Np$_{2}$C$_{3}$",
+    "Pr$_{2}$C$_{3}$",
+    "Pu$_{2}$C$_{3}$",
+    "Sm$_{2}$C$_{3}$",
+    "Th$_{2}$C$_{3}$",
+    "U$_{2}$C$_{3}$",
+    "Y$_{2}$C$_{3}$",
+    "Cs$_{2}$O$_{3}$",
+    "Ru$_{2}$Er$_{3}$",
+    "Rb$_{2}$O$_{3}$",
+    "Ru$_{2}$Y$_{3}$"
+  ],
+  "legacy": false,
+  "notes": "$D5_{c}$",
+  "comments": "We use the data for $^{240}$Pu."
 }

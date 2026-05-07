@@ -1,34 +1,34 @@
 {
-    "uid": "88N3",
-    "label": "ABC2_tP4_115_a_c_g-001",
-    "alias": [
-        "ABC2_tP4_115_a_c_g"
-    ],
-    "title": "$F6_{1}$ Chalcopyrite (CuFeS$_{2}$) Structure ({\\em Obsolete})",
-    "icsd": 27653,
-    "ccdc": null,
-    "prototype": "CuFeS2",
-    "prototype_tex": "CuFeS$_{2}$",
-    "number_of_species": 3,
-    "pearson_symbol": "tP4",
-    "space_group_number": 115,
-    "strukturbericht": "F61",
-    "strukturbericht_tex": "$F6_{1}$",
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z3"
-    ],
-    "parameter_values": [
-	3.7265,
-	1.3938,
-	0.19
-    ],
-    "mineral_name": "chalcopyrite",
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": "$F6_{1}$ ({\\em Obsolete})",
-    "comments": "This structure was presented as the Chalcopyrite structure and given the {\\em Strukturbericht} designatiion $F6_{1}$ in (Ewald, 1931).  It was subsequently replaced with the \\href{current_web_home_dir/ABC2_tI16_122_a_b_d-001}{$E1_1$ (ABC2\\_tI16\\_122\\_a\\_b\\_d) structure}, which is now the accepted structure for chalcopyrite and similar compounds.  We include the $F6_{1}$ structure as part of this historical record."
+  "uid": "88N3",
+  "label": "ABC2_tP4_115_a_c_g-001",
+  "alias": [
+    "ABC2_tP4_115_a_c_g"
+  ],
+  "title": "$F6_{1}$ Chalcopyrite (CuFeS$_{2}$) Structure ({\\em Obsolete})",
+  "icsd": 27653,
+  "ccdc": 1602866,
+  "prototype": "CuFeS2",
+  "prototype_tex": "CuFeS$_{2}$",
+  "number_of_species": 3,
+  "pearson_symbol": "tP4",
+  "space_group_number": 115,
+  "strukturbericht": "F61",
+  "strukturbericht_tex": "$F6_{1}$",
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z3"
+  ],
+  "parameter_values": [
+    3.7265,
+    1.3938,
+    0.19
+  ],
+  "mineral_name": "chalcopyrite",
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "$F6_{1}$ ({\\em Obsolete})",
+  "comments": "This structure was presented as the Chalcopyrite structure and given the {\\em Strukturbericht} designatiion $F6_{1}$ in (Ewald, 1931).  It was subsequently replaced with the \\href{current_web_home_dir/ABC2_tI16_122_a_b_d-001}{$E1_1$ (ABC2\\_tI16\\_122\\_a\\_b\\_d) structure}, which is now the accepted structure for chalcopyrite and similar compounds.  We include the $F6_{1}$ structure as part of this historical record."
 }

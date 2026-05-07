@@ -1,46 +1,46 @@
 {
-    "uid": "WBGV",
-    "label": "AB2C2_oC20_63_c_f_2c-001",
-    "alias": [
-        "AB2C2_oC20_63_c_f_2c"
-    ],
-    "title": "Lepidocrocite [$\\gamma$-FeO(OH), $E0_{4}$] Structure",
-    "icsd": 108876,
-    "ccdc": 1666517,
-    "prototype": "FeHO2",
-    "prototype_tex": "FeHO$_{2}$",
-    "number_of_species": 3,
-    "pearson_symbol": "oC20",
-    "space_group_number": 63,
-    "strukturbericht": "E04",
-    "strukturbericht_tex": "$E0_{4}$",
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"b/a",
-	"c/a",
-	"y1",
-	"y2",
-	"y3",
-	"y4",
-	"z4"
-    ],
-    "parameter_values": [
-	3.07,
-	4.08143,
-	1.26254,
-	0.3137,
-	0.7158,
-	0.9276,
-	0.0143,
-	0.8663
-    ],
-    "mineral_name": "lepidocrocite",
-    "minerals": {
-	"lepidocrocite":"FeHO2"
-    },
-    "compounds": null,
-    "legacy": false,
-    "notes": "$E0_{4}$, Lepidocrocite",
-    "comments": "(Gottfried, 1937) gave $\\gamma$-FeO(OH) the {\\em Strukturbericht} designation $E0_{4}$, but did not determine the positions of the hydrogens. Using a deuterated form of FeO(OH) (Christensen, 1982) found that the hydrogen atoms are located on the (8f) Wyckoff sites, but these sites are only 49.2\\% occupied according to the ICSD CIF.  We use this structure as the prototype."
+  "uid": "WBGV",
+  "label": "AB2C2_oC20_63_c_f_2c-001",
+  "alias": [
+    "AB2C2_oC20_63_c_f_2c"
+  ],
+  "title": "Lepidocrocite [$\\gamma$-FeO(OH), $E0_{4}$] Structure",
+  "icsd": 108876,
+  "ccdc": 1666517,
+  "prototype": "FeHO2",
+  "prototype_tex": "FeHO$_{2}$",
+  "number_of_species": 3,
+  "pearson_symbol": "oC20",
+  "space_group_number": 63,
+  "strukturbericht": "E04",
+  "strukturbericht_tex": "$E0_{4}$",
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "y1",
+    "y2",
+    "y3",
+    "y4",
+    "z4"
+  ],
+  "parameter_values": [
+    3.07,
+    4.08143,
+    1.26254,
+    0.3137,
+    0.7158,
+    0.9276,
+    0.0143,
+    0.8663
+  ],
+  "mineral_name": "lepidocrocite",
+  "minerals": {
+    "lepidocrocite": "FeHO2"
+  },
+  "compounds": null,
+  "legacy": false,
+  "notes": "$E0_{4}$, Lepidocrocite",
+  "comments": "(Gottfried, 1937) gave $\\gamma$-FeO(OH) the {\\em Strukturbericht} designation $E0_{4}$, but did not determine the positions of the hydrogens. Using a deuterated form of FeO(OH) (Christensen, 1982) found that the hydrogen atoms are located on the (8f) Wyckoff sites, but these sites are only 49.2\\% occupied according to the ICSD CIF.  We use this structure as the prototype."
 }

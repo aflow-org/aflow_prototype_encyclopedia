@@ -1,38 +1,38 @@
 {
-    "uid": "3V7H",
-    "label": "A_hP1_191_a-001",
-    "alias": [
-        "A_hP1_191_a"
-    ],
-    "title": "Simple Hexagonal (HgSn$_{6-10}$ $A_{f}$) Structure",
-    "icsd": 639211,
-    "ccdc": 1758642,
-    "prototype": "HgSn6-10",
-    "prototype_tex": "HgSn$_{6-10}$",
-    "number_of_species": 1,
-    "pearson_symbol": "hP1",
-    "space_group_number": 191,
-    "strukturbericht": "Af",
-    "strukturbericht_tex": "$A_{f}$",
-    "part": 1,
-    "parameter_symbols": [
-	"a",
-	"c/a"
-    ],
-    "parameter_values": [
-	3.2062,
-	0.931196
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "Si (metastable)",
-        "disordered phases of BiIn",
-        "CdSn$_{19}$",
-        "In$_{7}$Sb$_{3}$",
-        "InSb"
-    ],
-    "legacy": false,
-    "notes": "$A_{f}$",
-    "comments": "Unlike the simple cubic lattice, there are no elements which take this structure as the ground state. There is a metastable silicon phase with this structure. The prototype state is a mercury-tin alloy. Thus the atom type ``M'' represents an average of Hg and Sn atoms. "
+  "uid": "3V7H",
+  "label": "A_hP1_191_a-001",
+  "alias": [
+    "A_hP1_191_a"
+  ],
+  "title": "Simple Hexagonal (HgSn$_{6-10}$ $A_{f}$) Structure",
+  "icsd": 639211,
+  "ccdc": 1758642,
+  "prototype": "HgSn6-10",
+  "prototype_tex": "HgSn$_{6-10}$",
+  "number_of_species": 1,
+  "pearson_symbol": "hP1",
+  "space_group_number": 191,
+  "strukturbericht": "Af",
+  "strukturbericht_tex": "$A_{f}$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a"
+  ],
+  "parameter_values": [
+    3.2062,
+    0.931196
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Si (metastable)",
+    "disordered phases of BiIn",
+    "CdSn$_{19}$",
+    "In$_{7}$Sb$_{3}$",
+    "InSb"
+  ],
+  "legacy": false,
+  "notes": "$A_{f}$",
+  "comments": "Unlike the simple cubic lattice, there are no elements which take this structure as the ground state. There is a metastable silicon phase with this structure. The prototype state is a mercury-tin alloy. Thus the atom type ``M'' represents an average of Hg and Sn atoms. "
 }

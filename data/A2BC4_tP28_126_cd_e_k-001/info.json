@@ -1,46 +1,46 @@
 {
-    "uid": "4WPC",
-    "label": "A2BC4_tP28_126_cd_e_k-001",
-    "alias": [
-        "A2BC4_tP28_126_cd_e_k"
-    ],
-    "title": "BiAl$_{2}$S$_{4}$ Structure",
-    "icsd": 408439,
-    "ccdc": null,
-    "prototype": "Al2BiS4",
-    "prototype_tex": "Al$_{2}$BiS$_{4}$",
-    "number_of_species": 3,
-    "pearson_symbol": "tP28",
-    "space_group_number": 126,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z3",
-	"x4",
-	"y4",
-	"z4"
-    ],
-    "parameter_values": [
-	7.492,
-	1.58609,
-	0.11808,
-	0.0865,
-	0.5924,
-	0.1254
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "BiAl$_{2}$Se$_{4}$",
-        "BiGa$_{2}$S$_{4}$",
-        "BiGa$_{2}$Se$_{4}$",
-        "Bi(Al,Ga)$_{2}$S$_{4}$",
-        "Bi(Al,Ga)$_{2}$Se$_{4}$"
-    ],
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "4WPC",
+  "label": "A2BC4_tP28_126_cd_e_k-001",
+  "alias": [
+    "A2BC4_tP28_126_cd_e_k"
+  ],
+  "title": "BiAl$_{2}$S$_{4}$ Structure",
+  "icsd": 408439,
+  "ccdc": 1725571,
+  "prototype": "Al2BiS4",
+  "prototype_tex": "Al$_{2}$BiS$_{4}$",
+  "number_of_species": 3,
+  "pearson_symbol": "tP28",
+  "space_group_number": 126,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z3",
+    "x4",
+    "y4",
+    "z4"
+  ],
+  "parameter_values": [
+    7.492,
+    1.58609,
+    0.11808,
+    0.0865,
+    0.5924,
+    0.1254
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "BiAl$_{2}$Se$_{4}$",
+    "BiGa$_{2}$S$_{4}$",
+    "BiGa$_{2}$Se$_{4}$",
+    "Bi(Al,Ga)$_{2}$S$_{4}$",
+    "Bi(Al,Ga)$_{2}$Se$_{4}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

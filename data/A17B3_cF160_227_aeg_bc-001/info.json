@@ -1,34 +1,34 @@
 {
-    "uid": "33TQ",
-    "label": "A17B3_cF160_227_aeg_bc-001",
-    "alias": null,
-    "title": "Na$_{24-\\delta}$Ge$_{136}$ Clathrate Structure",
-    "icsd": 113914,
-    "ccdc": null,
-    "prototype": "Ge17Na3",
-    "prototype_tex": "Ge$_{17}$Na$_{3}$",
-    "number_of_species": 2,
-    "pearson_symbol": "cF160",
-    "space_group_number": 227,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 5,
-    "parameter_symbols": [
-	"a",
-	"x4",
-	"x5",
-	"z5"
-    ],
-    "parameter_values": [
-	15.44,
-	0.2182,
-	0.0674,
-	0.3715
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": null,
-    "comments": "This is a metastable type II clathrate structure.  Only 2/3 of the Na (8b) sites are occupied, making the actual composition Na$_{21.33}$Ge$_{136}$ (Na$_{1.253}$Ge$_{17}$). \n We use the Rietveld refinement data from (Feng, 2021)."
+  "uid": "33TQ",
+  "label": "A17B3_cF160_227_aeg_bc-001",
+  "alias": null,
+  "title": "Na$_{24-\\delta}$Ge$_{136}$ Clathrate Structure",
+  "icsd": 113914,
+  "ccdc": 2228987,
+  "prototype": "Ge17Na3",
+  "prototype_tex": "Ge$_{17}$Na$_{3}$",
+  "number_of_species": 2,
+  "pearson_symbol": "cF160",
+  "space_group_number": 227,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 5,
+  "parameter_symbols": [
+    "a",
+    "x4",
+    "x5",
+    "z5"
+  ],
+  "parameter_values": [
+    15.44,
+    0.2182,
+    0.0674,
+    0.3715
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": "This is a metastable type II clathrate structure.  Only 2/3 of the Na (8b) sites are occupied, making the actual composition Na$_{21.33}$Ge$_{136}$ (Na$_{1.253}$Ge$_{17}$). \n We use the Rietveld refinement data from (Feng, 2021)."
 }

@@ -1,38 +1,38 @@
 {
-    "uid": "RB2M",
-    "label": "A3B_hP8_173_c_b-001",
-    "alias": [
-        "A3B_hP8_173_c_b"
-    ],
-    "title": "PI$_{3}$ Structure",
-    "icsd": 311,
-    "ccdc": null,
-    "prototype": "I3P",
-    "prototype_tex": "I$_{3}$P",
-    "number_of_species": 2,
-    "pearson_symbol": "hP8",
-    "space_group_number": 173,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z1",
-	"x2",
-	"y2",
-	"z2"
-    ],
-    "parameter_values": [
-	7.133,
-	1.03939
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "HCl$_{3}$"
-    ],
-    "legacy": false,
-    "notes": null,
-    "comments": "Space group $P6_3$ \\#173 allows an arbitrary choice for the origin of the $z$-axis.  We use this to set $z_{1} = 0$ for the potassium site."
+  "uid": "RB2M",
+  "label": "A3B_hP8_173_c_b-001",
+  "alias": [
+    "A3B_hP8_173_c_b"
+  ],
+  "title": "PI$_{3}$ Structure",
+  "icsd": 311,
+  "ccdc": 1590858,
+  "prototype": "I3P",
+  "prototype_tex": "I$_{3}$P",
+  "number_of_species": 2,
+  "pearson_symbol": "hP8",
+  "space_group_number": 173,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z1",
+    "x2",
+    "y2",
+    "z2"
+  ],
+  "parameter_values": [
+    7.133,
+    1.03939
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "HCl$_{3}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "Space group $P6_3$ \\#173 allows an arbitrary choice for the origin of the $z$-axis.  We use this to set $z_{1} = 0$ for the potassium site."
 }

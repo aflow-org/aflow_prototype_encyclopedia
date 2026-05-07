@@ -1,38 +1,38 @@
 {
-    "uid": "BRYB",
-    "label": "A_mC4_15_e-001",
-    "alias": [
-        "A_mC4_15_e"
-    ],
-    "title": "$\\beta$-Ga Structure ({\\em Obsolete})",
-    "icsd": 23247,
-    "ccdc": null,
-    "prototype": "Ga",
-    "prototype_tex": "Ga",
-    "number_of_species": 1,
-    "pearson_symbol": "mC4",
-    "space_group_number": 15,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"b/a",
-	"c/a",
-	"beta",
-	"y1"
-    ],
-    "parameter_values": [
-	2.766,
-	2.91142,
-	1.59266,
-	130.898,
-	0.881
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": "$\\beta$-Ga ({\\em Obsolete})",
-    "comments": "This was proposed as a metastable structure of gallium, visible for short times at atomospheric pressure.  The true structure is isostructural with \\href{current_web_home_dir/A_tI2_139_a-001}{indium ($A6$)}, and stablized under pressure."
+  "uid": "BRYB",
+  "label": "A_mC4_15_e-001",
+  "alias": [
+    "A_mC4_15_e"
+  ],
+  "title": "$\\beta$-Ga Structure ({\\em Obsolete})",
+  "icsd": 23247,
+  "ccdc": 1599379,
+  "prototype": "Ga",
+  "prototype_tex": "Ga",
+  "number_of_species": 1,
+  "pearson_symbol": "mC4",
+  "space_group_number": 15,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "beta",
+    "y1"
+  ],
+  "parameter_values": [
+    2.766,
+    2.91142,
+    1.59266,
+    130.898,
+    0.881
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "$\\beta$-Ga ({\\em Obsolete})",
+  "comments": "This was proposed as a metastable structure of gallium, visible for short times at atomospheric pressure.  The true structure is isostructural with \\href{current_web_home_dir/A_tI2_139_a-001}{indium ($A6$)}, and stablized under pressure."
 }

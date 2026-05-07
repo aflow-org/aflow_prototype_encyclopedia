@@ -1,32 +1,32 @@
 {
-    "uid": "NG7Y",
-    "label": "A_cP1_221_a-001",
-    "alias": [
-        "A_cP1_221_a"
-    ],
-    "title": "$\\alpha$-Po ($A_{h}$, simple cubic) Structure",
-    "icsd": 655031,
-    "ccdc": 1765802,
-    "prototype": "Po",
-    "prototype_tex": "Po",
-    "number_of_species": 1,
-    "pearson_symbol": "cP1",
-    "space_group_number": 221,
-    "strukturbericht": "Ah",
-    "strukturbericht_tex": "$A_{h}$",
-    "part": 1,
-    "parameter_symbols": [
-	"a"
-    ],
-    "parameter_values": [
-	3.34
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "Nd$_{0.5}$Te$_{0.5}$"
-    ],
-    "legacy": false,
-    "notes": "$A_{h}$, $\\alpha$-Po, simple cubic lattice",
-    "comments": "Solid polonium exists in two phases: cubic \\href{current_web_home_dir/A_cP1_221_a-001}{$\\alpha$-Po ($A_{h}$)} (this structure) is the ground state and rhombohedral \\href{current_web_home_dir/A_hR1_166_a-001}{$\\beta$-Po ($A_{l}$)} (Donohue, 1974). There is a large amount of hysteresis observed in the transition, which occurs at 54$^\\circ$C for $\\alpha \\rightarrow \\beta$ and 18$^\\circ$ for $\\beta \\rightarrow \\alpha$. \n This is a simple cubic lattice. Polonium is the only element known with this ground state. Originally Po was assigned {\\em Strukturbericht} designation \\href{current_web_home_dir/A_mC12_5_3c-001}{$A19$}, which is now considered to be incorrect. (Donohue, 1982, 390)"
+  "uid": "NG7Y",
+  "label": "A_cP1_221_a-001",
+  "alias": [
+    "A_cP1_221_a"
+  ],
+  "title": "$\\alpha$-Po ($A_{h}$, simple cubic) Structure",
+  "icsd": 655031,
+  "ccdc": 1765802,
+  "prototype": "Po",
+  "prototype_tex": "Po",
+  "number_of_species": 1,
+  "pearson_symbol": "cP1",
+  "space_group_number": 221,
+  "strukturbericht": "Ah",
+  "strukturbericht_tex": "$A_{h}$",
+  "part": 1,
+  "parameter_symbols": [
+    "a"
+  ],
+  "parameter_values": [
+    3.34
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Nd$_{0.5}$Te$_{0.5}$"
+  ],
+  "legacy": false,
+  "notes": "$A_{h}$, $\\alpha$-Po, simple cubic lattice",
+  "comments": "Solid polonium exists in two phases: cubic \\href{current_web_home_dir/A_cP1_221_a-001}{$\\alpha$-Po ($A_{h}$)} (this structure) is the ground state and rhombohedral \\href{current_web_home_dir/A_hR1_166_a-001}{$\\beta$-Po ($A_{l}$)} (Donohue, 1974). There is a large amount of hysteresis observed in the transition, which occurs at 54$^\\circ$C for $\\alpha \\rightarrow \\beta$ and 18$^\\circ$ for $\\beta \\rightarrow \\alpha$. \n This is a simple cubic lattice. Polonium is the only element known with this ground state. Originally Po was assigned {\\em Strukturbericht} designation \\href{current_web_home_dir/A_mC12_5_3c-001}{$A19$}, which is now considered to be incorrect. (Donohue, 1982, 390)"
 }

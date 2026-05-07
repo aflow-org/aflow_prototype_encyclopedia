@@ -1,36 +1,36 @@
 {
-    "uid": "AFH9",
-    "label": "A2BC_hR12_166_g_d_ac-001",
-    "alias": null,
-    "title": "ThB$_{2}$C Structure",
-    "icsd": 68414,
-    "ccdc": null,
-    "prototype": "BCTh2",
-    "prototype_tex": "BCTh$_{2}$",
-    "number_of_species": 3,
-    "pearson_symbol": "hR12",
-    "space_group_number": 166,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x2",
-	"x4"
-    ],
-    "parameter_values": [
-	6.67606,
-	1.70399,
-	0.3142,
-	0.7767
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-	"$\\beta$-UB$_{2}$C (HT)"
-    ],
-    "legacy": false,
-    "notes": null,
-    "comments": "We take the coordinates from the neutron powder diffraction data at 298K. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
+  "uid": "AFH9",
+  "label": "A2BC_hR12_166_g_d_ac-001",
+  "alias": null,
+  "title": "ThB$_{2}$C Structure",
+  "icsd": 68414,
+  "ccdc": 1630337,
+  "prototype": "BCTh2",
+  "prototype_tex": "BCTh$_{2}$",
+  "number_of_species": 3,
+  "pearson_symbol": "hR12",
+  "space_group_number": 166,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x2",
+    "x4"
+  ],
+  "parameter_values": [
+    6.67606,
+    1.70399,
+    0.3142,
+    0.7767
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "$\\beta$-UB$_{2}$C (HT)"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "We take the coordinates from the neutron powder diffraction data at 298K. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

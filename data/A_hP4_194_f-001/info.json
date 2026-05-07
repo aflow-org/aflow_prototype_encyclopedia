@@ -1,42 +1,42 @@
 {
-    "uid": "4AMD",
-    "label": "A_hP4_194_f-001",
-    "alias": [
-        "A_hP4_194_f"
-    ],
-    "title": "Lonsdaleite (Hexagonal Diamond) Structure",
-    "icsd": 66465,
-    "ccdc": 1628543,
-    "prototype": "C",
-    "prototype_tex": "C",
-    "number_of_species": 1,
-    "pearson_symbol": "hP4",
-    "space_group_number": 194,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 1,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z1"
-    ],
-    "parameter_values": [
-	2.508,
-	1.66786,
-	0.05995
-    ],
-    "mineral_name": "lonsdaleite",
-    "minerals": {
-	"lonsdaleite": "C"
-    },
-    "compounds": [
-        "Ge (hexagonal)",
-        "H (hexagonal)",
-        "N (hexagonal)",
-        "O (hexagonal)",
-        "Si (hexagonal)"
-    ],
-    "legacy": false,
-    "notes": "Lonsdaleite",
-    "comments": "Hexagonal diamond was named lonsdaleite in honor of \\href{https://en.wikipedia.org/wiki/Kathleen_Lonsdale}{Kathleen Lonsdale}. \n This structure is related to the \\href{current_web_home_dir/A_hP2_194_c-001}{hcp ($A3$) structure} in the same way that \\href{current_web_home_dir/A_cF8_227_a-001}{diamond ($A4$)} is related to the \\href{current_web_home_dir/A_cF4_225_a-001}{fcc lattice ($A1$)}. \n It can also be obtained from \\href{current_web_home_dir/AB_hP4_186_b_b-001}{wurtzite ($B4$)} by replacing both the Zn and S atoms by carbon. \n The ``ideal'' structure, where the nearest-neighbor environment of each atom is the same as in diamond, is achieved when we take $c/a=\\sqrt{8/3}$ and $z_{1}=1/16$. \n Alternatively, we can take $z_{1}=3/16$, in which case the origin is at the center of a C-C bond aligned in the [0001] direction. \n When $z_{1}=0$ this structure becomes a set of graphitic sheets, but not true \\href{current_web_home_dir/A_hP4_194_bc-001}{hexagonal graphite ($A9$)}, as the stacking differs. \n (Yoshiasa, 2003) does not have an ICSD entry for Lonsdaleite, so we use the one provided for (Ownby, 1992). \n Carbon can also be found in nature as \\href{current_web_home_dir/A_hP4_194_bc-001}{graphite ($A9$)}, \\href{current_web_home_dir/A_cF8_227_a-001}{cubic diamond ($A4$)} and \\href{current_web_home_dir/A_cP240_205_10d-001}{buckminsterfullerene (C$_{60}$)}."
+  "uid": "4AMD",
+  "label": "A_hP4_194_f-001",
+  "alias": [
+    "A_hP4_194_f"
+  ],
+  "title": "Lonsdaleite (Hexagonal Diamond) Structure",
+  "icsd": 66465,
+  "ccdc": 1628543,
+  "prototype": "C",
+  "prototype_tex": "C",
+  "number_of_species": 1,
+  "pearson_symbol": "hP4",
+  "space_group_number": 194,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z1"
+  ],
+  "parameter_values": [
+    2.508,
+    1.66786,
+    0.05995
+  ],
+  "mineral_name": "lonsdaleite",
+  "minerals": {
+    "lonsdaleite": "C"
+  },
+  "compounds": [
+    "Ge (hexagonal)",
+    "H (hexagonal)",
+    "N (hexagonal)",
+    "O (hexagonal)",
+    "Si (hexagonal)"
+  ],
+  "legacy": false,
+  "notes": "Lonsdaleite",
+  "comments": "Hexagonal diamond was named lonsdaleite in honor of \\href{https://en.wikipedia.org/wiki/Kathleen_Lonsdale}{Kathleen Lonsdale}. \n This structure is related to the \\href{current_web_home_dir/A_hP2_194_c-001}{hcp ($A3$) structure} in the same way that \\href{current_web_home_dir/A_cF8_227_a-001}{diamond ($A4$)} is related to the \\href{current_web_home_dir/A_cF4_225_a-001}{fcc lattice ($A1$)}. \n It can also be obtained from \\href{current_web_home_dir/AB_hP4_186_b_b-001}{wurtzite ($B4$)} by replacing both the Zn and S atoms by carbon. \n The ``ideal'' structure, where the nearest-neighbor environment of each atom is the same as in diamond, is achieved when we take $c/a=\\sqrt{8/3}$ and $z_{1}=1/16$. \n Alternatively, we can take $z_{1}=3/16$, in which case the origin is at the center of a C-C bond aligned in the [0001] direction. \n When $z_{1}=0$ this structure becomes a set of graphitic sheets, but not true \\href{current_web_home_dir/A_hP4_194_bc-001}{hexagonal graphite ($A9$)}, as the stacking differs. \n (Yoshiasa, 2003) does not have an ICSD entry for Lonsdaleite, so we use the one provided for (Ownby, 1992). \n Carbon can also be found in nature as \\href{current_web_home_dir/A_hP4_194_bc-001}{graphite ($A9$)}, \\href{current_web_home_dir/A_cF8_227_a-001}{cubic diamond ($A4$)} and \\href{current_web_home_dir/A_cP240_205_10d-001}{buckminsterfullerene (C$_{60}$)}."
 }

@@ -1,34 +1,34 @@
 {
-    "uid": "UNPK",
-    "label": "A_tP4_129_ac-001",
-    "alias": [
-        "A_tP4_129_ac"
-    ],
-    "title": "$\\beta$-Np ($A_{d}$) Structure",
-    "icsd": 44379,
-    "ccdc": 1613777,
-    "prototype": "Np",
-    "prototype_tex": "Np",
-    "number_of_species": 1,
-    "pearson_symbol": "tP4",
-    "space_group_number": 129,
-    "strukturbericht": "Ad",
-    "strukturbericht_tex": "$A_{d}$",
-    "part": 1,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z2"
-    ],
-    "parameter_values": [
-	4.897,
-	0.691852,
-	0.375
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": "$A_{d}$, $\\beta$-Np",
-    "comments": "Neptunium is found in three forms (Donohue, 1974): \\begin{itemize} \\item The ground state, \\href{current_web_home_dir/A_oP8_62_2c-001}{$\\alpha$-Np ($A_{c}$)}, stable below 280$^\\circ$C, \\item \\href{current_web_home_dir/A_tP4_129_ac-001}{$\\beta$-Np ($A_{d}$)}, stable in the range 280-577$^\\circ$C, (this structure) and \\item \\href{current_web_home_dir/A_cI2_229_a-001}{a body-centered cubic ($A2$)} structure above 577$^\\circ$C. \\end{itemize} ~ \\vspace{-.25in} \n When $z=1/2$ the atoms in this structure are in the \\href{current_web_home_dir/AB_tP2_123_a_d-001}{$L1_{0}$ (CuAu)} or the \\href{current_web_home_dir/A_tI2_139_a-001}{$A6$ (indium)} structure. This structure is identical to the \\href{current_web_home_dir/AB_tP4_129_a_c-001}{$B10$ (PbO) structure}. Pearson's Handbook, along with the original papers, give the space group as $P42_{1}c$ \\#113. However, as noted by Structure Reports 15, 121 (1951), the correct space group is $P4/nmm$ \\#129. $P42_{1}c$ is a subgroup of $P4/nmm$."
+  "uid": "UNPK",
+  "label": "A_tP4_129_ac-001",
+  "alias": [
+    "A_tP4_129_ac"
+  ],
+  "title": "$\\beta$-Np ($A_{d}$) Structure",
+  "icsd": 44379,
+  "ccdc": 1613777,
+  "prototype": "Np",
+  "prototype_tex": "Np",
+  "number_of_species": 1,
+  "pearson_symbol": "tP4",
+  "space_group_number": 129,
+  "strukturbericht": "Ad",
+  "strukturbericht_tex": "$A_{d}$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z2"
+  ],
+  "parameter_values": [
+    4.897,
+    0.691852,
+    0.375
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "$A_{d}$, $\\beta$-Np",
+  "comments": "Neptunium is found in three forms (Donohue, 1974): \\begin{itemize} \\item The ground state, \\href{current_web_home_dir/A_oP8_62_2c-001}{$\\alpha$-Np ($A_{c}$)}, stable below 280$^\\circ$C, \\item \\href{current_web_home_dir/A_tP4_129_ac-001}{$\\beta$-Np ($A_{d}$)}, stable in the range 280-577$^\\circ$C, (this structure) and \\item \\href{current_web_home_dir/A_cI2_229_a-001}{a body-centered cubic ($A2$)} structure above 577$^\\circ$C. \\end{itemize} ~ \\vspace{-.25in} \n When $z=1/2$ the atoms in this structure are in the \\href{current_web_home_dir/AB_tP2_123_a_d-001}{$L1_{0}$ (CuAu)} or the \\href{current_web_home_dir/A_tI2_139_a-001}{$A6$ (indium)} structure. This structure is identical to the \\href{current_web_home_dir/AB_tP4_129_a_c-001}{$B10$ (PbO) structure}. Pearson's Handbook, along with the original papers, give the space group as $P42_{1}c$ \\#113. However, as noted by Structure Reports 15, 121 (1951), the correct space group is $P4/nmm$ \\#129. $P42_{1}c$ is a subgroup of $P4/nmm$."
 }

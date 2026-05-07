@@ -1,32 +1,32 @@
 {
-    "uid": "CJUB",
-    "label": "A3B2_hP10_194_bf_ac-001",
-    "alias": null,
-    "title": "$\\beta$-Be$_{3}$N$_{2}$ Structure",
-    "icsd": 25656,
-    "ccdc": null,
-    "prototype": "Be3N2",
-    "prototype_tex": "Be$_{3}$N$_{2}$",
-    "number_of_species": 2,
-    "pearson_symbol": "hP10",
-    "space_group_number": 194,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z4"
-    ],
-    "parameter_values": [
-	2.841,
-	3.41183,
-	0.075
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": "$\\beta$-Be$_{3}$N$_{2}$",
-    "comments": "This is the high-temperature structure of Be$_{3}$N$_{2}$.  Below 1270$^\\circ$C $\\alpha$-Be$_{3}$N$_{2}$ is in the cubic \\href{current_web_home_dir/AB3C6_cI80_206_a_d_e-001}{bixbyite ($D5_{3}$) structure} (Wriedt, 1987)."
+  "uid": "CJUB",
+  "label": "A3B2_hP10_194_bf_ac-001",
+  "alias": null,
+  "title": "$\\beta$-Be$_{3}$N$_{2}$ Structure",
+  "icsd": 25656,
+  "ccdc": 1601305,
+  "prototype": "Be3N2",
+  "prototype_tex": "Be$_{3}$N$_{2}$",
+  "number_of_species": 2,
+  "pearson_symbol": "hP10",
+  "space_group_number": 194,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z4"
+  ],
+  "parameter_values": [
+    2.841,
+    3.41183,
+    0.075
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "$\\beta$-Be$_{3}$N$_{2}$",
+  "comments": "This is the high-temperature structure of Be$_{3}$N$_{2}$.  Below 1270$^\\circ$C $\\alpha$-Be$_{3}$N$_{2}$ is in the cubic \\href{current_web_home_dir/AB3C6_cI80_206_a_d_e-001}{bixbyite ($D5_{3}$) structure} (Wriedt, 1987)."
 }

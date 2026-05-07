@@ -1,37 +1,44 @@
 {
-    "uid": "A1RE",
-    "label": "AB4C_oC24_63_c_acf_c-002",
-    "alias": null,
-    "title": "High-Pressure BaMgF$_{4}$ Structure",
-    "icsd": 182599,
-    "ccdc": 422927,
-    "prototype": "BaF4Mg",
-    "prototype_tex": "BaF$_{4}$Mg",
-    "number_of_species": 3,
-    "pearson_symbol": "oC24",
-    "space_group_number": 63,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 5,
-    "parameter_symbols": [
-        "a","b/a","c/a","y2","y3","y4","y5","z5"
-    ],
-    "parameter_values": [
-        4.046,
-	3.42561,
-	1.3915,
-	0.3608,
-	0.5830,
-	0.0979,
-	0.8040,
-	0.9890
-    ],
-    "mineral_name": null,
-    "minerals": {},
-    "compounds": [
-	"NaAlF$_{4}$"
-    ],
-    "legacy": false,
-    "notes": "6.08 GPa",
-    "comments": "This is the high pressure structure of BaMgF$_{4}$, stable above 5 GPa. Below that pressure it is in the \\href{current_web_home_dir/AB4C_oC24_36_a_4a_a-002}{BaZnF$_{4}$ structure}. (Posse, 2011) \n The data shown here was taken at 6.08 GPa."
+  "uid": "A1RE",
+  "label": "AB4C_oC24_63_c_acf_c-002",
+  "alias": null,
+  "title": "High-Pressure BaMgF$_{4}$ Structure",
+  "icsd": 182599,
+  "ccdc": 422927,
+  "prototype": "BaF4Mg",
+  "prototype_tex": "BaF$_{4}$Mg",
+  "number_of_species": 3,
+  "pearson_symbol": "oC24",
+  "space_group_number": 63,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 5,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "y2",
+    "y3",
+    "y4",
+    "y5",
+    "z5"
+  ],
+  "parameter_values": [
+    4.046,
+    3.42561,
+    1.3915,
+    0.3608,
+    0.583,
+    0.0979,
+    0.804,
+    0.989
+  ],
+  "mineral_name": null,
+  "minerals": {},
+  "compounds": [
+    "NaAlF$_{4}$"
+  ],
+  "legacy": false,
+  "notes": "6.08 GPa",
+  "comments": "This is the high pressure structure of BaMgF$_{4}$, stable above 5 GPa. Below that pressure it is in the \\href{current_web_home_dir/AB4C_oC24_36_a_4a_a-002}{BaZnF$_{4}$ structure}. (Posse, 2011) \n The data shown here was taken at 6.08 GPa."
 }

@@ -1,43 +1,43 @@
 {
-    "uid": "NTUK",
-    "label": "A2BC2_hR5_166_c_a_c-002",
-    "alias": null,
-    "title": "Tetradymite (Bi$_{2}$Te$_{2}$S, $C33$) Structure",
-    "icsd": 26720,
-    "ccdc": null,
-    "prototype": "Bi2STe2",
-    "prototype_tex": "Bi$_{2}$STe$_{2}$",
-    "number_of_species": 3,
-    "pearson_symbol": "hR5",
-    "space_group_number": 166,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 5,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x2",
-	"x3"
-    ],
-    "parameter_values": [
-	4.3164697,
-	6.95309329,
-	0.392,
-	0.788
-    ],
-    "mineral_name": "tetradymite",
-    "minerals": null,
-    "compounds": [
-	"Ag$_{2}$O$_{2}$Ni",
-	"As$_{2}$Sn$_{2}$Eu",
-	"Bi$_{2}$Te$_{2}$Se",
-	"Gd$_{2}$I$_{2}$Ge",
-	"La$_{2}$I$_{2}$Ge",
-	"La$_{2}$I$_{2}$Te",
-	"Sb$_{2}$Se$_{2}$Te",
-	"Sn$_{2}$As$_{2}$Na"
-    ],
-    "legacy": false,
-    "notes": "Tetradymite",
-    "comments": "This is the ternary form of \\href{current_web_home_dir/A2B3_hR5_166_c_ac-001}{Bi$_{2}$Te$_{3}$}, {\\em Strukturbericht} symbol $C33$. It was the original $C33$ structure assigned by (Gottfried, 1937), but we decided to use the binary form as the designated structure. \n Hexagonal settings for rhombohedral structures can be obtained with the option {\\tt --hex}."
+  "uid": "NTUK",
+  "label": "A2BC2_hR5_166_c_a_c-002",
+  "alias": null,
+  "title": "Tetradymite (Bi$_{2}$Te$_{2}$S, $C33$) Structure",
+  "icsd": 26720,
+  "ccdc": 1602106,
+  "prototype": "Bi2STe2",
+  "prototype_tex": "Bi$_{2}$STe$_{2}$",
+  "number_of_species": 3,
+  "pearson_symbol": "hR5",
+  "space_group_number": 166,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 5,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x2",
+    "x3"
+  ],
+  "parameter_values": [
+    4.3164697,
+    6.95309329,
+    0.392,
+    0.788
+  ],
+  "mineral_name": "tetradymite",
+  "minerals": null,
+  "compounds": [
+    "Ag$_{2}$O$_{2}$Ni",
+    "As$_{2}$Sn$_{2}$Eu",
+    "Bi$_{2}$Te$_{2}$Se",
+    "Gd$_{2}$I$_{2}$Ge",
+    "La$_{2}$I$_{2}$Ge",
+    "La$_{2}$I$_{2}$Te",
+    "Sb$_{2}$Se$_{2}$Te",
+    "Sn$_{2}$As$_{2}$Na"
+  ],
+  "legacy": false,
+  "notes": "Tetradymite",
+  "comments": "This is the ternary form of \\href{current_web_home_dir/A2B3_hR5_166_c_ac-001}{Bi$_{2}$Te$_{3}$}, {\\em Strukturbericht} symbol $C33$. It was the original $C33$ structure assigned by (Gottfried, 1937), but we decided to use the binary form as the designated structure. \n Hexagonal settings for rhombohedral structures can be obtained with the option {\\tt --hex}."
 }

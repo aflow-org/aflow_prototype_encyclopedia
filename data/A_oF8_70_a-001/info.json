@@ -1,34 +1,34 @@
 {
-    "uid": "7VYN",
-    "label": "A_oF8_70_a-001",
-    "alias": [
-        "A_oF8_70_a"
-    ],
-    "title": "$\\gamma$-Pu Structure",
-    "icsd": 44866,
-    "ccdc": null,
-    "prototype": "Pu",
-    "prototype_tex": "Pu",
-    "number_of_species": 1,
-    "pearson_symbol": "oF8",
-    "space_group_number": 70,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 1,
-    "parameter_symbols": [
-	"a",
-	"b/a",
-	"c/a"
-    ],
-    "parameter_values": [
-	3.1587,
-	3.21715,
-	1.82613
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": "$\\gamma$-Pu",
-    "comments": "Plutonium has been found in a variety of structures (Donohue, 1982): \\begin{itemize} \\item \\href{current_web_home_dir/A_mP16_11_8e-001}{$\\alpha$-Pu} \\item \\href{current_web_home_dir/A_mC34_12_ah3i2j-001}{$\\beta$-Pu} \\item \\href{current_web_home_dir/A_oF8_70_a-001}{$\\gamma$-Pu} (this structure) \\item $\\delta$-Pu is in the \\href{current_web_home_dir/A_cF4_225_a-001}{face-centered cubic $A1$ structure} \\item  $\\delta$'-Pu is in the \\href{current_web_home_dir/A_tI2_139_a-001}{body-centered tetragonal $A6$ (In) structure} \\item $\\epsilon$-Pu is in the \\href{current_web_home_dir/A_cI2_229_a-001}{body-centered cubic $A2$ structure} \\end{itemize} ~ \\vspace{-.25in} \n It is obvious from the coordinates that this is an extremely distorted \\href{current_web_home_dir/A_cF8_227_a-001}{diamond ($A4$)} structure, but, as noted by (Donohue, 1982), it can also be considered as a distorted \\href{current_web_home_dir/A_hP2_194_c-001}{hcp ($A3$) structure}."
+  "uid": "7VYN",
+  "label": "A_oF8_70_a-001",
+  "alias": [
+    "A_oF8_70_a"
+  ],
+  "title": "$\\gamma$-Pu Structure",
+  "icsd": 44866,
+  "ccdc": 1614201,
+  "prototype": "Pu",
+  "prototype_tex": "Pu",
+  "number_of_species": 1,
+  "pearson_symbol": "oF8",
+  "space_group_number": 70,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a"
+  ],
+  "parameter_values": [
+    3.1587,
+    3.21715,
+    1.82613
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "$\\gamma$-Pu",
+  "comments": "Plutonium has been found in a variety of structures (Donohue, 1982): \\begin{itemize} \\item \\href{current_web_home_dir/A_mP16_11_8e-001}{$\\alpha$-Pu} \\item \\href{current_web_home_dir/A_mC34_12_ah3i2j-001}{$\\beta$-Pu} \\item \\href{current_web_home_dir/A_oF8_70_a-001}{$\\gamma$-Pu} (this structure) \\item $\\delta$-Pu is in the \\href{current_web_home_dir/A_cF4_225_a-001}{face-centered cubic $A1$ structure} \\item  $\\delta$'-Pu is in the \\href{current_web_home_dir/A_tI2_139_a-001}{body-centered tetragonal $A6$ (In) structure} \\item $\\epsilon$-Pu is in the \\href{current_web_home_dir/A_cI2_229_a-001}{body-centered cubic $A2$ structure} \\end{itemize} ~ \\vspace{-.25in} \n It is obvious from the coordinates that this is an extremely distorted \\href{current_web_home_dir/A_cF8_227_a-001}{diamond ($A4$)} structure, but, as noted by (Donohue, 1982), it can also be considered as a distorted \\href{current_web_home_dir/A_hP2_194_c-001}{hcp ($A3$) structure}."
 }

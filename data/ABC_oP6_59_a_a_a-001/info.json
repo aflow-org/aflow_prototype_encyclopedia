@@ -1,40 +1,40 @@
 {
-    "uid": "Z1TY",
-    "label": "ABC_oP6_59_a_a_a-001",
-    "alias": [
-        "ABC_oP6_59_a_a_a"
-    ],
-    "title": "CNCl Structure",
-    "icsd": 16660,
-    "ccdc": null,
-    "prototype": "CClN",
-    "prototype_tex": "CClN",
-    "number_of_species": 3,
-    "pearson_symbol": "oP6",
-    "space_group_number": 59,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 1,
-    "parameter_symbols": [
-	"a",
-	"b/a",
-	"c/a",
-	"z1",
-	"z2",
-	"z3"
-    ],
-    "parameter_values": [
-	5.68,
-	0.700704,
-	1.01056,
-	0.1499,
-	0.4237,
-	0.6255
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "Z1TY",
+  "label": "ABC_oP6_59_a_a_a-001",
+  "alias": [
+    "ABC_oP6_59_a_a_a"
+  ],
+  "title": "CNCl Structure",
+  "icsd": 16660,
+  "ccdc": 1597215,
+  "prototype": "CClN",
+  "prototype_tex": "CClN",
+  "number_of_species": 3,
+  "pearson_symbol": "oP6",
+  "space_group_number": 59,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "z1",
+    "z2",
+    "z3"
+  ],
+  "parameter_values": [
+    5.68,
+    0.700704,
+    1.01056,
+    0.1499,
+    0.4237,
+    0.6255
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

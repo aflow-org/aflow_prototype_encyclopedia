@@ -1,45 +1,45 @@
 {
-    "uid": "PYAM",
-    "label": "A6BC3D_hR22_167_f_b_e_a-001",
-    "alias": [
-        "A6BC3D_hR22_167_f_b_e_a"
-    ],
-    "title": "Rinneite (K$_{3}$NaFeCl$_{6}$) Structure",
-    "icsd": 170745,
-    "ccdc": null,
-    "prototype": "Cl6FeK3Na",
-    "prototype_tex": "Cl$_{6}$FeK$_{3}$Na",
-    "number_of_species": 4,
-    "pearson_symbol": "hR22",
-    "space_group_number": 167,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x3",
-	"x4",
-	"y4",
-	"z4"
-    ],
-    "parameter_values": [
-	12.0329,
-	1.15208,
-	0.87389,
-	0.45463,
-	0.58049,
-	0.78748
-    ],
-    "mineral_name": "rinneite",
-    "minerals": null,
-    "compounds": [
-        "Ca$_{3}$LiOsO$_{6}$",
-        "Ca$_{3}$LiRuO$_{6}$",
-        "Sr$_{3}$NiIrO$_{6}$",
-        "K$_{4}$CdCl$_{6}$"
-    ],
-    "legacy": false,
-    "notes": "Rinneite",
-    "comments": "We use the data taken at 293K."
+  "uid": "PYAM",
+  "label": "A6BC3D_hR22_167_f_b_e_a-001",
+  "alias": [
+    "A6BC3D_hR22_167_f_b_e_a"
+  ],
+  "title": "Rinneite (K$_{3}$NaFeCl$_{6}$) Structure",
+  "icsd": 170745,
+  "ccdc": 1686154,
+  "prototype": "Cl6FeK3Na",
+  "prototype_tex": "Cl$_{6}$FeK$_{3}$Na",
+  "number_of_species": 4,
+  "pearson_symbol": "hR22",
+  "space_group_number": 167,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x3",
+    "x4",
+    "y4",
+    "z4"
+  ],
+  "parameter_values": [
+    12.0329,
+    1.15208,
+    0.87389,
+    0.45463,
+    0.58049,
+    0.78748
+  ],
+  "mineral_name": "rinneite",
+  "minerals": null,
+  "compounds": [
+    "Ca$_{3}$LiOsO$_{6}$",
+    "Ca$_{3}$LiRuO$_{6}$",
+    "Sr$_{3}$NiIrO$_{6}$",
+    "K$_{4}$CdCl$_{6}$"
+  ],
+  "legacy": false,
+  "notes": "Rinneite",
+  "comments": "We use the data taken at 293K."
 }

@@ -1,55 +1,55 @@
 {
-    "uid": "37DH",
-    "label": "A2BC_oC8_38_d_b_a-001",
-    "alias": [
-        "A2BC_oC8_38_e_a_b"
-    ],
-    "title": "C$_{2}$CeNi Structure",
-    "icsd": 20397,
-    "ccdc": null,
-    "prototype": "C2CeNi",
-    "prototype_tex": "C$_{2}$CeNi",
-    "number_of_species": 3,
-    "pearson_symbol": "oC8",
-    "space_group_number": 38,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 1,
-    "parameter_symbols": [
-	"a",
-	"b/a",
-	"c/a",
-	"z1",
-	"z2",
-	"y3",
-	"z3"
-    ],
-    "parameter_values": [
-	3.875,
-	1.17471,
-	1.59019,
-	0.6144
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "C$_{2}$CoDy",
-        "C$_{2}$CoPu",
-        "C$_{2}$CoSm",
-        "C$_{2}$CoTh",
-        "C$_{2}$ErFe",
-        "C$_{2}$FeGd",
-        "C$_{2}$FeSm",
-        "C$_{2}$NiLa",
-        "C$_{2}$NiNd",
-        "C$_{2}$NiPa",
-        "C$_{2}$NiPr",
-        "C$_{2}$NiPu",
-        "C$_{2}$NiSm",
-        "C$_{2}$NiYb",
-        "C$_{2}$PrRh"
-    ],
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "37DH",
+  "label": "A2BC_oC8_38_d_b_a-001",
+  "alias": [
+    "A2BC_oC8_38_e_a_b"
+  ],
+  "title": "C$_{2}$CeNi Structure",
+  "icsd": 20397,
+  "ccdc": 1598209,
+  "prototype": "C2CeNi",
+  "prototype_tex": "C$_{2}$CeNi",
+  "number_of_species": 3,
+  "pearson_symbol": "oC8",
+  "space_group_number": 38,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "z1",
+    "z2",
+    "y3",
+    "z3"
+  ],
+  "parameter_values": [
+    3.875,
+    1.17471,
+    1.59019,
+    0.6144
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "C$_{2}$CoDy",
+    "C$_{2}$CoPu",
+    "C$_{2}$CoSm",
+    "C$_{2}$CoTh",
+    "C$_{2}$ErFe",
+    "C$_{2}$FeGd",
+    "C$_{2}$FeSm",
+    "C$_{2}$NiLa",
+    "C$_{2}$NiNd",
+    "C$_{2}$NiPa",
+    "C$_{2}$NiPr",
+    "C$_{2}$NiPu",
+    "C$_{2}$NiSm",
+    "C$_{2}$NiYb",
+    "C$_{2}$PrRh"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

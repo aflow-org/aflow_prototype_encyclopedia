@@ -1,48 +1,48 @@
 {
-    "uid": "XTZU",
-    "label": "A8B_tI18_139_hi_a-001",
-    "alias": [
-        "A8B_tI18_139_hi_a"
-    ],
-    "title": "Pt$_{8}$Ti Structure",
-    "icsd": 105818,
-    "ccdc": null,
-    "prototype": "Pt8Ti",
-    "prototype_tex": "Pt$_{8}$Ti",
-    "number_of_species": 2,
-    "pearson_symbol": "tI18",
-    "space_group_number": 139,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 1,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x2",
-	"x3"
-    ],
-    "parameter_values": [
-	8.312,
-	0.46884,
-	0.333,
-	0.327
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "Ni$_{8}$Mo",
-        "Ni$_{8}$Nb",
-        "Ni$_{8}$Ta",
-        "Ni$_{8}$V",
-        "Pd$_{8}$Mo",
-        "Pd$_{8}$V",
-        "Pd$_{8}$W",
-        "Pt$_{8}$Ce",
-        "Pt$_{8}$Ti",
-        "Pt$_{8}$V",
-        "Pt$_{8}$Zr"
-    ],
-    "legacy": false,
-    "notes": null,
-    "comments": "When $a=3/(\\sqrt{2})a_{fcc}$, $c=a_{fcc}$, $x_{2}=1/3$, and $x_{3}=1/3$ the atoms are on the sites of the \\href{current_web_home_dir/A_cF4_225_a-001}{fcc lattice}. Compare this structure to the very similar \\href{current_web_home_dir/A4B5_tI18_139_i_ah-001}{V$_{4}$Zn$_{5}$.}"
+  "uid": "XTZU",
+  "label": "A8B_tI18_139_hi_a-001",
+  "alias": [
+    "A8B_tI18_139_hi_a"
+  ],
+  "title": "Pt$_{8}$Ti Structure",
+  "icsd": 105818,
+  "ccdc": 1663693,
+  "prototype": "Pt8Ti",
+  "prototype_tex": "Pt$_{8}$Ti",
+  "number_of_species": 2,
+  "pearson_symbol": "tI18",
+  "space_group_number": 139,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x2",
+    "x3"
+  ],
+  "parameter_values": [
+    8.312,
+    0.46884,
+    0.333,
+    0.327
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Ni$_{8}$Mo",
+    "Ni$_{8}$Nb",
+    "Ni$_{8}$Ta",
+    "Ni$_{8}$V",
+    "Pd$_{8}$Mo",
+    "Pd$_{8}$V",
+    "Pd$_{8}$W",
+    "Pt$_{8}$Ce",
+    "Pt$_{8}$Ti",
+    "Pt$_{8}$V",
+    "Pt$_{8}$Zr"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "When $a=3/(\\sqrt{2})a_{fcc}$, $c=a_{fcc}$, $x_{2}=1/3$, and $x_{3}=1/3$ the atoms are on the sites of the \\href{current_web_home_dir/A_cF4_225_a-001}{fcc lattice}. Compare this structure to the very similar \\href{current_web_home_dir/A4B5_tI18_139_i_ah-001}{V$_{4}$Zn$_{5}$.}"
 }

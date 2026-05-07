@@ -1,44 +1,44 @@
 {
-    "uid": "QVV1",
-    "label": "AB_mP6_10_bn_cm-001",
-    "alias": [
-        "AB_mP6_10_en_am"
-    ],
-    "title": "$\\alpha$-LiSn Structure",
-    "icsd": 104782,
-    "ccdc": 1662683,
-    "prototype": "LiSn",
-    "prototype_tex": "LiSn",
-    "number_of_species": 2,
-    "pearson_symbol": "mP6",
-    "space_group_number": 10,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-	"a",
-	"b/a",
-	"c/a",
-	"beta",
-	"x3",
-	"z3",
-	"x4",
-	"z4"
-    ],
-    "parameter_values": [
-	8.1608,
-	0.389668,
-	0.633516,
-	113.331,
-	0.66,
-	0.926,
-	0.664,
-	0.427
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": "$\\alpha$-LiSn",
-    "comments": "This is the low-temperature structure of LiSn.  Above 470K LiSn may transform into the  \\href{current_web_home_dir/AB_tI24_141_ae_be-001}{tetragonal $\\beta$-LiSn structure} (Villars, 2018).  This structure is apparently metastable at room temperature (Blase, 1990). \n The \\href{current_web_home_dir/Tutorials/AFLOW_Prototype_Label}{AFLOW prototype label protocol} moves the origin so that the Li I atom is on the (1b) Wyckoff site rather then the (1a) site used by (Mu\\\"{u}ller, 1973)."
+  "uid": "QVV1",
+  "label": "AB_mP6_10_bn_cm-001",
+  "alias": [
+    "AB_mP6_10_en_am"
+  ],
+  "title": "$\\alpha$-LiSn Structure",
+  "icsd": 104782,
+  "ccdc": 1662683,
+  "prototype": "LiSn",
+  "prototype_tex": "LiSn",
+  "number_of_species": 2,
+  "pearson_symbol": "mP6",
+  "space_group_number": 10,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "beta",
+    "x3",
+    "z3",
+    "x4",
+    "z4"
+  ],
+  "parameter_values": [
+    8.1608,
+    0.389668,
+    0.633516,
+    113.331,
+    0.66,
+    0.926,
+    0.664,
+    0.427
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "$\\alpha$-LiSn",
+  "comments": "This is the low-temperature structure of LiSn.  Above 470K LiSn may transform into the  \\href{current_web_home_dir/AB_tI24_141_ae_be-001}{tetragonal $\\beta$-LiSn structure} (Villars, 2018).  This structure is apparently metastable at room temperature (Blase, 1990). \n The \\href{current_web_home_dir/Tutorials/AFLOW_Prototype_Label}{AFLOW prototype label protocol} moves the origin so that the Li I atom is on the (1b) Wyckoff site rather then the (1a) site used by (Mu\\\"{u}ller, 1973)."
 }

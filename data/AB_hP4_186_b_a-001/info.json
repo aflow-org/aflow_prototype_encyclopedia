@@ -1,34 +1,34 @@
 {
-    "uid": "QUDC",
-    "label": "AB_hP4_186_b_a-001",
-    "alias": [
-        "AB_hP4_186_b_a"
-    ],
-    "title": "Original BN ($B12$) Structure ({\\em Obsolete})",
-    "icsd": 77374,
-    "ccdc": 1637806,
-    "prototype": "BN",
-    "prototype_tex": "BN",
-    "number_of_species": 2,
-    "pearson_symbol": "hP4",
-    "space_group_number": 186,
-    "strukturbericht": "B12",
-    "strukturbericht_tex": "$B12$",
-    "part": 1,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z1",
-	"z2"
-    ],
-    "parameter_values": [
-	2.51,
-	2.66932
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": "$B12$ ({\\em Obsolete})",
-    "comments": "This is the BN structure found in (Ewald, 1931) p. 95 and (Wilson, 1961) pp. 125-126. (Pease, 1950) later determined that the true boron nitride structure is what is now known as the \\href{current_web_home_dir/AB_hP4_194_c_d-001}{$B_{k}$} structure. We leave this structure here for historical reasons. It is crystallographically equivalent to, and hence a binary representation of, the \\href{current_web_home_dir/A_hP4_186_ab-001}{buckled graphite structure}. \n Space group $P6_{3}$ \\#186 is \\href{current_web_home_dir/Tutorials/SpaceGroupDistribution/index.html#Polar}{polar}, so there is no fixed origin for the $z$ axis. Here we chose $z_{1} = 0$ for the boron (2a) site."
+  "uid": "QUDC",
+  "label": "AB_hP4_186_b_a-001",
+  "alias": [
+    "AB_hP4_186_b_a"
+  ],
+  "title": "Original BN ($B12$) Structure ({\\em Obsolete})",
+  "icsd": 77374,
+  "ccdc": 1637806,
+  "prototype": "BN",
+  "prototype_tex": "BN",
+  "number_of_species": 2,
+  "pearson_symbol": "hP4",
+  "space_group_number": 186,
+  "strukturbericht": "B12",
+  "strukturbericht_tex": "$B12$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z1",
+    "z2"
+  ],
+  "parameter_values": [
+    2.51,
+    2.66932
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "$B12$ ({\\em Obsolete})",
+  "comments": "This is the BN structure found in (Ewald, 1931) p. 95 and (Wilson, 1961) pp. 125-126. (Pease, 1950) later determined that the true boron nitride structure is what is now known as the \\href{current_web_home_dir/AB_hP4_194_c_d-001}{$B_{k}$} structure. We leave this structure here for historical reasons. It is crystallographically equivalent to, and hence a binary representation of, the \\href{current_web_home_dir/A_hP4_186_ab-001}{buckled graphite structure}. \n Space group $P6_{3}$ \\#186 is \\href{current_web_home_dir/Tutorials/SpaceGroupDistribution/index.html#Polar}{polar}, so there is no fixed origin for the $z$ axis. Here we chose $z_{1} = 0$ for the boron (2a) site."
 }

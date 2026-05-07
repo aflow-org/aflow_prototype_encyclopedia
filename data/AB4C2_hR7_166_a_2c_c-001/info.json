@@ -1,46 +1,46 @@
 {
-    "uid": "SFS1",
-    "label": "AB4C2_hR7_166_a_2c_c-001",
-    "alias": [
-        "AB4C2_hR7_166_a_2c_c"
-    ],
-    "title": "CaCu$_{4}$P$_{2}$ Structure",
-    "icsd": 23251,
-    "ccdc": null,
-    "prototype": "CaCu4P2",
-    "prototype_tex": "CaCu$_{4}$P$_{2}$",
-    "number_of_species": 3,
-    "pearson_symbol": "hR7",
-    "space_group_number": 166,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x2",
-	"x3",
-	"x4"
-    ],
-    "parameter_values": [
-	4.036,
-	5.51833,
-	0.8547,
-	0.5689,
-	0.7497
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "BaAg$_{4}$As$_{2}$",
-        "CaAg$_{4}$As$_{2}$",
-        "EuAg$_{4}$As$_{2}$",
-        "EuAg$_{4}$Sb$_{2}$",
-        "SrAg$_{4}$As$_{2}$",
-        "SrAg$_{4}$Sb$_{2}$",
-        "ZrLi$_{4}$Ge$_{2}$"
-    ],
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "SFS1",
+  "label": "AB4C2_hR7_166_a_2c_c-001",
+  "alias": [
+    "AB4C2_hR7_166_a_2c_c"
+  ],
+  "title": "CaCu$_{4}$P$_{2}$ Structure",
+  "icsd": 23251,
+  "ccdc": 1599383,
+  "prototype": "CaCu4P2",
+  "prototype_tex": "CaCu$_{4}$P$_{2}$",
+  "number_of_species": 3,
+  "pearson_symbol": "hR7",
+  "space_group_number": 166,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x2",
+    "x3",
+    "x4"
+  ],
+  "parameter_values": [
+    4.036,
+    5.51833,
+    0.8547,
+    0.5689,
+    0.7497
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "BaAg$_{4}$As$_{2}$",
+    "CaAg$_{4}$As$_{2}$",
+    "EuAg$_{4}$As$_{2}$",
+    "EuAg$_{4}$Sb$_{2}$",
+    "SrAg$_{4}$As$_{2}$",
+    "SrAg$_{4}$Sb$_{2}$",
+    "ZrLi$_{4}$Ge$_{2}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

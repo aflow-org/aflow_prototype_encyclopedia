@@ -1,38 +1,38 @@
 {
-    "uid": "Q3TB",
-    "label": "AB2C2DE3_hR9_155_a_c_c_b_d-001",
-    "alias": [
-        "AB2C2DE3_hR9_155_b_c_c_a_e"
-    ],
-    "title": "KBe$_{2}$BO$_{3}$F$_{2}$ Structure",
-    "icsd": 77277,
-    "ccdc": null,
-    "prototype": "BBe2F2KO3",
-    "prototype_tex": "BBe$_{2}$F$_{2}$KO$_{3}$",
-    "number_of_species": 5,
-    "pearson_symbol": "hR9",
-    "space_group_number": 155,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x3",
-	"x4",
-	"y5"
-    ],
-    "parameter_values": [
-	4.42702,
-	4.23402,
-	0.69743,
-	0.77848,
-	0.69063
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": null,
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "Q3TB",
+  "label": "AB2C2DE3_hR9_155_a_c_c_b_d-001",
+  "alias": [
+    "AB2C2DE3_hR9_155_b_c_c_a_e"
+  ],
+  "title": "KBe$_{2}$BO$_{3}$F$_{2}$ Structure",
+  "icsd": 77277,
+  "ccdc": 1637723,
+  "prototype": "BBe2F2KO3",
+  "prototype_tex": "BBe$_{2}$F$_{2}$KO$_{3}$",
+  "number_of_species": 5,
+  "pearson_symbol": "hR9",
+  "space_group_number": 155,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x3",
+    "x4",
+    "y5"
+  ],
+  "parameter_values": [
+    4.42702,
+    4.23402,
+    0.69743,
+    0.77848,
+    0.69063
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

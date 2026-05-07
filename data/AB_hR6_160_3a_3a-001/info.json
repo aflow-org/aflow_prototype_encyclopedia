@@ -1,40 +1,40 @@
 {
-    "uid": "T8Y7",
-    "label": "AB_hR6_160_3a_3a-001",
-    "alias": [
-        "AB_hR6_160_3a_3a"
-    ],
-    "title": "Moissanite 9R (CSi) Structure",
-    "icsd": 37373,
-    "ccdc": null,
-    "prototype": "CSi",
-    "prototype_tex": "CSi",
-    "number_of_species": 2,
-    "pearson_symbol": "hR6",
-    "space_group_number": 160,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 1,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"x1",
-	"x2",
-	"x3",
-	"x4",
-	"x5",
-	"x6"
-    ],
-    "parameter_values": [
-	3.0179,
-	7.34848
-    ],
-    "mineral_name": "moissanite",
-    "minerals": null,
-    "compounds": [
-        "ZnS"
-    ],
-    "legacy": false,
-    "notes": "9R Moissanite",
-    "comments": "We will loosely use the name moissanite to describe any tetrahedrally bonded silicon carbide compound that does not have another name. The labels 4H, 6H, 9R, etc., refer to the repeat stacking distance in the hexagonal unit cell, while H and R refer to the primitive hexagonal and rhombohedral lattices, respectively. The label C refers to a cubic unit cell, which is a special case of R. Note that 2, 3, 6, 9, etc., refers to the number of C-Si dimers that are stacked in the conventional unit cell. \n Moissanite 9R is our hypothetical alternate stacking (ABCBCACAB) for tetrahedral structures. Compare this to \\href{current_web_home_dir/AB_hP4_186_b_b-001}{hexagonal wurtzite (ABABAB, 2H, $B4$)}, \\href{current_web_home_dir/AB_cF8_216_a_c-001}{cubic zincblende (ABCABC, 3C, $B3$)}, and the hexagonal \\href{current_web_home_dir/AB_hP8_186_ab_ab-001}{4H (ABAC,$B5$)} and \\href{current_web_home_dir/AB_hP12_186_a2b_a2b-001}{6H (ABCACB, $B6$)} moissanites. \n Some time after we proposed this structure we found the ICSD entry for 9-R ZnS, listing (Haussuehl, 1963) as the prototype.  We have not been able to obtain this reference, so we continue to use 9-R CSi as the prototype. The ICSD entry is from (Haussuehl, 1963). \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
+  "uid": "T8Y7",
+  "label": "AB_hR6_160_3a_3a-001",
+  "alias": [
+    "AB_hR6_160_3a_3a"
+  ],
+  "title": "Moissanite 9R (CSi) Structure",
+  "icsd": 37373,
+  "ccdc": 1608684,
+  "prototype": "CSi",
+  "prototype_tex": "CSi",
+  "number_of_species": 2,
+  "pearson_symbol": "hR6",
+  "space_group_number": 160,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x1",
+    "x2",
+    "x3",
+    "x4",
+    "x5",
+    "x6"
+  ],
+  "parameter_values": [
+    3.0179,
+    7.34848
+  ],
+  "mineral_name": "moissanite",
+  "minerals": null,
+  "compounds": [
+    "ZnS"
+  ],
+  "legacy": false,
+  "notes": "9R Moissanite",
+  "comments": "We will loosely use the name moissanite to describe any tetrahedrally bonded silicon carbide compound that does not have another name. The labels 4H, 6H, 9R, etc., refer to the repeat stacking distance in the hexagonal unit cell, while H and R refer to the primitive hexagonal and rhombohedral lattices, respectively. The label C refers to a cubic unit cell, which is a special case of R. Note that 2, 3, 6, 9, etc., refers to the number of C-Si dimers that are stacked in the conventional unit cell. \n Moissanite 9R is our hypothetical alternate stacking (ABCBCACAB) for tetrahedral structures. Compare this to \\href{current_web_home_dir/AB_hP4_186_b_b-001}{hexagonal wurtzite (ABABAB, 2H, $B4$)}, \\href{current_web_home_dir/AB_cF8_216_a_c-001}{cubic zincblende (ABCABC, 3C, $B3$)}, and the hexagonal \\href{current_web_home_dir/AB_hP8_186_ab_ab-001}{4H (ABAC,$B5$)} and \\href{current_web_home_dir/AB_hP12_186_a2b_a2b-001}{6H (ABCACB, $B6$)} moissanites. \n Some time after we proposed this structure we found the ICSD entry for 9-R ZnS, listing (Haussuehl, 1963) as the prototype.  We have not been able to obtain this reference, so we continue to use 9-R CSi as the prototype. The ICSD entry is from (Haussuehl, 1963). \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

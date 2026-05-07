@@ -1,41 +1,41 @@
 {
-    "uid": "WCVT",
-    "label": "A3B4C_cP8_215_c_e_b-001",
-    "alias": [
-        "A3B4C_cP8_215_d_e_a"
-    ],
-    "title": "Sulvanite (Cu$_{3}$S$_{4}$V, $H2_{4}$) Structure",
-    "icsd": 15490,
-    "ccdc": null,
-    "prototype": "Cu3S4V",
-    "prototype_tex": "Cu$_{3}$S$_{4}$V",
-    "number_of_species": 3,
-    "pearson_symbol": "cP8",
-    "space_group_number": 215,
-    "strukturbericht": "H24",
-    "strukturbericht_tex": "$H2_{4}$",
-    "part": 1,
-    "parameter_symbols": [
-	"a",
-	"x3"
-    ],
-    "parameter_values": [
-	5.3912,
-	0.7372
-    ],
-    "mineral_name": "sulvanite",
-    "minerals": null,
-    "compounds": [
-        "Cu$_{3}$S$_{4}$Nb",
-        "Cu$_{3}$S$_{4}$Ta",
-        "Cu$_{3}$Se$_{4}$Nb",
-        "Cu$_{3}$Se$_{4}$Ta",
-        "Cu$_{3}$Se$_{4}$V",
-        "Cu$_{3}$Te$_{4}$Nb",
-        "Cu$_{3}$Te$_{4}$Ta",
-        "Cu$_{3}$Te$_{4}$V"
-    ],
-    "legacy": false,
-    "notes": "$H2_{4}$, Sulvanite",
-    "comments": "This structure is very similar to \\href{current_web_home_dir/AB3C4_cP8_215_a_c_e-001}{lazarevi\\'{c}ite (AsCu$_{3}$S$_{4}$)}, except that in this case the copper atoms are on the cubic edges [the (3d) sites] rather than the cubic faces [the (3c) sites]."
+  "uid": "WCVT",
+  "label": "A3B4C_cP8_215_c_e_b-001",
+  "alias": [
+    "A3B4C_cP8_215_d_e_a"
+  ],
+  "title": "Sulvanite (Cu$_{3}$S$_{4}$V, $H2_{4}$) Structure",
+  "icsd": 15490,
+  "ccdc": 1596234,
+  "prototype": "Cu3S4V",
+  "prototype_tex": "Cu$_{3}$S$_{4}$V",
+  "number_of_species": 3,
+  "pearson_symbol": "cP8",
+  "space_group_number": 215,
+  "strukturbericht": "H24",
+  "strukturbericht_tex": "$H2_{4}$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "x3"
+  ],
+  "parameter_values": [
+    5.3912,
+    0.7372
+  ],
+  "mineral_name": "sulvanite",
+  "minerals": null,
+  "compounds": [
+    "Cu$_{3}$S$_{4}$Nb",
+    "Cu$_{3}$S$_{4}$Ta",
+    "Cu$_{3}$Se$_{4}$Nb",
+    "Cu$_{3}$Se$_{4}$Ta",
+    "Cu$_{3}$Se$_{4}$V",
+    "Cu$_{3}$Te$_{4}$Nb",
+    "Cu$_{3}$Te$_{4}$Ta",
+    "Cu$_{3}$Te$_{4}$V"
+  ],
+  "legacy": false,
+  "notes": "$H2_{4}$, Sulvanite",
+  "comments": "This structure is very similar to \\href{current_web_home_dir/AB3C4_cP8_215_a_c_e-001}{lazarevi\\'{c}ite (AsCu$_{3}$S$_{4}$)}, except that in this case the copper atoms are on the cubic edges [the (3d) sites] rather than the cubic faces [the (3c) sites]."
 }

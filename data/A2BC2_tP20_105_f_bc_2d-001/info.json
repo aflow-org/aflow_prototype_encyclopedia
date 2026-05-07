@@ -1,43 +1,43 @@
 {
-    "uid": "W96U",
-    "label": "A2BC2_tP20_105_f_bc_2d-001",
-    "alias": [
-        "A2BC2_tP20_105_f_ac_2e"
-    ],
-    "title": "BaGe$_{2}$As$_{2}$ Structure",
-    "icsd": 26417,
-    "ccdc": null,
-    "prototype": "As2BaGe2",
-    "prototype_tex": "As$_{2}$BaGe$_{2}$",
-    "number_of_species": 3,
-    "pearson_symbol": "tP20",
-    "space_group_number": 105,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z1",
-	"z2",
-	"x3",
-	"z3",
-	"x4",
-	"z4",
-	"x5",
-	"y5",
-	"z5"
-    ],
-    "parameter_values": [
-	7.786,
-	1.11277
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-        "BaGe$_{2}$P$_{2}$"
-    ],
-    "legacy": false,
-    "notes": null,
-    "comments": "Our previous listing of this structure (Hicks, 2017) misplaced the $z$ coordinates of the Ba II and Ge II atoms by $c/2$. We have corrected this here. \n Space group $P4_{2}mc$ \\#105 allows an arbitary placement of the origin of the $z$-axis.  Here we use this freedom to set $z_{1} = 0$ for the Ba-I atoms."
+  "uid": "W96U",
+  "label": "A2BC2_tP20_105_f_bc_2d-001",
+  "alias": [
+    "A2BC2_tP20_105_f_ac_2e"
+  ],
+  "title": "BaGe$_{2}$As$_{2}$ Structure",
+  "icsd": 26417,
+  "ccdc": 1601825,
+  "prototype": "As2BaGe2",
+  "prototype_tex": "As$_{2}$BaGe$_{2}$",
+  "number_of_species": 3,
+  "pearson_symbol": "tP20",
+  "space_group_number": 105,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z1",
+    "z2",
+    "x3",
+    "z3",
+    "x4",
+    "z4",
+    "x5",
+    "y5",
+    "z5"
+  ],
+  "parameter_values": [
+    7.786,
+    1.11277
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "BaGe$_{2}$P$_{2}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "Our previous listing of this structure (Hicks, 2017) misplaced the $z$ coordinates of the Ba II and Ge II atoms by $c/2$. We have corrected this here. \n Space group $P4_{2}mc$ \\#105 allows an arbitary placement of the origin of the $z$-axis.  Here we use this freedom to set $z_{1} = 0$ for the Ba-I atoms."
 }

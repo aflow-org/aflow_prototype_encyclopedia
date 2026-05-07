@@ -1,44 +1,44 @@
 {
-    "uid": "BHER",
-    "label": "A3BC2D9_hP30_194_bf_a_f_hk-001",
-    "alias": null,
-    "title": "Hexagonal Ba$_{3}$CoIr$_{2}$O$_{9}$ Structure",
-    "icsd": 35994,
-    "ccdc": null,
-    "prototype": "Ba3CoIr2O9",
-    "prototype_tex": "Ba$_{3}$CoIr$_{2}$O$_{9}$",
-    "number_of_species": 4,
-    "pearson_symbol": "hP30",
-    "space_group_number": 194,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-	"a",
-	"c/a",
-	"z3",
-	"z4",
-	"x5",
-	"x6",
-	"z6"
-    ],
-    "parameter_values": [
-	5.7639,
-	2.48007,
-	0.912,
-	0.154,
-	0.5004,
-	0.1619,
-	0.4196
-    ],
-    "mineral_name": null,
-    "minerals": null,
-    "compounds": [
-	"Ba$_{3}$CoSb$_{2}$O$_{9}$",
-	"Ba$_{3}$NiIr$_{2}$O$_{9}$",
-	"Ba$_{3}$(W$_{0.5}$Fe$_{0.5}$)$_{2}$FeO$_{9}$"
-    ],
-    "legacy": false,
-    "notes": "Hexagonal",
-    "comments": "Ba$_{3}$CoIr$_{2}$O$_{9}$ has been observed in three phases (Garg, 2020): \\begin{itemize} \\item Above 107K it is in the \\href{current_web_home_dir/A3BC2D9_hP30_194_bf_a_f_hk-001}{hexagonal Ba$_{3}$CoIr$_{2}$O$_{9}$ structure}, an ordered quaternary form of the \\href{current_web_home_dir/AB3C_hP30_194_bf_hk_af-001}{hexagonal BaTiO$_{3}$ structure}. \\item Below 107K it transforms into the \\href{current_web_home_dir/A3BC2D9_mC60_15_ef_a_f_e4f-001}{monoclinic (I) Ba$_{3}$CoIr$_{2}$O$_{9}$ structure}. \\item ``On further reduction of temperature,'' apparently at some point above 60K, the primitive cell doubles and the \\href{current_web_home_dir/A3BC2D9_mP60_13_ef2g_ab_2g_ef8g-001}{monoclinic (II) Ba$_{3}$CoIr$_{2}$O$_{9}$ structure} appears.  The monoclinic (I) and monoclinic (II) structures coexist down to absolute zero. \\end{itemize} ~ \\vspace{-.25in} \n Data for this structure was taken at 295K. \n Most quaternary BaTiO$_{3}$ compounds have the transition metals on the (2a) and (4f) sites randomly distributed, but in this case the structure is completely ordered."
+  "uid": "BHER",
+  "label": "A3BC2D9_hP30_194_bf_a_f_hk-001",
+  "alias": null,
+  "title": "Hexagonal Ba$_{3}$CoIr$_{2}$O$_{9}$ Structure",
+  "icsd": 35994,
+  "ccdc": 2197543,
+  "prototype": "Ba3CoIr2O9",
+  "prototype_tex": "Ba$_{3}$CoIr$_{2}$O$_{9}$",
+  "number_of_species": 4,
+  "pearson_symbol": "hP30",
+  "space_group_number": 194,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z3",
+    "z4",
+    "x5",
+    "x6",
+    "z6"
+  ],
+  "parameter_values": [
+    5.7639,
+    2.48007,
+    0.912,
+    0.154,
+    0.5004,
+    0.1619,
+    0.4196
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Ba$_{3}$CoSb$_{2}$O$_{9}$",
+    "Ba$_{3}$NiIr$_{2}$O$_{9}$",
+    "Ba$_{3}$(W$_{0.5}$Fe$_{0.5}$)$_{2}$FeO$_{9}$"
+  ],
+  "legacy": false,
+  "notes": "Hexagonal",
+  "comments": "Ba$_{3}$CoIr$_{2}$O$_{9}$ has been observed in three phases (Garg, 2020): \\begin{itemize} \\item Above 107K it is in the \\href{current_web_home_dir/A3BC2D9_hP30_194_bf_a_f_hk-001}{hexagonal Ba$_{3}$CoIr$_{2}$O$_{9}$ structure}, an ordered quaternary form of the \\href{current_web_home_dir/AB3C_hP30_194_bf_hk_af-001}{hexagonal BaTiO$_{3}$ structure}. \\item Below 107K it transforms into the \\href{current_web_home_dir/A3BC2D9_mC60_15_ef_a_f_e4f-001}{monoclinic (I) Ba$_{3}$CoIr$_{2}$O$_{9}$ structure}. \\item ``On further reduction of temperature,'' apparently at some point above 60K, the primitive cell doubles and the \\href{current_web_home_dir/A3BC2D9_mP60_13_ef2g_ab_2g_ef8g-001}{monoclinic (II) Ba$_{3}$CoIr$_{2}$O$_{9}$ structure} appears.  The monoclinic (I) and monoclinic (II) structures coexist down to absolute zero. \\end{itemize} ~ \\vspace{-.25in} \n Data for this structure was taken at 295K. \n Most quaternary BaTiO$_{3}$ compounds have the transition metals on the (2a) and (4f) sites randomly distributed, but in this case the structure is completely ordered."
 }
