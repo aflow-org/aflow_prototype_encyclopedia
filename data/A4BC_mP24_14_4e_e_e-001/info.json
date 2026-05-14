@@ -71,5 +71,5 @@
     ],
     "legacy": false,
     "notes": null,
-    "comments": "The O-III site is only 50\\% occupied.  The jmol plot shows the two possible sites as a pair of very closely spaced oxygen atoms. \n (Christensen, 1997) refer to this as D-Y$_{2}$Si$_{2}$O$_{7}$, but we follow the classification of the RE$_{2}$Si$_{2}$O$_{7}$ structures in (Becerro, 2004) and refer to this as $\\gamma$-Y$_{2}$Si$_{2}$O$_{7}$."
+    "comments": "The O-III site is only 50\\% occupied.  The jmol plot shows the two possible sites as a pair of very closely spaced oxygen atoms. (Dolan, 2008, \\href{https://www.ccdc.cam.ac.uk/structures/Search?Ccdcid=164147&DatabaseToSearch=ICSD}{ICSD 164147, CDDC 1680248}) averages this and puts the O-III atoms on the (2b) (1/2,0,0) Wyckoff position. \n (Christensen, 1997) refer to this as D-Y$_{2}$Si$_{2}$O$_{7}$, but we follow the classification of the RE$_{2}$Si$_{2}$O$_{7}$ structures in (Becerro, 2004) and refer to this as $\\gamma$-Y$_{2}$Si$_{2}$O$_{7}$."
 }
