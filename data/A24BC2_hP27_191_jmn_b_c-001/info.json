@@ -33,6 +33,6 @@
     "minerals": {},
     "compounds": null,
     "legacy": false,
-    "notes": null,
+    "notes": "Theoretical",
     "comments": "(He, 2024) predicted this structure to be a stable form of LaSc$_{2}$H$_{24}$ at pressures in the range 167-300 GPa with $T_{c}$ above 300K. \n Later (Song, 2025) found LaSc$_{2}$H$_{24}$ to be superconducting at 298K and above 195 GPa. If confirmed this is the first observed room-temperature superconductor. \n We use the prediction of the structure from (He, 2024) at 300 GPa."
 }

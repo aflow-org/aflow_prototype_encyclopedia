@@ -102,5 +102,5 @@
   "compounds": null,
   "legacy": false,
   "notes": "AlPO$_{4}$-8",
-  "comments": "This is one of a variety of SiO$_{2}$-like aluminum phosphates.  We give more detail about all of these structures in the \\href{../Tutorials/SiO2_AlPO4}{Silica and Aluminum Phosphate} tutorial page. \n The metallic sites in this lattice are randomly occupied by aluminum and phosphorous atoms.  We have arbitrarily labeled these as aluminum. \n Both (Withers, 2005) and the earlier work of (Richardson, 1992) sometimes refer to this structure as being in space group $Cmc2_{1}$, but they present data for an ``averaged'' structure in space group $Cmcm$.  We use that data here."
+  "comments": "This is one of a variety of SiO$_{2}$-like aluminum phosphates.  We give more detail about all of these structures in the \\href{current_web_home_dir/Tutorials/SiO2_AlPO4}{Silica and Aluminum Phosphate} tutorial page. \n The metallic sites in this lattice are randomly occupied by aluminum and phosphorous atoms.  We have arbitrarily labeled these as aluminum. \n Both (Withers, 2005) and the earlier work of (Richardson, 1992) sometimes refer to this structure as being in space group $Cmc2_{1}$, but they present data for an ``averaged'' structure in space group $Cmcm$.  We use that data here."
 }

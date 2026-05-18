@@ -36,5 +36,5 @@
   ],
   "legacy": false,
   "notes": null,
-  "comments": "The \\href{../../Tutorial/AFLOW_Prototype_Label/index.html#LabelOrder}{AFLOW prototype label protocol} moves the K I atom from the (1b) site, as given in (Savelsberg, 1978) to the (1a) site, shifting all atomic coordinates by ( 0 , 0 , 1/2 c). \n This structure is given in the rhombohedral setting of space group $R\\overline{3}m$ \\#166. The hexagonal setting may be obtained by adding {\\tt --hex} to the aflow command."
+  "comments": "The \\href{current_web_home_dir/Tutorials/AFLOW_Prototype_Label/index.html#LabelOrder}{AFLOW prototype label protocol} moves the K I atom from the (1b) site, as given in (Savelsberg, 1978) to the (1a) site, shifting all atomic coordinates by ( 0 , 0 , 1/2 c). \n This structure is given in the rhombohedral setting of space group $R\\overline{3}m$ \\#166. The hexagonal setting may be obtained by adding {\\tt --hex} to the aflow command."
 }
