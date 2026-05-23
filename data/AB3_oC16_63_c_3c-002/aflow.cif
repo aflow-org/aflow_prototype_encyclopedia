@@ -5,15 +5,15 @@
 # Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
 # Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
 # Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
-# Chemical Composition:  NbTe3
+# Chemical Composition:  NdTe3
 
 # The current version of this file is available at
 # https://aflow.org/prototype-encyclopedia/AB3_oC16_63_c_3c-002
 
 # Last updated on 2024/08/01
 
-data_Nd4Te12
-_pd_phase_name Nd4Te12
+data_NdTe3
+_pd_phase_name NdTe3
 _cell_length_a  4.3500000000
 _cell_length_b  25.8000000000
 _cell_length_c  4.3500000000
@@ -53,6 +53,6 @@ loop_
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
 Nd1 1.0000000000 0.0000000000 0.8306000000 0.2500000000  Biso 1.0 Nd 4 c
-Te2 1.0000000000 -0.0000000000 0.0705000000 0.2500000000  Biso 1.0 Te 4 c
-Te3 1.0000000000 -0.0000000000 0.4294000000 0.2500000000  Biso 1.0 Te 4 c
+Te2 1.0000000000 0.0000000000 0.0705000000 0.2500000000  Biso 1.0 Te 4 c
+Te3 1.0000000000 0.0000000000 0.4294000000 0.2500000000  Biso 1.0 Te 4 c
 Te4 1.0000000000 0.0000000000 0.7047000000 0.2500000000  Biso 1.0 Te 4 c

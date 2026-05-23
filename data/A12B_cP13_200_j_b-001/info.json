@@ -32,5 +32,5 @@
     "compounds": null,
     "legacy": false,
     "notes": "Cubic, 250GPa",
-    "comments": "(Verma, 2025) published a large number of predictions of possible superconducting Li-H compounds at 250 using the Perdew-Burke-Ernzerhof functional with VASP. They identified this structure as the best candidate for finding high-temperature superconductivity, with a transition temperature $T_{c}$ above 300K."
+    "comments": "(Verma, 2026) published a large number of predictions of possible superconducting Li-H compounds at 250 using the Perdew-Burke-Ernzerhof functional with VASP. They identified this structure as the best candidate for finding high-temperature superconductivity, with a transition temperature $T_{c}$ above 300K."
 }
