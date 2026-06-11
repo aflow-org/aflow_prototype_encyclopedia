@@ -1,33 +1,36 @@
 {
-  "uid": "Z4FL",
-  "label": "ABC_hP3_156_a_b_c-001",
-  "alias": null,
-  "title": "BeTeI Structure",
-  "icsd": 79364,
-  "ccdc": 1639613,
-  "prototype": "BeITe",
-  "prototype_tex": "BeITe",
-  "number_of_species": 3,
-  "pearson_symbol": "hP3",
-  "space_group_number": 156,
-  "strukturbericht": null,
-  "strukturbericht_tex": null,
-  "part": 5,
-  "parameter_symbols": [
-    "a",
-    "c/a",
-    "z1",
-    "z2",
-    "z3"
-  ],
-  "parameter_values": [
-    4.3392,
-    1.57955
-  ],
-  "mineral_name": null,
-  "minerals": null,
-  "compounds": null,
-  "legacy": false,
-  "notes": null,
-  "comments": "Space group $P3m1c \\#156$ allows an arbitary placement of the origin of the $z$-axis.  We follow (Shevelkov, 1995) and set $z_{1} = 0$ for the bismuth atom."
+    "uid": "Z4FL",
+    "label": "ABC_hP3_156_a_b_c-001",
+    "alias": null,
+    "title": "BiTeI Structure",
+    "icsd": 79364,
+    "ccdc": 1639613,
+    "prototype": "BiITe",
+    "prototype_tex": "BiITe",
+    "number_of_species": 3,
+    "pearson_symbol": "hP3",
+    "space_group_number": 156,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
+	"a",
+	"c/a",
+	"z1",
+	"z2",
+	"z3"
+    ],
+    "parameter_values": [
+	4.3392,
+	1.57955
+    ],
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"BiBrTe",
+	"OSTi"
+    ],
+    "legacy": false,
+    "notes": null,
+    "comments": "Space group $P3m1$ \\#156 allows an arbitary placement of the origin of the $z$-axis.  We follow (Shevelkov, 1995) and set $z_{1} = 0$ for the bismuth atom."
 }
