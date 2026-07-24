@@ -1,0 +1,59 @@
+{
+  "uid": "DWXJ",
+  "label": "AB2C2_oC20_36_a_2a_2a-001",
+  "alias": null,
+  "title": "Spertiniite [Cu(OH)$_{2}$] Structure",
+  "icsd": 68459,
+  "ccdc": 1630381,
+  "prototype": "CuH2O2",
+  "prototype_tex": "CuH$_{2}$O$_{2}$",
+  "number_of_species": 3,
+  "elements": [
+    "Cu",
+    "H",
+    "O"
+  ],
+  "pearson_symbol": "oC20",
+  "space_group_number": 36,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 5,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "y1",
+    "z1",
+    "y2",
+    "z2",
+    "y3",
+    "z3",
+    "y4",
+    "z4",
+    "y5",
+    "z5"
+  ],
+  "parameter_values": [
+    2.9471,
+    3.59438,
+    1.78358,
+    0.182,
+    0.25,
+    0.5058,
+    0.4118,
+    0.9001,
+    0.1914,
+    0.5583,
+    0.2534,
+    0.7994,
+    0.1967
+  ],
+  "mineral_name": "spertiniite",
+  "minerals": {
+    "spertiniite": "Cu(OH)$_{2}$"
+  },
+  "compounds": null,
+  "legacy": false,
+  "notes": "Spertiniite",
+  "comments": null
+}

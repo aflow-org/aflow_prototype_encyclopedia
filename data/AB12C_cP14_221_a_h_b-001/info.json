@@ -1,30 +1,32 @@
 {
-    "uid": "SQ16",
-    "label": "AB12C_cP14_221_a_h_b-001",
-    "alias": [
-        "AB12C_cP14_221_a_h_b"
-    ],
-    "title": "Predicted High-Pressure YCaH$_{12}$ Structure",
-    "icsd": "686726",
-    "ccdc": null,
-    "prototype": "CaH12Y",
-    "prototype_tex": "CaH$_{12}$Y",
-    "number_of_species": 3,
-    "pearson_symbol": "cP14",
-    "space_group_number": 221,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "x3"
-    ],
-    "parameter_values": [
-        3.4708,
-        0.24126
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "Predicted HP",
-    "comments": "This structure was determined by {\\em ab initio} methods and is predicted to be stable in the pressure range 180-257GPa, with $T_{c} = 230$K at 180GPa.  We show the predicted structure at 200GPa. \n The ICSD entry is from the calculations of (Liang, 2019)."
+  "uid": "SQ16",
+  "label": "AB12C_cP14_221_a_h_b-001",
+  "alias": [
+    "AB12C_cP14_221_a_h_b"
+  ],
+  "title": "Predicted High-Pressure YCaH$_{12}$ Structure",
+  "icsd": 686726,
+  "ccdc": 2230688,
+  "prototype": "CaH12Y",
+  "prototype_tex": "CaH$_{12}$Y",
+  "number_of_species": 3,
+  "pearson_symbol": "cP14",
+  "space_group_number": 221,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "x3"
+  ],
+  "parameter_values": [
+    3.4708,
+    0.24126
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "Predicted HP",
+  "comments": "This structure was determined by {\\em ab initio} methods and is predicted to be stable in the pressure range 180-257GPa, with $T_{c} = 230$K at 180GPa.  We show the predicted structure at 200GPa. \n The ICSD entry is from the calculations of (Liang, 2019)."
 }

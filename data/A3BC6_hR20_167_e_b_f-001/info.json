@@ -1,38 +1,42 @@
 {
-    "uid": "YFN8",
-    "label": "A3BC6_hR20_167_e_b_f-001",
-    "alias": [
-        "A3BC6_hR20_167_e_b_f"
-    ],
-    "title": "CrCl$_{3}$(H$_{2}$O)$_{6}$ ($J2_{2}$) Structure",
-    "icsd": "26138",
-    "ccdc": null,
-    "prototype": "CrCl3(H2O)6",
-    "prototype_tex": "CrCl$_{3}$(H$_{2}$O)$_{6}$",
-    "number_of_species": 3,
-    "pearson_symbol": "hR20",
-    "space_group_number": 167,
-    "strukturbericht": "J2_2",
-    "strukturbericht_tex": "$J2_{2}$",
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x2",
-        "x3",
-        "y3",
-        "z3"
-    ],
-    "parameter_values": [
-        11.8335,
-        1.00557,
-        0.51,
-        0.12,
-        0.96,
-        0.22
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$J2_{2}$",
-    "comments": "The positions of the hydrogen atoms in the water molecules were not determined, so we only provide the positions of the oxygen atoms (labeled as H$_{2}$O)."
+  "uid": "YFN8",
+  "label": "A3BC6_hR20_167_e_b_f-001",
+  "alias": [
+    "A3BC6_hR20_167_e_b_f"
+  ],
+  "title": "CrCl$_{3}$(H$_{2}$O)$_{6}$ ($J2_{2}$) Structure",
+  "icsd": 26138,
+  "ccdc": 1601578,
+  "prototype": "CrCl3(H2O)6",
+  "prototype_tex": "CrCl$_{3}$(H$_{2}$O)$_{6}$",
+  "number_of_species": 3,
+  "pearson_symbol": "hR20",
+  "space_group_number": 167,
+  "strukturbericht": "J22",
+  "strukturbericht_tex": "$J2_{2}$",
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x2",
+    "x3",
+    "y3",
+    "z3"
+  ],
+  "parameter_values": [
+    11.8335,
+    1.00557,
+    0.51,
+    0.12,
+    0.96,
+    0.22
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "AlCl$_{3}$(H$_{2}$O)$_{6}$"
+  ],
+  "legacy": false,
+  "notes": "$J2_{2}$",
+  "comments": "The positions of the hydrogen atoms in the water molecules were not determined, so we only provide the positions of the oxygen atoms (labeled as H$_{2}$O)."
 }

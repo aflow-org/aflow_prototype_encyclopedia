@@ -1,36 +1,44 @@
 {
-    "uid": "C601",
-    "label": "AB4C_tI12_82_c_g_a-001",
-    "alias": [
-        "AB4C_tI12_82_c_g_a"
-    ],
-    "title": "BPO$_{4}$ ($H0_{7}$) Structure",
-    "icsd": "55082",
-    "ccdc": null,
-    "prototype": "BO4P",
-    "prototype_tex": "BO$_{4}$P",
-    "number_of_species": 3,
-    "pearson_symbol": "tI12",
-    "space_group_number": 82,
-    "strukturbericht": "H0_7",
-    "strukturbericht_tex": "$H0_{7}$",
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x3",
-        "y3",
-        "z3"
-    ],
-    "parameter_values": [
-        4.3404,
-        1.53216,
-        0.1405,
-        0.2579,
-        0.1271
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$H0_{7}$",
-    "comments": null
+  "uid": "C601",
+  "label": "AB4C_tI12_82_c_g_a-001",
+  "alias": [
+    "AB4C_tI12_82_c_g_a"
+  ],
+  "title": "BPO$_{4}$ ($H0_{7}$) Structure",
+  "icsd": 55082,
+  "ccdc": 1619417,
+  "prototype": "BO4P",
+  "prototype_tex": "BO$_{4}$P",
+  "number_of_species": 3,
+  "pearson_symbol": "tI12",
+  "space_group_number": 82,
+  "strukturbericht": "H07",
+  "strukturbericht_tex": "$H0_{7}$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x3",
+    "y3",
+    "z3"
+  ],
+  "parameter_values": [
+    4.3404,
+    1.53216,
+    0.1405,
+    0.2579,
+    0.1271
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "AlAsO$_{4}$",
+    "BAsO$_{4}$",
+    "BLiF$_{4}$",
+    "BeSO$_{4}$",
+    "NPO$_{4}$"
+  ],
+  "legacy": false,
+  "notes": "$H0_{7}$",
+  "comments": null
 }

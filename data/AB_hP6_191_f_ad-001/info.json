@@ -1,30 +1,40 @@
 {
-    "uid": "Z7YH",
-    "label": "AB_hP6_191_f_ad-001",
-    "alias": [
-        "AB_hP6_191_f_ad"
-    ],
-    "title": "CoSn ($B35$) Structure",
-    "icsd": "55564",
-    "ccdc": null,
-    "prototype": "CoSn",
-    "prototype_tex": "CoSn",
-    "number_of_species": 2,
-    "pearson_symbol": "hP6",
-    "space_group_number": 191,
-    "strukturbericht": "B35",
-    "strukturbericht_tex": "$B35$",
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "c/a"
-    ],
-    "parameter_values": [
-        5.279,
-        0.806914
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$B35$",
-    "comments": null
+  "uid": "Z7YH",
+  "label": "AB_hP6_191_f_ad-001",
+  "alias": [
+    "AB_hP6_191_f_ad"
+  ],
+  "title": "CoSn ($B35$) Structure",
+  "icsd": 55564,
+  "ccdc": 1619877,
+  "prototype": "CoSn",
+  "prototype_tex": "CoSn",
+  "number_of_species": 2,
+  "pearson_symbol": "hP6",
+  "space_group_number": 191,
+  "strukturbericht": "B35",
+  "strukturbericht_tex": "$B35$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a"
+  ],
+  "parameter_values": [
+    5.279,
+    0.806914
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "CoGe",
+    "FeGe",
+    "FeSn",
+    "PbRh",
+    "NTa",
+    "PtTl",
+    "InNi"
+  ],
+  "legacy": false,
+  "notes": "$B35$",
+  "comments": "The ternary form of this structure is \\href{current_web_home_dir/A3BC2_hP6_191_f_a_d-001}{Ti$_{2}$TaN$_{3}$}."
 }

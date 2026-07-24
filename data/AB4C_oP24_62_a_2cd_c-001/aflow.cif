@@ -5,15 +5,16 @@
 # Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
 # Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
 # Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
-# Chemical Composition:  CuO4S chalcocyanite
+
+# Chemical Composition:  CuSO4 (Chalcocyanite)
 
 # The current version of this file is available at
-# https://aflow.org/prototype-encyclopedia/AB4C_oP24_62_a_2cd_c-001
+# https://aflow.org/prototype-encyclopedia/AB4C_oP24_62_a_3cd_d-001 
 
-# Last updated on 2024/08/01
+# Last updated on 2025/01/28
 
-data_Cu4O16S4
-_pd_phase_name Cu4O16S4
+data_CuSO4
+_pd_phase_name CuSO4
 _cell_length_a  8.4090000000
 _cell_length_b  6.7090000000
 _cell_length_c  4.8330000000
@@ -45,7 +46,7 @@ loop_
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
 Cu1 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Cu 4 a
-O2 1.0000000000 0.1293000000 0.2500000000 0.7353000000  Biso 1.0 O 4 c
-O3 1.0000000000 0.3646000000 0.2500000000 0.4385000000  Biso 1.0 O 4 c
-S5 1.0000000000 0.1836300000 0.2500000000 0.4497900000  Biso 1.0 S 4 c
-O4 1.0000000000 0.1328000000 0.0674000000 0.3083000000  Biso 1.0 O 8 d
+O2  1.0000000000 0.1293000000 0.2500000000 0.7353000000  Biso 1.0 O  4 c
+O3  1.0000000000 0.8646000000 0.2500000000 0.0615000000  Biso 1.0 O  4 c
+S5  1.0000000000 0.1836300000 0.2500000000 0.4497900000  Biso 1.0 S  4 c
+O4  1.0000000000 0.1328000000 0.0674000000 0.3083000000  Biso 1.0 O  8 d

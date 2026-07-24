@@ -6,15 +6,15 @@
 # Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
 # Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
 
-# Chemical Composition:  CaF2 (C1)
+# Chemical Composition:  CaF2 fluorite C1
 
 # The current version of this file is available at
 # https://aflow.org/prototype-encyclopedia/AB2_cF12_225_a_c-001
 
-# Last updated on 2024/07/29
+# Last updated on 2025/12/05
 
-data_AB2_cF12_225_a_c-001
-_pd_phase_name AB2_cF12_225_a_c-001
+data_CaF2
+_pd_phase_name CaF2
 _cell_length_a  5.4631000000
 _cell_length_b  5.4631000000
 _cell_length_c  5.4631000000

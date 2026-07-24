@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/ABC_hP3_187_b_c_e-001
 
 # Last updated on 2024/08/01
-data_Ba1Pt1Sb1
-_pd_phase_name Ba1Pt1Sb1
+data_BaPtSb
+_pd_phase_name BaPtSb
 _cell_length_a  4.5350000000
 _cell_length_b  4.5350000000
 _cell_length_c  4.8840000000
@@ -49,5 +49,5 @@ loop_
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
 Ba1 1.0000000000 0.0000000000 0.0000000000 0.5000000000  Biso 1.0 Ba 1 b
-Pt2 1.0000000000 0.3333300000 0.6666700000 0.0000000000  Biso 1.0 Pt 1 c
-Sb3 1.0000000000 0.6666700000 0.3333300000 0.0000000000  Biso 1.0 Sb 1 e
+Pt2 1.0000000000 0.3333333333 0.6666666667 0.0000000000  Biso 1.0 Pt 1 c
+Sb3 1.0000000000 0.6666666667 0.3333333333 0.0000000000  Biso 1.0 Sb 1 e

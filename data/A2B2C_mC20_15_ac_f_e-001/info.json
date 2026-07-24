@@ -1,42 +1,44 @@
 {
-    "uid": "8GWY",
-    "label": "A2B2C_mC20_15_ac_f_e-001",
-    "alias": [
-        "A2B2C_mC20_15_ad_f_e"
-    ],
-    "title": "Ag$_{2}$PbO$_{2}$ Structure",
-    "icsd": "24037",
-    "ccdc": null,
-    "prototype": "Ag2O2Pb",
-    "prototype_tex": "Ag$_{2}$O$_{2}$Pb",
-    "number_of_species": 3,
-    "pearson_symbol": "mC20",
-    "space_group_number": 15,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "beta",
-        "y3",
-        "x4",
-        "y4",
-        "z4"
-    ],
-    "parameter_values": [
-        9.2251,
-        0.944705,
-        0.710594,
-        138.859,
-        0.375,
-        0.311,
-        0.695,
-        0.257
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "(Bystr\\\"{o}m, 1950) gives the structure in the $I2/c$ setting of space group \\#15.  We have used FINDSYM to change this to the standard $C2/c$ setting.  This conversion involved a rotation of the axis, and placed the origin on what had been an Ag (4d) site, transforming it to Ag (4a)."
+  "uid": "8GWY",
+  "label": "A2B2C_mC20_15_ac_f_e-001",
+  "alias": [
+    "A2B2C_mC20_15_ad_f_e"
+  ],
+  "title": "Ag$_{2}$PbO$_{2}$ Structure",
+  "icsd": 24037,
+  "ccdc": 1600093,
+  "prototype": "Ag2O2Pb",
+  "prototype_tex": "Ag$_{2}$O$_{2}$Pb",
+  "number_of_species": 3,
+  "pearson_symbol": "mC20",
+  "space_group_number": 15,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "beta",
+    "y3",
+    "x4",
+    "y4",
+    "z4"
+  ],
+  "parameter_values": [
+    9.2251,
+    0.944705,
+    0.710594,
+    138.859,
+    0.375,
+    0.311,
+    0.695,
+    0.257
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": "(Bystr\\\"{o}m, 1950) gives the structure in the $I2/c$ setting of space group \\#15.  We have used FINDSYM to change this to the standard $C2/c$ setting.  This conversion involved a rotation of the axis, and placed the origin on what had been an Ag (4d) site, transforming it to Ag (4a)."
 }

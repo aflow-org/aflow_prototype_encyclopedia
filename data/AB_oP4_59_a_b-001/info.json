@@ -1,36 +1,38 @@
 {
-    "uid": "9JE2",
-    "label": "AB_oP4_59_a_b-001",
-    "alias": [
-        "AB_oP4_59_a_b"
-    ],
-    "title": "Vulcanite (CuTe) Structure",
-    "icsd": "42591",
-    "ccdc": null,
-    "prototype": "CuTe",
-    "prototype_tex": "CuTe",
-    "number_of_species": 2,
-    "pearson_symbol": "oP4",
-    "space_group_number": 59,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "z1",
-        "z2"
-    ],
-    "parameter_values": [
-        3.15,
-        1.29841,
-        2.20635,
-        0.051,
-        0.277
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "Vulcanite",
-    "comments": "Our data is from (Cameron, 1961), but the ICSD is from (Baranova, 1964)."
+  "uid": "9JE2",
+  "label": "AB_oP4_59_a_b-001",
+  "alias": [
+    "AB_oP4_59_a_b"
+  ],
+  "title": "Vulcanite (CuTe) Structure",
+  "icsd": 42591,
+  "ccdc": 1612243,
+  "prototype": "CuTe",
+  "prototype_tex": "CuTe",
+  "number_of_species": 2,
+  "pearson_symbol": "oP4",
+  "space_group_number": 59,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "z1",
+    "z2"
+  ],
+  "parameter_values": [
+    3.15,
+    1.29841,
+    2.20635,
+    0.051,
+    0.277
+  ],
+  "mineral_name": "vulcanite",
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "Vulcanite",
+  "comments": "Our data is from (Cameron, 1961), but the ICSD is from (Baranova, 1964)."
 }

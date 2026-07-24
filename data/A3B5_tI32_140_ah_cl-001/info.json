@@ -1,36 +1,57 @@
 {
-    "uid": "AK18",
-    "label": "A3B5_tI32_140_ah_cl-001",
-    "alias": [
-        "A3B5_tI32_140_ah_cl"
-    ],
-    "title": "Cr$_{5}$B$_{3}$ ($D8_{l}$) Structure",
-    "icsd": "27124",
-    "ccdc": null,
-    "prototype": "B3Cr5",
-    "prototype_tex": "B$_{3}$Cr$_{5}$",
-    "number_of_species": 2,
-    "pearson_symbol": "tI32",
-    "space_group_number": 140,
-    "strukturbericht": "D8_l",
-    "strukturbericht_tex": "$D8_{l}$",
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x3",
-        "x4",
-        "z4"
-    ],
-    "parameter_values": [
-        5.46,
-        1.91575,
-        0.625,
-        0.166,
-        0.15
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$D8_{l}$",
-    "comments": "We have been unable to obtain a copy of (Bertaut, 1953), so we use the data found online from (Downs, 2003). Although Cr$_{5}$B$_{3}$ is universally regarded as the prototype for $D8_{l}$, it appears that no other determination of the internal parameters has ever been made. The values found in (Downs, 2003) seem to be reasonable choices, and agree with the ICSD entry."
+  "uid": "AK18",
+  "label": "A3B5_tI32_140_ah_cl-001",
+  "alias": [
+    "A3B5_tI32_140_ah_cl"
+  ],
+  "title": "Cr$_{5}$B$_{3}$ ($D8_{l}$) Structure",
+  "icsd": 27124,
+  "ccdc": 1602452,
+  "prototype": "B3Cr5",
+  "prototype_tex": "B$_{3}$Cr$_{5}$",
+  "number_of_species": 2,
+  "pearson_symbol": "tI32",
+  "space_group_number": 140,
+  "strukturbericht": "D8l",
+  "strukturbericht_tex": "$D8_{l}$",
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x3",
+    "x4",
+    "z4"
+  ],
+  "parameter_values": [
+    5.46,
+    1.94872,
+    0.625,
+    0.166,
+    0.15
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Ca$_{5}$Si$_{3}$",
+    "Eu$_{5}$Ge$_{3}$",
+    "EuIrGe$_{2}$",
+    "Fe$_{5}$PB$_{2}$",
+    "Fe$_{5}$SiB$_{2}$",
+    "Fe$_{4}$CoPB$_{2}$",
+    "Fe$_{4}$CoSiB$_{2}$",
+    "Fe$_{4}$MnPB$_{2}$",
+    "Fe$_{4}$MnSiB$_{2}$",
+    "Gd$_{5}$CoSi$_{2}$",
+    "Mo$_{5}$SiB$_{2}$",
+    "Nb$_{5}$Si$_{3}$",
+    "Pr$_{5}$Si$_{3}$",
+    "Sr$_{5}$In$_{3}$",
+    "Sr$_{5}$Si$_{3}$",
+    "Sr$_{5}$Sn$_{3}$",
+    "Ta$_{5}$Ge$_{3}$",
+    "Ta$_{5}$Si$_{3}$"
+  ],
+  "legacy": false,
+  "notes": "$D8_{l}$",
+  "comments": "We have been unable to obtain a copy of (Bertaut, 1953), so we use the data found online from (Downs, 2003). Although Cr$_{5}$B$_{3}$ is universally regarded as the prototype for $D8_{l}$, it appears that no other determination of the internal parameters has ever been made. The values found in (Downs, 2003) seem to be reasonable choices, and agree with the ICSD entry. \n We originally transposed the decimal part of the value for c, using c = 10.46 rather than c = 10.64.  This has now been corrected."
 }

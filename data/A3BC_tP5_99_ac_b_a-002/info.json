@@ -1,38 +1,38 @@
 {
-    "uid": "Z2SB",
-    "label": "A3BC_tP5_99_ac_b_a-002",
-    "alias": [
-        "A3BC_tP5_99_bc_a_b"
-    ],
-    "title": "Tetragonal PZT [Pb(Zr$_{x}$Ti$_{1-x}$)O$_{3}$] Structure",
-    "icsd": "92059",
-    "ccdc": null,
-    "prototype": "O3PbZr",
-    "prototype_tex": "O$_{3}$PbZr",
-    "number_of_species": 3,
-    "pearson_symbol": "tP5",
-    "space_group_number": 99,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z1",
-        "z2",
-        "z3",
-        "z4"
-    ],
-    "parameter_values": [
-        4.046,
-        1.02308,
-        0.8973,
-        0.4517,
-        0.0,
-        0.3785
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "``PZT''",
-    "comments": "This is a tetragonal ferroelectric distortion of \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{the cubic perovskite structure, $E2_{1}$}. In Pb(Zr$_{x}$Ti$_{1-x}$)O$_{3}$ (aka PZT) it is found for $x \\le 0.52$. Although the first (2b) site is nearly equally occupied by zirconium and titanium atoms, the pictures use Zr atoms. Compare this to the \\href{current_web_home_dir/A3BC_mC10_8_ab_a_a-001}{monoclinic PZT structure}. \n To recover the cubic perovskite structure, take $c=a, ~ z_{1}=0, ~ z_{2}=1/2, ~ z_{3} = 0, ~ z_{4} = 1/2$. \n This structure has the same space group and occupied Wyckoff positions as the \\href{current_web_home_dir/AB3C_tP5_99_b_ac_a-001}{tetragonal BaTiO$_{3}$ structure}, but the displacements from the cubic perovskite structure are different, so we give this structure its own AFLOW designation."
+  "uid": "Z2SB",
+  "label": "A3BC_tP5_99_ac_b_a-002",
+  "alias": [
+    "A3BC_tP5_99_bc_a_b"
+  ],
+  "title": "Tetragonal PZT [Pb(Zr$_{x}$Ti$_{1-x}$)O$_{3}$] Structure",
+  "icsd": 92059,
+  "ccdc": 1651577,
+  "prototype": "O3PbZr",
+  "prototype_tex": "O$_{3}$PbZr",
+  "number_of_species": 3,
+  "pearson_symbol": "tP5",
+  "space_group_number": 99,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z1",
+    "z2",
+    "z3",
+    "z4"
+  ],
+  "parameter_values": [
+    4.046,
+    1.02308,
+    0.8973,
+    0.4517
+  ],
+  "mineral_name": "`PZT'",
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "``PZT''",
+  "comments": "This is a tetragonal ferroelectric distortion of \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{the cubic perovskite structure, $E2_{1}$}. In Pb(Zr$_{x}$Ti$_{1-x}$)O$_{3}$ (aka PZT) it is found for $x \\le 0.52$. Although the first (2b) site is nearly equally occupied by zirconium and titanium atoms, the pictures use Zr atoms. Compare this to the \\href{current_web_home_dir/A3BC_mC10_8_ab_a_a-001}{monoclinic PZT structure}. \n To recover the cubic perovskite structure, take $c=a, ~ z_{1}=0, ~ z_{2}=1/2, ~ z_{3} = 0, ~ z_{4} = 1/2$. \n This structure has the same space group and occupied Wyckoff positions as the \\href{current_web_home_dir/AB3C_tP5_99_b_ac_a-001}{tetragonal BaTiO$_{3}$ structure}, but the displacements from the cubic perovskite structure are different, so we give this structure its own AFLOW designation. \n The ICSD lists numerous alloys in this structure, and a few ordered compounds.  We have collected the ordered compounds under the \\href{current_web_home_dir/AB3C_tP5_99_b_ac_a-001}{room temperature BaTiO$_{3}$ prototype}."
 }

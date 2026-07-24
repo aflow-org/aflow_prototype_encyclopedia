@@ -1,30 +1,72 @@
 {
-    "uid": "83J5",
-    "label": "A2BC6D_cF40_225_c_a_e_b-001",
-    "alias": [
-        "A2BC6D_cF40_225_c_a_e_b"
-    ],
-    "title": "Double Perovskite (Ba$_{2}$MnWO$_{6}$) Structure",
-    "icsd": "51613",
-    "ccdc": null,
-    "prototype": "Ba2MnO6W",
-    "prototype_tex": "Ba$_{2}$MnO$_{6}$W",
-    "number_of_species": 4,
-    "pearson_symbol": "cF40",
-    "space_group_number": 225,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "x4"
-    ],
-    "parameter_values": [
-        8.1985,
-        0.2654
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "Double Perovskite",
-    "comments": "We use the data taken at room temperature."
+  "uid": "83J5",
+  "label": "A2BC6D_cF40_225_c_a_e_b-001",
+  "alias": [
+    "A2BC6D_cF40_225_c_a_e_b"
+  ],
+  "title": "Double Perovskite (Ba$_{2}$MnWO$_{6}$) Structure",
+  "icsd": 51613,
+  "ccdc": 1616488,
+  "prototype": "Ba2MnO6W",
+  "prototype_tex": "Ba$_{2}$MnO$_{6}$W",
+  "number_of_species": 4,
+  "pearson_symbol": "cF40",
+  "space_group_number": 225,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "x4"
+  ],
+  "parameter_values": [
+    8.1985,
+    0.2654
+  ],
+  "mineral_name": "double perovskite",
+  "minerals": {
+    "elpasolite": "K$_{2}$NaAlF$_{6}$"
+  },
+  "compounds": [
+    "Ba$_{2}$CaReO$_{6}$",
+    "Ba$_{2}$CaWO$_{6}$",
+    "Ba$_{2}$CdReO$_{6}$",
+    "Ba$_{2}$DyIrO$_{6}$",
+    "Ba$_{2}$IrNiO$_{6}$",
+    "Ba$_{2}$LiOsO$_{6}$",
+    "Ba$_{2}$MgReO$_{6}$",
+    "Ba$_{2}$NaOsO$_{6}$",
+    "Ba$_{2}$NdIrO$_{6}$",
+    "Ba$_{2}$SmIrO$_{6}$",
+    "Ba$_{2}$ZnReO$_{6}$",
+    "Bi$_{2}$FeCrO$_{6}$",
+    "Ca$_{2}$MnReO$_{6}$",
+    "Cs$_{2}$AgBBr$_{6}$",
+    "Cs$_{2}$AgBCl$_{6}$",
+    "Cs$_{2}$AgBiBr$_{6}$",
+    "Cs$_{2}$AgInBr$_{6}$",
+    "Cs$_{2}$AgInCl$_{6}$",
+    "Cs$_{2}$LiTlF$_{6}$",
+    "Cs$_{2}$NaBBr$_{6}$",
+    "Cs$_{2}$NaBCl$_{6}$",
+    "Cs$_{2}$NaBiCl$_{6}$",
+    "Cs$_{2}$NaInBr$_{6}$",
+    "Cs$_{2}$NaInCl$_{6}$",
+    "Cs$_{2}$NaLaCl$_{6}$",
+    "Cu$_{2}$TiSiO$_{6}$",
+    "K$_{2}$NaAlF$_{6}$ (elpasolite)",
+    "K$_{2}$NaBiCl$_{6}$",
+    "La$_{2}$TcNiO$_{6}$",
+    "Mn$_{2}$FeSbO$_{6}$",
+    "Rb$_{2}$NaBiCl$_{6}$",
+    "Sr$_{2}$CrReO$_{6}$",
+    "Sr$_{2}$FeMoO$_{6}$",
+    "Sr$_{2}$ReMoO$_{6}$",
+    "Sr$_{2}$TiFeO$_{6}$",
+    "Sr$_{2}$YIrO$_{6}$",
+    "(La$_{0.5}$Sc$_{0.5}$)$_{2}$MnCoO$_{6}$"
+  ],
+  "legacy": false,
+  "notes": "Double Perovskite",
+  "comments": "We use the data taken at room temperature."
 }

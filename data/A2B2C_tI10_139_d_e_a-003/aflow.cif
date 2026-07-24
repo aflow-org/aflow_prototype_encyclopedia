@@ -12,8 +12,8 @@
 
 # Last updated on 2024/08/01
 
-data_Cr4Si4Th2
-_pd_phase_name Cr4Si4Th2
+data_Cr2Si2Th
+_pd_phase_name Cr2Si2Th
 _cell_length_a  4.0430000000
 _cell_length_b  4.0430000000
 _cell_length_c  10.5770000000
@@ -69,5 +69,5 @@ loop_
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
 Th3 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Th 2 a
-Cr1 1.0000000000 -0.0000000000 0.5000000000 0.2500000000  Biso 1.0 Cr 4 d
-Si2 1.0000000000 -0.0000000000 -0.0000000000 0.3740000000  Biso 1.0 Si 4 e
+Cr1 1.0000000000 0.0000000000 0.5000000000 0.2500000000  Biso 1.0 Cr 4 d
+Si2 1.0000000000 0.0000000000 0.0000000000 0.3740000000  Biso 1.0 Si 4 e

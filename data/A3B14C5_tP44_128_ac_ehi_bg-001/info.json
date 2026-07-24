@@ -1,44 +1,46 @@
 {
-    "uid": "GFQ6",
-    "label": "A3B14C5_tP44_128_ac_ehi_bg-001",
-    "alias": [
-        "A3B14C5_tP44_128_ac_ehi_bg"
-    ],
-    "title": "Chiolite (Na$_{5}$Al$_{3}$F$_{14}$, $K7_{5}$) Structure",
-    "icsd": "26419",
-    "ccdc": null,
-    "prototype": "Al3F14Na5",
-    "prototype_tex": "Al$_{3}$F$_{14}$Na$_{5}$",
-    "number_of_species": 3,
-    "pearson_symbol": "tP44",
-    "space_group_number": 128,
-    "strukturbericht": "K7_5",
-    "strukturbericht_tex": "$K7_{5}$",
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z4",
-        "x5",
-        "x6",
-        "y6",
-        "x7",
-        "y7",
-        "z7"
-    ],
-    "parameter_values": [
-        7.0138,
-        1.48308,
-        0.1711,
-        0.2768,
-        0.0642,
-        0.2477,
-        0.1794,
-        0.5364,
-        0.1198
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$K7_{5}$, Chiolite",
-    "comments": null
+  "uid": "GFQ6",
+  "label": "A3B14C5_tP44_128_ac_ehi_bg-001",
+  "alias": [
+    "A3B14C5_tP44_128_ac_ehi_bg"
+  ],
+  "title": "Chiolite (Na$_{5}$Al$_{3}$F$_{14}$, $K7_{5}$) Structure",
+  "icsd": 26419,
+  "ccdc": 1601827,
+  "prototype": "Al3F14Na5",
+  "prototype_tex": "Al$_{3}$F$_{14}$Na$_{5}$",
+  "number_of_species": 3,
+  "pearson_symbol": "tP44",
+  "space_group_number": 128,
+  "strukturbericht": "K75",
+  "strukturbericht_tex": "$K7_{5}$",
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z4",
+    "x5",
+    "x6",
+    "y6",
+    "x7",
+    "y7",
+    "z7"
+  ],
+  "parameter_values": [
+    7.0138,
+    1.48308,
+    0.1711,
+    0.2768,
+    0.0642,
+    0.2477,
+    0.1794,
+    0.5364,
+    0.1198
+  ],
+  "mineral_name": "chiolite",
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "$K7_{5}$, Chiolite",
+  "comments": null
 }

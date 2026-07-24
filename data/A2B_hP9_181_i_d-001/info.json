@@ -1,32 +1,34 @@
 {
-    "uid": "VH37",
-    "label": "A2B_hP9_181_i_d-001",
-    "alias": [
-        "A2B_hP9_181_j_c"
-    ],
-    "title": "$\\beta$-SiO$_{2}$ ($C8$) Structure",
-    "icsd": "26430",
-    "ccdc": null,
-    "prototype": "O2Si",
-    "prototype_tex": "O$_{2}$Si",
-    "number_of_species": 2,
-    "pearson_symbol": "hP9",
-    "space_group_number": 181,
-    "strukturbericht": "C8",
-    "strukturbericht_tex": "$C8$",
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x2"
-    ],
-    "parameter_values": [
-        4.9977,
-        1.09252,
-        0.2072
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$C8$",
-    "comments": "This is the high-temperature structure of \\href{current_web_home_dir/A2B_hP9_152_c_a-001}{$\\alpha$-quartz}.  It can also be found in the enantiomorphic space group \\href{current_web_home_dir/A2B_hP9_180_i_d-001}{$P6_{2}22$ \\#180}. \n (Wright, 1981) put the oxygen atoms on half-filled (12k) sites, with pairs of oxygen sites separated by only 0.4{\\AA}.  We approximate the structure here by moving the oxygen atoms to fully-filled (6i) sites. \n The ICSD entry is for the $P6_{2}22$ representation of the structure."
+  "uid": "VH37",
+  "label": "A2B_hP9_181_i_d-001",
+  "alias": [
+    "A2B_hP9_181_j_c"
+  ],
+  "title": "$\\beta$ (high) quartz (SiO$_{2}$, $C8$) Structure",
+  "icsd": 26430,
+  "ccdc": "1601837",
+  "prototype": "O2Si",
+  "prototype_tex": "O$_{2}$Si",
+  "number_of_species": 2,
+  "pearson_symbol": "hP9",
+  "space_group_number": 181,
+  "strukturbericht": "C8",
+  "strukturbericht_tex": "$C8$",
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x2"
+  ],
+  "parameter_values": [
+    4.9977,
+    1.09252,
+    0.2072
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "$C8$",
+  "comments": "This is the high-temperature structure of \\href{current_web_home_dir/A2B_hP9_152_c_a-001}{$\\alpha$-quartz}.  It can also be found in the enantiomorphic space group \\href{current_web_home_dir/A2B_hP9_180_i_d-001}{$P6_{2}22$ \\#180}. \n (Wright, 1981) put the oxygen atoms on half-filled (12k) sites, with pairs of oxygen sites separated by only 0.4{\\AA}.  We approximate the structure here by moving the oxygen atoms to fully-filled (6i) sites. \n The ICSD entry is for the $P6_{2}22$ representation of the structure. \n More information about SiO$_{2}$ structures can be found in our article on \\href{current_web_home_dir/Tutorials/SiO2_AlPO4}{SiO$_{2}$ and AlPO$_{4}$}."
 }

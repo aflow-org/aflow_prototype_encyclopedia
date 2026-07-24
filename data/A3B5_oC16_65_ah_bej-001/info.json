@@ -1,36 +1,42 @@
 {
-    "uid": "36DL",
-    "label": "A3B5_oC16_65_ah_bej-001",
-    "alias": [
-        "A3B5_oC16_65_ah_bej"
-    ],
-    "title": "Ga$_{3}$Pt$_{5}$ Structure",
-    "icsd": "103927",
-    "ccdc": null,
-    "prototype": "Ga3Pt5",
-    "prototype_tex": "Ga$_{3}$Pt$_{5}$",
-    "number_of_species": 2,
-    "pearson_symbol": "oC16",
-    "space_group_number": 65,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "x4",
-        "y5"
-    ],
-    "parameter_values": [
-        8.031,
-        0.92641,
-        0.491595,
-        0.25,
-        0.225
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "36DL",
+  "label": "A3B5_oC16_65_ah_bej-001",
+  "alias": [
+    "A3B5_oC16_65_ah_bej"
+  ],
+  "title": "Ga$_{3}$Pt$_{5}$ Structure",
+  "icsd": 103927,
+  "ccdc": 1661858,
+  "prototype": "Ga3Pt5",
+  "prototype_tex": "Ga$_{3}$Pt$_{5}$",
+  "number_of_species": 2,
+  "pearson_symbol": "oC16",
+  "space_group_number": 65,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "x4",
+    "y5"
+  ],
+  "parameter_values": [
+    8.031,
+    0.92641,
+    0.491595,
+    0.25,
+    0.225
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Al$_{3}$Ni$_{5}$",
+    "Ga$_{3}$Ni$_{5}$",
+    "Mn$_{3}$Pd$_{5}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

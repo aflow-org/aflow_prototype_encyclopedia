@@ -16,22 +16,26 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "x3",
-        "x4",
-        "x5",
-        "y5",
-        "z5"
+	"a",
+	"x3",
+	"x4",
+	"x5",
+	"y5",
+	"z5"
     ],
     "parameter_values": [
-        11.1199,
-        0.0,
-        0.125,
-        0.084,
-        0.166,
-        0.625
+	11.1199
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "CdTm$_{4}$MoO$_{3}$O$_{16}$",
+        "CdY$_{4}$Mo$_{3}$O$_{16}$",
+        "La$_{5}$Mo$_{3}$O$_{16}$",
+        "Nd$_{5}$Mo$_{3}$O$_{16}$",
+        "Nd$_{4}$SmMo$_{3}$O$_{16}$",
+        "Pr$_{5}$Mo$_{3}$O$_{16}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": null

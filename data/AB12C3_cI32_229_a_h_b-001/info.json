@@ -16,14 +16,16 @@
     "strukturbericht_tex": null,
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "y3"
+	"a",
+	"y3"
     ],
     "parameter_values": [
-        7.04,
-        0.7625
+	7.04,
+	0.7625
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "Model Structure",
     "comments": "Austenitic steels are alloys of iron and other metals with an averaged face-centered cubic structure. This model represents one approximation for an austenite steel. If we set $y_{3} = 1/4$, the atoms are on the sites of an fcc lattice."

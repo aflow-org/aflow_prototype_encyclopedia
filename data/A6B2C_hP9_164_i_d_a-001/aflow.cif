@@ -5,15 +5,15 @@
 # Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
 # Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
 # Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
-# Chemical Composition:  Fe6(NH4)2Si bararite J16
+# Chemical Composition:  Fe6(NH4)2Si bararite J1_6
 
 # The current version of this file is available at
 # https://aflow.org/prototype-encyclopedia/A6B2C_hP9_164_i_d_a-001
 
 # Last updated on 2024/08/01
 
-data_F6N2Si1
-_pd_phase_name F6N2Si1
+data_F6N2Si
+_pd_phase_name F6N2Si
 _cell_length_a  5.7840000000
 _cell_length_b  5.7840000000
 _cell_length_c  4.7960000000
@@ -49,5 +49,5 @@ loop_
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
 Si3 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Si 1 a
-N2 1.0000000000 0.3333300000 0.6666700000 0.3300000000  Biso 1.0 N 2 d
-F1 1.0000000000 0.1390000000 0.8610000000 0.7990000000  Biso 1.0 F 6 i
+N2  1.0000000000 0.3333333333 0.6666666667 0.3300000000  Biso 1.0 N  2 d
+F1  1.0000000000 0.1390000000 0.8610000000 0.7990000000  Biso 1.0 F  6 i

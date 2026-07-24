@@ -1,32 +1,34 @@
 {
-    "uid": "P6JF",
-    "label": "AB7C2_tI20_139_a_bdg_e-001",
-    "alias": null,
-    "title": "CePt$_{2}$In$_{7}$ Structure",
-    "icsd": "161312",
-    "ccdc": null,
-    "prototype": "CeIn7Pt2",
-    "prototype_tex": "CeIn$_{7}$Pt$_{2}$",
-    "number_of_species": 3,
-    "pearson_symbol": "tI20",
-    "space_group_number": 139,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z4",
-        "z5"
-    ],
-    "parameter_values": [
-        4.6093,
-        4.69204,
-        0.3258,
-        0.1082
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "P6JF",
+  "label": "AB7C2_tI20_139_a_bdg_e-001",
+  "alias": null,
+  "title": "CePt$_{2}$In$_{7}$ Structure",
+  "icsd": 161312,
+  "ccdc": 1677684,
+  "prototype": "CeIn7Pt2",
+  "prototype_tex": "CeIn$_{7}$Pt$_{2}$",
+  "number_of_species": 3,
+  "pearson_symbol": "tI20",
+  "space_group_number": 139,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z4",
+    "z5"
+  ],
+  "parameter_values": [
+    4.6093,
+    4.69204,
+    0.3258,
+    0.1082
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

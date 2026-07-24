@@ -1,38 +1,40 @@
 {
-    "uid": "WCJU",
-    "label": "A2BCD6_hR10_148_c_a_b_f-001",
-    "alias": [
-        "A2BCD6_hR10_148_c_a_b_f"
-    ],
-    "title": "Dolomite [MgCa(CO$_{3}$)$_{2}$, $G1_{1}$ Structure",
-    "icsd": "40968",
-    "ccdc": null,
-    "prototype": "C2CaMgO6",
-    "prototype_tex": "C$_{2}$CaMgO$_{6}$",
-    "number_of_species": 4,
-    "pearson_symbol": "hR10",
-    "space_group_number": 148,
-    "strukturbericht": "G1_1",
-    "strukturbericht_tex": "$G1_{1}$",
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x3",
-        "x4",
-        "y4",
-        "z4"
-    ],
-    "parameter_values": [
-        4.80691,
-        3.32897,
-        0.75711,
-        0.72067,
-        0.03947,
-        0.50807
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$G1_{1}$, Dolomite",
-    "comments": "Data was taken at 24$^{\\circ}$C."
+  "uid": "WCJU",
+  "label": "A2BCD6_hR10_148_c_a_b_f-001",
+  "alias": [
+    "A2BCD6_hR10_148_c_a_b_f"
+  ],
+  "title": "Dolomite [MgCa(CO$_{3}$)$_{2}$, $G1_{1}$ Structure",
+  "icsd": 40968,
+  "ccdc": 1610777,
+  "prototype": "C2CaMgO6",
+  "prototype_tex": "C$_{2}$CaMgO$_{6}$",
+  "number_of_species": 4,
+  "pearson_symbol": "hR10",
+  "space_group_number": 148,
+  "strukturbericht": "G11",
+  "strukturbericht_tex": "$G1_{1}$",
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x3",
+    "x4",
+    "y4",
+    "z4"
+  ],
+  "parameter_values": [
+    4.80691,
+    3.32897,
+    0.75711,
+    0.72067,
+    0.03947,
+    0.50807
+  ],
+  "mineral_name": "dolomite",
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "$G1_{1}$, Dolomite",
+  "comments": "Data was taken at 24$^{\\circ}$C."
 }

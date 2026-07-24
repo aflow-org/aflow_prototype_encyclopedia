@@ -12,22 +12,24 @@
     "number_of_species": 3,
     "pearson_symbol": "tP11",
     "space_group_number": 123,
-    "strukturbericht": "E6_1",
+    "strukturbericht": "E61",
     "strukturbericht_tex": "$E6_{1}$",
     "part": 3,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x3",
-        "z3"
+	"a",
+	"c/a",
+	"x3",
+	"z3"
     ],
     "parameter_values": [
-        6.41,
-        0.905928,
-        0.29,
-        0.75
+	6.41,
+	0.905928,
+	0.29,
+	0.75
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "$E6_{1}$, ({\\em Obsolete})",
     "comments": "This structure was designated $E6_{1}$ by (Hermann, 1937).  It has been superseded by \\href{current_web_home_dir/A18B10C_tP116_130_2c4g_2c2g_a-001}{the structure determined by (Ricci, 2005).} We present it for historical interest."

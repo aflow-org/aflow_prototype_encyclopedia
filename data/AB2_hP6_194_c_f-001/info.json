@@ -1,32 +1,46 @@
 {
-    "uid": "A8HJ",
-    "label": "AB2_hP6_194_c_f-001",
-    "alias": [
-        "AB2_hP6_194_c_f"
-    ],
-    "title": "Molybdenite (MoS$_{2}$, $C7$) Structure",
-    "icsd": "105091",
-    "ccdc": null,
-    "prototype": "MoS2",
-    "prototype_tex": "MoS$_{2}$",
-    "number_of_species": 2,
-    "pearson_symbol": "hP6",
-    "space_group_number": 194,
-    "strukturbericht": "C7",
-    "strukturbericht_tex": "$C7$",
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z2"
-    ],
-    "parameter_values": [
-        3.161,
-        3.88959,
-        0.6275
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$C7$, Molybdenite",
-    "comments": "MoS$_{2}$ exists naturally in two forms: a \\href{current_web_home_dir/AB2_hR3_160_a_2a-001}{rhombohedral structure} and \\href{current_web_home_dir/AB2_hP6_194_c_f-001}{this hexagonal structure, molybdenite, {\\em Strukturbericht} $C7$}. The two structures differ due to the stacking of the MoS$_{2}$ layers. \n Depending on the preparation method, MoS$_{2}$ can exist in other forms, including a \\href{current_web_home_dir/AB2_hP12_143_ad_bc2d-001}{trigonal structure}. \n Note that the stacking here is B\\textbf{A}BA\\textbf{B}A, where the layers in bold text are the Mo atoms."
+  "uid": "A8HJ",
+  "label": "AB2_hP6_194_c_f-001",
+  "alias": [
+    "AB2_hP6_194_c_f"
+  ],
+  "title": "Molybdenite (MoS$_{2}$, $C7$) Structure",
+  "icsd": 105091,
+  "ccdc": 1662990,
+  "prototype": "MoS2",
+  "prototype_tex": "MoS$_{2}$",
+  "number_of_species": 2,
+  "pearson_symbol": "hP6",
+  "space_group_number": 194,
+  "strukturbericht": "C7",
+  "strukturbericht_tex": "$C7$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z2"
+  ],
+  "parameter_values": [
+    3.161,
+    3.88959,
+    0.6275
+  ],
+  "mineral_name": "molybdenite",
+  "minerals": null,
+  "compounds": [
+    "BPt$_{2}$",
+    "MoSe$_{2}$",
+    "MoTe$_{2}$",
+    "NbS$_{2}$",
+    "NbSe$_{2}$",
+    "ReS$_{2}$",
+    "TaS$_{2}$",
+    "TaSe$_{2}$",
+    "WS$_{2}$",
+    "WSe$_{2}$",
+    "WTe$_{2}$"
+  ],
+  "legacy": false,
+  "notes": "$C7$, Molybdenite",
+  "comments": "MoS$_{2}$ exists naturally in two forms: a \\href{current_web_home_dir/AB2_hR3_160_a_2a-001}{rhombohedral structure} and \\href{current_web_home_dir/AB2_hP6_194_c_f-001}{this hexagonal structure, molybdenite, {\\em Strukturbericht} $C7$}. The two structures differ due to the stacking of the MoS$_{2}$ layers. \n Depending on the preparation method, MoS$_{2}$ can exist in other forms, including a \\href{current_web_home_dir/AB2_hP12_143_ad_bc2d-001}{trigonal structure}. \n Note that the stacking here is B\\textbf{A}BA\\textbf{B}A, where the layers in bold text are the Mo atoms."
 }

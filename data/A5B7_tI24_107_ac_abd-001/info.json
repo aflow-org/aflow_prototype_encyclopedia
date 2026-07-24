@@ -1,44 +1,41 @@
 {
-    "uid": "Y7TL",
-    "label": "A5B7_tI24_107_ac_abd-001",
-    "alias": [
-        "A5B7_tI24_107_ac_abd"
-    ],
-    "title": "Co$_{5}$Ge$_{7}$ Structure",
-    "icsd": "197263",
-    "ccdc": null,
-    "prototype": "Co5Ge7",
-    "prototype_tex": "Co$_{5}$Ge$_{7}$",
-    "number_of_species": 2,
-    "pearson_symbol": "tI24",
-    "space_group_number": 107,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z1",
-        "z2",
-        "z3",
-        "x4",
-        "z4",
-        "x5",
-        "z5"
-    ],
-    "parameter_values": [
-        7.64,
-        0.760471,
-        0.0,
-        0.44,
-        0.46,
-        0.28,
-        0.5,
-        0.24,
-        0.71
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "The origin of the $z$ axis is arbitrary.  We have chosen to place the Ge(2a) atom at the origin, taking $z_{1} = 0$.  (Schubert, 1960) instead set $z_{4} = 0$."
+  "uid": "Y7TL",
+  "label": "A5B7_tI24_107_ac_abd-001",
+  "alias": [
+    "A5B7_tI24_107_ac_abd"
+  ],
+  "title": "Co$_{5}$Ge$_{7}$ Structure",
+  "icsd": 197263,
+  "ccdc": 1924163,
+  "prototype": "Co5Ge7",
+  "prototype_tex": "Co$_{5}$Ge$_{7}$",
+  "number_of_species": 2,
+  "pearson_symbol": "tI24",
+  "space_group_number": 107,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z1",
+    "z2",
+    "z3",
+    "x4",
+    "z4",
+    "x5",
+    "z5"
+  ],
+  "parameter_values": [
+    7.64,
+    0.760471
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Ir$_{5}$Ge$_{7}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "The origin of the $z$ axis is arbitrary.  We have chosen to place the Ge(2a) atom at the origin, taking $z_{1} = 0$.  (Schubert, 1960) instead set $z_{4} = 0$."
 }

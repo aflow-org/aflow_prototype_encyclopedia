@@ -6,14 +6,15 @@
 # Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
 # Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
 
-# Chemical Composition:  P A17
+# Chemical Composition:  P (A17)
 
 # The current version of this file is available at
-# https://aflow.org/prototype-encyclopedia/A_oC8_64_f-002
+# https://aflow.org/prototype-encyclopedia/A_oC8_64_f-002 
 
-# Last updated on 2024/08/01
-data_P8
-_pd_phase_name P8
+# Last updated on 2025/01/29
+
+data_P
+_pd_phase_name P
 _cell_length_a  3.3136000000
 _cell_length_b  10.4780000000
 _cell_length_c  4.3763000000
@@ -52,4 +53,4 @@ loop_
  _atom_site_type_symbol
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
-P1 1.0000000000 -0.0000000000 0.6016800000 0.5805600000  Biso 1.0 P 8 f
+P1 1.0000000000 0.0000000000 0.1016800000 0.0805600000  Biso 1.0 P 8 f

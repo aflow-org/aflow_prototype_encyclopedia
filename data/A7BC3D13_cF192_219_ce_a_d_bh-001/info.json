@@ -1,36 +1,51 @@
 {
-    "uid": "0WNV",
-    "label": "A7BC3D13_cF192_219_ce_a_d_bh-001",
-    "alias": [
-        "A7BC3D13_cF192_219_de_b_c_ah"
-    ],
-    "title": "Boracite (Mg$_{3}$B$_{7}$ClO$_{13}$) Structure",
-    "icsd": "22009",
-    "ccdc": null,
-    "prototype": "B7ClMg3O13",
-    "prototype_tex": "B$_{7}$ClMg$_{3}$O$_{13}$",
-    "number_of_species": 4,
-    "pearson_symbol": "cF192",
-    "space_group_number": 219,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "x5",
-        "x6",
-        "y6",
-        "z6"
-    ],
-    "parameter_values": [
-        12.0986,
-        0.8308,
-        0.3487,
-        0.9321,
-        0.7714
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "Boracite",
-    "comments": "Experimental data was obtained at 400$^\\circ$C."
+  "uid": "0WNV",
+  "label": "A7BC3D13_cF192_219_ce_a_d_bh-001",
+  "alias": [
+    "A7BC3D13_cF192_219_de_b_c_ah"
+  ],
+  "title": "Boracite (Mg$_{3}$B$_{7}$ClO$_{13}$) Structure",
+  "icsd": 22009,
+  "ccdc": 1598808,
+  "prototype": "B7ClMg3O13",
+  "prototype_tex": "B$_{7}$ClMg$_{3}$O$_{13}$",
+  "number_of_species": 4,
+  "pearson_symbol": "cF192",
+  "space_group_number": 219,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "x5",
+    "x6",
+    "y6",
+    "z6"
+  ],
+  "parameter_values": [
+    12.0986,
+    0.8308,
+    0.3487,
+    0.9321,
+    0.7714
+  ],
+  "mineral_name": "boracite",
+  "minerals": null,
+  "compounds": [
+    "Cr$_{3}$B$_{7}$BrO$_{13}$",
+    "Cr$_{3}$B$_{7}$ClO$_{13}$",
+    "Cr$_{3}$B$_{7}$IO$_{13}$",
+    "Fe$_{3}$B$_{7}$BrO$_{13}$",
+    "Fe$_{3}$B$_{7}$ClO$_{13}$",
+    "Fe$_{3}$B$_{7}$IO$_{13}$",
+    "Mg$_{3}$B$_{7}$BrO$_{13}$",
+    "Mg$_{3}$B$_{7}$ClO$_{13}$",
+    "Mg$_{3}$B$_{7}$IO$_{13}$",
+    "Mn$_{3}$B$_{7}$BrO$_{13}$",
+    "Mn$_{3}$B$_{7}$ClO$_{13}$",
+    "Mn$_{3}$B$_{7}$IO$_{13}$"
+  ],
+  "legacy": false,
+  "notes": "Boracite",
+  "comments": "Experimental data was obtained at 400$^\\circ$C."
 }

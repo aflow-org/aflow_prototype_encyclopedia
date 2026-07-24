@@ -16,16 +16,20 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x1"
+	"a",
+	"c/a",
+	"x1"
     ],
     "parameter_values": [
-        8.5939,
-        0.420985,
-        0.1405
+	8.5939,
+	0.420985,
+	0.1405
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "Se (Se-VII, prepared at 450K and 20 GPa)"
+    ],
     "legacy": false,
     "notes": "S-III (HP)",
     "comments": "The S-III phase is found when sulfur is pressurized above 36 GPa at 300K. At 300K it is stable up to 83 GPa. This data was taken at 12 GPa and 300K."

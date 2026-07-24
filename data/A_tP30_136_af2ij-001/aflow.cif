@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/A_tP30_136_af2ij-001
 
 # Last updated on 2024/08/01
-data_U30
-_pd_phase_name U30
+data_U
+_pd_phase_name U
 _cell_length_a  10.5900000000
 _cell_length_b  10.5900000000
 _cell_length_c  5.6340000000

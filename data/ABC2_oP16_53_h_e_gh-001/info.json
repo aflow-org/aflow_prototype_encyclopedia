@@ -1,44 +1,46 @@
 {
-    "uid": "AVNP",
-    "label": "ABC2_oP16_53_h_e_gh-001",
-    "alias": [
-        "ABC2_oP16_53_h_e_gh"
-    ],
-    "title": "TaNiTe$_{2}$ Structure",
-    "icsd": "71063",
-    "ccdc": null,
-    "prototype": "NiTaTe2",
-    "prototype_tex": "NiTaTe$_{2}$",
-    "number_of_species": 3,
-    "pearson_symbol": "oP16",
-    "space_group_number": 53,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "x1",
-        "y2",
-        "y3",
-        "z3",
-        "y4",
-        "z4"
-    ],
-    "parameter_values": [
-        7.897,
-        0.915284,
-        0.788907,
-        0.20486,
-        0.3193,
-        0.8802,
-        0.6451,
-        0.776,
-        0.2507
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "Our original published version of this structure (Hicks, 2019) has incorrect lattice parameters.  These are corrected here, and now show the layered structure of TaNiTe$_{2}$. \n The origin of the $y$-axis has been shifted by $b/2$ from that of (Tremel, 1991), moving the tantalum atoms from the (4f) Wyckoff position to (4e)."
+  "uid": "AVNP",
+  "label": "ABC2_oP16_53_h_e_gh-001",
+  "alias": [
+    "ABC2_oP16_53_h_e_gh"
+  ],
+  "title": "TaNiTe$_{2}$ Structure",
+  "icsd": 71063,
+  "ccdc": 1631976,
+  "prototype": "NiTaTe2",
+  "prototype_tex": "NiTaTe$_{2}$",
+  "number_of_species": 3,
+  "pearson_symbol": "oP16",
+  "space_group_number": 53,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "x1",
+    "y2",
+    "y3",
+    "z3",
+    "y4",
+    "z4"
+  ],
+  "parameter_values": [
+    7.897,
+    0.915284,
+    0.788907,
+    0.20486,
+    0.3193,
+    0.8802,
+    0.6451,
+    0.776,
+    0.2507
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": "Our original published version of this structure (Hicks, 2019) has incorrect lattice parameters.  These are corrected here, and now show the layered structure of TaNiTe$_{2}$. \n The origin of the $y$-axis has been shifted by $b/2$ from that of (Tremel, 1991), moving the tantalum atoms from the (4f) Wyckoff position to (4e)."
 }

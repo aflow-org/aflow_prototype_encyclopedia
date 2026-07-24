@@ -1,30 +1,38 @@
 {
-    "uid": "4LX6",
-    "label": "A2BCD2_tI12_139_e_a_b_d-001",
-    "alias": null,
-    "title": "LuNi$_{2}$B$_{2}$C Structure",
-    "icsd": "75609",
-    "ccdc": null,
-    "prototype": "B2CLuNi2",
-    "prototype_tex": "B$_{2}$CLuNi$_{2}$",
-    "number_of_species": 4,
-    "pearson_symbol": "tI12",
-    "space_group_number": 139,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z4"
-    ],
-    "parameter_values": [
-        3.4639,
-        3.06917,
-        0.8618
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "4LX6",
+  "label": "A2BCD2_tI12_139_e_a_b_d-001",
+  "alias": null,
+  "title": "LuNi$_{2}$B$_{2}$C Structure",
+  "icsd": 75609,
+  "ccdc": 1636254,
+  "prototype": "B2CLuNi2",
+  "prototype_tex": "B$_{2}$CLuNi$_{2}$",
+  "number_of_species": 4,
+  "pearson_symbol": "tI12",
+  "space_group_number": 139,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z4"
+  ],
+  "parameter_values": [
+    3.4639,
+    3.06917,
+    0.8618
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "GdN$_{2}$B$_{2}$C",
+    "LaIr$_{2}$B$_{2}$C",
+    "LaN$_{2}$B$_{2}$C",
+    "LaPt$_{2}$B$_{2}$C",
+    "LaRh$_{2}$B$_{2}$C"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

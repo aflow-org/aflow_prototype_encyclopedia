@@ -14,16 +14,20 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "y3",
-        "z3"
+	"a",
+	"y3",
+	"z3"
     ],
     "parameter_values": [
-        6.639,
-        0.156,
-        0.313
+	6.639,
+	0.156,
+	0.313
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "Zn$_{3}$Au"
+    ],
     "legacy": false,
     "notes": "$\\beta$-UH$_{3}$",
     "comments": "UH$_{3}$ exists in two different structures, both with space group $Pm\\overline{3}n$ \\#223 (Halevy, 2004). \n $\\alpha$-UH$_{3}$ forms in the \\href{current_web_home_dir/A3B_cP8_223_c_a-001}{Cr$_{3}$Si ($A15$) structure}, but rapidly transforms into the ground state $\\beta$-UH$_{3}$ structure shown here. \n In this case, all of the uranium atoms sit on the sites of the $A15$ structure, with the hydrogens in the interstitials."

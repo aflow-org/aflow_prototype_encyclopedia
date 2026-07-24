@@ -1,34 +1,54 @@
 {
-    "uid": "1T51",
-    "label": "ABCD_tP8_129_c_b_a_c-001",
-    "alias": [
-        "ABCD_tP8_129_c_b_a_c"
-    ],
-    "title": "AsCuSiZr Structure",
-    "icsd": "42165",
-    "ccdc": null,
-    "prototype": "AsCuSiZr",
-    "prototype_tex": "AsCuSiZr",
-    "number_of_species": 4,
-    "pearson_symbol": "tP8",
-    "space_group_number": 129,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z3",
-        "z4"
-    ],
-    "parameter_values": [
-        3.6736,
-        2.6054,
-        0.6793,
-        0.2246
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "This is the parent structure for the iron-pnictide superconductors. \n This structure has the same space group and Wyckoff positions as \\href{current_web_home_dir/ABCD_tP8_129_b_c_a_c-001}{LaOAgS}, but there is a substantial difference in the $c/a$ ratio leading to different bonding between the layers."
+  "uid": "1T51",
+  "label": "ABCD_tP8_129_c_b_a_c-001",
+  "alias": [
+    "ABCD_tP8_129_c_b_a_c"
+  ],
+  "title": "AsCuSiZr Structure",
+  "icsd": 42165,
+  "ccdc": 1611870,
+  "prototype": "AsCuSiZr",
+  "prototype_tex": "AsCuSiZr",
+  "number_of_species": 4,
+  "pearson_symbol": "tP8",
+  "space_group_number": 129,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z3",
+    "z4"
+  ],
+  "parameter_values": [
+    3.6736,
+    2.6054,
+    0.6793,
+    0.2246
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "AsCuHfSi",
+    "BaCuFS",
+    "CeCuSO",
+    "EuCuFS",
+    "EuCuSO",
+    "LaCuSO",
+    "LaOFeAs",
+    "NdCuSO",
+    "PrCuSO",
+    "SmCuSO",
+    "SrCuFS",
+    "As$_{2}$CuU",
+    "Bi$_{2}$CuMn",
+    "CoLiSb$_{2}$",
+    "CuGe$_{2}$HF",
+    "LaMnSb$_{2}$",
+    "NiPrSb$_{2}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "This is the parent structure for the iron-pnictide superconductors. \n This structure has the same space group and Wyckoff positions as \\href{current_web_home_dir/ABCD_tP8_129_b_c_a_c-001}{LaOAgS}, but there is a substantial difference in the $c/a$ ratio leading to different bonding between the layers."
 }

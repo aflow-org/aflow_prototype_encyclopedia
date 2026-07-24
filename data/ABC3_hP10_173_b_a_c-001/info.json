@@ -1,40 +1,38 @@
 {
-    "uid": "DF6Y",
-    "label": "ABC3_hP10_173_b_a_c-001",
-    "alias": [
-        "ABC3_hP10_173_b_a_c"
-    ],
-    "title": "$\\alpha$-LiIO$_{3}$ Structure",
-    "icsd": "14377",
-    "ccdc": null,
-    "prototype": "ILiO3",
-    "prototype_tex": "ILiO$_{3}$",
-    "number_of_species": 3,
-    "pearson_symbol": "hP10",
-    "space_group_number": 173,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z1",
-        "z2",
-        "x3",
-        "y3",
-        "z3"
-    ],
-    "parameter_values": [
-        5.1815,
-        0.997954,
-        0.8907,
-        0.0,
-        0.0935833,
-        0.343957,
-        0.1698
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$\\alpha$-LiIO$_{3}$",
-    "comments": "LiIO$_{3}$ is known to exist in three forms: \n $\\alpha$-LiIO$_{3}$, stable below 470K: \\begin{itemize} \\item (Zachariasen, 1931) originally determined that the structure of $\\alpha$-LiIO$_{3}$ was \\href{current_web_home_dir/ABC3_hP10_182_c_b_g-001}{in space group $P6_{3}22$ \\#182}, which (Hermann, 1937) designated {\\em Strukturbericht} $E2_{3}$. \\item (Rosenzweig, 1966) subsequently determined that this structure was incorrect because of the small sample size, and determined that the true structure was \\href{current_web_home_dir/ABC3_hP10_173_b_a_c-001}{in space group $P6_{3}$ \\#173}. (this structure) \\end{itemize} ~ \\vspace{-.25in} \n \\href{current_web_home_dir/ABC3_tP40_86_g_g_3g-001}{$\\beta$-LiIO$_{3}$}, stable from 573K up to the melting point at 708K. \n \\href{current_web_home_dir/ABC3_oP20_33_a_a_3a-001}{$\\gamma$-LiIO$_{3}$}, stable between the $\\alpha$- and $\\beta$-phases, with an orthorhombic structure in space group $Pna2_{1}$ \\#33. \n The ICSD entry uses a = 5.485{\\AA} rather than the value 5.1815{\\AA} found in (Rosenzweig, 1966). This is perhaps influenced bo (De Boer, 1966) (ICSD 14344) and the original work of (Zachariasen, 1931), who both found values nearer 5.48{\\AA}.  For now we will continue to use 5.1815{\\AA}."
+  "uid": "DF6Y",
+  "label": "ABC3_hP10_173_b_a_c-001",
+  "alias": [
+    "ABC3_hP10_173_b_a_c"
+  ],
+  "title": "$\\alpha$-LiIO$_{3}$ Structure",
+  "icsd": 14377,
+  "ccdc": 1595762,
+  "prototype": "ILiO3",
+  "prototype_tex": "ILiO$_{3}$",
+  "number_of_species": 3,
+  "pearson_symbol": "hP10",
+  "space_group_number": 173,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z1",
+    "z2",
+    "x3",
+    "y3",
+    "z3"
+  ],
+  "parameter_values": [
+    5.1815,
+    0.997954,
+    0.8907
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "$\\alpha$-LiIO$_{3}$",
+  "comments": "LiIO$_{3}$ is known to exist in three forms: \n $\\alpha$-LiIO$_{3}$, stable below 470K: \\begin{itemize} \\item (Zachariasen, 1931) originally determined that the structure of $\\alpha$-LiIO$_{3}$ was \\href{current_web_home_dir/ABC3_hP10_182_c_b_g-001}{in space group $P6_{3}22$ \\#182}, which (Hermann, 1937) designated {\\em Strukturbericht} $E2_{3}$. \\item (Rosenzweig, 1966) subsequently determined that this structure was incorrect because of the small sample size, and determined that the true structure was \\href{current_web_home_dir/ABC3_hP10_173_b_a_c-001}{in space group $P6_{3}$ \\#173}. (this structure) \\end{itemize} ~ \\vspace{-.25in} \n \\href{current_web_home_dir/ABC3_tP40_86_g_g_3g-001}{$\\beta$-LiIO$_{3}$}, stable from 573K up to the melting point at 708K. \n \\href{current_web_home_dir/ABC3_oP20_33_a_a_3a-001}{$\\gamma$-LiIO$_{3}$}, stable between the $\\alpha$- and $\\beta$-phases, with an orthorhombic structure in space group $Pna2_{1}$ \\#33. \n The ICSD entry uses a = 5.485{\\AA} rather than the value 5.1815{\\AA} found in (Rosenzweig, 1966). This is perhaps influenced bo (De Boer, 1966) (ICSD 14344) and the original work of (Zachariasen, 1931), who both found values nearer 5.48{\\AA}.  For now we will continue to use 5.1815{\\AA}."
 }

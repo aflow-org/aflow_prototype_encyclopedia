@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/A_hR1_166_a-001
 
 # Last updated on 2024/08/01
-data_Po3
-_pd_phase_name Po3
+data_Po
+_pd_phase_name Po
 _cell_length_a  5.0784600000
 _cell_length_b  5.0784600000
 _cell_length_c  4.9166600000

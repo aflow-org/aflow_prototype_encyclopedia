@@ -1,44 +1,46 @@
 {
-    "uid": "8SJC",
-    "label": "A12BC4_cP34_195_2j_ab_2e-001",
-    "alias": [
-        "A12BC4_cP34_195_2j_ab_2e"
-    ],
-    "title": "PrRu$_{4}$P$_{12}$ Structure",
-    "icsd": "55834",
-    "ccdc": null,
-    "prototype": "P12PrRu4",
-    "prototype_tex": "P$_{12}$PrRu$_{4}$",
-    "number_of_species": 3,
-    "pearson_symbol": "cP34",
-    "space_group_number": 195,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "x3",
-        "x4",
-        "x5",
-        "y5",
-        "z5",
-        "x6",
-        "y6",
-        "z6"
-    ],
-    "parameter_values": [
-        8.036,
-        0.2493,
-        0.7507,
-        0.14225,
-        0.5,
-        0.35579,
-        0.0002,
-        0.14286,
-        0.35831
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "(Lee, 2004) give two refinements of this structure, in space group $P23$ \\#195 and space group $Pm\\overline{3}$ \\#200, both with the same $R$ factor.  We show the results for $P23$.  AFLOW the difference between the two structures to be quite small.\n Using its default tolerance, AFLOW places this structure in space group $Im\\overline{3}$ \\#204, with all the atoms of a given species located on one Wyckoff position.  It is likely that first-principles calculations will relax into that space group. \n The reported $P23$ structure can be recovered using the commmand \n aflow -{-}proto=A12BC4\\_cP34\\_195\\_2j\\_ab\\_2e:P:Pr:Ru -{-}params=a,x$_{3}$,x$_{4}$,x$_{5}$,y$_{5}$,z$_{5}$,x$_{6}$,y$_{6}$,z$_{6}$ -{-}tolerance=0.001."
+  "uid": "8SJC",
+  "label": "A12BC4_cP34_195_2j_ab_2e-001",
+  "alias": [
+    "A12BC4_cP34_195_2j_ab_2e"
+  ],
+  "title": "PrRu$_{4}$P$_{12}$ Structure",
+  "icsd": 55834,
+  "ccdc": 1620131,
+  "prototype": "P12PrRu4",
+  "prototype_tex": "P$_{12}$PrRu$_{4}$",
+  "number_of_species": 3,
+  "pearson_symbol": "cP34",
+  "space_group_number": 195,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "x3",
+    "x4",
+    "x5",
+    "y5",
+    "z5",
+    "x6",
+    "y6",
+    "z6"
+  ],
+  "parameter_values": [
+    8.036,
+    0.2493,
+    0.7507,
+    0.14225,
+    0.5,
+    0.35579,
+    0.0002,
+    0.14286,
+    0.35831
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": "(Lee, 2004) give two refinements of this structure, in space group $P23$ \\#195 and space group $Pm\\overline{3}$ \\#200, both with the same $R$ factor.  We show the results for $P23$, as it is the lesser-known space group. The ICSD entry is for the higher symmetry space group. \n The difference between the two structures to be quite small. \n Using its default tolerance, AFLOW places this structure in space group $Im\\overline{3}$ \\#204, with all the atoms of a given species located on one Wyckoff position.  It is likely that first-principles calculations will relax into that space group. \n The reported $P23$ structure can be recovered using the commmand \n aflow -{-}proto=A12BC4\\_cP34\\_195\\_2j\\_ab\\_2e:P:Pr:Ru -{-}params=a,x$_{3}$,x$_{4}$,x$_{5}$,y$_{5}$,z$_{5}$,x$_{6}$,y$_{6}$,z$_{6}$ -{-}tolerance=0.001. \n Space group $P23$ \\#195 is \\href{current_web_home_dir/Tutorials/ChiralSpaceGroups/index.html#ClassIII}{chiral, Sohncke Class III}, so this structure could be found in a mirror image configuration in the same space group, but with the default tolerance both space groups would revert to the same $Im\\overline{3}$ structure."
 }

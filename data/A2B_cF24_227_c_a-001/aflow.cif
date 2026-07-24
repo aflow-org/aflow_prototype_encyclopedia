@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/A2B_cF24_227_c_a-001
 
 # Last updated on 2024/08/01
-data_O16Si8
-_pd_phase_name O16Si8
+data_O2Si
+_pd_phase_name O2Si
 _cell_length_a  7.1660000000
 _cell_length_b  7.1660000000
 _cell_length_c  7.1660000000
@@ -229,4 +229,4 @@ loop_
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
 Si2 1.0000000000 0.1250000000 0.1250000000 0.1250000000  Biso 1.0 Si 8 a
-O1 1.0000000000 0.0000000000 -0.0000000000 0.0000000000  Biso 1.0 O 16 c
+O1  1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 O 16 c

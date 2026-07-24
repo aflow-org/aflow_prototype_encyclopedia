@@ -1,38 +1,59 @@
 {
-    "uid": "0GA4",
-    "label": "AB3C2_hP24_194_f_k_bh-001",
-    "alias": [
-        "AB3C2_hP24_194_f_k_bh"
-    ],
-    "title": "Lu$_{2}$CoGa$_{3}$ Structure",
-    "icsd": "300248",
-    "ccdc": null,
-    "prototype": "CoGa3Lu2",
-    "prototype_tex": "CoGa$_{3}$Lu$_{2}$",
-    "number_of_species": 3,
-    "pearson_symbol": "hP24",
-    "space_group_number": 194,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z2",
-        "x3",
-        "x4",
-        "z4"
-    ],
-    "parameter_values": [
-        8.659,
-        0.787966,
-        0.05,
-        0.523103,
-        0.169203,
-        0.0432
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "Although (Gladyshevskii, 1992) refers to these compounds as \\href{current_web_home_dir/AB2_hP3_191_a_d-001}{``new members of the AlB$_{2}$ structure family''} and this structure is related to AlB$_{2}$, the two are not isostructural. \n The original data was presented in (Gladyshevskii, 1986).  We do not have a copy of that publication, so we use the data given in (Gladyshevskii, 1992). \n The ICSD entry for this paper is for the isostructural compound Er$_{2}$RhSi$_{3}$. \n This structure is closely related to what we call the \\href{current_web_home_dir/A2BC3_hP24_190_bh_f_i-001}{Er$_{2}$RhSi$_{3}$ structure}, which lacks the inversion symmetry of this structure. See the discussion there and in (Gladyshevskii, 1992)."
+  "uid": "0GA4",
+  "label": "AB3C2_hP24_194_f_k_bh-001",
+  "alias": [
+    "AB3C2_hP24_194_f_k_bh"
+  ],
+  "title": "Lu$_{2}$CoGa$_{3}$ Structure",
+  "icsd": 300248,
+  "ccdc": 1723877,
+  "prototype": "CoGa3Lu2",
+  "prototype_tex": "CoGa$_{3}$Lu$_{2}$",
+  "number_of_species": 3,
+  "pearson_symbol": "hP24",
+  "space_group_number": 194,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z2",
+    "x3",
+    "x4",
+    "z4"
+  ],
+  "parameter_values": [
+    8.659,
+    0.787966,
+    0.05,
+    0.523103,
+    0.169203,
+    0.0432
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Ce$_{2}$RhSi$_{3}$",
+    "Dy$_{2}$CoGa$_{3}$",
+    "Dy$_{2}$RhSi$_{3}$",
+    "Er$_{2}$CoGa$_{3}$",
+    "Er$_{2}$RhSi$_{3}$",
+    "Gd$_{2}$PdSi$_{3}$",
+    "Gd$_{2}$RhSi$_{3}$",
+    "Ho$_{2}$CoGa$_{3}$",
+    "Ho$_{2}$RhSi$_{3}$",
+    "La$_{2}$RhSi$_{3}$",
+    "Nd$_{2}$PdSi$_{3}$",
+    "Nd$_{2}$RhSi$_{3}$",
+    "Tb$_{2}$CoGa$_{3}$",
+    "Tb$_{2}$RhSi$_{3}$",
+    "Tm$_{2}$CoGa$_{3}$",
+    "Y$_{2}$CoGa$_{3}$",
+    "Y$_{2}$RhSi$_{3}$",
+    "Yb$_{2}$CoGa$_{3}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "Although (Gladyshevskii, 1992) refers to these compounds as \\href{current_web_home_dir/AB2_hP3_191_a_d-001}{``new members of the AlB$_{2}$ structure family''} and this structure is related to AlB$_{2}$, the two are not isostructural. \n The original data was presented in (Gladyshevskii, 1986).  We do not have a copy of that publication, so we use the data given in (Gladyshevskii, 1992). \n The ICSD entry for this paper is for the isostructural compound Er$_{2}$RhSi$_{3}$. \n This structure is closely related to what we call the \\href{current_web_home_dir/A2BC3_hP24_190_bh_f_i-001}{Er$_{2}$RhSi$_{3}$ structure}, which lacks the inversion symmetry of this structure. See the discussion there and in (Gladyshevskii, 1992)."
 }

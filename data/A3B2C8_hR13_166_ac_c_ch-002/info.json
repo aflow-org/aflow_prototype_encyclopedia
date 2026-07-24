@@ -1,38 +1,42 @@
 {
-    "uid": "7UDV",
-    "label": "A3B2C8_hR13_166_ac_c_ch-002",
-    "alias": null,
-    "title": "Ba$_{3}$Cr$_{2}$O$_{8}$ Structure",
-    "icsd": "159409",
-    "ccdc": null,
-    "prototype": "Ba3Cr2O8",
-    "prototype_tex": "Ba$_{3}$Cr$_{2}$O$_{8}$",
-    "number_of_species": 3,
-    "pearson_symbol": "hR13",
-    "space_group_number": 166,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x2",
-        "x3",
-        "x4",
-        "x5",
-        "z5"
-    ],
-    "parameter_values": [
-        5.73908,
-        3.7246,
-        0.79391,
-        0.5921,
-        0.6664,
-        0.2678,
-        0.7646
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "This is the ternary version of the \\href{current_web_home_dir/A7B6_hR13_166_ah_3c-001}{$D8_{5}$ (Fe$_{7}$W$_{6}$) structure}. The structure given by (Nakajima, 2008) does not appear in the ICSD.  We give the ICSD entry for the structure determined by (Aczel, 2008). \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
+  "uid": "7UDV",
+  "label": "A3B2C8_hR13_166_ac_c_ch-002",
+  "alias": null,
+  "title": "Ba$_{3}$Cr$_{2}$O$_{8}$ Structure",
+  "icsd": 159409,
+  "ccdc": 1675881,
+  "prototype": "Ba3Cr2O8",
+  "prototype_tex": "Ba$_{3}$Cr$_{2}$O$_{8}$",
+  "number_of_species": 3,
+  "pearson_symbol": "hR13",
+  "space_group_number": 166,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x2",
+    "x3",
+    "x4",
+    "x5",
+    "z5"
+  ],
+  "parameter_values": [
+    5.73908,
+    3.7246,
+    0.79391,
+    0.5921,
+    0.6664,
+    0.2678,
+    0.7646
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Sr$_{3}$Cr$_{2}$O$_{8}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "This is the ternary version of the \\href{current_web_home_dir/A7B6_hR13_166_ah_3c-001}{$D8_{5}$ (Fe$_{7}$W$_{6}$) structure}. The structure given by (Nakajima, 2008) does not appear in the ICSD.  We give the ICSD entry for the structure determined by (Aczel, 2008). \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

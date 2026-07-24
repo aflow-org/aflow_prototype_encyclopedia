@@ -1,40 +1,50 @@
 {
-    "uid": "2T8B",
-    "label": "ABC3_oC20_63_c_a_cf-003",
-    "alias": [
-        "ABC3_oC20_63_c_b_cf"
-    ],
-    "title": "V$_{3}$AsC Structure",
-    "icsd": "25761",
-    "ccdc": null,
-    "prototype": "AsCV3",
-    "prototype_tex": "AsCV$_{3}$",
-    "number_of_species": 3,
-    "pearson_symbol": "oC20",
-    "space_group_number": 63,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "y2",
-        "y3",
-        "y4",
-        "z4"
-    ],
-    "parameter_values": [
-        3.128,
-        3.24169,
-        2.46132,
-        0.256,
-        0.952,
-        0.6283,
-        0.052
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "This structure is a ``filled'' version of \\href{current_web_home_dir/AB3_oC16_63_c_cf-001}{the Re$_{3}$B structure}, with carbon atoms sitting in the (4b) Wyckoff positions.  This is the ternary version of the structure.  The quaternary version, where all Wyckoff positions contain different species of atoms, is listed as the \\href{current_web_home_dir/AB2CD_oC20_63_a_f_c_c-001}{ThFe$_{2}$SiC structure}. \n We have shifted the origin to move the first of the C I atoms to the origin."
+  "uid": "2T8B",
+  "label": "ABC3_oC20_63_c_a_cf-003",
+  "alias": [
+    "ABC3_oC20_63_c_b_cf"
+  ],
+  "title": "V$_{3}$AsC Structure",
+  "icsd": 25761,
+  "ccdc": 1601404,
+  "prototype": "AsCV3",
+  "prototype_tex": "AsCV$_{3}$",
+  "number_of_species": 3,
+  "pearson_symbol": "oC20",
+  "space_group_number": 63,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "y2",
+    "y3",
+    "y4",
+    "z4"
+  ],
+  "parameter_values": [
+    3.128,
+    3.24169,
+    2.46132,
+    0.256,
+    0.952,
+    0.6283,
+    0.052
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "V$_{3}$PC",
+    "V$_{3}$PN",
+    "V$_{3}$AsN",
+    "Cr$_{3}$PC",
+    "Cr$_{3}$AsC",
+    "Zr$_{3}$AlN",
+    "UScS$_{3}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "This structure is a ``filled'' version of \\href{current_web_home_dir/AB3_oC16_63_c_cf-001}{the Re$_{3}$B structure}, with carbon atoms sitting in the (4b) Wyckoff positions.  This is the ternary version of the structure.  The quaternary version, where all Wyckoff positions contain different species of atoms, is listed as the \\href{current_web_home_dir/AB2CD_oC20_63_a_f_c_c-001}{ThFe$_{2}$SiC structure}. \n We have shifted the origin to move the first of the C I atoms to the origin."
 }

@@ -1,38 +1,49 @@
 {
-    "uid": "3XYE",
-    "label": "A4B3_oI14_71_ef_af-001",
-    "alias": [
-        "A4B3_oI14_71_gh_cg"
-    ],
-    "title": "Ta$_{3}$B$_{4}$ ($D7_{b}$) Structure",
-    "icsd": "44589",
-    "ccdc": null,
-    "prototype": "B4Ta3",
-    "prototype_tex": "B$_{4}$Ta$_{3}$",
-    "number_of_species": 2,
-    "pearson_symbol": "oI14",
-    "space_group_number": 71,
-    "strukturbericht": "D7_b",
-    "strukturbericht_tex": "$D7_{b}$",
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "x2",
-        "x3",
-        "x4"
-    ],
-    "parameter_values": [
-        14.0,
-        0.223571,
-        0.235,
-        0.444,
-        0.375,
-        0.18
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$D7_{b}$",
-    "comments": null
+  "uid": "3XYE",
+  "label": "A4B3_oI14_71_ef_af-001",
+  "alias": [
+    "A4B3_oI14_71_gh_cg"
+  ],
+  "title": "Ta$_{3}$B$_{4}$ ($D7_{b}$) Structure",
+  "icsd": 44589,
+  "ccdc": 1613959,
+  "prototype": "B4Ta3",
+  "prototype_tex": "B$_{4}$Ta$_{3}$",
+  "number_of_species": 2,
+  "pearson_symbol": "oI14",
+  "space_group_number": 71,
+  "strukturbericht": "D7b",
+  "strukturbericht_tex": "$D7_{b}$",
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "x2",
+    "x3",
+    "x4"
+  ],
+  "parameter_values": [
+    14,
+    0.223571,
+    0.235,
+    0.444,
+    0.375,
+    0.18
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "B$_{4}$Cr$_{3}$",
+    "B$_{4}$Mn$_{3}$",
+    "B$_{4}$Mo$_{2}$Ni",
+    "B$_{4}$Nb$_{3}$",
+    "B$_{4}$Ta$_{3}$",
+    "B$_{4}$V$_{3}$",
+    "B$_{4}$CoMo$_{2}$",
+    "B$_{4}$FeMo$_{2}$"
+  ],
+  "legacy": false,
+  "notes": "$D7_{b}$",
+  "comments": null
 }

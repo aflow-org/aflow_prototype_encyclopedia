@@ -1,48 +1,46 @@
 {
-    "uid": "WA7J",
-    "label": "AB3_oC16_40_b_3b-001",
-    "alias": [
-        "AB3_oC16_40_b_3b"
-    ],
-    "title": "CeTe$_{3}$ Structure",
-    "icsd": "170556",
-    "ccdc": null,
-    "prototype": "CeTe3",
-    "prototype_tex": "CeTe$_{3}$",
-    "number_of_species": 2,
-    "pearson_symbol": "oC16",
-    "space_group_number": 40,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "y1",
-        "z1",
-        "y2",
-        "z2",
-        "y3",
-        "z3",
-        "y4",
-        "z4"
-    ],
-    "parameter_values": [
-        4.385,
-        5.92335,
-        0.997332,
-        0.83109,
-        0.0,
-        0.70417,
-        0.0021,
-        0.56971,
-        0.4966,
-        0.92998,
-        0.4978
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "WA7J",
+  "label": "AB3_oC16_40_b_3b-001",
+  "alias": [
+    "AB3_oC16_40_b_3b"
+  ],
+  "title": "CeTe$_{3}$ Structure",
+  "icsd": 170556,
+  "ccdc": 1686028,
+  "prototype": "CeTe3",
+  "prototype_tex": "CeTe$_{3}$",
+  "number_of_species": 2,
+  "pearson_symbol": "oC16",
+  "space_group_number": 40,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "y1",
+    "z1",
+    "y2",
+    "z2",
+    "y3",
+    "z3",
+    "y4",
+    "z4"
+  ],
+  "parameter_values": [
+    4.385,
+    5.92335,
+    0.997332,
+    0.83109
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "NdTe$_{3}$",
+    "PrTe$_{3}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

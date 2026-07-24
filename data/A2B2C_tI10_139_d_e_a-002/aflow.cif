@@ -10,10 +10,10 @@
 # The current version of this file is available at
 # https://aflow.org/prototype-encyclopedia/A2B2C_tI10_139_d_e_a-002
 
-# Last updated on 2024/08/01
+# Last updated on 2025/07/28
 
-data_Co4S4Tl2
-_pd_phase_name Co4S4Tl2
+data_Co2S2Tl
+_pd_phase_name Co2S2Tl
 _cell_length_a  3.7410000000
 _cell_length_b  3.7410000000
 _cell_length_c  12.9560100000
@@ -70,4 +70,4 @@ loop_
  _atom_site_Wyckoff_label
 Tl3 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Tl 2 a
 Co1 1.0000000000 0.0000000000 0.5000000000 0.2500000000  Biso 1.0 Co 4 d
-S2 1.0000000000 -0.0000000000 0.0000000000 0.3474000000  Biso 1.0 S 4 e
+S2  1.0000000000 0.0000000000 0.0000000000 0.3474000000  Biso 1.0 S  4 e

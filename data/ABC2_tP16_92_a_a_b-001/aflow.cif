@@ -5,15 +5,15 @@
 # Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
 # Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
 # Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
-# Chemical Composition:  AlLiO2
+# Chemical Composition:  gamma-LiAlO2
 
 # The current version of this file is available at
 # https://aflow.org/prototype-encyclopedia/ABC2_tP16_92_a_a_b-001
 
-# Last updated on 2024/08/01
+# Last updated on 2025/07/24
 
-data_Al4Li4O8
-_pd_phase_name Al4Li4O8
+data_AlLiO2
+_pd_phase_name AlLiO2
 _cell_length_a  5.1687000000
 _cell_length_b  5.1687000000
 _cell_length_c  6.2679000000
@@ -46,4 +46,4 @@ loop_
  _atom_site_Wyckoff_label
 Al1 1.0000000000 0.1759000000 0.1759000000 0.0000000000  Biso 1.0 Al 4 a
 Li2 1.0000000000 0.8126000000 0.8126000000 0.0000000000  Biso 1.0 Li 4 a
-O3 1.0000000000 0.3369000000 0.2906000000 0.7723000000  Biso 1.0 O 8 b
+O3  1.0000000000 0.3369000000 0.2906000000 0.7723000000  Biso 1.0 O  8 b

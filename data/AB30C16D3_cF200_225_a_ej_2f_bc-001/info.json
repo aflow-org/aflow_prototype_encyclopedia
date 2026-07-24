@@ -1,38 +1,48 @@
 {
-    "uid": "U8XN",
-    "label": "AB30C16D3_cF200_225_a_ej_2f_bc-001",
-    "alias": [
-        "AB30C16D3_cF200_225_a_ej_2f_bc"
-    ],
-    "title": "(NH$_{4}$)$_{3}$AlF$_{6}$ ($J2_{1}$) Structure",
-    "icsd": "412982",
-    "ccdc": null,
-    "prototype": "AlF6H12N3",
-    "prototype_tex": "AlF$_{6}$H$_{12}$N$_{3}$",
-    "number_of_species": 4,
-    "pearson_symbol": "cF200",
-    "space_group_number": 225,
-    "strukturbericht": "J2_1",
-    "strukturbericht_tex": "$J2_{1}$",
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "x4",
-        "x5",
-        "x6",
-        "y7",
-        "z7"
-    ],
-    "parameter_values": [
-        8.9401,
-        0.1969,
-        0.193,
-        0.557,
-        0.5536,
-        0.6923
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$J2_{1}$",
-    "comments": "Early determinations of this structure placed all of the fluorine atoms on the (24e) site and were not able to determine the positions of the hydrogen atoms in the ammonium ion.  This structure was designated $H71$ ($H7_{1}$) by (Ewald, 1931), renamed $I2_{1}$ by (Hermann, 1937) and finally changed to $J2_{1}$ by (Gottfried, 1937). \n The structure determined by (Udovenko, 2003) found that the fluorine atoms are split onto two sites: \n F-I, at Wyckoff position (24e) is 1/3 filled, and \n F-II, at (96j), is 1/6 filled. \n The positions are so close that a reasonable approximation can be made by eliminating the (96j) site and fully occupying the (24e) site. \n The H-I (32f) site is fully occupied, while the H-II (32f) site is 50\\% occupied. \n Our original description of the structure (Hicks, 2021) incorrectly used a value of $1/2-x_{5}$ for the position of the H I atom.  This rotated the NH$_{4}$ ions by $90^{\\circ}$ about the $z$-axis from their correct orientation.  The currect CIF has the correct value for $x_{5}$."
+  "uid": "U8XN",
+  "label": "AB30C16D3_cF200_225_a_ej_2f_bc-001",
+  "alias": [
+    "AB30C16D3_cF200_225_a_ej_2f_bc"
+  ],
+  "title": "(NH$_{4}$)$_{3}$AlF$_{6}$ ($J2_{1}$) Structure",
+  "icsd": 412982,
+  "ccdc": 1728117,
+  "prototype": "AlF6H12N3",
+  "prototype_tex": "AlF$_{6}$H$_{12}$N$_{3}$",
+  "number_of_species": 4,
+  "pearson_symbol": "cF200",
+  "space_group_number": 225,
+  "strukturbericht": "J21",
+  "strukturbericht_tex": "$J2_{1}$",
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "x4",
+    "x5",
+    "x6",
+    "y7",
+    "z7"
+  ],
+  "parameter_values": [
+    8.9401,
+    0.1969,
+    0.193,
+    0.557,
+    0.5536,
+    0.6923
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "(NH$_{4}$)$_{3}$FeF$_{6}$",
+    "(NH$_{4}$)$_{3}$TiOF$_{5}$",
+    "(NH$_{4}$)$_{3}$Fe(NO$_{2}$)$_{6}$",
+    "K$_{3}$Ir(NO$_{2}$)$_{6}$",
+    "Cs$_{3}$Ir(NO$_{2}$)$_{6}$",
+    "Rb$_{3}$Ir(NO$_{2}$)$_{6}$",
+    "Tl$_{3}$Ir(NO$_{2}$)$_{6}$"
+  ],
+  "legacy": false,
+  "notes": "$J2_{1}$",
+  "comments": "Early determinations of this structure placed all of the fluorine atoms on the (24e) site and were not able to determine the positions of the hydrogen atoms in the ammonium ion.  This structure was designated $H71$ ($H7_{1}$) by (Ewald, 1931), renamed $I2_{1}$ by (Hermann, 1937) and finally changed to $J2_{1}$ by (Gottfried, 1937). \n The structure determined by (Udovenko, 2003) found that the fluorine atoms are split onto two sites: \n F-I, at Wyckoff position (24e) is 1/3 filled, and \n F-II, at (96j), is 1/6 filled. \n The positions are so close that a reasonable approximation can be made by eliminating the (96j) site and fully occupying the (24e) site. \n The H-I (32f) site is fully occupied, while the H-II (32f) site is 50\\% occupied. \n Our original description of the structure (Hicks, 2021) incorrectly used a value of $1/2-x_{5}$ for the position of the H I atom.  This rotated the NH$_{4}$ ions by $90^{\\circ}$ about the $z$-axis from their correct orientation.  The currect CIF has the correct value for $x_{5}$."
 }

@@ -1,42 +1,53 @@
 {
-    "uid": "7M03",
-    "label": "A9B3C2_hR28_167_ef_e_c-001",
-    "alias": [
-        "A9B3C2_hR28_167_ef_e_c"
-    ],
-    "title": "Cs$_{3}$Tl$_{2}$Cl$_{9}$ ($K7_{2}$) Structure",
-    "icsd": "27849",
-    "ccdc": null,
-    "prototype": "Cl9Cs3Tl2",
-    "prototype_tex": "Cl$_{9}$Cs$_{3}$Tl$_{2}$",
-    "number_of_species": 3,
-    "pearson_symbol": "hR28",
-    "space_group_number": 167,
-    "strukturbericht": "K7_2",
-    "strukturbericht_tex": "$K7_{2}$",
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x1",
-        "x2",
-        "x3",
-        "x4",
-        "y4",
-        "z4"
-    ],
-    "parameter_values": [
-        12.7957,
-        1.42998,
-        0.652,
-        0.097,
-        0.58333,
-        0.414,
-        0.755,
-        0.57399
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$K7_{2}$",
-    "comments": "(Hoard, 1935) followed by (Downs, 2003), give the atomic coordinates in the style of (Wyckoff, 1922), who lists space group $D_{3d}^6$ (the Sch\\\"{o}nflies notation for space group $R\\overline{3}c$) as space group \\#203, instead of \\#167, and uses an origin which corresponds to (1/4 ~ 1/4 ~ 1/4) in our lattice coordinates.  We used FINDSYM to convert this into our standard setting for space group \\#167."
+  "uid": "7M03",
+  "label": "A9B3C2_hR28_167_ef_e_c-001",
+  "alias": [
+    "A9B3C2_hR28_167_ef_e_c"
+  ],
+  "title": "Cs$_{3}$Tl$_{2}$Cl$_{9}$ ($K7_{2}$) Structure",
+  "icsd": 27849,
+  "ccdc": 1603027,
+  "prototype": "Cl9Cs3Tl2",
+  "prototype_tex": "Cl$_{9}$Cs$_{3}$Tl$_{2}$",
+  "number_of_species": 3,
+  "pearson_symbol": "hR28",
+  "space_group_number": 167,
+  "strukturbericht": "K72",
+  "strukturbericht_tex": "$K7_{2}$",
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x1",
+    "x2",
+    "x3",
+    "x4",
+    "y4",
+    "z4"
+  ],
+  "parameter_values": [
+    12.7957,
+    1.42998,
+    0.652,
+    0.097,
+    0.58333,
+    0.414,
+    0.755,
+    0.57399
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Cs$_{3}$Dy$_{2}$Br$_{9}$",
+    "Cs$_{3}$Er$_{2}$Br$_{9}$",
+    "Cs$_{3}$Ho$_{2}$Br$_{9}$",
+    "Cs$_{3}$Lu$_{2}$Cl$_{9}$",
+    "Cs$_{3}$Tb$_{2}$Br$_{9}$",
+    "Cs$_{3}$Yb$_{2}$Br$_{9}$",
+    "Ba$_{3}$Os$_{2}$O$_{9}$",
+    "Ba$_{3}$W$_{2}$O$_{9}$"
+  ],
+  "legacy": false,
+  "notes": "$K7_{2}$",
+  "comments": "(Hoard, 1935) followed by (Downs, 2003), give the atomic coordinates in the style of (Wyckoff, 1922), who lists space group $D_{3d}^6$ (the Sch\\\"{o}nflies notation for space group $R\\overline{3}c$) as space group \\#203, instead of \\#167, and uses an origin which corresponds to (1/4 ~ 1/4 ~ 1/4) in our lattice coordinates.  We used FINDSYM to convert this into our standard setting for space group \\#167."
 }

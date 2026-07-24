@@ -1,38 +1,50 @@
 {
-    "uid": "QSNP",
-    "label": "A2B3_tP20_136_j_dfg-001",
-    "alias": [
-        "A2B3_tP20_136_j_dfg"
-    ],
-    "title": "Zr$_{3}$Al$_{2}$ Structure",
-    "icsd": "58231",
-    "ccdc": null,
-    "prototype": "Al2Zr3",
-    "prototype_tex": "Al$_{2}$Zr$_{3}$",
-    "number_of_species": 2,
-    "pearson_symbol": "tP20",
-    "space_group_number": 136,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x2",
-        "x3",
-        "x4",
-        "z4"
-    ],
-    "parameter_values": [
-        7.63,
-        0.917169,
-        0.34,
-        0.2,
-        0.125,
-        0.21
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "The \\href{current_web_home_dir/A2B3_tP20_102_2c_b2c-001}{Gd$_{3}$Al$_{2}$ structure} is similar to this one, but that structure does not have an inversion center."
+  "uid": "QSNP",
+  "label": "A2B3_tP20_136_j_dfg-001",
+  "alias": [
+    "A2B3_tP20_136_j_dfg"
+  ],
+  "title": "Zr$_{3}$Al$_{2}$ Structure",
+  "icsd": 58231,
+  "ccdc": 1622257,
+  "prototype": "Al2Zr3",
+  "prototype_tex": "Al$_{2}$Zr$_{3}$",
+  "number_of_species": 2,
+  "pearson_symbol": "tP20",
+  "space_group_number": 136,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x2",
+    "x3",
+    "x4",
+    "z4"
+  ],
+  "parameter_values": [
+    7.63,
+    0.917169,
+    0.34,
+    0.2,
+    0.125,
+    0.21
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Dy$_{3}$Al$_{2}$",
+    "Er$_{3}$Al$_{2}$",
+    "Ga$_{3}$Hf$_{2}$",
+    "Ga$_{3}$Zr$_{2}$",
+    "Gd$_{3}$Al$_{2}$",
+    "Hf$_{3}$Al$_{2}$",
+    "Ho$_{3}$Al$_{2}$",
+    "Tb$_{3}$Al$_{2}$",
+    "Y$_{3}$Al$_{2}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "The \\href{current_web_home_dir/A2B3_tP20_102_2c_b2c-001}{Gd$_{3}$Al$_{2}$ structure} is similar to this one, but that structure does not have an inversion center."
 }

@@ -1,34 +1,44 @@
 {
-    "uid": "EY4X",
-    "label": "A6B23_cF116_225_e_acfh-001",
-    "alias": [
-        "A6B23_cF116_225_e_acfh"
-    ],
-    "title": "Cr$_{23}$C$_{6}$ ($D8_{4}$) Structure",
-    "icsd": "2837",
-    "ccdc": null,
-    "prototype": "C6Cr23",
-    "prototype_tex": "C$_{6}$Cr$_{23}$",
-    "number_of_species": 2,
-    "pearson_symbol": "cF116",
-    "space_group_number": 225,
-    "strukturbericht": "D8_4",
-    "strukturbericht_tex": "$D8_{4}$",
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "x3",
-        "x4",
-        "y5"
-    ],
-    "parameter_values": [
-        10.65,
-        0.2765,
-        0.6191,
-        0.1699
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$D8_{4}$",
-    "comments": null
+  "uid": "EY4X",
+  "label": "A6B23_cF116_225_e_acfh-001",
+  "alias": [
+    "A6B23_cF116_225_e_acfh"
+  ],
+  "title": "Cr$_{23}$C$_{6}$ ($D8_{4}$) Structure",
+  "icsd": 2837,
+  "ccdc": 1592638,
+  "prototype": "C6Cr23",
+  "prototype_tex": "C$_{6}$Cr$_{23}$",
+  "number_of_species": 2,
+  "pearson_symbol": "cF116",
+  "space_group_number": 225,
+  "strukturbericht": "D84",
+  "strukturbericht_tex": "$D8_{4}$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "x3",
+    "x4",
+    "y5"
+  ],
+  "parameter_values": [
+    10.65,
+    0.2765,
+    0.6191,
+    0.1699
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Mn$_{23}$C$_{6}$",
+    "Co$_{21}$Sn$_{2}$B$_{6}$",
+    "Fe$_{21}$Mo$_{2}$C$_{6}$",
+    "Fe$_{21}$W$_{2}$C$_{6}$",
+    "Ni$_{20}$Mg$_{3}$B$_{6}$",
+    "Ni$_{21}$In$_{2}$B$_{6}$",
+    "Ni$_{21}$Sn$_{2}$B$_{6}$"
+  ],
+  "legacy": false,
+  "notes": "$D8_{4}$",
+  "comments": null
 }

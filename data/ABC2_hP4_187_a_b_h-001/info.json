@@ -1,30 +1,39 @@
 {
-    "uid": "GUVX",
-    "label": "ABC2_hP4_187_a_b_h-001",
-    "alias": null,
-    "title": "InNbS$_{2}$ Structure",
-    "icsd": "74702",
-    "ccdc": null,
-    "prototype": "InNbS2",
-    "prototype_tex": "InNbS$_{2}$",
-    "number_of_species": 3,
-    "pearson_symbol": "hP4",
-    "space_group_number": 187,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 5,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z3"
-    ],
-    "parameter_values": [
-        3.0771,
-        2.572942,
-        0.32
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "Many, if not all, of the compounds listed here have sub-stoichiometric occupation on the (1a) site.  The site is reported as fully occupied in InNbS$_{2}$, which is why we and the ICSD choose it as the prototype of the structure, even though (Eppinga, 1980) give it as Tl$_{x}$TaS$_{2}$. \n The value $z_{3}$ = 0.32 for the sulfur (2c) site is inferred from the value given for Ta$_{x}$InSe$_{2}$ by (Eppinga, 1980)."
+  "uid": "GUVX",
+  "label": "ABC2_hP4_187_a_b_h-001",
+  "alias": null,
+  "title": "InNbS$_{2}$ Structure",
+  "icsd": 74702,
+  "ccdc": 1635391,
+  "prototype": "InNbS2",
+  "prototype_tex": "InNbS$_{2}$",
+  "number_of_species": 3,
+  "pearson_symbol": "hP4",
+  "space_group_number": 187,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 5,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z3"
+  ],
+  "parameter_values": [
+    3.0771,
+    2.572942,
+    0.32
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "InTaS$_{2}$",
+    "InTaSe$_{2}$",
+    "TlNbS$_{2}$",
+    "TlNbSe$_{2}$",
+    "TlTaS$_{2}$",
+    "TlTaSe$_{2}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "Many, if not all, of the compounds listed here have sub-stoichiometric occupation on the (1a) site.  The site is reported as fully occupied in InNbS$_{2}$, which is why we and the ICSD choose it as the prototype of the structure, even though (Eppinga, 1980) give it as Tl$_{x}$TaS$_{2}$. \n The value $z_{3}$ = 0.32 for the sulfur (2c) site is inferred from the value given for Ta$_{x}$InSe$_{2}$ by (Eppinga, 1980)."
 }

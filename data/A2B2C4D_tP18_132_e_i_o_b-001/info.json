@@ -1,36 +1,41 @@
 {
-    "uid": "BD46",
-    "label": "A2B2C4D_tP18_132_e_i_o_b-001",
-    "alias": [
-        "A2B2C4D_tP18_132_e_i_o_d"
-    ],
-    "title": "Rb$_{2}$TiCu$_{2}$S$_{4}$ Structure",
-    "icsd": "280644",
-    "ccdc": null,
-    "prototype": "Cu2Rb2S4Ti",
-    "prototype_tex": "Cu$_{2}$Rb$_{2}$S$_{4}$Ti",
-    "number_of_species": 4,
-    "pearson_symbol": "tP18",
-    "space_group_number": 132,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x3",
-        "x4",
-        "z4"
-    ],
-    "parameter_values": [
-        5.6046,
-        2.347,
-        0.7369,
-        0.76316,
-        0.34803
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "The atomic positions for this structure are not given in the main text. We take them from the \\href{https://icsd.products.fiz-karlsruhe.de}{ICSD Entry}."
+  "uid": "BD46",
+  "label": "A2B2C4D_tP18_132_e_i_o_b-001",
+  "alias": [
+    "A2B2C4D_tP18_132_e_i_o_d"
+  ],
+  "title": "Rb$_{2}$TiCu$_{2}$S$_{4}$ Structure",
+  "icsd": 280644,
+  "ccdc": 1721316,
+  "prototype": "Cu2Rb2S4Ti",
+  "prototype_tex": "Cu$_{2}$Rb$_{2}$S$_{4}$Ti",
+  "number_of_species": 4,
+  "pearson_symbol": "tP18",
+  "space_group_number": 132,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x3",
+    "x4",
+    "z4"
+  ],
+  "parameter_values": [
+    5.6046,
+    2.347,
+    0.7369,
+    0.76316,
+    0.34803
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Cs$_{2}$TiAg$_{2}$S$_{4}$",
+    "Cs$_{2}$TiCu$_{2}$Se$_{4}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "The atomic positions for this structure are not given in the main text. We take them from the \\href{https://icsd.products.fiz-karlsruhe.de}{ICSD Entry}."
 }

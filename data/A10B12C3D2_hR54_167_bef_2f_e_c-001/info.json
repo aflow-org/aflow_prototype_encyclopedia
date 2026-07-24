@@ -1,0 +1,63 @@
+{
+  "uid": "KE3Y",
+  "label": "A10B12C3D2_hR54_167_bef_2f_e_c-001",
+  "alias": [
+    ""
+  ],
+  "title": "``True'' High Nasicon (Na$_{3}$Zr$_{2}$Si$_{2}$PO$_{12}$) Structure",
+  "icsd": 202279,
+  "ccdc": 1706863,
+  "prototype": "Na3O12PSi2Zr2",
+  "prototype_tex": "Na$_{3}$O$_{12}$PSi$_{2}$Zr$_{2}$",
+  "number_of_species": 5,
+  "elements": [
+    "Na",
+    "O",
+    "P",
+    "Si",
+    "Zr"
+  ],
+  "pearson_symbol": "hR54",
+  "space_group_number": 167,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 5,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x2",
+    "x3",
+    "x4",
+    "x5",
+    "y5",
+    "z5",
+    "x6",
+    "y6",
+    "z6",
+    "x7",
+    "y7",
+    "z7"
+  ],
+  "parameter_values": [
+    9.074,
+    2.540996,
+    0.148,
+    0.6345,
+    0.2903,
+    0.9764,
+    0.7958,
+    0.9773,
+    0.1716,
+    0.9644,
+    0.1948,
+    0.1943,
+    0.1695,
+    0.0918
+  ],
+  "mineral_name": "nasicon",
+  "minerals": {},
+  "compounds": null,
+  "legacy": false,
+  "notes": "High Nasicon",
+  "comments": "Nasicon-type materials form the backbone of many ionic conductors.  The current composition, referred to as ``true'' nasicon by (Boilot, 1987) is similar to the original nasicon found by (Hong, 1976). There are many related structures which we hope to address in the future. \n This is the high temperature structure of nasicon, with data taken at 623K.  Near room temperature it transforms into \\href{current_web_home_dir/A6B12CD2E2_mC92_15_ae2f_6f_e_f_f-001}{monoclinic nasicon}. \n As with all nasicon structures, there is considerable disorder: \\begin{itemize} \\item The Na I (2b) site is 40\\% occupied. \\item The Zr (4c) sites is 1.005\\% occupied. \\item The Na II (6e) site is 68\\% occupied. \\item The Si I (6e) site is Si$_{0.7}$P$_{0.3}$. \\item The Na III (12f) site is 10.6\\% occupied. \\end{itemize} ~ \\vspace{-.25in} \n These occupations make the true stoichiometry of the crystal Na$_{3.09}$Zr$_{2.01}$Si$_{2.09}$P$_{0.91}$O$_{12}$."
+}

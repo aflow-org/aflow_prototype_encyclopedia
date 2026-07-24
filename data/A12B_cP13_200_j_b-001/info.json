@@ -1,0 +1,36 @@
+{
+    "uid": "7KWV",
+    "label": "A12B_cP13_200_j_b-001",
+    "alias": null,
+    "title": "Theoretical Cubic LiH$_{12}$ Structure",
+    "icsd": null,
+    "ccdc": null,
+    "prototype": "H12Li",
+    "prototype_tex": "H$_{12}$Li",
+    "number_of_species": 2,
+    "elements": [
+	"H",
+	"Li"
+    ],
+    "pearson_symbol": "cP13",
+    "space_group_number": 200,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
+        "a",
+	"y2",
+	"z2"
+    ],
+    "parameter_values": [
+        2.8013,
+	0.24009,
+	0.64734
+    ],
+    "mineral_name": null,
+    "minerals": {},
+    "compounds": null,
+    "legacy": false,
+    "notes": "Cubic, 250GPa",
+    "comments": "(Verma, 2026) published a large number of predictions of possible superconducting Li-H compounds at 250 using the Perdew-Burke-Ernzerhof functional with VASP. They identified this structure as the best candidate for finding high-temperature superconductivity, with a transition temperature $T_{c}$ above 300K."
+}

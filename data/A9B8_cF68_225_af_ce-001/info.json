@@ -1,32 +1,47 @@
 {
-    "uid": "X1EM",
-    "label": "A9B8_cF68_225_af_ce-001",
-    "alias": [
-        "A9B8_cF68_225_af_ce"
-    ],
-    "title": "Co$_{9}$S$_{8}$ ($D8_{9}$) Structure",
-    "icsd": "23929",
-    "ccdc": null,
-    "prototype": "Co9S8",
-    "prototype_tex": "Co$_{9}$S$_{8}$",
-    "number_of_species": 2,
-    "pearson_symbol": "cF68",
-    "space_group_number": 225,
-    "strukturbericht": "D8_9",
-    "strukturbericht_tex": "$D8_{9}$",
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "x3",
-        "x4"
-    ],
-    "parameter_values": [
-        9.928,
-        0.7591,
-        0.374
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$D8_{9}$",
-    "comments": "(Geller,1962) placed the first Co atom at the (4b) Wyckoff position. We have shifted this to the origin, the (4a) Wyckoff position."
+  "uid": "X1EM",
+  "label": "A9B8_cF68_225_af_ce-001",
+  "alias": [
+    "A9B8_cF68_225_af_ce"
+  ],
+  "title": "Co$_{9}$S$_{8}$ ($D8_{9}$) Structure",
+  "icsd": 23929,
+  "ccdc": 1599989,
+  "prototype": "Co9S8",
+  "prototype_tex": "Co$_{9}$S$_{8}$",
+  "number_of_species": 2,
+  "pearson_symbol": "cF68",
+  "space_group_number": 225,
+  "strukturbericht": "D89",
+  "strukturbericht_tex": "$D8_{9}$",
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "x3",
+    "x4"
+  ],
+  "parameter_values": [
+    9.928,
+    0.7591,
+    0.374
+  ],
+  "mineral_name": null,
+  "minerals": {
+    "pentlandite": "(Fe,Ni)$_{9}$S$_{8}$"
+  },
+  "compounds": [
+    "(Fe,Ni)$_{9}$S$_{8}$ (pentlandite)",
+    "Co$_{9}$Se$_{8}$",
+    "Co$_{8}$FeS$_{8}$",
+    "Co$_{8}$NiS$_{8}$",
+    "Co$_{8}$PdS$_{8}$",
+    "Co$_{8}$RhS$_{8}$",
+    "Co$_{8}$RuS$_{8}$",
+    "Fe$_{4}$Ni$_{4}$PdS$_{8}$",
+    "Fe$_{4}$Ni$_{4}$RhS$_{8}$",
+    "Fe$_{4}$Ni$_{4}$RuS$_{8}$"
+  ],
+  "legacy": false,
+  "notes": "$D8_{9}$",
+  "comments": "(Geller,1962) placed the first Co atom at the (4b) Wyckoff position. We have shifted this to the origin, the (4a) Wyckoff position."
 }

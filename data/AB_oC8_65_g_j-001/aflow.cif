@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/AB_oC8_65_g_j-001
 
 # Last updated on 2024/08/01
-data_Ir4V4
-_pd_phase_name Ir4V4
+data_IrV
+_pd_phase_name IrV
 _cell_length_a  6.7560000000
 _cell_length_b  5.9710000000
 _cell_length_c  2.7960000000
@@ -52,5 +52,5 @@ loop_
  _atom_site_type_symbol
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
-Ir1 1.0000000000 0.2200000000 -0.0000000000 0.0000000000  Biso 1.0 Ir 4 g
-V2 1.0000000000 0.0000000000 0.7200000000 0.5000000000  Biso 1.0 V 4 j
+Ir1 1.0000000000 0.2200000000 0.0000000000 0.0000000000  Biso 1.0 Ir 4 g
+V2  1.0000000000 0.0000000000 0.7200000000 0.5000000000  Biso 1.0 V  4 j

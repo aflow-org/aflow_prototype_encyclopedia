@@ -12,28 +12,34 @@
     "number_of_species": 2,
     "pearson_symbol": "cP60",
     "space_group_number": 212,
-    "strukturbericht": "D5_7",
+    "strukturbericht": "D57",
     "strukturbericht_tex": "$D5_{7}$",
     "part": 3,
     "parameter_symbols": [
-        "a",
-        "x3",
-        "x4",
-        "y5",
-        "x6",
-        "y6",
-        "z6"
+	"a",
+	"x3",
+	"x4",
+	"y5",
+	"x6",
+	"y6",
+	"z6"
     ],
     "parameter_values": [
-        8.4,
-        0.5,
-        0.371,
-        0.625,
-        0.878,
-        0.629,
-        0.129
+	8.4,
+	0.5,
+	0.371,
+	0.625,
+	0.878,
+	0.629,
+	0.129
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": {
+        "$\\gamma$-corundum": "$\\gamma$-Al$_{2}$O$_{3}$"
+    },
+    "compounds": [
+        "$\\gamma$-Al$_{2}$O$_{3}$ ($\\gamma$-corundum)"
+    ],
     "legacy": false,
     "notes": "$D5_{7}$, $\\gamma$-Fe$_{2}$O$_{3}$",
     "comments": "(Hermann, 1937) gives $\\gamma$-Al$_{2}$O$_{3}$ as the prototype for {\\em Strukturbericht} $D5_{7}$, but states that the data for $\\gamma$-Fe$_{2}$O$_{3}$ is more reliable and presents the data for the later compound, which we use as the prototype. \n More information about the Al$_{2}$O$_{3}$ compounds can be found on the \\href{current_web_home_dir/A2B3_hR10_167_c_e-001}{corundum ($D5_{1}$) page}. \n This is a \\href{current_web_home_dir/AB_cF8_225_a_b-001}{rock-salt ($B1$) structure with defects}.  \n This structure can also be expressed in the enantiomorphic space group $P4_{1}32$ \\#213."

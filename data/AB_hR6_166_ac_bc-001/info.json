@@ -1,32 +1,34 @@
 {
-    "uid": "LH0F",
-    "label": "AB_hR6_166_ac_bc-001",
-    "alias": null,
-    "title": "$\\epsilon$-Hf$_{3}$N$_{2}$ Structure",
-    "icsd": "23572",
-    "ccdc": null,
-    "prototype": "Hf3N2",
-    "prototype_tex": "Hf$_{3}$N$_{2}$",
-    "number_of_species": 2,
-    "pearson_symbol": "hR6",
-    "space_group_number": 166,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 5,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z3",
-        "z4"
-    ],
-    "parameter_values": [
-        3.20599,
-        7.255931,
-        0.222222,
-        0.388889
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "The Hf-N phase diagram has three known phases (Rudy, 1970; Villars, 2023): \\begin{itemize} \\item HfN, stable up to the melting point of 3387$^\\circ$C, is in the \\href{current_web_home_dir/AB_cF8_225_a_b-001}{NaCl ($B1$)} structure. \\item \\href{current_web_home_dir/AB_hR6_166_ac_bc-001}{$\\epsilon$-Hf$_{3}$N$_{2}$} is stable up to 1970$^\\circ$C. \\item \\href{current_web_home_dir/AB_hR8_166_2c_abc-001}{$\\zeta$-Hf$_{4}$N$_{3}$} is stable in the range 1225-2300$^\\circ$C. \\end{itemize} ~ \\vspace{-0.25in} \n Only 2/3 of the nitrogen sites are occupied, giving the observed stoichiometry. \n $\\epsilon$-Hf$_{3}$N$_{2}$ is also referred to as $\\eta$-Hf$_{3}$N$_{2}$. We use the designation provide by (Rudy, 1970). \n \\href{current_web_home_dir/A3B2C_hR6_166_ac_c_b-001}{Ta$_{2}$VC$_{2}$} is a ternary form of this structure. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
+  "uid": "LH0F",
+  "label": "AB_hR6_166_ac_bc-001",
+  "alias": null,
+  "title": "$\\epsilon$-Hf$_{3}$N$_{2}$ Structure",
+  "icsd": 23572,
+  "ccdc": 1599678,
+  "prototype": "Hf3N2",
+  "prototype_tex": "Hf$_{3}$N$_{2}$",
+  "number_of_species": 2,
+  "pearson_symbol": "hR6",
+  "space_group_number": 166,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 5,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z3",
+    "z4"
+  ],
+  "parameter_values": [
+    3.20599,
+    7.255931,
+    0.222222,
+    0.388889
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": "The Hf-N phase diagram has three known phases (Rudy, 1970; Villars, 2023): \\begin{itemize} \\item HfN, stable up to the melting point of 3387$^\\circ$C, is in the \\href{current_web_home_dir/AB_cF8_225_a_b-001}{NaCl ($B1$)} structure. \\item \\href{current_web_home_dir/AB_hR6_166_ac_bc-001}{$\\epsilon$-Hf$_{3}$N$_{2}$} is stable up to 1970$^\\circ$C. \\item \\href{current_web_home_dir/AB_hR8_166_2c_abc-001}{$\\zeta$-Hf$_{4}$N$_{3}$} is stable in the range 1225-2300$^\\circ$C. \\end{itemize} ~ \\vspace{-0.25in} \n Only 2/3 of the nitrogen sites are occupied, giving the observed stoichiometry. \n $\\epsilon$-Hf$_{3}$N$_{2}$ is also referred to as $\\eta$-Hf$_{3}$N$_{2}$. We use the designation provide by (Rudy, 1970). \n \\href{current_web_home_dir/A3B2C_hR6_166_ac_c_b-001}{Ta$_{2}$VC$_{2}$} is a ternary form of this structure. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

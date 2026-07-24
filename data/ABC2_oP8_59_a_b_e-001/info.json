@@ -1,0 +1,42 @@
+{
+  "uid": "X1YG",
+  "label": "ABC2_oP8_59_a_b_e-001",
+  "alias": null,
+  "title": "$\\theta$-Zr$_{2}$CuAu Structure",
+  "icsd": 150572,
+  "ccdc": 1667734,
+  "prototype": "AuCuZr2",
+  "prototype_tex": "AuCuZr$_{2}$",
+  "number_of_species": 3,
+  "pearson_symbol": "oP8",
+  "space_group_number": 59,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 5,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "z1",
+    "z2",
+    "y3",
+    "z3"
+  ],
+  "parameter_values": [
+    4.48,
+    1.26116,
+    1.02679,
+    0.828,
+    0.828,
+    0.5,
+    0.328
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Cu$_{3}$Al"
+  ],
+  "legacy": false,
+  "notes": "$\\theta$-Zr$_{2}$CuAu",
+  "comments": "At low temperatures, the \\href{current_web_home_dir/AB2C_cF16_225_a_c_b-001}{heusler structure $\\beta$-Zr$_{2}$CuAu} has a martensitic transformation to this phase.  The data was taken at 78K. \n (Duggin, 1966) places this in the $P2mm$ setting of polar space group \\#25 (standard setting $Pmm2$), but the numerical values of the Wyckoff positions place it in the centrosymmetric space group $Pmmn$. We used AFLOW to determine the transformation."
+}

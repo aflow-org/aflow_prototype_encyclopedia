@@ -1,0 +1,40 @@
+{
+    "uid": "KPVW",
+    "label": "AB6C6_hR13_166_a_3c_h-001",
+    "alias": null,
+    "title": "CsV$_{6}$Sb$_{6}$ Structure",
+    "icsd": null,
+    "ccdc": null,
+    "prototype": "CsSb6V6",
+    "prototype_tex": "CsSb$_{6}$V$_{6}$",
+    "number_of_species": 3,
+    "pearson_symbol": "hR13",
+    "space_group_number": 166,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
+        "a",
+	"c/a",
+	"x2",
+	"x3",
+	"x4",
+	"x5",
+	"z5"
+    ],
+    "parameter_values": [
+        5.5575,
+	6.327485,
+	0.865846666667,
+	0.598363333333,
+	0.26505,
+	0.16669,
+	0.20093
+    ],
+    "mineral_name": null,
+    "minerals": {},
+    "compounds": null,
+    "legacy": false,
+    "notes": null,
+    "comments": "This is a \\href{https://en.wikipedia.org/wiki/Trihexagonal_tiling#Kagome_lattice}{kagome structure}."
+}

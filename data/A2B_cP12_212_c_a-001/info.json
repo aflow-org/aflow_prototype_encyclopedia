@@ -1,30 +1,35 @@
 {
-    "uid": "XX75",
-    "label": "A2B_cP12_212_c_a-001",
-    "alias": [
-        "A2B_cP12_212_c_a"
-    ],
-    "title": "SrSi$_{2}$ Structure",
-    "icsd": "24145",
-    "ccdc": null,
-    "prototype": "Si2Sr",
-    "prototype_tex": "Si$_{2}$Sr",
-    "number_of_species": 2,
-    "pearson_symbol": "cP12",
-    "space_group_number": 212,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "x2"
-    ],
-    "parameter_values": [
-        6.54,
-        0.428
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "This structure may also be found in the enantiomorphic space group $P4_{1}32$ \\#213."
+  "uid": "XX75",
+  "label": "A2B_cP12_212_c_a-001",
+  "alias": [
+    "A2B_cP12_212_c_a"
+  ],
+  "title": "SrSi$_{2}$ Structure",
+  "icsd": 24145,
+  "ccdc": 1600194,
+  "prototype": "Si2Sr",
+  "prototype_tex": "Si$_{2}$Sr",
+  "number_of_species": 2,
+  "pearson_symbol": "cP12",
+  "space_group_number": 212,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "x2"
+  ],
+  "parameter_values": [
+    6.54,
+    0.428
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "BaSi$_{2}$",
+    "BaSi$_{4}$Sr"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "This structure may also be found in the enantiomorphic space group $P4_{1}32$ \\#213."
 }

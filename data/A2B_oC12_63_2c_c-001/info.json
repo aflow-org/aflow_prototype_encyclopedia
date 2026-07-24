@@ -1,38 +1,58 @@
 {
-    "uid": "HPCM",
-    "label": "A2B_oC12_63_2c_c-001",
-    "alias": [
-        "A2B_oC12_63_2c_c"
-    ],
-    "title": "ZrSi$_{2}$ ($C49$) Structure",
-    "icsd": "652610",
-    "ccdc": null,
-    "prototype": "Si2Zr",
-    "prototype_tex": "Si$_{2}$Zr",
-    "number_of_species": 2,
-    "pearson_symbol": "oC12",
-    "space_group_number": 63,
-    "strukturbericht": "C49",
-    "strukturbericht_tex": "$C49$",
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "y1",
-        "y2",
-        "y3"
-    ],
-    "parameter_values": [
-        3.73,
-        3.94638,
-        0.983914,
-        0.061,
-        0.75,
-        0.396
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$C49$",
-    "comments": null
+  "uid": "HPCM",
+  "label": "A2B_oC12_63_2c_c-001",
+  "alias": [
+    "A2B_oC12_63_2c_c"
+  ],
+  "title": "ZrSi$_{2}$ ($C49$) Structure",
+  "icsd": 652610,
+  "ccdc": 1765229,
+  "prototype": "Si2Zr",
+  "prototype_tex": "Si$_{2}$Zr",
+  "number_of_species": 2,
+  "pearson_symbol": "oC12",
+  "space_group_number": 63,
+  "strukturbericht": "C49",
+  "strukturbericht_tex": "$C49$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "y1",
+    "y2",
+    "y3"
+  ],
+  "parameter_values": [
+    3.73,
+    3.94638,
+    0.983914,
+    0.061,
+    0.75,
+    0.396
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Bi$_{2}$Ca",
+    "Bi$_{2}$Eu",
+    "Ge$_{2}$Hf",
+    "Ge$_{2}$Th",
+    "Ge$_{2}$U",
+    "Ge$_{2}$Zr",
+    "Si$_{2}$Hf",
+    "Si$_{2}$Ti",
+    "Sn$_{2}$Er",
+    "Sn$_{2}$Dy",
+    "Sn$_{2}$Gd",
+    "Sn$_{2}$Ho",
+    "Sn$_{2}$Lu",
+    "Sn$_{2}$Tb",
+    "Sn$_{2}$Tm",
+    "Sn$_{2}$Y",
+    "Sn$_{2}$Yb"
+  ],
+  "legacy": false,
+  "notes": "$C49$",
+  "comments": null
 }

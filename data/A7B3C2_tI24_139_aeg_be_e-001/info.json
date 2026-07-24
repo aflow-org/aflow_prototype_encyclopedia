@@ -1,38 +1,47 @@
 {
-    "uid": "PDHZ",
-    "label": "A7B3C2_tI24_139_aeg_be_e-001",
-    "alias": [
-        "A7B3C2_tI24_139_aeg_be_e"
-    ],
-    "title": "Sr$_{3}$Ti$_{2}$O$_{7}$ Structure",
-    "icsd": "34629",
-    "ccdc": null,
-    "prototype": "O7Sr3Ti2",
-    "prototype_tex": "O$_{7}$Sr$_{3}$Ti$_{2}$",
-    "number_of_species": 3,
-    "pearson_symbol": "tI24",
-    "space_group_number": 139,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z3",
-        "z4",
-        "z5",
-        "z6"
-    ],
-    "parameter_values": [
-        3.9,
-        5.22564,
-        0.188,
-        0.312,
-        0.094,
-        0.094
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "PDHZ",
+  "label": "A7B3C2_tI24_139_aeg_be_e-001",
+  "alias": [
+    "A7B3C2_tI24_139_aeg_be_e"
+  ],
+  "title": "Sr$_{3}$Ti$_{2}$O$_{7}$ Structure",
+  "icsd": 34629,
+  "ccdc": 1607009,
+  "prototype": "O7Sr3Ti2",
+  "prototype_tex": "O$_{7}$Sr$_{3}$Ti$_{2}$",
+  "number_of_species": 3,
+  "pearson_symbol": "tI24",
+  "space_group_number": 139,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z3",
+    "z4",
+    "z5",
+    "z6"
+  ],
+  "parameter_values": [
+    3.9,
+    5.22564,
+    0.188,
+    0.312,
+    0.094,
+    0.094
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Ca$_{3}$Ti$_{2}$O$_{7}$",
+    "La$_{3}$Ti$_{2}$O$_{7}$",
+    "Sr$_{3}$Fe$_{2}$O$_{7}$",
+    "Sr$_{3}$Ru$_{2}$O$_{7}$",
+    "BaLa$_{2}$Fe$_{2}$O$_{7}$",
+    "SrTb$_{2}$Fe$_{2}$O$_{7}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

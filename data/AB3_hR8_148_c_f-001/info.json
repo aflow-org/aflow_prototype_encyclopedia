@@ -1,38 +1,60 @@
 {
-    "uid": "TZC0",
-    "label": "AB3_hR8_148_c_f-001",
-    "alias": [
-        "AB3_hR8_148_c_f"
-    ],
-    "title": "BiI$_{3}$ ($D0_{5}$) Structure",
-    "icsd": "36182",
-    "ccdc": null,
-    "prototype": "BiI3",
-    "prototype_tex": "BiI$_{3}$",
-    "number_of_species": 2,
-    "pearson_symbol": "hR8",
-    "space_group_number": 148,
-    "strukturbericht": "D0_5",
-    "strukturbericht_tex": "$D0_{5}$",
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x1",
-        "x2",
-        "y2",
-        "z2"
-    ],
-    "parameter_values": [
-        7.49626,
-        2.759,
-        0.66667,
-        0.579,
-        0.245,
-        0.912
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$D0_{5}$",
-    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
+  "uid": "TZC0",
+  "label": "AB3_hR8_148_c_f-001",
+  "alias": [
+    "AB3_hR8_148_c_f"
+  ],
+  "title": "Rhombohedral BiI$_{3}$ ($D0_{5}$) Structure",
+  "icsd": 36182,
+  "ccdc": 1607956,
+  "prototype": "BiI3",
+  "prototype_tex": "BiI$_{3}$",
+  "number_of_species": 2,
+  "pearson_symbol": "hR8",
+  "space_group_number": 148,
+  "strukturbericht": "D05",
+  "strukturbericht_tex": "$D0_{5}$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x1",
+    "x2",
+    "y2",
+    "z2"
+  ],
+  "parameter_values": [
+    7.49626,
+    2.759,
+    0.66667,
+    0.579,
+    0.245,
+    0.912
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "AsI$_{3}$",
+    "BrI$_{3}$",
+    "CmI$_{3}$",
+    "CrBr$_{3}$",
+    "CrCl$_{3}$",
+    "CrI$_{3}$",
+    "FeBr$_{3}$",
+    "FeCl$_{3}$",
+    "RhBr$_{3}$",
+    "RuBr$_{3}$",
+    "SbI$_{3}$",
+    "ScCl$_{3}$",
+    "TiBr$_{3}$",
+    "TiCl$_{3}$",
+    "VBr$_{3}$",
+    "VCl$_{3}$",
+    "VI$_{3}$",
+    "YI$_{3}$",
+    "YbI$_{3}$"
+  ],
+  "legacy": false,
+  "notes": "$D0_{5}$",
+  "comments": "BiI$_{3}$ has also been reported in a \\href{current_web_home_dir/AB3_hP8_162_c_k-001}{hexagonal (trigonal)} structure. The Bi-I bonds are similar in both structures, with the only difference being the stacing of the layers. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

@@ -1,34 +1,44 @@
 {
-    "uid": "RBZR",
-    "label": "AB2_hP9_162_ad_k-001",
-    "alias": [
-        "AB2_hP9_162_ad_k"
-    ],
-    "title": "$\\beta$-V$_{2}$N ($L'3_{2}$) Structure",
-    "icsd": "8236",
-    "ccdc": null,
-    "prototype": "NV2",
-    "prototype_tex": "NV$_{2}$",
-    "number_of_species": 2,
-    "pearson_symbol": "hP9",
-    "space_group_number": 162,
-    "strukturbericht": "L'3_2",
-    "strukturbericht_tex": "$L'3_{2}$",
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x3",
-        "z3"
-    ],
-    "parameter_values": [
-        4.917,
-        0.929022,
-        0.325,
-        0.272
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$L'3_{2}$, $\\beta$-V$_{2}$N",
-    "comments": "(Parth\\'{e}, 1993) is the only reference we have seen with a $L'3_{2}$ {\\em Strukturbericht} designation.\n (Christensen, 1979) states that $\\epsilon$-Fe$_{2}$N is the prototype for this structure. We will instead follow (Villars, 1991), which uses $\\beta$-V$_{2}$N as the prototype. \n The ternary version of this structure is \\href{current_web_home_dir/A6BC2_hP9_162_k_a_d-001}{rosiaite, PbSb$_{2}$O$_{6}$}."
+  "uid": "RBZR",
+  "label": "AB2_hP9_162_ad_k-001",
+  "alias": [
+    "AB2_hP9_162_ad_k"
+  ],
+  "title": "$\\beta$-V$_{2}$N ($L'3_{2}$) Structure",
+  "icsd": 8236,
+  "ccdc": 1594017,
+  "prototype": "NV2",
+  "prototype_tex": "NV$_{2}$",
+  "number_of_species": 2,
+  "pearson_symbol": "hP9",
+  "space_group_number": 162,
+  "strukturbericht": "L'32",
+  "strukturbericht_tex": "$L'3_{2}$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x3",
+    "z3"
+  ],
+  "parameter_values": [
+    4.917,
+    0.929022,
+    0.325,
+    0.272
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Cr$_{2}$N",
+    "$\\epsilon$-Fe$_{2}$N",
+    "Mo$_{2}$C",
+    "Nb$_{2}$C",
+    "$\\beta$-Nb$_{2}$N",
+    "$\\beta$-Ta$_{2}$N",
+    "W$_{2}$C"
+  ],
+  "legacy": false,
+  "notes": "$L'3_{2}$, $\\beta$-V$_{2}$N",
+  "comments": "(Parth\\'{e}, 1993) is the only reference we have seen with a $L'3_{2}$ {\\em Strukturbericht} designation.\n (Christensen, 1979) states that $\\epsilon$-Fe$_{2}$N is the prototype for this structure. We will instead follow (Villars, 1991) and the ICSD, which use $\\beta$-V$_{2}$N as the prototype. \n The ternary version of this structure is \\href{current_web_home_dir/A6BC2_hP9_162_k_a_d-001}{rosiaite, PbSb$_{2}$O$_{6}$}."
 }

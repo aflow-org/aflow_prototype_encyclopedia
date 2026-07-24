@@ -1,0 +1,42 @@
+{
+    "uid": "YJZ5",
+    "label": "A4B3C3D4_cF112_225_ce_d_e_f-001",
+    "alias": null,
+    "title": "Rb$_{3}$Re$_{3}$S$_{4}$I$_{4}$ Structure",
+    "icsd": null,
+    "ccdc": 2241320,
+    "prototype": "I4Rb3Re3S4",
+    "prototype_tex": "I$_{4}$Rb$_{3}$Re$_{3}$S$_{4}$",
+    "number_of_species": 5,
+    "elements": [
+        "I",
+	"Rb",
+	"Re",
+	"S"
+    ],
+    "pearson_symbol": "cF112",
+    "space_group_number": 5,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
+        "a",
+	"x3",
+	"x4",
+	"x5"
+    ],
+    "parameter_values": [
+        15.5443,
+	0.7630,
+	0.618,
+	0.6092
+    ],
+    "mineral_name": null,
+    "minerals": {},
+    "compounds": [
+        "Cs$_{3}$Re$_{3}$S$_{4}$I$_{4}$"
+    ],
+    "legacy": false,
+    "notes": null,
+    "comments": null
+}

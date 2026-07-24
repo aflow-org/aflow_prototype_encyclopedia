@@ -12,8 +12,8 @@
 
 # Last updated on 2024/08/01
 
-data_Ca2H12
-_pd_phase_name Ca2H12
+data_CaH6
+_pd_phase_name CaH6
 _cell_length_a  3.5010000000
 _cell_length_b  3.5010000000
 _cell_length_c  3.5010000000
@@ -133,4 +133,4 @@ loop_
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
 Ca1 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Ca 2 a
-H2 1.0000000000 0.2500000000 0.0000000000 0.5000000000  Biso 1.0 H 12 d
+H2  1.0000000000 0.2500000000 0.0000000000 0.5000000000  Biso 1.0 H 12 d

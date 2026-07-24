@@ -1,34 +1,71 @@
 {
-    "uid": "VHP8",
-    "label": "ABC_cP12_198_a_a_a-001",
-    "alias": [
-        "ABC_cP12_198_a_a_a"
-    ],
-    "title": "Ullmanite (NiSSb, $F0_{1}$) Structure",
-    "icsd": "44606",
-    "ccdc": null,
-    "prototype": "NiSSb",
-    "prototype_tex": "NiSSb",
-    "number_of_species": 3,
-    "pearson_symbol": "cP12",
-    "space_group_number": 198,
-    "strukturbericht": "F0_1",
-    "strukturbericht_tex": "$F0_{1}$",
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "x1",
-        "x2",
-        "x3"
-    ],
-    "parameter_values": [
-        5.881,
-        0.976,
-        0.39,
-        0.625
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$F0_{1}$, Ullmanite",
-    "comments": "(Ewald, 1928) originally designated CoAsS as {\\em Strukturbericht} $F1$. This was later changed to $F0_{1}$. We follow (Parth\\'{e}, 1993) in using NiSbS as the prototype for this structure. \n The Sb (4a) Wyckoff parameter ($x_{3}$) has been corrected from 0.875 to 0.625, which matches the bonding distances given by (Y. Tak\\'{e}uchi, 1957) (corrected on 2021/05/10)."
+  "uid": "VHP8",
+  "label": "ABC_cP12_198_a_a_a-001",
+  "alias": [
+    "ABC_cP12_198_a_a_a"
+  ],
+  "title": "Ullmanite (NiSSb, $F0_{1}$) Structure",
+  "icsd": 44606,
+  "ccdc": 1613974,
+  "prototype": "NiSSb",
+  "prototype_tex": "NiSSb",
+  "number_of_species": 3,
+  "pearson_symbol": "cP12",
+  "space_group_number": 198,
+  "strukturbericht": "F01",
+  "strukturbericht_tex": "$F0_{1}$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "x1",
+    "x2",
+    "x3"
+  ],
+  "parameter_values": [
+    5.881,
+    0.976,
+    0.39,
+    0.625
+  ],
+  "mineral_name": "ullmanite",
+  "minerals": {
+    "cobaltite": "AsCoS"
+  },
+  "compounds": [
+    "AlAuBa",
+    "AlAuCa",
+    "AsBaPt",
+    "AsCoS (cobaltite)",
+    "AsPdS",
+    "AsPdSe",
+    "AuBaGa",
+    "AuCaGa",
+    "AuCaIn",
+    "AuGaSr",
+    "AuInSr",
+    "BiIrS",
+    "BiIrSe",
+    "BiNiSe",
+    "BiPdSe",
+    "BiPtSe",
+    "BiRhS",
+    "BiRhSe",
+    "CaPtSi",
+    "CrPtSb",
+    "EuPtSi",
+    "IrLaSi",
+    "IrPSe",
+    "IrSSb",
+    "IrSSe",
+    "IrSbSe",
+    "PRhSe",
+    "PdSSb",
+    "PdSbSe",
+    "RhSSb",
+    "RhSbSe",
+    "(Co,Ni)SbS"
+  ],
+  "legacy": false,
+  "notes": "$F0_{1}$, Ullmanite",
+  "comments": "(Ewald, 1928) originally designated CoAsS as {\\em Strukturbericht} $F1$. This was later changed to $F0_{1}$. We follow (Parth\\'{e}, 1993) in using NiSbS as the prototype for this structure. \n The Sb (4a) Wyckoff parameter ($x_{3}$) has been corrected from 0.875 to 0.625, which matches the bonding distances given by (Y. Tak\\'{e}uchi, 1957) (corrected on 2021/05/10)."
 }

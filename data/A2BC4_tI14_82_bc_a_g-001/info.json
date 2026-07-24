@@ -1,36 +1,60 @@
 {
-    "uid": "S1AD",
-    "label": "A2BC4_tI14_82_bc_a_g-001",
-    "alias": [
-        "A2BC4_tI14_82_bc_a_g"
-    ],
-    "title": "CdAl$_{2}$S$_{4}$ ($E3$) Structure",
-    "icsd": "25634",
-    "ccdc": null,
-    "prototype": "Al2CdS4",
-    "prototype_tex": "Al$_{2}$CdS$_{4}$",
-    "number_of_species": 3,
-    "pearson_symbol": "tI14",
-    "space_group_number": 82,
-    "strukturbericht": "E3",
-    "strukturbericht_tex": "$E3$",
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x4",
-        "y4",
-        "z4"
-    ],
-    "parameter_values": [
-        5.55,
-        1.85586,
-        0.76,
-        0.75,
-        0.63
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$E3$",
-    "comments": "When $c=2a$ and $x=y=1/4$, and $z=1/8$ the atoms are on the sites of the \\href{current_web_home_dir/A_cF8_227_a-001}{diamond (A4) structure}, but of course there are defects. Removing the Al-I (2b) atom transforms this to the \\href{current_web_home_dir/AB4C_tI12_82_c_g_a-001}{BPO$_{4}$ ($H0_{7}$) structure}. \n (Pearson, 1967) gives this the designation $E3$, without any subscript. It should be defined as $E3_{a}$, but as he did not put any other structures into this subcategory, we will leave it as is."
+  "uid": "S1AD",
+  "label": "A2BC4_tI14_82_bc_a_g-001",
+  "alias": [
+    "A2BC4_tI14_82_bc_a_g"
+  ],
+  "title": "CdAl$_{2}$S$_{4}$ ($E3$) Structure",
+  "icsd": 25634,
+  "ccdc": 1601284,
+  "prototype": "Al2CdS4",
+  "prototype_tex": "Al$_{2}$CdS$_{4}$",
+  "number_of_species": 3,
+  "pearson_symbol": "tI14",
+  "space_group_number": 82,
+  "strukturbericht": "E3",
+  "strukturbericht_tex": "$E3$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x4",
+    "y4",
+    "z4"
+  ],
+  "parameter_values": [
+    5.55,
+    1.85586,
+    0.76,
+    0.75,
+    0.63
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "CdAl$_{2}$Se$_{4}$",
+    "CdAl$_{2}$Te$_{4}$",
+    "CdGa$_{2}$S$_{4}$",
+    "CdGa$_{2}$Se$_{4}$",
+    "CdGa$_{2}$Te$_{4}$",
+    "CoGa$_{2}$S$_{4}$",
+    "FeGa$_{2}$S$_{4}$",
+    "HfGa$_{2}$Se$_{4}$",
+    "$\\beta$-HgAg$_{2}$I$_{4}$",
+    "HgAl$_{2}$S$_{4}$",
+    "HgAl$_{2}$Se$_{4}$",
+    "HgAl$_{2}$Te$_{4}$",
+    "HgGa$_{2}$S$_{4}$",
+    "HgGa$_{2}$Te$_{4}$",
+    "HgIn$_{2}$Se$_{4}$",
+    "HgIn$_{2}$Te$_{4}$",
+    "ZnGa$_{2}$S$_{4}$",
+    "ZnGa$_{2}$Se$_{4}$",
+    "ZnGa$_{2}$Te$_{4}$",
+    "ZnIn$_{2}$Se$_{4}$",
+    "ZnIn$_{2}$Te$_{4}$"
+  ],
+  "legacy": false,
+  "notes": "$E3$",
+  "comments": "When $c=2a$ and $x=y=1/4$, and $z=1/8$ the atoms are on the sites of the \\href{current_web_home_dir/A_cF8_227_a-001}{diamond (A4) structure}, but of course there are defects. Removing the Al-I (2b) atom transforms this to the \\href{current_web_home_dir/AB4C_tI12_82_c_g_a-001}{BPO$_{4}$ ($H0_{7}$) structure}. \n (Pearson, 1967) gives this the designation $E3$, without any subscript. It should be defined as $E3_{a}$, but as he did not put any other structures into this subcategory, we will leave it as is."
 }

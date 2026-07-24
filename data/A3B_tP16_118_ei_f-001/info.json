@@ -1,40 +1,44 @@
 {
-    "uid": "0ZUR",
-    "label": "A3B_tP16_118_ei_f-001",
-    "alias": [
-        "A3B_tP16_118_ei_f"
-    ],
-    "title": "RuIn$_{3}$ Structure",
-    "icsd": "59518",
-    "ccdc": null,
-    "prototype": "In3Ru",
-    "prototype_tex": "In$_{3}$Ru",
-    "number_of_species": 2,
-    "pearson_symbol": "tP16",
-    "space_group_number": 118,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z1",
-        "x2",
-        "x3",
-        "y3",
-        "z3"
-    ],
-    "parameter_values": [
-        6.9983,
-        1.03511,
-        0.237,
-        0.15,
-        0.343,
-        0.149,
-        0.509
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "0ZUR",
+  "label": "A3B_tP16_118_ei_f-001",
+  "alias": [
+    "A3B_tP16_118_ei_f"
+  ],
+  "title": "RuIn$_{3}$ Structure",
+  "icsd": 59518,
+  "ccdc": 1623341,
+  "prototype": "In3Ru",
+  "prototype_tex": "In$_{3}$Ru",
+  "number_of_species": 2,
+  "pearson_symbol": "tP16",
+  "space_group_number": 118,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z1",
+    "x2",
+    "x3",
+    "y3",
+    "z3"
+  ],
+  "parameter_values": [
+    6.9983,
+    1.03511,
+    0.237,
+    0.15,
+    0.343,
+    0.149,
+    0.509
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "CoGa$_{3}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

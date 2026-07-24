@@ -1,30 +1,43 @@
 {
-    "uid": "NAW4",
-    "label": "AB3C2_hR6_166_a_d_c-001",
-    "alias": null,
-    "title": "Y$_{2}$Rh$_{3}$Ga Structure",
-    "icsd": "432339",
-    "ccdc": null,
-    "prototype": "GaRh3Y2",
-    "prototype_tex": "GaRh$_{3}$Y$_{2}$",
-    "number_of_species": 3,
-    "pearson_symbol": "hR6",
-    "space_group_number": 166,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 5,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x2"
-    ],
-    "parameter_values": [
-        5.571,
-        2.123676,
-        0.36984
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "(Seidel, 2017) call this a rhombohedral Laves phase, a ternary varient of the \\href{current_web_home_dir/AB2_hP12_194_f_ah-001}{MgZn$_{2}$ hexagonal Laves phase ($C14$)}."
+  "uid": "NAW4",
+  "label": "AB3C2_hR6_166_a_d_c-001",
+  "alias": null,
+  "title": "Y$_{2}$Rh$_{3}$Ga Structure",
+  "icsd": 432339,
+  "ccdc": 1791359,
+  "prototype": "GaRh3Y2",
+  "prototype_tex": "GaRh$_{3}$Y$_{2}$",
+  "number_of_species": 3,
+  "pearson_symbol": "hR6",
+  "space_group_number": 166,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 5,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x2"
+  ],
+  "parameter_values": [
+    5.571,
+    2.123676,
+    0.36984
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Ce$_{2}$Rh$_{3}$Ga",
+    "Dy$_{2}$Rh$_{3}$Ga",
+    "Er$_{2}$Rh$_{3}$Ga",
+    "Gd$_{2}$Rh$_{3}$Ga",
+    "Ho$_{2}$Rh$_{3}$Ga",
+    "La$_{2}$Rh$_{3}$Ga",
+    "Nd$_{2}$Rh$_{3}$Ga",
+    "Pr$_{2}$Rh$_{3}$Ga",
+    "Sm$_{2}$Rh$_{3}$Ga",
+    "Tb$_{2}$Rh$_{3}$Ga"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "(Seidel, 2017) call this a rhombohedral Laves phase, a ternary varient of the \\href{current_web_home_dir/AB2_hP12_194_f_ah-001}{MgZn$_{2}$ hexagonal Laves phase ($C14$)}."
 }

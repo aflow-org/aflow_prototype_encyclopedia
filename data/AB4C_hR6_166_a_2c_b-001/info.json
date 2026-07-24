@@ -1,34 +1,40 @@
 {
-    "uid": "MMVG",
-    "label": "AB4C_hR6_166_a_2c_b-001",
-    "alias": [
-        "AB4C_hR6_166_b_2c_a"
-    ],
-    "title": "CaUO$_{4}$ Structure",
-    "icsd": "23195",
-    "ccdc": null,
-    "prototype": "CaO4U",
-    "prototype_tex": "CaO$_{4}$U",
-    "number_of_species": 3,
-    "pearson_symbol": "hR6",
-    "space_group_number": 166,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x3",
-        "x4"
-    ],
-    "parameter_values": [
-        3.87818,
-        4.52899,
-        0.6118,
-        0.8627
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
+  "uid": "MMVG",
+  "label": "AB4C_hR6_166_a_2c_b-001",
+  "alias": [
+    "AB4C_hR6_166_b_2c_a"
+  ],
+  "title": "CaUO$_{4}$ Structure",
+  "icsd": 23195,
+  "ccdc": 1599338,
+  "prototype": "CaO4U",
+  "prototype_tex": "CaO$_{4}$U",
+  "number_of_species": 3,
+  "pearson_symbol": "hR6",
+  "space_group_number": 166,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x3",
+    "x4"
+  ],
+  "parameter_values": [
+    3.87818,
+    4.52899,
+    0.6118,
+    0.8627
+  ],
+  "mineral_name": null,
+  "minerals": {
+    "clarkeite": "NaO$_{4}$U"
+  },
+  "compounds": [
+    "NaUO$_{4}$ (clarkeite)"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

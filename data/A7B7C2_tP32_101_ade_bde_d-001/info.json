@@ -1,0 +1,63 @@
+{
+  "uid": "LR8K",
+  "label": "A7B7C2_tP32_101_ade_bde_d-001",
+  "alias": [
+    "A7B7C2_tP32_101_bde_ade_d"
+  ],
+  "title": "Y-MgNiSn Structure",
+  "icsd": 99208,
+  "ccdc": 1658436,
+  "prototype": "MgNiSn",
+  "prototype_tex": "MgNiSn",
+  "number_of_species": 3,
+  "elements": [
+    "M",
+    "Mg",
+    "Ni"
+  ],
+  "pearson_symbol": "tP32",
+  "space_group_number": 101,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z1",
+    "z2",
+    "x3",
+    "z3",
+    "x4",
+    "z4",
+    "x5",
+    "z5",
+    "x6",
+    "y6",
+    "z6",
+    "x7",
+    "y7",
+    "z7"
+  ],
+  "parameter_values": [
+    9.851,
+    0.69719,
+    0.073,
+    0.1038,
+    0.2254,
+    0.7328,
+    0.30926,
+    0.0644,
+    0.17136,
+    0.33355,
+    0.2384,
+    0.3471,
+    0.0352,
+    0.0449
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "Y-MgNiSn",
+  "comments": "This is the Y-phase of the Mg-Ni-Sn ternary system. The (2b), (4d) and (8e) Wyckoff positions are partially occupied and are represented by the labels M-I, M-II, and M-III, respectively. Here, M-I is Mg$_{0.88}$Ni$_{0.12}$, which we label ``Ni'', M-II is Sn$_{0.88}$Mg$_{0.12}$ labeled ``Sn'', and M-III is Mg$_{0.95}$Ni$_{0.05}$, labeled ``Ni'', with the supposed element names picked to highlight the different Wyckoff positions. \n We previously referred to this as the $\\gamma$-phase, but Y-phase is the proper terminology (Boudard, 2004)."
+}

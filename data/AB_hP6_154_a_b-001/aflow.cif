@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/AB_hP6_154_a_b-001
 
 # Last updated on 2024/08/01
-data_Hg3S3
-_pd_phase_name Hg3S3
+data_HgS
+_pd_phase_name HgS
 _cell_length_a  4.1450000000
 _cell_length_b  4.1450000000
 _cell_length_c  9.4960000000
@@ -43,4 +43,4 @@ loop_
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
 Hg1 1.0000000000 0.7198000000 0.0000000000 0.6666666667  Biso 1.0 Hg 3 a
-S2 1.0000000000 0.4889000000 -0.0000000000 0.1666666667  Biso 1.0 S 3 b
+S2  1.0000000000 0.4889000000 0.0000000000 0.1666666667  Biso 1.0 S  3 b

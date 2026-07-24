@@ -1,42 +1,44 @@
 {
-    "uid": "0VYM",
-    "label": "A5B3_tP32_130_cg_cf-001",
-    "alias": [
-        "A5B3_tP32_130_cg_cf"
-    ],
-    "title": "Ba$_{5}$Si$_{3}$ Structure",
-    "icsd": "409377",
-    "ccdc": null,
-    "prototype": "Ba5Si3",
-    "prototype_tex": "Ba$_{5}$Si$_{3}$",
-    "number_of_species": 2,
-    "pearson_symbol": "tP32",
-    "space_group_number": 130,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z1",
-        "z2",
-        "x3",
-        "x4",
-        "y4",
-        "z4"
-    ],
-    "parameter_values": [
-        8.465,
-        1.9433,
-        0.2271,
-        0.0095,
-        0.1482,
-        0.57997,
-        0.07997,
-        0.10688
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "The ICSD entry seems to have displace the $z$-coordinate of the Si II atom by 1/2."
+  "uid": "0VYM",
+  "label": "A5B3_tP32_130_cg_cf-001",
+  "alias": [
+    "A5B3_tP32_130_cg_cf"
+  ],
+  "title": "Ba$_{5}$Si$_{3}$ Structure",
+  "icsd": 409377,
+  "ccdc": 1725772,
+  "prototype": "Ba5Si3",
+  "prototype_tex": "Ba$_{5}$Si$_{3}$",
+  "number_of_species": 2,
+  "pearson_symbol": "tP32",
+  "space_group_number": 130,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z1",
+    "z2",
+    "x3",
+    "x4",
+    "y4",
+    "z4"
+  ],
+  "parameter_values": [
+    8.465,
+    1.9433,
+    0.2271,
+    0.0095,
+    0.1482,
+    0.57997,
+    0.07997,
+    0.10688
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": "The ICSD entry seems to have displace the $z$-coordinate of the Si II atom by 1/2."
 }

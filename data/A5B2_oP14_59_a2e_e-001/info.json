@@ -1,46 +1,50 @@
 {
-    "uid": "KZMB",
-    "label": "A5B2_oP14_59_a2e_e-001",
-    "alias": [
-        "A5B2_oP14_59_a2f_f"
-    ],
-    "title": "Shcherbinaite (V$_{2}$O$_{5}$) Structure ({\\em Revised})",
-    "icsd": "60767",
-    "ccdc": null,
-    "prototype": "O5V2",
-    "prototype_tex": "O$_{5}$V$_{2}$",
-    "number_of_species": 2,
-    "pearson_symbol": "oP14",
-    "space_group_number": 59,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "z1",
-        "y2",
-        "z2",
-        "y3",
-        "z3",
-        "y4",
-        "z4"
-    ],
-    "parameter_values": [
-        3.564,
-        3.23008,
-        1.22559,
-        0.999,
-        0.3957,
-        0.469,
-        0.5689,
-        0.997,
-        0.39882,
-        0.109
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "Shcherbinaite ({\\em Revised})",
-    "comments": "An earlier version of this structure found by (Ketelaar, 1936) \\href{current_web_home_dir/A5B2_oP14_31_a2b_b-001}{was given the $D8_{7}$} {\\em Strukturbericht} designation in (Gottfried, 1938). It was later realized that this structure had a rather unexpected arrangement of vanadium atoms, and the structure was revised by (Enjalbert, 1986) and others."
+  "uid": "KZMB",
+  "label": "A5B2_oP14_59_a2e_e-001",
+  "alias": [
+    "A5B2_oP14_59_a2f_f"
+  ],
+  "title": "Shcherbinaite (V$_{2}$O$_{5}$) Structure ({\\em Revised})",
+  "icsd": 253957,
+  "ccdc": 1553062,
+  "prototype": "O5V2",
+  "prototype_tex": "O$_{5}$V$_{2}$",
+  "number_of_species": 2,
+  "pearson_symbol": "oP14",
+  "space_group_number": 59,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "z1",
+    "y2",
+    "z2",
+    "y3",
+    "z3",
+    "y4",
+    "z4"
+  ],
+  "parameter_values": [
+    3.564,
+    3.23008,
+    1.22559,
+    0.999,
+    0.3957,
+    0.469,
+    0.5689,
+    0.997,
+    0.39882,
+    0.109
+  ],
+  "mineral_name": "shcherbinaite",
+  "minerals": {
+    "shcherbinaite": "V$_{2}$O$_{5}$"
+  },
+  "compounds": null,
+  "legacy": false,
+  "notes": "Shcherbinaite ({\\em Revised})",
+  "comments": "An earlier version of this structure found by (Ketelaar, 1936) \\href{current_web_home_dir/A5B2_oP14_31_a2b_b-001}{was given the $D8_{7}$} {\\em Strukturbericht} designation in (Gottfried, 1938). It was later realized that this structure had a rather unexpected arrangement of vanadium atoms, and the structure was revised by (Enjalbert, 1986) and others. \n The ICSD and CCDC entries are from (Lim, 2017). This ICSD is identical to the (Enjalbert, 1986) result, which has the ICSD number 60767 but is not recorded in the CCDC collection. If you have a subscription to the ICSD it can be found there. \n (Enjalbert, 1986) put the oxygen atoms on the (4f) (x,1/4,z) Wyckoff positions.  The \\href{https://aflow.org/prototype-encyclopedia/Tutorials/AFLOW_Prototype_Label/index.html#LabelOrder}{AFLOW prototype label protocol} rotates the crystal by 90$^\\circ$, moving these atoms to the (4e) (1/4,y,z) sites."
 }

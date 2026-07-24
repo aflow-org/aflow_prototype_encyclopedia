@@ -1,32 +1,36 @@
 {
-    "uid": "F4G8",
-    "label": "AB_cP16_205_c_c-001",
-    "alias": [
-        "AB_cP16_205_c_c"
-    ],
-    "title": "SC16 (CuCl) Structure",
-    "icsd": "78271",
-    "ccdc": null,
-    "prototype": "ClCu",
-    "prototype_tex": "ClCu",
-    "number_of_species": 2,
-    "pearson_symbol": "cP16",
-    "space_group_number": 205,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "x1",
-        "x2"
-    ],
-    "parameter_values": [
-        6.4162,
-        0.1527,
-        0.6297
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "SC16 CuCl",
-    "comments": "This is a tetragonally bonded structure which packs more efficiently than diamond. \n This structure is related to \\href{current_web_home_dir/A_cI16_206_c-001}{BC8} in the same way that \\href{current_web_home_dir/AB_cF8_216_a_c-001}{zincblende ($B3$)} is related to \\href{current_web_home_dir/A_cF8_227_a-001}{diamond ($A4$)}: we replace half of the atoms by another species, such that the four nearest neighbors of each atom are of the other species. See (Crain, 1995) and references therein. \n The reference compound chosen here, found in (Hull, 1994), is stable at about 5 GPa."
+  "uid": "F4G8",
+  "label": "AB_cP16_205_c_c-001",
+  "alias": [
+    "AB_cP16_205_c_c"
+  ],
+  "title": "SC16 (CuCl) Structure",
+  "icsd": 78271,
+  "ccdc": 1638556,
+  "prototype": "ClCu",
+  "prototype_tex": "ClCu",
+  "number_of_species": 2,
+  "pearson_symbol": "cP16",
+  "space_group_number": 205,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "x1",
+    "x2"
+  ],
+  "parameter_values": [
+    6.4162,
+    0.1527,
+    0.6297
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "BrCu"
+  ],
+  "legacy": false,
+  "notes": "SC16 CuCl",
+  "comments": "This is a tetragonally bonded structure which packs more efficiently than diamond. \n This structure is related to \\href{current_web_home_dir/A_cI16_206_c-001}{BC8} in the same way that \\href{current_web_home_dir/AB_cF8_216_a_c-001}{zincblende ($B3$)} is related to \\href{current_web_home_dir/A_cF8_227_a-001}{diamond ($A4$)}: we replace half of the atoms by another species, such that the four nearest neighbors of each atom are of the other species. See (Crain, 1995) and references therein. \n The reference compound chosen here, found in (Hull, 1994), is stable at about 5 GPa."
 }

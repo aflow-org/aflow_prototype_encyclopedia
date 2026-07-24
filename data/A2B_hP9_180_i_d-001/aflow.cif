@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/A2B_hP9_180_i_d-001
 
 # Last updated on 2024/08/01
-data_O6Si3
-_pd_phase_name O6Si3
+data_O2Si
+_pd_phase_name O2Si
 _cell_length_a  4.9977000000
 _cell_length_b  4.9977000000
 _cell_length_c  5.4601000000
@@ -49,4 +49,4 @@ loop_
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
 Si2 1.0000000000 0.5000000000 0.0000000000 0.5000000000  Biso 1.0 Si 3 d
-O1 1.0000000000 0.2072000000 0.4144000000 0.0000000000  Biso 1.0 O 6 i
+O1  1.0000000000 0.2072000000 0.4144000000 0.0000000000  Biso 1.0 O  6 i

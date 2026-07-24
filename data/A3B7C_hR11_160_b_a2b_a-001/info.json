@@ -1,46 +1,41 @@
 {
-    "uid": "JN4A",
-    "label": "A3B7C_hR11_160_b_a2b_a-001",
-    "alias": [
-        "A3B7C_hR11_160_b_a2b_a"
-    ],
-    "title": "Fe$_{3}$PO$_{7}$ Structure",
-    "icsd": "36207",
-    "ccdc": null,
-    "prototype": "Fe3O7P",
-    "prototype_tex": "Fe$_{3}$O$_{7}$P",
-    "number_of_species": 3,
-    "pearson_symbol": "hR11",
-    "space_group_number": 160,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x1",
-        "x2",
-        "x3",
-        "z3",
-        "x4",
-        "z4",
-        "x5",
-        "z5"
-    ],
-    "parameter_values": [
-        8.006,
-        0.857232,
-        0.7711,
-        0.0,
-        0.4605,
-        0.85151,
-        0.167,
-        0.856,
-        0.6105,
-        0.23321
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "Space group $R3m$ \\#160 allows an arbitary definition of the zero of the $z$-axis.  Here we select $z_{1} = 0$, putting the phosphorous atom at the origin."
+  "uid": "JN4A",
+  "label": "A3B7C_hR11_160_b_a2b_a-001",
+  "alias": [
+    "A3B7C_hR11_160_b_a2b_a"
+  ],
+  "title": "Fe$_{3}$PO$_{7}$ Structure",
+  "icsd": 36207,
+  "ccdc": 1607977,
+  "prototype": "Fe3O7P",
+  "prototype_tex": "Fe$_{3}$O$_{7}$P",
+  "number_of_species": 3,
+  "pearson_symbol": "hR11",
+  "space_group_number": 160,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x1",
+    "x2",
+    "x3",
+    "z3",
+    "x4",
+    "z4",
+    "x5",
+    "z5"
+  ],
+  "parameter_values": [
+    8.006,
+    0.857232,
+    0.7711
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": "Space group $R3m$ \\#160 allows an arbitary definition of the zero of the $z$-axis.  Here we select $z_{1} = 0$, putting the phosphorous atom at the origin."
 }

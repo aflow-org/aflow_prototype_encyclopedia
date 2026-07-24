@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/A2B_cF24_227_c_b-001
 
 # Last updated on 2024/08/01
-data_Cu16Mg8
-_pd_phase_name Cu16Mg8
+data_Cu2Mg
+_pd_phase_name Cu2Mg
 _cell_length_a  7.0200000000
 _cell_length_b  7.0200000000
 _cell_length_c  7.0200000000
@@ -228,5 +228,5 @@ loop_
  _atom_site_type_symbol
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
-Mg2 1.0000000000 0.3750000000 0.3750000000 0.3750000000  Biso 1.0 Mg 8 b
-Cu1 1.0000000000 -0.0000000000 0.0000000000 -0.0000000000  Biso 1.0 Cu 16 c
+Mg2 1.0000000000 0.3750000000 0.3750000000 0.3750000000  Biso 1.0 Mg  8 b
+Cu1 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Cu 16 c

@@ -1,34 +1,36 @@
 {
-    "uid": "9Q9K",
-    "label": "A4B17C_cF88_216_e_aefg_c-001",
-    "alias": null,
-    "title": "Cubic Cr$_{4}$PtGa$_{17}$ Structure",
-    "icsd": "36836",
-    "ccdc": null,
-    "prototype": "Cr4Ga17Pt",
-    "prototype_tex": "Cr$_{4}$Ga$_{17}$Pt",
-    "number_of_species": 3,
-    "pearson_symbol": "cF88",
-    "space_group_number": 216,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-        "a",
-        "x3",
-        "x4",
-        "x5",
-        "x6"
-    ],
-    "parameter_values": [
-        11.349,
-        0.65577,
-        0.87775,
-        0.68369,
-        0.4647
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "Cubic Cr$_{4}$PtGa$_{17}$",
-    "comments": "(Gui, 2021) describe this compound as a rhombohedral structure in space group $R3m$ \\#160, a distortion of the \\href{current_web_home_dir/ABC_cF12_216_a_c_b-001}{half-Heusler ($C1_{b}$) structure}. Uncertainty in the atomic positions leads to this cubic structure, which we use as the prototype."
+  "uid": "9Q9K",
+  "label": "A4B17C_cF88_216_e_aefg_c-001",
+  "alias": null,
+  "title": "Cubic Cr$_{4}$PtGa$_{17}$ Structure",
+  "icsd": 36836,
+  "ccdc": 2093835,
+  "prototype": "Cr4Ga17Pt",
+  "prototype_tex": "Cr$_{4}$Ga$_{17}$Pt",
+  "number_of_species": 3,
+  "pearson_symbol": "cF88",
+  "space_group_number": 216,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "x3",
+    "x4",
+    "x5",
+    "x6"
+  ],
+  "parameter_values": [
+    11.349,
+    0.65577,
+    0.87775,
+    0.68369,
+    0.4647
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "Cubic Cr$_{4}$PtGa$_{17}$",
+  "comments": "(Gui, 2021) describe this compound as a rhombohedral structure in space group $R3m$ \\#160, a distortion of the \\href{current_web_home_dir/ABC_cF12_216_a_c_b-001}{half-Heusler ($C1_{b}$) structure}. Uncertainty in the atomic positions leads to this cubic structure, which we use as the prototype."
 }

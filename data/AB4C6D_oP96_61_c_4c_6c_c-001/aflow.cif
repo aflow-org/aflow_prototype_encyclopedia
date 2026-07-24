@@ -1,0 +1,59 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+
+# Chemical Composition:  AlPO4(H2O)2 (variscite)
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/AB4C6D_oP96_61_c_4c_6c_c-001 
+
+# Last updated on 2025/02/24
+
+data_AlPO4(H2O)2
+_pd_phase_name AlPO4(H2O)2
+_cell_length_a  9.8220000000
+_cell_length_b  8.5610000000
+_cell_length_c  9.6300000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pbca'
+_symmetry_Int_Tables_Number  61
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z+1/2
+  3  -x,y+1/2,-z+1/2
+  4  x+1/2,-y+1/2,-z
+  5  -x,-y,-z
+  6  x+1/2,y,-z+1/2
+  7  x,-y+1/2,z+1/2
+  8  -x+1/2,y+1/2,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Al1 1.0000000000 0.1338900000 0.1550000000 0.1684100000  Biso 1.0 Al 8 c
+H2  1.0000000000 0.0630000000 0.3100000000 0.9720000000  Biso 1.0 H  8 c
+H3  1.0000000000 0.9880000000 0.3710000000 0.0680000000  Biso 1.0 H  8 c
+H4  1.0000000000 0.3620000000 0.2010000000 0.1680000000  Biso 1.0 H  8 c
+H5  1.0000000000 0.3140000000 0.3340000000 0.0850000000  Biso 1.0 H  8 c
+O6  1.0000000000 0.1118000000 0.2987000000 0.3152500000  Biso 1.0 O  8 c
+O7  1.0000000000 0.0403000000 0.5818600000 0.2945300000  Biso 1.0 O  8 c
+O8  1.0000000000 0.2854500000 0.5124700000 0.2900600000  Biso 1.0 O  8 c
+O9  1.0000000000 0.1499700000 0.4791600000 0.5122400000  Biso 1.0 O  8 c
+O10 1.0000000000 0.0604100000 0.3256400000 0.0546000000  Biso 1.0 O  8 c
+O11 1.0000000000 0.3072600000 0.2359700000 0.1149900000  Biso 1.0 O  8 c
+P12 1.0000000000 0.1477900000 0.4684400000 0.3528400000  Biso 1.0 P  8 c

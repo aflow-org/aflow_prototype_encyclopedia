@@ -1,28 +1,37 @@
 {
-    "uid": "4JP4",
-    "label": "ABC3D6_cP11_200_a_b_c_f-001",
-    "alias": null,
-    "title": "CsHgN$_{3}$O$_{6}$ Structure",
-    "icsd": "28645",
-    "ccdc": null,
-    "prototype": "CsHgN3O6",
-    "prototype_tex": "CsHgN$_{3}$O$_{6}$",
-    "number_of_species": 4,
-    "pearson_symbol": "cP11",
-    "space_group_number": 200,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-        "a",
-        "x4"
-    ],
-    "parameter_values": [
-        5.475,
-        0.24
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "4JP4",
+  "label": "ABC3D6_cP11_200_a_b_c_f-001",
+  "alias": null,
+  "title": "CsHgN$_{3}$O$_{6}$ Structure",
+  "icsd": 28645,
+  "ccdc": 1603688,
+  "prototype": "CsHgN3O6",
+  "prototype_tex": "CsHgN$_{3}$O$_{6}$",
+  "number_of_species": 4,
+  "pearson_symbol": "cP11",
+  "space_group_number": 200,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "x4"
+  ],
+  "parameter_values": [
+    5.475,
+    0.24
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "CsCdN$_{3}$O$_{6}$",
+    "KHgN$_{3}$O$_{6}$",
+    "RbCdN$_{3}$O$_{6}$",
+    "RbHgN$_{3}$O$_{6}$",
+    "TlCdN$_{3}$O$_{6}$",
+    "TlHgN$_{3}$O$_{6}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

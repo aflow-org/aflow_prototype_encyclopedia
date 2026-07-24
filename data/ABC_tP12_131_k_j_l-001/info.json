@@ -1,34 +1,36 @@
 {
-    "uid": "ALQL",
-    "label": "ABC_tP12_131_k_j_l-001",
-    "alias": null,
-    "title": "PdTeI Structure",
-    "icsd": "50987",
-    "ccdc": null,
-    "prototype": "IPdTe",
-    "prototype_tex": "IPdTe",
-    "number_of_species": 3,
-    "pearson_symbol": "tP12",
-    "space_group_number": 131,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 5,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x1",
-        "x2",
-        "x3"
-    ],
-    "parameter_values": [
-        7.821,
-        0.723565,
-        0.2525,
-        0.2435,
-        0.2164
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "ALQL",
+  "label": "ABC_tP12_131_k_j_l-001",
+  "alias": null,
+  "title": "PdTeI Structure",
+  "icsd": 50987,
+  "ccdc": 1615886,
+  "prototype": "IPdTe",
+  "prototype_tex": "IPdTe",
+  "number_of_species": 3,
+  "pearson_symbol": "tP12",
+  "space_group_number": 131,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 5,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x1",
+    "x2",
+    "x3"
+  ],
+  "parameter_values": [
+    7.821,
+    0.723565,
+    0.2525,
+    0.2435,
+    0.2164
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

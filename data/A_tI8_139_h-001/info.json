@@ -16,16 +16,18 @@
     "strukturbericht_tex": null,
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x1"
+	"a",
+	"c/a",
+	"x1"
     ],
     "parameter_values": [
-        4.3318,
-        0.574103,
-        0.17916
+	4.3318,
+	0.574103,
+	0.17916
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "Hypothetical",
     "comments": "This structure was proposed in (Schultz, 1999) to show that it was energetically possible to form four-member rings in amorphous sp$^{3}$ carbon structures."

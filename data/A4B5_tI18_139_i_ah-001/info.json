@@ -1,34 +1,36 @@
 {
-    "uid": "84H6",
-    "label": "A4B5_tI18_139_i_ah-001",
-    "alias": [
-        "A4B5_tI18_139_i_ah"
-    ],
-    "title": "V$_{4}$Zn$_{5}$ Structure",
-    "icsd": "106213",
-    "ccdc": null,
-    "prototype": "V4Zn5",
-    "prototype_tex": "V$_{4}$Zn$_{5}$",
-    "number_of_species": 2,
-    "pearson_symbol": "tI18",
-    "space_group_number": 139,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x2",
-        "x3"
-    ],
-    "parameter_values": [
-        8.91,
-        0.361392,
-        0.328,
-        0.348
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "This is very similar to the \\href{current_web_home_dir/A8B_tI18_139_hi_a-001}{Pt$_{8}$Ti structure}."
+  "uid": "84H6",
+  "label": "A4B5_tI18_139_i_ah-001",
+  "alias": [
+    "A4B5_tI18_139_i_ah"
+  ],
+  "title": "V$_{4}$Zn$_{5}$ Structure",
+  "icsd": 106213,
+  "ccdc": 1664055,
+  "prototype": "V4Zn5",
+  "prototype_tex": "V$_{4}$Zn$_{5}$",
+  "number_of_species": 2,
+  "pearson_symbol": "tI18",
+  "space_group_number": 139,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x2",
+    "x3"
+  ],
+  "parameter_values": [
+    8.91,
+    0.361392,
+    0.328,
+    0.348
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": "This is very similar to the \\href{current_web_home_dir/A8B_tI18_139_hi_a-001}{Pt$_{8}$Ti structure}."
 }

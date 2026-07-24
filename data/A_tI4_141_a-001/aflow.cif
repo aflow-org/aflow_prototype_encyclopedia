@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/A_tI4_141_a-001
 
 # Last updated on 2024/08/01
-data_Sn4
-_pd_phase_name Sn4
+data_Sn
+_pd_phase_name Sn
 _cell_length_a  5.8318000000
 _cell_length_b  5.8318000000
 _cell_length_c  3.1819000000

@@ -1,0 +1,45 @@
+{
+  "uid": "KM2D",
+  "label": "A2BC2D_hP6_164_d_a_d_b-001",
+  "alias": null,
+  "title": "TbLiCu$_{2}$P$_{2}$ Structure",
+  "icsd": 35589,
+  "ccdc": 1607660,
+  "prototype": "Cu2LiP2Tb",
+  "prototype_tex": "Cu$_{2}$LiP$_{2}$Tb",
+  "number_of_species": 4,
+  "elements": [
+    "Cu",
+    "Li",
+    "P",
+    "Tb"
+  ],
+  "pearson_symbol": "hP6",
+  "space_group_number": 164,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 5,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z3",
+    "z4"
+  ],
+  "parameter_values": [
+    3.994,
+    1.64321,
+    0.1569,
+    0.7593
+  ],
+  "mineral_name": null,
+  "minerals": {},
+  "compounds": [
+    "CeLiCu$_{2}$P$_{2}$",
+    "SmLiCu$_{2}$P$_{2}$",
+    "YLiCu$_{2}$P$_{2}$",
+    "YbLiCu$_{2}$P$_{2}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "This is the quaternary form of \\href{current_web_home_dir/AB3C2_hP6_164_a_bd_d-001}{LaLi$_{3}$Sb$_{2}$}, a filled \\href{current_web_home_dir/A2B2C_hP5_164_d_d_a-002}{Ce$_{2}$O$_{2}$S} structure."
+}

@@ -1,44 +1,46 @@
 {
-    "uid": "B2Y6",
-    "label": "ABC4_tI96_142_e_ab_2g-001",
-    "alias": [
-        "ABC4_tI96_142_e_ab_2g"
-    ],
-    "title": "PPrS$_{4}$ Structure",
-    "icsd": "201897",
-    "ccdc": null,
-    "prototype": "PPrS4",
-    "prototype_tex": "PPrS$_{4}$",
-    "number_of_species": 3,
-    "pearson_symbol": "tI96",
-    "space_group_number": 142,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x3",
-        "x4",
-        "y4",
-        "z4",
-        "x5",
-        "y5",
-        "z5"
-    ],
-    "parameter_values": [
-        10.914,
-        1.77396,
-        0.0375,
-        0.7482,
-        0.8197,
-        0.4133,
-        0.0923,
-        0.1117,
-        0.0025
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "B2Y6",
+  "label": "ABC4_tI96_142_e_ab_2g-001",
+  "alias": [
+    "ABC4_tI96_142_e_ab_2g"
+  ],
+  "title": "PPrS$_{4}$ Structure",
+  "icsd": 201897,
+  "ccdc": 1706525,
+  "prototype": "PPrS4",
+  "prototype_tex": "PPrS$_{4}$",
+  "number_of_species": 3,
+  "pearson_symbol": "tI96",
+  "space_group_number": 142,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x3",
+    "x4",
+    "y4",
+    "z4",
+    "x5",
+    "y5",
+    "z5"
+  ],
+  "parameter_values": [
+    10.914,
+    1.77396,
+    0.0375,
+    0.7482,
+    0.8197,
+    0.4133,
+    0.0923,
+    0.1117,
+    0.0025
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

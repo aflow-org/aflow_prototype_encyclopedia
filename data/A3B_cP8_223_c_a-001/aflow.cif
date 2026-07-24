@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/A3B_cP8_223_c_a-001
 
 # Last updated on 2024/08/01
-data_Cr6Si2
-_pd_phase_name Cr6Si2
+data_Cr3Si
+_pd_phase_name Cr3Si
 _cell_length_a  4.5560000000
 _cell_length_b  4.5560000000
 _cell_length_c  4.5560000000

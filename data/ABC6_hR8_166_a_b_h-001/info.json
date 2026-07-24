@@ -1,34 +1,38 @@
 {
-    "uid": "XD6C",
-    "label": "ABC6_hR8_166_a_b_h-001",
-    "alias": [
-        "ABC6_hR8_166_a_b_h"
-    ],
-    "title": "$\\beta$-Potassium Nitrate (KNO$_{3}$) Structure",
-    "icsd": "385",
-    "ccdc": null,
-    "prototype": "KNO3",
-    "prototype_tex": "KNO$_{3}$",
-    "number_of_species": 3,
-    "pearson_symbol": "hR8",
-    "space_group_number": 166,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x3",
-        "z3"
-    ],
-    "parameter_values": [
-        5.425,
-        1.81309,
-        0.395,
-        0.785
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$\\beta$-KNO$_{3}$ Structure",
-    "comments": "On heating, $\\alpha$-KNO$_{3}$ (either \\href{current_web_home_dir/ABC3_oP20_62_c_c_cd-001}{Structure I} or \\href{current_web_home_dir/ABC3_oC80_36_2ab_2ab_2a5b-001}{Structure II}) transforms into $\\beta$-KNO$_{3}$ at 128$^\\circ$C.  When heated above 200$^\\circ$C and then cooled, the $\\beta$ phase transforms into the metastable ferroelectric \\href{current_web_home_dir/ABC3_hR5_160_a_a_b-002}{$\\gamma$-KNO$_{3}$ phase}, which can remain down to room temperature. \n In the $\\beta$-phase the oxygen (6h) sites are only 50\\% filled.  Presumably only the $+z$ or $-z$ sites will be occupied around a given nitrogen atom. \n We use the $151^\\circ$C data from (Nimmo, 1976)."
+  "uid": "XD6C",
+  "label": "ABC6_hR8_166_a_b_h-001",
+  "alias": [
+    "ABC6_hR8_166_a_b_h"
+  ],
+  "title": "$\\beta$-Potassium Nitrate (KNO$_{3}$) Structure",
+  "icsd": 385,
+  "ccdc": 1590914,
+  "prototype": "KNO3",
+  "prototype_tex": "KNO$_{3}$",
+  "number_of_species": 3,
+  "pearson_symbol": "hR8",
+  "space_group_number": 166,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x3",
+    "z3"
+  ],
+  "parameter_values": [
+    5.425,
+    1.81309,
+    0.395,
+    0.785
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "NaNO$_{3}$"
+  ],
+  "legacy": false,
+  "notes": "$\\beta$-KNO$_{3}$ Structure",
+  "comments": "On heating, $\\alpha$-KNO$_{3}$ (either \\href{current_web_home_dir/ABC3_oP20_62_c_c_cd-001}{Structure I} or \\href{current_web_home_dir/ABC3_oC80_36_2ab_2ab_2a5b-001}{Structure II}) transforms into $\\beta$-KNO$_{3}$ at 128$^\\circ$C.  When heated above 200$^\\circ$C and then cooled, the $\\beta$ phase transforms into the metastable ferroelectric \\href{current_web_home_dir/ABC3_hR5_160_a_a_b-002}{$\\gamma$-KNO$_{3}$ phase}, which can remain down to room temperature. \n In the $\\beta$-phase the oxygen (6h) sites are only 50\\% filled.  Presumably only the $+z$ or $-z$ sites will be occupied around a given nitrogen atom. \n We use the 151$^\\circ$C data from (Nimmo, 1976)."
 }

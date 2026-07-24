@@ -1,34 +1,59 @@
 {
-    "uid": "443S",
-    "label": "A4B5_hP18_193_bg_dg-001",
-    "alias": [
-        "A4B5_hP18_193_bg_dg"
-    ],
-    "title": "Ti$_{5}$Ga$_{4}$ Structure",
-    "icsd": "103997",
-    "ccdc": null,
-    "prototype": "Ga4Ti5",
-    "prototype_tex": "Ga$_{4}$Ti$_{5}$",
-    "number_of_species": 2,
-    "pearson_symbol": "hP18",
-    "space_group_number": 193,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x3",
-        "x4"
-    ],
-    "parameter_values": [
-        7.861,
-        0.69355,
-        0.62,
-        0.29
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "This is \\href{current_web_home_dir/A5B3_hP16_193_dg_g-001}{the $D8_{8}$ structure} with the addition of two atoms on the (2b) site. \n Many ternary compounds with this structure can be found on the \\href{current_web_home_dir/A3B5C_hP18_193_g_dg_b-001}{La$_{3}$TiSb$_{5}$ structure page}."
+  "uid": "443S",
+  "label": "A4B5_hP18_193_bg_dg-001",
+  "alias": [
+    "A4B5_hP18_193_bg_dg"
+  ],
+  "title": "Ti$_{5}$Ga$_{4}$ Structure",
+  "icsd": 103997,
+  "ccdc": 1661922,
+  "prototype": "Ga4Ti5",
+  "prototype_tex": "Ga$_{4}$Ti$_{5}$",
+  "number_of_species": 2,
+  "pearson_symbol": "hP18",
+  "space_group_number": 193,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x3",
+    "x4"
+  ],
+  "parameter_values": [
+    7.861,
+    0.69355,
+    0.62,
+    0.29
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Hf$_{5}$Sn$_{4}$",
+    "Nb$_{5}$Ga$_{4}$",
+    "Np$_{5}$Ge$_{4}$",
+    "Pu$_{5}$Pb$_{4}$",
+    "Th$_{5}$Pb$_{4}$",
+    "Th$_{5}$Sn$_{4}$",
+    "U$_{5}$Ge$_{4}$",
+    "Zr$_{5}$Al$_{4}$",
+    "Zr$_{5}$Ga$_{4}$",
+    "Zr$_{5}$Pb$_{4}$",
+    "Zr$_{5}$Sb$_{4}$",
+    "Zr$_{5}$Sn$_{4}$",
+    "DyGeSc",
+    "DyScSi",
+    "ErScGe",
+    "ErScSi",
+    "HoScGe",
+    "HoScSi",
+    "IrNbO",
+    "ScSiTb",
+    "TmScGe",
+    "TmScSi"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "This is \\href{current_web_home_dir/A5B3_hP16_193_dg_g-001}{the $D8_{8}$ structure} with the addition of two atoms on the (2b) site. \n Many ternary compounds with this structure can be found on the \\href{current_web_home_dir/A3B5C_hP18_193_g_dg_b-001}{La$_{3}$TiSb$_{5}$ structure page}."
 }

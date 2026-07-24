@@ -1,32 +1,34 @@
 {
-    "uid": "VHKA",
-    "label": "A_cP8_198_2a-001",
-    "alias": [
-        "A_cP8_198_2a"
-    ],
-    "title": "$\\alpha$-N ($P2_{1}3$) Structure",
-    "icsd": "27249",
-    "ccdc": null,
-    "prototype": "N",
-    "prototype_tex": "N",
-    "number_of_species": 1,
-    "pearson_symbol": "cP8",
-    "space_group_number": 198,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "x1",
-        "x2"
-    ],
-    "parameter_values": [
-        5.65,
-        0.0699,
-        0.9622
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$\\alpha$-N ($P2_{1}3$)",
-    "comments": "Solid nitrogen is found in three forms (Mills, 1969; Donohue, 1974): \\begin{itemize} \\item The ground state $\\alpha$-N structure, stable below 35.6K, found either in a \\href{current_web_home_dir/A_cP8_205_c-001}{centrosymmetric} or a \\href{current_web_home_dir/A_cP8_198_2a-001}{non-centrosymmetric} cubic structure. \\item The hexagonal $\\beta$-phase, which has freely rotating N$_{2}$ molecules and is stable up to the melting point, and \\item High-pressure \\href{current_web_home_dir/A_tP4_136_f-001}{$\\gamma$-N}, stable above 355 MPa. \\end{itemize} ~ \\vspace{-.25in} \n There is considerable controversy about the crystal structure of $\\alpha$-N, as outlined in (Donohue, 1982, pp. 280-285). This page assumes the non-centrosymmetric $P2_{1}3$ \\#198 structure. The other possibility is the \\href{current_web_home_dir/A_cP8_205_c-001}{$Pa\\overline{3}$ \\#205 structure}, where the N$_{2}$ dimers are centered on an inversion site. (Venables, 1974) makes a convincing case that the ground state is $Pa\\overline{3}$, but we present both structures. Density Functional Theory calculations show no appreciable difference in energy between the $Pa_{3}$ and $P2_{1}3$ structures. (Mehl, 2015)"
+  "uid": "VHKA",
+  "label": "A_cP8_198_2a-001",
+  "alias": [
+    "A_cP8_198_2a"
+  ],
+  "title": "$\\alpha$-N ($P2_{1}3$) Structure",
+  "icsd": 27249,
+  "ccdc": 1602557,
+  "prototype": "N",
+  "prototype_tex": "N",
+  "number_of_species": 1,
+  "pearson_symbol": "cP8",
+  "space_group_number": 198,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "x1",
+    "x2"
+  ],
+  "parameter_values": [
+    5.65,
+    0.0699,
+    0.9622
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "$\\alpha$-N ($P2_{1}3$)",
+  "comments": "Solid nitrogen is found in three forms (Mills, 1969; Donohue, 1974): \\begin{itemize} \\item The ground state $\\alpha$-N structure, stable below 35.6K, found either in a \\href{current_web_home_dir/A_cP8_205_c-001}{centrosymmetric} or a \\href{current_web_home_dir/A_cP8_198_2a-001}{non-centrosymmetric} cubic structure. \\item The hexagonal $\\beta$-phase, which has freely rotating N$_{2}$ molecules and is stable up to the melting point, and \\item High-pressure \\href{current_web_home_dir/A_tP4_136_f-001}{$\\gamma$-N}, stable above 355 MPa. \\end{itemize} ~ \\vspace{-.25in} \n There is considerable controversy about the crystal structure of $\\alpha$-N, as outlined in (Donohue, 1982, pp. 280-285). This page assumes the non-centrosymmetric $P2_{1}3$ \\#198 structure. The other possibility is the \\href{current_web_home_dir/A_cP8_205_c-001}{$Pa\\overline{3}$ \\#205 structure}, where the N$_{2}$ dimers are centered on an inversion site. (Venables, 1974) makes a convincing case that the ground state is $Pa\\overline{3}$, but we present both structures. Density Functional Theory calculations show no appreciable difference in energy between the $Pa_{3}$ and $P2_{1}3$ structures. (Mehl, 2015)"
 }

@@ -14,13 +14,17 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a"
+	"a"
     ],
     "parameter_values": [
-        3.501
+	3.501
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"YH$_{6}$"
+    ],
     "legacy": false,
     "notes": "HP",
-    "comments": "(Wang, 2012) predict this structure to become superconducting with a critical temperature of 220-235K at a 150 GPa.  (Ma, 2022) later synthesized the material and found $T_{c} = 215$K at 172 GPa. We show the structure at the lattice constant predicted by (Wang, 2012) for a pressure of 150 GPa."
+    "comments": "(Wang, 2012) predict this structure to become superconducting with a critical temperature of 220-235K at 150 GPa.  (Ma, 2022) later synthesized the material and found T$_{c}$ = 215K at 172 GPa. We show the structure at the lattice constant predicted by (Wang, 2012) at the pressure 150 GPa."
 }

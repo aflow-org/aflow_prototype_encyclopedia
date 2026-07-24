@@ -1,34 +1,36 @@
 {
-    "uid": "J7FX",
-    "label": "A7B12C_cP20_195_ag_3e_b-001",
-    "alias": null,
-    "title": "Cd$_{8}$As$_{7}$Cl Structure",
-    "icsd": "84983",
-    "ccdc": null,
-    "prototype": "As7Cd8Cl",
-    "prototype_tex": "As$_{7}$Cd$_{8}$Cl",
-    "number_of_species": 3,
-    "pearson_symbol": "cP20",
-    "space_group_number": 195,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-        "a",
-        "x3",
-        "x4",
-        "x5",
-        "x6"
-    ],
-    "parameter_values": [
-        7.266,
-        0.283,
-        0.7842,
-        0.7363,
-        0.8328
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "The paired Cd-II and Cd-III sites are never simultaneously occupied. The Cd-II site is filled 53.5\\% of the time, and Cd-III 46.5\\%. For approximate first-principles calculations one could average the two positions."
+  "uid": "J7FX",
+  "label": "A7B12C_cP20_195_ag_3e_b-001",
+  "alias": null,
+  "title": "Cd$_{8}$As$_{7}$Cl Structure",
+  "icsd": 84983,
+  "ccdc": 1644952,
+  "prototype": "As7Cd8Cl",
+  "prototype_tex": "As$_{7}$Cd$_{8}$Cl",
+  "number_of_species": 3,
+  "pearson_symbol": "cP20",
+  "space_group_number": 195,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "x3",
+    "x4",
+    "x5",
+    "x6"
+  ],
+  "parameter_values": [
+    7.266,
+    0.283,
+    0.7842,
+    0.7363,
+    0.8328
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": "The paired Cd-II and Cd-III sites are never simultaneously occupied. The Cd-II site is filled 53.5\\% of the time, and Cd-III 46.5\\%. For approximate first-principles calculations one could average the two positions. \n Space group $P23$ \\#195 is \\href{current_web_home_dir/Tutorials/ChiralSpaceGroups/index.html#ClassIII}{chiral, Sohncke Class III}, so this structure could be found in a mirror image configuration in the same space group."
 }

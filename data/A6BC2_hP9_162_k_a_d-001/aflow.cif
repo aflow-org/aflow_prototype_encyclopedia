@@ -12,8 +12,8 @@
 
 # Last updated on 2024/08/01
 
-data_O6Pb1Sb2
-_pd_phase_name O6Pb1Sb2
+data_O6PbSb2
+_pd_phase_name O6PbSb2
 _cell_length_a  5.2950000000
 _cell_length_b  5.2950000000
 _cell_length_c  5.3720000000
@@ -49,5 +49,5 @@ loop_
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
 Pb2 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Pb 1 a
-Sb3 1.0000000000 0.3333300000 0.6666700000 0.5000000000  Biso 1.0 Sb 2 d
-O1 1.0000000000 0.3770000000 -0.0000000000 0.2965000000  Biso 1.0 O 6 k
+Sb3 1.0000000000 0.3333333333 0.6666666667 0.5000000000  Biso 1.0 Sb 2 d
+O1  1.0000000000 0.3770000000 0.0000000000 0.2965000000  Biso 1.0 O  6 k

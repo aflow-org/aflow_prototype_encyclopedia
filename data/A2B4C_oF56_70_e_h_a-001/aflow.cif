@@ -5,15 +5,16 @@
 # Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
 # Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
 # Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
-# Chemical Composition:  Na2O4S thenardite H17
+
+# Chemical Composition:  Na2SO4 (V) Thenardite H1_7
 
 # The current version of this file is available at
-# https://aflow.org/prototype-encyclopedia/A2B4C_oF56_70_e_h_a-001
+# https://aflow.org/prototype-encyclopedia/A2B4C_oF56_70_e_h_a-001 
 
-# Last updated on 2024/08/01
+# Last updated on 2025/02/08
 
-data_Na16O32S8
-_pd_phase_name Na16O32S8
+data_Na2SO4
+_pd_phase_name Na2SO4
 _cell_length_a  9.8170000000
 _cell_length_b  5.8596000000
 _cell_length_c  12.3044000000
@@ -68,6 +69,6 @@ loop_
  _atom_site_type_symbol
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
-S3 1.0000000000 0.1250000000 0.1250000000 0.1250000000  Biso 1.0 S 8 a
-Na1 1.0000000000 0.8086000000 0.1250000000 0.1250000000  Biso 1.0 Na 16 e
-O2 1.0000000000 0.5363000000 0.2703000000 0.5572000000  Biso 1.0 O 32 h
+S3  1.0000000000 0.1250000000 0.1250000000 0.1250000000  Biso 1.0 S   8 a
+Na1 1.0000000000 0.4414000000 0.1250000000 0.1250000000  Biso 1.0 Na 16 e
+O2  1.0000000000 0.2137000000 0.9797000000 0.0572000000  Biso 1.0 O  32 h

@@ -1,0 +1,47 @@
+{
+  "uid": "MHVP",
+  "label": "A6B6C_hP39_191_io_ehjk_ad-001",
+  "alias": null,
+  "title": "LiFe$_{6}$Ge$_{6}$ Structure",
+  "icsd": 41384,
+  "ccdc": 1611167,
+  "prototype": "Fe6Ge6Li",
+  "prototype_tex": "Fe$_{6}$Ge$_{6}$Li",
+  "number_of_species": 3,
+  "pearson_symbol": "hP39",
+  "space_group_number": 191,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 5,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z3",
+    "z4",
+    "z5",
+    "x6",
+    "x7",
+    "x8",
+    "z8"
+  ],
+  "parameter_values": [
+    8.744,
+    0.918687,
+    0.6514,
+    0.8486,
+    0.25,
+    0.333,
+    0.333,
+    0.1665,
+    0.746
+  ],
+  "mineral_name": null,
+  "minerals": {},
+  "compounds": [
+    "LiNi$_{6}$Ge$_{6}$",
+    "LiNi$_{6}$Si$_{6}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "All of the LiFe$_{x}$Ge$_{x}$ structures are Kagome compounds with the iron, germanium, and lithium/germanium layers all having \\href{https://en.wikipedia.org/wiki/Trihexagonal_tiling#Kagome_lattice}{trihexagonal tiling}."
+}

@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/AB_hP2_187_a_d-001
 
 # Last updated on 2024/08/01
-data_C1W1
-_pd_phase_name C1W1
+data_CW
+_pd_phase_name CW
 _cell_length_a  2.9065000000
 _cell_length_b  2.9065000000
 _cell_length_c  2.8366000000
@@ -49,4 +49,4 @@ loop_
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
 C1 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 C 1 a
-W2 1.0000000000 0.3333300000 0.6666700000 0.5000000000  Biso 1.0 W 1 d
+W2 1.0000000000 0.3333333333 0.6666666667 0.5000000000  Biso 1.0 W 1 d

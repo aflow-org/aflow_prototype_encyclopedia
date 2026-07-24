@@ -1,36 +1,41 @@
 {
-    "uid": "2UZJ",
-    "label": "AB_oI8_71_e_g-001",
-    "alias": [
-        "AB_oI8_71_g_i"
-    ],
-    "title": "CsO Structure",
-    "icsd": "25529",
-    "ccdc": null,
-    "prototype": "CsO",
-    "prototype_tex": "CsO",
-    "number_of_species": 2,
-    "pearson_symbol": "oI8",
-    "space_group_number": 71,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "x1",
-        "y2"
-    ],
-    "parameter_values": [
-        7.517,
-        0.855394,
-        0.574963,
-        0.75,
-        0.38
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "(Massaliski, 1990) credits the discovery of this structure to (Rengade, 1909), but we have been unable to obtain a copy of this reference. (Downs, 2003) quotes (Wyckoff, 1963) giving an $Immm-oI8$ structure for CsO.  Since this is the same space group and Pearson symbol as found in Massaliski we use Wyckoff's data. \n In the absence of the original article, we provide the ICSD link to the work of (F\\\"{o}ppl, 1957)."
+  "uid": "2UZJ",
+  "label": "AB_oI8_71_e_g-001",
+  "alias": [
+    "AB_oI8_71_g_i"
+  ],
+  "title": "CsO Structure",
+  "icsd": 25529,
+  "ccdc": 1601183,
+  "prototype": "CsO",
+  "prototype_tex": "CsO",
+  "number_of_species": 2,
+  "pearson_symbol": "oI8",
+  "space_group_number": 71,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "x1",
+    "y2"
+  ],
+  "parameter_values": [
+    7.517,
+    0.855394,
+    0.574963,
+    0.75,
+    0.38
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "RbO",
+    "NaC"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "(Massaliski, 1990) credits the discovery of this structure to (Rengade, 1909), but we have been unable to obtain a copy of this reference. (Downs, 2003) quotes (Wyckoff, 1963) giving an $Immm-oI8$ structure for CsO.  Since this is the same space group and Pearson symbol as found in Massaliski we use Wyckoff's data. \n In the absence of the original article, we provide the ICSD link to the work of (F\\\"{o}ppl, 1957)."
 }

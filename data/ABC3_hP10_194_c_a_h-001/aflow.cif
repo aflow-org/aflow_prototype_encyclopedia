@@ -12,8 +12,8 @@
 
 # Last updated on 2024/08/01
 
-data_Ba2Ni2O6
-_pd_phase_name Ba2Ni2O6
+data_BaNiO3
+_pd_phase_name BaNiO3
 _cell_length_a  5.5800000000
 _cell_length_b  5.5800000000
 _cell_length_c  4.8320000000
@@ -60,6 +60,6 @@ loop_
  _atom_site_type_symbol
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
-Ni2 1.0000000000 0.0000033333 0.9999966667 0.0000000000  Biso 1.0 Ni 2 a
+Ni2 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Ni 2 a
 Ba1 1.0000000000 0.3333333333 0.6666666667 0.2500000000  Biso 1.0 Ba 2 c
-O3 1.0000000000 0.1666733333 0.3333266667 0.2500000000  Biso 1.0 O 6 h
+O3  1.0000000000 0.1666666667 0.3333333333 0.2500000000  Biso 1.0 O  6 h

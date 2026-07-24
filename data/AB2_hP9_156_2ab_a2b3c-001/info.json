@@ -16,32 +16,37 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z1",
-        "z2",
-        "z3",
-        "z4",
-        "z5",
-        "z6",
-        "z7",
-        "z8",
-        "z9"
+	"a",
+	"c/a",
+	"z1",
+	"z2",
+	"z3",
+	"z4",
+	"z5",
+	"z6",
+	"z7",
+	"z8",
+	"z9"
     ],
     "parameter_values": [
-        4.24,
-        4.83491,
-        0.08333,
-        0.41667,
-        0.83333,
-        0.75,
-        0.16667,
-        0.5,
-        0.0,
-        0.66667,
-        0.33333
+	4.24,
+	4.83491,
+	0.08333,
+	0.41667,
+	0.83333,
+	0.75,
+	0.16667,
+	0.5
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": {
+        "berndtite": "S$_{2}$Sn"
+    },
+    "compounds": [
+        "PdTe$_{2}$",
+        "PtTe$_{2}$",
+        "SnS$_{2}$ (berndtite)"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "This is the $6H_{(a)}$ structure described by (Mitchell, 1956). He did not list the atomic positions, so the atoms are assumed to be evenly placed along the $z$-axis. \n This is an alternative stacking for CdI$_{2}$, which is usually found in the \\href{current_web_home_dir/AB2_hP3_164_a_d-001}{2H $\\omega$ ($C6$) phase}. \n The \\href{current_web_home_dir/AB2_hP6_186_b_ab-001}{$C27$ structure} was also proposed as a structure of CdI$_{2}$, but this is now depreciated.\n (Mitchell, 1956) lists other possible stackings for CdI$_{2}$. \n Space group $P3m1$ \\#156 allows an arbitary choice for the origin of the $z$-axis.  We exploit this to place the first iodine atom at the origin."

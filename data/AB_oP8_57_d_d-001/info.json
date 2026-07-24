@@ -1,40 +1,46 @@
 {
-    "uid": "E914",
-    "label": "AB_oP8_57_d_d-001",
-    "alias": [
-        "AB_oP8_57_d_d"
-    ],
-    "title": "TlF-II Structure",
-    "icsd": "90992",
-    "ccdc": null,
-    "prototype": "FTl",
-    "prototype_tex": "FTl",
-    "number_of_species": 2,
-    "pearson_symbol": "oP8",
-    "space_group_number": 57,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "x1",
-        "y1",
-        "x2",
-        "y2"
-    ],
-    "parameter_values": [
-        6.0956,
-        0.90042,
-        0.850285,
-        0.8593,
-        0.0628,
-        0.255,
-        0.0096
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "Low-Temperature",
-    "comments": "This is the true low-temperature ground state of TlF. Like the depreciated \\href{current_web_home_dir/AB_oF8_69_a_b-001}{$B24$ structure}, it is a distortion of the \\href{current_web_home_dir/AB_cF8_225_a_b-001}{rock salt (B1) structure}. \n At higher temperatures TlF transforms into TlF-I, which is isostructural with \\href{current_web_home_dir/AB_tP4_129_a_c-001}{litharge (tetragonal PbO, $B10$)}."
+  "uid": "E914",
+  "label": "AB_oP8_57_d_d-001",
+  "alias": [
+    "AB_oP8_57_d_d"
+  ],
+  "title": "TlF-II Structure",
+  "icsd": 90992,
+  "ccdc": 1650562,
+  "prototype": "FTl",
+  "prototype_tex": "FTl",
+  "number_of_species": 2,
+  "pearson_symbol": "oP8",
+  "space_group_number": 57,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "x1",
+    "y1",
+    "x2",
+    "y2"
+  ],
+  "parameter_values": [
+    6.0956,
+    0.90042,
+    0.850285,
+    0.8593,
+    0.0628,
+    0.255,
+    0.0096
+  ],
+  "mineral_name": null,
+  "minerals": {
+    "massicot": "OPb"
+  },
+  "compounds": [
+    "PbO (massicot)"
+  ],
+  "legacy": false,
+  "notes": "Low-Temperature",
+  "comments": "This is the true low-temperature ground state of TlF. Like the depreciated \\href{current_web_home_dir/AB_oF8_69_a_b-001}{$B24$ structure}, it is a distortion of the \\href{current_web_home_dir/AB_cF8_225_a_b-001}{rock salt (B1) structure}. \n At higher temperatures TlF transforms into TlF-I, which is isostructural with \\href{current_web_home_dir/AB_tP4_129_a_c-001}{litharge (tetragonal PbO, $B10$)}."
 }

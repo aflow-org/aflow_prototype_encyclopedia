@@ -1,36 +1,39 @@
 {
-    "uid": "CPSQ",
-    "label": "AB_oP2_25_a_b-001",
-    "alias": [
-        "AB_oP2_25_b_a"
-    ],
-    "title": "High-pressure CdTe Structure",
-    "icsd": "108237",
-    "ccdc": null,
-    "prototype": "CdTe",
-    "prototype_tex": "CdTe",
-    "number_of_species": 2,
-    "pearson_symbol": "oP2",
-    "space_group_number": 25,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "z1",
-        "z2"
-    ],
-    "parameter_values": [
-        2.8102,
-        1.87104,
-        1.07697,
-        0.25,
-        0.0
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "19.3 GPa",
-    "comments": "This is a high-pressure phase of CdTe. We use the data given for a pressure of 19.3 GPa. \n Space group $Pmm2$ \\#25 allows are arbritary origin in the $z$-direction.  Here we chose it to put the tellurium atom at the origin."
+  "uid": "CPSQ",
+  "label": "AB_oP2_25_a_b-001",
+  "alias": [
+    "AB_oP2_25_b_a"
+  ],
+  "title": "High-pressure CdTe Structure",
+  "icsd": 108237,
+  "ccdc": 1665901,
+  "prototype": "CdTe",
+  "prototype_tex": "CdTe",
+  "number_of_species": 2,
+  "pearson_symbol": "oP2",
+  "space_group_number": 25,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "z1",
+    "z2"
+  ],
+  "parameter_values": [
+    2.8102,
+    1.87104,
+    1.07697,
+    0.25
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "GaAs (HP)"
+  ],
+  "legacy": false,
+  "notes": "19.3 GPa",
+  "comments": "This is a high-pressure phase of CdTe. We use the data given for a pressure of 19.3 GPa. \n Space group $Pmm2$ \\#25 allows are arbritary origin in the $z$-direction.  Here we chose it to put the tellurium atom at the origin."
 }

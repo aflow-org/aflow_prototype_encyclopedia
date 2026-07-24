@@ -1,36 +1,35 @@
 {
-    "uid": "P2LA",
-    "label": "A3B_hR4_160_b_a-001",
-    "alias": [
-        "A3B_hR4_160_b_a"
-    ],
-    "title": "H$_{3}$S (130 GPa) Structure",
-    "icsd": "291501",
-    "ccdc": null,
-    "prototype": "H3S",
-    "prototype_tex": "H$_{3}$S",
-    "number_of_species": 2,
-    "pearson_symbol": "hR4",
-    "space_group_number": 160,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x1",
-        "x2",
-        "z2"
-    ],
-    "parameter_values": [
-        4.40507,
-        0.610443,
-        0.0,
-        0.47927,
-        0.02217
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "HP Theory",
-    "comments": "This structure was found by first-principles electronic structure calculations and is predicted to be the stable structure of H$_{3}$S for pressures between 90 and 150 GPa. When $c/a \\rightarrow \\sqrt{8}$, $x_{2} \\rightarrow 1/2$ and $z_{2} \\rightarrow 0$ this structure continuously evolves into \\href{current_web_home_dir/A3B_cI8_229_b_a-001}{the cubic 200 GPa H$_{3}$S structure}. \n The data presented here was computed at 130 GPa."
+  "uid": "P2LA",
+  "label": "A3B_hR4_160_b_a-001",
+  "alias": [
+    "A3B_hR4_160_b_a"
+  ],
+  "title": "H$_{3}$S (130 GPa) Structure",
+  "icsd": 291501,
+  "ccdc": 1723598,
+  "prototype": "H3S",
+  "prototype_tex": "H$_{3}$S",
+  "number_of_species": 2,
+  "pearson_symbol": "hR4",
+  "space_group_number": 160,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x1",
+    "x2",
+    "z2"
+  ],
+  "parameter_values": [
+    4.40507,
+    0.610443
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "HP Theory",
+  "comments": "This structure was found by first-principles electronic structure calculations and is predicted to be the stable structure of H$_{3}$S for pressures between 90 and 150 GPa. When $c/a \\rightarrow \\sqrt{8}$, $x_{2} \\rightarrow 1/2$ and $z_{2} \\rightarrow 0$ this structure continuously evolves into \\href{current_web_home_dir/A3B_cI8_229_b_a-001}{the cubic 200 GPa H$_{3}$S structure}. \n The data presented here was computed at 130 GPa."
 }

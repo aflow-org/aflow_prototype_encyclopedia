@@ -1,34 +1,43 @@
 {
-    "uid": "WYVV",
-    "label": "A7B2_cF144_227_2ef_e-001",
-    "alias": null,
-    "title": "Dy$_{5}$Pd$_{2}$ Structure",
-    "icsd": "103347",
-    "ccdc": null,
-    "prototype": "Dy5Pd2",
-    "prototype_tex": "Dy$_{5}$Pd$_{2}$",
-    "number_of_species": 2,
-    "pearson_symbol": "cF144",
-    "space_group_number": 227,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-        "a",
-        "x1",
-        "x2",
-        "x3",
-        "x4"
-    ],
-    "parameter_values": [
-        13.529,
-        0.5235,
-        0.6673,
-        0.7275,
-        0.3111
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "There is considerable disorder in this structure, with all of the (32e) sites having vacancies: \\begin{itemize} \\item The Dy-I site is 50\\% occupied. \\item The Dy-II site is 12.5\\% occupied \\item The Pd site is 87.5\\% occupied. \\end{itemize} ~ \\vspace{-.25in} \n This gives a composition of Dy$_{2.43}$Pd."
+  "uid": "WYVV",
+  "label": "A7B2_cF144_227_2ef_e-001",
+  "alias": null,
+  "title": "Dy$_{5}$Pd$_{2}$ Structure",
+  "icsd": 103347,
+  "ccdc": 1661292,
+  "prototype": "Dy5Pd2",
+  "prototype_tex": "Dy$_{5}$Pd$_{2}$",
+  "number_of_species": 2,
+  "pearson_symbol": "cF144",
+  "space_group_number": 227,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "x1",
+    "x2",
+    "x3",
+    "x4"
+  ],
+  "parameter_values": [
+    13.529,
+    0.5235,
+    0.6673,
+    0.7275,
+    0.3111
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Er$_{5}$Pd$_{2}$",
+    "Ho$_{5}$Pd$_{2}$",
+    "Lu$_{5}$Pd$_{2}$",
+    "Tb$_{5}$Pd$_{2}$",
+    "Tm$_{5}$Pd$_{2}$",
+    "Y$_{5}$Pd$_{2}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "There is considerable disorder in this structure, with all of the (32e) sites having vacancies: \\begin{itemize} \\item The Dy-I site is 50\\% occupied. \\item The Dy-II site is 12.5\\% occupied \\item The Pd site is 87.5\\% occupied. \\end{itemize} ~ \\vspace{-.25in} \n This gives a composition of Dy$_{2.43}$Pd."
 }

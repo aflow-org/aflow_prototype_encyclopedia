@@ -1,30 +1,36 @@
 {
-    "uid": "W4SC",
-    "label": "A_hP4_194_bc-001",
-    "alias": [
-        "A_hP4_194_bc"
-    ],
-    "title": "Hexagonal Graphite ($A9$) Structure",
-    "icsd": "76767",
-    "ccdc": null,
-    "prototype": "C",
-    "prototype_tex": "C",
-    "number_of_species": 1,
-    "pearson_symbol": "hP4",
-    "space_group_number": 194,
-    "strukturbericht": "A9",
-    "strukturbericht_tex": "$A9$",
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "c/a"
-    ],
-    "parameter_values": [
-        2.464,
-        2.72362
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$A9$, Graphite",
-    "comments": "According to (Wyckoff, 1963), hexagonal graphite may be either flat, space group $P6_{3}/mmc$ \\#194 or \\href{current_web_home_dir/A_hP4_194_bc-001}{buckled, space group $P6_{3}mc$ \\#186}. If it is buckled, the buckling parameter is small, less than 1/20 of the ``c'' parameter of the hexagonal unit cell. We assign the $A9$ {\\em Strukturbericht} designation to the unbuckled structure shown here. \n Experimentally, a \\href{current_web_home_dir/A_hR2_166_c-002}{rhombohedral ($R\\overline{3}m$) graphite structure} is also observed."
+  "uid": "W4SC",
+  "label": "A_hP4_194_bc-001",
+  "alias": [
+    "A_hP4_194_bc"
+  ],
+  "title": "Hexagonal Graphite ($A9$) Structure",
+  "icsd": 76767,
+  "ccdc": 1637294,
+  "prototype": "C",
+  "prototype_tex": "C",
+  "number_of_species": 1,
+  "pearson_symbol": "hP4",
+  "space_group_number": 194,
+  "strukturbericht": "A9",
+  "strukturbericht_tex": "$A9$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a"
+  ],
+  "parameter_values": [
+    2.464,
+    2.72362
+  ],
+  "mineral_name": "graphite",
+  "minerals": {
+    "graphite": "C"
+  },
+  "compounds": [
+    "LiB"
+  ],
+  "legacy": false,
+  "notes": "$A9$, Graphite",
+  "comments": "According to (Wyckoff, 1963), hexagonal graphite may be either \\href{current_web_home_dir/A_hP4_194_bc-001}{flat, space group $P6_{3}/mmc$ \\#194} (this structure) or \\href{current_web_home_dir/A_hP4_186_ab-001}{buckled, space group $P6_{3}mc$ \\#186}. We assign the $A9$ {\\em Strukturbericht} designation to the unbuckled structure shown here. \n Experimentally, a \\href{current_web_home_dir/A_hR2_166_c-002}{rhombohedral ($R\\overline{3}m$) graphite structure} is also observed. \n Carbon can also be found in nature as \\href{current_web_home_dir/A_cF8_227_a-001}{cubic diamond ($A4$)}, \\href{current_web_home_dir/A_hP4_194_f-001}{lonsdaleite (hexagonal diamond}}, and \\href{current_web_home_dir/A_cP240_205_10d-001}{buckminsterfullerene (C$_{60}$)}."
 }

@@ -12,8 +12,8 @@
 
 # Last updated on 2024/08/01
 
-data_H8N4O6
-_pd_phase_name H8N4O6
+data_NH4NO3
+_pd_phase_name NH4NO3
 _cell_length_a  5.4380000000
 _cell_length_b  5.7450000000
 _cell_length_c  4.9420000000

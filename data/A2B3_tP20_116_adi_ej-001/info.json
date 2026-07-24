@@ -1,40 +1,42 @@
 {
-    "uid": "RJFD",
-    "label": "A2B3_tP20_116_adi_ej-001",
-    "alias": [
-        "A2B3_tP20_116_bci_fj"
-    ],
-    "title": "Ru$_{2}$Sn$_{3}$ Structure",
-    "icsd": "105994",
-    "ccdc": null,
-    "prototype": "Ru2Sn3",
-    "prototype_tex": "Ru$_{2}$Sn$_{3}$",
-    "number_of_species": 2,
-    "pearson_symbol": "tP20",
-    "space_group_number": 116,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x3",
-        "z4",
-        "x5",
-        "y5",
-        "z5"
-    ],
-    "parameter_values": [
-        6.172,
-        1.60645,
-        0.677,
-        0.375,
-        0.155,
-        0.716,
-        0.082
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "RJFD",
+  "label": "A2B3_tP20_116_adi_ej-001",
+  "alias": [
+    "A2B3_tP20_116_bci_fj"
+  ],
+  "title": "Ru$_{2}$Sn$_{3}$ Structure",
+  "icsd": 105994,
+  "ccdc": 1663856,
+  "prototype": "Ru2Sn3",
+  "prototype_tex": "Ru$_{2}$Sn$_{3}$",
+  "number_of_species": 2,
+  "pearson_symbol": "tP20",
+  "space_group_number": 116,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x3",
+    "z4",
+    "x5",
+    "y5",
+    "z5"
+  ],
+  "parameter_values": [
+    6.172,
+    1.60645,
+    0.677,
+    0.375,
+    0.155,
+    0.716,
+    0.082
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

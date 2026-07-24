@@ -1,0 +1,62 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+
+# Chemical Composition:  NaAlB14
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/AB14C_oI64_74_c_3h2j_e-001 
+
+# Last updated on 2025/07/26
+
+data_NaAlB14
+_pd_phase_name NaAlB14
+_cell_length_a  5.8440000000
+_cell_length_b  10.4650000000
+_cell_length_c  8.2310000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Imma'
+_symmetry_Int_Tables_Number  74
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y+1/2,z
+  3  -x,y+1/2,-z
+  4  x,-y,-z
+  5  -x,-y,-z
+  6  x,y+1/2,-z
+  7  x,-y+1/2,z
+  8  -x,y,z
+  9  x+1/2,y+1/2,z+1/2
+  10  -x+1/2,-y,z+1/2
+  11  -x+1/2,y,-z+1/2
+  12  x+1/2,-y+1/2,-z+1/2
+  13  -x+1/2,-y+1/2,-z+1/2
+  14  x+1/2,y,-z+1/2
+  15  x+1/2,-y,z+1/2
+  16  -x+1/2,y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Al1 0.9400000000 0.2500000000 0.2500000000 0.2500000000  Biso 1.0 Al 4 c
+Na7 0.9500000000 0.0000000000 0.2500000000 0.8482000000  Biso 1.0 Na 4 e
+B2  1.0000000000 0.0000000000 0.9145000000 0.6678000000  Biso 1.0 B  8 h
+B3  1.0000000000 0.0000000000 0.8528000000 0.8747000000  Biso 1.0 B  8 h
+B4  1.0000000000 0.0000000000 0.8339000000 0.4676000000  Biso 1.0 B  8 h
+B5  1.0000000000 0.2495000000 0.4206000000 0.0442000000  Biso 1.0 B 16 j
+B6  1.0000000000 0.3394000000 0.5605000000 0.1630000000  Biso 1.0 B 16 j

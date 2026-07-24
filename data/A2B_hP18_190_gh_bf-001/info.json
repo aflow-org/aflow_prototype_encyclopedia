@@ -1,38 +1,40 @@
 {
-    "uid": "DA98",
-    "label": "A2B_hP18_190_gh_bf-001",
-    "alias": [
-        "A2B_hP18_190_gh_bf"
-    ],
-    "title": "Li$_{2}$Sb Structure",
-    "icsd": "100020",
-    "ccdc": null,
-    "prototype": "Li2Sb",
-    "prototype_tex": "Li$_{2}$Sb",
-    "number_of_species": 2,
-    "pearson_symbol": "hP18",
-    "space_group_number": 190,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z2",
-        "x3",
-        "x4",
-        "y4"
-    ],
-    "parameter_values": [
-        7.946,
-        0.82142,
-        0.0225,
-        0.294,
-        0.612,
-        0.01
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "DA98",
+  "label": "A2B_hP18_190_gh_bf-001",
+  "alias": [
+    "A2B_hP18_190_gh_bf"
+  ],
+  "title": "Li$_{2}$Sb Structure",
+  "icsd": 100020,
+  "ccdc": 1659211,
+  "prototype": "Li2Sb",
+  "prototype_tex": "Li$_{2}$Sb",
+  "number_of_species": 2,
+  "pearson_symbol": "hP18",
+  "space_group_number": 190,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z2",
+    "x3",
+    "x4",
+    "y4"
+  ],
+  "parameter_values": [
+    7.946,
+    0.82142,
+    0.0225,
+    0.294,
+    0.612,
+    0.01
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

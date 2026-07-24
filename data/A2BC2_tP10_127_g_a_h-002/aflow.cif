@@ -12,8 +12,8 @@
 
 # Last updated on 2024/08/01
 
-data_B4Fe2Mo4
-_pd_phase_name B4Fe2Mo4
+data_Mo2FeB2
+_pd_phase_name Mo2FeB2
 _cell_length_a  5.7820000000
 _cell_length_b  5.7820000000
 _cell_length_c  3.1480000000
@@ -53,5 +53,5 @@ loop_
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
 Fe2 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Fe 2 a
-B1 1.0000000000 0.3940000000 0.8940000000 0.0000000000  Biso 1.0 B 4 g
+B1  1.0000000000 0.3940000000 0.8940000000 0.0000000000  Biso 1.0 B  4 g
 Mo3 1.0000000000 0.1830000000 0.6830000000 0.5000000000  Biso 1.0 Mo 4 h

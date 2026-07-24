@@ -1,36 +1,40 @@
 {
-    "uid": "4LGS",
-    "label": "A3B9CD2_hP15_164_ad_ei_b_d-001",
-    "alias": null,
-    "title": "Ba$_{3}$SrTa$_{2}$O$_{9}$ Structure",
-    "icsd": "27496",
-    "ccdc": null,
-    "prototype": "Ba3O9SrTa2",
-    "prototype_tex": "Ba$_{3}$O$_{9}$SrTa$_{2}$",
-    "number_of_species": 4,
-    "pearson_symbol": "hP15",
-    "space_group_number": 164,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z3",
-        "z4",
-        "x6",
-        "z6"
-    ],
-    "parameter_values": [
-        5.95,
-        1.25546,
-        0.66667,
-        0.16667,
-        0.16667,
-        0.33333
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "Despite its hexagonal unit cell, this is closely related to \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite, $E2_{1}$}, as can be seen by looking at the nearly perfect cubes formed by the strontium and tantalum atoms."
+  "uid": "4LGS",
+  "label": "A3B9CD2_hP15_164_ad_ei_b_d-001",
+  "alias": null,
+  "title": "Ba$_{3}$SrTa$_{2}$O$_{9}$ Structure",
+  "icsd": 27496,
+  "ccdc": 1602769,
+  "prototype": "Ba3O9SrTa2",
+  "prototype_tex": "Ba$_{3}$O$_{9}$SrTa$_{2}$",
+  "number_of_species": 4,
+  "pearson_symbol": "hP15",
+  "space_group_number": 164,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z3",
+    "z4",
+    "x6",
+    "z6"
+  ],
+  "parameter_values": [
+    5.95,
+    1.25546,
+    0.66667,
+    0.16667,
+    0.16667,
+    0.33333
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Ba$_{3}$CoNb$_{2}$O$_{9}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "Despite its hexagonal unit cell, this is closely related to \\href{current_web_home_dir/AB3C_cP5_221_a_c_b-001}{cubic perovskite, $E2_{1}$}, as can be seen by looking at the nearly perfect cubes formed by the strontium and tantalum atoms."
 }

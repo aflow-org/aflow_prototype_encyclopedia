@@ -12,8 +12,8 @@
 
 # Last updated on 2024/08/01
 
-data_K4N4O8
-_pd_phase_name K4N4O8
+data_KNO2
+_pd_phase_name KNO2
 _cell_length_a  4.4010000000
 _cell_length_b  9.5967000000
 _cell_length_c  6.9817000000

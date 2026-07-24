@@ -16,18 +16,20 @@
     "strukturbericht_tex": null,
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "x2",
-        "y3",
-        "z3"
+	"a",
+	"x2",
+	"y3",
+	"z3"
     ],
     "parameter_values": [
-        10.355,
-        0.1837,
-        0.3077,
-        0.1172
+	10.355,
+	0.1837,
+	0.3077,
+	0.1172
     ],
-    "compounds": {},
+    "mineral_name": "clathrate",
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "Clathrate",
     "comments": "Silicon clathrates are open structures of pentagonal dodecahedra connected so that all of the silicon atoms have sp3 bonding. In nature these structures are stabilized by alkali impurity atoms. This structure and the \\href{current_web_home_dir/A_cF136_227_aeg-001}{Si$_{34}$ structure} are proposed ``pure'' silicon clathrate structures. \n For more information about these structures and their possible stability, see (Adams, 1994). \n This is a theoretical description of a possible silicon clathrate crystal. (Pauling, 1952) showed that the oxygen atoms in Cl$_{2}$$\\cdot$10H$_{2}$O (ICSD 29340) have similar positions to the chlorine atoms in this structure."

@@ -14,28 +14,34 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x3",
-        "x4",
-        "x5",
-        "x6",
-        "z6",
-        "x7",
-        "z7"
+	"a",
+	"c/a",
+	"x3",
+	"x4",
+	"x5",
+	"x6",
+	"z6",
+	"x7",
+	"z7"
     ],
     "parameter_values": [
-        5.75733,
-        4.96532,
-        0.28678,
-        0.12933,
-        0.41222,
-        0.6147,
-        0.1378,
-        0.7988,
-        0.2823
+	5.75733,
+	4.96532,
+	0.28678,
+	0.12933,
+	0.41222,
+	0.6147,
+	0.1378,
+	0.7988,
+	0.2823
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"Ir$_{4}$NbRu$_{3}$O$_{12}$",
+	"Mn$_{4}$NbRu$_{3}$O$_{12}$",
+	"Rh$_{4}$NbRu$_{3}$O$_{12}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."

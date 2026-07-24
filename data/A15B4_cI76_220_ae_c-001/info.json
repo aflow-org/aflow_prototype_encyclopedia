@@ -1,36 +1,44 @@
 {
-    "uid": "MVX2",
-    "label": "A15B4_cI76_220_ae_c-001",
-    "alias": [
-        "A15B4_cI76_220_ae_c"
-    ],
-    "title": "Cu$_{15}$Si$_{4}$ ($D8_{6}$) Structure",
-    "icsd": "629165",
-    "ccdc": null,
-    "prototype": "Cu15Si4",
-    "prototype_tex": "Cu$_{15}$Si$_{4}$",
-    "number_of_species": 2,
-    "pearson_symbol": "cI76",
-    "space_group_number": 220,
-    "strukturbericht": "D8_6",
-    "strukturbericht_tex": "$D8_{6}$",
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "x2",
-        "x3",
-        "y3",
-        "z3"
-    ],
-    "parameter_values": [
-        9.718,
-        0.458,
-        0.12,
-        0.16,
-        0.96
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$D8_{6}$",
-    "comments": "(Mattern, 2007) take their data from (Mukherjee, 1969), and we use the ICSD information from that reference."
+  "uid": "MVX2",
+  "label": "A15B4_cI76_220_ae_c-001",
+  "alias": [
+    "A15B4_cI76_220_ae_c"
+  ],
+  "title": "Cu$_{15}$Si$_{4}$ ($D8_{6}$) Structure",
+  "icsd": 629165,
+  "ccdc": 1753260,
+  "prototype": "Cu15Si4",
+  "prototype_tex": "Cu$_{15}$Si$_{4}$",
+  "number_of_species": 2,
+  "pearson_symbol": "cI76",
+  "space_group_number": 220,
+  "strukturbericht": "D86",
+  "strukturbericht_tex": "$D8_{6}$",
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "x2",
+    "x3",
+    "y3",
+    "z3"
+  ],
+  "parameter_values": [
+    9.718,
+    0.458,
+    0.12,
+    0.16,
+    0.96
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Cu$_{15}$As$_{4}$",
+    "Li$_{15}$Au$_{4}$",
+    "Li$_{15}$Ge$_{4}$",
+    "Li$_{15}$Si$_{4}$",
+    "Na$_{15}$Pb$_{4}$"
+  ],
+  "legacy": false,
+  "notes": "$D8_{6}$",
+  "comments": "(Mattern, 2007) take their data from (Mukherjee, 1969), and we use the ICSD information from that reference."
 }

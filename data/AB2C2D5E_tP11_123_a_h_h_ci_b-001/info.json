@@ -1,34 +1,36 @@
 {
-    "uid": "K0VP",
-    "label": "AB2C2D5E_tP11_123_a_h_h_ci_b-001",
-    "alias": null,
-    "title": "YBaCuFeO$_{5}$ Structure",
-    "icsd": "79350",
-    "ccdc": null,
-    "prototype": "BaCuFeO5Y",
-    "prototype_tex": "BaCuFeO$_{5}$Y",
-    "number_of_species": 5,
-    "pearson_symbol": "tP11",
-    "space_group_number": 123,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z4",
-        "z5",
-        "z6"
-    ],
-    "parameter_values": [
-        3.875,
-        1.98168,
-        0.2854,
-        0.2525,
-        0.3156
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "The copper and iron (2h) sites are each only 50\\% occupied. \n If we remove the copper atoms and fully occupy the iron sites this structure is very similar to the \\href{current_web_home_dir/AB2C5D_oP18_51_a_2f_2efj_c-001}{$Pmma$ (\\#51)} and \\href{current_web_home_dir/AB2C5D_oP9_47_a_l_gjk_b-001}{$Pmmm$ (\\#47)} structures of YBaFe$_{2}$O$_{5}$, and in our opinion is quite likely the high-temperature phase of that compound."
+  "uid": "K0VP",
+  "label": "AB2C2D5E_tP11_123_a_h_h_ci_b-001",
+  "alias": null,
+  "title": "YBaCuFeO$_{5}$ Structure",
+  "icsd": 79350,
+  "ccdc": 1639600,
+  "prototype": "BaCuFeO5Y",
+  "prototype_tex": "BaCuFeO$_{5}$Y",
+  "number_of_species": 5,
+  "pearson_symbol": "tP11",
+  "space_group_number": 123,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z4",
+    "z5",
+    "z6"
+  ],
+  "parameter_values": [
+    3.875,
+    1.98168,
+    0.2854,
+    0.2525,
+    0.3156
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": "The copper and iron (2h) sites are each only 50\\% occupied. \n If we remove the copper atoms and fully occupy the iron sites this structure is very similar to the \\href{current_web_home_dir/AB2C5D_oP18_51_a_2f_2efj_c-001}{$Pmma$ (\\#51)} and \\href{current_web_home_dir/AB2C5D_oP9_47_a_l_gjk_b-001}{$Pmmm$ (\\#47)} structures of YBaFe$_{2}$O$_{5}$, and in our opinion is quite likely the high-temperature phase of that compound."
 }

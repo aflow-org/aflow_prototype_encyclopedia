@@ -1,0 +1,47 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+
+# Chemical Composition:  beta-KYB2F7
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A7BC2_mP10_3_a3e_b_e-001 
+
+# Last updated on 2026/05/09
+
+data_beta-KYB2F7
+_pd_phase_name beta-KYB2F7
+_cell_length_a  6.5280000000
+_cell_length_b  4.2170000000
+_cell_length_c  10.9897598709
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  148.2271533827
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P2'
+_symmetry_Int_Tables_Number  3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,y,-z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+F1  1.0000000000 0.0000000000 0.8928000000 0.0000000000  Biso 1.0 F  1 a
+K2  1.0000000000 0.0000000000 0.5000000000 0.5000000000  Biso 1.0 K  1 b
+F3  1.0000000000 0.3720000000 0.0000000000 0.8290000000  Biso 1.0 F  2 e
+F4  1.0000000000 0.6220000000 0.0000000000 0.4546000000  Biso 1.0 F  2 e
+F5  1.0000000000 0.0044000000 0.5000000000 0.7932000000  Biso 1.0 F  2 e
+Yb6 1.0000000000 0.0010000000 0.0000000000 0.8088000000  Biso 1.0 Yb 2 e

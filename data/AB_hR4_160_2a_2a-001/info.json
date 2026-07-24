@@ -1,36 +1,40 @@
 {
-    "uid": "M3V5",
-    "label": "AB_hR4_160_2a_2a-001",
-    "alias": null,
-    "title": "$\\gamma$-GaSe Structure",
-    "icsd": "73388",
-    "ccdc": null,
-    "prototype": "GaSe",
-    "prototype_tex": "GaSe",
-    "number_of_species": 2,
-    "pearson_symbol": "hR4",
-    "space_group_number": 160,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x1",
-        "x2",
-        "x3",
-        "x4"
-    ],
-    "parameter_values": [
-        3.73898,
-        6.38193,
-        0.05,
-        0.95,
-        0.43333,
-        0.23333
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$\\gamma$-GaSe",
-    "comments": "GaSe takes on a variety of structures depending on the stacking of the Ga$_{2}$Se$_{2}$ layers: \\begin{itemize} \\item $\\beta$-GaSe is in space group \\href{current_web_home_dir/AB_hP8_194_f_f-003}{$P6_3/mmc$ \\#194}. \\item $\\gamma$-GaSe (this structure) is in space group \\href{current_web_home_dir/AB_hR4_160_2a_2a-001}{$R3m$ \\#160}. \\item $\\delta$-GaSe is in space group \\href{current_web_home_dir/AB_hP16_186_2a2b_2a2b-001}{$P6_{3}mc$ \\#186}. \\item $\\epsilon$-GaSe is in space group \\href{current_web_home_dir/AB_hP8_187_gh_gh-001}{$P\\overline{6}m2$ \\#187}. \\end{itemize} ~ \\vspace{-.25in} \n There is no ICSD entry for (Kuhn, 1975), so we use the earlier work of (Schubert, 1955). \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
+  "uid": "M3V5",
+  "label": "AB_hR4_160_2a_2a-001",
+  "alias": null,
+  "title": "$\\gamma$-GaSe Structure",
+  "icsd": 73388,
+  "ccdc": 1634184,
+  "prototype": "GaSe",
+  "prototype_tex": "GaSe",
+  "number_of_species": 2,
+  "pearson_symbol": "hR4",
+  "space_group_number": 160,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x1",
+    "x2",
+    "x3",
+    "x4"
+  ],
+  "parameter_values": [
+    3.73898,
+    6.38193,
+    0.05,
+    0.95,
+    0.43333,
+    0.23333
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "InSe"
+  ],
+  "legacy": false,
+  "notes": "$\\gamma$-GaSe",
+  "comments": "GaSe takes on a variety of structures depending on the stacking of the Ga$_{2}$Se$_{2}$ layers: \\begin{itemize} \\item $\\beta$-GaSe is in space group \\href{current_web_home_dir/AB_hP8_194_f_f-003}{$P6_3/mmc$ \\#194}. \\item $\\gamma$-GaSe (this structure) is in space group \\href{current_web_home_dir/AB_hR4_160_2a_2a-001}{$R3m$ \\#160}. \\item $\\delta$-GaSe is in space group \\href{current_web_home_dir/AB_hP16_186_2a2b_2a2b-001}{$P6_{3}mc$ \\#186}. \\item $\\epsilon$-GaSe is in space group \\href{current_web_home_dir/AB_hP8_187_gh_gh-001}{$P\\overline{6}m2$ \\#187}. \\end{itemize} ~ \\vspace{-.25in} \n There is no ICSD entry for (Kuhn, 1975), so we use the earlier work of (Schubert, 1955). \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

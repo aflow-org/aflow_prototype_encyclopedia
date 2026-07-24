@@ -1,0 +1,66 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  P4Se3
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A4B3_oP112_62_8c4d_4c4d-001
+
+# Last updated on 2024/08/01
+
+data_P64Se48
+_pd_phase_name P64Se48
+_cell_length_a  11.7970000000
+_cell_length_b  9.7390000000
+_cell_length_c  26.2700000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pnma'
+_symmetry_Int_Tables_Number  62
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z+1/2
+  3  -x,y+1/2,-z
+  4  x+1/2,-y+1/2,-z+1/2
+  5  -x,-y,-z
+  6  x+1/2,y,-z+1/2
+  7  x,-y+1/2,z
+  8  -x+1/2,y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+P1 1.0000000000 0.0860000000 0.2500000000 0.6270000000  Biso 1.0 P 4 c
+P2 1.0000000000 0.0410000000 0.2500000000 0.5000000000  Biso 1.0 P 4 c
+P3 1.0000000000 0.9660000000 0.2500000000 0.2820000000  Biso 1.0 P 4 c
+P4 1.0000000000 0.2380000000 0.2500000000 0.3310000000  Biso 1.0 P 4 c
+P5 1.0000000000 0.9520000000 0.2500000000 0.8250000000  Biso 1.0 P 4 c
+P6 1.0000000000 0.2390000000 0.2500000000 0.8070000000  Biso 1.0 P 4 c
+P7 1.0000000000 0.1920000000 0.2500000000 0.1040000000  Biso 1.0 P 4 c
+P8 1.0000000000 0.9680000000 0.2500000000 0.0150000000  Biso 1.0 P 4 c
+Se13 1.0000000000 0.9430000000 0.2500000000 0.5710000000  Biso 1.0 Se 4 c
+Se14 1.0000000000 0.1480000000 0.2500000000 0.2567000000  Biso 1.0 Se 4 c
+Se15 1.0000000000 0.1070000000 0.2500000000 0.8700000000  Biso 1.0 Se 4 c
+Se16 1.0000000000 0.1630000000 0.2500000000 0.0178000000  Biso 1.0 Se 4 c
+P10 1.0000000000 0.0340000000 0.6340000000 0.6443000000  Biso 1.0 P 8 d
+P11 1.0000000000 0.9900000000 0.1340000000 0.7527000000  Biso 1.0 P 8 d
+P12 1.0000000000 0.9610000000 0.6340000000 0.8663000000  Biso 1.0 P 8 d
+P9 1.0000000000 0.2270000000 0.1340000000 0.5875000000  Biso 1.0 P 8 d
+Se17 1.0000000000 0.1592000000 0.0720000000 0.5139000000  Biso 1.0 Se 8 d
+Se18 1.0000000000 0.8527000000 0.5720000000 0.6298000000  Biso 1.0 Se 8 d
+Se19 1.0000000000 0.1723000000 0.0720000000 0.7612000000  Biso 1.0 Se 8 d
+Se20 1.0000000000 0.0602000000 0.5720000000 0.9355000000  Biso 1.0 Se 8 d

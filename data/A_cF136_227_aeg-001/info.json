@@ -16,18 +16,22 @@
     "strukturbericht_tex": null,
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "x2",
-        "x3",
-        "z3"
+	"a",
+	"x2",
+	"x3",
+	"z3"
     ],
     "parameter_values": [
-        14.864,
-        0.2624,
-        0.1824,
-        0.3701
+	14.864,
+	0.2624,
+	0.1824,
+	0.3701
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "Ge (high pressure)"
+    ],
     "legacy": false,
     "notes": "Clathrate",
     "comments": "Silicon clathrates are open structures of pentagonal dodecahedra connected so that all of the silicon atoms have sp3 bonding. In nature these structures are stabilized by alkali impurity atoms. \n This structure and the \\href{current_web_home_dir/A_cP46_223_cik-001}{Si$_{46}$ structure} are proposed ``pure'' silicon clathrate structures. \n For more information about these structures and their possible stability, see (Adams, 1994). \n See (Gryko, 2000) for a possible experimental realization of this structure (Si$_{34}$Na$_{x}$, were x is very small). \n We have used the fact that all vectors of the form $(0,\\pm a/2,\\pm a/2)$, $(\\pm a/2,0,\\pm a/2)$, and $(\\pm a/2,\\pm a/2,0)$ are primitive vectors of the face-centered cubic lattice to simplify the positions of some atoms in both lattice and Cartesian coordinates. \n (Dong, 1999) study a similar, but not identical structure (ICSD 56271), and (Schwarz, 2008) find a similar high-pressure phase of germanium (ICSD 245948)."

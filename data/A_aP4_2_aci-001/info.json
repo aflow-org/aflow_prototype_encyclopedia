@@ -1,44 +1,46 @@
 {
-    "uid": "G18C",
-    "label": "A_aP4_2_aci-001",
-    "alias": [
-        "A_aP4_2_aci"
-    ],
-    "title": "Cf Structure",
-    "icsd": "52913",
-    "ccdc": null,
-    "prototype": "Cf",
-    "prototype_tex": "Cf",
-    "number_of_species": 1,
-    "pearson_symbol": "aP4",
-    "space_group_number": 2,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "alpha",
-        "beta",
-        "gamma",
-        "x3",
-        "y3",
-        "z3"
-    ],
-    "parameter_values": [
-        3.307,
-        2.24131,
-        0.844572,
-        89.06,
-        85.15,
-        85.7,
-        0.572,
-        0.259,
-        0.433
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "30-40 GPa",
-    "comments": "This is a high-pressure phase, observed between 30 and 40 GPa. \n The pressure at which the X-ray data was taken was not specified by (Roof, 1986)."
+  "uid": "G18C",
+  "label": "A_aP4_2_aci-001",
+  "alias": [
+    "A_aP4_2_aci"
+  ],
+  "title": "High Pressure Californium (Cf) Structure",
+  "icsd": 52913,
+  "ccdc": 1617626,
+  "prototype": "Cf",
+  "prototype_tex": "Cf",
+  "number_of_species": 1,
+  "pearson_symbol": "aP4",
+  "space_group_number": 2,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "alpha",
+    "beta",
+    "gamma",
+    "x3",
+    "y3",
+    "z3"
+  ],
+  "parameter_values": [
+    3.307,
+    2.24131,
+    0.844572,
+    89.06,
+    85.15,
+    85.7,
+    0.572,
+    0.259,
+    0.433
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "30-40 GPa",
+  "comments": "This is a high-pressure phase of californium, observed between 30 and 40 GPa. \n The pressure at which the X-ray data was taken was not specified by (Roof, 1986)."
 }

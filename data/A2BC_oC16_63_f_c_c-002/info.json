@@ -1,40 +1,59 @@
 {
-    "uid": "ECJE",
-    "label": "A2BC_oC16_63_f_c_c-002",
-    "alias": [
-        "A2BC_oC16_63_f_c_c"
-    ],
-    "title": "MgCuAl$_{2}$ ($E1_{a}$) Structure",
-    "icsd": "415062",
-    "ccdc": null,
-    "prototype": "Al2CuMg",
-    "prototype_tex": "Al$_{2}$CuMg",
-    "number_of_species": 3,
-    "pearson_symbol": "oC16",
-    "space_group_number": 63,
-    "strukturbericht": "E1_a",
-    "strukturbericht_tex": "$E1_{a}$",
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "y1",
-        "y2",
-        "y3",
-        "z3"
-    ],
-    "parameter_values": [
-        4.0119,
-        2.30938,
-        1.77572,
-        0.7801,
-        0.0651,
-        0.3558,
-        0.0556
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$E1_{a}$",
-    "comments": "This is often referred to as an ``S-phase precipitate.''  It can be considered as the ternary version of the \\href{current_web_home_dir/AB3_oC16_63_c_cf-001}{Re$_{3}$B structure}."
+  "uid": "ECJE",
+  "label": "A2BC_oC16_63_f_c_c-002",
+  "alias": [
+    "A2BC_oC16_63_f_c_c"
+  ],
+  "title": "MgCuAl$_{2}$ ($E1_{a}$) Structure",
+  "icsd": 415062,
+  "ccdc": 1729249,
+  "prototype": "Al2CuMg",
+  "prototype_tex": "Al$_{2}$CuMg",
+  "number_of_species": 3,
+  "pearson_symbol": "oC16",
+  "space_group_number": 63,
+  "strukturbericht": "E1a",
+  "strukturbericht_tex": "$E1_{a}$",
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "y1",
+    "y2",
+    "y3",
+    "z3"
+  ],
+  "parameter_values": [
+    4.0119,
+    2.30938,
+    1.77572,
+    0.7801,
+    0.0651,
+    0.3558,
+    0.0556
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "CaNiGa$_{2}$",
+    "CeCuPd$_{2}$",
+    "EuIrSn$_{2}$",
+    "EuPdIn$_{2}$",
+    "EuPdSn$_{2}$",
+    "LaPdIn$_{2}$",
+    "NdCuPd$_{2}$",
+    "PPdNi$_{2}$",
+    "PdSrMg$_{2}$",
+    "PrCuPd$_{2}$",
+    "ScNiAl$_{2}$",
+    "SmCuPd$_{2}$",
+    "TaBCo$_{2}$",
+    "YNiAl$_{2}$",
+    "YbAuIn$_{2}$",
+    "YbPdIn$_{2}$"
+  ],
+  "legacy": false,
+  "notes": "$E1_{a}$",
+  "comments": "This is often referred to as an ``S-phase precipitate.''  It can be considered as the ternary version of the \\href{current_web_home_dir/AB3_oC16_63_c_cf-001}{Re$_{3}$B structure}."
 }

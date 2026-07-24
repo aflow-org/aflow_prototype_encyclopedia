@@ -1,48 +1,59 @@
 {
-    "uid": "59YW",
-    "label": "A2B3C6_oP22_58_g_af_gh-001",
-    "alias": [
-        "A2B3C6_oP22_58_g_af_gh"
-    ],
-    "title": "Kotoite (Mg$_{3}$(BO$_{3}$)$_{2}$) Structure",
-    "icsd": "24036",
-    "ccdc": null,
-    "prototype": "B2Mg3O6",
-    "prototype_tex": "B$_{2}$Mg$_{3}$O$_{6}$",
-    "number_of_species": 3,
-    "pearson_symbol": "oP22",
-    "space_group_number": 58,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "z2",
-        "x3",
-        "y3",
-        "x4",
-        "y4",
-        "x5",
-        "y5",
-        "z5"
-    ],
-    "parameter_values": [
-        4.497,
-        1.20036,
-        1.87147,
-        0.179,
-        0.56,
-        0.25,
-        0.258,
-        0.316,
-        0.705,
-        0.218,
-        0.139
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "Kotoite",
-    "comments": null
+  "uid": "59YW",
+  "label": "A2B3C6_oP22_58_g_af_gh-001",
+  "alias": [
+    "A2B3C6_oP22_58_g_af_gh"
+  ],
+  "title": "Kotoite (Mg$_{3}$(BO$_{3}$)$_{2}$) Structure",
+  "icsd": 24036,
+  "ccdc": 1600092,
+  "prototype": "B2Mg3O6",
+  "prototype_tex": "B$_{2}$Mg$_{3}$O$_{6}$",
+  "number_of_species": 3,
+  "pearson_symbol": "oP22",
+  "space_group_number": 58,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "z2",
+    "x3",
+    "y3",
+    "x4",
+    "y4",
+    "x5",
+    "y5",
+    "z5"
+  ],
+  "parameter_values": [
+    4.497,
+    1.20036,
+    1.87147,
+    0.179,
+    0.56,
+    0.25,
+    0.258,
+    0.316,
+    0.705,
+    0.218,
+    0.139
+  ],
+  "mineral_name": "kotoite",
+  "minerals": {
+    "jimboite": "B$_[2}$O$_{6}$Mn$_{3}$"
+  },
+  "compounds": [
+    "Co$_{3}$(BO$_{3}$)$_{2}$",
+    "Ni$_{3}$(BO$_{3}$)$_{2}$",
+    "Mn$_{3}$(BO$_{3}$)$_{2}$ (jimboite)",
+    "CoNi$_{2}$(BO$_{3}$)$_{2}$",
+    "KNa$_{2}$(BO$_{3}$)$_{2}$",
+    "Eu$_{3}$(BO$_{3}$)$_{2}$"
+  ],
+  "legacy": false,
+  "notes": "Kotoite",
+  "comments": null
 }

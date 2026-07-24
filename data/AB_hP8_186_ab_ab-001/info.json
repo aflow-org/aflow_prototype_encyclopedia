@@ -1,38 +1,39 @@
 {
-    "uid": "FSH2",
-    "label": "AB_hP8_186_ab_ab-001",
-    "alias": [
-        "AB_hP8_186_ab_ab"
-    ],
-    "title": "Moissanite-4H SiC ($B5$) Structure",
-    "icsd": "24170",
-    "ccdc": null,
-    "prototype": "CSi",
-    "prototype_tex": "CSi",
-    "number_of_species": 2,
-    "pearson_symbol": "hP8",
-    "space_group_number": 186,
-    "strukturbericht": "B5",
-    "strukturbericht_tex": "$B5$",
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z1",
-        "z2",
-        "z3",
-        "z4"
-    ],
-    "parameter_values": [
-        3.0805,
-        3.27375,
-        0.18784,
-        0.0,
-        0.43671,
-        0.24982
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$B5$, 4H Moissanite",
-    "comments": "This is one possible stacking (ABAC) for tetrahedral structures. Compare this to \\href{current_web_home_dir/AB_cF8_216_a_c-001}{zincblende ($B3$, ABCABC)}, \\href{current_web_home_dir/AB_hP4_186_b_b-001}{wurtzite ($B4$, ABABAB)}, \\href{current_web_home_dir/AB_hP12_186_a2b_a2b-001}{6H (ABCACB)}, and \\href{current_web_home_dir/AB_hR6_160_3a_3a-001}{9R (ABCBCACAB)}. The 4H refers to the fact that there are 4 CSi dimers in a hexagonal unit cell. Zincblende is denoted 3C and wurtzite is 2H. This structure is related to the \\href{current_web_home_dir/A_hP4_194_ac-001}{$\\alpha$-La (A3') structure} in the same way that zincblende ($B3$) is related to the \\href{current_web_home_dir/A_cF4_225_a-001}{fcc ($A1$) lattice}. \n Space group $P6_{3}mc$ \\#186 allows us to take any one of the $z_{i}$ to be zero. In the pictures here we take $z_{2}=0$ for the silicon (2a) site. \n We did not find an ICSD or CCDC entry for (Bauer, 2001).  The ICSD entry here is from (Thibault, 1944)."
+  "uid": "FSH2",
+  "label": "AB_hP8_186_ab_ab-001",
+  "alias": [
+    "AB_hP8_186_ab_ab"
+  ],
+  "title": "Moissanite-4H SiC ($B5$) Structure",
+  "icsd": 24170,
+  "ccdc": 1600218,
+  "prototype": "CSi",
+  "prototype_tex": "CSi",
+  "number_of_species": 2,
+  "pearson_symbol": "hP8",
+  "space_group_number": 186,
+  "strukturbericht": "B5",
+  "strukturbericht_tex": "$B5$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z1",
+    "z2",
+    "z3",
+    "z4"
+  ],
+  "parameter_values": [
+    3.0805,
+    3.27375,
+    0.18784
+  ],
+  "mineral_name": "moissanite",
+  "minerals": {
+    "moissanite": "CSi"
+  },
+  "compounds": null,
+  "legacy": false,
+  "notes": "$B5$, 4H Moissanite",
+  "comments": "This is one possible stacking (ABAC) for tetrahedral structures. Compare this to \\href{current_web_home_dir/AB_cF8_216_a_c-001}{zincblende ($B3$, ABCABC)}, \\href{current_web_home_dir/AB_hP4_186_b_b-001}{wurtzite ($B4$, ABABAB)}, \\href{current_web_home_dir/AB_hP12_186_a2b_a2b-001}{6H (ABCACB)}, and \\href{current_web_home_dir/AB_hR6_160_3a_3a-001}{9R (ABCBCACAB)}. The 4H refers to the fact that there are 4 CSi dimers in a hexagonal unit cell. Zincblende is denoted 3C and wurtzite is 2H. This structure is related to the \\href{current_web_home_dir/A_hP4_194_ac-001}{$\\alpha$-La (A3') structure} in the same way that zincblende ($B3$) is related to the \\href{current_web_home_dir/A_cF4_225_a-001}{fcc ($A1$) lattice}. \n Space group $P6_{3}$ \\#186 is \\href{current_web_home_dir/Tutorials/SpaceGroupDistribution/index.html#Polar}{polar}, so there is no fixed origin for the $z$ axis. In the pictures here we take $z_{2}=0$ for the silicon (2a) site. \n We did not find an ICSD or CCDC entry for (Bauer, 2001).  The ICSD entry here is from (Thibault, 1944)."
 }

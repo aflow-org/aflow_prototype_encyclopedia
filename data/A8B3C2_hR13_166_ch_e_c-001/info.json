@@ -1,36 +1,44 @@
 {
-    "uid": "799E",
-    "label": "A8B3C2_hR13_166_ch_e_c-001",
-    "alias": null,
-    "title": "Na$_{2}$Mn$_{3}$Cl$_{8}$ Structure",
-    "icsd": "1846",
-    "ccdc": null,
-    "prototype": "Cl8Mn3Na2",
-    "prototype_tex": "Cl$_{8}$Mn$_{3}$Na$_{2}$",
-    "number_of_species": 3,
-    "pearson_symbol": "hR13",
-    "space_group_number": 166,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x1",
-        "x2",
-        "x4",
-        "z4"
-    ],
-    "parameter_values": [
-        7.4563,
-        2.62744,
-        0.5928,
-        0.843,
-        0.0961,
-        0.5922
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
+  "uid": "799E",
+  "label": "A8B3C2_hR13_166_ch_e_c-001",
+  "alias": null,
+  "title": "Na$_{2}$Mn$_{3}$Cl$_{8}$ Structure",
+  "icsd": 1846,
+  "ccdc": 1591819,
+  "prototype": "Cl8Mn3Na2",
+  "prototype_tex": "Cl$_{8}$Mn$_{3}$Na$_{2}$",
+  "number_of_species": 3,
+  "pearson_symbol": "hR13",
+  "space_group_number": 166,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x1",
+    "x2",
+    "x4",
+    "z4"
+  ],
+  "parameter_values": [
+    7.4563,
+    2.62744,
+    0.5928,
+    0.843,
+    0.0961,
+    0.5922
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Ca$_{2}$Pt$_{3}$O$_{8}$",
+    "Na$_{2}$Cd$_{3}$Cl$_{8}$",
+    "Na$_{2}$Fe$_{3}$Cl$_{8}$",
+    "Na$_{2}$Mg$_{3}$Cl$_{8}$",
+    "$\\alpha$-Na$_{2}$Ti$_{3}$Cl$_{8}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

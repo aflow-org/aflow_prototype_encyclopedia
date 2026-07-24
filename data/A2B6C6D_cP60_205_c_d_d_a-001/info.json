@@ -1,42 +1,50 @@
 {
-    "uid": "Q0QA",
-    "label": "A2B6C6D_cP60_205_c_d_d_a-001",
-    "alias": [
-        "A2B6C6D_cP60_205_c_d_d_a"
-    ],
-    "title": "Zn(BrO$_{3}$)$_{2}$ $\\cdot$ 6H$_{2}$O ($J1_{10}$) Structure",
-    "icsd": "15981",
-    "ccdc": null,
-    "prototype": "Br2(H2O)6O6Zn",
-    "prototype_tex": "Br$_{2}$(H$_{2}$O)$_{6}$O$_{6}$Zn",
-    "number_of_species": 4,
-    "pearson_symbol": "cP60",
-    "space_group_number": 205,
-    "strukturbericht": "J1_10",
-    "strukturbericht_tex": "$J1_{10}$",
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "x2",
-        "x3",
-        "y3",
-        "z3",
-        "x4",
-        "y4",
-        "z4"
-    ],
-    "parameter_values": [
-        10.316,
-        0.259,
-        0.195,
-        0.05,
-        0.965,
-        0.19,
-        0.145,
-        0.33
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$J1_{10}$",
-    "comments": "The positions of the hydrogen atoms in the water molecules were not determined, so we only provide the positions of the oxygen atom (labeled as H$_{2}$O)."
+  "uid": "Q0QA",
+  "label": "A2B6C6D_cP60_205_c_d_d_a-001",
+  "alias": [
+    "A2B6C6D_cP60_205_c_d_d_a"
+  ],
+  "title": "Zn(BrO$_{3}$)$_{2}$ $\\cdot$ 6H$_{2}$O ($J1_{10}$) Structure",
+  "icsd": 15981,
+  "ccdc": 1596644,
+  "prototype": "Br2(H2O)6O6Zn",
+  "prototype_tex": "Br$_{2}$(H$_{2}$O)$_{6}$O$_{6}$Zn",
+  "number_of_species": 4,
+  "pearson_symbol": "cP60",
+  "space_group_number": 205,
+  "strukturbericht": "J110",
+  "strukturbericht_tex": "$J1_{10}$",
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "x2",
+    "x3",
+    "y3",
+    "z3",
+    "x4",
+    "y4",
+    "z4"
+  ],
+  "parameter_values": [
+    10.316,
+    0.259,
+    0.195,
+    0.05,
+    0.965,
+    0.19,
+    0.145,
+    0.33
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Br$_{2}$(H$_{2}$O)$_{6}$O$_{6}$Co",
+    "Br$_{2}$(H$_{2}$O)$_{6}$O$_{6}$Cu",
+    "Br$_{2}$(H$_{2}$O)$_{6}$O$_{6}$Mg",
+    "Br$_{2}$(H$_{2}$O)$_{6}$O$_{6}$Ni",
+    "Cl$_{2}$(H$_{2}$O)$_{6}$O$_{6}$Ni"
+  ],
+  "legacy": false,
+  "notes": "$J1_{10}$",
+  "comments": "The positions of the hydrogen atoms in the water molecules were not determined, so we only provide the positions of the oxygen atom (labeled as H$_{2}$O in the CIF and H I below). \n The \\href{current_web_home_dir/A2B12CD12_cP108_205_c_2d_a_2d-001}{Br$_{2}$(H$_{2}$O)$_{6}$O$_{6}$Mg} structure includes the hydrogen positions."
 }

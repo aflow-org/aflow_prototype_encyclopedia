@@ -1,0 +1,45 @@
+{
+  "uid": "CVY6",
+  "label": "AB4C_hP12_186_b_bc_b-001",
+  "alias": null,
+  "title": "Hexagonal high-temperature tridymite AlPO$_{4}$",
+  "icsd": 279582,
+  "ccdc": 1720706,
+  "prototype": "AlO4P",
+  "prototype_tex": "AlO$_{4}$P",
+  "number_of_species": 3,
+  "elements": [
+    "Al",
+    "O",
+    "P"
+  ],
+  "pearson_symbol": "hP12",
+  "space_group_number": 186,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 5,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z1",
+    "z2",
+    "z3",
+    "x4",
+    "z4"
+  ],
+  "parameter_values": [
+    5.0976,
+    1.636868,
+    0.0625,
+    0.2616,
+    0.4365,
+    0.5109,
+    0.9954
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "Tridymite 590K",
+  "comments": "The tridymite form of AlPO$_{4}$ is related to the \\href{current_web_home_dir/Tutorials/SiO2_AlPO4}{tridymite forms of SiO$_{2}$}. Like SiO$_{2}$ it undergoes a series of temperature driven phase transitions (Graetsch, 2002): \\begin{itemize} \\item The high temperature form is \\href{current_web_home_dir/AB4C_hP12_186_b_bc_b-001}{hexagonal, space group $P6_3mc$ \\#186} at temperatures above $\\approx$ 590K (this structure) \\item The first intermediate form is \\href{current_web_home_dir/AB4C_mP12_4_a_4a_a-001}{monoclinic, space group $P2_{1}$ \\#4} at temperatures above $\\approx$ 460K \\item The second intermediate form, $P2_{1}(\\alpha\\beta0)$ (ICSD 279583), is incommensurate but averages to a structure similar to the previous one \\item This is followed by an orthorhombic form, space group $P2_{1}2_{1}2_{1}$ \\#19, for which we have no data. \\item Near room temperature we find another \\href{current_web_home_dir/AB4C_mP288_7_24a_96a_24a-001}{monoclinic structure, space group $Pc$ \\#7} \\item The low temperature structure is \\href{current_web_home_dir/AB4C_aP240_1_40a_160a_40a-001}{triclinic, space group $P1$ \\#1}, also measured at room temperature. \\end{itemize} ~ \\vspace{-.25in} \n The astute reader will recognize that we are very vague about these phase transitions, as we have found no definitive phase diagram. \n For more information on realted structures see our \\href{current_web_home_dir/Tutorials/SiO2_AlPO4}{silica and aluminum phosphate page}. \n (Graetsch, 2001) gives two forms for this structure: one with the O II atoms on the (6c) site, and the second with those atoms partially occupying four (12d) sites near that (6c) site.  Since the distance of those atoms is less that 0.5{\\AA} from the ``averaged'' (6c) site we use the first form. \n The ICSD lists \\href{current_web_home_dir/AB4C_hP12_186_b_bc_b-002}{LiBH$_{4}$} as the structure type, but even though both this structure and LiBH$_{4}$ share the same AFLOW prototype label, AB4C\\_hP12\\_186\\_b\\_bc\\_b, the structures are very different and we define them as two independent prototypes."
+}

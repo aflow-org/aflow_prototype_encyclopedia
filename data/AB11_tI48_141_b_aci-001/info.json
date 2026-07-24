@@ -1,36 +1,47 @@
 {
-    "uid": "EV03",
-    "label": "AB11_tI48_141_b_aci-001",
-    "alias": [
-        "AB11_tI48_141_a_bdi"
-    ],
-    "title": "BaCd$_{11}$ Structure",
-    "icsd": "150492",
-    "ccdc": null,
-    "prototype": "BaCd11",
-    "prototype_tex": "BaCd$_{11}$",
-    "number_of_species": 2,
-    "pearson_symbol": "tI48",
-    "space_group_number": 141,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x4",
-        "y4",
-        "z4"
-    ],
-    "parameter_values": [
-        12.02,
-        0.643927,
-        0.623,
-        0.955,
-        0.183
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "(Sanderson, 1953) gave the atomic positions in setting 1 of space group $I4_{1}/amd$ \\#141.  We used FINDSYM to transform this to the standard setting 2. \n The ICSD entry is for SrCd$_{11}$, as BaCd$_{11}$ is not in the ICSD database, despite being the lead structure in (Sanderson, 1953). The lattice constants of the two structures are very similar, and the atomic positions are identical."
+  "uid": "EV03",
+  "label": "AB11_tI48_141_b_aci-001",
+  "alias": [
+    "AB11_tI48_141_a_bdi"
+  ],
+  "title": "BaCd$_{11}$ Structure",
+  "icsd": 150492,
+  "ccdc": 1667659,
+  "prototype": "BaCd11",
+  "prototype_tex": "BaCd$_{11}$",
+  "number_of_species": 2,
+  "pearson_symbol": "tI48",
+  "space_group_number": 141,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x4",
+    "y4",
+    "z4"
+  ],
+  "parameter_values": [
+    12.02,
+    0.643927,
+    0.623,
+    0.955,
+    0.183
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "CaZn$_{11}$",
+    "CeZn$_{11}$",
+    "EuCd$_{11}$",
+    "EuZn$_{11}$",
+    "LaZn$_{11}$",
+    "NdZn$_{11}$",
+    "PrZn$_{11}$",
+    "SrCd$_{11}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "(Sanderson, 1953) gave the atomic positions in setting 1 of space group $I4_{1}/amd$ \\#141.  We used FINDSYM to transform this to the standard setting 2. \n The ICSD entry is for SrCd$_{11}$, as BaCd$_{11}$ is not in the ICSD database, despite being the lead structure in (Sanderson, 1953). The lattice constants of the two structures are very similar, and the atomic positions are identical."
 }

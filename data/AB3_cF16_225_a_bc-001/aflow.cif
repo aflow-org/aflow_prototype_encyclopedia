@@ -6,15 +6,15 @@
 # Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
 # Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
 
-# Chemical Composition:  BiF3 (D0_3)
+# Chemical Composition:  Gananite BiF3 D0_3
 
 # The current version of this file is available at
 # https://aflow.org/prototype-encyclopedia/AB3_cF16_225_a_bc-001
 
-# Last updated on 2024/07/18
+# Last updated on 2025/12/05
 
-data_AB3_cF16_225_a_bc-001
-_pd_phase_name AB3_cF16_225_a_bc-001
+data_BiF3
+_pd_phase_name BiFe
 _cell_length_a  5.8530000000
 _cell_length_b  5.8530000000
 _cell_length_c  5.8530000000

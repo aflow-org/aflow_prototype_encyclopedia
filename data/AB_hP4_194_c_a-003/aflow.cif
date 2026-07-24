@@ -12,8 +12,8 @@
 
 # Last updated on 2024/08/02
 
-data_Fe2N2
-_pd_phase_name Fe2N2
+data_Fe2N
+_pd_phase_name Fe2N
 _cell_length_a  2.7670000000
 _cell_length_b  2.7670000000
 _cell_length_c  4.4140000000
@@ -60,5 +60,5 @@ loop_
  _atom_site_type_symbol
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
-N2 1.0000000000 0.0000033333 0.9999966667 0.0000000000  Biso 1.0 N 2 a
+N2  0.5000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 N  2 a
 Fe1 1.0000000000 0.3333333333 0.6666666667 0.2500000000  Biso 1.0 Fe 2 c

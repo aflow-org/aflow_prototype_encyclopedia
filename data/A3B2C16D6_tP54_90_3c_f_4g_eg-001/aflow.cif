@@ -1,0 +1,57 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+
+# Chemical Composition:  Hg2Cue(Te3O8)2
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A3B2C16D6_tP54_90_3c_f_4g_eg-001 
+
+# Last updated on 2025/05/29
+
+data_Hg2Cue(Te3O8)2
+_pd_phase_name Hg2Cue(Te3O8)2
+_cell_length_a  8.7073000000
+_cell_length_b  8.7073000000
+_cell_length_c  11.2931000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P42_{1}2'
+_symmetry_Int_Tables_Number  90
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  -y+1/2,x+1/2,z
+  4  y+1/2,-x+1/2,z
+  5  -x+1/2,y+1/2,-z
+  6  x+1/2,-y+1/2,-z
+  7  y,x,-z
+  8  -y,-x,-z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Cu1  1.0000000000 0.0000000000 0.5000000000 0.6766000000  Biso 1.0 Cu 2 c
+Cu2  1.0000000000 0.0000000000 0.5000000000 0.3952000000  Biso 1.0 Cu 2 c
+Cu3  1.0000000000 0.0000000000 0.5000000000 0.9466000000  Biso 1.0 Cu 2 c
+Te4  1.0000000000 0.1745600000 0.1745600000 0.0000000000  Biso 1.0 Te 4 e
+Hg5  1.0000000000 0.1039800000 0.1039800000 0.5000000000  Biso 1.0 Hg 4 f
+O6   1.0000000000 0.3002000000 0.0949000000 0.3218000000  Biso 1.0 O  8 g
+O7   1.0000000000 0.1128000000 0.2606000000 0.1687000000  Biso 1.0 O  8 g
+O8   1.0000000000 0.1510000000 0.3399000000 0.3996000000  Biso 1.0 O  8 g
+O9   1.0000000000 0.3759000000 0.1821000000 0.0625000000  Biso 1.0 O  8 g
+Te10 1.0000000000 0.2820100000 0.2972700000 0.2697100000  Biso 1.0 Te 8 g

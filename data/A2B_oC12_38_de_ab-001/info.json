@@ -1,44 +1,49 @@
 {
-    "uid": "PCHF",
-    "label": "A2B_oC12_38_de_ab-001",
-    "alias": [
-        "A2B_oC12_38_de_ab"
-    ],
-    "title": "Au$_{2}$V Structure",
-    "icsd": "58614",
-    "ccdc": null,
-    "prototype": "Au2V",
-    "prototype_tex": "Au$_{2}$V",
-    "number_of_species": 2,
-    "pearson_symbol": "oC12",
-    "space_group_number": 38,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "z1",
-        "z2",
-        "y3",
-        "z3",
-        "y4",
-        "z4"
-    ],
-    "parameter_values": [
-        4.684,
-        1.81085,
-        1.0269,
-        0.94,
-        0.5,
-        0.33,
-        0.94,
-        0.325,
-        0.5
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "The published atomic positions put the system in the $Cmcm$ \\#65 space group, despite the authors' statement that the system is in the $Amm2$ \\#38. We forced this system into $Amm2$ by slightly shifting the $y_{4}$ cordinate. If $y_{3} = y_{4}$ then the space group becomes $Cmcm$. \n Space group $Amm2$ \\#38 allows an arbitrary choice of the origin of the $z$-axis.  Here we follow (Stolz, 1962) and set $z_{2} = 0$ for the Au-II position."
+  "uid": "PCHF",
+  "label": "A2B_oC12_38_de_ab-001",
+  "alias": [
+    "A2B_oC12_38_de_ab"
+  ],
+  "title": "Au$_{2}$V Structure",
+  "icsd": 58614,
+  "ccdc": 1622620,
+  "prototype": "Au2V",
+  "prototype_tex": "Au$_{2}$V",
+  "number_of_species": 2,
+  "pearson_symbol": "oC12",
+  "space_group_number": 38,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "z1",
+    "z2",
+    "y3",
+    "z3",
+    "y4",
+    "z4"
+  ],
+  "parameter_values": [
+    4.684,
+    1.81085,
+    1.0269,
+    0.94,
+    0.5,
+    0.33,
+    0.94,
+    0.325,
+    0.5
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Cu$_{2}$Ti",
+    "Pt$_{2}$Ta"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "The published atomic positions put the system in the $Cmcm$ \\#65 space group, despite the authors' statement that the system is in the $Amm2$ \\#38. We forced this system into $Amm2$ by slightly shifting the $y_{4}$ cordinate. If $y_{3} = y_{4}$ then the space group becomes $Cmcm$. \n Space group $Amm2$ \\#38 allows an arbitrary choice of the origin of the $z$-axis.  Here we follow (Stolz, 1962) and set $z_{2} = 0$ for the Au-II position."
 }

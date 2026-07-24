@@ -5,15 +5,15 @@
 # Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
 # Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
 # Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
-# Chemical Composition:  Fe2N
+# Chemical Composition:  zeta-Fe2N
 
 # The current version of this file is available at
 # https://aflow.org/prototype-encyclopedia/A2B_oP12_60_d_c-001
 
 # Last updated on 2024/08/01
 
-data_Fe8N4
-_pd_phase_name Fe8N4
+data_Fe2N
+_pd_phase_name Fe2N
 _cell_length_a  4.4373000000
 _cell_length_b  5.5413000000
 _cell_length_c  4.8429000000
@@ -44,5 +44,5 @@ loop_
  _atom_site_type_symbol
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
-N2 1.0000000000 -0.0000000000 0.3640000000 0.2500000000  Biso 1.0 N 4 c
+N2  1.0000000000 0.0000000000 0.3640000000 0.2500000000  Biso 1.0 N  4 c
 Fe1 1.0000000000 0.2490000000 0.1280000000 0.0827000000  Biso 1.0 Fe 8 d

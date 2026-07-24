@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/AB_oP4_51_e_f-001
 
 # Last updated on 2024/08/01
-data_Au2Cd2
-_pd_phase_name Au2Cd2
+data_AuCd
+_pd_phase_name AuCd
 _cell_length_a  4.7549000000
 _cell_length_b  3.1476000000
 _cell_length_c  4.8546000000

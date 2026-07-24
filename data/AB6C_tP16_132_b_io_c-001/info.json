@@ -16,20 +16,26 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x3",
-        "x4",
-        "z4"
+	"a",
+	"c/a",
+	"x3",
+	"x4",
+	"z4"
     ],
     "parameter_values": [
-        5.423,
-        1.46598,
-        0.8,
-        0.7,
-        0.333
+	5.423,
+	1.46598,
+	0.8,
+	0.7,
+	0.333
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "RbUF$_{6}$",
+        "TlUF$_{6}$",
+        "(NH$_{4}$)UF$_{6}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": null

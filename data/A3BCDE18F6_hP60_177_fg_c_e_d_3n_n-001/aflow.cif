@@ -1,0 +1,60 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+
+# Chemical Composition:  K0.12[Fe2][Mg0.85Fe0.15]2Al3(Al,Si)3(Si,Al)12O36
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A3BCDE18F6_hP60_177_fg_c_e_d_3n_n-001 
+
+# Last updated on 2026/02/16
+
+data_K0.12[Fe2][Mg0.85Fe0.15]2Al3(Al,Si)3(Si,Al)12O36
+_pd_phase_name K0.12[Fe2][Mg0.85Fe0.15]2Al3(Al,Si)3(Si,Al)12O36
+_cell_length_a  9.8579000000
+_cell_length_b  9.8579000000
+_cell_length_c  9.3102000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  120.0000000000
+_symmetry_space_group_name_H-M  'P622'
+_symmetry_Int_Tables_Number  177
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -y,x-y,z
+  3  -x+y,-x,z
+  4  -x,-y,z
+  5  y,-x+y,z
+  6  x-y,x,z
+  7  y,x,-z
+  8  x-y,-y,-z
+  9  -x,-x+y,-z
+  10  -y,-x,-z
+  11  -x+y,y,-z
+  12  x,x-y,-z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Fe1 1.0000000000 0.3333333333 0.6666666667 0.0000000000  Biso 1.0 Fe  2 c
+Mg2 1.0000000000 0.3333333333 0.6666666667 0.5000000000  Biso 1.0 Mg  2 d
+K3  1.0000000000 0.0000000000 0.0000000000 0.2728000000  Biso 1.0 K   2 e
+Al4 1.0000000000 0.5000000000 0.0000000000 0.0000000000  Biso 1.0 Al  3 f
+Al5 1.0000000000 0.5000000000 0.0000000000 0.5000000000  Biso 1.0 Al  3 g
+O6  1.0000000000 0.6591000000 0.1339000000 0.1023000000  Biso 1.0 O  12 n
+O7  1.0000000000 0.6435000000 0.1312000000 0.3934000000  Biso 1.0 O  12 n
+O8  1.0000000000 0.3109000000 0.0799000000 0.2415000000  Biso 1.0 O  12 n
+Si9 1.0000000000 0.3702000000 0.2658000000 0.2540000000  Biso 1.0 Si 12 n

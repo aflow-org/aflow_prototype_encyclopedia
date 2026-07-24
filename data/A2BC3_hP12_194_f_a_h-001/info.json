@@ -1,32 +1,37 @@
 {
-    "uid": "UW0R",
-    "label": "A2BC3_hP12_194_f_a_h-001",
-    "alias": null,
-    "title": "Ba$_{x}$Pt$_{3}$B$_{2}$ Structure",
-    "icsd": "43994",
-    "ccdc": null,
-    "prototype": "B2BaPt3",
-    "prototype_tex": "B$_{2}$BaPt$_{3}$",
-    "number_of_species": 3,
-    "pearson_symbol": "hP12",
-    "space_group_number": 194,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 5,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z2",
-        "x3"
-    ],
-    "parameter_values": [
-        6.161,
-        0.855056,
-        0.03265,
-        0.512
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "These are all superconducting structures with $T_{c}$ in the range 1.6-5.5 K. \n The (2a) site is approximately 2/3 occupied in all of these materials. \n (Shelton, 1978) did not specify the value of $z_{2}$.  We infer a value of 0.03265 from the minimum B-B distance of 2.29{\\AA} given in the paper. \n \\href{current_web_home_dir/A3BC2_hP12_194_h_a_f-002}{U$_{2}$Cr$_{3}$Si}, AFLOW label A3BC2\\_hP12\\_194\\_h\\_a\\_f-002, and \\href{current_web_home_dir/A2BC3_hP12_194_f_a_h-001}{Ba$_{x}$Pt$_{3}$B$_{2}$}, A2BC3\\_hP12\\_194\\_f\\_a\\_h, occupy the same Wyckoff positions in space group $P6_{3}/mmc$ \\# 194. They differ in the c/a ratio, with U$_{2}$Cr$_{3}$Si having $c/a \\approx 1.6$ and Ba$_{x}$Pt$_{3}$B$_{2}$ $c/a \\approx 0.85$."
+  "uid": "UW0R",
+  "label": "A2BC3_hP12_194_f_a_h-001",
+  "alias": null,
+  "title": "Ba$_{x}$Pt$_{3}$B$_{2}$ Structure",
+  "icsd": 43994,
+  "ccdc": 1613435,
+  "prototype": "B2BaPt3",
+  "prototype_tex": "B$_{2}$BaPt$_{3}$",
+  "number_of_species": 3,
+  "pearson_symbol": "hP12",
+  "space_group_number": 194,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 5,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z2",
+    "x3"
+  ],
+  "parameter_values": [
+    6.161,
+    0.855056,
+    0.03265,
+    0.512
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Ca$_{x}$Pt$_{3}$B$_{2}$",
+    "Sr$_{x}$Pt$_{3}$B$_{2}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "These are all superconducting structures with $T_{c}$ in the range 1.6-5.5 K. \n The (2a) site is approximately 2/3 occupied in all of these materials. \n (Shelton, 1978) did not specify the value of $z_{2}$.  We infer a value of 0.03265 from the minimum B-B distance of 2.29{\\AA} given in the paper. \n \\href{current_web_home_dir/A3BC2_hP12_194_h_a_f-002}{U$_{2}$Cr$_{3}$Si}, AFLOW label A3BC2\\_hP12\\_194\\_h\\_a\\_f-002, and \\href{current_web_home_dir/A2BC3_hP12_194_f_a_h-001}{Ba$_{x}$Pt$_{3}$B$_{2}$}, A2BC3\\_hP12\\_194\\_f\\_a\\_h, occupy the same Wyckoff positions in space group $P6_{3}/mmc$ \\# 194. They differ in the c/a ratio, with U$_{2}$Cr$_{3}$Si having $c/a \\approx 1.6$ and Ba$_{x}$Pt$_{3}$B$_{2}$ $c/a \\approx 0.85$."
 }

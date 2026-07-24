@@ -1,44 +1,46 @@
 {
-    "uid": "12L3",
-    "label": "A3B2_oP20_52_de_cd-001",
-    "alias": [
-        "A3B2_oP20_52_de_cd"
-    ],
-    "title": "Sr$_{2}$Bi$_{3}$ Structure",
-    "icsd": "164987",
-    "ccdc": null,
-    "prototype": "Bi3Sr2",
-    "prototype_tex": "Bi$_{3}$Sr$_{2}$",
-    "number_of_species": 2,
-    "pearson_symbol": "oP20",
-    "space_group_number": 52,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "z1",
-        "x2",
-        "x3",
-        "x4",
-        "y4",
-        "z4"
-    ],
-    "parameter_values": [
-        15.5832,
-        0.434583,
-        0.426068,
-        0.443,
-        0.4294,
-        0.0001,
-        0.6539,
-        0.064,
-        0.0788
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "12L3",
+  "label": "A3B2_oP20_52_de_cd-001",
+  "alias": [
+    "A3B2_oP20_52_de_cd"
+  ],
+  "title": "Sr$_{2}$Bi$_{3}$ Structure",
+  "icsd": 164987,
+  "ccdc": 1681057,
+  "prototype": "Bi3Sr2",
+  "prototype_tex": "Bi$_{3}$Sr$_{2}$",
+  "number_of_species": 2,
+  "pearson_symbol": "oP20",
+  "space_group_number": 52,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "z1",
+    "x2",
+    "x3",
+    "x4",
+    "y4",
+    "z4"
+  ],
+  "parameter_values": [
+    15.5832,
+    0.434583,
+    0.426068,
+    0.443,
+    0.4294,
+    0.0001,
+    0.6539,
+    0.064,
+    0.0788
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

@@ -12,8 +12,8 @@
 
 # Last updated on 2024/08/01
 
-data_C56H64
-_pd_phase_name C56H64
+data_C7H8
+_pd_phase_name C7H8
 _cell_length_a  13.8500000000
 _cell_length_b  11.4200000000
 _cell_length_c  7.3900000000

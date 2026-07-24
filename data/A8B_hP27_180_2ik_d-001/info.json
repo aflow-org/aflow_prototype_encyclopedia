@@ -14,24 +14,26 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x2",
-        "x3",
-        "x4",
-        "y4",
-        "z4"
+	"a",
+	"c/a",
+	"x2",
+	"x3",
+	"x4",
+	"y4",
+	"z4"
     ],
     "parameter_values": [
-        4.9601,
-        3.59811,
-        0.66667,
-        0.83333,
-        0.16667,
-        0.33333,
-        0.33333
+	4.9601,
+	3.59811,
+	0.66667,
+	0.83333,
+	0.16667,
+	0.33333,
+	0.33333
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": null,
     "comments": "This is the ambient pressure structure structure of CsC$_{8}$.  Above 1.2 GPa it transforms into an orthorhombic structure which was not determined by (Rey, 2008).  Further transitions occur at higher temperatures. \n This compound can also be found in the enantiomorphic space group $P6_{4}22$ \\#181. To make this transition, reflect the structure through the $z = 0$ plane. \n We found no entry in the ICSD or the CCDC for this structure."

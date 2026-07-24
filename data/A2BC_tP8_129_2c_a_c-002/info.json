@@ -1,34 +1,43 @@
 {
-    "uid": "K32Y",
-    "label": "A2BC_tP8_129_2c_a_c-002",
-    "alias": null,
-    "title": "UCoC$_{2}$ Structure",
-    "icsd": "63622",
-    "ccdc": null,
-    "prototype": "C2CoU",
-    "prototype_tex": "C$_{2}$CoU",
-    "number_of_species": 3,
-    "pearson_symbol": "tP8",
-    "space_group_number": 129,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z2",
-        "z3",
-        "z4"
-    ],
-    "parameter_values": [
-        3.4969,
-        2.09128,
-        0.6396,
-        0.8416,
-        0.32082
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "(Gem's, 1986) found a small concentration of vacancies on the carbon and cobalt sites: 0.3\\% on Co (2a), 2\\% on C-I (2c), and 3\\% on C-II (2c)."
+  "uid": "K32Y",
+  "label": "A2BC_tP8_129_2c_a_c-002",
+  "alias": null,
+  "title": "UCoC$_{2}$ Structure",
+  "icsd": 63622,
+  "ccdc": 1626706,
+  "prototype": "C2CoU",
+  "prototype_tex": "C$_{2}$CoU",
+  "number_of_species": 3,
+  "pearson_symbol": "tP8",
+  "space_group_number": 129,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z2",
+    "z3",
+    "z4"
+  ],
+  "parameter_values": [
+    3.4969,
+    2.09128,
+    0.6396,
+    0.8416,
+    0.32082
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "PuFeC$_{2}$",
+    "ScCoC$_{2}$",
+    "ScNiC$_{2}$",
+    "ScFeC$_{2}$",
+    "UFeC$_{2}$",
+    "UNiC$_{2}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "(Gem's, 1986) found a small concentration of vacancies on the carbon and cobalt sites: 0.3\\% on Co (2a), 2\\% on C-I (2c), and 3\\% on C-II (2c)."
 }

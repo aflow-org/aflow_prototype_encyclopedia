@@ -1,40 +1,42 @@
 {
-    "uid": "A7M6",
-    "label": "AB_oP8_58_g_g-001",
-    "alias": [
-        "AB_oP8_58_g_g"
-    ],
-    "title": "InS Structure",
-    "icsd": "15931",
-    "ccdc": null,
-    "prototype": "InS",
-    "prototype_tex": "InS",
-    "number_of_species": 2,
-    "pearson_symbol": "oP8",
-    "space_group_number": 58,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "x1",
-        "y1",
-        "x2",
-        "y2"
-    ],
-    "parameter_values": [
-        4.443,
-        2.39523,
-        0.886788,
-        0.125,
-        0.121,
-        0.995,
-        0.355
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "A7M6",
+  "label": "AB_oP8_58_g_g-001",
+  "alias": [
+    "AB_oP8_58_g_g"
+  ],
+  "title": "InS Structure",
+  "icsd": 15931,
+  "ccdc": 1596597,
+  "prototype": "InS",
+  "prototype_tex": "InS",
+  "number_of_species": 2,
+  "pearson_symbol": "oP8",
+  "space_group_number": 58,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "x1",
+    "y1",
+    "x2",
+    "y2"
+  ],
+  "parameter_values": [
+    4.443,
+    2.39523,
+    0.886788,
+    0.125,
+    0.121,
+    0.995,
+    0.355
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

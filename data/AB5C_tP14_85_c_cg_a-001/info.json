@@ -1,40 +1,45 @@
 {
-    "uid": "N6T3",
-    "label": "AB5C_tP14_85_c_cg_a-001",
-    "alias": [
-        "AB5C_tP14_85_c_cg_b"
-    ],
-    "title": "MoPO$_{5}$ Structure",
-    "icsd": "36095",
-    "ccdc": null,
-    "prototype": "MoO5P",
-    "prototype_tex": "MoO$_{5}$P",
-    "number_of_species": 3,
-    "pearson_symbol": "tP14",
-    "space_group_number": 85,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z2",
-        "z3",
-        "x4",
-        "y4",
-        "z4"
-    ],
-    "parameter_values": [
-        6.1768,
-        0.695052,
-        0.6975,
-        0.3102,
-        0.3125,
-        0.9446,
-        0.7994
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "(Kierkegaard, 1964) gave this structure in setting 1 of space group $P4/n$ \\#85.  We used FINDSYM to shift this to the standard setting 2."
+  "uid": "N6T3",
+  "label": "AB5C_tP14_85_c_cg_a-001",
+  "alias": [
+    "AB5C_tP14_85_c_cg_b"
+  ],
+  "title": "MoPO$_{5}$ Structure",
+  "icsd": 36095,
+  "ccdc": 1607892,
+  "prototype": "MoO5P",
+  "prototype_tex": "MoO$_{5}$P",
+  "number_of_species": 3,
+  "pearson_symbol": "tP14",
+  "space_group_number": 85,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z2",
+    "z3",
+    "x4",
+    "y4",
+    "z4"
+  ],
+  "parameter_values": [
+    6.1768,
+    0.695052,
+    0.6975,
+    0.3102,
+    0.3125,
+    0.9446,
+    0.7994
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "MoVO$_{5}$",
+    "NbPO$_{5}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "(Kierkegaard, 1964) gave this structure in setting 1 of space group $P4/n$ \\#85.  We used FINDSYM to shift this to the standard setting 2."
 }

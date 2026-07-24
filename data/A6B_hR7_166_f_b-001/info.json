@@ -16,16 +16,18 @@
     "strukturbericht_tex": null,
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x2"
+	"a",
+	"c/a",
+	"x2"
     ],
     "parameter_values": [
-        4.33304,
-        3.13251,
-        0.66667
+	4.33304,
+	3.13251,
+	0.66667
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": null,
     "comments": "Superconducting structure, $T_{c} = 11.5$K. \n (Emery, 2005) completely described the structure, but and referenced an upcoming paper fully detailing there methods, but we have found no reference to this paper, and ICSD entry, or a CCDC entry. \n Hexagonal settings of rhombohedral structures can be obtained with the option {\\tt --hex}."

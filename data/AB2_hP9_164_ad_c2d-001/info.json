@@ -16,22 +16,24 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z2",
-        "z3",
-        "z4",
-        "z5"
+	"a",
+	"c/a",
+	"z2",
+	"z3",
+	"z4",
+	"z5"
     ],
     "parameter_values": [
-        2.89,
-        7.90657,
-        0.5607,
-        0.654,
-        0.77263,
-        0.89403
+	2.89,
+	7.90657,
+	0.5607,
+	0.654,
+	0.77263,
+	0.89403
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "$\\delta_{H}^{II}$-NW$_{2}$",
     "comments": "Khitrova and Pinkser put this structure in space group $P3$ \\#147, but the Wyckoff positions used are identical with space group $P3m1$ \\#164, so we assign this to the higher symmetry space group."

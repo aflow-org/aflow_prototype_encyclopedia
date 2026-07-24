@@ -1,28 +1,44 @@
 {
-    "uid": "7W8F",
-    "label": "A_cI2_229_a-001",
-    "alias": [
-        "A_cI2_229_a"
-    ],
-    "title": "Body-Centered Cubic (W, $A2$, bcc) Structure",
-    "icsd": "52538",
-    "ccdc": null,
-    "prototype": "W",
-    "prototype_tex": "W",
-    "number_of_species": 1,
-    "pearson_symbol": "cI2",
-    "space_group_number": 229,
-    "strukturbericht": "A2",
-    "strukturbericht_tex": "$A2$",
-    "part": 1,
-    "parameter_symbols": [
-        "a"
-    ],
-    "parameter_values": [
-        3.155
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$A2$, bcc lattice",
-    "comments": "Although more accurate measurements of the lattice constant of tungsten are available, (Davey, 1925) is chosen because of the unique experimental technique. The ICSD entry is from the later work of (Hartmann, 1931)."
+  "uid": "7W8F",
+  "label": "A_cI2_229_a-001",
+  "alias": [
+    "A_cI2_229_a"
+  ],
+  "title": "Body-Centered Cubic (W, $A2$, bcc) Structure",
+  "icsd": 52538,
+  "ccdc": 1617278,
+  "prototype": "W",
+  "prototype_tex": "W",
+  "number_of_species": 1,
+  "pearson_symbol": "cI2",
+  "space_group_number": 229,
+  "strukturbericht": "A2",
+  "strukturbericht_tex": "$A2$",
+  "part": 1,
+  "parameter_symbols": [
+    "a"
+  ],
+  "parameter_values": [
+    3.155
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Li (RT)",
+    "Na",
+    "K",
+    "V",
+    "Cr",
+    "Fe",
+    "Rb",
+    "Nb",
+    "Mo",
+    "Cs",
+    "Ba",
+    "Eu",
+    "Ta"
+  ],
+  "legacy": false,
+  "notes": "$A2$, bcc lattice",
+  "comments": "Although more accurate measurements of the lattice constant of tungsten are available, (Davey, 1925) is chosen because of the unique experimental technique. The ICSD entry is from the later work of (Hartmann, 1931)."
 }

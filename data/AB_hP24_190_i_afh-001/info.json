@@ -1,42 +1,44 @@
 {
-    "uid": "6ZXP",
-    "label": "AB_hP24_190_i_afh-001",
-    "alias": [
-        "AB_hP24_190_i_afh"
-    ],
-    "title": "Troilite (FeS) Structure",
-    "icsd": "633296",
-    "ccdc": null,
-    "prototype": "FeS",
-    "prototype_tex": "FeS",
-    "number_of_species": 2,
-    "pearson_symbol": "hP24",
-    "space_group_number": 190,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z2",
-        "x3",
-        "y3",
-        "x4",
-        "y4",
-        "z4"
-    ],
-    "parameter_values": [
-        5.97,
-        1.96985,
-        0.52,
-        0.6683,
-        0.6653,
-        0.3786,
-        0.3233,
-        0.623
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "Troilite",
-    "comments": null
+  "uid": "6ZXP",
+  "label": "AB_hP24_190_i_afh-001",
+  "alias": [
+    "AB_hP24_190_i_afh"
+  ],
+  "title": "Troilite (FeS) Structure",
+  "icsd": 633296,
+  "ccdc": 2137745,
+  "prototype": "FeS",
+  "prototype_tex": "FeS",
+  "number_of_species": 2,
+  "pearson_symbol": "hP24",
+  "space_group_number": 190,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z2",
+    "x3",
+    "y3",
+    "x4",
+    "y4",
+    "z4"
+  ],
+  "parameter_values": [
+    5.97,
+    1.96985,
+    0.52,
+    0.6683,
+    0.6653,
+    0.3786,
+    0.3233,
+    0.623
+  ],
+  "mineral_name": "troilite",
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "Troilite",
+  "comments": null
 }

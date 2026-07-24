@@ -6,14 +6,14 @@
 # Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
 # Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
 
-# Chemical Composition:  AB2_oP6_58_a_g-001 CaCl2 hydrophilite C35
+# Chemical Composition:  CaCl2 hydrophilite C35
 
 # The current version of this file is available at
 # https://aflow.org/prototype-encyclopedia/AB2_oP6_58_a_g-001
 
-# Last updated on 2024/08/01
-data_Ca2Cl4
-_pd_phase_name Ca2Cl4
+# Last updated on 2025/12/04
+data_CaCl2
+_pd_phase_name CaCl2
 _cell_length_a  6.2400000000
 _cell_length_b  6.4300000000
 _cell_length_c  4.2000000000

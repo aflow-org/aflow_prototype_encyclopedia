@@ -1,34 +1,36 @@
 {
-    "uid": "U1FT",
-    "label": "AB3_tP12_123_ae_cghi-001",
-    "alias": null,
-    "title": "AuMn$_{3}$ Structure",
-    "icsd": "150552",
-    "ccdc": null,
-    "prototype": "AuMn3",
-    "prototype_tex": "AuMn$_{3}$",
-    "number_of_species": 2,
-    "pearson_symbol": "tP12",
-    "space_group_number": 123,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z4",
-        "z5",
-        "z6"
-    ],
-    "parameter_values": [
-        4.706,
-        1.81449,
-        0.333,
-        0.333,
-        0.833
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "U1FT",
+  "label": "AB3_tP12_123_ae_cghi-001",
+  "alias": null,
+  "title": "AuMn$_{3}$ Structure",
+  "icsd": 150552,
+  "ccdc": 1667715,
+  "prototype": "AuMn3",
+  "prototype_tex": "AuMn$_{3}$",
+  "number_of_species": 2,
+  "pearson_symbol": "tP12",
+  "space_group_number": 123,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z4",
+    "z5",
+    "z6"
+  ],
+  "parameter_values": [
+    4.706,
+    1.81449,
+    0.333,
+    0.333,
+    0.833
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

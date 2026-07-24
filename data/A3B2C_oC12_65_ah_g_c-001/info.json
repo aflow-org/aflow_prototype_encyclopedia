@@ -1,34 +1,36 @@
 {
-    "uid": "35VG",
-    "label": "A3B2C_oC12_65_ah_g_c-001",
-    "alias": null,
-    "title": "Ag$_{3}$Te$_{2}$Tl Structure",
-    "icsd": "71081",
-    "ccdc": null,
-    "prototype": "Ag3Te2Tl",
-    "prototype_tex": "Ag$_{3}$Te$_{2}$Tl",
-    "number_of_species": 3,
-    "pearson_symbol": "oC12",
-    "space_group_number": 65,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "x3",
-        "x4"
-    ],
-    "parameter_values": [
-        15.45,
-        0.297735,
-        0.308091,
-        0.373,
-        0.185
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "(Avilov, 1972) put this in space group $Pmna$ \\#51, with two formula units in the full orthorhombic cell.  (Cenzual, 1991) showed that their coordinates actually described a system in space group $Cmmm$ \\#65, with one formula unit in the primitive cell. \n The ICSD entry references (Cenzual, 1991)."
+  "uid": "35VG",
+  "label": "A3B2C_oC12_65_ah_g_c-001",
+  "alias": null,
+  "title": "Ag$_{3}$Te$_{2}$Tl Structure",
+  "icsd": 71081,
+  "ccdc": 1631993,
+  "prototype": "Ag3Te2Tl",
+  "prototype_tex": "Ag$_{3}$Te$_{2}$Tl",
+  "number_of_species": 3,
+  "pearson_symbol": "oC12",
+  "space_group_number": 65,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "x3",
+    "x4"
+  ],
+  "parameter_values": [
+    15.45,
+    0.297735,
+    0.308091,
+    0.373,
+    0.185
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": "(Avilov, 1972) put this in space group $Pmna$ \\#51, with two formula units in the full orthorhombic cell.  (Cenzual, 1991) showed that their coordinates actually described a system in space group $Cmmm$ \\#65, with one formula unit in the primitive cell. \n The ICSD entry references (Cenzual, 1991)."
 }

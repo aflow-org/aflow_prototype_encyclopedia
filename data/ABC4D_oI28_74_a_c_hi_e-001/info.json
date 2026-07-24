@@ -1,42 +1,44 @@
 {
-    "uid": "50N0",
-    "label": "ABC4D_oI28_74_a_c_hi_e-001",
-    "alias": [
-        "ABC4D_oI28_74_a_d_hi_e"
-    ],
-    "title": "LiCuVO$_{4}$ Structure",
-    "icsd": "65677",
-    "ccdc": null,
-    "prototype": "CuLiO4V",
-    "prototype_tex": "CuLiO$_{4}$V",
-    "number_of_species": 4,
-    "pearson_symbol": "oI28",
-    "space_group_number": 74,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "z3",
-        "y4",
-        "z4",
-        "x5",
-        "z5"
-    ],
-    "parameter_values": [
-        5.662,
-        1.02596,
-        1.5468,
-        0.614,
-        0.5164,
-        0.2748,
-        0.7352,
-        0.4993
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "50N0",
+  "label": "ABC4D_oI28_74_a_c_hi_e-001",
+  "alias": [
+    "ABC4D_oI28_74_a_d_hi_e"
+  ],
+  "title": "LiCuVO$_{4}$ Structure",
+  "icsd": 65677,
+  "ccdc": 1627794,
+  "prototype": "CuLiO4V",
+  "prototype_tex": "CuLiO$_{4}$V",
+  "number_of_species": 4,
+  "pearson_symbol": "oI28",
+  "space_group_number": 74,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "z3",
+    "y4",
+    "z4",
+    "x5",
+    "z5"
+  ],
+  "parameter_values": [
+    5.662,
+    1.02596,
+    1.5468,
+    0.614,
+    0.5164,
+    0.2748,
+    0.7352,
+    0.4993
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

@@ -1,36 +1,44 @@
 {
-    "uid": "WZKM",
-    "label": "A5B2_hR7_166_a2c_c-001",
-    "alias": [
-        "A5B2_hR7_166_a2c_c"
-    ],
-    "title": "Mo$_{2}$B$_{5}$ ($D8_{i}$) Structure",
-    "icsd": "24282",
-    "ccdc": null,
-    "prototype": "B5Mo2",
-    "prototype_tex": "B$_{5}$Mo$_{2}$",
-    "number_of_species": 2,
-    "pearson_symbol": "hR7",
-    "space_group_number": 166,
-    "strukturbericht": "D8_i",
-    "strukturbericht_tex": "$D8_{i}$",
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x2",
-        "x3",
-        "x4"
-    ],
-    "parameter_values": [
-        3.011,
-        6.95119,
-        0.314,
-        0.16667,
-        0.425
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$D8_{i}$",
-    "comments": "The B-I and B-III atoms form buckled graphitic sheets, making this the rhombohedral form of \\href{current_web_home_dir/A5B2_hP14_194_abcf_f-001}{$D8_{h}$}. (Frotscher, 2007) suggest that the stable composition in this part of the molybdenum nitride system might be Mo$_{2}$B$_{4}$, which they describe as having a flattened \\href{current_web_home_dir/AB2_hR6_166_c_2c-002}{$C12$ (CaSi$_{2}$) structure}. Here we will describe the $D8_{i}$ structure, with the warning that this might not be the true structure. \n We have shifted the origin of this lattice so that the B-I atoms are at the (1a) Wyckoff positions.  An earlier version of this page, included in (Mehl, 2017), shifted the B-I atom but neglected to shift the remaining atoms. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
+  "uid": "WZKM",
+  "label": "A5B2_hR7_166_a2c_c-001",
+  "alias": [
+    "A5B2_hR7_166_a2c_c"
+  ],
+  "title": "Mo$_{2}$B$_{5}$ ($D8_{i}$) Structure",
+  "icsd": 24282,
+  "ccdc": 1600327,
+  "prototype": "B5Mo2",
+  "prototype_tex": "B$_{5}$Mo$_{2}$",
+  "number_of_species": 2,
+  "pearson_symbol": "hR7",
+  "space_group_number": 166,
+  "strukturbericht": "D8i",
+  "strukturbericht_tex": "$D8_{i}$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x2",
+    "x3",
+    "x4"
+  ],
+  "parameter_values": [
+    3.011,
+    6.95119,
+    0.314,
+    0.16667,
+    0.425
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "InTlLi$_{5}$",
+    "Pb$_{2}$Na$_{5}$",
+    "Sn$_{2}$Li$_{5}$",
+    "Tl$_{2}$Li$_{5}$",
+    "V$_{2}$B$_{5}$"
+  ],
+  "legacy": false,
+  "notes": "$D8_{i}$",
+  "comments": "The B-I and B-III atoms form buckled graphitic sheets, making this the rhombohedral form of \\href{current_web_home_dir/A5B2_hP14_194_abcf_f-001}{$D8_{h}$}. (Frotscher, 2007) suggest that the stable composition in this part of the molybdenum nitride system might be Mo$_{2}$B$_{4}$, which they describe as having a flattened \\href{current_web_home_dir/AB2_hR6_166_c_2c-002}{$C12$ (CaSi$_{2}$) structure}. Here we will describe the $D8_{i}$ structure, with the warning that this might not be the true structure. \n We have shifted the origin of this lattice so that the B-I atoms are at the (1a) Wyckoff positions.  An earlier version of this page, included in (Mehl, 2017), shifted the B-I atom but neglected to shift the remaining atoms. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

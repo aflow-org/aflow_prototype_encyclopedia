@@ -1,34 +1,55 @@
 {
-    "uid": "6CGK",
-    "label": "AB_hP4_186_b_b-001",
-    "alias": [
-        "AB_hP4_186_b_b"
-    ],
-    "title": "Wurtzite (ZnS, $B4$) Structure",
-    "icsd": "67453",
-    "ccdc": null,
-    "prototype": "SZn",
-    "prototype_tex": "SZn",
-    "number_of_species": 2,
-    "pearson_symbol": "hP4",
-    "space_group_number": 186,
-    "strukturbericht": "B4",
-    "strukturbericht_tex": "$B4$",
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z1",
-        "z2"
-    ],
-    "parameter_values": [
-        3.8227,
-        1.63777,
-        0.3748,
-        0.0
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$B4$, Wurtzite",
-    "comments": "This is the hexagonal analog of \\href{current_web_home_dir/AB_cF8_216_a_c-001}{zincblende ($B3$)}, {\\em i.e.} the stacking of the ZnS dimers along the (0001) direction is ABABAB\\dots~ Replacing both the Zn and S atoms by C (or Si) gives the hexagonal diamond structure. The ``ideal'' structure, where the nearest-neighbor environment of each atom is the same as in zincblende, is achieved when we take $c/a=\\sqrt{8/3}$ and $z_{2}=1/8$. In the extreme case $z_{2}=1/2$ this structure becomes the \\href{current_web_home_dir/AB_hP4_194_c_d-001}{BN ($B_{k}$) structure}. \n We have arbitrarily chosen the $z_{2}$ parameter for the zinc atoms to be zero, as allowed by space group $P6_{3}mc$ \\#186."
+  "uid": "6CGK",
+  "label": "AB_hP4_186_b_b-001",
+  "alias": [
+    "AB_hP4_186_b_b"
+  ],
+  "title": "Wurtzite (ZnS, $B4$) Structure",
+  "icsd": 67453,
+  "ccdc": 1629447,
+  "prototype": "SZn",
+  "prototype_tex": "SZn",
+  "number_of_species": 2,
+  "pearson_symbol": "hP4",
+  "space_group_number": 186,
+  "strukturbericht": "B4",
+  "strukturbericht_tex": "$B4$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z1",
+    "z2"
+  ],
+  "parameter_values": [
+    3.8227,
+    1.63777,
+    0.3748
+  ],
+  "mineral_name": "wurtzite",
+  "minerals": {
+    "wurtzite": "SZn"
+  },
+  "compounds": [
+    "$\\beta$-AgI",
+    "AlN",
+    "BN",
+    "BeO",
+    "CdS",
+    "CdSe",
+    "CdSe",
+    "CuH",
+    "$\\beta$-CuI",
+    "GaN",
+    "InN",
+    "MgTe",
+    "$\\gamma$-MnS",
+    "$\\gamma$-MnSe",
+    "SiC",
+    "ZnO",
+    "ZnSe"
+  ],
+  "legacy": false,
+  "notes": "$B4$, Wurtzite",
+  "comments": "This is the hexagonal analog of \\href{current_web_home_dir/AB_cF8_216_a_c-001}{zincblende ($B3$)}, {\\em i.e.} the stacking of the ZnS dimers along the (0001) direction is ABABAB\\dots~ Replacing both the Zn and S atoms by C (or Si) gives the hexagonal diamond structure. The ``ideal'' structure, where the nearest-neighbor environment of each atom is the same as in zincblende, is achieved when we take $c/a=\\sqrt{8/3}$ and $z_{2}=1/8$. In the extreme case $z_{2}=1/2$ this structure becomes the \\href{current_web_home_dir/AB_hP4_194_c_d-001}{BN ($B_{k}$) structure}. \n Space group $P6_{3}$ \\#186 is \\href{current_web_home_dir/Tutorials/SpaceGroupDistribution/index.html#Polar}{polar}, so there is no fixed origin for the $z$ axis. We have arbitrarily chosen the $z_{2}$ parameter for the zinc atoms to be zero."
 }

@@ -1,0 +1,37 @@
+{
+  "uid": "U9R4",
+  "label": "A2BC4_cF112_227_e_c_df-001",
+  "alias": null,
+  "title": "Ti$_{4}$Co$_{2}$O Structure",
+  "icsd": 139679,
+  "ccdc": 2096554,
+  "prototype": "Co2OTi4",
+  "prototype_tex": "Co$_{2}$OTi$_{4}$",
+  "number_of_species": 3,
+  "elements": [
+    "Co",
+    "O",
+    "Ti"
+  ],
+  "pearson_symbol": "cF112",
+  "space_group_number": 227,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 5,
+  "parameter_symbols": [
+    "a",
+    "x3",
+    "x4"
+  ],
+  "parameter_values": [
+    11.2574,
+    0.71132,
+    0.9389
+  ],
+  "mineral_name": null,
+  "minerals": {},
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": "This is an ordered form of the \\href{current_web_home_dir/AB3C3_cF112_227_c_de_f-001}{$\\eta$-carbide ($E9_{3}$)} structure. \n AFLOW shifts the origin from the Ti I site to the O I site."
+}

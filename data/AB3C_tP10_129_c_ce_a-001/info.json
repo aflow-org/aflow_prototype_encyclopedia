@@ -14,18 +14,24 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z2",
-        "z3"
+	"a",
+	"c/a",
+	"z2",
+	"z3"
     ],
     "parameter_values": [
-        5.8094,
-        0.926653,
-        0.7226,
-        0.1409
+	5.8094,
+	0.926653,
+	0.7226,
+	0.1409
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"CaPt$_{3}$P",
+	"LaPt$_{3}$P",
+	"BaAu$_{3}$Ge"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "We have been unable to find an ICSD or CCDC entry for this compound."

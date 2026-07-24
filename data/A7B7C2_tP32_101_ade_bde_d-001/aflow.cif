@@ -1,0 +1,53 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+# Chemical Composition:  MgNiSn
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A7B7C2_tP32_101_ade_bde_d-001
+
+# Last updated on 2024/08/01
+
+data_Mg14Ni14Sn4
+_pd_phase_name Mg14Ni14Sn4
+_cell_length_a  9.8510000000
+_cell_length_b  9.8510000000
+_cell_length_c  6.8680000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'P4_{2}cm'
+_symmetry_Int_Tables_Number  101
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x,-y,z
+  3  -y,x,z+1/2
+  4  y,-x,z+1/2
+  5  x,-y,z+1/2
+  6  -x,y,z+1/2
+  7  -y,-x,z
+  8  y,x,z
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Mg1 1.0000000000 0.0000000000 0.0000000000 0.0730000000  Biso 1.0 Mg 2 a
+Ni4 1.0000000000 0.5000000000 0.5000000000 0.1038000000  Biso 1.0 Ni 2 b
+Mg2 1.0000000000 0.2254000000 0.2254000000 0.7328000000  Biso 1.0 Mg 4 d
+Ni5 1.0000000000 0.3092600000 0.3092600000 0.0644000000  Biso 1.0 Ni 4 d
+Sn7 1.0000000000 0.1713600000 0.1713600000 0.3335500000  Biso 1.0 Sn 4 d
+Mg3 1.0000000000 0.2384000000 0.4756000000 0.3471000000  Biso 1.0 Mg 8 e
+Ni6 1.0000000000 0.0352000000 0.3449000000 0.0449000000  Biso 1.0 Ni 8 e

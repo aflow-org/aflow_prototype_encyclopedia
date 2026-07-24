@@ -5,17 +5,18 @@
 # Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
 # Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
 # Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
-# Chemical Composition:  AlO4P low cristobalite type
+
+# Chemical Composition:  AlPO4 (alpha (low) cristoblite)
 
 # The current version of this file is available at
-# https://aflow.org/prototype-encyclopedia/AB4C_oC24_20_a_2c_b-001
+# https://aflow.org/prototype-encyclopedia/ 10.1107/S0365110X56001996 
 
-# Last updated on 2024/08/01
+# Last updated on 2025/02/20
 
-data_Al4O16P4
-_pd_phase_name Al4O16P4
-_cell_length_a  7.0090000000
-_cell_length_b  7.0090000000
+data_AlPO4
+_pd_phase_name AlPO4
+_cell_length_a  7.0990000000
+_cell_length_b  7.0990000000
 _cell_length_c  7.0060000000
 _cell_angle_alpha  90.0000000000
 _cell_angle_beta  90.0000000000
@@ -44,7 +45,7 @@ loop_
  _atom_site_type_symbol
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
-Al1 1.0000000000 0.1980000000 0.0000000000 -0.0000000000  Biso 1.0 Al 4 a
-P4 1.0000000000 0.0000000000 0.3060000000 0.2500000000  Biso 1.0 P 4 b
-O2 1.0000000000 0.9420000000 0.1790000000 0.4220000000  Biso 1.0 O 8 c
-O3 1.0000000000 0.8300000000 0.4330000000 0.1910000000  Biso 1.0 O 8 c
+Al1 1.0000000000 0.1980000000 0.0000000000 0.0000000000  Biso 1.0 Al 4 a
+P4  1.0000000000 0.0000000000 0.3060000000 0.2500000000  Biso 1.0 P  4 b
+O2  1.0000000000 0.9420000000 0.1790000000 0.4220000000  Biso 1.0 O  8 c
+O3  1.0000000000 0.8300000000 0.4330000000 0.1910000000  Biso 1.0 O  8 c

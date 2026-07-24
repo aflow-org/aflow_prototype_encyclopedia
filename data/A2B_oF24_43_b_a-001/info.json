@@ -1,40 +1,42 @@
 {
-    "uid": "DUC7",
-    "label": "A2B_oF24_43_b_a-001",
-    "alias": [
-        "A2B_oF24_43_b_a"
-    ],
-    "title": "Cs$_{2}$Se Structure",
-    "icsd": "41687",
-    "ccdc": null,
-    "prototype": "Cs2Se",
-    "prototype_tex": "Cs$_{2}$Se",
-    "number_of_species": 2,
-    "pearson_symbol": "oF24",
-    "space_group_number": 43,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "z1",
-        "x2",
-        "y2",
-        "z2"
-    ],
-    "parameter_values": [
-        16.49,
-        0.712553,
-        0.410855,
-        0.75,
-        0.952,
-        0.6751,
-        0.8118
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "DUC7",
+  "label": "A2B_oF24_43_b_a-001",
+  "alias": [
+    "A2B_oF24_43_b_a"
+  ],
+  "title": "Cs$_{2}$Se Structure",
+  "icsd": 41687,
+  "ccdc": 1611448,
+  "prototype": "Cs2Se",
+  "prototype_tex": "Cs$_{2}$Se",
+  "number_of_species": 2,
+  "pearson_symbol": "oF24",
+  "space_group_number": 43,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "z1",
+    "x2",
+    "y2",
+    "z2"
+  ],
+  "parameter_values": [
+    16.49,
+    0.712553,
+    0.410855,
+    0.75,
+    0.952,
+    0.6751,
+    0.8118
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

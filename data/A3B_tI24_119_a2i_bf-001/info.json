@@ -1,40 +1,45 @@
 {
-    "uid": "6TQK",
-    "label": "A3B_tI24_119_a2i_bf-001",
-    "alias": [
-        "A3B_tI24_119_b2i_af"
-    ],
-    "title": "RbGa$_{3}$ Structure",
-    "icsd": "103943",
-    "ccdc": null,
-    "prototype": "Ga3Rb",
-    "prototype_tex": "Ga$_{3}$Rb",
-    "number_of_species": 2,
-    "pearson_symbol": "tI24",
-    "space_group_number": 119,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z3",
-        "x4",
-        "z4",
-        "x5",
-        "z5"
-    ],
-    "parameter_values": [
-        6.315,
-        2.3753,
-        0.872,
-        0.2068,
-        0.7229,
-        0.3067,
-        0.8917
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "6TQK",
+  "label": "A3B_tI24_119_a2i_bf-001",
+  "alias": [
+    "A3B_tI24_119_b2i_af"
+  ],
+  "title": "RbGa$_{3}$ Structure",
+  "icsd": 103943,
+  "ccdc": 1661873,
+  "prototype": "Ga3Rb",
+  "prototype_tex": "Ga$_{3}$Rb",
+  "number_of_species": 2,
+  "pearson_symbol": "tI24",
+  "space_group_number": 119,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z3",
+    "x4",
+    "z4",
+    "x5",
+    "z5"
+  ],
+  "parameter_values": [
+    6.315,
+    2.3753,
+    0.872,
+    0.2068,
+    0.7229,
+    0.3067,
+    0.8917
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "CsGa$_{3}$",
+    "KGa$_{3}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

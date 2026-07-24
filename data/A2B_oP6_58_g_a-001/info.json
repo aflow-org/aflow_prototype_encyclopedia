@@ -1,36 +1,38 @@
 {
-    "uid": "HU31",
-    "label": "A2B_oP6_58_g_a-001",
-    "alias": [
-        "A2B_oP6_58_g_a"
-    ],
-    "title": "$\\alpha$-PdCl$_{2}$ ($C50$) Structure",
-    "icsd": "421213",
-    "ccdc": null,
-    "prototype": "Cl2Pd",
-    "prototype_tex": "Cl$_{2}$Pd",
-    "number_of_species": 2,
-    "pearson_symbol": "oP6",
-    "space_group_number": 58,
-    "strukturbericht": "C50",
-    "strukturbericht_tex": "$C50$",
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "x2",
-        "y2"
-    ],
-    "parameter_values": [
-        3.7572,
-        2.89953,
-        0.890637,
-        0.3326,
-        0.36691
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$C50$",
-    "comments": "PdCl$_{2}$ is known to exist in four different structures at ambient pressure (Evers, 2010): \\begin{itemize} \\item \\href{current_web_home_dir/A2B_oP6_58_g_a-001}{orthorhombic $\\alpha$-PdCl$_{2}$} (this structure), \\item \\href{current_web_home_dir/A2B_hR18_148_2f_f-001}{rhombohedral $\\beta$-PdCl$_{2}$}, \\item \\href{current_web_home_dir/A2B_mP6_14_e_a-001}{monoclinic $\\gamma$-PdCl$_{2}$}, and \\item \\href{current_web_home_dir/A2B_mP6_10_mn_bc-001}{monoclinic $\\delta$-PdCl$_{2}$}. \\end{itemize} ~ \\vspace{-.25in} \n We use the data taken by (Evers, 2010) taken at 100K.  They implicitly place the Pd atoms at the (2b) Wyckoff position. We have shifted the Pd atoms to the (2a) site."
+  "uid": "HU31",
+  "label": "A2B_oP6_58_g_a-001",
+  "alias": [
+    "A2B_oP6_58_g_a"
+  ],
+  "title": "$\\alpha$-PdCl$_{2}$ ($C50$) Structure",
+  "icsd": 421213,
+  "ccdc": 1733313,
+  "prototype": "Cl2Pd",
+  "prototype_tex": "Cl$_{2}$Pd",
+  "number_of_species": 2,
+  "pearson_symbol": "oP6",
+  "space_group_number": 58,
+  "strukturbericht": "C50",
+  "strukturbericht_tex": "$C50$",
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "x2",
+    "y2"
+  ],
+  "parameter_values": [
+    3.7572,
+    2.89953,
+    0.890637,
+    0.3326,
+    0.36691
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "$C50$",
+  "comments": "PdCl$_{2}$ is known to exist in four different structures at ambient pressure (Evers, 2010): \\begin{itemize} \\item \\href{current_web_home_dir/A2B_oP6_58_g_a-001}{orthorhombic $\\alpha$-PdCl$_{2}$} (this structure), \\item \\href{current_web_home_dir/A2B_hR18_148_2f_f-001}{rhombohedral $\\beta$-PdCl$_{2}$}, \\item \\href{current_web_home_dir/A2B_mP6_14_e_a-001}{monoclinic $\\gamma$-PdCl$_{2}$}, and \\item \\href{current_web_home_dir/A2B_mP6_10_mn_bc-001}{monoclinic $\\delta$-PdCl$_{2}$}. \\end{itemize} ~ \\vspace{-.25in} \n We use the data taken by (Evers, 2010) taken at 100K.  They implicitly place the Pd atoms at the (2b) Wyckoff position. We have shifted the Pd atoms to the (2a) site."
 }

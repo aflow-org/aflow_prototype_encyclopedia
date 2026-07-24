@@ -12,8 +12,8 @@
 
 # Last updated on 2024/08/01
 
-data_Au1Mn1
-_pd_phase_name Au1Mn1
+data_AuMn
+_pd_phase_name AuMn
 _cell_length_a  3.1400000000
 _cell_length_b  3.1700000000
 _cell_length_c  3.2800000000

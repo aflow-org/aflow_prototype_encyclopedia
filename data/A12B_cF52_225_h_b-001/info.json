@@ -1,30 +1,42 @@
 {
-    "uid": "JTKK",
-    "label": "A12B_cF52_225_h_b-001",
-    "alias": [
-        "A12B_cF52_225_i_a"
-    ],
-    "title": "UB$_{12}$ ($D2_{f}$) Structure",
-    "icsd": "24705",
-    "ccdc": null,
-    "prototype": "B12U",
-    "prototype_tex": "B$_{12}$U",
-    "number_of_species": 2,
-    "pearson_symbol": "cF52",
-    "space_group_number": 225,
-    "strukturbericht": "D2_f",
-    "strukturbericht_tex": "$D2_{f}$",
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "y2"
-    ],
-    "parameter_values": [
-        7.468,
-        0.166
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$D2_{f}$",
-    "comments": null
+  "uid": "JTKK",
+  "label": "A12B_cF52_225_h_b-001",
+  "alias": [
+    "A12B_cF52_225_i_a"
+  ],
+  "title": "UB$_{12}$ ($D2_{f}$) Structure",
+  "icsd": 24705,
+  "ccdc": 1600718,
+  "prototype": "B12U",
+  "prototype_tex": "B$_{12}$U",
+  "number_of_species": 2,
+  "pearson_symbol": "cF52",
+  "space_group_number": 225,
+  "strukturbericht": "D2f",
+  "strukturbericht_tex": "$D2_{f}$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "y2"
+  ],
+  "parameter_values": [
+    7.468,
+    0.166
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "DyB$_{12}$",
+    "ErB$_{12}$",
+    "LuB$_{12}$",
+    "ThB$_{12}$",
+    "TmB$_{12}$",
+    "YB$_{12}$",
+    "YbB$_{12}$",
+    "ZrB$_{12}$",
+    "(Th$_{0.93}$Zr$_{0.07}$)B$_{12}$"
+  ],
+  "legacy": false,
+  "notes": "$D2_{f}$",
+  "comments": null
 }

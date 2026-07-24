@@ -1,32 +1,38 @@
 {
-    "uid": "72PY",
-    "label": "A3B_hP8_194_af_c-001",
-    "alias": [
-        "A3B_hP8_194_af_c"
-    ],
-    "title": "ReB$_{3}$ Structure",
-    "icsd": "24361",
-    "ccdc": null,
-    "prototype": "B3Re",
-    "prototype_tex": "B$_{3}$Re",
-    "number_of_species": 2,
-    "pearson_symbol": "hP8",
-    "space_group_number": 194,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z3"
-    ],
-    "parameter_values": [
-        2.9,
-        2.57759,
-        0.55
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "The lattice constants $a$ and $c$ were inferred from the nearest-neighbor distances in (Aronsson, 1960). \n (Frotscher, 2010) states that this structure was ``falsely assigned,'' and that the true structure is \\href{current_web_home_dir/A2B_hP6_194_f_c-003}{ReB$_{2}$}, which is identical to this structure with the (2a) boron atoms removed."
+  "uid": "72PY",
+  "label": "A3B_hP8_194_af_c-001",
+  "alias": [
+    "A3B_hP8_194_af_c"
+  ],
+  "title": "ReB$_{3}$ Structure",
+  "icsd": 24361,
+  "ccdc": 1600401,
+  "prototype": "B3Re",
+  "prototype_tex": "B$_{3}$Re",
+  "number_of_species": 2,
+  "pearson_symbol": "hP8",
+  "space_group_number": 194,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z3"
+  ],
+  "parameter_values": [
+    2.9,
+    2.57759,
+    0.55
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "TcB${3}$",
+    "CaNi$_{2}$Si",
+    "GdPt$_{2}$Sn"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "The lattice constants $a$ and $c$ were inferred from the nearest-neighbor distances in (Aronsson, 1960). \n (Frotscher, 2010) states that this structure was ``falsely assigned,'' and that the true structure is \\href{current_web_home_dir/A2B_hP6_194_f_c-003}{ReB$_{2}$}, which is identical to this structure with the (2a) boron atoms removed."
 }

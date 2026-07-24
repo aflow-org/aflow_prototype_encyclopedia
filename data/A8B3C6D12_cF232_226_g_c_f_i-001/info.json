@@ -1,0 +1,36 @@
+{
+  "uid": "XPHE",
+  "label": "A8B3C6D12_cF232_226_g_c_f_i-001",
+  "alias": null,
+  "title": "K$_{4}$Cu$_{8}$Ge$_{3}$S$_{12}$ Structure",
+  "icsd": 267273,
+  "ccdc": 1844867,
+  "prototype": "Cu8Ge3K4S12",
+  "prototype_tex": "Cu$_{8}$Ge$_{3}$K$_{4}$S$_{12}$",
+  "number_of_species": 4,
+  "pearson_symbol": "cF232",
+  "space_group_number": 226,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 5,
+  "parameter_symbols": [
+    "a",
+    "x2",
+    "x3",
+    "y4",
+    "z4"
+  ],
+  "parameter_values": [
+    17.278,
+    0.4225,
+    0.58675,
+    0.67826,
+    0.1031
+  ],
+  "mineral_name": null,
+  "minerals": {},
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": "Only 2/3 of the K II (48f) sites are occupied. \n (Zhang, 2018) does not give the structure for K$_{4}$Cu$_{8}$Ge$_{3}$S$_{12}$.  This is taken from their published data filed with the CCDC and the CIF.  This structure can have various inclusions, which can be found in CCDC entries 1844864-1844871."
+}

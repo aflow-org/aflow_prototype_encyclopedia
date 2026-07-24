@@ -1,36 +1,47 @@
 {
-    "uid": "0A77",
-    "label": "AB3_tP8_113_a_ce-001",
-    "alias": [
-        "AB3_tP8_113_a_ce"
-    ],
-    "title": "BaS$_{3}$ ($D0_{17}$) Structure",
-    "icsd": "70059",
-    "ccdc": null,
-    "prototype": "BaS3",
-    "prototype_tex": "BaS$_{3}$",
-    "number_of_species": 2,
-    "pearson_symbol": "tP8",
-    "space_group_number": 113,
-    "strukturbericht": "D0_17",
-    "strukturbericht_tex": "$D0_{17}$",
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z2",
-        "x3",
-        "z3"
-    ],
-    "parameter_values": [
-        6.871,
-        0.606622,
-        0.206,
-        0.1797,
-        0.476
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$D0_{17}$",
-    "comments": "(Gottfried, 1938) originally gave the $D0_{17}$ label to the \\href{current_web_home_dir/AB3_oP16_18_ab_3c-001}{$P2_12_12$ \\#94 BaS$_{3}$ structure}, however we follow (Parthe\\'{e}, 1993), who uses the current structure as the $D0_{17}$ prototype."
+  "uid": "0A77",
+  "label": "AB3_tP8_113_a_ce-001",
+  "alias": [
+    "AB3_tP8_113_a_ce"
+  ],
+  "title": "BaS$_{3}$ ($D0_{17}$) Structure",
+  "icsd": 70059,
+  "ccdc": 1631883,
+  "prototype": "BaS3",
+  "prototype_tex": "BaS$_{3}$",
+  "number_of_species": 2,
+  "pearson_symbol": "tP8",
+  "space_group_number": 113,
+  "strukturbericht": "D017",
+  "strukturbericht_tex": "$D0_{17}$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z2",
+    "x3",
+    "z3"
+  ],
+  "parameter_values": [
+    6.871,
+    0.606622,
+    0.206,
+    0.1797,
+    0.476
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "AgDyTe$_{2}$",
+    "AgHgTe$_{2}$",
+    "AgErTe$_{2}$",
+    "AgTe$_{2}$Tm",
+    "AgGdTe$_{2}$",
+    "AgTe$_{2}$Y",
+    "BaSe$_{3}$",
+    "BaTe$_{3}$"
+  ],
+  "legacy": false,
+  "notes": "$D0_{17}$",
+  "comments": "(Gottfried, 1938) originally gave the $D0_{17}$ label to the \\href{current_web_home_dir/AB3_oP16_18_ab_3c-001}{$P2_12_12$ \\#94 BaS$_{3}$ structure}, however we follow (Parthe\\'{e}, 1993), who uses the current structure as the $D0_{17}$ prototype."
 }

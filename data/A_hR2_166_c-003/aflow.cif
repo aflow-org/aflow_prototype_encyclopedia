@@ -6,7 +6,7 @@
 # Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
 # Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
 
-# Chemical Composition:  O
+# Chemical Composition:  beta O
 
 # The current version of this file is available at
 # https://aflow.org/prototype-encyclopedia/A_hR2_166_c-003

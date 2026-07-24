@@ -1,32 +1,34 @@
 {
-    "uid": "528Z",
-    "label": "A5B_tI24_140_cl_a-001",
-    "alias": null,
-    "title": "PdGa$_{5}$ Structure",
-    "icsd": "103908",
-    "ccdc": null,
-    "prototype": "Ga5Pd",
-    "prototype_tex": "Ga$_{5}$Pd",
-    "number_of_species": 2,
-    "pearson_symbol": "tI24",
-    "space_group_number": 140,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x3",
-        "z3"
-    ],
-    "parameter_values": [
-        6.436,
-        1.55221,
-        0.6467,
-        0.6395
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "There is no ICSD entry for (Grin, 1997).  It is a refinement of the work of (Schubert, 1959), and we list that ICSD entry."
+  "uid": "528Z",
+  "label": "A5B_tI24_140_cl_a-001",
+  "alias": null,
+  "title": "PdGa$_{5}$ Structure",
+  "icsd": 103908,
+  "ccdc": 1661839,
+  "prototype": "Ga5Pd",
+  "prototype_tex": "Ga$_{5}$Pd",
+  "number_of_species": 2,
+  "pearson_symbol": "tI24",
+  "space_group_number": 140,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x3",
+    "z3"
+  ],
+  "parameter_values": [
+    6.436,
+    1.55221,
+    0.6467,
+    0.6395
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": "There is no ICSD entry for (Grin, 1997).  It is a refinement of the work of (Schubert, 1959), and we list that ICSD entry."
 }

@@ -16,18 +16,24 @@
     "strukturbericht_tex": null,
     "part": 3,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "z2",
-        "z3"
+	"a",
+	"c/a",
+	"z2",
+	"z3"
     ],
     "parameter_values": [
-        4.0829,
-        4.30944,
-        0.82845,
-        0.10706
+	4.0829,
+	4.30944,
+	0.82845,
+	0.10706
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "CaIn$_{2}$As$_{2}$",
+        "EuIn$_{2}$As$_{2}$",
+        "SrIn$_{2}$As$_{2}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": null

@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/AB_cP8_198_a_a-001
 
 # Last updated on 2024/08/01
-data_C4O4
-_pd_phase_name C4O4
+data_CO
+_pd_phase_name CO
 _cell_length_a  5.6300000000
 _cell_length_b  5.6300000000
 _cell_length_c  5.6300000000

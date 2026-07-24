@@ -1,36 +1,40 @@
 {
-    "uid": "5VT7",
-    "label": "A4B_tI20_88_f_a-001",
-    "alias": [
-        "A4B_tI20_88_f_a"
-    ],
-    "title": "$\\alpha$-ThCl$_{4}$ Structure",
-    "icsd": "6055",
-    "ccdc": null,
-    "prototype": "Cl4Th",
-    "prototype_tex": "Cl$_{4}$Th",
-    "number_of_species": 2,
-    "pearson_symbol": "tI20",
-    "space_group_number": 88,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x2",
-        "y2",
-        "z2"
-    ],
-    "parameter_values": [
-        6.408,
-        2.01685,
-        0.147,
-        0.017,
-        0.298
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$\\alpha$-ThCl$_{4}$",
-    "comments": "$\\alpha$-ThCl$_{4}$ is stable below 405$^{\\circ}$C.  Above that temperature it transforms into \\href{current_web_home_dir/A4B_tI20_141_h_a-001}{$\\beta$-ThCl$_{4}$}. (Mason, 1974)"
+  "uid": "5VT7",
+  "label": "A4B_tI20_88_f_a-001",
+  "alias": [
+    "A4B_tI20_88_f_a"
+  ],
+  "title": "$\\alpha$-ThCl$_{4}$ Structure",
+  "icsd": 6055,
+  "ccdc": 1593571,
+  "prototype": "Cl4Th",
+  "prototype_tex": "Cl$_{4}$Th",
+  "number_of_species": 2,
+  "pearson_symbol": "tI20",
+  "space_group_number": 88,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x2",
+    "y2",
+    "z2"
+  ],
+  "parameter_values": [
+    6.408,
+    2.01685,
+    0.147,
+    0.017,
+    0.298
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "ThBr$_{4}$"
+  ],
+  "legacy": false,
+  "notes": "$\\alpha$-ThCl$_{4}$",
+  "comments": "$\\alpha$-ThCl$_{4}$ is stable below 405$^{\\circ}$C.  Above that temperature it transforms into \\href{current_web_home_dir/A4B_tI20_141_h_a-001}{$\\beta$-ThCl$_{4}$}. (Mason, 1974)"
 }

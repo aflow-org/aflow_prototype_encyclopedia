@@ -1,36 +1,41 @@
 {
-    "uid": "CVKE",
-    "label": "A2B3_hR10_148_abc_f-001",
-    "alias": null,
-    "title": "Rhombohedral Cr$_{2}$S$_{3}$ Structure",
-    "icsd": "16721",
-    "ccdc": null,
-    "prototype": "Cr2S3",
-    "prototype_tex": "Cr$_{2}$S$_{3}$",
-    "number_of_species": 2,
-    "pearson_symbol": "hR10",
-    "space_group_number": 148,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x3",
-        "x4",
-        "y4",
-        "z4"
-    ],
-    "parameter_values": [
-        5.93701,
-        2.81253,
-        0.33333,
-        0.58333,
-        0.91667,
-        0.25
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "Rhombohedral",
-    "comments": "(Jellinek, 1957) lists two structures for Cr$_{2}$S$_{3}$:  this rhombohedral structure, and a trigonal structure.  (Venkatraman, 1990) list this second structure as Cr$_{2}$S$_{3}$Cr.  It is likely that this structure is Jellinek's \\href{current_web_home_dir/A5B6_hP22_163_abcf_i-001}{Cr$_{5}$S$_{6}$ structure}.  Jellinek notes that the two structures are identical except for the atoms on the (2a) Wyckoff site.  Presumably the Venkatraman structure is the Cr$_{5}$S$_{6}$ structure with the (2a) site partly filled. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
+  "uid": "CVKE",
+  "label": "A2B3_hR10_148_abc_f-001",
+  "alias": null,
+  "title": "Rhombohedral Cr$_{2}$S$_{3}$ Structure",
+  "icsd": 16721,
+  "ccdc": 1597272,
+  "prototype": "Cr2S3",
+  "prototype_tex": "Cr$_{2}$S$_{3}$",
+  "number_of_species": 2,
+  "pearson_symbol": "hR10",
+  "space_group_number": 148,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x3",
+    "x4",
+    "y4",
+    "z4"
+  ],
+  "parameter_values": [
+    5.93701,
+    2.81253,
+    0.33333,
+    0.58333,
+    0.91667,
+    0.25
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Cr$_{2}$Se$_{3}$",
+    "Cr$_{2}$Te$_{3}$"
+  ],
+  "legacy": false,
+  "notes": "Rhombohedral",
+  "comments": "(Jellinek, 1957) lists two structures for Cr$_{2}$S$_{3}$:  this rhombohedral structure, and a trigonal structure.  (Venkatraman, 1990) list this second structure as Cr$_{2}$S$_{3}$Cr.  It is likely that this structure is Jellinek's \\href{current_web_home_dir/A5B6_hP22_163_abcf_i-001}{Cr$_{5}$S$_{6}$ structure}.  Jellinek notes that the two structures are identical except for the atoms on the (2a) Wyckoff site.  Presumably the Venkatraman structure is the Cr$_{5}$S$_{6}$ structure with the (2a) site partly filled. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

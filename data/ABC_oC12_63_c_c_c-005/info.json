@@ -1,36 +1,42 @@
 {
-    "uid": "XSM0",
-    "label": "ABC_oC12_63_c_c_c-005",
-    "alias": null,
-    "title": "MoAlB Structure",
-    "icsd": "251808",
-    "ccdc": null,
-    "prototype": "AlBMo",
-    "prototype_tex": "AlBMo",
-    "number_of_species": 3,
-    "pearson_symbol": "oC12",
-    "space_group_number": 63,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "y1",
-        "y2",
-        "y3"
-    ],
-    "parameter_values": [
-        3.1987,
-        4.35233,
-        0.967174,
-        0.19849,
-        0.0338,
-        0.41052
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "(Ade, 2015) give atomic positions for WAlB that do not reproduce their interatomic distances and make the W-B distance far too small.  We find that the parameters $(y_{Al},y_{B},y_{W}) = (0.19950,0.03547,0.41002)$ reproduce the reported distances. \n The ICSD entry gives the structure type as \\href{current_web_home_dir/ABC_oC12_63_c_c_c-004}{UBC}, but XtalFinder (Hicks, 2021) finds that the structures are essentially unmatchable."
+  "uid": "XSM0",
+  "label": "ABC_oC12_63_c_c_c-005",
+  "alias": null,
+  "title": "MoAlB Structure",
+  "icsd": 251808,
+  "ccdc": 1786967,
+  "prototype": "AlBMo",
+  "prototype_tex": "AlBMo",
+  "number_of_species": 3,
+  "pearson_symbol": "oC12",
+  "space_group_number": 63,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "y1",
+    "y2",
+    "y3"
+  ],
+  "parameter_values": [
+    3.1987,
+    4.35233,
+    0.967174,
+    0.19849,
+    0.0338,
+    0.41052
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "NbNiB",
+    "MgNiTb",
+    "WAlB"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "(Ade, 2015) give atomic positions for WAlB that do not reproduce their interatomic distances and make the W-B distance far too small.  We find that the parameters $(y_{Al},y_{B},y_{W}) = (0.19950,0.03547,0.41002)$ reproduce the reported distances. \n The ICSD entry gives the structure type as \\href{current_web_home_dir/ABC_oC12_63_c_c_c-004}{UBC}, but XtalFinder (Hicks, 2021) finds that the structures are essentially unmatchable."
 }

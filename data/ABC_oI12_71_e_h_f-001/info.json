@@ -1,38 +1,40 @@
 {
-    "uid": "B529",
-    "label": "ABC_oI12_71_e_h_f-001",
-    "alias": [
-        "ABC_oI12_71_h_j_g"
-    ],
-    "title": "NbPS Structure",
-    "icsd": "16075",
-    "ccdc": null,
-    "prototype": "NbPS",
-    "prototype_tex": "NbPS",
-    "number_of_species": 3,
-    "pearson_symbol": "oI12",
-    "space_group_number": 71,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "x1",
-        "x2",
-        "y3"
-    ],
-    "parameter_values": [
-        11.88,
-        0.397727,
-        0.289394,
-        0.8768,
-        0.788,
-        0.735
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "The ICSD lists this as a tenary form of \\href{current_web_home_dir/A2B_oI12_71_eh_f-001}{UTe$_{2}$}, but the structures are actually rather far apart."
+  "uid": "B529",
+  "label": "ABC_oI12_71_e_h_f-001",
+  "alias": [
+    "ABC_oI12_71_h_j_g"
+  ],
+  "title": "NbPS Structure",
+  "icsd": 16075,
+  "ccdc": 1596724,
+  "prototype": "NbPS",
+  "prototype_tex": "NbPS",
+  "number_of_species": 3,
+  "pearson_symbol": "oI12",
+  "space_group_number": 71,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "x1",
+    "x2",
+    "y3"
+  ],
+  "parameter_values": [
+    11.88,
+    0.397727,
+    0.289394,
+    0.8768,
+    0.788,
+    0.735
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": "The ICSD lists this as a tenary form of \\href{current_web_home_dir/A2B_oI12_71_eh_f-001}{UTe$_{2}$}, but the structures are actually rather far apart."
 }

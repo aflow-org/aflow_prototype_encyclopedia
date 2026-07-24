@@ -10,10 +10,10 @@
 # The current version of this file is available at
 # https://aflow.org/prototype-encyclopedia/AB5C3_hP9_191_b_ah_f-001
 
-# Last updated on 2024/08/02
+# Last updated on 2025/08/15
 
-data_K1Sb5V3
-_pd_phase_name K1Sb5V3
+data_KSb5V3
+_pd_phase_name KSb5V3
 _cell_length_a  5.4722000000
 _cell_length_b  5.4722000000
 _cell_length_c  8.9435000000
@@ -61,6 +61,6 @@ loop_
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
 Sb2 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Sb 1 a
-K1 1.0000000000 0.0000000000 0.0000000000 0.5000000000  Biso 1.0 K 1 b
-V4 1.0000000000 0.5000000000 0.0000000000 0.0000000000  Biso 1.0 V 3 f
-Sb3 1.0000000000 0.3333300000 0.6666700000 0.7467700000  Biso 1.0 Sb 4 h
+K1  0.8500000000 0.0000000000 0.0000000000 0.5000000000  Biso 1.0 K  1 b
+V4  1.0000000000 0.5000000000 0.0000000000 0.0000000000  Biso 1.0 V  3 f
+Sb3 1.0000000000 0.3333333333 0.6666666667 0.7467700000  Biso 1.0 Sb 4 h

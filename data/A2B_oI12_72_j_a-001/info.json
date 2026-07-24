@@ -1,36 +1,40 @@
 {
-    "uid": "PYBC",
-    "label": "A2B_oI12_72_j_a-001",
-    "alias": [
-        "A2B_oI12_72_j_a"
-    ],
-    "title": "SiS$_{2}$ ($C42$) Structure",
-    "icsd": "27205",
-    "ccdc": null,
-    "prototype": "S2Si",
-    "prototype_tex": "S$_{2}$Si",
-    "number_of_species": 2,
-    "pearson_symbol": "oI12",
-    "space_group_number": 72,
-    "strukturbericht": "C42",
-    "strukturbericht_tex": "$C42$",
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "x2",
-        "y2"
-    ],
-    "parameter_values": [
-        9.583,
-        0.585829,
-        0.578838,
-        0.1182,
-        0.2088
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$C42$",
-    "comments": null
+  "uid": "PYBC",
+  "label": "A2B_oI12_72_j_a-001",
+  "alias": [
+    "A2B_oI12_72_j_a"
+  ],
+  "title": "SiS$_{2}$ ($C42$) Structure",
+  "icsd": 27205,
+  "ccdc": 1602516,
+  "prototype": "S2Si",
+  "prototype_tex": "S$_{2}$Si",
+  "number_of_species": 2,
+  "pearson_symbol": "oI12",
+  "space_group_number": 72,
+  "strukturbericht": "C42",
+  "strukturbericht_tex": "$C42$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "x2",
+    "y2"
+  ],
+  "parameter_values": [
+    9.583,
+    0.585829,
+    0.578838,
+    0.1182,
+    0.2088
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "SeSi$_{2}$"
+  ],
+  "legacy": false,
+  "notes": "$C42$",
+  "comments": null
 }

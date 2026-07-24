@@ -16,16 +16,18 @@
     "strukturbericht_tex": null,
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "y5",
-        "y6"
+	"a",
+	"y5",
+	"y6"
     ],
     "parameter_values": [
-        7.04,
-        0.245,
-        0.26
+	7.04,
+	0.245,
+	0.26
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "Model Structure",
     "comments": "Austenitic steels are alloys of iron and other metals with an averaged face-centered cubic structure. This model represents one approximation for an austenite steel. It is not meant to represent a real steel, and the selection of atom types for each Wyckoff position is arbitrary. When $y_{5}=y_{6}=1/4$ all the atoms are on sites of a bcc lattice. "

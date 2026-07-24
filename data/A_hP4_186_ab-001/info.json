@@ -1,34 +1,36 @@
 {
-    "uid": "F6SX",
-    "label": "A_hP4_186_ab-001",
-    "alias": [
-        "A_hP4_186_ab"
-    ],
-    "title": "Buckled Graphite Structure",
-    "icsd": "31170",
-    "ccdc": null,
-    "prototype": "C",
-    "prototype_tex": "C",
-    "number_of_species": 1,
-    "pearson_symbol": "hP4",
-    "space_group_number": 186,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z1",
-        "z2"
-    ],
-    "parameter_values": [
-        2.47,
-        2.75304,
-        0.0,
-        0.07143
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "Buckled Graphite",
-    "comments": "According to (Wyckoff, 1963), hexagonal graphite may be either flat, space group $P6_{3}/mmc$ \\#194 or buckled, space group $P6_{3}mc$ \\#186. ``If it is buckled, the buckling parameter is small, less than 1/20 of the `c' parameter of the hexagonal unit cell.'' We will assign the $A9$ Strukturbericht designation to the unbuckled structure. \n Experimentally, a rhombohedral ($R\\overline{3}m$ \\#166) graphite structure is also observed. \n There is no ICSD entry for (Hull, 1917).  Instead we provide the ICSD entry for the somewhat later work of (Hassel, 1924).  The two structures have similar volumes and $c/a$ values, but Hull's value of $z_{2}$=0.07143 is substantially larger than Hassel and Mark's value of 0.005.  We show the former value to emphasize the buckling. \n When $z_{2}=z_{1}$, this structure is equivalent to \\href{current_web_home_dir/A_hP4_194_bc-001}{unbuckled ($A9$) hexagonal graphite}. \n Space group $P6_{3}mc$ \\#186 does not specify the origin of the $z$-axis.  Here we chose $z_{1} = 0$ for the carbon (2a) site."
+  "uid": "F6SX",
+  "label": "A_hP4_186_ab-001",
+  "alias": [
+    "A_hP4_186_ab"
+  ],
+  "title": "Buckled Graphite Structure",
+  "icsd": 31170,
+  "ccdc": 1605322,
+  "prototype": "C",
+  "prototype_tex": "C",
+  "number_of_species": 1,
+  "pearson_symbol": "hP4",
+  "space_group_number": 186,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z1",
+    "z2"
+  ],
+  "parameter_values": [
+    2.47,
+    2.75304
+  ],
+  "mineral_name": "graphite",
+  "minerals": {
+    "graphite": "C"
+  },
+  "compounds": null,
+  "legacy": false,
+  "notes": "Buckled Graphite",
+  "comments": "According to (Wyckoff, 1963), hexagonal graphite may be either \\href{current_web_home_dir/A_hP4_194_bc-001}{flat, space group $P6_{3}/mmc$ \\#194} or \\href{current_web_home_dir/A_hP4_186_ab-001}{buckled, space group $P6_{3}mc$ \\#186} (this structure). ``If it is buckled, the buckling parameter is small, less than 1/20 of the `c' parameter of the hexagonal unit cell.'' We will assign the $A9$ Strukturbericht designation to the unbuckled structure. \n Experimentally, a \\href{current_web_home_dir/A_hR2_166_c-002}{rhombohedral ($R\\overline{3}m$ \\#166) graphite structure} is also observed. \n There is no ICSD entry for (Hull, 1917).  Instead we provide the ICSD entry for the somewhat later work of (Hassel, 1924).  The two structures have similar volumes and $c/a$ values, but Hull's value of $z_{2}$=0.07143 is substantially larger than Hassel and Mark's value of 0.005.  We show the former value to emphasize the buckling. \n When $z_{2}=z_{1}$, this structure is equivalent to \\href{current_web_home_dir/A_hP4_194_bc-001}{unbuckled ($A9$) hexagonal graphite}. \n Space group $P6_{3}mc$ \\#186 is polar and does not specify the origin of the $z$-axis.  Here we chose $z_{1} = 0$ for the carbon (2a) site."
 }

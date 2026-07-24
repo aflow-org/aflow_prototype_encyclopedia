@@ -1,28 +1,60 @@
 {
-    "uid": "CHL9",
-    "label": "AB_cF16_227_a_b-001",
-    "alias": [
-        "AB_cF16_227_a_b"
-    ],
-    "title": "NaTl ($B32$) Structure",
-    "icsd": "645049",
-    "ccdc": null,
-    "prototype": "NaTl",
-    "prototype_tex": "NaTl",
-    "number_of_species": 2,
-    "pearson_symbol": "cF16",
-    "space_group_number": 227,
-    "strukturbericht": "B32",
-    "strukturbericht_tex": "$B32$",
-    "part": 1,
-    "parameter_symbols": [
-        "a"
-    ],
-    "parameter_values": [
-        7.483
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$B32$",
-    "comments": "This is an example of a Zintl Phase."
+  "uid": "CHL9",
+  "label": "AB_cF16_227_a_b-001",
+  "alias": [
+    "AB_cF16_227_a_b"
+  ],
+  "title": "NaTl ($B32$) Structure",
+  "icsd": 645049,
+  "ccdc": 1761531,
+  "prototype": "NaTl",
+  "prototype_tex": "NaTl",
+  "number_of_species": 2,
+  "pearson_symbol": "cF16",
+  "space_group_number": 227,
+  "strukturbericht": "B32",
+  "strukturbericht_tex": "$B32$",
+  "part": 1,
+  "parameter_symbols": [
+    "a"
+  ],
+  "parameter_values": [
+    7.483
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "AlLi",
+    "AlMo",
+    "AlNb",
+    "AlTa",
+    "AlV",
+    "AlW",
+    "BLi",
+    "BaMg",
+    "CdLi ($\\gamma$-LiCd)",
+    "GaLi",
+    "InK",
+    "InLi",
+    "InNa",
+    "KNa",
+    "KTl",
+    "LaMg",
+    "LiZn ($\\delta$'')",
+    "MgNd",
+    "MgSn",
+    "MoTa",
+    "MoV",
+    "MoW",
+    "NbMo",
+    "NbTa",
+    "NbV",
+    "NbW",
+    "TaV",
+    "TaW",
+    "VW"
+  ],
+  "legacy": false,
+  "notes": "$B32$",
+  "comments": "This is an example of a Zintl Phase."
 }

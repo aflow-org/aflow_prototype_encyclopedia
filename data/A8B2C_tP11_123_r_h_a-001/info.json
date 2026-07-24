@@ -1,36 +1,41 @@
 {
-    "uid": "E0G5",
-    "label": "A8B2C_tP11_123_r_h_a-001",
-    "alias": [
-        "A8B2C_tP11_123_r_h_a"
-    ],
-    "title": "$E6_{2}$ [SrO$_{2}$(H$_{2}$O)$_{8}$] (Possibly Obsolete) Structure",
-    "icsd": "28840",
-    "ccdc": null,
-    "prototype": "(H2O)8O2Sr",
-    "prototype_tex": "(H$_{2}$O)$_{8}$O$_{2}$Sr",
-    "number_of_species": 3,
-    "pearson_symbol": "tP11",
-    "space_group_number": 123,
-    "strukturbericht": "E6_2",
-    "strukturbericht_tex": "$E6_{2}$",
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z2",
-        "x3",
-        "z3"
-    ],
-    "parameter_values": [
-        6.32,
-        0.879747,
-        0.1,
-        0.2,
-        0.25
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$E6_{2}$ (Possibly {\\em Obsolete})",
-    "comments": "This structure was designated $E6_{2}$ by (Hermann, 1937).  (Shineman, 1951) suggest that this should be replaced by their \\href{current_web_home_dir/AB8C2_tP22_124_a_n_h-001}{CaO$_{2}$(H$_{2}$O)$_{8}$ structure}."
+  "uid": "E0G5",
+  "label": "A8B2C_tP11_123_r_h_a-001",
+  "alias": [
+    "A8B2C_tP11_123_r_h_a"
+  ],
+  "title": "$E6_{2}$ [SrO$_{2}$(H$_{2}$O)$_{8}$] (Possibly Obsolete) Structure",
+  "icsd": 28840,
+  "ccdc": 1603876,
+  "prototype": "(H2O)8O2Sr",
+  "prototype_tex": "(H$_{2}$O)$_{8}$O$_{2}$Sr",
+  "number_of_species": 3,
+  "pearson_symbol": "tP11",
+  "space_group_number": 123,
+  "strukturbericht": "E62",
+  "strukturbericht_tex": "$E6_{2}$",
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z2",
+    "x3",
+    "z3"
+  ],
+  "parameter_values": [
+    6.32,
+    0.879747,
+    0.1,
+    0.2,
+    0.25
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "CaO$_{2}$(H$_{2}$O)$_{8}$",
+    "BrO$_{2}$(H$_{2}$O)$_{8}$"
+  ],
+  "legacy": false,
+  "notes": "$E6_{2}$ (Possibly {\\em Obsolete})",
+  "comments": "This structure was designated $E6_{2}$ by (Hermann, 1937).  (Shineman, 1951) suggest that this should be replaced by their \\href{current_web_home_dir/AB8C2_tP22_124_a_n_h-001}{CaO$_{2}$(H$_{2}$O)$_{8}$ structure}."
 }

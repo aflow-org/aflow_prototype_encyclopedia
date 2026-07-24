@@ -1,0 +1,58 @@
+{
+  "uid": "J1XS",
+  "label": "AB3C2_hP6_164_a_bd_d-001",
+  "alias": null,
+  "title": "LaLi$_{3}$Sb$_{2}$ Structure",
+  "icsd": 49625,
+  "ccdc": 1614794,
+  "prototype": "LaLi3Sb2",
+  "prototype_tex": "LaLi$_{3}$Sb$_{2}$",
+  "number_of_species": 3,
+  "elements": [
+    "La",
+    "Li",
+    "Sb"
+  ],
+  "pearson_symbol": "hP6",
+  "space_group_number": 164,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 5,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z3",
+    "z4"
+  ],
+  "parameter_values": [
+    4.619,
+    1.61182,
+    0.658,
+    0.2577
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "CeLi$_{3}$Bi$_{2}$",
+    "CeLi$_{3}$Sb$_{2}$",
+    "DyLi$_{3}$Sb$_{2}$",
+    "GdLi$_{3}$Bi$_{2}$",
+    "HoLi$_{3}$Sb$_{2}$",
+    "LaLi$_{3}$As$_{2}$",
+    "LaLi$_{3}$Bi$_{2}$",
+    "LaLi$_{3}$P$_{2}$",
+    "NdLi$_{3}$As$_{2}$",
+    "NdLi$_{3}$Bi$_{2}$",
+    "NdLi$_{3}$Sb$_{2}$",
+    "PrLi$_{3}$Bi$_{2}$",
+    "PrLi$_{3}$Sb$_{2}$",
+    "SmLi$_{3}$Bi$_{2}$",
+    "SmLi$_{3}$Sb$_{2}$",
+    "TbLi$_{3}$Bi$_{2}$",
+    "YLi$_{3}$Bi$_{2}$",
+    "YLi$_{3}$Sb$_{2}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "(Grund, 1984) refer to this as a ``filled'' LiAl$_{2}$Si$_{2}$ structure. That compound is isostructural with \\href{current_web_home_dir/A2B2C_hP5_164_d_d_a-002}{Ce$_{2}$O$_{2}$S}. Removing the (1b) atom reduces this structure to the Ce$_{2}$O$_{2}$S prototype. \n The quaternary form of this structure, with the (1b) site containing a different species, is \\href{current_web_home_dir/A2BC2D_hP6_164_d_a_d_b-001}{TbLiCu$_{2}$P$_{2}$}."
+}

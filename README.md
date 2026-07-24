@@ -9,8 +9,9 @@
 ## Data Structure
 - the data for each prototype is stored in a subfolder, named after its label, under `data` 
 - structured information is available in `info.json`
-- `base.bib` contains the citation to the first known report of the original structure
-- `found_in.bib` contains the citation to the report that lead to the inclusion of this prototype into our dataset
+- `base.bib` contains the citation to the report used as a reference for the structure
+- `aflow.cif` is a Crystallographic Information File (CIF) containing the data from the cited report and the info.json file needed to reconstruct the structure.  It contains all the information AFLOW needs to use the structure
+- `found_in.bib` contains the citation to the report that lead to the inclusion of this prototype into our dataset (if necessary)
 
 ## References
 The data presented here was published in [Computational Materials Science](https://www.sciencedirect.com/journal/computational-materials-science):

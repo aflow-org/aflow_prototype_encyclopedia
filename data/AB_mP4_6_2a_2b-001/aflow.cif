@@ -12,8 +12,8 @@
 
 # Last updated on 2024/08/01
 
-data_Fe2Ni2
-_pd_phase_name Fe2Ni2
+data_FeNi
+_pd_phase_name FeNi
 _cell_length_a  3.5810000000
 _cell_length_b  3.5820000000
 _cell_length_c  3.5870000000

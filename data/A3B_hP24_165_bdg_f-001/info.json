@@ -1,40 +1,51 @@
 {
-    "uid": "Z2X0",
-    "label": "A3B_hP24_165_bdg_f-001",
-    "alias": [
-        "A3B_hP24_165_bdg_f"
-    ],
-    "title": "Cu$_{3}$P ($D0_{21}$) Structure",
-    "icsd": "198370",
-    "ccdc": null,
-    "prototype": "Cu3P",
-    "prototype_tex": "Cu$_{3}$P",
-    "number_of_species": 2,
-    "pearson_symbol": "hP24",
-    "space_group_number": 165,
-    "strukturbericht": "D0_21",
-    "strukturbericht_tex": "$D0_{21}$",
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z2",
-        "x3",
-        "x4",
-        "y4",
-        "z4"
-    ],
-    "parameter_values": [
-        7.07,
-        1.00919,
-        0.17,
-        0.38,
-        0.69,
-        0.07,
-        0.08
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$D0_{21}$",
-    "comments": "Range and Hafner (Range, 1993) and Olofsson (Olofsson, 1972) argue that several compounds which were previously identified as having this structure actually take on the \\href{current_web_home_dir/A3B_hP24_185_ab2c_c-001}{Cu$_{3}$P structure, space group $P63cm$ \\#185, A3B\\_hP24\\_185\\_ab2c\\_c}. These structures include Cu$_{3}$P, Na$_{3}$As, AuMg$_{3}$, Ir$_{3}$ and Mg$_{3}$Pt. The $D0_{21}$ structure is crystallographically equivalent to the \\href{current_web_home_dir/A3B_hP24_165_adg_f-001}{H$_{3}$Ho structure, A3B\\_hP24\\_165\\_adg\\_f}. \n We have not found any evidence in the literature showing that either the hydride structure or the fluoride structures mentioned above should be in any other space group. \n We were unable to obtain the original reference, so we use the crystallographic information presented in the American Mineralogist Crystal Structure Database (Downs, 2003). \n The original version of Pearson's Handbook (Pearson, 1958) states that the lattice constants for this structure should be slightly smaller."
+  "uid": "Z2X0",
+  "label": "A3B_hP24_165_bdg_f-001",
+  "alias": [
+    "A3B_hP24_165_bdg_f"
+  ],
+  "title": "Cu$_{3}$P ($D0_{21}$) Structure",
+  "icsd": 198370,
+  "ccdc": 1925272,
+  "prototype": "Cu3P",
+  "prototype_tex": "Cu$_{3}$P",
+  "number_of_species": 2,
+  "pearson_symbol": "hP24",
+  "space_group_number": 165,
+  "strukturbericht": "D021",
+  "strukturbericht_tex": "$D0_{21}$",
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z2",
+    "x3",
+    "x4",
+    "y4",
+    "z4"
+  ],
+  "parameter_values": [
+    7.07,
+    1.00919,
+    0.17,
+    0.38,
+    0.69,
+    0.07,
+    0.08
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Cu$_{3}$As",
+    "Cd$_{3}$Au",
+    "Mg$_{3}$Au",
+    "Mg$_{3}$Ir",
+    "Mg$_{3}$Pt",
+    "Na$_{3}$As",
+    "CeF$_{3}$",
+    "LaF$_{3}$"
+  ],
+  "legacy": false,
+  "notes": "$D0_{21}$",
+  "comments": "Range and Hafner (Range, 1993) and Olofsson (Olofsson, 1972) argue that several compounds which were previously identified as having this structure actually take on the \\href{current_web_home_dir/A3B_hP24_185_ab2c_c-001}{Cu$_{3}$P structure, space group $P63cm$ \\#185, A3B\\_hP24\\_185\\_ab2c\\_c}. These structures include Cu$_{3}$P, Na$_{3}$As, AuMg$_{3}$, Ir$_{3}$ and Mg$_{3}$Pt. The $D0_{21}$ structure is crystallographically equivalent to the \\href{current_web_home_dir/A3B_hP24_165_adg_f-001}{H$_{3}$Ho structure, A3B\\_hP24\\_165\\_adg\\_f}. \n We have not found any evidence in the literature showing that either the hydride structure or the fluoride structures mentioned above should be in any other space group. \n We were unable to obtain the original reference, so we use the crystallographic information presented in the American Mineralogist Crystal Structure Database (Downs, 2003). \n The original version of Pearson's Handbook (Pearson, 1958) states that the lattice constants for this structure should be slightly smaller."
 }

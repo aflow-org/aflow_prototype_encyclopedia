@@ -16,24 +16,28 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x1",
-        "x2",
-        "x3",
-        "y3",
-        "z3"
+	"a",
+	"c/a",
+	"x1",
+	"x2",
+	"x3",
+	"y3",
+	"z3"
     ],
     "parameter_values": [
-        5.149,
-        3.15788,
-        0.8361,
-        0.7601,
-        0.3099,
-        0.5338,
-        0.661367
+	5.149,
+	3.15788,
+	0.8361,
+	0.7601,
+	0.3099,
+	0.5338,
+	0.661367
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+        "AgF$_{3}$"
+    ],
     "legacy": false,
     "notes": null,
     "comments": "These compounds also exist in the \\href{current_web_home_dir/AB3_hP24_178_b_ac-001}{enantiomorphic space group $P6_{1}22$ \\#178}.  That page describes the more recent (\\v{Z}emva, 1991) determination of the structure."

@@ -1,40 +1,42 @@
 {
-    "uid": "WX0M",
-    "label": "AB3C_cP60_201_be_fh_g-001",
-    "alias": [
-        "AB3C_cP60_201_be_fh_g"
-    ],
-    "title": "KSbO$_{3}$ (High-Temperature) Structure",
-    "icsd": "41203",
-    "ccdc": null,
-    "prototype": "KO3Sb",
-    "prototype_tex": "KO$_{3}$Sb",
-    "number_of_species": 3,
-    "pearson_symbol": "cP60",
-    "space_group_number": 201,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "x2",
-        "x3",
-        "x4",
-        "x5",
-        "y5",
-        "z5"
-    ],
-    "parameter_values": [
-        9.56,
-        0.3889,
-        0.6111,
-        0.0972,
-        0.0389,
-        0.0972,
-        0.75
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "HT",
-    "comments": null
+  "uid": "WX0M",
+  "label": "AB3C_cP60_201_be_fh_g-001",
+  "alias": [
+    "AB3C_cP60_201_be_fh_g"
+  ],
+  "title": "KSbO$_{3}$ (High-Temperature) Structure",
+  "icsd": 41203,
+  "ccdc": 1610997,
+  "prototype": "KO3Sb",
+  "prototype_tex": "KO$_{3}$Sb",
+  "number_of_species": 3,
+  "pearson_symbol": "cP60",
+  "space_group_number": 201,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "x2",
+    "x3",
+    "x4",
+    "x5",
+    "y5",
+    "z5"
+  ],
+  "parameter_values": [
+    9.56,
+    0.3889,
+    0.6111,
+    0.0972,
+    0.0389,
+    0.0972,
+    0.75
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "HT",
+  "comments": null
 }

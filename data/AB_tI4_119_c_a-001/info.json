@@ -16,14 +16,16 @@
     "strukturbericht_tex": null,
     "part": 2,
     "parameter_symbols": [
-        "a",
-        "c/a"
+	"a",
+	"c/a"
     ],
     "parameter_values": [
-        5.479,
-        0.558496
+	5.479,
+	0.558496
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "$P > 60$kBar",
     "comments": "This is the high-pressure phase of GaSb, stable above 60 kBar.  The ground state of GaSb has the \\href{current_web_home_dir/AB_cF8_216_a_c-001}{zincblende ($B3$) structure}. This sample remained metastable after cooling to 90K and releasing the pressure. \n If the atomic species are identical this becomes the \\href{current_web_home_dir/A_tI4_141_a-001}{$\\beta$-Sn ($A5$) structure}."

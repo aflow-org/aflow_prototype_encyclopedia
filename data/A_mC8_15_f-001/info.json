@@ -1,0 +1,40 @@
+{
+  "uid": "6S9D",
+  "label": "A_mC8_15_f-001",
+  "alias": null,
+  "title": "$\\alpha$-F$_{2}$ Structure",
+  "icsd": 16262,
+  "ccdc": 1596861,
+  "prototype": "F2",
+  "prototype_tex": "F$_{2}$",
+  "number_of_species": 1,
+  "pearson_symbol": "mC8",
+  "space_group_number": 15,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 5,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "beta",
+    "x1",
+    "y1",
+    "z1"
+  ],
+  "parameter_values": [
+    5.5,
+    0.596364,
+    1.32364,
+    102.17,
+    0.285,
+    0.317,
+    0.0997
+  ],
+  "mineral_name": null,
+  "minerals": {},
+  "compounds": null,
+  "legacy": false,
+  "notes": "$\\alpha$-F$_{2}$",
+  "comments": "This the ground state of fluorine.  Above 45.6K it transforms into the disordered \\href{current_web_home_dir/A_cP8_223_ac-001}{$\\beta$-F$_{2}$ structure} and melts at 53.53K (Ivlev, 2019)."
+}

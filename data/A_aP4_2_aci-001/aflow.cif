@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/A_aP4_2_aci-001
 
 # Last updated on 2024/08/01
-data_Cf4
-_pd_phase_name Cf4
+data_Cf
+_pd_phase_name Cf
 _cell_length_a  3.3070000000
 _cell_length_b  7.4120000000
 _cell_length_c  2.7930000000

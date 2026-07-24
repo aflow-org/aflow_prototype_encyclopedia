@@ -16,18 +16,20 @@
     "strukturbericht_tex": null,
     "part": 1,
     "parameter_symbols": [
-        "a",
-        "x5",
-        "x6",
-        "x7"
+	"a",
+	"x5",
+	"x6",
+	"x7"
     ],
     "parameter_values": [
-        11.48,
-        0.25,
-        0.875,
-        0.625
+	11.48,
+	0.25,
+	0.875,
+	0.625
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "Model Structure",
     "comments": "Ferritic steels are alloys of iron and other metals with an averaged body-centered cubic structure. This model represents one approximation for a ferritic steel. It is not meant to represent a real steel, and the selection of atom types for each Wyckoff position is arbitrary. \n If we set $x_{5} = 1/4, x_{6} = 1/8$, and $x_{7} = 3/8$ and replace the nickel atoms by chromium, this structure reverts to \\href{current_web_home_dir/AB_cP2_221_a_b-002}{CsCl ($B2$)} with $a_{B2} = 1/4 a$.  \n If we replace both the nickel and chromium atoms by iron the structure becomes \\href{current_web_home_dir/A_cI2_229_a-001}{a body-centered cubic lattice ($A2$)} again with $a_{A2} = 1/4 a$."

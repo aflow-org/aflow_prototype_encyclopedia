@@ -1,40 +1,53 @@
 {
-    "uid": "4YUA",
-    "label": "AB3C_hR10_148_c_f_c-001",
-    "alias": [
-        "AB3C_hR10_148_c_f_c"
-    ],
-    "title": "Ilmenite (FeTiO$_{3}$, $E2_{2}$) Structure",
-    "icsd": "30664",
-    "ccdc": null,
-    "prototype": "FeTiO3",
-    "prototype_tex": "FeTiO$_{3}$",
-    "number_of_species": 3,
-    "pearson_symbol": "hR10",
-    "space_group_number": 148,
-    "strukturbericht": "E2_2",
-    "strukturbericht_tex": "$E2_{2}$",
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x1",
-        "x2",
-        "x3",
-        "y3",
-        "z3"
-    ],
-    "parameter_values": [
-        5.08838,
-        2.76816,
-        0.64463,
-        0.8536,
-        0.04905,
-        0.43751,
-        0.77826
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$E2_{2}$, Ilmenite",
-    "comments": "If the iron and titanium atoms are replaced by a single species the structure becomes \\href{current_web_home_dir/A2B3_hR10_167_c_e-001}{corrundum}. \n In the quaternary phases listed here the atoms in parentheses are alloyed onto one (2c) Wyckoff position. \n (Ewald, 1931) originally gave this the {\\em Strukturbericht} designation $G4$. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
+  "uid": "4YUA",
+  "label": "AB3C_hR10_148_c_f_c-001",
+  "alias": [
+    "AB3C_hR10_148_c_f_c"
+  ],
+  "title": "Ilmenite (FeTiO$_{3}$, $E2_{2}$) Structure",
+  "icsd": 30664,
+  "ccdc": 1604908,
+  "prototype": "FeTiO3",
+  "prototype_tex": "FeTiO$_{3}$",
+  "number_of_species": 3,
+  "pearson_symbol": "hR10",
+  "space_group_number": 148,
+  "strukturbericht": "E22",
+  "strukturbericht_tex": "$E2_{2}$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x1",
+    "x2",
+    "x3",
+    "y3",
+    "z3"
+  ],
+  "parameter_values": [
+    5.08838,
+    2.76816,
+    0.64463,
+    0.8536,
+    0.04905,
+    0.43751,
+    0.77826
+  ],
+  "mineral_name": "ilmenite",
+  "minerals": null,
+  "compounds": [
+    "NiCrO$_{3}$",
+    "CoTiO$_{3}$",
+    "CrTiO$_{3}$",
+    "CrVO$_{3}$",
+    "CuVO$_{3}$",
+    "MnTiO$_{3}$",
+    "CoMnO$_{3}$",
+    "NiMnO$_{3}$",
+    "$\\alpha$-Na$_{2}$(GeTe)O$_{6}$",
+    "Na$_{2}$(TiTe)O$_{6}$"
+  ],
+  "legacy": false,
+  "notes": "$E2_{2}$, Ilmenite",
+  "comments": "If the iron and titanium atoms are replaced by a single species the structure becomes \\href{current_web_home_dir/A2B3_hR10_167_c_e-001}{corrundum}. \n In the quaternary phases listed here the atoms in parentheses are alloyed onto one (2c) Wyckoff position. \n (Ewald, 1931) originally gave this the {\\em Strukturbericht} designation $G4$. \n Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

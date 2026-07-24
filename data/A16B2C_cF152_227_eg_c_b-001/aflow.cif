@@ -5,15 +5,15 @@
 # Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
 # Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
 # Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
-# Chemical Composition:  H16Li2Mg
+# Chemical Composition:  H16Li2Mg 250GPa
 
 # The current version of this file is available at
 # https://aflow.org/prototype-encyclopedia/A16B2C_cF152_227_eg_c_b-001
 
 # Last updated on 2024/08/01
 
-data_H128Li16Mg8
-_pd_phase_name H128Li16Mg8
+data_H16Li2Mg
+_pd_phase_name H16Li2Mg
 _cell_length_a  6.7185100000
 _cell_length_b  6.7185100000
 _cell_length_c  6.7185100000
@@ -228,7 +228,7 @@ loop_
  _atom_site_type_symbol
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
-Mg4 1.0000000000 0.3750000000 0.3750000000 0.3750000000  Biso 1.0 Mg 8 b
-Li3 1.0000000000 -0.0000000000 0.0000000000 -0.0000000000  Biso 1.0 Li 16 c
-H1 1.0000000000 0.7915000000 0.7915000000 0.7915000000  Biso 1.0 H 32 e
-H2 1.0000000000 0.5603400000 0.5603400000 0.3706000000  Biso 1.0 H 96 g
+Mg4 1.0000000000 0.3750000000 0.3750000000 0.3750000000  Biso 1.0 Mg  8 b
+Li3 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Li 16 c
+H1  1.0000000000 0.7915000000 0.7915000000 0.7915000000  Biso 1.0  H 32 e
+H2  1.0000000000 0.5603400000 0.5603400000 0.3706000000  Biso 1.0  H 96 g

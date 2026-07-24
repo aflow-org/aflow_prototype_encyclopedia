@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/AB_tP4_129_a_c-001
 
 # Last updated on 2024/08/01
-data_O2Pb2
-_pd_phase_name O2Pb2
+data_OPb
+_pd_phase_name OPb
 _cell_length_a  3.9645000000
 _cell_length_b  3.9645000000
 _cell_length_c  4.9956000000
@@ -52,5 +52,5 @@ loop_
  _atom_site_type_symbol
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
-O1 1.0000000000 0.7500000000 0.2500000000 0.0000000000  Biso 1.0 O 2 a
+O1  1.0000000000 0.7500000000 0.2500000000 0.0000000000  Biso 1.0 O 2 a
 Pb2 1.0000000000 0.2500000000 0.2500000000 0.2368000000  Biso 1.0 Pb 2 c

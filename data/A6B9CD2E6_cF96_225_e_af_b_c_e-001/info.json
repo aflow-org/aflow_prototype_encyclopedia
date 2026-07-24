@@ -1,34 +1,43 @@
 {
-    "uid": "N4GS",
-    "label": "A6B9CD2E6_cF96_225_e_af_b_c_e-001",
-    "alias": [
-        "A6B9CD2E6_cF96_225_e_bf_a_c_e"
-    ],
-    "title": "Cu$_{3}$[Fe(CN)$_{6}$]$_{2}\\cdot x$H$_{2}$O ($J2_{5}$) Structure",
-    "icsd": "77916",
-    "ccdc": null,
-    "prototype": "C12Cu3Fe2(H2O)xN12",
-    "prototype_tex": "C$_{12}$Cu$_{3}$Fe$_{2}$(H$_{2}$O)$_{x}$N$_{12}$",
-    "number_of_species": 5,
-    "pearson_symbol": "cF96",
-    "space_group_number": 225,
-    "strukturbericht": "J2_5",
-    "strukturbericht_tex": "$J2_5$",
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "x4",
-        "x5",
-        "x6"
-    ],
-    "parameter_values": [
-        10.12,
-        0.70257,
-        0.81126,
-        0.66667
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$J2_5$, Prussian Blue Analog",
-    "comments": "These compounds form a class called ``Prussian Blue Analogs,'' where Prussian Blue is Fe$_{3}$[Fe(CN)$_{6}$]$_{2}$. \n (van Bever, 1938) studied what he believed to be the hydrated form of this structure, with $x \\approx 3$.  In that case the water molecules occupy the (8c) sites, but each site is only occupied 75\\% of the time.  The water sites are surrounded by a tetrahedron of copper (32e) sites, but only 6.25\\% of these sites are occupied. \n (Weiser, 1942) studied the anhydrous form.  They found that copper atoms partially occupying the (32e) sites move to the (8c) site and replace the water molecules.  This site is now fully occupied with copper. \n To convert from the hydrated to anhydrous structure, remove the copper (32e) molecules from the (32e) sites in the CIF or POSCAR file, and relabel the (8c) site as copper. \n For a picture of the resulting structure see (Jiao, 2017). \n The AFLOW label models the structure as if the sites were fully occupied."
+  "uid": "N4GS",
+  "label": "A6B9CD2E6_cF96_225_e_af_b_c_e-001",
+  "alias": [
+    "A6B9CD2E6_cF96_225_e_bf_a_c_e"
+  ],
+  "title": "Cu$_{3}$[Fe(CN)$_{6}$]$_{2}\\cdot x$H$_{2}$O ($J2_{5}$) Structure",
+  "icsd": 77916,
+  "ccdc": 1638267,
+  "prototype": "C12Cu3Fe2(H2O)xN12",
+  "prototype_tex": "C$_{12}$Cu$_{3}$Fe$_{2}$(H$_{2}$O)$_{x}$N$_{12}$",
+  "number_of_species": 5,
+  "pearson_symbol": "cF96",
+  "space_group_number": 225,
+  "strukturbericht": "J25",
+  "strukturbericht_tex": "$J2_5$",
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "x4",
+    "x5",
+    "x6"
+  ],
+  "parameter_values": [
+    10.12,
+    0.70257,
+    0.81126,
+    0.66667
+  ],
+  "mineral_name": "prussian blue analog",
+  "minerals": null,
+  "compounds": [
+    "Cd$_{3}$[Co(CN)$_{6}$]$_{2}$",
+    "Co$_{3}$[Co(CN)$_{6}$]$_{2}$",
+    "Cu$_{3}$[Fe(CN)$_{6}$]$_{2}$",
+    "Fe$_{3}$[Fe(CN)$_{6}$]$_{2}$",
+    "Td$_{3}$[Fe(CN)$_{6}$]$_{2}$",
+    "Zn$_{3}$[Fe(CN)$_{6}$]$_{2}$"
+  ],
+  "legacy": false,
+  "notes": "$J2_5$, Prussian Blue Analog",
+  "comments": "These compounds form a class called ``Prussian Blue Analogs,'' where Prussian Blue is Fe$_{3}$[Fe(CN)$_{6}$]$_{2}$. \n (van Bever, 1938) studied what he believed to be the hydrated form of this structure, with $x \\approx 3$.  In that case the water molecules occupy the (8c) sites, but each site is only occupied 75\\% of the time.  The water sites are surrounded by a tetrahedron of copper (32e) sites, but only 6.25\\% of these sites are occupied. \n (Weiser, 1942) studied the anhydrous form.  They found that copper atoms partially occupying the (32e) sites move to the (8c) site and replace the water molecules.  This site is now fully occupied with copper. \n To convert from the hydrated to anhydrous structure, remove the copper (32e) molecules from the (32e) sites in the CIF or POSCAR file, and relabel the (8c) site as copper. \n For a picture of the resulting structure see (Jiao, 2017). \n The AFLOW label models the structure as if the sites were fully occupied."
 }

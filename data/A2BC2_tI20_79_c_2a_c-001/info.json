@@ -1,46 +1,40 @@
 {
-    "uid": "T892",
-    "label": "A2BC2_tI20_79_c_2a_c-001",
-    "alias": [
-        "A2BC2_tI20_79_c_2a_c"
-    ],
-    "title": "TlZn$_{2}$Sb$_{2}$ Structure",
-    "icsd": "76499",
-    "ccdc": null,
-    "prototype": "Sb2TlZn2",
-    "prototype_tex": "Sb$_{2}$TlZn$_{2}$",
-    "number_of_species": 3,
-    "pearson_symbol": "tI20",
-    "space_group_number": 79,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z1",
-        "z2",
-        "x3",
-        "y3",
-        "z3",
-        "x4",
-        "y4",
-        "z4"
-    ],
-    "parameter_values": [
-        8.649,
-        0.842525,
-        0.0,
-        0.5104,
-        0.163,
-        0.663,
-        0.7804,
-        0.133,
-        0.365,
-        0.9144
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "Space group $I4$ \\#79 allows us to make an arbitrary choice for the origin of the $z$-axes, which we used to move the Tl-I atom to the origin.  Our original version of this structure (Hicks, 2019) did not do this correctly.  We now present the correct structure."
+  "uid": "T892",
+  "label": "A2BC2_tI20_79_c_2a_c-001",
+  "alias": [
+    "A2BC2_tI20_79_c_2a_c"
+  ],
+  "title": "TlZn$_{2}$Sb$_{2}$ Structure",
+  "icsd": 76499,
+  "ccdc": 1637081,
+  "prototype": "Sb2TlZn2",
+  "prototype_tex": "Sb$_{2}$TlZn$_{2}$",
+  "number_of_species": 3,
+  "pearson_symbol": "tI20",
+  "space_group_number": 79,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z1",
+    "z2",
+    "x3",
+    "y3",
+    "z3",
+    "x4",
+    "y4",
+    "z4"
+  ],
+  "parameter_values": [
+    8.649,
+    0.842525
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": "Space group $I4$ \\#79 allows us to make an arbitrary choice for the origin of the $z$-axes, which we used to move the Tl-I atom to the origin.  Our original version of this structure (Hicks, 2019) did not do this correctly.  We now present the correct structure."
 }

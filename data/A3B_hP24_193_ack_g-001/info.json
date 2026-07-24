@@ -12,24 +12,26 @@
     "number_of_species": 2,
     "pearson_symbol": "hP24",
     "space_group_number": 193,
-    "strukturbericht": "D0_6",
+    "strukturbericht": "D06",
     "strukturbericht_tex": "$D0_{6}$",
     "part": 3,
     "parameter_symbols": [
-        "a",
-        "c/a",
-        "x3",
-        "x4",
-        "z4"
+	"a",
+	"c/a",
+	"x3",
+	"x4",
+	"z4"
     ],
     "parameter_values": [
-        7.12,
-        1.02247,
-        0.34,
-        0.33333,
-        0.075
+	7.12,
+	1.02247,
+	0.34,
+	0.33333,
+	0.075
     ],
-    "compounds": {},
+    "mineral_name": "tysonite",
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "$D0_{6}$, Tysonite",
     "comments": "This stucture was one of several considered by (Hermann, 1937) as a candidate structure for tysonite, and was chosen because it gave the best positioning of the fluorine atoms. Later, (Zalkin, 1985) showed that the structure was trigonal rather than hexagonal, and isostructural with \\href{current_web_home_dir/A3B_hP24_165_bdg_f-001}{Cu$_{3}$P ($D0_{21}$)}.  We keep the original structure as part of the historical record."

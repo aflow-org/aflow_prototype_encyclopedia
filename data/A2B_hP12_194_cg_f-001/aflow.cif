@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/A2B_hP12_194_cg_f-001
 
 # Last updated on 2024/08/01
-data_O8Si4
-_pd_phase_name O8Si4
+data_O2Si
+_pd_phase_name O2Si
 _cell_length_a  5.0520000000
 _cell_length_b  5.0520000000
 _cell_length_c  8.2700000000
@@ -60,6 +60,6 @@ loop_
  _atom_site_type_symbol
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
-O1 1.0000000000 0.3333333333 0.6666666667 0.2500000000  Biso 1.0 O 2 c
+O1  1.0000000000 0.3333333333 0.6666666667 0.2500000000  Biso 1.0 O  2 c
 Si3 1.0000000000 0.3333333333 0.6666666667 0.0620000000  Biso 1.0 Si 4 f
-O2 1.0000000000 0.5000033333 0.9999966667 0.0000000000  Biso 1.0 O 6 g
+O2  1.0000000000 0.5000000000 0.0000000000 0.0000000000  Biso 1.0 O  6 g

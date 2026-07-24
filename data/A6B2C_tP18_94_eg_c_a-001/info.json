@@ -1,40 +1,42 @@
 {
-    "uid": "1ZGT",
-    "label": "A6B2C_tP18_94_eg_c_a-001",
-    "alias": [
-        "A6B2C_tP18_94_eg_c_a"
-    ],
-    "title": "Li$_{2}$MoF$_{6}$ Structure",
-    "icsd": "23173",
-    "ccdc": null,
-    "prototype": "F6Li2Mo",
-    "prototype_tex": "F$_{6}$Li$_{2}$Mo",
-    "number_of_species": 3,
-    "pearson_symbol": "tP18",
-    "space_group_number": 94,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z2",
-        "x3",
-        "x4",
-        "y4",
-        "z4"
-    ],
-    "parameter_values": [
-        4.6863,
-        1.96125,
-        0.6623,
-        0.7093,
-        0.684,
-        0.707,
-        0.6579
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "1ZGT",
+  "label": "A6B2C_tP18_94_eg_c_a-001",
+  "alias": [
+    "A6B2C_tP18_94_eg_c_a"
+  ],
+  "title": "Li$_{2}$MoF$_{6}$ Structure",
+  "icsd": 23173,
+  "ccdc": 1599316,
+  "prototype": "F6Li2Mo",
+  "prototype_tex": "F$_{6}$Li$_{2}$Mo",
+  "number_of_species": 3,
+  "pearson_symbol": "tP18",
+  "space_group_number": 94,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z2",
+    "x3",
+    "x4",
+    "y4",
+    "z4"
+  ],
+  "parameter_values": [
+    4.6863,
+    1.96125,
+    0.6623,
+    0.7093,
+    0.684,
+    0.707,
+    0.6579
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

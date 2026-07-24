@@ -12,8 +12,8 @@
 
 # Last updated on 2024/08/01
 
-data_Cl6Ru2
-_pd_phase_name Cl6Ru2
+data_Cl3Ru
+_pd_phase_name Cl3Ru
 _cell_length_a  6.1200000000
 _cell_length_b  6.1200000000
 _cell_length_c  5.6580000000

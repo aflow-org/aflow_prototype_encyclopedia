@@ -1,34 +1,51 @@
 {
-    "uid": "D3QE",
-    "label": "A2B3_hP5_164_d_ad-001",
-    "alias": [
-        "A2B3_hP5_164_d_ad"
-    ],
-    "title": "La$_{2}$O$_{3}$ ($D5_{2}$) Structure",
-    "icsd": "100204",
-    "ccdc": null,
-    "prototype": "La2O3",
-    "prototype_tex": "La$_{2}$O$_{3}$",
-    "number_of_species": 2,
-    "pearson_symbol": "hP5",
-    "space_group_number": 164,
-    "strukturbericht": "D5_2",
-    "strukturbericht_tex": "$D5_{2}$",
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z2",
-        "z3"
-    ],
-    "parameter_values": [
-        3.9381,
-        1.55814,
-        0.2467,
-        0.647
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$D5_{2}$",
-    "comments": "This structure has proved rather controversial: \n (Zachariasen 1926, 1929) originally proposed that the crystal structure of La$_{2}$O$_{3}$ and other lanthanide series oxides belong to trigonal space group $P\\overline{3}21$ \\#150. \n This was immediately criticized by (Pauling, 1929), who suggested the trigonal space group ($P\\overline{3}m1$ \\#164) later confirmed by (Koehler, 1953). \n Much later, (Aldebert, 1979) stated that the structure was hexagonal, space group $P6_{3}/mmc$ \\#194.  This would represent a doubling of the $P\\overline{3}m1$ unit cell in the $z$-direction, however they give structural parameters, also used by us and by (Villars, 1991, 2016), which have a density consistent with the $P\\overline{3}m1$ structure, and are in reasonable agreement with lattice parameters given in (Pearson, 1958) and (Koehler, 1953). We agree with (Villars, 1991, 2016) that these are close to the correct values for the structure. \n This structure is very similar to \\href{current_web_home_dir/A3B2_hP5_164_ad_d-001}{Al$_{3}$Ni$_{2}$ ($D5_{13}$, A3B2\\_hP5\\_164\\_ad\\_d)}. We follow (Pearson, 1958) and assign the intermetallics as $D5_{13}$, keeping $D5_{2}$ for oxides and related compounds. \n The ternary \\href{current_web_home_dir/A2B2C_hP5_164_d_d_a-002}{Ce$_{2}$O$_{2}$S structure, {\\em aka} CaAl$_{2}$Si$_{2}$}, is related to this structure, the sulfur atom replacing the oxygen on the (1a) site."
+  "uid": "D3QE",
+  "label": "A2B3_hP5_164_d_ad-001",
+  "alias": [
+    "A2B3_hP5_164_d_ad"
+  ],
+  "title": "La$_{2}$O$_{3}$ ($D5_{2}$) Structure",
+  "icsd": 100204,
+  "ccdc": 1659353,
+  "prototype": "La2O3",
+  "prototype_tex": "La$_{2}$O$_{3}$",
+  "number_of_species": 2,
+  "pearson_symbol": "hP5",
+  "space_group_number": 164,
+  "strukturbericht": "D52",
+  "strukturbericht_tex": "$D5_{2}$",
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z2",
+    "z3"
+  ],
+  "parameter_values": [
+    3.9381,
+    1.55814,
+    0.2467,
+    0.647
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "$\\alpha$-Bi$_{2}$Mg$_{3}$",
+    "$\\alpha$-Sb$_{2}$Mg$_{3}$",
+    "Ac$_{2}$O$_{3}$",
+    "As$_{2}$Mg$_{3}$",
+    "B1$_{2}$Mg$_{3}$",
+    "Ce$_{2}$O$_{3}$",
+    "Gd$_{2}$O$_{3}$",
+    "Nd$_{2}$O$_{3}$",
+    "Pr$_{2}$O$_{3}$",
+    "Pu$_{2}$O$_{3}$",
+    "Sb$_{2}$Mg3$_{3}$",
+    "Th$_{2}$N$_{3}$",
+    "Th$_{2}$N$_{2}$O",
+    "U$_{2}$N$_{3}$"
+  ],
+  "legacy": false,
+  "notes": "$D5_{2}$",
+  "comments": "This structure has proved rather controversial: \n (Zachariasen 1926, 1929) originally proposed that the crystal structure of La$_{2}$O$_{3}$ and other lanthanide series oxides belong to trigonal space group $P\\overline{3}21$ \\#150. \n This was immediately criticized by (Pauling, 1929), who suggested the trigonal space group ($P\\overline{3}m1$ \\#164) later confirmed by (Koehler, 1953). \n Much later, (Aldebert, 1979) stated that the structure was hexagonal, space group $P6_{3}/mmc$ \\#194.  This would represent a doubling of the $P\\overline{3}m1$ unit cell in the $z$-direction, however they give structural parameters, also used by us and by (Villars, 1991, 2016), which have a density consistent with the $P\\overline{3}m1$ structure, and are in reasonable agreement with lattice parameters given in (Pearson, 1958) and (Koehler, 1953). We agree with (Villars, 1991, 2016) that these are close to the correct values for the structure. \n This structure is very similar to \\href{current_web_home_dir/A3B2_hP5_164_ad_d-001}{Al$_{3}$Ni$_{2}$ ($D5_{13}$, A3B2\\_hP5\\_164\\_ad\\_d)}. We follow (Pearson, 1958) and assign the intermetallics as $D5_{13}$, keeping $D5_{2}$ for oxides and related compounds. \n The ternary \\href{current_web_home_dir/A2B2C_hP5_164_d_d_a-002}{Ce$_{2}$O$_{2}$S structure, {\\em aka} CaAl$_{2}$Si$_{2}$}, is related to this structure, the sulfur atom replacing the oxygen on the (1a) site."
 }

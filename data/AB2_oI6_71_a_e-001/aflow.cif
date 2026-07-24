@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/AB2_oI6_71_a_e-001
 
 # Last updated on 2024/08/01
-data_Mo2Pt4
-_pd_phase_name Mo2Pt4
+data_MoPt2
+_pd_phase_name MoPt2
 _cell_length_a  8.2795100000
 _cell_length_b  2.7598400000
 _cell_length_c  3.9303200000

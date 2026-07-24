@@ -1,0 +1,38 @@
+{
+    "uid": "APMY",
+    "label": "A24BC2_hP27_191_jmn_b_c-001",
+    "alias": null,
+    "title": "Predicted LaSc$_{2}$H$_{24}$ Superconducting Structure",
+    "icsd": null,
+    "ccdc": null,
+    "prototype": "H24LaSc2",
+    "prototype_tex": "H$_{24}$LaSc$_{2}$",
+    "number_of_species": 3,
+    "pearson_symbol": "hP27",
+    "space_group_number": 191,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
+        "a",
+	"c/a",
+	"x3",
+	"x4",
+	"x5",
+	"z5"
+    ],
+    "parameter_values": [
+        4.712,
+	0.686757,
+	0.238,
+	0.759,
+	0.386,
+	0.711
+    ],
+    "mineral_name": null,
+    "minerals": {},
+    "compounds": null,
+    "legacy": false,
+    "notes": "Theoretical",
+    "comments": "(He, 2024) predicted this structure to be a stable form of LaSc$_{2}$H$_{24}$ at pressures in the range 167-300 GPa with $T_{c}$ above 300K. \n Later (Song, 2025) found LaSc$_{2}$H$_{24}$ to be superconducting at 298K and above 195 GPa. If confirmed this is the first observed room-temperature superconductor. \n We use the prediction of the structure from (He, 2024) at 300 GPa."
+}

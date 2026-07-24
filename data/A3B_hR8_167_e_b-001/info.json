@@ -1,32 +1,50 @@
 {
-    "uid": "GPY3",
-    "label": "A3B_hR8_167_e_b-001",
-    "alias": [
-        "A3B_hR8_167_e_b"
-    ],
-    "title": "FeF$_{3}$ ($D0_{12}$) Structure",
-    "icsd": "16671",
-    "ccdc": null,
-    "prototype": "F3Fe",
-    "prototype_tex": "F$_{3}$Fe",
-    "number_of_species": 2,
-    "pearson_symbol": "hR8",
-    "space_group_number": 167,
-    "strukturbericht": "D0_12",
-    "strukturbericht_tex": "$D0_{12}$",
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x2"
-    ],
-    "parameter_values": [
-        5.19796,
-        2.56464,
-        0.836
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$D0_{12}$",
-    "comments": null
+  "uid": "GPY3",
+  "label": "A3B_hR8_167_e_b-001",
+  "alias": [
+    "A3B_hR8_167_e_b"
+  ],
+  "title": "FeF$_{3}$ ($D0_{12}$) Structure",
+  "icsd": 16671,
+  "ccdc": 1597225,
+  "prototype": "F3Fe",
+  "prototype_tex": "F$_{3}$Fe",
+  "number_of_species": 2,
+  "pearson_symbol": "hR8",
+  "space_group_number": 167,
+  "strukturbericht": "D012",
+  "strukturbericht_tex": "$D0_{12}$",
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x2"
+  ],
+  "parameter_values": [
+    5.19796,
+    2.56464,
+    0.836
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "$\\alpha$-AlF$_{3}$",
+    "AlH$_{3}$",
+    "CNi$_{3}$",
+    "CoF$_{3}$",
+    "CrF$_{3}$",
+    "GaF$_{3}$",
+    "IrF$_{3}$",
+    "MoF$_{3}$",
+    "PdF$_{3}$",
+    "RhF$_{3}$",
+    "RuF$_{3}$",
+    "ScF$_{3}$",
+    "TeO$_{3}$",
+    "VF$_{3}$",
+    "ZrO$_{3}$"
+  ],
+  "legacy": false,
+  "notes": "$D0_{12}$",
+  "comments": null
 }

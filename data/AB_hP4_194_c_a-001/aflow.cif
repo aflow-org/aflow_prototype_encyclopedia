@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/AB_hP4_194_c_a-001
 
 # Last updated on 2024/08/01
-data_As2Ni2
-_pd_phase_name As2Ni2
+data_AsNi
+_pd_phase_name AsNi
 _cell_length_a  3.6190000000
 _cell_length_b  3.6190000000
 _cell_length_c  5.0440000000
@@ -60,5 +60,5 @@ loop_
  _atom_site_type_symbol
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
-Ni2 1.0000000000 0.0000033333 0.9999966667 0.0000000000  Biso 1.0 Ni 2 a
+Ni2 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Ni 2 a
 As1 1.0000000000 0.3333333333 0.6666666667 0.2500000000  Biso 1.0 As 2 c

@@ -1,34 +1,41 @@
 {
-    "uid": "NHXQ",
-    "label": "AB3_hR12_166_ac_eh-001",
-    "alias": null,
-    "title": "BaPb$_{3}$ Structure",
-    "icsd": "58665",
-    "ccdc": null,
-    "prototype": "BaPb3",
-    "prototype_tex": "BaPb$_{3}$",
-    "number_of_species": 2,
-    "pearson_symbol": "hR12",
-    "space_group_number": 166,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x2",
-        "x4",
-        "z4"
-    ],
-    "parameter_values": [
-        7.28696,
-        3.53644,
-        0.22222,
-        0.27778,
-        0.77777
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
+  "uid": "NHXQ",
+  "label": "AB3_hR12_166_ac_eh-001",
+  "alias": null,
+  "title": "BaPb$_{3}$ Structure",
+  "icsd": 58665,
+  "ccdc": 1622670,
+  "prototype": "BaPb3",
+  "prototype_tex": "BaPb$_{3}$",
+  "number_of_species": 2,
+  "pearson_symbol": "hR12",
+  "space_group_number": 166,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x2",
+    "x4",
+    "z4"
+  ],
+  "parameter_values": [
+    7.28696,
+    3.53644,
+    0.22222,
+    0.27778,
+    0.77777
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "GdAl$_{3}$",
+    "PuAl$_{3}$",
+    "TbAl$_{3}$",
+    "YAl$_{3}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "Hexagonal settings of this structure can be obtained with the option {\\tt --hex}."
 }

@@ -1,0 +1,34 @@
+{
+    "uid": "C4JM",
+    "label": "A2B_cI36_229_h_d-001",
+    "alias": null,
+    "title": "Hypothetical SiO$_{2}$-like WN$_{2}$ structure",
+    "icsd": null,
+    "ccdc": null,
+    "prototype": "N2W",
+    "prototype_tex": "N$_{2}$W",
+    "number_of_species": 2,
+    "elements": [
+        "N",
+	"W"
+    ],
+    "pearson_symbol": "cI36",
+    "space_group_number": 229,
+    "strukturbericht": null,
+    "strukturbericht_tex": null,
+    "part": 5,
+    "parameter_symbols": [
+        "a",
+	"y2"
+    ],
+    "parameter_values": [
+        10.490362,
+	0.354466
+    ],
+    "mineral_name": null,
+    "minerals": {},
+    "compounds": null,
+    "legacy": false,
+    "notes": null,
+    "comments": "This structure was studied by (Mehl, 2015) as part of an effort to understand vacancy formation in the N$_{1-x}$W$_{x}$ system.  It was produced by removing 4 nitrogen and 10 tungsten atoms from a 64-atom supercell of the \\href{current_web_home_dir/AB_cF8_225_a_b-001}{rock salt ($B1$) structure}. The resulting structure leaves four nitrogen atoms forming a tetrahedron around each tungsten atom, with the perfect regular tetrahedron occuring when y$_{2}$ = 1/$\\sqrt{8}$ with an N-W-N bond angle of 109.47$^\\circ$.  It is similar to the \\href{current_web_home_dir/A2B_cF24_227_c_a-001}{idealized $\\beta$-cristobalite SiO$_{2}$ structure}, although the current structure has never been reported for any compound. \n The y$_{2}$-value for this structure reported in (Mehl, 2015) Table VI should be replaced by 1/2 - y$_{2}$, as we do here."
+}

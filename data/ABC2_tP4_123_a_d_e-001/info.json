@@ -1,30 +1,43 @@
 {
-    "uid": "ACQJ",
-    "label": "ABC2_tP4_123_a_d_e-001",
-    "alias": [
-        "ABC2_tP4_123_d_a_f"
-    ],
-    "title": "CaCuO$_{2}$ Structure",
-    "icsd": "65066",
-    "ccdc": null,
-    "prototype": "CaCuO2",
-    "prototype_tex": "CaCuO$_{2}$",
-    "number_of_species": 3,
-    "pearson_symbol": "tP4",
-    "space_group_number": 123,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "c/a"
-    ],
-    "parameter_values": [
-        3.8611,
-        0.82865
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "As noted in (Siegrist, 1988) this is the parent structure of the high-temperature cuprate superconductors. \n (Siegrist, 1988) give the composition of the Ca (1a) site as Ca$_{0.86}$Sr$_{0.14}$. \n We have shifted the origin from the Cu site to the Ca site."
+  "uid": "ACQJ",
+  "label": "ABC2_tP4_123_a_d_e-001",
+  "alias": [
+    "ABC2_tP4_123_d_a_f"
+  ],
+  "title": "CaCuO$_{2}$ Structure",
+  "icsd": 65066,
+  "ccdc": 1627216,
+  "prototype": "CaCuO2",
+  "prototype_tex": "CaCuO$_{2}$",
+  "number_of_species": 3,
+  "pearson_symbol": "tP4",
+  "space_group_number": 123,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a"
+  ],
+  "parameter_values": [
+    3.8611,
+    0.82865
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "(Ba,Sr)CuO$_{2}$",
+    "(Sr,La)CuO$_{2}$",
+    "(Sr,Ca)CuO$_{2}$",
+    "LaNiO$_{2}$",
+    "NdNiO$_{2}$",
+    "CsNiF$_{2}$",
+    "KNiF$_{2}$",
+    "LiNiF$_{2}$",
+    "NaNiF$_{2}$",
+    "RbNiF$_{2}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "As noted in (Siegrist, 1988) this is the parent structure of the high-temperature cuprate superconductors. \n (Siegrist, 1988) give the composition of the Ca (1a) site as Ca$_{0.86}$Sr$_{0.14}$. \n We have shifted the origin from the Cu site to the Ca site."
 }

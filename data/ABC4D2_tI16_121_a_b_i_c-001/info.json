@@ -1,32 +1,42 @@
 {
-    "uid": "RB89",
-    "label": "ABC4D2_tI16_121_a_b_i_c-001",
-    "alias": null,
-    "title": "Tl$_{2}$CdGeTe$_{4}$ Structure",
-    "icsd": "172502",
-    "ccdc": null,
-    "prototype": "CdGeTe4Tl2",
-    "prototype_tex": "CdGeTe$_{4}$Tl$_{2}$",
-    "number_of_species": 4,
-    "pearson_symbol": "tI16",
-    "space_group_number": 121,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x4",
-        "z4"
-    ],
-    "parameter_values": [
-        8.3825,
-        0.844319,
-        0.1749,
-        0.2748
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "RB89",
+  "label": "ABC4D2_tI16_121_a_b_i_c-001",
+  "alias": null,
+  "title": "Tl$_{2}$CdGeTe$_{4}$ Structure",
+  "icsd": 172502,
+  "ccdc": 1687595,
+  "prototype": "CdGeTe4Tl2",
+  "prototype_tex": "CdGeTe$_{4}$Tl$_{2}$",
+  "number_of_species": 4,
+  "pearson_symbol": "tI16",
+  "space_group_number": 121,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x4",
+    "z4"
+  ],
+  "parameter_values": [
+    8.3825,
+    0.844319,
+    0.1749,
+    0.2748
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Tl$_{2}$CdSnTe$_{4}$",
+    "Tl$_{2}$HgGeTe$_{4}$",
+    "Tl$_{2}$HgSiSe$_{4}$",
+    "Tl$_{2}$HgSnSe$_{4}$",
+    "Tl$_{2}$HgSnTe$_{4}$",
+    "Tl$_{2}$MnGeTe$_{4}$",
+    "Tl$_{2}$MnSnTe$_{4}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

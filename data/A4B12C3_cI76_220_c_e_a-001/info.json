@@ -1,36 +1,55 @@
 {
-    "uid": "VQL6",
-    "label": "A4B12C3_cI76_220_c_e_a-001",
-    "alias": [
-        "A4B12C3_cI76_220_c_e_a"
-    ],
-    "title": "Eulytine (Bi$_{4}$(SiO$_{4}$)$_{3}$, $S1_{5}$) Structure",
-    "icsd": "402349",
-    "ccdc": null,
-    "prototype": "Bi4O12Si3",
-    "prototype_tex": "Bi$_{4}$O$_{12}$Si$_{3}$",
-    "number_of_species": 3,
-    "pearson_symbol": "cI76",
-    "space_group_number": 220,
-    "strukturbericht": "S1_5",
-    "strukturbericht_tex": "$S1_{5}$",
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "x2",
-        "x3",
-        "y3",
-        "z3"
-    ],
-    "parameter_values": [
-        10.2867,
-        0.0849,
-        0.059,
-        0.131,
-        0.2889
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$S1_{5}$, Eulytine",
-    "comments": null
+  "uid": "VQL6",
+  "label": "A4B12C3_cI76_220_c_e_a-001",
+  "alias": [
+    "A4B12C3_cI76_220_c_e_a"
+  ],
+  "title": "Eulytine (Bi$_{4}$(SiO$_{4}$)$_{3}$, $S1_{5}$) Structure",
+  "icsd": 402349,
+  "ccdc": 1724849,
+  "prototype": "Bi4O12Si3",
+  "prototype_tex": "Bi$_{4}$O$_{12}$Si$_{3}$",
+  "number_of_species": 3,
+  "pearson_symbol": "cI76",
+  "space_group_number": 220,
+  "strukturbericht": "S15",
+  "strukturbericht_tex": "$S1_{5}$",
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "x2",
+    "x3",
+    "y3",
+    "z3"
+  ],
+  "parameter_values": [
+    10.2867,
+    0.0849,
+    0.059,
+    0.131,
+    0.2889
+  ],
+  "mineral_name": "eulytine",
+  "minerals": null,
+  "compounds": [
+    "Ba$_{3}$Bi(PO$_{4}$)$_{3}$",
+    "Ba$_{3}$Gd(PO$_{4}$)$_{3}$",
+    "Ba$_{3}$In(PO$_{4}$)$_{3}$",
+    "Ba$_{3}$La(PO$_{4}$)$_{3}$",
+    "Ba$_{3}$Lu(PO$_{4}$)$_{3}$",
+    "Ba$_{3}$Nd(PO$_{4}$)$_{3}$",
+    "Ba$_{3}$Y(PO$_{4}$)$_{3}$",
+    "Sr$_{3}$Bi(PO$_{4}$)$_{3}$",
+    "Sr$_{3}$Gd(PO$_{4}$)$_{3}$",
+    "Sr$_{3}$In(PO$_{4}$)$_{3}$",
+    "Sr$_{3}$La(PO$_{4}$)$_{3}$",
+    "Sr$_{3}$Lu(PO$_{4}$)$_{3}$",
+    "Sr$_{3}$Nd(PO$_{4}$)$_{3}$",
+    "Sr$_{3}$Y(PO$_{4}$)$_{3}$",
+    "Bi$_{4}$(GeO$_{4}$)$_{3}$",
+    "Ca$_{3}$Bi(PO$_{4}$)$_{3}$"
+  ],
+  "legacy": false,
+  "notes": "$S1_{5}$, Eulytine",
+  "comments": null
 }

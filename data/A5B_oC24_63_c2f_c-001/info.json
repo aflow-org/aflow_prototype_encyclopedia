@@ -1,44 +1,48 @@
 {
-    "uid": "EE51",
-    "label": "A5B_oC24_63_c2f_c-001",
-    "alias": [
-        "A5B_oC24_63_c2f_c"
-    ],
-    "title": "ZrTe$_{5}$ Structure",
-    "icsd": "85506",
-    "ccdc": null,
-    "prototype": "Te5Zr",
-    "prototype_tex": "Te$_{5}$Zr",
-    "number_of_species": 2,
-    "pearson_symbol": "oC24",
-    "space_group_number": 63,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "y1",
-        "y2",
-        "y3",
-        "z3",
-        "y4",
-        "z4"
-    ],
-    "parameter_values": [
-        3.9875,
-        3.64389,
-        3.44075,
-        0.316,
-        0.633,
-        0.933,
-        0.151,
-        0.209,
-        0.434
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "We use the data taken at room temperature."
+  "uid": "EE51",
+  "label": "A5B_oC24_63_c2f_c-001",
+  "alias": [
+    "A5B_oC24_63_c2f_c"
+  ],
+  "title": "ZrTe$_{5}$ Structure",
+  "icsd": 85506,
+  "ccdc": 1645430,
+  "prototype": "Te5Zr",
+  "prototype_tex": "Te$_{5}$Zr",
+  "number_of_species": 2,
+  "pearson_symbol": "oC24",
+  "space_group_number": 63,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "y1",
+    "y2",
+    "y3",
+    "z3",
+    "y4",
+    "z4"
+  ],
+  "parameter_values": [
+    3.9875,
+    3.64389,
+    3.44075,
+    0.316,
+    0.633,
+    0.933,
+    0.151,
+    0.209,
+    0.434
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "HfTe$_{5}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "We use the data taken at room temperature."
 }

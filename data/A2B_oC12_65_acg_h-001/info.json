@@ -1,34 +1,36 @@
 {
-    "uid": "V3JJ",
-    "label": "A2B_oC12_65_acg_h-001",
-    "alias": null,
-    "title": "Ga$_{2}$Zr Structure",
-    "icsd": "104041",
-    "ccdc": null,
-    "prototype": "Ga2Zr",
-    "prototype_tex": "Ga$_{2}$Zr",
-    "number_of_species": 2,
-    "pearson_symbol": "oC12",
-    "space_group_number": 65,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "x3",
-        "x4"
-    ],
-    "parameter_values": [
-        12.894,
-        0.309756,
-        0.319761,
-        0.676,
-        0.851
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "V3JJ",
+  "label": "A2B_oC12_65_acg_h-001",
+  "alias": null,
+  "title": "Ga$_{2}$Zr Structure",
+  "icsd": 104041,
+  "ccdc": 1661964,
+  "prototype": "Ga2Zr",
+  "prototype_tex": "Ga$_{2}$Zr",
+  "number_of_species": 2,
+  "pearson_symbol": "oC12",
+  "space_group_number": 65,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "x3",
+    "x4"
+  ],
+  "parameter_values": [
+    12.894,
+    0.309756,
+    0.319761,
+    0.676,
+    0.851
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

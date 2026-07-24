@@ -12,8 +12,8 @@
 
 # Last updated on 2024/08/01
 
-data_Al9Ba1Fe2
-_pd_phase_name Al9Ba1Fe2
+data_Al9BaFe2
+_pd_phase_name Al9BaFe2
 _cell_length_a  8.0400000000
 _cell_length_b  8.0400000000
 _cell_length_c  3.8900000000
@@ -61,6 +61,6 @@ loop_
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
 Ba3 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Ba 1 a
-Fe4 1.0000000000 0.3333300000 0.6666700000 0.0000000000  Biso 1.0 Fe 2 c
+Fe4 1.0000000000 0.3333333333 0.6666666667 0.0000000000  Biso 1.0 Fe 2 c
 Al1 1.0000000000 0.5000000000 0.0000000000 0.0000000000  Biso 1.0 Al 3 f
 Al2 1.0000000000 0.2120000000 0.4240000000 0.5000000000  Biso 1.0 Al 6 m

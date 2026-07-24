@@ -1,42 +1,46 @@
 {
-    "uid": "F86A",
-    "label": "A8B7C6_hP21_175_ck_aj_k-001",
-    "alias": [
-        "A8B7C6_hP21_175_ck_aj_k"
-    ],
-    "title": "Nb$_{7}$Ru$_{6}$B$_{8}$ Structure",
-    "icsd": "263041",
-    "ccdc": null,
-    "prototype": "B8Nb7Ru6",
-    "prototype_tex": "B$_{8}$Nb$_{7}$Ru$_{6}$",
-    "number_of_species": 3,
-    "pearson_symbol": "hP21",
-    "space_group_number": 175,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x3",
-        "y3",
-        "x4",
-        "y4",
-        "x5",
-        "y5"
-    ],
-    "parameter_values": [
-        9.506,
-        0.334778,
-        0.08627,
-        0.72292,
-        0.0661,
-        0.221,
-        0.15405,
-        0.51373
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "F86A",
+  "label": "A8B7C6_hP21_175_ck_aj_k-001",
+  "alias": [
+    "A8B7C6_hP21_175_ck_aj_k"
+  ],
+  "title": "Nb$_{7}$Ru$_{6}$B$_{8}$ Structure",
+  "icsd": 263041,
+  "ccdc": 1720598,
+  "prototype": "B8Nb7Ru6",
+  "prototype_tex": "B$_{8}$Nb$_{7}$Ru$_{6}$",
+  "number_of_species": 3,
+  "pearson_symbol": "hP21",
+  "space_group_number": 175,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x3",
+    "y3",
+    "x4",
+    "y4",
+    "x5",
+    "y5"
+  ],
+  "parameter_values": [
+    9.506,
+    0.334778,
+    0.08627,
+    0.72292,
+    0.0661,
+    0.221,
+    0.15405,
+    0.51373
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Ta$_{7}$Ru$_{6}$B$_{8}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

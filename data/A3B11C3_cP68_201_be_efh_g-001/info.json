@@ -1,42 +1,44 @@
 {
-    "uid": "0WEU",
-    "label": "A3B11C3_cP68_201_be_efh_g-001",
-    "alias": [
-        "A3B11C3_cP68_201_be_efh_g"
-    ],
-    "title": "Bi$_{3}$Ru$_{3}$O$_{11}$ Structure",
-    "icsd": "4194",
-    "ccdc": null,
-    "prototype": "Bi3O11Ru3",
-    "prototype_tex": "Bi$_{3}$O$_{11}$Ru$_{3}$",
-    "number_of_species": 3,
-    "pearson_symbol": "cP68",
-    "space_group_number": 201,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "x2",
-        "x3",
-        "x4",
-        "x5",
-        "x6",
-        "y6",
-        "z6"
-    ],
-    "parameter_values": [
-        9.302,
-        0.38379,
-        0.152,
-        0.59,
-        0.3897,
-        0.599,
-        0.247,
-        0.547
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "0WEU",
+  "label": "A3B11C3_cP68_201_be_efh_g-001",
+  "alias": [
+    "A3B11C3_cP68_201_be_efh_g"
+  ],
+  "title": "Bi$_{3}$Ru$_{3}$O$_{11}$ Structure",
+  "icsd": 4194,
+  "ccdc": 1592879,
+  "prototype": "Bi3O11Ru3",
+  "prototype_tex": "Bi$_{3}$O$_{11}$Ru$_{3}$",
+  "number_of_species": 3,
+  "pearson_symbol": "cP68",
+  "space_group_number": 201,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "x2",
+    "x3",
+    "x4",
+    "x5",
+    "x6",
+    "y6",
+    "z6"
+  ],
+  "parameter_values": [
+    9.302,
+    0.38379,
+    0.152,
+    0.59,
+    0.3897,
+    0.599,
+    0.247,
+    0.547
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

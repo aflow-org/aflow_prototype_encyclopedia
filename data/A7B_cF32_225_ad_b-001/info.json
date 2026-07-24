@@ -1,28 +1,37 @@
 {
-    "uid": "CAN8",
-    "label": "A7B_cF32_225_ad_b-001",
-    "alias": [
-        "A7B_cF32_225_bd_a"
-    ],
-    "title": "Ca$_{7}$Ge Structure",
-    "icsd": "43321",
-    "ccdc": null,
-    "prototype": "Ca7Ge",
-    "prototype_tex": "Ca$_{7}$Ge",
-    "number_of_species": 2,
-    "pearson_symbol": "cF32",
-    "space_group_number": 225,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 1,
-    "parameter_symbols": [
-        "a"
-    ],
-    "parameter_values": [
-        9.45
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "CAN8",
+  "label": "A7B_cF32_225_ad_b-001",
+  "alias": [
+    "A7B_cF32_225_bd_a"
+  ],
+  "title": "Ca$_{7}$Ge Structure",
+  "icsd": 43321,
+  "ccdc": 1612834,
+  "prototype": "Ca7Ge",
+  "prototype_tex": "Ca$_{7}$Ge",
+  "number_of_species": 2,
+  "pearson_symbol": "cF32",
+  "space_group_number": 225,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 1,
+  "parameter_symbols": [
+    "a"
+  ],
+  "parameter_values": [
+    9.45
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "CuPt$_{7}$",
+    "DyPd$_{7}$",
+    "LiPd$_{7}$",
+    "LiPt$_{7}$",
+    "SbPt$_{7}$",
+    "MoZn$_{7}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "The \\href{current_web_home_dir/Tutorials/AFLOW_Prototype_Label/index.html#LabelOrder}{AFLOW prototype label protocol} shifts the origin by (a/2,a/2,a/2) which places the Ca I atom on the (4a) site rather than the Ge I atom specified by (Helleis, 1963)"
 }

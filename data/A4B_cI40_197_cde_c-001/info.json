@@ -1,36 +1,38 @@
 {
-    "uid": "PBV9",
-    "label": "A4B_cI40_197_cde_c-001",
-    "alias": [
-        "A4B_cI40_197_cde_c"
-    ],
-    "title": "Ga$_{4}$Ni Structure",
-    "icsd": "103863",
-    "ccdc": null,
-    "prototype": "Ga4Ni",
-    "prototype_tex": "Ga$_{4}$Ni",
-    "number_of_species": 2,
-    "pearson_symbol": "cI40",
-    "space_group_number": 197,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "x1",
-        "x2",
-        "x3",
-        "x4"
-    ],
-    "parameter_values": [
-        8.4295,
-        0.1668,
-        0.3345,
-        0.6476,
-        0.7484
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "PBV9",
+  "label": "A4B_cI40_197_cde_c-001",
+  "alias": [
+    "A4B_cI40_197_cde_c"
+  ],
+  "title": "Ga$_{4}$Ni Structure",
+  "icsd": 103863,
+  "ccdc": 1661797,
+  "prototype": "Ga4Ni",
+  "prototype_tex": "Ga$_{4}$Ni",
+  "number_of_species": 2,
+  "pearson_symbol": "cI40",
+  "space_group_number": 197,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "x1",
+    "x2",
+    "x3",
+    "x4"
+  ],
+  "parameter_values": [
+    8.4295,
+    0.1668,
+    0.3345,
+    0.6476,
+    0.7484
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

@@ -1,34 +1,62 @@
 {
-    "uid": "0FQT",
-    "label": "A4BC_tI24_141_h_a_b-001",
-    "alias": [
-        "A4BC_tI24_141_h_b_a"
-    ],
-    "title": "Zircon (ZrSiO$_{4}$, $S1_{1}$) Structure",
-    "icsd": "100239",
-    "ccdc": null,
-    "prototype": "O4SiZr",
-    "prototype_tex": "O$_{4}$SiZr",
-    "number_of_species": 3,
-    "pearson_symbol": "tI24",
-    "space_group_number": 141,
-    "strukturbericht": "S1_1",
-    "strukturbericht_tex": "$S1_{1}$",
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "y3",
-        "z3"
-    ],
-    "parameter_values": [
-        6.6042,
-        0.905424,
-        0.066,
-        0.6951
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$S1_{1}$, Zircon",
-    "comments": null
+  "uid": "0FQT",
+  "label": "A4BC_tI24_141_h_a_b-001",
+  "alias": [
+    "A4BC_tI24_141_h_b_a"
+  ],
+  "title": "Zircon (ZrSiO$_{4}$, $S1_{1}$) Structure",
+  "icsd": 100239,
+  "ccdc": 1659387,
+  "prototype": "O4SiZr",
+  "prototype_tex": "O$_{4}$SiZr",
+  "number_of_species": 3,
+  "pearson_symbol": "tI24",
+  "space_group_number": 141,
+  "strukturbericht": "S11",
+  "strukturbericht_tex": "$S1_{1}$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "y3",
+    "z3"
+  ],
+  "parameter_values": [
+    6.6042,
+    0.905424,
+    0.066,
+    0.6951
+  ],
+  "mineral_name": "zircon",
+  "minerals": null,
+  "compounds": [
+    "BiVO$_{4}$",
+    "CeSiO$_{4}$",
+    "CeVO$_{4}$",
+    "DyPO$_{4}$",
+    "ErPO$_{4}$",
+    "ErVO$_{4}$",
+    "HfSO$_{4}$",
+    "HoPO$_{4}$",
+    "HoVO$_{4}$",
+    "LuPO$_{4}$",
+    "LuVO$_{4}$",
+    "NdVO$_{4}$",
+    "PrVO$_{4}$",
+    "ScPO$_{4}$",
+    "ScVO$_{4}$",
+    "TbPO$_{4}$",
+    "TbVO$_{4}$",
+    "ThSiO$_{4}$",
+    "TmPO$_{4}$",
+    "TmVO$_{4}$",
+    "YPO$_{4}$",
+    "YVO$_{4}$",
+    "YbAsO$_{4}$",
+    "YbPO$_{4}$",
+    "YbVO$_{4}$"
+  ],
+  "legacy": false,
+  "notes": "$S1_{1}$, Zircon",
+  "comments": null
 }

@@ -5,15 +5,15 @@
 # Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
 # Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
 # Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
-# Chemical Composition:  Li2O3Pr
+# Chemical Composition:  Li2PrO3
 
 # The current version of this file is available at
 # https://aflow.org/prototype-encyclopedia/A2B3C_oC12_65_h_ah_b-001
 
 # Last updated on 2024/08/01
 
-data_Li4O6Pr2
-_pd_phase_name Li4O6Pr2
+data_Li2O3Pr
+_pd_phase_name Li2O3Pr
 _cell_length_a  9.5198000000
 _cell_length_b  4.4510000000
 _cell_length_c  3.4825000000
@@ -52,7 +52,7 @@ loop_
  _atom_site_type_symbol
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
-O2 1.0000000000 0.0000000000 -0.0000000000 0.0000000000  Biso 1.0 O 2 a
+O2  1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 O  2 a
 Pr4 1.0000000000 0.5000000000 0.0000000000 0.0000000000  Biso 1.0 Pr 2 b
-Li1 1.0000000000 0.1556000000 -0.0000000000 0.5000000000  Biso 1.0 Li 4 h
-O3 1.0000000000 0.3557000000 -0.0000000000 0.5000000000  Biso 1.0 O 4 h
+Li1 1.0000000000 0.1556000000 0.0000000000 0.5000000000  Biso 1.0 Li 4 h
+O3  1.0000000000 0.3557000000 0.0000000000 0.5000000000  Biso 1.0 O  4 h

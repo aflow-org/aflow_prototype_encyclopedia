@@ -12,8 +12,8 @@
 
 # Last updated on 2024/08/01
 
-data_Br4Cu4Se12
-_pd_phase_name Br4Cu4Se12
+data_BrCuSe3
+_pd_phase_name BrrCuSe3
 _cell_length_a  4.4809827580
 _cell_length_b  7.6719704796
 _cell_length_c  14.3289448648

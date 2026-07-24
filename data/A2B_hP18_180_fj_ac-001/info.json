@@ -1,34 +1,39 @@
 {
-    "uid": "TDY8",
-    "label": "A2B_hP18_180_fj_ac-001",
-    "alias": [
-        "A2B_hP18_180_fi_bd"
-    ],
-    "title": "Mg$_{2}$Ni ($C_{a}$) Structure",
-    "icsd": "104912",
-    "ccdc": null,
-    "prototype": "Mg2Ni",
-    "prototype_tex": "Mg$_{2}$Ni",
-    "number_of_species": 2,
-    "pearson_symbol": "hP18",
-    "space_group_number": 180,
-    "strukturbericht": "C_a",
-    "strukturbericht_tex": "$C_{a}$",
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z3",
-        "x4"
-    ],
-    "parameter_values": [
-        5.198,
-        2.54136,
-        0.1141,
-        0.1635
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$C_{a}$",
-    "comments": "This structure can also be found in the enantiomorphic space group $P6_{4}22$ \\#181. \n Our original (Mehl, 2017) rendering of this structure swapped the magnesium z$_{3}$ and x$_{4}$ coordinates."
+  "uid": "TDY8",
+  "label": "A2B_hP18_180_fj_ac-001",
+  "alias": [
+    "A2B_hP18_180_fi_bd"
+  ],
+  "title": "Mg$_{2}$Ni ($C_{a}$) Structure",
+  "icsd": 104912,
+  "ccdc": 1662813,
+  "prototype": "Mg2Ni",
+  "prototype_tex": "Mg$_{2}$Ni",
+  "number_of_species": 2,
+  "pearson_symbol": "hP18",
+  "space_group_number": 180,
+  "strukturbericht": "Ca",
+  "strukturbericht_tex": "$C_{a}$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z3",
+    "x4"
+  ],
+  "parameter_values": [
+    5.198,
+    2.54136,
+    0.1141,
+    0.1635
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "CuMg$_{4}$Ni",
+    "MoSn$_{2}$"
+  ],
+  "legacy": false,
+  "notes": "$C_{a}$",
+  "comments": "This structure can also be found in the enantiomorphic space group $P6_{4}22$ \\#181. \n Our original (Mehl, 2017) rendering of this structure swapped the magnesium z$_{3}$ and x$_{4}$ coordinates."
 }

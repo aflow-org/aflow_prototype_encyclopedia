@@ -1,34 +1,36 @@
 {
-    "uid": "1QZH",
-    "label": "A3B2_hP10_176_h_bc-001",
-    "alias": [
-        "A3B2_hP10_176_h_bc"
-    ],
-    "title": "Er$_{3}$Ru$_{2}$ Structure",
-    "icsd": "106615",
-    "ccdc": null,
-    "prototype": "Er3Ru2",
-    "prototype_tex": "Er$_{3}$Ru$_{2}$",
-    "number_of_species": 2,
-    "pearson_symbol": "hP10",
-    "space_group_number": 176,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x3",
-        "y3"
-    ],
-    "parameter_values": [
-        7.875,
-        0.499175,
-        0.3847,
-        0.0915
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "We have updated the reference for this structure from (Palenzona, 199) in (Hicks, 2019), which does not give the atomic positions, to (Fornasini, 1990), which does."
+  "uid": "1QZH",
+  "label": "A3B2_hP10_176_h_bc-001",
+  "alias": [
+    "A3B2_hP10_176_h_bc"
+  ],
+  "title": "Er$_{3}$Ru$_{2}$ Structure",
+  "icsd": 106615,
+  "ccdc": 1664395,
+  "prototype": "Er3Ru2",
+  "prototype_tex": "Er$_{3}$Ru$_{2}$",
+  "number_of_species": 2,
+  "pearson_symbol": "hP10",
+  "space_group_number": 176,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x3",
+    "y3"
+  ],
+  "parameter_values": [
+    7.875,
+    0.499175,
+    0.3847,
+    0.0915
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": "We have updated the reference for this structure from (Palenzona, 199) in (Hicks, 2019), which does not give the atomic positions, to (Fornasini, 1990), which does."
 }

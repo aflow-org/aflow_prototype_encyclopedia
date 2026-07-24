@@ -10,10 +10,10 @@
 # The current version of this file is available at
 # https://aflow.org/prototype-encyclopedia/AB2C5D_tI36_140_a_h_cl_b-001
 
-# Last updated on 2024/08/01
+# Last updated on 2025/08/22
 
-data_Ba4La8O20Zn4
-_pd_phase_name Ba4La8O20Zn4
+data_BaLa2ZnO5
+_pd_phase_name BaLa2ZnO5
 _cell_length_a  6.9099100000
 _cell_length_b  6.9099100000
 _cell_length_c  11.5978200000
@@ -70,6 +70,6 @@ loop_
  _atom_site_Wyckoff_label
 Ba1 1.0000000000 0.0000000000 0.0000000000 0.2500000000  Biso 1.0 Ba 4 a
 Zn5 1.0000000000 0.0000000000 0.5000000000 0.2500000000  Biso 1.0 Zn 4 b
-O3 1.0000000000 0.0000000000 -0.0000000000 0.0000000000  Biso 1.0 O 4 c
+O3  1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 O  4 c
 La2 1.0000000000 0.1737000000 0.6737000000 0.0000000000  Biso 1.0 La 8 h
-O4 1.0000000000 0.3548000000 0.8548000000 0.1357000000  Biso 1.0 O 16 l
+O4  1.0000000000 0.3548000000 0.8548000000 0.1357000000  Biso 1.0 O 16 l

@@ -12,8 +12,8 @@
 
 # Last updated on 2024/08/02
 
-data_Cr4S4
-_pd_phase_name Cr4S4
+data_CrS
+_pd_phase_name CrS
 _cell_length_a  3.8260000000
 _cell_length_b  5.9130000000
 _cell_length_c  6.0890000000
@@ -45,4 +45,4 @@ loop_
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
 Cr1 1.0000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Cr 4 a
-S2 1.0000000000 0.0000000000 0.6800000000 0.2500000000  Biso 1.0 S 4 e
+S2  1.0000000000 0.0000000000 0.6800000000 0.2500000000  Biso 1.0 S  4 e

@@ -5,18 +5,19 @@
 # Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
 # Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
 # Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
-# Chemical Composition:  N4Si3
+
+# Chemical Composition:  beta Si3N4
 
 # The current version of this file is available at
-# https://aflow.org/prototype-encyclopedia/A4B3_hP14_173_bc_c-001
+# https://aflow.org/prototype-encyclopedia/A4B3_hP14_173_bc_c-001 
 
-# Last updated on 2024/08/01
+# Last updated on 2025/07/31
 
-data_N8Si6
-_pd_phase_name N8Si6
-_cell_length_a  7.6030380220
-_cell_length_b  7.6030380220
-_cell_length_c  2.9090145477
+data_Si3N4
+_pd_phase_name Si3N4
+_cell_length_a  7.5950000000
+_cell_length_b  7.5950000000
+_cell_length_c  2.9023000000
 _cell_angle_alpha  90.0000000000
 _cell_angle_beta  90.0000000000
 _cell_angle_gamma  120.0000000000
@@ -42,6 +43,6 @@ loop_
  _atom_site_type_symbol
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
-N1 1.0000000000 0.3333300000 0.6666700000 0.0000000000  Biso 1.0 N 2 b
-N2 1.0000000000 0.3284000000 0.0313000000 0.0500000000  Biso 1.0 N 6 c
-Si3 1.0000000000 0.2314000000 0.4063000000 0.0130000000  Biso 1.0 Si 6 c
+N1  1.0000000000 0.3333333333 0.6666666667 0.2608000000  Biso 1.0 N  2 b
+N2  1.0000000000 0.3294000000 0.2996000000 0.2628000000  Biso 1.0 N  6 c
+Si3 1.0000000000 0.1744000000 0.4058000000 0.2500000000  Biso 1.0 Si 6 c

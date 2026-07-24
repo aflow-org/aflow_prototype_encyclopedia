@@ -1,36 +1,38 @@
 {
-    "uid": "8XP6",
-    "label": "A2BCD3E6_cF208_227_e_c_d_f_g-001",
-    "alias": [
-        "A2BCD3E6_cF208_227_e_c_d_f_g"
-    ],
-    "title": "$G7_{3}$ [Na$_{3}$MgCl(CO$_{3}$)$_{2}$] Structure ({\\em Obsolete})",
-    "icsd": "27790",
-    "ccdc": null,
-    "prototype": "C2ClMgNa3O6",
-    "prototype_tex": "C$_{2}$ClMgNa$_{3}$O$_{6}$",
-    "number_of_species": 5,
-    "pearson_symbol": "cF208",
-    "space_group_number": 227,
-    "strukturbericht": "G7_3",
-    "strukturbericht_tex": "$G7_{3}$",
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "x3",
-        "x4",
-        "x5",
-        "z5"
-    ],
-    "parameter_values": [
-        14.05,
-        0.715,
-        0.35,
-        0.75,
-        0.65
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$G7_{3}$, Northupite ({\\em Obsolete})",
-    "comments": "This is the original structure determined by (Shiba, 1931) and given the designation $G7_{3}$ in (Hermann, 1937).  (Negro, 1975) showed that the correct structure was \\href{current_web_home_dir/A2BCD3E6_cF208_203_e_c_d_f_g-001}{actually related to cubic pyrochlore}. The two structures are very similar, and a displacement of the oxygen atoms by less than 1{\\AA} brings the two structures into agreement."
+  "uid": "8XP6",
+  "label": "A2BCD3E6_cF208_227_e_c_d_f_g-001",
+  "alias": [
+    "A2BCD3E6_cF208_227_e_c_d_f_g"
+  ],
+  "title": "$G7_{3}$ [Na$_{3}$MgCl(CO$_{3}$)$_{2}$] Structure ({\\em Obsolete})",
+  "icsd": 27790,
+  "ccdc": 1602979,
+  "prototype": "C2ClMgNa3O6",
+  "prototype_tex": "C$_{2}$ClMgNa$_{3}$O$_{6}$",
+  "number_of_species": 5,
+  "pearson_symbol": "cF208",
+  "space_group_number": 227,
+  "strukturbericht": "G73",
+  "strukturbericht_tex": "$G7_{3}$",
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "x3",
+    "x4",
+    "x5",
+    "z5"
+  ],
+  "parameter_values": [
+    14.05,
+    0.715,
+    0.35,
+    0.75,
+    0.65
+  ],
+  "mineral_name": "northupite",
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "$G7_{3}$, Northupite ({\\em Obsolete})",
+  "comments": "This is the original structure determined by (Shiba, 1931) and given the designation $G7_{3}$ in (Hermann, 1937).  (Negro, 1975) showed that the correct structure was \\href{current_web_home_dir/A2BCD3E6_cF208_203_e_c_d_f_g-001}{actually related to cubic pyrochlore}. The two structures are very similar, and a displacement of the oxygen atoms by less than 1{\\AA} brings the two structures into agreement."
 }

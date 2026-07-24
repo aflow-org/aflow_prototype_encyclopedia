@@ -1,30 +1,34 @@
 {
-    "uid": "K791",
-    "label": "AB2C3_cP24_212_a_c_d-001",
-    "alias": null,
-    "title": "Li$_{2}$Pd$_{3}$B Structure",
-    "icsd": "84931",
-    "ccdc": null,
-    "prototype": "BLi2Pt3",
-    "prototype_tex": "BLi$_{2}$Pt$_{3}$",
-    "number_of_species": 3,
-    "pearson_symbol": "cP24",
-    "space_group_number": 212,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-        "a",
-        "x2",
-        "y3"
-    ],
-    "parameter_values": [
-        6.7534,
-        0.4428,
-        0.69583
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "This structure can also be expressed in the enantiomorphic space group $P4_{1}32$ \\#213."
+  "uid": "K791",
+  "label": "AB2C3_cP24_212_a_c_d-001",
+  "alias": null,
+  "title": "Li$_{2}$Pd$_{3}$B Structure",
+  "icsd": 84931,
+  "ccdc": 1644901,
+  "prototype": "BLi2Pt3",
+  "prototype_tex": "BLi$_{2}$Pt$_{3}$",
+  "number_of_species": 3,
+  "pearson_symbol": "cP24",
+  "space_group_number": 212,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "x2",
+    "y3"
+  ],
+  "parameter_values": [
+    6.7534,
+    0.4428,
+    0.69583
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Li$_{2}$Pt$_{3}$B"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "This structure can also be expressed in the enantiomorphic space group $P4_{1}32$ \\#213."
 }

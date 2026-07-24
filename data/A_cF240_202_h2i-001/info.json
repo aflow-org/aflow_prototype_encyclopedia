@@ -1,44 +1,48 @@
 {
-    "uid": "TV0E",
-    "label": "A_cF240_202_h2i-001",
-    "alias": [
-        "A_cF240_202_h2i"
-    ],
-    "title": "FCC C$_{60}$ Buckminsterfullerene Structure",
-    "icsd": "74523",
-    "ccdc": null,
-    "prototype": "C",
-    "prototype_tex": "C",
-    "number_of_species": 1,
-    "pearson_symbol": "cF240",
-    "space_group_number": 202,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "y1",
-        "z1",
-        "x2",
-        "y2",
-        "z2",
-        "x3",
-        "y3",
-        "z3"
-    ],
-    "parameter_values": [
-        14.26,
-        0.249,
-        0.052,
-        0.605,
-        0.585,
-        0.22,
-        0.685,
-        0.052,
-        0.665
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "Buckminsterfullerene",
-    "comments": "This is an {\\em approximate} representation of the structure of C$_{60}$ buckminsterfullerene. As noted by the authors, ``a careful analysis of the intensity data reveals that the molecules must pack in an uncorrelated array, in full agreement with the results from most previous diffraction and spectroscopic determinations.'' \n The C$_{60}$ molecules are centered on the sites of an fcc lattice. \n Below 249K there is a transition to a \\href{current_web_home_dir/A_cP240_205_10d-001}{simple cubic phase of C$_{60}$}."
+  "uid": "TV0E",
+  "label": "A_cF240_202_h2i-001",
+  "alias": [
+    "A_cF240_202_h2i"
+  ],
+  "title": "FCC C$_{60}$ Buckminsterfullerene Structure",
+  "icsd": 74523,
+  "ccdc": 1635233,
+  "prototype": "C",
+  "prototype_tex": "C",
+  "number_of_species": 1,
+  "pearson_symbol": "cF240",
+  "space_group_number": 202,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "y1",
+    "z1",
+    "x2",
+    "y2",
+    "z2",
+    "x3",
+    "y3",
+    "z3"
+  ],
+  "parameter_values": [
+    14.26,
+    0.249,
+    0.052,
+    0.605,
+    0.585,
+    0.22,
+    0.685,
+    0.052,
+    0.665
+  ],
+  "mineral_name": "buckminsterfullerene",
+  "minerals": {
+    "buckminsterfullerene": "C"
+  },
+  "compounds": null,
+  "legacy": false,
+  "notes": "Buckminsterfullerene",
+  "comments": "This is an {\\em approximate} representation of the structure of C$_{60}$ buckminsterfullerene. As noted by the authors, ``a careful analysis of the intensity data reveals that the molecules must pack in an uncorrelated array, in full agreement with the results from most previous diffraction and spectroscopic determinations.'' \n The C$_{60}$ molecules are centered on the sites of an fcc lattice. \n Below 249K there is a transition to a \\href{current_web_home_dir/A_cP240_205_10d-001}{simple cubic phase of C$_{60}$}."
 }

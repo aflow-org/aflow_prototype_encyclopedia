@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/A_tI2_139_a-002
 
 # Last updated on 2024/08/01
-data_Pa2
-_pd_phase_name Pa2
+data_Pa
+_pd_phase_name Pa
 _cell_length_a  3.9320000000
 _cell_length_b  3.9320000000
 _cell_length_c  3.2380000000

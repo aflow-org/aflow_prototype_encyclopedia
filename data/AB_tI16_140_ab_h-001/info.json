@@ -1,32 +1,45 @@
 {
-    "uid": "BFE0",
-    "label": "AB_tI16_140_ab_h-001",
-    "alias": [
-        "AB_tI16_140_ab_h"
-    ],
-    "title": "$\\beta$-SeTl ($B37$) Structure",
-    "icsd": "30219",
-    "ccdc": null,
-    "prototype": "SeTl",
-    "prototype_tex": "SeTl",
-    "number_of_species": 2,
-    "pearson_symbol": "tI16",
-    "space_group_number": 140,
-    "strukturbericht": "B37",
-    "strukturbericht_tex": "$B37$",
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "x3"
-    ],
-    "parameter_values": [
-        8.03,
-        0.872976,
-        0.179
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$B37$",
-    "comments": "When $c=a$ and $x=1/4$ the atoms are at the positions of the \\href{current_web_home_dir/A_cI2_229_a-001}{body-centered cubic (A2) lattice}. \n (Okamoto, 2011) identifies this as $\\beta$-SeTl, stable from 188$^\\circ$C to the melting point at approximately 350$^\\circ$C.  No crystallographic information on the ground-state $\\alpha$ phase has been found. \n The lattice constants presented here are from (Yadav, 1976), while the atomic positions and the ICSD entry are from (Ketelaar, 1939)."
+  "uid": "BFE0",
+  "label": "AB_tI16_140_ab_h-001",
+  "alias": [
+    "AB_tI16_140_ab_h"
+  ],
+  "title": "$\\beta$-SeTl ($B37$) Structure",
+  "icsd": 30219,
+  "ccdc": 1604590,
+  "prototype": "SeTl",
+  "prototype_tex": "SeTl",
+  "number_of_species": 2,
+  "pearson_symbol": "tI16",
+  "space_group_number": 140,
+  "strukturbericht": "B37",
+  "strukturbericht_tex": "$B37$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "x3"
+  ],
+  "parameter_values": [
+    8.03,
+    0.872976,
+    0.179
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "InTe",
+    "STl",
+    "AlKTe$_{2}$",
+    "AlNaSe$_{2}$",
+    "AlNaTe$_{2}$",
+    "GaNaTe$_{2}$",
+    "GaTe$_{2}$Tl",
+    "InKTe$_{2}$",
+    "InNaTe$_{2}$",
+    "InS$_{2}$Te"
+  ],
+  "legacy": false,
+  "notes": "$B37$",
+  "comments": "When $c=a$ and $x=1/4$ the atoms are at the positions of the \\href{current_web_home_dir/A_cI2_229_a-001}{body-centered cubic (A2) lattice}. \n (Okamoto, 2011) identifies this as $\\beta$-SeTl, stable from 188$^\\circ$C to the melting point at approximately 350$^\\circ$C.  No crystallographic information on the ground-state $\\alpha$ phase has been found. \n The lattice constants presented here are from (Yadav, 1976), while the atomic positions and the ICSD entry are from (Ketelaar, 1939)."
 }

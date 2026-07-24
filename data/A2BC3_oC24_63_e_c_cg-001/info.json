@@ -1,42 +1,52 @@
 {
-    "uid": "88NB",
-    "label": "A2BC3_oC24_63_e_c_cg-001",
-    "alias": [
-        "A2BC3_oC24_63_e_c_cg"
-    ],
-    "title": "Rasvumite (KFe$_{2}$S$_{3}$) Structure",
-    "icsd": "100180",
-    "ccdc": null,
-    "prototype": "Fe2KS3",
-    "prototype_tex": "Fe$_{2}$KS$_{3}$",
-    "number_of_species": 3,
-    "pearson_symbol": "oC24",
-    "space_group_number": 63,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "y1",
-        "y2",
-        "x3",
-        "x4",
-        "y4"
-    ],
-    "parameter_values": [
-        9.049,
-        1.2177,
-        0.600177,
-        0.6699,
-        0.1191,
-        0.8502,
-        0.7174,
-        0.8859
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "Rasvumite",
-    "comments": null
+  "uid": "88NB",
+  "label": "A2BC3_oC24_63_e_c_cg-001",
+  "alias": [
+    "A2BC3_oC24_63_e_c_cg"
+  ],
+  "title": "Rasvumite (KFe$_{2}$S$_{3}$) Structure",
+  "icsd": 100180,
+  "ccdc": 1659330,
+  "prototype": "Fe2KS3",
+  "prototype_tex": "Fe$_{2}$KS$_{3}$",
+  "number_of_species": 3,
+  "pearson_symbol": "oC24",
+  "space_group_number": 63,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "y1",
+    "y2",
+    "x3",
+    "x4",
+    "y4"
+  ],
+  "parameter_values": [
+    9.049,
+    1.2177,
+    0.600177,
+    0.6699,
+    0.1191,
+    0.8502,
+    0.7174,
+    0.8859
+  ],
+  "mineral_name": "rasvumite",
+  "minerals": null,
+  "compounds": [
+    "BaFe$_{2}$S$_{3}$",
+    "BaFe$_{2}$Se$_{3}$",
+    "BaZn$_{5}$",
+    "CsFe$_{2}$S$_{3}$",
+    "CsCu$_{2}$Cl$_{3}$",
+    "RbFe$_{2}$S$_{3}$",
+    "TlFe$_{2}$S$_{3}$"
+  ],
+  "legacy": false,
+  "notes": "Rasvumite",
+  "comments": null
 }

@@ -1,40 +1,48 @@
 {
-    "uid": "SDL2",
-    "label": "ABC8D2_hP12_150_a_b_dg_d-001",
-    "alias": [
-        "ABC8D2_hP12_150_b_a_dg_d"
-    ],
-    "title": "Steklite [KAl(SO$_{4}$)$_{2}$, $H3_{2}$] Structure",
-    "icsd": "60170",
-    "ccdc": null,
-    "prototype": "AlKO8S2",
-    "prototype_tex": "AlKO$_{8}$S$_{2}$",
-    "number_of_species": 4,
-    "pearson_symbol": "hP12",
-    "space_group_number": 150,
-    "strukturbericht": "H3_2",
-    "strukturbericht_tex": "$H3_{2}$",
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z3",
-        "z4",
-        "x5",
-        "y5",
-        "z5"
-    ],
-    "parameter_values": [
-        4.7,
-        1.69362,
-        0.516,
-        0.722,
-        0.328,
-        0.344,
-        0.817
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$H3_{2}$, Steklite",
-    "comments": "This has been a rather difficult structure to follow through the literature.  (Villars, 2016) quotes the structure given by (Manoli, 1970), but gives the space group as $P\\overline{3}$ \\#147. (Murashko, 2013) lists the space group as both $P312$ \\#149 and $P321$ \\#150, as well as listing obviously incorrect Wyckoff positions. \n (West, 2008) states that the simple structure is in $P\\overline{3}$ but that it may be doubled along the $c$ axis and be in space group $P321$. \n After correcting Murashko's results, we find that all of these interpretations yield essentially the same structure in a given layer, and only differ as the structure is reflected through the $z = 0$ plane.  As it is not clear which structure is correct, we will use the original $H3_{2}$ structure given by (Hermann, 1937). \n Steklite is the name of the mineral form of this compound (Murashko, 2013). (Hermann, 1937) simply calls it {\\em Wasserfreier Alaun} (anhydrous alum). For hydrated alum, KAl(SO$_{4}$)$_{2}$$\\cdot$12H$_{2}$O, see the \\href{current_web_home_dir/AB24CD28E2_cP224_205_a_4d_b_2c4d_c-001}{$H4_{13}$ structure}."
+  "uid": "SDL2",
+  "label": "ABC8D2_hP12_150_a_b_dg_d-001",
+  "alias": [
+    "ABC8D2_hP12_150_b_a_dg_d"
+  ],
+  "title": "Steklite [KAl(SO$_{4}$)$_{2}$, $H3_{2}$] Structure",
+  "icsd": 60170,
+  "ccdc": 1623902,
+  "prototype": "AlKO8S2",
+  "prototype_tex": "AlKO$_{8}$S$_{2}$",
+  "number_of_species": 4,
+  "pearson_symbol": "hP12",
+  "space_group_number": 150,
+  "strukturbericht": "H32",
+  "strukturbericht_tex": "$H3_{2}$",
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z3",
+    "z4",
+    "x5",
+    "y5",
+    "z5"
+  ],
+  "parameter_values": [
+    4.7,
+    1.69362,
+    0.516,
+    0.722,
+    0.328,
+    0.344,
+    0.817
+  ],
+  "mineral_name": "steklite",
+  "minerals": {
+    "godovikovite": "(NH$_{4}$)(Al,Fe)O$_{8}$S$_{2}$"
+  },
+  "compounds": [
+    "NH$_{4}$(Al,Fe)(SO$_{4}$)$_{2}$ (godovikovite)",
+    "KCr(SO$_{4}$)$_{2}$",
+    "RbCr(SO$_{4}$)$_{2}$"
+  ],
+  "legacy": false,
+  "notes": "$H3_{2}$, Steklite",
+  "comments": "This has been a rather difficult structure to follow through the literature.  (Villars, 2016) quotes the structure given by (Manoli, 1970), but gives the space group as $P\\overline{3}$ \\#147. (Murashko, 2013) lists the space group as both $P312$ \\#149 and $P321$ \\#150, as well as listing obviously incorrect Wyckoff positions. \n (West, 2008) states that the simple structure is in $P\\overline{3}$ but that it may be doubled along the $c$ axis and be in space group $P321$. \n After correcting Murashko's results, we find that all of these interpretations yield essentially the same structure in a given layer, and only differ as the structure is reflected through the $z = 0$ plane.  As it is not clear which structure is correct, we will use the original $H3_{2}$ structure given by (Hermann, 1937). \n Steklite is the name of the mineral form of this compound (Murashko, 2013). (Hermann, 1937) simply calls it {\\em Wasserfreier Alaun} (anhydrous alum). For hydrated alum, KAl(SO$_{4}$)$_{2}$$\\cdot$12H$_{2}$O, see the \\href{current_web_home_dir/AB24CD28E2_cP224_205_a_4d_b_2c4d_c-001}{$H4_{13}$ structure}."
 }

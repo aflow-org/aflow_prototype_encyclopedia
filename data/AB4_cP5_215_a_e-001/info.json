@@ -1,30 +1,36 @@
 {
-    "uid": "WNQX",
-    "label": "AB4_cP5_215_a_e-001",
-    "alias": [
-        "AB4_cP5_215_a_e"
-    ],
-    "title": "Fe$_{4}$C Structure",
-    "icsd": "44729",
-    "ccdc": null,
-    "prototype": "CFe4",
-    "prototype_tex": "CFe$_{4}$",
-    "number_of_species": 2,
-    "pearson_symbol": "cP5",
-    "space_group_number": 215,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "x2"
-    ],
-    "parameter_values": [
-        3.878,
-        0.265
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "When $x_{2} = 1/4$ the iron atoms are at the positions of the face-centered cubic lattice. In Fe$_{4}$C, $x_{2}$ is about 0.265. "
+  "uid": "WNQX",
+  "label": "AB4_cP5_215_a_e-001",
+  "alias": [
+    "AB4_cP5_215_a_e"
+  ],
+  "title": "Fe$_{4}$C Structure",
+  "icsd": 44729,
+  "ccdc": 1614074,
+  "prototype": "CFe4",
+  "prototype_tex": "CFe$_{4}$",
+  "number_of_species": 2,
+  "pearson_symbol": "cP5",
+  "space_group_number": 215,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "x2"
+  ],
+  "parameter_values": [
+    3.878,
+    0.265
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Co$_{4}$N",
+    "Fe$_{4}$N",
+    "Mn$_{4}$N"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "When $x_{2} = 1/4$ the iron atoms are at the positions of the face-centered cubic lattice. In Fe$_{4}$C, $x_{2}$ is about 0.265. "
 }

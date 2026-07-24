@@ -1,40 +1,42 @@
 {
-    "uid": "N4MV",
-    "label": "A2BC4_tP28_130_f_c_g-001",
-    "alias": [
-        "A2BC4_tP28_130_f_c_g"
-    ],
-    "title": "CuBi$_{2}$O$_{4}$ Structure",
-    "icsd": "15865",
-    "ccdc": null,
-    "prototype": "Bi2CuO4",
-    "prototype_tex": "Bi$_{2}$CuO$_{4}$",
-    "number_of_species": 3,
-    "pearson_symbol": "tP28",
-    "space_group_number": 130,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z1",
-        "x2",
-        "x3",
-        "y3",
-        "z3"
-    ],
-    "parameter_values": [
-        8.51,
-        0.683196,
-        0.58,
-        0.5815,
-        0.045,
-        0.136,
-        0.597
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "N4MV",
+  "label": "A2BC4_tP28_130_f_c_g-001",
+  "alias": [
+    "A2BC4_tP28_130_f_c_g"
+  ],
+  "title": "CuBi$_{2}$O$_{4}$ Structure",
+  "icsd": 15865,
+  "ccdc": 1596544,
+  "prototype": "Bi2CuO4",
+  "prototype_tex": "Bi$_{2}$CuO$_{4}$",
+  "number_of_species": 3,
+  "pearson_symbol": "tP28",
+  "space_group_number": 130,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z1",
+    "x2",
+    "x3",
+    "y3",
+    "z3"
+  ],
+  "parameter_values": [
+    8.51,
+    0.683196,
+    0.58,
+    0.5815,
+    0.045,
+    0.136,
+    0.597
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

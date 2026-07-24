@@ -1,38 +1,40 @@
 {
-    "uid": "ZCCT",
-    "label": "ABC4_oI12_23_a_b_k-001",
-    "alias": [
-        "ABC4_oI12_23_a_b_k"
-    ],
-    "title": "BPS$_{4}$ Structure",
-    "icsd": "24618",
-    "ccdc": null,
-    "prototype": "BPS4",
-    "prototype_tex": "BPS$_{4}$",
-    "number_of_species": 3,
-    "pearson_symbol": "oI12",
-    "space_group_number": 23,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "x3",
-        "y3",
-        "z3"
-    ],
-    "parameter_values": [
-        5.25,
-        1.7219,
-        1.06667,
-        0.79,
-        0.885,
-        0.2
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "ZCCT",
+  "label": "ABC4_oI12_23_a_b_k-001",
+  "alias": [
+    "ABC4_oI12_23_a_b_k"
+  ],
+  "title": "BPS$_{4}$ Structure",
+  "icsd": 24618,
+  "ccdc": 1600637,
+  "prototype": "BPS4",
+  "prototype_tex": "BPS$_{4}$",
+  "number_of_species": 3,
+  "pearson_symbol": "oI12",
+  "space_group_number": 23,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "x3",
+    "y3",
+    "z3"
+  ],
+  "parameter_values": [
+    5.25,
+    1.7219,
+    1.06667,
+    0.79,
+    0.885,
+    0.2
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

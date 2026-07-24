@@ -14,22 +14,26 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a",
-        "x3",
-        "y4",
-        "z4",
-        "y5",
-        "z5"
+	"a",
+	"x3",
+	"y4",
+	"z4",
+	"y5",
+	"z5"
     ],
     "parameter_values": [
-        11.685,
-        0.18435,
-        0.2563,
-        0.53656,
-        0.31227,
-        0.11871
+	11.685,
+	0.18435,
+	0.2563,
+	0.53656,
+	0.31227,
+	0.11871
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": [
+	"Ba$_{8}$Ga$_{16}$Ge$_{30}$"
+    ],
     "legacy": false,
     "notes": "$\\beta$-Ba$_{8}$Ga$_{16}$Sn$_{30}$ Clathrate",
     "comments": "There is a considerable amount of disorder in this system: \\begin{itemize} \\item The (2a) site is pure barium and labeled Ba. \\item The (6c) site is pure gallium and labeled Ga. \\item The (16i) site is 64.4\\% tin and 35.6\\% gallium.  We label this as germanium, Ge, as that is another possible component of this compound and to avoid confusion with the other gallium and tin sites. \\item The first (24k) site is 25\\% barium, with the remainder of the sites vacant.  This can be seen as four-lobed atom clusters in the figure, when it is expanded beyond one unit cell.  We label this site as barium, Ba. \\item The final (24k) site is 74.8\\% tin and 25.2\\% gallium.  We label this as tin, Sn. \\end{itemize} ~ \\vspace{-.25in} \n (Aliva, 2006) found another clathrate structure with this stoichiometry, \\href{current_web_home_dir/A4B4C6D13_cI54_217_c_c_d_ag-001}{$\\alpha$-Ba$_{8}$Ga$_{16}$Sn$_{30}$}."

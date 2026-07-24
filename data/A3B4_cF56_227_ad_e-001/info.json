@@ -1,30 +1,39 @@
 {
-    "uid": "SV6X",
-    "label": "A3B4_cF56_227_ad_e-001",
-    "alias": [
-        "A3B4_cF56_227_ad_e"
-    ],
-    "title": "Spinel (Co$_{3}$O$_{4}$, $D7_{2}$) Structure",
-    "icsd": "24210",
-    "ccdc": null,
-    "prototype": "Co3O4",
-    "prototype_tex": "Co$_{3}$O$_{4}$",
-    "number_of_species": 2,
-    "pearson_symbol": "cF56",
-    "space_group_number": 227,
-    "strukturbericht": "D7_2",
-    "strukturbericht_tex": "$D7_{2}$",
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "x3"
-    ],
-    "parameter_values": [
-        8.0835,
-        0.2642
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$D7_{2}$, Spinel",
-    "comments": "The \\href{current_web_home_dir/A3B4_cF56_227_ad_e-001}{binary $D7_{2}$} and \\href{current_web_home_dir/A2BC4_cF56_227_c_b_e-001}{ternary $H1_{1}$} spinel structures are for all intents and purposes identical. We could use $D7_{2}$ for the binary spinels and $H1_{1}$ for the ternaries, but historically this has not been the case. We dual-list this structure only to keep the historical record intact. \n (Hahn, 1955) has an extensive list of ternary spinels and inverse spinels."
+  "uid": "SV6X",
+  "label": "A3B4_cF56_227_ad_e-001",
+  "alias": [
+    "A3B4_cF56_227_ad_e"
+  ],
+  "title": "Spinel (Co$_{3}$O$_{4}$, $D7_{2}$) Structure",
+  "icsd": 24210,
+  "ccdc": 1600256,
+  "prototype": "Co3O4",
+  "prototype_tex": "Co$_{3}$O$_{4}$",
+  "number_of_species": 2,
+  "pearson_symbol": "cF56",
+  "space_group_number": 227,
+  "strukturbericht": "D72",
+  "strukturbericht_tex": "$D7_{2}$",
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "x3"
+  ],
+  "parameter_values": [
+    8.0835,
+    0.2642
+  ],
+  "mineral_name": "spinel",
+  "minerals": null,
+  "compounds": [
+    "NiCo$_{2}$O$_{4}$",
+    "Co$_{3}$S$_{4}$",
+    "Fe$_{3}$O$_{4}$",
+    "$\\gamma$-Si$_{3}$N$_{4}$",
+    "NiCo$_{2}$S$_{4}$",
+    "FeNi$_{2}$S$_{4}$"
+  ],
+  "legacy": false,
+  "notes": "$D7_{2}$, Spinel",
+  "comments": "The \\href{current_web_home_dir/A3B4_cF56_227_ad_e-001}{binary $D7_{2}$} and \\href{current_web_home_dir/A2BC4_cF56_227_c_b_e-001}{ternary $H1_{1}$} spinel structures are for all intents and purposes identical. We could use $D7_{2}$ for the binary spinels and $H1_{1}$ for the ternaries, but historically this has not been the case. We dual-list this structure only to keep the historical record intact. \n (Hahn, 1955) has an extensive list of ternary spinels and inverse spinels."
 }

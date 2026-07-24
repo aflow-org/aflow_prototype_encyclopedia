@@ -1,32 +1,42 @@
 {
-    "uid": "RPTR",
-    "label": "A4BC3_tP8_123_i_a_bh-001",
-    "alias": null,
-    "title": "KCu$_{4}$S$_{3}$ Structure",
-    "icsd": "23336",
-    "ccdc": null,
-    "prototype": "Cu4KS3",
-    "prototype_tex": "Cu$_{4}$KS$_{3}$",
-    "number_of_species": 3,
-    "pearson_symbol": "tP8",
-    "space_group_number": 123,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 5,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z3",
-        "z4"
-    ],
-    "parameter_values": [
-        3.899,
-        2.37548,
-        0.7944,
-        0.6603
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "The standard AFLOW label moves the origin from the S-I atom reported by (Brown, 1980) to the K-I atom."
+  "uid": "RPTR",
+  "label": "A4BC3_tP8_123_i_a_bh-001",
+  "alias": null,
+  "title": "KCu$_{4}$S$_{3}$ Structure",
+  "icsd": 23336,
+  "ccdc": 1599462,
+  "prototype": "Cu4KS3",
+  "prototype_tex": "Cu$_{4}$KS$_{3}$",
+  "number_of_species": 3,
+  "pearson_symbol": "tP8",
+  "space_group_number": 123,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 5,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z3",
+    "z4"
+  ],
+  "parameter_values": [
+    3.899,
+    2.37548,
+    0.7944,
+    0.6603
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "CsCu$_{4}$S$_{3}$",
+    "CsCu$_{4}$Se$_{3}$",
+    "KCu$_{4}$Se$_{3}$",
+    "RbCu$_{4}$S$_{3}$",
+    "RbCu$_{4}$Se$_{3}$",
+    "TlCu$_{4}$S$_{3}$",
+    "TlCu$_{4}$Se$_{3}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "The standard AFLOW label moves the origin from the S-I atom reported by (Brown, 1980) to the K-I atom."
 }

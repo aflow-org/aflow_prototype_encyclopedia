@@ -1,34 +1,36 @@
 {
-    "uid": "N44F",
-    "label": "A4B3_tI14_139_2e_ae-001",
-    "alias": null,
-    "title": "Ti$_{3}$Cu$_{4}$ Structure",
-    "icsd": "103134",
-    "ccdc": null,
-    "prototype": "Cu4Ti3",
-    "prototype_tex": "Cu$_{4}$Ti$_{3}$",
-    "number_of_species": 2,
-    "pearson_symbol": "tI14",
-    "space_group_number": 139,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z2",
-        "z3",
-        "z4"
-    ],
-    "parameter_values": [
-        3.12,
-        6.39103,
-        0.43,
-        0.13,
-        0.29
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "When c = 7 a, z$_{2}$ = 1/7, z$_{3}$ = 3/7, and z$_{4}$ = 2/7 the atoms are on the sites of the \\href{current_web_home_dir/A_cI2_229_a-001}{bcc lattice}."
+  "uid": "N44F",
+  "label": "A4B3_tI14_139_2e_ae-001",
+  "alias": null,
+  "title": "Ti$_{3}$Cu$_{4}$ Structure",
+  "icsd": 103134,
+  "ccdc": 1661086,
+  "prototype": "Cu4Ti3",
+  "prototype_tex": "Cu$_{4}$Ti$_{3}$",
+  "number_of_species": 2,
+  "pearson_symbol": "tI14",
+  "space_group_number": 139,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z2",
+    "z3",
+    "z4"
+  ],
+  "parameter_values": [
+    3.12,
+    6.39103,
+    0.43,
+    0.13,
+    0.29
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": null,
+  "comments": "When c = 7 a, z$_{2}$ = 1/7, z$_{3}$ = 3/7, and z$_{4}$ = 2/7 the atoms are on the sites of the \\href{current_web_home_dir/A_cI2_229_a-001}{bcc lattice}."
 }

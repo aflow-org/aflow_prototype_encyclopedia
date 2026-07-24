@@ -1,38 +1,43 @@
 {
-    "uid": "QCQG",
-    "label": "AB8C2_tP22_124_a_n_h-001",
-    "alias": [
-        "AB8C2_tP22_124_a_n_h"
-    ],
-    "title": "CaO$_{2}$(H$_{2}$O)$_{8}$ Structure",
-    "icsd": "38168",
-    "ccdc": null,
-    "prototype": "Ca(H2O)8O2",
-    "prototype_tex": "Ca(H$_{2}$O)$_{8}$O$_{2}$",
-    "number_of_species": 3,
-    "pearson_symbol": "tP22",
-    "space_group_number": 124,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 3,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z2",
-        "x3",
-        "y3",
-        "z3"
-    ],
-    "parameter_values": [
-        6.21,
-        1.77134,
-        0.19,
-        0.3,
-        0.11,
-        0.13
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "This structure was proposed by (Shineman, 1951) to replace the \\href{current_web_home_dir/A8B2C_tP11_123_r_h_a-001}{$E6_{2}$ SrO$_{2}$(H$_{2}$O)$_{8}$ structure}.  The unit cell is doubled in the (001) direction, and the oxygens are now molecular."
+  "uid": "QCQG",
+  "label": "AB8C2_tP22_124_a_n_h-001",
+  "alias": [
+    "AB8C2_tP22_124_a_n_h"
+  ],
+  "title": "CaO$_{2}$(H$_{2}$O)$_{8}$ Structure",
+  "icsd": 38168,
+  "ccdc": 1608877,
+  "prototype": "Ca(H2O)8O2",
+  "prototype_tex": "Ca(H$_{2}$O)$_{8}$O$_{2}$",
+  "number_of_species": 3,
+  "pearson_symbol": "tP22",
+  "space_group_number": 124,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 3,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z2",
+    "x3",
+    "y3",
+    "z3"
+  ],
+  "parameter_values": [
+    6.21,
+    1.77134,
+    0.19,
+    0.3,
+    0.11,
+    0.13
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "BrO$_{2}$(H$_{2}$O)$_{8}$",
+    "SrO$_{2}$(H$_{2}$O)$_{8}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "This structure was proposed by (Shineman, 1951) to replace the \\href{current_web_home_dir/A8B2C_tP11_123_r_h_a-001}{$E6_{2}$ SrO$_{2}$(H$_{2}$O)$_{8}$ structure}.  The unit cell is doubled in the (001) direction, and the oxygens are now molecular."
 }

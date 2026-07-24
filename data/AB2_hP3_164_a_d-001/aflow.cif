@@ -6,15 +6,15 @@
 # Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
 # Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
 
-# Chemical Composition: CdI2 (C6)
+# Chemical Composition:  CdI2 (C6)
 
 # The current version of this file is available at
 # https://aflow.org/prototype-encyclopedia/AB2_hP3_164_a_d-001
 
-# Last updated on 2024/07/15
+# Last updated on 2025/01/11
 
-data_AB2_hP3_164_a_d-001
-_pd_phase_name AB2_hP3_164_a_d-001
+data_CdI2
+_pd_phase_name CdI2
 _cell_length_a  4.2400000000
 _cell_length_b  4.2400000000
 _cell_length_c  6.8400000000

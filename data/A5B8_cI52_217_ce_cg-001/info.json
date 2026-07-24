@@ -1,38 +1,44 @@
 {
-    "uid": "AYKC",
-    "label": "A5B8_cI52_217_ce_cg-001",
-    "alias": [
-        "A5B8_cI52_217_ce_cg"
-    ],
-    "title": "$\\gamma$-Brass (Cu$_{5}$Zn$_{8}$, $D8_{2}$) Structure",
-    "icsd": "240667",
-    "ccdc": null,
-    "prototype": "Cu5Zn8",
-    "prototype_tex": "Cu$_{5}$Zn$_{8}$",
-    "number_of_species": 2,
-    "pearson_symbol": "cI52",
-    "space_group_number": 217,
-    "strukturbericht": "D8_2",
-    "strukturbericht_tex": "$D8_{2}$",
-    "part": 1,
-    "parameter_symbols": [
-        "a",
-        "x1",
-        "x2",
-        "x3",
-        "x4",
-        "z4"
-    ],
-    "parameter_values": [
-        8.8664,
-        0.32774,
-        0.10781,
-        0.64421,
-        0.18844,
-        0.53674
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$D8_{2}$, $\\gamma$-Brass",
-    "comments": "$\\gamma$-brass comes in a variety of compositions. See the \\href{current_web_home_dir/A3B10_cI52_229_e_fh-001}{$D8_{1}$} and \\href{current_web_home_dir/A4B9_cP52_215_ei_3efgi-001}{$D8_{3}$} structure pages for more information. \n We use the data from (Gourdon, 2007) for Cu$_{5.00}$Zn$_{8.00}$. At this composition the authors state that the sites are fully occupied. \n (Mizutani, 2010) classifies this as a ``I-cell'' $\\gamma$-brass."
+  "uid": "AYKC",
+  "label": "A5B8_cI52_217_ce_cg-001",
+  "alias": [
+    "A5B8_cI52_217_ce_cg"
+  ],
+  "title": "$\\gamma$-Brass (Cu$_{5}$Zn$_{8}$, $D8_{2}$) Structure",
+  "icsd": 240667,
+  "ccdc": 1711326,
+  "prototype": "Cu5Zn8",
+  "prototype_tex": "Cu$_{5}$Zn$_{8}$",
+  "number_of_species": 2,
+  "pearson_symbol": "cI52",
+  "space_group_number": 217,
+  "strukturbericht": "D82",
+  "strukturbericht_tex": "$D8_{2}$",
+  "part": 1,
+  "parameter_symbols": [
+    "a",
+    "x1",
+    "x2",
+    "x3",
+    "x4",
+    "z4"
+  ],
+  "parameter_values": [
+    8.8664,
+    0.32774,
+    0.10781,
+    0.64421,
+    0.18844,
+    0.53674
+  ],
+  "mineral_name": "$\\gamma$-brass",
+  "minerals": null,
+  "compounds": [
+    "Cu$_{x}$Zn$_{1-x}$",
+    "Cu$_{x}$Cd$_{1-x}$",
+    "Fe$_{x}$Zn$_{1-x}$"
+  ],
+  "legacy": false,
+  "notes": "$D8_{2}$, $\\gamma$-Brass",
+  "comments": "$\\gamma$-brass comes in a variety of compositions. See the \\href{current_web_home_dir/A3B10_cI52_229_e_fh-001}{$D8_{1}$} and \\href{current_web_home_dir/A4B9_cP52_215_ei_3efgi-001}{$D8_{3}$} structure pages for more information. \n We use the data from (Gourdon, 2007) for Cu$_{5.00}$Zn$_{8.00}$. At this composition the authors state that the sites are fully occupied. \n (Mizutani, 2010) classifies this as a ``I-cell'' $\\gamma$-brass."
 }

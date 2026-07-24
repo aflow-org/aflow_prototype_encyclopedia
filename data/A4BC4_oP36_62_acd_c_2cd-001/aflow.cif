@@ -1,0 +1,54 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+
+# Chemical Composition:  beta-Li3PS4
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/A4BC4_oP36_62_acd_c_2cd-001 
+
+# Last updated on 2025/07/15
+
+data_beta-Li3PS4
+_pd_phase_name beta-Li3PS4
+_cell_length_a  12.8190000000
+_cell_length_b  8.2195000000
+_cell_length_c  6.1236000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  90.0000000000
+_symmetry_space_group_name_H-M  'Pnma'
+_symmetry_Int_Tables_Number  62
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -x+1/2,-y,z+1/2
+  3  -x,y+1/2,-z
+  4  x+1/2,-y+1/2,-z+1/2
+  5  -x,-y,-z
+  6  x+1/2,y,-z+1/2
+  7  x,-y+1/2,z
+  8  -x+1/2,y+1/2,z+1/2
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Li1 0.7000000000 0.0000000000 0.0000000000 0.0000000000  Biso 1.0 Li 4 a
+Li2 0.3000000000 0.9990000000 0.2500000000 0.3890000000  Biso 1.0 Li 4 c
+P3  1.0000000000 0.0872000000 0.2500000000 0.6719000000  Biso 1.0 P  4 c
+S4  1.0000000000 0.9346000000 0.2500000000 0.7574000000  Biso 1.0 S  4 c
+S5  1.0000000000 0.1068000000 0.2500000000 0.3366000000  Biso 1.0 S  4 c
+Li6 1.0000000000 0.3562000000 0.0130000000 0.9390000000  Biso 1.0 Li 8 d
+S7  1.0000000000 0.1551000000 0.0458000000 0.7852000000  Biso 1.0 S  8 d

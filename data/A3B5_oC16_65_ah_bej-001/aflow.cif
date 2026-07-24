@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/A3B5_oC16_65_ah_bej-001
 
 # Last updated on 2024/08/01
-data_Ga6Pt10
-_pd_phase_name Ga6Pt10
+data_Ga3Pt5
+_pd_phase_name Ga3Pt5
 _cell_length_a  8.0310000000
 _cell_length_b  7.4400000000
 _cell_length_c  3.9480000000

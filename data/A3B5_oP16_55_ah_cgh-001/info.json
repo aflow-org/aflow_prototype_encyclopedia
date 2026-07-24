@@ -1,44 +1,52 @@
 {
-    "uid": "WXAV",
-    "label": "A3B5_oP16_55_ah_cgh-001",
-    "alias": [
-        "A3B5_oP16_55_ch_agh"
-    ],
-    "title": "Rh$_{5}$Ge$_{3}$ Structure",
-    "icsd": "53891",
-    "ccdc": null,
-    "prototype": "Ge3Rh5",
-    "prototype_tex": "Ge$_{3}$Rh$_{5}$",
-    "number_of_species": 2,
-    "pearson_symbol": "oP16",
-    "space_group_number": 55,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "b/a",
-        "c/a",
-        "x3",
-        "y3",
-        "x4",
-        "y4",
-        "x5",
-        "y5"
-    ],
-    "parameter_values": [
-        5.42,
-        1.90406,
-        0.730627,
-        0.152,
-        0.22,
-        0.388,
-        0.152,
-        0.33,
-        0.393
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": null
+  "uid": "WXAV",
+  "label": "A3B5_oP16_55_ah_cgh-001",
+  "alias": [
+    "A3B5_oP16_55_ch_agh"
+  ],
+  "title": "Rh$_{5}$Ge$_{3}$ Structure",
+  "icsd": 53891,
+  "ccdc": 1618519,
+  "prototype": "Ge3Rh5",
+  "prototype_tex": "Ge$_{3}$Rh$_{5}$",
+  "number_of_species": 2,
+  "pearson_symbol": "oP16",
+  "space_group_number": 55,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "b/a",
+    "c/a",
+    "x3",
+    "y3",
+    "x4",
+    "y4",
+    "x5",
+    "y5"
+  ],
+  "parameter_values": [
+    5.42,
+    1.90406,
+    0.730627,
+    0.152,
+    0.22,
+    0.388,
+    0.152,
+    0.33,
+    0.393
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "Pd$_{5}$Al$_{3}$",
+    "Pd$_{5}$Ga$_{3}$",
+    "Pd$_{5}$In$_{3}$",
+    "Pt$_{5}$Al$_{3}$",
+    "Rh$_{5}$Si$_{3}$"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": null
 }

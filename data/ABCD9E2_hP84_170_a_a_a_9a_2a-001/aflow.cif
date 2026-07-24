@@ -1,0 +1,59 @@
+# AFLOW CIF FILE
+# AFLOW.org Repositories
+# ANRL - DUKE UNIVERSITY
+# Part 1 (2017) doi: 10.1016/j.commatsci.2017.01.017
+# Part 2 (2018) doi: 10.1016/j.commatsci.2018.10.043
+# Part 3 (2021) doi: 10.1016/j.commatsci.2021.110450
+# Part 4 (2024) doi: 10.1016/j.commatsci.2024.112988
+
+# Chemical Composition:  KCsMoP2O9
+
+# The current version of this file is available at
+# https://aflow.org/prototype-encyclopedia/ABCD9E2_hP84_170_a_a_a_9a_2a-001 
+
+# Last updated on 2026/02/18
+
+data_KCsMoP2O9
+_pd_phase_name KCsMoP2O9
+_cell_length_a  8.4460000000
+_cell_length_b  8.4460000000
+_cell_length_c  21.9980000000
+_cell_angle_alpha  90.0000000000
+_cell_angle_beta  90.0000000000
+_cell_angle_gamma  120.0000000000
+_symmetry_space_group_name_H-M  'P6_{5}'
+_symmetry_Int_Tables_Number  170
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  x,y,z
+  2  -y,x-y,z+2/3
+  3  -x+y,-x,z+1/3
+  4  -x,-y,z+1/2
+  5  y,-x+y,z+1/6
+  6  x-y,x,z+5/6
+loop_
+ _atom_site_label
+ _atom_site_occupancy
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_adp_type
+ _atom_site_B_iso_or_equiv
+ _atom_site_type_symbol
+ _atom_site_symmetry_multiplicity
+ _atom_site_Wyckoff_label
+Cs1 1.0000000000 0.4924800000 0.5050100000 0.1599280000  Biso 1.0 Cs 6 a
+K2  1.0000000000 0.0526700000 0.0309000000 0.0742400000  Biso 1.0 K  6 a
+Mo3 1.0000000000 0.4779600000 0.5044600000 0.3414790000  Biso 1.0 Mo 6 a
+O4  1.0000000000 0.5378000000 0.6775000000 0.2917100000  Biso 1.0 O  6 a
+O5  1.0000000000 0.4126000000 0.3247000000 0.2935400000  Biso 1.0 O  6 a
+O6  1.0000000000 0.2973000000 0.0604000000 0.1624300000  Biso 1.0 O  6 a
+O7  1.0000000000 0.1756000000 0.7332000000 0.1879500000  Biso 1.0 O  6 a
+O8  1.0000000000 0.3038000000 0.8486000000 0.0826400000  Biso 1.0 O  6 a
+O9  1.0000000000 0.5004000000 0.9204000000 0.1757200000  Biso 1.0 O  6 a
+O10 1.0000000000 0.8069000000 0.9611000000 0.1575000000  Biso 1.0 O  6 a
+O11 1.0000000000 0.7659000000 0.2265000000 0.1895600000  Biso 1.0 O  6 a
+O12 1.0000000000 0.6783000000 0.0991000000 0.0841300000  Biso 1.0 O  6 a
+P13 1.0000000000 0.7005900000 0.0552700000 0.1491600000  Biso 1.0 P  6 a
+P14 1.0000000000 0.3123000000 0.8975100000 0.1496700000  Biso 1.0 P  6 a

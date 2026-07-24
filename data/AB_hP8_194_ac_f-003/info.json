@@ -1,30 +1,36 @@
 {
-    "uid": "JV7G",
-    "label": "AB_hP8_194_ac_f-003",
-    "alias": null,
-    "title": "LiO Structure",
-    "icsd": "25530",
-    "ccdc": null,
-    "prototype": "LiO",
-    "prototype_tex": "LiO",
-    "number_of_species": 2,
-    "pearson_symbol": "hP8",
-    "space_group_number": 194,
-    "strukturbericht": null,
-    "strukturbericht_tex": null,
-    "part": 4,
-    "parameter_symbols": [
-        "a",
-        "c/a",
-        "z3"
-    ],
-    "parameter_values": [
-        3.142,
-        2.43475,
-        0.648
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": null,
-    "comments": "(Feh\\'{e}r, 1953) and (F\\\"{o}ppl, 1957) presented competing structures for LiO, both in space group $P\\overline{6}$ \\#174.  First-principles calculation by (Cota, 2005) and (Chen, 2011) suggest that the F\\\"{o}ppl structure is correct, but show that the proper space group is $P6_{3}/mmc$ \\#194.  This is generally held to be the correct structure, {\\em e.g.} (Jain, 2013).  We use the symmetrization of F\\\"{o}ppl's original data made by (Cota, 2005). \n The ICSD entry is from F\\\"{o}ppl, 1957), updated to make the space group $P6_{3}/mmc$."
+  "uid": "JV7G",
+  "label": "AB_hP8_194_ac_f-003",
+  "alias": null,
+  "title": "LiO Structure",
+  "icsd": 25530,
+  "ccdc": 1601184,
+  "prototype": "LiO",
+  "prototype_tex": "LiO",
+  "number_of_species": 2,
+  "pearson_symbol": "hP8",
+  "space_group_number": 194,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 4,
+  "parameter_symbols": [
+    "a",
+    "c/a",
+    "z3"
+  ],
+  "parameter_values": [
+    3.142,
+    2.43475,
+    0.648
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": [
+    "$\\beta$-KTe",
+    "$\\beta$-NaS",
+    "$\\beta$-NaTe"
+  ],
+  "legacy": false,
+  "notes": null,
+  "comments": "(Feh\\'{e}r, 1953) and (F\\\"{o}ppl, 1957) presented competing structures for LiO, both in space group $P\\overline{6}$ \\#174.  First-principles calculation by (Cota, 2005) and (Chen, 2011) suggest that the F\\\"{o}ppl structure is correct, but show that the proper space group is $P6_{3}/mmc$ \\#194.  This is generally held to be the correct structure, {\\em e.g.} (Jain, 2013).  We use the symmetrization of F\\\"{o}ppl's original data made by (Cota, 2005). \n The ICSD entry is from F\\\"{o}ppl, 1957), updated to make the space group $P6_{3}/mmc$."
 }

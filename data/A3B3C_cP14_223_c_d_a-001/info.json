@@ -4,7 +4,7 @@
     "alias": null,
     "title": "SrB$_{3}$C$_{3}$ Clathrate Structure",
     "icsd": null,
-    "ccdc": "1949948",
+    "ccdc": 1949948,
     "prototype": "B3C3Sr",
     "prototype_tex": "B$_{3}$C$_{3}$Sr",
     "number_of_species": 3,
@@ -14,12 +14,14 @@
     "strukturbericht_tex": null,
     "part": 4,
     "parameter_symbols": [
-        "a"
+	"a"
     ],
     "parameter_values": [
-        4.609
+	4.609
     ],
-    "compounds": {},
+    "mineral_name": null,
+    "minerals": null,
+    "compounds": null,
     "legacy": false,
     "notes": "Clathrate",
     "comments": null

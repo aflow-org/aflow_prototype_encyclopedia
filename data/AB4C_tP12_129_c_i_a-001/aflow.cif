@@ -12,8 +12,8 @@
 
 # Last updated on 2024/08/01
 
-data_Br2H8N2
-_pd_phase_name Br2H8N2
+data_NH4Br
+_pd_phase_name NH4Br
 _cell_length_a  5.8260000000
 _cell_length_b  5.8260000000
 _cell_length_c  4.1360000000
@@ -52,6 +52,6 @@ loop_
  _atom_site_type_symbol
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
-N3 1.0000000000 0.7500000000 0.2500000000 0.0000000000  Biso 1.0 N 2 a
+N3  1.0000000000 0.7500000000 0.2500000000 0.0000000000  Biso 1.0 N  2 a
 Br1 1.0000000000 0.2500000000 0.2500000000 0.4800000000  Biso 1.0 Br 2 c
-H2 1.0000000000 0.2500000000 0.8970000000 0.1470000000  Biso 1.0 H 8 i
+H2  1.0000000000 0.2500000000 0.8970000000 0.1470000000  Biso 1.0 H  8 i

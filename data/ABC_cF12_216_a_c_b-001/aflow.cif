@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/ABC_cF12_216_a_c_b-001
 
 # Last updated on 2024/08/01
-data_Ag4As4Mg4
-_pd_phase_name Ag4As4Mg4
+data_AgAsMg
+_pd_phase_name AgAsMg
 _cell_length_a  6.2400000000
 _cell_length_b  6.2400000000
 _cell_length_c  6.2400000000

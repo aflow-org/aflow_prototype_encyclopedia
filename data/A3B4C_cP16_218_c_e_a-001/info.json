@@ -1,30 +1,32 @@
 {
-    "uid": "X143",
-    "label": "A3B4C_cP16_218_c_e_a-001",
-    "alias": [
-        "A3B4C_cP16_218_c_e_a"
-    ],
-    "title": "Ag$_{3}$(PO$_{4}$) ($H2_{1}$) Structure",
-    "icsd": "14000",
-    "ccdc": null,
-    "prototype": "Ag3O4P",
-    "prototype_tex": "Ag$_{3}$O$_{4}$P",
-    "number_of_species": 3,
-    "pearson_symbol": "cP16",
-    "space_group_number": 218,
-    "strukturbericht": "H2_1",
-    "strukturbericht_tex": "$H2_{1}$",
-    "part": 2,
-    "parameter_symbols": [
-        "a",
-        "x3"
-    ],
-    "parameter_values": [
-        6.026,
-        0.6486
-    ],
-    "compounds": {},
-    "legacy": false,
-    "notes": "$H2_{1}$",
-    "comments": null
+  "uid": "X143",
+  "label": "A3B4C_cP16_218_c_e_a-001",
+  "alias": [
+    "A3B4C_cP16_218_c_e_a"
+  ],
+  "title": "Ag$_{3}$(PO$_{4}$) ($H2_{1}$) Structure",
+  "icsd": 14000,
+  "ccdc": 1595415,
+  "prototype": "Ag3O4P",
+  "prototype_tex": "Ag$_{3}$O$_{4}$P",
+  "number_of_species": 3,
+  "pearson_symbol": "cP16",
+  "space_group_number": 218,
+  "strukturbericht": "H21",
+  "strukturbericht_tex": "$H2_{1}$",
+  "part": 2,
+  "parameter_symbols": [
+    "a",
+    "x3"
+  ],
+  "parameter_values": [
+    6.026,
+    0.6486
+  ],
+  "mineral_name": null,
+  "minerals": null,
+  "compounds": null,
+  "legacy": false,
+  "notes": "$H2_{1}$",
+  "comments": null
 }

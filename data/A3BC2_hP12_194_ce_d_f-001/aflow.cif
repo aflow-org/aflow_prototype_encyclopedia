@@ -10,10 +10,10 @@
 # The current version of this file is available at
 # https://aflow.org/prototype-encyclopedia/A3BC2_hP12_194_ce_d_f-001
 
-# Last updated on 2024/08/02
+# Last updated on 2025/04/17
 
-data_Fe6Ge2Te4
-_pd_phase_name Fe6Ge2Te4
+data_Fe3GeTe2
+_pd_phase_name Fe3GeTe2
 _cell_length_a  3.9910000000
 _cell_length_b  3.9910000000
 _cell_length_c  16.3300000000
@@ -60,7 +60,7 @@ loop_
  _atom_site_type_symbol
  _atom_site_symmetry_multiplicity
  _atom_site_Wyckoff_label
-Fe1 1.0000000000 0.3333333333 0.6666666667 0.2500000000  Biso 1.0 Fe 2 c
-Ge3 1.0000000000 0.3333333333 0.6666666667 0.7500000000  Biso 1.0 Ge 2 d
-Fe2 1.0000000000 0.0000033333 0.9999966667 0.6718000000  Biso 1.0 Fe 4 e
+Fe1 0.8300000000 0.3333333333 0.6666666667 0.2500000000  Biso 1.0 Fe 2 c
+Ge3 0.9900000000 0.3333333333 0.6666666667 0.7500000000  Biso 1.0 Ge 2 d
+Fe2 1.0000000000 0.0000000000 0.0000000000 0.6718000000  Biso 1.0 Fe 4 e
 Te4 1.0000000000 0.3333333333 0.6666666667 0.4098200000  Biso 1.0 Te 4 f

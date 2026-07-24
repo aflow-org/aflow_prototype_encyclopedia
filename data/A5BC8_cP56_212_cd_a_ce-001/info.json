@@ -1,0 +1,51 @@
+{
+  "uid": "694R",
+  "label": "A5BC8_cP56_212_cd_a_ce-001",
+  "alias": [
+    ""
+  ],
+  "title": "${\\alpha}$-LiFe$_{5}$O$_{8}$ Structure",
+  "icsd": 162806,
+  "ccdc": 1679109,
+  "prototype": "Fe5LiO8",
+  "prototype_tex": "Fe$_{5}$LiO$_{8}$",
+  "number_of_species": 3,
+  "elements": [
+    "Fe",
+    "Li",
+    "O"
+  ],
+  "pearson_symbol": "oP56",
+  "space_group_number": 212,
+  "strukturbericht": null,
+  "strukturbericht_tex": null,
+  "part": 5,
+  "parameter_symbols": [
+    "a",
+    "x2",
+    "x3",
+    "y4",
+    "x5",
+    "y5",
+    "z5"
+  ],
+  "parameter_values": [
+    8.3339,
+    0.4978,
+    0.8848,
+    0.6324,
+    0.6169,
+    0.6278,
+    0.8839
+  ],
+  "mineral_name": null,
+  "minerals": {},
+  "compounds": [
+    "LiAl$_{5}$O$_{8}$",
+    "LiGa$_{5}$O$_{8}$",
+    "TeCo$_{5}$O$_{8}$"
+  ],
+  "legacy": false,
+  "notes": "${\\alpha}$-LiFe$_{5}$O$_{8}$",
+  "comments": "This is the spinel-like low temperature structure of LiFe$_{5}$O$_{8}$.  Above 720-750$^{\\circ}$C the lithium and iron sites are randomly distributed on the cobalt sites of the \\href{current_web_home_dir/A3B4_cF56_227_ad_e-001}{$D7_{2}$ cubic spinel structure} (Iliev, 2011). \n \\href{current_web_home_dir/A3B2CD8_cP56_212_d_c_a_ce-001}{Li$_{2}$NiGe$_{3}$O$_{5}$} is an ordered quaternary form of this structure. \n Space group $P4_{3}32$ \\#212 is a \\href{current_web_home_dir/Tutorials/ChiralSpaceGroups/}{Sohncke Class II chiral space group}, so this structure may also be found in the enantiomorphic space group $P4_{1}32$ \\#213."
+}

@@ -12,8 +12,8 @@
 # https://aflow.org/prototype-encyclopedia/A_oF128_70_4h-001
 
 # Last updated on 2024/08/01
-data_S128
-_pd_phase_name S128
+data_S
+_pd_phase_name S
 _cell_length_a  24.4860000000
 _cell_length_b  10.4646000000
 _cell_length_c  12.8660000000
