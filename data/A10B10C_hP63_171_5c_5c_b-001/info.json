@@ -88,5 +88,5 @@
   "compounds": null,
   "legacy": false,
   "notes": null,
-  "comments": "Space group \\href{current_web_home_dir/hexagonal_spacegroup.html#sg171}{$P6_{2}$ \\#171} is \\href{current_web_home_dir/Tutorials/ChiralSpaceGroups/index.html#ClassII}{chiral, Sohncke Class II}.  A mirror reflection of this structure will put it in the enantiomorphic space group \\href{current_web_home_dir/hexagonal_spacegroup.html#sg172}{$P6_{4}$ \\#172}.  Each structure has the same energy, which orientation will form depends upon the formation process."
+  "comments": "Space group \\href{current_web_home_dir/hexagonal_spacegroup.html#sg171}{$P6_{2}$ \\#171} is \\href{current_web_home_dir/Tutorials/ChiralSpaceGroups#ClassII}{chiral, Sohncke Class II}.  A mirror reflection of this structure will put it in the enantiomorphic space group \\href{current_web_home_dir/hexagonal_spacegroup.html#sg172}{$P6_{4}$ \\#172}.  Each structure has the same energy, which orientation will form depends upon the formation process."
 }

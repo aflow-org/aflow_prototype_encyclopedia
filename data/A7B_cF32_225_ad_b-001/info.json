@@ -33,5 +33,5 @@
   ],
   "legacy": false,
   "notes": null,
-  "comments": "The \\href{current_web_home_dir/Tutorials/AFLOW_Prototype_Label/index.html#LabelOrder}{AFLOW prototype label protocol} shifts the origin by (a/2,a/2,a/2) which places the Ca I atom on the (4a) site rather than the Ge I atom specified by (Helleis, 1963)"
+  "comments": "The \\href{current_web_home_dir/Tutorials/AFLOW_Prototype_Label#LabelOrder}{AFLOW prototype label protocol} shifts the origin by (a/2,a/2,a/2) which places the Ca I atom on the (4a) site rather than the Ge I atom specified by (Helleis, 1963)"
 }
