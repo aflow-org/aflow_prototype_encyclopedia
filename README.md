@@ -1,5 +1,6 @@
 # AFLOW prototype encyclopedia - data collection
 
+[![Paper](https://img.shields.io/badge/ComMatSci-2026.115022-0B51B1?logo=elsevier&logoColor=white)](https://doi.org/10.1016/j.commatsci.2026.115022)
 [![Paper](https://img.shields.io/badge/ComMatSci-2024.112988-0B51B1?logo=elsevier&logoColor=white)](https://doi.org/10.1016/j.commatsci.2024.112988)
 [![Paper](https://img.shields.io/badge/ComMatSci-2021.110450-0B51B1?logo=elsevier&logoColor=white)](https://doi.org/10.1016/j.commatsci.2021.110450)
 [![Paper](https://img.shields.io/badge/ComMatSci-2018.10.043-0B51B1?logo=elsevier&logoColor=white)](https://doi.org/10.1016/j.commatsci.2018.10.043)
@@ -16,6 +17,12 @@
 ## References
 The data presented here was published in [Computational Materials Science](https://www.sciencedirect.com/journal/computational-materials-science):
 
+> **The AFLOW Library of Crystallographic Prototypes: Part 5**  
+> N. H. Anderson, M. J. Mehl, H. Eckert, S. Divilov, X. Campilongo and S. Curtarolo  
+> *Computational Materials Science* **275**, 115022 (2026).  
+> [DOI: 10.1016/j.commatsci.2026.115022](https://doi.org/10.1016/j.commatsci.2026.115022)
+> | [BibTeX](references/part_05.bib)
+> 
 > **The AFLOW Library of Crystallographic Prototypes: Part 4**  
 > H. Eckert, S. Divilov, M.J. Mehl, M. Esters, A.C. Zettel, X. Campilongo, D. Hicks, and S. Curtarolo  
 > *Computational Materials Science* **240**, 112988 (2024).  
@@ -41,7 +48,7 @@ The data presented here was published in [Computational Materials Science](https
 > | [BibTeX](references/part_01.bib) 
 
 ## License for this data collection
-   Copyright 2025 M.J. Mehl, H. Eckert, S. Curtarolo
+   Copyright 2026 M.J. Mehl, H. Eckert, S. Curtarolo
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
