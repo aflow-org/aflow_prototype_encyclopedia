@@ -32,5 +32,5 @@
   "compounds": null,
   "legacy": false,
   "notes": null,
-  "comments": "The paired Cd-II and Cd-III sites are never simultaneously occupied. The Cd-II site is filled 53.5\\% of the time, and Cd-III 46.5\\%. For approximate first-principles calculations one could average the two positions. \n Space group $P23$ \\#195 is \\href{current_web_home_dir/Tutorials/ChiralSpaceGroups/index.html#ClassIII}{chiral, Sohncke Class III}, so this structure could be found in a mirror image configuration in the same space group."
+  "comments": "The paired Cd-II and Cd-III sites are never simultaneously occupied. The Cd-II site is filled 53.5\\% of the time, and Cd-III 46.5\\%. For approximate first-principles calculations one could average the two positions. \n Space group $P23$ \\#195 is \\href{current_web_home_dir/Tutorials/ChiralSpaceGroups#ClassIII}{chiral, Sohncke Class III}, so this structure could be found in a mirror image configuration in the same space group."
 }

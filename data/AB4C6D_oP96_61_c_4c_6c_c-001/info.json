@@ -120,5 +120,5 @@
   ],
   "legacy": false,
   "notes": "Variscite",
-  "comments": "Variscite is a derivative of \\href{current_web_home_dir/Tutorials/SiO2_AlPO4}{AlPO$_{4}$} with tetrahedral AlO$_{4}$ structures replaced by octahedral AlO$_{4}$(H$_{2}$O)$_{2}$. \n There are many varieties (Ardit, 2022).  We chose the current structure, variscite 10, as it is the one listed in the \\href{current_web_home_dir/https://rruff.geo.arizona.edu/AMS/amcsd.php}{American Mineralogist Crystal Structure Database (AMCSD)} and can therefore be regarded as the primary structure. \n The compounds list is arranged so that the first atom replaces aluminum and the second replaces phosphorous."
+  "comments": "Variscite is a derivative of \\href{current_web_home_dir/Tutorials/SiO2_AlPO4}{AlPO$_{4}$} with tetrahedral AlO$_{4}$ structures replaced by octahedral AlO$_{4}$(H$_{2}$O)$_{2}$. \n There are many varieties (Ardit, 2022).  We chose the current structure, variscite 10, as it is the one listed in the \\href{https://rruff.geo.arizona.edu/AMS/amcsd.php}{American Mineralogist Crystal Structure Database (AMCSD)} and can therefore be regarded as the primary structure. \n The compounds list is arranged so that the first atom replaces aluminum and the second replaces phosphorous."
 }

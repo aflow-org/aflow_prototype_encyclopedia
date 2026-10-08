@@ -46,5 +46,5 @@
   "compounds": null,
   "legacy": false,
   "notes": "$\\alpha$ Tridymite",
-  "comments": "Tridymite undergoes \\href{current_web_home_dir/Tutorials/SiO2_AlPO4/index.html#Tridymite}{a series of temperature-driven phase transitions}. We also have and extensive list of the many phases of \\href{current_web_home_dir/Tutorials/SiO2_AlPO4}{SiO$_{2}$ and related compounds}. \n (Dollase, 1967) used a non-standard origin for the atomic positions, so there has been a considerable rearrangement of the coordinates, even from the previous version of this file.  We have chosen the ordering of the axes so that it is obvious that the primitive base-centered orthorhombic lattice is very close to a tetragonal primitive lattice."
+  "comments": "Tridymite undergoes \\href{current_web_home_dir/Tutorials/SiO2_AlPO4#Tridymite}{a series of temperature-driven phase transitions}. We also have and extensive list of the many phases of \\href{current_web_home_dir/Tutorials/SiO2_AlPO4}{SiO$_{2}$ and related compounds}. \n (Dollase, 1967) used a non-standard origin for the atomic positions, so there has been a considerable rearrangement of the coordinates, even from the previous version of this file.  We have chosen the ordering of the axes so that it is obvious that the primitive base-centered orthorhombic lattice is very close to a tetragonal primitive lattice."
 }
